@@ -40,6 +40,8 @@ But the error rates were still high. Large chunks of text couldn't be extracted.
 
 For the first four or five books, I extracted text using Paddle OCR, then manually copy-pasted and reassembled chunks in Gemini's AI Studio. I did this for a couple of thousand pages. Very quickly, my eyes started hurting. That's when I discovered you could use LLM APIs directly to extract clean text.
 
+After K showed me how to use LLM APIs to extract text, he jokingly said: "That's one small step for man, one giant leap for you." It was funny—but also painfully true.
+
 That's essentially the backstory of this project.
 
 Right now, I'm doing this alone. I'd love to turn this into a volunteer effort someday.
