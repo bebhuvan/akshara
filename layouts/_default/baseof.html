@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{ partial "head.html" . }}
+</head>
+<body{{ if eq .Type "books" }} class="book-page"{{ end }}>
+    {{ block "main" . }}{{ end }}
+</body>
+</html>

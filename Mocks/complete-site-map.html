@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akshara - Complete Design System</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 100px 80px;
+        }
+
+        h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 72px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            margin-bottom: 24px;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: var(--smoke);
+            max-width: 680px;
+            line-height: 1.75;
+            font-weight: 300;
+            margin-bottom: 100px;
+        }
+
+        .section {
+            margin-bottom: 100px;
+        }
+
+        .section-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 36px;
+            font-weight: 400;
+            margin-bottom: 48px;
+        }
+
+        .pages-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 48px;
+        }
+
+        .page-card {
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+            padding: 32px;
+            background: var(--cream);
+            border-radius: 8px;
+        }
+
+        .page-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 12px 32px rgba(26, 20, 18, 0.08);
+        }
+
+        .page-number {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            margin-bottom: 16px;
+            font-weight: 500;
+        }
+
+        .page-name {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 24px;
+            font-weight: 400;
+            margin-bottom: 12px;
+            letter-spacing: -0.01em;
+        }
+
+        .page-description {
+            font-size: 14px;
+            color: var(--smoke);
+            line-height: 1.7;
+            font-weight: 300;
+            margin-bottom: 16px;
+        }
+
+        .page-features {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 16px;
+        }
+
+        .feature-tag {
+            font-size: 11px;
+            padding: 4px 10px;
+            background: var(--paper);
+            color: var(--smoke);
+            border-radius: 4px;
+            font-weight: 400;
+        }
+
+        .tech-stack {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 80px;
+            margin: 100px -80px 0;
+            border-radius: 12px;
+        }
+
+        .tech-stack h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 36px;
+            font-weight: 400;
+            margin-bottom: 48px;
+        }
+
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 48px;
+        }
+
+        .tech-item h3 {
+            font-size: 15px;
+            font-weight: 500;
+            margin-bottom: 12px;
+        }
+
+        .tech-item p {
+            font-size: 14px;
+            color: var(--ash);
+            line-height: 1.6;
+            font-weight: 300;
+        }
+
+        @media (max-width: 1024px) {
+            .container {
+                padding: 80px 48px;
+            }
+
+            h1 {
+                font-size: 56px;
+            }
+
+            .pages-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .tech-stack {
+                margin: 80px -48px 0;
+                padding: 60px 48px;
+            }
+
+            .tech-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 640px) {
+            h1 {
+                font-size: 44px;
+            }
+
+            .pages-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Akshara Design System</h1>
+            <p class="subtitle">Complete page templates for a sophisticated Indian literary archive. Warm typography, minimal interfaces, and reading experiences that matter.</p>
+        </header>
+
+        <!-- Core Pages -->
+        <section class="section">
+            <h2 class="section-title">Core Pages</h2>
+            <div class="pages-grid">
+                <a href="elevated-landing.html" class="page-card">
+                    <div class="page-number">01 — Core</div>
+                    <h3 class="page-name">Landing Page</h3>
+                    <p class="page-description">Archive homepage with hero, featured book quote, black collections section, recent additions</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Hero stats</span>
+                        <span class="feature-tag">Numbered collections</span>
+                        <span class="feature-tag">Featured quote</span>
+                    </div>
+                </a>
+
+                <a href="elevated-book-hub.html" class="page-card">
+                    <div class="page-number">02 — Core</div>
+                    <h3 class="page-name">Book Hub</h3>
+                    <p class="page-description">Book introduction with sticky cover, metadata, TOC, downloads, context, and Archive.org embed</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Sticky cover</span>
+                        <span class="feature-tag">Reading time</span>
+                        <span class="feature-tag">Quick meta</span>
+                    </div>
+                </a>
+
+                <a href="elevated-reading.html" class="page-card">
+                    <div class="page-number">03 — Core</div>
+                    <h3 class="page-name">Reading Experience</h3>
+                    <p class="page-description">Full immersion reading with focus mode, keyboard shortcuts, progress tracking, position memory</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Focus mode (F)</span>
+                        <span class="feature-tag">Keyboard nav</span>
+                        <span class="feature-tag">Position memory</span>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- Discovery Pages -->
+        <section class="section">
+            <h2 class="section-title">Discovery & Browse</h2>
+            <div class="pages-grid">
+                <a href="browse-books.html" class="page-card">
+                    <div class="page-number">04 — Browse</div>
+                    <h3 class="page-name">All Books</h3>
+                    <p class="page-description">Complete catalog with search, filters (period, genre, language), sorting, grid/list views</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Search bar</span>
+                        <span class="feature-tag">Multi-filter</span>
+                        <span class="feature-tag">View toggle</span>
+                    </div>
+                </a>
+
+                <a href="collections.html" class="page-card">
+                    <div class="page-number">05 — Browse</div>
+                    <h3 class="page-name">Collections Directory</h3>
+                    <p class="page-description">Overview of all thematic collections with descriptions, featured collection highlight</p>
+                    <div class="page-features">
+                        <span class="feature-tag">8 collections</span>
+                        <span class="feature-tag">Featured hero</span>
+                        <span class="feature-tag">Big numbers</span>
+                    </div>
+                </a>
+
+                <a href="collection-page.html" class="page-card">
+                    <div class="page-number">06 — Browse</div>
+                    <h3 class="page-name">Individual Collection</h3>
+                    <p class="page-description">Single collection page with context, stats, historical background, all books, sorting</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Context box</span>
+                        <span class="feature-tag">Sort options</span>
+                        <span class="feature-tag">Stats</span>
+                    </div>
+                </a>
+
+                <a href="authors-directory.html" class="page-card">
+                    <div class="page-number">07 — Browse</div>
+                    <h3 class="page-name">Authors Directory</h3>
+                    <p class="page-description">Alphabetical author listing with filters, work counts, dates, stats bar</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Alphabet nav</span>
+                        <span class="feature-tag">Genre filters</span>
+                        <span class="feature-tag">Stats bar</span>
+                    </div>
+                </a>
+
+                <a href="author-page.html" class="page-card">
+                    <div class="page-number">08 — Browse</div>
+                    <h3 class="page-name">Author Page</h3>
+                    <p class="page-description">Individual author with biography, works, timeline, stats, external references</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Timeline</span>
+                        <span class="feature-tag">Works grid</span>
+                        <span class="feature-tag">References</span>
+                    </div>
+                </a>
+
+                <a href="by-period.html" class="page-card">
+                    <div class="page-number">09 — Browse</div>
+                    <h3 class="page-name">Browse by Period</h3>
+                    <p class="page-description">Timeline-based browsing with three periods, historical context, stats per era</p>
+                    <div class="page-features">
+                        <span class="feature-tag">3 periods</span>
+                        <span class="feature-tag">Context boxes</span>
+                        <span class="feature-tag">Era stats</span>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- Utility Pages -->
+        <section class="section">
+            <h2 class="section-title">Search & Utility</h2>
+            <div class="pages-grid">
+                <a href="search-results.html" class="page-card">
+                    <div class="page-number">10 — Utility</div>
+                    <h3 class="page-name">Search Results</h3>
+                    <p class="page-description">Search results with filters, result types (books, authors, chapters), rich previews</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Type filters</span>
+                        <span class="feature-tag">Excerpts</span>
+                        <span class="feature-tag">Metadata</span>
+                    </div>
+                </a>
+
+                <a href="about.html" class="page-card">
+                    <div class="page-number">11 — Utility</div>
+                    <h3 class="page-name">About</h3>
+                    <p class="page-description">Mission, values, methodology (6-step process), how to contribute, contact info</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Process grid</span>
+                        <span class="feature-tag">Contribute</span>
+                        <span class="feature-tag">Contact</span>
+                    </div>
+                </a>
+
+                <a href="404.html" class="page-card">
+                    <div class="page-number">12 — Utility</div>
+                    <h3 class="page-name">404 Error</h3>
+                    <p class="page-description">Warm, helpful 404 page with navigation suggestions and clear action buttons</p>
+                    <div class="page-features">
+                        <span class="feature-tag">Ghost number</span>
+                        <span class="feature-tag">Suggestions</span>
+                        <span class="feature-tag">Actions</span>
+                    </div>
+                </a>
+            </div>
+        </section>
+
+        <!-- Tech Stack -->
+        <section class="tech-stack">
+            <h2>Implementation Guide</h2>
+            <div class="tech-grid">
+                <div class="tech-item">
+                    <h3>Static Site Generator</h3>
+                    <p>Hugo for fast builds. Content in Markdown. Git-based workflow. Build times under 5 seconds for hundreds of books.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Typography</h3>
+                    <p>Libre Baskerville (reading) + Inter (UI). Google Fonts with variable weights. Screen-optimized for extended reading.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Deployment</h3>
+                    <p>Cloudflare Pages with automatic Git integration. Global CDN. R2 for EPUBs and large assets. Edge caching.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Search</h3>
+                    <p>Pagefind for client-side search. No server needed. Works offline. Indexes all content at build time.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Color Palette</h3>
+                    <p>Warm paper (#fffef9), ink (#1a1412), terracotta accent (#c85a3a). Smoke and ash grays. Theme variations for dark/sepia.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Performance</h3>
+                    <p>Minimal JavaScript. Critical CSS inlined. Progressive enhancement. Lazy loading. Service Worker for offline reading.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Reading Features</h3>
+                    <p>Focus mode, keyboard shortcuts (T/S/F/arrows), reading time estimates, progress tracking, position memory via LocalStorage.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Content Structure</h3>
+                    <p>books/[slug]/_index.md for metadata, chapters/ subdirectory. Front matter for year, author, language, themes.</p>
+                </div>
+
+                <div class="tech-item">
+                    <h3>Mobile First</h3>
+                    <p>Designed for mobile-majority traffic. Touch-friendly controls. Responsive typography. Optimized for 3G networks.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>

@@ -1,0 +1,166 @@
+{{ define "main" }}
+<!-- Progress Bar -->
+<div class="progress" id="progress"></div>
+
+<!-- Top Bar - Minimal -->
+<div class="top-bar" id="topBar">
+    {{ $book := .Parent }}
+    {{ $chapters := where $book.Pages "Type" "chapters" }}
+    {{ $totalChapters := len $chapters }}
+
+    <a href="{{ $book.RelPermalink }}" class="back-link">← {{ $book.Title }}</a>
+
+    <div class="chapter-info">
+        Chapter {{ .Params.chapter_number }} of {{ $totalChapters }}
+    </div>
+
+    <button class="menu-btn" onclick="toggleMenu()" aria-label="Menu">☰</button>
+</div>
+
+<!-- Reading Container -->
+<main class="reading" data-book-slug="{{ $book.File.BaseFileName }}" data-chapter-id="{{ .File.UniqueID }}">
+    <header class="chapter-header">
+        <div class="chapter-number">{{ .Params.chapter_number | default "I" }}</div>
+        <h1 class="chapter-title">{{ .Title }}</h1>
+    </header>
+
+    <article class="text">
+        {{ .Content }}
+    </article>
+
+    <!-- Chapter Navigation -->
+    <nav class="chapter-nav">
+        {{ with .Params.prev }}
+        <a href="{{ . }}" class="nav-link prev">
+            {{ with $.Site.GetPage . }}
+            <span class="nav-label">← Previous</span>
+            <span class="nav-title">{{ .Title }}</span>
+            {{ end }}
+        </a>
+        {{ end }}
+
+        {{ with .Params.next }}
+        <a href="{{ . }}" class="nav-link next">
+            {{ with $.Site.GetPage . }}
+            <span class="nav-label">Next →</span>
+            <span class="nav-title">{{ .Title }}</span>
+            {{ end }}
+        </a>
+        {{ end }}
+    </nav>
+</main>
+
+<!-- Menu Panel (replaces TOC + Controls) -->
+<aside class="menu-panel" id="menuPanel">
+    {{ $book := .Parent }}
+    {{ $chapters := where $book.Pages "Type" "chapters" }}
+
+    <div class="menu-header">
+        <h2>Menu</h2>
+        <button class="menu-close" onclick="toggleMenu()">×</button>
+    </div>
+
+    <div class="menu-content">
+        <!-- Search Section -->
+        <div class="menu-section">
+            <h3 class="menu-section-title">Search</h3>
+            <a href="/search" class="search-in-menu-btn">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <path d="m21 21-4.35-4.35"></path>
+                </svg>
+                <span>Search all books</span>
+            </a>
+        </div>
+
+        <!-- Table of Contents Section -->
+        <div class="menu-section">
+            <h3 class="menu-section-title">Contents</h3>
+            <div class="menu-book-info">
+                <div class="menu-book-title">{{ $book.Title }}</div>
+                <div class="menu-book-author">{{ $book.Params.editor | default $book.Params.author }}</div>
+                <div class="menu-progress">
+                    {{ .Params.chapter_number }} of {{ len $chapters }} ·
+                    {{ $progress := div (mul .Params.chapter_number 100) (len $chapters) }}
+                    {{ $progress }}% complete
+                </div>
+            </div>
+            <ul class="menu-toc-list">
+                {{ range $chapters.ByWeight }}
+                <li>
+                    <a href="{{ .RelPermalink }}"{{ if eq .File.UniqueID $.File.UniqueID }} class="current"{{ end }}>
+                        <span class="menu-toc-num">{{ .Params.chapter_number }}</span>
+                        <span class="menu-toc-title">{{ .Title }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- Reading Settings Section -->
+        <div class="menu-section">
+            <h3 class="menu-section-title">Reading Settings</h3>
+
+            <div class="setting-group">
+                <label class="setting-label">Font Size</label>
+                <div class="setting-buttons">
+                    <button class="setting-btn" onclick="adjustSize(-2)">A</button>
+                    <button class="setting-btn active" onclick="adjustSize(0)">A</button>
+                    <button class="setting-btn" onclick="adjustSize(2)">A</button>
+                </div>
+            </div>
+
+            <div class="setting-group">
+                <label class="setting-label">Theme</label>
+                <div class="setting-buttons">
+                    <button class="setting-btn active" onclick="setTheme('light')">Light</button>
+                    <button class="setting-btn" onclick="setTheme('dark')">Dark</button>
+                    <button class="setting-btn" onclick="setTheme('sepia')">Sepia</button>
+                </div>
+            </div>
+
+            <div class="setting-group">
+                <button class="focus-mode-btn" onclick="toggleFocusMode()">
+                    Enter Focus Mode
+                </button>
+            </div>
+        </div>
+
+        <!-- Keyboard Shortcuts Section -->
+        <div class="menu-section">
+            <h3 class="menu-section-title">Keyboard Shortcuts</h3>
+            <dl class="shortcuts-list">
+                <div class="shortcut-item">
+                    <dt>M</dt>
+                    <dd>Toggle Menu</dd>
+                </div>
+                <div class="shortcut-item">
+                    <dt>F</dt>
+                    <dd>Focus Mode</dd>
+                </div>
+                <div class="shortcut-item">
+                    <dt>←</dt>
+                    <dd>Previous Chapter</dd>
+                </div>
+                <div class="shortcut-item">
+                    <dt>→</dt>
+                    <dd>Next Chapter</dd>
+                </div>
+                <div class="shortcut-item">
+                    <dt>Esc</dt>
+                    <dd>Close Menu / Exit Focus</dd>
+                </div>
+            </dl>
+        </div>
+    </div>
+</aside>
+
+<!-- Overlay -->
+<div class="overlay" id="overlay" onclick="toggleMenu()"></div>
+
+<!-- Keyboard Shortcut Hint -->
+<div class="shortcut-hint" id="shortcutHint"></div>
+
+<!-- Reading interactions -->
+<script src="/js/reading.js"></script>
+{{ end }}

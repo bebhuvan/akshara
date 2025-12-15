@@ -1,0 +1,33 @@
+# Akshara - Cloudflare Workers Configuration
+# Docs: https://developers.cloudflare.com/workers/wrangler/configuration/
+
+name = "akshara"
+main = "src/index.js"
+compatibility_date = "2025-05-26"
+
+# Build configuration - runs during CF Workers deployment
+[build]
+command = "chmod +x scripts/build.sh && ./scripts/build.sh"
+
+# Static assets configuration
+[assets]
+directory = "./public"
+binding = "ASSETS"
+not_found_handling = "404-page"
+
+# Production environment
+[env.production]
+name = "akshara"
+routes = [
+  { pattern = "akshara.ink/*", zone_name = "akshara.ink" }
+]
+
+[env.production.vars]
+ENVIRONMENT = "production"
+
+# Preview/staging environment (optional)
+[env.preview]
+name = "akshara-preview"
+
+[env.preview.vars]
+ENVIRONMENT = "preview"

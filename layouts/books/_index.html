@@ -1,0 +1,18 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<main class="books-list-page">
+    <div class="page-header">
+        <h1>All Books</h1>
+        <p class="page-subtitle">Browse our complete collection of Indian literature</p>
+    </div>
+
+    <div class="books-grid">
+        {{ range .Sections }}
+            {{ partial "book-card.html" . }}
+        {{ end }}
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+{{ end }}

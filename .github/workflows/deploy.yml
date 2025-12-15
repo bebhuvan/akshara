@@ -1,0 +1,64 @@
+# Akshara - Deploy to Cloudflare Workers
+# This workflow builds the Hugo site and deploys to CF Workers
+# Recommended approach per https://www.brycewray.com/posts/2025/07/hugo-sites-cloudflare-workers-or-not/
+
+name: Deploy to Cloudflare Workers
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # Allow manual triggers
+
+# Cancel in-progress runs for the same branch
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  HUGO_VERSION: "0.139.3"
+  NODE_VERSION: "20"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for .GitInfo
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install Hugo
+        run: |
+          wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz
+          tar -xzf hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz hugo
+          sudo mv hugo /usr/local/bin/
+          hugo version
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Hugo site
+        run: |
+          hugo --gc --minify
+          echo "Generated $(find public -name '*.html' | wc -l) HTML files"
+
+      - name: Build search index
+        run: npx pagefind --site public --output-path public/pagefind
+
+      - name: Deploy to Cloudflare Workers
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy --env production

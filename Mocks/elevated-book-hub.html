@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Experiments with Truth</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            text-rendering: optimizeLegibility;
+        }
+
+        /* Header */
+        .header {
+            padding: 28px 80px;
+            background: var(--paper);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .breadcrumb {
+            font-size: 13px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        .breadcrumb a {
+            color: var(--smoke);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .breadcrumb a:hover {
+            color: var(--terracotta);
+        }
+
+        /* Hero */
+        .hero {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 140px 80px;
+            display: grid;
+            grid-template-columns: 420px 1fr;
+            gap: 140px;
+            align-items: start;
+        }
+
+        .book-cover-area {
+            position: sticky;
+            top: 140px;
+        }
+
+        .book-cover {
+            aspect-ratio: 2/3;
+            background: var(--cream);
+            margin-bottom: 32px;
+            box-shadow: 0 12px 48px rgba(26, 20, 18, 0.12);
+        }
+
+        .book-meta-compact {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 20px;
+        }
+
+        .meta-item-compact {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .meta-label-compact {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .meta-value-compact {
+            font-size: 14px;
+            color: var(--ink);
+            font-weight: 300;
+        }
+
+        .book-info h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 80px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.02em;
+            margin-bottom: 28px;
+        }
+
+        .book-author {
+            font-size: 22px;
+            color: var(--smoke);
+            margin-bottom: 60px;
+            font-weight: 300;
+        }
+
+        .actions {
+            display: flex;
+            gap: 48px;
+            align-items: center;
+            margin-bottom: 80px;
+        }
+
+        .btn-start {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            color: var(--ink);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            letter-spacing: 0.03em;
+            transition: all 0.3s ease;
+        }
+
+        .btn-start::after {
+            content: '→';
+            transition: transform 0.3s ease;
+        }
+
+        .btn-start:hover {
+            color: var(--terracotta);
+        }
+
+        .btn-start:hover::after {
+            transform: translateX(4px);
+        }
+
+        .btn-secondary {
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            transition: color 0.3s ease;
+        }
+
+        .btn-secondary:hover {
+            color: var(--terracotta);
+        }
+
+        .quick-meta {
+            display: flex;
+            gap: 48px;
+            padding: 32px 0;
+            border-top: 1px solid var(--sand);
+            border-bottom: 1px solid var(--sand);
+            margin-bottom: 80px;
+        }
+
+        .quick-meta-item {
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+        }
+
+        .quick-label {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .quick-value {
+            font-size: 15px;
+            color: var(--ink);
+            font-weight: 300;
+        }
+
+        /* Content */
+        .main-content {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 0 80px 200px;
+            display: grid;
+            grid-template-columns: 1fr 340px;
+            gap: 140px;
+        }
+
+        .section {
+            margin-bottom: 140px;
+        }
+
+        .section:last-child {
+            margin-bottom: 0;
+        }
+
+        .section-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 36px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            margin-bottom: 48px;
+        }
+
+        .context-text {
+            font-size: 17px;
+            line-height: 1.8;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        .context-text p {
+            margin-bottom: 1.8em;
+        }
+
+        /* TOC */
+        .toc-list {
+            list-style: none;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 28px 60px;
+        }
+
+        .toc-item a {
+            display: flex;
+            gap: 16px;
+            align-items: baseline;
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 15px;
+            font-weight: 300;
+            transition: color 0.3s ease;
+        }
+
+        .toc-item a:hover {
+            color: var(--terracotta);
+        }
+
+        .toc-num {
+            font-family: 'Libre Baskerville', serif;
+            color: var(--ash);
+            min-width: 32px;
+            font-variant-numeric: tabular-nums;
+            font-size: 14px;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            display: flex;
+            flex-direction: column;
+            gap: 80px;
+        }
+
+        .sidebar-section {
+            display: flex;
+            flex-direction: column;
+            gap: 24px;
+        }
+
+        .sidebar-title {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--smoke);
+            font-weight: 600;
+        }
+
+        .download-list,
+        .reference-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+        }
+
+        .download-item a,
+        .reference-item a {
+            display: flex;
+            justify-content: space-between;
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 300;
+            padding: 12px 0;
+            transition: color 0.3s ease;
+        }
+
+        .download-item a:hover,
+        .reference-item a:hover {
+            color: var(--terracotta);
+        }
+
+        .download-size {
+            color: var(--ash);
+            font-size: 12px;
+        }
+
+        .digitization-note {
+            font-size: 13px;
+            line-height: 1.75;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Archive Embed */
+        .archive-embed {
+            width: 100%;
+            height: 640px;
+            background: var(--cream);
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .hero {
+                grid-template-columns: 1fr;
+                gap: 80px;
+                padding: 100px 48px;
+            }
+
+            .book-cover-area {
+                position: static;
+                max-width: 420px;
+            }
+
+            .book-info h1 {
+                font-size: 64px;
+            }
+
+            .main-content {
+                grid-template-columns: 1fr;
+                gap: 100px;
+                padding: 0 48px 160px;
+            }
+
+            .toc-list {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .header {
+                padding: 24px 32px;
+            }
+
+            .hero {
+                padding: 80px 32px;
+            }
+
+            .book-info h1 {
+                font-size: 44px;
+            }
+
+            .quick-meta {
+                flex-direction: column;
+                gap: 24px;
+            }
+
+            .actions {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 24px;
+            }
+
+            .main-content {
+                padding: 0 32px 120px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="elevated-landing.html" class="logo">AKSHARA</a>
+            <nav class="breadcrumb">
+                <a href="elevated-landing.html">Home</a> / 
+                <a href="#">Gandhi</a> / 
+                My Experiments with Truth
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <div class="book-cover-area">
+            <div class="book-cover"></div>
+            <div class="book-meta-compact">
+                <div class="meta-item-compact">
+                    <div class="meta-label-compact">Published</div>
+                    <div class="meta-value-compact">1927</div>
+                </div>
+                <div class="meta-item-compact">
+                    <div class="meta-label-compact">Language</div>
+                    <div class="meta-value-compact">English</div>
+                </div>
+                <div class="meta-item-compact">
+                    <div class="meta-label-compact">Translator</div>
+                    <div class="meta-value-compact">Mahadev Desai</div>
+                </div>
+                <div class="meta-item-compact">
+                    <div class="meta-label-compact">Pages</div>
+                    <div class="meta-value-compact">454</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="book-info">
+            <h1>My Experiments with Truth</h1>
+            <p class="book-author">Mahatma Gandhi</p>
+            
+            <div class="actions">
+                <a href="elevated-reading.html" class="btn-start">Begin Reading</a>
+                <a href="#toc" class="btn-secondary">Table of Contents</a>
+            </div>
+
+            <div class="quick-meta">
+                <div class="quick-meta-item">
+                    <div class="quick-label">Reading Time</div>
+                    <div class="quick-value">~8 hours</div>
+                </div>
+                <div class="quick-meta-item">
+                    <div class="quick-label">Chapters</div>
+                    <div class="quick-value">164</div>
+                </div>
+                <div class="quick-meta-item">
+                    <div class="quick-label">Period</div>
+                    <div class="quick-value">1869–1921</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        <div class="content-primary">
+            <!-- Context -->
+            <section class="section">
+                <h2 class="section-title">About This Work</h2>
+                <div class="context-text">
+                    <p>Originally serialized in Gujarati in Gandhi's weekly journal Navajivan between 1925 and 1929, My Experiments with Truth stands as one of the most influential autobiographies of the 20th century. Gandhi chronicles his life from his birth in 1869 through 1921, offering an unflinchingly honest account of his moral and spiritual development.</p>
+
+                    <p>The autobiography reveals Gandhi's transformation from a shy, uncertain youth to the leader of India's independence movement. He writes candidly about his failures and mistakes—his struggles with physical desire, his early vanity, his experiments with diet and lifestyle—presenting them not as confessions but as lessons learned in his lifelong pursuit of truth and self-improvement.</p>
+
+                    <p>Written during his imprisonment, the work reflects Gandhi's belief that one's personal life cannot be separated from one's public actions. His concept of satyagraha and his commitment to non-violence emerge not as abstract political philosophies but as hard-won insights derived from personal experience and spiritual practice.</p>
+
+                    <p>Mahadev Desai's English translation, first published in 1927, maintains the directness and simplicity of Gandhi's prose while making his ideas accessible to a global audience. The work profoundly influenced leaders and activists worldwide, from Martin Luther King Jr. to Nelson Mandela, establishing Gandhi as a moral exemplar whose methods transcended cultural and historical boundaries.</p>
+                </div>
+            </section>
+
+            <!-- TOC -->
+            <section class="section" id="toc">
+                <h2 class="section-title">Contents</h2>
+                <ul class="toc-list">
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">1</span>
+                            <span>Birth and Parentage</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">2</span>
+                            <span>Childhood</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">3</span>
+                            <span>Child Marriage</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">4</span>
+                            <span>Playing the Husband</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">5</span>
+                            <span>At the High School</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">6</span>
+                            <span>A Tragedy</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">7</span>
+                            <span>A Tragedy (Continued)</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">8</span>
+                            <span>Stealing and Atonement</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">9</span>
+                            <span>My Father's Death</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">10</span>
+                            <span>Religious Ferment</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">11</span>
+                            <span>Preparation for England</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">12</span>
+                            <span>Outcaste</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">13</span>
+                            <span>In London at Last</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">14</span>
+                            <span>My Choice</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">15</span>
+                            <span>Playing the English Gentleman</span>
+                        </a>
+                    </li>
+                    <li class="toc-item">
+                        <a href="#">
+                            <span class="toc-num">16</span>
+                            <span>Changes</span>
+                        </a>
+                    </li>
+                </ul>
+            </section>
+
+            <!-- Archive -->
+            <section class="section">
+                <h2 class="section-title">Original Source</h2>
+                <div class="archive-embed"></div>
+            </section>
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Download</h3>
+                <ul class="download-list">
+                    <li class="download-item">
+                        <a href="#">
+                            <span>EPUB</span>
+                            <span class="download-size">1.2 MB</span>
+                        </a>
+                    </li>
+                    <li class="download-item">
+                        <a href="#">
+                            <span>Markdown</span>
+                            <span class="download-size">487 KB</span>
+                        </a>
+                    </li>
+                    <li class="download-item">
+                        <a href="#">
+                            <span>Plain Text</span>
+                            <span class="download-size">412 KB</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">References</h3>
+                <ul class="reference-list">
+                    <li class="reference-item">
+                        <a href="#">Wikipedia: The Story of My Experiments</a>
+                    </li>
+                    <li class="reference-item">
+                        <a href="#">Wikipedia: Mahatma Gandhi</a>
+                    </li>
+                    <li class="reference-item">
+                        <a href="#">Wikisource (Original Gujarati)</a>
+                    </li>
+                    <li class="reference-item">
+                        <a href="#">Archive.org Source</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-title">Digitization</h3>
+                <p class="digitization-note">
+                    Digitized from a 1948 edition scanned by Archive.org. Processed using Tesseract OCR, manually corrected for accuracy, and formatted in Markdown. Historical spelling and punctuation preserved.
+                </p>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>

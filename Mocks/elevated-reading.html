@@ -1,0 +1,888 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Child Marriage</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Libre Baskerville', serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.8;
+            font-size: 21px;
+            font-weight: 400;
+            -webkit-font-smoothing: antialiased;
+            text-rendering: optimizeLegibility;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        /* Custom selection */
+        ::selection {
+            background: rgba(200, 90, 58, 0.2);
+            color: var(--ink);
+        }
+
+        /* Progress */
+        .progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 2px;
+            background: var(--terracotta);
+            width: 0%;
+            z-index: 200;
+            transition: width 0.1s ease-out;
+        }
+
+        /* Top Bar */
+        .top-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 254, 249, 0.95);
+            backdrop-filter: blur(20px);
+            z-index: 100;
+            transition: transform 0.3s ease, opacity 0.3s ease;
+        }
+
+        .top-bar.hidden {
+            transform: translateY(-100%);
+            opacity: 0;
+        }
+
+        body.focus-mode .top-bar {
+            transform: translateY(-100%);
+            opacity: 0;
+        }
+
+        .top-bar-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 20px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .top-left {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .back {
+            font-family: 'Inter', sans-serif;
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            transition: color 0.3s ease;
+        }
+
+        .back:hover {
+            color: var(--terracotta);
+        }
+
+        .book-compact {
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        .top-center {
+            font-family: 'Inter', sans-serif;
+            font-size: 12px;
+            color: var(--ash);
+            font-weight: 300;
+        }
+
+        .reading-time {
+            color: var(--terracotta);
+            font-weight: 400;
+        }
+
+        .top-right {
+            display: flex;
+            gap: 24px;
+        }
+
+        .top-btn {
+            font-family: 'Inter', sans-serif;
+            background: transparent;
+            border: none;
+            color: var(--smoke);
+            cursor: pointer;
+            font-size: 13px;
+            font-weight: 400;
+            transition: color 0.3s ease;
+            padding: 0;
+        }
+
+        .top-btn:hover {
+            color: var(--terracotta);
+        }
+
+        /* Reading Container */
+        .reading {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 200px 80px 280px;
+            transition: padding 0.3s ease;
+        }
+
+        body.focus-mode .reading {
+            padding-top: 120px;
+        }
+
+        /* Chapter Header */
+        .chapter-header {
+            margin-bottom: 140px;
+        }
+
+        .chapter-number {
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--ash);
+            margin-bottom: 48px;
+            font-weight: 500;
+        }
+
+        .chapter-title {
+            font-size: 68px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.02em;
+        }
+
+        .chapter-meta {
+            font-family: 'Inter', sans-serif;
+            font-size: 12px;
+            color: var(--ash);
+            margin-top: 32px;
+            font-weight: 300;
+        }
+
+        /* Reading Text */
+        .text p {
+            margin-bottom: 1.8em;
+        }
+
+        .text p:first-of-type {
+            font-size: 24px;
+            line-height: 1.7;
+        }
+
+        .text p:first-of-type::first-letter {
+            font-size: 5.2em;
+            line-height: 0.85;
+            float: left;
+            margin: 0.05em 0.12em 0 -0.02em;
+            font-weight: 400;
+            color: var(--terracotta);
+        }
+
+        /* Chapter Navigation */
+        .chapter-nav {
+            margin-top: 180px;
+            padding-top: 80px;
+            display: flex;
+            justify-content: space-between;
+            gap: 60px;
+        }
+
+        .nav-link {
+            flex: 1;
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 14px;
+            padding: 32px 0;
+        }
+
+        .nav-link:hover {
+            color: var(--terracotta);
+            transform: translateY(-4px);
+        }
+
+        .nav-label {
+            font-family: 'Inter', sans-serif;
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .nav-title {
+            font-size: 22px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+        }
+
+        .nav-link.next {
+            text-align: right;
+            align-items: flex-end;
+        }
+
+        /* TOC Drawer */
+        .toc {
+            position: fixed;
+            left: -480px;
+            top: 0;
+            width: 480px;
+            height: 100vh;
+            background: var(--paper);
+            z-index: 150;
+            overflow-y: auto;
+            transition: left 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 4px 0 32px rgba(26, 20, 18, 0.08);
+        }
+
+        .toc.open {
+            left: 0;
+        }
+
+        .toc-header {
+            padding: 56px 56px 48px;
+            background: var(--paper);
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+
+        .toc-book {
+            font-size: 22px;
+            font-weight: 400;
+            margin-bottom: 8px;
+            letter-spacing: -0.01em;
+        }
+
+        .toc-author {
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+            color: var(--smoke);
+            font-weight: 300;
+            margin-bottom: 24px;
+        }
+
+        .toc-progress {
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            color: var(--ash);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+            font-weight: 500;
+        }
+
+        .toc-progress-bar {
+            height: 2px;
+            background: var(--sand);
+            margin-top: 12px;
+            overflow: hidden;
+        }
+
+        .toc-progress-fill {
+            height: 100%;
+            background: var(--terracotta);
+            width: 18%;
+            transition: width 0.3s ease;
+        }
+
+        .toc-close {
+            position: absolute;
+            top: 56px;
+            right: 56px;
+            background: transparent;
+            border: none;
+            font-size: 28px;
+            color: var(--smoke);
+            cursor: pointer;
+            padding: 0;
+            transition: color 0.3s ease;
+            line-height: 1;
+        }
+
+        .toc-close:hover {
+            color: var(--terracotta);
+        }
+
+        .toc-content {
+            padding: 0 56px 100px;
+        }
+
+        .toc-section-title {
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            margin-bottom: 28px;
+            font-weight: 500;
+        }
+
+        .toc-list {
+            list-style: none;
+        }
+
+        .toc-list li {
+            margin-bottom: 4px;
+        }
+
+        .toc-list a {
+            display: flex;
+            gap: 20px;
+            padding: 14px 20px;
+            text-decoration: none;
+            color: var(--smoke);
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+            font-weight: 300;
+            transition: all 0.3s ease;
+            border-radius: 6px;
+        }
+
+        .toc-list a:hover {
+            background: var(--cream);
+            color: var(--ink);
+        }
+
+        .toc-list a.current {
+            background: rgba(200, 90, 58, 0.08);
+            color: var(--terracotta);
+            font-weight: 400;
+        }
+
+        .toc-num {
+            font-variant-numeric: tabular-nums;
+            min-width: 28px;
+            color: var(--ash);
+        }
+
+        /* Reading Controls */
+        .controls {
+            position: fixed;
+            bottom: 56px;
+            right: 80px;
+            background: var(--paper);
+            padding: 20px 28px;
+            z-index: 50;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: all 0.3s ease;
+            box-shadow: 0 12px 48px rgba(26, 20, 18, 0.12);
+            border-radius: 12px;
+        }
+
+        .controls.visible {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        body.focus-mode .controls {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .controls-inner {
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .control-group {
+            display: flex;
+            gap: 20px;
+        }
+
+        .control-btn {
+            background: transparent;
+            border: none;
+            color: var(--smoke);
+            cursor: pointer;
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            font-weight: 400;
+            padding: 0;
+            transition: color 0.3s ease;
+        }
+
+        .control-btn:hover {
+            color: var(--terracotta);
+        }
+
+        .control-btn.active {
+            color: var(--ink);
+            font-weight: 500;
+        }
+
+        .control-separator {
+            width: 1px;
+            height: 20px;
+            background: var(--sand);
+        }
+
+        /* Overlay */
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(26, 20, 18, 0.25);
+            z-index: 140;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .overlay.show {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        /* Focus Mode */
+        body.focus-mode {
+            background: var(--paper);
+        }
+
+        /* Theme variations */
+        body.dark {
+            --ink: #f5f2ec;
+            --paper: #1a1412;
+            --smoke: #9c948e;
+            --ash: #6b6560;
+            --sand: #3d3530;
+            --cream: #2d2520;
+            --terracotta: #e8754d;
+        }
+
+        body.sepia {
+            --ink: #2d2520;
+            --paper: #f5f1e8;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #d9d3c8;
+            --cream: #e8e3dd;
+            --terracotta: #b85a3a;
+        }
+
+        /* Keyboard shortcut indicator */
+        .shortcut-hint {
+            position: fixed;
+            bottom: 24px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--ink);
+            color: var(--paper);
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-family: 'Inter', sans-serif;
+            font-size: 12px;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+            z-index: 200;
+        }
+
+        .shortcut-hint.show {
+            opacity: 1;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .top-bar-inner,
+            .reading {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .controls {
+                right: 48px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .reading {
+                padding: 160px 32px 220px;
+            }
+
+            .chapter-title {
+                font-size: 48px;
+            }
+
+            .top-bar-inner {
+                padding: 16px 32px;
+            }
+
+            .top-left {
+                gap: 16px;
+            }
+
+            .book-compact {
+                display: none;
+            }
+
+            .toc {
+                width: 100%;
+                left: -100%;
+            }
+
+            .toc.open {
+                left: 0;
+            }
+
+            .controls {
+                left: 50%;
+                transform: translateX(-50%) translateY(20px);
+                right: auto;
+                bottom: 40px;
+            }
+
+            .controls.visible {
+                transform: translateX(-50%) translateY(0);
+            }
+
+            .chapter-nav {
+                flex-direction: column;
+            }
+
+            .nav-link.next {
+                text-align: left;
+                align-items: flex-start;
+            }
+        }
+
+        /* Print styles */
+        @media print {
+            .progress,
+            .top-bar,
+            .toc,
+            .controls,
+            .overlay,
+            .shortcut-hint {
+                display: none !important;
+            }
+
+            body {
+                background: white;
+                color: black;
+            }
+
+            .reading {
+                max-width: 100%;
+                padding: 0;
+            }
+
+            .chapter-header {
+                margin-bottom: 40px;
+            }
+
+            .text p {
+                page-break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Progress -->
+    <div class="progress" id="progress"></div>
+
+    <!-- Top Bar -->
+    <div class="top-bar" id="topBar">
+        <div class="top-bar-inner">
+            <div class="top-left">
+                <a href="elevated-book-hub.html" class="back">← Back</a>
+                <span class="book-compact">My Experiments with Truth</span>
+            </div>
+            <div class="top-center">
+                Chapter 3 of 164 · <span class="reading-time">~12 min</span>
+            </div>
+            <div class="top-right">
+                <button class="top-btn" onclick="toggleTOC()" title="Table of Contents (T)">Contents</button>
+                <button class="top-btn" onclick="toggleControls()" title="Settings (S)">Settings</button>
+                <button class="top-btn" onclick="toggleFocusMode()" title="Focus Mode (F)">Focus</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Reading Container -->
+    <main class="reading">
+        <header class="chapter-header">
+            <div class="chapter-number">Chapter Three</div>
+            <h1 class="chapter-title">Child Marriage</h1>
+            <div class="chapter-meta">~12 minute read</div>
+        </header>
+
+        <article class="text">
+            <p>Much as I wish that I had not to write this chapter, I know that I shall have to swallow many such bitter draughts in the course of this narrative. And I cannot do otherwise, if I claim to be a worshipper of Truth. It is my painful duty to have to record here my marriage at the age of thirteen. As I see the youngsters of the same age about me who are under my care, and think of my own marriage, I am inclined to pity myself and to congratulate them on having escaped my lot. I can see no moral argument in support of such a preposterously early marriage.</p>
+
+            <p>Let the reader make no mistake. I was married, not betrothed. For in Kathiawad there are two distinct rites—betrothal and marriage. Betrothal is a preliminary promise on the part of the parents of the boy and the girl to join them in marriage, and it is not infrequently broken. I am sure it was not difficult to break, if the state of things in Kathiawad in those days was similar to that prevailing amongst the higher classes of the Hindus in the Bombay Presidency at the present moment. But the marriage, once performed, is for ever binding.</p>
+
+            <p>It was my father's fond hope to celebrate the marriages of his three sons at the same time and place. This was a matter of great difficulty, as it involved considerable outlay. But my father's mind was set upon it, and he at last succeeded in his design. My elder brother had already been married, and therefore my own marriage and that of a cousin, a year or two older, as well as the remarriage of my elder brother, took place simultaneously.</p>
+
+            <p>Having made the decision, my father set about looking for a bride for me and my cousin. He naturally went to Porbandar, being the place of his birth. I do not know who found the bride for my cousin, but I do know that my father found mine for me. I think that in the native States more particularly, parents look more to the good looks of a bride and her parents' wealth than to her education. In my case, I know that there was no such thing as education, and certainly my father was not guided by any such consideration. The marriage of daughters on the part of the parents is a difficult problem, as I know from my own experience as a father. I am not writing this to argue the merits and demerits of child marriage. I am simply narrating what happened in my own life.</p>
+
+            <p>I can see two good grounds for the opposition to such early marriages. One is the fact that the marriage practically ends all chances of the further education of the bride and bridegroom. I have already said that I was put to a high school, but the marriage did not advance my education, though it did not mean a loss of the few months of school that would have been lost, had there been no marriage. My studies were probably disturbed and hampered to a certain extent. The second is, the marriage is entered into without the consent and often against the inclination of the parties married.</p>
+
+            <p>Be that as it may, it would be better for parents to defer their daughters' marriage until they are grown up. A girl's natural growth should not be retarded. When I look at the state of women in India, I think of my child-marriage and confess how humiliating it was for me. My wife was of the same age as myself, or rather seven months my senior. At the time we hardly knew the function marriage had to fulfil. We were the slaves of our elders, and we knew nothing, absolutely nothing, about the marriage tie.</p>
+        </article>
+
+        <nav class="chapter-nav">
+            <a href="#" class="nav-link prev">
+                <span class="nav-label">Previous</span>
+                <span class="nav-title">Childhood</span>
+            </a>
+            <a href="#" class="nav-link next">
+                <span class="nav-label">Next</span>
+                <span class="nav-title">Playing the Husband</span>
+            </a>
+        </nav>
+    </main>
+
+    <!-- TOC Drawer -->
+    <aside class="toc" id="toc">
+        <div class="toc-header">
+            <div class="toc-book">My Experiments with Truth</div>
+            <div class="toc-author">Mahatma Gandhi</div>
+            <div class="toc-progress">
+                3 of 164 chapters · 18% complete
+                <div class="toc-progress-bar">
+                    <div class="toc-progress-fill"></div>
+                </div>
+            </div>
+            <button class="toc-close" onclick="toggleTOC()">×</button>
+        </div>
+        <div class="toc-content">
+            <div class="toc-section-title">Chapters</div>
+            <ul class="toc-list">
+                <li><a href="#"><span class="toc-num">1</span><span>Birth and Parentage</span></a></li>
+                <li><a href="#"><span class="toc-num">2</span><span>Childhood</span></a></li>
+                <li><a href="#" class="current"><span class="toc-num">3</span><span>Child Marriage</span></a></li>
+                <li><a href="#"><span class="toc-num">4</span><span>Playing the Husband</span></a></li>
+                <li><a href="#"><span class="toc-num">5</span><span>At the High School</span></a></li>
+                <li><a href="#"><span class="toc-num">6</span><span>A Tragedy</span></a></li>
+                <li><a href="#"><span class="toc-num">7</span><span>A Tragedy (Continued)</span></a></li>
+                <li><a href="#"><span class="toc-num">8</span><span>Stealing and Atonement</span></a></li>
+                <li><a href="#"><span class="toc-num">9</span><span>My Father's Death</span></a></li>
+                <li><a href="#"><span class="toc-num">10</span><span>Religious Ferment</span></a></li>
+            </ul>
+        </div>
+    </aside>
+
+    <!-- Reading Controls -->
+    <div class="controls" id="controls">
+        <div class="controls-inner">
+            <div class="control-group">
+                <button class="control-btn" onclick="adjustSize(-2)">Smaller</button>
+                <button class="control-btn active" onclick="adjustSize(0)">Default</button>
+                <button class="control-btn" onclick="adjustSize(2)">Larger</button>
+            </div>
+            <div class="control-separator"></div>
+            <div class="control-group">
+                <button class="control-btn active" onclick="setTheme('light')">Light</button>
+                <button class="control-btn" onclick="setTheme('dark')">Dark</button>
+                <button class="control-btn" onclick="setTheme('sepia')">Sepia</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Overlay -->
+    <div class="overlay" id="overlay" onclick="closeAll()"></div>
+
+    <!-- Keyboard Shortcut Hint -->
+    <div class="shortcut-hint" id="shortcutHint"></div>
+
+    <script>
+        let fontSize = 21;
+        let scrollTimeout;
+        let topBarVisible = true;
+        let focusMode = false;
+
+        // Progress
+        function updateProgress() {
+            const windowHeight = window.innerHeight;
+            const documentHeight = document.documentElement.scrollHeight - windowHeight;
+            const scrolled = window.scrollY;
+            const progress = (scrolled / documentHeight) * 100;
+            document.getElementById('progress').style.width = progress + '%';
+        }
+
+        window.addEventListener('scroll', () => {
+            updateProgress();
+
+            // Auto-hide top bar
+            clearTimeout(scrollTimeout);
+            if (window.scrollY > 100 && !focusMode) {
+                document.getElementById('topBar').classList.add('hidden');
+                topBarVisible = false;
+            }
+            
+            scrollTimeout = setTimeout(() => {
+                if (!topBarVisible && !focusMode) {
+                    document.getElementById('topBar').classList.remove('hidden');
+                    topBarVisible = true;
+                }
+            }, 1500);
+        });
+
+        // Show controls on mouse move
+        let controlsTimeout;
+        document.addEventListener('mousemove', () => {
+            if (!focusMode) {
+                const controls = document.getElementById('controls');
+                controls.classList.add('visible');
+                
+                clearTimeout(controlsTimeout);
+                controlsTimeout = setTimeout(() => {
+                    controls.classList.remove('visible');
+                }, 3000);
+            }
+        });
+
+        // Initial show
+        setTimeout(() => {
+            if (!focusMode) {
+                document.getElementById('controls').classList.add('visible');
+            }
+        }, 1000);
+
+        function toggleTOC() {
+            const toc = document.getElementById('toc');
+            const overlay = document.getElementById('overlay');
+            toc.classList.toggle('open');
+            overlay.classList.toggle('show');
+        }
+
+        function toggleControls() {
+            const controls = document.getElementById('controls');
+            controls.classList.toggle('visible');
+        }
+
+        function toggleFocusMode() {
+            focusMode = !focusMode;
+            document.body.classList.toggle('focus-mode');
+            showShortcutHint(focusMode ? 'Focus mode on (Press F to exit)' : 'Focus mode off');
+        }
+
+        function closeAll() {
+            document.getElementById('toc').classList.remove('open');
+            document.getElementById('overlay').classList.remove('show');
+        }
+
+        function adjustSize(delta) {
+            if (delta === 0) {
+                fontSize = 21;
+            } else {
+                fontSize = Math.max(17, Math.min(27, fontSize + delta));
+            }
+            document.body.style.fontSize = fontSize + 'px';
+        }
+
+        function setTheme(theme) {
+            document.body.className = theme === 'light' ? '' : theme;
+            if (focusMode) {
+                document.body.classList.add('focus-mode');
+            }
+        }
+
+        function showShortcutHint(text) {
+            const hint = document.getElementById('shortcutHint');
+            hint.textContent = text;
+            hint.classList.add('show');
+            setTimeout(() => {
+                hint.classList.remove('show');
+            }, 2000);
+        }
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            // Ignore if typing in an input
+            if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+
+            switch(e.key.toLowerCase()) {
+                case 't':
+                    e.preventDefault();
+                    toggleTOC();
+                    showShortcutHint('Table of Contents');
+                    break;
+                case 's':
+                    e.preventDefault();
+                    toggleControls();
+                    showShortcutHint('Settings');
+                    break;
+                case 'f':
+                    e.preventDefault();
+                    toggleFocusMode();
+                    break;
+                case 'arrowleft':
+                    if (!e.shiftKey) {
+                        e.preventDefault();
+                        showShortcutHint('Previous chapter');
+                    }
+                    break;
+                case 'arrowright':
+                    if (!e.shiftKey) {
+                        e.preventDefault();
+                        showShortcutHint('Next chapter');
+                    }
+                    break;
+                case 'escape':
+                    closeAll();
+                    if (focusMode) toggleFocusMode();
+                    break;
+            }
+        });
+
+        // Remember scroll position
+        window.addEventListener('beforeunload', () => {
+            localStorage.setItem('scrollPos-chapter3', window.scrollY);
+        });
+
+        // Restore scroll position
+        window.addEventListener('load', () => {
+            const savedPos = localStorage.getItem('scrollPos-chapter3');
+            if (savedPos) {
+                window.scrollTo(0, parseInt(savedPos));
+            }
+            updateProgress();
+        });
+
+        // Smooth scroll behavior
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({ behavior: 'smooth' });
+                }
+            });
+        });
+    </script>
+</body>
+</html>

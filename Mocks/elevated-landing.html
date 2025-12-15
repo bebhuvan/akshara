@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+            --rust: #9d4426;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            text-rendering: optimizeLegibility;
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: rgba(255, 254, 249, 0.9);
+            backdrop-filter: blur(20px);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 28px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .nav {
+            display: flex;
+            gap: 56px;
+            align-items: center;
+        }
+
+        .nav a {
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            transition: color 0.3s ease;
+            position: relative;
+        }
+
+        .nav a::after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 0;
+            height: 1px;
+            background: var(--terracotta);
+            transition: width 0.3s ease;
+        }
+
+        .nav a:hover {
+            color: var(--terracotta);
+        }
+
+        .nav a:hover::after {
+            width: 100%;
+        }
+
+        /* Hero */
+        .hero {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 220px 80px 180px;
+        }
+
+        .hero-content {
+            max-width: 900px;
+        }
+
+        .hero h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 92px;
+            font-weight: 400;
+            line-height: 1.05;
+            letter-spacing: -0.02em;
+            margin-bottom: 40px;
+            color: var(--ink);
+        }
+
+        .hero h1 em {
+            font-style: italic;
+            color: var(--terracotta);
+        }
+
+        .hero-subtitle {
+            font-size: 19px;
+            color: var(--smoke);
+            max-width: 620px;
+            line-height: 1.75;
+            letter-spacing: -0.01em;
+            font-weight: 300;
+        }
+
+        .hero-stats {
+            margin-top: 100px;
+            display: flex;
+            gap: 100px;
+        }
+
+        .stat {
+            position: relative;
+        }
+
+        .stat-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 64px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            color: var(--ink);
+        }
+
+        .stat-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--ash);
+            margin-top: 8px;
+            font-weight: 500;
+        }
+
+        /* Featured */
+        .featured {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 0 80px 200px;
+        }
+
+        .featured-book {
+            display: grid;
+            grid-template-columns: 1.2fr 1fr;
+            gap: 0;
+            min-height: 680px;
+            position: relative;
+        }
+
+        .featured-book::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            left: 50%;
+            width: 1px;
+            background: linear-gradient(to bottom, transparent, var(--sand) 20%, var(--sand) 80%, transparent);
+        }
+
+        .featured-visual {
+            background: var(--cream);
+            padding: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .featured-visual::after {
+            content: '';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 300px;
+            height: 300px;
+            background: radial-gradient(circle, rgba(200, 90, 58, 0.08), transparent 70%);
+            transform: translate(-50%, -50%);
+        }
+
+        .featured-quote {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 28px;
+            line-height: 1.5;
+            font-style: italic;
+            color: var(--smoke);
+            text-align: center;
+            max-width: 500px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .featured-content {
+            padding: 80px 80px 80px 100px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .featured-label {
+            font-size: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.15em;
+            color: var(--terracotta);
+            margin-bottom: 32px;
+            font-weight: 600;
+        }
+
+        .featured-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 52px;
+            font-weight: 400;
+            line-height: 1.15;
+            letter-spacing: -0.01em;
+            margin-bottom: 20px;
+        }
+
+        .featured-author {
+            font-size: 17px;
+            color: var(--smoke);
+            margin-bottom: 40px;
+            font-weight: 300;
+        }
+
+        .featured-excerpt {
+            font-size: 15px;
+            line-height: 1.75;
+            color: var(--smoke);
+            margin-bottom: 48px;
+            font-weight: 300;
+        }
+
+        .btn-primary {
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            padding: 0;
+            color: var(--ink);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 500;
+            letter-spacing: 0.03em;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .btn-primary::after {
+            content: '→';
+            transition: transform 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            color: var(--terracotta);
+        }
+
+        .btn-primary:hover::after {
+            transform: translateX(4px);
+        }
+
+        /* Collections */
+        .collections {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 180px 80px;
+        }
+
+        .collections-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .section-header {
+            margin-bottom: 100px;
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+        }
+
+        .section-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 72px;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+        }
+
+        .section-link {
+            color: var(--ash);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            letter-spacing: 0.02em;
+            transition: color 0.3s ease;
+        }
+
+        .section-link:hover {
+            color: var(--terracotta);
+        }
+
+        .collections-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 80px 60px;
+        }
+
+        .collection-card {
+            text-decoration: none;
+            color: var(--paper);
+            transition: transform 0.3s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .collection-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .collection-card:hover .collection-name {
+            color: var(--terracotta);
+        }
+
+        .collection-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 80px;
+            font-weight: 400;
+            color: rgba(255, 254, 249, 0.1);
+            line-height: 1;
+            margin-bottom: 8px;
+        }
+
+        .collection-name {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 28px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            margin-bottom: 8px;
+            transition: color 0.3s ease;
+        }
+
+        .collection-count {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+            margin-bottom: 12px;
+        }
+
+        .collection-description {
+            font-size: 14px;
+            color: var(--ash);
+            line-height: 1.65;
+            font-weight: 300;
+        }
+
+        /* Recent */
+        .recent {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 180px 80px;
+        }
+
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            gap: 48px 32px;
+        }
+
+        .book-card {
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .book-card:hover {
+            transform: translateY(-8px);
+        }
+
+        .book-card:hover .book-cover {
+            box-shadow: 0 16px 48px rgba(26, 20, 18, 0.15);
+        }
+
+        .book-cover {
+            aspect-ratio: 2/3;
+            background: var(--cream);
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 16px rgba(26, 20, 18, 0.08);
+        }
+
+        .book-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 15px;
+            font-weight: 400;
+            margin-bottom: 6px;
+            line-height: 1.4;
+            letter-spacing: -0.01em;
+        }
+
+        .book-author {
+            font-size: 12px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Footer */
+        .footer {
+            background: var(--cream);
+            padding: 140px 80px 100px;
+        }
+
+        .footer-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr 1fr;
+            gap: 100px;
+        }
+
+        .footer h3 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 22px;
+            font-weight: 400;
+            margin-bottom: 20px;
+            letter-spacing: -0.01em;
+        }
+
+        .footer p {
+            color: var(--smoke);
+            font-size: 14px;
+            line-height: 1.75;
+            font-weight: 300;
+        }
+
+        .footer h4 {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            margin-bottom: 24px;
+            font-weight: 600;
+            color: var(--smoke);
+        }
+
+        .footer-links {
+            list-style: none;
+        }
+
+        .footer-links li {
+            margin-bottom: 14px;
+        }
+
+        .footer-links a {
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 300;
+            transition: color 0.3s ease;
+        }
+
+        .footer-links a:hover {
+            color: var(--terracotta);
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .header-inner,
+            .hero,
+            .featured,
+            .collections,
+            .recent,
+            .footer {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .hero h1 {
+                font-size: 72px;
+            }
+
+            .featured-book {
+                grid-template-columns: 1fr;
+            }
+
+            .featured-book::before {
+                display: none;
+            }
+
+            .featured-content {
+                padding: 80px 48px;
+            }
+
+            .collections-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .books-grid {
+                grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+            }
+
+            .footer-inner {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding: 160px 32px 120px;
+            }
+
+            .hero h1 {
+                font-size: 48px;
+            }
+
+            .hero-stats {
+                flex-direction: column;
+                gap: 48px;
+            }
+
+            .featured {
+                padding: 0 32px 120px;
+            }
+
+            .featured-visual {
+                padding: 60px 32px;
+            }
+
+            .collections {
+                padding: 120px 32px;
+            }
+
+            .collections-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .recent {
+                padding: 120px 32px;
+            }
+
+            .footer {
+                padding: 100px 32px 80px;
+            }
+
+            .footer-inner {
+                grid-template-columns: 1fr;
+                gap: 60px;
+            }
+
+            .nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="#" class="logo">AKSHARA</a>
+            <nav class="nav">
+                <a href="#">Browse</a>
+                <a href="#">Collections</a>
+                <a href="#">Authors</a>
+                <a href="#">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>An archive of Indian literature, <em>preserved</em> for generations</h1>
+            <p class="hero-subtitle">Hundreds of public domain works from 1847 to 1954, meticulously digitized and presented with reading experiences that honor the original texts.</p>
+        </div>
+        
+        <div class="hero-stats">
+            <div class="stat">
+                <div class="stat-number">247</div>
+                <div class="stat-label">Books</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">89</div>
+                <div class="stat-label">Authors</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">12</div>
+                <div class="stat-label">Languages</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Book -->
+    <section class="featured">
+        <div class="featured-book">
+            <div class="featured-visual">
+                <blockquote class="featured-quote">
+                    "I have nothing new to teach the world. Truth and non-violence are as old as the hills."
+                </blockquote>
+            </div>
+            <div class="featured-content">
+                <div class="featured-label">Recently Digitized</div>
+                <h2 class="featured-title">My Experiments with Truth</h2>
+                <p class="featured-author">Mahatma Gandhi, 1927</p>
+                <p class="featured-excerpt">An intimate autobiography chronicling Gandhi's spiritual and political awakening, from his childhood in Gujarat to his development of satyagraha in South Africa. A candid account of moral and spiritual growth.</p>
+                <a href="elevated-book-hub.html" class="btn-primary">Begin Reading</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Collections -->
+    <section class="collections">
+        <div class="collections-inner">
+            <div class="section-header">
+                <h2 class="section-title">Collections</h2>
+                <a href="#" class="section-link">View all →</a>
+            </div>
+
+            <div class="collections-grid">
+                <a href="#" class="collection-card">
+                    <div class="collection-number">01</div>
+                    <h3 class="collection-name">Freedom Struggle</h3>
+                    <div class="collection-count">42 Books</div>
+                    <p class="collection-description">Political treatises and personal accounts from India's independence movement</p>
+                </a>
+
+                <a href="#" class="collection-card">
+                    <div class="collection-number">02</div>
+                    <h3 class="collection-name">Early Literature</h3>
+                    <div class="collection-count">67 Books</div>
+                    <p class="collection-description">Novels, poetry, and essays from the late 19th and early 20th centuries</p>
+                </a>
+
+                <a href="#" class="collection-card">
+                    <div class="collection-number">03</div>
+                    <h3 class="collection-name">Drama & Theatre</h3>
+                    <div class="collection-count">28 Books</div>
+                    <p class="collection-description">Plays and theatrical works that shaped Indian performing arts</p>
+                </a>
+
+                <a href="#" class="collection-card">
+                    <div class="collection-number">04</div>
+                    <h3 class="collection-name">Social Reform</h3>
+                    <div class="collection-count">35 Books</div>
+                    <p class="collection-description">Progressive writings on education, women's rights, social transformation</p>
+                </a>
+
+                <a href="#" class="collection-card">
+                    <div class="collection-number">05</div>
+                    <h3 class="collection-name">Philosophy</h3>
+                    <div class="collection-count">41 Books</div>
+                    <p class="collection-description">Spiritual and philosophical texts exploring Indian thought traditions</p>
+                </a>
+
+                <a href="#" class="collection-card">
+                    <div class="collection-number">06</div>
+                    <h3 class="collection-name">Poetry</h3>
+                    <div class="collection-count">54 Books</div>
+                    <p class="collection-description">Verse collections from Tagore to lesser-known voices of the era</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recent Additions -->
+    <section class="recent">
+        <div class="section-header">
+            <h2 class="section-title">Recent Additions</h2>
+            <a href="#" class="section-link">View all books →</a>
+        </div>
+
+        <div class="books-grid">
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Gitanjali</h4>
+                <p class="book-author">Rabindranath Tagore</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">The Discovery of India</h4>
+                <p class="book-author">Jawaharlal Nehru</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Anandamath</h4>
+                <p class="book-author">Bankim Chandra</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Saraswatichandra</h4>
+                <p class="book-author">Govardhanram</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Essays on the Gita</h4>
+                <p class="book-author">Sri Aurobindo</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Kanthapura</h4>
+                <p class="book-author">Raja Rao</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Devdas</h4>
+                <p class="book-author">Sarat Chandra</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h4 class="book-title">Ghare Baire</h4>
+                <p class="book-author">Rabindranath Tagore</p>
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-inner">
+            <div>
+                <h3>Akshara</h3>
+                <p>A digital archive dedicated to preserving and sharing Indian public domain literature. Every book meticulously digitized from historical sources and presented with exceptional reading experiences.</p>
+            </div>
+
+            <div>
+                <h4>Browse</h4>
+                <ul class="footer-links">
+                    <li><a href="#">All Books</a></li>
+                    <li><a href="#">Collections</a></li>
+                    <li><a href="#">Authors</a></li>
+                    <li><a href="#">By Period</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4>About</h4>
+                <ul class="footer-links">
+                    <li><a href="#">Our Mission</a></li>
+                    <li><a href="#">Methodology</a></li>
+                    <li><a href="#">Contribute</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h4>Resources</h4>
+                <ul class="footer-links">
+                    <li><a href="#">EPUBs</a></li>
+                    <li><a href="#">Sources</a></li>
+                    <li><a href="#">API</a></li>
+                    <li><a href="#">GitHub</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

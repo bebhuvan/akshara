@@ -1,0 +1,70 @@
+<!-- Search Modal -->
+<div class="search-modal" id="searchModal">
+    <div class="search-modal-content">
+        <div class="search-header">
+            <div id="search"></div>
+            <button class="search-close" onclick="closeSearch()">×</button>
+        </div>
+    </div>
+</div>
+
+<!-- Pagefind Search -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            showImages: false,
+            excerptLength: 15
+        });
+
+        // Search toggle
+        const searchToggle = document.getElementById('searchToggle');
+        const searchModal = document.getElementById('searchModal');
+
+        if (searchToggle) {
+            searchToggle.addEventListener('click', openSearch);
+        }
+
+        // Keyboard shortcut - press / to open search
+        document.addEventListener('keydown', function(e) {
+            if (e.key === '/' && !e.ctrlKey && !e.metaKey) {
+                if (document.activeElement.tagName !== 'INPUT' &&
+                    document.activeElement.tagName !== 'TEXTAREA') {
+                    e.preventDefault();
+                    openSearch();
+                }
+            }
+            if (e.key === 'Escape') {
+                closeSearch();
+            }
+        });
+
+        // Close on overlay click
+        searchModal.addEventListener('click', function(e) {
+            if (e.target === searchModal) {
+                closeSearch();
+            }
+        });
+    });
+
+    function openSearch() {
+        const searchModal = document.getElementById('searchModal');
+        searchModal.classList.add('active');
+        document.body.style.overflow = 'hidden';
+
+        // Focus the search input
+        setTimeout(() => {
+            const searchInput = document.querySelector('#search input');
+            if (searchInput) searchInput.focus();
+        }, 100);
+    }
+
+    function closeSearch() {
+        const searchModal = document.getElementById('searchModal');
+        searchModal.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+</script>

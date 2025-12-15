@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freedom Struggle - Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: rgba(255, 254, 249, 0.9);
+            backdrop-filter: blur(20px);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 28px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .breadcrumb {
+            font-size: 13px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        .breadcrumb a {
+            color: var(--smoke);
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .breadcrumb a:hover {
+            color: var(--terracotta);
+        }
+
+        /* Hero */
+        .hero {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 200px 80px 120px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 100px;
+            align-items: start;
+        }
+
+        .hero-content h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 88px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            margin-bottom: 40px;
+        }
+
+        .hero-description {
+            font-size: 18px;
+            line-height: 1.75;
+            color: var(--smoke);
+            font-weight: 300;
+            margin-bottom: 48px;
+        }
+
+        .collection-stats {
+            display: flex;
+            gap: 60px;
+        }
+
+        .stat {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .stat-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 48px;
+            font-weight: 400;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .hero-context {
+            background: var(--cream);
+            padding: 48px;
+        }
+
+        .context-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            margin-bottom: 24px;
+            font-weight: 500;
+        }
+
+        .context-text {
+            font-size: 15px;
+            line-height: 1.75;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Books */
+        .books-section {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 100px 80px 200px;
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 60px;
+        }
+
+        .section-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 36px;
+            font-weight: 400;
+        }
+
+        .sort-by {
+            display: flex;
+            gap: 24px;
+            align-items: center;
+        }
+
+        .sort-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .sort-buttons {
+            display: flex;
+            gap: 16px;
+        }
+
+        .sort-btn {
+            background: transparent;
+            border: none;
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            color: var(--smoke);
+            cursor: pointer;
+            transition: color 0.3s ease;
+            font-weight: 400;
+        }
+
+        .sort-btn:hover {
+            color: var(--terracotta);
+        }
+
+        .sort-btn.active {
+            color: var(--ink);
+            font-weight: 500;
+        }
+
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 60px 40px;
+        }
+
+        .book-card {
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+        }
+
+        .book-card:hover {
+            transform: translateY(-8px);
+        }
+
+        .book-card:hover .book-cover {
+            box-shadow: 0 16px 48px rgba(26, 20, 18, 0.15);
+        }
+
+        .book-cover {
+            aspect-ratio: 2/3;
+            background: var(--cream);
+            margin-bottom: 20px;
+            box-shadow: 0 8px 32px rgba(26, 20, 18, 0.08);
+            transition: all 0.3s ease;
+        }
+
+        .book-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 16px;
+            font-weight: 400;
+            margin-bottom: 6px;
+            line-height: 1.4;
+            letter-spacing: -0.01em;
+        }
+
+        .book-author {
+            font-size: 12px;
+            color: var(--smoke);
+            margin-bottom: 4px;
+            font-weight: 300;
+        }
+
+        .book-year {
+            font-size: 11px;
+            color: var(--ash);
+            font-weight: 300;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header-inner,
+            .hero,
+            .books-section {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .hero {
+                grid-template-columns: 1fr;
+                gap: 60px;
+            }
+
+            .hero-content h1 {
+                font-size: 64px;
+            }
+
+            .books-grid {
+                grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+            }
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding-top: 160px;
+            }
+
+            .hero-content h1 {
+                font-size: 48px;
+            }
+
+            .collection-stats {
+                flex-direction: column;
+                gap: 32px;
+            }
+
+            .section-header {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="elevated-landing.html" class="logo">AKSHARA</a>
+            <nav class="breadcrumb">
+                <a href="elevated-landing.html">Home</a> / 
+                <a href="#">Collections</a> / 
+                Freedom Struggle
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <div class="hero-content">
+            <h1>Freedom Struggle</h1>
+            <p class="hero-description">Political treatises, personal memoirs, and revolutionary writings from India's independence movement. These works capture the intellectual and moral foundations of the struggle against colonial rule.</p>
+
+            <div class="collection-stats">
+                <div class="stat">
+                    <div class="stat-number">42</div>
+                    <div class="stat-label">Books</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">23</div>
+                    <div class="stat-label">Authors</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-number">1893</div>
+                    <div class="stat-label">Earliest</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="hero-context">
+            <div class="context-label">Historical Context</div>
+            <p class="context-text">From the late 19th century through 1954, Indian intellectuals and activists developed sophisticated arguments for self-rule and documented their resistance to British colonialism. These writings laid the philosophical groundwork for independence and influenced anti-colonial movements worldwide.</p>
+        </div>
+    </section>
+
+    <!-- Books -->
+    <section class="books-section">
+        <div class="section-header">
+            <h2 class="section-title">All Books</h2>
+            <div class="sort-by">
+                <div class="sort-label">Sort by</div>
+                <div class="sort-buttons">
+                    <button class="sort-btn active">Year</button>
+                    <button class="sort-btn">Title</button>
+                    <button class="sort-btn">Author</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="books-grid">
+            <a href="elevated-book-hub.html" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">My Experiments with Truth</h3>
+                <p class="book-author">Mahatma Gandhi</p>
+                <p class="book-year">1927</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Hind Swaraj</h3>
+                <p class="book-author">Mahatma Gandhi</p>
+                <p class="book-year">1909</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">The Discovery of India</h3>
+                <p class="book-author">Jawaharlal Nehru</p>
+                <p class="book-year">1946</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Glimpses of World History</h3>
+                <p class="book-author">Jawaharlal Nehru</p>
+                <p class="book-year">1934</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Anandamath</h3>
+                <p class="book-author">Bankim Chandra</p>
+                <p class="book-year">1882</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Satyagraha in South Africa</h3>
+                <p class="book-author">Mahatma Gandhi</p>
+                <p class="book-year">1928</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">India Wins Freedom</h3>
+                <p class="book-author">Maulana Azad</p>
+                <p class="book-year">1959</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">The Indian Struggle</h3>
+                <p class="book-author">Subhas Chandra Bose</p>
+                <p class="book-year">1935</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Constructive Programme</h3>
+                <p class="book-author">Mahatma Gandhi</p>
+                <p class="book-year">1941</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Bhagat Singh: The Jail Notebook</h3>
+                <p class="book-author">Bhagat Singh</p>
+                <p class="book-year">1929</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Gora</h3>
+                <p class="book-author">Rabindranath Tagore</p>
+                <p class="book-year">1910</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">The Home and the World</h3>
+                <p class="book-author">Rabindranath Tagore</p>
+                <p class="book-year">1916</p>
+            </a>
+        </div>
+    </section>
+</body>
+</html>

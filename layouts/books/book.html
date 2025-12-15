@@ -1,0 +1,303 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+{{/* Individual book page with chapters */}}
+<!-- Book Hero -->
+<section class="book-page-hero">
+    <div class="book-hero">
+        <div class="book-cover-area">
+            {{ with .Params.cover }}
+            <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover-large">
+            {{ else }}
+            <div class="book-cover-large">
+                <span>{{ substr .Title 0 1 }}</span>
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="book-info">
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.subtitle }}
+            <p class="book-subtitle">{{ . }}</p>
+            {{ end }}
+            {{ if .Params.editor }}
+            <p class="book-author-large">Edited by {{ .Params.editor }}</p>
+            {{ else }}
+            <p class="book-author-large">{{ .Params.author }}</p>
+            {{ end }}
+
+            {{ with .Params.description }}
+            <p class="book-description">{{ . }}</p>
+            {{ end }}
+
+            <div class="book-actions">
+                {{ $chapters := where .Pages "Type" "chapters" }}
+                {{ with $chapters }}
+                {{ $firstChapter := index . 0 }}
+                <a href="{{ $firstChapter.RelPermalink }}" class="btn-primary">Begin Reading</a>
+                {{ end }}
+                <a href="#toc" class="btn-secondary">Table of Contents</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Download Section -->
+<section class="download-card-section">
+    <div class="download-card">
+        <div class="download-card-header">
+            <h3 class="download-card-title">Download</h3>
+        </div>
+        <div class="download-buttons">
+            <a href="/downloads/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.epub" class="download-btn"
+                download>
+                <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                <span class="download-format">EPUB</span>
+            </a>
+            <a href="/downloads/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.pdf" class="download-btn"
+                download>
+                <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                <span class="download-format">PDF</span>
+            </a>
+            <a href="/downloads/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.md" class="download-btn"
+                download>
+                <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                <span class="download-format">Markdown</span>
+            </a>
+        </div>
+    </div>
+</section>
+
+<!-- Metadata Section -->
+<section class="book-metadata-section">
+    <div class="book-metadata">
+        <h3 class="metadata-title">Details</h3>
+        <div class="metadata-grid">
+            {{ with .Params.year }}
+            <div class="metadata-item">
+                <div class="metadata-label">Year Published</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.publisher }}
+            <div class="metadata-item">
+                <div class="metadata-label">Publisher</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.publication_location }}
+            <div class="metadata-item">
+                <div class="metadata-label">Location</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.pages }}
+            <div class="metadata-item">
+                <div class="metadata-label">Pages</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.chapters }}
+            <div class="metadata-item">
+                <div class="metadata-label">Chapters</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.language }}
+            <div class="metadata-item">
+                <div class="metadata-label">Language</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.original_language }}
+            <div class="metadata-item">
+                <div class="metadata-label">Original Language</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.reading_time }}
+            <div class="metadata-item">
+                <div class="metadata-label">Reading Time</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.period }}
+            <div class="metadata-item">
+                <div class="metadata-label">Historical Period</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+            {{ with .Params.printer }}
+            <div class="metadata-item">
+                <div class="metadata-label">Printer</div>
+                <div class="metadata-value">{{ . }}</div>
+            </div>
+            {{ end }}
+        </div>
+
+        {{ with .Params.dedication }}
+        <div class="dedication-section">
+            <div class="metadata-label">Dedication</div>
+            <p class="dedication-text">{{ . }}</p>
+        </div>
+        {{ end }}
+    </div>
+</section>
+
+<!-- Main Content -->
+<div class="main-content">
+    <div class="content-primary">
+        <!-- About -->
+        <section class="section">
+            <h2 class="section-title">About This Work</h2>
+            <div class="context-text">
+                {{ .Content }}
+            </div>
+        </section>
+
+        <!-- TOC -->
+        <section class="section" id="toc">
+            <h2 class="section-title">Contents</h2>
+            <ul class="toc-list">
+                {{ $chapters := where .Pages "Type" "chapters" }}
+                {{ range $chapters.ByWeight }}
+                <li class="toc-item">
+                    <a href="{{ .RelPermalink }}">
+                        <span class="toc-num">{{ .Params.chapter_number }}</span>
+                        <span>{{ .Title }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </section>
+
+        <!-- Archive Embed -->
+        {{ with .Params.archive_url }}
+        <section class="section">
+            <h2 class="section-title">Original Source</h2>
+            <iframe src="{{ . }}?view=theater" class="archive-embed" frameborder="0"></iframe>
+        </section>
+        {{ end }}
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <!-- Downloads -->
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">Download</h3>
+            <ul class="download-list">
+                {{ with .Params.download_epub }}
+                <li class="download-item">
+                    <a href="{{ . }}">EPUB</a>
+                </li>
+                {{ end }}
+                {{ with .Params.download_md }}
+                <li class="download-item">
+                    <a href="{{ . }}">Markdown</a>
+                </li>
+                {{ end }}
+                {{ with .Params.download_txt }}
+                <li class="download-item">
+                    <a href="{{ . }}">Plain Text</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- References -->
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">References</h3>
+            <ul class="reference-list">
+                {{ with .Params.wikipedia_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Wikipedia</a></li>
+                {{ end }}
+                {{ with .Params.author_wikipedia_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Wikipedia</a></li>
+                {{ end }}
+                {{ with .Params.editor_wikipedia_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Editor (Wikipedia)</a></li>
+                {{ end }}
+                {{ with .Params.wikisource_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Wikisource</a></li>
+                {{ end }}
+                {{ with .Params.archive_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Archive.org Source</a></li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- Source -->
+        {{ with .Params.digitized_from }}
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">Source</h3>
+            <p class="digitization-note">
+                Scanned by {{ . }}. Text extracted and cleaned for this edition. Historical spelling and punctuation
+                preserved.
+            </p>
+        </div>
+        {{ end }}
+
+        <!-- Edition Notice -->
+        <div class="sidebar-section edition-notice">
+            <h3 class="sidebar-title">
+                <svg class="notice-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <line x1="12" y1="8" x2="12" y2="12"></line>
+                    <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                </svg>
+                A Note on This Edition
+            </h3>
+            <div class="edition-notice-content">
+                <p>I've made this book readable using AI (Claude Haiku 4.5 and Gemini Flash 2.5) to extract text from
+                    scanned PDFs. In my experience, accuracy is typically around 85–95%. Since I run Akshara entirely on
+                    my own, I can't promise perfection, but I do run multiple passes to catch as many errors as
+                    possible.</p>
+
+                <p><strong>A few things to keep in mind:</strong></p>
+                <ul>
+                    <li>I maintain this project solo, so full manual verification just isn't feasible.</li>
+                    <li>Someday I hope to make Akshara crowdsourced, so readers can help improve things.</li>
+                    <li>Each book goes through 2–3 processing passes. I have no backers or sponsors, so I pay for all
+                        the API costs myself.</li>
+                </ul>
+
+                <p><strong>Known issues:</strong></p>
+                <ul class="known-issues">
+                    <li><em>Text:</em> missing chunks, repeated paragraphs, footnotes in wrong places, occasional AI
+                        hallucinations</li>
+                    <li><em>Formatting:</em> tables may be missing or poorly formatted, poetry may lose its structure
+                    </li>
+                    <li><em>Languages:</em> Sanskrit, Hindi, or other Indian language text may be missing or corrupted
+                    </li>
+                    <li><em>Sections:</em> indices, appendices, or end matter may be incomplete</li>
+                </ul>
+
+                <p>If something feels off, please check the <a href="{{ .Params.archive_url }}" target="_blank"
+                        rel="noopener">original PDF on Archive.org</a>.</p>
+
+                <p>This book is also on Google Docs. If you spot errors, leave a comment there and I'll fix it.</p>
+
+                <p class="edition-thanks">Thanks for reading, and thanks for visiting Akshara.</p>
+            </div>
+        </div>
+    </aside>
+</div>
+
+{{ partial "footer.html" . }}
+{{ end }}

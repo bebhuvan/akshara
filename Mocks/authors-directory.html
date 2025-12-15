@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authors - Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: rgba(255, 254, 249, 0.9);
+            backdrop-filter: blur(20px);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 28px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .nav {
+            display: flex;
+            gap: 56px;
+        }
+
+        .nav a {
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            transition: color 0.3s ease;
+        }
+
+        .nav a:hover {
+            color: var(--terracotta);
+        }
+
+        /* Hero */
+        .hero {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 200px 80px 100px;
+        }
+
+        .hero h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 88px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            margin-bottom: 32px;
+        }
+
+        .hero-subtitle {
+            font-size: 18px;
+            color: var(--smoke);
+            max-width: 600px;
+            font-weight: 300;
+            line-height: 1.75;
+        }
+
+        /* Filters */
+        .filters {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 0 80px 60px;
+            display: flex;
+            gap: 32px;
+            align-items: center;
+        }
+
+        .filter-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 16px;
+        }
+
+        .filter-btn {
+            background: transparent;
+            border: none;
+            padding: 10px 20px;
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            color: var(--smoke);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 400;
+        }
+
+        .filter-btn:hover {
+            color: var(--terracotta);
+        }
+
+        .filter-btn.active {
+            color: var(--ink);
+            background: var(--cream);
+            border-radius: 6px;
+            font-weight: 500;
+        }
+
+        /* Authors Grid */
+        .authors {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 60px 80px 200px;
+        }
+
+        .alphabet-section {
+            margin-bottom: 100px;
+        }
+
+        .alphabet-letter {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 64px;
+            font-weight: 400;
+            color: var(--terracotta);
+            margin-bottom: 48px;
+            opacity: 0.3;
+        }
+
+        .authors-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 48px 60px;
+        }
+
+        .author-card {
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+            padding: 32px 0;
+        }
+
+        .author-card:hover {
+            transform: translateX(8px);
+        }
+
+        .author-card:hover .author-name {
+            color: var(--terracotta);
+        }
+
+        .author-name {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 24px;
+            font-weight: 400;
+            margin-bottom: 8px;
+            letter-spacing: -0.01em;
+            transition: color 0.3s ease;
+        }
+
+        .author-dates {
+            font-size: 13px;
+            color: var(--ash);
+            margin-bottom: 12px;
+            font-weight: 300;
+        }
+
+        .author-works {
+            font-size: 12px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Stats Bar */
+        .stats-bar {
+            background: var(--cream);
+            padding: 80px 80px;
+            margin-bottom: 100px;
+        }
+
+        .stats-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: flex;
+            gap: 100px;
+        }
+
+        .stat {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .stat-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 48px;
+            font-weight: 400;
+        }
+
+        .stat-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header-inner,
+            .hero,
+            .filters,
+            .authors,
+            .stats-bar {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .hero h1 {
+                font-size: 64px;
+            }
+
+            .authors-grid {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .stats-inner {
+                flex-wrap: wrap;
+                gap: 60px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding-top: 160px;
+            }
+
+            .hero h1 {
+                font-size: 48px;
+            }
+
+            .filters {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            .authors-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .stats-inner {
+                flex-direction: column;
+                gap: 40px;
+            }
+
+            .nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="elevated-landing.html" class="logo">AKSHARA</a>
+            <nav class="nav">
+                <a href="browse-books.html">Browse</a>
+                <a href="collections.html">Collections</a>
+                <a href="authors-directory.html">Authors</a>
+                <a href="about.html">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <h1>Authors</h1>
+        <p class="hero-subtitle">Writers, poets, philosophers, and revolutionaries whose works shaped Indian literature and thought from 1847 to 1954.</p>
+    </section>
+
+    <!-- Stats Bar -->
+    <section class="stats-bar">
+        <div class="stats-inner">
+            <div class="stat">
+                <div class="stat-number">89</div>
+                <div class="stat-label">Total Authors</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">247</div>
+                <div class="stat-label">Books</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">12</div>
+                <div class="stat-label">Languages</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Filters -->
+    <section class="filters">
+        <div class="filter-label">Filter by</div>
+        <div class="filter-buttons">
+            <button class="filter-btn active">All</button>
+            <button class="filter-btn">Fiction</button>
+            <button class="filter-btn">Non-Fiction</button>
+            <button class="filter-btn">Poetry</button>
+            <button class="filter-btn">Philosophy</button>
+        </div>
+    </section>
+
+    <!-- Authors -->
+    <section class="authors">
+        <!-- G -->
+        <div class="alphabet-section">
+            <div class="alphabet-letter">G</div>
+            <div class="authors-grid">
+                <a href="author-page.html" class="author-card">
+                    <h2 class="author-name">Mahatma Gandhi</h2>
+                    <div class="author-dates">1869 – 1948</div>
+                    <div class="author-works">8 works</div>
+                </a>
+
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Govardhanram Tripathi</h2>
+                    <div class="author-dates">1855 – 1907</div>
+                    <div class="author-works">3 works</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- N -->
+        <div class="alphabet-section">
+            <div class="alphabet-letter">N</div>
+            <div class="authors-grid">
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Jawaharlal Nehru</h2>
+                    <div class="author-dates">1889 – 1964</div>
+                    <div class="author-works">6 works</div>
+                </a>
+
+                <a href="#" class="author-card">
+                    <h2 class="author-name">R. K. Narayan</h2>
+                    <div class="author-dates">1906 – 2001</div>
+                    <div class="author-works">4 works</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- T -->
+        <div class="alphabet-section">
+            <div class="alphabet-letter">T</div>
+            <div class="authors-grid">
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Rabindranath Tagore</h2>
+                    <div class="author-dates">1861 – 1941</div>
+                    <div class="author-works">24 works</div>
+                </a>
+
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Premchand</h2>
+                    <div class="author-dates">1880 – 1936</div>
+                    <div class="author-works">12 works</div>
+                </a>
+
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Bankim Chandra Chatterjee</h2>
+                    <div class="author-dates">1838 – 1894</div>
+                    <div class="author-works">9 works</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- A -->
+        <div class="alphabet-section">
+            <div class="alphabet-letter">A</div>
+            <div class="authors-grid">
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Sri Aurobindo</h2>
+                    <div class="author-dates">1872 – 1950</div>
+                    <div class="author-works">15 works</div>
+                </a>
+
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Mulk Raj Anand</h2>
+                    <div class="author-dates">1905 – 2004</div>
+                    <div class="author-works">7 works</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- C -->
+        <div class="alphabet-section">
+            <div class="alphabet-letter">C</div>
+            <div class="authors-grid">
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Sarat Chandra Chattopadhyay</h2>
+                    <div class="author-dates">1876 – 1938</div>
+                    <div class="author-works">11 works</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- R -->
+        <div class="alphabet-section">
+            <div class="alphabet-letter">R</div>
+            <div class="authors-grid">
+                <a href="#" class="author-card">
+                    <h2 class="author-name">Raja Rao</h2>
+                    <div class="author-dates">1908 – 2006</div>
+                    <div class="author-works">5 works</div>
+                </a>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

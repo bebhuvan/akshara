@@ -1,0 +1,36 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<main class="search-page">
+    <div class="search-container">
+        <header class="search-page-header">
+            <h1>Search</h1>
+            <p class="search-subtitle">Search across all books and collections</p>
+        </header>
+
+        <div id="search"></div>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+
+<!-- Pagefind Search -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({
+            element: "#search",
+            showSubResults: true,
+            showImages: false,
+            excerptLength: 15
+        });
+
+        // Auto-focus search input
+        setTimeout(() => {
+            const searchInput = document.querySelector('#search input');
+            if (searchInput) searchInput.focus();
+        }, 100);
+    });
+</script>
+{{ end }}

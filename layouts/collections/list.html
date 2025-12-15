@@ -1,0 +1,23 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<main class="collections-list-page">
+    <div class="page-header">
+        <h1>Collections</h1>
+        <p class="page-subtitle">Curated thematic collections of Indian literature</p>
+    </div>
+
+    <div class="collections-grid">
+        {{ range $index, $page := .Pages }}
+        <a href="{{ .RelPermalink }}" class="collection-card">
+            <div class="collection-number">{{ printf "%02d" (add $index 1) }}</div>
+            <h3 class="collection-name">{{ .Title }}</h3>
+            <div class="collection-count">{{ .Params.book_count }} Books</div>
+            <p class="collection-description">{{ .Params.description }}</p>
+        </a>
+        {{ end }}
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+{{ end }}

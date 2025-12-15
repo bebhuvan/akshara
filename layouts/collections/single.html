@@ -1,0 +1,55 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<main class="collection-page">
+    <div class="collection-hero">
+        <h1>{{ .Title }}</h1>
+        <p class="collection-description">{{ .Params.long_description | default .Params.description }}</p>
+
+        <div class="collection-stats">
+            <div class="collection-stat">
+                <div class="collection-stat-number">{{ .Params.book_count }}</div>
+                <div class="collection-stat-label">Books</div>
+            </div>
+            <div class="collection-stat">
+                <div class="collection-stat-number">{{ .Params.author_count }}</div>
+                <div class="collection-stat-label">Authors</div>
+            </div>
+            <div class="collection-stat">
+                <div class="collection-stat-number">{{ .Params.earliest_year }} - {{ .Params.latest_year }}</div>
+                <div class="collection-stat-label">Period</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="collection-content">
+        {{ with .Params.historical_context }}
+        <div class="collection-context">
+            <h2 class="section-title">Historical Context</h2>
+            <p class="context-text">{{ . }}</p>
+        </div>
+        {{ end }}
+
+        <div class="collection-about">
+            <h2 class="section-title">About This Collection</h2>
+            <div class="content">
+                {{ .Content }}
+            </div>
+        </div>
+
+        <div class="collection-books">
+            <h2 class="section-title">Books in This Collection</h2>
+            <div class="books-grid">
+                {{ $collectionName := .File.BaseFileName }}
+                {{ range (where .Site.RegularPages "Type" "books") }}
+                    {{ if in .Params.collections $collectionName }}
+                        {{ partial "book-card.html" . }}
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+{{ end }}

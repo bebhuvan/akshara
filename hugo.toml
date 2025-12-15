@@ -1,0 +1,88 @@
+baseURL = "https://akshara.ink"
+languageCode = "en-us"
+title = "Akshara"
+
+# Performance
+buildFuture = false
+buildExpired = false
+buildDrafts = false
+
+# Taxonomies - only what you need
+[taxonomies]
+  author = "authors"
+  collection = "collections"
+  theme = "themes"
+  period = "periods"
+  language = "languages"
+
+# Permalinks - clean URLs
+[permalinks]
+  authors = "/authors/:slug"
+  collections = "/collections/:slug"
+
+# Markdown rendering
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow HTML in markdown
+  [markup.highlight]
+    style = "monokai"
+    lineNos = false
+
+# Output formats
+[outputs]
+  home = ["HTML", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+# Sitemap configuration
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+# Minification
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = true  # Minify manually, Hugo's JS minifier is basic
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+
+# Image processing
+[imaging]
+  quality = 85
+  resampleFilter = "Lanczos"
+  anchor = "Smart"
+
+# Privacy (no analytics by default)
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# Site parameters
+[params]
+  description = "Making India's forgotten books readable—extracting and cleaning up text from rare PDFs, one book at a time."
+  author = "Akshara Archive"
+  featured_book = "foreign-notices-south-india"  # Featured on homepage
+
+# Caches for faster builds
+[caches]
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "10m"
+  [caches.getcsv]
+    dir = ":cacheDir/:project"
+    maxAge = "10m"
+  [caches.images]
+    dir = ":cacheDir/:project"
+    maxAge = -1  # Never expire
+  [caches.assets]
+    dir = ":cacheDir/:project"
+    maxAge = -1
+  [caches.modules]
+    dir = ":cacheDir/:project"
+    maxAge = -1

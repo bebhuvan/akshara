@@ -1,0 +1,118 @@
+{{ define "main" }}
+<!-- Header -->
+{{ partial "header.html" . }}
+
+<!-- Hero -->
+<section class="hero">
+    <div class="hero-content">
+        <div class="hero-eyebrow">The Akshara Archive</div>
+        <h1>Making India's <em>forgotten</em> books readable</h1>
+        <p class="hero-intro">Extracting and cleaning up text from rare PDFs, one book at a time. It's a slow process, but someone had to start.</p>
+
+        <div class="hero-stats">
+            {{ $allBooks := where .Site.Pages "Section" "books" }}
+            {{ $allBooks = where $allBooks "Kind" "section" }}
+            {{ $bookCount := 0 }}
+            {{ range $allBooks }}
+                {{ if ne .File.Path "books/_index.md" }}
+                    {{ $bookCount = add $bookCount 1 }}
+                {{ end }}
+            {{ end }}
+            {{ $authorCount := len (where .Site.Pages "Type" "authors") }}
+
+            <div class="stat">
+                <div class="stat-number">{{ $bookCount }}</div>
+                <div class="stat-label">books digitized</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">{{ $authorCount }}</div>
+                <div class="stat-label">authors preserved</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Featured Book -->
+{{ with .Site.Params.featured_book }}
+    {{ with $.Site.GetPage (printf "/books/%s" .) }}
+    <section class="featured">
+        <div class="featured-book">
+            <div class="featured-visual">
+                {{ with .Params.featured_quote }}
+                <blockquote class="featured-quote">{{ . | markdownify }}</blockquote>
+                {{ end }}
+            </div>
+            <div class="featured-content">
+                <div class="featured-label">Recently Digitized</div>
+                <h2 class="featured-title">{{ .Title }}</h2>
+                <p class="featured-author">
+                    {{ if .Params.editor }}
+                        Edited by {{ .Params.editor }}, {{ .Params.year }}
+                    {{ else }}
+                        {{ .Params.author }}, {{ .Params.year }}
+                    {{ end }}
+                </p>
+                <p class="featured-excerpt">{{ .Params.description }}</p>
+                <a href="{{ .RelPermalink }}" class="btn-primary">Begin Reading</a>
+            </div>
+        </div>
+    </section>
+    {{ end }}
+{{ end }}
+
+<!-- Recent Books -->
+<section class="recent">
+    <div class="section-header">
+        <h2 class="section-title">Recent Additions</h2>
+        <a href="/books" class="section-link">View all books →</a>
+    </div>
+
+    <div class="books-grid">
+        {{ $books := where .Site.Pages "Section" "books" }}
+        {{ $books = where $books "Kind" "section" }}
+        {{ $books := where $books "File.Path" "!=" "books/_index.md" }}
+        {{ range first 12 ($books.ByDate.Reverse) }}
+            {{ partial "book-card.html" . }}
+        {{ end }}
+    </div>
+</section>
+
+<!-- Collections -->
+<section class="collections">
+    <div class="collections-inner">
+        <div class="section-header">
+            <h2 class="section-title">Collections</h2>
+            <a href="/collections" class="section-link">View all →</a>
+        </div>
+
+        <div class="collections-grid">
+            {{ range $index, $page := (where .Site.RegularPages "Type" "collections") }}
+            <a href="{{ .RelPermalink }}" class="collection-card">
+                <div class="collection-number">{{ printf "%02d" (add $index 1) }}</div>
+                <h3 class="collection-name">{{ .Title }}</h3>
+                <div class="collection-count">{{ .Params.book_count }} Books</div>
+                <p class="collection-description">{{ .Params.description }}</p>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta">
+    <div class="cta-content">
+        <h2 class="cta-title">Want to help?</h2>
+        <p class="cta-text">If you have rare PDFs to share, can help with OCR cleanup, or just want to follow along—I'd appreciate it.</p>
+        <div class="cta-actions">
+            <a href="/contribute" class="btn-primary">Get in Touch</a>
+            <form class="newsletter-form">
+                <input type="email" placeholder="Your email" class="newsletter-input" aria-label="Email address">
+                <button type="submit" class="btn-secondary">Stay Updated</button>
+            </form>
+        </div>
+    </div>
+</section>
+
+<!-- Footer -->
+{{ partial "footer.html" . }}
+{{ end }}

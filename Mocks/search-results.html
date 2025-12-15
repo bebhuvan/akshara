@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results - Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: rgba(255, 254, 249, 0.9);
+            backdrop-filter: blur(20px);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 28px 80px;
+            display: flex;
+            gap: 60px;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .search-bar {
+            flex: 1;
+            max-width: 600px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 14px 24px;
+            font-family: 'Inter', sans-serif;
+            font-size: 15px;
+            border: 2px solid var(--sand);
+            background: var(--paper);
+            border-radius: 8px;
+            color: var(--ink);
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--terracotta);
+        }
+
+        /* Results */
+        .results {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 140px 80px 200px;
+        }
+
+        .results-header {
+            margin-bottom: 60px;
+        }
+
+        .results-query {
+            font-size: 16px;
+            color: var(--smoke);
+            margin-bottom: 12px;
+            font-weight: 300;
+        }
+
+        .results-query em {
+            color: var(--terracotta);
+            font-style: normal;
+            font-weight: 500;
+        }
+
+        .results-count {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 48px;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+        }
+
+        /* Filters */
+        .filters {
+            display: flex;
+            gap: 24px;
+            margin-bottom: 80px;
+            padding-bottom: 40px;
+            border-bottom: 1px solid var(--sand);
+        }
+
+        .filter-btn {
+            background: transparent;
+            border: none;
+            padding: 10px 20px;
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            color: var(--smoke);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 400;
+            border-radius: 6px;
+        }
+
+        .filter-btn:hover {
+            color: var(--terracotta);
+        }
+
+        .filter-btn.active {
+            background: var(--cream);
+            color: var(--ink);
+            font-weight: 500;
+        }
+
+        /* Results List */
+        .results-list {
+            display: flex;
+            flex-direction: column;
+            gap: 60px;
+        }
+
+        .result-item {
+            display: grid;
+            grid-template-columns: 140px 1fr;
+            gap: 40px;
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+            padding: 40px;
+            margin: 0 -40px;
+            border-radius: 8px;
+        }
+
+        .result-item:hover {
+            background: var(--cream);
+        }
+
+        .result-item:hover .result-cover {
+            box-shadow: 0 12px 40px rgba(26, 20, 18, 0.15);
+        }
+
+        .result-cover {
+            aspect-ratio: 2/3;
+            background: var(--cream);
+            box-shadow: 0 8px 24px rgba(26, 20, 18, 0.08);
+            transition: all 0.3s ease;
+        }
+
+        .result-content {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .result-type {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .result-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 32px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+        }
+
+        .result-author {
+            font-size: 16px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        .result-excerpt {
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--smoke);
+            font-weight: 300;
+            margin-top: 8px;
+        }
+
+        .result-meta {
+            display: flex;
+            gap: 24px;
+            margin-top: 8px;
+        }
+
+        .result-meta-item {
+            font-size: 12px;
+            color: var(--ash);
+            font-weight: 300;
+        }
+
+        /* No Results */
+        .no-results {
+            text-align: center;
+            padding: 120px 40px;
+        }
+
+        .no-results h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 36px;
+            font-weight: 400;
+            margin-bottom: 20px;
+        }
+
+        .no-results p {
+            font-size: 16px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header-inner,
+            .results {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .result-item {
+                grid-template-columns: 1fr;
+                gap: 24px;
+            }
+
+            .result-cover {
+                max-width: 200px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .results {
+                padding-top: 120px;
+            }
+
+            .search-bar {
+                max-width: 100%;
+            }
+
+            .filters {
+                flex-wrap: wrap;
+            }
+
+            .result-item {
+                padding: 24px;
+                margin: 0 -24px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="elevated-landing.html" class="logo">AKSHARA</a>
+            <div class="search-bar">
+                <input type="search" class="search-input" value="gandhi" placeholder="Search books, authors...">
+            </div>
+        </div>
+    </header>
+
+    <!-- Results -->
+    <section class="results">
+        <div class="results-header">
+            <p class="results-query">Search results for <em>"gandhi"</em></p>
+            <h1 class="results-count">12 results</h1>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <button class="filter-btn active">All Results</button>
+            <button class="filter-btn">Books (8)</button>
+            <button class="filter-btn">Authors (2)</button>
+            <button class="filter-btn">Chapters (2)</button>
+        </div>
+
+        <!-- Results List -->
+        <div class="results-list">
+            <!-- Book Result -->
+            <a href="elevated-book-hub.html" class="result-item">
+                <div class="result-cover"></div>
+                <div class="result-content">
+                    <div class="result-type">Book</div>
+                    <h2 class="result-title">My Experiments with Truth</h2>
+                    <p class="result-author">Mahatma Gandhi</p>
+                    <p class="result-excerpt">An intimate autobiography chronicling Gandhi's spiritual and political awakening, from his childhood in Gujarat to his development of satyagraha in South Africa...</p>
+                    <div class="result-meta">
+                        <span class="result-meta-item">1927</span>
+                        <span class="result-meta-item">164 chapters</span>
+                        <span class="result-meta-item">~8 hour read</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Author Result -->
+            <a href="author-page.html" class="result-item">
+                <div class="result-cover"></div>
+                <div class="result-content">
+                    <div class="result-type">Author</div>
+                    <h2 class="result-title">Mahatma Gandhi</h2>
+                    <p class="result-author">1869 – 1948</p>
+                    <p class="result-excerpt">Indian lawyer, anti-colonial nationalist, and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule...</p>
+                    <div class="result-meta">
+                        <span class="result-meta-item">8 works in archive</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Book Result -->
+            <a href="#" class="result-item">
+                <div class="result-cover"></div>
+                <div class="result-content">
+                    <div class="result-type">Book</div>
+                    <h2 class="result-title">Hind Swaraj</h2>
+                    <p class="result-author">Mahatma Gandhi</p>
+                    <p class="result-excerpt">Gandhi's political manifesto written during a voyage from London to South Africa, outlining his vision for Indian self-rule and critiquing modern civilization...</p>
+                    <div class="result-meta">
+                        <span class="result-meta-item">1909</span>
+                        <span class="result-meta-item">20 chapters</span>
+                        <span class="result-meta-item">~2 hour read</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Book Result -->
+            <a href="#" class="result-item">
+                <div class="result-cover"></div>
+                <div class="result-content">
+                    <div class="result-type">Book</div>
+                    <h2 class="result-title">Satyagraha in South Africa</h2>
+                    <p class="result-author">Mahatma Gandhi</p>
+                    <p class="result-excerpt">A detailed account of Gandhi's passive resistance movement in South Africa between 1906 and 1914, documenting the development of his philosophy of nonviolent protest...</p>
+                    <div class="result-meta">
+                        <span class="result-meta-item">1928</span>
+                        <span class="result-meta-item">48 chapters</span>
+                        <span class="result-meta-item">~6 hour read</span>
+                    </div>
+                </div>
+            </a>
+
+            <!-- Book Result -->
+            <a href="#" class="result-item">
+                <div class="result-cover"></div>
+                <div class="result-content">
+                    <div class="result-type">Book</div>
+                    <h2 class="result-title">Constructive Programme</h2>
+                    <p class="result-author">Mahatma Gandhi</p>
+                    <p class="result-excerpt">Gandhi's blueprint for building an independent India through constructive work in villages, focusing on economic self-sufficiency, social reform, and education...</p>
+                    <div class="result-meta">
+                        <span class="result-meta-item">1941</span>
+                        <span class="result-meta-item">13 chapters</span>
+                        <span class="result-meta-item">~1 hour read</span>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </section>
+</body>
+</html>

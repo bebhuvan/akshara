@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<main class="list-page">
+    <div class="list-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Content }}
+        <div class="list-description">{{ . }}</div>
+        {{ end }}
+    </div>
+
+    <div class="list-content">
+        {{ range .Pages }}
+        <article class="list-item">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            {{ with .Summary }}
+            <p>{{ . }}</p>
+            {{ end }}
+        </article>
+        {{ end }}
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+{{ end }}

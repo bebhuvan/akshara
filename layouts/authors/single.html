@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<main class="author-page">
+    <div class="author-hero">
+        <div class="author-info">
+            <h1>{{ .Title }}</h1>
+            <p class="author-years-large">{{ .Params.birth_year }} - {{ .Params.death_year }}</p>
+            <p class="author-birthplace">{{ .Params.birth_place }}</p>
+        </div>
+
+        <div class="author-stats">
+            <div class="author-stat">
+                <div class="author-stat-number">{{ .Params.works_count }}</div>
+                <div class="author-stat-label">Works in Archive</div>
+            </div>
+            <div class="author-stat">
+                <div class="author-stat-number">{{ .Params.first_publication }}</div>
+                <div class="author-stat-label">First Publication</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="author-content">
+        <div class="author-bio-section">
+            <h2 class="section-title">Biography</h2>
+            <div class="author-biography">
+                {{ .Content }}
+            </div>
+        </div>
+
+        {{ with .Params.timeline }}
+        <div class="author-timeline-section">
+            <h2 class="section-title">Timeline</h2>
+            <div class="timeline">
+                {{ range . }}
+                <div class="timeline-item">
+                    <div class="timeline-year">{{ .year }}</div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">{{ .title }}</h3>
+                        <p class="timeline-description">{{ .description }}</p>
+                    </div>
+                </div>
+                {{ end }}
+            </div>
+        </div>
+        {{ end }}
+
+        <div class="author-works-section">
+            <h2 class="section-title">Works</h2>
+            <div class="books-grid">
+                {{ range (where .Site.Pages "Params.author_slug" .Params.slug) }}
+                    {{ partial "book-card.html" . }}
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="author-external">
+            <h2 class="section-title">External Resources</h2>
+            <ul class="external-links">
+                {{ with .Params.wikipedia_url }}
+                <li><a href="{{ . }}" target="_blank">Wikipedia →</a></li>
+                {{ end }}
+                {{ with .Params.wikisource_url }}
+                <li><a href="{{ . }}" target="_blank">Wikisource →</a></li>
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</main>
+
+{{ partial "footer.html" . }}
+{{ end }}

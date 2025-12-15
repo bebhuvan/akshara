@@ -1,0 +1,133 @@
+/* Search Page */
+.search-page {
+    padding-top: 120px;
+    min-height: 100vh;
+}
+
+.search-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 80px 40px 140px;
+}
+
+.search-page-header {
+    margin-bottom: 64px;
+    text-align: center;
+}
+
+.search-page-header h1 {
+    font-family: 'Crimson Text', serif;
+    font-size: 56px;
+    font-weight: 400;
+    margin-bottom: 16px;
+    letter-spacing: -0.02em;
+}
+
+.search-subtitle {
+    font-size: 17px;
+    color: var(--smoke);
+}
+
+/* Pagefind UI Overrides */
+.pagefind-ui {
+    font-family: 'Inter', sans-serif;
+}
+
+.pagefind-ui__search-input {
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    padding: 20px 24px;
+    border: none;
+    border-bottom: 2px solid var(--sand);
+    background: var(--paper);
+    color: var(--ink);
+}
+
+.pagefind-ui__search-input:focus {
+    outline: none;
+    border-bottom-color: var(--accent);
+}
+
+.pagefind-ui__results {
+    margin-top: 48px;
+}
+
+.pagefind-ui__result {
+    border: none;
+    border-bottom: 1px solid var(--sand);
+    padding: 32px 0;
+}
+
+.pagefind-ui__result:first-child {
+    padding-top: 0;
+}
+
+.pagefind-ui__result:hover {
+    background: transparent;
+}
+
+.pagefind-ui__result-title {
+    font-family: 'Crimson Text', serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 12px;
+}
+
+.pagefind-ui__result-title:hover {
+    color: var(--accent);
+}
+
+.pagefind-ui__result-excerpt {
+    font-size: 16px;
+    line-height: 1.7;
+    color: var(--smoke);
+}
+
+.pagefind-ui__result-link {
+    text-decoration: none;
+}
+
+.pagefind-ui__message {
+    padding: 32px 0;
+    font-size: 15px;
+    color: var(--ash);
+}
+
+.pagefind-ui mark {
+    background: var(--accent-light);
+    color: var(--accent);
+    font-weight: 600;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .search-page {
+        padding-top: 100px;
+    }
+
+    .search-container {
+        padding: 60px 32px 100px;
+    }
+
+    .search-page-header h1 {
+        font-size: 40px;
+    }
+
+    .search-subtitle {
+        font-size: 16px;
+    }
+
+    .pagefind-ui__search-input {
+        font-size: 16px;
+        padding: 16px 20px;
+    }
+
+    .pagefind-ui__result-title {
+        font-size: 19px;
+    }
+
+    .pagefind-ui__result-excerpt {
+        font-size: 15px;
+    }
+}

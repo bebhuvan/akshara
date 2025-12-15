@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page Not Found - Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header */
+        .header {
+            padding: 28px 80px;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        /* Error Content */
+        .error-content {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 80px 80px 140px;
+        }
+
+        .error-inner {
+            max-width: 640px;
+            text-align: center;
+        }
+
+        .error-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 160px;
+            font-weight: 400;
+            color: rgba(26, 20, 18, 0.1);
+            line-height: 1;
+            margin-bottom: 32px;
+        }
+
+        .error-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 48px;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 24px;
+        }
+
+        .error-message {
+            font-size: 17px;
+            line-height: 1.75;
+            color: var(--smoke);
+            font-weight: 300;
+            margin-bottom: 48px;
+        }
+
+        .error-actions {
+            display: flex;
+            gap: 32px;
+            justify-content: center;
+        }
+
+        .btn {
+            padding: 16px 32px;
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            border-radius: 8px;
+        }
+
+        .btn-primary {
+            background: var(--terracotta);
+            color: var(--paper);
+        }
+
+        .btn-primary:hover {
+            background: #9d4426;
+        }
+
+        .btn-secondary {
+            background: var(--cream);
+            color: var(--ink);
+        }
+
+        .btn-secondary:hover {
+            background: var(--ash);
+            color: var(--paper);
+        }
+
+        /* Suggestions */
+        .suggestions {
+            margin-top: 80px;
+            padding-top: 60px;
+            border-top: 1px solid rgba(26, 20, 18, 0.1);
+        }
+
+        .suggestions h2 {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            margin-bottom: 24px;
+            font-weight: 500;
+        }
+
+        .suggestion-links {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .suggestion-link {
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 15px;
+            transition: color 0.3s ease;
+            text-align: center;
+        }
+
+        .suggestion-link:hover {
+            color: var(--terracotta);
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header,
+            .error-content {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .error-number {
+                font-size: 120px;
+            }
+
+            .error-title {
+                font-size: 40px;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .error-number {
+                font-size: 96px;
+            }
+
+            .error-title {
+                font-size: 32px;
+            }
+
+            .error-actions {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <a href="elevated-landing.html" class="logo">AKSHARA</a>
+    </header>
+
+    <!-- Error Content -->
+    <main class="error-content">
+        <div class="error-inner">
+            <div class="error-number">404</div>
+            <h1 class="error-title">Page Not Found</h1>
+            <p class="error-message">The page you're looking for doesn't exist. It may have been moved, or the link might be incorrect.</p>
+
+            <div class="error-actions">
+                <a href="elevated-landing.html" class="btn btn-primary">Go Home</a>
+                <a href="browse-books.html" class="btn btn-secondary">Browse Books</a>
+            </div>
+
+            <div class="suggestions">
+                <h2>Try These Instead</h2>
+                <div class="suggestion-links">
+                    <a href="browse-books.html" class="suggestion-link">All Books</a>
+                    <a href="collections.html" class="suggestion-link">Collections</a>
+                    <a href="authors-directory.html" class="suggestion-link">Authors</a>
+                    <a href="about.html" class="suggestion-link">About</a>
+                </div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>

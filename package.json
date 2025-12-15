@@ -1,0 +1,20 @@
+{
+  "name": "akshara",
+  "version": "1.0.0",
+  "description": "Indian Literary Archive - Making India's forgotten books readable",
+  "private": true,
+  "scripts": {
+    "build": "chmod +x scripts/build.sh && ./scripts/build.sh",
+    "dev": "hugo server -D",
+    "preview": "wrangler dev",
+    "deploy": "chmod +x scripts/deploy.sh && ./scripts/deploy.sh",
+    "search": "pagefind --site public --output-path public/pagefind"
+  },
+  "devDependencies": {
+    "pagefind": "^1.3.0",
+    "wrangler": "^3.99.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: rgba(255, 254, 249, 0.9);
+            backdrop-filter: blur(20px);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 28px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .nav {
+            display: flex;
+            gap: 56px;
+        }
+
+        .nav a {
+            color: var(--smoke);
+            text-decoration: none;
+            font-size: 13px;
+            font-weight: 400;
+            transition: color 0.3s ease;
+        }
+
+        .nav a:hover {
+            color: var(--terracotta);
+        }
+
+        /* Hero */
+        .hero {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 200px 80px 140px;
+        }
+
+        .hero h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 96px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            margin-bottom: 48px;
+            max-width: 900px;
+        }
+
+        .hero-intro {
+            font-size: 20px;
+            line-height: 1.75;
+            color: var(--smoke);
+            max-width: 720px;
+            font-weight: 300;
+        }
+
+        /* Mission */
+        .mission {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 120px 80px;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 100px;
+        }
+
+        .section-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 48px;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 40px;
+        }
+
+        .mission-text {
+            font-size: 17px;
+            line-height: 1.8;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        .mission-text p {
+            margin-bottom: 1.8em;
+        }
+
+        .mission-values {
+            background: var(--cream);
+            padding: 60px;
+        }
+
+        .value {
+            margin-bottom: 40px;
+        }
+
+        .value:last-child {
+            margin-bottom: 0;
+        }
+
+        .value h3 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 12px;
+        }
+
+        .value p {
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Methodology */
+        .methodology {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 120px 80px;
+        }
+
+        .methodology-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+
+        .methodology .section-title {
+            color: var(--paper);
+        }
+
+        .process-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 60px;
+            margin-top: 80px;
+        }
+
+        .process-step {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .step-number {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 48px;
+            font-weight: 400;
+            color: rgba(255, 254, 249, 0.2);
+        }
+
+        .step-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 22px;
+            font-weight: 400;
+        }
+
+        .step-description {
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--ash);
+            font-weight: 300;
+        }
+
+        /* Contribute */
+        .contribute {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 120px 80px;
+        }
+
+        .contribute-content {
+            max-width: 800px;
+        }
+
+        .contribute-list {
+            margin-top: 48px;
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+        }
+
+        .contribute-item h3 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 12px;
+        }
+
+        .contribute-item p {
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--smoke);
+            font-weight: 300;
+            margin-bottom: 16px;
+        }
+
+        .contribute-link {
+            color: var(--terracotta);
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: 500;
+            transition: opacity 0.3s ease;
+        }
+
+        .contribute-link:hover {
+            opacity: 0.7;
+        }
+
+        /* Contact */
+        .contact {
+            background: var(--cream);
+            padding: 100px 80px;
+        }
+
+        .contact-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 100px;
+        }
+
+        .contact-info {
+            display: flex;
+            flex-direction: column;
+            gap: 32px;
+        }
+
+        .contact-item h3 {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            margin-bottom: 12px;
+            font-weight: 500;
+        }
+
+        .contact-item a {
+            color: var(--ink);
+            text-decoration: none;
+            font-size: 16px;
+            transition: color 0.3s ease;
+        }
+
+        .contact-item a:hover {
+            color: var(--terracotta);
+        }
+
+        .contact-item p {
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header-inner,
+            .hero,
+            .mission,
+            .methodology,
+            .contribute,
+            .contact {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .hero h1 {
+                font-size: 72px;
+            }
+
+            .mission,
+            .contact-inner {
+                grid-template-columns: 1fr;
+                gap: 60px;
+            }
+
+            .process-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding-top: 160px;
+            }
+
+            .hero h1 {
+                font-size: 52px;
+            }
+
+            .nav {
+                display: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="elevated-landing.html" class="logo">AKSHARA</a>
+            <nav class="nav">
+                <a href="browse-books.html">Browse</a>
+                <a href="#">Collections</a>
+                <a href="authors-directory.html">Authors</a>
+                <a href="about.html">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <h1>Preserving Indian literature for future generations</h1>
+        <p class="hero-intro">Akshara is a digital archive dedicated to preserving and sharing public domain works of Indian literature. We believe these texts deserve exceptional reading experiences, not just functional digitization.</p>
+    </section>
+
+    <!-- Mission -->
+    <section class="mission">
+        <div class="mission-content">
+            <h2 class="section-title">Our Mission</h2>
+            <div class="mission-text">
+                <p>Between 1847 and 1954, Indian writers, philosophers, and activists produced extraordinary works that shaped the nation's intellectual and political landscape. Many of these texts exist only in poorly scanned PDFs, making them difficult to discover and painful to read.</p>
+
+                <p>We're changing that. Every book in Akshara is meticulously digitized from historical sources, manually corrected for accuracy, and presented with reading experiences designed for extended engagement—not quick skimming.</p>
+
+                <p>This is more than preservation. It's about making these works genuinely accessible to contemporary readers while honoring the care their authors put into the original texts.</p>
+            </div>
+        </div>
+
+        <div class="mission-values">
+            <div class="value">
+                <h3>Quality Over Quantity</h3>
+                <p>We digitize works we can do justice to, not everything we can find. Each book receives individual attention.</p>
+            </div>
+
+            <div class="value">
+                <h3>Reading First</h3>
+                <p>Every design decision prioritizes the reading experience. Typography, spacing, navigation—all serve the text.</p>
+            </div>
+
+            <div class="value">
+                <h3>Open Access</h3>
+                <p>All works are public domain. All our digitized texts are freely available in multiple formats.</p>
+            </div>
+
+            <div class="value">
+                <h3>Historical Accuracy</h3>
+                <p>We preserve original spelling, punctuation, and formatting choices while correcting obvious OCR errors.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Methodology -->
+    <section class="methodology">
+        <div class="methodology-inner">
+            <h2 class="section-title">How We Work</h2>
+
+            <div class="process-grid">
+                <div class="process-step">
+                    <div class="step-number">01</div>
+                    <h3 class="step-title">Source Selection</h3>
+                    <p class="step-description">We find the best available scans from Archive.org, university libraries, and institutional collections. Quality of the source material matters.</p>
+                </div>
+
+                <div class="process-step">
+                    <div class="step-number">02</div>
+                    <h3 class="step-title">OCR Processing</h3>
+                    <p class="step-description">PDFs are processed using Tesseract or Google Cloud Vision API to extract text. This is just the beginning—OCR alone is never enough.</p>
+                </div>
+
+                <div class="process-step">
+                    <div class="step-number">03</div>
+                    <h3 class="step-title">Manual Correction</h3>
+                    <p class="step-description">Every page is manually reviewed. We correct OCR errors, verify quotations, and ensure formatting matches the original.</p>
+                </div>
+
+                <div class="process-step">
+                    <div class="step-number">04</div>
+                    <h3 class="step-title">Markdown Formatting</h3>
+                    <p class="step-description">Clean text is formatted in Markdown with proper chapter breaks, emphasis, and structure preserved from the original.</p>
+                </div>
+
+                <div class="process-step">
+                    <div class="step-number">05</div>
+                    <h3 class="step-title">Metadata Research</h3>
+                    <p class="step-description">We add historical context, biographical information, and reference links to enhance understanding without overwhelming the text.</p>
+                </div>
+
+                <div class="process-step">
+                    <div class="step-number">06</div>
+                    <h3 class="step-title">Publication</h3>
+                    <p class="step-description">Books are published with EPUB exports, downloadable Markdown, and links to original sources. Nothing is hidden or proprietary.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contribute -->
+    <section class="contribute">
+        <div class="contribute-content">
+            <h2 class="section-title">How to Contribute</h2>
+
+            <div class="contribute-list">
+                <div class="contribute-item">
+                    <h3>Suggest Books</h3>
+                    <p>Know of a public domain Indian work that should be digitized? Let us know. We prioritize based on historical significance and source quality.</p>
+                    <a href="#" class="contribute-link">Submit a suggestion →</a>
+                </div>
+
+                <div class="contribute-item">
+                    <h3>Report Errors</h3>
+                    <p>Found a typo or formatting issue? Every correction makes the archive better. We review all submissions carefully.</p>
+                    <a href="#" class="contribute-link">Report an error →</a>
+                </div>
+
+                <div class="contribute-item">
+                    <h3>Add Context</h3>
+                    <p>Have historical knowledge or scholarly insights about a work? We welcome contributions that deepen understanding.</p>
+                    <a href="#" class="contribute-link">Share your knowledge →</a>
+                </div>
+
+                <div class="contribute-item">
+                    <h3>Technical Contributions</h3>
+                    <p>The entire site is open source. Code, design, and infrastructure improvements are all welcome.</p>
+                    <a href="#" class="contribute-link">View on GitHub →</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="contact">
+        <div class="contact-inner">
+            <div>
+                <h2 class="section-title">Get in Touch</h2>
+                <p style="font-size: 17px; line-height: 1.75; color: var(--smoke); font-weight: 300; margin-top: 24px;">Questions, suggestions, or collaboration proposals? We'd love to hear from you.</p>
+            </div>
+
+            <div class="contact-info">
+                <div class="contact-item">
+                    <h3>Email</h3>
+                    <a href="mailto:hello@akshara.in">hello@akshara.in</a>
+                </div>
+
+                <div class="contact-item">
+                    <h3>GitHub</h3>
+                    <a href="#">github.com/akshara-archive</a>
+                </div>
+
+                <div class="contact-item">
+                    <h3>Sister Project</h3>
+                    <p>Akshara is a project of <a href="#" style="color: var(--terracotta); font-weight: 400;">dhwani.ink</a>, a directory of Indian public domain literary works.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>

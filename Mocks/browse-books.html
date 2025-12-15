@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Browse Books - Akshara</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --ash: #9c948e;
+            --sand: #e8e3dd;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.5;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Header */
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 100;
+            background: rgba(255, 254, 249, 0.9);
+            backdrop-filter: blur(20px);
+        }
+
+        .header-inner {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 28px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: var(--ink);
+            text-decoration: none;
+            letter-spacing: 0.03em;
+        }
+
+        .search-bar {
+            flex: 1;
+            max-width: 400px;
+            margin: 0 auto;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 12px 20px;
+            font-family: 'Inter', sans-serif;
+            font-size: 14px;
+            border: none;
+            background: var(--cream);
+            border-radius: 8px;
+            color: var(--ink);
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            outline: 2px solid var(--terracotta);
+        }
+
+        .search-input::placeholder {
+            color: var(--ash);
+        }
+
+        /* Hero */
+        .hero {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 180px 80px 80px;
+        }
+
+        .hero h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 72px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            margin-bottom: 24px;
+        }
+
+        .hero-count {
+            font-size: 16px;
+            color: var(--smoke);
+            font-weight: 300;
+        }
+
+        /* Controls */
+        .controls {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 60px 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--sand);
+        }
+
+        .filters {
+            display: flex;
+            gap: 40px;
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+        }
+
+        .filter-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--ash);
+            font-weight: 500;
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 12px;
+        }
+
+        .filter-btn {
+            background: transparent;
+            border: none;
+            padding: 8px 16px;
+            font-family: 'Inter', sans-serif;
+            font-size: 13px;
+            color: var(--smoke);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 400;
+            border-radius: 6px;
+        }
+
+        .filter-btn:hover {
+            color: var(--terracotta);
+        }
+
+        .filter-btn.active {
+            background: var(--cream);
+            color: var(--ink);
+            font-weight: 500;
+        }
+
+        .view-toggle {
+            display: flex;
+            gap: 8px;
+        }
+
+        .view-btn {
+            background: transparent;
+            border: none;
+            padding: 10px;
+            color: var(--ash);
+            cursor: pointer;
+            transition: color 0.3s ease;
+            font-size: 16px;
+        }
+
+        .view-btn:hover {
+            color: var(--ink);
+        }
+
+        .view-btn.active {
+            color: var(--terracotta);
+        }
+
+        /* Books Grid */
+        .books {
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 80px 80px 200px;
+        }
+
+        .books-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 60px 40px;
+        }
+
+        .book-card {
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+        }
+
+        .book-card:hover {
+            transform: translateY(-8px);
+        }
+
+        .book-card:hover .book-cover {
+            box-shadow: 0 16px 48px rgba(26, 20, 18, 0.15);
+        }
+
+        .book-cover {
+            aspect-ratio: 2/3;
+            background: var(--cream);
+            margin-bottom: 20px;
+            box-shadow: 0 8px 32px rgba(26, 20, 18, 0.08);
+            transition: all 0.3s ease;
+        }
+
+        .book-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 15px;
+            font-weight: 400;
+            margin-bottom: 6px;
+            line-height: 1.4;
+            letter-spacing: -0.01em;
+        }
+
+        .book-author {
+            font-size: 12px;
+            color: var(--smoke);
+            margin-bottom: 4px;
+            font-weight: 300;
+        }
+
+        .book-year {
+            font-size: 11px;
+            color: var(--ash);
+            font-weight: 300;
+        }
+
+        /* Load More */
+        .load-more {
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        .load-more-btn {
+            font-family: 'Inter', sans-serif;
+            padding: 16px 40px;
+            background: var(--cream);
+            border: none;
+            color: var(--ink);
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-radius: 8px;
+        }
+
+        .load-more-btn:hover {
+            background: var(--terracotta);
+            color: var(--paper);
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .header-inner,
+            .hero,
+            .controls,
+            .books {
+                padding-left: 48px;
+                padding-right: 48px;
+            }
+
+            .hero h1 {
+                font-size: 56px;
+            }
+
+            .controls {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 32px;
+            }
+
+            .filters {
+                flex-direction: column;
+                gap: 24px;
+                width: 100%;
+            }
+
+            .books-grid {
+                grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            }
+        }
+
+        @media (max-width: 640px) {
+            .hero {
+                padding-top: 140px;
+            }
+
+            .hero h1 {
+                font-size: 44px;
+            }
+
+            .search-bar {
+                display: none;
+            }
+
+            .filter-buttons {
+                flex-wrap: wrap;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-inner">
+            <a href="elevated-landing.html" class="logo">AKSHARA</a>
+            <div class="search-bar">
+                <input type="search" class="search-input" placeholder="Search books, authors...">
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <h1>All Books</h1>
+        <p class="hero-count">247 works from 89 authors</p>
+    </section>
+
+    <!-- Controls -->
+    <section class="controls">
+        <div class="filters">
+            <div class="filter-group">
+                <div class="filter-label">Period</div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active">All</button>
+                    <button class="filter-btn">1847–1900</button>
+                    <button class="filter-btn">1901–1930</button>
+                    <button class="filter-btn">1931–1954</button>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <div class="filter-label">Genre</div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active">All</button>
+                    <button class="filter-btn">Fiction</button>
+                    <button class="filter-btn">Non-Fiction</button>
+                    <button class="filter-btn">Poetry</button>
+                    <button class="filter-btn">Drama</button>
+                </div>
+            </div>
+
+            <div class="filter-group">
+                <div class="filter-label">Language</div>
+                <div class="filter-buttons">
+                    <button class="filter-btn active">All</button>
+                    <button class="filter-btn">English</button>
+                    <button class="filter-btn">Hindi</button>
+                    <button class="filter-btn">Bengali</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="view-toggle">
+            <button class="view-btn active">⊞</button>
+            <button class="view-btn">☰</button>
+        </div>
+    </section>
+
+    <!-- Books Grid -->
+    <section class="books">
+        <div class="books-grid">
+            <a href="elevated-book-hub.html" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">My Experiments with Truth</h3>
+                <p class="book-author">Mahatma Gandhi</p>
+                <p class="book-year">1927</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Gitanjali</h3>
+                <p class="book-author">Rabindranath Tagore</p>
+                <p class="book-year">1910</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">The Discovery of India</h3>
+                <p class="book-author">Jawaharlal Nehru</p>
+                <p class="book-year">1946</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Anandamath</h3>
+                <p class="book-author">Bankim Chandra</p>
+                <p class="book-year">1882</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Saraswatichandra</h3>
+                <p class="book-author">Govardhanram</p>
+                <p class="book-year">1887</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Essays on the Gita</h3>
+                <p class="book-author">Sri Aurobindo</p>
+                <p class="book-year">1922</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Kanthapura</h3>
+                <p class="book-author">Raja Rao</p>
+                <p class="book-year">1938</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Devdas</h3>
+                <p class="book-author">Sarat Chandra</p>
+                <p class="book-year">1917</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Ghare Baire</h3>
+                <p class="book-author">Rabindranath Tagore</p>
+                <p class="book-year">1916</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Coolie</h3>
+                <p class="book-author">Mulk Raj Anand</p>
+                <p class="book-year">1936</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Untouchable</h3>
+                <p class="book-author">Mulk Raj Anand</p>
+                <p class="book-year">1935</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">The Guide</h3>
+                <p class="book-author">R. K. Narayan</p>
+                <p class="book-year">1958</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Hind Swaraj</h3>
+                <p class="book-author">Mahatma Gandhi</p>
+                <p class="book-year">1909</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Gora</h3>
+                <p class="book-author">Rabindranath Tagore</p>
+                <p class="book-year">1910</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">Godan</h3>
+                <p class="book-author">Premchand</p>
+                <p class="book-year">1936</p>
+            </a>
+
+            <a href="#" class="book-card">
+                <div class="book-cover"></div>
+                <h3 class="book-title">The Life Divine</h3>
+                <p class="book-author">Sri Aurobindo</p>
+                <p class="book-year">1939</p>
+            </a>
+        </div>
+
+        <div class="load-more">
+            <button class="load-more-btn">Load More Books</button>
+        </div>
+    </section>
+</body>
+</html>

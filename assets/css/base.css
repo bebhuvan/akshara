@@ -1,0 +1,194 @@
+/* Variables - Warm & Refined */
+:root {
+    /* Refined neutral scale - more nuanced tones */
+    --ink: #1a1614;
+    --ink-light: #2f2b28;
+    --paper: #fffffe;
+    --smoke: #6b6560;
+    --smoke-light: #8a8580;
+    --ash: #a8a39e;
+    --sand: #e5e2df;
+    --sand-light: #f0edea;
+    --cream: #faf8f6;
+
+    /* Primary accent - refined terracotta */
+    --accent: #c85a3a;
+    --accent-hover: #b04d2f;
+    --accent-light: rgba(200, 90, 58, 0.06);
+    --accent-lighter: rgba(200, 90, 58, 0.03);
+
+    /* Legacy support */
+    --terracotta: #c85a3a;
+    --terracotta-light: rgba(200, 90, 58, 0.06);
+
+    /* Extended palette - Indian-inspired */
+    --indigo: #4a5899;
+    --indigo-light: rgba(74, 88, 153, 0.08);
+    --saffron: #d4935c;
+    --saffron-light: rgba(212, 147, 92, 0.08);
+    --peacock: #2a8d7f;
+    --peacock-light: rgba(42, 141, 127, 0.08);
+    --turmeric: #d4b05a;
+    --turmeric-light: rgba(212, 176, 90, 0.08);
+}
+
+/* Dark theme - refined with warmer blacks */
+body.dark {
+    --ink: #ebe8e4;
+    --ink-light: #d4d1cd;
+    --paper: #1a1614;
+    --smoke: #a8a39e;
+    --smoke-light: #8a8580;
+    --ash: #6b6560;
+    --sand: #2f2b28;
+    --sand-light: #262320;
+    --cream: #232018;
+    --accent: #e67855;
+    --accent-hover: #f28a66;
+}
+
+/* Sepia theme - warmer, aged paper feel */
+body.sepia {
+    --ink: #3d3426;
+    --ink-light: #4a4032;
+    --paper: #f4ecd8;
+    --smoke: #6e6250;
+    --smoke-light: #857a68;
+    --ash: #9d9181;
+    --sand: #ddd4c0;
+    --sand-light: #e7dfd0;
+    --cream: #ede7da;
+    --accent: #b04d2f;
+    --accent-hover: #a04426;
+}
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Base typography */
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background: var(--paper);
+    color: var(--ink);
+    line-height: 1.6;
+    font-weight: 400;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'kern' 1, 'liga' 1, 'calt' 1;
+}
+
+/* Force scrollbar to always show */
+html {
+    overflow-y: scroll;
+}
+
+/* Custom scrollbar styling */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--sand-light);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--ash);
+    border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--smoke);
+}
+
+/* Firefox scrollbar */
+* {
+    scrollbar-width: auto;
+    scrollbar-color: var(--ash) var(--sand-light);
+}
+
+/* Selection */
+::selection {
+    background: var(--accent-light);
+    color: var(--ink);
+}
+
+/* Responsive images */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Links */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* Headings - Refined scale with optical adjustments */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Crimson Text', Georgia, serif;
+    font-weight: 600;
+    line-height: 1.2;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    font-feature-settings: 'kern' 1, 'liga' 1, 'dlig' 1;
+}
+
+h1 {
+    font-size: 68px;
+    margin-bottom: 36px;
+    line-height: 1.08;
+    letter-spacing: -0.03em;
+    font-weight: 500;
+}
+
+h2 {
+    font-size: 44px;
+    margin-bottom: 28px;
+    line-height: 1.15;
+    letter-spacing: -0.025em;
+    font-weight: 500;
+}
+
+h3 {
+    font-size: 28px;
+    margin-bottom: 24px;
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+}
+
+/* Body text - Optimized for readability */
+p {
+    margin-bottom: 24px;
+    line-height: 1.75;
+    max-width: 70ch;
+    letter-spacing: -0.002em;
+}
+
+/* Lists */
+ul, ol {
+    margin-bottom: 16px;
+    padding-left: 24px;
+}
+
+/* Responsive typography */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 48px;
+    }
+
+    h2 {
+        font-size: 36px;
+    }
+
+    h3 {
+        font-size: 24px;
+    }
+}

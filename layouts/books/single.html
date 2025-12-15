@@ -1,0 +1,185 @@
+{{ define "main" }}
+{{ partial "header.html" . }}
+
+<!-- Book Hero -->
+<section class="book-page-hero">
+    <div class="book-hero">
+        <div class="book-cover-area">
+            {{ with .Params.cover }}
+            <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover-large">
+            {{ else }}
+            <div class="book-cover-large">
+                <span>{{ substr .Title 0 1 }}</span>
+            </div>
+            {{ end }}
+        </div>
+
+        <div class="book-info">
+            <h1>{{ .Title }}</h1>
+            {{ with .Params.subtitle }}
+            <p class="book-subtitle">{{ . }}</p>
+            {{ end }}
+            {{ if .Params.editor }}
+            <p class="book-author-large">Edited by {{ .Params.editor }}</p>
+            {{ else }}
+            <p class="book-author-large">{{ .Params.author }}</p>
+            {{ end }}
+
+            {{ with .Params.description }}
+            <p class="book-description">{{ . }}</p>
+            {{ end }}
+
+            <div class="quick-meta">
+                {{ with .Params.year }}
+                <div class="quick-meta-item">
+                    <div class="quick-label">Published</div>
+                    <div class="quick-value">{{ . }}</div>
+                </div>
+                {{ end }}
+                {{ with .Params.pages }}
+                <div class="quick-meta-item">
+                    <div class="quick-label">Pages</div>
+                    <div class="quick-value">{{ . }}</div>
+                </div>
+                {{ end }}
+                <div class="quick-meta-item">
+                    <div class="quick-label">Chapters</div>
+                    <div class="quick-value">{{ .Params.chapters }}</div>
+                </div>
+                <div class="quick-meta-item">
+                    <div class="quick-label">Reading Time</div>
+                    <div class="quick-value">{{ .Params.reading_time }}</div>
+                </div>
+                {{ with .Params.language }}
+                <div class="quick-meta-item">
+                    <div class="quick-label">Language</div>
+                    <div class="quick-value">{{ . }}</div>
+                </div>
+                {{ end }}
+                {{ with .Params.period }}
+                <div class="quick-meta-item">
+                    <div class="quick-label">Period</div>
+                    <div class="quick-value">{{ . }}</div>
+                </div>
+                {{ end }}
+            </div>
+
+            <div class="book-actions">
+                {{ $chapters := where .Pages "Type" "chapters" }}
+                {{ with $chapters }}
+                    {{ $firstChapter := index . 0 }}
+                    <a href="{{ $firstChapter.RelPermalink }}" class="btn-primary">Begin Reading</a>
+                {{ end }}
+                <a href="#toc" class="btn-secondary">Table of Contents</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Main Content -->
+<div class="main-content">
+    <div class="content-primary">
+        <!-- About -->
+        <section class="section">
+            <h2 class="section-title">About This Work</h2>
+            <div class="context-text">
+                {{ .Content }}
+            </div>
+        </section>
+
+        <!-- TOC -->
+        <section class="section" id="toc">
+            <h2 class="section-title">Contents</h2>
+            <ul class="toc-list">
+                {{ $chapters := where .Pages "Type" "chapters" }}
+                {{ range $chapters.ByWeight }}
+                <li class="toc-item">
+                    <a href="{{ .RelPermalink }}">
+                        <span class="toc-num">{{ .Params.chapter_number }}</span>
+                        <span>{{ .Title }}</span>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </section>
+
+        <!-- Archive Embed -->
+        {{ with .Params.archive_url }}
+        <section class="section">
+            <h2 class="section-title">Original Source</h2>
+            <iframe src="{{ . }}?view=theater" class="archive-embed" frameborder="0"></iframe>
+        </section>
+        {{ end }}
+    </div>
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <!-- Downloads -->
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">Download</h3>
+            <ul class="download-list">
+                {{ with .Params.download_epub }}
+                <li class="download-item">
+                    <a href="{{ . }}">EPUB</a>
+                </li>
+                {{ end }}
+                {{ with .Params.download_md }}
+                <li class="download-item">
+                    <a href="{{ . }}">Markdown</a>
+                </li>
+                {{ end }}
+                {{ with .Params.download_txt }}
+                <li class="download-item">
+                    <a href="{{ . }}">Plain Text</a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- References -->
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">References</h3>
+            <!-- Debug: {{ .Params.author_wikipedia_url }} -->
+            <ul class="reference-list">
+                {{ with .Params.wikipedia_url }}
+                <li class="reference-item"><a href="{{ . }}">Wikipedia</a></li>
+                {{ end }}
+                {{ with .Params.author_wikipedia_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Wikipedia</a></li>
+                {{ end }}
+                {{ with .Params.editor_wikipedia_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Editor (Wikipedia)</a></li>
+                {{ end }}
+                {{ with .Params.wikisource_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Wikisource</a></li>
+                {{ end }}
+                {{ with .Params.archive_url }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Archive.org Source</a></li>
+                {{ end }}
+            </ul>
+        </div>
+
+        <!-- Source -->
+        {{ with .Params.digitized_from }}
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">Source</h3>
+            <p class="digitization-note">
+                Scanned by {{ . }}. Text extracted and cleaned for this edition. Historical spelling and punctuation preserved.
+            </p>
+        </div>
+        {{ end }}
+
+        <!-- Notes -->
+        {{ with .Params.digitization_notes }}
+        <div class="sidebar-section">
+            <h3 class="sidebar-title">Notes</h3>
+            <div class="digitization-note">
+                {{ . | markdownify }}
+            </div>
+        </div>
+        {{ end }}
+    </aside>
+</div>
+
+{{ partial "footer.html" . }}
+{{ end }}

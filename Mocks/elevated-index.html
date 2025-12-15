@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akshara - Design System</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --ink: #1a1412;
+            --paper: #fffef9;
+            --smoke: #6b6560;
+            --cream: #f5f2ec;
+            --terracotta: #c85a3a;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--paper);
+            color: var(--ink);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 140px 80px;
+        }
+
+        h1 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 96px;
+            font-weight: 400;
+            line-height: 1;
+            letter-spacing: -0.03em;
+            margin-bottom: 40px;
+        }
+
+        h1 em {
+            font-style: italic;
+            color: var(--terracotta);
+        }
+
+        .subtitle {
+            font-size: 19px;
+            color: var(--smoke);
+            max-width: 680px;
+            line-height: 1.75;
+            font-weight: 300;
+            margin-bottom: 160px;
+        }
+
+        .pages {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 60px;
+            margin-bottom: 200px;
+        }
+
+        .page-card {
+            text-decoration: none;
+            color: var(--ink);
+            transition: all 0.3s ease;
+        }
+
+        .page-card:hover {
+            transform: translateY(-8px);
+        }
+
+        .page-card:hover .page-preview {
+            box-shadow: 0 16px 64px rgba(26, 20, 18, 0.15);
+        }
+
+        .page-preview {
+            aspect-ratio: 16/10;
+            background: var(--cream);
+            margin-bottom: 28px;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 32px rgba(26, 20, 18, 0.08);
+        }
+
+        .page-label {
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.12em;
+            color: var(--smoke);
+            margin-bottom: 16px;
+            font-weight: 500;
+        }
+
+        .page-title {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 32px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            margin-bottom: 16px;
+        }
+
+        .page-description {
+            font-size: 15px;
+            color: var(--smoke);
+            line-height: 1.7;
+            font-weight: 300;
+        }
+
+        .features {
+            background: var(--ink);
+            color: var(--paper);
+            padding: 120px 80px;
+            margin: 0 -80px 200px;
+        }
+
+        .features h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 52px;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 80px;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 60px;
+        }
+
+        .feature h3 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 22px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            margin-bottom: 16px;
+        }
+
+        .feature p {
+            font-size: 15px;
+            color: #9c948e;
+            line-height: 1.7;
+            font-weight: 300;
+        }
+
+        .principles {
+            margin-bottom: 120px;
+        }
+
+        .principles h2 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 52px;
+            font-weight: 400;
+            letter-spacing: -0.02em;
+            margin-bottom: 80px;
+        }
+
+        .principles-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 80px 100px;
+        }
+
+        .principle h3 {
+            font-family: 'Libre Baskerville', serif;
+            font-size: 24px;
+            font-weight: 400;
+            letter-spacing: -0.01em;
+            margin-bottom: 16px;
+        }
+
+        .principle p {
+            font-size: 15px;
+            color: var(--smoke);
+            line-height: 1.75;
+            font-weight: 300;
+        }
+
+        @media (max-width: 1024px) {
+            .container {
+                padding: 100px 48px;
+            }
+
+            h1 {
+                font-size: 72px;
+            }
+
+            .pages {
+                grid-template-columns: 1fr;
+            }
+
+            .features {
+                padding: 100px 48px;
+                margin: 0 -48px 160px;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .principles-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 80px 32px;
+            }
+
+            h1 {
+                font-size: 52px;
+            }
+
+            .subtitle {
+                margin-bottom: 100px;
+            }
+
+            .pages {
+                margin-bottom: 120px;
+            }
+
+            .features {
+                padding: 80px 32px;
+                margin: 0 -32px 120px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Akshara has <em>character</em></h1>
+            <p class="subtitle">A warm, sophisticated design system for Indian literary archives. Not a boring database—a living, breathing celebration of literature with reading experiences that truly matter.</p>
+        </header>
+
+        <div class="pages">
+            <a href="elevated-landing.html" class="page-card">
+                <div class="page-preview"></div>
+                <div class="page-label">01 — Landing</div>
+                <h3 class="page-title">Archive Home</h3>
+                <p class="page-description">Warm paper tones, italic emphasis, numbered collections, and a featured quote section that brings personality</p>
+            </a>
+
+            <a href="elevated-book-hub.html" class="page-card">
+                <div class="page-preview"></div>
+                <div class="page-label">02 — Book Hub</div>
+                <h3 class="page-title">Book Introduction</h3>
+                <p class="page-description">Sticky cover sidebar, reading time estimates, quick metadata, and beautiful asymmetric layouts</p>
+            </a>
+
+            <a href="elevated-reading.html" class="page-card">
+                <div class="page-preview"></div>
+                <div class="page-label">03 — Reading</div>
+                <h3 class="page-title">Pure Immersion</h3>
+                <p class="page-description">Focus mode, keyboard shortcuts, progress tracking, reading time, and typography that disappears into the text</p>
+            </a>
+        </div>
+    </div>
+
+    <section class="features">
+        <div class="container" style="padding: 0;">
+            <h2>What Makes This Different</h2>
+            <div class="features-grid">
+                <div class="feature">
+                    <h3>Libre Baskerville</h3>
+                    <p>A warm, characterful serif with optical sizing. Not clinical like IBM Plex, not generic like Crimson. Perfect for extended reading with real personality.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Warm Paper Palette</h3>
+                    <p>Cream (#fffef9), not stark white. Terracotta accent, not blue. Smoke and ash grays with warmth. Feels like reading a beautiful old book.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Reading Time</h3>
+                    <p>Every chapter shows estimated reading time. Progress tracking shows chapters completed and percentage through the book. You know where you are.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Focus Mode</h3>
+                    <p>Press F to hide everything except text. True distraction-free reading. Press F again to exit. Also works with Esc.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Keyboard Shortcuts</h3>
+                    <p>T for TOC, S for settings, F for focus, arrows for chapters. Visual hints appear on first use. Power users will love this.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Position Memory</h3>
+                    <p>Leave mid-chapter, come back later—you're right where you left off. LocalStorage tracks your position automatically.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Italic Emphasis</h3>
+                    <p>Not just bold headings everywhere. Italics in the hero, in quotes, in book titles. More sophisticated, more editorial.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Numbered Collections</h3>
+                    <p>Huge ghosted numbers (01, 02, 03...) add visual rhythm to the collections grid. Subtle but distinctive.</p>
+                </div>
+
+                <div class="feature">
+                    <h3>Sticky Cover</h3>
+                    <p>Book cover stays in view as you scroll the hub page. Small detail, big impact on the feeling of browsing.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="container">
+        <section class="principles">
+            <h2>Design Principles</h2>
+            <div class="principles-grid">
+                <div class="principle">
+                    <h3>Warmth Over Coldness</h3>
+                    <p>Paper tones, not stark white. Terracotta, not clinical blue. This is literature, not a database—the design should feel alive.</p>
+                </div>
+
+                <div class="principle">
+                    <h3>Character Through Typography</h3>
+                    <p>Libre Baskerville brings personality. Italics add emphasis. Dramatic scale creates hierarchy. Type does the heavy lifting.</p>
+                </div>
+
+                <div class="principle">
+                    <h3>Thoughtful Interactions</h3>
+                    <p>Hover states that lift elements up. Links that underline on hover. Keyboard shortcuts for power users. Animations with purpose.</p>
+                </div>
+
+                <div class="principle">
+                    <h3>Reading First, Always</h3>
+                    <p>Focus mode removes everything. Progress tracking helps navigation. Reading time sets expectations. Position memory remembers where you were. Typography optimized for hours of reading.</p>
+                </div>
+
+                <div class="principle">
+                    <h3>Subtle Details</h3>
+                    <p>Custom selection color. Print styles. Smooth scroll behavior. Sticky elements. Shadow on hover. Each detail considered.</p>
+                </div>
+
+                <div class="principle">
+                    <h3>Not Minimal, Essential</h3>
+                    <p>We don't remove things for aesthetics—we remove distractions from reading. What remains serves a purpose.</p>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+</html>
