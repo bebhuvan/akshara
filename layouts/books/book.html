@@ -43,14 +43,15 @@
 </section>
 
 <!-- Download Section -->
+{{ if .Params.downloads }}
 <section class="download-card-section">
     <div class="download-card">
         <div class="download-card-header">
             <h3 class="download-card-title">Download</h3>
         </div>
         <div class="download-buttons">
-            <a href="/downloads/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.epub" class="download-btn"
-                download>
+            {{ with .Params.downloads.epub }}
+            <a href="{{ . }}" class="download-btn" target="_blank" rel="noopener">
                 <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     stroke-width="2">
                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
@@ -59,8 +60,9 @@
                 </svg>
                 <span class="download-format">EPUB</span>
             </a>
-            <a href="/downloads/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.pdf" class="download-btn"
-                download>
+            {{ end }}
+            {{ with .Params.downloads.pdf }}
+            <a href="{{ . }}" class="download-btn" target="_blank" rel="noopener">
                 <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     stroke-width="2">
                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
@@ -69,8 +71,9 @@
                 </svg>
                 <span class="download-format">PDF</span>
             </a>
-            <a href="/downloads/{{ .File.ContentBaseName }}/{{ .File.ContentBaseName }}.md" class="download-btn"
-                download>
+            {{ end }}
+            {{ with .Params.downloads.markdown }}
+            <a href="{{ . }}" class="download-btn" target="_blank" rel="noopener">
                 <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     stroke-width="2">
                     <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
@@ -79,9 +82,11 @@
                 </svg>
                 <span class="download-format">Markdown</span>
             </a>
+            {{ end }}
         </div>
     </div>
 </section>
+{{ end }}
 
 <!-- Metadata Section -->
 <section class="book-metadata-section">
