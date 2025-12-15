@@ -2881,6 +2881,119 @@ body.focus-mode .progress {
     }
 }
 
+/* Content Page Links */
+.content a {
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid rgba(200, 90, 58, 0.3);
+    transition: all 0.2s ease;
+}
+
+.content a:hover {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+}
+
+/* Content Page Blockquotes */
+.content blockquote {
+    border-left: 3px solid var(--accent);
+    padding: 24px 0 24px 32px;
+    margin: 48px 0;
+    background: var(--cream);
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+    font-style: italic;
+    color: var(--ink-light);
+    line-height: 1.75;
+    position: relative;
+}
+
+.content blockquote::before {
+    content: '"';
+    position: absolute;
+    left: 12px;
+    top: 8px;
+    font-size: 3em;
+    color: var(--accent);
+    opacity: 0.2;
+    font-style: normal;
+    line-height: 1;
+    font-family: 'Crimson Text', serif;
+}
+
+.content blockquote p {
+    margin-bottom: 16px;
+}
+
+.content blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* Content Page Lists */
+.content ul,
+.content ol {
+    margin-bottom: 28px;
+    padding-left: 28px;
+}
+
+.content li {
+    margin-bottom: 8px;
+    line-height: 1.7;
+}
+
+/* Get in Touch / Contact Section */
+.content h2:last-of-type + p {
+    /* Style for contact links after "Get in Touch" heading */
+}
+
+.contact-links,
+.content p:last-of-type a {
+    color: var(--accent);
+}
+
+/* About Page Specific */
+.about-contact {
+    margin-top: 64px;
+    padding-top: 48px;
+    border-top: 1px solid var(--sand);
+}
+
+.about-contact h2 {
+    font-size: 28px;
+    margin-bottom: 24px;
+}
+
+.contact-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px 24px;
+    font-size: 15px;
+}
+
+.contact-row a {
+    color: var(--smoke);
+    text-decoration: none;
+    padding: 8px 0;
+    border-bottom: 1px solid transparent;
+    transition: all 0.2s ease;
+}
+
+.contact-row a:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+
+/* Inline contact links in paragraph */
+.content p a[href*="linkedin"],
+.content p a[href*="twitter"],
+.content p a[href*="substack"],
+.content p a[href*="mailto"],
+.content p a[href*="bebhuvan.com"] {
+    display: inline-block;
+    padding: 4px 0;
+    margin: 0 4px;
+}
+
 /* Print Styles */
 @media print {
 

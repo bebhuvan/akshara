@@ -95,6 +95,8 @@ I can't think of a better name than that.
 
 Words are truly eternal.
 
+---
+
 ## Get in Touch
 
 If you'd like to reach out, you can find me at:
