@@ -19,7 +19,8 @@ not_found_handling = "404-page"
 [env.production]
 name = "akshara"
 routes = [
-  { pattern = "akshara.ink/*", zone_name = "akshara.ink" }
+  { pattern = "akshara.ink/*", zone_name = "akshara.ink" },
+  { pattern = "www.akshara.ink/*", zone_name = "akshara.ink" }
 ]
 
 [env.production.vars]
