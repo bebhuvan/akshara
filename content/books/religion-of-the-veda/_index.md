@@ -22,6 +22,7 @@ wikisource_url: "https://en.wikisource.org/wiki/Author:Maurice_Bloomfield"
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain. Imported to Akshara Hugo site 2025-12-14."
+download_url: "https://drive.google.com/drive/folders/1bg-wpmYQqC1tmHsnulx6X0dAyT7RSUSg?usp=sharing"
 
 cascade:
   type: "chapters"
