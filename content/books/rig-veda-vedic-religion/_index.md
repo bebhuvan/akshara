@@ -22,6 +22,7 @@ digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain. Imported to Akshara Hugo site 2025-12-15."
 epub_url: "https://drive.google.com/file/d/1DhW0TCsUDx7-V8iwPgmaWkKIVYDIbY0C/view?usp=sharing"
 markdown_url: "https://drive.google.com/file/d/1JIonvxhON6dTOVMYpUinaEeSBYcUqz0_/view?usp=sharing"
+download_url: "https://drive.google.com/drive/folders/1dPf5eBFadTJXWMVYFVFHxEiKlv4tS0sO?usp=sharing"
 
 cascade:
   type: "chapters"

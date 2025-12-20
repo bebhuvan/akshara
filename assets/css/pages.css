@@ -362,18 +362,8 @@
         font-size: 44px;
     }
 
-    .collection-card:nth-child(2),
-    .collection-card:nth-child(3) {
-        transform: translateY(0);
-    }
-
-    .collection-card:nth-child(2):hover,
-    .collection-card:nth-child(3):hover {
-        transform: translateY(-4px);
-    }
-
     .collection-name {
-        font-size: 32px;
+        font-size: 26px;
     }
 
     .recent {
@@ -513,21 +503,11 @@
     }
 
     .collection-card {
-        padding: 48px 40px;
-    }
-
-    .collection-card:nth-child(2),
-    .collection-card:nth-child(3) {
-        transform: translateY(0);
-    }
-
-    .collection-card:nth-child(2):hover,
-    .collection-card:nth-child(3):hover {
-        transform: translateY(-4px);
+        padding: 36px 32px;
     }
 
     .collection-name {
-        font-size: 28px;
+        font-size: 24px;
     }
 
     .recent {
@@ -583,74 +563,57 @@
 }
 
 .collection-card {
-    padding: 64px 56px;
+    padding: 48px 40px;
     background: var(--paper);
     border: 1px solid var(--sand);
-    border-top: 2px solid var(--accent);
+    border-left: 3px solid var(--accent);
     text-decoration: none;
     color: var(--ink);
     position: relative;
     transition: all 0.25s ease;
+    display: flex;
+    flex-direction: column;
 }
 
 .collection-card:hover {
-    border-top-color: var(--accent);
     border-color: var(--accent);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.04);
-}
-
-/* Staggered vertical alignment for visual rhythm */
-.collection-card:nth-child(2) {
-    transform: translateY(20px);
-}
-
-.collection-card:nth-child(2):hover {
-    transform: translateY(16px);
-}
-
-.collection-card:nth-child(3) {
-    transform: translateY(-12px);
-}
-
-.collection-card:nth-child(3):hover {
-    transform: translateY(-16px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+    transform: translateY(-2px);
 }
 
 .collection-number {
-    font-size: 10px;
+    font-size: 11px;
     font-weight: 600;
     color: var(--accent);
-    margin-bottom: 28px;
-    letter-spacing: 0.2em;
-    opacity: 0.7;
+    margin-bottom: 20px;
+    letter-spacing: 0.15em;
     font-family: 'Inter', sans-serif;
 }
 
 .collection-name {
     font-family: 'Crimson Text', serif;
-    font-size: 38px;
-    margin-bottom: 16px;
-    letter-spacing: -0.035em;
-    line-height: 1.12;
-    font-weight: 500;
-}
-
-.collection-count {
-    font-size: 11px;
-    color: var(--ash);
-    margin-bottom: 32px;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    font-family: 'Inter', sans-serif;
+    font-size: 28px;
+    margin-bottom: 12px;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
     font-weight: 600;
 }
 
+.collection-count {
+    font-size: 12px;
+    color: var(--ash);
+    margin-bottom: 20px;
+    letter-spacing: 0.05em;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+
 .collection-description {
-    font-size: 16px;
+    font-size: 15px;
     color: var(--smoke);
-    line-height: 1.7;
-    max-width: 38ch;
+    line-height: 1.65;
     letter-spacing: -0.003em;
+    margin-top: auto;
 }
 
 /* Recent Books Section */

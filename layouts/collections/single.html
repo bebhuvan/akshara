@@ -40,16 +40,14 @@
         <div class="collection-books">
             <h2 class="section-title">Books in This Collection</h2>
             <div class="books-grid">
-                {{ $booksSection := $.Site.GetPage "section" "books" }}
-                {{ range .Params.books }}
-                    {{ $slug := . }}
-                    {{ range $booksSection.Sections }}
-                        {{ if eq .File.ContentBaseName "_index" }}
-                            {{ $folderName := path.Base .File.Dir }}
-                            {{ if eq $folderName $slug }}
-                                {{ partial "book-card.html" . }}
-                            {{ end }}
-                        {{ end }}
+                {{ $allBooks := where $.Site.Pages "Section" "books" }}
+                {{ $allBooks = where $allBooks "Kind" "section" }}
+                {{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
+                {{ $bookSlugs := .Params.books }}
+                {{ range $allBooks }}
+                    {{ $bookDir := path.Base .File.Dir }}
+                    {{ if in $bookSlugs $bookDir }}
+                        {{ partial "book-card.html" . }}
                     {{ end }}
                 {{ end }}
             </div>

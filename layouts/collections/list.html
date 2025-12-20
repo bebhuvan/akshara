@@ -12,7 +12,7 @@
         <a href="{{ .RelPermalink }}" class="collection-card">
             <div class="collection-number">{{ printf "%02d" (add $index 1) }}</div>
             <h3 class="collection-name">{{ .Title }}</h3>
-            <div class="collection-count">{{ .Params.book_count }} Books</div>
+            <div class="collection-count">{{ .Params.book_count }} {{ if eq .Params.book_count 1 }}Book{{ else }}Books{{ end }}</div>
             <p class="collection-description">{{ .Params.description }}</p>
         </a>
         {{ end }}
