@@ -1,0 +1,48 @@
+---
+title: "The Congress-League Scheme"
+weight: 32
+chapter_number: "32"
+type: "chapters"
+---
+
+## THE CONGRESS-LEAGUE SCHEME.
+
+*Mrs. Sarojini Naidu in seconding the Resolution on the Congress-League Scheme of Reforms at the Madras Special Provincial Conference on December 21, 1917, said :*
+
+Mr. President, ladies and gentlemen of the Madras Presidency—I do not know exactly what right I have to stand in a Special Conference of the Madras Presidency to address you on so momentous a question as has been embodied in this resolution. But as the time has long since gone by when anything could remain merely provincial, when any question could remain merely local, I crave your indulgence for a few moments to add my words of support to this resolution.
+
+What are the strongest arguments that one can bring in favour of the irreducible minimum of demands for reform? Last September, I spent the entire season when the Imperial Legislative Council was in session and day after day, sitting in the visitors' gallery, my heart grew bitter within me for this reason. Some of the most important and vital questions that would conduce to the progress of Indians as Indians were brought up and as resolution after resolution was brought up in favour of simultaneous examinations of the Civil Service or the proportion of the recruits to the Civil Service, or the amelioration of the condition of the railway passengers or anything that might help a little to remove the political or the social defects of the nation, what did I find but an instinctive and invincible combination of the official and non-official European element in permanent opposition against every resolution ? (*Cries of shame, shame!*) That is what I said, to a friend of the Secretary of State who is with him that, after all our demands are based not on a political grievance so much but because our national self-respect has been trampled. It is not, as I said, a question of four-fifth elected or one-fifth nominated, not a question of so many more portfolios for Indians and so many less for Europeans. It is rather the fundamental question of our national self-respect being restored and that is the origin of this irreducible minimum of this Congress-League scheme of reforms. (Cheers.)
+
+A few months ago I was present in
+Delhi when the great field of discussion
+came in, the budget. The budget had been
+prepared, it had been passed, published and
+then by a farce—that is an insult—the
+Indian members were allowed to give their
+opinion on the budget. It is, as my friend
+Mr. Jinnah said, 'to put the cart before the
+horse, to pass the budget and invite discussion afterwards.' (Cheers.) Now, if we Indians have the control over the finances
+of our country, it cannot be that important
+estimates are passed for the current year,
+that money is disbursed or earmarked for
+any department without the sanction of
+the Indian members who have at heart the
+interests of the country. Then if you want
+more representation, representation that is
+not merely nominal but real and that those
+who represent the people in the Council of
+the Viceroy should be true spokesmen of
+the people, we must have our control over
+the revenues and the taxes because we
+alone know what presses hard on our people.
+(Cheers.) We must have the power to control the educational policies because we see around us those deadening results of foreign policy of education in which our voice has not been heard. Therefore more vital than anything is it that the educational portfolio should be in the hands of the Indian Member of the Council. When we have a large number of Indians represented in the Council, the voice of the many cannot be denied and when the voice of the many is heard then that one crucial reason of our deterioration, that is the right to avenge and the right to defend our country, that inalienable right of man, of being able to protect his household will come to us.
+
+With regard to communal representation, I personally am quite in agreement with Mr. K. P. Raman Menon and Mr. P. Kesava Pillai. And I think you will find that the majority of thinking men, Hindus and Muslims, are in agreement that the principle of communal representation is not the ideal one, but in practical politics sometimes we have to go by expediency towards the path of the ideal and that is why till we are able to establish that abiding trust in each other, love and co-operation, there should be communal representation. It is a temporary barrier between community and community and directly trust is established. Mussalmans will say, 'O Brethren Hindus we trust you.' The non-Brahmin will say, 'O subtle Brahmins we trust you.' The Panchamas who carried the bond of centuries will say, 'O Castemen we trust you.' Nobody will want separate representation but we will establish the true democracy of Indian life by saying the best men shall represent the best interests of India. Now, over this question of Muslim representation a lot has been written and said for and against. My own feeling is this—and I see a Mussalman friend looking at me very critically—(cheers) that had you not provided generously for the separate representation, it were not possible that within 5 years Mussalman brethren would have stood shoulder to shoulder with you, for, disorganized and so much behind the Hindu community they were. Because they began their political education later it was necessary for them to consolidate themselves as a unit first before they could come in a body to work side by side with their Hindu brethren. 
+
+The other day I was speaking to a great man, a Member of Parliament. He said to me, "It is all very well when you talk of Home Rule and the Congress-League scheme of Reforms as the first instalment of Home Rule. Then how are you going to make the masses understand the meaning of Home Rule." I said, "As long as we are patriotic in English we cannot make the masses understand. But we are having our Vernacular patriotism just now. There are groups of men who have made it possible to have the Gandhi's monster petition signed by the same masses." He said, "But how do you explain Home Rule to them?" I said "We can always explain the view by explaining to them their past. One has only to say to the villager that this Home Rule is no more than an expansion of his village councils and his own village democracies. It is the modern interpretation of his village panchayat liberated, enriched and co-ordinated to a vast central focus of power." But I said to him that there was one new element in it that did not belong to ancient India and that is I take a little trouble to adjust the views of the ordinary peasant in India and especially in Southern India. In Northern India where the Hindu and the Muslim have worked and lived side by side, it is no novel idea. 
+
+But in the south where the problem is not so vivid, so urgent and frequent, it is not always possible to make the Hindu villager understand that principle of the Home Rule democracy. But I said to him, "It is nothing that is difficult, nothing stands in our way because the heart of literate India beats in unison with the heart of the illiterate India and they will not be left out in any scheme of reform because without them we cannot work. They are the fates that will carry us to the goal." He was struck by what I said, but he said. "That is all right about the masses. But what about the Mussalmans ?" I said, "This Congress-League scheme is the work of the flower of the Hindu and Mahomedan intellect and spirit combined: representatives and elected people of the two communities have framed this. Where there is no education there is unity ; where there is education there is unity, but where there is half education amenable to persuasion and coercion there is no unity." (Cheers) 
+
+So, gentlemen, we must support the Congress League scheme. It is true it is an imperfect scheme. All schemes when you bring them to the merciless test of logic are illogical. And who is there from the Viceroy downward that is going to suggest a better scheme? If there is a better scheme less illogical and more perfect, we are willing to put it before the people and let them try the comparative merits of the schemes. We are not so rigid and hidebound in our own prejudices and predilections that we must enforce our own wishes in the best interests of the people as against better schemes. We are not so illogical ourselves, though our schemes may be. You can support the Congress League scheme, not merely by raising your hand and by offering your vote but in your own life by carrying out the principles of this scheme demanding and fulfilling the demands in your own community and insisting that the education policy of your own horizon is within your own hands. Begin to take a little more interest in matters around you. Do not put by your patriotic instincts for times and seasons convenient to you. 
+
+It does not mean that all of you should be politicians but it does mean that all of you should be patriots. Patriotism is not a thing divorced from real life. It is the flame that burns within the soul, a gem-like flame that cannot be extinguished. The Congress-League scheme is a little thing. If you be not united and earnest even that little is too much of a burden for you to sustain, but if you are united, if you forget your community and think of the nation, if you forget your city and think of the province, if you forget you are a Hindu and remember the Mussalman, if you forget you are a Brahman and remember the Panchama then and then alone will India progress. (*Loud cheers and applause*)

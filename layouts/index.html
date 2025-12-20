@@ -5,20 +5,23 @@
 <!-- Hero -->
 <section class="hero">
     <div class="hero-content">
-        <div class="hero-eyebrow">The Akshara Archive</div>
+        <div class="hero-eyebrow">Project Akshara</div>
         <h1>Making India's <em>forgotten</em> books readable</h1>
-        <p class="hero-intro">Extracting and cleaning up text from rare PDFs, one book at a time. It's a slow process, but someone had to start.</p>
+        <p class="hero-intro">Reviving India's literary heritage from fading pages and forgotten archives.</p>
 
         <div class="hero-stats">
             {{ $allBooks := where .Site.Pages "Section" "books" }}
             {{ $allBooks = where $allBooks "Kind" "section" }}
-            {{ $bookCount := 0 }}
+            {{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
+            {{ $bookCount := len $allBooks }}
+            {{/* Count unique authors from books */}}
+            {{ $authors := slice }}
             {{ range $allBooks }}
-                {{ if ne .File.Path "books/_index.md" }}
-                    {{ $bookCount = add $bookCount 1 }}
+                {{ with .Params.author }}
+                    {{ $authors = $authors | append . }}
                 {{ end }}
             {{ end }}
-            {{ $authorCount := len (where .Site.Pages "Type" "authors") }}
+            {{ $authorCount := len (uniq $authors) }}
 
             <div class="stat">
                 <div class="stat-number">{{ $bookCount }}</div>
@@ -32,32 +35,34 @@
     </div>
 </section>
 
-<!-- Featured Book -->
-{{ with .Site.Params.featured_book }}
-    {{ with $.Site.GetPage (printf "/books/%s" .) }}
-    <section class="featured">
-        <div class="featured-book">
-            <div class="featured-visual">
-                {{ with .Params.featured_quote }}
-                <blockquote class="featured-quote">{{ . | markdownify }}</blockquote>
-                {{ end }}
-            </div>
-            <div class="featured-content">
-                <div class="featured-label">Recently Digitized</div>
-                <h2 class="featured-title">{{ .Title }}</h2>
-                <p class="featured-author">
-                    {{ if .Params.editor }}
-                        Edited by {{ .Params.editor }}, {{ .Params.year }}
-                    {{ else }}
-                        {{ .Params.author }}, {{ .Params.year }}
-                    {{ end }}
-                </p>
-                <p class="featured-excerpt">{{ .Params.description }}</p>
-                <a href="{{ .RelPermalink }}" class="btn-primary">Begin Reading</a>
-            </div>
+<!-- Featured Book (Latest) -->
+{{ $books := where .Site.Pages "Section" "books" }}
+{{ $books = where $books "Kind" "section" }}
+{{ $books = where $books "File.Path" "!=" "books/_index.md" }}
+{{ $latestBook := index ($books.ByDate.Reverse) 0 }}
+{{ with $latestBook }}
+<section class="featured">
+    <div class="featured-book">
+        <div class="featured-visual">
+            {{ with .Params.featured_quote }}
+            <blockquote class="featured-quote">{{ . | markdownify }}</blockquote>
+            {{ end }}
         </div>
-    </section>
-    {{ end }}
+        <div class="featured-content">
+            <div class="featured-label">Recently Digitized</div>
+            <h2 class="featured-title">{{ .Title }}</h2>
+            <p class="featured-author">
+                {{ if .Params.editor }}
+                    Edited by {{ .Params.editor }}, {{ .Params.year }}
+                {{ else }}
+                    {{ .Params.author }}, {{ .Params.year }}
+                {{ end }}
+            </p>
+            <p class="featured-excerpt">{{ .Params.description }}</p>
+            <a href="{{ .RelPermalink }}" class="btn-primary">Begin Reading</a>
+        </div>
+    </div>
+</section>
 {{ end }}
 
 <!-- Recent Books -->

@@ -31,7 +31,7 @@
             {{ end }}
 
             <div class="book-actions">
-                {{ $chapters := where .Pages "Type" "chapters" }}
+                {{ $chapters := (where .Pages "Type" "chapters").ByWeight }}
                 {{ with $chapters }}
                 {{ $firstChapter := index . 0 }}
                 <a href="{{ $firstChapter.RelPermalink }}" class="btn-primary">Begin Reading</a>
@@ -81,6 +81,15 @@
                     <line x1="12" y1="15" x2="12" y2="3"></line>
                 </svg>
                 <span class="download-format">Markdown</span>
+            </a>
+            {{ end }}
+            {{ with .Params.downloads.folder }}
+            <a href="{{ . }}" class="download-btn" target="_blank" rel="noopener">
+                <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path>
+                </svg>
+                <span class="download-format">All Formats</span>
             </a>
             {{ end }}
         </div>
@@ -243,6 +252,9 @@
                 {{ with .Params.archive_url }}
                 <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Archive.org Source</a></li>
                 {{ end }}
+                {{ with .Params.archive_url_2 }}
+                <li class="reference-item"><a href="{{ . }}" target="_blank" rel="noopener">Archive.org Source (Alt)</a></li>
+                {{ end }}
             </ul>
         </div>
 
@@ -269,7 +281,7 @@
                 A Note on This Edition
             </h3>
             <div class="edition-notice-content">
-                <p>I've made this book readable using AI (Claude Haiku 4.5 and Gemini Flash 2.5) to extract text from
+                <p>I've made this book readable using AI (Claude Haiku 4.5, Gemini Flash 2.5, and Gemini 3) to extract text from
                     scanned PDFs. In my experience, accuracy is typically around 85–95%. Since I run Akshara entirely on
                     my own, I can't promise perfection, but I do run multiple passes to catch as many errors as
                     possible.</p>

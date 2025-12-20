@@ -80,8 +80,8 @@
                 <div class="menu-book-title">{{ $book.Title }}</div>
                 <div class="menu-book-author">{{ $book.Params.editor | default $book.Params.author }}</div>
                 <div class="menu-progress">
-                    {{ .Params.chapter_number }} of {{ len $chapters }} ·
-                    {{ $progress := div (mul .Params.chapter_number 100) (len $chapters) }}
+                    {{ with .Params.chapter_number }}{{ . }} of {{ len $chapters }} · {{ end }}
+                    {{ $progress := div (mul .Weight 100) (len $chapters) }}
                     {{ $progress }}% complete
                 </div>
             </div>

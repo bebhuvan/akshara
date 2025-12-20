@@ -2463,16 +2463,17 @@ body.focus-mode .progress {
 }
 
 .footer-logo .logo-mark {
-    font-size: 20px;
+    width: 28px;
+    height: 28px;
     color: var(--accent);
-    font-weight: 400;
-    line-height: 1;
+    flex-shrink: 0;
 }
 
 .footer-logo .logo-text {
-    font-family: 'Crimson Text', serif;
-    font-size: 16px;
+    font-family: 'Libre Baskerville', 'Crimson Text', Georgia, serif;
+    font-size: 18px;
     font-weight: 400;
+    font-style: italic;
     letter-spacing: 0.02em;
     color: var(--ink);
     line-height: 1;
@@ -2897,32 +2898,18 @@ body.focus-mode .progress {
 /* Content Page Blockquotes */
 .content blockquote {
     border-left: 3px solid var(--accent);
-    padding: 24px 0 24px 32px;
-    margin: 48px 0;
-    background: var(--cream);
-    font-family: 'Crimson Text', serif;
-    font-size: 18px;
+    padding: 0 0 0 1.5em;
+    margin: 2em 0;
+    background: transparent;
+    font-size: 1.05em;
     font-style: italic;
     color: var(--ink-light);
-    line-height: 1.75;
+    line-height: 1.8;
     position: relative;
 }
 
-.content blockquote::before {
-    content: '"';
-    position: absolute;
-    left: 12px;
-    top: 8px;
-    font-size: 3em;
-    color: var(--accent);
-    opacity: 0.2;
-    font-style: normal;
-    line-height: 1;
-    font-family: 'Crimson Text', serif;
-}
-
 .content blockquote p {
-    margin-bottom: 16px;
+    margin-bottom: 1em;
 }
 
 .content blockquote p:last-child {

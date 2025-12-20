@@ -10,7 +10,6 @@ buildDrafts = false
 # Taxonomies - only what you need
 [taxonomies]
   author = "authors"
-  collection = "collections"
   theme = "themes"
   period = "periods"
   language = "languages"
@@ -18,7 +17,6 @@ buildDrafts = false
 # Permalinks - clean URLs
 [permalinks]
   authors = "/authors/:slug"
-  collections = "/collections/:slug"
 
 # Markdown rendering
 [markup]

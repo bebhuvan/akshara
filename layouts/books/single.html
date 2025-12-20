@@ -65,7 +65,7 @@
             </div>
 
             <div class="book-actions">
-                {{ $chapters := where .Pages "Type" "chapters" }}
+                {{ $chapters := (where .Pages "Type" "chapters").ByWeight }}
                 {{ with $chapters }}
                     {{ $firstChapter := index . 0 }}
                     <a href="{{ $firstChapter.RelPermalink }}" class="btn-primary">Begin Reading</a>
