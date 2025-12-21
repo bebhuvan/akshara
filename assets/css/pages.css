@@ -2190,7 +2190,7 @@ body.focus-mode .progress {
 .content-wrapper {
     max-width: 860px;
     margin: 0 auto;
-    padding: 0 40px 140px;
+    padding: 80px 40px 140px;
 }
 
 .content-wrapper h1 {
