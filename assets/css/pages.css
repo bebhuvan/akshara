@@ -1817,6 +1817,113 @@ body.sepia .top-bar {
     flex-shrink: 0;
 }
 
+/* Book Search in Menu */
+.book-search-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.book-search-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.book-search-icon {
+    position: absolute;
+    left: 14px;
+    color: var(--ash);
+    pointer-events: none;
+}
+
+.book-search-input {
+    width: 100%;
+    padding: 14px 16px 14px 42px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+    background: var(--cream);
+    border: 1px solid var(--sand);
+    color: var(--ink);
+}
+
+.book-search-input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.book-search-input:focus + .book-search-icon,
+.book-search-input-wrapper:focus-within .book-search-icon {
+    color: var(--accent);
+}
+
+.book-search-input::placeholder {
+    color: var(--ash);
+}
+
+.book-search-results {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.book-search-result {
+    display: block;
+    padding: 12px 0;
+    border-bottom: 1px solid var(--sand);
+    text-decoration: none;
+    transition: background 0.15s ease;
+}
+
+.book-search-result:last-child {
+    border-bottom: none;
+}
+
+.book-search-result:hover {
+    background: var(--cream);
+    margin: 0 -16px;
+    padding: 12px 16px;
+}
+
+.result-title {
+    display: block;
+    font-family: 'Crimson Text', serif;
+    font-size: 15px;
+    color: var(--ink);
+    margin-bottom: 4px;
+}
+
+.result-excerpt {
+    display: block;
+    font-size: 13px;
+    color: var(--smoke);
+    line-height: 1.5;
+}
+
+.result-excerpt mark {
+    background: var(--accent-light);
+    color: var(--accent);
+    padding: 0 2px;
+}
+
+.no-results {
+    padding: 16px 0;
+    font-size: 13px;
+    color: var(--ash);
+    font-style: italic;
+}
+
+.global-search-link {
+    display: inline-block;
+    font-size: 12px;
+    color: var(--ash);
+    text-decoration: none;
+    margin-top: 4px;
+}
+
+.global-search-link:hover {
+    color: var(--accent);
+}
+
 /* Menu Settings */
 .setting-group {
     margin-bottom: 28px;

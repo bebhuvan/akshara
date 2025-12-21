@@ -1,5 +1,6 @@
 # Hugo build output
 /public/
+/static/pagefind/
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json

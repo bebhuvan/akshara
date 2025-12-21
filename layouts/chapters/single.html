@@ -24,7 +24,7 @@
         <h1 class="chapter-title">{{ .Title }}</h1>
     </header>
 
-    <article class="text">
+    <article class="text" data-pagefind-body data-pagefind-filter="book:{{ $book.File.BaseFileName }}">
         {{ .Content }}
     </article>
 
@@ -51,7 +51,7 @@
 </main>
 
 <!-- Menu Panel (replaces TOC + Controls) -->
-<aside class="menu-panel" id="menuPanel">
+<aside class="menu-panel" id="menuPanel" data-book-slug="{{ $book.File.BaseFileName }}">
     {{ $book := .Parent }}
     {{ $chapters := where $book.Pages "Type" "chapters" }}
 
@@ -61,16 +61,26 @@
     </div>
 
     <div class="menu-content">
-        <!-- Search Section -->
+        <!-- Book Search Section -->
         <div class="menu-section">
-            <h3 class="menu-section-title">Search</h3>
-            <a href="/search" class="search-in-menu-btn">
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                    <circle cx="11" cy="11" r="8"></circle>
-                    <path d="m21 21-4.35-4.35"></path>
-                </svg>
-                <span>Search all books</span>
-            </a>
+            <h3 class="menu-section-title">Search This Book</h3>
+            <div class="book-search-container">
+                <div class="book-search-input-wrapper">
+                    <svg class="book-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <path d="m21 21-4.35-4.35"></path>
+                    </svg>
+                    <input
+                        type="text"
+                        id="bookSearchInput"
+                        class="book-search-input"
+                        placeholder="Search in {{ $book.Title }}..."
+                        autocomplete="off"
+                    >
+                </div>
+                <div id="bookSearchResults" class="book-search-results"></div>
+                <a href="/search" class="global-search-link">Search all books →</a>
+            </div>
         </div>
 
         <!-- Table of Contents Section -->
@@ -130,6 +140,10 @@
         <div class="menu-section">
             <h3 class="menu-section-title">Keyboard Shortcuts</h3>
             <dl class="shortcuts-list">
+                <div class="shortcut-item">
+                    <dt>S</dt>
+                    <dd>Search Book</dd>
+                </div>
                 <div class="shortcut-item">
                     <dt>M</dt>
                     <dd>Toggle Menu</dd>

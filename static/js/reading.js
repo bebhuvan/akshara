@@ -1,6 +1,8 @@
 // State
 let fontSize = 21;
 let focusMode = false;
+let pagefind = null;
+let searchTimeout = null;
 
 // Get stored state
 const bookSlugElement = document.querySelector('[data-book-slug]');
@@ -139,6 +141,10 @@ document.addEventListener('keydown', (e) => {
     if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
 
     switch(e.key.toLowerCase()) {
+        case 's':
+            e.preventDefault();
+            openMenuAndFocusSearch();
+            break;
         case 'm':
             e.preventDefault();
             toggleMenu();
@@ -180,6 +186,84 @@ function navigateToNext() {
     }
 }
 
+// Book search
+async function initBookSearch() {
+    if (pagefind) return;
+    pagefind = await import('/pagefind/pagefind.js');
+    await pagefind.options({ excerptLength: 20 });
+}
+
+async function handleBookSearch(query) {
+    const resultsContainer = document.getElementById('bookSearchResults');
+    if (!resultsContainer) return;
+
+    if (!query || query.length < 2) {
+        resultsContainer.innerHTML = '';
+        return;
+    }
+
+    await initBookSearch();
+
+    const menuPanel = document.getElementById('menuPanel');
+    const currentBookSlug = menuPanel?.dataset.bookSlug;
+
+    const search = await pagefind.search(query, {
+        filters: { book: currentBookSlug }
+    });
+
+    const results = await Promise.all(
+        search.results.slice(0, 10).map(r => r.data())
+    );
+
+    renderBookSearchResults(results);
+}
+
+function renderBookSearchResults(results) {
+    const container = document.getElementById('bookSearchResults');
+    if (!container) return;
+
+    if (results.length === 0) {
+        container.innerHTML = '<div class="no-results">No results found</div>';
+        return;
+    }
+
+    container.innerHTML = results.map(r => `
+        <a href="${r.url}" class="book-search-result">
+            <span class="result-title">${r.meta.title || 'Untitled'}</span>
+            <span class="result-excerpt">${r.excerpt}</span>
+        </a>
+    `).join('');
+}
+
+function setupBookSearch() {
+    const input = document.getElementById('bookSearchInput');
+    if (!input) return;
+
+    input.addEventListener('input', (e) => {
+        clearTimeout(searchTimeout);
+        searchTimeout = setTimeout(() => {
+            handleBookSearch(e.target.value);
+        }, 200);
+    });
+}
+
+function openMenuAndFocusSearch() {
+    const menu = document.getElementById('menuPanel');
+    const overlay = document.getElementById('overlay');
+    const input = document.getElementById('bookSearchInput');
+
+    if (menu && overlay) {
+        menu.classList.add('open');
+        overlay.classList.add('show');
+    }
+
+    if (input) {
+        setTimeout(() => input.focus(), 100);
+    }
+
+    showShortcutHint('Search Book');
+}
+
 // Position memory
 window.addEventListener('beforeunload', () => {
     if (storageKey) {
@@ -216,6 +300,7 @@ window.addEventListener('load', () => {
 
     updateFontSizeButtons();
     updateProgress();
+    setupBookSearch();
 });
 
 // Shortcut hints

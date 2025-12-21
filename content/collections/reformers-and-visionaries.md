@@ -1,11 +1,12 @@
 ---
 title: "Reformers & Visionaries"
 type: "collections"
-book_count: 2
+book_count: 3
 description: "Pioneers who challenged orthodoxy and championed progressive social change in Indian society"
 books:
   - "life-and-letters-raja-rammohun-roy"
   - "speeches-writings-sarojini-naidu"
+  - "englands-debt-to-india"
 ---
 
 India's march toward modernity was led by courageous reformers who questioned age-old practices and advocated for social justice, women's rights, and educational reform. These visionaries faced fierce opposition from conservative forces yet persisted in their campaigns to create a more equitable society.
