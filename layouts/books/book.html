@@ -43,13 +43,24 @@
 </section>
 
 <!-- Download Section -->
-{{ if .Params.downloads }}
+{{ if or .Params.downloads .Params.download_url }}
 <section class="download-card-section">
     <div class="download-card">
         <div class="download-card-header">
             <h3 class="download-card-title">Download</h3>
         </div>
         <div class="download-buttons">
+            {{ with .Params.download_url }}
+            <a href="{{ . }}" class="download-btn" target="_blank" rel="noopener">
+                <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    stroke-width="2">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                <span class="download-format">All Formats</span>
+            </a>
+            {{ end }}
             {{ with .Params.downloads.epub }}
             <a href="{{ . }}" class="download-btn" target="_blank" rel="noopener">
                 <svg class="download-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
