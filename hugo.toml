@@ -41,6 +41,11 @@ buildDrafts = false
   filename = "sitemap.xml"
   priority = 0.5
 
+# RSS configuration
+[services]
+  [services.rss]
+    limit = 20
+
 # Minification
 [minify]
   disableCSS = false
