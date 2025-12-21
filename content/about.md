@@ -99,8 +99,4 @@ Words are truly eternal.
 
 ---
 
-## Get in Touch
-
-If you'd like to reach out, you can find me at:
-
-[bebhuvan.com](https://bebhuvan.com) · [LinkedIn](https://www.linkedin.com/in/bebhuvan/) · [Substack](https://bhuvan.substack.com/) · [Twitter](https://twitter.com/bebhuvan) · [Email](mailto:bhuvan@bebhuvan.com)
+*Want to get involved? [Get in touch](/contact).*
