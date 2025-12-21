@@ -3368,9 +3368,15 @@ body.focus-mode .progress {
     margin-bottom: 24px;
 }
 
-.article-meta time {
+.article-meta time,
+.article-meta .reading-time {
     font-size: 14px;
     color: var(--ash);
+}
+
+.article-meta .meta-separator {
+    color: var(--sand);
+    font-size: 14px;
 }
 
 .article-category {
@@ -3399,16 +3405,41 @@ body.focus-mode .progress {
     margin: 0 auto;
 }
 
+/* Decorative separator after header */
+.article-header::after {
+    content: '';
+    display: block;
+    width: 60px;
+    height: 1px;
+    background: var(--sand);
+    margin: 48px auto 0;
+}
+
 /* Article Content - Elegant Prose */
 .article-content.prose {
     font-family: 'Crimson Text', serif;
-    font-size: 20px;
-    line-height: 1.75;
+    font-size: 21px;
+    line-height: 1.8;
     color: var(--ink);
+    letter-spacing: 0.01em;
 }
 
 .article-content.prose p {
-    margin-bottom: 1.5em;
+    margin-bottom: 1.6em;
+    text-align: left;
+    hanging-punctuation: first;
+}
+
+/* Drop cap for first paragraph */
+.article-content.prose > p:first-of-type::first-letter {
+    float: left;
+    font-family: 'Crimson Text', serif;
+    font-size: 3.5em;
+    line-height: 0.8;
+    padding-right: 10px;
+    padding-top: 6px;
+    color: var(--accent);
+    font-weight: 600;
 }
 
 .article-content.prose h2 {
@@ -3444,10 +3475,26 @@ body.focus-mode .progress {
 
 .article-content.prose blockquote {
     border-left: 3px solid var(--accent);
-    padding-left: 24px;
-    margin: 2em 0;
+    padding-left: 28px;
+    margin: 2.5em 0;
     font-style: italic;
     color: var(--smoke);
+    font-size: 1.05em;
+    position: relative;
+}
+
+.article-content.prose blockquote p:last-child {
+    margin-bottom: 0;
+}
+
+/* Em dashes and strong emphasis */
+.article-content.prose strong {
+    font-weight: 600;
+    color: var(--ink);
+}
+
+.article-content.prose em {
+    font-style: italic;
 }
 
 .article-content.prose ul,
@@ -3590,5 +3637,15 @@ body.focus-mode .progress {
 
     .article-content.prose h3 {
         font-size: 20px;
+    }
+
+    .article-content.prose > p:first-of-type::first-letter {
+        font-size: 3em;
+        padding-right: 8px;
+        padding-top: 4px;
+    }
+
+    .article-header::after {
+        margin-top: 32px;
     }
 }

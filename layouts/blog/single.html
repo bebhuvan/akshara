@@ -6,7 +6,10 @@
         <header class="article-header">
             <div class="article-meta">
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+                <span class="meta-separator">·</span>
+                <span class="reading-time">{{ .ReadingTime }} min read</span>
                 {{ with .Params.category }}
+                <span class="meta-separator">·</span>
                 <span class="article-category">{{ . }}</span>
                 {{ end }}
             </div>
