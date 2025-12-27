@@ -91,7 +91,7 @@
 
 .stat-label {
     font-size: 10px;
-    color: var(--ash);
+    color: var(--smoke);
     letter-spacing: 0.12em;
     text-transform: uppercase;
     font-weight: 600;
@@ -145,10 +145,9 @@
     font-weight: 600;
     letter-spacing: 0.18em;
     text-transform: uppercase;
-    color: var(--ash);
+    color: var(--smoke);
     margin-bottom: 28px;
     display: block;
-    opacity: 0.8;
     font-family: 'Inter', sans-serif;
 }
 
@@ -568,7 +567,7 @@
 
 .collection-count {
     font-size: 12px;
-    color: var(--ash);
+    color: var(--smoke);
     margin-bottom: 20px;
     letter-spacing: 0.05em;
     font-family: 'Inter', sans-serif;

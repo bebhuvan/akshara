@@ -6,7 +6,7 @@
     <div class="book-hero">
         <div class="book-cover-area">
             {{ with .Params.cover }}
-            <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover-large">
+            <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover-large" width="280" height="420">
             {{ else }}
             <div class="book-cover-large">
                 <span>{{ substr .Title 0 1 }}</span>
@@ -107,7 +107,7 @@
         {{ with .Params.archive_url }}
         <section class="section">
             <h2 class="section-title">Original Source</h2>
-            <iframe src="{{ . }}?view=theater" class="archive-embed" frameborder="0"></iframe>
+            <iframe src="{{ . }}?view=theater" class="archive-embed" frameborder="0" loading="lazy" title="Original source on Archive.org"></iframe>
         </section>
         {{ end }}
     </div>

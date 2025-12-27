@@ -1,6 +1,6 @@
 <a href="{{ .RelPermalink }}" class="book-card">
     {{ with .Params.cover }}
-    <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover" loading="lazy">
+    <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover" loading="lazy" width="200" height="300">
     {{ else }}
     <div class="book-cover"></div>
     {{ end }}

@@ -248,14 +248,13 @@ body.dark .moon-icon {
 
 .footer-copyright {
     font-size: 12px;
-    color: var(--ash);
+    color: var(--smoke);
     margin-bottom: 8px;
 }
 
 .footer-note {
     font-size: 11px;
-    color: var(--ash);
-    opacity: 0.8;
+    color: var(--smoke-light);
 }
 
 /* Book Cards - Refined and minimal */
@@ -304,7 +303,7 @@ body.dark .moon-icon {
 
 .book-year {
     font-size: 11px;
-    color: var(--ash);
+    color: var(--smoke);
     letter-spacing: 0.05em;
     font-family: 'Inter', sans-serif;
 }
