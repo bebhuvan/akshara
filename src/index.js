@@ -9,22 +9,21 @@ export default {
       'X-XSS-Protection': '1; mode=block',
       'Referrer-Policy': 'strict-origin-when-cross-origin',
       'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
-      // HSTS - enforce HTTPS (start with 1 day, increase after confirming it works)
-      'Strict-Transport-Security': 'max-age=86400; includeSubDomains',
+      // HSTS - enforce HTTPS (1 year with preload)
+      'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload',
       // COOP - isolate browsing context from cross-origin documents
       'Cross-Origin-Opener-Policy': 'same-origin',
       // CSP - prevent XSS and other injection attacks
       'Content-Security-Policy': [
         "default-src 'self'",
-        "script-src 'self' 'unsafe-inline'",
+        "script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com",
         "style-src 'self' 'unsafe-inline'",
         "img-src 'self' data:",
         "font-src 'self'",
-        "connect-src 'self'",
+        "connect-src 'self' https://cloudflareinsights.com",
         "frame-ancestors 'none'",
         "base-uri 'self'",
-        "form-action 'self'",
-        "require-trusted-types-for 'script'"
+        "form-action 'self'"
       ].join('; ')
     };
 
