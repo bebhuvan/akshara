@@ -8,7 +8,7 @@ author_wikipedia_url: "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt"
 year: 1904
 language: "English"
 pages: 650
-chapters: 7
+chapters: 40
 type: "books"
 layout: "book"
 cover: "/covers/economic-history-india-victorian-age.webp"
@@ -19,7 +19,7 @@ period: "Victorian India (1838-1900)"
 publisher: "Kegan Paul, Trench, Trübner & Co."
 publication_location: "London"
 edition: "First Edition"
-archive_url: "https://archive.org/details/indiainthevicto00duttgoog/mode/2up"
+archive_url: "https://archive.org/details/indiainvictorian00duttuoft/mode/2up"
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain."

@@ -1,0 +1,114 @@
+---
+title: "Book III, Chapter 4: Land Administration in Northern India"
+chapter_number: 30
+weight: 30
+reading_time: 20
+---
+## CHAPTER IV
+
+## LAND ADMINISTRATION IN NORTHERN INDIA
+
+THE principles of Land Assessment in Bengal, Northern India, and the Punjab, had been settled under the administration of the East India Company. And measures had been adopted in the early years of the Crown Government to settle the relations between landlords and tenants, and to extend protection to the cultivators of the soil. The history of the last quarter of a century is therefore a history of smaller measures, and of the further development and extension of principles already laid down.
+
+### BENGAL.
+
+In Bengal the Rent Act of 1859 had given security of rent and tenure to the tillers of the soil. But the cultivators of the Western districts (Behar) had not derived the same benefit from the measure as their more quick-witted brethren of the Eastern districts. The experience of twenty years suggested the necessity of a further measure, to protect them from the unjust demands of their landlords. Lord Ripon's Government undertook this useful task; and the burden of the work fell on Antony Macdonnell, who was then Revenue Secretary of Bengal.
+
+It is needless to narrate the long discussions which were held before the proposed measure took shape. The Government gave a full and even respectful hearing to the objections of landlords. Committees were held in districts and divisions to consider and revise the proposed remedies. The draft of the Bill was modified and recast from time to time. And it was ultimately passed by Lord Dufferin, after Lord Ripon's departure from India. The Tenancy Act, as passed in 1885, gave the needed protection to cultivators without infringing in any way on the just rights of landlords. The two main objects of the new law were to extend the *right of occupancy* to settled cultivators, and to extend adequate protection to *non-occupancy cultivators*.
+
+The beneficial results of the Permanent Settlement of 1793, which limited the State-demand from landlords, and the Rent Acts of 1859 and 1885, which limited the landlord's demand from tenants, are obvious in every part of Bengal at the present day. There is an educated and influential class of landlords, who have identified themselves with the British Rule, and have always given loyal help in the cause of good administration. There is a strong and intelligent middle class, holding tenures of various degrees under the landlords, and forming the strongest element in a progressive society. And there is a resourceful peasantry, able to defend their rights, and able also to resist the first effects of a drought and a failure of crops. The rents are light; the cultivators are not under the thraldom of money-lenders; and British administrators can view with a just pride a province where their moderation has insured agricultural prosperity to a nation.
+
+The following figures, which we quote from a recent official document, represent the proportion of rent to the produce of the soil in fourteen districts, representative of the different parts of Bengal.[^1]
+
+| District. | Proportion of Rent to the Average Produce. |
+| :--- | :--- |
+| 24 Perganas | 10 per cent. |
+| Nadiya | 7 " |
+| Midnapur | 8 " |
+| Hughli | 14 " |
+| Birbhum | 15 " |
+| Backerganj | 9 " |
+| Noakhali | 9 " |
+| Tipera | 9 " |
+| Rajshahi | 13 " |
+| Gaya | 14 " |
+| Balasor | 11 " |
+| Muzaffarnagar | 16 " |
+| Cuttack | 14 " |
+
+It will be seen that in no district is the rental as high as one-fifth of the produce. As the Bengal Government remarks: "The figures in this table indicate with sufficient clearness that rents in Bengal amount, on the average, to little more than 11 per cent. of the gross produce of the land." This pleasing assurance of the Bengal Government contrasts painfully with the disclosure made by the Famine Commission of 1900, that the Land Revenue levied by the State in Gujrat is 20 per cent. of the produce. The Land Revenue ought to be half the rental under the rule of 1864, and not double the rental. The State ought to be more considerate than private landlords, not more exacting and harsh.
+
+### NORTHERN INDIA.
+
+A healthy change was introduced in the method of assessing the Land Revenue. The basis of assessment, as has been explained in a previous chapter, was formerly an *estimated rental*—an approximate guess of what the lands were likely to yield. A more sensible rule was subsequently adopted of taking the *actual rental* as the basis. This was made quite clear by the rules issued by the Revenue Board in 1887, from which we make the following extracts:—
+
+"The assessment of the revenue in each village is to be based, as far as possible, on the actual rentals recorded in village rent rolls, corrected where necessary."
+
+"The Settlement Officer is not at liberty to add to these rent rolls any estimate on account of a prospective rise in rents or prospective increase in cultivation."
+
+It is, therefore, clearly the object of the Government, at the present time, to limit the Land Revenue in Northern India to one-half of the actual rental which landlords obtain from their tenants. It is a matter for regret that this clear rule has not been adhered to, even in Settlements which have been completed after 1890.
+
+A distinguished and public-spirited landlord of Northern India, the Hon. Nihal Chand, Rai Bahadur, Member of the Legislative Council of the Province, has done public service in bringing this fact to notice in his *Notes on the Land Revenue Policy*, published in 1903. And it is necessary to cite some facts from this publication, if only to point out the reforms which are still needed in the actual operation of the rules.
+
+*Basis of Assessment.*—The actual rental of estates is the basis of assessing the Land Revenue. But the Revenue Board issued a circular, so recently as 1901, directing that where the rents are inadequate, the Settlement Officer should reject the recorded rental, and base his assessment on an estimated rental.[^2] The effect of such a rule is obvious. Where the landlords are disposed to be lenient to cultivators, the rule is a reminder to them to screw up their rents. In Bengal, where the Land Revenue is permanently settled, and the State is not interested in raising rents, every Legislative Act, passed within the last half-century, has had the object of securing a moderate rental, and the leniency of the landlord is encouraged by the administration. In Northern India, on the other hand, where the State bases its Land Revenue on the rental, the leniency of the landlord is chastised, and he is called upon either to screw up his rents or to pay more than one-half of what he receives.
+
+Several instances are cited in the *Notes* to illustrate how such cases are dealt with. In the Muzaffarpur District, the actual cash rental was increased by £307[^3] in the settlement of 1892. In the District of Saharanpur it was increased by £5644. In the District of Mirut it was increased by £11,906. And in the District of Badaun it was increased by £2714. Landlords and cultivators in Northern India can fairly ask that this practice should now be abandoned, when Lord Curzon has himself declared the actual rental to be the basis of the Land Revenue assessment.
+
+*Non-occupancy Lands.*—A considerable portion of the estate of a landlord in Northern India is sometimes cultivated otherwise than by Occupancy Ryots. A portion is tilled by the landlord's own labourers. A portion is let to cultivators on grain rent. And a portion is let without rent to sweepers and barbers, potters and blacksmiths—men required to live in villages and carry on their hereditary professions. None of these lands escape the Settlement Officer's attention. And as there is no cash rental to form a basis, the assessment is based on an assumed rental, which is often unduly severe. In the District of Muzaffarnagar the landlords' own holdings should have been assessed at £16,565, according to the rates at which occupancy lands were assessed; but a higher rate was imposed, and the assessment was fixed at £23,970. A case is cited in which the Settlement Officer assumed 8s. per acre to be the proper rental for the purposes of his assessment; but when the landlord asked for a decree against his tenant at this high rate, his prayer was refused, and decree was given only for 6s. 6d. per acre. In other words, the Settlement Officer decreed rents at one rate, and assumed rents at a higher rate for the purpose of assessing the Land Revenue. To such unfairness and inconsistencies are Revenue Officers betrayed when there are no independent Land Courts to control their action, and to decide questions arising between the State and the people.
+
+With regard to small bits of land held by village tenants rent free, surely a little imagination and some consideration for the customs of the people should induce Settlement Officers to altogether exempt them from assessment. The village blacksmith and the village potter have served the Indian village community from times immemorial; and as their incomes from their trade are scanty, they have been allowed to hold little bits of land without rent. The barber and the sweeper get even less from their trade; and they would leave their village probably if not attached to it by their small acreage of cultivation. It is an excellent old institution, by which villagers have grouped themselves into self-contained communities from olden times. Petty services are secured to villagers by gifts of lands, and landlords ask for no rents from such service lands. The loss to the State by exempting such miserable bits of land would be almost inappreciable;[^4] while the Government would be saved from the appearance of a "melancholy meanness." Rigid rules have strangled many good old institutions in India—let the old, old village barber and village potter be spared.
+
+*Improvements.*—It has been emphatically and repeatedly laid down by the Government that cultivators and landlords shall not be taxed for their own improvements. And Lord Curzon has recently repeated the assurance that the State has similarly surrendered its right to all share in improvements in which the capacity of the soil plays a part with the industry or outlay of the cultivator.[^5] This is an equitable and an excellent maxim, but it is not fully carried out in practice. Settlement Officers do not always earmark the portion of the increase in produce or rental which is due to improvements, and do not exempt it from assessment. The experience in every province in India—in Bombay and Madras as well as in Northern India—is, that this equitable rule is violated.
+
+The Settlement Officer of Muzaffarnagar District records the following remarks: "It is impossible to allow for the addition made to the assets of an estate by irrigation from these wells. . . . It is hopeless to expect the smaller landlords to establish their claims in the way laid down; and even the larger landlords cannot do so. When they apply for compensation, and are told that *they must show that increased rents are being paid owing to the improvement,* they answer that the Settlement Officers have better information on the subject than themselves. The value of improvements cannot be judged by the increase in rent, because the circumstances affecting rents are various, and are uncertain in their operation; and conversely an increase of rents is not a necessary sign of an improvement."[^6]
+
+The italics are our own. A Settlement is made once in thirty years. Within that time a landlord, or his deceased father, may have dug thirty wells within his estate, made a few roads, cleared some jungle, probably reclaimed a marsh. Within the same period the Government has probably constructed a railway line close to the estate, and has opened a new canal-distributary through the estate, by reason of which some wells have fallen into disuse. Within the same time, also, the rupee has fallen in value, risen, and fallen again; and the prices of crops have oscillated inversely to the oscillations of the rupee. All these facts have had their effect on the rental, and have made it what it is at the time of a new Settlement. How can the landlord prove how much of the increase in the rental within the thirty years is due to the improvements made by him or his father, apart from the other causes? He cannot; and the State virtually sweeps away nearly all the profits of the improvements made by the landlord and the cultivator. At the settlement of Muzaffarnagar made in 1892, the State obtained an increase of over £20,000 in the Government Revenue, and the Settlement Officer made only an insignificant allowance of £1074 for improvements. No stronger reasons exist for the establishment of independent Land Courts than to assure to the cultivators and landlords the fruits of their improvements. A system of periodical re-settlements, which enables the State to derive profits from improvements made by private owners, is the surest bar to all improvements.
+
+*Secrecy of Settlement Proceedings.*—Thomas Merttins Bird described in some detail, before a Select Committee of the House of Commons, the method he pursued in the great Settlement which he effected in Northern India between 1833 and 1842. It was his policy to meet villagers, to consult them, to carry on discussions with them from day to day, and virtually to obtain their assent to the assessment he made. There are men still living[^7] who followed this excellent system in Madras, when the Survey and Settlement of that Province was first made after 1861. *Mais nous avons changé tout cela.* Settlement proceedings are now carried on in Northern India as if they were a State secret. The people, whose fates are determined by these proceedings, are jealously excluded from any knowledge of the proceedings. They are not consulted, they are not permitted to adduce facts, they are not allowed to know what is going on. The rents are compiled and corrected by the Settlement Officer, the Land Revenue is assessed by the Settlement Officer, the Report is drafted and submitted by the Settlement Officer—in the dark—without consultation with the people. The Report goes to the Commissioner for his sanction, and the people wait in ignorance and silent expectation. The Commissioner sends it up to the Revenue Board, and the people are still waiting in ignorance. When the Board have approved and sanctioned the new assessment, then the Settlement Officer first discloses to bewildered landlords the new assessments on their estates which they shall have henceforth to pay.
+
+We will suppose the landlord objects to the new assessment. To whom does he carry his objection? To the Commissioner and to the Revenue Board who have already sanctioned the Settlement. The assessment is as much their work as it is the work of the Settlement Officer; and it is obviously unfair that appeals against the assessment should be heard by them. They could hardly make large alterations in the Settlement which they have already considered, examined, and approved, without stultifying themselves.
+
+Why should not such objections be heard by independent tribunals—Judges experienced in Land Revenue work? The answer given by the Government of the North-Western Provinces is, that to appoint such independent tribunals or Land Courts "might possibly touch the financial solvency of the Government."[^8] The reason, though advanced by so high an authority as Sir Antony Macdonnell, appears to us incomprehensible. It can scarcely be that Revenue Officers strain the rules unfairly in order to secure financial solvency. And it is as difficult to imagine that British Judges of high position and repute will strain the rules in an opposite direction to bring on financial insolvency. And yet it is necessary to make one of these suppositions to justify the present practice of permitting assessing officers to hear appeals against their own work. The people of India seek for justice; and the financial solvency, as well as the prestige of the British Government, is strengthened, not weakened, by a just administration. The people demand that the assessment of estates should be made in consultation with the assessees from the commencement ; and that objections against the assessment should be heard by tribunals other than those who have made it.
+
+*Local Cesses.*—We have already in a preceding chapter referred to the imposition of special cesses on land, in addition to the Land Revenue, which virtually nullifies the Half-Rental rule. Ten per cent. on the Land Revenue is charged for roads and schools in Northern India ; 2 per cent. for the famine insurance fund ; and 4 per cent. more for Patwaris or village officials. This makes a total of 16 per cent. on the Land Revenue, or about 8 per cent. on the rental ; and this is in addition to the customary allowances to village watchmen and headmen which the people of India have paid from olden times.
+
+The system followed down to 1872 was to assign a portion of the Land Revenue itself for these local purposes. Sir William Muir, the able and sympathetic ruler of this province, explained this principle clearly and forcibly. "The correct principle, as it appears to the Lieutenant-Governor, is that which is followed in these provinces, viz. to assign a fixed portion of the Land Revenue for local objects. This is now done always at the time of Settlement by setting apart one-eleventh of the entire demand, or one-tenth of the Imperial Land Revenue, for purposes of revenue, police, district roads, district *dak* [postal service], village education, and sanitation,—duties the discharge of which is to a large extent obligatory on Government as a superior landlord of the country."[^9]
+
+But this practice was abolished in 1872 by a distinct order. "The system of taking engagements from the proprietors to the payment of the local cesses as a part of the Land Revenue be abandoned."[^10] The effect of this change in rule is manifest. So long as the local rates on land were considered a "part of the Land Revenue" they could rightly be included in the Government demand of Half-Rental. But by the rule of 1872, the Government virtually imposed the rates in addition to Government demand of half the rental. And the rates, too, have been increased from 10 to 16 per cent. of the Government demand. Large surpluses have now been secured by fixing the rupee at 1s. 4d., and the people can fairly demand that the Half-Rental rule should be honestly adhered to. The total assessment on the soil should not exceed half the actual rental.
+
+Legislation.—A Rent Act for the North-West Provinces, now called the Province of Agra, was passed in 1873, and was amended and consolidated in 1881, under the administration of Lord Ripon. And a Rent Act was passed for the Province of Oudh in 1876. After the close of the century these Acts, both for Agra and Oudh, have been consolidated by Sir Antony Macdonnell by a comprehensive Act. His main object in passing this new Rent Act for Northern India in 1901 was the same that guided him in drafting the Rent Act for Bengal in 1885. They were firstly to strengthen the occupancy tenants, and secondly, to protect the tenants-at-will from arbitrary enhancement and ejection. To Sir Antony Macdonnell, in our generation, belongs the high credit of completing that beneficial work in Northern India, which was begun by Canning and Lawrence, to extend adequate protection to the cultivators of the soil.
+
+### PUNJAB.
+
+The Punjab, on the other hand, has undergone changes of a questionable character. The healthy rule of settlements for thirty years, which gave cultivators and landlords peace and security for a generation after a revision, has been rescinded; and in 1895 the term of settlements was unwisely reduced to twenty years. And lastly, a law of doubtful utility was passed in 1901 to restrict the right of transfer.
+
+In an early chapter of this work we showed that the Sardars and leaders of the people were treated with scant justice in the Punjab after its annexation in 1849. Since then, the province has been a land of small proprietors, often tilling their own land, and sometimes having tenants under them. Lord Lawrence passed an Act in 1868 to protect these tenants; and this was followed by another Tenancy Act in 1887. But the small proprietors have not been able to hold their own. In 1891 they tilled nearly 54 per cent. of the cultivated area of the province; while in 1900 the proportion had fallen to 45 per cent. Apprehensions were entertained that the land was passing away from the fine old families of the province, as well as from the sturdy tillers who had held them before. A Descent of Jaigirs Act was passed to promote the principles of primogeniture among the old families. And a Land Alienation Act was passed to save the old tribes from a landless existence. This last Act is, as remarked before, a measure of doubtful utility; it was passed against the opinion of the Lieutenant-Governor of the Province; it has the economic effect of decreasing the marketable value of land; and it can hardly in the long run benefit the tribes for whose benefit it was passed.
+
+"The cesses in the Punjab are restricted to 12 1/2 per cent. of the annual value [rental] which is defined as double the Land Revenue. But in practice the Land Revenue is generally less and often much less, than 50 per cent. of the assets [rental], and the cesses do not in most districts exceed 11 per cent. of the annual value."[^11] But even this is a higher percentage than is levied in Agra and Oudh; and the rule of limiting the total State-demand on the soil to one-half the rental is more needed in the Punjab than elsewhere.
+
+**Footnotes**
+
+[^1]: Letter of the Bengal Government to the India Government, dated June 24, 1901.
+
+[^2]: Rule quoted in the Hon. Nihal Chand's *Notes*, p. 11.
+
+[^3]: £1 is taken as equivalent to 15 rupees, its present value.
+
+[^4]: To take the instance of one District, Muzaffarnagar, the total lands assessed in 1892 were 701,431 acres, of which only 5669 acres were held rent free, and supported more than 5669 poor professional families.
+
+[^5]: Resolution dated January 16, 1902.
+
+[^6]: Muzaffarnagar Settlement Report, dated September 22, 1892; paragraph 158.
+
+[^7]: I may mention one honoured name—that of Mr. R. K. Puckle, C.S.I., now living in retirement in London. His fame as a popular and sympathetic administrator is still fresh and green in the province in which he worked.
+
+[^8]: Letter to the Government of India, dated December 22, 1900.
+
+[^9]: Smith's *Manual*, page 203.
+
+[^10]: Revenue Board's Circular, dated July 13, 1872.
+
+[^11]: *Moral and Material Progress and Condition of India*, 1901-2.
+
+---
+
