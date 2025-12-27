@@ -8,7 +8,24 @@ export default {
       'X-Frame-Options': 'DENY',
       'X-XSS-Protection': '1; mode=block',
       'Referrer-Policy': 'strict-origin-when-cross-origin',
-      'Permissions-Policy': 'camera=(), microphone=(), geolocation=()'
+      'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
+      // HSTS - enforce HTTPS (start with 1 day, increase after confirming it works)
+      'Strict-Transport-Security': 'max-age=86400; includeSubDomains',
+      // COOP - isolate browsing context from cross-origin documents
+      'Cross-Origin-Opener-Policy': 'same-origin',
+      // CSP - prevent XSS and other injection attacks
+      'Content-Security-Policy': [
+        "default-src 'self'",
+        "script-src 'self' 'unsafe-inline'",
+        "style-src 'self' 'unsafe-inline'",
+        "img-src 'self' data:",
+        "font-src 'self'",
+        "connect-src 'self'",
+        "frame-ancestors 'none'",
+        "base-uri 'self'",
+        "form-action 'self'",
+        "require-trusted-types-for 'script'"
+      ].join('; ')
     };
 
     // Handle static assets (fonts, images, CSS, JS)
