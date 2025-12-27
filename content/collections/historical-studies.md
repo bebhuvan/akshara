@@ -1,7 +1,7 @@
 ---
 title: "Historical Studies"
 type: "collections"
-book_count: 6
+book_count: 7
 description: "Comprehensive historical works examining India's past from ancient civilizations to modern times"
 period: "Ancient to Colonial Era"
 books:
@@ -11,6 +11,7 @@ books:
   - "letters-from-malabar"
   - "economic-history-of-india"
   - "englands-debt-to-india"
+  - "economic-history-india-victorian-age"
 ---
 
 This collection brings together comprehensive historical works that examine India's rich past across different eras. These meticulously researched volumes combine military, political, and social history to provide sweeping narratives of Indian civilization.

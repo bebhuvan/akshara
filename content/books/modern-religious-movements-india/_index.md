@@ -1,5 +1,6 @@
 ---
 title: "Modern Religious Movements in India"
+date: 2025-12-27
 subtitle: ""
 author: "John Nicol Farquhar"
 author_slug: "j-n-farquhar"
