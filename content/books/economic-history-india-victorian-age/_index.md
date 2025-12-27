@@ -14,6 +14,7 @@ layout: "book"
 cover: "/covers/economic-history-india-victorian-age.webp"
 description: "A landmark economic history of India from 1838 to 1900, documenting the impact of British colonial policies on Indian agriculture, trade, and finance. Written by the pioneering Indian economist and ICS officer Romesh Dutt, this work provides a systematic critique of land revenue policies, the destruction of Indian manufactures, and the drain of wealth from India to England."
 reading_time: "18-22 hours"
+featured_quote: "Imperial Unity cannot be built on the growing poverty and decadence of five-sixths of the population of the Empire."
 period: "Victorian India (1838-1900)"
 publisher: "Kegan Paul, Trench, Trübner & Co."
 publication_location: "London"
@@ -23,7 +24,7 @@ digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain."
 
-download_url: ""
+download_url: "https://drive.google.com/drive/folders/1MrEBfm_n2Wt-BPwQZiTFSwXCWibFdABZ?usp=sharing"
 
 cascade:
   type: "chapters"
