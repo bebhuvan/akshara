@@ -16,9 +16,9 @@
 
 <!-- Pagefind Search -->
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
+<script src="/pagefind/pagefind-ui.js" defer></script>
+<script defer>
+    window.addEventListener('DOMContentLoaded', () => {
         new PagefindUI({
             element: "#search",
             showSubResults: true,

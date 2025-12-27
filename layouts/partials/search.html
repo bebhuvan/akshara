@@ -8,19 +8,38 @@
     </div>
 </div>
 
-<!-- Pagefind Search -->
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
+<!-- Pagefind Search - Lazy loaded on first open -->
 <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({
-            element: "#search",
-            showSubResults: true,
-            showImages: false,
-            excerptLength: 15
-        });
+    let pagefindLoaded = false;
 
-        // Search toggle
+    function loadPagefind() {
+        if (pagefindLoaded) return Promise.resolve();
+
+        return new Promise((resolve) => {
+            // Load CSS
+            const link = document.createElement('link');
+            link.rel = 'stylesheet';
+            link.href = '/pagefind/pagefind-ui.css';
+            document.head.appendChild(link);
+
+            // Load JS
+            const script = document.createElement('script');
+            script.src = '/pagefind/pagefind-ui.js';
+            script.onload = () => {
+                new PagefindUI({
+                    element: "#search",
+                    showSubResults: true,
+                    showImages: false,
+                    excerptLength: 15
+                });
+                pagefindLoaded = true;
+                resolve();
+            };
+            document.head.appendChild(script);
+        });
+    }
+
+    window.addEventListener('DOMContentLoaded', () => {
         const searchToggle = document.getElementById('searchToggle');
         const searchModal = document.getElementById('searchModal');
 
@@ -55,11 +74,13 @@
         searchModal.classList.add('active');
         document.body.style.overflow = 'hidden';
 
-        // Focus the search input
-        setTimeout(() => {
-            const searchInput = document.querySelector('#search input');
-            if (searchInput) searchInput.focus();
-        }, 100);
+        // Load Pagefind on first open, then focus
+        loadPagefind().then(() => {
+            setTimeout(() => {
+                const searchInput = document.querySelector('#search input');
+                if (searchInput) searchInput.focus();
+            }, 100);
+        });
     }
 
     function closeSearch() {

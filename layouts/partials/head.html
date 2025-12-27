@@ -53,25 +53,20 @@
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#1a1a1a" media="(prefers-color-scheme: dark)">
 
-<!-- Preconnect to third-party origins -->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preconnect" href="https://bhuvan.substack.com">
+<!-- DNS prefetch for third-party origins -->
+<link rel="dns-prefetch" href="https://bhuvan.substack.com">
 
-<!-- Fonts - Non-blocking loading with fallback -->
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap">
-<link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
-<noscript><link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet"></noscript>
+<!-- Preload critical fonts -->
+<link rel="preload" href="/fonts/crimson-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
 
-<!-- Preload critical assets -->
-<link rel="preload" as="image" href="/og-image.svg" type="image/svg+xml">
-
-<!-- Styles - Single compiled CSS -->
+<!-- Styles - Single compiled CSS with self-hosted fonts -->
+{{ $fonts := resources.Get "css/fonts.css" }}
 {{ $base := resources.Get "css/base.css" }}
 {{ $components := resources.Get "css/components.css" }}
 {{ $pages := resources.Get "css/pages.css" }}
 {{ $search := resources.Get "css/search.css" }}
-{{ $css := slice $base $components $pages $search | resources.Concat "css/akshara.css" | minify | fingerprint }}
+{{ $css := slice $fonts $base $components $pages $search | resources.Concat "css/akshara.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 
 <!-- Favicon -->
