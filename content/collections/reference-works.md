@@ -1,11 +1,12 @@
 ---
 title: "Reference Works"
 type: "collections"
-book_count: 1
+book_count: 2
 description: "Authoritative reference works and encyclopedic surveys of India's geography, peoples, and institutions"
 period: "Colonial Era Reference"
 books:
   - "imperial-gazetteer-india-v1"
+  - "people-of-india"
 ---
 
 This collection brings together comprehensive reference works that provide systematic surveys of India's physical, cultural, and social landscape. These authoritative volumes, compiled by scholars and officials with deep knowledge of the subcontinent, offer detailed information on geography, natural history, ethnology, languages, religions, and demographics.
