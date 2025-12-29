@@ -1,6 +1,6 @@
 ---
 title: "Introducing Akshara"
-date: 2024-12-21
+date: 2025-12-21
 description: "A passion project to unlock India's public domain and a love letter to the public domain"
 category: "Announcements"
 tags: ["digitization", "public domain", "heritage"]

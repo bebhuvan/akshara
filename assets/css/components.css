@@ -74,10 +74,12 @@
     display: none;
     background: none;
     border: none;
-    padding: 8px;
+    padding: 10px;
     cursor: pointer;
     z-index: 101;
     position: relative;
+    min-width: 44px;
+    min-height: 44px;
 }
 
 .menu-icon {
@@ -129,13 +131,15 @@ body.menu-open {
 .theme-toggle {
     background: none;
     border: none;
-    padding: 8px;
+    padding: 10px;
     cursor: pointer;
     color: var(--ink);
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
+    min-width: 44px;
+    min-height: 44px;
 }
 
 .theme-toggle:hover {

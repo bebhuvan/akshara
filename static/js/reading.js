@@ -97,9 +97,9 @@ function adjustSize(delta) {
 }
 
 function updateFontSizeButtons() {
-    const container = document.querySelector('.menu-section');
-    if (!container) return;
-    const buttons = container.querySelectorAll('.setting-btn');
+    const groups = document.querySelectorAll('.setting-group');
+    if (groups.length < 1) return;
+    const buttons = groups[0].querySelectorAll('.setting-btn');
 
     buttons.forEach(btn => btn.classList.remove('active'));
 
