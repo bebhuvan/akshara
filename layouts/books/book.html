@@ -282,44 +282,34 @@
 
         <!-- Edition Notice -->
         <div class="sidebar-section edition-notice">
-            <h3 class="sidebar-title">
-                <svg class="notice-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+            <div class="edition-notice-header">
+                <svg class="notice-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                    <circle cx="12" cy="12" r="10"></circle>
-                    <line x1="12" y1="8" x2="12" y2="12"></line>
-                    <line x1="12" y1="16" x2="12.01" y2="16"></line>
+                    <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                    <path d="M2 17l10 5 10-5"></path>
+                    <path d="M2 12l10 5 10-5"></path>
                 </svg>
-                A Note on This Edition
-            </h3>
+                <h3 class="sidebar-title">A Note on This Edition</h3>
+            </div>
             <div class="edition-notice-content">
-                <p>I've made this book readable using AI (Claude Haiku 4.5, Gemini Flash 2.5, and Gemini 3) to extract text from
+                <p>I've made this book readable using AI (Claude Haiku 4.5 and Gemini 3) to extract text from
                     scanned PDFs. In my experience, accuracy is typically around 85–95%. Since I run Akshara entirely on
                     my own, I can't promise perfection, but I do run multiple passes to catch as many errors as
                     possible.</p>
 
-                <p><strong>A few things to keep in mind:</strong></p>
-                <ul>
-                    <li>I maintain this project solo, so full manual verification just isn't feasible.</li>
-                    <li>Someday I hope to make Akshara crowdsourced, so readers can help improve things.</li>
-                    <li>Each book goes through 2–3 processing passes. I have no backers or sponsors, so I pay for all
-                        the API costs myself.</li>
-                </ul>
-
-                <p><strong>Known issues:</strong></p>
+                <p class="edition-subheading">Known issues</p>
                 <ul class="known-issues">
-                    <li><em>Text:</em> missing chunks, repeated paragraphs, footnotes in wrong places, occasional AI
-                        hallucinations</li>
-                    <li><em>Formatting:</em> tables may be missing or poorly formatted, poetry may lose its structure
-                    </li>
-                    <li><em>Languages:</em> Sanskrit, Hindi, or other Indian language text may be missing or corrupted
-                    </li>
-                    <li><em>Sections:</em> indices, appendices, or end matter may be incomplete</li>
+                    <li>Some paragraphs may be split due to page breaks missed during manual editing</li>
+                    <li>Orphaned footnotes — a problem I'm actively working to fix</li>
+                    <li>Poorly formatted sections such as appendices, bibliographies, and other commentary</li>
+                    <li>Occasional LLM commentary left in the text</li>
+                    <li>Tables may be missing or poorly formatted; poetry may lose its structure</li>
+                    <li>Sanskrit, Hindi, or other Indian language text may be missing or corrupted</li>
                 </ul>
 
-                <p>If something feels off, please check the <a href="{{ .Params.archive_url }}" target="_blank"
-                        rel="noopener">original PDF on Archive.org</a>.</p>
-
-                <p>This book is also on Google Docs. If you spot errors, leave a comment there and I'll fix it.</p>
+                <p>If something feels off, check the <a href="{{ .Params.archive_url }}" target="_blank"
+                        rel="noopener">original scan on Archive.org</a>.
+                    {{ with .Params.download_url }}This book is also on <a href="{{ . }}" target="_blank" rel="noopener">Google Drive</a> — if you spot errors, leave a comment and I'll fix it.{{ end }}</p>
 
                 <p class="edition-thanks">Thanks for reading, and thanks for visiting Akshara.</p>
             </div>
