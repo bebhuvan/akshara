@@ -8,7 +8,7 @@ weight: 3
 
 # Navigation
 next: "/books/comprehensive-history-india-v1/02-ancient-india"
-prev: "/books/comprehensive-history-india-v1/00-guha-introduction"
+prev: "/books/comprehensive-history-india-v1/00-preface"
 ---
 
 

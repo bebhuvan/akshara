@@ -7,7 +7,7 @@ word_count: 1086
 weight: 1
 
 # Navigation
-next: "/books/comprehensive-history-india-v1/00-guha-introduction"
+next: "/books/comprehensive-history-india-v1/01-introduction"
 ---
 
 

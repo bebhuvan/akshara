@@ -2,63 +2,55 @@
 title: "Henry Beveridge"
 slug: "henry-beveridge"
 full_name: "Henry Beveridge"
-birth_year: 1837
-death_year: 1929
+birth_year: 1799
+death_year: 1863
 birth_place: "Scotland"
-languages: ["English", "Persian", "Urdu"]
+languages: ["English", "Latin", "French"]
 
 # Bio
-short_bio: "Scottish historian and civil servant in British India who wrote extensively on Indian history and translated major Persian historical works including the Akbar-nama."
+short_bio: "Scottish lawyer, translator, and historian best known for his three-volume A Comprehensive History of India (1858–1863) and translations for the Calvin Translation Society."
 
 # Works
-works_count: 15
-first_publication: 1862
+works_count: 2
+first_publication: 1858
 
 # Timeline
 timeline:
-  - year: 1837
+  - year: 1799
     title: "Birth in Scotland"
-    description: "Born in Scotland into a family with strong academic traditions"
+    description: "Born in Scotland"
 
-  - year: 1857
-    title: "Joined Bengal Civil Service"
-    description: "Arrived in India to serve in the Bengal Civil Service during the aftermath of the Sepoy Mutiny"
+  - year: 1844
+    title: "Calvin Translation Society"
+    description: "Translated John Calvin's Tracts Relating to the Reformation (1844) and Institutes of the Christian Religion (1845) in Edinburgh"
+
+  - year: 1858
+    title: "Comprehensive History Begun"
+    description: "Engaged by Blackie and Son to write A Comprehensive History of India, issued in three volumes (1858–1863)"
 
   - year: 1862
-    title: "Comprehensive History Published"
-    description: "Published A Comprehensive History of India in three volumes"
+    title: "Principal Volumes Published"
+    description: "Published the major volumes of A Comprehensive History of India covering ancient times through the 1857 revolt"
 
-  - year: 1879
-    title: "District Magistrate"
-    description: "Served as District Magistrate in various Bengal districts"
-
-  - year: 1893
-    title: "Retired from Service"
-    description: "Retired from the Indian Civil Service and devoted himself to translation work"
-
-  - year: 1929
+  - year: 1863
     title: "Passing"
-    description: "Died, leaving behind major historical and translation works"
+    description: "Died in 1863 upon completing his three-volume Indian history"
 ---
 
-Henry Beveridge was a Scottish historian and colonial administrator whose comprehensive histories of India remain valuable sources for understanding the subcontinent's past. A distinguished member of the Bengal Civil Service, he combined administrative duties with serious historical scholarship.
+Henry Beveridge (1799–1863) was a Scottish lawyer, translator, and historian. He should not be confused with his son, the Indian Civil Service officer and orientalist Henry Beveridge (1837–1929), translator of Abu'l-Fazl's *Akbarnama*, or his grandson, the British social reformer William Beveridge.
+
+## Legal Training and Translation Work
+
+Originally intending to enter the ministry, Beveridge trained for the law and became a lawyer before devoting himself primarily to writing and scholarly translation. Working with the Edinburgh-based Calvin Translation Society (founded in 1843), he translated John Calvin's *Tracts Relating to the Reformation* (three volumes, 1844) and *Institutes of the Christian Religion* (three volumes, 1845).
 
 ## A Comprehensive History of India
 
-Beveridge's most ambitious work was his three-volume *A Comprehensive History of India*, published in 1862. Written just five years after the Sepoy Mutiny, this sweeping narrative covered India from ancient times through the rebellion and its aftermath. The work is notable for:
+Beveridge's major historical work was *A Comprehensive History of India, Civil, Military and Social, from the First Landing of the English to the Suppression of the Sepoy Revolt*, commissioned by the Glasgow and London publisher Blackie and Son and produced in three volumes between 1858 and 1863. Written without leaving Britain, it synthesized printed parliamentary records, East India Company dispatches, and earlier British accounts into a sweeping narrative:
 
-- **Volume I**: Ancient and medieval India, the rise of the Mughal Empire, and the founding of the East India Company
-- **Volume II**: Hindu institutions and civilization, plus the critical period from 1765 to 1813
-- **Volume III**: British expansion and the events leading to the Mutiny
-
-## Civil Service Career
-
-Beveridge served in the Bengal Civil Service for over 35 years, holding positions as District Magistrate and Collector in various districts. His administrative experience gave him firsthand knowledge of Indian society, which informed his historical writing.
-
-## Translation Work
-
-In retirement, Beveridge devoted himself to translating important Persian historical texts, including Abu'l-Fazl's *Akbar-nama*, the official chronicle of Emperor Akbar's reign. This work made primary source material accessible to English-speaking scholars and remains a standard reference.
+- **Volume I**: Ancient and medieval India, the rise of the Mughal Empire, and the early East India Company
+- **Volume II**: Hindu institutions and society, followed by the period from 1765 to 1813
+- **Volume III**: British territorial expansion through the Sepoy Revolt of 1857
 
 ## Legacy
 
-Beveridge's historical works, while products of their colonial era, provide detailed narrative accounts of Indian history that draw on extensive primary sources. His combination of administrative experience, linguistic skills, and scholarly dedication produced works that continue to be consulted by historians of South Asia.
+Beveridge's *Comprehensive History of India* remains a notable mid-nineteenth-century British synthesis of South Asian history, complemented in the next generation by his son Henry Beveridge's direct translations of Mughal Persian chronicles.

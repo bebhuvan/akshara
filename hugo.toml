@@ -70,7 +70,7 @@ buildDrafts = false
 [params]
   description = "Making India's forgotten books readable—extracting and cleaning up text from rare PDFs, one book at a time."
   author = "Akshara Archive"
-  featured_book = "foreign-notices-south-india"  # Featured on homepage
+  featured_book = "india-at-the-death-of-akbar"  # Featured on homepage
 
 # Caches for faster builds
 [caches]
