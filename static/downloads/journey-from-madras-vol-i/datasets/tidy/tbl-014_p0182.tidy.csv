@@ -1,0 +1,36 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,1,data,,Broken glass,2,lb.,14,14.0,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,1,data,,Broken glass,3,oz.,9,9.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,1,data,,Broken glass,4,dr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,1,data,,Broken glass,5,scr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,1,data,,Broken glass,6,gr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,2,data,,"Banaji Callu, powdered white quartz",2,lb.,14,14.0,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,2,data,,"Banaji Callu, powdered white quartz",3,oz.,9,9.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,2,data,,"Banaji Callu, powdered white quartz",4,dr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,2,data,,"Banaji Callu, powdered white quartz",5,scr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,2,data,,"Banaji Callu, powdered white quartz",6,gr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,3,data,,Loha (an old button like brass was given to me as a specimen),2,lb.,0,0.0,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,3,data,,Loha (an old button like brass was given to me as a specimen),3,oz.,3,3.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,3,data,,Loha (an old button like brass was given to me as a specimen),4,dr.,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,3,data,,Loha (an old button like brass was given to me as a specimen),5,scr.,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,3,data,,Loha (an old button like brass was given to me as a specimen),6,gr.,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,4,data,,Copper,2,lb.,0,0.0,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,4,data,,Copper,3,oz.,2,2.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,4,data,,Copper,4,dr.,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,4,data,,Copper,5,scr.,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,4,data,,Copper,6,gr.,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,5,data,,"Caricullu, iron ore with manganese",2,lb.,0,0.0,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,5,data,,"Caricullu, iron ore with manganese",3,oz.,2,2.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,5,data,,"Caricullu, iron ore with manganese",4,dr.,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,5,data,,"Caricullu, iron ore with manganese",5,scr.,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,5,data,,"Caricullu, iron ore with manganese",6,gr.,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,6,data,,"Soulu, or impure soda",2,lb.,29,29.0,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,6,data,,"Soulu, or impure soda",3,oz.,6,6.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,6,data,,"Soulu, or impure soda",4,dr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,6,data,,"Soulu, or impure soda",5,scr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,6,data,,"Soulu, or impure soda",6,gr.,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,7,total,,Row 7,2,lb.,lb. 58,,lbs,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,7,total,,Row 7,3,oz.,11,11.0,oz,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,7,total,,Row 7,4,dr.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,7,total,,Row 7,5,scr.,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-014,Table 14,182,148,7,total,,Row 7,6,gr.,11,11.0,,False,False

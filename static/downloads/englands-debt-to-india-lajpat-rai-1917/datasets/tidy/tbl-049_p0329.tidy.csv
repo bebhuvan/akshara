@@ -1,0 +1,52 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,1,data,,"Capital outlay, crores of",2,1901,Rs.,,Rs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,1,data,,"Capital outlay, crores of",3,1910,339.17,339.17,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,1,data,,"Capital outlay, crores of",4,Column 4,439.04,439.04,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,2,data,,"Gross earnings, crores of “",2,1901,33.60,33.6,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,2,data,,"Gross earnings, crores of “",3,1910,45.76,45.76,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,2,data,,"Gross earnings, crores of “",4,Column 4,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,3,data,,"Working expenses, crores of “",2,1901,15.75,15.75,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,3,data,,"Working expenses, crores of “",3,1910,25.16,25.16,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,3,data,,"Working expenses, crores of “",4,Column 4,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,4,data,,"Percentage of working expenses to gross earnings, crores of “",2,1901,46.79,46.79,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,4,data,,"Percentage of working expenses to gross earnings, crores of “",3,1910,53.10,53.1,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,4,data,,"Percentage of working expenses to gross earnings, crores of “",4,Column 4,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,5,data,,"Net earnings, crores of “",2,1901,17.88,17.88,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,5,data,,"Net earnings, crores of “",3,1910,20.60,20.6,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,5,data,,"Net earnings, crores of “",4,Column 4,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,6,data,,Percentage of net earnings on capital outlay,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,6,data,,Percentage of net earnings on capital outlay,3,1910,5.27,5.27,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,6,data,,Percentage of net earnings on capital outlay,4,Column 4,5.46,5.46,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,7,data,,"Net gain to the State, that is to the general tax-payer after deducting interest on loans borrowed for capital and other indirect charges, crores of “",2,1901,1.27,1.27,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,7,data,,"Net gain to the State, that is to the general tax-payer after deducting interest on loans borrowed for capital and other indirect charges, crores of “",3,1910,2.75,2.75,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,329,289,7,data,,"Net gain to the State, that is to the general tax-payer after deducting interest on loans borrowed for capital and other indirect charges, crores of “",4,Column 4,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,8,header,,Percentage of net gain on total,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,8,header,,Percentage of net gain on total,3,1910,1901,1901.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,8,header,,Percentage of net gain on total,4,Column 4,1910,1910.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,9,data,,"capital outlay, that is to say, the rate of dividend earned by the State or the tax-payer on the total capital",2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,9,data,,"capital outlay, that is to say, the rate of dividend earned by the State or the tax-payer on the total capital",3,1910,0.38,0.38,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,9,data,,"capital outlay, that is to say, the rate of dividend earned by the State or the tax-payer on the total capital",4,Column 4,0.62,0.62,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,10,data,,No. of miles open,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,10,data,,No. of miles open,3,1910,"25,370",25370.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,10,data,,No. of miles open,4,Column 4,"36,064",36064.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,11,data,,No. of passengers carried,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,11,data,,No. of passengers carried,3,1910,19.47,19.47,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,11,data,,No. of passengers carried,4,Column 4,37.15,37.15,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,12,data,,"Passenger earnings, crores of",2,1901,Rs.,,Rs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,12,data,,"Passenger earnings, crores of",3,1910,10.07,10.07,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,12,data,,"Passenger earnings, crores of",4,Column 4,17.12,17.12,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,13,data,,"Goods traffic, crores of tons",2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,13,data,,"Goods traffic, crores of tons",3,1910,4.34,4.34,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,13,data,,"Goods traffic, crores of tons",4,Column 4,6.50,6.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,14,data,,"Goods earnings, crores of “",2,1901,21.24,21.24,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,14,data,,"Goods earnings, crores of “",3,1910,30.43,30.43,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,14,data,,"Goods earnings, crores of “",4,Column 4,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,15,data,,No. of European employees,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,15,data,,No. of European employees,3,1910,"5,493",5493.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,15,data,,No. of European employees,4,Column 4,"7,411",7411.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,16,data,,No. of Eurasian employees,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,16,data,,No. of Eurasian employees,3,1910,"8,175",8175.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,16,data,,No. of Eurasian employees,4,Column 4,"9,583",9583.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,17,data,,No. of Indian employees,2,1901,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,17,data,,No. of Indian employees,3,1910,"353,278",353278.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-049,Table 49,330,289,17,data,,No. of Indian employees,4,Column 4,"526,499",526499.0,,False,False

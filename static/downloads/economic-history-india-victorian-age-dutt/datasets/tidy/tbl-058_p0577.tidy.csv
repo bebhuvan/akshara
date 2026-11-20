@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,1,data,,1892,2,£,"3,240,000",3240000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,2,data,,1893,2,£,"3,666,000",3666000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,3,data,,1894,2,£,"3,526,000",3526000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,4,data,,1895,2,£,"4,373,000",4373000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,5,data,,1896,2,£,"5,213,000",5213000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,6,data,,1897,2,£,"7,307,000",7307000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,7,data,,1898,2,£,"6,993,000",6993000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,8,data,,1899,2,£,"8,926,000",8926000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,9,data,,1900,2,£,"7,106,000",7106000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-058,Capital Outlay Year by Year up to December 1901.,577,549,10,data,,1901,2,£,"6,773,000",6773000.0,GBP,False,False

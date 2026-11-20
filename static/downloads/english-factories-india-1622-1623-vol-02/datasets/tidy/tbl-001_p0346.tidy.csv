@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,1,data,,"take it out of his estate abord the juncks, viz",2,Column 2,.,,,True,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,1,data,,"take it out of his estate abord the juncks, viz",3,Column 3,rupes,,,False,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,1,data,,"take it out of his estate abord the juncks, viz",4,Column 4,"9,686¼",9686.25,,False,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,2,data,,for expences of by detention of the caphila,2,Column 2,.,,,True,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,2,data,,for expences of by detention of the caphila,3,Column 3,.,,,True,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,2,data,,for expences of by detention of the caphila,4,Column 4,"1,000",1000.0,,False,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,3,data,,Row 3,2,Column 2,,,,True,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,3,data,,Row 3,3,Column 3,"Some, rupes",,,False,False
+english-factories-india-1622-1623-vol-02,tbl-001,Table 1,346,307,3,data,,Row 3,4,Column 4,"10,686¼",10686.25,,False,False

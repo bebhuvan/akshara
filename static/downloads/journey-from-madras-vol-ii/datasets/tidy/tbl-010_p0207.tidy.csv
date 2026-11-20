@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,1,data,,Of cloth,2,Loaded oxen.,50,50.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,2,data,,Of tobacco,2,Loaded oxen.,300,300.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,3,data,,"Of Ghee, or boiled butter,",2,Loaded oxen.,70,70.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,4,data,,Of castor oil,2,Loaded oxen.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,5,data,,Of poppy seed,2,Loaded oxen.,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,6,data,,"Of Goni, or hemp",2,Loaded oxen.,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,7,data,,Of Palmira Jagory,2,Loaded oxen.,50,50.0,,False,False
+journey-from-madras-vol-ii,tbl-010,Table 10,207,191,8,data,,Of potstone vessels,2,Loaded oxen.,5,5.0,,False,False

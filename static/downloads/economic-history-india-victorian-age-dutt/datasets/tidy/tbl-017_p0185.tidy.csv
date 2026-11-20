@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,1,data,,"Books, British",2,Import Duty.,Free.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,2,data,,"Books, Foreign",2,Import Duty.,3 per cent.,3.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,3,data,,Coffee,2,Import Duty.,7½ per cent.,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,4,data,,"Cotton and silk piece goods, British",2,Import Duty.,5 per cent.,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,5,data,,"Cotton and silk piece goods, Foreign",2,Import Duty.,10 per cent.,10.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,6,data,,"Cotton thread, twist, and yarn, British",2,Import Duty.,3½ per cent.,3.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,7,data,,"Cotton thread, twist, and yarn, Foreign",2,Import Duty.,7 per cent.,7.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,8,data,,Horses and other animals,2,Import Duty.,Free.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,9,data,,"Marine stores, British",2,Import Duty.,5 per cent.,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,10,data,,"Marine stores, Foreign",2,Import Duty.,10 per cent.,10.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,11,data,,"Metals, British",2,Import Duty.,5 per cent.,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,12,data,,"Metals, Foreign",2,Import Duty.,10 per cent.,10.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,13,data,,"Beer, ale, and similar fermented liquors",2,Import Duty.,5 per cent.,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,14,data,,Salt,2,Import Duty.,{ 5s. per maund (82 lbs.) in Bengal. { 6s. per maund in Madras,,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,15,data,,Spirits,2,Import Duty.,"{ 3s. per Imperial Gallon, London proof.",,gallons,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,16,data,,Tea,2,Import Duty.,10 per cent.,10.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,17,data,,Wines and Liquers,2,Import Duty.,2s. per Imperial Gallon.,,gallons,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,18,data,,"Woollens, British",2,Import Duty.,5 per cent.,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,19,data,,"Woollens, Foreign",2,Import Duty.,10 per cent.,10.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,20,data,,Manufactured articles,2,Import Duty.,5 per cent.,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-017,Table 17,185,157,21,data,,Articles not named,2,Import Duty.,3½ per cent.,3.5,%,False,False

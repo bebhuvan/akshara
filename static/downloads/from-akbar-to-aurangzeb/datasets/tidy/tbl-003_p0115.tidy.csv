@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,1,data,,Spices,2,Unit.,Quintal (=130 lb.),,lbs,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,1,data,,Spices,3,1602. (2 carracks.),9851½,9851.5,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,1,data,,Spices,4,1603. (4 carracks.),"25,582½",25582.5,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,2,data,,Indigo,2,Unit.,”,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,2,data,,Indigo,3,1602. (2 carracks.),17½,17.5,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,2,data,,Indigo,4,1603. (4 carracks.),809,809.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,3,data,,Other goods detailed by weight,2,Unit.,”,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,3,data,,Other goods detailed by weight,3,1602. (2 carracks.),889,889.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,3,data,,Other goods detailed by weight,4,1603. (4 carracks.),nil,0.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,4,data,,Silks,2,Unit.,Chests,,chests,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,4,data,,Silks,3,1602. (2 carracks.),303,303.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,4,data,,Silks,4,1603. (4 carracks.),931,931.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,5,data,,Calicoes,2,Unit.,Chests,,chests,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,5,data,,Calicoes,3,1602. (2 carracks.),86,86.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,5,data,,Calicoes,4,1603. (4 carracks.),. .,,,True,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,6,data,,Calicoes,2,Unit.,Large bales,,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,6,data,,Calicoes,3,1602. (2 carracks.),273,273.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,6,data,,Calicoes,4,1603. (4 carracks.),959,959.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,7,data,,Calicoes,2,Unit.,Small bales,,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,7,data,,Calicoes,3,1602. (2 carracks.),146,146.0,,False,False
+from-akbar-to-aurangzeb,tbl-003,Cargoes from Goa to Lisbon,115,93,7,data,,Calicoes,4,1603. (4 carracks.),"5,314",5314.0,,False,False

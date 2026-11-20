@@ -1,0 +1,67 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,1,data,,Land Revenue,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,1,data,,Land Revenue,3,Net Revenue. :: £,"19,311,932",19311932.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,2,data,,Forests,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,2,data,,Forests,3,Net Revenue. :: £,"150,499",150499.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,3,data,,Tributes,2,£,"703,660",703660.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,3,data,,Tributes,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,4,data,,Receipts in Native States for Opium,2,£,"2,390,000",2390000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,4,data,,Receipts in Native States for Opium,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,5,data,,"Less for Troops, about",2,£,"340,000",340000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,5,data,,"Less for Troops, about",3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,6,data,,Row 6,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,6,data,,Row 6,3,Net Revenue. :: £,"2,753,660",2753660.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,7,data,,Excise,2,£,"2,525,575",2525575.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,7,data,,Excise,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,8,data,,Less on Opium used in India,2,£,"466,955",466955.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,8,data,,Less on Opium used in India,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,9,data,,Row 9,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,9,data,,Row 9,3,Net Revenue. :: £,"2,058,620",2058620.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,10,data,,Assessed Taxes,2,£,"837,312",837312.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,10,data,,Assessed Taxes,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,11,data,,"Less for Famine Insurance, about",2,£,"547,000",547000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,11,data,,"Less for Famine Insurance, about",3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,12,data,,Row 12,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,12,data,,Row 12,3,Net Revenue. :: £,"290,312",290312.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,13,data,,Provincial Rates,2,£,"2,544,507",2544507.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,13,data,,Provincial Rates,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,14,data,,"Less for Famine Insurance, about",2,£,"52,000",52000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,14,data,,"Less for Famine Insurance, about",3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,15,data,,Row 15,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,15,data,,Row 15,3,Net Revenue. :: £,"2,492,507",2492507.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,16,data,,Customs,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,16,data,,Customs,3,Net Revenue. :: £,"2,060,905",2060905.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,17,data,,Salt,2,£,"6,503,031",6503031.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,17,data,,Salt,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,18,data,,"Less allowance to Native States to secure monopoly, about",2,£,"200,000",200000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,18,data,,"Less allowance to Native States to secure monopoly, about",3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,19,data,,Row 19,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,19,data,,Row 19,3,Net Revenue. :: £,"6,303,031",6303031.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,20,data,,Opium,2,£,"7,700,671",7700671.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,20,data,,Opium,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,21,data,,Plus Excise on that used in India,2,£,"466,955",466955.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,21,data,,Plus Excise on that used in India,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,22,data,,Less Tax on that grown in Native States,2,£,"2,390,000",2390000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,22,data,,Less Tax on that grown in Native States,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,23,data,,Row 23,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,23,data,,Row 23,3,Net Revenue. :: £,"5,777,626",5777626.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,24,data,,Stamps,2,£,"2,959,819",2959819.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,24,data,,Stamps,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,25,data,,Less Court Fee Stamps,2,£,"2,150,909",2150909.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,25,data,,Less Court Fee Stamps,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,26,data,,Row 26,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,26,data,,Row 26,3,Net Revenue. :: £,"808,910",808910.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,27,data,,Mint,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,27,data,,Mint,3,Net Revenue. :: £,"68,344",68344.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,28,data,,Miscellaneous,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,28,data,,Miscellaneous,3,Net Revenue. :: £,"67,676",67676.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,29,data,,Famine Insurance,2,£,"599,000",599000.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,29,data,,Famine Insurance,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,30,data,,„ Expenditure,2,£,"313,420",313420.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,30,data,,„ Expenditure,3,Net Revenue. :: £,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,31,data,,Row 31,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,31,data,,Row 31,3,Net Revenue. :: £,"285,580",285580.0,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,32,data,,Miscellaneous Refunds,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,32,data,,Miscellaneous Refunds,3,Net Revenue. :: £,"– 64,575",,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,33,total,,Net Revenue,2,£,,,GBP,True,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,33,total,,Net Revenue,3,Net Revenue. :: £,"£42,365,027",42365027.0,GBP,False,True

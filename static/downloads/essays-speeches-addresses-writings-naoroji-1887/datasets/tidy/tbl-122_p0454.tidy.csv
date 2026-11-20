@@ -1,0 +1,73 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,1,data,,Goods,2,Column 2,Value given in the Report.,,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,1,data,,Goods,3,Column 3,"Deduct for raw Material already calculated and included in the produce, or imported and paid from produce.",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,1,data,,Goods,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,1,data,,Goods,5,Column 5,Balance representing labour.,,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,2,data,,Row 2,2,Column 2,Rs.,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,2,data,,Row 2,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,2,data,,Row 2,4,Column 4,Rs.,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,2,data,,Row 2,5,Column 5,Rs.,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,3,data,,Silks,2,Column 2,"19,62,049",1962049.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,3,data,,Silks,3,Column 3,Say half for Material (imported),,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,3,data,,Silks,4,Column 4,"9,81,024",981024.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,3,data,,Silks,5,Column 5,"9,81,024",981024.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,4,data,,Cottons,2,Column 2,"1,75,05,556",17505556.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,4,data,,Cottons,3,Column 3,""" 40% per "" """,,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,4,data,,Cottons,4,Column 4,"70,02,222",7002222.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,4,data,,Cottons,5,Column 5,"1,05,03,334",10503334.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,5,data,,Wool,2,Column 2,"9,42,329",942329.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,5,data,,Wool,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,5,data,,Wool,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,5,data,,Wool,5,Column 5,"9,42,329",942329.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,6,data,,Fibres,2,Column 2,"6,41,578",641578.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,6,data,,Fibres,3,Column 3,""" 20% "" """,,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,6,data,,Fibres,4,Column 4,"1,28,315",128315.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,6,data,,Fibres,5,Column 5,"5,13,263",513263.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,7,data,,Paper,2,Column 2,"1,58,565",158565.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,7,data,,Paper,3,Column 3,""" 25% "" """,,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,7,data,,Paper,4,Column 4,"39,641",39641.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,7,data,,Paper,5,Column 5,"1,18,924",118924.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,8,data,,Wood,2,Column 2,"67,28,686",6728686.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,8,data,,Wood,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,8,data,,Wood,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,8,data,,Wood,5,Column 5,"67,28,686",6728686.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,9,data,,Iron,2,Column 2,"43,26,132",4326132.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,9,data,,Iron,3,Column 3,""" ⅓rd "" """,,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,9,data,,Iron,4,Column 4,"14,42,044",1442044.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,9,data,,Iron,5,Column 5,"28,84,088",2884088.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,10,data,,Brass and Copper,2,Column 2,"6,38,573",638573.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,10,data,,Brass and Copper,3,Column 3,""" 40% "" """,,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,10,data,,Brass and Copper,4,Column 4,"2,55,429",255429.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,10,data,,Brass and Copper,5,Column 5,"3,83,144",383144.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,11,data,,Building,2,Column 2,"43,22,867",4322867.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,11,data,,Building,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,11,data,,Building,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,11,data,,Building,5,Column 5,"43,22,867",4322867.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,12,data,,Leather,2,Column 2,"63,21,802",6321802.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,12,data,,Leather,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,12,data,,Leather,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,12,data,,Leather,5,Column 5,"63,21,802",6321802.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,13,data,,Gold and Silver lace,2,Column 2,"56,27,054",5627054.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,13,data,,Gold and Silver lace,3,Column 3,""" ⅔rd "" """,,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,13,data,,Gold and Silver lace,4,Column 4,"37,51,370",3751370.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,13,data,,Gold and Silver lace,5,Column 5,"18,75,685",1875685.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,14,data,,Dyeing,2,Column 2,"7,38,926",738926.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,14,data,,Dyeing,3,Column 3,Material not stated.,,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,14,data,,Dyeing,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,14,data,,Dyeing,5,Column 5,"7,38,926",738926.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,15,data,,Oil,2,Column 2,"12,45,966",1245966.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,15,data,,Oil,3,Column 3,""" ½rd or say ½ Material",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,15,data,,Oil,4,Column 4,"6,22,983",622983.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,15,data,,Oil,5,Column 5,"6,22,983",622983.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,16,data,,Shawls,2,Column 2,"8,96,507",896507.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,16,data,,Shawls,3,Column 3,""" 1/12th Material imported",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,16,data,,Shawls,4,Column 4,"74,709",74709.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,16,data,,Shawls,5,Column 5,"8,21,798",821798.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,17,data,,Other Manufactures,2,Column 2,"30,81,205",3081205.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,17,data,,Other Manufactures,3,Column 3,Not described,,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,17,data,,Other Manufactures,4,Column 4,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,17,data,,Other Manufactures,5,Column 5,"30,81,205",3081205.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,18,total,,Row 18,2,Column 2,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,18,total,,Row 18,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,18,total,,Row 18,4,Column 4,Total......,,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-122,Manufactures.,454,435,18,total,,Row 18,5,Column 5,"4,08,40,058",40840058.0,,False,True

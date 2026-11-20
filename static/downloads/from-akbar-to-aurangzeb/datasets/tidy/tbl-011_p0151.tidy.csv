@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,1,data,,East Coast,2,Season 1638–39.,"18,225",18225.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,1,data,,East Coast,3,Season 1639–40.,...,,,True,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,1,data,,East Coast,4,Season 1640–41.,25,25.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,2,data,,Bengal,2,Season 1638–39.,"6,700",6700.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,2,data,,Bengal,3,Season 1639–40.,...,,,True,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,2,data,,Bengal,4,Season 1640–41.,...,,,True,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,3,data,,Gujarat,2,Season 1638–39.,"38,883",38883.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,3,data,,Gujarat,3,Season 1639–40.,"13,660",13660.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,3,data,,Gujarat,4,Season 1640–41.,"18,918",18918.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,4,data,,Agra,2,Season 1638–39.,"2,823",2823.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,4,data,,Agra,3,Season 1639–40.,"12,122",12122.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,4,data,,Agra,4,Season 1640–41.,"23,550",23550.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,5,data,,Sind,2,Season 1638–39.,...,,,True,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,5,data,,Sind,3,Season 1639–40.,"28,507",28507.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,5,data,,Sind,4,Season 1640–41.,"11,360",11360.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,6,total,,Row 6,2,Season 1638–39.,"66,641",66641.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,6,total,,Row 6,3,Season 1639–40.,"54,289",54289.0,,False,False
+from-akbar-to-aurangzeb,tbl-011,Number of Pieces of Cotton Cloth shipped from Surat to London,151,129,6,total,,Row 6,4,Season 1640–41.,"53,853",53853.0,,False,False

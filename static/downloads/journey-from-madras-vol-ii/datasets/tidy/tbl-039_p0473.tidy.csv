@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,1,data,,Navara,2,Column 2,a 2½ months crop. Average produce,,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,1,data,,Navara,3,Column 3,5 seeds,,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,2,data,,Watun,2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,2,data,,Watun,3,Column 3,7 or 8,,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,3,data,,Calii,2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,3,data,,Calii,3,Column 3,7 or 8,,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,4,data,,Caruma,2,Column 2,3½,3.5,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,4,data,,Caruma,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,5,data,,Ari Modun,2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,5,data,,Ari Modun,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,6,data,,Tua Punarin,2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,6,data,,Tua Punarin,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,7,data,,Cheru Modun,2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,7,data,,Cheru Modun,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,8,data,,Ari Caruma,2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-039,Table 39,473,447,8,data,,Ari Caruma,3,Column 3,5,5.0,,False,False

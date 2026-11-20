@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "poverty-and-un-british-rule",
+    "table_id": "tbl-077",
+    "caption": "Table 77",
+    "page_number": 139,
+    "printed_folio": "119",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Burjorjee Ardesir, Savuntvaree",
+    "column_index": 2,
+    "column_header": "Rs.",
+    "raw_text": "350",
+    "value_numeric": 350.0,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "poverty-and-un-british-rule",
+    "table_id": "tbl-077",
+    "caption": "Table 77",
+    "page_number": 139,
+    "printed_folio": "119",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Abdool Rahim Hakim, Bassadore",
+    "column_index": 2,
+    "column_header": "Rs.",
+    "raw_text": "200",
+    "value_numeric": 200.0,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

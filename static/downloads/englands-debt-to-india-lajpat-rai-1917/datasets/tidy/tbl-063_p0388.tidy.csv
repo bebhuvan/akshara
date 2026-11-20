@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-063,Mirzapur-East Indian Railroad.,388,348,1,data,,Carpenter,2,Skilled labour,$1.00 to $1.66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-063,Mirzapur-East Indian Railroad.,388,348,1,data,,Carpenter,3,Unskilled labour,$ .50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-063,Mirzapur-East Indian Railroad.,388,348,2,data,,Blacksmith,2,Skilled labour,$1.66,1.66,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-063,Mirzapur-East Indian Railroad.,388,348,2,data,,Blacksmith,3,Unskilled labour,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-063,Mirzapur-East Indian Railroad.,388,348,3,data,,Permanent Inspector,2,Skilled labour,$2.00,2.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-063,Mirzapur-East Indian Railroad.,388,348,3,data,,Permanent Inspector,3,Unskilled labour,,,,True,False

@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-053,Table 53,341,301,1,data,,Number of universities in India in 1912,2,Column 2,5,5.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-053,Table 53,341,301,2,data,,"Two have been added since that time, making a total of",2,Column 2,7,7.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-053,Table 53,341,301,3,data,,Number of colleges affiliated to the universities,2,Column 2,179,179.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-053,Table 53,341,301,4,data,,From 1907 to 1912 there was an increase of,2,Column 2,3,3.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-053,Table 53,341,301,5,data,,Number of students in colleges,2,Column 2,"36,533",36533.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-053,Table 53,341,301,6,data,,Expenditure on university education (p. 43),2,Column 2,"£90,000",90000.0,GBP,False,False

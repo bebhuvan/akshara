@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,1,data,,1910 United Kingdom,2,Passengers Carried,1240 millions,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,1,data,,1910 United Kingdom,3,Passengers Carried,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,1,data,,1910 United Kingdom,4,Goods Carried,489 millions tons,,tons,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,1,data,,1910 United Kingdom,5,Goods Carried,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,1,data,,1910 United Kingdom,6,Goods Carried,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,2,data,,1910 United States of America,2,Passengers Carried,971,971.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,2,data,,1910 United States of America,3,Passengers Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,2,data,,1910 United States of America,4,Goods Carried,1849,1849.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,2,data,,1910 United States of America,5,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,2,data,,1910 United States of America,6,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,3,data,,1910 Germany,2,Passengers Carried,1541,1541.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,3,data,,1910 Germany,3,Passengers Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,3,data,,1910 Germany,4,Goods Carried,576,576.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,3,data,,1910 Germany,5,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,3,data,,1910 Germany,6,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,4,data,,1910 France,2,Passengers Carried,509,509.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,4,data,,1910 France,3,Passengers Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,4,data,,1910 France,4,Goods Carried,173,173.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,4,data,,1910 France,5,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,4,data,,1910 France,6,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,5,data,,1910 Austria-Hungary,2,Passengers Carried,409,409.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,5,data,,1910 Austria-Hungary,3,Passengers Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,5,data,,1910 Austria-Hungary,4,Goods Carried,217,217.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,5,data,,1910 Austria-Hungary,5,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,5,data,,1910 Austria-Hungary,6,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,6,data,,1916 India,2,Passengers Carried,451,451.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,6,data,,1916 India,3,Passengers Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,6,data,,1916 India,4,Goods Carried,81,81.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,6,data,,1916 India,5,Goods Carried,“,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-046,Comparative Table of Traffic.,324,284,6,data,,1916 India,6,Goods Carried,“,,,False,False

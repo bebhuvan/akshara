@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,1,data,,England,2,Gross earnings per inhabitant.,£41,41.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,2,data,,Scotland,2,Gross earnings per inhabitant.,32,32.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,3,data,,Ireland,2,Gross earnings per inhabitant.,16,16.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,4,data,,United Kingdom,2,Gross earnings per inhabitant.,35·2,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,5,data,,France,2,Gross earnings per inhabitant.,25·7,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,6,data,,Germany,2,Gross earnings per inhabitant.,18·7,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,7,data,,Russia,2,Gross earnings per inhabitant.,9·9,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,8,data,,Austria,2,Gross earnings per inhabitant.,16·3,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,9,data,,Italy,2,Gross earnings per inhabitant.,12,12.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,10,data,,Spain,2,Gross earnings per inhabitant.,13·8,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,11,data,,Portugal,2,Gross earnings per inhabitant.,13·6,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,12,data,,Belgium,2,Gross earnings per inhabitant.,£22·1,,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,13,data,,Holland,2,Gross earnings per inhabitant.,26,26.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,14,data,,Denmark,2,Gross earnings per inhabitant.,23·2,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,15,data,,Sweden and Norway,2,Gross earnings per inhabitant.,16·2,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,16,data,,Switzerland,2,Gross earnings per inhabitant.,16,16.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,17,data,,Greece,2,Gross earnings per inhabitant.,11·8,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,18,data,,Europe,2,Gross earnings per inhabitant.,18,18.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,19,data,,United States,2,Gross earnings per inhabitant.,27·2,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,20,data,,Canada,2,Gross earnings per inhabitant.,26·9,,,False,False
+speeches-and-writings-naoroji-1918,tbl-018,Table 18,590,576,21,data,,Australia,2,Gross earnings per inhabitant.,43·4,,,False,False

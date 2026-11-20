@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,1,data,,Bengal,2,Population about,"£2,583,562",2583562.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,1,data,,Bengal,3,Per head about :: s.,"40,000,000",40000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,1,data,,Bengal,4,Per head about :: d.,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,1,data,,Bengal,5,Column 5,3½,3.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,2,data,,Oudh,2,Population about,"1,219",1219.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,2,data,,Oudh,3,Per head about :: s.,"11,000,000",11000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,2,data,,Oudh,4,Per head about :: d.,...,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,2,data,,Oudh,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,3,data,,Central Provinces,2,Population about,"115,167",115167.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,3,data,,Central Provinces,3,Per head about :: s.,"9,000,000",9000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,3,data,,Central Provinces,4,Per head about :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,3,data,,Central Provinces,5,Column 5,3,3.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,4,data,,N. W. Provinces,2,Population about,"488,728",488728.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,4,data,,N. W. Provinces,3,Per head about :: s.,"30,000,000",30000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,4,data,,N. W. Provinces,4,Per head about :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,4,data,,N. W. Provinces,5,Column 5,4,4.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,5,data,,Punjaub,2,Population about,"923,060",923060.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,5,data,,Punjaub,3,Per head about :: s.,"17,500,000",17500000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,5,data,,Punjaub,4,Per head about :: d.,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,5,data,,Punjaub,5,Column 5,0½,0.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,6,data,,Madras,2,Population about,"1,164,736",1164736.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,6,data,,Madras,3,Per head about :: s.,"23,000,000",23000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,6,data,,Madras,4,Per head about :: d.,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,6,data,,Madras,5,Column 5,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,7,data,,Bombay,2,Population about,"599,407",599407.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,7,data,,Bombay,3,Per head about :: s.,"14,000,000",14000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,7,data,,Bombay,4,Per head about :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,7,data,,Bombay,5,Column 5,10,10.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,8,total,,Total,2,Population about,"5,875,879",5875879.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,8,total,,Total,3,Per head about :: s.,"144,500,000",144500000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,8,total,,Total,4,Per head about :: d.,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-007,(Ret. c. 213 of 1870.),173,150,8,total,,Total,5,Column 5,9¾average,,,False,False

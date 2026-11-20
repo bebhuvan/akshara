@@ -1,0 +1,39 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,1,data,,Cotton wool with the seed,2,Column 2,"per Maund, 1/6 Pagoda",,maunds,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,1,data,,Cotton wool with the seed,3,Column 3,"Cwt. 62,41/100 Pence",,cwt,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,2,data,,Do. cleared from do,2,Column 2,do. 12 Fanams,,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,2,data,,Do. cleared from do,3,Column 3,"do. 345,6/10 do.",,cwt,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,3,data,,Cotton seed,2,Column 2,do. 1/20 Pagoda,,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,3,data,,Cotton seed,3,Column 3,"do. 18,72/100 do.",,cwt,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,4,data,,Jagory,2,Column 2,do. 4 Fanams,,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,4,data,,Jagory,3,Column 3,"do. 138,25/100 do.",,cwt,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,5,data,,Gydnas 20 of Jola,2,Column 2,"pence 16,378 per bushel",,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,5,data,,Gydnas 20 of Jola,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,6,data,,do. 18 Avaray,2,Column 2,"18,298",18298.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,6,data,,do. 18 Avaray,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,7,data,,do. 12 Tovary,2,Column 2,"27,307",27307.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,7,data,,do. 12 Tovary,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,8,data,,do. 10 Hessaru,2,Column 2,"32,757",32757.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,8,data,,do. 10 Hessaru,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,9,data,,do. 20 Madiky,2,Column 2,"16,378",16378.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,9,data,,do. 20 Madiky,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,10,data,,do. 20 Huruli,2,Column 2,"16,378",16378.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,10,data,,do. 20 Huruli,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,11,data,,do. 16 Alasunda,2,Column 2,"20,473",20473.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,11,data,,do. 16 Alasunda,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,12,data,,do. 10 Callay,2,Column 2,"32,757",32757.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,12,data,,do. 10 Callay,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,13,data,,do. 20 Navonay,2,Column 2,"16,378",16378.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,13,data,,do. 20 Navonay,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,14,data,,do. 18 Sujjay,2,Column 2,"18,298",18298.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,14,data,,do. 18 Sujjay,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,15,data,,do. 12 Gur Ellu,2,Column 2,"27,307",27307.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,15,data,,do. 12 Gur Ellu,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,16,data,,do. 12 Harulu,2,Column 2,"27,307",27307.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,16,data,,do. 12 Harulu,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,17,data,,do. 20 Ragy,2,Column 2,"16,378",16378.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,17,data,,do. 20 Ragy,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,18,data,,do. 10 Rice,2,Column 2,"32,757",32757.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,18,data,,do. 10 Rice,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,19,data,,do. 9 Wheat,2,Column 2,"36,396",36396.0,,False,False
+journey-from-madras-vol-iii,tbl-033,Table 33,342,316,19,data,,do. 9 Wheat,3,Column 3,,,,True,False

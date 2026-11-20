@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,1,data,,To the proprietor,2,Column 2,11,11.0,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,2,data,,To the 9 charcoal makers,2,Column 2,9,9.0,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,3,data,,To the iron-smith,2,Column 2,3½,3.5,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,4,data,,To the 4 hammer-men,2,Column 2,7,7.0,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,5,data,,To the 6 bellows-men,2,Column 2,8,8.0,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,6,data,,To the miner,2,Column 2,1,1.0,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,7,data,,To the buffalo driver,2,Column 2,2½,2.5,,False,True
+journey-from-madras-vol-iii,tbl-035,Table 35,400,362,8,total,,Row 8,2,Column 2,42,42.0,,False,True

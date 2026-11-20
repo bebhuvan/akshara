@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-038,Brochures by Mr. Wacha,896,214,1,data,,Recent Indian Finance,2,Column 2,As. (Four),,,False,False
+speeches-and-writings-naoroji-1918,tbl-038,Brochures by Mr. Wacha,896,214,2,data,,Indian Military Expenditure,2,Column 2,As. (Four),,,False,False
+speeches-and-writings-naoroji-1918,tbl-038,Brochures by Mr. Wacha,896,214,3,data,,Indian Railway Finance,2,Column 2,As. (Four),,,False,False

@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,1,data,,"6000 Gujahs = 1 Hardary, commonly by Europeans called a Sultany Coss",2,Miles.,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,1,data,,"6000 Gujahs = 1 Hardary, commonly by Europeans called a Sultany Coss",3,Furlongs.,5.16⁄100,,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,2,data,,"4 Hardaries = 1 Gavada, or day’s journey,",2,Miles.,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,2,data,,"4 Hardaries = 1 Gavada, or day’s journey,",3,Furlongs.,4.64⁄100,,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,3,data,,"But the Hardary in common use is one fourth less, and is therefore equal to",2,Miles.,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,3,data,,"But the Hardary in common use is one fourth less, and is therefore equal to",3,Furlongs.,5.87,5.87,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,4,data,,"The Gavada, or day’s journey,",2,Miles.,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-011,Table 11,165,131,4,data,,"The Gavada, or day’s journey,",3,Furlongs.,7.48,7.48,,False,False

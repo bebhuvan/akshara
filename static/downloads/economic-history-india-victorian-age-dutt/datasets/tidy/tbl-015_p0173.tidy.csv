@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-015,Table 15,173,145,1,data,,"502,616",2,"British Salt imported into Calcutta, in Maunds (82 lbs.). :: 1846–47.","352,835",352835.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-015,Table 15,173,145,1,data,,"502,616",3,"British Salt imported into Calcutta, in Maunds (82 lbs.). :: 1847–48.","752,998",752998.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-015,Table 15,173,145,1,data,,"502,616",4,"British Salt imported into Calcutta, in Maunds (82 lbs.). :: 1848–49.","459,803",459803.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-015,Table 15,173,145,1,data,,"502,616",5,"British Salt imported into Calcutta, in Maunds (82 lbs.). :: 1849–50.","694,447",694447.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-015,Table 15,173,145,1,data,,"502,616",6,"British Salt imported into Calcutta, in Maunds (82 lbs.). :: 1850–51.","1,012,698",1012698.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-015,Table 15,173,145,1,data,,"502,616",7,"British Salt imported into Calcutta, in Maunds (82 lbs.). :: 1851–52.","1,850,762",1850762.0,lbs,False,False

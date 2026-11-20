@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-011,Table 11,32,28,1,data,,1911–12,2,No. of Chests.,425,425.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,2,data,,1912–13,2,No. of Chests.,950,950.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,3,data,,1913–14,2,No. of Chests.,799,799.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,4,data,,1914–15,2,No. of Chests.,900,900.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,5,data,,1915–16,2,No. of Chests.,"1,080",1080.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,6,data,,1916–17,2,No. of Chests.,963,963.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,7,data,,1917–18,2,No. of Chests.,971,971.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,8,data,,1918–19,2,No. of Chests.,"1,936",1936.0,count,False,False
+truth-about-indian-opium,tbl-011,Table 11,32,28,9,data,,1919–20,2,No. of Chests.,980,980.0,count,False,False

@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,1,data,,Coco-nut palms,2,Mr. Baber. :: Old and young.,"293,576",293576.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,1,data,,Coco-nut palms,3,Mr. Baber. :: Bearing.,"153,302",153302.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,1,data,,Coco-nut palms,4,Mr. Smee. :: Exempted.,"325,958",325958.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,1,data,,Coco-nut palms,5,Mr. Smee. :: Taxable.,"269,025",269025.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,2,data,,Betel-nut ditto,2,Mr. Baber. :: Old and young.,"158,440",158440.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,2,data,,Betel-nut ditto,3,Mr. Baber. :: Bearing.,"76,788",76788.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,2,data,,Betel-nut ditto,4,Mr. Smee. :: Exempted.,"266,128",266128.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,2,data,,Betel-nut ditto,5,Mr. Smee. :: Taxable.,"153,848",153848.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,3,data,,Jack trees,2,Mr. Baber. :: Old and young.,"62,573",62573.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,3,data,,Jack trees,3,Mr. Baber. :: Bearing.,"19,120",19120.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,3,data,,Jack trees,4,Mr. Smee. :: Exempted.,"78,832",78832.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,3,data,,Jack trees,5,Mr. Smee. :: Taxable.,"26,538",26538.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,4,data,,Pepper vines,2,Mr. Baber. :: Old and young.,"5,038",5038.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,4,data,,Pepper vines,3,Mr. Baber. :: Bearing.,"1,176",1176.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,4,data,,Pepper vines,4,Mr. Smee. :: Exempted.,"5,442",5442.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,4,data,,Pepper vines,5,Mr. Smee. :: Taxable.,"2,617",2617.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,5,data,,Brab palms,2,Mr. Baber. :: Old and young.,"6,847",6847.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,5,data,,Brab palms,3,Mr. Baber. :: Bearing.,"0,168",168.0,,False,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,5,data,,Brab palms,4,Mr. Smee. :: Exempted.,,,,True,False
+journey-from-madras-vol-ii,tbl-048,Table 48,515,487,5,data,,Brab palms,5,Mr. Smee. :: Taxable.,,,,True,False

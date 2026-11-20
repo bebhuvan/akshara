@@ -3,6 +3,9 @@ title: "Emma Rauschenbusch-Clough"
 birth_year: 1859
 death_year: 1940
 short_bio: "American Baptist missionary, scholar, and author who spent nearly three decades in India documenting the lives, traditions, and mass conversion of the Madigas, a Telugu Pariah tribe."
+works_count: 1
+slug: "emma-rauschenbusch-clough"
+first_publication: 1899
 ---
 
 Emma Rauschenbusch was born in 1859 into a distinguished German-American family of theologians and missionaries. Her father, August Rauschenbusch, was a missionary and seminary professor, and her brother Walter Rauschenbusch would become famous as the leading figure of the Social Gospel movement in America.

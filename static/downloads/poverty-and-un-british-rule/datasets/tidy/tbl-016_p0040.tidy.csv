@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,1,data,,Ahmedabad,2,Cultivated Area. :: Acres.,"119,679",119679.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,1,data,,Ahmedabad,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"107,711,100",107711100.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,1,data,,Ahmedabad,4,Price per 1 Re. :: lbs.,42·4,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,1,data,,Ahmedabad,5,Total Value. :: Rs.,"25,40,356",2540356.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,2,data,,Kaira,2,Cultivated Area. :: Acres.,"44,536",44536.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,2,data,,Kaira,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"40,082,400",40082400.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,2,data,,Kaira,4,Price per 1 Re. :: lbs.,42·4,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,2,data,,Kaira,5,Total Value. :: Rs.,"9,45,339",945339.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,3,data,,Surat,2,Cultivated Area. :: Acres.,"178,839",178839.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,3,data,,Surat,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"160,955,100",160955100.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,3,data,,Surat,4,Price per 1 Re. :: lbs.,27·1,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,3,data,,Surat,5,Total Value. :: Rs.,"59,39,302",5939302.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,4,data,,Khandeish,2,Cultivated Area. :: Acres.,"465,198",465198.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,4,data,,Khandeish,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"418,678,200",418678200.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,4,data,,Khandeish,4,Price per 1 Re. :: lbs.,40·4,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,4,data,,Khandeish,5,Total Value. :: Rs.,"1,03,63,322",10363322.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,5,data,,Tanna,2,Cultivated Area. :: Acres.,10,10.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,5,data,,Tanna,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"9,000",9000.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,5,data,,Tanna,4,Price per 1 Re. :: lbs.,26·8,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,5,data,,Tanna,5,Total Value. :: Rs.,336,336.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,6,subtotal,,Total,2,Cultivated Area. :: Acres.,"808,262",808262.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,6,subtotal,,Total,3,Total Produce (at 900 lbs. per Acre). :: lbs.,......,,acres,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,6,subtotal,,Total,4,Price per 1 Re. :: lbs.,....,,lbs,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,6,subtotal,,Total,5,Total Value. :: Rs.,"1,97,88,655",19788655.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,7,header,,Row 7,2,Cultivated Area. :: Acres.,,,acres,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,7,header,,Row 7,3,Total Produce (at 900 lbs. per Acre). :: lbs.,(850 lbs. per Acre.),,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,7,header,,Row 7,4,Price per 1 Re. :: lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,7,header,,Row 7,5,Total Value. :: Rs.,,,Rs,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,8,data,,Poona,2,Cultivated Area. :: Acres.,"1,487,816",1487816.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,8,data,,Poona,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"1,264,643,600",1264643600.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,8,data,,Poona,4,Price per 1 Re. :: lbs.,49·5,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,8,data,,Poona,5,Total Value. :: Rs.,"2,55,48,355",25548355.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,9,data,,Ahmednuggur,2,Cultivated Area. :: Acres.,"852,232",852232.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,9,data,,Ahmednuggur,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"724,397,200",724397200.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,9,data,,Ahmednuggur,4,Price per 1 Re. :: lbs.,45·6,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,9,data,,Ahmednuggur,5,Total Value. :: Rs.,"1,58,85,903",15885903.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,10,data,,Kulladghee,2,Cultivated Area. :: Acres.,"1,162,582",1162582.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,10,data,,Kulladghee,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"988,194,700",988194700.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,10,data,,Kulladghee,4,Price per 1 Re. :: lbs.,70·0,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,10,data,,Kulladghee,5,Total Value. :: Rs.,"1,41,17,060",14117060.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,11,data,,Rutnagherry,2,Cultivated Area. :: Acres.,......,,acres,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,11,data,,Rutnagherry,3,Total Produce (at 900 lbs. per Acre). :: lbs.,......,,acres,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,11,data,,Rutnagherry,4,Price per 1 Re. :: lbs.,....,,lbs,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,11,data,,Rutnagherry,5,Total Value. :: Rs.,........,,Rs,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,12,data,,Belgaum,2,Cultivated Area. :: Acres.,"426,542",426542.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,12,data,,Belgaum,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"362,560,700",362560700.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,12,data,,Belgaum,4,Price per 1 Re. :: lbs.,66·0,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,12,data,,Belgaum,5,Total Value. :: Rs.,"54,93,344",5493344.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,13,data,,Dharwar,2,Cultivated Area. :: Acres.,"511,389",511389.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,13,data,,Dharwar,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"434,680,650",434680650.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,13,data,,Dharwar,4,Price per 1 Re. :: lbs.,83·8,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,13,data,,Dharwar,5,Total Value. :: Rs.,"51,87,120",5187120.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,14,data,,Sattara,2,Cultivated Area. :: Acres.,"465,509",465509.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,14,data,,Sattara,3,Total Produce (at 900 lbs. per Acre). :: lbs.,"395,682,650",395682650.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,14,data,,Sattara,4,Price per 1 Re. :: lbs.,52·6,,lbs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,14,data,,Sattara,5,Total Value. :: Rs.,"75,22,487",7522487.0,Rs,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,15,total,,Total,2,Cultivated Area. :: Acres.,"4,906,070",4906070.0,acres,False,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,15,total,,Total,3,Total Produce (at 900 lbs. per Acre). :: lbs.,......,,acres,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,15,total,,Total,4,Price per 1 Re. :: lbs.,....,,lbs,True,False
+poverty-and-un-british-rule,tbl-016,Jowari.,40,20,15,total,,Total,5,Total Value. :: Rs.,"7,37,54,269",73754269.0,Rs,False,False

@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,1,data,,1794,2,Year ending 5th January.,£156,156.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,1,data,,1794,3,Year ending 5th January.,1804,1804.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,1,data,,1794,4,Year ending 5th January.,"£5,936",5936.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,2,data,,1795,2,Year ending 5th January.,717,717.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,2,data,,1795,3,Year ending 5th January.,1805,1805.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,2,data,,1795,4,Year ending 5th January.,"31,943",31943.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,3,data,,1796,2,Year ending 5th January.,112,112.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,3,data,,1796,3,Year ending 5th January.,1806,1806.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,3,data,,1796,4,Year ending 5th January.,"48,525",48525.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,4,data,,1797,2,Year ending 5th January.,"2,501",2501.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,4,data,,1797,3,Year ending 5th January.,1807,1807.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,4,data,,1797,4,Year ending 5th January.,"46,549",46549.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,5,data,,1798,2,Year ending 5th January.,4 436,,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,5,data,,1798,3,Year ending 5th January.,1808,1808.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,5,data,,1798,4,Year ending 5th January.,"69,841",69841.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,6,data,,1799,2,Year ending 5th January.,"7,317",7317.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,6,data,,1799,3,Year ending 5th January.,1809,1809.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,6,data,,1799,4,Year ending 5th January.,"118,408",118408.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,7,data,,1800,2,Year ending 5th January.,"19,575",19575.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,7,data,,1800,3,Year ending 5th January.,1810,1810.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,7,data,,1800,4,Year ending 5th January.,"74,695",74695.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,8,data,,1801,2,Year ending 5th January.,"21,200",21200.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,8,data,,1801,3,Year ending 5th January.,1811,1811.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,8,data,,1801,4,Year ending 5th January.,"114,649",114649.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,9,data,,1802,2,Year ending 5th January.,"16,191",16191.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,9,data,,1802,3,Year ending 5th January.,1812,1812.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,9,data,,1802,4,Year ending 5th January.,"107,306",107306.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,10,data,,1803,2,Year ending 5th January.,"27,876",27876.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,10,data,,1803,3,Year ending 5th January.,1813,1813.0,,False,False
+economic-history-india-early-british-dutt,tbl-016,Table 16,285,257,10,data,,1803,4,Year ending 5th January.,"108,824",108824.0,,False,False

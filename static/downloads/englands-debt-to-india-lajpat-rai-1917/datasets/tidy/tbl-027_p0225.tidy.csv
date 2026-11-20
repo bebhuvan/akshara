@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,1,data,,Tea,2,1914-15,289.5 millions of lbs.,,lbs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,1,data,,Tea,3,Column 3,300.8 millions of lbs.,,lbs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,2,data,,Jute,2,1914-15,"768,000 tons of the value of £39,400,000",,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,2,data,,Jute,3,Column 3,"3,046,000 bales",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,3,data,,Cotton,2,1914-15,"10,626,000 cwts.",10626000.0,cwt,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,3,data,,Cotton,3,Column 3,"10,349,000 cwts. valued at £22,326,000",,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,4,data,,Oilseeds,2,1914-15,"31,652,000 cwts.",31652000.0,cwt,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-027,Table 27,225,185,4,data,,Oilseeds,3,Column 3,"19,078,000 cwts.",19078000.0,cwt,False,False

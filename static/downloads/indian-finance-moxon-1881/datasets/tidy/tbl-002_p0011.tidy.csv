@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-002,Table 2,11,7,1,data,,Guaranteed Co.’s Receipts (less surplus earnings),2,Column 2,"£4,603,693",4603693.0,GBP,False,True
+indian-finance-moxon-1881,tbl-002,Table 2,11,7,2,data,,Cost of Collecting Revenue,2,Column 2,"6,441,332",6441332.0,,False,True
+indian-finance-moxon-1881,tbl-002,Table 2,11,7,3,data,,Refunds and Drawbacks,2,Column 2,"406,562",406562.0,,False,True
+indian-finance-moxon-1881,tbl-002,Table 2,11,7,4,data,,Receipts in Reduction of Expenditure,2,Column 2,"8,377,686",8377686.0,,False,True
+indian-finance-moxon-1881,tbl-002,Table 2,11,7,5,data,,Sundries,2,Column 2,973,973.0,,False,True
+indian-finance-moxon-1881,tbl-002,Table 2,11,7,6,total,,Row 6,2,Column 2,"£19,830,246",19830246.0,GBP,False,True

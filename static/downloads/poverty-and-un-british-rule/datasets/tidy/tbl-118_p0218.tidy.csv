@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,1,data,,The actual Exports (excluding Government Stores and Treasure) : Merchandise and Gold and Silver =,2,Column 2,"£485,186,749",485186749.0,GBP,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,2,data,,Take Profits only 15 per cent. =,2,Column 2,"72,778,012",72778012.0,,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,3,subtotal,,The Imports as they ought to be,2,Column 2,"£557,964,761",557964761.0,GBP,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,4,data,,Actual Imports (excluding Government Stores and Treasure) : Merchandise and Gold and Silver,2,Column 2,"342,312,799",342312799.0,,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,5,data,,"Deficit in Imports, or what is drained to England (i.e., nearly £27,000,000 a year.)",2,Column 2,"215,651,962",215651962.0,,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,6,data,,Again taking actual Exports,2,Column 2,"485,186,749",485186749.0,,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,7,data,,And also actual Imports,2,Column 2,"342,312,799",342312799.0,,False,False
+poverty-and-un-british-rule,tbl-118,Table 118,218,198,8,total,,Abstraction from the very produce of the country (besides the whole profit) is =,2,Column 2,"£142,875,950",142875950.0,GBP,False,False

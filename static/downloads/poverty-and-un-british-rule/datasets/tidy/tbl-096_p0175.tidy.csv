@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,1,data,,Bájrá,2,Proportion for Human Use.,½,0.5,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,1,data,,Bájrá,3,Proportion for Animal Use.,½,0.5,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,2,data,,Jowár,2,Proportion for Human Use.,⅓,0.333333,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,2,data,,Jowár,3,Proportion for Animal Use.,⅔,0.666667,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,3,data,,Moth,2,Proportion for Human Use.,¼,0.25,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,3,data,,Moth,3,Proportion for Animal Use.,¾,0.75,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,4,data,,Másh,2,Proportion for Human Use.,⅔,0.666667,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,4,data,,Másh,3,Proportion for Animal Use.,⅓,0.333333,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,5,data,,Also Jow,2,Proportion for Human Use.,¼,0.25,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,5,data,,Also Jow,3,Proportion for Animal Use.,¾,0.75,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,6,data,,Gram,2,Proportion for Human Use.,½,0.5,,False,False
+poverty-and-un-british-rule,tbl-096,Table 96,175,155,6,data,,Gram,3,Proportion for Animal Use.,½,0.5,,False,False

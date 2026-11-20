@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-001,Table 1,38,14,1,data,,N.W. Provinces & Oudh,2,Column 2,May 1897,,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,1,data,,N.W. Provinces & Oudh,3,Column 3,"1,062,000",1062000.0,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,2,data,,Bengal,2,Column 2,June 1897,,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,2,data,,Bengal,3,Column 3,"820,000",820000.0,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,3,data,,Central Provinces,2,Column 2,May 1897,,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,3,data,,Central Provinces,3,Column 3,"567,000",567000.0,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,4,data,,Madras,2,Column 2,July 1897,,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,4,data,,Madras,3,Column 3,"215,000",215000.0,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,5,data,,Bombay,2,Column 2,April 1897,,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,5,data,,Bombay,3,Column 3,"478,000",478000.0,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,6,data,,Punjab,2,Column 2,February 1897,,,False,False
+famines-and-land-assessments,tbl-001,Table 1,38,14,6,data,,Punjab,3,Column 3,"50,000",50000.0,,False,False

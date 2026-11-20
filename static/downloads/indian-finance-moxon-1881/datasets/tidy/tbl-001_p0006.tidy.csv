@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,1,data,,Professional,2,England & Wales (1861).,2·4,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,1,data,,Professional,3,Ireland (1861).,1·8,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,1,data,,Professional,4,India (1878).,3·6,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,2,data,,Domestic,2,England & Wales (1861).,57·4,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,2,data,,Domestic,3,Ireland (1861).,56·8,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,2,data,,Domestic,4,India (1878).,6·2,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,3,data,,Commercial,2,England & Wales (1861).,3·1,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,3,data,,Commercial,3,Ireland (1861).,2·2,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,3,data,,Commercial,4,India (1878).,5·2,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,4,data,,Agricultural,2,England & Wales (1861).,10·1,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,4,data,,Agricultural,3,Ireland (1861).,18·3,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,4,data,,Agricultural,4,India (1878).,56·2,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,5,data,,Industrial,2,England & Wales (1861).,24·3,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,5,data,,Industrial,3,Ireland (1861).,12·3,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,5,data,,Industrial,4,India (1878).,13·1,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,6,data,,"Indefinite, Independent, and Non-Productive",2,England & Wales (1861).,2·7,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,6,data,,"Indefinite, Independent, and Non-Productive",3,Ireland (1861).,8·6,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,6,data,,"Indefinite, Independent, and Non-Productive",4,India (1878).,3·4,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,7,data,,Labourers (mostly agricultural),2,England & Wales (1861).,—,,,True,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,7,data,,Labourers (mostly agricultural),3,Ireland (1861).,—,,,True,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,7,data,,Labourers (mostly agricultural),4,India (1878).,12·3,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,8,total,,Row 8,2,England & Wales (1861).,100·,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,8,total,,Row 8,3,Ireland (1861).,100·,,,False,True
+indian-finance-moxon-1881,tbl-001,RATIO OF CLASSES OF POPULATION.,6,2,8,total,,Row 8,4,India (1878).,100·,,,False,True

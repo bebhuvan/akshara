@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,1,data,,Bajri,2,Acres.,"1,018,870",1018870.0,acres,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,1,data,,Bajri,3,Rs.,"3,21,50,323",32150323.0,Rs,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,1,data,,Bajri,4,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,1,data,,Bajri,5,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,2,data,,Jowari,2,Acres.,"808,262",808262.0,acres,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,2,data,,Jowari,3,Rs.,"1,97,88,655",19788655.0,Rs,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,2,data,,Jowari,4,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,2,data,,Jowari,5,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,3,data,,Rice,2,Acres.,"672,273",672273.0,acres,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,3,data,,Rice,3,Rs.,"3,60,16,783",36016783.0,Rs,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,3,data,,Rice,4,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,3,data,,Rice,5,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,4,subtotal,,Row 4,2,Acres.,,,acres,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,4,subtotal,,Row 4,3,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,4,subtotal,,Row 4,4,Rs.,"8,79,55,761—10 per cent. =",,Rs,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,4,subtotal,,Row 4,5,Rs.,"7,91,60,185",79160185.0,Rs,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,5,data,,Cotton,2,Acres.,"707,041",707041.0,acres,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,5,data,,Cotton,3,Rs.,......,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,5,data,,Cotton,4,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,5,data,,Cotton,5,Rs.,"1,22,64,997",12264997.0,Rs,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,6,total,,Total,2,Acres.,"3,206,446",3206446.0,acres,False,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,6,total,,Total,3,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,6,total,,Total,4,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-019,Northern Division.,42,22,6,total,,Total,5,Rs.,"Rs. 9,14,25,182",91425182.0,Rs,False,True

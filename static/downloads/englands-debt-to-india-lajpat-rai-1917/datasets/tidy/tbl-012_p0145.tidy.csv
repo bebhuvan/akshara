@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,1,data,,1st Afghan War 1838–42,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,1,data,,1st Afghan War 1838–42,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,1,data,,1st Afghan War 1838–42,4,Extraordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,1,data,,1st Afghan War 1838–42,5,Extraordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,2,data,,1st China War 1839–40,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,2,data,,1st China War 1839–40,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,2,data,,1st China War 1839–40,4,Extraordinary Charges paid by :: India,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,2,data,,1st China War 1839–40,5,Extraordinary Charges paid by :: England,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,3,data,,Persian War 1856,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,3,data,,Persian War 1856,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,3,data,,Persian War 1856,4,Extraordinary Charges paid by :: India,half,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,145,105,3,data,,Persian War 1856,5,Extraordinary Charges paid by :: England,half,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,4,data,,Abyssinian War 1867–68,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,4,data,,Abyssinian War 1867–68,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,4,data,,Abyssinian War 1867–68,4,Extraordinary Charges paid by :: India,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,4,data,,Abyssinian War 1867–68,5,Extraordinary Charges paid by :: England,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,5,data,,Perak Expedition 1875,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,5,data,,Perak Expedition 1875,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,5,data,,Perak Expedition 1875,4,Extraordinary Charges paid by :: India,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,5,data,,Perak Expedition 1875,5,Extraordinary Charges paid by :: England,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,6,data,,2nd Afghan War 1878–80,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,6,data,,2nd Afghan War 1878–80,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,6,data,,2nd Afghan War 1878–80,4,Extraordinary Charges paid by :: India,"all except £5,000,000",,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,6,data,,2nd Afghan War 1878–80,5,Extraordinary Charges paid by :: England,"£5,000,000",5000000.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,7,data,,Egyptian War 1882,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,7,data,,Egyptian War 1882,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,7,data,,Egyptian War 1882,4,Extraordinary Charges paid by :: India,"all except £500,000",,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,7,data,,Egyptian War 1882,5,Extraordinary Charges paid by :: England,"£500,000",500000.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,8,data,,Soudan War 1885–86,2,Ordinary Charges paid by :: India,all,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,8,data,,Soudan War 1885–86,3,Ordinary Charges paid by :: England,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,8,data,,Soudan War 1885–86,4,Extraordinary Charges paid by :: India,none,0.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-012,Foreign Wars Whose Cost Was Charged to India,146,105,8,data,,Soudan War 1885–86,5,Extraordinary Charges paid by :: England,all,,,False,False

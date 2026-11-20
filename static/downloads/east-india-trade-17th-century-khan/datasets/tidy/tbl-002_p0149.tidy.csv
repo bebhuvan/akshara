@@ -1,0 +1,28 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,1,data,,The rents of various villages brought in,2,Column 2,"25,920",25920.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,1,data,,The rents of various villages brought in,3,Column 3,1,1.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,1,data,,The rents of various villages brought in,4,Column 4,18,18.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,2,data,,The rent of tobacco brought in,2,Column 2,"9,550",9550.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,2,data,,The rent of tobacco brought in,3,Column 3,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,2,data,,The rent of tobacco brought in,4,Column 4,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,3,data,,The rent of taverns brought in,2,Column 2,"2,400",2400.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,3,data,,The rent of taverns brought in,3,Column 3,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,3,data,,The rent of taverns brought in,4,Column 4,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,4,data,,The Customs brought in,2,Column 2,"18,000",18000.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,4,data,,The Customs brought in,3,Column 3,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,4,data,,The Customs brought in,4,Column 4,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,5,data,,The coco-nuts brought in,2,Column 2,"18,000",18000.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,5,data,,The coco-nuts brought in,3,Column 3,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,5,data,,The coco-nuts brought in,4,Column 4,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,6,subtotal,,Total,2,Column 2,"73,870",73870.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,6,subtotal,,Total,3,Column 3,1,1.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,6,subtotal,,Total,4,Column 4,18,18.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,7,data,,To which may be advanced,2,Column 2,"1,129",1129.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,7,data,,To which may be advanced,3,Column 3,1,1.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,7,data,,To which may be advanced,4,Column 4,62,62.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,8,total,,Total,2,Column 2,"75,000 xeraphims",,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,8,total,,Total,3,Column 3,,,,True,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,8,total,,Total,4,Column 4,,,,True,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,9,data,,"The latter, when converted into English money, was equivalent to",2,Column 2,"£6,490",6490.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,9,data,,"The latter, when converted into English money, was equivalent to",3,Column 3,17,17.0,,False,True
+east-india-trade-17th-century-khan,tbl-002,Table 2,149,137,9,data,,"The latter, when converted into English money, was equivalent to",4,Column 4,9,9.0,,False,True

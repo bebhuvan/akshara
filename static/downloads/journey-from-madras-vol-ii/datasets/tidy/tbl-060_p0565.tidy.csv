@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,1,data,,1794,2,Column 2,1st sort,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,1,data,,1794,3,Column 3,45 pieces to the Candy,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,1,data,,1794,4,Rupees.,200,200.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,2,data,,Row 2,2,Column 2,2d ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,2,data,,Row 2,3,Column 3,55 - ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,2,data,,Row 2,4,Rupees.,180,180.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,3,data,,1797,2,Column 2,1st sort,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,3,data,,1797,3,Column 3,65 pieces to the Candy,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,3,data,,1797,4,Rupees.,150,150.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,4,data,,1798,2,Column 2,2d ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,4,data,,1798,3,Column 3,72 - ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,4,data,,1798,4,Rupees.,147½,147.5,Rs,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,5,data,,1799,2,Column 2,3d ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,5,data,,1799,3,Column 3,90 - ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,5,data,,1799,4,Rupees.,145,145.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,6,data,,1800,2,Column 2,1st sort,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,6,data,,1800,3,Column 3,37 pieces to the Candy,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,6,data,,1800,4,Rupees.,148¾,148.75,Rs,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,7,data,,Row 7,2,Column 2,2d ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,7,data,,Row 7,3,Column 3,65 - ditto,,,False,False
+journey-from-madras-vol-ii,tbl-060,Table 60,565,537,7,data,,Row 7,4,Rupees.,127,127.0,Rs,False,False

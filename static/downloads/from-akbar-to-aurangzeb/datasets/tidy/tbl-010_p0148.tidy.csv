@@ -1,0 +1,64 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,2,data,(a) Baftas—,"1. ""Gingames""",2,No. of Pieces.,40,40.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,2,data,(a) Baftas—,"1. ""Gingames""",3,Value. :: Ma.,276,276.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,2,data,(a) Baftas—,"1. ""Gingames""",4,Average Price per Piece. :: Ma.,6·9,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,3,data,(a) Baftas—,2. Broad,2,No. of Pieces.,8,8.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,3,data,(a) Baftas—,2. Broad,3,Value. :: Ma.,120,120.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,3,data,(a) Baftas—,2. Broad,4,Average Price per Piece. :: Ma.,15·0,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,4,data,(a) Baftas—,2. Broad,2,No. of Pieces.,5302,5302.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,4,data,(a) Baftas—,2. Broad,3,Value. :: Ma.,"33,195",33195.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,4,data,(a) Baftas—,2. Broad,4,Average Price per Piece. :: Ma.,6·3,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,5,data,(a) Baftas—,2. Broad,2,No. of Pieces.,1000,1000.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,5,data,(a) Baftas—,2. Broad,3,Value. :: Ma.,"6,777",6777.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,5,data,(a) Baftas—,2. Broad,4,Average Price per Piece. :: Ma.,6·8,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,6,data,(a) Baftas—,Extra-broad (?),2,No. of Pieces.,1,1.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,6,data,(a) Baftas—,Extra-broad (?),3,Value. :: Ma.,24,24.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,6,data,(a) Baftas—,Extra-broad (?),4,Average Price per Piece. :: Ma.,24·0,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,7,data,(a) Baftas—,3. Narrow,2,No. of Pieces.,980,980.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,7,data,(a) Baftas—,3. Narrow,3,Value. :: Ma.,"3,680",3680.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,7,data,(a) Baftas—,3. Narrow,4,Average Price per Piece. :: Ma.,3·8,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,8,data,(a) Baftas—,3. Narrow,2,No. of Pieces.,20,20.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,8,data,(a) Baftas—,3. Narrow,3,Value. :: Ma.,55,55.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,8,data,(a) Baftas—,3. Narrow,4,Average Price per Piece. :: Ma.,2·7,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,9,data,(a) Baftas—,3. Narrow,2,No. of Pieces.,1997,1997.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,9,data,(a) Baftas—,3. Narrow,3,Value. :: Ma.,"9,950",9950.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,9,data,(a) Baftas—,3. Narrow,4,Average Price per Piece. :: Ma.,5·0,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,10,data,(a) Baftas—,4. For table napkins,2,No. of Pieces.,80,80.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,10,data,(a) Baftas—,4. For table napkins,3,Value. :: Ma.,218,218.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,10,data,(a) Baftas—,4. For table napkins,4,Average Price per Piece. :: Ma.,2·7,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,11,data,(a) Baftas—,"5. ""Watchetts"" (i.e. blue)",2,No. of Pieces.,20,20.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,11,data,(a) Baftas—,"5. ""Watchetts"" (i.e. blue)",3,Value. :: Ma.,160,160.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,11,data,(a) Baftas—,"5. ""Watchetts"" (i.e. blue)",4,Average Price per Piece. :: Ma.,8·0,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,12,data,(a) Baftas—,Coloured,2,No. of Pieces.,?,,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,12,data,(a) Baftas—,Coloured,3,Value. :: Ma.,"3,584",3584.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,12,data,(a) Baftas—,Coloured,4,Average Price per Piece. :: Ma.,?,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,13,data,(a) Baftas—,"""Watchetts""",2,No. of Pieces.,200,200.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,13,data,(a) Baftas—,"""Watchetts""",3,Value. :: Ma.,635,635.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,13,data,(a) Baftas—,"""Watchetts""",4,Average Price per Piece. :: Ma.,3·3,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,15,data,(b) Duties—,1. Not described,2,No. of Pieces.,290,290.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,15,data,(b) Duties—,1. Not described,3,Value. :: Ma.,"1,066",1066.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,15,data,(b) Duties—,1. Not described,4,Average Price per Piece. :: Ma.,3·7,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,16,data,(b) Duties—,1. Not described,2,No. of Pieces.,480,480.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,16,data,(b) Duties—,1. Not described,3,Value. :: Ma.,"2,190",2190.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,16,data,(b) Duties—,1. Not described,4,Average Price per Piece. :: Ma.,4·6,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,17,data,(b) Duties—,2. Dholka,2,No. of Pieces.,400,400.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,17,data,(b) Duties—,2. Dholka,3,Value. :: Ma.,"1,291",1291.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,17,data,(b) Duties—,2. Dholka,4,Average Price per Piece. :: Ma.,3·2,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,18,data,(b) Duties—,(c) Semianoes—,2,No. of Pieces.,2330,2330.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,18,data,(b) Duties—,(c) Semianoes—,3,Value. :: Ma.,"14,075",14075.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,18,data,(b) Duties—,(c) Semianoes—,4,Average Price per Piece. :: Ma.,6·0,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,20,data,Fancy Goods and Doubtful Descriptions,Sundry stuffs,2,No. of Pieces.,200,200.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,20,data,Fancy Goods and Doubtful Descriptions,Sundry stuffs,3,Value. :: Ma.,(?) 187,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,20,data,Fancy Goods and Doubtful Descriptions,Sundry stuffs,4,Average Price per Piece. :: Ma.,(?) 0·9,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,21,data,Fancy Goods and Doubtful Descriptions,""" Reeses """,2,No. of Pieces.,275,275.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,21,data,Fancy Goods and Doubtful Descriptions,""" Reeses """,3,Value. :: Ma.,"1,150",1150.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,21,data,Fancy Goods and Doubtful Descriptions,""" Reeses """,4,Average Price per Piece. :: Ma.,4·2,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,22,data,Fancy Goods and Doubtful Descriptions,""" Sahum """,2,No. of Pieces.,50,50.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,22,data,Fancy Goods and Doubtful Descriptions,""" Sahum """,3,Value. :: Ma.,431,431.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,22,data,Fancy Goods and Doubtful Descriptions,""" Sahum """,4,Average Price per Piece. :: Ma.,8·6,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,23,data,Fancy Goods and Doubtful Descriptions,""" Necanies """,2,No. of Pieces.,420,420.0,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,23,data,Fancy Goods and Doubtful Descriptions,""" Necanies """,3,Value. :: Ma.,"1,320",1320.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,23,data,Fancy Goods and Doubtful Descriptions,""" Necanies """,4,Average Price per Piece. :: Ma.,3·1,,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,24,data,Fancy Goods and Doubtful Descriptions,""" Eramies """,2,No. of Pieces.,?,,count,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,24,data,Fancy Goods and Doubtful Descriptions,""" Eramies """,3,Value. :: Ma.,177,177.0,,False,False
+from-akbar-to-aurangzeb,tbl-010,Table 10,148,126,24,data,Fancy Goods and Doubtful Descriptions,""" Eramies """,4,Average Price per Piece. :: Ma.,?,,,False,False

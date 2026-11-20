@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,1,data,,Only 1,2,Column 2,gets a salary,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,1,data,,Only 1,3,Column 3,of Rs.,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,1,data,,Only 1,4,Column 4,"1,500 to 1,600",,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,1,data,,Only 1,5,Column 5,"per month,",,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,2,data,,1,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,2,data,,1,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,2,data,,1,4,Column 4,"1,200 to 1,300",,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,2,data,,1,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,3,data,,1,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,3,data,,1,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,3,data,,1,4,Column 4,"1,100 to 1,200",,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,3,data,,1,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,4,data,,11,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,4,data,,11,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,4,data,,11,4,Column 4,"1,000 to 1,100",,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,4,data,,11,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,5,data,,5,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,5,data,,5,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,5,data,,5,4,Column 4,800 to 900,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,5,data,,5,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,6,data,,14,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,6,data,,14,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,6,data,,14,4,Column 4,700 to 800,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,6,data,,14,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,7,data,,47,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,7,data,,47,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,7,data,,47,4,Column 4,600 to 700,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,7,data,,47,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,8,data,,60,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,8,data,,60,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,8,data,,60,4,Column 4,500 to 600,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,8,data,,60,5,Column 5,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,9,data,,125,2,Column 2,„,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,9,data,,125,3,Column 3,„,,Rs,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,9,data,,125,4,Column 4,400 to 500,,,False,True
+poverty-and-un-british-rule,tbl-073,Table 73,124,104,9,data,,125,5,Column 5,„,,,False,True

@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,1,data,,Pepper,2,Quantities.,"About 156,000 lb. avoird.",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,1,data,,Pepper,3,Value in Guilders.,"36,457",36457.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,2,data,,Saltpetre,2,Quantities.,"„ 47,500 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,2,data,,Saltpetre,3,Value in Guilders.,"2,964",2964.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,3,data,,„ refined,2,Quantities.,"„ 8,700 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,3,data,,„ refined,3,Value in Guilders.,"1,170",1170.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,4,data,,Diamonds,2,Quantities.,. .,,,True,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,4,data,,Diamonds,3,Value in Guilders.,"1,326",1326.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,5,data,,Borax,2,Quantities.,„ 650 lb. avoird.,,lbs,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,5,data,,Borax,3,Value in Guilders.,175,175.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,6,data,,Yarn,2,Quantities.,"„ 5,400 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,6,data,,Yarn,3,Value in Guilders.,"2,390",2390.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,7,data,,Guinea cloth,2,Quantities.,"65,000 yards",,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,7,data,,Guinea cloth,3,Value in Guilders.,"11,918",11918.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,8,data,,Moorees,2,Quantities.,900 pieces (length not given),,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,8,data,,Moorees,3,Value in Guilders.,"3,154",3154.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,9,data,,Betilles,2,Quantities.,100 „ =1200 yards,,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,9,data,,Betilles,3,Value in Guilders.,"1,200",1200.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,10,subtotal,,Row 10,2,Quantities.,,,,True,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,10,subtotal,,Row 10,3,Value in Guilders.,"60,754",60754.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,11,data,,Row 11,2,Quantities.,"Miscell. charges, and some small errors",,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,11,data,,Row 11,3,Value in Guilders.,"2,000",2000.0,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,12,total,,Row 12,2,Quantities.,Value of cargo . . .,,,False,True
+from-akbar-to-aurangzeb,tbl-021,Table 21,342,320,12,total,,Row 12,3,Value in Guilders.,"62,754",62754.0,,False,True

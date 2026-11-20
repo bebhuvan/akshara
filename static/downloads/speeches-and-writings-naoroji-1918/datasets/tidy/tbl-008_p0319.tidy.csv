@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-008,ACRES—continued.,319,305,1,data,,"110,800",2,Cotton.,"201,280",201280.0,acres,False,False
+speeches-and-writings-naoroji-1918,tbl-008,ACRES—continued.,319,305,1,data,,"110,800",3,Jute.,"2,228,200",2228200.0,acres,False,False
+speeches-and-writings-naoroji-1918,tbl-008,ACRES—continued.,319,305,1,data,,"110,800",4,Other Fibres.,"207,100",207100.0,acres,False,False
+speeches-and-writings-naoroji-1918,tbl-008,ACRES—continued.,319,305,1,data,,"110,800",5,Oil Seeds.,"3,253,000",3253000.0,acres,False,False
+speeches-and-writings-naoroji-1918,tbl-008,ACRES—continued.,319,305,1,data,,"110,800",6,Indigo.,"614,200",614200.0,acres,False,False

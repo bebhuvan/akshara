@@ -1,0 +1,39 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,1,data,,Belgium,2,Inhabitants per sq. mile about 1880.,487,487.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,1,data,,Belgium,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",£22·1,,GBP,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,2,data,,England,2,Inhabitants per sq. mile about 1880.,478 (1886),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,2,data,,England,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",41 (1882),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,3,data,,Holland,2,Inhabitants per sq. mile about 1880.,315,315.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,3,data,,Holland,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",26,26.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,4,data,,Italy,2,Inhabitants per sq. mile about 1880.,257,257.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,289,269,4,data,,Italy,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",12,12.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,5,data,,British India,2,Inhabitants per sq. mile about 1880.,229,229.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,5,data,,British India,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",2,2.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,6,data,,Germany,2,Inhabitants per sq. mile about 1880.,217,217.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,6,data,,Germany,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",18·7,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,7,data,,Austria,2,Inhabitants per sq. mile about 1880.,191,191.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,7,data,,Austria,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",16·3,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,8,data,,France,2,Inhabitants per sq. mile about 1880.,184,184.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,8,data,,France,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",25·7,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,9,data,,Switzerland,2,Inhabitants per sq. mile about 1880.,184,184.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,9,data,,Switzerland,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",16,16.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,10,data,,Ireland,2,Inhabitants per sq. mile about 1880.,153 (1886),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,10,data,,Ireland,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",16 (1882),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,11,data,,Denmark,2,Inhabitants per sq. mile about 1880.,132,132.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,11,data,,Denmark,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",23·2,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,12,data,,Scotland,2,Inhabitants per sq. mile about 1880.,128 (1886),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,12,data,,Scotland,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",32 (1882),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,13,data,,Portugal,2,Inhabitants per sq. mile about 1880.,126,126.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,13,data,,Portugal,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",13·6,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,14,data,,Turkey,2,Inhabitants per sq. mile about 1880.,120 (Mulhall),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,14,data,,Turkey,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",4 (Sir E. Baring),,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,15,data,,Spain,2,Inhabitants per sq. mile about 1880.,85,85.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,15,data,,Spain,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",13·8,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,16,data,,Greece,2,Inhabitants per sq. mile about 1880.,69,69.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,16,data,,Greece,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",11·8,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,17,data,,Russia in Europe,2,Inhabitants per sq. mile about 1880.,41,41.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,17,data,,Russia in Europe,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",9·9,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,18,data,,Sweden,2,Inhabitants per sq. mile about 1880.,27,27.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,18,data,,Sweden,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",16·2,,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,19,data,,Norway,2,Inhabitants per sq. mile about 1880.,15,15.0,,False,False
+poverty-and-un-british-rule,tbl-130,Table 130,290,269,19,data,,Norway,3,"Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).",,,,True,False

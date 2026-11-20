@@ -1,0 +1,41 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,1,data,,1856,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,1,data,,1856,3,d.,4¾,4.75,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,1,data,,1856,4,Years.,1860,1860.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,1,data,,1856,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,1,data,,1856,6,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,2,data,,1857,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,2,data,,1857,3,d.,1¼,1.25,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,2,data,,1857,4,Years.,1861,1861.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,2,data,,1857,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,2,data,,1857,6,d.,9⅛,9.125,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,3,data,,1858,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,3,data,,1858,3,d.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,3,data,,1858,4,Years.,1862,1862.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,3,data,,1858,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,3,data,,1858,6,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,4,data,,1859,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,4,data,,1859,3,d.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,4,data,,1859,4,Years.,1863,1863.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,4,data,,1859,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,4,data,,1859,6,d.,11⅞,11.875,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,5,data,,1864,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,5,data,,1864,3,d.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,5,data,,1864,4,Years.,1868,1868.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,5,data,,1864,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,5,data,,1864,6,d.,1 1/16,1.0625,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,6,data,,1865,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,6,data,,1865,3,d.,3¼,3.25,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,6,data,,1865,4,Years.,1869,1869.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,6,data,,1865,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,6,data,,1865,6,d.,8⅞,8.875,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,7,data,,1866,2,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,7,data,,1866,3,d.,11 5/16,11.3125,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,7,data,,1866,4,Years.,1870,1870.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,7,data,,1866,5,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,7,data,,1866,6,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,8,data,,1867,2,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,8,data,,1867,3,d.,9½,9.5,,False,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,8,data,,1867,4,Years.,,,,True,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,8,data,,1867,5,s.,,,,True,False
+poverty-and-un-british-rule,tbl-050,Table 50,88,68,8,data,,1867,6,d.,,,,True,False

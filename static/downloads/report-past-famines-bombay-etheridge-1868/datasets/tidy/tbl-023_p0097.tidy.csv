@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,1,data,,“ Wheat,2,Column 2,4 seers for the Rupee.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,1,data,,“ Wheat,3,Column 3,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,2,data,,“ Bajree,2,Column 2,5,5.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,2,data,,“ Bajree,3,Column 3,ditto.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,3,data,,“ Gram,2,Column 2,4,4.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,3,data,,“ Gram,3,Column 3,ditto.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,4,data,,“ Rice,2,Column 2,3,3.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,4,data,,“ Rice,3,Column 3,ditto.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,5,data,,“ Jowaree,2,Column 2,6,6.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,5,data,,“ Jowaree,3,Column 3,ditto.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,6,data,,“ Dall,2,Column 2,3,3.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,6,data,,“ Dall,3,Column 3,ditto.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,7,data,,“ Naglee,2,Column 2,6,6.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-023,Table 23,97,85,7,data,,“ Naglee,3,Column 3,ditto.,,,False,False

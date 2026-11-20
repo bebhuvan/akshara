@@ -1,0 +1,166 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,1,data,,1 Delhi,2,Acres.,"27,900",27900.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,1,data,,1 Delhi,3,Per Acre. :: lbs.,920,920.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"25,668,000",25668000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,1,data,,1 Delhi,5,Price per Re. 1. :: lbs.,13·71,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,1,data,,1 Delhi,6,Total Value. :: Rs.,"18,72,210",1872210.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,2,data,,2 Gurgaon,2,Acres.,"1,591",1591.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,720,720.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"1,145,520",1145520.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,2,data,,2 Gurgaon,5,Price per Re. 1. :: lbs.,19·2,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,2,data,,2 Gurgaon,6,Total Value. :: Rs.,"59,662",59662.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,3,data,,3 Karnál,2,Acres.,"53,113",53113.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,3,data,,3 Karnál,3,Per Acre. :: lbs.,"1,152",1152.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,3,data,,3 Karnál,4,Total Quantity. :: lbs.,"61,186,176",61186176.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,3,data,,3 Karnál,5,Price per Re. 1. :: lbs.,21·94,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,3,data,,3 Karnál,6,Total Value. :: Rs.,"27,88,795",2788795.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,4,data,,4 Hissar,2,Acres.,"10,506",10506.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,4,data,,4 Hissar,3,Per Acre. :: lbs.,745,745.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,4,data,,4 Hissar,4,Total Quantity. :: lbs.,"7,826,970",7826970.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,4,data,,4 Hissar,5,Price per Re. 1. :: lbs.,23·31,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,4,data,,4 Hissar,6,Total Value. :: Rs.,"3,35,777",335777.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,5,data,,5 Rohtak,2,Acres.,"5,326",5326.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,5,data,,5 Rohtak,3,Per Acre. :: lbs.,670,670.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,"3,568,420",3568420.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,5,data,,5 Rohtak,5,Price per Re. 1. :: lbs.,25·37,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,5,data,,5 Rohtak,6,Total Value. :: Rs.,"1,40,655",140655.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,6,data,,6 Sirsa,2,Acres.,"8,285",8285.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,6,data,,6 Sirsa,3,Per Acre. :: lbs.,869,869.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,6,data,,6 Sirsa,4,Total Quantity. :: lbs.,"7,199,665",7199665.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,6,data,,6 Sirsa,5,Price per Re. 1. :: lbs.,21·94,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,6,data,,6 Sirsa,6,Total Value. :: Rs.,"3,28,152",328152.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,7,data,,7 Umballa,2,Acres.,"117,941",117941.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,7,data,,7 Umballa,3,Per Acre. :: lbs.,880,880.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,7,data,,7 Umballa,4,Total Quantity. :: lbs.,"103,788,080",103788080.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,7,data,,7 Umballa,5,Price per Re. 1. :: lbs.,19·88,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,7,data,,7 Umballa,6,Total Value. :: Rs.,"52,20,728",5220728.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,8,data,,8 Ludhiána,2,Acres.,"3,963",3963.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,8,data,,8 Ludhiána,3,Per Acre. :: lbs.,"1,096",1096.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,8,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"4,343,448",4343448.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,8,data,,8 Ludhiána,5,Price per Re. 1. :: lbs.,16·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,8,data,,8 Ludhiána,6,Total Value. :: Rs.,"2,64,039",264039.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,9,data,,9 Simla,2,Acres.,"1,875",1875.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,9,data,,9 Simla,3,Per Acre. :: lbs.,620,620.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,9,data,,9 Simla,4,Total Quantity. :: lbs.,"1,162,500",1162500.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,9,data,,9 Simla,5,Price per Re. 1. :: lbs.,18·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,9,data,,9 Simla,6,Total Value. :: Rs.,"62,804",62804.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,10,data,,10 Jullundar,2,Acres.,"9,192",9192.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,10,data,,10 Jullundar,3,Per Acre. :: lbs.,"1,085",1085.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,10,data,,10 Jullundar,4,Total Quantity. :: lbs.,"9,973,320",9973320.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,10,data,,10 Jullundar,5,Price per Re. 1. :: lbs.,16·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,10,data,,10 Jullundar,6,Total Value. :: Rs.,"6,06,281",606281.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,11,data,,11 Hoshiarpur,2,Acres.,"28,835",28835.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,11,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,752,752.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,11,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"21,683,920",21683920.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,11,data,,11 Hoshiarpur,5,Price per Re. 1. :: lbs.,17·82,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,11,data,,11 Hoshiarpur,6,Total Value. :: Rs.,"12,16,830",1216830.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,12,data,,12 Kángra,2,Acres.,"147,766",147766.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,12,data,,12 Kángra,3,Per Acre. :: lbs.,415,415.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,12,data,,12 Kángra,4,Total Quantity. :: lbs.,"61,322,890",61322890.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,12,data,,12 Kángra,5,Price per Re. 1. :: lbs.,29·48,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,12,data,,12 Kángra,6,Total Value. :: Rs.,"20,80,152",2080152.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,13,data,,13 Amritsar,2,Acres.,"20,128",20128.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,13,data,,13 Amritsar,3,Per Acre. :: lbs.,974,974.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,13,data,,13 Amritsar,4,Total Quantity. :: lbs.,"19,604,672",19604672.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,13,data,,13 Amritsar,5,Price per Re. 1. :: lbs.,18·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,13,data,,13 Amritsar,6,Total Value. :: Rs.,"10,59,139",1059139.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,14,data,,14 Gurdáspur,2,Acres.,"81,583",81583.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,14,data,,14 Gurdáspur,3,Per Acre. :: lbs.,755,755.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,14,data,,14 Gurdáspur,4,Total Quantity. :: lbs.,"61,595,165",61595165.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,14,data,,14 Gurdáspur,5,Price per Re. 1. :: lbs.,15·77,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,14,data,,14 Gurdáspur,6,Total Value. :: Rs.,"39,05,844",3905844.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,15,data,,15 Siálkot,2,Acres.,"74,100",74100.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,15,data,,15 Siálkot,3,Per Acre. :: lbs.,"1,029",1029.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,15,data,,15 Siálkot,4,Total Quantity. :: lbs.,"76,248,900",76248900.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,15,data,,15 Siálkot,5,Price per Re. 1. :: lbs.,30·85,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,15,data,,15 Siálkot,6,Total Value. :: Rs.,"24,71,601",2471601.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,16,data,,16 Lahore,2,Acres.,"22,415",22415.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,16,data,,16 Lahore,3,Per Acre. :: lbs.,861,861.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,16,data,,16 Lahore,4,Total Quantity. :: lbs.,"19,299,315",19299315.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,16,data,,16 Lahore,5,Price per Re. 1. :: lbs.,30·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,16,data,,16 Lahore,6,Total Value. :: Rs.,"6,39,685",639685.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,17,data,,17 Gujránwála,2,Acres.,"9,925",9925.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,17,data,,17 Gujránwála,3,Per Acre. :: lbs.,759,759.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,17,data,,17 Gujránwála,4,Total Quantity. :: lbs.,"7,533,075",7533075.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,17,data,,17 Gujránwála,5,Price per Re. 1. :: lbs.,19·88,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,17,data,,17 Gujránwála,6,Total Value. :: Rs.,"3,78,927",378927.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,18,data,,18 Firozepore,2,Acres.,"6,543",6543.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,18,data,,18 Firozepore,3,Per Acre. :: lbs.,795,795.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,18,data,,18 Firozepore,4,Total Quantity. :: lbs.,"5,201,685",5201685.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,18,data,,18 Firozepore,5,Price per Re. 1. :: lbs.,20·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,18,data,,18 Firozepore,6,Total Value. :: Rs.,"2,48,765",248765.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,19,data,,19 Ráwalpindi,2,Acres.,"1,093",1093.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,19,data,,19 Ráwalpindi,3,Per Acre. :: lbs.,970,970.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,19,data,,19 Ráwalpindi,4,Total Quantity. :: lbs.,"1,060,210",1060210.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,19,data,,19 Ráwalpindi,5,Price per Re. 1. :: lbs.,12·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,19,data,,19 Ráwalpindi,6,Total Value. :: Rs.,"85,916",85916.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,20,data,,20 Jhelum,2,Acres.,233,233.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,20,data,,20 Jhelum,3,Per Acre. :: lbs.,943,943.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,20,data,,20 Jhelum,4,Total Quantity. :: lbs.,"219,719",219719.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,20,data,,20 Jhelum,5,Price per Re. 1. :: lbs.,11·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,20,data,,20 Jhelum,6,Total Value. :: Rs.,"18,860",18860.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,21,data,,21 Gujrát,2,Acres.,"6,969",6969.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,21,data,,21 Gujrát,3,Per Acre. :: lbs.,586,586.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,21,data,,21 Gujrát,4,Total Quantity. :: lbs.,"4,083,834",4083834.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,21,data,,21 Gujrát,5,Price per Re. 1. :: lbs.,17·82,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,21,data,,21 Gujrát,6,Total Value. :: Rs.,"2,29,171",229171.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,22,data,,22 Shahpur,2,Acres.,990,990.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,22,data,,22 Shahpur,3,Per Acre. :: lbs.,790,790.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,22,data,,22 Shahpur,4,Total Quantity. :: lbs.,"782,100",782100.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,22,data,,22 Shahpur,5,Price per Re. 1. :: lbs.,22·63,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,22,data,,22 Shahpur,6,Total Value. :: Rs.,"34,560",34560.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,23,data,,23 Mooltan,2,Acres.,"9,800",9800.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,23,data,,23 Mooltan,3,Per Acre. :: lbs.,750,750.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,23,data,,23 Mooltan,4,Total Quantity. :: lbs.,"7,350,000",7350000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,23,data,,23 Mooltan,5,Price per Re. 1. :: lbs.,13·71,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,23,data,,23 Mooltan,6,Total Value. :: Rs.,"5,36,105",536105.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,24,data,,24 Jhang,2,Acres.,127,127.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,24,data,,24 Jhang,3,Per Acre. :: lbs.,281,281.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,24,data,,24 Jhang,4,Total Quantity. :: lbs.,"35,687",35687.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,24,data,,24 Jhang,5,Price per Re. 1. :: lbs.,13·71,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,24,data,,24 Jhang,6,Total Value. :: Rs.,"2,603",2603.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,25,data,,25 Montgomery,2,Acres.,"7,870",7870.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,25,data,,25 Montgomery,3,Per Acre. :: lbs.,"1,145",1145.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,25,data,,25 Montgomery,4,Total Quantity. :: lbs.,"9,011,150",9011150.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,25,data,,25 Montgomery,5,Price per Re. 1. :: lbs.,13·71,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,25,data,,25 Montgomery,6,Total Value. :: Rs.,"6,57,268",657268.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,26,data,,26 Mazaffargarh,2,Acres.,"10,178",10178.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,26,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,852,852.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,26,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"8,671,656",8671656.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,26,data,,26 Mazaffargarh,5,Price per Re. 1. :: lbs.,16·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,26,data,,26 Mazaffargarh,6,Total Value. :: Rs.,"5,27,152",527152.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,27,data,,27 D. I. Khan,2,Acres.,"1,366",1366.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,27,data,,27 D. I. Khan,3,Per Acre. :: lbs.,196,196.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,27,data,,27 D. I. Khan,4,Total Quantity. :: lbs.,"267,736",267736.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,27,data,,27 D. I. Khan,5,Price per Re. 1. :: lbs.,12·85,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,27,data,,27 D. I. Khan,6,Total Value. :: Rs.,"20,835",20835.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,28,data,,28 D. G. Khan,2,Acres.,"14,001",14001.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,28,data,,28 D. G. Khan,3,Per Acre. :: lbs.,513,513.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,28,data,,28 D. G. Khan,4,Total Quantity. :: lbs.,"7,182,513",7182513.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,28,data,,28 D. G. Khan,5,Price per Re. 1. :: lbs.,18·,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,28,data,,28 D. G. Khan,6,Total Value. :: Rs.,"3,99,028",399028.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,29,data,,29 Bannu,2,Acres.,125,125.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,29,data,,29 Bannu,3,Per Acre. :: lbs.,880,880.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,29,data,,29 Bannu,4,Total Quantity. :: lbs.,"110,000",110000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,29,data,,29 Bannu,5,Price per Re. 1. :: lbs.,12·85,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,29,data,,29 Bannu,6,Total Value. :: Rs.,"8,560",8560.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,30,data,,30 Pesháwar,2,Acres.,"10,325",10325.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,30,data,,30 Pesháwar,3,Per Acre. :: lbs.,894,894.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,30,data,,30 Pesháwar,4,Total Quantity. :: lbs.,"9,230,550",9230550.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,30,data,,30 Pesháwar,5,Price per Re. 1. :: lbs.,13·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,30,data,,30 Pesháwar,6,Total Value. :: Rs.,"6,86,286",686286.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,31,data,,31 Hazára,2,Acres.,"12,274",12274.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,31,data,,31 Hazára,3,Per Acre. :: lbs.,"1,152",1152.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,31,data,,31 Hazára,4,Total Quantity. :: lbs.,"14,139,648",14139648.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,31,data,,31 Hazára,5,Price per Re. 1. :: lbs.,28·8,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,31,data,,31 Hazára,6,Total Value. :: Rs.,"4,90,960",490960.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,32,data,,32 Kohát,2,Acres.,"2,361",2361.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,32,data,,32 Kohát,3,Per Acre. :: lbs.,"1,507",1507.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,32,data,,32 Kohát,4,Total Quantity. :: lbs.,"3,558,027",3558027.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,32,data,,32 Kohát,5,Price per Re. 1. :: lbs.,14·83,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,32,data,,32 Kohát,6,Total Value. :: Rs.,"2,39,920",239920.0,Rs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,33,total,,Total,2,Acres.,"708,699",708699.0,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,33,total,,Total,3,Per Acre. :: lbs.,Average 796,,acres,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,33,total,,Total,4,Total Quantity. :: lbs.,"564,054,551",564054551.0,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,33,total,,Total,5,Price per Re. 1. :: lbs.,Average 20·42,,lbs,False,True
+poverty-and-un-british-rule,tbl-090,Rice.,169,149,33,total,,Total,6,Total Value. :: Rs.,"2,76,17,270",27617270.0,Rs,False,True

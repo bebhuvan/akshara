@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,1,data,,1890–1,2,Opium.,"56,983,850",56983850.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,1,data,,1890–1,3,Salt.,"80,943,550",80943550.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,2,data,,1891–2,2,Opium.,"61,505,670",61505670.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,2,data,,1891–2,3,Salt.,"81,771,480",81771480.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,3,data,,1892–3,2,Opium.,"63,906,840",63906840.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,3,data,,1892–3,3,Salt.,"81,973,970",81973970.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,4,data,,1893–4,2,Opium.,"47,509,640",47509640.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,4,data,,1893–4,3,Salt.,"87,544,710",87544710.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,5,data,,1894–5,2,Opium.,"57,076,520",57076520.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,5,data,,1894–5,3,Salt.,"81,673,340",81673340.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,6,data,,1895–6,2,Opium.,"50,549,810",50549810.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,6,data,,1895–6,3,Salt.,"83,408,010",83408010.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,7,data,,1896–7,2,Opium.,"39,225,460",39225460.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,7,data,,1896–7,3,Salt.,"78,983,530",78983530.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,8,data,,1897–8,2,Opium.,"27,906,550",27906550.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,8,data,,1897–8,3,Salt.,"81,204,780",81204780.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,9,data,,1898–9,2,Opium.,"33,520,400",33520400.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,9,data,,1898–9,3,Salt.,"86,341,690",86341690.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,10,data,,1899–1900,2,Opium.,"40,122,420",40122420.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-050,Table 50,552,524,10,data,,1899–1900,3,Salt.,"82,780,605",82780605.0,,False,False

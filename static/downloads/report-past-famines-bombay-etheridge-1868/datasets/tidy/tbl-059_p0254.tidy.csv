@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,1,data,,"Moonghy Rice, per Parah",2,Rs.,4,4.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,1,data,,"Moonghy Rice, per Parah",3,q.,1,1.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,1,data,,"Moonghy Rice, per Parah",4,r.,92,92.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,2,data,,Do. do. „ Adowly,2,Rs.,0,0.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,2,data,,Do. do. „ Adowly,3,q.,1,1.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,2,data,,Do. do. „ Adowly,4,r.,12,12.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,3,data,,Do. do. „ Seer,2,Rs.,0,0.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,3,data,,Do. do. „ Seer,3,q.,0,0.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-059,Table 59,254,242,3,data,,Do. do. „ Seer,4,r.,28,28.0,Rs,False,False

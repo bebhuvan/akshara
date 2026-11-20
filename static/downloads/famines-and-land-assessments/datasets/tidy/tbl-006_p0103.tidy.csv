@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-006,Table 6,103,79,1,data,,1. Spent on actual famine relief,2,Column 2,"Rx. 320,664",,Rs,False,True
+famines-and-land-assessments,tbl-006,Table 6,103,79,2,data,,2. On protective irrigation works,2,Column 2,"1,813,841",1813841.0,,False,True
+famines-and-land-assessments,tbl-006,Table 6,103,79,3,data,,3. On protective railways,2,Column 2,"6,550,931",6550931.0,,False,True
+famines-and-land-assessments,tbl-006,Table 6,103,79,4,data,,4. Interest upon Indian Midland and Bengal Nagpore Railways,2,Column 2,"3,631,450",3631450.0,,False,True
+famines-and-land-assessments,tbl-006,Table 6,103,79,5,data,,5. Reduction and avoidance of debt,2,Column 2,"5,327,299",5327299.0,,False,True
+famines-and-land-assessments,tbl-006,Table 6,103,79,6,total,,Row 6,2,Column 2,"17,644,185",17644185.0,,False,True

@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,1,data,,Bajree,2,Column 2,8,8.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,1,data,,Bajree,3,Column 3,Seers for the Rupee.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,2,data,,Toor Dal,2,Column 2,6,6.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,2,data,,Toor Dal,3,Column 3,"""",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,3,data,,Rice,2,Column 2,6,6.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,3,data,,Rice,3,Column 3,"""",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,4,data,,Muth,2,Column 2,13,13.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,4,data,,Muth,3,Column 3,"""",,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,5,data,,Moong,2,Column 2,6,6.0,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-015,Table 15,66,54,5,data,,Moong,3,Column 3,"""",,Rs,False,False

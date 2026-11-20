@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,1,data,,Indigo,2,Bales.,450,450.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,1,data,,Indigo,3,Quantity.,"2800 maunds = about 73,000 lb.",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,1,data,,Indigo,4,Value in Guilders.,"23,992",23992.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,2,data,,Cotton yarn,2,Bales.,155,155.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,2,data,,Cotton yarn,3,Quantity.,"968¾ "" = "" 25,000 """,,lbs,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,2,data,,Cotton yarn,4,Value in Guilders.,"12,689",12689.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,3,data,,Guinea cloth,2,Bales.,66,66.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,3,data,,Guinea cloth,3,Quantity.,"1322 pieces = "" 66,000 yards",,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,3,data,,Guinea cloth,4,Value in Guilders.,"7,778",7778.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,4,data,,Bengal taffacylles (sample),2,Bales.,1,1.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,4,data,,Bengal taffacylles (sample),3,Quantity.,"135 "" (length not given)",,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,4,data,,Bengal taffacylles (sample),4,Value in Guilders.,716,716.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,5,subtotal,,Row 5,2,Bales.,,,,True,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,5,subtotal,,Row 5,3,Quantity.,Total,,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,5,subtotal,,Row 5,4,Value in Guilders.,"45,175",45175.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,6,data,,Row 6,2,Bales.,,,,True,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,6,data,,Row 6,3,Quantity.,"Add packing, loading, and export duties",,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,6,data,,Row 6,4,Value in Guilders.,"4,554",4554.0,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,7,total,,Row 7,2,Bales.,,,,True,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,7,total,,Row 7,3,Quantity.,Value of cargo,,,False,True
+from-akbar-to-aurangzeb,tbl-018,Table 18,339,317,7,total,,Row 7,4,Value in Guilders.,"49,729",49729.0,,False,True

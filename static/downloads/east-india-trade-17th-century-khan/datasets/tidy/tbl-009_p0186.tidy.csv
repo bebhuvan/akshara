@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,1,data,,Row 1,2,Column 2,£230,230.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,1,data,,Row 1,3,Column 3,5,5.0,,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,1,data,,Row 1,4,Column 4,2,2.0,,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,2,data,,'Dead stock',2,Column 2,97,97.0,,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,2,data,,'Dead stock',3,Column 3,5,5.0,,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,2,data,,'Dead stock',4,Column 4,1,1.0,,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,3,total,,Total value,2,Column 2,£327,327.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,3,total,,Total value,3,Column 3,10,10.0,,False,True
+east-india-trade-17th-century-khan,tbl-009,Table 9,186,174,3,total,,Total value,4,Column 4,3,3.0,,False,True

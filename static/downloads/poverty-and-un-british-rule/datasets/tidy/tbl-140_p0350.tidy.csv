@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,1,data,,"1,000,000",2,Column 2,×,,,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,1,data,,"1,000,000",3,Rs.,1,1.0,Rs,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,1,data,,"1,000,000",4,Column 4,＝,,,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,1,data,,"1,000,000",5,Rs.,"1,000,000",1000000.0,Rs,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,2,data,,"50,000",2,Column 2,×,,,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,2,data,,"50,000",3,Rs.,3,3.0,Rs,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,2,data,,"50,000",4,Column 4,＝,,,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,2,data,,"50,000",5,Rs.,"150,000",150000.0,Rs,False,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,3,total,,"Total . . 1,050,000",2,Column 2,,,,True,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,3,total,,"Total . . 1,050,000",3,Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,3,total,,"Total . . 1,050,000",4,Column 4,,,,True,True
+poverty-and-un-british-rule,tbl-140,Table 140,350,330,3,total,,"Total . . 1,050,000",5,Rs.,"1,150,000",1150000.0,Rs,False,True

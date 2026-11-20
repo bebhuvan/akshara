@@ -1,0 +1,64 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,1,data,,1837–38,2,Indian Debt. :: £,"30,249,893",30249893.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,1,data,,1837–38,3,Debt in England. :: £,"3,522,825",3522825.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,1,data,,1837–38,4,Total. :: £,"33,772,718",33772718.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,2,data,,1838–39,2,Indian Debt. :: £,"30,231,162",30231162.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,2,data,,1838–39,3,Debt in England. :: £,"1,734,300",1734300.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,2,data,,1838–39,4,Total. :: £,"31,965,462",31965462.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,3,data,,1839–40,2,Indian Debt. :: £,"32,750,697",32750697.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,3,data,,1839–40,3,Debt in England. :: £,"1,734,300",1734300.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,3,data,,1839–40,4,Total. :: £,"34,484,997",34484997.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,4,data,,1840–41,2,Indian Debt. :: £,"34,187,827",34187827.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,4,data,,1840–41,3,Debt in England. :: £,"1,734,300",1734300.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,4,data,,1840–41,4,Total. :: £,"35,922,127",35922127.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,5,data,,1841–42,2,Indian Debt. :: £,"36,670,173",36670173.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,5,data,,1841–42,3,Debt in England. :: £,"1,734,300",1734300.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,5,data,,1841–42,4,Total. :: £,"38,404,473",38404473.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,6,data,,1842–43,2,Indian Debt. :: £,"38,744,340",38744340.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,6,data,,1842–43,3,Debt in England. :: £,"1,734,300",1734300.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,6,data,,1842–43,4,Total. :: £,"40,478,640",40478640.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,7,data,,1843–44,2,Indian Debt. :: £,"40,149,151",40149151.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,7,data,,1843–44,3,Debt in England. :: £,"1,734,300",1734300.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,7,data,,1843–44,4,Total. :: £,"41,883,451",41883451.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,8,data,,1844–45,2,Indian Debt. :: £,"41,203,150",41203150.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,8,data,,1844–45,3,Debt in England. :: £,"2,299,600",2299600.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,8,data,,1844–45,4,Total. :: £,"43,502,750",43502750.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,9,data,,1845–46,2,Indian Debt. :: £,"41,592,249",41592249.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,9,data,,1845–46,3,Debt in England. :: £,"2,299,600",2299600.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,9,data,,1845–46,4,Total. :: £,"43,891,849",43891849.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,10,data,,1846–47,2,Indian Debt. :: £,"44,584,625",44584625.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,10,data,,1846–47,3,Debt in England. :: £,"2,299,600",2299600.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,10,data,,1846–47,4,Total. :: £,"46,884,225",46884225.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,11,data,,1847–48,2,Indian Debt. :: £,"45,957,613",45957613.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,11,data,,1847–48,3,Debt in England. :: £,"2,799,600",2799600.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,11,data,,1847–48,4,Total. :: £,"48,757,213",48757213.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,12,data,,1848–49,2,Indian Debt. :: £,"47,151,018",47151018.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,12,data,,1848–49,3,Debt in England. :: £,"3,899,500",3899500.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,12,data,,1848–49,4,Total. :: £,"51,050,518",51050518.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,13,data,,1849–50,2,Indian Debt. :: £,"50,035,268",50035268.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,13,data,,1849–50,3,Debt in England. :: £,"3,899,500",3899500.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,13,data,,1849–50,4,Total. :: £,"53,934,768",53934768.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,14,data,,1850–51,2,Indian Debt. :: £,"51,199,815",51199815.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,14,data,,1850–51,3,Debt in England. :: £,"3,899,500",3899500.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,14,data,,1850–51,4,Total. :: £,"55,099,315",55099315.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,15,data,,1851–52,2,Indian Debt. :: £,"51,215,193",51215193.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,15,data,,1851–52,3,Debt in England. :: £,"3,899,500",3899500.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,15,data,,1851–52,4,Total. :: £,"55,114,693",55114693.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,16,data,,1852–53,2,Indian Debt. :: £,"52,313,094",52313094.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,16,data,,1852–53,3,Debt in England. :: £,"3,920,592",3920592.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,16,data,,1852–53,4,Total. :: £,"56,233,686",56233686.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,17,data,,1853–54,2,Indian Debt. :: £,"49,762,876",49762876.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,17,data,,1853–54,3,Debt in England. :: £,"3,920,592",3920592.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,17,data,,1853–54,4,Total. :: £,"53,683,468",53683468.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,18,data,,1854–55,2,Indian Debt. :: £,"51,615,528",51615528.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,18,data,,1854–55,3,Debt in England. :: £,"3,915,592",3915592.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,18,data,,1854–55,4,Total. :: £,"55,531,120",55531120.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,19,data,,1855–56,2,Indian Debt. :: £,"53,848,922",53848922.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,19,data,,1855–56,3,Debt in England. :: £,"3,915,317",3915317.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,19,data,,1855–56,4,Total. :: £,"57,764,239",57764239.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,20,data,,1856–57,2,Indian Debt. :: £,"55,546,652",55546652.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,20,data,,1856–57,3,Debt in England. :: £,"3,915,317",3915317.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,20,data,,1856–57,4,Total. :: £,"59,461,969",59461969.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,21,data,,1857–58,2,Indian Debt. :: £,"60,704,084",60704084.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,21,data,,1857–58,3,Debt in England. :: £,"8,769,400",8769400.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-026,Table 26,245,217,21,data,,1857–58,4,Total. :: £,"69,473,484",69473484.0,GBP,False,False

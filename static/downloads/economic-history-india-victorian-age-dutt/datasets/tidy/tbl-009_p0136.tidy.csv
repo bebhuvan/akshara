@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,1,data,,1814,2,Column 2,. . .,,,True,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,1,data,,1814,3,Column 3,"1,266,608",1266608.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,1,data,,1814,4,Column 4,pieces.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,2,data,,1821,2,Column 2,. . .,,,True,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,2,data,,1821,3,Column 3,"534,495",534495.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,2,data,,1821,4,Column 4,„,,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,3,data,,1828,2,Column 2,. . .,,,True,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,3,data,,1828,3,Column 3,"422,504",422504.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,3,data,,1828,4,Column 4,„,,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,4,data,,1835,2,Column 2,. . .,,,True,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,4,data,,1835,3,Column 3,"306,086",306086.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-009,Cotton Piece Goods Imported into Great Britain from the East Indies.,136,108,4,data,,1835,4,Column 4,„,,,False,False

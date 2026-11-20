@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-025,Table 25,360,338,1,data,,On the East Coast,2,Column 2,"Hasta (or covad), about 18 inches.",,,False,False
+from-akbar-to-aurangzeb,tbl-025,Table 25,360,338,2,data,,In Gujarat,2,Column 2,"Covad, nearly 27 inches.",,,False,False
+from-akbar-to-aurangzeb,tbl-025,Table 25,360,338,3,data,,In Sind,2,Column 2,"Covad (Ilahi gaz), about 32 inches.",,,False,False
+from-akbar-to-aurangzeb,tbl-025,Table 25,360,338,4,data,,In Northern India,2,Column 2,"Ilahi gaz (or covad), about 32 inches.",,,False,False
+from-akbar-to-aurangzeb,tbl-025,Table 25,360,338,5,data,,” ”,2,Column 2,"Jahangiri gaz (or covad), about 40 inches; the precise range of the latter is uncertain, but it did not last for long.",,,False,False

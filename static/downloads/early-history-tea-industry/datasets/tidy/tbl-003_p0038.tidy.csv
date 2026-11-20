@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+early-history-tea-industry,tbl-003,Table 3,38,36,1,data,,1852,2,Crop,......,,,True,False
+early-history-tea-industry,tbl-003,Table 3,38,36,1,data,,1852,3,Profit,......,,,True,False
+early-history-tea-industry,tbl-003,Table 3,38,36,1,data,,1852,4,Dividend.,3 per cent.,3.0,%,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,2,data,,1858,2,Crop,"366,687 lbs.",366687.0,lbs,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,2,data,,1858,3,Profit,"£13,262",13262.0,GBP,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,2,data,,1858,4,Dividend.,5 ”,5.0,%,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,3,data,,1854,2,Crop,"478,258 „",478258.0,lbs,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,3,data,,1854,3,Profit,"£20,641",20641.0,GBP,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,3,data,,1854,4,Dividend.,6 ”,6.0,%,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,4,data,,1855,2,Crop,"558,628 „",558628.0,lbs,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,4,data,,1855,3,Profit,"£11,480",11480.0,GBP,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,4,data,,1855,4,Dividend.,7 ”,7.0,%,False,False
+early-history-tea-industry,tbl-003,Table 3,38,36,5,data,,1856,2,Crop,......,,,True,False
+early-history-tea-industry,tbl-003,Table 3,38,36,5,data,,1856,3,Profit,......,,,True,False
+early-history-tea-industry,tbl-003,Table 3,38,36,5,data,,1856,4,Dividend.,8 ”,8.0,%,False,False

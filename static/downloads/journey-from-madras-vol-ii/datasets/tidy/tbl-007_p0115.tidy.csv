@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,2,Months each requires to ripen. :: Bushels for an Acre. :: Seers on a Candaca-land :: Decimals.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,3,Season :: In a good crop. :: Seers on a Candaca-land :: Decimals.,Hainu,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,4,Seed. :: In a poor crop. :: Bushels for an Acre.,140,140.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,5,Produce :: Bushels for an Acre.,"1,253685",1253685.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,6,Folds.,30,30.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,7,Folds.,4200,4200.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,8,Seers on a Candaca-land.,"37,610833",37610833.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,9,Seers on a Candaca-land.,16,16.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,10,Bushels on an Acre.,2240,2240.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,1,data,,Anaputti,11,Bushels on an Acre.,"20,06",2006.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,2,Months each requires to ripen. :: Bushels for an Acre. :: Seers on a Candaca-land :: Decimals.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,3,Season :: In a good crop. :: Seers on a Candaca-land :: Decimals.,ditto,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,4,Seed. :: In a poor crop. :: Bushels for an Acre.,147,147.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,5,Produce :: Bushels for an Acre.,"1,316336",1316336.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,6,Folds.,23 43/49,23.877551,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,7,Folds.,3500,3500.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,8,Seers on a Candaca-land.,"31,342142",31342142.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,9,Seers on a Candaca-land.,14 17/49,14.346939,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,10,Bushels on an Acre.,2100,2100.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,2,data,,Caimbuti,11,Bushels on an Acre.,"18,804347",18804347.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,2,Months each requires to ripen. :: Bushels for an Acre. :: Seers on a Candaca-land :: Decimals.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,3,Season :: In a good crop. :: Seers on a Candaca-land :: Decimals.,ditto,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,4,Seed. :: In a poor crop. :: Bushels for an Acre.,154,154.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,5,Produce :: Bushels for an Acre.,"1,379062",1379062.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,6,Folds.,18 14/77,,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,7,Folds.,2800,2800.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,8,Seers on a Candaca-land.,"25,073888",25073888.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,9,Seers on a Candaca-land.,13 49/77,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,10,Bushels on an Acre.,2100,2100.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,3,data,,Conawaly,11,Bushels on an Acre.,"18,804347",18804347.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,2,Months each requires to ripen. :: Bushels for an Acre. :: Seers on a Candaca-land :: Decimals.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,3,Season :: In a good crop. :: Seers on a Candaca-land :: Decimals.,ditto,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,4,Seed. :: In a poor crop. :: Bushels for an Acre.,119,119.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,5,Produce :: Bushels for an Acre.,"1,06565",106565.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,6,Folds.,21 21/119,,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,7,Folds.,2520,2520.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,8,Seers on a Candaca-land.,"22,566315",22566315.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,9,Seers on a Candaca-land.,,,seers,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,10,Bushels on an Acre.,,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,4,data,,Sanabutta,11,Bushels on an Acre.,,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,2,Months each requires to ripen. :: Bushels for an Acre. :: Seers on a Candaca-land :: Decimals.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,3,Season :: In a good crop. :: Seers on a Candaca-land :: Decimals.,ditto,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,4,Seed. :: In a poor crop. :: Bushels for an Acre.,119,119.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,5,Produce :: Bushels for an Acre.,"1,06565",106565.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,6,Folds.,21 21/119,,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,7,Folds.,2520,2520.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,8,Seers on a Candaca-land.,"22,566315",22566315.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,9,Seers on a Candaca-land.,,,seers,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,10,Bushels on an Acre.,,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,5,data,,Sana Caimbuti,11,Bushels on an Acre.,,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,2,Months each requires to ripen. :: Bushels for an Acre. :: Seers on a Candaca-land :: Decimals.,5,5.0,acres,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,3,Season :: In a good crop. :: Seers on a Candaca-land :: Decimals.,Caru,,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,4,Seed. :: In a poor crop. :: Bushels for an Acre.,- -,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,5,Produce :: Bushels for an Acre.,- - -,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,6,Folds.,- - -,,,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,7,Folds.,2800,2800.0,,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,8,Seers on a Candaca-land.,"25,073888",25073888.0,seers,False,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,9,Seers on a Candaca-land.,,,seers,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,10,Bushels on an Acre.,,,acres,True,False
+journey-from-madras-vol-ii,tbl-007,Table explaining the cultivation of rice at Priya-pattana.,115,99,6,data,,Caru,11,Bushels on an Acre.,,,acres,True,False

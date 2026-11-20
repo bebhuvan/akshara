@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-137,No. 73.—Crops Under Cultivation in 1893-4 (p. 141). Administration—Bengal. ACRES.,347,327,1,data,,"38,200,300",2,Wheat.,"1,620,200",1620200.0,acres,False,False
+poverty-and-un-british-rule,tbl-137,No. 73.—Crops Under Cultivation in 1893-4 (p. 141). Administration—Bengal. ACRES.,347,327,1,data,,"38,200,300",3,Other Food Grains (including Pulses).,"11,636,000",11636000.0,acres,False,False
+poverty-and-un-british-rule,tbl-137,No. 73.—Crops Under Cultivation in 1893-4 (p. 141). Administration—Bengal. ACRES.,347,327,1,data,,"38,200,300",4,Other Food Crops.,"3,130,900",3130900.0,acres,False,False
+poverty-and-un-british-rule,tbl-137,No. 73.—Crops Under Cultivation in 1893-4 (p. 141). Administration—Bengal. ACRES.,347,327,1,data,,"38,200,300",5,Sugar Cane.,"1,083,400",1083400.0,acres,False,False
+poverty-and-un-british-rule,tbl-137,No. 73.—Crops Under Cultivation in 1893-4 (p. 141). Administration—Bengal. ACRES.,347,327,1,data,,"38,200,300",6,Coffee.,......,,acres,True,False

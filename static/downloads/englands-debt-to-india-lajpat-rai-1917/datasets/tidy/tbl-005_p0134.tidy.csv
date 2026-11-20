@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-005,Table 5,134,94,1,data,,to 1898–99 were,2,Column 2,"£610,389,135",610389135.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-005,Table 5,134,94,2,data,,‘To this must be added debt in England existing at the end of 1898–99,2,Column 2,"£124,268,605",124268605.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-005,Table 5,134,94,3,total,,Total,2,Column 2,"£734,657,740",734657740.0,GBP,False,True

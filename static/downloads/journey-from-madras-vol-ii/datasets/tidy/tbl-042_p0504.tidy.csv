@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,1,data,,Coco-nuts,2,Column 2,"38,458 thousand, at 13½ Rupees,",,Rs,False,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,1,data,,Coco-nuts,3,Rupees.,"519,048",519048.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,2,data,,Betel-nuts,2,Column 2,"58,392 thousand, at 3 Fanams,",,,False,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,2,data,,Betel-nuts,3,Rupees.,"32,916",32916.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,3,data,,Black pepper,2,Column 2,"340 Candies, at 125 Rupees,",,Rs,False,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,3,data,,Black pepper,3,Rupees.,"42,500",42500.0,Rs,False,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,4,total,,Rupees,2,Column 2,,,,True,False
+journey-from-madras-vol-ii,tbl-042,Table 42,504,476,4,total,,Rupees,3,Rupees.,"6,14,464",614464.0,Rs,False,False

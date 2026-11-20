@@ -1,0 +1,49 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,1,data,,Asgha,2,Ground. :: Rice. :: 2d Soil.,Surd,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,1,data,,Asgha,3,Produce of One Candaca sown. :: Candacas.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,1,data,,Asgha,4,Time required to ripen. :: Candacas.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,1,data,,Asgha,5,Quality. :: Candacas.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,1,data,,Asgha,6,Months.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,1,data,,Asgha,7,Column 7,Large.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,2,data,,Pandia,2,Ground. :: Rice. :: 2d Soil.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,2,data,,Pandia,3,Produce of One Candaca sown. :: Candacas.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,2,data,,Pandia,4,Time required to ripen. :: Candacas.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,2,data,,Pandia,5,Quality. :: Candacas.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,2,data,,Pandia,6,Months.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,2,data,,Pandia,7,Column 7,Ditto.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,3,data,,Patni,2,Ground. :: Rice. :: 2d Soil.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,3,data,,Patni,3,Produce of One Candaca sown. :: Candacas.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,3,data,,Patni,4,Time required to ripen. :: Candacas.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,3,data,,Patni,5,Quality. :: Candacas.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,3,data,,Patni,6,Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,3,data,,Patni,7,Column 7,Ditto.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,4,data,,Halga,2,Ground. :: Rice. :: 2d Soil.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,4,data,,Halga,3,Produce of One Candaca sown. :: Candacas.,none,0.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,4,data,,Halga,4,Time required to ripen. :: Candacas.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,4,data,,Halga,5,Quality. :: Candacas.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,4,data,,Halga,6,Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,4,data,,Halga,7,Column 7,Middle sized.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,5,data,,Sanmulghi,2,Ground. :: Rice. :: 2d Soil.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,5,data,,Sanmulghi,3,Produce of One Candaca sown. :: Candacas.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,5,data,,Sanmulghi,4,Time required to ripen. :: Candacas.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,5,data,,Sanmulghi,5,Quality. :: Candacas.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,5,data,,Sanmulghi,6,Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,5,data,,Sanmulghi,7,Column 7,Ditto.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,6,data,,Wala,2,Ground. :: Rice. :: 2d Soil.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,6,data,,Wala,3,Produce of One Candaca sown. :: Candacas.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,6,data,,Wala,4,Time required to ripen. :: Candacas.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,6,data,,Wala,5,Quality. :: Candacas.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,6,data,,Wala,6,Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,6,data,,Wala,7,Column 7,Small.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,7,data,,Cago,2,Ground. :: Rice. :: 2d Soil.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,7,data,,Cago,3,Produce of One Candaca sown. :: Candacas.,none,0.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,7,data,,Cago,4,Time required to ripen. :: Candacas.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,7,data,,Cago,5,Quality. :: Candacas.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,7,data,,Cago,6,Months.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,7,data,,Cago,7,Column 7,Large and coarse.,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,8,data,,Sorutta,2,Ground. :: Rice. :: 2d Soil.,Vaingunna,,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,8,data,,Sorutta,3,Produce of One Candaca sown. :: Candacas.,none,0.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,8,data,,Sorutta,4,Time required to ripen. :: Candacas.,-,,,True,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,8,data,,Sorutta,5,Quality. :: Candacas.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,8,data,,Sorutta,6,Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-017,Table explaining the cultivation of Rice in British Kankana.,206,182,8,data,,Sorutta,7,Column 7,,,,True,False

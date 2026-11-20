@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="bgShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4A241A" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#3A1C14" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="#3A1C14"/>
+  <rect width="1200" height="1800" fill="url(#bgShade)"/>
+
+  <rect x="80" y="80" width="1040" height="1640" fill="none" stroke="#6E4133" stroke-width="1.5"/><line x1="80" y1="220" x2="1120" y2="220" stroke="#6E4133" stroke-width="1.4"/><rect x="112" y="1250" width="976" height="240" fill="#4A241A" stroke="#6E4133" stroke-width="1"/><line x1="112" y1="1250" x2="112" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="156" y1="1250" x2="156" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="200" y1="1250" x2="200" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="244" y1="1250" x2="244" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="288" y1="1250" x2="288" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="332" y1="1250" x2="332" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="376" y1="1250" x2="376" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="420" y1="1250" x2="420" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="464" y1="1250" x2="464" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="508" y1="1250" x2="508" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="552" y1="1250" x2="552" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="596" y1="1250" x2="596" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="640" y1="1250" x2="640" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="684" y1="1250" x2="684" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="728" y1="1250" x2="728" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="772" y1="1250" x2="772" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="816" y1="1250" x2="816" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="860" y1="1250" x2="860" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="904" y1="1250" x2="904" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="948" y1="1250" x2="948" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="992" y1="1250" x2="992" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="1036" y1="1250" x2="1036" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="1080" y1="1250" x2="1080" y2="1490" stroke="#6E4133" stroke-width="1.2" stroke-opacity="0.7"/><line x1="112" y1="1250" x2="1088" y2="1250" stroke="#DF8B50" stroke-width="1.5" stroke-opacity="0.62"/><line x1="112" y1="1284" x2="1088" y2="1284" stroke="#6E4133" stroke-width="1.5" stroke-opacity="0.7"/><line x1="112" y1="1318" x2="1088" y2="1318" stroke="#DF8B50" stroke-width="1.5" stroke-opacity="0.62"/><line x1="112" y1="1352" x2="1088" y2="1352" stroke="#6E4133" stroke-width="1.5" stroke-opacity="0.7"/><line x1="112" y1="1386" x2="1088" y2="1386" stroke="#DF8B50" stroke-width="1.5" stroke-opacity="0.62"/><line x1="112" y1="1420" x2="1088" y2="1420" stroke="#6E4133" stroke-width="1.5" stroke-opacity="0.7"/><line x1="112" y1="1454" x2="1088" y2="1454" stroke="#DF8B50" stroke-width="1.5" stroke-opacity="0.62"/><line x1="112" y1="1488" x2="1088" y2="1488" stroke="#6E4133" stroke-width="1.5" stroke-opacity="0.7"/><line x1="80" y1="1535" x2="1120" y2="1535" stroke="#6E4133" stroke-width="1.4"/>
+
+  <text x="112" y="168" fill="#DF8B50" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
+    SOCIETY, LIFE &amp; HERITAGE
+  </text>
+  <text x="1088" y="168" text-anchor="end" fill="#D8C0B4" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
+    1891
+  </text>
+
+  <text x="112" y="355" fill="#F8F3EB" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="80" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">Life in an Indian</tspan><tspan x="112" dy="92">Village</tspan>
+  </text>
+
+  
+
+  <line x1="112" y1="527" x2="290" y2="527" stroke="#DF8B50" stroke-width="4"/>
+
+  <text x="112" y="591" fill="#F8F3EB" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+    <tspan x="112" dy="0">T. Ramakrishna</tspan>
+  </text>
+  <text x="112" y="645" fill="#D8C0B4" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1891
+  </text>
+
+  <text x="112" y="1605" fill="#F8F3EB" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
+    AKSHARA
+  </text>
+  <text x="112" y="1652" fill="#D8C0B4" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    ARCHIVAL EDITION  ·  AKSHARA.INK
+  </text>
+  <text x="1088" y="1628" text-anchor="end" fill="#DF8B50" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
+    ಅಕ್ಷರ
+  </text>
+</svg>

@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,1,data,,Revenue,2,India. :: s.,4,4.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,1,data,,Revenue,3,India. :: d.,9,9.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,1,data,,Revenue,4,England if as agricultural as India. :: s.,,,,True,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,1,data,,Revenue,5,England if as agricultural as India. :: d.,,,,True,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,1,data,,Revenue,6,England as it is. :: s.,49,49.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,1,data,,Revenue,7,England as it is. :: d.,3,3.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,2,data,,At English money value,2,India. :: s.,33,33.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,2,data,,At English money value,3,India. :: d.,3,3.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,2,data,,At English money value,4,England if as agricultural as India. :: s.,37,37.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,2,data,,At English money value,5,England if as agricultural as India. :: d.,0,0.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,2,data,,At English money value,6,England as it is. :: s.,49,49.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,2,data,,At English money value,7,England as it is. :: d.,3,3.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,3,data,,"Cost of Administration, exclusive of unproductive debt",2,India. :: s.,30,30.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,3,data,,"Cost of Administration, exclusive of unproductive debt",3,India. :: d.,3,3.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,3,data,,"Cost of Administration, exclusive of unproductive debt",4,England if as agricultural as India. :: s.,25,25.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,3,data,,"Cost of Administration, exclusive of unproductive debt",5,England if as agricultural as India. :: d.,3,3.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,3,data,,"Cost of Administration, exclusive of unproductive debt",6,England as it is. :: s.,32,32.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,3,data,,"Cost of Administration, exclusive of unproductive debt",7,England as it is. :: d.,10,10.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,4,data,,"Cost of Administration, excluding Local Expenditure",2,India. :: s.,28,28.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,4,data,,"Cost of Administration, excluding Local Expenditure",3,India. :: d.,4,4.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,4,data,,"Cost of Administration, excluding Local Expenditure",4,England if as agricultural as India. :: s.,25,25.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,4,data,,"Cost of Administration, excluding Local Expenditure",5,England if as agricultural as India. :: d.,3,3.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,4,data,,"Cost of Administration, excluding Local Expenditure",6,England as it is. :: s.,32,32.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,4,data,,"Cost of Administration, excluding Local Expenditure",7,England as it is. :: d.,10,10.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,5,data,,Local Expenditure,2,India. :: s.,9,9.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,5,data,,Local Expenditure,3,India. :: d.,0,0.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,5,data,,Local Expenditure,4,England if as agricultural as India. :: s.,11,11.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,5,data,,Local Expenditure,5,England if as agricultural as India. :: d.,4,4.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,5,data,,Local Expenditure,6,England as it is. :: s.,18,18.0,,False,False
+indian-finance-moxon-1881,tbl-005,Table 5,15,11,5,data,,Local Expenditure,7,England as it is. :: d.,3,3.0,,False,False

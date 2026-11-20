@@ -1,0 +1,307 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,2,"R. 1,000 to less than R. 2,500. :: No.",261,261.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","80,763",80763.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,4,"R. 2,500 to less than R. 5,000. :: No.",248,248.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","1,27,668",127668.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,6,"R. 5,000 to less than R. 10,000. :: No.",431,431.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,7,"R. 5,000 to less than R. 10,000. :: Amount.","4,...",4.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,8,"R.10,000 to less than R.20,000. :: No.",309,309.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","4,92,859",492859.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,10,"R.20,000 to less than R.30,000. :: No.",113,113.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","3,32,029",332029.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,12,"R.30,000 to less than R.40,000. :: No.",49,49.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,13,"R.30,000 to less than R.40,000. :: Amount. :: R.","1,98,637",198637.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,14,"R.40,000 to less than R.50,000. :: No.",19,19.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,15,"R.40,000 to less than R.50,000. :: Amount. :: R.","81,080",81080.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,16,"R.50,000 and upwards. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,17,"R.50,000 and upwards. :: Amount. :: R.","30,349",30349.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,18,TOTAL. :: No.,"1,432",1432.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,1,data,,Europeans,19,TOTAL. :: Amount. :: R.,"17,56,772",1756772.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,2,"R. 1,000 to less than R. 2,500. :: No.",308,308.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","77,658",77658.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,4,"R. 2,500 to less than R. 5,000. :: No.",106,106.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","67,184",67184.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,6,"R. 5,000 to less than R. 10,000. :: No.",25,25.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,8,"R.10,000 to less than R.20,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","4,287",4287.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,10,"R.20,000 to less than R.30,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","3,979",3979.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,18,TOTAL. :: No.,443,443.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,2,data,,Eurasians,19,TOTAL. :: Amount. :: R.,"1,77,834",177834.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,2,"R. 1,000 to less than R. 2,500. :: No.","1,597",1597.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","4,36,330",436330.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,4,"R. 2,500 to less than R. 5,000. :: No.",405,405.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","2,01,756",201756.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,6,"R. 5,000 to less than R. 10,000. :: No.",127,127.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,7,"R. 5,000 to less than R. 10,000. :: Amount.","1,...",1.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,8,"R.10,000 to less than R.20,000. :: No.",15,15.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","24,525",24525.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,10,"R.20,000 to less than R.30,000. :: No.",4,4.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","12,350",12350.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,14,"R.40,000 to less than R.50,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,15,"R.40,000 to less than R.50,000. :: Amount. :: R.","2,750",2750.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,18,TOTAL. :: No.,"2,149",2149.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,3,data,,Natives,19,TOTAL. :: Amount. :: R.,"7,79,627",779627.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,2,"R. 1,000 to less than R. 2,500. :: No.",595,595.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","4,05,862",405862.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,4,"R. 2,500 to less than R. 5,000. :: No.",622,622.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","5,63,487",563487.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,6,"R. 5,000 to less than R. 10,000. :: No.",442,442.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,7,"R. 5,000 to less than R. 10,000. :: Amount.","6,...",6.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,8,"R.10,000 to less than R.20,000. :: No.",295,295.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","5,41,017",541017.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,10,"R.20,000 to less than R.30,000. :: No.",21,21.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","1,03,341",103341.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,12,"R.30,000 to less than R.40,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,13,"R.30,000 to less than R.40,000. :: Amount. :: R.","7,795",7795.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,14,"R.40,000 to less than R.50,000. :: No.",5,5.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,15,"R.40,000 to less than R.50,000. :: Amount. :: R.","34,780",34780.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,18,TOTAL. :: No.,"1,981",1981.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,4,data,,Europeans,19,TOTAL. :: Amount. :: R.,"23,49,000",2349000.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,2,"R. 1,000 to less than R. 2,500. :: No.",55,55.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","19,495",19495.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,4,"R. 2,500 to less than R. 5,000. :: No.",10,10.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","7,629",7629.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,6,"R. 5,000 to less than R. 10,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,8,"R.10,000 to less than R.20,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,9,"R.10,000 to less than R.20,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,18,TOTAL. :: No.,67,67.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,5,data,,Eurasians,19,TOTAL. :: Amount. :: R.,"30,187",30187.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,2,"R. 1,000 to less than R. 2,500. :: No.",569,569.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","2,45,308",245308.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,4,"R. 2,500 to less than R. 5,000. :: No.",31,31.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","29,300",29300.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,6,"R. 5,000 to less than R. 10,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,8,"R.10,000 to less than R.20,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,9,"R.10,000 to less than R.20,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,18,TOTAL. :: No.,601,601.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,6,data,,Natives,19,TOTAL. :: Amount. :: R.,"2,75,554",275554.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),2,"R. 1,000 to less than R. 2,500. :: No.",453,453.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","98,273",98273.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),4,"R. 2,500 to less than R. 5,000. :: No.",143,143.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","98,467",98467.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),6,"R. 5,000 to less than R. 10,000. :: No.",144,144.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),7,"R. 5,000 to less than R. 10,000. :: Amount.","1,...",1.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),8,"R.10,000 to less than R.20,000. :: No.",42,42.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),9,"R.10,000 to less than R.20,000. :: Amount. :: R.","80,772",80772.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),10,"R.20,000 to less than R.30,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),11,"R.20,000 to less than R.30,000. :: Amount. :: R.","5,724",5724.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),18,TOTAL. :: No.,784,784.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,7,data,,Europeans (Civil),19,TOTAL. :: Amount. :: R.,"4,47,340",447340.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",2,"R. 1,000 to less than R. 2,500. :: No.",21,21.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","12,123",12123.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",4,"R. 2,500 to less than R. 5,000. :: No.",8,8.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","7,587",7587.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",6,"R. 5,000 to less than R. 10,000. :: No.",14,14.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",8,"R.10,000 to less than R.20,000. :: No.",11,11.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",9,"R.10,000 to less than R.20,000. :: Amount. :: R.","26,415",26415.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",10,"R.20,000 to less than R.30,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",11,"R.20,000 to less than R.30,000. :: Amount. :: R.","7,343",7343.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",12,"R.30,000 to less than R.40,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",13,"R.30,000 to less than R.40,000. :: Amount. :: R.","4,012",4012.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",18,TOTAL. :: No.,58,58.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,8,data,,""" (Military)",19,TOTAL. :: Amount. :: R.,"70,892",70892.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,2,"R. 1,000 to less than R. 2,500. :: No.",367,367.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","66,733",66733.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,4,"R. 2,500 to less than R. 5,000. :: No.",41,41.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","20,141",20141.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,6,"R. 5,000 to less than R. 10,000. :: No.",16,16.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,8,"R.10,000 to less than R.20,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,9,"R.10,000 to less than R.20,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,18,TOTAL. :: No.,424,424.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,9,data,,Eurasians,19,TOTAL. :: Amount. :: R.,"1,13,177",113177.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,2,"R. 1,000 to less than R. 2,500. :: No.",328,328.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","85,748",85748.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,4,"R. 2,500 to less than R. 5,000. :: No.",40,40.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","40,794",40794.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,6,"R. 5,000 to less than R. 10,000. :: No.",20,20.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,8,"R.10,000 to less than R.20,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","2,898",2898.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,18,TOTAL. :: No.,390,390.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,10,data,,Natives,19,TOTAL. :: Amount. :: R.,"1,49,453",149453.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,2,"R. 1,000 to less than R. 2,500. :: No.",4,4.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","3,218",3218.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,4,"R. 2,500 to less than R. 5,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.",440,440.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,6,"R. 5,000 to less than R. 10,000. :: No.",3,3.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,8,"R.10,000 to less than R.20,000. :: No.",3,3.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","4,322",4322.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,18,TOTAL. :: No.,11,11.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,11,data,,Europeans,19,TOTAL. :: Amount. :: R.,"12,310",12310.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,2,"R. 1,000 to less than R. 2,500. :: No.",3,3.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.",922,922.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,4,"R. 2,500 to less than R. 5,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,6,"R. 5,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,8,"R.10,000 to less than R.20,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,9,"R.10,000 to less than R.20,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,18,TOTAL. :: No.,3,3.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,12,data,,Eurasians,19,TOTAL. :: Amount. :: R.,922,922.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,2,"R. 1,000 to less than R. 2,500. :: No.",44,44.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","12,104",12104.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,4,"R. 2,500 to less than R. 5,000. :: No.",5,5.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","1,682",1682.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,6,"R. 5,000 to less than R. 10,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,8,"R.10,000 to less than R.20,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,9,"R.10,000 to less than R.20,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,10,"R.20,000 to less than R.30,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,11,"R.20,000 to less than R.30,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,18,TOTAL. :: No.,50,50.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,13,data,,Natives,19,TOTAL. :: Amount. :: R.,"14,109",14109.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,2,"R. 1,000 to less than R. 2,500. :: No.","1,334",1334.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","6,00,239",600239.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,4,"R. 2,500 to less than R. 5,000. :: No.","1,022",1022.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","7,97,649",797649.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,6,"R. 5,000 to less than R. 10,000. :: No.","1,034",1034.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,7,"R. 5,000 to less than R. 10,000. :: Amount.","12,...",12.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,8,"R.10,000 to less than R.20,000. :: No.",660,660.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","11,45,385",1145385.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,10,"R.20,000 to less than R.30,000. :: No.",138,138.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","4,48,437",448437.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,12,"R.30,000 to less than R.40,000. :: No.",25,25.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,13,"R.30,000 to less than R.40,000. :: Amount. :: R.","2,10,444",210444.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,14,"R.40,000 to less than R.50,000. :: No.",24,24.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,15,"R.40,000 to less than R.50,000. :: Amount. :: R.","1,15,860",115860.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,16,"R.50,000 and upwards. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,17,"R.50,000 and upwards. :: Amount. :: R.","30,349",30349.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,18,TOTAL. :: No.,"4,266",4266.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,14,subtotal,,Total . . Europeans,19,TOTAL. :: Amount. :: R.,"46,36,314",4636314.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,2,"R. 1,000 to less than R. 2,500. :: No.",733,733.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","1,64,808",164808.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,4,"R. 2,500 to less than R. 5,000. :: No.",157,157.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","94,954",94954.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,6,"R. 5,000 to less than R. 10,000. :: No.",43,43.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,7,"R. 5,000 to less than R. 10,000. :: Amount.",,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,8,"R.10,000 to less than R.20,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","4,287",4287.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,10,"R.20,000 to less than R.30,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","3,979",3979.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,14,"R.40,000 to less than R.50,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,15,"R.40,000 to less than R.50,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,18,TOTAL. :: No.,937,937.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,15,subtotal,,Eurasians,19,TOTAL. :: Amount. :: R.,"3,22,120",322120.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,2,"R. 1,000 to less than R. 2,500. :: No.","2,538",2538.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","7,79,490",779490.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,4,"R. 2,500 to less than R. 5,000. :: No.",481,481.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","2,73,532",273532.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,6,"R. 5,000 to less than R. 10,000. :: No.",149,149.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,7,"R. 5,000 to less than R. 10,000. :: Amount.","1,...",1.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,8,"R.10,000 to less than R.20,000. :: No.",17,17.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","27,423",27423.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,10,"R.20,000 to less than R.30,000. :: No.",4,4.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","12,350",12350.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,12,"R.30,000 to less than R.40,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,13,"R.30,000 to less than R.40,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,14,"R.40,000 to less than R.50,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,15,"R.40,000 to less than R.50,000. :: Amount. :: R.","2,750",2750.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,16,"R.50,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,17,"R.50,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,18,TOTAL. :: No.,"3,190",3190.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,16,subtotal,,Natives,19,TOTAL. :: Amount. :: R.,"12,18,743",1218743.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,2,"R. 1,000 to less than R. 2,500. :: No.","4,605",4605.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,3,"R. 1,000 to less than R. 2,500. :: Amount. :: R.","15,44,537",1544537.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,4,"R. 2,500 to less than R. 5,000. :: No.","1,660",1660.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,5,"R. 2,500 to less than R. 5,000. :: Amount. :: R.","11,66,135",1166135.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,6,"R. 5,000 to less than R. 10,000. :: No.","1,226",1226.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,7,"R. 5,000 to less than R. 10,000. :: Amount.","14,...",14.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,8,"R.10,000 to less than R.20,000. :: No.",679,679.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,9,"R.10,000 to less than R.20,000. :: Amount. :: R.","11,77,095",1177095.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,10,"R.20,000 to less than R.30,000. :: No.",144,144.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,11,"R.20,000 to less than R.30,000. :: Amount. :: R.","4,64,766",464766.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,12,"R.30,000 to less than R.40,000. :: No.",25,25.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,13,"R.30,000 to less than R.40,000. :: Amount. :: R.","2,10,444",210444.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,14,"R.40,000 to less than R.50,000. :: No.",25,25.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,15,"R.40,000 to less than R.50,000. :: Amount. :: R.","1,18,610",118610.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,16,"R.50,000 and upwards. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,17,"R.50,000 and upwards. :: Amount. :: R.","30,349",30349.0,Rs,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,18,TOTAL. :: No.,"8,393",8393.0,count,False,False
+famines-and-land-assessments,tbl-024,"Absentee Allowances of Officers on Leave, including Privilege",312,288,17,total,,Total,19,TOTAL. :: Amount. :: R.,"61,77,177",6177177.0,Rs,False,False

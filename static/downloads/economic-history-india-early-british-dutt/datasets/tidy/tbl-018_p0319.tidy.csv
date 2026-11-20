@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-018,Table 18,319,291,1,data,,Bengal,2,Column 2,"£196,121,983",196121983.0,GBP,False,True
+economic-history-india-early-british-dutt,tbl-018,Table 18,319,291,2,data,,Madras,2,Column 2,"82,042,967",82042967.0,,False,True
+economic-history-india-early-british-dutt,tbl-018,Table 18,319,291,3,data,,Bombay,2,Column 2,"30,986,870",30986870.0,,False,True
+economic-history-india-early-british-dutt,tbl-018,Table 18,319,291,4,data,,Oudh and Subordinate Settlements,2,Column 2,"1,931,480",1931480.0,,False,True
+economic-history-india-early-british-dutt,tbl-018,Table 18,319,291,5,total,,Total,2,Column 2,"£311,083,300",311083300.0,GBP,False,True

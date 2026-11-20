@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,1,data,,Bannu,2,Name of river or tract.,Indus & Kurram.,,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,1,data,,Bannu,3,Annual cultivated area in square miles in 1884-85.,118,118.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,1,data,,Bannu,4,Revenue in 1884-85. :: Rs.,"90,259",90259.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,1,data,,Bannu,5,Remarks.,"These figures are taken from the Revenue Administration Report for 1884-85, Statement XB.",,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,2,data,,"D.-I.-Khan,",2,Name of river or tract.,Indus & Da-man tract.,,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,2,data,,"D.-I.-Khan,",3,Annual cultivated area in square miles in 1884-85.,545,545.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,2,data,,"D.-I.-Khan,",4,Revenue in 1884-85. :: Rs.,"2,61,287",261287.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,2,data,,"D.-I.-Khan,",5,Remarks.,,,,True,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,3,data,,"Montgomery,",2,Name of river or tract.,Ravi ...,,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,3,data,,"Montgomery,",3,Annual cultivated area in square miles in 1884-85.,15,15.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,3,data,,"Montgomery,",4,Revenue in 1884-85. :: Rs.,"11,165",11165.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,3,data,,"Montgomery,",5,Remarks.,,,,True,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,4,data,,Jhang,2,Name of river or tract.,Chenab and Ravi.,,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,4,data,,Jhang,3,Annual cultivated area in square miles in 1884-85.,12,12.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,4,data,,Jhang,4,Revenue in 1884-85. :: Rs.,"7,449",7449.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,4,data,,Jhang,5,Remarks.,,,,True,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,5,data,,Mooltan,2,Name of river or tract.,"Ravi, Sutlej, & Chenab.",,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,5,data,,Mooltan,3,Annual cultivated area in square miles in 1884-85.,156,156.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,5,data,,Mooltan,4,Revenue in 1884-85. :: Rs.,"96,824",96824.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,5,data,,Mooltan,5,Remarks.,,,,True,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,6,data,,"Muzaffargarh,",2,Name of river or tract.,Indus and Chenab.,,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,6,data,,"Muzaffargarh,",3,Annual cultivated area in square miles in 1884-85.,235,235.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,6,data,,"Muzaffargarh,",4,Revenue in 1884-85. :: Rs.,"1,64,085",164085.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,6,data,,"Muzaffargarh,",5,Remarks.,,,,True,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,7,total,,Total,2,Name of river or tract.,...,,,True,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,7,total,,Total,3,Annual cultivated area in square miles in 1884-85.,"1,081",1081.0,,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,7,total,,Total,4,Revenue in 1884-85. :: Rs.,"6,31,069",631069.0,Rs,False,True
+musalmans-and-money-lenders,tbl-007,Table 7,125,113,7,total,,Total,5,Remarks.,,,,True,True

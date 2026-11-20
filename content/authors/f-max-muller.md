@@ -5,41 +5,34 @@ full_name: "Friedrich Max Müller"
 birth_year: 1823
 death_year: 1900
 birth_place: "Dessau, Duchy of Anhalt, Germany"
-languages: ["English", "German", "Sanskrit", "Pali", "Persian"]
-
-# Bio
+languages:
+  - "English"
+  - "German"
+  - "Sanskrit"
+  - "Pali"
+  - "Persian"
 short_bio: "German-born philologist and Orientalist who became one of the founders of comparative religion and mythology. Best known for his monumental edition of the Rig Veda and his passionate advocacy for Sanskrit studies."
-
-# Works
-works_count: 50
+works_count: 1
 first_publication: 1844
-
-# Timeline
 timeline:
   - year: 1823
     title: "Birth in Dessau"
     description: "Born in Dessau, Germany, son of the poet Wilhelm Müller"
-
   - year: 1846
     title: "Moved to England"
     description: "Settled in England to work on a critical edition of the Rig Veda"
-
   - year: 1849
     title: "Oxford Appointment"
     description: "Appointed deputy Taylorian Professor of modern European languages at Oxford"
-
   - year: 1860
     title: "Completed Rig Veda Edition"
     description: "Completed his monumental six-volume edition of the Rig Veda with Sayana's commentary"
-
   - year: 1868
     title: "Boden Professorship Candidacy"
     description: "Narrowly lost election for the Boden Chair of Sanskrit to Monier-Williams"
-
   - year: 1883
     title: "India: What Can It Teach Us?"
     description: "Delivered lectures at Cambridge advocating for Sanskrit studies in civil service education"
-
   - year: 1900
     title: "Passing"
     description: "Died in Oxford, leaving an immense scholarly legacy"

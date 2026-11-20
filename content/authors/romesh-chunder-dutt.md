@@ -5,11 +5,13 @@ full_name: "Romesh Chunder Dutt"
 birth_year: 1848
 death_year: 1909
 birth_place: "Calcutta, Bengal"
-languages: ["English", "Bengali", "Sanskrit"]
+languages:
+  - "English"
+  - "Bengali"
+  - "Sanskrit"
 short_bio: "Indian civil servant, economist, and nationalist leader who pioneered the study of colonial economic exploitation"
-works_count: 1
+works_count: 5
 first_publication: 1902
-
 timeline:
   - year: 1848
     title: "Birth in Calcutta"

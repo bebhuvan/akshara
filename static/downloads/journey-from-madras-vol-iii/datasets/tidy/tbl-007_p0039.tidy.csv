@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,1,data,,"The Ikeri Varaha, or Pagoda struck by the princes of Ikeri, exchanges for",2,Column 2,Rupees 4,,Rs,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,2,data,,"The Bahadary Varaha, or Pagoda struck by Hyder",2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,3,data,,"The Sultany ditto, Pagoda coined by Tippoo",2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,4,data,,"The Krishna Raja ditto, Pagoda coined by the present Mysore Raja",2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,5,data,,"The Puli Varaha, star Pagoda of Madras",2,Column 2,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,6,data,,"The Feringy Petta Varaha, or Porto-novo Pagoda",2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,7,data,,"The Sultany, Canter’-Raya, or Ikeri Hunas or Fanams",2,Column 2,⅕,0.2,,False,False
+journey-from-madras-vol-iii,tbl-007,Gold.,39,25,8,data,,"The Vir’-Raya Huna, or Fanam coined by the Coorg Raja",2,Column 2,¼,0.25,,False,False

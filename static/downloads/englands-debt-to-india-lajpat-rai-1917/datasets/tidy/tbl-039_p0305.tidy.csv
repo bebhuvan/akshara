@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,1,data,,11th century,2,Column 2,"Two famines, both local",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,2,data,,13th century,2,Column 2,"One famine around Delhi, local",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,3,data,,14th century,2,Column 2,"Three famines, all local",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,4,data,,15th century,2,Column 2,"Two famines, both local",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,5,data,,16th century,2,Column 2,"Three famines, all local",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,6,data,,17th century,2,Column 2,"Three famines, area not defined",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,7,data,,18th century (to 1745),2,Column 2,"Four famines, all local",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-039,Table 39,305,265,9,data,The last thirty years of the 18th century,1769–1800,2,Column 2,"Four famines, Bengal, Madras, Bombay and southern India.",,,False,False

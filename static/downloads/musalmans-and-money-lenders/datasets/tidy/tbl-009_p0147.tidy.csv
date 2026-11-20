@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,1,data,,52,2,Column 2,Sundays.,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,1,data,,52,3,Column 3,,,,True,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,2,data,,17,2,Column 2,Mahomedan holidays.,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,2,data,,17,3,Column 3,,,,True,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,3,data,,21,2,Column 2,Hindu,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,3,data,,21,3,Column 3,„,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,4,data,,11,2,Column 2,Christian,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,4,data,,11,3,Column 3,„,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,5,data,,17,2,Column 2,Local and conditional holidays.,,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,5,data,,17,3,Column 3,,,,True,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,6,data,,10,2,Column 2,"Days for indisposition, casual leave, &c.",,,False,True
+musalmans-and-money-lenders,tbl-009,Table 9,147,135,6,data,,10,3,Column 3,,,,True,True

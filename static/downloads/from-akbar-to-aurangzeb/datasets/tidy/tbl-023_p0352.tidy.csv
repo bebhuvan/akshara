@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,1,data,,Guilder or florin,2,Metal.,Money of account,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,1,data,,Guilder or florin,3,Where used.,Dutch accounts and records,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,1,data,,Guilder or florin,4,Value in Terms of Rupee.,Fixed at 5/6 rupee.,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,2,data,,Rial of eight,2,Metal.,Silver,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,2,data,,Rial of eight,3,Where used.,Spanish : well known throughout the East,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,2,data,,Rial of eight,4,Value in Terms of Rupee.,2 rupees,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,3,data,,Mahmudi,2,Metal.,Silver,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,3,data,,Mahmudi,3,Where used.,South Gujarat,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,3,data,,Mahmudi,4,Value in Terms of Rupee.,"At first 2/5 rupee, rising to 4/9.",,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,4,data,,Dam (or pice),2,Metal.,Copper,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,4,data,,Dam (or pice),3,Where used.,Mogul Empire,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,4,data,,Dam (or pice),4,Value in Terms of Rupee.,"At first 1/40 rupee, rising to about 1/30.",,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,5,data,,Pice (half dam),2,Metal.,Copper,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,5,data,,Pice (half dam),3,Where used.,"""",,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,5,data,,Pice (half dam),4,Value in Terms of Rupee.,"1/80 rupee, rising to about 1/60.",,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,6,data,,"Pagoda, new",2,Metal.,Gold,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,6,data,,"Pagoda, new",3,Where used.,South India and East Coast,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,6,data,,"Pagoda, new",4,Value in Terms of Rupee.,Rising from about 3 to 3 1/2 rupees.,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,7,data,,"Pagoda, old",2,Metal.,Gold,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,7,data,,"Pagoda, old",3,Where used.,"""",,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,7,data,,"Pagoda, old",4,Value in Terms of Rupee.,Rising from less than 4 to 5 rupees or over.,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,8,data,,Fanam,2,Metal.,Gold,,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,8,data,,Fanam,3,Where used.,"""",,,False,False
+from-akbar-to-aurangzeb,tbl-023,Table 23,352,330,8,data,,Fanam,4,Value in Terms of Rupee.,Variable ; several fanams are mentioned in the records.,,Rs,False,False

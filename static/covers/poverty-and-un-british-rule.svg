@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="bgShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#172A3B" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#101E2B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="#101E2B"/>
+  <rect width="1200" height="1800" fill="url(#bgShade)"/>
+
+  <rect x="72" y="72" width="1056" height="1656" fill="none" stroke="#3B5269" stroke-width="2"/><rect x="86" y="86" width="1028" height="1628" fill="none" stroke="#3B5269" stroke-width="0.9"/><line x1="86" y1="220" x2="1114" y2="220" stroke="#D69B4E" stroke-width="2.2"/><line x1="86" y1="228" x2="1114" y2="228" stroke="#3B5269" stroke-width="1"/><line x1="110" y1="220" x2="110" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><line x1="760" y1="220" x2="760" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><line x1="930" y1="220" x2="930" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><line x1="1090" y1="220" x2="1090" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><rect x="110" y="1310" width="980" height="205" fill="#172A3B" stroke="#3B5269" stroke-width="1.2"/><rect x="110" y="1327" width="24" height="168" fill="#D69B4E" fill-opacity="0.85"/><rect x="146" y="1351" width="24" height="144" fill="#3B5269" fill-opacity="0.52"/><rect x="182" y="1342" width="24" height="153" fill="#3B5269" fill-opacity="0.52"/><rect x="218" y="1445" width="24" height="50" fill="#3B5269" fill-opacity="0.52"/><rect x="254" y="1430" width="24" height="65" fill="#3B5269" fill-opacity="0.52"/><rect x="290" y="1363" width="24" height="132" fill="#D69B4E" fill-opacity="0.85"/><rect x="326" y="1336" width="24" height="159" fill="#3B5269" fill-opacity="0.52"/><rect x="362" y="1402" width="24" height="93" fill="#3B5269" fill-opacity="0.52"/><rect x="398" y="1410" width="24" height="85" fill="#3B5269" fill-opacity="0.52"/><rect x="434" y="1370" width="24" height="125" fill="#3B5269" fill-opacity="0.52"/><rect x="470" y="1371" width="24" height="124" fill="#D69B4E" fill-opacity="0.85"/><rect x="506" y="1362" width="24" height="133" fill="#3B5269" fill-opacity="0.52"/><rect x="542" y="1447" width="24" height="48" fill="#3B5269" fill-opacity="0.52"/><rect x="578" y="1443" width="24" height="52" fill="#3B5269" fill-opacity="0.52"/><rect x="614" y="1370" width="24" height="125" fill="#3B5269" fill-opacity="0.52"/><rect x="650" y="1416" width="24" height="79" fill="#D69B4E" fill-opacity="0.85"/><rect x="686" y="1402" width="24" height="93" fill="#3B5269" fill-opacity="0.52"/><rect x="722" y="1467" width="24" height="28" fill="#3B5269" fill-opacity="0.52"/><rect x="758" y="1406" width="24" height="89" fill="#3B5269" fill-opacity="0.52"/><rect x="794" y="1338" width="24" height="157" fill="#3B5269" fill-opacity="0.52"/><rect x="830" y="1449" width="24" height="46" fill="#D69B4E" fill-opacity="0.85"/><rect x="866" y="1445" width="24" height="50" fill="#3B5269" fill-opacity="0.52"/><rect x="902" y="1377" width="24" height="118" fill="#3B5269" fill-opacity="0.52"/><rect x="938" y="1356" width="24" height="139" fill="#3B5269" fill-opacity="0.52"/><rect x="974" y="1393" width="24" height="102" fill="#3B5269" fill-opacity="0.52"/><rect x="1010" y="1434" width="24" height="61" fill="#D69B4E" fill-opacity="0.85"/><line x1="86" y1="1540" x2="1114" y2="1540" stroke="#3B5269" stroke-width="1.5"/>
+
+  <text x="112" y="168" fill="#D69B4E" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
+    POLITICAL ECONOMY &amp; AGRARIAN ARCHIVE
+  </text>
+  <text x="1088" y="168" text-anchor="end" fill="#BAC8D6" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
+    1901
+  </text>
+
+  <text x="112" y="355" fill="#F5F2EB" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="66" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">Poverty and Un-British</tspan><tspan x="112" dy="76">Rule in India</tspan>
+  </text>
+
+  
+
+  <line x1="112" y1="511" x2="290" y2="511" stroke="#D69B4E" stroke-width="4"/>
+
+  <text x="112" y="575" fill="#F5F2EB" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+    <tspan x="112" dy="0">Dadabhai Naoroji</tspan>
+  </text>
+  <text x="112" y="629" fill="#BAC8D6" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1901
+  </text>
+
+  <text x="112" y="1605" fill="#F5F2EB" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
+    AKSHARA
+  </text>
+  <text x="112" y="1652" fill="#BAC8D6" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    COMMUNITY EDITION  ·  AKSHARA.INK
+  </text>
+  <text x="1088" y="1628" text-anchor="end" fill="#D69B4E" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
+    ಅಕ್ಷರ
+  </text>
+</svg>

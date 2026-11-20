@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+periplus-erythraean-sea,tbl-001,Table 1,64,54,1,data,,1 Olympic stadium,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,1,data,,1 Olympic stadium,3,Column 3,606.75 English feet.,,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,2,data,,"10 "" """,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,2,data,,"10 "" """,3,Column 3,"6067.50 "" """,6067.5,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,3,data,,1 Nautical mile,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,3,data,,1 Nautical mile,3,Column 3,"6075.50 "" """,6075.5,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,4,data,,1 Admiralty knot,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,4,data,,1 Admiralty knot,3,Column 3,"6086.50 "" """,6086.5,,False,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,5,data,,"or, by Clarke’s measurement,",2,Column 2,,,,True,False
+periplus-erythraean-sea,tbl-001,Table 1,64,54,5,data,,"or, by Clarke’s measurement,",3,Column 3,"6087.11 "" """,6087.11,,False,False

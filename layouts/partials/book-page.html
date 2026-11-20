@@ -1,148 +1,361 @@
-{{/* Individual book page with chapters */}}
-<!-- Book Hero -->
-<section class="book-page-hero">
-    <div class="book-hero">
-        <div class="book-cover-area">
-            {{ with .Params.cover }}
-            <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-cover-large">
-            {{ else }}
-            <div class="book-cover-large">
-                <span>{{ substr .Title 0 1 }}</span>
-            </div>
-            {{ end }}
+{{ $isV6 := eq (.Params.edition_generation | default "v1") "v6" }}
+{{ $tier := .Params.edition_tier | default "v1_archive" }}
+{{ $chapters := (where .Pages "Type" "chapters").ByWeight }}
+
+<main class="book-monument-shell">
+  <!-- Top Monument Hero -->
+  <section class="book-monument-hero">
+    <div class="book-monument-grid">
+      <!-- Left Cover + Direct Reading Actions -->
+      <div class="book-monument-cover-col">
+        <div class="book-monument-frame">
+          {{ with .Params.cover }}
+          <img src="{{ . }}" alt="{{ $.Title }} cover" class="book-monument-cover" width="400" height="600">
+          {{ else }}
+          <div class="book-monument-cover book-cover-fallback"><span>{{ substr .Title 0 1 }}</span></div>
+          {{ end }}
         </div>
 
-        <div class="book-info">
-            <h1>{{ .Title }}</h1>
-            {{ with .Params.subtitle }}
-            <p class="book-subtitle">{{ . }}</p>
-            {{ end }}
-            {{ if .Params.editor }}
-            <p class="book-author-large">Edited by {{ .Params.editor }}</p>
-            {{ else }}
-            <p class="book-author-large">{{ .Params.author }}</p>
-            {{ end }}
-
-            {{ with .Params.description }}
-            <p class="book-description">{{ . }}</p>
-            {{ end }}
-
-            <div class="quick-meta">
-                <div class="quick-meta-item">
-                    <div class="quick-label">Reading Time</div>
-                    <div class="quick-value">{{ .Params.reading_time }}</div>
-                </div>
-                <div class="quick-meta-item">
-                    <div class="quick-label">Chapters</div>
-                    <div class="quick-value">{{ .Params.chapters }}</div>
-                </div>
-                {{ with .Params.period }}
-                <div class="quick-meta-item">
-                    <div class="quick-label">Period</div>
-                    <div class="quick-value">{{ . }}</div>
-                </div>
-                {{ end }}
-            </div>
-
-            <div class="book-actions">
-                {{ $chapters := where .Pages "Type" "chapters" }}
-                {{ with $chapters }}
-                    {{ $firstChapter := index . 0 }}
-                    <a href="{{ $firstChapter.RelPermalink }}" class="btn-primary">Begin Reading</a>
-                {{ end }}
-                <a href="#toc" class="btn-secondary">Table of Contents</a>
-            </div>
+        <div class="book-primary-stack">
+          {{ with $chapters }}
+            {{ $firstChapter := index . 0 }}
+            <a href="{{ $firstChapter.RelPermalink }}" class="btn-solid btn-block">Begin Reading →</a>
+          {{ end }}
+          {{ with .Params.download_html }}
+            <a href="{{ . }}" class="btn-outline btn-block" target="_blank" rel="noopener">Full-Book HTML (Single Page)</a>
+          {{ end }}
+          {{ with .Params.proofing_url }}
+            <a href="{{ . }}" class="btn-outline btn-block" target="_blank" rel="noopener">Proofread This Edition ↗</a>
+          {{ end }}
+          {{ with .Params.archive_url }}
+            <a href="#source-scan" class="btn-ghost-link btn-block-center">Inspect Original Scan</a>
+          {{ end }}
         </div>
+      </div>
+
+      <!-- Right Bibliographic Card & Telemetry -->
+      <div class="book-monument-info">
+        <div class="monument-badges">
+          {{ if eq $tier "machine_checked" }}
+            <span class="tier-pill is-machine">Machine-Checked · {{ printf "%.1f" .Params.rubric_score }}/100</span>
+          {{ else if eq $tier "community" }}
+            <span class="tier-pill is-community">Community Edition · {{ printf "%.1f" .Params.rubric_score }}/100</span>
+          {{ else if eq $tier "source_certified" }}
+            <span class="tier-pill is-certified">Source-Certified Edition</span>
+          {{ else }}
+            <span class="tier-pill is-legacy">v1 Heritage Edition</span>
+          {{ end }}
+
+          {{ with .Params.reader_model }}
+            <span class="meta-pill">{{ . }}</span>
+          {{ end }}
+          {{ with .Params.collection_title }}
+            <span class="meta-pill">{{ . }}</span>
+          {{ end }}
+        </div>
+
+        <h1 class="monument-title">{{ .Title }}</h1>
+        {{ with .Params.subtitle }}
+          <p class="monument-subtitle">{{ . }}</p>
+        {{ end }}
+
+        <div class="monument-byline">
+          {{ if .Params.editor }}
+            <span>Edited by <strong>{{ .Params.editor }}</strong></span>
+          {{ else if .Params.author_slug }}
+            <span>By <a href="/authors/{{ .Params.author_slug }}/" class="author-link">{{ .Params.author }}</a></span>
+          {{ else }}
+            <span>By <strong>{{ .Params.author }}</strong></span>
+          {{ end }}
+          {{ if or .Params.imprint .Params.publisher }}
+            <span class="byline-sep">·</span>
+            <span>{{ .Params.imprint | default .Params.publisher }}{{ with .Params.year }}, {{ . }}{{ end }}</span>
+          {{ else }}
+            {{ with .Params.year }}
+              <span class="byline-sep">·</span>
+              <span>First published {{ . }}</span>
+            {{ end }}
+          {{ end }}
+        </div>
+
+        {{ with .Params.description }}
+          <p class="monument-description">{{ . }}</p>
+        {{ end }}
+
+        {{ with .Params.featured_quote }}
+          <blockquote class="monument-quote">“{{ . }}”</blockquote>
+        {{ end }}
+
+        <!-- 6-Cell Monospace Telemetry Matrix -->
+        <dl class="monument-telemetry-grid">
+          <div class="t-cell">
+            <dt>Source Leaves</dt>
+            <dd>{{ .Params.pages | default "—" }}</dd>
+          </div>
+          <div class="t-cell">
+            <dt>Sections</dt>
+            <dd>{{ len $chapters }}</dd>
+          </div>
+          <div class="t-cell">
+            <dt>Reading Time</dt>
+            <dd>{{ .Params.reading_time | default "—" }}</dd>
+          </div>
+          <div class="t-cell">
+            <dt>Footnotes</dt>
+            <dd>{{ .Params.footnotes_count | default 0 }}</dd>
+          </div>
+          <div class="t-cell">
+            <dt>CSV Tables</dt>
+            <dd>{{ .Params.tables_count | default 0 }}</dd>
+          </div>
+          <div class="t-cell">
+            <dt>Plates &amp; Maps</dt>
+            <dd>{{ .Params.figures_count | default 0 }}</dd>
+          </div>
+        </dl>
+
+        {{ with .Params.provenance_statement }}
+          <p class="monument-provenance-line">{{ . }}</p>
+        {{ end }}
+      </div>
     </div>
-</section>
+  </section>
 
-<!-- Main Content -->
-<div class="main-content">
-    <div class="content-primary">
+  <!-- Open Download Matrix (All Formats) -->
+  <section class="book-section-band is-alt-surface" id="downloads">
+    <div class="book-band-inner">
+      <div class="band-head">
+        <span class="section-kicker">CC0 PUBLIC DOMAIN ARTIFACTS</span>
+        <h2 class="band-title">Download &amp; Archival Reuse</h2>
+      </div>
+
+      <div class="downloads-matrix">
+        {{ with .Params.download_epub }}
+        <a href="{{ . }}" class="dl-card" download>
+          <span class="dl-fmt">EPUB 3</span>
+          <span class="dl-desc">Typeset E-Book · Pop-up Footnotes · Cover</span>
+          <span class="dl-action">Download ↓</span>
+        </a>
+        {{ end }}
+
+        {{ with .Params.download_html }}
+        <a href="{{ . }}" class="dl-card" target="_blank" rel="noopener">
+          <span class="dl-fmt">SINGLE-PAGE HTML</span>
+          <span class="dl-desc">Complete Gutenberg-Style Book (Ctrl+F Ready)</span>
+          <span class="dl-action">Open ↗</span>
+        </a>
+        {{ end }}
+
+        {{ with .Params.download_md }}
+        <a href="{{ . }}" class="dl-card" download>
+          <span class="dl-fmt">SCHOLARLY MARKDOWN</span>
+          <span class="dl-desc">Plain Text + Footnotes + GFM Tables</span>
+          <span class="dl-action">Download ↓</span>
+        </a>
+        {{ end }}
+
+        {{ with .Params.download_tei }}
+        <a href="{{ . }}" class="dl-card" download>
+          <span class="dl-fmt">TEI P5 XML</span>
+          <span class="dl-desc">Archival Scholarly XML · Pandoc/DOCX Ready</span>
+          <span class="dl-action">Download ↓</span>
+        </a>
+        {{ end }}
+
+        {{ if .Params.has_datasets }}
+        <a href="#tables-ledger" class="dl-card is-highlight">
+          <span class="dl-fmt">CSV DATASETS ({{ .Params.tables_count }})</span>
+          <span class="dl-desc">Diplomatic 2D Matrices &amp; Tidy Long Series</span>
+          <span class="dl-action">Inspect Tables ↓</span>
+        </a>
+        {{ end }}
+
+        {{ with .Params.download_pdf }}
+        <a href="{{ . }}" class="dl-card" target="_blank" rel="noopener">
+          <span class="dl-fmt">ARCHIVAL PRINT PDF</span>
+          <span class="dl-desc">Typeset 6×9 in + Landscape Broadsides</span>
+          <span class="dl-action">GitHub Release ↗</span>
+        </a>
+        {{ end }}
+
+        {{ with .Params.download_source_pdf }}
+        <a href="{{ . }}" class="dl-card" target="_blank" rel="noopener">
+          <span class="dl-fmt">CAMERA SOURCE PDF</span>
+          <span class="dl-desc">De-Blotted JP2 Scan Backup (Permanent Archive)</span>
+          <span class="dl-action">GitHub Release ↗</span>
+        </a>
+        {{ end }}
+
+        {{ with .Params.github_folder_url }}
+        <a href="{{ . }}" class="dl-card" target="_blank" rel="noopener">
+          <span class="dl-fmt">GITHUB ARCHIVE</span>
+          <span class="dl-desc">All Manifests, Audit Reports &amp; Raw Artifacts</span>
+          <span class="dl-action">View Repo ↗</span>
+        </a>
+        {{ end }}
+
+        {{/* Legacy v1 fallback buttons */}}
+        {{ with .Params.download_url }}
+        <a href="{{ . }}" class="dl-card" target="_blank" rel="noopener">
+          <span class="dl-fmt">LEGACY ARCHIVE FOLDER</span>
+          <span class="dl-desc">Original v1 Download Folder</span>
+          <span class="dl-action">Open ↗</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Two-Column Body: TOC + Tables + Provenance -->
+  <section class="book-section-band">
+    <div class="book-band-inner book-two-col">
+      <div class="book-primary-col">
         <!-- About -->
-        <section class="section">
-            <h2 class="section-title">About This Work</h2>
-            <div class="context-text">
-                {{ .Content }}
+        <div class="book-block">
+          <h2 class="band-title-sm">About This Work</h2>
+          <div class="prose-editorial">
+            {{ .Content }}
+          </div>
+        </div>
+
+        <!-- Architectural Table of Contents -->
+        <div class="book-block" id="toc">
+          <div class="block-head-inline">
+            <h2 class="band-title-sm">Contents</h2>
+            <span class="mono-meta">{{ len $chapters }} Sections</span>
+          </div>
+          <ol class="architectural-toc">
+            {{ range $chapters }}
+            <li class="toc-entry-row">
+              <a href="{{ .RelPermalink }}" class="toc-entry-link">
+                <span class="toc-badge">{{ .Params.chapter_number | default "—" }}</span>
+                <span class="toc-name">{{ .Title }}</span>
+                <span class="toc-meta-right">
+                  {{ with .Params.printed_start_folio }}<span>p. {{ . }}</span>{{ end }}
+                  {{ with .Params.reading_time }}<span>{{ . }} min</span>{{ end }}
+                </span>
+              </a>
+            </li>
+            {{ end }}
+          </ol>
+        </div>
+
+        <!-- Extracted Statistical Tables Ledger -->
+        {{ with .Params.tables_list }}
+        <div class="book-block" id="tables-ledger">
+          <div class="block-head-inline">
+            <h2 class="band-title-sm">Statistical Tables &amp; Datasets</h2>
+            {{ with $.Params.download_datasets }}
+            <a href="{{ . }}" class="mono-link" download>datapackage.json ↓</a>
+            {{ end }}
+          </div>
+          <div class="tables-ledger-list">
+            {{ range . }}
+            <div class="table-ledger-row">
+              <div class="tl-main">
+                <a href="{{ .section_url }}" class="tl-title">{{ .caption }}</a>
+                <span class="tl-dims">{{ .table_id | upper }} · Folio {{ .printed_folio }} · {{ .rows }} rows × {{ .cols }} cols</span>
+              </div>
+              <div class="tl-links">
+                {{ with .diplomatic_csv }}<a href="{{ . }}" class="csv-pill" download>Diplomatic CSV</a>{{ end }}
+                {{ with .tidy_csv }}<a href="{{ . }}" class="csv-pill is-tidy" download>Tidy CSV</a>{{ end }}
+              </div>
             </div>
-        </section>
+            {{ end }}
+          </div>
+        </div>
+        {{ end }}
 
-        <!-- TOC -->
-        <section class="section" id="toc">
-            <h2 class="section-title">Contents</h2>
-            <ul class="toc-list">
-                {{ $chapters := where .Pages "Type" "chapters" }}
-                {{ range $chapters.ByWeight }}
-                <li class="toc-item">
-                    <a href="{{ .RelPermalink }}">
-                        <span class="toc-num">{{ .Params.chapter_number }}</span>
-                        <span>{{ .Title }}</span>
-                    </a>
-                </li>
-                {{ end }}
-            </ul>
-        </section>
-
-        <!-- Archive Embed -->
+        <!-- Original Source Scan (Click-to-Load Archive.org Theater) -->
         {{ with .Params.archive_url }}
-        <section class="section">
-            <h2 class="section-title">Original Source</h2>
-            <iframe src="{{ . }}?view=theater" class="archive-embed" frameborder="0"></iframe>
-        </section>
+        <div class="book-block" id="source-scan">
+          <div class="block-head-inline">
+            <h2 class="band-title-sm">Original Source Scan</h2>
+            <a href="{{ . }}" target="_blank" rel="noopener" class="mono-link">Open on Archive.org ↗</a>
+          </div>
+          {{ $embedUrl := replace . "/details/" "/embed/" }}
+          <div class="archive-lazy-box">
+            <button type="button" class="btn-outline" id="loadArchiveBtn" data-embed="{{ $embedUrl }}">
+              Load Embedded Internet Archive Viewer
+            </button>
+            <div id="archiveFrameMount"></div>
+          </div>
+        </div>
         {{ end }}
+      </div>
+
+      <!-- Right Provenance & Machine Audit Sidebar -->
+      <aside class="book-audit-sidebar" id="provenance">
+        {{ if $isV6 }}
+        <div class="audit-card">
+          <span class="section-kicker">EDITION QUALITY RUBRIC</span>
+          <div class="rubric-score-hero">
+            <span class="rubric-num">{{ printf "%.1f" .Params.rubric_score }}</span>
+            <span class="rubric-denom">/ 100</span>
+          </div>
+          {{ with .Params.rubric_pillars }}
+          <div class="rubric-bars">
+            {{ range . }}
+            <div class="rubric-bar-item">
+              <div class="rubric-bar-top">
+                <span>{{ .name }}</span>
+                <span class="mono-num">{{ printf "%.1f" .score }}/{{ printf "%.0f" .max }}</span>
+              </div>
+              <div class="rubric-track">
+                <div class="rubric-fill" style="width: {{ mul (div .score .max) 100 }}%"></div>
+              </div>
+            </div>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
+
+        <div class="audit-card">
+          <span class="section-kicker">ARCHIVAL METADATA &amp; TAXONOMY</span>
+          <dl class="audit-kv-list">
+            {{ with .Params.period }}<div><dt>Period Covered</dt><dd>{{ . }}</dd></div>{{ end }}
+            {{ with .Params.archive_id }}<div><dt>Archive.org ID</dt><dd><code>{{ . }}</code></dd></div>{{ end }}
+            {{ with .Params.source_sha256 }}<div><dt>Source PDF SHA-256</dt><dd><code class="hash-short">{{ substr . 0 16 }}…</code></dd></div>{{ end }}
+            {{ with .Params.regions }}<div><dt>Regions</dt><dd>{{ delimit . ", " }}</dd></div>{{ end }}
+            {{ with .Params.subjects }}<div><dt>Subjects</dt><dd>{{ delimit . ", " }}</dd></div>{{ end }}
+          </dl>
+        </div>
+
+        {{ with .Params.editorial_note_markdown }}
+        <details class="audit-details">
+          <summary>A Note on This Edition (Editorial Policy &amp; Open Checks)</summary>
+          <div class="audit-details-body prose-editorial-sm">
+            {{ . | markdownify }}
+          </div>
+        </details>
+        {{ end }}
+        {{ else }}
+        <div class="audit-card">
+          <span class="section-kicker">V1 ARCHIVE NOTICE</span>
+          <p class="audit-note-p">
+            This book is from Akshara's first generation of texts (extracted manually via early OCR and LLM prompts). A clean v6 compiler re-digitization will replace it as the catalog expands.
+          </p>
+        </div>
+        {{ end }}
+      </aside>
     </div>
+  </section>
+</main>
 
-    <!-- Sidebar -->
-    <aside class="sidebar">
-        <!-- Downloads -->
-        <div class="sidebar-section">
-            <h3 class="sidebar-title">Download</h3>
-            <ul class="download-list">
-                {{ with .Params.download_epub }}
-                <li class="download-item">
-                    <a href="{{ . }}">EPUB</a>
-                </li>
-                {{ end }}
-                {{ with .Params.download_md }}
-                <li class="download-item">
-                    <a href="{{ . }}">Markdown</a>
-                </li>
-                {{ end }}
-                {{ with .Params.download_txt }}
-                <li class="download-item">
-                    <a href="{{ . }}">Plain Text</a>
-                </li>
-                {{ end }}
-            </ul>
-        </div>
-
-        <!-- References -->
-        <div class="sidebar-section">
-            <h3 class="sidebar-title">References</h3>
-            <ul class="reference-list">
-                {{ with .Params.wikipedia_url }}
-                <li class="reference-item"><a href="{{ . }}">Wikipedia</a></li>
-                {{ end }}
-                {{ with .Params.editor_wikipedia_url }}
-                <li class="reference-item"><a href="{{ . }}">Editor (Wikipedia)</a></li>
-                {{ end }}
-                {{ with .Params.wikisource_url }}
-                <li class="reference-item"><a href="{{ . }}">Wikisource</a></li>
-                {{ end }}
-                {{ with .Params.archive_url }}
-                <li class="reference-item"><a href="{{ . }}">Archive.org Source</a></li>
-                {{ end }}
-            </ul>
-        </div>
-
-        <!-- Digitization -->
-        {{ with .Params.digitized_from }}
-        <div class="sidebar-section">
-            <h3 class="sidebar-title">Digitization</h3>
-            <p class="digitization-note">
-                Digitized from {{ . }}. {{ $.Params.digitization_method }}. Historical spelling and punctuation preserved.
-            </p>
-        </div>
-        {{ end }}
-    </aside>
-</div>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var btn = document.getElementById('loadArchiveBtn');
+  var mount = document.getElementById('archiveFrameMount');
+  if (btn && mount) {
+    btn.addEventListener('click', function() {
+      var iframe = document.createElement('iframe');
+      iframe.src = btn.dataset.embed;
+      iframe.className = 'archive-embed';
+      iframe.title = 'Internet Archive Original Source';
+      iframe.setAttribute('allowfullscreen', 'true');
+      mount.appendChild(iframe);
+      btn.style.display = 'none';
+    });
+  }
+});
+</script>

@@ -1,0 +1,97 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,1,data,,Badana,2,Botanical Names.,Solanum Melongena,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,1,data,,Badana,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,1,data,,Badana,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,2,data,,Hiray,2,Botanical Names.,Cucumis,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,2,data,,Hiray,3,Synonyma.,Junga. Bengalese.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,2,data,,Hiray,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,3,data,,Somaty,2,Botanical Names.,Cucumis sativus.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,3,data,,Somaty,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,3,data,,Somaty,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,4,data,,Cumbala,2,Botanical Names.,Cucurbita Pepo.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,4,data,,Cumbala,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,4,data,,Cumbala,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,6,data,Budu Cumbala,Swary,2,Botanical Names.,Cucurbita Lagenaria,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,6,data,Budu Cumbala,Swary,3,Synonyma.,Mitalau. Bengalese.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,6,data,Budu Cumbala,Swary,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,7,data,Budu Cumbala,Padawala,2,Botanical Names.,Trichosanthes lobata.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,7,data,Budu Cumbala,Padawala,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,7,data,Budu Cumbala,Padawala,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,8,data,Budu Cumbala,Hogala,2,Botanical Names.,Momordica.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,8,data,Budu Cumbala,Hogala,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,8,data,Budu Cumbala,Hogala,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,10,data,Chica Hagala,Benday,2,Botanical Names.,Hibiscus esculentus.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,10,data,Chica Hagala,Benday,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,10,data,Chica Hagala,Benday,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,11,data,Chica Hagala,Pundichira Cumbala,2,Botanical Names.,Hibiscus cannabinus,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,11,data,Chica Hagala,Pundichira Cumbala,3,Synonyma.,"A red variety from Pondichery, introduced by Tippoo.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,11,data,Chica Hagala,Pundichira Cumbala,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,12,data,Chica Hagala,Gori,2,Botanical Names.,"Trigonella tetrapetala, Rox. MSS.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,12,data,Chica Hagala,Gori,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,143,111,12,data,Chica Hagala,Gori,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,13,data,Chica Hagala,Fruits,2,Botanical Names.,Chaprada avaray,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,13,data,Chica Hagala,Fruits,3,Synonyma.,"Dolichos Lablab, a variety.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,13,data,Chica Hagala,Fruits,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,14,data,Chica Hagala,Row 14,2,Botanical Names.,Nella Cotalay,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,14,data,Chica Hagala,Row 14,3,Synonyma.,Arachis hypogæa,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,14,data,Chica Hagala,Row 14,4,Column 4,"Velaty Mung, i.e. European bean. Mussulmans.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,15,data,Chica Hagala,Row 15,2,Botanical Names.,Meneshena,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,15,data,Chica Hagala,Row 15,3,Synonyma.,Capsicum.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,15,data,Chica Hagala,Row 15,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,16,data,Chica Hagala,Row 16,2,Botanical Names.,Musucu Jola,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,16,data,Chica Hagala,Row 16,3,Synonyma.,Zea Mays.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,16,data,Chica Hagala,Row 16,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,17,data,Chica Hagala,Roots and Leaves,2,Botanical Names.,Dovana,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,17,data,Chica Hagala,Roots and Leaves,3,Synonyma.,Artemisia abrotanum?,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,17,data,Chica Hagala,Roots and Leaves,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,18,data,Chica Hagala,Row 18,2,Botanical Names.,Kiray,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,18,data,Chica Hagala,Row 18,3,Synonyma.,Amaranthus Mangostanus.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,18,data,Chica Hagala,Row 18,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,19,data,Chica Hagala,Row 19,2,Botanical Names.,Duntu,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,19,data,Chica Hagala,Row 19,3,Synonyma.,Amaranthus oleraceus.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,19,data,Chica Hagala,Row 19,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,20,data,Chica Hagala,Row 20,2,Botanical Names.,Mentea,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,20,data,Chica Hagala,Row 20,3,Synonyma.,Trigonella Fænum Græcum Lin.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,20,data,Chica Hagala,Row 20,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,21,data,Chica Hagala,Row 21,2,Botanical Names.,Columari,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,21,data,Chica Hagala,Row 21,3,Synonyma.,"Coriandrum Fætidum, Buch. MSS.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,21,data,Chica Hagala,Row 21,4,Column 4,Danya. Bengalese.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,22,data,Chica Hagala,Row 22,2,Botanical Names.,Sopsica,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,22,data,Chica Hagala,Row 22,3,Synonyma.,"Anethum sowa, Rox. MSS.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,22,data,Chica Hagala,Row 22,4,Column 4,"Sulpo. Bengalese, Sowa. Mussulmans.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,23,data,Chica Hagala,Row 23,2,Botanical Names.,Holichicay,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,23,data,Chica Hagala,Row 23,3,Synonyma.,"Rumex truncata, Buch. MSS.",,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,23,data,Chica Hagala,Row 23,4,Column 4,Chucay. Mussulmans.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,24,data,Chica Hagala,Row 24,2,Botanical Names.,Chicotra,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,24,data,Chica Hagala,Row 24,3,Synonyma.,Rumex,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,24,data,Chica Hagala,Row 24,4,Column 4,Chuca Palam. Bengalese.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,25,data,Chica Hagala,Row 25,2,Botanical Names.,Doda Gorai,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,25,data,Chica Hagala,Row 25,3,Synonyma.,Portulaca oleracea.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,25,data,Chica Hagala,Row 25,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,26,data,Chica Hagala,Row 26,2,Botanical Names.,Mulingay,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,26,data,Chica Hagala,Row 26,3,Synonyma.,Raphanus sativus,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,26,data,Chica Hagala,Row 26,4,Column 4,Radish.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,27,data,Chica Hagala,Row 27,2,Botanical Names.,Truly,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,27,data,Chica Hagala,Row 27,3,Synonyma.,Allium,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,27,data,Chica Hagala,Row 27,4,Column 4,Onions of the Engl:,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,28,data,Chica Hagala,Row 28,2,Botanical Names.,Beluly,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,28,data,Chica Hagala,Row 28,3,Synonyma.,Allium,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,28,data,Chica Hagala,Row 28,4,Column 4,Garlic.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,29,data,Chica Hagala,Row 29,2,Botanical Names.,Arsina,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,29,data,Chica Hagala,Row 29,3,Synonyma.,Curcuma longa,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,29,data,Chica Hagala,Row 29,4,Column 4,Turmeric.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,30,data,Chica Hagala,Row 30,2,Botanical Names.,Sunty,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,30,data,Chica Hagala,Row 30,3,Synonyma.,Amomum Zinziber,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,30,data,Chica Hagala,Row 30,4,Column 4,Ginger.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,31,data,Chica Hagala,Row 31,2,Botanical Names.,Ghenasu,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,31,data,Chica Hagala,Row 31,3,Synonyma.,Convolvulus Batatas,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,31,data,Chica Hagala,Row 31,4,Column 4,Sweet Potatoes.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,32,data,Chica Hagala,Row 32,2,Botanical Names.,Kissu dentu,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,32,data,Chica Hagala,Row 32,3,Synonyma.,Arum pellatum B. Lamarck.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,32,data,Chica Hagala,Row 32,4,Column 4,Shamay. Mussulman. Sada Cutchu. Bengalese.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,33,data,Chica Hagala,Row 33,2,Botanical Names.,Bassalay,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,33,data,Chica Hagala,Row 33,3,Synonyma.,Basella rubra.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,33,data,Chica Hagala,Row 33,4,Column 4,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,34,data,Chica Hagala,Row 34,2,Botanical Names.,Suranu.,,,False,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,34,data,Chica Hagala,Row 34,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-006,Table 6,144,111,34,data,Chica Hagala,Row 34,4,Column 4,,,,True,False

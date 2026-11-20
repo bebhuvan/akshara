@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,1,data,,Custom and ‘dalalie’,2,Pag.,346.,346.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,1,data,,Custom and ‘dalalie’,3,fan.,0.,0.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,1,data,,Custom and ‘dalalie’,4,cash.,6 1/4,6.25,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,2,data,,Gifts (two years),2,Pag.,56.,56.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,2,data,,Gifts (two years),3,fan.,1.,1.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,2,data,,Gifts (two years),4,cash.,8 5/8,8.625,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,3,data,,Expense of diet (19 months),2,Pag.,286.,286.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,3,data,,Expense of diet (19 months),3,fan.,3.,3.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,3,data,,Expense of diet (19 months),4,cash.,5 1/4,5.25,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,4,data,,Extraordinaries (ditto),2,Pag.,383.,383.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,4,data,,Extraordinaries (ditto),3,fan.,1.,1.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,4,data,,Extraordinaries (ditto),4,cash.,7 5/16,7.3125,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,5,data,,Charges of merchandise (ditto),2,Pag.,200.,200.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,5,data,,Charges of merchandise (ditto),3,fan.,9.,9.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,5,data,,Charges of merchandise (ditto),4,cash.,0 1/4,0.25,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,6,data,,Salaries (two years),2,Pag.,433.,433.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,6,data,,Salaries (two years),3,fan.,10.,10.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,6,data,,Salaries (two years),4,cash.,0,0.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,7,total,,Row 7,2,Pag.,1705.,1705.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,7,total,,Row 7,3,fan.,12.,12.0,,False,True
+english-factories-india-1618-1621-vol-01,tbl-005,Table 5,318,264,7,total,,Row 7,4,cash.,0 11/16,0.6875,,False,True

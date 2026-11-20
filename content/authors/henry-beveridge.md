@@ -5,33 +5,26 @@ full_name: "Henry Beveridge"
 birth_year: 1799
 death_year: 1863
 birth_place: "Scotland"
-languages: ["English", "Latin", "French"]
-
-# Bio
+languages:
+  - "English"
+  - "Latin"
+  - "French"
 short_bio: "Scottish lawyer, translator, and historian best known for his three-volume A Comprehensive History of India (1858–1863) and translations for the Calvin Translation Society."
-
-# Works
 works_count: 2
 first_publication: 1858
-
-# Timeline
 timeline:
   - year: 1799
     title: "Birth in Scotland"
     description: "Born in Scotland"
-
   - year: 1844
     title: "Calvin Translation Society"
     description: "Translated John Calvin's Tracts Relating to the Reformation (1844) and Institutes of the Christian Religion (1845) in Edinburgh"
-
   - year: 1858
     title: "Comprehensive History Begun"
     description: "Engaged by Blackie and Son to write A Comprehensive History of India, issued in three volumes (1858–1863)"
-
   - year: 1862
     title: "Principal Volumes Published"
     description: "Published the major volumes of A Comprehensive History of India covering ancient times through the 1857 revolt"
-
   - year: 1863
     title: "Passing"
     description: "Died in 1863 upon completing his three-volume Indian history"

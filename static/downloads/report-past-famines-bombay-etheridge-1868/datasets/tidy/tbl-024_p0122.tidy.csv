@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-024,Table 24,122,110,1,data,,“ ‘ Nuwulgoond,2,Column 2,Rice (coarse) at 3 seers per Rupee.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-024,Table 24,122,110,1,data,,“ ‘ Nuwulgoond,3,Column 3,Jowaree at 3½ per Rupee.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-024,Table 24,122,110,2,data,,“ ‘ Nurgoond,2,Column 2,Rice (coarse) at 3 seers per Rupee.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-024,Table 24,122,110,2,data,,“ ‘ Nurgoond,3,Column 3,Jowaree at 3½ per Rupee.’,,Rs,False,False

@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,1,data,,"Of Sholum, or Cambu, per Vullam 4 Moraus per acre, bushels",2,Column 2,,,,True,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,1,data,,"Of Sholum, or Cambu, per Vullam 4 Moraus per acre, bushels",3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,1,data,,"Of Sholum, or Cambu, per Vullam 4 Moraus per acre, bushels",4,Column 4,"5,63",563.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,2,data,,with the legumes. Muchu Cotay,2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,2,data,,with the legumes. Muchu Cotay,3,Column 3,10 Vullams,,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,2,data,,with the legumes. Muchu Cotay,4,Column 4,"0,44",44.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,3,data,,"Tata Pyru,",2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,3,data,,"Tata Pyru,",3,Column 3,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,3,data,,"Tata Pyru,",4,Column 4,"0,44",44.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,4,data,,"Mutu Cotay,",2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,4,data,,"Mutu Cotay,",3,Column 3,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,4,data,,"Mutu Cotay,",4,Column 4,"0,44",44.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,5,subtotal,,Row 5,2,Column 2,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,5,subtotal,,Row 5,3,Column 3,14,14.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,5,subtotal,,Row 5,4,Column 4,"Bushels 6,95",,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,6,data,,"Colu, or Horse-gram,",2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,6,data,,"Colu, or Horse-gram,",3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,6,data,,"Colu, or Horse-gram,",4,Column 4,"3,51",351.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,7,data,,Shamay,2,Column 2,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,7,data,,Shamay,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,7,data,,Shamay,4,Column 4,"2,81",281.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,8,data,,Cotton,2,Column 2,9,9.0,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,8,data,,Cotton,3,Column 3,Tolams,,,False,False
+journey-from-madras-vol-ii,tbl-019,Table 19,322,302,8,data,,Cotton,4,Column 4,lb.42½,,lbs,False,False

@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,1,data,,Dragon y Cody or Cordge,2,Royalls,040 Royals,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,2,data,,Patta the Cordge,2,Royalls,055 Royalls,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,3,data,,Kassa the Corge,2,Royalls,080 Royals,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,4,data,,Tzyle the Corge,2,Royalls,070 Royalls,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,5,data,,Sarassa the Corge,2,Royalls,100 Royalls,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,6,data,,Gobber the Corge,2,Royalls,120 Royals,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,7,data,,Tsidnde the Corge,2,Royalls,140 Royalls,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,8,data,,Kntsy paw the Corge,2,Royalls,093 Royals,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,9,data,,Blatty the Corge,2,Royalls,060 Royals,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,10,data,,Moredie y Cordge or Codie,2,Royalls,030 Royals,,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,11,data,,Maduyevs y Corge,2,Royalls,013,13.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,12,data,,Baffata y Cordge,2,Royalls,100,100.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,13,data,,Kantekey y Corge,2,Royalls,020,20.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,14,data,,Mosaffey y Corge,2,Royalls,032,32.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,15,data,,Toria the Corge,2,Royalls,016,16.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,16,data,,Kneckam the Corge,2,Royalls,025,25.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,17,data,,Polinge the Corge,2,Royalls,035,35.0,,False,False
+eic-first-letter-book-1600-1619,tbl-001,Table 1,171,79,18,data,,Borne ladye the Corge,2,Royalls,030,30.0,,False,False

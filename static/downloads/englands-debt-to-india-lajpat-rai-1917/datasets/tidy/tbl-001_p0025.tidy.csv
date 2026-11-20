@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-001,Table 1,25,xv,1,data,,1: Four expeditionary forces,2,Column 2,"300,000",300000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-001,Table 1,25,xv,2,data,,2: Wastage and renewal,2,Column 2,"450,000",450000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-001,Table 1,25,xv,3,data,,"3: Transport, Marine, etc",2,Column 2,"50,000",50000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-001,Table 1,25,xv,4,subtotal,,Row 4,2,Column 2,"800,000",800000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-001,Table 1,25,xv,5,data,,Increase in units since war,2,Column 2,"300,000",300000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-001,Table 1,25,xv,6,total,,To end of 1916,2,Column 2,"1,100,000",1100000.0,,False,True

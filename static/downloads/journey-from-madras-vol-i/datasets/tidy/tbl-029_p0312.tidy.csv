@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,1,data,,To the gods and Bráhmans,2,Seers.,10,10.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,2,data,,Washerman,2,Seers.,2,2.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,3,data,,Potmaker,2,Seers.,2,2.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,4,data,,Blacksmith,2,Seers.,2,2.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,5,data,,Barber,2,Seers.,2,2.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,6,data,,Accomptant,2,Seers.,100,100.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,7,data,,Watchman,2,Seers.,2,2.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,8,data,,Beadle,2,Seers.,10,10.0,seers,False,True
+journey-from-madras-vol-i,tbl-029,Table 29,312,268,9,total,,Row 9,2,Seers.,130,130.0,seers,False,True

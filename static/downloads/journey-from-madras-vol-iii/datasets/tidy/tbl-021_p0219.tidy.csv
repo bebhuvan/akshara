@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,2,"Houses, of which the following are occupied by :: Total Numbers",9049,9049.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,3,"Houses, of which the following are occupied by :: Christians.",36,36.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,4,"Houses, of which the following are occupied by :: Mussulmans.",485,485.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,5,"Houses, of which the following are occupied by :: Bráhmans.",1799,1799.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,6,"Houses, of which the following are occupied by :: Sivabhactars.",115,115.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,7,"Houses, of which the following are occupied by :: Jain.",46,46.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,8,Persons of the following conditions. :: Salt-makers.,—,,,True,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,9,Persons of the following conditions. :: Fishermen.,2628,2628.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,1,data,,Kunda-pura,10,Persons of the following conditions. :: Slaves of both sexes.,410,410.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,2,"Houses, of which the following are occupied by :: Total Numbers",10554,10554.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,3,"Houses, of which the following are occupied by :: Christians.",256,256.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,4,"Houses, of which the following are occupied by :: Mussulmans.",704,704.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,5,"Houses, of which the following are occupied by :: Bráhmans.",2231,2231.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,6,"Houses, of which the following are occupied by :: Sivabhactars.",21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,7,"Houses, of which the following are occupied by :: Jain.",39,39.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,8,Persons of the following conditions. :: Salt-makers.,180,180.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,9,Persons of the following conditions. :: Fishermen.,4842,4842.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,2,data,,Honawera,10,Persons of the following conditions. :: Slaves of both sexes.,470,470.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,2,"Houses, of which the following are occupied by :: Total Numbers",6130,6130.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,3,"Houses, of which the following are occupied by :: Christians.",93,93.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,4,"Houses, of which the following are occupied by :: Mussulmans.",311,311.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,5,"Houses, of which the following are occupied by :: Bráhmans.",804,804.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,6,"Houses, of which the following are occupied by :: Sivabhactars.",11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,7,"Houses, of which the following are occupied by :: Jain.",1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,8,Persons of the following conditions. :: Salt-makers.,—,,,True,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,9,Persons of the following conditions. :: Fishermen.,1832,1832.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,3,data,,Ancola,10,Persons of the following conditions. :: Slaves of both sexes.,270,270.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,2,"Houses, of which the following are occupied by :: Total Numbers",25733,25733.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,3,"Houses, of which the following are occupied by :: Christians.",385,385.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,4,"Houses, of which the following are occupied by :: Mussulmans.",1500,1500.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,5,"Houses, of which the following are occupied by :: Bráhmans.",4834,4834.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,6,"Houses, of which the following are occupied by :: Sivabhactars.",147,147.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,7,"Houses, of which the following are occupied by :: Jain.",87,87.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,8,Persons of the following conditions. :: Salt-makers.,180,180.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,9,Persons of the following conditions. :: Fishermen.,9302,9302.0,,False,False
+journey-from-madras-vol-iii,tbl-021,Table 21,219,195,4,total,,Total,10,Persons of the following conditions. :: Slaves of both sexes.,1099,1099.0,,False,False

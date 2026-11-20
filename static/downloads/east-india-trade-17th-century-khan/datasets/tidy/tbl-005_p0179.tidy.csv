@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,1,data,,Cloth and Woollens,2,Column 2,1681,1681.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,1,data,,Cloth and Woollens,3,Column 3,"£94,855",94855.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,2,data,,Row 2,2,Column 2,1682,1682.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,2,data,,Row 2,3,Column 3,"42,630",42630.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,3,data,,Row 3,2,Column 2,1683,1683.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,3,data,,Row 3,3,Column 3,"24,448",24448.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,4,data,,Row 4,2,Column 2,1684,1684.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,4,data,,Row 4,3,Column 3,"47,827",47827.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,5,data,,Row 5,2,Column 2,1685,1685.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,5,data,,Row 5,3,Column 3,"48,414",48414.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,6,subtotal,,Total Cloth and Woollens 1681–5,2,Column 2,,,,True,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,6,subtotal,,Total Cloth and Woollens 1681–5,3,Column 3,"£258,174",258174.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,7,data,,"Other goods, stores, &c",2,Column 2,,,,True,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,7,data,,"Other goods, stores, &c",3,Column 3,"187,440",187440.0,,False,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,8,total,,Total for 5 years,2,Column 2,,,,True,True
+east-india-trade-17th-century-khan,tbl-005,Table 5,179,167,8,total,,Total for 5 years,3,Column 3,"£445,614",445614.0,GBP,False,True

@@ -1,0 +1,18 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,1,data,,Village priests,2,Seers.,5,5.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,2,data,,Village charity,2,Seers.,5,5.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,3,data,,Village astrologer,2,Seers.,1,1.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,4,data,,Village Brahman,2,Seers.,1,1.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,5,data,,Village barber,2,Seers.,2,2.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,6,data,,Village potter,2,Seers.,2,2.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,7,data,,Village blacksmith,2,Seers.,2,2.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,8,data,,Village washerman,2,Seers.,2,2.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,9,data,,Village measurer,2,Seers.,4,4.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,10,data,,Village beadle,2,Seers.,7,7.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,11,data,,Village chief,2,Seers.,8,8.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,12,data,,Village accountant,2,Seers.,10,10.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,13,data,,Village watchman,2,Seers.,10,10.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,14,data,,Village accountant,2,Seers.,45,45.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,15,data,,Village chief,2,Seers.,45,45.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,16,data,,Conductor of water,2,Seers.,20,20.0,seers,False,True
+economic-history-india-early-british-dutt,tbl-012,Table 12,234,206,17,total,,Row 17,2,Seers.,169,169.0,seers,False,True

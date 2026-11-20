@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,1,data,,Cotton wool,2,Column 2,Cleaned white,,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,1,data,,Cotton wool,3,Column 3,13⅓,13.333333,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,1,data,,Cotton wool,4,Column 4,56½,56.5,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,1,data,,Cotton wool,5,Column 5,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,1,data,,Cotton wool,6,Column 6,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,1,data,,Cotton wool,7,Column 7,0¾,0.75,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,2,data,,Row 2,2,Column 2,——— red,,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,2,data,,Row 2,3,Column 3,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,2,data,,Row 2,4,Column 4,50½,50.5,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,2,data,,Row 2,5,Column 5,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,2,data,,Row 2,6,Column 6,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,2,data,,Row 2,7,Column 7,11¾,11.75,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,3,data,,Row 3,2,Column 2,Uncleaned,,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,3,data,,Row 3,3,Column 3,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,3,data,,Row 3,4,Column 4,46½,46.5,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,3,data,,Row 3,5,Column 5,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,3,data,,Row 3,6,Column 6,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-022,Goods sold by the Maund of 44 Seers.,237,197,3,data,,Row 3,7,Column 7,11¾,11.75,,False,False

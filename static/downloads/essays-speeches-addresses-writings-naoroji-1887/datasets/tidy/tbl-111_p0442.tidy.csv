@@ -1,0 +1,85 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,1,data,,7,2,Acres.,"3,620",3620.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,1,data,,7,3,Per Acre. :: lbs.,18,18.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,1,data,,7,4,Total quantity. :: lbs.,"65,160",65160.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,2,data,,8,2,Acres.,69,69.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,2,data,,8,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,2,data,,8,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,3,data,,9,2,Acres.,244,244.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,3,data,,9,3,Per Acre. :: lbs.,3,3.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,3,data,,9,4,Total quantity. :: lbs.,732,732.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,4,data,,10,2,Acres.,578,578.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,4,data,,10,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,4,data,,10,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,5,data,,11,2,Acres.,163,163.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,5,data,,11,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,5,data,,11,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,6,data,,12,2,Acres.,"1,539",1539.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,6,data,,12,3,Per Acre. :: lbs.,3,3.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,6,data,,12,4,Total quantity. :: lbs.,"4,617",4617.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,7,data,,13,2,Acres.,877,877.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,7,data,,13,3,Per Acre. :: lbs.,19,19.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,7,data,,13,4,Total quantity. :: lbs.,"16,663",16663.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,8,data,,14,2,Acres.,278,278.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,8,data,,14,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,8,data,,14,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,9,data,,15,2,Acres.,140,140.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,9,data,,15,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,9,data,,15,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,10,data,,16,2,Acres.,770,770.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,10,data,,16,3,Per Acre. :: lbs.,5,5.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,10,data,,16,4,Total quantity. :: lbs.,"3,850",3850.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,11,data,,17,2,Acres.,147,147.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,11,data,,17,3,Per Acre. :: lbs.,10,10.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,11,data,,17,4,Total quantity. :: lbs.,"1,470",1470.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,12,data,,18,2,Acres.,263,263.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,12,data,,18,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,12,data,,18,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,13,data,,19,2,Acres.,53,53.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,13,data,,19,3,Per Acre. :: lbs.,15,15.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,13,data,,19,4,Total quantity. :: lbs.,795,795.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,14,data,,20,2,Acres.,81,81.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,14,data,,20,3,Per Acre. :: lbs.,14,14.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,14,data,,20,4,Total quantity. :: lbs.,"1,134",1134.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,15,data,,21,2,Acres.,336,336.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,15,data,,21,3,Per Acre. :: lbs.,15,15.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,15,data,,21,4,Total quantity. :: lbs.,"5,040",5040.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,16,data,,22,2,Acres.,"2,182",2182.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,16,data,,22,3,Per Acre. :: lbs.,10,10.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,16,data,,22,4,Total quantity. :: lbs.,"21,820",21820.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,17,data,,23,2,Acres.,25,25.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,17,data,,23,3,Per Acre. :: lbs.,6,6.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,17,data,,23,4,Total quantity. :: lbs.,150,150.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,18,data,,24,2,Acres.,27,27.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,18,data,,24,3,Per Acre. :: lbs.,10,10.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,18,data,,24,4,Total quantity. :: lbs.,270,270.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,19,data,,25,2,Acres.,94,94.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,19,data,,25,3,Per Acre. :: lbs.,9,9.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,19,data,,25,4,Total quantity. :: lbs.,846,846.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,20,data,,26,2,Acres.,40,40.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,20,data,,26,3,Per Acre. :: lbs.,11,11.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,20,data,,26,4,Total quantity. :: lbs.,440,440.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,21,data,,27,2,Acres.,23,23.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,21,data,,27,3,Per Acre. :: lbs.,8,8.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,21,data,,27,4,Total quantity. :: lbs.,184,184.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,22,data,,28,2,Acres.,535,535.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,22,data,,28,3,Per Acre. :: lbs.,20,20.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,22,data,,28,4,Total quantity. :: lbs.,"10,700",10700.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,23,data,,29,2,Acres.,15,15.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,23,data,,29,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,23,data,,29,4,Total quantity. :: lbs.,,,lbs,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,24,data,,30,2,Acres.,67,67.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,24,data,,30,3,Per Acre. :: lbs.,3,3.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,24,data,,30,4,Total quantity. :: lbs.,201,201.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,25,data,,31,2,Acres.,182,182.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,25,data,,31,3,Per Acre. :: lbs.,9,9.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,25,data,,31,4,Total quantity. :: lbs.,"1,638",1638.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,26,data,,Row 26,2,Acres.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,26,data,,Row 26,3,Per Acre. :: lbs.,Average.,,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,26,data,,Row 26,4,Total quantity. :: lbs.,"135,710 for 10,842 acres.",,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,27,total,,Total,2,Acres.,"12,348",12348.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,27,total,,Total,3,Per Acre. :: lbs.,12·51,,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,27,total,,Total,4,Total quantity. :: lbs.,"add 18,840 „ 1,506 „ { for which no crop per acre is given, at 12·51 average.",,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,28,data,,Row 28,2,Acres.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,28,data,,Row 28,3,Per Acre. :: lbs.,,,acres,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-111,Poppy (Opium).,442,423,28,data,,Row 28,4,Total quantity. :: lbs.,"154,550 „ 12,348",,lbs,False,False

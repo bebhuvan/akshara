@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,1,data,,"To the government for Icala, explained below",2,Seers.,192,192.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,2,data,,"To the Amildar's office, or Cutchery, for oil and stationary",2,Seers.,24,24.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,3,data,,"To mendicant Bráhmans, Jangamas, and Mussulman Fakirs",2,Seers.,12,12.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,4,data,,"To the Toty, or watchman",2,Seers.,6,6.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,5,data,,To the measurer,2,Seers.,6,6.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,6,data,,"To the Pujáris of the temples of the Saktis, &c",2,Seers.,24,24.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,8,data,"To the Suligaru, or village officers","Gauda, or chief",2,Seers.,24,24.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,9,data,"To the Suligaru, or village officers","Shanaboga, or accomptant",2,Seers.,24,24.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,10,data,"To the Suligaru, or village officers","Talliari or Tallawara, or beadle",2,Seers.,24,24.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,11,data,"To the Suligaru, or village officers","Nirgunty, or distributor of water",2,Seers.,24,24.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,12,data,"To the Suligaru, or village officers",Barber,2,Seers.,12,12.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,13,data,"To the Suligaru, or village officers",Blacksmith,2,Seers.,12,12.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,14,data,"To the Suligaru, or village officers",To the government,2,Seers.,768,768.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,15,data,"To the Suligaru, or village officers",To the farmer,2,Seers.,768,768.0,seers,False,True
+journey-from-madras-vol-i,tbl-043,Table 43,462,414,16,total,,Seers,2,Seers.,1920,1920.0,seers,False,True

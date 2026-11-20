@@ -1,0 +1,121 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,1,data,,Rice,2,Amount spent :: annually by :: a family in :: comfort. :: £,8,8.0,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,1,data,,Rice,3,Amount spent :: annually by :: a family in :: comfort. :: s.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,1,data,,Rice,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,1,data,,Rice,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,4,4.0,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,1,data,,Rice,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,1,data,,Rice,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,2,data,,Salt,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,2,data,,Salt,3,Amount spent :: annually by :: a family in :: comfort. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,2,data,,Salt,4,Amount spent :: annually by :: a family in :: comfort. :: d.,8,8.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,2,data,,Salt,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,2,data,,Salt,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,2,data,,Salt,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,3,data,,Oil,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,3,data,,Oil,3,Amount spent :: annually by :: a family in :: comfort. :: s.,8,8.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,3,data,,Oil,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,3,data,,Oil,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,3,data,,Oil,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,4,4.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,3,data,,Oil,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,4,data,,Spices,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,4,data,,Spices,3,Amount spent :: annually by :: a family in :: comfort. :: s.,5,5.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,4,data,,Spices,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,4,data,,Spices,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,4,data,,Spices,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,4,data,,Spices,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,5,data,,Fish,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,5,data,,Fish,3,Amount spent :: annually by :: a family in :: comfort. :: s.,10,10.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,5,data,,Fish,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,5,data,,Fish,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,5,data,,Fish,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,5,data,,Fish,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,6,data,,Pulses,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,6,data,,Pulses,3,Amount spent :: annually by :: a family in :: comfort. :: s.,10,10.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,6,data,,Pulses,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,6,data,,Pulses,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,6,data,,Pulses,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,6,data,,Pulses,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,7,data,,Vegetables,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,7,data,,Vegetables,3,Amount spent :: annually by :: a family in :: comfort. :: s.,4,4.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,7,data,,Vegetables,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,7,data,,Vegetables,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,7,data,,Vegetables,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,7,data,,Vegetables,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,8,data,,Milk and ghi (butter),2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,8,data,,Milk and ghi (butter),3,Amount spent :: annually by :: a family in :: comfort. :: s.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,8,data,,Milk and ghi (butter),4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,8,data,,Milk and ghi (butter),5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,8,data,,Milk and ghi (butter),6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,8,data,,Milk and ghi (butter),7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,10,data,Other necessaries,Betel nut,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,10,data,Other necessaries,Betel nut,3,Amount spent :: annually by :: a family in :: comfort. :: s.,4,4.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,10,data,Other necessaries,Betel nut,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,10,data,Other necessaries,Betel nut,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,10,data,Other necessaries,Betel nut,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,1,1.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,10,data,Other necessaries,Betel nut,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,11,data,Other necessaries,Kerosene oil,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,11,data,Other necessaries,Kerosene oil,3,Amount spent :: annually by :: a family in :: comfort. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,11,data,Other necessaries,Kerosene oil,4,Amount spent :: annually by :: a family in :: comfort. :: d.,8,8.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,11,data,Other necessaries,Kerosene oil,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,11,data,Other necessaries,Kerosene oil,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,11,data,Other necessaries,Kerosene oil,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,12,data,Other necessaries,Tobacco and molasses,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,12,data,Other necessaries,Tobacco and molasses,3,Amount spent :: annually by :: a family in :: comfort. :: s.,5,5.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,12,data,Other necessaries,Tobacco and molasses,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,12,data,Other necessaries,Tobacco and molasses,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,12,data,Other necessaries,Tobacco and molasses,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,12,data,Other necessaries,Tobacco and molasses,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,13,data,Other necessaries,Clothes,2,Amount spent :: annually by :: a family in :: comfort. :: £,1,1.0,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,13,data,Other necessaries,Clothes,3,Amount spent :: annually by :: a family in :: comfort. :: s.,13,13.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,13,data,Other necessaries,Clothes,4,Amount spent :: annually by :: a family in :: comfort. :: d.,4,4.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,13,data,Other necessaries,Clothes,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,13,data,Other necessaries,Clothes,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,13,13.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,13,data,Other necessaries,Clothes,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,4,4.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,14,data,Other necessaries,Household utensils,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,14,data,Other necessaries,Household utensils,3,Amount spent :: annually by :: a family in :: comfort. :: s.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,14,data,Other necessaries,Household utensils,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,14,data,Other necessaries,Household utensils,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,14,data,Other necessaries,Household utensils,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,14,data,Other necessaries,Household utensils,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,15,data,Other necessaries,Annual petty house repairs,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,15,data,Other necessaries,Annual petty house repairs,3,Amount spent :: annually by :: a family in :: comfort. :: s.,10,10.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,15,data,Other necessaries,Annual petty house repairs,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,15,data,Other necessaries,Annual petty house repairs,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,15,data,Other necessaries,Annual petty house repairs,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,15,data,Other necessaries,Annual petty house repairs,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,16,data,Other necessaries,Rent,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,16,data,Other necessaries,Rent,3,Amount spent :: annually by :: a family in :: comfort. :: s.,7,7.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,16,data,Other necessaries,Rent,4,Amount spent :: annually by :: a family in :: comfort. :: d.,8,8.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,16,data,Other necessaries,Rent,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,16,data,Other necessaries,Rent,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,16,data,Other necessaries,Rent,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,17,data,Other necessaries,Local taxation,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,17,data,Other necessaries,Local taxation,3,Amount spent :: annually by :: a family in :: comfort. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,17,data,Other necessaries,Local taxation,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,17,data,Other necessaries,Local taxation,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,17,data,Other necessaries,Local taxation,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,17,data,Other necessaries,Local taxation,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,18,data,Other necessaries,Medical expenses,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,18,data,Other necessaries,Medical expenses,3,Amount spent :: annually by :: a family in :: comfort. :: s.,15,15.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,18,data,Other necessaries,Medical expenses,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,18,data,Other necessaries,Medical expenses,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,18,data,Other necessaries,Medical expenses,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,18,data,Other necessaries,Medical expenses,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,19,data,Other necessaries,Furniture,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,19,data,Other necessaries,Furniture,3,Amount spent :: annually by :: a family in :: comfort. :: s.,10,10.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,19,data,Other necessaries,Furniture,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,19,data,Other necessaries,Furniture,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,19,data,Other necessaries,Furniture,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,19,data,Other necessaries,Furniture,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,20,data,Other necessaries,Thorough house repairs,2,Amount spent :: annually by :: a family in :: comfort. :: £,1,1.0,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,20,data,Other necessaries,Thorough house repairs,3,Amount spent :: annually by :: a family in :: comfort. :: s.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,20,data,Other necessaries,Thorough house repairs,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,20,data,Other necessaries,Thorough house repairs,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,20,data,Other necessaries,Thorough house repairs,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,5,5.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,20,data,Other necessaries,Thorough house repairs,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,21,data,Other necessaries,Domestic festivals and entertainment,2,Amount spent :: annually by :: a family in :: comfort. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,21,data,Other necessaries,Domestic festivals and entertainment,3,Amount spent :: annually by :: a family in :: comfort. :: s.,15,15.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,21,data,Other necessaries,Domestic festivals and entertainment,4,Amount spent :: annually by :: a family in :: comfort. :: d.,0,0.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,21,data,Other necessaries,Domestic festivals and entertainment,5,Amount spent :: annually by :: a family in :: extreme indigence. :: £,,,GBP,True,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,21,data,Other necessaries,Domestic festivals and entertainment,6,Amount spent :: annually by :: a family in :: extreme indigence. :: s.,5,5.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-002,Table 2,75,71,21,data,Other necessaries,Domestic festivals and entertainment,7,Amount spent :: annually by :: a family in :: extreme indigence. :: d.,0,0.0,,False,False

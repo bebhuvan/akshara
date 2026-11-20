@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,1,summary,,Average area under cultivation (millions of acres),2,1886–7.,22,22.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,1,summary,,Average area under cultivation (millions of acres),3,1908–9.,28,28.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,2,summary,,Average area irrigated (millions of acres),2,1886–7.,6,6.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,2,summary,,Average area irrigated (millions of acres),3,1908–9.,11,11.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,3,summary,,Average area sown (millions of acres),2,1886–7.,20·5,,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,3,summary,,Average area sown (millions of acres),3,1908–9.,28,28.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,4,subtotal,,Total population (millions),2,1886–7.,18·5,,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,4,subtotal,,Total population (millions),3,1908–9.,20,20.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,5,summary,,Average area sown per head of population (acres),2,1886–7.,1·1,,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-001,Table 1,8,8,5,summary,,Average area sown per head of population (acres),3,1908–9.,1·4,,,False,False

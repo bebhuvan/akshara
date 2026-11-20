@@ -1,0 +1,41 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,2,Rice,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,3,Wheat,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,4,Linseed,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,5,Jute,LABOUR.—2.,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,6,Cotton,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,7,Sugar,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,8,Salt,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,9,"&c., &c.",,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,10,Column 10,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,2,header,General Average,Prices—continued,11,Column 11,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,2,Rice,Sheep each,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,3,Wheat,Fish per seer,,seers,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,4,Linseed,"Iron per maund, &c., &c.",,maunds,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,5,Jute,Wages per diem.,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,6,Cotton,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,7,Sugar,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,8,Salt,Cart per day,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,9,"&c., &c.",Camel per day,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,10,Column 10,Donkeys per score per day,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,3,header,General Average,Plough Bullocks each,11,Column 11,Boat per ditto,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,2,Rice,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,3,Wheat,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,4,Linseed,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,5,Jute,District,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,6,Cotton,Skilled,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,7,Sugar,Unskilled,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,8,Salt,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,9,"&c., &c.",,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,10,Column 10,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,4,header,General Average,Row 4,11,Column 11,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,2,Rice,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,3,Wheat,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,4,Linseed,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,5,Jute,General average,,,False,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,6,Cotton,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,7,Sugar,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,8,Salt,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,9,"&c., &c.",,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,10,Column 10,,,,True,False
+poverty-and-un-british-rule,tbl-135,Price of Produce per maund of 80 lbs.,344,324,5,total,,Row 5,11,Column 11,,,,True,False

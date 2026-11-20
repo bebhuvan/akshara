@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,1,data,,Tayngana,2,Botanical Names.,Cocos Nucifera,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,1,data,,Tayngana,3,Synonyma.,Coco-nut.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,2,data,,Adicai,2,Botanical Names.,Areca Catechu,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,2,data,,Adicai,3,Synonyma.,"Betel-nut, Supari of the Mussulmans.",,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,3,data,,Balay,2,Botanical Names.,Musa,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,3,data,,Balay,3,Synonyma.,Plantain tree.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,4,data,,Nimbay,2,Botanical Names.,Citrus,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,4,data,,Nimbay,3,Synonyma.,Lime.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,5,data,,Kictalay,2,Botanical Names.,Citrus,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,5,data,,Kictalay,3,Synonyma.,Sweet orange.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,6,data,,Hayralay,2,Botanical Names.,Citrus,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,6,data,,Hayralay,3,Synonyma.,Bitter orange.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,7,data,,Jambu,2,Botanical Names.,Psidium,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,7,data,,Jambu,3,Synonyma.,Guava.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,8,data,,Dalimbay,2,Botanical Names.,Punica Granatum,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,8,data,,Dalimbay,3,Synonyma.,Pomegranate.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,9,data,,Hulusu,2,Botanical Names.,Artocarpus integrifolia,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,9,data,,Hulusu,3,Synonyma.,Jack.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,10,data,,Mau,2,Botanical Names.,Mangifera,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,10,data,,Mau,3,Synonyma.,Mango.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,11,data,,Nerulu,2,Botanical Names.,Calyptranthes Cariophyllifolia W.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,11,data,,Nerulu,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,12,data,,Nelli,2,Botanical Names.,Phyllanthus Emblica,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,12,data,,Nelli,3,Synonyma.,,,,True,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,13,data,,Hunishay,2,Botanical Names.,Tamarindus,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,13,data,,Hunishay,3,Synonyma.,Tamarind.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,15,data,Amuttay,Humtica,2,Botanical Names.,Spondias dulcis.,,,False,False
+journey-from-madras-vol-i,tbl-007,Table 7,145,113,15,data,Amuttay,Humtica,3,Synonyma.,,,,True,False

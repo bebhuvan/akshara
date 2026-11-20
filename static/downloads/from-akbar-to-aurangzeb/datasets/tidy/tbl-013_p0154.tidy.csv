@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,1,data,,"Longcloth, 20,000 pieces, equal to",2,Column 2,"50,000",50000.0,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,1,data,,"Longcloth, 20,000 pieces, equal to",3,Column 3,standard pieces.,,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,2,data,,Salempores,2,Column 2,"20,000",20000.0,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,2,data,,Salempores,3,Column 3,„,,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,3,data,,Others (including some muslin),2,Column 2,"14,000",14000.0,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,3,data,,Others (including some muslin),3,Column 3,„,,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,4,total,,Row 4,2,Column 2,"84,000",84000.0,,False,True
+from-akbar-to-aurangzeb,tbl-013,From Madras—,154,132,4,total,,Row 4,3,Column 3,„,,,False,True

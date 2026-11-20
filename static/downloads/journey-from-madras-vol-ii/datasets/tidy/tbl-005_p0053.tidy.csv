@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,1,data,,"To the man who furnishes ore, for himself and cattle",2,Large Pieces.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,2,data,,To each of the bellows-men at the smelting-furnace 1 large piece,2,Large Pieces.,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,3,total,,Large pieces,2,Large Pieces.,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,4,header,,Row 4,2,Large Pieces.,Small Pieces.,,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,5,data,,To the head-man at the smelting-furnace,2,Large Pieces.,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,6,data,,To each of the 9 charcoal makers 1 small piece,2,Large Pieces.,9,9.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,7,data,,To the blacksmith,2,Large Pieces.,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,8,data,,To each of the bellows-men at the forge 1 piece,2,Large Pieces.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,9,data,,To each of the hammer-men 2 pieces,2,Large Pieces.,6,6.0,,False,False
+journey-from-madras-vol-ii,tbl-005,Table 5,53,37,10,total,,Small pieces,2,Large Pieces.,25,25.0,,False,False

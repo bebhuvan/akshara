@@ -2,24 +2,19 @@
 title: "A. C. Clayton"
 slug: "a-c-clayton"
 full_name: "A. C. Clayton"
-birth_year: null
-death_year: null
-birth_place: null
-languages: ["English", "Tamil"]
-
-# Bio
+birth_year: ""
+death_year: ""
+birth_place: ""
+languages:
+  - "English"
+  - "Tamil"
 short_bio: "British missionary and scholar who worked in South India from 1892. Author of works on Tamil culture, Indian religion, and Vedic studies, including 'The Rig-Veda and Vedic Religion' and 'The Tamil Bible Dictionary'."
-
-# Works
-works_count: 5
+works_count: 1
 first_publication: 1913
-
-# Timeline
 timeline:
   - year: 1892
     title: "Arrived in South India"
     description: "Began work in South India, gaining firsthand knowledge of Dravidian culture and religious practices"
-
   - year: 1913
     title: "The Rig-Veda and Vedic Religion Published"
     description: "Published comprehensive study of Vedic religion for the Christian Literature Society for India"

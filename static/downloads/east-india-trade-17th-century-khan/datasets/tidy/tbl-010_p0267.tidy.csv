@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,1,data,,To Ireland,2,Column 2,"£18,491",18491.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,1,data,,To Ireland,3,Column 3,2,2.0,,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,1,data,,To Ireland,4,Column 4,7,7.0,,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,2,data,,Plantations,2,Column 2,"29,823",29823.0,,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,2,data,,Plantations,3,Column 3,7,7.0,,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,2,data,,Plantations,4,Column 4,3 1⁄4,3.25,,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,3,total,,Total,2,Column 2,"£48,314",48314.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,3,total,,Total,3,Column 3,9,9.0,,False,True
+east-india-trade-17th-century-khan,tbl-010,Table 10,267,255,3,total,,Total,4,Column 4,10 1⁄4,10.25,,False,True

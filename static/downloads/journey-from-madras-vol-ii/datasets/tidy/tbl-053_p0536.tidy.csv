@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-053,The number of inhabitants are:,536,508,1,data,,Men,2,Column 2,"16,644",16644.0,,False,True
+journey-from-madras-vol-ii,tbl-053,The number of inhabitants are:,536,508,2,data,,Women,2,Column 2,"17,222",17222.0,,False,True
+journey-from-madras-vol-ii,tbl-053,The number of inhabitants are:,536,508,3,subtotal,,Row 3,2,Column 2,"33,866",33866.0,,False,True
+journey-from-madras-vol-ii,tbl-053,The number of inhabitants are:,536,508,4,data,,Deduct slaves,2,Column 2,8592,8592.0,,False,True
+journey-from-madras-vol-ii,tbl-053,The number of inhabitants are:,536,508,5,total,,Remainder of free persons,2,Column 2,"25,274",25274.0,,False,True

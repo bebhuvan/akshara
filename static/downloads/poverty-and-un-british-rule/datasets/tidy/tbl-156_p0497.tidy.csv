@@ -1,0 +1,91 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,1,data,,1. Covenanted Civil Service,2,Europeans. :: For,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,1,data,,1. Covenanted Civil Service,3,Europeans. :: Ag.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,1,data,,1. Covenanted Civil Service,4,Europeans. :: Neu.,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,1,data,,1. Covenanted Civil Service,5,Indians. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,1,data,,1. Covenanted Civil Service,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,1,data,,1. Covenanted Civil Service,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,2,data,,1a. Military Officers in Civil Employ,2,Europeans. :: For,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,2,data,,1a. Military Officers in Civil Employ,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,2,data,,1a. Military Officers in Civil Employ,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,2,data,,1a. Military Officers in Civil Employ,5,Indians. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,2,data,,1a. Military Officers in Civil Employ,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,2,data,,1a. Military Officers in Civil Employ,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,3,data,,2. Statutory Civil Service,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,3,data,,2. Statutory Civil Service,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,3,data,,2. Statutory Civil Service,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,3,data,,2. Statutory Civil Service,5,Indians. :: For,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,3,data,,2. Statutory Civil Service,6,Indians. :: Ag.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,3,data,,2. Statutory Civil Service,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,5,data,3. Uncovenanted Service ,a. Judicial and Executive,2,Europeans. :: For,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,5,data,3. Uncovenanted Service ,a. Judicial and Executive,3,Europeans. :: Ag.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,5,data,3. Uncovenanted Service ,a. Judicial and Executive,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,5,data,3. Uncovenanted Service ,a. Judicial and Executive,5,Indians. :: For,13,13.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,5,data,3. Uncovenanted Service ,a. Judicial and Executive,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,5,data,3. Uncovenanted Service ,a. Judicial and Executive,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,6,data,3. Uncovenanted Service ,b. Educational Department,2,Europeans. :: For,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,6,data,3. Uncovenanted Service ,b. Educational Department,3,Europeans. :: Ag.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,6,data,3. Uncovenanted Service ,b. Educational Department,4,Europeans. :: Neu.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,6,data,3. Uncovenanted Service ,b. Educational Department,5,Indians. :: For,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,6,data,3. Uncovenanted Service ,b. Educational Department,6,Indians. :: Ag.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,6,data,3. Uncovenanted Service ,b. Educational Department,7,Indians. :: Neu.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,7,data,3. Uncovenanted Service ,c. Unclassified,2,Europeans. :: For,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,7,data,3. Uncovenanted Service ,c. Unclassified,3,Europeans. :: Ag.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,7,data,3. Uncovenanted Service ,c. Unclassified,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,7,data,3. Uncovenanted Service ,c. Unclassified,5,Indians. :: For,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,7,data,3. Uncovenanted Service ,c. Unclassified,6,Indians. :: Ag.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,7,data,3. Uncovenanted Service ,c. Unclassified,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,9,data,4. General Public ,"a. Barristers, Vakils & Solicitors",2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,9,data,4. General Public ,"a. Barristers, Vakils & Solicitors",3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,9,data,4. General Public ,"a. Barristers, Vakils & Solicitors",4,Europeans. :: Neu.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,9,data,4. General Public ,"a. Barristers, Vakils & Solicitors",5,Indians. :: For,10,10.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,9,data,4. General Public ,"a. Barristers, Vakils & Solicitors",6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,9,data,4. General Public ,"a. Barristers, Vakils & Solicitors",7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,10,data,4. General Public ,b. Zemindars,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,10,data,4. General Public ,b. Zemindars,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,10,data,4. General Public ,b. Zemindars,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,10,data,4. General Public ,b. Zemindars,5,Indians. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,10,data,4. General Public ,b. Zemindars,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,10,data,4. General Public ,b. Zemindars,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,11,data,4. General Public ,c. Merchants,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,11,data,4. General Public ,c. Merchants,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,11,data,4. General Public ,c. Merchants,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,11,data,4. General Public ,c. Merchants,5,Indians. :: For,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,11,data,4. General Public ,c. Merchants,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,11,data,4. General Public ,c. Merchants,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,12,data,4. General Public ,d. Unclassified,2,Europeans. :: For,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,12,data,4. General Public ,d. Unclassified,3,Europeans. :: Ag.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,12,data,4. General Public ,d. Unclassified,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,12,data,4. General Public ,d. Unclassified,5,Indians. :: For,8,8.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,12,data,4. General Public ,d. Unclassified,6,Indians. :: Ag.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,12,data,4. General Public ,d. Unclassified,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,13,data,4. General Public ,5. English Newspapers,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,13,data,4. General Public ,5. English Newspapers,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,13,data,4. General Public ,5. English Newspapers,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,13,data,4. General Public ,5. English Newspapers,5,Indians. :: For,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,13,data,4. General Public ,5. English Newspapers,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,13,data,4. General Public ,5. English Newspapers,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,14,data,4. General Public ,6. Vernacular      „,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,14,data,4. General Public ,6. Vernacular      „,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,14,data,4. General Public ,6. Vernacular      „,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,14,data,4. General Public ,6. Vernacular      „,5,Indians. :: For,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,14,data,4. General Public ,6. Vernacular      „,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,14,data,4. General Public ,6. Vernacular      „,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,15,data,4. General Public ,7. Associations and Societies,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,15,data,4. General Public ,7. Associations and Societies,3,Europeans. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,15,data,4. General Public ,7. Associations and Societies,4,Europeans. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,15,data,4. General Public ,7. Associations and Societies,5,Indians. :: For,7,7.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,15,data,4. General Public ,7. Associations and Societies,6,Indians. :: Ag.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,15,data,4. General Public ,7. Associations and Societies,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,16,data,4. General Public ,8. Members of Council and High Court Judges,2,Europeans. :: For,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,16,data,4. General Public ,8. Members of Council and High Court Judges,3,Europeans. :: Ag.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,16,data,4. General Public ,8. Members of Council and High Court Judges,4,Europeans. :: Neu.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,16,data,4. General Public ,8. Members of Council and High Court Judges,5,Indians. :: For,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,16,data,4. General Public ,8. Members of Council and High Court Judges,6,Indians. :: Ag.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,16,data,4. General Public ,8. Members of Council and High Court Judges,7,Indians. :: Neu.,—,,,True,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,17,total,,Totals,2,Europeans. :: For,9,9.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,17,total,,Totals,3,Europeans. :: Ag.,11,11.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,17,total,,Totals,4,Europeans. :: Neu.,11,11.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,17,total,,Totals,5,Indians. :: For,54,54.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,17,total,,Totals,6,Indians. :: Ag.,14,14.0,,False,True
+poverty-and-un-british-rule,tbl-156,2.—MADRAS.,497,477,17,total,,Totals,7,Indians. :: Neu.,1,1.0,,False,True

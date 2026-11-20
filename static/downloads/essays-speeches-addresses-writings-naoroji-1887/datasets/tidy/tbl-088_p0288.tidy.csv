@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-088,Table 88,288,271,1,data,,Under 5 years' service in independent civil charge,2,Column 2,350,350.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-088,Table 88,288,271,2,data,,From 5 to 10 years,2,Column 2,450,450.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-088,Table 88,288,271,3,data,,From 10 to 15 years,2,Column 2,550,550.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-088,Table 88,288,271,4,data,,Above 15 years,2,Column 2,700,700.0,,False,False

@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,1,data,,"1869... $417,506,379",2,IMPORTS. :: Bullion.,"$19,807,876",19807876.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,2,data,,"1870... 462,377,587",2,IMPORTS. :: Bullion.,"26,419,179",26419179.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,3,data,,"1871... 541,493,774",2,IMPORTS. :: Bullion.,"21,270,024",21270024.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,4,data,,"1872... 572,510,304",2,IMPORTS. :: Bullion.,"13,743,689",13743689.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,5,data,,"1873... 642,030,539",2,IMPORTS. :: Bullion.,"21,480,937",21480937.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,6,subtotal,,"$2,635,918,583",2,IMPORTS. :: Bullion.,"$102,721,705",102721705.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,7,data,,"Add... 102,721,705",2,IMPORTS. :: Bullion.,...,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,11,data,,"1869... $439,134,529",2,EXPORTS. :: Bullion.,"$57,138,380",57138380.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,12,data,,"1870... 529,519,302",2,EXPORTS. :: Bullion.,"58,155,666",58155666.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,13,data,,"1871... 590,978,550",2,EXPORTS. :: Bullion.,"98,441,989",98441989.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,14,data,,"1872... 561,808,381",2,EXPORTS. :: Bullion.,"79,877,534",79877534.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,15,data,,"1873... 626,595,077",2,EXPORTS. :: Bullion.,"84,608,574",84608574.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,16,subtotal,,"$2,748,035,839",2,EXPORTS. :: Bullion.,"$378,222,143",378222143.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-097,Table 97,297,280,17,data,,"Add... 378,222,143",2,EXPORTS. :: Bullion.,...,,,True,True

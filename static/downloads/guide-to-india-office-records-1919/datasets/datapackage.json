@@ -1,0 +1,1087 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-guide-to-india-office-records-1919",
+  "title": "A Guide to the India Office Records, 1600–1858 — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "William Foster",
+      "role": "author"
+    }
+  ],
+  "temporal": "1600-1858",
+  "spatial": "All-India, London, Surat, Madras, Bombay, Bengal",
+  "resources": [
+    {
+      "name": "tbl-001-diplomatic",
+      "title": "REPORTS. (Diplomatic Matrix)",
+      "path": "tables/tbl-001_p0027.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-001-tidy",
+      "title": "REPORTS. (Tidy Observations)",
+      "path": "tidy/tbl-001_p0027.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-002-diplomatic",
+      "title": "Table 2 (Diplomatic Matrix)",
+      "path": "tables/tbl-002_p0049.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-002-tidy",
+      "title": "Table 2 (Tidy Observations)",
+      "path": "tidy/tbl-002_p0049.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-003-diplomatic",
+      "title": "Table 3 (Diplomatic Matrix)",
+      "path": "tables/tbl-003_p0052.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-003-tidy",
+      "title": "Table 3 (Tidy Observations)",
+      "path": "tidy/tbl-003_p0052.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-004-diplomatic",
+      "title": "Table 4 (Diplomatic Matrix)",
+      "path": "tables/tbl-004_p0082.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-004-tidy",
+      "title": "Table 4 (Tidy Observations)",
+      "path": "tidy/tbl-004_p0082.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-005-diplomatic",
+      "title": "CONSULTATIONS. (Diplomatic Matrix)",
+      "path": "tables/tbl-005_p0087.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-005-tidy",
+      "title": "CONSULTATIONS. (Tidy Observations)",
+      "path": "tidy/tbl-005_p0087.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-006-diplomatic",
+      "title": "ACCOUNTS. (Diplomatic Matrix)",
+      "path": "tables/tbl-006_p0087.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-006-tidy",
+      "title": "ACCOUNTS. (Tidy Observations)",
+      "path": "tidy/tbl-006_p0087.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-007-diplomatic",
+      "title": "Miscellaneous. (Diplomatic Matrix)",
+      "path": "tables/tbl-007_p0092.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-007-tidy",
+      "title": "Miscellaneous. (Tidy Observations)",
+      "path": "tidy/tbl-007_p0092.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-008-diplomatic",
+      "title": "Table 8 (Diplomatic Matrix)",
+      "path": "tables/tbl-008_p0114.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-008-tidy",
+      "title": "Table 8 (Tidy Observations)",
+      "path": "tidy/tbl-008_p0114.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-009-diplomatic",
+      "title": "Table 9 (Diplomatic Matrix)",
+      "path": "tables/tbl-009_p0120.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-009-tidy",
+      "title": "Table 9 (Tidy Observations)",
+      "path": "tidy/tbl-009_p0120.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-010-diplomatic",
+      "title": "Table 10 (Diplomatic Matrix)",
+      "path": "tables/tbl-010_p0122.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-010-tidy",
+      "title": "Table 10 (Tidy Observations)",
+      "path": "tidy/tbl-010_p0122.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-011-diplomatic",
+      "title": "Table 11 (Diplomatic Matrix)",
+      "path": "tables/tbl-011_p0123.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-011-tidy",
+      "title": "Table 11 (Tidy Observations)",
+      "path": "tidy/tbl-011_p0123.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-012-diplomatic",
+      "title": "Table 12 (Diplomatic Matrix)",
+      "path": "tables/tbl-012_p0124.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-012-tidy",
+      "title": "Table 12 (Tidy Observations)",
+      "path": "tidy/tbl-012_p0124.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-013-diplomatic",
+      "title": "Table 13 (Diplomatic Matrix)",
+      "path": "tables/tbl-013_p0129.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-013-tidy",
+      "title": "Table 13 (Tidy Observations)",
+      "path": "tidy/tbl-013_p0129.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    }
+  ]
+}

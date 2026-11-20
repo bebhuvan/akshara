@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,1,data,,1869,2,Column 2,"$437,314,255",437314255.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,1,data,,1869,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"1869... $318,082,663",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,1,data,,1869,4,Foreign.,"$25,173,414",25173414.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,2,data,,1870,2,Column 2,"462,377,587",462377587.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,2,data,,1870,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"1870... 420,500,275",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,2,data,,1870,4,Foreign.,"30,427,159",30427159.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,3,data,,1871,2,Column 2,"541,493,708",541493708.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,3,data,,1871,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"1871... 512,802,267",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,3,data,,1871,4,Foreign.,"28,459,899",28459899.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,4,data,,1872,2,Column 2,"640,338,706",640338706.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,4,data,,1872,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"1872... 501,285,371",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,4,data,,1872,4,Foreign.,"22,769,749",22769749.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,5,data,,1873,2,Column 2,"663,617,147",663617147.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,5,data,,1873,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"1873... 578,938,985",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,5,data,,1873,4,Foreign.,"28,149,511",28149511.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,6,subtotal,,Total,2,Column 2,"$2,745,141,403",2745141403.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,6,subtotal,,Total,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"$2,331,609,561",2331609561.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,6,subtotal,,Total,4,Foreign.,"$134,979,732",134979732.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,7,data,,Deduct Exports,2,Column 2,"2,466,589,293",2466589293.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,7,data,,Deduct Exports,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,7,data,,Deduct Exports,4,Foreign.,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,8,total,,Excess of Imports,2,Column 2,"$278,552,110",278552110.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,8,total,,Excess of Imports,3,EXPORTS—INCLUDING BULLION. (GOLD VALUE.) :: Domestic.,"Total... $2,466,589,273",,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-098,Official correct figures :—,298,281,8,total,,Excess of Imports,4,Foreign.,,,,True,True

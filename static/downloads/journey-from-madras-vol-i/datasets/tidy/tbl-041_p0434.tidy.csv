@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,1,data,,1st year,2,Column 2,£. 0,,GBP,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,1,data,,1st year,3,Column 3,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,1,data,,1st year,4,Column 4,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,2,data,,2d year,2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,2,data,,2d year,3,Column 3,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,2,data,,2d year,4,Column 4,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,3,data,,3d—12th years,2,Column 2,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,3,data,,3d—12th years,3,Column 3,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,3,data,,3d—12th years,4,Column 4,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,4,data,,13th year,2,Column 2,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,4,data,,13th year,3,Column 3,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,4,data,,13th year,4,Column 4,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,5,data,,Full rent,2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,5,data,,Full rent,3,Column 3,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-041,Table 41,434,386,5,data,,Full rent,4,Column 4,3,3.0,,False,False

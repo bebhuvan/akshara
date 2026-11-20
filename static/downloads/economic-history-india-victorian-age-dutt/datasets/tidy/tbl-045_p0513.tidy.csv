@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-045,Table 45,513,485,1,data,,A,2,Column 2,50 × 32 =,,,False,True
+economic-history-india-victorian-age-dutt,tbl-045,Table 45,513,485,1,data,,A,3,Column 3,1600,1600.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-045,Table 45,513,485,2,data,,B,2,Column 2,75 × 16 =,,,False,True
+economic-history-india-victorian-age-dutt,tbl-045,Table 45,513,485,2,data,,B,3,Column 3,1200,1200.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-045,Table 45,513,485,3,data,,C,2,Column 2,25 ×   4 =,,,False,True
+economic-history-india-victorian-age-dutt,tbl-045,Table 45,513,485,3,data,,C,3,Column 3,100,100.0,,False,True

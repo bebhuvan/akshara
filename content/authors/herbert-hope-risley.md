@@ -5,11 +5,13 @@ full_name: "Sir Herbert Hope Risley"
 birth_year: 1851
 death_year: 1911
 birth_place: "Akeley, Buckinghamshire, England"
-languages: ["English", "Bengali", "Hindi"]
+languages:
+  - "English"
+  - "Bengali"
+  - "Hindi"
 short_bio: "British ethnographer and colonial administrator who conducted extensive studies on the tribes and castes of India, and led the 1901 Census of India."
 works_count: 1
 first_publication: 1891
-
 timeline:
   - year: 1851
     title: "Birth in Akeley"

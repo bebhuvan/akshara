@@ -1,0 +1,47 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,1,data,,British India,2,s.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,1,data,,British India,3,d.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,2,data,,Germany,2,s.,7,7.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,2,data,,Germany,3,d.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,3,data,,France,2,s.,7,7.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,3,data,,France,3,d.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,4,data,,Sweden and Norway,2,s.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,4,data,,Sweden and Norway,3,d.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,5,data,,Denmark and Iceland,2,s.,19,19.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,5,data,,Denmark and Iceland,3,d.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,6,data,,Holland (this may be supplying some portion of Central Europe,2,s.,44,44.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,6,data,,Holland (this may be supplying some portion of Central Europe,3,d.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,7,data,,Belgium (do. do.),2,s.,28,28.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,7,data,,Belgium (do. do.),3,d.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,8,data,,Portugal,2,s.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,8,data,,Portugal,3,d.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,9,data,,Spain,2,s.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,9,data,,Spain,3,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,10,data,,Italy (perhaps partly supplied by intermediate countries),2,s.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,10,data,,Italy (perhaps partly supplied by intermediate countries),3,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,11,data,,Austrian territory (ditto),2,s.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,11,data,,Austrian territory (ditto),3,d.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,13,data,,Russia (perhaps partly supplied through intermediate countries),2,s.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,13,data,,Russia (perhaps partly supplied through intermediate countries),3,d.,11½,11.5,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,14,data,,Greece,2,s.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,14,data,,Greece,3,d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,15,data,,Turkey in Europe,2,s.,16,16.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,15,data,,Turkey in Europe,3,d.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,16,data,,Turkey in Asia,2,s.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,16,data,,Turkey in Asia,3,d.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,17,data,,Egypt,2,s.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,17,data,,Egypt,3,d.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,18,data,,United States,2,s.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,18,data,,United States,3,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,19,data,,Central America,2,s.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,19,data,,Central America,3,d.,7,7.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,20,data,,Brazil,2,s.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,20,data,,Brazil,3,d.,5,5.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,21,data,,Uruguay,2,s.,54,54.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,21,data,,Uruguay,3,d.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,22,data,,Argentine Republic,2,s.,31,31.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,22,data,,Argentine Republic,3,d.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,23,data,,Chili,2,s.,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,23,data,,Chili,3,d.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,24,data,,Japan,2,s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-125,Exports of British Produce per Head.,277,257,24,data,,Japan,3,d.,1,1.0,,False,False

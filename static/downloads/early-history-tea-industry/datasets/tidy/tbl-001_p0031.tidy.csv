@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+early-history-tea-industry,tbl-001,Table 1,31,29,1,data,,1841,2,Yield of Tea.,"10,505 lbs.",10505.0,lbs,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,1,data,,1841,3,Expenditure.,"£12,984",12984.0,GBP,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,2,data,,1842,2,Yield of Tea.,"31,398 „",31398.0,lbs,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,2,data,,1842,3,Expenditure.,"£16,560",16560.0,GBP,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,3,data,,1843,2,Yield of Tea.,"87,705 „",87705.0,lbs,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,3,data,,1843,3,Expenditure.,"£13,146",13146.0,GBP,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,4,data,,1844,2,Yield of Tea.,"120,422 „",120422.0,lbs,False,False
+early-history-tea-industry,tbl-001,Table 1,31,29,4,data,,1844,3,Expenditure.,"£7,284",7284.0,GBP,False,False

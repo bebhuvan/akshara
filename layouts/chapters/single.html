@@ -1,180 +1,206 @@
 {{ define "main" }}
-<!-- Progress Bar -->
-<div class="progress" id="progress"></div>
+{{ $book := .Parent }}
+{{ $chapters := (where $book.Pages "Type" "chapters").ByWeight }}
+{{ $totalChapters := len $chapters }}
+{{ $bookSlug := path.Base $book.File.Dir }}
+{{ $archiveId := .Params.archive_id | default $book.Params.archive_id | default "" }}
+{{ $startLeaf := .Params.start_page | default 1 }}
 
-<!-- Top Bar - Minimal -->
-<div class="top-bar" id="topBar">
-    {{ $book := .Parent }}
-    {{ $chapters := where $book.Pages "Type" "chapters" }}
-    {{ $totalChapters := len $chapters }}
-
-    <a href="{{ $book.RelPermalink }}" class="back-link">← {{ $book.Title }}</a>
-
-    <div class="chapter-info">
-        Chapter {{ .Params.chapter_number }} of {{ $totalChapters }}
-    </div>
-
-    <button class="menu-btn" onclick="toggleMenu()" aria-label="Menu">☰</button>
+<div class="reading-progress-track">
+  <div class="reading-progress-fill" id="progress"></div>
 </div>
 
-<!-- Reading Container -->
-<main class="reading" data-book-slug="{{ $book.File.BaseFileName }}" data-chapter-id="{{ .File.UniqueID }}">
-    <header class="chapter-header">
-        <div class="chapter-number">{{ .Params.chapter_number | default "I" }}</div>
-        <h1 class="chapter-title">{{ .Title }}</h1>
-    </header>
+<!-- Minimal Top Reading Bar -->
+<header class="reader-topbar" id="topBar">
+  <div class="reader-topbar-left">
+    <a href="{{ $book.RelPermalink }}" class="reader-back-link">← {{ $book.Title }}</a>
+  </div>
 
-    <article class="text" data-pagefind-body data-pagefind-filter="book:{{ $book.File.BaseFileName }}">
-        {{ .Content }}
-    </article>
+  <div class="reader-topbar-center">
+    <span class="reader-sec-badge">{{ .Params.chapter_number | default "§" }}</span>
+    <span class="reader-sec-name">{{ .Title }}</span>
+    {{ if .Params.start_page }}
+    <span class="reader-folio-span">Leaves {{ .Params.start_page }}–{{ .Params.end_page | default .Params.start_page }}</span>
+    {{ end }}
+  </div>
 
-    <!-- Chapter Navigation -->
-    <nav class="chapter-nav">
-        {{ with .Params.prev }}
-        <a href="{{ . }}" class="nav-link prev">
-            {{ with $.Site.GetPage . }}
-            <span class="nav-label">← Previous</span>
-            <span class="nav-title">{{ .Title }}</span>
-            {{ end }}
-        </a>
-        {{ end }}
+  <div class="reader-topbar-actions">
+    {{ if $archiveId }}
+    <button type="button" class="reader-tool-btn" id="openChapterScanBtn"
+      data-page="{{ $startLeaf }}"
+      data-folio="{{ .Params.printed_start_folio | default $startLeaf }}"
+      data-scan="https://archive.org/download/{{ $archiveId }}/page/n{{ sub $startLeaf 1 }}_w1400.jpg"
+      title="Open Original Scan Leaf">
+      <span>Scan</span>
+    </button>
+    {{ end }}
+    {{ with .Params.proofing_url }}
+    <a class="reader-tool-btn" href="{{ . }}" target="_blank" rel="noopener" title="Open in Akshara Proofing Studio">Proofread ↗</a>
+    {{ end }}
+    <button type="button" class="reader-tool-btn" onclick="openMenuAndFocusSearch()" title="Search inside this book (S)">Search</button>
+    <button type="button" class="reader-tool-btn" onclick="toggleFocusMode()" title="Focus Mode (F)">Focus</button>
+    <button type="button" class="reader-tool-btn is-primary" onclick="toggleMenu()" title="Contents & Settings (M)">Contents &amp; Aa</button>
+  </div>
+</header>
 
-        {{ with .Params.next }}
-        <a href="{{ . }}" class="nav-link next">
-            {{ with $.Site.GetPage . }}
-            <span class="nav-label">Next →</span>
-            <span class="nav-title">{{ .Title }}</span>
-            {{ end }}
-        </a>
-        {{ end }}
-    </nav>
+<!-- Scholarly Two-Column Reading Canvas (Outer Margin Rail + 65ch Serif Column) -->
+<main class="reader-canvas"
+  data-book-slug="{{ $bookSlug }}"
+  data-chapter-id="{{ .File.UniqueID }}"
+  data-archive-id="{{ $archiveId }}"
+  data-proofing-base="{{ .Params.proofing_base_url | default .Site.Params.proofing_url | default "https://akshara-proofing.r-bhuvanesh2007.workers.dev" }}">
+
+  <header class="reader-chapter-head">
+    <div class="reader-head-kicker">
+      <span>{{ .Params.section_kind | default "SECTION" | upper }} {{ .Params.chapter_number }}</span>
+      {{ with .Params.printed_start_folio }}<span>· Starting Folio p. {{ . }}</span>{{ end }}
+      {{ with .Params.reading_time }}<span>· {{ . }} min read</span>{{ end }}
+    </div>
+    <h1 class="reader-chapter-title">{{ .Title }}</h1>
+  </header>
+
+  <article class="reading-prose text" id="readingProse" data-pagefind-body data-pagefind-filter="book:{{ $bookSlug }}">
+    {{ .Content }}
+  </article>
+
+  <!-- Prev / Next Chapter Pagination -->
+  <nav class="reader-pagination" aria-label="Chapter pagination">
+    {{ $prev := .PrevInSection }}
+    {{ if .Params.prev }}
+      {{ with $.Site.GetPage .Params.prev }}{{ $prev = . }}{{ end }}
+    {{ end }}
+    {{ with $prev }}
+      <a href="{{ .RelPermalink }}" class="pag-card is-prev">
+        <span class="pag-dir">← Previous</span>
+        <span class="pag-title">{{ .Title }}</span>
+      </a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+
+    {{ $next := .NextInSection }}
+    {{ if .Params.next }}
+      {{ with $.Site.GetPage .Params.next }}{{ $next = . }}{{ end }}
+    {{ end }}
+    {{ with $next }}
+      <a href="{{ .RelPermalink }}" class="pag-card is-next">
+        <span class="pag-dir">Next →</span>
+        <span class="pag-title">{{ .Title }}</span>
+      </a>
+    {{ else }}
+      <span></span>
+    {{ end }}
+  </nav>
 </main>
 
-<!-- Menu Panel (replaces TOC + Controls) -->
-<aside class="menu-panel" id="menuPanel" data-book-slug="{{ $book.File.BaseFileName }}">
-    {{ $book := .Parent }}
-    {{ $chapters := where $book.Pages "Type" "chapters" }}
+<!-- Slide-over Contents, Book Search & Typography Drawer -->
+<aside class="menu-panel" id="menuPanel" data-book-slug="{{ $bookSlug }}">
+  <div class="menu-header">
+    <h2>Edition Menu</h2>
+    <button type="button" class="menu-close" onclick="toggleMenu()" aria-label="Close menu">×</button>
+  </div>
 
-    <div class="menu-header">
-        <h2>Menu</h2>
-        <button class="menu-close" onclick="toggleMenu()">×</button>
+  <div class="menu-content">
+    <div class="menu-section">
+      <h3 class="menu-section-title">Search Inside This Book</h3>
+      <div class="book-search-container">
+        <div class="book-search-input-wrapper">
+          <input type="text" id="bookSearchInput" class="book-search-input" placeholder="Search {{ $book.Title }}..." autocomplete="off">
+        </div>
+        <div id="bookSearchResults" class="book-search-results"></div>
+        <a href="/search/" class="global-search-link">Search entire Akshara archive →</a>
+      </div>
     </div>
 
-    <div class="menu-content">
-        <!-- Book Search Section -->
-        <div class="menu-section">
-            <h3 class="menu-section-title">Search This Book</h3>
-            <div class="book-search-container">
-                <div class="book-search-input-wrapper">
-                    <svg class="book-search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                        <circle cx="11" cy="11" r="8"></circle>
-                        <path d="m21 21-4.35-4.35"></path>
-                    </svg>
-                    <input
-                        type="text"
-                        id="bookSearchInput"
-                        class="book-search-input"
-                        placeholder="Search in {{ $book.Title }}..."
-                        autocomplete="off"
-                    >
-                </div>
-                <div id="bookSearchResults" class="book-search-results"></div>
-                <a href="/search" class="global-search-link">Search all books →</a>
-            </div>
+    <div class="menu-section">
+      <h3 class="menu-section-title">Reading Surface &amp; Type</h3>
+      <div class="setting-group">
+        <label class="setting-label">Type Size</label>
+        <div class="setting-buttons">
+          <button type="button" class="setting-btn" onclick="adjustSize(-2)">A-</button>
+          <button type="button" class="setting-btn active" onclick="adjustSize(0)">Default</button>
+          <button type="button" class="setting-btn" onclick="adjustSize(2)">A+</button>
         </div>
+      </div>
 
-        <!-- Table of Contents Section -->
-        <div class="menu-section">
-            <h3 class="menu-section-title">Contents</h3>
-            <div class="menu-book-info">
-                <div class="menu-book-title">{{ $book.Title }}</div>
-                <div class="menu-book-author">{{ $book.Params.editor | default $book.Params.author }}</div>
-                <div class="menu-progress">
-                    {{ with .Params.chapter_number }}{{ . }} of {{ len $chapters }} · {{ end }}
-                    {{ $progress := div (mul .Weight 100) (len $chapters) }}
-                    {{ $progress }}% complete
-                </div>
-            </div>
-            <ul class="menu-toc-list">
-                {{ range $chapters.ByWeight }}
-                <li>
-                    <a href="{{ .RelPermalink }}"{{ if eq .File.UniqueID $.File.UniqueID }} class="current"{{ end }}>
-                        <span class="menu-toc-num">{{ .Params.chapter_number }}</span>
-                        <span class="menu-toc-title">{{ .Title }}</span>
-                    </a>
-                </li>
-                {{ end }}
-            </ul>
+      <div class="setting-group">
+        <label class="setting-label">Surface Theme</label>
+        <div class="setting-buttons">
+          <button type="button" class="setting-btn" data-theme-pick="light">Day</button>
+          <button type="button" class="setting-btn" data-theme-pick="sepia">Cotton</button>
+          <button type="button" class="setting-btn" data-theme-pick="dark">Night</button>
         </div>
+      </div>
 
-        <!-- Reading Settings Section -->
-        <div class="menu-section">
-            <h3 class="menu-section-title">Reading Settings</h3>
-
-            <div class="setting-group">
-                <label class="setting-label">Font Size</label>
-                <div class="setting-buttons">
-                    <button class="setting-btn" onclick="adjustSize(-2)">A</button>
-                    <button class="setting-btn active" onclick="adjustSize(0)">A</button>
-                    <button class="setting-btn" onclick="adjustSize(2)">A</button>
-                </div>
-            </div>
-
-            <div class="setting-group">
-                <label class="setting-label">Theme</label>
-                <div class="setting-buttons">
-                    <button class="setting-btn active" onclick="setTheme('light')">Light</button>
-                    <button class="setting-btn" onclick="setTheme('dark')">Dark</button>
-                    <button class="setting-btn" onclick="setTheme('sepia')">Sepia</button>
-                </div>
-            </div>
-
-            <div class="setting-group">
-                <button class="focus-mode-btn" onclick="toggleFocusMode()">
-                    Enter Focus Mode
-                </button>
-            </div>
-        </div>
-
-        <!-- Keyboard Shortcuts Section -->
-        <div class="menu-section">
-            <h3 class="menu-section-title">Keyboard Shortcuts</h3>
-            <dl class="shortcuts-list">
-                <div class="shortcut-item">
-                    <dt>S</dt>
-                    <dd>Search Book</dd>
-                </div>
-                <div class="shortcut-item">
-                    <dt>M</dt>
-                    <dd>Toggle Menu</dd>
-                </div>
-                <div class="shortcut-item">
-                    <dt>F</dt>
-                    <dd>Focus Mode</dd>
-                </div>
-                <div class="shortcut-item">
-                    <dt>←</dt>
-                    <dd>Previous Chapter</dd>
-                </div>
-                <div class="shortcut-item">
-                    <dt>→</dt>
-                    <dd>Next Chapter</dd>
-                </div>
-                <div class="shortcut-item">
-                    <dt>Esc</dt>
-                    <dd>Close Menu / Exit Focus</dd>
-                </div>
-            </dl>
-        </div>
+      <div class="setting-group">
+        <button type="button" class="focus-mode-btn" onclick="toggleFocusMode()">Toggle Focus Mode (F)</button>
+      </div>
     </div>
+
+    <div class="menu-section">
+      <h3 class="menu-section-title">Contents ({{ $totalChapters }})</h3>
+      <ul class="menu-toc-list">
+        {{ range $chapters }}
+        <li>
+          <a href="{{ .RelPermalink }}"{{ if eq .File.UniqueID $.File.UniqueID }} class="current"{{ end }}>
+            <span class="menu-toc-num">{{ .Params.chapter_number }}</span>
+            <span class="menu-toc-title">{{ .Title }}</span>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <div class="menu-section">
+      <h3 class="menu-section-title">Shortcuts</h3>
+      <dl class="shortcuts-list">
+        <div class="shortcut-item"><dt>S</dt><dd>Search Book</dd></div>
+        <div class="shortcut-item"><dt>M</dt><dd>Toggle Contents</dd></div>
+        <div class="shortcut-item"><dt>F</dt><dd>Focus Mode</dd></div>
+        <div class="shortcut-item"><dt>← / →</dt><dd>Prev / Next Section</dd></div>
+        <div class="shortcut-item"><dt>Esc</dt><dd>Close Panel / Drawer</dd></div>
+      </dl>
+    </div>
+  </div>
 </aside>
 
-<!-- Overlay -->
 <div class="overlay" id="overlay" onclick="toggleMenu()"></div>
 
-<!-- Keyboard Shortcut Hint -->
-<div class="shortcut-hint" id="shortcutHint"></div>
+<!-- Native Top-Layer Facsimile Scan Drawer -->
+<dialog class="scan-drawer" id="scanDrawer" aria-labelledby="scanDrawerTitle">
+  <div class="scan-drawer-panel">
+    <header class="scan-drawer-bar">
+      <div class="scan-drawer-meta">
+        <span id="scanDrawerTitle" class="scan-drawer-title">Source Scan</span>
+        <span id="scanDrawerLeaf" class="scan-drawer-leaf"></span>
+      </div>
+      <div class="scan-drawer-controls">
+        <button type="button" class="reader-tool-btn" id="scanPrevBtn">← Prev Leaf</button>
+        <button type="button" class="reader-tool-btn" id="scanNextBtn">Next Leaf →</button>
+        <button type="button" class="reader-tool-btn" id="scanZoomBtn">Zoom</button>
+        <a id="scanProofLink" class="reader-tool-btn" href="#" target="_blank" rel="noopener" style="display:none">Proofread Page ↗</a>
+        <a id="scanIaLink" class="reader-tool-btn" href="#" target="_blank" rel="noopener">Archive.org ↗</a>
+        <button type="button" class="reader-tool-btn is-primary" id="scanCloseBtn">Close [Esc]</button>
+      </div>
+    </header>
+    <div class="scan-drawer-stage" id="scanDrawerStage">
+      <img id="scanDrawerImg" alt="Original historical page scan">
+    </div>
+  </div>
+</dialog>
 
-<!-- Reading interactions -->
+<!-- Floating Footnote Popover -->
+<div class="fn-popover" id="fnPopover" hidden role="dialog" aria-label="Footnote preview">
+  <div class="fn-popover-head">
+    <span class="fn-popover-label" id="fnPopoverLabel">Note</span>
+    <button type="button" class="fn-popover-close" id="fnPopoverClose" aria-label="Close footnote">×</button>
+  </div>
+  <div class="fn-popover-body" id="fnPopoverBody"></div>
+  <div class="fn-popover-foot">
+    <a id="fnPopoverJump" href="#">Jump to apparatus ↓</a>
+  </div>
+</div>
+
+<div class="shortcut-hint" id="shortcutHint"></div>
 <script src="/js/reading.js" defer></script>
 {{ end }}

@@ -1,0 +1,28 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,1,data,,Turbans,2,Column 2,Rs.,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,1,data,,Turbans,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,1,data,,Turbans,4,Column 4,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,2,data,,Dhotee,2,Column 2,„,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,2,data,,Dhotee,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,2,data,,Dhotee,4,Column 4,10,10.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,3,data,,Puncha,2,Column 2,„,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,3,data,,Puncha,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,3,data,,Puncha,4,Column 4,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,4,data,,Rumal,2,Column 2,„,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,4,data,,Rumal,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,4,data,,Rumal,4,Column 4,0½,0.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,5,data,,Coats,2,Column 2,„,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,5,data,,Coats,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,5,data,,Coats,4,Column 4,3,3.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,6,data,,Waistcoat,2,Column 2,„,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,6,data,,Waistcoat,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,6,data,,Waistcoat,4,Column 4,2,2.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,7,data,,Shoes,2,Column 2,„,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,7,data,,Shoes,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,7,data,,Shoes,4,Column 4,1½,1.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,8,subtotal,,Total... Rs,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,8,subtotal,,Total... Rs,3,Column 3,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,8,subtotal,,Total... Rs,4,Column 4,11,11.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,9,total,,Grand Total...Rs,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,9,total,,Grand Total...Rs,3,Column 3,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-043,Clothing— Cost per Month.,207,188,9,total,,Grand Total...Rs,4,Column 4,6 per month.,,,False,False

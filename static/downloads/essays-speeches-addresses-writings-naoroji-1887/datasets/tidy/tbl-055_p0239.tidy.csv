@@ -1,0 +1,65 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,1,data,,1855,2,Price per lb. :: s.,12,12.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,1,data,,1855,3,Price per lb. :: d.,9,9.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,1,data,,1855,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,1,data,,1855,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,2,data,,1856,2,Price per lb. :: s.,18,18.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,2,data,,1856,3,Price per lb. :: d.,10,10.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,2,data,,1856,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,2,data,,1856,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,3,data,,1857,2,Price per lb. :: s.,19,19.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,3,data,,1857,3,Price per lb. :: d.,8,8.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,3,data,,1857,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,3,data,,1857,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,4,data,,1858,2,Price per lb. :: s.,17,17.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,4,data,,1858,3,Price per lb. :: d.,8,8.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,4,data,,1858,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,4,data,,1858,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,5,subtotal,,1859,2,Price per lb. :: s.,19,19.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,5,subtotal,,1859,3,Price per lb. :: d.,1,1.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,5,subtotal,,1859,4,Average :: s.,17,17.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,5,subtotal,,1859,5,Average :: d.,7,7.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,6,data,,1860,2,Price per lb. :: s.,20,20.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,6,data,,1860,3,Price per lb. :: d.,2,2.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,6,data,,1860,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,6,data,,1860,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,7,data,,1861,2,Price per lb. :: s.,16,16.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,7,data,,1861,3,Price per lb. :: d.,10,10.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,7,data,,1861,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,7,data,,1861,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,8,data,,1862,2,Price per lb. :: s.,18,18.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,8,data,,1862,3,Price per lb. :: d.,8,8.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,8,data,,1862,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,8,data,,1862,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,9,data,,1863,2,Price per lb. :: s.,18,18.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,9,data,,1863,3,Price per lb. :: d.,8,8.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,9,data,,1863,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,9,data,,1863,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,10,subtotal,,1864,2,Price per lb. :: s.,18,18.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,10,subtotal,,1864,3,Price per lb. :: d.,5,5.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,10,subtotal,,1864,4,Average :: s.,18,18.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,10,subtotal,,1864,5,Average :: d.,7,7.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,11,data,,1865,2,Price per lb. :: s.,23,23.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,11,data,,1865,3,Price per lb. :: d.,6,6.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,11,data,,1865,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,11,data,,1865,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,12,data,,1866,2,Price per lb. :: s.,22,22.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,12,data,,1866,3,Price per lb. :: d.,0,0.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,12,data,,1866,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,12,data,,1866,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,13,data,,1867,2,Price per lb. :: s.,21,21.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,13,data,,1867,3,Price per lb. :: d.,2,2.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,13,data,,1867,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,13,data,,1867,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,14,data,,1868,2,Price per lb. :: s.,23,23.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,14,data,,1868,3,Price per lb. :: d.,8,8.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,14,data,,1868,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,14,data,,1868,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,15,data,,1869,2,Price per lb. :: s.,23,23.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,15,data,,1869,3,Price per lb. :: d.,0,0.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,15,data,,1869,4,Average :: s.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,15,data,,1869,5,Average :: d.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,16,subtotal,,1870,2,Price per lb. :: s.,22,22.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,16,subtotal,,1870,3,Price per lb. :: d.,4,4.0,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,16,subtotal,,1870,4,Average :: s.,22,22.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-055,Table 55,239,222,16,subtotal,,1870,5,Average :: d.,7⅓,7.333333,,False,False

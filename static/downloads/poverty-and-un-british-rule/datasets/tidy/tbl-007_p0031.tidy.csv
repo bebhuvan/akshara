@@ -1,0 +1,56 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,1,data,,Saharunpore,2,Irrigated Land. :: Acres.,"160,058",160058.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,1,data,,Saharunpore,3,Produce per Acre. :: lbs.,"1,100",1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,1,data,,Saharunpore,4,Total Produce. :: lbs.,"176,063,800",176063800.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,1,data,,Saharunpore,5,For 1 Re. :: lbs. ozs.,49 6,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,1,data,,Saharunpore,6,Total Value. :: Rs.,"35,65,849",3565849.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,2,data,,Meerut,2,Irrigated Land. :: Acres.,"577,346",577346.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,2,data,,Meerut,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,2,data,,Meerut,4,Total Produce. :: lbs.,"635,080,600",635080600.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,2,data,,Meerut,5,For 1 Re. :: lbs. ozs.,53 10,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,2,data,,Meerut,6,Total Value. :: Rs.,"1,17,26,444",11726444.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,3,data,,Moradabad,2,Irrigated Land. :: Acres.,"806,930",806930.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,3,data,,Moradabad,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,3,data,,Moradabad,4,Total Produce. :: lbs.,"787,623,000",787623000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,3,data,,Moradabad,5,For 1 Re. :: lbs. ozs.,51 1,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,3,data,,Moradabad,6,Total Value. :: Rs.,"1,73,83,069",17383069.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,4,data,,Bareilly,2,Irrigated Land. :: Acres.,"344,662",344662.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,4,data,,Bareilly,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,4,data,,Bareilly,4,Total Produce. :: lbs.,"379,128,200",379128200.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,4,data,,Bareilly,5,For 1 Re. :: lbs. ozs.,52 1,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,4,data,,Bareilly,6,Total Value. :: Rs.,"72,82,174",7282174.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,5,data,,Muttra,2,Irrigated Land. :: Acres.,"332,542",332542.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,5,data,,Muttra,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,5,data,,Muttra,4,Total Produce. :: lbs.,"365,796,200",365796200.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,5,data,,Muttra,5,For 1 Re. :: lbs. ozs.,48 0,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,5,data,,Muttra,6,Total Value. :: Rs.,"89,22,837",8922837.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,6,data,,Agra,2,Irrigated Land. :: Acres.,"434,166",434166.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,6,data,,Agra,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,6,data,,Agra,4,Total Produce. :: lbs.,"477,582,600",477582600.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,6,data,,Agra,5,For 1 Re. :: lbs. ozs.,46 10,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,6,data,,Agra,6,Total Value. :: Rs.,"1,02,43,058",10243058.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,7,data,,Cawnpore,2,Irrigated Land. :: Acres.,"397,396",397396.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,7,data,,Cawnpore,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,7,data,,Cawnpore,4,Total Produce. :: lbs.,"437,135,600",437135600.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,7,data,,Cawnpore,5,For 1 Re. :: lbs. ozs.,45 6,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,7,data,,Cawnpore,6,Total Value. :: Rs.,"96,33,842",9633842.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,8,data,,Allahabad,2,Irrigated Land. :: Acres.,"345,624",345624.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,8,data,,Allahabad,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,8,data,,Allahabad,4,Total Produce. :: lbs.,"380,186,400",380186400.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,8,data,,Allahabad,5,For 1 Re. :: lbs. ozs.,35 8,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,8,data,,Allahabad,6,Total Value. :: Rs.,"1,07,09,476",10709476.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,9,data,,Mirzapore,2,Irrigated Land. :: Acres.,"198,823",198823.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,9,data,,Mirzapore,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,9,data,,Mirzapore,4,Total Produce. :: lbs.,"218,705,300",218705300.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,9,data,,Mirzapore,5,For 1 Re. :: lbs. ozs.,35 6,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,9,data,,Mirzapore,6,Total Value. :: Rs.,"61,82,481",6182481.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,10,data,,Benares,2,Irrigated Land. :: Acres.,"238,971",238971.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,10,data,,Benares,3,Produce per Acre. :: lbs.,„,1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,10,data,,Benares,4,Total Produce. :: lbs.,"262,868,100",262868100.0,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,10,data,,Benares,5,For 1 Re. :: lbs. ozs.,35 14,,lbs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,10,data,,Benares,6,Total Value. :: Rs.,"75,01,549",7501549.0,Rs,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,11,total,,Total,2,Irrigated Land. :: Acres.,"3,836,518",3836518.0,acres,False,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,11,total,,Total,3,Produce per Acre. :: lbs.,...,,acres,True,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,11,total,,Total,4,Total Produce. :: lbs.,......,,lbs,True,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,11,total,,Total,5,For 1 Re. :: lbs. ozs.,...,,lbs,True,True
+poverty-and-un-british-rule,tbl-007,Wheat.,31,11,11,total,,Total,6,Total Value. :: Rs.,"9,31,50,779",93150779.0,Rs,False,True

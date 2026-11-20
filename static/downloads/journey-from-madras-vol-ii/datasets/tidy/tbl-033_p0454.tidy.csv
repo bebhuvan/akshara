@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-033,Table 33,454,430,1,data,,"For Patom, or rent",2,Porays.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-033,Table 33,454,430,2,data,,For Negadi 5 Fanams For charges of collection ½ ditto } worth,2,Porays.,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-033,Table 33,454,430,3,data,,For present to the landlord,2,Porays.,0 8/10,0.8,,False,False
+journey-from-madras-vol-ii,tbl-033,Table 33,454,430,4,data,,For seed of two crops,2,Porays.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-033,Table 33,454,430,5,data,,"For slaves, labour, &c",2,Porays.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-033,Table 33,454,430,6,total,,Porays,2,Porays.,15 8/10,15.8,,False,False

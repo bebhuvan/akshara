@@ -1,0 +1,197 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,2,1. COVENANTED CIVIL SERVICE. :: FOR,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,3,1. COVENANTED CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,6,2. STATUTORY CIVIL SERVICE. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,7,2. STATUTORY CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,22,22.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,9,9.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",39,39.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,16,4b. ZEMINDARS. :: FOR,20,20.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,17,4b. ZEMINDARS. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,18,4c. MERCHANTS. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,19,4c. MERCHANTS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,8,8.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,22,5. ENGLISH NEWSPAPERS. :: FOR,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,24,6. VERNACULAR NEWSPAPERS. :: FOR,10,10.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,25,6. VERNACULAR NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,1,data,,1. BENGAL,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,2,1. COVENANTED CIVIL SERVICE. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,3,1. COVENANTED CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,6,2. STATUTORY CIVIL SERVICE. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,7,2. STATUTORY CIVIL SERVICE. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,13,13.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",10,10.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,16,4b. ZEMINDARS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,17,4b. ZEMINDARS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,18,4c. MERCHANTS. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,19,4c. MERCHANTS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,8,8.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,22,5. ENGLISH NEWSPAPERS. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,24,6. VERNACULAR NEWSPAPERS. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,25,6. VERNACULAR NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,7,7.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,2,data,,2. MADRAS,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,2,1. COVENANTED CIVIL SERVICE. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,3,1. COVENANTED CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,6,2. STATUTORY CIVIL SERVICE. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,7,2. STATUTORY CIVIL SERVICE. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,9,9.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",7,7.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,16,4b. ZEMINDARS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,17,4b. ZEMINDARS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,18,4c. MERCHANTS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,19,4c. MERCHANTS. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,11,11.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,22,5. ENGLISH NEWSPAPERS. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,24,6. VERNACULAR NEWSPAPERS. :: FOR,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,25,6. VERNACULAR NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,3,data,,3. BOMBAY,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,2,1. COVENANTED CIVIL SERVICE. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,3,1. COVENANTED CIVIL SERVICE. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,6,2. STATUTORY CIVIL SERVICE. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,7,2. STATUTORY CIVIL SERVICE. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,7,7.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,16,4b. ZEMINDARS. :: FOR,9,9.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,17,4b. ZEMINDARS. :: AG.,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,18,4c. MERCHANTS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,19,4c. MERCHANTS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,22,5. ENGLISH NEWSPAPERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,24,6. VERNACULAR NEWSPAPERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,25,6. VERNACULAR NEWSPAPERS. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,4,data,,4. N.-W. PROVS. AND OUDH,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,2,1. COVENANTED CIVIL SERVICE. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,3,1. COVENANTED CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,6,2. STATUTORY CIVIL SERVICE. :: FOR,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,7,2. STATUTORY CIVIL SERVICE. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,10,10.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,16,4b. ZEMINDARS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,17,4b. ZEMINDARS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,18,4c. MERCHANTS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,19,4c. MERCHANTS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,22,5. ENGLISH NEWSPAPERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,24,6. VERNACULAR NEWSPAPERS. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,25,6. VERNACULAR NEWSPAPERS. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,7,7.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,5,data,,5. THE PUNJAB,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,2,1. COVENANTED CIVIL SERVICE. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,3,1. COVENANTED CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,6,2. STATUTORY CIVIL SERVICE. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,7,2. STATUTORY CIVIL SERVICE. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,16,4b. ZEMINDARS. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,17,4b. ZEMINDARS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,18,4c. MERCHANTS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,19,4c. MERCHANTS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,22,5. ENGLISH NEWSPAPERS. :: FOR,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,24,6. VERNACULAR NEWSPAPERS. :: FOR,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,25,6. VERNACULAR NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,6,data,,6. CENTRAL PROVINCES,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,2,1. COVENANTED CIVIL SERVICE. :: FOR,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,3,1. COVENANTED CIVIL SERVICE. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,4,1a. SPECIAL OFFICERS. :: FOR,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,5,1a. SPECIAL OFFICERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,6,2. STATUTORY CIVIL SERVICE. :: FOR,11,11.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,7,2. STATUTORY CIVIL SERVICE. :: AG.,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,8,3a. UNCOV. SERVICE. Judicial and Executive. :: FOR,63,63.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,9,3a. UNCOV. SERVICE. Judicial and Executive. :: AG.,23,23.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,10,3b. EDUCATIONAL DEPARTMENT. :: FOR,19,19.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,11,3b. EDUCATIONAL DEPARTMENT. :: AG.,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,12,3c. UNCOV. SERVICE. Unclassified. :: FOR,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,13,3c. UNCOV. SERVICE. Unclassified. :: AG.,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,14,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: FOR",67,67.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,15,"4a. GENERAL PUBLIC. Barristers, Vakils, etc. :: AG.",3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,16,4b. ZEMINDARS. :: FOR,31,31.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,17,4b. ZEMINDARS. :: AG.,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,18,4c. MERCHANTS. :: FOR,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,19,4c. MERCHANTS. :: AG.,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,20,4d. GENERAL PUBLIC. Unclassified. :: FOR,33,33.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,21,4d. GENERAL PUBLIC. Unclassified. :: AG.,12,12.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,22,5. ENGLISH NEWSPAPERS. :: FOR,10,10.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,23,5. ENGLISH NEWSPAPERS. :: AG.,0,0.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,24,6. VERNACULAR NEWSPAPERS. :: FOR,22,22.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,25,6. VERNACULAR NEWSPAPERS. :: AG.,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,26,7. ASSOCIATIONS AND SOCIETIES. :: FOR,34,34.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,27,7. ASSOCIATIONS AND SOCIETIES. :: AG.,11,11.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,28,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: FOR,7,7.0,,False,True
+poverty-and-un-british-rule,tbl-162,Indians.,501,481,7,total,,TOTALS,29,8. MEMBERS OF COUNCIL AND HIGH COURT JUDGES. :: AG.,1,1.0,,False,True

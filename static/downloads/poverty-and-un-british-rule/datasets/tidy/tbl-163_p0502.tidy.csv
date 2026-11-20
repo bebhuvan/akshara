@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,1,data,,Covenanted Officials,2,Europeans. :: For.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,1,data,,Covenanted Officials,3,Europeans. :: Against.,53,53.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,2,data,,Uncovenanted and non-Officials,2,Europeans. :: For.,31,31.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,2,data,,Uncovenanted and non-Officials,3,Europeans. :: Against.,37,37.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,3,total,,Totals,2,Europeans. :: For.,49,49.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,3,total,,Totals,3,Europeans. :: Against.,90,90.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,5,header,Indians,Row 5,2,Europeans. :: For.,For.,,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,5,header,Indians,Row 5,3,Europeans. :: Against.,Against.,,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,6,data,Indians,Covenanted Officials,2,Europeans. :: For.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,6,data,Indians,Covenanted Officials,3,Europeans. :: Against.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,7,data,Indians,Uncovenanted and non-Officials,2,Europeans. :: For.,295,295.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,7,data,Indians,Uncovenanted and non-Officials,3,Europeans. :: Against.,67,67.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,8,total,,Totals,2,Europeans. :: For.,312,312.0,,False,False
+poverty-and-un-british-rule,tbl-163,FOR OR AGAINST SIMULTANEOUS EXAMINATIONS.,502,482,8,total,,Totals,3,Europeans. :: Against.,73,73.0,,False,False

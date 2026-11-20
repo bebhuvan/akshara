@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-076,Table 76,138,118,1,data,,Passed Hospital Apprentice,2,Rs.,50,50.0,Rs,False,False
+poverty-and-un-british-rule,tbl-076,Table 76,138,118,2,data,,Assistant Apothecary under 5 years,2,Rs.,75,75.0,Rs,False,False
+poverty-and-un-british-rule,tbl-076,Table 76,138,118,3,data,,Assistant Apothecary after 5 years,2,Rs.,100,100.0,Rs,False,False
+poverty-and-un-british-rule,tbl-076,Table 76,138,118,4,data,,Apothecary under 5 years,2,Rs.,150,150.0,Rs,False,False
+poverty-and-un-british-rule,tbl-076,Table 76,138,118,5,data,,Apothecary after 5 years,2,Rs.,200,200.0,Rs,False,False
+poverty-and-un-british-rule,tbl-076,Table 76,138,118,6,data,,Senior Apothecary,2,Rs.,400,400.0,Rs,False,False

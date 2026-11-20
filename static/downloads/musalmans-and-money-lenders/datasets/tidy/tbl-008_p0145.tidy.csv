@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,1,data,,Advocates,2,Number.,21,21.0,count,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,1,data,,Advocates,3,Annual receipts per head. :: Rs.,"14,000",14000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,1,data,,Advocates,4,Total receipts of class. :: Rs.,"2,94,000",294000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,2,data,,"1st grade pleaders,",2,Number.,52,52.0,count,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,2,data,,"1st grade pleaders,",3,Annual receipts per head. :: Rs.,"12,000",12000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,2,data,,"1st grade pleaders,",4,Total receipts of class. :: Rs.,"6,24,000",624000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,3,data,,"2nd grade pleaders,",2,Number.,175,175.0,count,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,3,data,,"2nd grade pleaders,",3,Annual receipts per head. :: Rs.,"6,000",6000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,3,data,,"2nd grade pleaders,",4,Total receipts of class. :: Rs.,"10,50,000",1050000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,4,data,,"1st grade mukhtars,",2,Number.,15,15.0,count,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,4,data,,"1st grade mukhtars,",3,Annual receipts per head. :: Rs.,"5,000",5000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,4,data,,"1st grade mukhtars,",4,Total receipts of class. :: Rs.,"75,000",75000.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,5,data,,"2nd grade mukhtars,",2,Number.,133,133.0,count,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,5,data,,"2nd grade mukhtars,",3,Annual receipts per head. :: Rs.,"1,200",1200.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,5,data,,"2nd grade mukhtars,",4,Total receipts of class. :: Rs.,"1,59,600",159600.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,6,total,,Total,2,Number.,396,396.0,count,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,6,total,,Total,3,Annual receipts per head. :: Rs.,"38,200",38200.0,Rs,False,True
+musalmans-and-money-lenders,tbl-008,Table 8,145,133,6,total,,Total,4,Total receipts of class. :: Rs.,"22,02,600",2202600.0,Rs,False,True

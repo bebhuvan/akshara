@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+history-and-economics-indian-famines-loveday-1914,tbl-007,Table 7,172,156,1,data,,Mackenzie,2,Column 2,MSS.,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-007,Table 7,172,156,2,data,,Pamphlet A,2,Column 2,"Fortnight in the Famine Country of Bengal, 1874.",,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-007,Table 7,172,156,3,data,,Row 3,2,Column 2,"The Indian Famine of 1877 (published, Kegan Paul, 1878).",,,False,False

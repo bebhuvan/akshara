@@ -1,0 +1,35 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,1,data,,Principal Sudder Amins,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,1,data,,Principal Sudder Amins,3,1849.,64,64.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,2,data,,Sudder Amins,2,1828.,157,157.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,2,data,,Sudder Amins,3,1849.,81,81.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,3,data,,Munsiffs,2,1828.,86,86.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,3,data,,Munsiffs,3,1849.,494,494.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,4,data,,Deputy Magistrates,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,4,data,,Deputy Magistrates,3,1849.,11,11.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,5,data,,Deputy and Assistant Collectors,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,5,data,,Deputy and Assistant Collectors,3,1849.,86,86.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,6,data,,Sub-Collector's Assistants,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,6,data,,Sub-Collector's Assistants,3,1849.,27,27.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,7,data,,Abkaro (Excise) Superintendents,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,7,data,,Abkaro (Excise) Superintendents,3,1849.,15,15.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,8,data,,Tahsildars,2,1828.,356,356.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,8,data,,Tahsildars,3,1849.,276,276.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,9,data,,Sheristadars,2,1828.,367,367.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,9,data,,Sheristadars,3,1849.,155,155.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,10,data,,Mamlatdars,2,1828.,9,9.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,10,data,,Mamlatdars,3,1849.,110,110.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,11,data,,Daftardars,2,1828.,2,2.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,11,data,,Daftardars,3,1849.,19,19.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,12,data,,Kamavisdars,2,1828.,57,57.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,12,data,,Kamavisdars,3,1849.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,13,data,,Adalatus,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,13,data,,Adalatus,3,1849.,5,5.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,14,data,,Mir Munshis,2,1828.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,14,data,,Mir Munshis,3,1849.,1,1.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,15,data,,Educational,2,1828.,14,14.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,15,data,,Educational,3,1849.,479,479.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,16,data,,Various,2,1828.,149,149.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,16,data,,Various,3,1849.,990,990.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,17,total,,Total,2,1828.,1197,1197.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-024,Table 24,217,189,17,total,,Total,3,1849.,2813,2813.0,,False,True

@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,1,data,,To the proprietor,2,Pieces.,35,35.0,,False,True
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,2,data,,"To the Panchála, who is the fore-man at the forge",2,Pieces.,10,10.0,,False,True
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,3,data,,To the fore-man at the smelting-house,2,Pieces.,8,8.0,,False,True
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,4,data,,"To one of the bellows-men, who removes the ashes and dross",2,Pieces.,5,5.0,,False,True
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,5,data,,"To two of the women, who wash the sand, at 5 each",2,Pieces.,10,10.0,,False,True
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,6,data,,"To the remaining 16 persons, at 4 each",2,Pieces.,64,64.0,,False,True
+journey-from-madras-vol-ii,tbl-001,Table 1,31,17,7,total,,Row 7,2,Pieces.,132,132.0,,False,True

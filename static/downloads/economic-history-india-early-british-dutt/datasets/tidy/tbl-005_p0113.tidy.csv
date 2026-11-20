@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,1,data,,1762–63,2,Actual collection in rupees.,"6,456,198",6456198.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,1,data,,1762–63,3,Actual collection in £,"[646,000]",,GBP,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,2,data,,1763–64,2,Actual collection in rupees.,"7,618,407",7618407.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,2,data,,1763–64,3,Actual collection in £,"[762,000]",,GBP,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,3,data,,1764–65,2,Actual collection in rupees.,"8,175,533",8175533.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,3,data,,1764–65,3,Actual collection in £,"[818,000]",,GBP,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,4,data,,1765–66,2,Actual collection in rupees.,"14,704,875",14704875.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-005,Table 5,113,85,4,data,,1765–66,3,Actual collection in £,"[1,470,000]",,GBP,False,False

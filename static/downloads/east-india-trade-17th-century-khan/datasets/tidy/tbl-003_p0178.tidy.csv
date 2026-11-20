@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,1,data,,"Broad-cloths, 105 bales of 315 cloths Price",2,Column 2,"£4,162",4162.0,GBP,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,1,data,,"Broad-cloths, 105 bales of 315 cloths Price",3,Column 3,10,10.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,1,data,,"Broad-cloths, 105 bales of 315 cloths Price",4,Column 4,4,4.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,2,data,,Quicksilver,2,Column 2,"1,736",1736.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,2,data,,Quicksilver,3,Column 3,16,16.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,2,data,,Quicksilver,4,Column 4,0,0.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,3,data,,Vermilion,2,Column 2,499,499.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,3,data,,Vermilion,3,Column 3,16,16.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,3,data,,Vermilion,4,Column 4,0,0.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,4,data,,Copper,2,Column 2,"3,561",3561.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,4,data,,Copper,3,Column 3,4,4.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,4,data,,Copper,4,Column 4,0,0.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,5,data,,"Lead, 350 pigs",2,Column 2,"1,132",1132.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,5,data,,"Lead, 350 pigs",3,Column 3,11,11.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,5,data,,"Lead, 350 pigs",4,Column 4,8,8.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,6,data,,Coral,2,Column 2,"3,356",3356.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,6,data,,Coral,3,Column 3,10,10.0,,False,False
+east-india-trade-17th-century-khan,tbl-003,Table 3,178,166,6,data,,Coral,4,Column 4,9,9.0,,False,False

@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,1,data,,Punjab,2,Area ordinarily Cultivated. Acres.,"21,000,000",21000000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,1,data,,Punjab,3,Secured by Natural Rain Fall. Acres.,"6,500,000",6500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,1,data,,Punjab,4,Ordinarily Irrigated. Acres.,"5,500,000",5500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,2,data,,North W. Province and Oudh,2,Area ordinarily Cultivated. Acres.,"36,000,000",36000000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,2,data,,North W. Province and Oudh,3,Secured by Natural Rain Fall. Acres.,"20,000,000",20000000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,2,data,,North W. Province and Oudh,4,Ordinarily Irrigated. Acres.,"11,500,000",11500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,3,data,,Bengal,2,Area ordinarily Cultivated. Acres.,"54,500,000",54500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,3,data,,Bengal,3,Secured by Natural Rain Fall. Acres.,"13,500,000",13500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,3,data,,Bengal,4,Ordinarily Irrigated. Acres.,"1,000,000",1000000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,4,data,,Central Provinces,2,Area ordinarily Cultivated. Acres.,"15,500,000",15500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,4,data,,Central Provinces,3,Secured by Natural Rain Fall. Acres.,"15,500,000",15500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,4,data,,Central Provinces,4,Ordinarily Irrigated. Acres.,"770,000",770000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,5,data,,Berar,2,Area ordinarily Cultivated. Acres.,"6,500,000",6500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,5,data,,Berar,3,Secured by Natural Rain Fall. Acres.,"6,500,000",6500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,5,data,,Berar,4,Ordinarily Irrigated. Acres.,"100,000",100000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,6,data,,Bombay,2,Area ordinarily Cultivated. Acres.,"24,500,000",24500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,6,data,,Bombay,3,Secured by Natural Rain Fall. Acres.,nil.,0.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,6,data,,Bombay,4,Ordinarily Irrigated. Acres.,"450,000",450000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,7,data,,Sindh,2,Area ordinarily Cultivated. Acres.,"2,250,000",2250000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,7,data,,Sindh,3,Secured by Natural Rain Fall. Acres.,"500,000",500000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,7,data,,Sindh,4,Ordinarily Irrigated. Acres.,"1,800,000",1800000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,8,data,,Madras,2,Area ordinarily Cultivated. Acres.,"32,000,000",32000000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,8,data,,Madras,3,Secured by Natural Rain Fall. Acres.,"6,250,000",6250000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,8,data,,Madras,4,Ordinarily Irrigated. Acres.,"7,300,000",7300000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,9,data,,Mysore,2,Area ordinarily Cultivated. Acres.,"5,000,000",5000000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,9,data,,Mysore,3,Secured by Natural Rain Fall. Acres.,nil.,0.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,9,data,,Mysore,4,Ordinarily Irrigated. Acres.,"800,000",800000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,10,total,,Row 10,2,Area ordinarily Cultivated. Acres.,"197,250,000",197250000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,10,total,,Row 10,3,Secured by Natural Rain Fall. Acres.,"68,750,000",68750000.0,acres,False,True
+indian-finance-moxon-1881,tbl-009,IRRIGATION IN INDIA.,51,47,10,total,,Row 10,4,Ordinarily Irrigated. Acres.,"29,220,000",29220000.0,acres,False,True

@@ -1,0 +1,82 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,3,Column 3,"27 seers, 8 chittacks or 55 lbs. per Re. 1.",,lbs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,4,Column 4,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,7,Column 7,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,8,Column 8,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,9,Column 9,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,1,data,,Meerut,10,Column 10,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,3,Column 3,25,25.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,5,Column 5,14,14.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,6,Column 6,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,7,Column 7,50,50.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,9,Column 9,nearly,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,2,data,,Saharunpore,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,3,Column 3,25,25.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,7,Column 7,50,50.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,3,data,,Bareilly,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,3,Column 3,24,24.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,7,Column 7,48,48.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,4,data,,Moradabad Muttra Agra,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,3,Column 3,22,22.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,7,Column 7,44,44.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,5,data,,Cawnpore,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,3,Column 3,18,18.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,5,Column 5,4,4.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,6,Column 6,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,7,Column 7,36½,36.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,6,data,,Benares,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,3,Column 3,17,17.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,7,Column 7,34,34.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,7,data,,Allahabad,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,3,Column 3,17,17.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,7,Column 7,34,34.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,8,data,,Mirzapore,10,Column 10,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,2,Column 2,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,3,Column 3,16,16.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,4,Column 4,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,7,Column 7,32,32.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,8,Column 8,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,9,Column 9,"""",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-064,Table 64,243,226,9,data,,Ajmere,10,Column 10,"""",,,False,False

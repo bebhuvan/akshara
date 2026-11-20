@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,1,data,,Bengal,2,District.,{ Patna . Backergunj .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,1,data,,Bengal,3,Monthly Wages.,6s. 8d. to 8s. 10s. 8d.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,2,data,,Agra and Oudh,2,District.,{ Cawnpur . Fyzabad .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,2,data,,Agra and Oudh,3,Monthly Wages.,5s. to 6s. 8d. 2s. 6d. to 5s. 4d.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,3,data,,Punjab,2,District.,Delhi .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,3,data,,Punjab,3,Monthly Wages.,10s. 8d.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,4,data,,Bombay,2,District.,Ahmedabad .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,4,data,,Bombay,3,Monthly Wages.,9s. 4d.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,5,data,,Madras,2,District.,{ Bellary . Salem .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,5,data,,Madras,3,Monthly Wages.,6s. 4d. 4s. 8d.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,6,data,,Central Provinces,2,District.,{ Jabalpur . Raipur .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-074,Table 74,634,606,6,data,,Central Provinces,3,Monthly Wages.,5s. 4d. 5s. 4d.,,,False,False

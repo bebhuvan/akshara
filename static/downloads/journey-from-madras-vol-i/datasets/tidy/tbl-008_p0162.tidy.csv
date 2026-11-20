@@ -1,0 +1,144 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,2,Mussulman Name.,Ahumuddy,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,3,English vulgar Name.,Gold Mohur,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,4,By whom coined.,Tippoo Sultan,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,5,Grains weight.,212,212.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,6,Grains pure Gold or Silver.,"181,791",181791.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,7,Value compared with a Guinea. :: £. s. d. dec.,"1 12 2,84",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,10,Value in Dudus. :: According to Government Regulation.,728,728.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,11,Value in Dudus. :: According to change given by Shrofs.,936,936.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,1,data,,Row 1,12,Value in Dudus. :: According to Market price.,1040,1040.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,2,Mussulman Name.,Siducy,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,3,English vulgar Name.,Half Mohur,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,4,By whom coined.,Tippoo Sultan,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,5,Grains weight.,106,106.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,6,Grains pure Gold or Silver.,"90,8955",908955.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,7,Value compared with a Guinea. :: £. s. d. dec.,"0 16 1,42",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,10,Value in Dudus. :: According to Government Regulation.,364,364.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,11,Value in Dudus. :: According to change given by Shrofs.,468,468.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,2,data,,Row 2,12,Value in Dudus. :: According to Market price.,520,520.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,2,Mussulman Name.,Sultany Hun,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,3,English vulgar Name.,Sultany Pagoda,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,4,By whom coined.,Tippoo Sultan,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,5,Grains weight.,53,53.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,6,Grains pure Gold or Silver.,"45,4477",454477.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,7,Value compared with a Guinea. :: £. s. d. dec.,"0 8 0,71",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,10,Value in Dudus. :: According to Government Regulation.,182,182.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,11,Value in Dudus. :: According to change given by Shrofs.,234,234.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,3,data,,Sultany Varaha,12,Value in Dudus. :: According to Market price.,260,260.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,2,Mussulman Name.,Bahadury Hun,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,3,English vulgar Name.,Bahadury Pagoda,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,4,By whom coined.,Hyder Aly Khan,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,5,Grains weight.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,6,Grains pure Gold or Silver.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,7,Value compared with a Guinea. :: £. s. d. dec.,,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,10,Value in Dudus. :: According to Government Regulation.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,11,Value in Dudus. :: According to change given by Shrofs.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,4,data,,Bahadury Varaha,12,Value in Dudus. :: According to Market price.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,2,Mussulman Name.,Ikery Hun,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,3,English vulgar Name.,Swamy Pagoda,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,4,By whom coined.,Mysore Raja,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,5,Grains weight.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,6,Grains pure Gold or Silver.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,7,Value compared with a Guinea. :: £. s. d. dec.,,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,10,Value in Dudus. :: According to Government Regulation.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,11,Value in Dudus. :: According to change given by Shrofs.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,5,data,,Ikery Varaha,12,Value in Dudus. :: According to Market price.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,2,Mussulman Name.,Companyca Hun,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,3,English vulgar Name.,Star Pagoda,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,4,By whom coined.,The Madras Mint,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,5,Grains weight.,52¾,52.75,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,6,Grains pure Gold or Silver.,"41,47",4147.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,7,Value compared with a Guinea. :: £. s. d. dec.,"0 7 4,24",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,10,Value in Dudus. :: According to Government Regulation.,168,168.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,11,Value in Dudus. :: According to change given by Shrofs.,216,216.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,6,data,,Company Varaha,12,Value in Dudus. :: According to Market price.,240,240.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,2,Mussulman Name.,Sultany Palam,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,3,English vulgar Name.,Sultany Fanam,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,4,By whom coined.,Tippoo Sultan,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,5,Grains weight.,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,6,Grains pure Gold or Silver.,"3,519",3519.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,7,Value compared with a Guinea. :: £. s. d. dec.,"0 0 7,489",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,"8,059",8059.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,10,Value in Dudus. :: According to Government Regulation.,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,11,Value in Dudus. :: According to change given by Shrofs.,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,7,data,,Sultany Hana,12,Value in Dudus. :: According to Market price.,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,2,Mussulman Name.,Canter'raia Palam,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,3,English vulgar Name.,Cantery Fanam,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,4,By whom coined.,Mysore Raja,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,5,Grains weight.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,6,Grains pure Gold or Silver.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,7,Value compared with a Guinea. :: £. s. d. dec.,,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,10,Value in Dudus. :: According to Government Regulation.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,11,Value in Dudus. :: According to change given by Shrofs.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,8,data,,Canter'raia Hana,12,Value in Dudus. :: According to Market price.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,2,Mussulman Name.,Sultany Rupea,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,3,English vulgar Name.,Sultany Rupee,,Rs,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,4,By whom coined.,Tippoo Sultan,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,5,Grains weight.,177,177.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,6,Grains pure Gold or Silver.,"165,053",165053.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,7,Value compared with a Guinea. :: £. s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,8,Value compared with a Shilling. :: s. d. dec.,"1 11,05",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,"2 2,036",,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,10,Value in Dudus. :: According to Government Regulation.,49,49.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,11,Value in Dudus. :: According to change given by Shrofs.,63,63.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,10,data,Silver,Sultany Rupea,12,Value in Dudus. :: According to Market price.,70,70.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,2,Mussulman Name.,Rajaca Rupea,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,3,English vulgar Name.,Rajas Rupee,,Rs,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,4,By whom coined.,Mysore Raja,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,5,Grains weight.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,6,Grains pure Gold or Silver.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,7,Value compared with a Guinea. :: £. s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,8,Value compared with a Shilling. :: s. d. dec.,,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,10,Value in Dudus. :: According to Government Regulation.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,11,Value in Dudus. :: According to change given by Shrofs.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,11,data,Silver,Mysoor Raja Rupea,12,Value in Dudus. :: According to Market price.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,2,Mussulman Name.,Companyca Rupea,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,3,English vulgar Name.,Company Rupee,,Rs,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,4,By whom coined.,The Madras Mint,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,5,Grains weight.,175,175.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,6,Grains pure Gold or Silver.,"163,625",163625.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,7,Value compared with a Guinea. :: £. s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,8,Value compared with a Shilling. :: s. d. dec.,"1 10,84",,GBP,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,2 2,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,10,Value in Dudus. :: According to Government Regulation.,48,48.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,11,Value in Dudus. :: According to change given by Shrofs.,62,62.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,12,data,Silver,Company Rupea,12,Value in Dudus. :: According to Market price.,69,69.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,2,Mussulman Name.,Paissa or Jora,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,3,English vulgar Name.,Dub,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,4,By whom coined.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,5,Grains weight.,177,177.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,6,Grains pure Gold or Silver.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,7,Value compared with a Guinea. :: £. s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,10,Value in Dudus. :: According to Government Regulation.,-,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,11,Value in Dudus. :: According to change given by Shrofs.,-,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,14,data,Copper,Dudu,12,Value in Dudus. :: According to Market price.,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,2,Mussulman Name.,Du' Paissa,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,3,English vulgar Name.,Double Dub,,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,4,By whom coined.,,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,5,Grains weight.,354,354.0,,False,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,6,Grains pure Gold or Silver.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,7,Value compared with a Guinea. :: £. s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,8,Value compared with a Shilling. :: s. d. dec.,- - -,,GBP,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,9,Value according to exchange of silver and base gold compared to Sultany Pagodas :: s. d. dec.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,10,Value in Dudus. :: According to Government Regulation.,-,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,11,Value in Dudus. :: According to change given by Shrofs.,-,,,True,False
+journey-from-madras-vol-i,tbl-008,Table 8,162,128,15,data,Copper,Dod dudu,12,Value in Dudus. :: According to Market price.,2,2.0,,False,False

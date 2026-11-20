@@ -2,22 +2,9 @@
 {{ partial "header.html" . }}
 
 {{ if eq .File.Path "books/_index.md" }}
-    {{/* Books index page */}}
-    <main class="books-list-page">
-        <div class="page-header">
-            <h1>All Books</h1>
-            <p class="page-subtitle">Browse our complete collection of Indian literature</p>
-        </div>
-
-        <div class="books-grid">
-            {{ range .Sections }}
-                {{ partial "book-card.html" . }}
-            {{ end }}
-        </div>
-    </main>
+  {{ partial "books-catalog.html" . }}
 {{ else }}
-    {{/* Individual book page - delegate to book.html */}}
-    {{ partial "book-page.html" . }}
+  {{ partial "book-page.html" . }}
 {{ end }}
 
 {{ partial "footer.html" . }}

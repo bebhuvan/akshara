@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,1,data,,Houses inhabited by Mussulmans,2,Column 2,"12,581",12581.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,2,data,,Ditto by Namburis,2,Column 2,297,297.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,3,data,,Ditto by Puttar Bráhmans,2,Column 2,44,44.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,4,data,,Ditto by the families of Rájás,2,Column 2,33,33.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,5,data,,Ditto by Nairs,2,Column 2,6747,6747.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,6,data,,Ditto by Tiars,2,Column 2,4733,4733.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,7,data,,Ditto by Mucuas,2,Column 2,608,608.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,8,data,,Ditto by people from the country to the eastward,2,Column 2,472,472.0,,False,True
+journey-from-madras-vol-ii,tbl-035,Table 35,467,441,9,total,,Total,2,Column 2,"25,515",25515.0,,False,True

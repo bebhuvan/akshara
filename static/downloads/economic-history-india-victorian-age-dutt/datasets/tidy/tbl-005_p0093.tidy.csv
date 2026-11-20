@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-005,Table 5,93,65,1,data,,In 1817–18 the Land Revenue was,2,Column 2,"£868,047",868047.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-005,Table 5,93,65,2,data,,„ 1818–19 „ „ „,2,Column 2,"1,143,041",1143041.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-005,Table 5,93,65,3,data,,„ 1819–20 „ „ „,2,Column 2,"1,078,164",1078164.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-005,Table 5,93,65,4,data,,„ 1820–21 „ „ „,2,Column 2,"1,818,314",1818314.0,,False,False

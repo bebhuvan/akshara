@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,1,data,,"The total cost of a year’s victuals, ships, and officers’ and men’s pay was calculated at",2,Column 2,"£10,498",10498.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,1,data,,"The total cost of a year’s victuals, ships, and officers’ and men’s pay was calculated at",3,Column 3,16,16.0,,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,1,data,,"The total cost of a year’s victuals, ships, and officers’ and men’s pay was calculated at",4,Column 4,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,2,data,,The cost of ammunition was,2,Column 2,"1,000",1000.0,,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,2,data,,The cost of ammunition was,3,Column 3,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,2,data,,The cost of ammunition was,4,Column 4,0,0.0,,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,3,total,,Total estimate for the year will be,2,Column 2,"£11,498",11498.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,3,total,,Total estimate for the year will be,3,Column 3,16,16.0,,False,True
+east-india-trade-17th-century-khan,tbl-001,Table 1,149,137,3,total,,Total estimate for the year will be,4,Column 4,0,0.0,,False,True

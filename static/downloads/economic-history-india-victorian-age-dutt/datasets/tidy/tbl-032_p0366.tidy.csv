@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,1,data,,"Apparel, arms, cabinet-ware, candles, carriages, clocks, cotton, &c",2,Column 2,} 7½ per cent.,,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,2,data,,Cotton twist,2,Column 2,3½ „,3.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,3,data,,Piece goods,2,Column 2,5 „,5.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,4,data,,Medicines,2,Column 2,7½ „,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,5,data,,Colouring materials,2,Column 2,7½ „,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,6,data,,"Fruits, glass, skins, jewellery, ivory, and leather",2,Column 2,7½ „,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,7,data,,Beer,2,Column 2,1½d. per gallon.,,gallons,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,8,data,,Spirits,2,Column 2,6s. „,,gallons,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,9,data,,Wines,2,Column 2,3s. „,,gallons,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,10,data,,Iron,2,Column 2,1 per cent.,1.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,11,data,,Other metals,2,Column 2,7½ „,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,12,data,,"Naval stores, oils, paints, perfumery, porcelain, provisions, and oilman's stores",2,Column 2,} 7½ „,,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,13,data,,Silk,2,Column 2,7½ „,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,14,data,,Sugar,2,Column 2,7½ „,7.5,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,15,data,,Tobacco,2,Column 2,10 „,10.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-032,Import Duties.,366,338,16,data,,Woollen piece goods,2,Column 2,5 „,5.0,%,False,False

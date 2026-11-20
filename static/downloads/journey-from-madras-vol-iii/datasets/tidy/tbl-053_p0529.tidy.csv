@@ -1,0 +1,217 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,1,data,,Betle-Nuts,2,Local Value.,230 reas per 1000,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,1,data,,Betle-Nuts,3,Probable Profit arising on the Trade.,"When dried and prepared, 50 per cent.",,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,1,data,,Betle-Nuts,4,Explanatory Remarks.,100 reas = 1 rupee,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,2,data,,Black Wood,2,Local Value.,3½ rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,2,data,,Black Wood,3,Probable Profit arising on the Trade.,200 per cent.,200.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,2,data,,Black Wood,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,3,data,,Bamboos,2,Local Value.,2 rupees per 100,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,3,data,,Bamboos,3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,3,data,,Bamboos,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,4,data,,"Buzarbut-Nuts, a countrymedicine",2,Local Value.,18 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,4,data,,"Buzarbut-Nuts, a countrymedicine",3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,4,data,,"Buzarbut-Nuts, a countrymedicine",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,5,data,,Betle-Nut Leaves,2,Local Value.,1 rupee per 4000,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,5,data,,Betle-Nut Leaves,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,5,data,,Betle-Nut Leaves,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,6,data,,Butter,2,Local Value.,6 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,6,data,,Butter,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,6,data,,Butter,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,7,data,,Coco-Nuts,2,Local Value.,14 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,7,data,,Coco-Nuts,3,Probable Profit arising on the Trade.,3 rupees per mill (1000),,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,7,data,,Coco-Nuts,4,Explanatory Remarks.,Extremely variable in their Prices,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,8,data,,"Cardamums, 1st sort",2,Local Value.,800 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,8,data,,"Cardamums, 1st sort",3,Probable Profit arising on the Trade.,80 per cent,80.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,8,data,,"Cardamums, 1st sort",4,Explanatory Remarks.,Little used in the Country. — Vide List of Goods exported.,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,9,data,,"Ditto, 2d ditto",2,Local Value.,600 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,9,data,,"Ditto, 2d ditto",3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,9,data,,"Ditto, 2d ditto",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,10,data,,"Ditto, 3d ditto",2,Local Value.,450 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,10,data,,"Ditto, 3d ditto",3,Probable Profit arising on the Trade.,40 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,10,data,,"Ditto, 3d ditto",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,11,data,,"Ditto, 4th ditto",2,Local Value.,300 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,11,data,,"Ditto, 4th ditto",3,Probable Profit arising on the Trade.,20 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,11,data,,"Ditto, 4th ditto",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,12,data,,Cassia (Laurus),2,Local Value.,30 to 40 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,12,data,,Cassia (Laurus),3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,12,data,,Cassia (Laurus),4,Explanatory Remarks.,"Occasionally bought up by the Europe Ships; and which, in London, they mix with the real Cinnamon.",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,13,data,,"Coir, Rope of Coco-Nut Husks, 2 sorts",2,Local Value.,18 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,13,data,,"Coir, Rope of Coco-Nut Husks, 2 sorts",3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,13,data,,"Coir, Rope of Coco-Nut Husks, 2 sorts",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,14,data,,Capoor Catchree,2,Local Value.,3 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,14,data,,Capoor Catchree,3,Probable Profit arising on the Trade.,10 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,14,data,,Capoor Catchree,4,Explanatory Remarks.,A Country Medicine,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,15,data,,Colenzun,2,Local Value.,12 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,15,data,,Colenzun,3,Probable Profit arising on the Trade.,5 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,15,data,,Colenzun,4,Explanatory Remarks.,Used in Medicine,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,16,data,,Cassia Leaves (Laurus),2,Local Value.,10 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,16,data,,Cassia Leaves (Laurus),3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,16,data,,Cassia Leaves (Laurus),4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,17,data,,Cultee,2,Local Value.,1¾ rupees per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,17,data,,Cultee,3,Probable Profit arising on the Trade.,40 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,17,data,,Cultee,4,Explanatory Remarks.,Horse Gram. Dolichos biflorus,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,18,data,,Chowla,2,Local Value.,2¼ rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,18,data,,Chowla,3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,18,data,,Chowla,4,Explanatory Remarks.,"A Country Grain, Holcus Sorghum",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,19,data,,Castor Seed,2,Local Value.,1¾ ditto per maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,19,data,,Castor Seed,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,19,data,,Castor Seed,4,Explanatory Remarks.,Ricinus,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,20,data,,Dry Ginger,2,Local Value.,35 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,20,data,,Dry Ginger,3,Probable Profit arising on the Trade.,50 to 100 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,20,data,,Dry Ginger,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,21,data,,Eggs,2,Local Value.,1½ rupees per 100,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,21,data,,Eggs,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,21,data,,Eggs,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,22,data,,Honey,2,Local Value.,5 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,22,data,,Honey,3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,22,data,,Honey,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,23,data,,Heavy Pepper,2,Local Value.,100 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,23,data,,Heavy Pepper,3,Probable Profit arising on the Trade.,80 per cent. last year : now 100 per cent.,,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,23,data,,Heavy Pepper,4,Explanatory Remarks.,"It is said, that the French at Mahé now give 210 rupees per candy",,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,24,data,,Jack Wood,2,Local Value.,1½ rupee per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,24,data,,Jack Wood,3,Probable Profit arising on the Trade.,100 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,24,data,,Jack Wood,4,Explanatory Remarks.,Artocarpus,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,25,data,,Jeer Kutchla,2,Local Value.,5 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,25,data,,Jeer Kutchla,3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,25,data,,Jeer Kutchla,4,Explanatory Remarks.,A Medicine,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,26,data,,Jeer Mai,2,Local Value.,12 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,26,data,,Jeer Mai,3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,26,data,,Jeer Mai,4,Explanatory Remarks.,Kind of Nuts used in Medicine,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,27,data,,Jinjely Seed,2,Local Value.,2½ rupees per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,27,data,,Jinjely Seed,3,Probable Profit arising on the Trade.,50 per cent.,50.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,27,data,,Jinjely Seed,4,Explanatory Remarks.,Sesamum,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,28,data,,Jacks Fruit,2,Local Value.,8 per a rupee,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,28,data,,Jacks Fruit,3,Probable Profit arising on the Trade.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,28,data,,Jacks Fruit,4,Explanatory Remarks.,Artocarpus,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,29,data,,Kud Ebramee,2,Local Value.,10 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,29,data,,Kud Ebramee,3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,529,481,29,data,,Kud Ebramee,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,30,data,,Light Pepper,2,Local Value.,100 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,30,data,,Light Pepper,3,Probable Profit arising on the Trade.,100 per cent.,100.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,30,data,,Light Pepper,4,Explanatory Remarks.,"The Reason of Light Pepper bearing apparently so high a Price, is from the vast Quantity of it which goes to one candy in weighing it.",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,31,data,,Lowlungar Wood,2,Local Value.,1½ rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,31,data,,Lowlungar Wood,3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,31,data,,Lowlungar Wood,4,Explanatory Remarks.,"A heavy hard Wood, which sinks in the Water; occasionally used by Tippoo in launching his Ships, to put beneath them when hauled into the Water. Hopee Buch. MSS.",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,32,data,,Mug (Mung),2,Local Value.,2 rupees per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,32,data,,Mug (Mung),3,Probable Profit arising on the Trade.,50 per cent.,50.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,32,data,,Mug (Mung),4,Explanatory Remarks.,Phaseolus Mungo L.,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,33,data,,"Mangoes, Fruit",2,Local Value.,2 rupees per 100,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,33,data,,"Mangoes, Fruit",3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,33,data,,"Mangoes, Fruit",4,Explanatory Remarks.,Mangifera,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,34,data,,"Nag Kasur, Flower of Cassia",2,Local Value.,35 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,34,data,,"Nag Kasur, Flower of Cassia",3,Probable Profit arising on the Trade.,25 per cent.,25.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,34,data,,"Nag Kasur, Flower of Cassia",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,35,data,,Poon Wood for Masts,2,Local Value.,5 to 100 rupees per piece,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,35,data,,Poon Wood for Masts,3,Probable Profit arising on the Trade.,"Variable, and not to be ascertained",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,35,data,,Poon Wood for Masts,4,Explanatory Remarks.,"In great demand for large Ships, Callophyllum",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,36,data,,"Paddy, or Rough Rice",2,Local Value.,1 rupee per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,36,data,,"Paddy, or Rough Rice",3,Probable Profit arising on the Trade.,50 per cent.,50.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,36,data,,"Paddy, or Rough Rice",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,37,data,,"Plantains, or Bananas",2,Local Value.,5 rupees per 100,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,37,data,,"Plantains, or Bananas",3,Probable Profit arising on the Trade.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,37,data,,"Plantains, or Bananas",4,Explanatory Remarks.,Musa,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,38,data,,Plantain Leaves,2,Local Value.,1 ditto per ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,38,data,,Plantain Leaves,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,38,data,,Plantain Leaves,4,Explanatory Remarks.,Musa,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,39,data,,Sapan Wood,2,Local Value.,10 ditto per candy,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,39,data,,Sapan Wood,3,Probable Profit arising on the Trade.,60 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,39,data,,Sapan Wood,4,Explanatory Remarks.,"Used in Dying, Guilandina Sapan",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,40,data,,Teak Wood (Theca),2,Local Value.,3 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,40,data,,Teak Wood (Theca),3,Probable Profit arising on the Trade.,200 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,40,data,,Teak Wood (Theca),4,Explanatory Remarks.,Vide Remark at the End of this Report,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,41,data,,Turmerick,2,Local Value.,25 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,41,data,,Turmerick,3,Probable Profit arising on the Trade.,50 to 100 per cent.,,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,41,data,,Turmerick,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,42,data,,Tamarinds,2,Local Value.,10 to 15 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,42,data,,Tamarinds,3,Probable Profit arising on the Trade.,50 per cent.,50.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,42,data,,Tamarinds,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,43,data,,"Toor, a Grain",2,Local Value.,1½ rupee per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,43,data,,"Toor, a Grain",3,Probable Profit arising on the Trade.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,43,data,,"Toor, a Grain",4,Explanatory Remarks.,Produced in small Quantities. Cytisus Cajan,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,44,data,,White Pepper,2,Local Value.,220 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,44,data,,White Pepper,3,Probable Profit arising on the Trade.,175 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,44,data,,White Pepper,4,Explanatory Remarks.,Picked from the heavy Pepper; and produced in small Quantities.,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,45,data,,"Jams, a Fruit",2,Local Value.,10 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,45,data,,"Jams, a Fruit",3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,45,data,,"Jams, a Fruit",4,Explanatory Remarks.,Calyptranthes Jambulana,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,47,data,MANUFACTURES,Bees Wax,2,Local Value.,8 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,47,data,MANUFACTURES,Bees Wax,3,Probable Profit arising on the Trade.,25 per cent.,25.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,47,data,MANUFACTURES,Bees Wax,4,Explanatory Remarks.,Produced in small Quantities,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,48,data,MANUFACTURES,Baskets,2,Local Value.,30 to 60 per a rupee,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,48,data,MANUFACTURES,Baskets,3,Probable Profit arising on the Trade.,5 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,48,data,MANUFACTURES,Baskets,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,49,data,MANUFACTURES,Coco-Nut Oil,2,Local Value.,3 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,49,data,MANUFACTURES,Coco-Nut Oil,3,Probable Profit arising on the Trade.,50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,49,data,MANUFACTURES,Coco-Nut Oil,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,50,data,MANUFACTURES,Castor Oil,2,Local Value.,Variable,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,50,data,MANUFACTURES,Castor Oil,3,Probable Profit arising on the Trade.,— —,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,50,data,MANUFACTURES,Castor Oil,4,Explanatory Remarks.,Ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,51,data,MANUFACTURES,Coir Ropes,2,Local Value.,25 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,51,data,MANUFACTURES,Coir Ropes,3,Probable Profit arising on the Trade.,25 rupees per cent.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,51,data,MANUFACTURES,Coir Ropes,4,Explanatory Remarks.,Made of Coco-Nut Husks,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,52,data,MANUFACTURES,Ditto Cables,2,Local Value.,27 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,52,data,MANUFACTURES,Ditto Cables,3,Probable Profit arising on the Trade.,40 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,52,data,MANUFACTURES,Ditto Cables,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,53,data,MANUFACTURES,Copra,2,Local Value.,30 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,53,data,MANUFACTURES,Copra,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,53,data,MANUFACTURES,Copra,4,Explanatory Remarks.,Dried Kernels of the Coco-Nut,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,54,data,MANUFACTURES,Chunam (Lime),2,Local Value.,2 rupees per 1060 noye,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,54,data,MANUFACTURES,Chunam (Lime),3,Probable Profit arising on the Trade.,10 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,54,data,MANUFACTURES,Chunam (Lime),4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,55,data,MANUFACTURES,Cadzans,2,Local Value.,5 rupees per 1000,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,55,data,MANUFACTURES,Cadzans,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,55,data,MANUFACTURES,Cadzans,4,Explanatory Remarks.,"Mats, made of the Coco Leaf",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,56,data,MANUFACTURES,Dammer (Resin),2,Local Value.,1¾ rupee per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,56,data,MANUFACTURES,Dammer (Resin),3,Probable Profit arising on the Trade.,10 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,56,data,MANUFACTURES,Dammer (Resin),4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,57,data,MANUFACTURES,Dry Coco-Nuts,2,Local Value.,47 rupees per 1000,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,57,data,MANUFACTURES,Dry Coco-Nuts,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,57,data,MANUFACTURES,Dry Coco-Nuts,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,58,data,MANUFACTURES,Gold,2,Local Value.,Variable,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,58,data,MANUFACTURES,Gold,3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,58,data,MANUFACTURES,Gold,4,Explanatory Remarks.,Produced in small Quantities,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,59,data,MANUFACTURES,Iron,2,Local Value.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,59,data,MANUFACTURES,Iron,3,Probable Profit arising on the Trade.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,59,data,MANUFACTURES,Iron,4,Explanatory Remarks.,Ditto ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,60,data,MANUFACTURES,Jenjily Oil (Sesamum),2,Local Value.,5 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,60,data,MANUFACTURES,Jenjily Oil (Sesamum),3,Probable Profit arising on the Trade.,15 per cent.,15.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,60,data,MANUFACTURES,Jenjily Oil (Sesamum),4,Explanatory Remarks.,Ditto ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,61,data,MANUFACTURES,Jagory of Toddy,2,Local Value.,17 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,61,data,MANUFACTURES,Jagory of Toddy,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,61,data,MANUFACTURES,Jagory of Toddy,4,Explanatory Remarks.,Inspissated Juice of Palm Trees,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,62,data,MANUFACTURES,Mats of Bamboos,2,Local Value.,1½ rupee per corge of 20,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,62,data,MANUFACTURES,Mats of Bamboos,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,62,data,MANUFACTURES,Mats of Bamboos,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,63,data,MANUFACTURES,Red Betle-Nuts,2,Local Value.,30 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,63,data,MANUFACTURES,Red Betle-Nuts,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,63,data,MANUFACTURES,Red Betle-Nuts,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,64,data,MANUFACTURES,Ditto Chuqueenee ditto,2,Local Value.,45 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,64,data,MANUFACTURES,Ditto Chuqueenee ditto,3,Probable Profit arising on the Trade.,30 to 50 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,64,data,MANUFACTURES,Ditto Chuqueenee ditto,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,65,data,MANUFACTURES,"Rice, boiled",2,Local Value.,1¾ rupee per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,65,data,MANUFACTURES,"Rice, boiled",3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,65,data,MANUFACTURES,"Rice, boiled",4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,66,data,MANUFACTURES,Small Cumberbands,2,Local Value.,¼ rupee per piece,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,66,data,MANUFACTURES,Small Cumberbands,3,Probable Profit arising on the Trade.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,66,data,MANUFACTURES,Small Cumberbands,4,Explanatory Remarks.,The only Cloth manufactured in the Country.,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,67,data,MANUFACTURES,"Summer Heads, or Chitries",2,Local Value.,Variable,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,67,data,MANUFACTURES,"Summer Heads, or Chitries",3,Probable Profit arising on the Trade.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,67,data,MANUFACTURES,"Summer Heads, or Chitries",4,Explanatory Remarks.,Parasols,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,68,data,MANUFACTURES,Toddy,2,Local Value.,¾ rupee per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,68,data,MANUFACTURES,Toddy,3,Probable Profit arising on the Trade.,20 per cent.,20.0,%,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,68,data,MANUFACTURES,Toddy,4,Explanatory Remarks.,Juice of Palm Trees,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,69,data,MANUFACTURES,Twine,2,Local Value.,2½ rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,69,data,MANUFACTURES,Twine,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,69,data,MANUFACTURES,Twine,4,Explanatory Remarks.,Produced in small Quantities,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,70,data,MANUFACTURES,"Toor Dholl, a Grain",2,Local Value.,2 rupees per robin,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,70,data,MANUFACTURES,"Toor Dholl, a Grain",3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,70,data,MANUFACTURES,"Toor Dholl, a Grain",4,Explanatory Remarks.,"Ditto ditto ditto, Cytisus Cajan",,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,71,data,MANUFACTURES,Towker,2,Local Value.,16 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,71,data,MANUFACTURES,Towker,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,71,data,MANUFACTURES,Towker,4,Explanatory Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,72,data,MANUFACTURES,Wax Candles,2,Local Value.,22 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,72,data,MANUFACTURES,Wax Candles,3,Probable Profit arising on the Trade.,20 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,72,data,MANUFACTURES,Wax Candles,4,Explanatory Remarks.,Ditto ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,73,data,MANUFACTURES,White Betle-Nuts,2,Local Value.,34 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,73,data,MANUFACTURES,White Betle-Nuts,3,Probable Profit arising on the Trade.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-053,Table 53,530,481,73,data,MANUFACTURES,White Betle-Nuts,4,Explanatory Remarks.,,,,True,False

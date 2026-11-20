@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "poverty-and-un-british-rule",
+    "table_id": "tbl-083",
+    "caption": "Re-exports.",
+    "page_number": 149,
+    "printed_folio": "129",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "$14,421,270",
+    "column_index": 2,
+    "column_header": "(gold value.) Gold and Silver.",
+    "raw_text": "$14,038,629",
+    "value_numeric": 14038629.0,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "poverty-and-un-british-rule",
+    "table_id": "tbl-083",
+    "caption": "Re-exports.",
+    "page_number": 149,
+    "printed_folio": "129",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "$14,421,270",
+    "column_index": 3,
+    "column_header": "Total.",
+    "raw_text": "$28,459,899",
+    "value_numeric": 28459899.0,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

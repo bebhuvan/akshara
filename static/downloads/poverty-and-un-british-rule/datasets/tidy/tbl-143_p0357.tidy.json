@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "poverty-and-un-british-rule",
+    "table_id": "tbl-143",
+    "caption": "Table 143",
+    "page_number": 357,
+    "printed_folio": "337",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Exports in 1870-1",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "Rx. 64,690,000",
+    "value_numeric": null,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "poverty-and-un-british-rule",
+    "table_id": "tbl-143",
+    "caption": "Table 143",
+    "page_number": 357,
+    "printed_folio": "337",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": ",,   ,, 1890-1",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "Rx. 102,340,000",
+    "value_numeric": null,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

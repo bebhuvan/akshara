@@ -1,0 +1,116 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,1,data,,1876,2,Occupied Area in Acres.,"19,200,000",19200000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,1,data,,1876,3,Assessment thereon. :: £,"3,240,000",3240000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,1,data,,1876,4,Total Ryotwari Demand. :: £,"2,770,000",2770000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,1,data,,1876,5,"Cesses, &c. :: £","380,000",380000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,1,data,,1876,6,Gross Demand. :: £,"3,150,000",3150000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,2,data,,1877,2,Occupied Area in Acres.,"19,200,000",19200000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,2,data,,1877,3,Assessment thereon. :: £,"3,250,000",3250000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,2,data,,1877,4,Total Ryotwari Demand. :: £,"3,590,000",3590000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,2,data,,1877,5,"Cesses, &c. :: £","400,000",400000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,2,data,,1877,6,Gross Demand. :: £,"3,990,000",3990000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,3,data,,1878,2,Occupied Area in Acres.,"19,100,000",19100000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,3,data,,1878,3,Assessment thereon. :: £,"3,260,000",3260000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,3,data,,1878,4,Total Ryotwari Demand. :: £,"3,720,000",3720000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,3,data,,1878,5,"Cesses, &c. :: £","410,000",410000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,3,data,,1878,6,Gross Demand. :: £,"4,130,000",4130000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,4,data,,1879,2,Occupied Area in Acres.,"18,400,000",18400000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,4,data,,1879,3,Assessment thereon. :: £,"3,200,000",3200000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,4,data,,1879,4,Total Ryotwari Demand. :: £,"3,660,000",3660000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,4,data,,1879,5,"Cesses, &c. :: £","410,000",410000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,4,data,,1879,6,Gross Demand. :: £,"4,070,000",4070000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,5,data,,1880,2,Occupied Area in Acres.,"18,100,000",18100000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,5,data,,1880,3,Assessment thereon. :: £,"3,180,000",3180000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,5,data,,1880,4,Total Ryotwari Demand. :: £,"3,640,000",3640000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,5,data,,1880,5,"Cesses, &c. :: £","410,000",410000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,5,data,,1880,6,Gross Demand. :: £,"4,050,000",4050000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,6,data,,1881,2,Occupied Area in Acres.,"18,000,000",18000000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,6,data,,1881,3,Assessment thereon. :: £,"3,170,000",3170000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,6,data,,1881,4,Total Ryotwari Demand. :: £,"3,570,000",3570000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,6,data,,1881,5,"Cesses, &c. :: £","410,000",410000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,6,data,,1881,6,Gross Demand. :: £,"3,980,000",3980000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,7,data,,1882,2,Occupied Area in Acres.,"18,300,000",18300000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,7,data,,1882,3,Assessment thereon. :: £,"3,210,000",3210000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,7,data,,1882,4,Total Ryotwari Demand. :: £,"3,630,000",3630000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,7,data,,1882,5,"Cesses, &c. :: £","440,000",440000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,7,data,,1882,6,Gross Demand. :: £,"4,070,000",4070000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,8,data,,1883,2,Occupied Area in Acres.,"18,500,000",18500000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,8,data,,1883,3,Assessment thereon. :: £,"3,230,000",3230000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,8,data,,1883,4,Total Ryotwari Demand. :: £,"3,740,000",3740000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,8,data,,1883,5,"Cesses, &c. :: £","450,000",450000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,8,data,,1883,6,Gross Demand. :: £,"4,190,000",4190000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,9,data,,1884,2,Occupied Area in Acres.,"18,700,000",18700000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,9,data,,1884,3,Assessment thereon. :: £,"3,240,000",3240000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,9,data,,1884,4,Total Ryotwari Demand. :: £,"3,500,000",3500000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,9,data,,1884,5,"Cesses, &c. :: £","460,000",460000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,9,data,,1884,6,Gross Demand. :: £,"3,960,000",3960000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,10,data,,1885,2,Occupied Area in Acres.,"19,100,000",19100000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,10,data,,1885,3,Assessment thereon. :: £,"3,270,000",3270000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,10,data,,1885,4,Total Ryotwari Demand. :: £,"3,760,000",3760000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,10,data,,1885,5,"Cesses, &c. :: £","450,000",450000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,10,data,,1885,6,Gross Demand. :: £,"4,210,000",4210000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,11,data,,1886,2,Occupied Area in Acres.,"19,500,000",19500000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,11,data,,1886,3,Assessment thereon. :: £,"3,310,000",3310000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,11,data,,1886,4,Total Ryotwari Demand. :: £,"3,860,000",3860000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,11,data,,1886,5,"Cesses, &c. :: £","460,000",460000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,11,data,,1886,6,Gross Demand. :: £,"4,320,000",4320000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,12,data,,1887,2,Occupied Area in Acres.,"19,700,000",19700000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,12,data,,1887,3,Assessment thereon. :: £,"3,550,000",3550000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,12,data,,1887,4,Total Ryotwari Demand. :: £,"3,900,000",3900000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,12,data,,1887,5,"Cesses, &c. :: £","590,000",590000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,12,data,,1887,6,Gross Demand. :: £,"4,490,000",4490000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,13,data,,1888,2,Occupied Area in Acres.,"19,800,000",19800000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,13,data,,1888,3,Assessment thereon. :: £,"3,570,000",3570000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,13,data,,1888,4,Total Ryotwari Demand. :: £,"3,920,000",3920000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,13,data,,1888,5,"Cesses, &c. :: £","570,000",570000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,13,data,,1888,6,Gross Demand. :: £,"4,490,000",4490000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,14,data,,1889,2,Occupied Area in Acres.,"20,100,000",20100000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,14,data,,1889,3,Assessment thereon. :: £,"3,610,000",3610000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,14,data,,1889,4,Total Ryotwari Demand. :: £,"3,960,000",3960000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,14,data,,1889,5,"Cesses, &c. :: £","650,000",650000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,14,data,,1889,6,Gross Demand. :: £,"4,610,000",4610000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,15,data,,1890,2,Occupied Area in Acres.,"20,200,000",20200000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,15,data,,1890,3,Assessment thereon. :: £,"3,630,000",3630000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,15,data,,1890,4,Total Ryotwari Demand. :: £,"3,900,000",3900000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,15,data,,1890,5,"Cesses, &c. :: £","640,000",640000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,15,data,,1890,6,Gross Demand. :: £,"4,540,000",4540000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,16,data,,1891,2,Occupied Area in Acres.,"20,200,000",20200000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,16,data,,1891,3,Assessment thereon. :: £,"3,650,000",3650000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,16,data,,1891,4,Total Ryotwari Demand. :: £,"3,680,000",3680000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,16,data,,1891,5,"Cesses, &c. :: £","660,000",660000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,16,data,,1891,6,Gross Demand. :: £,"4,340,000",4340000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,17,data,,1892,2,Occupied Area in Acres.,"20,700,000",20700000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,17,data,,1892,3,Assessment thereon. :: £,"3,710,000",3710000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,17,data,,1892,4,Total Ryotwari Demand. :: £,"4,030,000",4030000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,17,data,,1892,5,"Cesses, &c. :: £","680,000",680000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,17,data,,1892,6,Gross Demand. :: £,"4,710,000",4710000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,18,data,,1893,2,Occupied Area in Acres.,"21,000,000",21000000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,18,data,,1893,3,Assessment thereon. :: £,"3,880,000",3880000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,18,data,,1893,4,Total Ryotwari Demand. :: £,"4,390,000",4390000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,18,data,,1893,5,"Cesses, &c. :: £","380,000",380000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,18,data,,1893,6,Gross Demand. :: £,"4,770,000",4770000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,19,data,,1894,2,Occupied Area in Acres.,"21,300,000",21300000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,19,data,,1894,3,Assessment thereon. :: £,"3,950,000",3950000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,19,data,,1894,4,Total Ryotwari Demand. :: £,"4,520,000",4520000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,19,data,,1894,5,"Cesses, &c. :: £","570,000",570000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,19,data,,1894,6,Gross Demand. :: £,"5,090,000",5090000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,20,data,,1895,2,Occupied Area in Acres.,"21,500,000",21500000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,20,data,,1895,3,Assessment thereon. :: £,"3,930,000",3930000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,20,data,,1895,4,Total Ryotwari Demand. :: £,"4,680,000",4680000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,20,data,,1895,5,"Cesses, &c. :: £","590,000",590000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,20,data,,1895,6,Gross Demand. :: £,"5,270,000",5270000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,21,data,,1896,2,Occupied Area in Acres.,"21,500,000",21500000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,21,data,,1896,3,Assessment thereon. :: £,"4,000,000",4000000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,21,data,,1896,4,Total Ryotwari Demand. :: £,"4,400,000",4400000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,21,data,,1896,5,"Cesses, &c. :: £","560,000",560000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,21,data,,1896,6,Gross Demand. :: £,"4,960,000",4960000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,22,data,,1897,2,Occupied Area in Acres.,"21,600,000",21600000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,22,data,,1897,3,Assessment thereon. :: £,"4,030,000",4030000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,22,data,,1897,4,Total Ryotwari Demand. :: £,"4,740,000",4740000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,22,data,,1897,5,"Cesses, &c. :: £","540,000",540000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,22,data,,1897,6,Gross Demand. :: £,"5,280,000",5280000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,23,data,,1898,2,Occupied Area in Acres.,"21,600,000",21600000.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,23,data,,1898,3,Assessment thereon. :: £,"4,050,000",4050000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,23,data,,1898,4,Total Ryotwari Demand. :: £,"4,850,000",4850000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,23,data,,1898,5,"Cesses, &c. :: £",550.000,550.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-047,"Land Revenue in Madras, excluding Malabar and South Canara.",524,496,23,data,,1898,6,Gross Demand. :: £,"5,400,000",5400000.0,GBP,False,False

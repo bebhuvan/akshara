@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,1,data,,Land Tax and collection charges,2,Column 2,£0,0.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,1,data,,Land Tax and collection charges,3,Column 3,16,16.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,1,data,,Land Tax and collection charges,4,Column 4,10,10.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,2,data,,Seed,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,2,data,,Seed,3,Column 3,9,9.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,2,data,,Seed,4,Column 4,4½,4.5,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,3,data,,Expense of cultivation,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,3,data,,Expense of cultivation,3,Column 3,9,9.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,3,data,,Expense of cultivation,4,Column 4,4½,4.5,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,4,data,,Interest,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,4,data,,Interest,3,Column 3,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,4,data,,Interest,4,Column 4,0¾,0.75,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,5,data,,Landlord,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,5,data,,Landlord,3,Column 3,8,8.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,5,data,,Landlord,4,Column 4,6¼,6.25,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,6,data,,Cultivator,2,Column 2,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,6,data,,Cultivator,3,Column 3,5,5.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,6,data,,Cultivator,4,Column 4,6¾,6.75,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,7,total,,Row 7,2,Column 2,£3,3.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,7,total,,Row 7,3,Column 3,10,10.0,,False,False
+economic-history-india-early-british-dutt,tbl-014,For a Field of the Best Quality.,251,223,7,total,,Row 7,4,Column 4,8¾,8.75,,False,False

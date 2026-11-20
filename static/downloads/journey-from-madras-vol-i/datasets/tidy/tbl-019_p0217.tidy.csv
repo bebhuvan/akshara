@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-019,"Produce of three smeltings daily for 9 months, of 32 days :",217,177,1,data,,"Gross produce, at 2 Fanams each smelting",2,Fanams.,1728,1728.0,,False,False
+journey-from-madras-vol-i,tbl-019,"Produce of three smeltings daily for 9 months, of 32 days :",217,177,2,data,,Loss,2,Fanams.,309,309.0,,False,False
+journey-from-madras-vol-i,tbl-019,"Produce of three smeltings daily for 9 months, of 32 days :",217,177,3,data,,"Gross produce, at 3 Fanams each smelting",2,Fanams.,2592,2592.0,,False,False
+journey-from-madras-vol-i,tbl-019,"Produce of three smeltings daily for 9 months, of 32 days :",217,177,4,subtotal,,Total expence,2,Fanams.,2037,2037.0,,False,False
+journey-from-madras-vol-i,tbl-019,"Produce of three smeltings daily for 9 months, of 32 days :",217,177,5,total,,Profit,2,Fanams.,565,565.0,,False,False

@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,136,96,1,data,,1899–1900,2,Column 2,"13,841,000",13841000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,136,96,2,data,,1900–1901,2,Column 2,"10,983,000",10983000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,136,96,3,data,,1901–1902,2,Column 2,"17,989,000",17989000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,136,96,4,data,,1902–1903,2,Column 2,"18,570,000",18570000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,137,96,5,data,,1903-1904,2,Column 2,"24,893,000",24893000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,137,96,6,data,,1904-1905,2,Column 2,"20,227,000",20227000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,137,96,7,data,,1905-1906,2,Column 2,"22,360,000",22360000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,137,96,8,data,,1906-1907,2,Column 2,"13,713,000",13713000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,137,96,9,data,,1907-1908,2,Column 2,"2,665,000",2665000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-007,Table 7,137,96,10,data,,1908-1909,2,Column 2,"5,271,000",5271000.0,,False,False

@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,1,data,,1913 United States of America,2,Total Millions,862,862.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,1,data,,1913 United States of America,3,Imports Millions,362,362.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,1,data,,1913 United States of America,4,Exports Millions,500,500.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,2,data,,1913 United Kingdom,2,Total Millions,1403,1403.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,2,data,,1913 United Kingdom,3,Imports Millions,769,769.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,2,data,,1913 United Kingdom,4,Exports Millions,634,634.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,3,data,,1911 Germany,2,Total Millions,942,942.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,3,data,,1911 Germany,3,Imports Millions,510,510.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,3,data,,1911 Germany,4,Exports Millions,432,432.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,4,data,,1911 France,2,Total Millions,712,712.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,4,data,,1911 France,3,Imports Millions,392,392.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,4,data,,1911 France,4,Exports Millions,320,320.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,5,data,,1913 India,2,Total Millions,290,290.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,5,data,,1913 India,3,Imports Millions,127.5,127.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,5,data,,1913 India,4,Exports Millions,162.5,162.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,6,data,,1911 Russia,2,Total Millions,270,270.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,6,data,,1911 Russia,3,Imports Millions,114,114.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-045,Comparative Table of Figures of Foreign Trade.,324,284,6,data,,1911 Russia,4,Exports Millions,156,156.0,,False,False

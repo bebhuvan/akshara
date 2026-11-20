@@ -1,13 +1,18 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 
-<main class="single-page">
-    <article class="content-wrapper">
-        <h1>{{ .Title }}</h1>
-        <div class="content">
-            {{ .Content }}
-        </div>
-    </article>
+<main class="essay-shell">
+  <article class="essay-article is-narrow">
+    <header class="essay-header">
+      <h1 class="essay-title">{{ .Title }}</h1>
+      {{ with .Params.description }}
+      <p class="essay-deck">{{ . }}</p>
+      {{ end }}
+    </header>
+    <div class="essay-prose prose-editorial">
+      {{ .Content }}
+    </div>
+  </article>
 </main>
 
 {{ partial "footer.html" . }}

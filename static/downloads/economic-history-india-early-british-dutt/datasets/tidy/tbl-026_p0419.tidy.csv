@@ -1,0 +1,126 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,1,data,,District Hariana,2,Total Area in Acres.,"1,657,975",1657975.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,1,data,,District Hariana,3,Cultivated Area in Acres.,"696,147",696147.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,1,data,,District Hariana,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,0,0.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,1,data,,District Hariana,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,14,14.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,1,data,,District Hariana,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,4,4.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,2,data,,„ Delhi,2,Total Area in Acres.,"364,534",364534.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,2,data,,„ Delhi,3,Cultivated Area in Acres.,"174,605",174605.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,2,data,,„ Delhi,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,2,data,,„ Delhi,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,1,1.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,2,data,,„ Delhi,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,3,3.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,3,data,,„ Rohtuck,2,Total Area in Acres.,"844,666",844666.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,3,data,,„ Rohtuck,3,Cultivated Area in Acres.,"474,465",474465.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,3,data,,„ Rohtuck,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,3,data,,„ Rohtuck,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,5,5.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,3,data,,„ Rohtuck,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,2,2.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,4,data,,„ Gurgaon,2,Total Area in Acres.,"1,160,437",1160437.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,4,data,,„ Gurgaon,3,Cultivated Area in Acres.,"647,353",647353.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,4,data,,„ Gurgaon,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,4,data,,„ Gurgaon,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,9,9.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,4,data,,„ Gurgaon,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,0,0.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,6,data,Meerut Division—,District Saharanpur,2,Total Area in Acres.,"1,018,705",1018705.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,6,data,Meerut Division—,District Saharanpur,3,Cultivated Area in Acres.,"606,847",606847.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,6,data,Meerut Division—,District Saharanpur,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,6,data,Meerut Division—,District Saharanpur,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,10,10.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,6,data,Meerut Division—,District Saharanpur,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,6,6.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,7,data,Meerut Division—,„ Muzaffarnagar,2,Total Area in Acres.,"691,706",691706.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,7,data,Meerut Division—,„ Muzaffarnagar,3,Cultivated Area in Acres.,"392,377",392377.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,7,data,Meerut Division—,„ Muzaffarnagar,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,7,data,Meerut Division—,„ Muzaffarnagar,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,11,11.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,7,data,Meerut Division—,„ Muzaffarnagar,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,2,2.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,8,data,Meerut Division—,„ Meerut,2,Total Area in Acres.,"1,776,430",1776430.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,8,data,Meerut Division—,„ Meerut,3,Cultivated Area in Acres.,"1,034,016",1034016.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,8,data,Meerut Division—,„ Meerut,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,8,data,Meerut Division—,„ Meerut,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,1,1.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,8,data,Meerut Division—,„ Meerut,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,9,9.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,9,data,Meerut Division—,„ Bulandshahar,2,Total Area in Acres.,"1,025,096",1025096.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,9,data,Meerut Division—,„ Bulandshahar,3,Cultivated Area in Acres.,"592,630",592630.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,9,data,Meerut Division—,„ Bulandshahar,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,9,data,Meerut Division—,„ Bulandshahar,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,9,9.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,9,data,Meerut Division—,„ Bulandshahar,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,8,8.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,10,data,Meerut Division—,„ Alighar,2,Total Area in Acres.,"1,119,238",1119238.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,10,data,Meerut Division—,„ Alighar,3,Cultivated Area in Acres.,"900,562",900562.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,10,data,Meerut Division—,„ Alighar,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,10,data,Meerut Division—,„ Alighar,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,4,4.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,10,data,Meerut Division—,„ Alighar,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,0,0.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,12,data,Rohilkhand Division—,District Bijnaur,2,Total Area in Acres.,"1,027,533",1027533.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,12,data,Rohilkhand Division—,District Bijnaur,3,Cultivated Area in Acres.,"459,409",459409.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,12,data,Rohilkhand Division—,District Bijnaur,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,12,data,Rohilkhand Division—,District Bijnaur,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,2,2.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,12,data,Rohilkhand Division—,District Bijnaur,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,10,10.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,13,data,Rohilkhand Division—,„ Moradabad,2,Total Area in Acres.,Not stated,,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,13,data,Rohilkhand Division—,„ Moradabad,3,Cultivated Area in Acres.,Not stated,,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,13,data,Rohilkhand Division—,„ Moradabad,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,Not stated.,,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,13,data,Rohilkhand Division—,„ Moradabad,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,,,acres,True,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,13,data,Rohilkhand Division—,„ Moradabad,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,,,acres,True,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,14,data,Rohilkhand Division—,„ Budaon,2,Total Area in Acres.,"1,450,418",1450418.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,14,data,Rohilkhand Division—,„ Budaon,3,Cultivated Area in Acres.,"752,103",752103.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,14,data,Rohilkhand Division—,„ Budaon,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,14,data,Rohilkhand Division—,„ Budaon,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,7,7.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,14,data,Rohilkhand Division—,„ Budaon,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,6,6.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,15,data,Rohilkhand Division—,„ Pilibeet,2,Total Area in Acres.,Not stated,,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,15,data,Rohilkhand Division—,„ Pilibeet,3,Cultivated Area in Acres.,Not ttated,,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,15,data,Rohilkhand Division—,„ Pilibeet,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,15,data,Rohilkhand Division—,„ Pilibeet,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,0,0.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,15,data,Rohilkhand Division—,„ Pilibeet,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,1,1.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,16,data,Rohilkhand Division—,„ Bareli,2,Total Area in Acres.,"1,116,174",1116174.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,16,data,Rohilkhand Division—,„ Bareli,3,Cultivated Area in Acres.,"639,579",639579.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,16,data,Rohilkhand Division—,„ Bareli,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,16,data,Rohilkhand Division—,„ Bareli,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,15,15.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,16,data,Rohilkhand Division—,„ Bareli,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,7,7.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,17,data,Rohilkhand Division—,„ Shajehanpur,2,Total Area in Acres.,"1,309,211",1309211.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,17,data,Rohilkhand Division—,„ Shajehanpur,3,Cultivated Area in Acres.,"651,549",651549.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,17,data,Rohilkhand Division—,„ Shajehanpur,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,17,data,Rohilkhand Division—,„ Shajehanpur,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,9,9.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,17,data,Rohilkhand Division—,„ Shajehanpur,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,0,0.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,19,data,Agra Division—,District Muttra,2,Total Area in Acres.,Not stated,,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,19,data,Agra Division—,District Muttra,3,Cultivated Area in Acres.,Not stated,,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,19,data,Agra Division—,District Muttra,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,Not stated.,,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,19,data,Agra Division—,District Muttra,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,,,acres,True,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,19,data,Agra Division—,District Muttra,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,,,acres,True,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,20,data,Agra Division—,„ Agra,2,Total Area in Acres.,"935,815",935815.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,20,data,Agra Division—,„ Agra,3,Cultivated Area in Acres.,"646,818",646818.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,20,data,Agra Division—,„ Agra,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,20,data,Agra Division—,„ Agra,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,2,2.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,20,data,Agra Division—,„ Agra,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,5,5.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,21,data,Agra Division—,„ Farakkabad,2,Total Area in Acres.,"1,247,288",1247288.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,21,data,Agra Division—,„ Farakkabad,3,Cultivated Area in Acres.,"614,253",614253.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,21,data,Agra Division—,„ Farakkabad,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,21,data,Agra Division—,„ Farakkabad,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,6,6.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,21,data,Agra Division—,„ Farakkabad,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,0,0.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,22,data,Agra Division—,„ Mynpuri,2,Total Area in Acres.,"1,280,927",1280927.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,22,data,Agra Division—,„ Mynpuri,3,Cultivated Area in Acres.,"613,422",613422.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,22,data,Agra Division—,„ Mynpuri,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,22,data,Agra Division—,„ Mynpuri,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,4,4.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,22,data,Agra Division—,„ Mynpuri,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,0,0.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,23,data,Agra Division—,„ Etawa,2,Total Area in Acres.,"1,071,756",1071756.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,23,data,Agra Division—,„ Etawa,3,Cultivated Area in Acres.,"477,901",477901.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,23,data,Agra Division—,„ Etawa,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,23,data,Agra Division—,„ Etawa,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,11,11.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,23,data,Agra Division—,„ Etawa,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,10,10.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,25,data,Allahabad Division—,District Cawnpur,2,Total Area in Acres.,"1,497,795",1497795.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,25,data,Allahabad Division—,District Cawnpur,3,Cultivated Area in Acres.,"782,276",782276.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,25,data,Allahabad Division—,District Cawnpur,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,25,data,Allahabad Division—,District Cawnpur,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,1,1.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,25,data,Allahabad Division—,District Cawnpur,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,3,3.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,26,data,Allahabad Division—,„ Fattehpur,2,Total Area in Acres.,"990,584",990584.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,26,data,Allahabad Division—,„ Fattehpur,3,Cultivated Area in Acres.,"506,905",506905.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,26,data,Allahabad Division—,„ Fattehpur,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,26,data,Allahabad Division—,„ Fattehpur,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,12,12.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,26,data,Allahabad Division—,„ Fattehpur,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,9,9.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,27,data,Allahabad Division—,„ Allahabad,2,Total Area in Acres.,"1,790,244",1790244.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,27,data,Allahabad Division—,„ Allahabad,3,Cultivated Area in Acres.,"997,508",997508.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,27,data,Allahabad Division—,„ Allahabad,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,2,2.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,27,data,Allahabad Division—,„ Allahabad,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,2,2.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,27,data,Allahabad Division—,„ Allahabad,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,6,6.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,29,data,Benares Division—,District Goruckpur,2,Total Area in Acres.,"4,115,214",4115214.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,29,data,Benares Division—,District Goruckpur,3,Cultivated Area in Acres.,"1,927,234",1927234.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,29,data,Benares Division—,District Goruckpur,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,29,data,Benares Division—,District Goruckpur,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,1,1.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,29,data,Benares Division—,District Goruckpur,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,3,3.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,30,data,Benares Division—,„ Azimgarh,2,Total Area in Acres.,"1,652,293",1652293.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,30,data,Benares Division—,„ Azimgarh,3,Cultivated Area in Acres.,"773,616",773616.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,30,data,Benares Division—,„ Azimgarh,4,Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees.,1,1.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,30,data,Benares Division—,„ Azimgarh,5,Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas,15,15.0,acres,False,False
+economic-history-india-early-british-dutt,tbl-026,Table 26,419,391,30,data,Benares Division—,„ Azimgarh,6,Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies.,4,4.0,acres,False,False

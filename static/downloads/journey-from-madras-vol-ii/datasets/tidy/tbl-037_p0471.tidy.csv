@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-037,Table 37,471,445,1,data,,For seed,2,Porays.,20,20.0,,False,True
+journey-from-madras-vol-ii,tbl-037,Table 37,471,445,2,data,,"For cattle, implements, and slaves",2,Porays.,60,60.0,,False,True
+journey-from-madras-vol-ii,tbl-037,Table 37,471,445,3,data,,For neat profit to the farmer,2,Porays.,20,20.0,,False,True
+journey-from-madras-vol-ii,tbl-037,Table 37,471,445,4,total,,Porays,2,Porays.,100,100.0,,False,True

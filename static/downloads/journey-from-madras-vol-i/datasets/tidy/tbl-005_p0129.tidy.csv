@@ -1,0 +1,40 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,1,data,,Ragy,2,Seed per Acre. :: Gallons. Decimal parts.,3.568,3.568,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,1,data,,Ragy,3,Produce per Acre. :: Bushels. Decimal parts.,23.35,23.35,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,1,data,,Ragy,4,Increase on one seed.,52 1/2,52.5,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,2,data,,Avaray,2,Seed per Acre. :: Gallons. Decimal parts.,0.892,0.892,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,2,data,,Avaray,3,Produce per Acre. :: Bushels. Decimal parts.,0.889,0.889,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,2,data,,Avaray,4,Increase on one seed.,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,3,data,,Tovary,2,Seed per Acre. :: Gallons. Decimal parts.,0.892,0.892,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,3,data,,Tovary,3,Produce per Acre. :: Bushels. Decimal parts.,0.889,0.889,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,3,data,,Tovary,4,Increase on one seed.,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,4,data,,Harica,2,Seed per Acre. :: Gallons. Decimal parts.,3.568,3.568,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,4,data,,Harica,3,Produce per Acre. :: Bushels. Decimal parts.,15.56,15.56,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,4,data,,Harica,4,Increase on one seed.,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,5,data,,Navonay,2,Seed per Acre. :: Gallons. Decimal parts.,3.568,3.568,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,5,data,,Navonay,3,Produce per Acre. :: Bushels. Decimal parts.,15.56,15.56,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,5,data,,Navonay,4,Increase on one seed.,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,6,data,,Shamay,2,Seed per Acre. :: Gallons. Decimal parts.,3.568,3.568,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,6,data,,Shamay,3,Produce per Acre. :: Bushels. Decimal parts.,15.56,15.56,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,6,data,,Shamay,4,Increase on one seed.,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,7,data,,Chica Cambu,2,Seed per Acre. :: Gallons. Decimal parts.,- - -,,acres,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,7,data,,Chica Cambu,3,Produce per Acre. :: Bushels. Decimal parts.,- - -,,acres,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,7,data,,Chica Cambu,4,Increase on one seed.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,8,data,,Jola,2,Seed per Acre. :: Gallons. Decimal parts.,0.892,0.892,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,8,data,,Jola,3,Produce per Acre. :: Bushels. Decimal parts.,15.56,15.56,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,8,data,,Jola,4,Increase on one seed.,120,120.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,9,data,,Huruli,2,Seed per Acre. :: Gallons. Decimal parts.,3.568,3.568,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,9,data,,Huruli,3,Produce per Acre. :: Bushels. Decimal parts.,15.56,15.56,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,9,data,,Huruli,4,Increase on one seed.,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,10,data,,Carlay,2,Seed per Acre. :: Gallons. Decimal parts.,- - -,,acres,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,10,data,,Carlay,3,Produce per Acre. :: Bushels. Decimal parts.,- - -,,acres,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,10,data,,Carlay,4,Increase on one seed.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,11,data,,Harulu,2,Seed per Acre. :: Gallons. Decimal parts.,- - -,,acres,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,11,data,,Harulu,3,Produce per Acre. :: Bushels. Decimal parts.,- - -,,acres,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,11,data,,Harulu,4,Increase on one seed.,- - -,,,True,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,12,data,,Huts' Ellu,2,Seed per Acre. :: Gallons. Decimal parts.,0.892,0.892,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,12,data,,Huts' Ellu,3,Produce per Acre. :: Bushels. Decimal parts.,1.12,1.12,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,12,data,,Huts' Ellu,4,Increase on one seed.,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,13,data,,Wull' Ellu,2,Seed per Acre. :: Gallons. Decimal parts.,1.784,1.784,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,13,data,,Wull' Ellu,3,Produce per Acre. :: Bushels. Decimal parts.,1.334,1.334,acres,False,False
+journey-from-madras-vol-i,tbl-005,Table 5,129,99,13,data,,Wull' Ellu,4,Increase on one seed.,12,12.0,,False,False

@@ -1,0 +1,36 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,1,data,,"Cows, Bullocks, and Buffaloes",2,1868-9.,"6,797,561",6797561.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,1,data,,"Cows, Bullocks, and Buffaloes",3,1873-4.,"6,570,212",6570212.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,1,data,,"Cows, Bullocks, and Buffaloes",4,Increase.,..,,,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,1,data,,"Cows, Bullocks, and Buffaloes",5,Decrease.,"227,349",227349.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,1,data,,"Cows, Bullocks, and Buffaloes",6,Per Cent.,3⅓,3.333333,%,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,2,data,,Horses,2,1868-9.,"96,226",96226.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,2,data,,Horses,3,1873-4.,"84,639",84639.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,2,data,,Horses,4,Increase.,..,,,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,2,data,,Horses,5,Decrease.,"11,587",11587.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,2,data,,Horses,6,Per Cent.,12,12.0,%,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,3,data,,Ponies,2,1868-9.,"51,302",51302.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,3,data,,Ponies,3,1873-4.,"51,395",51395.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,3,data,,Ponies,4,Increase.,93,93.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,3,data,,Ponies,5,Decrease.,..,,,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,3,data,,Ponies,6,Per Cent.,,,%,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,4,data,,Donkeys,2,1868-9.,"257,615",257615.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,4,data,,Donkeys,3,1873-4.,"288,118",288118.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,4,data,,Donkeys,4,Increase.,"30,503",30503.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,4,data,,Donkeys,5,Decrease.,..,,,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,4,data,,Donkeys,6,Per Cent.,11·8,,%,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,5,data,,Camels,2,1868-9.,"148,582",148582.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,5,data,,Camels,3,1873-4.,"165,567",165567.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,5,data,,Camels,4,Increase.,"16,985",16985.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,5,data,,Camels,5,Decrease.,..,,,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,5,data,,Camels,6,Per Cent.,11·4,,%,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,6,total,,Total,2,1868-9.,"7,351,286",7351286.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,6,total,,Total,3,1873-4.,"7,159,931",7159931.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,6,total,,Total,4,Increase.,═,,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,6,total,,Total,5,Decrease.,"191,355",191355.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,6,total,,Total,6,Per Cent.,,,%,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,7,data,,Sheep and Goats,2,1868-9.,"3,803,819",3803819.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,7,data,,Sheep and Goats,3,1873-4.,"3,849,842",3849842.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,7,data,,Sheep and Goats,4,Increase.,"46,023",46023.0,,False,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,7,data,,Sheep and Goats,5,Decrease.,..,,,True,False
+poverty-and-un-british-rule,tbl-116,Table 116,210,190,7,data,,Sheep and Goats,6,Per Cent.,1¼,1.25,%,False,False

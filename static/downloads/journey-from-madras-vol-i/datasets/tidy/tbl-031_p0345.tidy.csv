@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-031,Table 31,345,299,1,data,,"To the Nirgunty, or distributer of water",2,Seers.,16,16.0,seers,False,False
+journey-from-madras-vol-i,tbl-031,Table 31,345,299,2,data,,"To the Toti, or watchman",2,Seers.,16,16.0,seers,False,False
+journey-from-madras-vol-i,tbl-031,Table 31,345,299,3,data,,"To the Aduca, or beadle, called here Cauliga",2,Seers.,16,16.0,seers,False,False
+journey-from-madras-vol-i,tbl-031,Table 31,345,299,4,data,,To the iron smith,2,Seers.,8,8.0,seers,False,False
+journey-from-madras-vol-i,tbl-031,Table 31,345,299,5,total,,Row 5,2,Seers.,56,56.0,seers,False,False

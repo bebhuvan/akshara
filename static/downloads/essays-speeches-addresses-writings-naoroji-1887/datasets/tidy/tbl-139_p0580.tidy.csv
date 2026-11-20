@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,1,data,,England,2,Gross earnings per inhabitant.,£41,41.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,2,data,,Scotland,2,Gross earnings per inhabitant.,32,32.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,3,data,,Ireland,2,Gross earnings per inhabitant.,16,16.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,4,data,,United Kingdom,2,Gross earnings per inhabitant.,35·2,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,5,data,,France,2,Gross earnings per inhabitant.,25·7,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,6,data,,Germany,2,Gross earnings per inhabitant.,18·7,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,7,data,,Russia,2,Gross earnings per inhabitant.,9·9,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,8,data,,Austria,2,Gross earnings per inhabitant.,16·3,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,9,data,,Italy,2,Gross earnings per inhabitant.,12,12.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,10,data,,Spain,2,Gross earnings per inhabitant.,13·8,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,11,data,,Portugal,2,Gross earnings per inhabitant.,13·6,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,12,data,,Belgium,2,Gross earnings per inhabitant.,£22·1,,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,13,data,,Holland,2,Gross earnings per inhabitant.,26,26.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,14,data,,Denmark,2,Gross earnings per inhabitant.,23·2,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,15,data,,Sweden and Norway,2,Gross earnings per inhabitant.,16·2,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,16,data,,Switzerland,2,Gross earnings per inhabitant.,16,16.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,17,data,,Greece,2,Gross earnings per inhabitant.,11·8,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,18,data,,Europe,2,Gross earnings per inhabitant.,18,18.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,19,data,,United States,2,Gross earnings per inhabitant.,27·2,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,20,data,,Canada,2,Gross earnings per inhabitant.,26·9,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-139,Table 139,580,561,21,data,,Australia,2,Gross earnings per inhabitant.,43·4,,,False,False

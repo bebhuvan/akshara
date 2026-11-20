@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,1,data,,"Baftas broad, 1,000 pieces",2,Mahm.,"6,777",6777.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,1,data,,"Baftas broad, 1,000 pieces",3,Pice.,24,24.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,2,data,,"Baftas narrow, [mames] or watchetts, 1 corge",2,Mahm.,160,160.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,2,data,,"Baftas narrow, [mames] or watchetts, 1 corge",3,Pice.,29,29.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,3,data,,"Baftas of 2 [ ] broad, 1 piece",2,Mahm.,24,24.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,3,data,,"Baftas of 2 [ ] broad, 1 piece",3,Pice.,6,6.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,4,data,,"‘Necanies,’ 21 c[orge], 15 covides long and 1 5/12 broad",2,Mahm.,"1,320",1320.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,115,61,4,data,,"‘Necanies,’ 21 c[orge], 15 covides long and 1 5/12 broad",3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,5,data,,"‘Eramees,’ 7 covids long and 1⅓ broad",2,Mahm.,177,177.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,5,data,,"‘Eramees,’ 7 covids long and 1⅓ broad",3,Pice.,16,16.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,6,data,,"Baftas coloured, [599 ?] pieces",2,Mahm.,"3,584",3584.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,6,data,,"Baftas coloured, [599 ?] pieces",3,Pice.,22,22.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,7,data,,"‘Indico Serquese,’ 1,882 small maunds 24 seers",2,Mahm.,"75,981",75981.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,7,data,,"‘Indico Serquese,’ 1,882 small maunds 24 seers",3,Pice.,15,15.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,8,data,,Indigo dust (not rated),2,Mahm.,—,,,True,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,8,data,,Indigo dust (not rated),3,Pice.,—,,,True,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,9,data,,"Dutties, 24 corge",2,Mahm.,"2,190",2190.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,9,data,,"Dutties, 24 corge",3,Pice.,11,11.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,10,data,,"Gum-lac, 166 maunds 18½ seers",2,Mahm.,"2,957",2957.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,10,data,,"Gum-lac, 166 maunds 18½ seers",3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,11,data,,"Turmeric, 49 small maunds 35 seers",2,Mahm.,155,155.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,11,data,,"Turmeric, 49 small maunds 35 seers",3,Pice.,16,16.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,12,data,,"Baftas narrow, white, 99 corge 17 pieces",2,Mahm.,"9,950",9950.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,12,data,,"Baftas narrow, white, 99 corge 17 pieces",3,Pice.,31,31.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,13,data,,"Sealing wax, 5 small maunds",2,Mahm.,200,200.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,13,data,,"Sealing wax, 5 small maunds",3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,14,data,,"‘Baftaes mames or watchetts Camba[ia],’ 9½ covids long and 1 1/12 broad, 10 corge",2,Mahm.,635,635.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,14,data,,"‘Baftaes mames or watchetts Camba[ia],’ 9½ covids long and 1 1/12 broad, 10 corge",3,Pice.,16,16.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,15,data,,"‘Dutties Dulcae,’ 16¾ covids long and 1 7/24 broad, 20 corge",2,Mahm.,"1,291",1291.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,15,data,,"‘Dutties Dulcae,’ 16¾ covids long and 1 7/24 broad, 20 corge",3,Pice.,30,30.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,16,data,,"‘Indicoes Serquese,’ 15 small maunds",2,Mahm.,645,645.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,16,data,,"‘Indicoes Serquese,’ 15 small maunds",3,Pice.,20,20.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,17,data,,"‘Pedaeria,’ various",2,Mahm.,897,897.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,17,data,,"‘Pedaeria,’ various",3,Pice.,2,2.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,18,total,,Mahmūdīs,2,Mahm.,"106,932",106932.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-002,II. On account of the New Joint Stock.,116,61,18,total,,Mahmūdīs,3,Pice.,14,14.0,,False,False

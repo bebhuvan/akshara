@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,1,data,,Vegetables,2,Incorrect average. :: Produce. :: Incorrect average.,"4,008",4008.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,1,data,,Vegetables,3,Correct average. :: Incorrect average. :: Correct average.,"4,753",4753.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,1,data,,Vegetables,4,Error. :: Correct average. :: More per cent.,18½,18.5,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,1,data,,Vegetables,5,Correct average. :: Less per cent.,...,,%,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,2,data,,Sugar,2,Incorrect average. :: Produce. :: Incorrect average.,449,449.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,2,data,,Sugar,3,Correct average. :: Incorrect average. :: Correct average.,646,646.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,2,data,,Sugar,4,Error. :: Correct average. :: More per cent.,44,44.0,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,2,data,,Sugar,5,Correct average. :: Less per cent.,...,,%,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,3,data,,Cotton,2,Incorrect average. :: Produce. :: Incorrect average.,102,102.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,3,data,,Cotton,3,Correct average. :: Incorrect average. :: Correct average.,105,105.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,3,data,,Cotton,4,Error. :: Correct average. :: More per cent.,3,3.0,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,3,data,,Cotton,5,Correct average. :: Less per cent.,...,,%,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,4,data,,Tobacco,2,Incorrect average. :: Produce. :: Incorrect average.,825,825.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,4,data,,Tobacco,3,Correct average. :: Incorrect average. :: Correct average.,846,846.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,4,data,,Tobacco,4,Error. :: Correct average. :: More per cent.,2½,2.5,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,4,data,,Tobacco,5,Correct average. :: Less per cent.,...,,%,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,5,data,,Fibres,2,Incorrect average. :: Produce. :: Incorrect average.,322,322.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,5,data,,Fibres,3,Correct average. :: Incorrect average. :: Correct average.,366,366.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,5,data,,Fibres,4,Error. :: Correct average. :: More per cent.,13¾,13.75,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,5,data,,Fibres,5,Correct average. :: Less per cent.,...,,%,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,6,data,,Indigo,2,Incorrect average. :: Produce. :: Incorrect average.,47,47.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,6,data,,Indigo,3,Correct average. :: Incorrect average. :: Correct average.,31,31.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,6,data,,Indigo,4,Error. :: Correct average. :: More per cent.,...,,%,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,6,data,,Indigo,5,Correct average. :: Less per cent.,33,33.0,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,7,data,,Opium,2,Incorrect average. :: Produce. :: Incorrect average.,10,10.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,7,data,,Opium,3,Correct average. :: Incorrect average. :: Correct average.,12·5,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,7,data,,Opium,4,Error. :: Correct average. :: More per cent.,25,25.0,%,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-130,Table 130,470,451,7,data,,Opium,5,Correct average. :: Less per cent.,...,,%,True,False

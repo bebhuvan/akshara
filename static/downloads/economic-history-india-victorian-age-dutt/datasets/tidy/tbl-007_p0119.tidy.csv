@@ -1,0 +1,58 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,1,data,,Lahore,2,District.,Lahore . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,1,data,,Lahore,3,"Land Revenue, 1850–51. :: £","38,060",38060.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,1,data,,Lahore,4,"Land Revenue, 1851–52. :: £","40,614",40614.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,2,data,,Row 2,2,District.,Amritsar . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,2,data,,Row 2,3,"Land Revenue, 1850–51. :: £","86,872",86872.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,2,data,,Row 2,4,"Land Revenue, 1851–52. :: £","102,473",102473.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,3,data,,Row 3,2,District.,Dinanagar . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,3,data,,Row 3,3,"Land Revenue, 1850–51. :: £","89,927",89927.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,3,data,,Row 3,4,"Land Revenue, 1851–52. :: £","94,041",94041.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,4,data,,Row 4,2,District.,Wazirabad . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,4,data,,Row 4,3,"Land Revenue, 1850–51. :: £","108,338",108338.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,4,data,,Row 4,4,"Land Revenue, 1851–52. :: £","114,018",114018.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,5,data,,Row 5,2,District.,Shekhpura . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,5,data,,Row 5,3,"Land Revenue, 1850–51. :: £","31,916",31916.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,5,data,,Row 5,4,"Land Revenue, 1851–52. :: £","38,322",38322.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,6,data,,Jhelum,2,District.,Gujrat . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,6,data,,Jhelum,3,"Land Revenue, 1850–51. :: £","59,382",59382.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,6,data,,Jhelum,4,"Land Revenue, 1851–52. :: £","59,859",59859.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,7,data,,Row 7,2,District.,Jhelum . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,7,data,,Row 7,3,"Land Revenue, 1850–51. :: £","69,548",69548.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,7,data,,Row 7,4,"Land Revenue, 1851–52. :: £","72,091",72091.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,8,data,,Row 8,2,District.,Rawalpindi . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,8,data,,Row 8,3,"Land Revenue, 1850–51. :: £","82,481",82481.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,8,data,,Row 8,4,"Land Revenue, 1851–52. :: £","82,056",82056.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,9,data,,Row 9,2,District.,Shahpur . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,9,data,,Row 9,3,"Land Revenue, 1850–51. :: £","41,231",41231.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,9,data,,Row 9,4,"Land Revenue, 1851–52. :: £","34,381",34381.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,10,data,,Leia,2,District.,Leia . . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,10,data,,Leia,3,"Land Revenue, 1850–51. :: £","48,444",48444.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,10,data,,Leia,4,"Land Revenue, 1851–52. :: £","54,357",54357.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,11,data,,Row 11,2,District.,Khungarh . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,11,data,,Row 11,3,"Land Revenue, 1850–51. :: £","49,534",49534.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,11,data,,Row 11,4,"Land Revenue, 1851–52. :: £","48,463",48463.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,12,data,,Row 12,2,District.,Dera Gazikhan,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,12,data,,Row 12,3,"Land Revenue, 1850–51. :: £","45,574",45574.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,12,data,,Row 12,4,"Land Revenue, 1851–52. :: £","47,280",47280.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,13,data,,Row 13,2,District.,Dera Ismaelkhan,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,13,data,,Row 13,3,"Land Revenue, 1850–51. :: £","48,968",48968.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,13,data,,Row 13,4,"Land Revenue, 1851–52. :: £","50,656",50656.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,14,data,,Multan,2,District.,Multan . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,14,data,,Multan,3,"Land Revenue, 1850–51. :: £","56,430",56430.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,14,data,,Multan,4,"Land Revenue, 1851–52. :: £","60,359",60359.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,15,data,,Row 15,2,District.,Jhung . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,15,data,,Row 15,3,"Land Revenue, 1850–51. :: £","27,878",27878.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,15,data,,Row 15,4,"Land Revenue, 1851–52. :: £","34,962",34962.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,16,data,,Row 16,2,District.,Pak Pattan . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,16,data,,Row 16,3,"Land Revenue, 1850–51. :: £","25,757",25757.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,16,data,,Row 16,4,"Land Revenue, 1851–52. :: £","38,312",38312.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,17,data,,Row 17,2,District.,Peshawar . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,17,data,,Row 17,3,"Land Revenue, 1850–51. :: £","89,307",89307.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,17,data,,Row 17,4,"Land Revenue, 1851–52. :: £","71,929",71929.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,18,data,,Row 18,2,District.,Hazra . . .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,18,data,,Row 18,3,"Land Revenue, 1850–51. :: £","18,854",18854.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,18,data,,Row 18,4,"Land Revenue, 1851–52. :: £","16,815",16815.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,19,total,,Total,2,District.,,,,True,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,19,total,,Total,3,"Land Revenue, 1850–51. :: £","£1,018,502",1018502.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-007,Table 7,119,91,19,total,,Total,4,"Land Revenue, 1851–52. :: £","£1,060,989",1060989.0,GBP,False,False

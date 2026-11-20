@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,1,data,,"East Jumna Canal, 1837, total area protected from droughts,",2,Column 2,,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,1,data,,"East Jumna Canal, 1837, total area protected from droughts,",3,Column 3,,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,1,data,,"East Jumna Canal, 1837, total area protected from droughts,",4,Column 4,,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,1,data,,"East Jumna Canal, 1837, total area protected from droughts,",5,Column 5,,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,1,data,,"East Jumna Canal, 1837, total area protected from droughts,",6,Acres.,"289,251",289251.0,acres,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,2,data,,"East Jumna Canal, 1837, total area protected from droughts,",2,Column 2,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,2,data,,"East Jumna Canal, 1837, total area protected from droughts,",3,Column 3,1860,1860.0,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,2,data,,"East Jumna Canal, 1837, total area protected from droughts,",4,Column 4,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,2,data,,"East Jumna Canal, 1837, total area protected from droughts,",5,Column 5,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,2,data,,"East Jumna Canal, 1837, total area protected from droughts,",6,Acres.,"783,981",783981.0,acres,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,3,data,,West,2,Column 2,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,3,data,,West,3,Column 3,1857,1857.0,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,3,data,,West,4,Column 4,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,3,data,,West,5,Column 5,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,3,data,,West,6,Acres.,"924,135",924135.0,acres,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,4,data,,West,2,Column 2,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,4,data,,West,3,Column 3,1860,1860.0,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,4,data,,West,4,Column 4,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,4,data,,West,5,Column 5,”,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-003,Table 3,160,144,4,data,,West,6,Acres.,"1,374,873",1374873.0,acres,False,False

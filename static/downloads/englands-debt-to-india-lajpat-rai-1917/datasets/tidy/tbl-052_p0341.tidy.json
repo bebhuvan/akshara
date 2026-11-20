@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-052",
+    "caption": "Table 52",
+    "page_number": 341,
+    "printed_folio": "301",
+    "row_index": 1,
+    "row_role": "subtotal",
+    "row_group": "",
+    "row_label": "Total expenditure on education in 1912",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "£5,239,507",
+    "value_numeric": 5239507.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-052",
+    "caption": "Table 52",
+    "page_number": 341,
+    "printed_folio": "301",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Amount expended on education from public funds just one-half the total",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "£2,700,000",
+    "value_numeric": 2700000.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

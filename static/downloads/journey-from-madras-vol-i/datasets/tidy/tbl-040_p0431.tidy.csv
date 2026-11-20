@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,1,data,,An acre sows,2,Peck.,"0,69418",69418.0,,False,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,1,data,,An acre sows,3,Column 3,Agara J. produces,,,False,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,1,data,,An acre sows,4,Bushels.,"26,",26.0,,False,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,2,data,,Row 2,2,Peck.,,,,True,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,2,data,,Row 2,3,Column 3,Kempa J.,,,False,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,2,data,,Row 2,4,Bushels.,"22,213684",22213684.0,,False,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,3,data,,Row 3,2,Peck.,,,,True,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,3,data,,Row 3,3,Column 3,Hessaru J.,,,False,False
+journey-from-madras-vol-i,tbl-040,Table 40,431,383,3,data,,Row 3,4,Bushels.,"17,770909",17770909.0,,False,False

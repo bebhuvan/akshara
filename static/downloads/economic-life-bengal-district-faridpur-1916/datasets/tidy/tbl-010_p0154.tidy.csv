@@ -1,0 +1,53 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,1,total,,Total,2,Column 2,"1,861,183",1861183.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,1,total,,Total,3,Hindu.,"691,968",691968.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,1,total,,Total,4,Muhammadan.,"1,164,824",1164824.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,1,total,,Total,5,Others (chiefly Christian).,"4,391",4391.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,2,data,,„ male,2,Column 2,"945,873",945873.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,2,data,,„ male,3,Hindu.,"348,033",348033.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,2,data,,„ male,4,Muhammadan.,"595,560",595560.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,2,data,,„ male,5,Others (chiefly Christian).,"2,280",2280.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,3,data,,„ female,2,Column 2,"915,310",915310.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,3,data,,„ female,3,Hindu.,"343,935",343935.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,3,data,,„ female,4,Muhammadan.,"569,264",569264.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,3,data,,„ female,5,Others (chiefly Christian).,"2,111",2111.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,5,data,Male: adults,Agriculturalists,2,Column 2,"404,185",404185.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,5,data,Male: adults,Agriculturalists,3,Hindu.,"104,838",104838.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,5,data,Male: adults,Agriculturalists,4,Muhammadan.,"298,256",298256.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,5,data,Male: adults,Agriculturalists,5,Others (chiefly Christian).,"1,091",1091.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,6,data,Male: adults,Non-agriculturalists,2,Column 2,"125,241",125241.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,6,data,Male: adults,Non-agriculturalists,3,Hindu.,"97,429",97429.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,6,data,Male: adults,Non-agriculturalists,4,Muhammadan.,"27,664",27664.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,6,data,Male: adults,Non-agriculturalists,5,Others (chiefly Christian).,148,148.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,8,data,Children,Agriculturalists,2,Column 2,"326,826",326826.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,8,data,Children,Agriculturalists,3,Hindu.,"77,073",77073.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,8,data,Children,Agriculturalists,4,Muhammadan.,"248,827",248827.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,8,data,Children,Agriculturalists,5,Others (chiefly Christian).,926,926.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,9,data,Children,Non-agriculturalists,2,Column 2,"89,621",89621.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,9,data,Children,Non-agriculturalists,3,Hindu.,"68,693",68693.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,9,data,Children,Non-agriculturalists,4,Muhammadan.,"20,813",20813.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,9,data,Children,Non-agriculturalists,5,Others (chiefly Christian).,115,115.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,11,data,Female: adults,Agriculturalists,2,Column 2,"451,657",451657.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,11,data,Female: adults,Agriculturalists,3,Hindu.,"119,669",119669.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,11,data,Female: adults,Agriculturalists,4,Muhammadan.,"330,897",330897.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,11,data,Female: adults,Agriculturalists,5,Others (chiefly Christian).,"1,091",1091.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,12,data,Female: adults,Non-agriculturalists,2,Column 2,"152,368",152368.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,12,data,Female: adults,Non-agriculturalists,3,Hindu.,"119,729",119729.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,12,data,Female: adults,Non-agriculturalists,4,Muhammadan.,"32,485",32485.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,12,data,Female: adults,Non-agriculturalists,5,Others (chiefly Christian).,154,154.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,14,data,Children,Agriculturalists,2,Column 2,"246,962",246962.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,14,data,Children,Agriculturalists,3,Hindu.,"56,344",56344.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,14,data,Children,Agriculturalists,4,Muhammadan.,"189,855",189855.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,14,data,Children,Agriculturalists,5,Others (chiefly Christian).,763,763.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,15,data,Children,Non-agriculturalists,2,Column 2,"64,323",64323.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,15,data,Children,Non-agriculturalists,3,Hindu.,"48,193",48193.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,15,data,Children,Non-agriculturalists,4,Muhammadan.,"16,027",16027.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,15,data,Children,Non-agriculturalists,5,Others (chiefly Christian).,103,103.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,17,data,Total,Agriculturalists,2,Column 2,"1,429,630",1429630.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,17,data,Total,Agriculturalists,3,Hindu.,"357,924",357924.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,17,data,Total,Agriculturalists,4,Muhammadan.,"1,067,835",1067835.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,17,data,Total,Agriculturalists,5,Others (chiefly Christian).,"3,871",3871.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,18,data,Total,Non-agriculturalists,2,Column 2,"431,553",431553.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,18,data,Total,Non-agriculturalists,3,Hindu.,"334,044",334044.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,18,data,Total,Non-agriculturalists,4,Muhammadan.,"96,989",96989.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-010,POPULATION WHICH CAME UNDER REVIEW,154,150,18,data,Total,Non-agriculturalists,5,Others (chiefly Christian).,520,520.0,,False,False

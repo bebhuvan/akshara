@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+early-history-tea-industry,tbl-002,Table 2,36,34,1,data,,March,2,Column 2,"18,269 lbs.",18269.0,lbs,False,False
+early-history-tea-industry,tbl-002,Table 2,36,34,2,data,,April,2,Column 2,"41,125 „",41125.0,lbs,False,False
+early-history-tea-industry,tbl-002,Table 2,36,34,3,data,,May,2,Column 2,"36,391 „",36391.0,lbs,False,False
+early-history-tea-industry,tbl-002,Table 2,36,34,4,data,,June,2,Column 2,"37,523 „",37523.0,lbs,False,False
+early-history-tea-industry,tbl-002,Table 2,36,34,5,data,,July,2,Column 2,"31,920 „",31920.0,lbs,False,False
+early-history-tea-industry,tbl-002,Table 2,36,34,6,data,,August,2,Column 2,"26,079 „",26079.0,lbs,False,False
+early-history-tea-industry,tbl-002,Table 2,36,34,7,data,,September,2,Column 2,"19,345 „",19345.0,lbs,False,False

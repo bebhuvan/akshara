@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,1,data,,Man,2,Food. :: Rs.,37,37.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,1,data,,Man,3,Clothing. :: Rs.,10,10.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,1,data,,Man,4,Clothing. :: a.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,1,data,,Man,5,Family Expenses. :: Rs.,,,Rs,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,1,data,,Man,6,Family Expenses. :: a.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,1,data,,Man,7,Total.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,2,data,,Woman,2,Food. :: Rs.,32,32.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,2,data,,Woman,3,Clothing. :: Rs.,6,6.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,2,data,,Woman,4,Clothing. :: a.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,2,data,,Woman,5,Family Expenses. :: Rs.,,,Rs,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,2,data,,Woman,6,Family Expenses. :: a.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,2,data,,Woman,7,Total.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,3,data,,Youth (12 to 18),2,Food. :: Rs.,26,26.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,3,data,,Youth (12 to 18),3,Clothing. :: Rs.,6,6.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,3,data,,Youth (12 to 18),4,Clothing. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,3,data,,Youth (12 to 18),5,Family Expenses. :: Rs.,,,Rs,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,3,data,,Youth (12 to 18),6,Family Expenses. :: a.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,3,data,,Youth (12 to 18),7,Total.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,4,data,,Child (under 12),2,Food. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,4,data,,Child (under 12),3,Clothing. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,4,data,,Child (under 12),4,Clothing. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,4,data,,Child (under 12),5,Family Expenses. :: Rs.,,,Rs,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,4,data,,Child (under 12),6,Family Expenses. :: a.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,4,data,,Child (under 12),7,Total.,,,,True,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,5,total,,Row 5,2,Food. :: Rs.,95,95.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,5,total,,Row 5,3,Clothing. :: Rs.,22,22.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,5,total,,Row 5,4,Clothing. :: a.,15,15.0,,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,5,total,,Row 5,5,Family Expenses. :: Rs.,19,19.0,Rs,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,5,total,,Row 5,6,Family Expenses. :: a.,15,15.0,,False,False
+poverty-and-un-british-rule,tbl-114,TAKING FOUR IN THE FAMILY.,192,172,5,total,,Row 5,7,Total.,"137-14—say, Rs. 136",,Rs,False,False

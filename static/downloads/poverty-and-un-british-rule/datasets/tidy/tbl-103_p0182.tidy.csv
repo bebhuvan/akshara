@@ -1,0 +1,55 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,1,data,,1 Delhi,2,Acres.,100,100.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,1,data,,1 Delhi,3,Per Acre. :: lbs.,30,30.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"3,000",3000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,2,data,,2 Gurgaon,2,Acres.,56,56.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,100,100.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"5,600",5600.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,3,data,,3 Kárnal,2,Acres.,588,588.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,3,data,,3 Kárnal,3,Per Acre. :: lbs.,30,30.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,3,data,,3 Kárnal,4,Total Quantity. :: lbs.,"17,640",17640.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,4,data,,4 Hissar,2,Acres.,785,785.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,4,data,,4 Hissar,3,Per Acre. :: lbs.,...,,acres,True,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,4,data,,4 Hissar,4,Total Quantity. :: lbs.,...,,lbs,True,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,5,data,,5 Rohtak,2,Acres.,"1,526",1526.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,5,data,,5 Rohtak,3,Per Acre. :: lbs.,...,,acres,True,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,...,,lbs,True,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,6,data,,7 Umballa,2,Acres.,"1,798",1798.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,6,data,,7 Umballa,3,Per Acre. :: lbs.,62,62.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,6,data,,7 Umballa,4,Total Quantity. :: lbs.,"111,476",111476.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,7,data,,8 Ludhiána,2,Acres.,"2,647",2647.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,7,data,,8 Ludhiána,3,Per Acre. :: lbs.,33,33.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,7,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"87,351",87351.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,8,data,,10 Jullundar,2,Acres.,754,754.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,8,data,,10 Jullundar,3,Per Acre. :: lbs.,41,41.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,8,data,,10 Jullundar,4,Total Quantity. :: lbs.,"30,914",30914.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,9,data,,11 Hoshiarpur,2,Acres.,"1,162",1162.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,9,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,44,44.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,9,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"51,128",51128.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,10,data,,18 Firozepore,2,Acres.,26,26.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,10,data,,18 Firozepore,3,Per Acre. :: lbs.,24,24.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,10,data,,18 Firozepore,4,Total Quantity. :: lbs.,624,624.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,11,data,,21 Gujrát,2,Acres.,47,47.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,11,data,,21 Gujrát,3,Per Acre. :: lbs.,101,101.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,11,data,,21 Gujrát,4,Total Quantity. :: lbs.,"4,747",4747.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,12,data,,23 Mooltan,2,Acres.,"75,364",75364.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,12,data,,23 Mooltan,3,Per Acre. :: lbs.,26,26.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,12,data,,23 Mooltan,4,Total Quantity. :: lbs.,"1,959,464",1959464.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,13,data,,24 Jhang,2,Acres.,2,2.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,13,data,,24 Jhang,3,Per Acre. :: lbs.,29,29.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,13,data,,24 Jhang,4,Total Quantity. :: lbs.,58,58.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,14,data,,25 Montgomery,2,Acres.,8,8.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,14,data,,25 Montgomery,3,Per Acre. :: lbs.,20,20.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,14,data,,25 Montgomery,4,Total Quantity. :: lbs.,160,160.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,15,data,,26 Mazaffargarh,2,Acres.,"20,603",20603.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,15,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,50,50.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,15,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"1,030,150",1030150.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,16,data,,28 D. G. Kahn,2,Acres.,"23,999",23999.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,16,data,,28 D. G. Kahn,3,Per Acre. :: lbs.,29,29.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,16,data,,28 D. G. Kahn,4,Total Quantity. :: lbs.,"695,971",695971.0,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,17,subtotal,,Total,2,Acres.,"129,465",129465.0,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,17,subtotal,,Total,3,Per Acre. :: lbs.,Average. 31·44,,acres,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,17,subtotal,,Total,4,Total Quantity. :: lbs.,"3,998,283 add 72,658",,lbs,False,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,18,total,,Row 18,2,Acres.,,,acres,True,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,18,total,,Row 18,3,Per Acre. :: lbs.,,,acres,True,True
+poverty-and-un-british-rule,tbl-103,Indigo.,182,162,18,total,,Row 18,4,Total Quantity. :: lbs.,"4,070,941",4070941.0,lbs,False,True

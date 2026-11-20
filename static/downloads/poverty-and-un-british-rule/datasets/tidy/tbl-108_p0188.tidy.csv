@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-108,"Summary of the Total Production of Punjab, 1876-7.",188,168,1,data,,Agricultural Produce,2,Value.,"Rs. 27,72,56,263",277256263.0,Rs,False,True
+poverty-and-un-british-rule,tbl-108,"Summary of the Total Production of Punjab, 1876-7.",188,168,2,data,,Manufactures,2,Value.,"4,08,40,058",40840058.0,,False,True
+poverty-and-un-british-rule,tbl-108,"Summary of the Total Production of Punjab, 1876-7.",188,168,3,data,,Mines,2,Value.,"3,00,000",300000.0,,False,True
+poverty-and-un-british-rule,tbl-108,"Summary of the Total Production of Punjab, 1876-7.",188,168,4,total,,Row 4,2,Value.,"Rs. 31,83,96,321",318396321.0,Rs,False,True

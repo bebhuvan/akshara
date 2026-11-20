@@ -1,0 +1,55 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,1,data,,2 Dhotees,2,Man. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,1,data,,2 Dhotees,3,Man. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,1,data,,2 Dhotees,4,Woman.,2 Pajamas,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,1,data,,2 Dhotees,5,Woman. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,1,data,,2 Dhotees,6,Woman. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,1,data,,2 Dhotees,7,Remarks.,"No holiday clothing, nor for occasions of joy and sorrow are reckoned.",,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,2,data,,2 Pairs Shoes,2,Man. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,2,data,,2 Pairs Shoes,3,Man. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,2,data,,2 Pairs Shoes,4,Woman.,1 Gagra,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,2,data,,2 Pairs Shoes,5,Woman. :: Rs.,2,2.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,2,data,,2 Pairs Shoes,6,Woman. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,2,data,,2 Pairs Shoes,7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,3,data,,1 Turban,2,Man. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,3,data,,1 Turban,3,Man. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,3,data,,1 Turban,4,Woman.,2 Chadars,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,3,data,,1 Turban,5,Woman. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,3,data,,1 Turban,6,Woman. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,3,data,,1 Turban,7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,4,data,,2 Bandis for warm and cold weather,2,Man. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,4,data,,2 Bandis for warm and cold weather,3,Man. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,4,data,,2 Bandis for warm and cold weather,4,Woman.,4 Cholees,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,4,data,,2 Bandis for warm and cold weather,5,Woman. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,4,data,,2 Bandis for warm and cold weather,6,Woman. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,4,data,,2 Bandis for warm and cold weather,7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,5,data,,2 Kamlees,2,Man. :: Rs.,4,4.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,5,data,,2 Kamlees,3,Man. :: a.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,5,data,,2 Kamlees,4,Woman.,Bangles,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,5,data,,2 Kamlees,5,Woman. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,5,data,,2 Kamlees,6,Woman. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,5,data,,2 Kamlees,7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,6,data,,"1 Small piece of cloth for Langootee, etc",2,Man. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,6,data,,"1 Small piece of cloth for Langootee, etc",3,Man. :: a.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,6,data,,"1 Small piece of cloth for Langootee, etc",4,Woman.,2 Pairs Shoes,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,6,data,,"1 Small piece of cloth for Langootee, etc",5,Woman. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,6,data,,"1 Small piece of cloth for Langootee, etc",6,Woman. :: a.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,6,data,,"1 Small piece of cloth for Langootee, etc",7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,7,data,,1 Chadar,2,Man. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,7,data,,1 Chadar,3,Man. :: a.,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,7,data,,1 Chadar,4,Woman.,Hair-dressing,,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,7,data,,1 Chadar,5,Woman. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,7,data,,1 Chadar,6,Woman. :: a.,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,7,data,,1 Chadar,7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,8,data,,2 Pajama,2,Man. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,8,data,,2 Pajama,3,Man. :: a.,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,8,data,,2 Pajama,4,Woman.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,8,data,,2 Pajama,5,Woman. :: Rs.,,,Rs,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,8,data,,2 Pajama,6,Woman. :: a.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,8,data,,2 Pajama,7,Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,9,total,,Total,2,Man. :: Rs.,10,10.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,9,total,,Total,3,Man. :: a.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,9,total,,Total,4,Woman.,,,,True,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,9,total,,Total,5,Woman. :: Rs.,6,6.0,Rs,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,9,total,,Total,6,Woman. :: a.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-112,CLOTHING FOR ONE YEAR.,192,172,9,total,,Total,7,Remarks.,,,,True,False

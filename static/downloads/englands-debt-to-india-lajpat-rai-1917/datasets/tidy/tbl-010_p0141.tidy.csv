@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-010,Table 10,141,101,1,data,,Ordinary,2,Column 2,"£2,296,498",2296498.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-010,Table 10,141,101,2,data,,Railways,2,Column 2,"8,979,898",8979898.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-010,Table 10,141,101,3,data,,Irrigation,2,Column 2,"124,730",124730.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-010,Table 10,141,101,4,total,,Total,2,Column 2,"11,401,126",11401126.0,,False,True

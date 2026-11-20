@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,1,subtotal,,Total number of witnesses examined,2,Column 2,—,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,1,subtotal,,Total number of witnesses examined,3,Column 3,—,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,1,subtotal,,Total number of witnesses examined,4,Column 4,195,195.0,,False,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,2,data,,For simultaneous examinations,2,Column 2,—,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,2,data,,For simultaneous examinations,3,Column 3,143,143.0,,False,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,2,data,,For simultaneous examinations,4,Column 4,,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,3,data,,Against „ „,2,Column 2,—,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,3,data,,Against „ „,3,Column 3,35,35.0,,False,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,3,data,,Against „ „,4,Column 4,,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,4,data,,Majority for,2,Column 2,108,108.0,,False,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,4,data,,Majority for,3,Column 3,—,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,4,data,,Majority for,4,Column 4,,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,5,data,,Neutral or doubtful,2,Column 2,—,,,True,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,5,data,,Neutral or doubtful,3,Column 3,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-148,1.—BENGAL.,487,467,5,data,,Neutral or doubtful,4,Column 4,195,195.0,,False,False

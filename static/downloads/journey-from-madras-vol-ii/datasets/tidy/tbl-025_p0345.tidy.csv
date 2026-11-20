@@ -1,0 +1,28 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,1,data,,"III. First year Cambu, with the accompanying grains",2,Column 2,£1,1.0,GBP,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,1,data,,"III. First year Cambu, with the accompanying grains",3,Column 3,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,1,data,,"III. First year Cambu, with the accompanying grains",4,Column 4,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,2,data,,Second ditto Sholum and Nadum cotton,2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,2,data,,Second ditto Sholum and Nadum cotton,3,Column 3,19,19.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,2,data,,Second ditto Sholum and Nadum cotton,4,Column 4,5½,5.5,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,3,data,,Third ditto cotton remains giving ¾ of a crop,2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,3,data,,Third ditto cotton remains giving ¾ of a crop,3,Column 3,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,3,data,,Third ditto cotton remains giving ¾ of a crop,4,Column 4,5½,5.5,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,4,data,,Fourth ditto grass,2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,4,data,,Fourth ditto grass,3,Column 3,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,4,data,,Fourth ditto grass,4,Column 4,6,6.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,5,subtotal,,Total produce of four years,2,Column 2,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,5,subtotal,,Total produce of four years,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,5,subtotal,,Total produce of four years,4,Column 4,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,6,data,,Deduct Rent,2,Column 2,19s. 2d.,,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,6,data,,Deduct Rent,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,6,data,,Deduct Rent,4,Column 4,,,,True,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,7,data,,Seed,2,Column 2,0s. 6½d.,,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,7,data,,Seed,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,7,data,,Seed,4,Column 4,,,,True,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,8,subtotal,,Row 8,2,Column 2,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,8,subtotal,,Row 8,3,Column 3,19,19.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,8,subtotal,,Row 8,4,Column 4,8½,8.5,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,9,total,,Remainder for stock and labour,2,Column 2,£1,1.0,GBP,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,9,total,,Remainder for stock and labour,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-025,Table 25,345,325,9,total,,Remainder for stock and labour,4,Column 4,8½,8.5,,False,False

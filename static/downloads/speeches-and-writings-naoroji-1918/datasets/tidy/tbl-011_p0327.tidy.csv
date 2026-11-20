@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,1,data,,"United Kingdom... (Par. Ret. [C. 7,143] 1893.)",2,Imports (in- cluding Gold and Silver.) :: £,"4,247,954,247",4247954247.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,1,data,,"United Kingdom... (Par. Ret. [C. 7,143] 1893.)",3,Exports (in- cluding Gold and Silver). :: £,"3,203,603,246",3203603246.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,1,data,,"United Kingdom... (Par. Ret. [C. 7,143] 1893.)",4,Excess of Im- ports over Exports. :: £,"1,044,351,001",1044351001.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,1,data,,"United Kingdom... (Par. Ret. [C. 7,143] 1893.)",5,Per- cent- age of Trade Profits,32,32.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,2,data,,Australasia,2,Imports (in- cluding Gold and Silver.) :: £,"643,462,379",643462379.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,2,data,,Australasia,3,Exports (in- cluding Gold and Silver). :: £,"582,264,839",582264839.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,2,data,,Australasia,4,Excess of Im- ports over Exports. :: £,"61,197,540",61197540.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,2,data,,Australasia,5,Per- cent- age of Trade Profits,10·5,,,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,3,data,,North American Colonies,2,Imports (in- cluding Gold and Silver.) :: £,"254,963,473",254963473.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,3,data,,North American Colonies,3,Exports (in- cluding Gold and Silver). :: £,"205,063,294",205063294.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,3,data,,North American Colonies,4,Excess of Im- ports over Exports. :: £,"49,900,179",49900179.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,3,data,,North American Colonies,5,Per- cent- age of Trade Profits,24·4,,,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,4,data,,"Straits Settlements (Par. Ret. [C. 7,144] 1893.)",2,Imports (in- cluding Gold and Silver.) :: £,"204,613,643",204613643.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,4,data,,"Straits Settlements (Par. Ret. [C. 7,144] 1893.)",3,Exports (in- cluding Gold and Silver). :: £,"181,781,667",181781667.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,4,data,,"Straits Settlements (Par. Ret. [C. 7,144] 1893.)",4,Excess of Im- ports over Exports. :: £,"22,831,976",22831976.0,GBP,False,False
+speeches-and-writings-naoroji-1918,tbl-011,Ten Years (1883-1892).,327,313,4,data,,"Straits Settlements (Par. Ret. [C. 7,144] 1893.)",5,Per- cent- age of Trade Profits,12·5,,,False,False

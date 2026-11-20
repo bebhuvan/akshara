@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,1,data,,One acre of arable land of the 1st quality lets for,2,s.,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,1,data,,One acre of arable land of the 1st quality lets for,3,d.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,2,data,,2d ditto,2,s.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,2,data,,2d ditto,3,d.,4½,4.5,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,3,data,,3d ditto,2,s.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,3,data,,3d ditto,3,d.,11,11.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,4,data,,4th ditto,2,s.,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,321,301,4,data,,4th ditto,3,d.,5½,5.5,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,322,301,5,data,,One acre of the best pasture land lets for,2,s.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,322,301,5,data,,One acre of the best pasture land lets for,3,d.,10½,10.5,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,322,301,6,data,,One ditto of the worst ditto,2,s.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-018,Table 18,322,301,6,data,,One ditto of the worst ditto,3,d.,5¼,5.25,,False,False

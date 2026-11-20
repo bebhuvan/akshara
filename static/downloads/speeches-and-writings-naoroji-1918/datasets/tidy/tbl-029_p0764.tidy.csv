@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-029,Table 29,764,82,1,data,,"In 1881, the balance of State Funds was",2,Rx.,"240,743",240743.0,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-029,Table 29,764,82,2,data,,Capital outlay on State Railways,2,Rx.,"251,919",251919.0,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-029,Table 29,764,82,3,data,,Against a liability to the British Government of,2,Rx.,"800,000",800000.0,Rs,False,False

@@ -1,0 +1,20 @@
+[
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-054",
+    "caption": "Table 54",
+    "page_number": 342,
+    "printed_folio": "302",
+    "row_index": 1,
+    "row_role": "subtotal",
+    "row_group": "",
+    "row_label": "Total number of students in Governmental Schools and Colleges of Engineering",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "1,607",
+    "value_numeric": 1607.0,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

@@ -1,0 +1,57 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,2,Number of transfers. :: Of which cultivated. :: 2,"50,845",50845.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,3,Area transferred. :: Total. :: 3 :: Acres.,"288,244",288244.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,4,Revenue in rupees. :: Cultivated. :: 4 :: Acres.,"173,142",173142.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,5,Price in rupees. :: 5,"1,78,495",178495.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,6,Price per acre. :: 6,"1,34,80,612",13480612.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,7,Price per rupee of land revenue. :: 7 :: Rupees.,46,46.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,8,Sales by agricultural tribes. :: 8 :: Rupees.,78,78.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,9,Sales to agricultural tribes. :: 9 :: Rupees.,75,75.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,10,Sales by statutory agriculturists. :: 10 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,11,Sales to statutory agriculturists. :: 11 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,12,Sales by others. :: 12 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,13,Sales to others. :: 13 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,14,14 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,1,summary,,Average of five years ending 1901,15,15 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,2,Number of transfers. :: Of which cultivated. :: 2,"43,191",43191.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,3,Area transferred. :: Total. :: 3 :: Acres.,"252,627",252627.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,4,Revenue in rupees. :: Cultivated. :: 4 :: Acres.,"150,191",150191.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,5,Price in rupees. :: 5,"1,30,528",130528.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,6,Price per acre. :: 6,"1,12,88,973",11288973.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,7,Price per rupee of land revenue. :: 7 :: Rupees.,45,45.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,8,Sales by agricultural tribes. :: 8 :: Rupees.,75,75.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,9,Sales to agricultural tribes. :: 9 :: Rupees.,86,86.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,10,Sales by statutory agriculturists. :: 10 :: Acres.,"149,989",149989.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,11,Sales to statutory agriculturists. :: 11 :: Acres.,"148,948",148948.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,12,Sales by others. :: 12 :: Acres.,"20,591",20591.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,13,Sales to others. :: 13 :: Acres.,"22,926",22926.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,14,14 :: Acres.,"60,938",60938.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,2,summary,,Average of five years ending 1906,15,15 :: Acres.,"59,624",59624.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,2,Number of transfers. :: Of which cultivated. :: 2,"40,681",40681.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,3,Area transferred. :: Total. :: 3 :: Acres.,"220,342",220342.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,4,Revenue in rupees. :: Cultivated. :: 4 :: Acres.,"125,059",125059.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,5,Price in rupees. :: 5,"1,22,009",122009.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,6,Price per acre. :: 6,"1,23,24,700",12324700.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,7,Price per rupee of land revenue. :: 7 :: Rupees.,56,56.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,8,Sales by agricultural tribes. :: 8 :: Rupees.,98,98.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,9,Sales to agricultural tribes. :: 9 :: Rupees.,101,101.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,10,Sales by statutory agriculturists. :: 10 :: Acres.,"152,445",152445.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,11,Sales to statutory agriculturists. :: 11 :: Acres.,"156,445",156445.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,12,Sales by others. :: 12 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,13,Sales to others. :: 13 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,14,14 :: Acres.,"67,819",67819.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,3,data,,1906–7,15,15 :: Acres.,"63,819",63819.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,2,Number of transfers. :: Of which cultivated. :: 2,"45,003",45003.0,,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,3,Area transferred. :: Total. :: 3 :: Acres.,"231,990",231990.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,4,Revenue in rupees. :: Cultivated. :: 4 :: Acres.,"131,865",131865.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,5,Price in rupees. :: 5,"1,18,610",118610.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,6,Price per acre. :: 6,"1,27,74,088",12774088.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,7,Price per rupee of land revenue. :: 7 :: Rupees.,55,55.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,8,Sales by agricultural tribes. :: 8 :: Rupees.,97,97.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,9,Sales to agricultural tribes. :: 9 :: Rupees.,108,108.0,Rs,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,10,Sales by statutory agriculturists. :: 10 :: Acres.,"156,492",156492.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,11,Sales to statutory agriculturists. :: 11 :: Acres.,"168,562",168562.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,12,Sales by others. :: 12 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,13,Sales to others. :: 13 :: Acres.,—,,acres,True,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,14,14 :: Acres.,"75,282",75282.0,acres,False,False
+recent-economic-developments-punjab-wilson-1910,tbl-014,SALES OF LAND IN THE PUNJAB.,57,55,4,data,,1907–8,15,15 :: Acres.,"63,215",63215.0,acres,False,False

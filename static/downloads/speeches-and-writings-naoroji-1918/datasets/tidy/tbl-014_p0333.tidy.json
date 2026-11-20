@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "speeches-and-writings-naoroji-1918",
+    "table_id": "tbl-014",
+    "caption": "Table 14",
+    "page_number": 333,
+    "printed_folio": "319",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Now take 1850, exports",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "£18,700,000",
+    "value_numeric": 18700000.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "speeches-and-writings-naoroji-1918",
+    "table_id": "tbl-014",
+    "caption": "Table 14",
+    "page_number": 333,
+    "printed_folio": "319",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": ",, ,, 1870, ,,",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "£64,690,000",
+    "value_numeric": 64690000.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

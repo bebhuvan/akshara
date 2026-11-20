@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,1,data,,Males,2,Column 2,8547,8547.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,2,data,,Females,2,Column 2,7654,7654.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,3,subtotal,,Total,2,Column 2,16201,16201.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,4,data,,Add free persons by first estimate,2,Column 2,"146,800",146800.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,5,total,,Total population by first estimate,2,Column 2,"163,001",163001.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,6,total,,Total population by Mr. Barber's ditto,2,Column 2,"120,101",120101.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,7,data,,Cows,2,Column 2,"17,331",17331.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,8,data,,"Oxen, large",2,Column 2,2068,2068.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,9,data,,small,2,Column 2,"25,428",25428.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,10,subtotal,,Row 10,2,Column 2,"27,496",27496.0,,False,False
+journey-from-madras-vol-ii,tbl-036,"The number of slaves are,",468,442,11,total,,Total animals of the cow-kind,2,Column 2,"44,827",44827.0,,False,False

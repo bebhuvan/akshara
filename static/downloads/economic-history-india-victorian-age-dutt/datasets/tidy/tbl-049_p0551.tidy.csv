@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,1,data,,Beet sugar from Germany and Austria,2,1897–98.,"2,206,064",2206064.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,1,data,,Beet sugar from Germany and Austria,3,1898–99.,"1,526,291",1526291.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,1,data,,Beet sugar from Germany and Austria,4,1899–1900.,"872,515",872515.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,1,data,,Beet sugar from Germany and Austria,5,1900–1.,"1,792,590",1792590.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,1,data,,Beet sugar from Germany and Austria,6,1901–2.,"2,936,196",2936196.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,2,data,,"Cane sugar from Mauritius, &c",2,1897–98.,"2,029,330",2029330.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,2,data,,"Cane sugar from Mauritius, &c",3,1898–99.,"2,238,619",2238619.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,2,data,,"Cane sugar from Mauritius, &c",4,1899–1900.,"2,063,477",2063477.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,2,data,,"Cane sugar from Mauritius, &c",5,1900–1.,"3,049,046",3049046.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-049,Table 49,551,523,2,data,,"Cane sugar from Mauritius, &c",6,1901–2.,"2,491,907",2491907.0,,False,False

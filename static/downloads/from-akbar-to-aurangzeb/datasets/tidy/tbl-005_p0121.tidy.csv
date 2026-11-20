@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,1,data,,Indigo : Sarkhej,2,Ma.,"351,600",351600.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,1,data,,Indigo : Sarkhej,3,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,2,data,,Biana,2,Ma.,"278,700",278700.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,2,data,,Biana,3,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,3,subtotal,,Row 3,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,3,subtotal,,Row 3,3,Ma.,"630,300",630300.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,4,data,,Calico,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,4,data,,Calico,3,Ma.,"77,000",77000.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,5,data,,Fancy cotton goods and samples,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,5,data,,Fancy cotton goods and samples,3,Ma.,"7,600",7600.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,6,data,,Gumlac,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,6,data,,Gumlac,3,Ma.,"3,000",3000.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,7,data,,Sealing wax,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,7,data,,Sealing wax,3,Ma.,200,200.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,8,data,,Turmeric,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,8,data,,Turmeric,3,Ma.,150,150.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,9,data,,Precious stones and miscellaneous,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,9,data,,Precious stones and miscellaneous,3,Ma.,"1,750",1750.0,,False,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,10,total,,Row 10,2,Ma.,,,,True,True
+from-akbar-to-aurangzeb,tbl-005,Table 5,121,99,10,total,,Row 10,3,Ma.,"720,000",720000.0,,False,True

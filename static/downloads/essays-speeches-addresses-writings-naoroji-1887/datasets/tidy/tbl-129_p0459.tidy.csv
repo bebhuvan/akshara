@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,1,data,,Man,2,Food. :: Rs.,37,37.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,1,data,,Man,3,Clothing. :: Rs. a.,10 4,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,1,data,,Man,4,Family expenses. :: Rs. a.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,1,data,,Man,5,Total.,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,2,data,,Woman,2,Food. :: Rs.,32,32.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,2,data,,Woman,3,Clothing. :: Rs. a.,6 11,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,2,data,,Woman,4,Family expenses. :: Rs. a.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,2,data,,Woman,5,Total.,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,3,data,,Youth (12 to 18),2,Food. :: Rs.,26,26.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,3,data,,Youth (12 to 18),3,Clothing. :: Rs. a.,6 0,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,3,data,,Youth (12 to 18),4,Family expenses. :: Rs. a.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,3,data,,Youth (12 to 18),5,Total.,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,4,data,,Child (under 12),2,Food. :: Rs.,...,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,4,data,,Child (under 12),3,Clothing. :: Rs. a.,......,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,4,data,,Child (under 12),4,Family expenses. :: Rs. a.,,,Rs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,4,data,,Child (under 12),5,Total.,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,5,total,,Row 5,2,Food. :: Rs.,95,95.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,5,total,,Row 5,3,Clothing. :: Rs. a.,22 15,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,5,total,,Row 5,4,Family expenses. :: Rs. a.,19 15,,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-129,Taking 4 in the family.,459,440,5,total,,Row 5,5,Total.,137 14—say Rs. 136.,,Rs,False,True

@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-056,Table 56,349,309,1,data,,The British Indian Mints coined in sixty-five years from silver supplied by Government,2,Column 2,"£34,570,665",34570665.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-056,Table 56,349,309,2,data,,"The Feudatory States have minted, say",2,Column 2,"13,000,000",13000000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-056,Table 56,349,309,3,total,,Total,2,Column 2,"£47,570,665",47570665.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-056,Table 56,349,309,4,data,,"To this must be added, to replace wear and tear, estimated before a Committee of the House of Commons at £666,666 a year",2,Column 2,"£43,333,290",43333290.0,GBP,False,True

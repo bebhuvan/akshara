@@ -1,0 +1,49 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,1,subtotal,,Total value of cargo,2,1638–39. (Royal Mary and Swan.),"1,405,200",1405200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,1,subtotal,,Total value of cargo,3,1639–40. (Discovery.),"816,200",816200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,1,subtotal,,Total value of cargo,4,1640–41. (Crispian.),"1,189,100",1189100.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,2,data,,Of which Indian goods,2,1638–39. (Royal Mary and Swan.),"959,500",959500.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,2,data,,Of which Indian goods,3,1639–40. (Discovery.),"398,300",398300.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,2,data,,Of which Indian goods,4,1640–41. (Crispian.),"419,000",419000.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,3,data,,„ re-exports,2,1638–39. (Royal Mary and Swan.),"445,700",445700.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,3,data,,„ re-exports,3,1639–40. (Discovery.),"417,900",417900.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,3,data,,„ re-exports,4,1640–41. (Crispian.),"770,100",770100.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,5,data,Detail of Indian goods—,Cotton goods,2,1638–39. (Royal Mary and Swan.),"412,400",412400.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,5,data,Detail of Indian goods—,Cotton goods,3,1639–40. (Discovery.),"198,300",198300.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,5,data,Detail of Indian goods—,Cotton goods,4,1640–41. (Crispian.),"205,200",205200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,6,data,Detail of Indian goods—,Cotton yarn,2,1638–39. (Royal Mary and Swan.),"53,800",53800.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,6,data,Detail of Indian goods—,Cotton yarn,3,1639–40. (Discovery.),"20,200",20200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,6,data,Detail of Indian goods—,Cotton yarn,4,1640–41. (Crispian.),"2,100",2100.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,7,data,Detail of Indian goods—,Indigo,2,1638–39. (Royal Mary and Swan.),"362,300",362300.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,7,data,Detail of Indian goods—,Indigo,3,1639–40. (Discovery.),"118,900",118900.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,7,data,Detail of Indian goods—,Indigo,4,1640–41. (Crispian.),"206,200",206200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,8,data,Detail of Indian goods—,Saltpetre,2,1638–39. (Royal Mary and Swan.),"17,000",17000.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,8,data,Detail of Indian goods—,Saltpetre,3,1639–40. (Discovery.),"5,500",5500.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,8,data,Detail of Indian goods—,Saltpetre,4,1640–41. (Crispian.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,9,data,Detail of Indian goods—,Pepper,2,1638–39. (Royal Mary and Swan.),"101,200",101200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,9,data,Detail of Indian goods—,Pepper,3,1639–40. (Discovery.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,9,data,Detail of Indian goods—,Pepper,4,1640–41. (Crispian.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,10,data,Detail of Indian goods—,Sugar,2,1638–39. (Royal Mary and Swan.),"8,000",8000.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,10,data,Detail of Indian goods—,Sugar,3,1639–40. (Discovery.),"46,700",46700.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,10,data,Detail of Indian goods—,Sugar,4,1640–41. (Crispian.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,11,data,Detail of Indian goods—,Ginger,2,1638–39. (Royal Mary and Swan.),"3,300",3300.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,11,data,Detail of Indian goods—,Ginger,3,1639–40. (Discovery.),"8,700",8700.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,11,data,Detail of Indian goods—,Ginger,4,1640–41. (Crispian.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,12,data,Detail of Indian goods—,Miscellaneous,2,1638–39. (Royal Mary and Swan.),"1,500",1500.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,12,data,Detail of Indian goods—,Miscellaneous,3,1639–40. (Discovery.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,12,data,Detail of Indian goods—,Miscellaneous,4,1640–41. (Crispian.),"5,500",5500.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,14,data,Detail of re-exports—,Persian silk,2,1638–39. (Royal Mary and Swan.),"409,900",409900.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,14,data,Detail of re-exports—,Persian silk,3,1639–40. (Discovery.),"417,900",417900.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,14,data,Detail of re-exports—,Persian silk,4,1640–41. (Crispian.),"728,200",728200.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,15,data,Detail of re-exports—,Bantam sugar,2,1638–39. (Royal Mary and Swan.),"3,100",3100.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,15,data,Detail of re-exports—,Bantam sugar,3,1639–40. (Discovery.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,15,data,Detail of re-exports—,Bantam sugar,4,1640–41. (Crispian.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,16,data,Detail of re-exports—,„ pepper,2,1638–39. (Royal Mary and Swan.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,16,data,Detail of re-exports—,„ pepper,3,1639–40. (Discovery.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,16,data,Detail of re-exports—,„ pepper,4,1640–41. (Crispian.),"39,900",39900.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,17,data,Detail of re-exports—,"Aloes, myrrh, etc",2,1638–39. (Royal Mary and Swan.),"2,700",2700.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,17,data,Detail of re-exports—,"Aloes, myrrh, etc",3,1639–40. (Discovery.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,17,data,Detail of re-exports—,"Aloes, myrrh, etc",4,1640–41. (Crispian.),"2,000",2000.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,18,data,Detail of re-exports—,English goods returned unsold,2,1638–39. (Royal Mary and Swan.),"30,000",30000.0,,False,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,18,data,Detail of re-exports—,English goods returned unsold,3,1639–40. (Discovery.),...,,,True,False
+from-akbar-to-aurangzeb,tbl-006,Value in Mahmudis of Cargoes from Surat to London,123,101,18,data,Detail of re-exports—,English goods returned unsold,4,1640–41. (Crispian.),...,,,True,False

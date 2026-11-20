@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,1,data,,Great Britain,2,Customs and excise.,38,38.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,1,data,,Great Britain,3,Stamps.,5,5.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,1,data,,Great Britain,4,Profits.,18,18.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,1,data,,Great Britain,5,Direct taxation.,39,39.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,2,data,,India,2,Customs and excise.,36,36.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,2,data,,India,3,Stamps.,10,10.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,2,data,,India,4,Profits.,14,14.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-007,Percentage of total revenue derived from,122,118,2,data,,India,5,Direct taxation.,40,40.0,,False,False

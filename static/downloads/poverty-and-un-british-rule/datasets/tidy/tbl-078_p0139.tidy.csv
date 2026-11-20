@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,1,data,,8 Sub-Assistants,2,Column 2,each,,,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,1,data,,8 Sub-Assistants,3,Monthly Rs.,350,350.0,Rs,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,2,data,,9 „,2,Column 2,„,,,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,2,data,,9 „,3,Monthly Rs.,300,300.0,Rs,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,3,data,,12 „,2,Column 2,„,,,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,3,data,,12 „,3,Monthly Rs.,200,200.0,Rs,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,4,data,,5 „,2,Column 2,„,,,False,False
+poverty-and-un-british-rule,tbl-078,Table 78,139,119,4,data,,5 „,3,Monthly Rs.,100,100.0,Rs,False,False

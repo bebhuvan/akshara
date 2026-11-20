@@ -1,0 +1,77 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,1,data,,"Rice in the husk, per Candaca",2,Sultany Fanams.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,1,data,,"Rice in the husk, per Candaca",3,Column 3,per bushel,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,1,data,,"Rice in the husk, per Candaca",4,Shillings.,0,0.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,1,data,,"Rice in the husk, per Candaca",5,Pence and decimal parts.,"10,523",10523.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,2,data,,"Ragy, Cynosurus corocanus, do.",2,Sultany Fanams.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,2,data,,"Ragy, Cynosurus corocanus, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,2,data,,"Ragy, Cynosurus corocanus, do.",4,Shillings.,0,0.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,2,data,,"Ragy, Cynosurus corocanus, do.",5,Pence and decimal parts.,"10,523",10523.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,3,data,,"Avaray, Dolichos Lablab, do.",2,Sultany Fanams.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,3,data,,"Avaray, Dolichos Lablab, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,3,data,,"Avaray, Dolichos Lablab, do.",4,Shillings.,1,1.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,3,data,,"Avaray, Dolichos Lablab, do.",5,Pence and decimal parts.,"2,46933",246933.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,4,data,,"Tovary, Cytisus Cajan, do.",2,Sultany Fanams.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,4,data,,"Tovary, Cytisus Cajan, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,4,data,,"Tovary, Cytisus Cajan, do.",4,Shillings.,1,1.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,4,data,,"Tovary, Cytisus Cajan, do.",5,Pence and decimal parts.,"3,785",3785.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,5,data,,"Hessaru, Phaseolus Mungo, do.",2,Sultany Fanams.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,5,data,,"Hessaru, Phaseolus Mungo, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,5,data,,"Hessaru, Phaseolus Mungo, do.",4,Shillings.,2,2.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,5,data,,"Hessaru, Phaseolus Mungo, do.",5,Pence and decimal parts.,"2,30825",230825.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,6,data,,"Udu, Phaseolus Minimoo Roxb. do",2,Sultany Fanams.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,6,data,,"Udu, Phaseolus Minimoo Roxb. do",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,6,data,,"Udu, Phaseolus Minimoo Roxb. do",4,Shillings.,1,1.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,6,data,,"Udu, Phaseolus Minimoo Roxb. do",5,Pence and decimal parts.,"9,0465",90465.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,7,data,,"Callay, Cicer arietinum, do.",2,Sultany Fanams.,35,35.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,7,data,,"Callay, Cicer arietinum, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,7,data,,"Callay, Cicer arietinum, do.",4,Shillings.,3,3.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,7,data,,"Callay, Cicer arietinum, do.",5,Pence and decimal parts.,"10,039",10039.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,8,data,,"Shamay, Panicum miliare, E. M. do",2,Sultany Fanams.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,8,data,,"Shamay, Panicum miliare, E. M. do",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,8,data,,"Shamay, Panicum miliare, E. M. do",4,Shillings.,0,0.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,8,data,,"Shamay, Panicum miliare, E. M. do",5,Pence and decimal parts.,"5,261425",5261425.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,9,data,,"Ellu, Sesamum, do.",2,Sultany Fanams.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,9,data,,"Ellu, Sesamum, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,9,data,,"Ellu, Sesamum, do.",4,Shillings.,3,3.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,9,data,,"Ellu, Sesamum, do.",5,Pence and decimal parts.,"2,56363",256363.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,10,data,,"Huts' Ellu, Verbesina sativa Roxb. do",2,Sultany Fanams.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,10,data,,"Huts' Ellu, Verbesina sativa Roxb. do",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,10,data,,"Huts' Ellu, Verbesina sativa Roxb. do",4,Shillings.,1,1.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,10,data,,"Huts' Ellu, Verbesina sativa Roxb. do",5,Pence and decimal parts.,"6,46933",646933.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,11,data,,"Huruli, Dolichos biflorus, do.",2,Sultany Fanams.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,11,data,,"Huruli, Dolichos biflorus, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,11,data,,"Huruli, Dolichos biflorus, do.",4,Shillings.,0,0.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,11,data,,"Huruli, Dolichos biflorus, do.",5,Pence and decimal parts.,"6,577",6577.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,12,data,,"Harulu, Ricinus, do.",2,Sultany Fanams.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,12,data,,"Harulu, Ricinus, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,12,data,,"Harulu, Ricinus, do.",4,Shillings.,1,1.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,12,data,,"Harulu, Ricinus, do.",5,Pence and decimal parts.,"11,67722",1167722.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,13,data,,"Wheat, do.",2,Sultany Fanams.,40,40.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,13,data,,"Wheat, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,13,data,,"Wheat, do.",4,Shillings.,4,4.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,13,data,,"Wheat, do.",5,Pence and decimal parts.,"4,61425",461425.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,14,data,,"Danya, a seed like anise",2,Sultany Fanams.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,14,data,,"Danya, a seed like anise",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,14,data,,"Danya, a seed like anise",4,Shillings.,1,1.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,14,data,,"Danya, a seed like anise",5,Pence and decimal parts.,"9,0465",90465.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,15,data,,"Womum, a seed like cummin, do",2,Sultany Fanams.,32,32.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,15,data,,"Womum, a seed like cummin, do",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,15,data,,"Womum, a seed like cummin, do",4,Shillings.,3,3.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,15,data,,"Womum, a seed like cummin, do",5,Pence and decimal parts.,"6,093",6093.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,16,data,,"Salt, do.",2,Sultany Fanams.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,16,data,,"Salt, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,16,data,,"Salt, do.",4,Shillings.,3,3.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,16,data,,"Salt, do.",5,Pence and decimal parts.,"0,93866",93866.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,17,data,,"Tobacco, per Maund",2,Sultany Fanams.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,17,data,,"Tobacco, per Maund",3,Column 3,per Cwt.,,cwt,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,17,data,,"Tobacco, per Maund",4,Shillings.,20,20.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,17,data,,"Tobacco, per Maund",5,Pence and decimal parts.,"1,944",1944.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,18,data,,"Jagory of sugar-cane, do.",2,Sultany Fanams.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,18,data,,"Jagory of sugar-cane, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,18,data,,"Jagory of sugar-cane, do.",4,Shillings.,11,11.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,18,data,,"Jagory of sugar-cane, do.",5,Pence and decimal parts.,"4,7",47.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,19,data,,"Boiled Betel-nut, or Areca, do.",2,Sultany Fanams.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,19,data,,"Boiled Betel-nut, or Areca, do.",3,Column 3,do. -,,,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,19,data,,"Boiled Betel-nut, or Areca, do.",4,Shillings.,57,57.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-040,Table 40,479,437,19,data,,"Boiled Betel-nut, or Areca, do.",5,Pence and decimal parts.,"2,05",205.0,GBP,False,False

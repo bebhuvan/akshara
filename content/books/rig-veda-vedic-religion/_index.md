@@ -23,9 +23,13 @@ digitization_notes: "This text has been digitized from scanned pages using AI-as
 epub_url: "https://drive.google.com/file/d/1DhW0TCsUDx7-V8iwPgmaWkKIVYDIbY0C/view?usp=sharing"
 markdown_url: "https://drive.google.com/file/d/1JIonvxhON6dTOVMYpUinaEeSBYcUqz0_/view?usp=sharing"
 download_url: "https://drive.google.com/drive/folders/1dPf5eBFadTJXWMVYFVFHxEiKlv4tS0sO?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/rig-veda-vedic-religion.svg"
+archetype: "classical_and_philological"
+palette: "Birch & Carbon"
 ---
 
 A comprehensive study of the Rig-Veda and Vedic religion, this work provides an accessible introduction to the sacred literature of the early Aryans in India. Written for the general student rather than the specialist, it traces the development of Vedic thought from the nature worship of the Rig-Veda through the ritualistic formalism of the Brahmanas to the philosophical insights of the Upanishads.

@@ -1,0 +1,46 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,2,Coarse Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,3,Fine Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,4,Wheat.,8 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,5,Bajree.,3 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,6,Mug.,10 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,7,Mutt.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,8,Jowaree.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,9,Ghee.,40 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,2,data,1790-91,1812-13,10,Gol.,20 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,2,Coarse Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,3,Fine Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,4,Wheat.,2 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,5,Bajree.,1 12 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,6,Mug.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,7,Mutt.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,8,Jowaree.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,9,Ghee.,14 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,3,data,1790-91,1819-20,10,Gol.,8 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,2,Coarse Rice.,Common kinds of grain Rs.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,3,Fine Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,4,Wheat.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,5,Bajree.,3 8 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,6,Mug.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,7,Mutt.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,8,Jowaree.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,9,Ghee.,23 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,4,data,1790-91,1824-25,10,Gol.,9 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,2,Coarse Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,3,Fine Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,4,Wheat.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,5,Bajree.,1 4 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,6,Mug.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,7,Mutt.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,8,Jowaree.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,9,Ghee.,20 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,5,data,1790-91,1834,10,Gol.,8 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,2,Coarse Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,3,Fine Rice.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,4,Wheat.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,5,Bajree.,1 4 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,6,Mug.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,7,Mutt.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,8,Jowaree.,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,9,Ghee.,20 0 0,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-009,Talooka Veerumgaum. Price per Kutcha Maund.,59,47,6,data,1790-91,1838-39,10,Gol.,8 0 0,,,False,False

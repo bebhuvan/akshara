@@ -1,0 +1,50 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,2,Average price per cwt. :: £,2,2.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,3,Average price per cwt. :: s.,8,8.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,4,Average price per cwt. :: d.,8,8.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,5,Average price per cwt.,1858,1858.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,6,Average price per cwt. :: £,2,2.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,7,Average price per cwt. :: s.,10,10.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,1,data,,1857,8,Average price per cwt. :: d.,7,7.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,2,Average price per cwt. :: £,2,2.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,3,Average price per cwt. :: s.,17,17.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,4,Average price per cwt. :: d.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,5,Average price per cwt.,1862,1862.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,6,Average price per cwt. :: £,6,6.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,7,Average price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,2,data,,1861,8,Average price per cwt. :: d.,9,9.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,2,Average price per cwt. :: £,6,6.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,3,Average price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,4,Average price per cwt. :: d.,7,7.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,5,Average price per cwt.,1866,1866.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,6,Average price per cwt. :: £,4,4.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,7,Average price per cwt. :: s.,12,12.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,3,data,,1865,8,Average price per cwt. :: d.,0,0.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,2,Average price per cwt. :: £,4,4.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,3,Average price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,4,Average price per cwt. :: d.,8,8.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,5,Average price per cwt.,1870,1870.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,6,Average price per cwt. :: £,3,3.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,7,Average price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,4,data,,1869,8,Average price per cwt. :: d.,6,6.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,2,Average price per cwt. :: £,2,2.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,3,Average price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,4,Average price per cwt. :: d.,10,10.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,5,Average price per cwt.,1860,1860.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,6,Average price per cwt. :: £,1,1.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,7,Average price per cwt. :: s.,17,17.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,5,data,,1859,8,Average price per cwt. :: d.,0,0.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,2,Average price per cwt. :: £,8,8.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,3,Average price per cwt. :: s.,18,18.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,4,Average price per cwt. :: d.,11,11.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,5,Average price per cwt.,1864,1864.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,6,Average price per cwt. :: £,8,8.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,7,Average price per cwt. :: s.,9,9.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,6,data,,1863,8,Average price per cwt. :: d.,9,9.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,2,Average price per cwt. :: £,3,3.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,3,Average price per cwt. :: s.,2,2.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,4,Average price per cwt. :: d.,10,10.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,5,Average price per cwt.,1868,1868.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,6,Average price per cwt. :: £,3,3.0,GBP,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,7,Average price per cwt. :: s.,12,12.0,cwt,False,False
+poverty-and-un-british-rule,tbl-041,Table 41,85,65,7,data,,1867,8,Average price per cwt. :: d.,8,8.0,cwt,False,False

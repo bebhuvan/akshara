@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,1,data,,United Kingdom,2,Quantity in million lbs.,159,159.0,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,2,data,,Australia,2,Quantity in million lbs.,8½,8.5,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,3,data,,Persia,2,Quantity in million lbs.,2½,2.5,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,4,data,,Asiatic Turkey,2,Quantity in million lbs.,2½,2.5,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,5,data,,Russia,2,Quantity in million lbs.,1½,1.5,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,6,data,,China,2,Quantity in million lbs.,1½,1.5,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,7,data,,United States,2,Quantity in million lbs.,1,1.0,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,8,data,,Canada,2,Quantity in million lbs.,1,1.0,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,9,data,,Other countries,2,Quantity in million lbs.,2,2.0,lbs,False,True
+economic-history-india-victorian-age-dutt,tbl-048,Table 48,550,522,10,total,,Total,2,Quantity in million lbs.,179½ million lbs.,,lbs,False,True

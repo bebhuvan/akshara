@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "guide-to-india-office-records-1919",
+    "table_id": "tbl-006",
+    "caption": "ACCOUNTS.",
+    "page_number": 87,
+    "printed_folio": "67",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Treasury Accounts",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "1834–36.",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "guide-to-india-office-records-1919",
+    "table_id": "tbl-006",
+    "caption": "ACCOUNTS.",
+    "page_number": 87,
+    "printed_folio": "67",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "General Journals and Ledgers",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "1834–36.",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,1,data,,Customs duties and excise,2,Per head of population. :: s.,1,1.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,1,data,,Customs duties and excise,3,Per head of population. :: d.,7,7.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,2,data,,Salt,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,2,data,,Salt,3,Per head of population. :: d.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,3,data,,Profits and State Railways,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,3,data,,Profits and State Railways,3,Per head of population. :: d.,6½,6.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,4,data,,Miscellaneous profits and receipts,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,4,data,,Miscellaneous profits and receipts,3,Per head of population. :: d.,1,1.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,5,data,,Stamps,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,5,data,,Stamps,3,Per head of population. :: d.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,6,data,,Income-tax,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,6,data,,Income-tax,3,Per head of population. :: d.,½,0.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,7,data,,Land-tax,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,7,data,,Land-tax,3,Per head of population. :: d.,4½,4.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,8,data,,Local Rates,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,8,data,,Local Rates,3,Per head of population. :: d.,1½,1.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,9,data,,Village Taxation,2,Per head of population. :: s.,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,9,data,,Village Taxation,3,Per head of population. :: d.,2¼,2.25,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,10,total,,Total,2,Per head of population. :: s.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-006,Table 6,121,117,10,total,,Total,3,Per head of population. :: d.,8¼,8.25,,False,False

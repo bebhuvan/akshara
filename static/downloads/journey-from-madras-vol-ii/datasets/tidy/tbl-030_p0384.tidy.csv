@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,1,data,,"A. Lands too rocky, steep, or barren, for cultivation",2,Porays.,"40,189½",40189.5,,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,1,data,,"A. Lands too rocky, steep, or barren, for cultivation",3,Acres.,"7,032½",7032.5,acres,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,5,subtotal,,Total Paddum land,2,Porays.,"653,256",653256.0,,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,5,subtotal,,Total Paddum land,3,Acres.,"114,307",114307.0,acres,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,8,subtotal,,Total Parumba land,2,Porays.,"99,496",99496.0,,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,8,subtotal,,Total Parumba land,3,Acres.,"17,411",17411.0,acres,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,9,total,,Total inhabited land,2,Porays.,"792,941½",792941.5,,False,True
+journey-from-madras-vol-ii,tbl-030,The preceding Table corrected according to my Estimate of the Poray-candum.,384,364,9,total,,Total inhabited land,3,Acres.,"138,750½",138750.5,acres,False,True

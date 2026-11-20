@@ -1,33 +1,38 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 
-<main class="blog-list">
-    <div class="blog-header">
-        <h1 class="blog-title">{{ .Title }}</h1>
-        {{ with .Params.description }}
-        <p class="blog-description">{{ . }}</p>
-        {{ end }}
+<main class="catalog-shell">
+  <header class="catalog-header">
+    <div class="catalog-header-inner">
+      <span class="section-kicker">ESSAYS &amp; DISPATCHES</span>
+      <h1 class="catalog-title">{{ .Title | default "Journal" }}</h1>
+      {{ with .Params.description }}
+      <p class="catalog-subtitle">{{ . }}</p>
+      {{ end }}
     </div>
+  </header>
 
-    <div class="blog-posts">
-        {{ range .Pages.ByDate.Reverse }}
-        <article class="blog-post-card">
-            <a href="{{ .RelPermalink }}" class="post-link">
-                <div class="post-meta">
-                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
-                    {{ with .Params.category }}
-                    <span class="post-category">{{ . }}</span>
-                    {{ end }}
-                </div>
-                <h2 class="post-title">{{ .Title }}</h2>
-                {{ with .Params.description }}
-                <p class="post-excerpt">{{ . }}</p>
-                {{ end }}
-                <span class="read-more">Read more</span>
-            </a>
-        </article>
-        {{ end }}
+  <section class="journal-list-wrap">
+    <div class="journal-posts-stack">
+      {{ range .Pages.ByDate.Reverse }}
+      <article class="journal-entry-row">
+        <a href="{{ .RelPermalink }}" class="journal-entry-link">
+          <div class="journal-entry-meta">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+            <span>·</span>
+            <span>{{ .ReadingTime }} min read</span>
+            {{ with .Params.category }}<span>·</span><span class="journal-cat">{{ . }}</span>{{ end }}
+          </div>
+          <h2 class="journal-entry-title">{{ .Title }}</h2>
+          {{ with .Params.description }}
+          <p class="journal-entry-excerpt">{{ . }}</p>
+          {{ end }}
+          <span class="journal-entry-cta">Read Essay →</span>
+        </a>
+      </article>
+      {{ end }}
     </div>
+  </section>
 </main>
 
 {{ partial "footer.html" . }}

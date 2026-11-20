@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-019,Table 19,176,136,1,data,,1838,2,For Home :: Consumption :: Pieces,"16,000",16000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-019,Table 19,176,136,1,data,,1838,3,For Re-export :: Pieces,"310,000",310000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-019,Table 19,176,136,2,data,,1839,2,For Home :: Consumption :: Pieces,"38,000",38000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-019,Table 19,176,136,2,data,,1839,3,For Re-export :: Pieces,"352,000",352000.0,,False,False

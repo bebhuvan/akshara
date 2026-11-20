@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,1,data,,"lb. 0,025244",2,The Cucha Weight.,= 1 Dudu.,,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,1,data,,"lb. 0,025244",3,The Cucha Weight.,,,,True,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,2,data,,22 Dudus,2,The Cucha Weight.,= 1 Seer,,seers,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,2,data,,22 Dudus,3,The Cucha Weight.,"= lb. 0,555368.",,lbs,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,3,data,,48 Seers,2,The Cucha Weight.,= 1 Maund,,maunds,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,3,data,,48 Seers,3,The Cucha Weight.,"= lb. 26,657664.",,lbs,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,5,data,The Pucka Measure,"Cubical inches 74,81166 &c",2,The Cucha Weight.,= 1 Seer.,,seers,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,5,data,The Pucka Measure,"Cubical inches 74,81166 &c",3,The Cucha Weight.,,,,True,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,6,data,The Pucka Measure,1½ Seer,2,The Cucha Weight.,= 1 Puddy,,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,6,data,The Pucka Measure,1½ Seer,3,The Cucha Weight.,"= Winchester bushel 0,054199",,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,7,data,The Pucka Measure,4 Puddies,2,The Cucha Weight.,= 1 Bulla,,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,7,data,The Pucka Measure,4 Puddies,3,The Cucha Weight.,"0,208777",208777.0,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,8,data,The Pucka Measure,16 Bullas,2,The Cucha Weight.,"= 1 Wocula, or Cologa",,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,8,data,The Pucka Measure,16 Bullas,3,The Cucha Weight.,"3,40436",340436.0,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,9,data,The Pucka Measure,20 Woculas,2,The Cucha Weight.,= 1 Candaca,,,False,False
+journey-from-madras-vol-i,tbl-035,Table of Weights and Measures at Madhu-giri.,411,363,9,data,The Pucka Measure,20 Woculas,3,The Cucha Weight.,"66,808333 &c.",,,False,False

@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-021,Total Cultivated Area.,42,22,1,data,,Northern Division,2,Acres.,"5,128,221 at Rs. 28·51 =",,acres,False,True
+poverty-and-un-british-rule,tbl-021,Total Cultivated Area.,42,22,1,data,,Northern Division,3,Rs.,"14,62,05,580",146205580.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Total Cultivated Area.,42,22,2,data,,Southern „,2,Acres.,"13,985,892 „ 17 =",,acres,False,True
+poverty-and-un-british-rule,tbl-021,Total Cultivated Area.,42,22,2,data,,Southern „,3,Rs.,"23,77,60,164",237760164.0,Rs,False,True
+poverty-and-un-british-rule,tbl-021,Total Cultivated Area.,42,22,3,total,,Total,2,Acres.,,,acres,True,True
+poverty-and-un-british-rule,tbl-021,Total Cultivated Area.,42,22,3,total,,Total,3,Rs.,"Rs. 38,39,65,744",383965744.0,Rs,False,True

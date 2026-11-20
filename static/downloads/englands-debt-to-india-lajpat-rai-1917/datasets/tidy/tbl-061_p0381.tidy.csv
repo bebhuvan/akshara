@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,1,data,,Great Britain,2,Millions of Pounds,28.2,28.2,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,1,data,,Great Britain,3,Percentage to total Budget of Revenue,14.5,14.5,%,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,2,data,,India,2,Millions of Pounds,18,18.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,2,data,,India,3,Percentage to total Budget of Revenue,22,22.0,%,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,3,data,,Australia,2,Millions of Pounds,2.5,2.5,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,3,data,,Australia,3,Percentage to total Budget of Revenue,10,10.0,%,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,4,data,,Canada,2,Millions of Pounds,1.5,1.5,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,4,data,,Canada,3,Percentage to total Budget of Revenue,5,5.0,%,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,5,data,,South Africa,2,Millions of Pounds,1.15,1.15,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-061,Military Budget for 1913–1914,381,341,5,data,,South Africa,3,Percentage to total Budget of Revenue,7.7,7.7,%,False,False

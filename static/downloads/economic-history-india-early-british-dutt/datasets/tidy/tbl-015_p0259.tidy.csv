@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-015,Table 15,259,231,1,data,,Kundapura . . . Onore . . . . Ancola,2,Cultivated Land.,0.32 0.26 0.20,,,False,False
+economic-history-india-early-british-dutt,tbl-015,Table 15,259,231,1,data,,Kundapura . . . Onore . . . . Ancola,3,Capable of Cultivation.,0.08 0.12 0.20,,,False,False
+economic-history-india-early-british-dutt,tbl-015,Table 15,259,231,1,data,,Kundapura . . . Onore . . . . Ancola,4,Sterile.,0.60 0.62 0.59,,,False,False

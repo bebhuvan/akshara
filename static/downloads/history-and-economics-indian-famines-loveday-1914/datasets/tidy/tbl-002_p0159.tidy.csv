@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,1,data,,1805,2,Column 2,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,1,data,,1805,3,Column 3,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,1,data,,1805,4,Column 4,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,1,data,,1805,5,Column 5,"3,225",3225.0,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,1,data,,1805,6,Column 6,deaths.,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,2,data,,1806,2,Column 2,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,2,data,,1806,3,Column 3,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,2,data,,1806,4,Column 4,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,2,data,,1806,5,Column 5,"4,902",4902.0,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,2,data,,1806,6,Column 6,„,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,3,data,,1807,2,Column 2,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,3,data,,1807,3,Column 3,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,3,data,,1807,4,Column 4,.,,,True,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,3,data,,1807,5,Column 5,"17,207",17207.0,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-002,Table 2,159,143,3,data,,1807,6,Column 6,„,,,False,False

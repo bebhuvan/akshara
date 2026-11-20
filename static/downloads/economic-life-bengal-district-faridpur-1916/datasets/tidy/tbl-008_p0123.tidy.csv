@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,1,subtotal,,Total revenue of the central government (tax and non-tax) per head of population,2,Great Britain. :: £,3,3.0,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,1,subtotal,,Total revenue of the central government (tax and non-tax) per head of population,3,Great Britain. :: s.,17,17.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,1,subtotal,,Total revenue of the central government (tax and non-tax) per head of population,4,Great Britain. :: d.,0,0.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,1,subtotal,,Total revenue of the central government (tax and non-tax) per head of population,5,Faridpur. :: £,,,GBP,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,1,subtotal,,Total revenue of the central government (tax and non-tax) per head of population,6,Faridpur. :: s.,3,3.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,1,subtotal,,Total revenue of the central government (tax and non-tax) per head of population,7,Faridpur. :: d.,4½,4.5,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,2,subtotal,,Total revenue (tax) of the local authorities per head of population,2,Great Britain. :: £,3,3.0,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,2,subtotal,,Total revenue (tax) of the local authorities per head of population,3,Great Britain. :: s.,0,0.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,2,subtotal,,Total revenue (tax) of the local authorities per head of population,4,Great Britain. :: d.,0,0.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,2,subtotal,,Total revenue (tax) of the local authorities per head of population,5,Faridpur. :: £,,,GBP,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,2,subtotal,,Total revenue (tax) of the local authorities per head of population,6,Faridpur. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,2,subtotal,,Total revenue (tax) of the local authorities per head of population,7,Faridpur. :: d.,3¾,3.75,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,3,data,,Income per head of population,2,Great Britain. :: £,45,45.0,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,3,data,,Income per head of population,3,Great Britain. :: s.,0,0.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,3,data,,Income per head of population,4,Great Britain. :: d.,0,0.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,3,data,,Income per head of population,5,Faridpur. :: £,3,3.0,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,3,data,,Income per head of population,6,Faridpur. :: s.,9,9.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,3,data,,Income per head of population,7,Faridpur. :: d.,0,0.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,5,data,Incidence of revenue upon income ,Central revenue,2,Great Britain. :: £,8½ per cent.,8.5,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,5,data,Incidence of revenue upon income ,Central revenue,3,Great Britain. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,5,data,Incidence of revenue upon income ,Central revenue,4,Great Britain. :: d.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,5,data,Incidence of revenue upon income ,Central revenue,5,Faridpur. :: £,8½ per cent.,8.5,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,5,data,Incidence of revenue upon income ,Central revenue,6,Faridpur. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,5,data,Incidence of revenue upon income ,Central revenue,7,Faridpur. :: d.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,6,data,Incidence of revenue upon income ,Local       „,2,Great Britain. :: £,6⅔   „     „,6.666667,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,6,data,Incidence of revenue upon income ,Local       „,3,Great Britain. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,6,data,Incidence of revenue upon income ,Local       „,4,Great Britain. :: d.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,6,data,Incidence of revenue upon income ,Local       „,5,Faridpur. :: £,¼    „     „,,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,6,data,Incidence of revenue upon income ,Local       „,6,Faridpur. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,6,data,Incidence of revenue upon income ,Local       „,7,Faridpur. :: d.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,7,total,,Total       „,2,Great Britain. :: £,15¼   „     „,15.25,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,7,total,,Total       „,3,Great Britain. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,7,total,,Total       „,4,Great Britain. :: d.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,7,total,,Total       „,5,Faridpur. :: £,8¾    „     „,8.75,GBP,False,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,7,total,,Total       „,6,Faridpur. :: s.,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-008,Table 8,123,119,7,total,,Total       „,7,Faridpur. :: d.,,,,True,True

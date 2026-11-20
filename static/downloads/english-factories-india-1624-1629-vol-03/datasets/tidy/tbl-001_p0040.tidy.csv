@@ -1,0 +1,35 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,1,data,,1615,2,Ships sent home.,Hope (300 tons),,tons,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,1,data,,1615,3,Approximate cost of cargo.,———,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,2,data,,1616,2,Ships sent home.,Lion (500),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,2,data,,1616,3,Approximate cost of cargo.,"15,670l.",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,3,data,,1617,2,Ships sent home.,Globe (500),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,3,data,,1617,3,Approximate cost of cargo.,———,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,4,data,,1618,2,Ships sent home.,Bull (400),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,4,data,,1618,3,Approximate cost of cargo.,———,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,5,data,,1619,2,Ships sent home.,Anne (800),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,5,data,,1619,3,Approximate cost of cargo.,"36,000l.",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,6,data,,1620,2,Ships sent home.,Lion (500),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,6,data,,1620,3,Approximate cost of cargo.,"28,000l.",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,7,data,,1621,2,Ships sent home.,Hart (500) and Roebuck (300),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,7,data,,1621,3,Approximate cost of cargo.,———,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,8,data,,1622,2,Ships sent home.,"London (800), Jonas (700), and Lion (500)",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,8,data,,1622,3,Approximate cost of cargo.,———,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,9,data,,1623,2,Ships sent home.,[None],,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,9,data,,1623,3,Approximate cost of cargo.,,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,10,data,,1624,2,Ships sent home.,Dolphin (600),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,10,data,,1624,3,Approximate cost of cargo.,"[valued in England at 120,000l.]",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,11,data,,1625,2,Ships sent home.,William (700) and Blessing (700) Star (350),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,11,data,,1625,3,Approximate cost of cargo.,"[valued in England at 43,000l.]",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,12,data,,1626,2,Ships sent home.,James (900) and Jonas (700),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,12,data,,1626,3,Approximate cost of cargo.,———,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,13,data,,1627,2,Ships sent home.,[None],,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,40,xxxiv,13,data,,1627,3,Approximate cost of cargo.,,,,True,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,14,data,,1628,2,Ships sent home.,"Palsgrave (1000 tons), Dolphin (600), and Discovery (500)",,tons,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,14,data,,1628,3,Approximate cost of cargo.,"80,000l.",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,15,data,,Row 15,2,Ships sent home.,William (700),,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,15,data,,Row 15,3,Approximate cost of cargo.,"60,000l.",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,16,data,,Row 16,2,Ships sent home.,"Exchange (700), Blessing (700), and Star (350)",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,16,data,,Row 16,3,Approximate cost of cargo.,"53,440l.",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,17,data,,1629,2,Ships sent home.,"Hart (500), Expedition (300), and Hopewell (150)",,,False,False
+english-factories-india-1624-1629-vol-03,tbl-001,Table 1,41,xxxiv,17,data,,1629,3,Approximate cost of cargo.,"51,150l.",,,False,False

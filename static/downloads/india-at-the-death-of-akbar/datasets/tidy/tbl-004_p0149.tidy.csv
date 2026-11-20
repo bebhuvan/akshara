@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-at-the-death-of-akbar,tbl-004,Table 4,149,133,1,data,,Saharanpur,2,Excess percentage of Akbar's Revenue.,112,112.0,%,False,True
+india-at-the-death-of-akbar,tbl-004,Table 4,149,133,2,data,,Muzaffarnagar,2,Excess percentage of Akbar's Revenue.,99,99.0,%,False,True
+india-at-the-death-of-akbar,tbl-004,Table 4,149,133,3,data,,Meerut,2,Excess percentage of Akbar's Revenue.,88,88.0,%,False,True
+india-at-the-death-of-akbar,tbl-004,Table 4,149,133,4,data,,Bulandshahr,2,Excess percentage of Akbar's Revenue.,86,86.0,%,False,True
+india-at-the-death-of-akbar,tbl-004,Table 4,149,133,5,total,,All four districts,2,Excess percentage of Akbar's Revenue.,96,96.0,%,False,True

@@ -1,0 +1,53 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,1,data,,Indigo,2,Source.,Agra,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,1,data,,Indigo,3,Contents of Bale.,220 lb. net,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,1,data,,Indigo,4,Means of Transit.,Camel,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,1,data,,Indigo,5,Column 5,(English records),,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,2,data,,Indigo,2,Source.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,2,data,,Indigo,3,Contents of Bale.,230-240 lb.,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,2,data,,Indigo,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,2,data,,Indigo,5,Column 5,(Dutch records),,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,3,data,,Indigo,2,Source.,Gujarat,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,3,data,,Indigo,3,Contents of Bale.,148 lb. net,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,3,data,,Indigo,4,Means of Transit.,Not stated,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,3,data,,Indigo,5,Column 5,(English records),,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,4,data,,Indigo,2,Source.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,4,data,,Indigo,3,Contents of Bale.,145-155 lb.,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,4,data,,Indigo,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,4,data,,Indigo,5,Column 5,(Dutch records),,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,5,data,,Sugar,2,Source.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,5,data,,Sugar,3,Contents of Bale.,296 lb.,296.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,5,data,,Sugar,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,5,data,,Sugar,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,6,data,,Saltpetre,2,Source.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,6,data,,Saltpetre,3,Contents of Bale.,295 lb.,295.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,6,data,,Saltpetre,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,6,data,,Saltpetre,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,7,data,,Silk,2,Source.,Bengal,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,7,data,,Silk,3,Contents of Bale.,143 lb.,143.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,7,data,,Silk,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,7,data,,Silk,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,8,data,,Cotton yarn,2,Source.,Coromandel,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,8,data,,Cotton yarn,3,Contents of Bale.,165 lb.,165.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,8,data,,Cotton yarn,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,8,data,,Cotton yarn,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,9,data,,Cotton yarn,2,Source.,Surat,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,9,data,,Cotton yarn,3,Contents of Bale.,188 lb.,188.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,9,data,,Cotton yarn,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,9,data,,Cotton yarn,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,10,data,,Piece goods,2,Source.,Agra,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,10,data,,Piece goods,3,Contents of Bale.,110 pieces calicoes,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,10,data,,Piece goods,4,Means of Transit.,Buffalo,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,10,data,,Piece goods,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,11,data,,Piece goods,2,Source.,Gujarat,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,11,data,,Piece goods,3,Contents of Bale.,100 pieces baftas,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,11,data,,Piece goods,4,Means of Transit.,Not stated,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,11,data,,Piece goods,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,12,data,,Piece goods,2,Source.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,12,data,,Piece goods,3,Contents of Bale.,200 pieces bairamis (6 yards),,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,12,data,,Piece goods,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,12,data,,Piece goods,5,Column 5,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,13,data,,Piece goods,2,Source.,East Coast,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,13,data,,Piece goods,3,Contents of Bale.,25 pieces longcloths (36 yards),,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,13,data,,Piece goods,4,Means of Transit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-027,Table 27,362,340,13,data,,Piece goods,5,Column 5,”,,,False,False

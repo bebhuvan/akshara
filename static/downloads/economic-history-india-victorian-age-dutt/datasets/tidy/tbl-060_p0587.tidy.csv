@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-060,Table 60,587,559,1,data,,In aid of the charge for the India Office,2,Column 2,"£ 50,000",50000.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-060,Table 60,587,559,2,data,,Half the military charges for Aden,2,Column 2,"108,000",108000.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-060,Table 60,587,559,3,data,,Increased contribution to the charge of the Persian Mission,2,Column 2,"5,000",5000.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-060,Table 60,587,559,4,data,,Half the cost of the transport of troops to and from India,2,Column 2,"130,000",130000.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-060,Table 60,587,559,5,total,,Total,2,Column 2,"293,000",293000.0,,False,True

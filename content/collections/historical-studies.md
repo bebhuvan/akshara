@@ -1,19 +1,24 @@
 ---
-title: "Historical Studies"
+title: "Chronicles, Statecraft & Regional History"
 type: "collections"
-book_count: 7
-description: "Comprehensive historical works examining India's past from ancient civilizations to modern times"
-period: "Ancient to Colonial Era"
+book_count: 9
+author_count: 7
+earliest_year: 1862
+latest_year: 1924
+description: "Syntheses of ancient kingdoms, Mughal revenue and administration, the Maratha confederacy, and sweeping Indian histories."
+period: "Ancient to Early Modern India"
 books:
+  - "brief-history-indian-peoples"
   - "comprehensive-history-india-v1"
   - "comprehensive-history-india-v2"
-  - "brief-history-indian-peoples"
-  - "letters-from-malabar"
-  - "economic-history-of-india"
-  - "englands-debt-to-india"
-  - "economic-history-india-victorian-age"
+  - "early-history-of-india-1924"
+  - "from-akbar-to-aurangzeb"
+  - "india-at-the-death-of-akbar"
+  - "mughal-administration"
+  - "palas-of-bengal"
+  - "peishwas-diaries-intro"
 ---
 
-This collection brings together comprehensive historical works that examine India's rich past across different eras. These meticulously researched volumes combine military, political, and social history to provide sweeping narratives of Indian civilization.
+Syntheses of ancient kingdoms, Mughal revenue and administration, the Maratha confederacy, and sweeping Indian histories.
 
-From ancient kingdoms and medieval sultanates to the rise of the Mughal Empire and the establishment of British power, these histories offer detailed accounts of the forces and personalities that shaped the subcontinent. Written by scholars who combined rigorous research with narrative skill, they remain valuable resources for understanding India's complex historical trajectory.
+This curated shelf brings together 9 public-domain editions across Akshara.

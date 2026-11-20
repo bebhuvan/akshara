@@ -1,0 +1,443 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",261,261.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","2,28,200",228200.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",112,112.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","2,44,571",244571.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",51,51.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,7,No.,"1,63,405",163405.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,8,Amount.,38,38.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,9,No.,"1,42,127",142127.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,10,Amount.,24,24.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,11,No.,"1,15,415",115415.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,12,Amount.,8,8.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,13,Column 13,4,4.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.","8,875",8875.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.","10,650",10650.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,24,"R. 12,000 and upwards. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.","16,363",16363.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,26,TOTAL. :: No.,498,498.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,1,data,,Europeans,27,TOTAL. :: Amount. :: R.,"9,73,230",973230.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",626,626.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","7,72,971",772971.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",149,149.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","3,30,586",330586.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",82,82.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,7,No.,"2,48,521",248521.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,8,Amount.,44,44.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,9,No.,"1,81,247",181247.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,10,Amount.,20,20.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,11,No.,"95,470",95470.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,12,Amount.,4,4.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,13,Column 13,2,2.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,24,"R. 12,000 and upwards. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.","4,364",4364.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,26,TOTAL. :: No.,926,926.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,2,data,,Natives,27,TOTAL. :: Amount. :: R.,"16,57,159",1657159.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",34,34.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","47,485",47485.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",8,8.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","15,807",15807.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",5,5.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,7,No.,"17,100",17100.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,8,Amount.,2,2.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,9,No.,"8,000",8000.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,26,TOTAL. :: No.,49,49.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,3,data,,Europeans,27,TOTAL. :: Amount. :: R.,"88,392",88392.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",49,49.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","60,938",60938.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",14,14.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","32,608",32608.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,7,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,26,TOTAL. :: No.,63,63.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,4,data,,Natives,27,TOTAL. :: Amount. :: R.,"93,546",93546.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",196,196.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","2,51,416",251416.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",91,91.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","3,11,975",311975.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",11,11.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,7,No.,"38,144",38144.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,8,Amount.,4,4.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,9,No.,"17,436",17436.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,10,Amount.,6,6.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,11,No.,"28,956",28956.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,12,Amount.,1,1.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,13,Column 13,,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",4,4.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.","22,957",22957.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.","1,183",1183.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.","11,891",11891.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",4,4.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.","31,427",31427.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.","22,785",22785.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,24,"R. 12,000 and upwards. :: No.",16,16.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.","2,72,170",272170.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,26,TOTAL. :: No.,338,338.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,5,data,,Europeans,27,TOTAL. :: Amount. :: R.,"10,16,976",1016976.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",324,324.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","4,58,014",458014.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",17,17.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","36,273",36273.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",1,1.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,7,No.,"3,530",3530.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,26,TOTAL. :: No.,342,342.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,6,data,,Natives,27,TOTAL. :: Amount. :: R.,"4,97,817",497817.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",50,50.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","63,470",63470.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",38,38.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","86,286",86286.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",5,5.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,7,No.,"15,043",15043.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,8,Amount.,8,8.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,9,No.,"29,116",29116.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,10,Amount.,8,8.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,11,No.,"38,804",38804.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,12,Amount.,1,1.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,13,Column 13,,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,26,TOTAL. :: No.,110,110.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,7,data,,Europeans,27,TOTAL. :: Amount. :: R.,"2,38,719",238719.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",95,95.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","1,27,081",127081.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",23,23.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","50,788",50788.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",2,2.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,7,No.,"5,335",5335.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,26,TOTAL. :: No.,120,120.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,8,data,,Natives,27,TOTAL. :: Amount. :: R.,"1,83,204",183204.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,7,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,26,TOTAL. :: No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,9,data,,Europeans,27,TOTAL. :: Amount. :: R.,...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",445,445.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","5,84,700",584700.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",129,129.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","2,91,542",291542.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",72,72.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,7,No.,"2,36,469",236469.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,8,Amount.,26,26.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,9,No.,"1,17,605",117605.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,10,Amount.,10,10.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,11,No.,"54,857",54857.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,12,Amount.,41,41.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,13,Column 13,"2,",2.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",17,17.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.","1,18,984",118984.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",8,8.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.","66,322",66322.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",23,23.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.","2,04,902",204902.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",21,21.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.","1,96,841",196841.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,24,"R. 12,000 and upwards. :: No.",45,45.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.","14,31,217",1431217.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,26,TOTAL. :: No.,837,837.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,10,data,,Natives,27,TOTAL. :: Amount. :: R.,"35,24,154",3524154.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",8,8.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","8,220",8220.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",1,1.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","2,400",2400.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,7,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,26,TOTAL. :: No.,9,9.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,11,data,,Europeans,27,TOTAL. :: Amount. :: R.,"10,620",10620.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",13,13.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","12,896",12896.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",4,4.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","5,162",5162.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",3,3.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,7,No.,"7,886",7886.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,26,TOTAL. :: No.,20,20.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,12,data,,Natives,27,TOTAL. :: Amount. :: R.,"25,944",25944.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",1,1.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,3,"R. 3,000 to less than R. 4,000. :: No. :: R.",945,945.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,5,"R. 5,000 to less than R. 6,000. :: No. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,7,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,26,TOTAL. :: No.,1,1.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,13,data,,Europeans,27,TOTAL. :: Amount. :: R.,945,945.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,7,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,8,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,9,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,10,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,11,No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,12,Amount.,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,13,Column 13,...,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,24,"R. 12,000 and upwards. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,26,TOTAL. :: No.,...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,14,data,,Natives,27,TOTAL. :: Amount. :: R.,...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.",550,550.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","5,99,736",599736.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",250,250.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","6,61,039",661039.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",72,72.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,7,No.,"2,33,692",233692.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,8,Amount.,52,52.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,9,No.,"1,96,679",196679.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,10,Amount.,38,38.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,11,No.,"1,83,175",183175.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,12,Amount.,10,10.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,13,Column 13,,,,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,14,"R. 7,000 to less than R. 8,000. :: No.",4,4.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.","22,957",22957.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,16,"R. 8,000 to less than R. 9,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.","10,058",10058.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,18,"R. 9,000 to less than R. 10,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.","11,891",11891.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,20,"R. 10,000 to less than R. 11,000. :: No.",5,5.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.","42,077",42077.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,22,"R. 11,000 to less than R. 12,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.","22,785",22785.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,24,"R. 12,000 and upwards. :: No.",18,18.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,25,"R. 12,000 and upwards. :: Amount. :: R.","2,88,533",288533.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,26,TOTAL. :: No.,"1,005",1005.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,15,subtotal,,Total Europeans Eurasians,27,TOTAL. :: Amount. :: R.,"23,28,882",2328882.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.","1,552",1552.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","20,16,600",2016600.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",336,336.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","7,46,959",746959.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",160,160.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,7,No.,"5,01,741",501741.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,8,Amount.,70,70.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,9,No.,"2,98,852",298852.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,10,Amount.,30,30.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,11,No.,"1,50,327",150327.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,12,Amount.,45,45.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,13,Column 13,2,2.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,14,"R. 7,000 to less than R. 8,000. :: No.",17,17.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.","1,18,984",118984.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,16,"R. 8,000 to less than R. 9,000. :: No.",8,8.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.","66,322",66322.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,18,"R. 9,000 to less than R. 10,000. :: No.",23,23.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.","2,04,902",204902.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,20,"R. 10,000 to less than R. 11,000. :: No.",21,21.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.","1,96,841",196841.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,22,"R. 11,000 to less than R. 12,000. :: No.",...,,count,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.",...,,Rs,True,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,24,"R. 12,000 and upwards. :: No.",46,46.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,25,"R. 12,000 and upwards. :: Amount. :: R.","14,35,581",1435581.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,26,TOTAL. :: No.,"2,308",2308.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,16,subtotal,,Natives,27,TOTAL. :: Amount. :: R.,"59,81,824",5981824.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,2,"R. 2,000 to less than R. 3,000. :: Amount. :: R.","2,102",2102.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,3,"R. 3,000 to less than R. 4,000. :: No. :: R.","26,16,336",2616336.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,4,"R. 4,000 to less than R. 5,000. :: Amount. :: R.",586,586.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,5,"R. 5,000 to less than R. 6,000. :: No. :: R.","14,07,998",1407998.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,6,"R. 6,000 to less than R. 7,000. :: Amount. :: R.",232,232.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,7,No.,"7,35,433",735433.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,8,Amount.,122,122.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,9,No.,"4,95,531",495531.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,10,Amount.,68,68.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,11,No.,"3,33,502",333502.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,12,Amount.,55,55.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,13,Column 13,3,3.0,,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,14,"R. 7,000 to less than R. 8,000. :: No.",21,21.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,15,"R. 7,000 to less than R. 8,000. :: Amount. :: R.","1,41,941",141941.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,16,"R. 8,000 to less than R. 9,000. :: No.",10,10.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,17,"R. 8,000 to less than R. 9,000. :: Amount. :: R.",76.380,76.38,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,18,"R. 9,000 to less than R. 10,000. :: No.",25,25.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,19,"R. 9,000 to less than R. 10,000. :: Amount. :: R.","2,16,793",216793.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,20,"R. 10,000 to less than R. 11,000. :: No.",26,26.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,21,"R. 10,000 to less than R. 11,000. :: Amount. :: R.","2,38,918",238918.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,22,"R. 11,000 to less than R. 12,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,23,"R. 11,000 to less than R. 12,000. :: Amount. :: R.","22,785",22785.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,24,"R. 12,000 and upwards. :: No.",64,64.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,25,"R. 12,000 and upwards. :: Amount. :: R.","17,24,114",1724114.0,Rs,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,26,TOTAL. :: No.,"3,313",3313.0,count,False,False
+famines-and-land-assessments,tbl-025,Pensions,314,290,17,total,,Total,27,TOTAL. :: Amount. :: R.,"83,10,706",8310706.0,Rs,False,False

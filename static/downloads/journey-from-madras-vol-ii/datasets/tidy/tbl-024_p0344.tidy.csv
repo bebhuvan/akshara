@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,1,data,,"I. First year Cambu, with accompanying grains",2,Value per acre.,£. 1,,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,1,data,,"I. First year Cambu, with accompanying grains",3,Value per acre.,3,3.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,1,data,,"I. First year Cambu, with accompanying grains",4,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,3,data,Second year 1st crop Sholum — 14s. 10d,2d crop Colu — 5s. 8d,2,Value per acre.,1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,3,data,Second year 1st crop Sholum — 14s. 10d,2d crop Colu — 5s. 8d,3,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,3,data,Second year 1st crop Sholum — 14s. 10d,2d crop Colu — 5s. 8d,4,Value per acre.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,4,data,Second year 1st crop Sholum — 14s. 10d,Third year grass manured by folding cattle on it,2,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,4,data,Second year 1st crop Sholum — 14s. 10d,Third year grass manured by folding cattle on it,3,Value per acre.,1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,4,data,Second year 1st crop Sholum — 14s. 10d,Third year grass manured by folding cattle on it,4,Value per acre.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,5,subtotal,,Total produce of three years,2,Value per acre.,2,2.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,5,subtotal,,Total produce of three years,3,Value per acre.,5,5.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,5,subtotal,,Total produce of three years,4,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,7,data,Deduct Rent — 17s. 4½d,Seed — 0s. 7½d,2,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,7,data,Deduct Rent — 17s. 4½d,Seed — 0s. 7½d,3,Value per acre.,18,18.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,7,data,Deduct Rent — 17s. 4½d,Seed — 0s. 7½d,4,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,8,total,,Remainder for stock and labour,2,Value per acre.,£ 1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,8,total,,Remainder for stock and labour,3,Value per acre.,7,7.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,8,total,,Remainder for stock and labour,4,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,9,data,Deduct Rent — 17s. 4½d,"II. First year Cambu, with its accompanying grains",2,Value per acre.,£ 1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,9,data,Deduct Rent — 17s. 4½d,"II. First year Cambu, with its accompanying grains",3,Value per acre.,3,3.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,9,data,Deduct Rent — 17s. 4½d,"II. First year Cambu, with its accompanying grains",4,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,11,data,Second year 1st crop Shamay — 16s. 4¾d,2d crop Colu — 5s. 8d,2,Value per acre.,1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,11,data,Second year 1st crop Shamay — 16s. 4¾d,2d crop Colu — 5s. 8d,3,Value per acre.,2,2.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,11,data,Second year 1st crop Shamay — 16s. 4¾d,2d crop Colu — 5s. 8d,4,Value per acre.,0¾,0.75,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,12,data,Second year 1st crop Shamay — 16s. 4¾d,Third year grass,2,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,12,data,Second year 1st crop Shamay — 16s. 4¾d,Third year grass,3,Value per acre.,1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,12,data,Second year 1st crop Shamay — 16s. 4¾d,Third year grass,4,Value per acre.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,13,subtotal,,Total produce of three years,2,Value per acre.,2,2.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,13,subtotal,,Total produce of three years,3,Value per acre.,6,6.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,13,subtotal,,Total produce of three years,4,Value per acre.,6¾,6.75,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,15,data,Deduct Rent — 17s. 4½d,Seed — 1s. 0¾d,2,Value per acre.,0,0.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,15,data,Deduct Rent — 17s. 4½d,Seed — 1s. 0¾d,3,Value per acre.,18,18.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,15,data,Deduct Rent — 17s. 4½d,Seed — 1s. 0¾d,4,Value per acre.,1½,1.5,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,16,total,,Remainder for stock and labour,2,Value per acre.,£ 1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,16,total,,Remainder for stock and labour,3,Value per acre.,8,8.0,acres,False,False
+journey-from-madras-vol-ii,tbl-024,Table 24,344,324,16,total,,Remainder for stock and labour,4,Value per acre.,1½,1.5,acres,False,False

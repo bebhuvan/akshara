@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-018,British Cotton Manufactures Exported to India.,175,135,1,data,,1814,2,Column 2,"818,208 yards",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-018,British Cotton Manufactures Exported to India.,175,135,2,data,,1821,2,Column 2,"19,138,726 „",19138726.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-018,British Cotton Manufactures Exported to India.,175,135,3,data,,1828,2,Column 2,"42,822,077 „",42822077.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-018,British Cotton Manufactures Exported to India.,175,135,4,data,,1835,2,Column 2,"51,777,277 „",51777277.0,,False,False

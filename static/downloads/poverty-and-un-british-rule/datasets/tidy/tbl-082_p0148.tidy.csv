@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,1,data,,1869,2,Merchandise and bullion. £,"87,627,917",87627917.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,1,data,,1869,3,Exports.,1869,1869.0,,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,1,data,,1869,4,Merchandise and bullion. £,"99,330,735",99330735.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,2,data,,1870,2,Merchandise and bullion. £,"97,779,351",97779351.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,2,data,,1870,3,Exports.,1870,1870.0,,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,2,data,,1870,4,Merchandise and bullion. £,"117,534,993",117534993.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,3,data,,1871,2,Merchandise and bullion. £,"112,552,770",112552770.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,3,data,,1871,3,Exports.,1871,1871.0,,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,3,data,,1871,4,Merchandise and bullion. £,"138,084,908",138084908.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,4,data,,1872,2,Merchandise and bullion. £,"117,250,899",117250899.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,4,data,,1872,3,Exports.,1872,1872.0,,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,4,data,,1872,4,Merchandise and bullion. £,"128,337,183",128337183.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,5,data,,1873,2,Merchandise and bullion. £,"132,709,295",132709295.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,5,data,,1873,3,Exports.,1873,1873.0,,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,5,data,,1873,4,Merchandise and bullion. £,"142,240,730",142240730.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,6,data,,1874,2,Merchandise and bullion. £,"119,172,249",119172249.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,6,data,,1874,3,Exports.,1874,1874.0,,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,6,data,,1874,4,Merchandise and bullion. £,"130,582,689",130582689.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,7,total,,Row 7,2,Merchandise and bullion. £,"£667,085,481",667085481.0,GBP,False,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,7,total,,Row 7,3,Exports.,,,,True,False
+poverty-and-un-british-rule,tbl-082,Table 82,148,128,7,total,,Row 7,4,Merchandise and bullion. £,"£756,111,238",756111238.0,GBP,False,False

@@ -1,6 +1,6 @@
 ---
 title: "The People of India"
-date: 2025-12-28
+date: "2025-12-28"
 subtitle: ""
 author: "Sir Herbert Hope Risley"
 author_slug: "herbert-hope-risley"
@@ -25,11 +25,14 @@ wikisource_url: "https://en.wikisource.org/wiki/Author:Herbert_Hope_Risley"
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain."
-
 download_url: "https://drive.google.com/drive/folders/1W-h6yUFhPFdVrOKZiXR__xE7SJ9CQiXm?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/people-of-india.svg"
+archetype: "survey_and_gazetteer"
+palette: "Topographic Umber"
 ---
 
 A landmark work in Indian ethnography, *The People of India* represents the culmination of Sir Herbert Risley's extensive research as Director of Ethnography for India and Census Commissioner for the 1901 census. The book provides a systematic analysis of India's diverse populations, examining their physical characteristics, social organization, and cultural practices.

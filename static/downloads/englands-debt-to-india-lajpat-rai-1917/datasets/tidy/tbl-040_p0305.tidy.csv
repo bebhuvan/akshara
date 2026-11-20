@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-040,Table 40,305,265,1,data,,"1800–1825, five famines",2,Column 2,"Approx. 1,000,000 deaths",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-040,Table 40,305,265,2,data,,1826–1850 two famines,2,Column 2,"“ 500,000 “",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-040,Table 40,305,265,3,data,,"1851–1875, six famines",2,Column 2,"Recorded 5,000,000 “",,,False,False

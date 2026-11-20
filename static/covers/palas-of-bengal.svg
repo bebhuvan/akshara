@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="bgShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1B3054" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#142440" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="#142440"/>
+  <rect width="1200" height="1800" fill="url(#bgShade)"/>
+
+  <rect x="76" y="76" width="1048" height="1648" fill="none" stroke="#DCA552" stroke-width="1.6" stroke-opacity="0.7"/><rect x="98" y="98" width="1004" height="1604" fill="none" stroke="#3C537A" stroke-width="1"/><line x1="98" y1="225" x2="1102" y2="225" stroke="#3C537A" stroke-width="1.4"/><rect x="120" y="1407" width="88" height="83" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="120" y1="1407" x2="208" y2="1407" stroke="#DCA552" stroke-width="2.5"/><rect x="265" y="1383" width="88" height="107" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="265" y1="1383" x2="353" y2="1383" stroke="#DCA552" stroke-width="2.5"/><rect x="410" y="1359" width="88" height="131" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="410" y1="1359" x2="498" y2="1359" stroke="#DCA552" stroke-width="2.5"/><rect x="555" y="1335" width="88" height="155" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="555" y1="1335" x2="643" y2="1335" stroke="#DCA552" stroke-width="2.5"/><rect x="700" y="1359" width="88" height="131" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="700" y1="1359" x2="788" y2="1359" stroke="#DCA552" stroke-width="2.5"/><rect x="845" y="1383" width="88" height="107" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="845" y1="1383" x2="933" y2="1383" stroke="#DCA552" stroke-width="2.5"/><rect x="990" y="1407" width="88" height="83" fill="#1B3054" stroke="#3C537A" stroke-width="1.3"/><line x1="990" y1="1407" x2="1078" y2="1407" stroke="#DCA552" stroke-width="2.5"/><line x1="98" y1="1530" x2="1102" y2="1530" stroke="#DCA552" stroke-width="1.6" stroke-opacity="0.75"/>
+
+  <text x="112" y="168" fill="#DCA552" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
+    CHRONICLES &amp; STATECRAFT
+  </text>
+  <text x="1088" y="168" text-anchor="end" fill="#BCC7DA" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
+    1915
+  </text>
+
+  <text x="112" y="355" fill="#F8F4EC" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="80" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">The Pālas of Bengal</tspan>
+  </text>
+
+  <text x="112" y="417" fill="#BCC7DA" font-family="Noto Serif, Georgia, serif" font-style="italic" font-size="30"><tspan x="112" dy="0">Memoirs of the Asiatic Society of Bengal,</tspan><tspan x="112" dy="40">Vol. V, No. 3</tspan></text>
+
+  <line x1="112" y1="541" x2="290" y2="541" stroke="#DCA552" stroke-width="4"/>
+
+  <text x="112" y="605" fill="#F8F4EC" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+    <tspan x="112" dy="0">R. D. Banerji</tspan>
+  </text>
+  <text x="112" y="659" fill="#BCC7DA" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1915
+  </text>
+
+  <text x="112" y="1605" fill="#F8F4EC" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
+    AKSHARA
+  </text>
+  <text x="112" y="1652" fill="#BCC7DA" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    COMMUNITY EDITION  ·  AKSHARA.INK
+  </text>
+  <text x="1088" y="1628" text-anchor="end" fill="#DCA552" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
+    ಅಕ್ಷರ
+  </text>
+</svg>

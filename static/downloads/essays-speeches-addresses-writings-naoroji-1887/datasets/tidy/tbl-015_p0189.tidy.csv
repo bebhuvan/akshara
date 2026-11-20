@@ -1,0 +1,67 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,1,data,,Saharanpore,2,Unirrigated Land. :: Acres.,"621,382",621382.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,1,data,,Saharanpore,3,Produce per Acre. :: lbs.,600,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,1,data,,Saharanpore,4,Total Produce. :: lbs.,"372,829,200",372829200.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,1,data,,Saharanpore,5,For 1 Re. :: lbs.,47,47.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,1,data,,Saharanpore,6,For 1 Re. :: oz.,6,6.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,1,data,,Saharanpore,7,Total Value. :: Rs.,"75,50,960",7550960.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,2,data,,Meerut,2,Unirrigated Land. :: Acres.,"453,694",453694.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,2,data,,Meerut,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,2,data,,Meerut,4,Total Produce. :: lbs.,"272,216,400",272216400.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,2,data,,Meerut,5,For 1 Re. :: lbs.,53,53.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,2,data,,Meerut,6,For 1 Re. :: oz.,10,10.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,2,data,,Meerut,7,Total Value. :: Rs.,"50,76,288",5076288.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,3,data,,Moradabad,2,Unirrigated Land. :: Acres.,"484,158",484158.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,3,data,,Moradabad,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,3,data,,Moradabad,4,Total Produce. :: lbs.,"290,494,800",290494800.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,3,data,,Moradabad,5,For 1 Re. :: lbs.,51,51.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,3,data,,Moradabad,6,For 1 Re. :: oz.,1,1.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,3,data,,Moradabad,7,Total Value. :: Rs.,"56,88,992",5688992.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,4,data,,Bareilly,2,Unirrigated Land. :: Acres.,"768,283",768283.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,4,data,,Bareilly,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,4,data,,Bareilly,4,Total Produce. :: lbs.,"460,957,800",460957800.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,4,data,,Bareilly,5,For 1 Re. :: lbs.,52,52.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,4,data,,Bareilly,6,For 1 Re. :: oz.,1,1.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,4,data,,Bareilly,7,Total Value. :: Rs.,"88,53,920",8853920.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,5,data,,Muttra,2,Unirrigated Land. :: Acres.,"406,153",406153.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,5,data,,Muttra,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,5,data,,Muttra,4,Total Produce. :: lbs.,"243,691,800",243691800.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,5,data,,Muttra,5,For 1 Re. :: lbs.,48,48.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,5,data,,Muttra,6,For 1 Re. :: oz.,0,0.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,5,data,,Muttra,7,Total Value. :: Rs.,"50,76,912",5076912.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,6,data,,Agra,2,Unirrigated Land. :: Acres.,"374,976",374976.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,6,data,,Agra,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,6,data,,Agra,4,Total Produce. :: lbs.,"224,985,600",224985600.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,6,data,,Agra,5,For 1 Re. :: lbs.,46,46.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,6,data,,Agra,6,For 1 Re. :: oz.,10,10.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,6,data,,Agra,7,Total Value. :: Rs.,"48,25,424",4825424.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,7,data,,Cawnpore,2,Unirrigated Land. :: Acres.,"436,636",436636.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,7,data,,Cawnpore,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,7,data,,Cawnpore,4,Total Produce. :: lbs.,"261,981,600",261981600.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,7,data,,Cawnpore,5,For 1 Re. :: lbs.,45,45.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,7,data,,Cawnpore,6,For 1 Re. :: oz.,6,6.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,7,data,,Cawnpore,7,Total Value. :: Rs.,"57,73,696",5773696.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,8,data,,Allahabad,2,Unirrigated Land. :: Acres.,"644,594",644594.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,8,data,,Allahabad,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,8,data,,Allahabad,4,Total Produce. :: lbs.,"386,756,400",386756400.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,8,data,,Allahabad,5,For 1 Re. :: lbs.,35,35.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,8,data,,Allahabad,6,For 1 Re. :: oz.,8,8.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,8,data,,Allahabad,7,Total Value. :: Rs.,"1,08,94,544",10894544.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,9,data,,Mirzapore,2,Unirrigated Land. :: Acres.,"614,658",614658.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,9,data,,Mirzapore,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,9,data,,Mirzapore,4,Total Produce. :: lbs.,"368,794,800",368794800.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,9,data,,Mirzapore,5,For 1 Re. :: lbs.,35,35.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,9,data,,Mirzapore,6,For 1 Re. :: oz.,6,6.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,9,data,,Mirzapore,7,Total Value. :: Rs.,"1,04,25,280",10425280.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,10,data,,Benares,2,Unirrigated Land. :: Acres.,"202,818",202818.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,10,data,,Benares,3,Produce per Acre. :: lbs.,”,600.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,10,data,,Benares,4,Total Produce. :: lbs.,"121,690,800",121690800.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,10,data,,Benares,5,For 1 Re. :: lbs.,35,35.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,10,data,,Benares,6,For 1 Re. :: oz.,14,14.0,oz,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,10,data,,Benares,7,Total Value. :: Rs.,"33,92,064",3392064.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,11,total,,Total,2,Unirrigated Land. :: Acres.,"5,007,352",5007352.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,11,total,,Total,3,Produce per Acre. :: lbs.,...,,acres,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,11,total,,Total,4,Total Produce. :: lbs.,......,,lbs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,11,total,,Total,5,For 1 Re. :: lbs.,...,,lbs,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,11,total,,Total,6,For 1 Re. :: oz.,,,oz,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-015,Table 15,189,170,11,total,,Total,7,Total Value. :: Rs.,"6,75,58,080",67558080.0,Rs,False,True

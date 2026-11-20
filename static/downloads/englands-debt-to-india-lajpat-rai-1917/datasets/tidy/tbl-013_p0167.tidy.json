@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-013",
+    "caption": "Table 13",
+    "page_number": 167,
+    "printed_folio": "127",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "\" On manufactured cottons",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "10 per cent.",
+    "value_numeric": 10.0,
+    "unit": "%",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-013",
+    "caption": "Table 13",
+    "page_number": 167,
+    "printed_folio": "127",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "On manufactured silks",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "14 per cent.",
+    "value_numeric": 14.0,
+    "unit": "%",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

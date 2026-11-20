@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,1,data,,Men adult,2,Column 2,"11,112",11112.0,,False,True
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,2,data,,Children,2,Column 2,"4,431",4431.0,,False,True
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,3,subtotal,,"Males, total",2,Column 2,"15,543",15543.0,,False,True
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,4,data,,Females adult,2,Column 2,"10,834",10834.0,,False,True
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,5,data,,Children,2,Column 2,"4,481",4481.0,,False,True
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,6,subtotal,,"Females, total",2,Column 2,"15,315",15315.0,,False,True
+journey-from-madras-vol-ii,tbl-047,Table 47,513,485,7,total,,General total,2,Column 2,"30,858.",30858.0,,False,True

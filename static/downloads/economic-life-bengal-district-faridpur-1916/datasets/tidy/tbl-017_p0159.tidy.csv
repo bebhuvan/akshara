@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,1,subtotal,,Total amount of debt:,2,Column 2,Rs.,,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,1,subtotal,,Total amount of debt:,3,In the population as a whole.,"20,147,232",20147232.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,1,subtotal,,Total amount of debt:,4,Amongst cultivators only.,"14,155,946",14155946.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,1,subtotal,,Total amount of debt:,5,Amongst non-culti- vators only.,"5,991,286",5991286.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,2,data,,Row 2,2,Column 2,£,,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,2,data,,Row 2,3,In the population as a whole.,"1,343,148",1343148.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,2,data,,Row 2,4,Amongst cultivators only.,"943,729",943729.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,2,data,,Row 2,5,Amongst non-culti- vators only.,"399,419",399419.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,4,data,Average amount of debt ,per family,2,Column 2,Rs.,,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,4,data,Average amount of debt ,per family,3,In the population as a whole.,59,59.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,4,data,Average amount of debt ,per family,4,Amongst cultivators only.,55,55.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,4,data,Average amount of debt ,per family,5,Amongst non-culti- vators only.,70,70.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,5,data,Average amount of debt ,Row 5,2,Column 2,£ s.,,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,5,data,Average amount of debt ,Row 5,3,In the population as a whole.,3·19,,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,5,data,Average amount of debt ,Row 5,4,Amongst cultivators only.,3·13,,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,5,data,Average amount of debt ,Row 5,5,Amongst non-culti- vators only.,4·13,,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,6,data,Average amount of debt ,per head,2,Column 2,Rs.,,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,6,data,Average amount of debt ,per head,3,In the population as a whole.,11,11.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,6,data,Average amount of debt ,per head,4,Amongst cultivators only.,10,10.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,6,data,Average amount of debt ,per head,5,Amongst non-culti- vators only.,14,14.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,7,data,Average amount of debt ,Row 7,2,Column 2,Sh.,,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,7,data,Average amount of debt ,Row 7,3,In the population as a whole.,15,15.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,7,data,Average amount of debt ,Row 7,4,Amongst cultivators only.,13,13.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,7,data,Average amount of debt ,Row 7,5,Amongst non-culti- vators only.,19,19.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,9,data,Number of families ,without debt,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,9,data,Number of families ,without debt,3,In the population as a whole.,"202,394",202394.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,9,data,Number of families ,without debt,4,Amongst cultivators only.,"140,215",140215.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,9,data,Number of families ,without debt,5,Amongst non-culti- vators only.,"62,179",62179.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,10,data,Number of families ,indebted,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,10,data,Number of families ,indebted,3,In the population as a whole.,"139,714",139714.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,10,data,Number of families ,indebted,4,Amongst cultivators only.,"116,466",116466.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,10,data,Number of families ,indebted,5,Amongst non-culti- vators only.,"23,248",23248.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,12,data,Percentage of population ,Free from debt,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,12,data,Percentage of population ,Free from debt,3,In the population as a whole.,59,59.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,12,data,Percentage of population ,Free from debt,4,Amongst cultivators only.,55,55.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,12,data,Percentage of population ,Free from debt,5,Amongst non-culti- vators only.,73,73.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,13,data,Percentage of population ,In debt about one-quarter of annual income,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,13,data,Percentage of population ,In debt about one-quarter of annual income,3,In the population as a whole.,20,20.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,13,data,Percentage of population ,In debt about one-quarter of annual income,4,Amongst cultivators only.,24,24.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,13,data,Percentage of population ,In debt about one-quarter of annual income,5,Amongst non-culti- vators only.,10½,10.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,14,data,Percentage of population ,In debt about one-half of annual income,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,14,data,Percentage of population ,In debt about one-half of annual income,3,In the population as a whole.,12,12.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,14,data,Percentage of population ,In debt about one-half of annual income,4,Amongst cultivators only.,13,13.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,14,data,Percentage of population ,In debt about one-half of annual income,5,Amongst non-culti- vators only.,7½,7.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,15,data,Percentage of population ,In debt about one year's income,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,15,data,Percentage of population ,In debt about one year's income,3,In the population as a whole.,7,7.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,15,data,Percentage of population ,In debt about one year's income,4,Amongst cultivators only.,7,7.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,15,data,Percentage of population ,In debt about one year's income,5,Amongst non-culti- vators only.,6,6.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,16,data,Percentage of population ,In debt two years' income and more,2,Column 2,,,,True,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,16,data,Percentage of population ,In debt two years' income and more,3,In the population as a whole.,2,2.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,16,data,Percentage of population ,In debt two years' income and more,4,Amongst cultivators only.,1½,1.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,16,data,Percentage of population ,In debt two years' income and more,5,Amongst non-culti- vators only.,3,3.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,18,data,Average amount of debt amongst indebted families ,Row 18,2,Column 2,Rs.,,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,18,data,Average amount of debt amongst indebted families ,Row 18,3,In the population as a whole.,144,144.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,18,data,Average amount of debt amongst indebted families ,Row 18,4,Amongst cultivators only.,121,121.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,18,data,Average amount of debt amongst indebted families ,Row 18,5,Amongst non-culti- vators only.,258,258.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,19,data,Average amount of debt amongst indebted families ,Row 19,2,Column 2,£ s.,,GBP,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,19,data,Average amount of debt amongst indebted families ,Row 19,3,In the population as a whole.,9,9.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,19,data,Average amount of debt amongst indebted families ,Row 19,4,Amongst cultivators only.,8·1,,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-017,(a) General Summary,159,155,19,data,Average amount of debt amongst indebted families ,Row 19,5,Amongst non-culti- vators only.,17·4,,,False,False

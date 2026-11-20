@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,1,total,,Total articles,2,Imports. :: Value in millions of pounds.,15·73,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,1,total,,Total articles,3,Imports. :: Per cent. of total.,100,100.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,2,data,,Cotton piece-goods,2,Imports. :: Value in millions of pounds.,4·35,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,2,data,,Cotton piece-goods,3,Imports. :: Per cent. of total.,28,28.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,3,data,,Sugar,2,Imports. :: Value in millions of pounds.,2·01,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,3,data,,Sugar,3,Imports. :: Per cent. of total.,13,13.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,4,data,,Metals,2,Imports. :: Value in millions of pounds.,1·40,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,4,data,,Metals,3,Imports. :: Per cent. of total.,9,9.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,5,data,,Railway plant,2,Imports. :: Value in millions of pounds.,0·88,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,5,data,,Railway plant,3,Imports. :: Per cent. of total.,6,6.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,6,data,,Oils and oilseeds,2,Imports. :: Value in millions of pounds.,0·91,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,6,data,,Oils and oilseeds,3,Imports. :: Per cent. of total.,6,6.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,7,data,,Coal and coke,2,Imports. :: Value in millions of pounds.,0·48,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,7,data,,Coal and coke,3,Imports. :: Per cent. of total.,3,3.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,8,data,,Jute goods,2,Imports. :: Value in millions of pounds.,0·57,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,8,data,,Jute goods,3,Imports. :: Per cent. of total.,4,4.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,9,total,,Total articles,2,Exports. :: Value in millions of pounds.,14·00,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,9,total,,Total articles,3,Exports. :: Per cent. of total.,100,100.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,10,subtotal,,Total grain and pulse,2,Exports. :: Value in millions of pounds.,7·75,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,10,subtotal,,Total grain and pulse,3,Exports. :: Per cent. of total.,55,55.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,11,data,,Wheat and wheat-flour,2,Exports. :: Value in millions of pounds.,4·74,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,11,data,,Wheat and wheat-flour,3,Exports. :: Per cent. of total.,33,33.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,12,data,,Raw cotton,2,Exports. :: Value in millions of pounds.,1·51,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,12,data,,Raw cotton,3,Exports. :: Per cent. of total.,11,11.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,13,data,,Oilseeds,2,Exports. :: Value in millions of pounds.,0·91,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,13,data,,Oilseeds,3,Exports. :: Per cent. of total.,6,6.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,14,data,,Hides and skins,2,Exports. :: Value in millions of pounds.,0·73,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,14,data,,Hides and skins,3,Exports. :: Per cent. of total.,5,5.0,%,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,15,data,,Wool,2,Exports. :: Value in millions of pounds.,0 31,,GBP,False,True
+recent-economic-developments-punjab-wilson-1910,tbl-002,Table 2,11,11,15,data,,Wool,3,Exports. :: Per cent. of total.,2,2.0,%,False,True

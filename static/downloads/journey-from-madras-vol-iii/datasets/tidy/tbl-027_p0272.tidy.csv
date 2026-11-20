@@ -1,0 +1,36 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,2,"Houses, of which the following are occupied by :: Christians.",6929,6929.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,3,Slaves. :: Mussulmans.,87,87.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,4,Bráhmans.,515,515.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,5,Sivabhactars.,1116,1116.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,6,Jain.,780,780.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,7,Column 7,87,87.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,1,data,,Supa,8,Column 8,348,348.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,2,"Houses, of which the following are occupied by :: Christians.",3396,3396.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,3,Slaves. :: Mussulmans.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,4,Bráhmans.,178,178.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,5,Sivabhactars.,2015,2015.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,6,Jain.,417,417.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,7,Column 7,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,2,data,,Soonda,8,Column 8,61,61.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,2,"Houses, of which the following are occupied by :: Christians.",2729,2729.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,3,Slaves. :: Mussulmans.,—,,,True,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,4,Bráhmans.,57,57.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,5,Sivabhactars.,845,845.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,6,Jain.,295,295.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,7,Column 7,40,40.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,3,data,,Banawási,8,Column 8,—,,,True,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,2,"Houses, of which the following are occupied by :: Christians.",2593,2593.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,3,Slaves. :: Mussulmans.,—,,,True,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,4,Bráhmans.,50,50.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,5,Sivabhactars.,692,692.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,6,Jain.,433,433.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,7,Column 7,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,4,data,,Billighy,8,Column 8,36,36.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,2,"Houses, of which the following are occupied by :: Christians.",15647,15647.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,3,Slaves. :: Mussulmans.,91,91.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,4,Bráhmans.,800,800.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,5,Sivabhactars.,4568,4568.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,6,Jain.,1925,1925.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,7,Column 7,162,162.0,,False,False
+journey-from-madras-vol-iii,tbl-027,Table 27,272,246,5,total,,Total,8,Column 8,445,445.0,,False,False

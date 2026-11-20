@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,1,data,,"Germany, 1837 31,589,547",2,Column 2,"Germany, 1911 64,925,993",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,1,data,,"Germany, 1837 31,589,547",3,Column 3,"14,528",14528.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,1,data,,"Germany, 1837 31,589,547",4,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,1,data,,"Germany, 1837 31,589,547",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,2,data,,"Belgium, 1866 4,827,833",2,Column 2,"Belgium, 1912 7,571,387",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,2,data,,"Belgium, 1866 4,827,833",3,Column 3,"11,919",11919.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,2,data,,"Belgium, 1866 4,827,833",4,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,2,data,,"Belgium, 1866 4,827,833",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,3,data,,"England, 1871 21,495,131",2,Column 2,"England, 1911 31,045,270",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,3,data,,"England, 1871 21,495,131",3,Column 3,"11,726",11726.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,3,data,,"England, 1871 21,495,131",4,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,3,data,,"England, 1871 21,495,131",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,4,data,,"Japan, 1908 49,588,804",2,Column 2,"Japan, 1914 53,696,888",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,4,data,,"Japan, 1908 49,588,804",3,Column 3,"10,270",10270.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,4,data,,"Japan, 1908 49,588,804",4,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,312,272,4,data,,"Japan, 1908 49,588,804",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,5,data,,"Hungary, 1880",2,Column 2,"Hungary, 1910",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,5,data,,"Hungary, 1880",3,Column 3,"11,443 15,737,259",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,5,data,,"Hungary, 1880",4,Average Increase of Population per year per million,"20,886,487",20886487.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,5,data,,"Hungary, 1880",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,6,data,,"India, 1861",2,Column 2,"India, 1911",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,6,data,,"India, 1861",3,Column 3,"8,636 215,798,302",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,6,data,,"India, 1861",4,Average Increase of Population per year per million,"302,494,794",302494794.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,6,data,,"India, 1861",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,7,data,,"British India, 1901",2,Column 2,"British India, 1911",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,7,data,,"British India, 1901",3,Column 3,"5,623 231,610,000",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,7,data,,"British India, 1901",4,Average Increase of Population per year per million,"244,270,000",244270000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,7,data,,"British India, 1901",5,Average Increase of Population per year per million,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,8,data,,"Native States, 1901",2,Column 2,"Native States, 1911",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,8,data,,"Native States, 1901",3,Column 3,"13,085 62,755,116",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,8,data,,"Native States, 1901",4,Average Increase of Population per year per million,"70,888,854",70888854.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-042,Table 42,313,272,8,data,,"Native States, 1901",5,Average Increase of Population per year per million,,,,True,False

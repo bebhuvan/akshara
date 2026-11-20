@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-causes-of-famines-in-india-ray-1909,tbl-003,Table 3,13,7,1,data,,Direct expenditure in 1899-1900,2,Column 2,"3,11 lakhs.",,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-003,Table 3,13,7,2,data,,Ditto in 1900-01,2,Column 2,"6,18 „",618.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-003,Table 3,13,7,3,data,,Loss of revenue in the two years,2,Column 2,"3,52 „",352.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-003,Table 3,13,7,4,data,,Indirect expenditure,2,Column 2,"1,30 „",130.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-003,Table 3,13,7,5,data,,"Loans, etc",2,Column 2,"2,40 „",240.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-003,Table 3,13,7,6,total,,Total,2,Column 2,"16,51 lakhs.",,,False,True

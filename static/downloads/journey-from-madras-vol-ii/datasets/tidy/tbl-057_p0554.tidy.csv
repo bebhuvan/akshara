@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,1,data,,Males young,2,"The Slaves are,",38,38.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,1,data,,Males young,3,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,2,data,,working,2,"The Slaves are,",36,36.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,2,data,,working,3,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,3,data,,old,2,"The Slaves are,",17,17.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,3,data,,old,3,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,4,subtotal,,Row 4,2,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,4,subtotal,,Row 4,3,"The Slaves are,",91,91.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,5,data,,Females young,2,"The Slaves are,",28,28.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,5,data,,Females young,3,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,6,data,,working,2,"The Slaves are,",33,33.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,6,data,,working,3,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,7,data,,old,2,"The Slaves are,",9,9.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,7,data,,old,3,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,8,subtotal,,Row 8,2,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,8,subtotal,,Row 8,3,"The Slaves are,",70,70.0,,False,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,9,total,,Total,2,"The Slaves are,",,,,True,True
+journey-from-madras-vol-ii,tbl-057,Table 57,554,526,9,total,,Total,3,"The Slaves are,",161,161.0,,False,True

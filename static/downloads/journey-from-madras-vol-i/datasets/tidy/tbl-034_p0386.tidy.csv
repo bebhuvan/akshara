@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,1,data,,Of refined white sugar-candy,2,Column 2,16 Seers,16.0,seers,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,1,data,,Of refined white sugar-candy,3,Column 3,£.0,,GBP,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,1,data,,Of refined white sugar-candy,4,Column 4,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,1,data,,Of refined white sugar-candy,5,Column 5,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,2,data,,Of refined white soft sugar,2,Column 2,35 Seers,35.0,seers,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,2,data,,Of refined white soft sugar,3,Column 3,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,2,data,,Of refined white soft sugar,4,Column 4,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,2,data,,Of refined white soft sugar,5,Column 5,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,3,data,,Of brown sugar-candy,2,Column 2,22 Seers,22.0,seers,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,3,data,,Of brown sugar-candy,3,Column 3,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,3,data,,Of brown sugar-candy,4,Column 4,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,3,data,,Of brown sugar-candy,5,Column 5,11½,11.5,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,4,data,,Of brown soft sugar,2,Column 2,40 Seers,40.0,seers,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,4,data,,Of brown soft sugar,3,Column 3,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,4,data,,Of brown soft sugar,4,Column 4,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,4,data,,Of brown soft sugar,5,Column 5,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,5,data,,The cost of the materials is nearly,2,Column 2,,,,True,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,5,data,,The cost of the materials is nearly,3,Column 3,0,0.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,5,data,,The cost of the materials is nearly,4,Column 4,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-034,Table 34,386,340,5,data,,The cost of the materials is nearly,5,Column 5,4,4.0,,False,False

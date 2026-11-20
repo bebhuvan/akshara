@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,3,data,A,Almonds,2,Quantity.,28 maunds,28.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,5,data,B,Betel-Nut,2,Quantity.,1000,1000.0,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,9,data,C,Caddy,2,Quantity.,14 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,10,data,C,Coco-Nut,2,Quantity.,1200,1200.0,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,11,data,C,Cotton,2,Quantity.,30 maunds,30.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,12,data,C,Ditto,2,Quantity.,14 bags,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,13,data,C,Coco-Nut Oil,2,Quantity.,22 paddams,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,14,data,C,Catcha Cloth,2,Quantity.,10½ pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,15,data,C,"Comblies, Indian Blankets",2,Quantity.,"5 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,16,data,C,"Ganjah, Dried Flowers and Leaves of Hemp",2,Quantity.,96 lbs.,96.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,17,data,C,Glass Ware,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,18,data,C,Ditto,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,21,data,H,Hats,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,22,data,H,Handkerchiefs,2,Quantity.,17 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,23,data,H,"Hing, or Asafœtida",2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,25,data,I,Jagory,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,28,data,K,"Kissemis, Raisins",2,Quantity.,1¼ candy,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,29,data,K,Ditto,2,Quantity.,10 maunds,10.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,33,data,M,"Mung, a kind of Pulse",2,Quantity.,16 maunds,16.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,34,data,M,Mustard Seed,2,Quantity.,½ ditto,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,35,data,M,"Maniary, Beads",2,Quantity.,3 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,36,data,M,Ditto,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,37,data,M,Ditto,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,39,data,N,Nankins,2,Quantity.,10 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,40,data,N,Nails,2,Quantity.,1½ maunds,1.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,44,data,O,Opium,2,Quantity.,4 lbs.,4.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,45,data,,"Chilly Pepper, Capsicum",2,Quantity.,30 maunds,30.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,46,data,,Canga,2,Quantity.,"3½ corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,47,data,,Cloves,2,Quantity.,4 lbs.,4.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,49,data,D,Dates,2,Quantity.,8½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,50,data,D,Ditto,2,Quantity.,79 maunds,79.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,51,data,D,Ditto,2,Quantity.,24 bales,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,52,data,D,"Dholl, a kind of Pulse",2,Quantity.,10 maunds,10.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,53,data,D,"Doria, a Cotton Cloth",2,Quantity.,2 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,55,data,G,Garlic,2,Quantity.,5½ maunds,5.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,56,data,G,"Gram, a kind of Pulse",2,Quantity.,5 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",557,509,57,data,G,"Ganjah, Dried Flowers and Leaves of Hemp",2,Quantity.,14 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,61,data,P,Post Paper,2,Quantity.,19½ ream,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,62,data,P,Ditto,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,63,data,P,Piece Goods,2,Quantity.,2104 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,64,data,P,Ditto,2,Quantity.,29 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,66,data,R,Raisins,2,Quantity.,4 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,67,data,R,Ditto,2,Quantity.,14¼ maunds,14.25,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,69,data,S,Sugar,2,Quantity.,3¼ candies,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,70,data,S,Ditto,2,Quantity.,4 maunds,4.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,71,data,S,Salt,2,Quantity.,12 bags,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,72,data,S,Ditto,2,Quantity.,78700 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,73,data,S,Shirts,2,Quantity.,"½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,74,data,S,Soap,2,Quantity.,195 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,75,data,S,Ditto,2,Quantity.,3 bags,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,76,data,S,Shoes,2,Quantity.,"2 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,77,data,S,Scissars,2,Quantity.,3 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,78,data,S,"Surat Gram, a kind of Pulse",2,Quantity.,3 bags,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,79,data,S,Saddy,2,Quantity.,1 piece,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,80,data,S,Sindy Salt,2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,83,data,T,Tobacco,2,Quantity.,25½ maunds,25.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,84,data,T,Tamarinds,2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,85,data,T,Ditto,2,Quantity.,6 maunds,6.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,86,data,T,Tatton,2,Quantity.,3 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-069,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1799.",558,509,88,data,W,Wax Candles,2,Quantity.,1 box,,,False,False

@@ -1,58 +1,35 @@
 {{ define "main" }}
 {{ partial "header.html" . }}
 
-<main class="collection-page">
-    <div class="collection-hero">
-        <h1>{{ .Title }}</h1>
-        <p class="collection-description">{{ .Params.long_description | default .Params.description }}</p>
+<main class="catalog-shell">
+  <header class="catalog-header">
+    <div class="catalog-header-inner">
+      <span class="section-kicker">COLLECTION · {{ .Params.period | default "PUBLIC DOMAIN" }}</span>
+      <h1 class="catalog-title">{{ .Title }}</h1>
+      <p class="catalog-subtitle">{{ .Params.long_description | default .Params.description }}</p>
 
-        <div class="collection-stats">
-            <div class="collection-stat">
-                <div class="collection-stat-number">{{ .Params.book_count }}</div>
-                <div class="collection-stat-label">Books</div>
-            </div>
-            <div class="collection-stat">
-                <div class="collection-stat-number">{{ .Params.author_count }}</div>
-                <div class="collection-stat-label">Authors</div>
-            </div>
-            <div class="collection-stat">
-                <div class="collection-stat-number">{{ .Params.earliest_year }} - {{ .Params.latest_year }}</div>
-                <div class="collection-stat-label">Period</div>
-            </div>
-        </div>
+      <div class="catalog-stats-strip">
+        <span><strong>{{ .Params.book_count }}</strong> Volumes</span>
+        {{ with .Params.author_count }}<span><strong>{{ . }}</strong> Authors</span>{{ end }}
+        {{ with .Params.earliest_year }}<span><strong>{{ . }}–{{ $.Params.latest_year }}</strong> Publication Span</span>{{ end }}
+      </div>
     </div>
+  </header>
 
-    <div class="collection-content">
-        {{ with .Params.historical_context }}
-        <div class="collection-context">
-            <h2 class="section-title">Historical Context</h2>
-            <p class="context-text">{{ . }}</p>
-        </div>
+  <section class="catalog-results-wrap">
+    <div class="books-grid">
+      {{ $allBooks := where $.Site.Pages "Section" "books" }}
+      {{ $allBooks = where $allBooks "Kind" "section" }}
+      {{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
+      {{ $bookSlugs := .Params.books }}
+      {{ range sort $allBooks "Params.year" "asc" }}
+        {{ $bookDir := path.Base .File.Dir }}
+        {{ if in $bookSlugs $bookDir }}
+          {{ partial "book-card.html" . }}
         {{ end }}
-
-        <div class="collection-about">
-            <h2 class="section-title">About This Collection</h2>
-            <div class="content">
-                {{ .Content }}
-            </div>
-        </div>
-
-        <div class="collection-books">
-            <h2 class="section-title">Books in This Collection</h2>
-            <div class="books-grid">
-                {{ $allBooks := where $.Site.Pages "Section" "books" }}
-                {{ $allBooks = where $allBooks "Kind" "section" }}
-                {{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
-                {{ $bookSlugs := .Params.books }}
-                {{ range $allBooks }}
-                    {{ $bookDir := path.Base .File.Dir }}
-                    {{ if in $bookSlugs $bookDir }}
-                        {{ partial "book-card.html" . }}
-                    {{ end }}
-                {{ end }}
-            </div>
-        </div>
+      {{ end }}
     </div>
+  </section>
 </main>
 
 {{ partial "footer.html" . }}

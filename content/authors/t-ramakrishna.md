@@ -4,11 +4,12 @@ slug: "t-ramakrishna"
 full_name: "Thottakadu Ramakrishna Pillai"
 birth_year: 1854
 birth_place: "South India"
-languages: ["English", "Tamil"]
+languages:
+  - "English"
+  - "Tamil"
 short_bio: "Indian author and civil servant who wrote vivid accounts of South Indian village life and culture for Western audiences."
 works_count: 1
 first_publication: 1891
-
 timeline:
   - year: 1854
     title: "Birth"

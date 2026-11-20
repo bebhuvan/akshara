@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-045,Table 45,497,455,1,data,,"Ragy 55 Colagas, worth",2,Fanams.,22,22.0,,False,True
+journey-from-madras-vol-iii,tbl-045,Table 45,497,455,2,data,,Avaray 19 Colagas,2,Fanams.,10½,10.5,,False,True
+journey-from-madras-vol-iii,tbl-045,Table 45,497,455,3,data,,"Rice, Hainu crop, 85 Colagas",2,Fanams.,35,35.0,,False,True
+journey-from-madras-vol-iii,tbl-045,Table 45,497,455,4,data,,"Caru crop, 57½ Colagas",2,Fanams.,23,23.0,,False,True
+journey-from-madras-vol-iii,tbl-045,Table 45,497,455,5,total,,Fanams,2,Fanams.,90½,90.5,,False,True

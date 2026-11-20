@@ -1,0 +1,26 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,1,data,,Bengal,2,Revenue. :: Rs.,"3,77,65,067",37765067.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,1,data,,Bengal,3,Population.,"60,502,897",60502897.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,1,data,,Bengal,4,Revenue per head. :: Rs.,0,0.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,1,data,,Bengal,5,a.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,1,data,,Bengal,6,p.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,2,data,,Punjab,2,Revenue. :: Rs.,"2,00,15,260",20015260.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,2,data,,Punjab,3,Population.,"17,611,498",17611498.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,2,data,,Punjab,4,Revenue per head. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,2,data,,Punjab,5,a.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,2,data,,Punjab,6,p.,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,3,data,,N.-West Provinces,2,Revenue. :: Rs.,"4,24,57,444",42457444.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,3,data,,N.-West Provinces,3,Population.,"30,781,204",30781204.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,3,data,,N.-West Provinces,4,Revenue per head. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,3,data,,N.-West Provinces,5,a.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,3,data,,N.-West Provinces,6,p.,0¾,0.75,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,4,data,,Madras,2,Revenue. :: Rs.,"4,54,50,128",45450128.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,4,data,,Madras,3,Population.,"31,672,613",31672613.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,4,data,,Madras,4,Revenue per head. :: Rs.,1,1.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,4,data,,Madras,5,a.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,4,data,,Madras,6,p.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,5,data,,Bombay (including Sind),2,Revenue. :: Rs.,"3,69,43,563",36943563.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,5,data,,Bombay (including Sind),3,Population.,"16,302,173",16302173.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,5,data,,Bombay (including Sind),4,Revenue per head. :: Rs.,2,2.0,Rs,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,5,data,,Bombay (including Sind),5,a.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-110,Land Revenue of the Principal Provinces of India for 1875-6.,190,170,5,data,,Bombay (including Sind),6,p.,3,3.0,,False,False

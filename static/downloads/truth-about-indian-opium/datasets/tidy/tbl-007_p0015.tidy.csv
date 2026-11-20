@@ -1,0 +1,27 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,1,data,,Madras,2,1911–12.,28,28.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,1,data,,Madras,3,1921.,60,60.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,2,data,,Bombay,2,1911–12.,24 and 27,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,2,data,,Bombay,3,1921.,45,45.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,3,data,,Bengal,2,1911–12.,29 to 35,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,3,data,,Bengal,3,1921.,50,50.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,4,data,,Burma,2,1911–12.,35 to 72 1/2,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,4,data,,Burma,3,1921.,70 to 106 1/4,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,5,data,,Bihar and Orissa,2,1911–12.,17 to 35,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,5,data,,Bihar and Orissa,3,1921.,55,55.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,6,data,,United Provinces,2,1911–12.,18 to 20,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,6,data,,United Provinces,3,1921.,55,55.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,7,data,,Punjab,2,1911–12.,13 to 37,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,7,data,,Punjab,3,1921.,50,50.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,8,data,,North-West Frontier Province,2,1911–12.,18 to 26,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,8,data,,North-West Frontier Province,3,1921.,50,50.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,9,data,,Delhi,2,1911–12.,13 to 37,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,9,data,,Delhi,3,1921.,50,50.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,10,data,,Central Provinces,2,1911–12.,23 1/2,23.5,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,10,data,,Central Provinces,3,1921.,45,45.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,11,data,,Assam,2,1911–12.,37 and 40,,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,11,data,,Assam,3,1921.,50,50.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,12,data,,Coorg,2,1911–12.,30,30.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,12,data,,Coorg,3,1921.,50,50.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,13,data,,Baluchistan,2,1911–12.,16,16.0,,False,False
+truth-about-indian-opium,tbl-007,Issue Price Rs. per seer (2·2 lbs.).,15,11,13,data,,Baluchistan,3,1921.,35,35.0,,False,False

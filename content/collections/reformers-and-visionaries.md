@@ -1,15 +1,27 @@
 ---
-title: "Reformers & Visionaries"
+title: "Speeches, Letters & Reformers"
 type: "collections"
-book_count: 4
-description: "Pioneers who challenged orthodoxy and championed progressive social change in Indian society"
+book_count: 12
+author_count: 10
+earliest_year: 1832
+latest_year: 1921
+description: "Parliamentary evidence, speeches, correspondence, and reform movements that shaped modern Indian public life."
+period: "1800–1940"
 books:
-  - "speeches-writings-sarojini-naidu"
-  - "englands-debt-to-india"
-  - "while-sewing-sandals"
+  - "economics-in-india-inaugural-lecture-jevons-1915"
+  - "englands-debt-to-india-lajpat-rai-1917"
+  - "essays-speeches-addresses-writings-naoroji-1887"
+  - "guide-to-india-office-records-1919"
+  - "judicial-revenue-systems-india-rammohun-1832"
+  - "letters-from-malabar"
+  - "life-and-letters-of-toru-dutt"
   - "modern-religious-movements-india"
+  - "poverty-and-un-british-rule"
+  - "speeches-and-writings-naoroji-1918"
+  - "speeches-writings-sarojini-naidu"
+  - "while-sewing-sandals"
 ---
 
-India's march toward modernity was led by courageous reformers and writers who questioned age-old practices and advocated for social justice, women's rights, civic freedom, and educational reform. These visionaries faced fierce opposition from conservative forces yet persisted in their efforts to build a more equitable society.
+Parliamentary evidence, speeches, correspondence, and reform movements that shaped modern Indian public life.
 
-Through speeches, essays, social memoirs, and historical studies of reform movements, this collection preserves the voices that shaped modern Indian public life.
+This curated shelf brings together 12 public-domain editions across Akshara.

@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,1,data,,"To the Vaytuvan, for two months wages",2,Fanams.,300,300.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,2,data,,for two thirds of produce,2,Fanams.,1344,1344.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,3,data,,Land-tax,2,Fanams.,60,60.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,4,data,,"To the landlord, interest of 400 Fanams advanced by the landholder",2,Fanams.,30,30.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,5,data,,Paid annually,2,Fanams.,20,20.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,6,subtotal,,Row 6,2,Fanams.,50,50.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,7,data,,Profit to the landholder,2,Fanams.,262,262.0,,False,False
+journey-from-madras-vol-ii,tbl-046,Table 46,510,482,8,total,,Fanams,2,Fanams.,2016,2016.0,,False,False

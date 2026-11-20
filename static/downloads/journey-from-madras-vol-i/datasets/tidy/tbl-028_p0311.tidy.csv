@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-028,Table 28,311,267,1,data,,To the gods,2,Seers.,10,10.0,seers,False,False
+journey-from-madras-vol-i,tbl-028,Table 28,311,267,2,data,,"To the mendicant Bráhmans, &c",2,Seers.,20,20.0,seers,False,False
+journey-from-madras-vol-i,tbl-028,Table 28,311,267,3,data,,To the hereditary poor Bráhman of the village,2,Seers.,10,10.0,seers,False,False
+journey-from-madras-vol-i,tbl-028,Table 28,311,267,4,data,,To the astrologer,2,Seers.,10,10.0,seers,False,False
+journey-from-madras-vol-i,tbl-028,Table 28,311,267,5,data,,"To the accomptant, per plough",2,Seers.,20,20.0,seers,False,False
+journey-from-madras-vol-i,tbl-028,Table 28,311,267,6,data,,To the watchman,2,Seers.,10,10.0,seers,False,False

@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-032,Table 32,334,308,1,data,,Yudishtara era,2,Column 2,3044,3044.0,,False,True
+journey-from-madras-vol-iii,tbl-032,Table 32,334,308,2,data,,Vicrama,2,Column 2,135,135.0,,False,True
+journey-from-madras-vol-iii,tbl-032,Table 32,334,308,3,data,,Salivahana,2,Column 2,1722,1722.0,,False,True
+journey-from-madras-vol-iii,tbl-032,Table 32,334,308,4,total,,Row 4,2,Column 2,4901 years.,,,False,True

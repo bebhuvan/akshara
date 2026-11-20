@@ -18,7 +18,7 @@ export default {
         "default-src 'self'",
         "script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com",
         "style-src 'self' 'unsafe-inline'",
-        "img-src 'self' data:",
+        "img-src 'self' data: https://archive.org https://*.archive.org",
         "font-src 'self'",
         "connect-src 'self' https://cloudflareinsights.com",
         "frame-ancestors 'none'",
@@ -30,6 +30,7 @@ export default {
     // Handle static assets (fonts, images, CSS, JS)
     if (url.pathname.startsWith('/static/') ||
         url.pathname.startsWith('/covers/') ||
+        url.pathname.startsWith('/figures/') ||
         url.pathname.startsWith('/js/') ||
         url.pathname.startsWith('/fonts/') ||
         url.pathname.startsWith('/css/')) {

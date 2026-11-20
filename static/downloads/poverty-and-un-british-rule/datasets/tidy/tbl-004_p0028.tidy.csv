@@ -1,0 +1,36 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,1,data,,Delhi,2,Unirrigated Land. :: Acres.,"307,690",307690.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,1,data,,Delhi,3,Produce per acre. :: lbs.,600,600.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,1,data,,Delhi,4,Total Produce. :: lbs.,"184,614,000",184614000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,1,data,,Delhi,5,For Re. 1. :: lbs.,43,43.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,1,data,,Delhi,6,Total Value. :: Rs.,"42,93,348",4293348.0,Rs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,2,data,,Umballa,2,Unirrigated Land. :: Acres.,"856,701",856701.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,2,data,,Umballa,3,Produce per acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,2,data,,Umballa,4,Total Produce. :: lbs.,"514,020,600",514020600.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,2,data,,Umballa,5,For Re. 1. :: lbs.,43,43.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,2,data,,Umballa,6,Total Value. :: Rs.,"1,19,53,967",11953967.0,Rs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,3,data,,Lahore,2,Unirrigated Land. :: Acres.,"557,882",557882.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,3,data,,Lahore,3,Produce per acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,3,data,,Lahore,4,Total Produce. :: lbs.,"334,729,200",334729200.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,3,data,,Lahore,5,For Re. 1. :: lbs.,41,41.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,3,data,,Lahore,6,Total Value. :: Rs.,"81,64,126",8164126.0,Rs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,4,data,,Sealkote,2,Unirrigated Land. :: Acres.,"425,440",425440.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,4,data,,Sealkote,3,Produce per acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,4,data,,Sealkote,4,Total Produce. :: lbs.,"255,264,000",255264000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,4,data,,Sealkote,5,For Re. 1. :: lbs.,41,41.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,4,data,,Sealkote,6,Total Value. :: Rs.,"62,25,951",6225951.0,Rs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,5,data,,Mooltan,2,Unirrigated Land. :: Acres.,"118,684",118684.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,5,data,,Mooltan,3,Produce per acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,5,data,,Mooltan,4,Total Produce. :: lbs.,"71,210,400",71210400.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,5,data,,Mooltan,5,For Re. 1. :: lbs.,31½,31.5,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,5,data,,Mooltan,6,Total Value. :: Rs.,"22,60,647",2260647.0,Rs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,6,data,,Peshawur,2,Unirrigated Land. :: Acres.,"456,661",456661.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,6,data,,Peshawur,3,Produce per acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,6,data,,Peshawur,4,Total Produce. :: lbs.,"273,996,600",273996600.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,6,data,,Peshawur,5,For Re. 1. :: lbs.,41,41.0,lbs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,6,data,,Peshawur,6,Total Value. :: Rs.,"66,82,843",6682843.0,Rs,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,7,total,,Total,2,Unirrigated Land. :: Acres.,"2,723,058",2723058.0,acres,False,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,7,total,,Total,3,Produce per acre. :: lbs.,....,,acres,True,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,7,total,,Total,4,Total Produce. :: lbs.,....,,lbs,True,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,7,total,,Total,5,For Re. 1. :: lbs.,..,,lbs,True,True
+poverty-and-un-british-rule,tbl-004,Table 4,28,8,7,total,,Total,6,Total Value. :: Rs.,"3,95,80,882",39580882.0,Rs,False,True

@@ -1,0 +1,23 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+periplus-erythraean-sea,tbl-003,Table 3,77,67,1,data,,Za Baesi Bazen,2,Column 2,16 years,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,1,data,,Za Baesi Bazen,3,Column 3,0 months,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,2,data,,Za Senatu,2,Column 2,26 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,2,data,,Za Senatu,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,3,data,,Za Les,2,Column 2,10 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,3,data,,Za Les,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,4,data,,Za Masenh,2,Column 2,6 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,4,data,,Za Masenh,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,5,data,,Za Sutuwa,2,Column 2,9 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,5,data,,Za Sutuwa,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,6,data,,Za Adgaba,2,Column 2,10 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,6,data,,Za Adgaba,3,Column 3,6 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,7,data,,Za Agba,2,Column 2,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,7,data,,Za Agba,3,Column 3,6 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,8,data,,Za Malis,2,Column 2,6 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,8,data,,Za Malis,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,9,data,,Za Hakale,2,Column 2,13 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,9,data,,Za Hakale,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,10,data,,Za Demahé,2,Column 2,10 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,10,data,,Za Demahé,3,Column 3,0 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,11,data,,Za Awtet,2,Column 2,2 “,,,False,False
+periplus-erythraean-sea,tbl-003,Table 3,77,67,11,data,,Za Awtet,3,Column 3,0 “,,,False,False

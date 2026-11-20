@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,1,data,,Akbari,2,Approximate Weight in lbs. :: Avoirdupois.,55,55.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,1,data,,Akbari,3,Approximate Weight in lbs. :: Dutch.,50,50.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,1,data,,Akbari,4,Weight of Ser in Dams.,30,30.0,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,1,data,,Akbari,5,Current.,North India,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,1,data,,Akbari,6,Period.,Up to 1619.,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,2,data,,Jahangiri,2,Approximate Weight in lbs. :: Avoirdupois.,66,66.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,2,data,,Jahangiri,3,Approximate Weight in lbs. :: Dutch.,60,60.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,2,data,,Jahangiri,4,Weight of Ser in Dams.,36,36.0,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,2,data,,Jahangiri,5,Current.,"""",,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,2,data,,Jahangiri,6,Period.,"From 1620 to about 1634, but in Bengal up to 1642 or later.",,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,3,data,,Shahjahani (or double maund),2,Approximate Weight in lbs. :: Avoirdupois.,74,74.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,3,data,,Shahjahani (or double maund),3,Approximate Weight in lbs. :: Dutch.,⎧ 67 ⎫ ⎩ 68 ⎭,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,3,data,,Shahjahani (or double maund),4,Weight of Ser in Dams.,40,40.0,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,3,data,,Shahjahani (or double maund),5,Current.,"""",,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,3,data,,Shahjahani (or double maund),6,Period.,From about 1634.,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,4,data,,"Gujarat, old",2,Approximate Weight in lbs. :: Avoirdupois.,33,33.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,4,data,,"Gujarat, old",3,Approximate Weight in lbs. :: Dutch.,⎧ 30 ⎫ ⎩ 30½ ⎭,,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,4,data,,"Gujarat, old",4,Weight of Ser in Dams.,18,18.0,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,4,data,,"Gujarat, old",5,Current.,Gujarat,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,4,data,,"Gujarat, old",6,Period.,Until 1634–35.,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,5,data,,"Gujarat, new",2,Approximate Weight in lbs. :: Avoirdupois.,37,37.0,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,5,data,,"Gujarat, new",3,Approximate Weight in lbs. :: Dutch.,34½,34.5,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,5,data,,"Gujarat, new",4,Weight of Ser in Dams.,20,20.0,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,5,data,,"Gujarat, new",5,Current.,"""",,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,5,data,,"Gujarat, new",6,Period.,From 1635–36.,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,6,data,,Southern,2,Approximate Weight in lbs. :: Avoirdupois.,26(±1),,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,6,data,,Southern,3,Approximate Weight in lbs. :: Dutch.,24(±1),,lbs,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,6,data,,Southern,4,Weight of Ser in Dams.,..,,,True,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,6,data,,Southern,5,Current.,South India and East Coast,,,False,False
+from-akbar-to-aurangzeb,tbl-024,Table 24,358,336,6,data,,Southern,6,Period.,Throughout our period.,,,False,False

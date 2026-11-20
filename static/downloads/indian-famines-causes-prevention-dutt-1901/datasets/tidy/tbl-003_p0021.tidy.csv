@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,1,data,,Parliamentary Papers,2,Column 2,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,1,data,,Parliamentary Papers,3,Column 3,Reports,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,1,data,,Parliamentary Papers,4,Column 4,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,1,data,,Parliamentary Papers,5,Column 5,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,1,data,,Parliamentary Papers,6,Column 6,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,1,data,,Parliamentary Papers,7,Column 7,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,2,data,,Books (New and Old),2,Column 2,-,,,True,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,2,data,,Books (New and Old),3,Column 3,Blue Books,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,2,data,,Books (New and Old),4,Column 4,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,2,data,,Books (New and Old),5,Column 5,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,2,data,,Books (New and Old),6,Column 6,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,2,data,,Books (New and Old),7,Column 7,=,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,3,data,,Pamphlets,2,Column 2,= = =,,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,3,data,,Pamphlets,3,Column 3,"Official Publications, &c.",,,False,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,3,data,,Pamphlets,4,Column 4,,,,True,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,3,data,,Pamphlets,5,Column 5,,,,True,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,3,data,,Pamphlets,6,Column 6,,,,True,False
+indian-famines-causes-prevention-dutt-1901,tbl-003,Table 3,21,17,3,data,,Pamphlets,7,Column 7,=,,,False,False

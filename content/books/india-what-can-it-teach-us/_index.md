@@ -23,9 +23,13 @@ download_url: "https://drive.google.com/drive/folders/1L66_xMhesJGvqh0J02sqDCQ2t
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. Includes editor's notes by Alexander Wilder and the American publishers. Imported to Akshara Hugo site 2025-12-14."
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/india-what-can-it-teach-us.svg"
+archetype: "classical_and_philological"
+palette: "Ivory & Rubric"
 ---
 
 In this celebrated series of lectures, Friedrich Max Müller—one of the foremost Orientalists of the Victorian era—addresses young candidates for the Indian Civil Service at Cambridge University. Rather than treating India as merely a distant land to be administered, Müller passionately argues that Sanskrit scholarship opens the door to understanding our own intellectual ancestry.
@@ -38,5 +42,3 @@ The lectures cover:
 - **Lecture V**: The lessons of Vedic religion
 - **Lecture VI**: The nature of Vedic deities
 - **Lecture VII**: From Veda to Vedanta—the evolution of Indian philosophy
-
-

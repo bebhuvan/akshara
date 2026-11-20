@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,1,data,,1898–99,2,Number of Mills.,175,175.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,1,data,,1898–99,3,Looms.,"37,288",37288.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,1,data,,1898–99,4,Spindles.,"4,455,038",4455038.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,1,data,,1898–99,5,"Yarns, million lbs.",512,512.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,1,data,,1898–99,6,"Piece Goods, million yds.",101,101.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,2,data,,1899–1900,2,Number of Mills.,186,186.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,2,data,,1899–1900,3,Looms.,"38,520",38520.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,2,data,,1899–1900,4,Spindles.,"4,729,570",4729570.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,2,data,,1899–1900,5,"Yarns, million lbs.",513,513.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,2,data,,1899–1900,6,"Piece Goods, million yds.",98,98.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,3,data,,1900–1901,2,Number of Mills.,190,190.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,3,data,,1900–1901,3,Looms.,"40,542",40542.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,3,data,,1900–1901,4,Spindles.,"4,932,602",4932602.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,3,data,,1900–1901,5,"Yarns, million lbs.",353,353.0,lbs,False,False
+economic-history-india-victorian-age-dutt,tbl-055,Table 55,572,544,3,data,,1900–1901,6,"Piece Goods, million yds.",98,98.0,,False,False

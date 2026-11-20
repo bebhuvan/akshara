@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,1,data,,Indigo,2,Quantities.,"693 bales = about 113,000 lb. avoird.",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,1,data,,Indigo,3,Value in Guilders.,"46,833",46833.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,2,data,,Wax,2,Quantities.,"13,528 lb. Dutch = „ 14,750 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,2,data,,Wax,3,Value in Guilders.,"3,340",3340.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,3,data,,Cinnamon,2,Quantities.,"48 bales = „ 7,800 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,3,data,,Cinnamon,3,Value in Guilders.,900,900.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,4,data,,Borax,2,Quantities.,"8 „ = „ 4,200 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,4,data,,Borax,3,Value in Guilders.,"1,329",1329.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,5,data,,Yarn,2,Quantities.,"30 „ = „ 4,900 „ „",,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,5,data,,Yarn,3,Value in Guilders.,"1,548",1548.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,6,data,,Guinea cloth,2,Quantities.,"10,406 pieces = 246,000 yards",,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,6,data,,Guinea cloth,3,Value in Guilders.,"46,583",46583.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,7,data,,Bengal cloth,2,Quantities.,180 „ (not given),,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,7,data,,Bengal cloth,3,Value in Guilders.,"6,474",6474.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,8,data,,Gingham,2,Quantities.,294 „ „,294.0,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,8,data,,Gingham,3,Value in Guilders.,"1,750",1750.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,9,data,,Other cloth,2,Quantities.,170 „ „,170.0,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,9,data,,Other cloth,3,Value in Guilders.,355,355.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,10,data,,Carpets,2,Quantities.,50 „ „,50.0,lbs,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,10,data,,Carpets,3,Value in Guilders.,784,784.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,11,data,,Misc. goods,2,Quantities.,..,,,True,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,11,data,,Misc. goods,3,Value in Guilders.,596,596.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,12,subtotal,,Row 12,2,Quantities.,,,,True,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,12,subtotal,,Row 12,3,Value in Guilders.,"110,492",110492.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,13,data,,Row 13,2,Quantities.,"Ballast, packing and loading, and customs",,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,13,data,,Row 13,3,Value in Guilders.,"11,192",11192.0,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,14,total,,Row 14,2,Quantities.,Correct value of cargo,,,False,True
+from-akbar-to-aurangzeb,tbl-019,Table 19,340,318,14,total,,Row 14,3,Value in Guilders.,"121,684",121684.0,,False,True

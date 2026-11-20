@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-027,Table 27,310,266,1,data,,"To the Toti and Talliari, or watchmen, between them, ½ Seer ; which, on a heap of 20 Candacas, is",2,Column 2,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-027,Table 27,310,266,2,data,,"To the accomptant, 2½ Seers",2,Column 2,45,45.0,,False,False
+journey-from-madras-vol-i,tbl-027,Table 27,310,266,3,data,,"To the chief of the village, 2½ Seers",2,Column 2,45,45.0,,False,False
+journey-from-madras-vol-i,tbl-027,Table 27,310,266,4,data,,"The Nirgunty, or conductor of water, then takes the bottom of the heap, which is about an inch thick; but this is mixed with the cow-dung that, by way of purifying it, had been spread on the ground ; in a heap of 20 Candacas, this will be",2,Column 2,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-027,Table 27,310,266,5,total,,Row 5,2,Column 2,169,169.0,,False,False

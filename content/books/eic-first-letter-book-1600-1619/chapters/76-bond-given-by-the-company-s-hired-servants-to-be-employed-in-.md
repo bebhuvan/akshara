@@ -1,0 +1,22 @@
+---
+title: "Bond given by the Company's \" hired servants to be employed in any place \" [1607 or 1607/8]"
+chapter_number: "76"
+section_kind: "chapter"
+weight: 76
+start_page: 314
+end_page: 314
+printed_start_folio: "222"
+reading_time: 2
+footnotes_count: 1
+tables_count: 0
+book_id: "eic-first-letter-book-1600-1619"
+archive_id: "registerofletter00eastuoft"
+edition_tier: "community"
+edition_generation: "v6"
+proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
+proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/eic-first-letter-book-1600-1619/314"
+prev: "/books/eic-first-letter-book-1600-1619/chapters/75-bond-given-by-the-pursers-for-the-fourth-voyage-1607-or-1607-/"
+next: "/books/eic-first-letter-book-1600-1619/chapters/77-bond-given-by-the-preacher-for-the-fourth-voyage-1607-8/"
+---
+
+<div class="page-rail-marker" id="page-314"><button type="button" class="folio-trigger" data-page="314" data-folio="222" data-scan="https://archive.org/download/registerofletter00eastuoft/page/n313_w1400.jpg" aria-label="Inspect scan for page 222">[p. 222]</button></div><div class="prose-unit"><p class="prose-p">Accompt of the same or any other his ymploym<sup>t</sup> to the Gou<sup>r</sup>no<sup>r</sup> of the said m<sup>r</sup>chauntę or his Deputie, or to such as shall be authorized thereunto by the said Companie: And doe not in this or any other voyadge or voyadgę of the said Company vse any private trade or traffique in m<sup>r</sup>chandize for his owne propper Accompt or Adventure, or Colo<sup>r</sup> the private trade of any other. That then &amp;c:</p></div><div class="prose-unit"><div class="sidenote-stack"><aside class="shoulder-sidenote">The Condicon of hired servantes to be imployed in any place bound in 200<sup>li</sup> wth suerties.</aside></div><p class="prose-p">THE Condicõn of this obliga​cõn is such. That wheareas the aboue bound Samuell Broadshawe<sup class="fn-ref"><a id="ref-sec-76-fn-001" href="#sec-76-fn-001" data-fn-target="sec-76-fn-001" role="doc-noteref">1</a></sup> is now hired by the aboue named Gou<sup>r</sup>no<sup>r</sup> &amp; Company of m<sup>r</sup>chauntę of London trading into the East Indies &amp; hath agreed to serue the said Company &amp; their successo<sup>rs</sup> as their Couenante servant in all &amp; eu<sup>r</sup>y such busines and affaires whatsoeu<sup>r</sup> w<sup>ch</sup> they or any by them authorized shall thinke fitt to ymploy him in, aswell at in vnto and from the East Indies as at or in any other place or places whatsoeu<sup>r</sup> during the space of yeares next ensueing the date aboue written, or during soe many and such tyme of the said yeares as the said Gou<sup>r</sup>no<sup>r</sup> &amp; Company or their successo<sup>rs</sup>, or such as shalbe by them authorized shall thinke meete &amp; for such wages &amp; Consideracõn as alreadie is agreed vpon betweene the said Gou<sup>r</sup>no<sup>r</sup> &amp; Company &amp; him the</p></div><section class="apparatus-zone" aria-label="Footnotes"><h2 class="apparatus-heading">Critical Apparatus &amp; Notes</h2><ol class="apparatus-list"><li id="sec-76-fn-001" class="apparatus-item" role="doc-endnote"><a class="fn-backlink" href="#ref-sec-76-fn-001" aria-label="Return to text">1.</a> <span class="fn-body">Samuel Bradshaw or Broadshawe was engaged by the Company on 15th Dec., 1607, for service “at home or abroad, as they see fit, at 16<em>l</em>. per annum.” On the 29th of the following month, he was told off to attend Mr. Rowles, the lieutenant-general of the voyage. Later on (26th Feb.) he is referred to as a factor. We learn from <em>Purchas</em> that, on the murder in Madagascar of Rowles and his companions, Bradshaw took the command of the vessel for the rest of the voyage. It will be remembered that on the way home the ship was lost off the coast of Brittany; and as Bradshaw is not mentioned among the survivors, it may be presumed that he went down with the ship. There is an entry in the <em>Cal. S. P., East Indies</em>, 1513-1616, of a letter from Samuel Bradshaw at Tecco, under date 10th Feb., 1613; but from an examination of the document to which it relates (<em>O. C.</em> 104), it seems clear that the date given is that on which the <em>copy</em> (for it is only a copy) was made, and that the original must have been the letter from Bradshaw of 11th March 1609/10, to which reference is made in Moris's letter from Bantam of 14th Sept., 1610, printed in <em>Purchas</em>, Lib. III., c. 9, § 3.</span></li></ol></section>

@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,1,subtotal,,Total exports of all India and Frontier States,2,Column 2,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,1,subtotal,,Total exports of all India and Frontier States,3,Column 3,"£83,200,000",83200000.0,GBP,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,2,data,,Native States,2,Column 2,"£16,600,000",16600000.0,GBP,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,2,data,,Native States,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,3,data,,Frontier Territory,2,Column 2,"1,300,000",1300000.0,,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,3,data,,Frontier Territory,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,4,data,,European planters,2,Column 2,"10,000,000",10000000.0,,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,4,data,,European planters,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,5,data,,Home charges,2,Column 2,"11,500,000",11500000.0,,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,5,data,,Home charges,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,6,data,,Interest on all railways and public works loans,2,Column 2,"6,000,000",6000000.0,,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,6,data,,Interest on all railways and public works loans,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,7,data,,Private remittances,2,Column 2,"10,000,000",10000000.0,,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,7,data,,Private remittances,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,8,subtotal,,Row 8,2,Column 2,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,8,subtotal,,Row 8,3,Column 3,"55,400,000",55400000.0,,False,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,9,total,,The true trade exports of the people of British India,2,Column 2,,,,True,False
+poverty-and-un-british-rule,tbl-121,Table 121,273,253,9,total,,The true trade exports of the people of British India,3,Column 3,"£27,800,000",27800000.0,GBP,False,False

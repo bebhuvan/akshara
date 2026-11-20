@@ -3,6 +3,9 @@ title: "Sir William Wilson Hunter"
 birth_year: 1840
 death_year: 1900
 short_bio: "Scottish historian,statistician, and compiler of the Imperial Gazetteer of India. Hunter dedicated his career to documenting Indian history and geography, producing comprehensive surveys that remain valuable historical sources."
+works_count: 1
+slug: "william-wilson-hunter"
+first_publication: 1903
 ---
 
 Sir William Wilson Hunter (1840-1900) was a distinguished Scottish historian, statistician, and civil servant who devoted much of his life to studying and documenting India. Born in Glasgow, he joined the Indian Civil Service in 1862 and quickly established himself as a scholar of exceptional ability.

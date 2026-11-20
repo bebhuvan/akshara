@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,1,data,,"Charges in respect of Collections, Refunds, Drawbacks, Assignments and Compensation",2,Column 2,"£9,274,597",9274597.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,2,data,,Interest on ordinary Debts and ordinary obligations,2,Column 2,"1,515,653",1515653.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,3,data,,Post Office,2,Column 2,"2,092,019",2092019.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,4,data,,Telegraph,2,Column 2,"1,180,965",1180965.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,5,data,,Mint,2,Column 2,"132,630",132630.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,6,data,,Salaries and Expenses if Civil Departments,2,Column 2,"17,934,199",17934199.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,7,data,,Miscellaneous Civil Charges,2,Column 2,"5,403,804",5403804.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,8,data,,Famine Relief and Insurance,2,Column 2,"1,000,000",1000000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,9,data,,Railway Revenue Account including interest on debt,2,Column 2,"12,836,101",12836101.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,10,data,,Irrigation,2,Column 2,"3,531,867",3531867.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,11,data,,Other Public Works,2,Column 2,"7,010,038",7010038.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,12,data,,Military Services,2,Column 2,"21,265,765",21265765.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,13,subtotal,,Total Expenditures,2,Column 2,"£83,177,688",83177688.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,14,data,,Deducting two minor sums about provincial allotments not spent the total expenditure chargeable to Revenue remains,2,Column 2,"£82,894,752",82894752.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,15,data,,"Expenditure not charged to Revenue for Railways, Irrigation works and the construction of new Delhi",2,Column 2,"12,212,596",12212596.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-059,Expenditure,355,315,16,total,,Total Charges,2,Column 2,"£95,107,348",95107348.0,GBP,False,False

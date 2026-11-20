@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-016,British Salt sent to India in Tons.,173,145,1,data,,"25,754",2,1848.,"15,507",15507.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-016,British Salt sent to India in Tons.,173,145,1,data,,"25,754",3,1849.,"27,640",27640.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-016,British Salt sent to India in Tons.,173,145,1,data,,"25,754",4,1850.,"36,341",36341.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-016,British Salt sent to India in Tons.,173,145,1,data,,"25,754",5,1851.,"61,711",61711.0,,False,False

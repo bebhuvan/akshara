@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,1,data,,5000,2,Monthly Salary. :: First Class.,"30,000",30000.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,1,data,,5000,3,Monthly Salary. :: Second Class.,"29,000",29000.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,1,data,,5000,4,Monthly Salary. :: Third Class.,"28,000",28000.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,1,data,,5000,5,Cost of Appropriate Force.,"10,600",10600.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,2,data,,3000,2,Monthly Salary. :: First Class.,"17,000",17000.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,2,data,,3000,3,Monthly Salary. :: Second Class.,"16,800",16800.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,2,data,,3000,4,Monthly Salary. :: Third Class.,"16,700",16700.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,2,data,,3000,5,Cost of Appropriate Force.,"6,700",6700.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,3,data,,1000,2,Monthly Salary. :: First Class.,"8,200",8200.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,3,data,,1000,3,Monthly Salary. :: Second Class.,"8,100",8100.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,3,data,,1000,4,Monthly Salary. :: Third Class.,"8,000",8000.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,3,data,,1000,5,Cost of Appropriate Force.,"3,000",3000.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,4,data,,500,2,Monthly Salary. :: First Class.,"2,500",2500.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,4,data,,500,3,Monthly Salary. :: Second Class.,"2,300",2300.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,4,data,,500,4,Monthly Salary. :: Third Class.,"2,100",2100.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,4,data,,500,5,Cost of Appropriate Force.,"1,170",1170.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,5,data,,50,2,Monthly Salary. :: First Class.,250,250.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,5,data,,50,3,Monthly Salary. :: Second Class.,240,240.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,5,data,,50,4,Monthly Salary. :: Third Class.,230,230.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,5,data,,50,5,Cost of Appropriate Force.,185,185.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,6,data,,10,2,Monthly Salary. :: First Class.,100,100.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,6,data,,10,3,Monthly Salary. :: Second Class.,82½,82.5,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,6,data,,10,4,Monthly Salary. :: Third Class.,75,75.0,,False,False
+india-at-the-death-of-akbar,tbl-001,Table 1,82,66,6,data,,10,5,Cost of Appropriate Force.,44,44.0,,False,False

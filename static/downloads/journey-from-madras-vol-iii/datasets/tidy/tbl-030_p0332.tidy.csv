@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-030,Table 30,332,306,1,data,,1 Ikeri Pagoda purchases 192 Manas Ragy. 1 bushel costs,2,Pence.,12 83/100,,GBP,False,False
+journey-from-madras-vol-iii,tbl-030,Table 30,332,306,2,data,,120 ditto Harulu,2,Pence.,20 54/100,,GBP,False,False
+journey-from-madras-vol-iii,tbl-030,Table 30,332,306,3,data,,120 ditto Tovary,2,Pence.,20 54/100,,GBP,False,False
+journey-from-madras-vol-iii,tbl-030,Table 30,332,306,4,data,,160 ditto Jola,2,Pence.,15 4/10,15.4,GBP,False,False

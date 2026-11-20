@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,1,data,,1625,2,Bales exported annually from :: Coromandel.,1700,1700.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,1,data,,1625,3,Bales exported annually from :: Gujarat.,800,800.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,1,data,,1625,4,Total. :: Bengal.,...,,,True,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,1,data,,1625,5,Total.,2500,2500.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,2,data,,1641–44,2,Bales exported annually from :: Coromandel.,2500,2500.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,2,data,,1641–44,3,Bales exported annually from :: Gujarat.,1000,1000.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,2,data,,1641–44,4,Total. :: Bengal.,Samples only,,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,2,data,,1641–44,5,Total.,3500,3500.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,3,data,,1657–61,2,Bales exported annually from :: Coromandel.,4000,4000.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,3,data,,1657–61,3,Bales exported annually from :: Gujarat.,1200,1200.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,3,data,,1657–61,4,Total. :: Bengal.,500,500.0,,False,False
+from-akbar-to-aurangzeb,tbl-002,Table 2,94,72,3,data,,1657–61,5,Total.,5700,5700.0,,False,False

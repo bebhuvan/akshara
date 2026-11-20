@@ -5,37 +5,28 @@ full_name: "Harihar Das"
 birth_year: 1890
 death_year: 1958
 birth_place: "Sidhipasa, Bengal"
-languages: ["English", "Bengali"]
-
-# Bio
+languages:
+  - "English"
+  - "Bengali"
 short_bio: "Indian biographer and scholar best known for his definitive biography of the poet Toru Dutt, published by Oxford University Press in 1921."
-
-# Works
 works_count: 1
 first_publication: 1921
-
-# Timeline
 timeline:
   - year: 1890
     title: "Birth in Sidhipasa"
     description: "Born in Sidhipasa village, Bengal"
-
   - year: 1911
     title: "Began Researching Toru Dutt"
     description: "Started collecting materials for a biography of Toru Dutt in December 1911"
-
   - year: 1913
     title: "Meeting with Miss Martin"
     description: "Met Miss Mary Martin in India, who had been Toru Dutt's close friend and provided access to Toru's letters"
-
   - year: 1920
     title: "Completed Manuscript"
     description: "Finished the biography manuscript in London, January 1920"
-
   - year: 1921
     title: "Life and Letters of Toru Dutt Published"
     description: "Published by Oxford University Press with a foreword by H.A.L. Fisher, becoming the definitive biography of the poet"
-
   - year: 1958
     title: "Passing"
     description: "Died, leaving behind an important contribution to Indian literary biography"

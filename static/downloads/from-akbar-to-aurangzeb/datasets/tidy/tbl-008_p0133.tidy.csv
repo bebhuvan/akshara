@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,1,data,,c. 1609,2,Biana. :: s. d.,8 0,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,1,data,,c. 1609,3,Sarkhej. :: s. d.,5 0,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,1,data,,c. 1609,4,Sind. :: s. d.,Not on the market.,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,1,data,,c. 1609,5,Coromandel. :: s. d.,,,,True,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,2,data,,1620–30,2,Biana. :: s. d.,5 6 to 6 0,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,2,data,,1620–30,3,Sarkhej. :: s. d.,4 0 to 4 6,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,2,data,,1620–30,4,Sind. :: s. d.,„,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,2,data,,1620–30,5,Coromandel. :: s. d.,„,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,3,data,,c. 1646,2,Biana. :: s. d.,4 0,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,3,data,,c. 1646,3,Sarkhej. :: s. d.,3 4,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,3,data,,c. 1646,4,Sind. :: s. d.,3 4,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,3,data,,c. 1646,5,Coromandel. :: s. d.,1 3,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,4,data,,c. 1655,2,Biana. :: s. d.,6 0,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,4,data,,c. 1655,3,Sarkhej. :: s. d.,4 0,,,False,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,4,data,,c. 1655,4,Sind. :: s. d.,..,,,True,False
+from-akbar-to-aurangzeb,tbl-008,Price of Indigo (per Pound) in the London Market,133,111,4,data,,c. 1655,5,Coromandel. :: s. d.,1 5½,,,False,False

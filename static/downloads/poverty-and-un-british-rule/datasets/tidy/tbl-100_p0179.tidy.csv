@@ -1,0 +1,100 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,1,data,,1 Delhi,2,Acres.,"10,260",10260.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,1,data,,1 Delhi,3,Per Acre. :: lbs.,293,293.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"3,006,180",3006180.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,2,data,,2 Gurgaon,2,Acres.,"11,506",11506.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,237,237.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"2,726,922",2726922.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,3,data,,3 Karnál,2,Acres.,"13,018",13018.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,3,data,,3 Karnál,3,Per Acre. :: lbs.,500,500.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,3,data,,3 Karnál,4,Total Quantity. :: lbs.,"6,509,000",6509000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,4,data,,4 Hissar,2,Acres.,"21,582",21582.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,4,data,,4 Hissar,3,Per Acre. :: lbs.,242,242.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,4,data,,4 Hissar,4,Total Quantity. :: lbs.,"5,222,844",5222844.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,5,data,,5 Rohtak,2,Acres.,"12,304",12304.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,5,data,,5 Rohtak,3,Per Acre. :: lbs.,297,297.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,"3,654,288",3654288.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,6,data,,6 Sirsa,2,Acres.,"79,160",79160.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,6,data,,6 Sirsa,3,Per Acre. :: lbs.,80,80.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,6,data,,6 Sirsa,4,Total Quantity. :: lbs.,"6,332,800",6332800.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,7,data,,7 Umballa,2,Acres.,"27,229",27229.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,7,data,,7 Umballa,3,Per Acre. :: lbs.,560,560.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,7,data,,7 Umballa,4,Total Quantity. :: lbs.,"15,248,240",15248240.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,8,data,,8 Ludhiána,2,Acres.,"11,172",11172.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,8,data,,8 Ludhiána,3,Per Acre. :: lbs.,668,668.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,8,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"7,462,896",7462896.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,9,data,,9 Simla,2,Acres.,...,,acres,True,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,9,data,,9 Simla,3,Per Acre. :: lbs.,...,,acres,True,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,9,data,,9 Simla,4,Total Quantity. :: lbs.,...,,lbs,True,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,10,data,,10 Jullundar,2,Acres.,"11,392",11392.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,10,data,,10 Jullundar,3,Per Acre. :: lbs.,715,715.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,10,data,,10 Jullundar,4,Total Quantity. :: lbs.,"8,145,280",8145280.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,11,data,,11 Hoshiarpur,2,Acres.,"25,911",25911.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,11,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,310,310.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,11,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"8,032,410",8032410.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,12,data,,12 Kángra,2,Acres.,"18,442",18442.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,12,data,,12 Kángra,3,Per Acre. :: lbs.,352,352.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,12,data,,12 Kángra,4,Total Quantity. :: lbs.,"6,491,584",6491584.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,13,data,,13 Amritsar,2,Acres.,"35,996",35996.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,13,data,,13 Amritsar,3,Per Acre. :: lbs.,582,582.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,13,data,,13 Amritsar,4,Total Quantity. :: lbs.,"20,949,672",20949672.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,14,data,,14 Gurdáspur,2,Acres.,"24,923",24923.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,14,data,,14 Gurdáspur,3,Per Acre. :: lbs.,408,408.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,14,data,,14 Gurdáspur,4,Total Quantity. :: lbs.,"10,168,584",10168584.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,15,data,,15 Siálkot,2,Acres.,"23,806",23806.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,15,data,,15 Siálkot,3,Per Acre. :: lbs.,777,777.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,15,data,,15 Siálkot,4,Total Quantity. :: lbs.,"18,497,262",18497262.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,16,data,,16 Lahore,2,Acres.,"81,894",81894.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,16,data,,16 Lahore,3,Per Acre. :: lbs.,260,260.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,16,data,,16 Lahore,4,Total Quantity. :: lbs.,"21,292,440",21292440.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,17,data,,17 Gujránwála,2,Acres.,"17,952",17952.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,17,data,,17 Gujránwála,3,Per Acre. :: lbs.,307,307.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,17,data,,17 Gujránwála,4,Total Quantity. :: lbs.,"5,511,264",5511264.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,18,data,,18 Firozepore,2,Acres.,"70,315",70315.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,18,data,,18 Firozepore,3,Per Acre. :: lbs.,601,601.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,18,data,,18 Firozepore,4,Total Quantity. :: lbs.,"42,259,315",42259315.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,19,data,,19 Ráwalpindi,2,Acres.,"69,294",69294.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,19,data,,19 Ráwalpindi,3,Per Acre. :: lbs.,311,311.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,19,data,,19 Ráwalpindi,4,Total Quantity. :: lbs.,"21,550,434",21550434.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,20,data,,20 Jhelum,2,Acres.,"60,169",60169.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,20,data,,20 Jhelum,3,Per Acre. :: lbs.,481,481.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,20,data,,20 Jhelum,4,Total Quantity. :: lbs.,"28,941,289",28941289.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,21,data,,21 Gujrát,2,Acres.,"50,375",50375.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,21,data,,21 Gujrát,3,Per Acre. :: lbs.,291,291.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,21,data,,21 Gujrát,4,Total Quantity. :: lbs.,"14,659,125",14659125.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,22,data,,22 Shahpur,2,Acres.,"4,712",4712.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,22,data,,22 Shahpur,3,Per Acre. :: lbs.,750,750.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,22,data,,22 Shahpur,4,Total Quantity. :: lbs.,"3,534,000",3534000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,23,data,,23 Mooltan,2,Acres.,"9,541",9541.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,23,data,,23 Mooltan,3,Per Acre. :: lbs.,462,462.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,23,data,,23 Mooltan,4,Total Quantity. :: lbs.,"4,407,942",4407942.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,24,data,,24 Jhang,2,Acres.,"3,473",3473.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,24,data,,24 Jhang,3,Per Acre. :: lbs.,252,252.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,24,data,,24 Jhang,4,Total Quantity. :: lbs.,"875,196",875196.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,25,data,,25 Montgomery,2,Acres.,"29,076",29076.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,25,data,,25 Montgomery,3,Per Acre. :: lbs.,477,477.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,25,data,,25 Montgomery,4,Total Quantity. :: lbs.,"13,869,252",13869252.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,26,data,,26 Mazaffargarh,2,Acres.,"24,453",24453.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,26,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,288,288.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,26,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"7,042,464",7042464.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,27,data,,27 D. I. Khan,2,Acres.,"17,660",17660.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,27,data,,27 D. I. Khan,3,Per Acre. :: lbs.,464,464.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,27,data,,27 D. I. Khan,4,Total Quantity. :: lbs.,"8,194,240",8194240.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,28,data,,28 D. G. Khan,2,Acres.,"20,473",20473.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,28,data,,28 D. G. Khan,3,Per Acre. :: lbs.,492,492.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,28,data,,28 D. G. Khan,4,Total Quantity. :: lbs.,"10,072,716",10072716.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,29,data,,29 Bannu,2,Acres.,"4,004",4004.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,29,data,,29 Bannu,3,Per Acre. :: lbs.,136,136.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,29,data,,29 Bannu,4,Total Quantity. :: lbs.,"544,544",544544.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,30,data,,30 Pesháwar,2,Acres.,"30,244",30244.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,30,data,,30 Pesháwar,3,Per Acre. :: lbs.,460,460.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,30,data,,30 Pesháwar,4,Total Quantity. :: lbs.,"13,912,240",13912240.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,31,data,,31 Hazára,2,Acres.,"21,005",21005.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,31,data,,31 Hazára,3,Per Acre. :: lbs.,533,533.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,31,data,,31 Hazára,4,Total Quantity. :: lbs.,"11,195,665",11195665.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,32,data,,32 Kohát,2,Acres.,"5,348",5348.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,32,data,,32 Kohát,3,Per Acre. :: lbs.,251,251.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,32,data,,32 Kohát,4,Total Quantity. :: lbs.,"1,342,348",1342348.0,lbs,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,33,total,,Total,2,Acres.,"846,689",846689.0,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,33,total,,Total,3,Per Acre. :: lbs.,Average 392,,acres,False,True
+poverty-and-un-british-rule,tbl-100,Oil Seeds.,179,159,33,total,,Total,4,Total Quantity. :: lbs.,"331,652,436",331652436.0,lbs,False,True

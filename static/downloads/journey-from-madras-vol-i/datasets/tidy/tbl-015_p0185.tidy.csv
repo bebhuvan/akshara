@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,1,data,,Quartz,2,lb.,14,14.0,lbs,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,1,data,,Quartz,3,oz.,9,9.0,oz,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,1,data,,Quartz,4,dr.,,,,True,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,2,data,,Soda,2,lb.,29,29.0,lbs,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,2,data,,Soda,3,oz.,6,6.0,oz,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,2,data,,Soda,4,dr.,,,,True,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,3,data,,Broken glass,2,lb.,22,22.0,lbs,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,3,data,,Broken glass,3,oz.,1,1.0,oz,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,3,data,,Broken glass,4,dr.,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,4,total,,Row 4,2,lb.,lb. 66,,lbs,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,4,total,,Row 4,3,oz.,4,4.0,oz,False,False
+journey-from-madras-vol-i,tbl-015,Table 15,185,149,4,total,,Row 4,4,dr.,4,4.0,,False,False

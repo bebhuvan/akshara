@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-026,Table 26,309,265,1,data,,"For the gods; that is, for the priests at their temples",2,Seers.,5,5.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,309,265,2,data,,"For charity; that is, for the Bráhmans, Jangamas, and other mendicants",2,Seers.,5,5.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,309,265,3,carry_forward,,Carried over,2,Seers.,10,10.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,4,subtotal,,Brought over,2,Seers.,10,10.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,5,data,,"For the astrologer, or Panchánga; who, if no mendicant be present, takes also the 5 Seers",2,Seers.,1,1.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,6,data,,"For the poor Bráhman of the village, whose office is hereditary",2,Seers.,1,1.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,7,data,,"For the Nainda, or barber",2,Seers.,2,2.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,8,data,,"For the Cumbhara, or potmaker",2,Seers.,2,2.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,9,data,,"For the Vasaradava, who is both a carpenter and blacksmith",2,Seers.,2,2.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,10,data,,"For the Asaga, or washerman",2,Seers.,2,2.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,11,data,,"For the Alitigara, or measurer",2,Seers.,4,4.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,12,data,,"For the Tarugara, or Aduca, a kind of beadle",2,Seers.,7,7.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,13,data,,"For the Gauda, or chief of the village; who out of this is obliged to furnish the village sacrifices",2,Seers.,8,8.0,seers,False,False
+journey-from-madras-vol-i,tbl-026,Table 26,310,265,14,data,,"For the Shanaboga, or accomptant",2,Seers.,10,10.0,seers,False,False

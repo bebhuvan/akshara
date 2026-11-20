@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,1,data,,"Burdwan,",2,Government Revenue. :: Rupees.,"79, 74, 891",7974891.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,1,data,,"Burdwan,",3,Gross Rental. :: Rupees.,"1, 85, 40, 026",18540026.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,2,data,,"Presidency,",2,Government Revenue. :: Rupees.,"51, 16, 523",5116523.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,2,data,,"Presidency,",3,Gross Rental. :: Rupees.,"1, 42, 35, 364",14235364.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,3,data,,"Rajthahye,",2,Government Revenue. :: Rupees.,"48, 65, 840",4865840.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,3,data,,"Rajthahye,",3,Gross Rental. :: Rupees.,"1, 59, 30, 574",15930574.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,4,data,,"Dacca,",2,Government Revenue. :: Rupees.,"39, 71, 399",3971399.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,4,data,,"Dacca,",3,Gross Rental. :: Rupees.,"1, 91, 25, 288",19125288.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,5,data,,"Chittagong,",2,Government Revenue. :: Rupees.,"12, 43, 749",1243749.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,5,data,,"Chittagong,",3,Gross Rental. :: Rupees.,"59, 58, 881",5958881.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,6,data,,"Patna,",2,Government Revenue. :: Rupees.,"80, 26, 164",8026164.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,6,data,,"Patna,",3,Gross Rental. :: Rupees.,"3, 73, 48, 552",37348552.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,7,data,,"Bhagulpore,",2,Government Revenue. :: Rupees.,"31, 60, 941",3160941.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,7,data,,"Bhagulpore,",3,Gross Rental. :: Rupees.,"1, 15, 05, 324",11505324.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,8,data,,"Orissa,",2,Government Revenue. :: Rupees.,"17, 36, 845",1736845.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,8,data,,"Orissa,",3,Gross Rental. :: Rupees.,"40, 19, 130",4019130.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,9,data,,"Chota Nagpur,",2,Government Revenue. :: Rupees.,"3, 01, 102",301102.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,9,data,,"Chota Nagpur,",3,Gross Rental. :: Rupees.,"37, 15, 796",3715796.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,10,total,,"Total,",2,Government Revenue. :: Rupees.,"3, 63, 97, 454",36397454.0,Rs,False,True
+famines-and-land-assessments,tbl-009,Mr Toynbee on the proportion of Land Revenue to Rent in Bengal,128,104,10,total,,"Total,",3,Gross Rental. :: Rupees.,"13, 03, 78, 935",130378935.0,Rs,False,True

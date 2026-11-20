@@ -5,53 +5,41 @@ full_name: "Lala Lajpat Rai"
 birth_year: 1865
 death_year: 1928
 birth_place: "Dhudike, Punjab, British India"
-languages: ["English", "Hindi", "Urdu", "Persian"]
-
-# Bio
+languages:
+  - "English"
+  - "Hindi"
+  - "Urdu"
+  - "Persian"
 short_bio: "Indian freedom fighter, politician, and author popularly known as Punjab Kesari (Lion of Punjab). A prominent member of the Lal Bal Pal trio, he was an outspoken advocate of militant anti-British nationalism and prolific writer on Indian economic and political conditions."
-
-# Works
-works_count: 10
+works_count: 1
 first_publication: 1907
-
-# External links
 wikipedia_url: "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai"
 wikisource_url: "https://en.wikisource.org/wiki/Author:Lala_Lajpat_Rai"
-
-# Timeline
 timeline:
   - year: 1865
     title: "Birth in Punjab"
     description: "Born on 28 January in Dhudike, Faridkot district (now Moga), Punjab, to Munshi Radha Krishna"
-
   - year: 1880
     title: "Studies at Lahore"
     description: "Joined Government College at Lahore to study Law"
-
   - year: 1886
     title: "Joined Indian National Congress"
     description: "Began political career, becoming increasingly involved in the freedom movement"
-
   - year: 1907
     title: "Deported to Mandalay"
     description: "Imprisoned without trial in Mandalay (Burma) for involvement in the freedom movement"
-
   - year: 1914
     title: "Went to United States"
     description: "Traveled to the US during World War I, writing and advocating for Indian independence"
-
   - year: 1917
     title: "Published England's Debt to India"
     description: "Published his influential economic critique of British rule in India from New York"
-
   - year: 1920
     title: "Led Non-Cooperation Movement"
     description: "Returned to India and led the special session of the Indian National Congress launching non-cooperation"
-
   - year: 1921
     title: "Founded Servants of the People Society"
     description: "Established the non-profit Lok Sevak Mandal in Lahore"
-
   - year: 1928
     title: "Martyrdom"
     description: "Died on 17 November from injuries sustained during a lathi charge at the Simon Commission protest"

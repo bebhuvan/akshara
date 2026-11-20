@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,1,subtotal,,Total revenues,2,1897-98. :: £,"64,257,207",64257207.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,1,subtotal,,Total revenues,3,1898-99. :: £,"67,595,815",67595815.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,1,subtotal,,Total revenues,4,1899-1900. :: £,"68,637,164",68637164.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,1,subtotal,,Total revenues,5,1900-01. :: £,"75,272,291",75272291.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,1,subtotal,,Total revenues,6,1901-02. :: £,"76,344,525",76344525.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,2,subtotal,,Total expenditure,2,1897-98. :: £,"67,830,014",67830014.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,2,subtotal,,Total expenditure,3,1898-99. :: £,"64,954,942",64954942.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,2,subtotal,,Total expenditure,4,1899-1900. :: £,"65,862,541",65862541.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,2,subtotal,,Total expenditure,5,1900-01. :: £,"73,602,087",73602087.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-069,Table 69,623,595,2,subtotal,,Total expenditure,6,1901-02. :: £,"71,394,282",71394282.0,GBP,False,False

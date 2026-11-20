@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-063,Value of the Rupee.,609,581,1,data,,1879–80,2,d.,20.,20.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-063,Value of the Rupee.,609,581,2,data,,1880–81,2,d.,20.,20.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-063,Value of the Rupee.,609,581,3,data,,1881–82,2,d.,19 7⁄8.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-063,Value of the Rupee.,609,581,4,data,,1882–83,2,d.,19½.,19.5,,False,False
+economic-history-india-victorian-age-dutt,tbl-063,Value of the Rupee.,609,581,5,data,,1883–84,2,d.,19½.,19.5,,False,False
+economic-history-india-victorian-age-dutt,tbl-063,Value of the Rupee.,609,581,6,data,,1884–85,2,d.,19 5⁄16.,,,False,False

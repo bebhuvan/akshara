@@ -5,7 +5,9 @@ full_name: "Jacob Canter Visscher"
 birth_year: 1692
 death_year: 1735
 birth_place: "Netherlands"
-languages: ["Dutch", "Portuguese"]
+languages:
+  - "Dutch"
+  - "Portuguese"
 short_bio: "Dutch Reformed Church chaplain who served at Cochin in the early 18th century."
 works_count: 1
 first_publication: 1743

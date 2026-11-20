@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,1,data,,Betle-Nut,2,Quantity in 974.,27 candies 6 tulam,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,1,data,,Betle-Nut,3,Quantity in 975.,None,0.0,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,2,data,,"Cloth, Mannapar",2,Quantity in 974.,"15¾ corges, or scores of pieces",,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,2,data,,"Cloth, Mannapar",3,Quantity in 975.,127½ corges,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,3,data,,"Ditto, Kolichy",2,Quantity in 974.,3 Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,3,data,,"Ditto, Kolichy",3,Quantity in 975.,None,0.0,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,4,data,,Cotton,2,Quantity in 974.,5 candies,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,4,data,,Cotton,3,Quantity in 975.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,5,data,,"Dates, Dry",2,Quantity in 974.,5 Ditto 4 tulam,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,5,data,,"Dates, Dry",3,Quantity in 975.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,6,data,,Resin,2,Quantity in 974.,8 tulam,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,6,data,,Resin,3,Quantity in 975.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,7,data,,Rice,2,Quantity in 974.,None,0.0,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,7,data,,Rice,3,Quantity in 975.,750 morahs (robins),,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,8,data,,"Sugar, Moist",2,Quantity in 974.,10 tulam,,,False,False
+journey-from-madras-vol-iii,tbl-060,"TOTAL QUANTITY of ARTICLES IMPORTED by SEA in PARUPA-NADA, for the Years 974 and 975.",543,495,8,data,,"Sugar, Moist",3,Quantity in 975.,None,0.0,,False,False

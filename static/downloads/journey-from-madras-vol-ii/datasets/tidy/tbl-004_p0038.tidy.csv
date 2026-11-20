@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-004,Table 4,38,22,1,data,,"900 pieces of bad steel, at 6 Fanams",2,Column 2,150,150.0,,False,True
+journey-from-madras-vol-ii,tbl-004,Table 4,38,22,2,subtotal,,Row 2,2,Column 2,1950,1950.0,,False,True
+journey-from-madras-vol-ii,tbl-004,Table 4,38,22,3,data,,Deduct general charges,2,Column 2,Fanams 247,,,False,True
+journey-from-madras-vol-ii,tbl-004,Table 4,38,22,4,data,,Price of iron,2,Column 2,450,450.0,,False,True
+journey-from-madras-vol-ii,tbl-004,Table 4,38,22,5,subtotal,,Row 5,2,Column 2,697,697.0,,False,True
+journey-from-madras-vol-ii,tbl-004,Table 4,38,22,6,total,,Neat gain,2,Column 2,1253,1253.0,,False,True

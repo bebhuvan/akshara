@@ -71,6 +71,7 @@ buildDrafts = false
   description = "Making India's forgotten books readable—extracting and cleaning up text from rare PDFs, one book at a time."
   author = "Akshara Archive"
   featured_book = "india-at-the-death-of-akbar"  # Featured on homepage
+  proofing_url = "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 
 # Caches for faster builds
 [caches]

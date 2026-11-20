@@ -1,0 +1,41 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,2,Ahmadabad Mint. :: Lucknow.,153,153.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,3,Surat Mint. :: Lahore.,51,51.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,4,Calcutta.,53,53.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,5,Total.,257,257.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,6,Lucknow.,0,0.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,7,Lahore.,1,1.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,8,Calcutta.,0,0.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,1,data,,Akbar,9,Total.,1,1.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,2,Ahmadabad Mint. :: Lucknow.,79,79.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,3,Surat Mint. :: Lahore.,27,27.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,4,Calcutta.,32,32.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,5,Total.,138,138.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,6,Lucknow.,14,14.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,7,Lahore.,4,4.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,8,Calcutta.,5,5.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,2,data,,Jahangir,9,Total.,23,23.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,2,Ahmadabad Mint. :: Lucknow.,34,34.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,3,Surat Mint. :: Lahore.,9,9.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,4,Calcutta.,12,12.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,5,Total.,55,55.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,6,Lucknow.,88,88.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,7,Lahore.,22,22.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,8,Calcutta.,31,31.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,3,data,,Shahjahan,9,Total.,141,141.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,2,Ahmadabad Mint. :: Lucknow.,21,21.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,3,Surat Mint. :: Lahore.,5,5.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,4,Calcutta.,11,11.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,5,Total.,37,37.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,6,Lucknow.,131,131.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,7,Lahore.,55,55.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,8,Calcutta.,91,91.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,4,data,,Aurangzeb,9,Total.,277,277.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,2,Ahmadabad Mint. :: Lucknow.,287,287.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,3,Surat Mint. :: Lahore.,92,92.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,4,Calcutta.,108,108.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,5,Total.,487,487.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,6,Lucknow.,233,233.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,7,Lahore.,82,82.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,8,Calcutta.,127,127.0,,False,True
+from-akbar-to-aurangzeb,tbl-016,Numbers of Specimens of Silver Coins in Indian Museums,199,177,5,total,,Total,9,Total.,442,442.0,,False,True

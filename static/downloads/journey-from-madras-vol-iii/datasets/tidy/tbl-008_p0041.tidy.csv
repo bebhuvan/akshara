@@ -1,0 +1,1289 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,2,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,3,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,4,European Months. :: A. D. 1800.,March.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,5,Tulava Months. :: Era of Sal. 1723,Sughi - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,6,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,7,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,1,data,,Sughi,8,European Months. :: A. D. 1800.,March.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,2,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,3,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,6,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,7,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,2,data,,Row 2,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,2,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,3,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,6,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,7,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,3,data,,Row 3,8,European Months. :: A. D. 1800.,April.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,2,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,3,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,6,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,7,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,4,data,,Row 4,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,3,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,7,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,5,data,,Row 5,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,3,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,7,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,6,data,,Row 6,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,3,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,7,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,7,data,,Row 7,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,3,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,7,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,8,data,,Row 8,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,3,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,9,data,,Row 9,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,3,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,10,data,,Row 10,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,3,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,11,data,,Row 11,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,3,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,12,data,,Row 12,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,13,data,,Row 13,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,6,Tulava Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,14,data,,Row 14,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,5,Tulava Months. :: Era of Sal. 1723,Puggu - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,15,data,,Row 15,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,16,data,,Row 16,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,41,27,17,data,,Row 17,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,2,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,3,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,4,European Months. :: A. D. 1800.,April.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,5,Tulava Months. :: Era of Sal. 1723,Baysha - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,6,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,7,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,18,data,,Puggu,8,European Months. :: A. D. 1800.,June.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,3,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,7,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,19,data,,Row 19,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,3,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,7,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,20,data,,Row 20,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,3,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,7,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,21,data,,Row 21,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,3,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,22,data,,Row 22,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,3,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,23,data,,Row 23,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,3,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,24,data,,Row 24,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,3,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,25,data,,Row 25,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,3,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,26,data,,Row 26,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,27,data,,Row 27,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,6,Tulava Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,28,data,,Row 28,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,6,Tulava Months.,32,32.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,29,data,,Row 29,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,5,Tulava Months. :: Era of Sal. 1723,Catialu - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,30,data,,Row 30,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,7,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,31,data,,Row 31,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,7,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,32,data,,Row 32,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,4,European Months. :: A. D. 1800.,May.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,6,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,7,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,33,data,,Row 33,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,6,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,7,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,34,data,,Row 34,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,2,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,3,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,6,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,35,data,,Row 35,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,2,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,3,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,6,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,7,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,36,data,,Row 36,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,2,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,3,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,6,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,7,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,37,data,,Row 37,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,2,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,3,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,6,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,7,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,38,data,,Row 38,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,2,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,3,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,6,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,7,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,39,data,,Row 39,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,2,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,3,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,6,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,7,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,40,data,,Row 40,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,2,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,3,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,6,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,7,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,41,data,,Row 41,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,2,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,3,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,6,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,7,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,42,data,,Row 42,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,2,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,3,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,6,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,7,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,43,data,,Row 43,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,2,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,3,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,6,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,7,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,44,data,,Row 44,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,2,Tulava Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,3,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,6,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,7,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,45,data,,Row 45,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,2,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,3,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,6,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,7,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,46,data,,Baysha,8,European Months. :: A. D. 1800.,July.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,2,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,3,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,6,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,7,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,47,data,,Row 47,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,2,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,3,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,6,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,7,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,48,data,,Row 48,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,2,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,3,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,6,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,7,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,49,data,,Row 49,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,3,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,6,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,7,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,50,data,,Row 50,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,3,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,7,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,51,data,,Row 51,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,3,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,52,data,,Row 52,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,3,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,53,data,,Row 53,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,3,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,54,data,,Row 54,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,3,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,55,data,,Row 55,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,3,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,56,data,,Row 56,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,57,data,,Row 57,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,58,data,,Row 58,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,59,data,,Row 59,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,6,Tulava Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,60,data,,Row 60,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,6,Tulava Months.,32,32.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,7,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,61,data,,Row 61,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,5,Tulava Months. :: Era of Sal. 1723,Ati - - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,7,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,62,data,,Row 62,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,3,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,7,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,63,data,,Row 63,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,4,European Months. :: A. D. 1800.,June.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,7,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,64,data,,Row 64,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,6,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,42,27,65,data,,Row 65,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,3,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,4,European Months. :: A. D. 1800.,July.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,5,Tulava Months. :: Era of Sal. 1723,Sonay,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,66,data,,Ati,8,European Months. :: A. D. 1800.,September.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,3,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,67,data,,Row 67,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,3,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,68,data,,Row 68,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,3,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,69,data,,Row 69,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,70,data,,Row 70,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,71,data,,Row 71,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,72,data,,Row 72,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,73,data,,Row 73,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,74,data,,Row 74,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,5,Tulava Months. :: Era of Sal. 1723,Cannay,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,7,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,75,data,,Row 75,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,3,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,7,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,76,data,,Row 76,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,4,European Months. :: A. D. 1800.,August.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,7,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,77,data,,Row 77,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,6,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,7,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,78,data,,Row 78,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,3,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,6,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,79,data,,Row 79,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,3,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,6,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,7,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,80,data,,Row 80,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,3,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,6,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,7,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,81,data,,Row 81,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,2,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,3,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,6,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,7,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,82,data,,Row 82,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,2,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,3,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,6,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,7,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,83,data,,Row 83,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,2,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,3,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,6,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,7,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,84,data,,Row 84,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,2,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,3,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,6,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,7,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,85,data,,Row 85,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,2,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,3,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,6,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,7,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,86,data,,Row 86,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,2,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,3,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,6,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,7,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,87,data,,Row 87,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,2,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,3,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,6,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,7,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,88,data,,Row 88,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,2,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,3,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,6,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,7,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,89,data,,Row 89,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,2,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,3,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,6,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,7,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,90,data,,Row 90,8,European Months. :: A. D. 1800.,October.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,2,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,3,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,6,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,7,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,91,data,,Row 91,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,2,Tulava Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,3,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,6,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,7,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,92,data,,Row 92,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,2,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,3,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,6,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,7,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,93,data,,Sonay,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,2,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,3,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,6,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,7,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,94,data,,Row 94,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,2,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,3,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,6,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,7,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,95,data,,Row 95,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,2,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,3,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,96,data,,Row 96,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,3,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,97,data,,Row 97,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,3,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,98,data,,Row 98,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,3,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,99,data,,Row 99,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,3,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,100,data,,Row 100,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,101,data,,Row 101,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,102,data,,Row 102,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,103,data,,Row 103,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,104,data,,Row 104,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,5,Tulava Months. :: Era of Sal. 1723,Buntäelu,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,7,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,105,data,,Row 105,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,7,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,106,data,,Row 106,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,3,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,7,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,107,data,,Row 107,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,4,European Months. :: A. D. 1800.,September.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,6,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,7,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,108,data,,Row 108,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,6,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,109,data,,Row 109,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,3,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,6,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,7,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,110,data,,Row 110,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,3,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,6,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,7,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,111,data,,Row 111,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,3,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,6,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,7,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,112,data,,Row 112,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,2,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,3,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,6,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,7,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,43,27,113,data,,Row 113,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,4,European Months. :: A. D. 1800.,October.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,5,Tulava Months. :: Era of Sal. 1723,Jarday - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,114,data,,Buntäela,8,European Months. :: A. D. 1800.,December.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,115,data,,Row 115,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,5,Tulava Months. :: Era of Sal. 1723,Perarday -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,116,data,,Row 116,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,117,data,,Row 117,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,7,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,118,data,,Row 118,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,6,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,7,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,119,data,,Row 119,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,3,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,6,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,7,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,120,data,,Row 120,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,4,European Months. :: A. D. 1800.,November.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,6,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,7,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,121,data,,Row 121,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,6,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,122,data,,Row 122,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,3,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,6,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,7,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,123,data,,Row 123,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,3,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,6,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,7,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,124,data,,Row 124,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,2,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,3,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,6,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,7,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,125,data,,Row 125,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,2,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,3,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,6,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,7,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,126,data,,Row 126,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,2,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,3,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,6,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,7,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,127,data,,Row 127,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,2,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,3,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,6,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,7,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,128,data,,Row 128,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,2,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,3,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,6,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,7,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,129,data,,Row 129,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,2,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,3,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,6,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,7,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,130,data,,Row 130,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,2,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,3,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,6,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,7,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,131,data,,Row 131,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,2,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,3,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,6,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,7,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,132,data,,Row 132,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,2,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,3,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,6,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,7,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,133,data,,Row 133,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,2,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,3,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,6,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,7,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,134,data,,Jarday,8,European Months. :: A. D. 1800.,January 1801.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,2,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,3,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,6,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,7,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,135,data,,Row 135,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,2,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,3,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,6,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,7,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,136,data,,Row 136,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,2,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,3,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,7,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,137,data,,Row 137,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,3,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,7,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,138,data,,Row 138,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,3,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,7,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,139,data,,Row 139,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,3,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,140,data,,Row 140,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,3,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,141,data,,Row 141,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,3,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,142,data,,Row 142,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,2,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,3,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,143,data,,Row 143,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,2,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,3,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,144,data,,Row 144,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,2,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,3,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,5,Tulava Months. :: Era of Sal. 1723,Pointalu -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,6,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,145,data,,Row 145,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,2,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,3,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,6,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,7,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,146,data,,Row 146,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,2,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,3,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,6,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,7,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,147,data,,Row 147,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,2,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,3,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,6,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,7,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,148,data,,Row 148,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,2,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,6,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,7,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,149,data,,Row 149,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,2,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,6,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,7,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,150,data,,Row 150,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,4,European Months. :: A. D. 1800.,December.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,6,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,7,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,151,data,,Row 151,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,6,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,7,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,152,data,,Row 152,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,3,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,6,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,153,data,,Row 153,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,2,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,3,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,6,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,7,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,154,data,,Row 154,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,2,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,3,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,6,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,7,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,155,data,,Row 155,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,2,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,3,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,6,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,7,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,156,data,,Row 156,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,2,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,3,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,6,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,7,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,157,data,,Row 157,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,2,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,3,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,6,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,7,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,158,data,,Row 158,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,2,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,3,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,6,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,7,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,159,data,,Row 159,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,2,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,3,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,6,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,7,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,160,data,,Row 160,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,2,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,3,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,6,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,7,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,44,27,161,data,,Row 161,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,2,Tulava Months.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,3,European Months.,A. D. 1801.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,5,Tulava Months. :: Era of Sal. 1723,Era of Sál. 1723,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,6,Tulava Months.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,7,European Months.,A. D. 1801.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,162,header,,Era of Sál. 1723,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,2,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,3,European Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,4,European Months. :: A. D. 1800.,January.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,5,Tulava Months. :: Era of Sal. 1723,Mahi - -,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,6,Tulava Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,7,European Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,163,data,,Pointalu,8,European Months. :: A. D. 1800.,February.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,2,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,3,European Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,6,Tulava Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,7,European Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,164,data,,Row 164,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,2,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,3,European Months.,31,31.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,6,Tulava Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,7,European Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,165,data,,Row 165,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,2,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,3,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,4,European Months. :: A. D. 1800.,February.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,6,Tulava Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,7,European Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,166,data,,Row 166,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,2,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,3,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,6,Tulava Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,7,European Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,167,data,,Row 167,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,2,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,3,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,6,Tulava Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,7,European Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,168,data,,Row 168,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,2,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,3,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,6,Tulava Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,7,European Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,169,data,,Row 169,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,2,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,3,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,6,Tulava Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,7,European Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,170,data,,Row 170,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,2,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,3,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,6,Tulava Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,7,European Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,171,data,,Row 171,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,2,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,3,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,6,Tulava Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,7,European Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,172,data,,Row 172,8,European Months. :: A. D. 1800.,March.,,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,2,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,3,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,6,Tulava Months.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,7,European Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,173,data,,Row 173,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,2,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,3,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,6,Tulava Months.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,7,European Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,174,data,,Row 174,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,2,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,3,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,6,Tulava Months.,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,7,European Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,175,data,,Row 175,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,2,Tulava Months.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,3,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,6,Tulava Months.,23,23.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,7,European Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,176,data,,Mahi,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,2,Tulava Months.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,3,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,6,Tulava Months.,24,24.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,7,European Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,177,data,,Row 177,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,2,Tulava Months.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,3,European Months.,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,6,Tulava Months.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,7,European Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,178,data,,Row 178,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,2,Tulava Months.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,3,European Months.,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,6,Tulava Months.,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,7,European Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,179,data,,Row 179,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,2,Tulava Months.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,3,European Months.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,6,Tulava Months.,27,27.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,7,European Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,180,data,,Row 180,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,2,Tulava Months.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,3,European Months.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,6,Tulava Months.,28,28.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,7,European Months.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,181,data,,Row 181,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,2,Tulava Months.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,3,European Months.,17,17.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,6,Tulava Months.,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,7,European Months.,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,182,data,,Row 182,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,2,Tulava Months.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,3,European Months.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,6,Tulava Months.,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,7,European Months.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,183,data,,Row 183,8,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,2,Tulava Months.,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,3,European Months.,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,4,European Months. :: A. D. 1800.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,5,Tulava Months. :: Era of Sal. 1723,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,6,Tulava Months.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,7,European Months.,,,,True,False
+journey-from-madras-vol-iii,tbl-008,Table 8,45,27,184,data,,Row 184,8,European Months. :: A. D. 1800.,,,,True,False

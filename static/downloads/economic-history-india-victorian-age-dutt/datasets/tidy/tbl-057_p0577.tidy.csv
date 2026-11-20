@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,1,data,,State railways made by the State,2,Tens of Rupees.,"133,546,074",133546074.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,2,data,,State railways made by Companies,2,Tens of Rupees.,"28,113,763",28113763.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,3,data,,Guaranteed Companies,2,Tens of Rupees.,"49,205,868",49205868.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,4,data,,Assisted Companies,2,Tens of Rupees.,"5,607,036",5607036.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,5,data,,Native States Railways,2,Tens of Rupees.,"8,600,251",8600251.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,6,data,,Portuguese and French Lines,2,Tens of Rupees.,"1,689,068",1689068.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,7,data,,"Railway surveys, collieries, &c",2,Tens of Rupees.,"907,705",907705.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-057,Expenditure up to December 1891.,577,549,8,total,,Total,2,Tens of Rupees.,"227,669,765",227669765.0,Rs,False,True

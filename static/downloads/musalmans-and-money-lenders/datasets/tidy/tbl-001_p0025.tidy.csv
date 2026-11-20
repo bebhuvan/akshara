@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,1,data,,Eastern,2,Area in square miles.,"25,622",25622.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,1,data,,Eastern,3,POPULATION. :: Musalmans,"1,141,145",1141145.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,1,data,,Eastern,4,Hindus.,"3,769,786",3769786.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,1,data,,Eastern,5,Sikhs.,"110,120",110120.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,1,data,,Eastern,6,Total.,"5,021,051",5021051.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,2,data,,Central,2,Area in square miles.,"19,218",19218.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,2,data,,Central,3,POPULATION. :: Musalmans,"3,699,736",3699736.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,2,data,,Central,4,Hindus.,"2,574,174",2574174.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,2,data,,Central,5,Sikhs.,"936,740",936740.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,2,data,,Central,6,Total.,"7,210,650",7210650.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,3,data,,Western { Northern table-land and Salt Range. South-western plain,2,Area in square miles.,"17,152 44,640",,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,3,data,,Western { Northern table-land and Salt Range. South-western plain,3,POPULATION. :: Musalmans,"2,329,386 3,352,535",,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,3,data,,Western { Northern table-land and Salt Range. South-western plain,4,Hindus.,"216,103 567,426",,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,3,data,,Western { Northern table-land and Salt Range. South-western plain,5,Sikhs.,"35,692 37,708",,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,3,data,,Western { Northern table-land and Salt Range. South-western plain,6,Total.,"2,581,181 3,957,669",,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,4,total,,Total,2,Area in square miles.,"106,632",106632.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,4,total,,Total,3,POPULATION. :: Musalmans,"10,522,802",10522802.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,4,total,,Total,4,Hindus.,"7,127,489",7127489.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,4,total,,Total,5,Sikhs.,"1,120,260",1120260.0,,False,True
+musalmans-and-money-lenders,tbl-001,Table 1,25,13,4,total,,Total,6,Total.,"18,770,551",18770551.0,,False,True

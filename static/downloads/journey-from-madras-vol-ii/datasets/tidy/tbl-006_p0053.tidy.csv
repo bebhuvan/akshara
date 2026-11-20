@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,1,data,,To the renter of mines and woods,2,Fanams.,130,130.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,2,data,,To ground-rent for the forge,2,Fanams.,50,50.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,3,data,,For bellows,2,Fanams.,180,180.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,4,data,,"For an annual sacrifice to Gudada Umma, the mother of the hill",2,Fanams.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,5,data,,"For two sacrifices to Hombalu Déváru, the god of furnaces",2,Fanams.,30,30.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,6,data,,"To a feast given by the labourers at Gauri, in honour of the anvil, 150 coco-nuts, and one Rupee's worth of legumes",2,Fanams.,20,20.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,7,data,,A new cloth to the blacksmith at Sivarátrí,2,Fanams.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-006,Table 6,53,37,8,total,,Fanams,2,Fanams.,430,430.0,,False,False

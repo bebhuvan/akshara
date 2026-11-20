@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-003,Table 3,11,7,1,data,,1916–17,2,Acres.,"14,695",14695.0,acres,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,1,data,,1916–17,3,Production in Excise Chests of 123 3/7 lbs.,"2,223",2223.0,chests,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,2,data,,1917–18,2,Acres.,"26,479",26479.0,acres,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,2,data,,1917–18,3,Production in Excise Chests of 123 3/7 lbs.,"2,315",2315.0,chests,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,3,data,,1918–19,2,Acres.,"10,350",10350.0,acres,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,3,data,,1918–19,3,Production in Excise Chests of 123 3/7 lbs.,"1,200",1200.0,chests,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,4,data,,1919–20,2,Acres.,"30,813",30813.0,acres,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,4,data,,1919–20,3,Production in Excise Chests of 123 3/7 lbs.,"1,803",1803.0,chests,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,5,data,,1920–21,2,Acres.,"84,000 (about)",,acres,False,False
+truth-about-indian-opium,tbl-003,Table 3,11,7,5,data,,1920–21,3,Production in Excise Chests of 123 3/7 lbs.,"2,835",2835.0,chests,False,False

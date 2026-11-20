@@ -1,0 +1,157 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,1,data,,Administration,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,1,data,,Administration,3,£,"1,487,852",1487852.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,1,data,,Administration,4,Rough Proportion of Loss by Exchange. :: £,"47,000",47000.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,1,data,,Administration,5,Expenditure Proper. :: £,"1,534,852",1534852.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,2,data,,"Political Agencies, &c",2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,2,data,,"Political Agencies, &c",3,£,"448,793",448793.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,2,data,,"Political Agencies, &c",4,Rough Proportion of Loss by Exchange. :: £,"2,700",2700.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,2,data,,"Political Agencies, &c",5,Expenditure Proper. :: £,"451,493",451493.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,3,data,,"Allowancies under Treaties, less for Salt per contra",2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,3,data,,"Allowancies under Treaties, less for Salt per contra",3,£,"1,626,484",1626484.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,3,data,,"Allowancies under Treaties, less for Salt per contra",4,Rough Proportion of Loss by Exchange. :: £,"7,300",7300.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,3,data,,"Allowancies under Treaties, less for Salt per contra",5,Expenditure Proper. :: £,"1,633,784",1633784.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,4,data,,Law and Justice,2,Column 2,"£2,596,178",2596178.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,4,data,,Law and Justice,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,4,data,,Law and Justice,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,4,data,,Law and Justice,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,5,data,,Less Court Fee Stamps,2,Column 2,"2,150,909",2150909.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,5,data,,Less Court Fee Stamps,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,5,data,,Less Court Fee Stamps,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,5,data,,Less Court Fee Stamps,5,Expenditure Proper. :: £,"445,269",445269.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,6,data,,Minor Departments,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,6,data,,Minor Departments,3,£,"270,370",270370.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,6,data,,Minor Departments,4,Rough Proportion of Loss by Exchange. :: £,500,500.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,6,data,,Minor Departments,5,Expenditure Proper. :: £,"270,870",270870.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,7,data,,Police,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,7,data,,Police,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,7,data,,Police,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,7,data,,Police,5,Expenditure Proper. :: £,"2,208,011",2208011.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,8,data,,Marine,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,8,data,,Marine,3,£,"298,108",298108.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,8,data,,Marine,4,Rough Proportion of Loss by Exchange. :: £,"30,300",30300.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,8,data,,Marine,5,Expenditure Proper. :: £,"328,408",328408.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,9,data,,Education,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,9,data,,Education,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,9,data,,Education,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,9,data,,Education,5,Expenditure Proper. :: £,"830,829",830829.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,10,data,,Ecclesiastical,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,10,data,,Ecclesiastical,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,10,data,,Ecclesiastical,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,10,data,,Ecclesiastical,5,Expenditure Proper. :: £,"155,200",155200.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,11,data,,Medical,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,11,data,,Medical,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,11,data,,Medical,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,11,data,,Medical,5,Expenditure Proper. :: £,"624,727",624727.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,12,data,,Stationery,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,12,data,,Stationery,3,£,"424,374",424374.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,12,data,,Stationery,4,Rough Proportion of Loss by Exchange. :: £,"40,400",40400.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,12,data,,Stationery,5,Expenditure Proper. :: £,"464,774",464774.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,13,data,,Post Office,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,13,data,,Post Office,3,£,"121,521",121521.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,13,data,,Post Office,4,Rough Proportion of Loss by Exchange. :: £,"19,600",19600.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,13,data,,Post Office,5,Expenditure Proper. :: £,"141,121",141121.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,14,data,,Telegraphs,2,Column 2,"£99,227",99227.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,14,data,,Telegraphs,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,14,data,,Telegraphs,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,14,data,,Telegraphs,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,15,data,,Less Construction Charges,2,Column 2,"50,248",50248.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,15,data,,Less Construction Charges,3,£,"48,979",48979.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,15,data,,Less Construction Charges,4,Rough Proportion of Loss by Exchange. :: £,"12,800",12800.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,15,data,,Less Construction Charges,5,Expenditure Proper. :: £,"61,779",61779.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,16,data,,"Civil Furloughs, &c., &c",2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,16,data,,"Civil Furloughs, &c., &c",3,£,"231,561",231561.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,16,data,,"Civil Furloughs, &c., &c",4,Rough Proportion of Loss by Exchange. :: £,"48,800",48800.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,16,data,,"Civil Furloughs, &c., &c",5,Expenditure Proper. :: £,"280,361",280361.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,17,data,,"Superannuations, &c., &c",2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,17,data,,"Superannuations, &c., &c",3,£,"1,329,842",1329842.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,17,data,,"Superannuations, &c., &c",4,Rough Proportion of Loss by Exchange. :: £,"261,000",261000.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,17,data,,"Superannuations, &c., &c",5,Expenditure Proper. :: £,"1,590,842",1590842.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,18,data,,Interest on Debt,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,18,data,,Interest on Debt,3,£,"4,325,654",4325654.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,18,data,,Interest on Debt,4,Rough Proportion of Loss by Exchange. :: £,"554,500",554500.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,18,data,,Interest on Debt,5,Expenditure Proper. :: £,"4,880,154",4880154.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,20,data,Army—,Effective,2,Column 2,"£12,838,425",12838425.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,20,data,Army—,Effective,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,20,data,Army—,Effective,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,20,data,Army—,Effective,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,21,data,Army—,Less by Native States,2,Column 2,"340,000",340000.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,21,data,Army—,Less by Native States,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,21,data,Army—,Less by Native States,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,21,data,Army—,Less by Native States,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,22,data,Army—,Row 22,2,Column 2,"12,498,425",12498425.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,22,data,Army—,Row 22,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,22,data,Army—,Row 22,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,22,data,Army—,Row 22,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,23,data,Army—,By Public Works Depart,2,Column 2,"1,090,528",1090528.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,23,data,Army—,By Public Works Depart,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,23,data,Army—,By Public Works Depart,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,23,data,Army—,By Public Works Depart,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,24,data,Army—,Row 24,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,24,data,Army—,Row 24,3,£,"13,588,953",13588953.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,24,data,Army—,Row 24,4,Rough Proportion of Loss by Exchange. :: £,"418,600",418600.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,24,data,Army—,Row 24,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,25,data,Army—,Non-effective,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,25,data,Army—,Non-effective,3,£,"2,603,063",2603063.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,25,data,Army—,Non-effective,4,Rough Proportion of Loss by Exchange. :: £,"410,000",410000.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,25,data,Army—,Non-effective,5,Expenditure Proper. :: £,"17,712,335",17712335.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,26,data,Army—,Afghanistan,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,26,data,Army—,Afghanistan,3,£,"676,219",676219.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,26,data,Army—,Afghanistan,4,Rough Proportion of Loss by Exchange. :: £,"15,500",15500.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,26,data,Army—,Afghanistan,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,27,data,Army—,Loss by Exchange—Sundry heads not apportioned here,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,27,data,Army—,Loss by Exchange—Sundry heads not apportioned here,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,27,data,Army—,Loss by Exchange—Sundry heads not apportioned here,4,Rough Proportion of Loss by Exchange. :: £,"43,559",43559.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,27,data,Army—,Loss by Exchange—Sundry heads not apportioned here,5,Expenditure Proper. :: £,"43,559",43559.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,28,data,Army—,Ordinary Public Works,2,Column 2,"£4,425,495",4425495.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,28,data,Army—,Ordinary Public Works,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,28,data,Army—,Ordinary Public Works,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,28,data,Army—,Ordinary Public Works,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,29,data,Army—,For State Telegraphs,2,Column 2,"50,248",50248.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,29,data,Army—,For State Telegraphs,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,29,data,Army—,For State Telegraphs,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,29,data,Army—,For State Telegraphs,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,30,data,Army—,Row 30,2,Column 2,"4,475,743",4475743.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,30,data,Army—,Row 30,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,30,data,Army—,Row 30,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,30,data,Army—,Row 30,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,31,data,Army—,Less for Army,2,Column 2,"1,090,528",1090528.0,,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,31,data,Army—,Less for Army,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,31,data,Army—,Less for Army,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,31,data,Army—,Less for Army,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,32,data,Army—,Row 32,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,32,data,Army—,Row 32,3,£,"3,385,215",3385215.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,32,data,Army—,Row 32,4,Rough Proportion of Loss by Exchange. :: £,"17,700",17700.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,32,data,Army—,Row 32,5,Expenditure Proper. :: £,"3,402,915",3402915.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,33,subtotal,,Ordinary Expenditure,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,33,subtotal,,Ordinary Expenditure,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,33,subtotal,,Ordinary Expenditure,4,Rough Proportion of Loss by Exchange. :: £,"1,930,259",1930259.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,33,subtotal,,Ordinary Expenditure,5,Expenditure Proper. :: £,"37,061,283",37061283.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,34,data,Army—,"Guaranteed Railways, &c",2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,34,data,Army—,"Guaranteed Railways, &c",3,£,"782,152",782152.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,34,data,Army—,"Guaranteed Railways, &c",4,Rough Proportion of Loss by Exchange. :: £,"805,400",805400.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,34,data,Army—,"Guaranteed Railways, &c",5,Expenditure Proper. :: £,"1,587,552",1587552.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,35,data,Army—,Productive State Works,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,35,data,Army—,Productive State Works,3,£,"817,541",817541.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,35,data,Army—,Productive State Works,4,Rough Proportion of Loss by Exchange. :: £,"149,000",149000.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,35,data,Army—,Productive State Works,5,Expenditure Proper. :: £,"966,541",966541.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,36,subtotal,,Net Loss by Exchange,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,36,subtotal,,Net Loss by Exchange,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,36,subtotal,,Net Loss by Exchange,4,Rough Proportion of Loss by Exchange. :: £,"2,884,659",2884659.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,36,subtotal,,Net Loss by Exchange,5,Expenditure Proper. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,37,subtotal,,Net Expenditure,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,37,subtotal,,Net Expenditure,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,37,subtotal,,Net Expenditure,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,37,subtotal,,Net Expenditure,5,Expenditure Proper. :: £,"39,615,376",39615376.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,38,data,Army—,Provincial Surplus Balances,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,38,data,Army—,Provincial Surplus Balances,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,38,data,Army—,Provincial Surplus Balances,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,38,data,Army—,Provincial Surplus Balances,5,Expenditure Proper. :: £,"715,405",715405.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,39,data,Army—,Surplus Revenue for Year,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,39,data,Army—,Surplus Revenue for Year,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,39,data,Army—,Surplus Revenue for Year,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,39,data,Army—,Surplus Revenue for Year,5,Expenditure Proper. :: £,"2,034,246",2034246.0,GBP,False,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,40,total,,Row 40,2,Column 2,,,,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,40,total,,Row 40,3,£,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,40,total,,Row 40,4,Rough Proportion of Loss by Exchange. :: £,,,GBP,True,False
+indian-finance-moxon-1881,tbl-007,"REVISED STATEMENT OF NET EXPENDITURE, 1878-9.",17,13,40,total,,Row 40,5,Expenditure Proper. :: £,"£42,365,027",42365027.0,GBP,False,False

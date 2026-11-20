@@ -1,0 +1,65 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,1,data,,Ahmedabad,2,Number of Villages resettled.,444,444.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,1,data,,Ahmedabad,3,Revenue realised in the Year before Revision. :: £,"87,310",87310.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,1,data,,Ahmedabad,4,Revenue demand in con-sequence of the Revision. :: £,"109,294",109294.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,1,data,,Ahmedabad,5,Percent-age of Increase.,25.2,25.2,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,2,data,,Kaira,2,Number of Villages resettled.,525,525.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,2,data,,Kaira,3,Revenue realised in the Year before Revision. :: £,"131,678",131678.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,2,data,,Kaira,4,Revenue demand in con-sequence of the Revision. :: £,"151,843",151843.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,2,data,,Kaira,5,Percent-age of Increase.,15.3,15.3,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,3,data,,Surat,2,Number of Villages resettled.,201,201.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,3,data,,Surat,3,Revenue realised in the Year before Revision. :: £,"55,278",55278.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,3,data,,Surat,4,Revenue demand in con-sequence of the Revision. :: £,"61,066",61066.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,3,data,,Surat,5,Percent-age of Increase.,10.5,10.5,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,4,data,,Panch Mahals,2,Number of Villages resettled.,222,222.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,4,data,,Panch Mahals,3,Revenue realised in the Year before Revision. :: £,"11,043",11043.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,4,data,,Panch Mahals,4,Revenue demand in con-sequence of the Revision. :: £,"11,193",11193.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,4,data,,Panch Mahals,5,Percent-age of Increase.,1.3,1.3,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,5,data,,Thana,2,Number of Villages resettled.,824,824.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,5,data,,Thana,3,Revenue realised in the Year before Revision. :: £,"59,772",59772.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,5,data,,Thana,4,Revenue demand in con-sequence of the Revision. :: £,"84,13",8413.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,5,data,,Thana,5,Percent-age of Increase.,41.1,41.1,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,6,data,,Khandesh,2,Number of Villages resettled.,2272,2272.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,6,data,,Khandesh,3,Revenue realised in the Year before Revision. :: £,"264,475",264475.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,6,data,,Khandesh,4,Revenue demand in con-sequence of the Revision. :: £,"345,573",345573.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,6,data,,Khandesh,5,Percent-age of Increase.,30.6,30.6,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,7,data,,Nasik,2,Number of Villages resettled.,959,959.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,7,data,,Nasik,3,Revenue realised in the Year before Revision. :: £,"67,768",67768.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,7,data,,Nasik,4,Revenue demand in con-sequence of the Revision. :: £,"93,194",93194.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,7,data,,Nasik,5,Percent-age of Increase.,37.5,37.5,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,8,data,,Ahmednagar,2,Number of Villages resettled.,1017½,1017.5,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,8,data,,Ahmednagar,3,Revenue realised in the Year before Revision. :: £,"98,157",98157.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,8,data,,Ahmednagar,4,Revenue demand in con-sequence of the Revision. :: £,"124,509",124509.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,8,data,,Ahmednagar,5,Percent-age of Increase.,26.9,26.9,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,9,data,,Poona,2,Number of Villages resettled.,1035,1035.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,9,data,,Poona,3,Revenue realised in the Year before Revision. :: £,"96,503",96503.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,9,data,,Poona,4,Revenue demand in con-sequence of the Revision. :: £,"127,335",127335.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,9,data,,Poona,5,Percent-age of Increase.,32.0,32.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,10,data,,Sholapur,2,Number of Villages resettled.,672,672.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,10,data,,Sholapur,3,Revenue realised in the Year before Revision. :: £,"83,478",83478.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,10,data,,Sholapur,4,Revenue demand in con-sequence of the Revision. :: £,"112,976",112976.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,10,data,,Sholapur,5,Percent-age of Increase.,35.3,35.3,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,11,data,,Satara,2,Number of Villages resettled.,962,962.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,11,data,,Satara,3,Revenue realised in the Year before Revision. :: £,"122,264",122264.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,11,data,,Satara,4,Revenue demand in con-sequence of the Revision. :: £,"159,267",159267.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,11,data,,Satara,5,Percent-age of Increase.,30.3,30.3,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,12,data,,Kolaba,2,Number of Villages resettled.,1059,1059.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,12,data,,Kolaba,3,Revenue realised in the Year before Revision. :: £,"73,656",73656.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,12,data,,Kolaba,4,Revenue demand in con-sequence of the Revision. :: £,"100,148",100148.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,12,data,,Kolaba,5,Percent-age of Increase.,35.9,35.9,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,13,data,,Belgaum,2,Number of Villages resettled.,892,892.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,13,data,,Belgaum,3,Revenue realised in the Year before Revision. :: £,"83,749",83749.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,13,data,,Belgaum,4,Revenue demand in con-sequence of the Revision. :: £,"109,847",109847.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,13,data,,Belgaum,5,Percent-age of Increase.,31.1,31.1,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,14,data,,Dharwar,2,Number of Villages resettled.,1290,1290.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,14,data,,Dharwar,3,Revenue realised in the Year before Revision. :: £,"129,868",129868.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,14,data,,Dharwar,4,Revenue demand in con-sequence of the Revision. :: £,"187,253",187253.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,14,data,,Dharwar,5,Percent-age of Increase.,44.2,44.2,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,15,data,,Bijapar,2,Number of Villages resettled.,995,995.0,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,15,data,,Bijapar,3,Revenue realised in the Year before Revision. :: £,"81,631",81631.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,15,data,,Bijapar,4,Revenue demand in con-sequence of the Revision. :: £,"109,043",109043.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,15,data,,Bijapar,5,Percent-age of Increase.,33.6,33.6,,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,16,total,,Total,2,Number of Villages resettled.,"13,369½",13369.5,count,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,16,total,,Total,3,Revenue realised in the Year before Revision. :: £,"1,446,600",1446600.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,16,total,,Total,4,Revenue demand in con-sequence of the Revision. :: £,"1,886,854",1886854.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-046,Table 46,519,491,16,total,,Total,5,Percent-age of Increase.,30.4,30.4,,False,False

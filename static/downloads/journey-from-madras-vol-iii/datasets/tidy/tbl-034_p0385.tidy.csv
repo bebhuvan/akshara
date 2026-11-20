@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,1,data,,1 Candaca of Sujjay worth,2,Canter' Ráya Pagodas.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,1,data,,1 Candaca of Sujjay worth,3,Column 3,The bushel is worth,,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,1,data,,1 Candaca of Sujjay worth,4,pen,11½,11.5,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,2,data,,Huruli,2,Canter' Ráya Pagodas.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,2,data,,Huruli,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,2,data,,Huruli,4,pen,11½,11.5,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,3,data,,Navonay,2,Canter' Ráya Pagodas.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,3,data,,Navonay,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,3,data,,Navonay,4,pen,11½,11.5,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,4,data,,Harica,2,Canter' Ráya Pagodas.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,4,data,,Harica,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,4,data,,Harica,4,pen,7¼,7.25,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,5,data,,Wheat,2,Canter' Ráya Pagodas.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,5,data,,Wheat,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,5,data,,Wheat,4,pen,26,26.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,6,data,,Ellu,2,Canter' Ráya Pagodas.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,6,data,,Ellu,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,6,data,,Ellu,4,pen,21¾,21.75,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,7,data,,Callay worth,2,Canter' Ráya Pagodas.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,7,data,,Callay worth,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,7,data,,Callay worth,4,pen,17¼,17.25,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,8,data,,Ragy,2,Canter' Ráya Pagodas.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,8,data,,Ragy,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,8,data,,Ragy,4,pen,11½,11.5,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,9,data,,"Paddy, or rough rice",2,Canter' Ráya Pagodas.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,9,data,,"Paddy, or rough rice",3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,9,data,,"Paddy, or rough rice",4,pen,11½,11.5,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,10,data,,Rice cleared from the husk,2,Canter' Ráya Pagodas.,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,10,data,,Rice cleared from the husk,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-034,Table 34,385,347,10,data,,Rice cleared from the husk,4,pen,26,26.0,,False,False

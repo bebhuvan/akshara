@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-034,Table 34,238,198,1,data,,"By Todar Mall's settlement, 1582",2,Column 2,"£1,070,000 or $5,350,000",,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-034,Table 34,238,198,2,data,,"By Sultan Suja's settlement, 1658",2,Column 2,"1,312,000 or 6,560,000",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-034,Table 34,238,198,3,data,,"By Jaffar Khan's settlement, 1722",2,Column 2,"1,429,000 or 7,145,000",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-034,Table 34,238,198,4,data,,"By Suja Khan's settlement, 1728",2,Column 2,"1,425,000 or 7,125,000",,,False,False

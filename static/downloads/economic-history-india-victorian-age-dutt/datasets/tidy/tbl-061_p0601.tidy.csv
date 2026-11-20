@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,1,data,,Civil department,2,Natives.,55,55.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,1,data,,Civil department,3,Eurasians.,10,10.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,1,data,,Civil department,4,Europeans.,1211,1211.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,1,data,,Civil department,5,In Thousands of Rupees. :: Total Salaries of Natives.,947,947.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,1,data,,Civil department,6,Total Salaries of Eurasians.,151,151.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,1,data,,Civil department,7,Total Salaries of Europeans.,"25,274",25274.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,2,data,,Military,2,Natives.,1,1.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,2,data,,Military,3,Eurasians.,1,1.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,2,data,,Military,4,Europeans.,854,854.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,2,data,,Military,5,In Thousands of Rupees. :: Total Salaries of Natives.,12,12.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,2,data,,Military,6,Total Salaries of Eurasians.,11,11.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,2,data,,Military,7,Total Salaries of Europeans.,"13,268",13268.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,3,data,,Public works,2,Natives.,3,3.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,3,data,,Public works,3,Eurasians.,4,4.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,3,data,,Public works,4,Europeans.,239,239.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,3,data,,Public works,5,In Thousands of Rupees. :: Total Salaries of Natives.,33,33.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,3,data,,Public works,6,Total Salaries of Eurasians.,45,45.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,3,data,,Public works,7,Total Salaries of Europeans.,"3,415",3415.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,4,data,,Incorporated local funds,2,Natives.,1,1.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,4,data,,Incorporated local funds,3,Eurasians.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,4,data,,Incorporated local funds,4,Europeans.,9,9.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,4,data,,Incorporated local funds,5,In Thousands of Rupees. :: Total Salaries of Natives.,10,10.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,4,data,,Incorporated local funds,6,Total Salaries of Eurasians.,...,,,True,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,4,data,,Incorporated local funds,7,Total Salaries of Europeans.,113,113.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,5,total,,Row 5,2,Natives.,60,60.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,5,total,,Row 5,3,Eurasians.,15,15.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,5,total,,Row 5,4,Europeans.,2313,2313.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,5,total,,Row 5,5,In Thousands of Rupees. :: Total Salaries of Natives.,1002,1002.0,Rs,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,5,total,,Row 5,6,Total Salaries of Eurasians.,207,207.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-061,Table 61,601,573,5,total,,Row 5,7,Total Salaries of Europeans.,"42,070",42070.0,,False,True

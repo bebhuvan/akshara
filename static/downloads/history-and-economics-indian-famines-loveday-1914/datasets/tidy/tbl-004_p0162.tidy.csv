@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,1,data,,Cawnpore district,2,COST OF,1888 1907,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,1,data,,Cawnpore district,3,WHEAT.,2·471 3·749,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,1,data,,Cawnpore district,4,BARLEY.,1·926 1·564,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,1,data,,Cawnpore district,5,JAWAR.,2·214 2·474,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,2,data,,Meerut district,2,COST OF,1888 1907,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,2,data,,Meerut district,3,WHEAT.,2·667 3·506,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,2,data,,Meerut district,4,BARLEY.,1·838 2·398,,,False,False
+history-and-economics-indian-famines-loveday-1914,tbl-004,Table 4,162,146,2,data,,Meerut district,5,JAWAR.,2·145 2·64,,,False,False

@@ -1,0 +1,28 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,1,data,,Land-Tax,2,Column 2,£4,4.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,1,data,,Land-Tax,3,Column 3,4,4.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,1,data,,Land-Tax,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,2,data,,"Proportionate annual cost of bullocks, assuming each pair to be serviceable for eight years",2,Column 2,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,2,data,,"Proportionate annual cost of bullocks, assuming each pair to be serviceable for eight years",3,Column 3,5,5.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,2,data,,"Proportionate annual cost of bullocks, assuming each pair to be serviceable for eight years",4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,3,data,,Cost of ploughs and occasionally hired labour,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,3,data,,Cost of ploughs and occasionally hired labour,3,Column 3,16,16.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,3,data,,Cost of ploughs and occasionally hired labour,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,4,data,,Seed for dry lands and garden,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,4,data,,Seed for dry lands and garden,3,Column 3,19,19.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,4,data,,Seed for dry lands and garden,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,5,data,,Fees of officers and village dues,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,5,data,,Fees of officers and village dues,3,Column 3,12,12.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,5,data,,Fees of officers and village dues,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,6,data,,Grain for the cultivator and his family's daily food,2,Column 2,2,2.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,6,data,,Grain for the cultivator and his family's daily food,3,Column 3,4,4.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,6,data,,Grain for the cultivator and his family's daily food,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,7,data,,Clothes for cultivator and family,2,Column 2,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,7,data,,Clothes for cultivator and family,3,Column 3,10,10.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,7,data,,Clothes for cultivator and family,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,8,data,,Sundry necessary expenses,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,8,data,,Sundry necessary expenses,3,Column 3,12,12.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,8,data,,Sundry necessary expenses,4,Column 4,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,9,total,,Row 9,2,Column 2,£12,12.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,9,total,,Row 9,3,Column 3,2,2.0,,False,False
+economic-history-india-early-british-dutt,tbl-024,Table 24,389,361,9,total,,Row 9,4,Column 4,0,0.0,,False,False

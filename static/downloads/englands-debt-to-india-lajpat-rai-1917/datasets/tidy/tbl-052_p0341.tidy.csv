@@ -1,0 +1,3 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-052,Table 52,341,301,1,subtotal,,Total expenditure on education in 1912,2,Column 2,"£5,239,507",5239507.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-052,Table 52,341,301,2,data,,Amount expended on education from public funds just one-half the total,2,Column 2,"£2,700,000",2700000.0,GBP,False,False

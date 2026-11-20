@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,1,data,,To Officers on Active Service,2,To Europeans and Eurasians. :: £,"9,491,045",9491045.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,1,data,,To Officers on Active Service,3,To Natives of India. :: £,"2,555,431",2555431.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,2,data,,To Officers on Leave in India,2,To Europeans and Eurasians. :: £,"495,843",495843.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,2,data,,To Officers on Leave in India,3,To Natives of India. :: £,"121,874",121874.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,3,data,,Pensions in India,2,To Europeans and Eurasians. :: £,"232,888",232888.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,3,data,,Pensions in India,3,To Natives of India. :: £,"598,182",598182.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,4,data,,Amounts paid in England,2,To Europeans and Eurasians. :: £,"3,710,778",3710778.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,4,data,,Amounts paid in England,3,To Natives of India. :: £,"8,676",8676.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,5,total,,Total,2,To Europeans and Eurasians. :: £,"13,930,554",13930554.0,GBP,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-002,Table 2,18,14,5,total,,Total,3,To Natives of India. :: £,"3,284,163",3284163.0,GBP,False,True

@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+periplus-erythraean-sea,tbl-002,Table 2,64,54,1,data,,10 Olympic stadia,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,64,54,1,data,,10 Olympic stadia,3,Column 3,1 minute of the equator.,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,64,54,2,data,,"600 "" """,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,64,54,2,data,,"600 "" """,3,Column 3,"1 degree "" """,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,3,data,,1 Roman mile,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,3,data,,1 Roman mile,3,Column 3,1000 passus = 4854 English feet.,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,4,data,,1 Old English mile,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,4,data,,1 Old English mile,3,Column 3,1000 paces = 5090 “ “,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,5,data,,1 Modern Statute “,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,5,data,,1 Modern Statute “,3,Column 3,5280 “ “,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,6,data,,75 Roman miles,2,Column 2,=,,,False,False
+periplus-erythraean-sea,tbl-002,Table 2,65,54,6,data,,75 Roman miles,3,Column 3,1 degree.,,,False,False

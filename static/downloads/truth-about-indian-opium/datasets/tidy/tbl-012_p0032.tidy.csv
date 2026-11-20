@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-012,Table 12,32,28,1,data,,1910–11,2,£,"7,240,407",7240407.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,2,data,,1911–12,2,£,"4,898,151",4898151.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,3,data,,1912–13,2,£,"3,320,349",3320349.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,4,data,,1913–14,2,£,"1,279,478",1279478.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,5,data,,1914–15,2,£,"1,230,486",1230486.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,6,data,,1915–16,2,£,"1,500,215",1500215.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,7,data,,1916–17,2,£,"2,455,442",2455442.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,8,data,,1917–18,2,£,"2,135,810",2135810.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,9,data,,1918–19,2,£,"2,454,321",2454321.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,10,data,,1919–20,2,£,"2,386,305",2386305.0,GBP,False,False
+truth-about-indian-opium,tbl-012,Table 12,32,28,11,data,,1920–21,2,£,"1,953,167",1953167.0,GBP,False,False

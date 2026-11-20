@@ -1,0 +1,369 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,2,data,A,Almonds,2,Quantity.,12 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,3,data,A,Arrack,2,Quantity.,485 canadas,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,4,data,A,Ditto,2,Quantity.,96¼ leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,5,data,A,Ditto,2,Quantity.,31 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,6,data,A,Ditto,2,Quantity.,15 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,7,data,A,Ditto,2,Quantity.,17½ cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,8,data,A,Ditto,2,Quantity.,5 jars,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,9,data,A,Ditto,2,Quantity.,21 pipes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,10,data,A,"Ajuan Seed, an umbelliferous Plant",2,Quantity.,10½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,11,data,A,Ditto,2,Quantity.,20 maunds,20.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,12,data,A,Ditto,2,Quantity.,52 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,13,data,A,Ditto,2,Quantity.,12 capats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,15,data,B,Bengal Rice,2,Quantity.,59 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,16,data,B,Betel-Nut,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,17,data,B,Ditto,2,Quantity.,"74,000",74000.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,18,data,B,Ditto,2,Quantity.,2 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,19,data,B,Ditto,2,Quantity.,300 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,23,data,B,Brandy,2,Quantity.,14 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,24,data,B,Ditto,2,Quantity.,2 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,25,data,B,Ditto,2,Quantity.,29 cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,26,data,B,Bottles of Ale,2,Quantity.,1 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,27,data,B,Ditto ditto,2,Quantity.,1 hogshead,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,28,data,B,Barley,2,Quantity.,2 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,29,data,B,Ditto,2,Quantity.,1 keg,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,30,data,B,Ditto,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,31,data,B,Brooms,2,Quantity.,100,100.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,33,data,C,Columba Arrack,2,Quantity.,16½ leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,34,data,C,Ditto,2,Quantity.,5 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,35,data,C,Ditto,2,Quantity.,4 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,36,data,C,Ditto,2,Quantity.,7 pipes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,37,data,C,Ditto,2,Quantity.,15000 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,38,data,C,Cochin Arrack,2,Quantity.,4 leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,39,data,C,Ditto,2,Quantity.,4 pipes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,40,data,C,Ditto,2,Quantity.,2 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,41,data,C,Ditto,2,Quantity.,92 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,42,data,C,Country Arrack,2,Quantity.,4 leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,43,data,C,Ditto,2,Quantity.,110 pipes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,44,data,C,Ditto,2,Quantity.,392 canadas,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,45,data,C,China Ware,2,Quantity.,2 baskets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,46,data,C,Ditto,2,Quantity.,8 chests,8.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,47,data,C,Ditto,2,Quantity.,707,707.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,48,data,C,Country Boots,2,Quantity.,5 pair,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,49,data,C,Coco-Nuts,2,Quantity.,104660,104660.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,50,data,C,Copper Pots,2,Quantity.,37 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,51,data,C,Ditto,2,Quantity.,90 maunds,90.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,52,data,C,Cointer Seed,2,Quantity.,6615 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,53,data,C,Ditto,2,Quantity.,15 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,54,data,C,Ditto,2,Quantity.,9 maunds,9.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,55,data,C,Ditto,2,Quantity.,5 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,56,data,C,Ditto,2,Quantity.,4 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,57,data,C,Corks,2,Quantity.,6 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,58,data,C,Ditto,2,Quantity.,76 gross,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,59,data,C,Ditto,2,Quantity.,1000,1000.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,60,data,C,Ditto,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,61,data,C,Coffee,2,Quantity.,20 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,62,data,C,Ditto,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,63,data,C,Ditto,2,Quantity.,26 maunds,26.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,64,data,C,Cummin Seed,2,Quantity.,23 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,65,data,C,Ditto,2,Quantity.,40 maunds,40.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,66,data,C,Claret,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,67,data,C,Ditto,2,Quantity.,45 dozens,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,68,data,C,Cotton Lace,2,Quantity.,24 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,69,data,C,Ditto,2,Quantity.,40 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,70,data,C,Cruet Stands,2,Quantity.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,71,data,C,Cloves,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,72,data,C,Ditto,2,Quantity.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,73,data,C,"Culty Gram, a kind of Pulse",2,Quantity.,15 maunds,15.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,74,data,C,Ditto,2,Quantity.,18 robins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,75,data,C,"Chilly Pepper, Capsicum",2,Quantity.,23¾ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,76,data,C,Ditto,2,Quantity.,62½ maunds,62.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,77,data,C,Ditto,2,Quantity.,4 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,78,data,C,Candles,2,Quantity.,2 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,79,data,C,Ditto,2,Quantity.,35 maunds,35.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,80,data,C,Ditto,2,Quantity.,850 lbs.,850.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,81,data,C,Canvas,2,Quantity.,26 bolts,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,82,data,C,"Coir, Coco-Nut Cordage",2,Quantity.,19¼ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,83,data,C,Ditto,2,Quantity.,10¾ maunds,10.75,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,85,data,Ditto,Cotton,2,Quantity.,6 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,86,data,Ditto,Ditto,2,Quantity.,12 maunds,12.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,87,data,Ditto,Ditto,2,Quantity.,22 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,88,data,Ditto,Cherry Brandy,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,89,data,Ditto,Ditto,2,Quantity.,2 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,90,data,Ditto,Cheese,2,Quantity.,5 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,91,data,Ditto,Ditto,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,92,data,Ditto,Cards and Pomatum,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,93,data,Ditto,Coco-Nut Oil,2,Quantity.,48 chodanas,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,94,data,Ditto,Ditto ditto,2,Quantity.,8 jars,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,95,data,Ditto,Ditto ditto,2,Quantity.,660 paddoms,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,96,data,Ditto,Ditto ditto,2,Quantity.,1155 pots,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,97,data,Ditto,Ditto ditto,2,Quantity.,172 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,98,data,Ditto,Ditto ditto,2,Quantity.,"{ 81 dubers, or leathern bags",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,99,data,Ditto,Ditto ditto,2,Quantity.,11 cutys,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,100,data,Ditto,Country Mats,2,Quantity.,"186 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,101,data,Ditto,China Mats,2,Quantity.,122 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,102,data,Ditto,Common Cups,2,Quantity.,4 chests,4.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,103,data,Ditto,Combs,2,Quantity.,"10 corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,104,data,Ditto,Cutlery,2,Quantity.,4 chests,4.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,105,data,Ditto,Ditto,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,106,data,Ditto,Chintz,2,Quantity.,"5 corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,107,data,Ditto,Country Beans,2,Quantity.,15 robins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,108,data,Ditto,Chandrose,2,Quantity.,5 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,109,data,Ditto,Combla Mas,2,Quantity.,12¾ ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,111,data,D,"Dholl, a kind of Pulse",2,Quantity.,19 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,112,data,D,Ditto,2,Quantity.,10 maunds,10.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,113,data,D,Ditto,2,Quantity.,5 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,114,data,D,Ditto,2,Quantity.,64 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,115,data,D,Dates,2,Quantity.,73 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,116,data,D,Ditto,2,Quantity.,2½ maunds,2.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,117,data,D,Ditto,2,Quantity.,8 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,118,data,D,"Dorca, a kind of Muslin",2,Quantity.,14 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,119,data,D,"Dungary, Cotton Cloth",2,Quantity.,"67½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,120,data,D,Ditto,2,Quantity.,4 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,122,data,E,Europe Cloth,2,Quantity.,1 trunk,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,123,data,E,Ditto,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,124,data,E,Empty Bags,2,Quantity.,3200,3200.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,126,data,F,Flannel,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,127,data,F,Ditto,2,Quantity.,4 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,128,data,F,Frying Pans,2,Quantity.,23 sets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,130,data,G,"Gram, a kind of Pulse",2,Quantity.,82 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,131,data,G,Ditto,2,Quantity.,132 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,132,data,G,Ditto,2,Quantity.,96 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,133,data,G,Ditto,2,Quantity.,20 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,134,data,G,"Ghee, or Boiled Butter",2,Quantity.,"{ 109 duppers, leather bags",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,135,data,G,Ditto,2,Quantity.,31½ maunds,31.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,136,data,G,"Gingelly, Oil of Sesamum",2,Quantity.,11 duppers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",547,498,137,data,G,Gun Powder,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,138,data,G,Gun Powder,2,Quantity.,1 barrel,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,139,data,G,Glass Ware,2,Quantity.,12 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,140,data,G,Ditto ditto,2,Quantity.,10 chests,10.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,141,data,G,Ditto ditto,2,Quantity.,2 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,142,data,G,Gin,2,Quantity.,244 cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,143,data,G,Ditto,2,Quantity.,5 chests,5.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,144,data,G,Ditto,2,Quantity.,1 leaguer,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,145,data,G,Garlick,2,Quantity.,18 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,146,data,G,Ditto,2,Quantity.,4 baskets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,147,data,G,Ditto,2,Quantity.,7¼ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,148,data,G,Ditto,2,Quantity.,4 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,149,data,G,Ginger,2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,150,data,G,Ditto,2,Quantity.,25¾ maunds,25.75,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,151,data,G,Ditto,2,Quantity.,2 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,152,data,G,"Ganjah, or dry flowers and Leaves of Hemp",2,Quantity.,75 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,153,data,G,Ditto,2,Quantity.,10 maunds,10.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,155,data,H,Handkerchiefs,2,Quantity.,"5 corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,156,data,H,Hams,2,Quantity.,2 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,157,data,H,Ditto,2,Quantity.,27 chests,27.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,158,data,H,Ditto,2,Quantity.,2 cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,159,data,H,"Hira Cassy, a Dye",2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,160,data,H,"Hemp, that is of Crotolaria juncea",2,Quantity.,60 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,161,data,H,Ditto,2,Quantity.,37 lbs.,37.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,162,data,H,Hats,2,Quantity.,6 chests,6.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,163,data,H,Ditto,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,164,data,H,Ditto,2,Quantity.,1 trunk,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,165,data,H,Ditto,2,Quantity.,183,183.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,166,data,H,Hooka Snakes,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,167,data,H,Hock,2,Quantity.,3½ dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,169,data,I,Iron,2,Quantity.,30 bars,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,170,data,I,Ditto,2,Quantity.,289 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,171,data,I,Ditto,2,Quantity.,4 maunds,4.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,172,data,I,Ink Powder,2,Quantity.,10 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,173,data,I,Ditto ditto,2,Quantity.,3 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,174,data,I,Jagory,2,Quantity.,38¼ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,175,data,I,Ditto,2,Quantity.,118¼ maunds,118.25,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,176,data,I,Ditto,2,Quantity.,87 pots,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,177,data,I,Ditto,2,Quantity.,"4 duppers, or leather bags",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,178,data,I,Ditto,2,Quantity.,6 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,179,data,I,Ditto,2,Quantity.,10 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,181,data,K,"Kismiss, or small Raisins",2,Quantity.,62 maunds,62.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,182,data,K,Ditto,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,183,data,K,"Kascas, Poppy Seed",2,Quantity.,3 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,185,data,L,Looking Glasses,2,Quantity.,1 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,186,data,L,Ditto,2,Quantity.,"14½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,187,data,L,Ditto,2,Quantity.,2 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,188,data,L,Linseed Oil,2,Quantity.,4 lbs.,4.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,189,data,L,Lamps,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,190,data,L,Lemon Juice,2,Quantity.,24 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,191,data,L,Lutestring,2,Quantity.,1 piece,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,192,data,L,Ditto,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,193,data,L,Long Drawers,2,Quantity.,"11¾ corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,194,data,L,Leather,2,Quantity.,16 ¾ ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,195,data,L,Lisbon Wine,2,Quantity.,2 quarter casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,197,data,M,Madeira Wine,2,Quantity.,12 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,198,data,M,Ditto,2,Quantity.,4 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,199,data,M,Ditto,2,Quantity.,39 chests,39.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,200,data,M,Ditto,2,Quantity.,4½ pipes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,201,data,M,Ditto,2,Quantity.,160 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,202,data,M,Malmsey Wine,2,Quantity.,8 chests,8.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,203,data,M,Ditto,2,Quantity.,3 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,204,data,M,"Medicine, Europe",2,Quantity.,1 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,205,data,M,"Ditto, ditto",2,Quantity.,2½ boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,206,data,M,"Ditto, Malabar",2,Quantity.,5½ maunds,5.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,207,data,M,Manapar Onions,2,Quantity.,4 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,208,data,M,Mowrah,2,Quantity.,1½ pipe,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,209,data,M,Ditto,2,Quantity.,2 leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,210,data,M,Mustard,2,Quantity.,2 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,211,data,M,Ditto,2,Quantity.,8 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,212,data,M,Ditto,2,Quantity.,40 robins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,213,data,M,"Mung, a kind of Pulse",2,Quantity.,25 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,214,data,M,Ditto,2,Quantity.,2 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,215,data,M,Ditto,2,Quantity.,2 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,216,data,M,Ditto,2,Quantity.,4 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,217,data,M,"Methy Seed, Fenugreek",2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,218,data,M,Ditto ditto,2,Quantity.,7 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,220,data,N,"Nelly, or Rice in the Husk",2,Quantity.,"254,000 edangallies",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,221,data,N,Ditto,2,Quantity.,9330 parahs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,222,data,N,Ditto,2,Quantity.,22 robins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,223,data,N,Ditto,2,Quantity.,331 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,224,data,N,Nellika Phyllanthus Emblica,2,Quantity.,1185 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,225,data,N,Nutmegs,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,226,data,N,Ditto,2,Quantity.,67 lb.,67.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,227,data,N,"Nackeny, the grain of the Cynosurus Corocanus",2,Quantity.,165 robins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,228,data,N,Needles and Pins,2,Quantity.,24 papers,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,229,data,N,Nankins,2,Quantity.,5 chests,5.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,230,data,N,Ditto,2,Quantity.,"111½ corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,231,data,N,Nails,2,Quantity.,1 cask,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,232,data,N,Ditto,2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,234,data,O,Opium,2,Quantity.,3 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,235,data,O,Ditto,2,Quantity.,11¼ maunds,11.25,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,236,data,O,Ditto,2,Quantity.,55 Seers,55.0,seers,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,238,data,Ditto,Onions,2,Quantity.,4 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,239,data,Ditto,Ditto,2,Quantity.,204 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,240,data,Ditto,Ditto,2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",548,498,241,data,Ditto,Ditto,2,Quantity.,20 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,243,data,P,Port Wine,2,Quantity.,6 quarter casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,244,data,P,Paper,2,Quantity.,198¼ ream,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,245,data,P,Ditto,2,Quantity.,9 chests,9.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,246,data,P,Ditto,2,Quantity.,200 sheets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,247,data,P,Pomatum,2,Quantity.,2 cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,248,data,P,Peppermint,2,Quantity.,3½ dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,249,data,P,Pickles,2,Quantity.,38 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,250,data,P,Ditto,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,251,data,P,Ditto,2,Quantity.,4 cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,252,data,P,Ditto,2,Quantity.,6 maunds,6.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,253,data,P,Piece Goods,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,254,data,P,Ditto,2,Quantity.,4 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,255,data,P,Ditto,2,Quantity.,"2390 corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,256,data,P,Ditto,2,Quantity.,44 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,257,data,P,Ditto,2,Quantity.,283 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,258,data,P,Ditto,2,Quantity.,"11,823 pieces",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,259,data,P,Ditto,2,Quantity.,8 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,260,data,P,Powder Horns,2,Quantity.,1½ dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,261,data,P,Purpet Cloth,2,Quantity.,20 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,262,data,P,Pepper,2,Quantity.,4½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,263,data,P,Pen Knives,2,Quantity.,1¼ dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,264,data,P,Paint of Sorts,2,Quantity.,7 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,265,data,P,Ditto ditto,2,Quantity.,½ maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,266,data,P,Perfumery,2,Quantity.,36 chests,36.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,267,data,P,Ditto,2,Quantity.,5 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,268,data,P,Pale Ale,2,Quantity.,2 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,269,data,P,Ditto,2,Quantity.,2 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,270,data,P,Ditto,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,271,data,P,Paint Brushes,2,Quantity.,2 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,273,data,R,Rum,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,274,data,R,Ditto,2,Quantity.,20 cases,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,275,data,R,Rice,2,Quantity.,6934 robins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,276,data,R,Ditto,2,Quantity.,422 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,277,data,R,Ditto,2,Quantity.,20000 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,278,data,R,Ditto,2,Quantity.,350 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,279,data,R,Ditto,2,Quantity.,375 padys,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,280,data,R,Rose Water,2,Quantity.,37 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,281,data,R,Razors,2,Quantity.,2 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,282,data,R,Rosin,2,Quantity.,1½ candy,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,283,data,R,Ditto,2,Quantity.,8 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,285,data,S,Soap,2,Quantity.,6 bolts,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,286,data,S,Ditto,2,Quantity.,3442 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,287,data,S,Ditto,2,Quantity.,143½ maunds,143.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,288,data,S,Ditto,2,Quantity.,100 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,289,data,S,Ditto,2,Quantity.,"2½ corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,290,data,S,Sundry Articles,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,291,data,S,Sago,2,Quantity.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,292,data,S,Shoes,2,Quantity.,"89 corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,293,data,S,Ditto,2,Quantity.,14 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,294,data,S,Ditto,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,295,data,S,Ditto,2,Quantity.,1 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,296,data,S,Ditto,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,297,data,S,Salt,2,Quantity.,4 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,298,data,S,Ditto,2,Quantity.,16 maunds,16.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,299,data,S,Ditto,2,Quantity.,34 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,300,data,S,Ditto,2,Quantity.,3000 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,301,data,S,Sugar,2,Quantity.,9 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,302,data,S,Ditto,2,Quantity.,35 maunds,35.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,303,data,S,Ditto,2,Quantity.,37 baskets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,304,data,S,Ditto,2,Quantity.,210 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,305,data,S,Ditto,2,Quantity.,177 tubs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,306,data,S,Small Cups,2,Quantity.,4 baskets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,307,data,S,Ditto Jars,2,Quantity.,25,25.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,308,data,S,Sindy Salt,2,Quantity.,22 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,309,data,S,Saucers,2,Quantity.,2 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,310,data,S,Shot,2,Quantity.,20 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,311,data,S,Ditto,2,Quantity.,2 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,312,data,S,Sadlery,2,Quantity.,1 trunk,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,313,data,S,Ditto,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,314,data,S,Saddle,2,Quantity.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,315,data,S,Sersekar,2,Quantity.,1 piece,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,316,data,S,Shawls,2,Quantity.,55 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,317,data,S,Shirts,2,Quantity.,"19¾ corges, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,318,data,S,Ditto,2,Quantity.,211 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,319,data,S,Sinamon (Cinnamon),2,Quantity.,5½ maunds,5.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,320,data,S,Spying Glasses,2,Quantity.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,321,data,S,Scissars,2,Quantity.,2 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,322,data,S,Sweet Oil,2,Quantity.,1 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,324,data,T,Tooth Powder,2,Quantity.,1 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,325,data,T,Tea,2,Quantity.,1 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,326,data,T,Ditto,2,Quantity.,4 chests,4.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,327,data,T,Table Cloths,2,Quantity.,21,21.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,328,data,T,Tobacco,2,Quantity.,11½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,329,data,T,Ditto,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,330,data,T,Ditto,2,Quantity.,85½ maunds,85.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,331,data,T,Ditto,2,Quantity.,8049 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,332,data,T,Ditto,2,Quantity.,239 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,333,data,T,Ditto,2,Quantity.,8 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,334,data,T,Ditto,2,Quantity.,129 chipms.,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,335,data,T,Tent Lace,2,Quantity.,7½ maunds,7.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,336,data,T,Thread,2,Quantity.,1000 skeins,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,337,data,T,Ditto,2,Quantity.,10 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,338,data,T,Ditto,2,Quantity.,3½ lbs.,3.5,lbs,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,339,data,T,Turmerick,2,Quantity.,3½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,340,data,T,Ditto,2,Quantity.,53½ maunds,53.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,341,data,T,Table Sheds,2,Quantity.,9 pairs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,342,data,T,Tamarinds,2,Quantity.,65 maunds,65.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,343,data,T,Ditto,2,Quantity.,73¾ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,344,data,T,Ditto,2,Quantity.,11 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,345,data,T,Ditto,2,Quantity.,33 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,346,data,T,Ditto,2,Quantity.,30 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,347,data,T,Ditto,2,Quantity.,55 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,348,data,T,Tape,2,Quantity.,14 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,349,data,T,Twine,2,Quantity.,39 maunds,39.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,350,data,T,Ditto,2,Quantity.,2 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,351,data,T,Ditto,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,352,data,T,Tooth Pick Cases,2,Quantity.,3 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,353,data,T,Trowsers,2,Quantity.,5 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,354,data,T,Tin Ware,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",549,498,355,data,T,Tongues,2,Quantity.,1 cask,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,356,data,T,Tutanague,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,357,data,T,Ditto,2,Quantity.,20 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,358,data,T,Tea Cups and Saucers,2,Quantity.,9 sets,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,362,data,V,Vinegar,2,Quantity.,1 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,363,data,V,Ditto,2,Quantity.,1 case,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,367,data,U,"Ured, a kind of Pulse",2,Quantity.,250 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,368,data,,Bamboos,2,Quantity.,"13,800",13800.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,369,data,,Boots,2,Quantity.,4 trunks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,370,data,,Beef,2,Quantity.,4 casks,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,371,data,,Ditto,2,Quantity.,4 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,372,data,,"Bellows, Smiths",2,Quantity.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,373,data,,"Bagery, Grain of the Holcus Spicatus",2,Quantity.,7 candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,374,data,,Ditto,2,Quantity.,5 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,375,data,,Ditto,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,376,data,,Ditto,2,Quantity.,8 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,377,data,,Blue Cloth,2,Quantity.,"49 corges, or scores of pieces",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,378,data,,Ditto,2,Quantity.,5 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,379,data,,Ditto,2,Quantity.,2 bales,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,380,data,,Ditto,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,381,data,,Bamboo Mats,2,Quantity.,208 corges,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,382,data,,Books,2,Quantity.,46,46.0,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,383,data,,Ditto,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,384,data,,Beer,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,385,data,,Ditto,2,Quantity.,12 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,386,data,,Blankets,2,Quantity.,10 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,387,data,,Ditto,2,Quantity.,"3 corges, or scores",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,388,data,,Brandy,2,Quantity.,4 chests,4.0,chests,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",546,498,389,data,,Ditto,2,Quantity.,kegs,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,726,data,W,Wheat,2,Quantity.,332 bags,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,727,data,W,Ditto,2,Quantity.,73¾ candies,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,728,data,W,Ditto,2,Quantity.,22¾ maunds,22.75,maunds,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,729,data,W,Wax Candles,2,Quantity.,500 lbs.,500.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,730,data,W,Ditto,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,731,data,W,Wooden Dishes,2,Quantity.,"23½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,732,data,W,Ditto,2,Quantity.,41 pair,,,False,False
+journey-from-madras-vol-iii,tbl-065,"ABSTRACT of GOODS IMPORTED by SEA, from 1st January to 31st December, 1799.",550,498,733,data,W,Wafer Stamps,2,Quantity.,1 dozen,,,False,False

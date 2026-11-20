@@ -1,0 +1,45 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,1,data,,Buca Ráyar,2,Column 2,reigned,,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,1,data,,Buca Ráyar,3,Column 3,14 years.,,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,2,data,,Vijia Buca Ráya,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,2,data,,Vijia Buca Ráya,3,Column 3,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,3,data,,Hari-hara R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,3,data,,Hari-hara R,3,Column 3,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,4,data,,Casi Deva R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,4,data,,Casi Deva R,3,Column 3,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,5,data,,Rama Deva R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,5,data,,Rama Deva R,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,6,data,,Virupacshi R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,6,data,,Virupacshi R,3,Column 3,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,7,data,,Malica Argina R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,7,data,,Malica Argina R,3,Column 3,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,8,data,,Rama Chandra Ráyar,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,8,data,,Rama Chandra Ráyar,3,Column 3,9,9.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,9,data,,Shalava Conda Deva Maha Rájá,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,9,data,,Shalava Conda Deva Maha Rájá,3,Column 3,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,10,data,,Deva Ráya Maha Rájá,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,10,data,,Deva Ráya Maha Rájá,3,Column 3,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,11,data,,Cambudia Deva M. R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,11,data,,Cambudia Deva M. R,3,Column 3,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,12,data,,Comara Cambudia M. R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,12,data,,Comara Cambudia M. R,3,Column 3,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,13,data,,Sholava Canterua Deva M. R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,13,data,,Sholava Canterua Deva M. R,3,Column 3,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,14,data,,Sholava Narasingha Deva M. R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,14,data,,Sholava Narasingha Deva M. R,3,Column 3,40,40.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,15,data,,Imudia Dharma Ráyar,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,15,data,,Imudia Dharma Ráyar,3,Column 3,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,16,data,,Piravida Deva Maha Ráya,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,16,data,,Piravida Deva Maha Ráya,3,Column 3,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,17,data,,Rama Chindra M. R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,17,data,,Rama Chindra M. R,3,Column 3,18,18.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,18,data,,Vicunta M. R,2,Column 2,,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,524,476,18,data,,Vicunta M. R,3,Column 3,19,19.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,19,data,,Padma Nava Maha Ráya,2,Column 2,reigned,,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,19,data,,Padma Nava Maha Ráya,3,Column 3,6 years.,,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,20,data,,Damudera M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,20,data,,Damudera M. R,3,Column 3,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,21,data,,Narasingha M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,21,data,,Narasingha M. R,3,Column 3,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,22,data,,Vira Narasingha M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-051,“ Tuluva Ráyár government.,525,476,22,data,,Vira Narasingha M. R,3,Column 3,21,21.0,,False,False

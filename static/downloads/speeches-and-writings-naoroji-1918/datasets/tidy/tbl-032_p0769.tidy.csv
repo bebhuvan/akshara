@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,1,data,,"For the Military Department, Annual Salaries",2,Rx.,"3,781,844",3781844.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,2,data,,Public Works (Military),2,Rx.,"171,075",171075.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,3,data,,"Absentee Allowances, Military",2,Rx.,"234,900",234900.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,4,data,,Public Works Military,2,Rx.,"7,089",7089.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,5,data,,Pensions paid in India: Pensions under Civil Regulations: Europeans (Eurasians),2,Rx.,"8,839",8839.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,6,data,,Pensions under Army and Marine Regulations: Europeans (Eurasians),2,Rx.,"101,697",101697.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-032,Army Europeans.,769,87,7,total,,Total—India,2,Rx.,"4,305,444",4305444.0,Rs,False,True

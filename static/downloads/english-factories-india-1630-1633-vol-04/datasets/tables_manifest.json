@@ -1,0 +1,29 @@
+{
+  "version": "tables-dataset-v2",
+  "book_id": "english-factories-india-1630-1633-vol-04",
+  "collection": "indian-economic-history",
+  "title": "The English Factories in India, 1630–1633",
+  "publication_year": 1910,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl-001",
+      "csv_file": "tables/tbl-001_p0046.csv",
+      "csv_path": "tables/tbl-001_p0046.csv",
+      "tidy_csv_file": "tidy/tbl-001_p0046.tidy.csv",
+      "tidy_csv_path": "tidy/tbl-001_p0046.tidy.csv",
+      "tidy_json_file": "tidy/tbl-001_p0046.tidy.json",
+      "parquet_file": null,
+      "caption": "ENGLISH CHIEFS AT SURAT, 1613-1633.",
+      "section_id": "sec-03",
+      "start_page": 46,
+      "end_page": 46,
+      "printed_folio": "xl",
+      "column_count": 2,
+      "row_count": 9,
+      "tidy_observation_count": 9,
+      "arithmetic_verified": false,
+      "arithmetic_status": "no_total_row"
+    }
+  ]
+}

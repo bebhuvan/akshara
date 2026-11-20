@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,1,data,,"By Todar Mall's settlement, 1582",2,Rupees.,"10,693,152",10693152.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,1,data,,"By Todar Mall's settlement, 1582",3,£,"[1,070,000]",,GBP,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,2,data,,"By Sultan Suja's settlement, 1658",2,Rupees.,"13,115,907",13115907.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,2,data,,"By Sultan Suja's settlement, 1658",3,£,"[1,312,000]",,GBP,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,3,data,,"By Jaffar Khan's settlement, 1722",2,Rupees.,"14,288,186",14288186.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,3,data,,"By Jaffar Khan's settlement, 1722",3,£,"[1,429,000]",,GBP,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,4,data,,"By Suja Khan's settlement, 1728",2,Rupees.,"14,245,561",14245561.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-004,Table 4,113,85,4,data,,"By Suja Khan's settlement, 1728",3,£,"[1,425,000]",,GBP,False,False

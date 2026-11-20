@@ -1,0 +1,43 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,1,data,,"Land Revenue, less refunds",2,Gross. :: £,"22,278,421",22278421.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,1,data,,"Land Revenue, less refunds",3,"Expenses of Collection, &c. :: £","2,966,489",2966489.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,1,data,,"Land Revenue, less refunds",4,Net. :: £,"19,311,932",19311932.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,2,data,,Forests,2,Gross. :: £,"605,433",605433.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,2,data,,Forests,3,"Expenses of Collection, &c. :: £","454,934",454934.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,2,data,,Forests,4,Net. :: £,"150,499",150499.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,3,data,,Tributes,2,Gross. :: £,"703,660",703660.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,3,data,,Tributes,3,"Expenses of Collection, &c. :: £",,,GBP,True,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,3,data,,Tributes,4,Net. :: £,"703,660",703660.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,4,data,,"Excise, less refunds",2,Gross. :: £,"2,613,414",2613414.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,4,data,,"Excise, less refunds",3,"Expenses of Collection, &c. :: £","87,839",87839.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,4,data,,"Excise, less refunds",4,Net. :: £,"2,525,575",2525575.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,5,data,,"Assessed Taxes, less refunds",2,Gross. :: £,"874,929",874929.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,5,data,,"Assessed Taxes, less refunds",3,"Expenses of Collection, &c. :: £","37,617",37617.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,5,data,,"Assessed Taxes, less refunds",4,Net. :: £,"837,312",837312.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,6,data,,"Provincial Rates, less refunds",2,Gross. :: £,"2,608,938",2608938.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,6,data,,"Provincial Rates, less refunds",3,"Expenses of Collection, &c. :: £","64,431",64431.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,6,data,,"Provincial Rates, less refunds",4,Net. :: £,"2,544,507",2544507.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,7,data,,"Customs, less refunds",2,Gross. :: £,"2,261,322",2261322.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,7,data,,"Customs, less refunds",3,"Expenses of Collection, &c. :: £","200,417",200417.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,7,data,,"Customs, less refunds",4,Net. :: £,"2,060,905",2060905.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,8,data,,"Salt, less refunds",2,Gross. :: £,"6,907,774",6907774.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,8,data,,"Salt, less refunds",3,"Expenses of Collection, &c. :: £","404,743",404743.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,8,data,,"Salt, less refunds",4,Net. :: £,"6,503,031",6503031.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,9,data,,Opium,2,Gross. :: £,"9,399,401",9399401.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,9,data,,Opium,3,"Expenses of Collection, &c. :: £","1,698,730",1698730.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,9,data,,Opium,4,Net. :: £,"7,700,671",7700671.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,10,data,,"Stamps, less refunds",2,Gross. :: £,"3,075,271",3075271.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,10,data,,"Stamps, less refunds",3,"Expenses of Collection, &c. :: £","115,452",115452.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,10,data,,"Stamps, less refunds",4,Net. :: £,"2,959,819",2959819.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,11,data,,Mint,2,Gross. :: £,"172,335",172335.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,11,data,,Mint,3,"Expenses of Collection, &c. :: £","103,991",103991.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,11,data,,Mint,4,Net. :: £,"68,344",68344.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,12,data,,Miscellaneous,2,Gross. :: £,"374,365",374365.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,12,data,,Miscellaneous,3,"Expenses of Collection, &c. :: £","306,689",306689.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,12,data,,Miscellaneous,4,Net. :: £,"67,676",67676.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,13,data,,Miscellaneous refunds,2,Gross. :: £,"- 64,575",-64575.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,13,data,,Miscellaneous refunds,3,"Expenses of Collection, &c. :: £",,,GBP,True,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,13,data,,Miscellaneous refunds,4,Net. :: £,"- 64,575",-64575.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,14,total,,Total Revenue — £,2,Gross. :: £,"51,810,688",51810688.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,14,total,,Total Revenue — £,3,"Expenses of Collection, &c. :: £","6,441,332",6441332.0,GBP,False,True
+indian-finance-moxon-1881,tbl-003,Based on Government Form of Accounts.,12,8,14,total,,Total Revenue — £,4,Net. :: £,"45,369,356",45369356.0,GBP,False,True

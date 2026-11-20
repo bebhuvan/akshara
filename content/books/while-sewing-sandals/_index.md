@@ -9,26 +9,26 @@ pages: 366
 chapters: 22
 type: "books"
 layout: "book"
-cover: "/covers/while-sewing-sandals-akshara.webp"
-
+cover: "/covers/while-sewing-sandals.webp"
 description: "An intimate ethnographic account of the Madigas, the leather-working Pariah tribe of the Telugu country in South India. Written by a missionary who spent seventeen years among them, this remarkable work documents their ancient legends, religious practices, and the extraordinary mass movement toward Christianity that saw ten thousand converts in a single year. Through the voices of the Madigas themselves, we witness their search for truth 'while sewing sandals' with their hands."
-
 reading_time: "6-8 hours"
 period: "19th Century India"
 publisher: "Hodder and Stoughton"
 publication_location: "London"
-
 archive_url: "https://archive.org/details/whilesewingsanda00rausrich/mode/2up"
 digitized_from: "Archive.org (University of California Libraries)"
 digitization_method: "AI-assisted extraction via Project Akshara"
-
 downloads:
   epub: "https://drive.google.com/drive/folders/19lF6t9Jfl9RZO8_6CTtgKXJ1-RuoZUkg?usp=sharing"
   pdf: "https://drive.google.com/drive/folders/19lF6t9Jfl9RZO8_6CTtgKXJ1-RuoZUkg?usp=sharing"
   markdown: "https://drive.google.com/drive/folders/19lF6t9Jfl9RZO8_6CTtgKXJ1-RuoZUkg?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/while-sewing-sandals.svg"
+archetype: "village_and_society"
+palette: "Terracotta Loom"
 ---
 
 Emma Rauschenbusch-Clough arrived in India in 1882 as a young missionary and spent the next seventeen years living among the Telugu people. This book is the fruit of countless days spent with the Madigas, listening to their legends and learning about their religious practices.

@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,2,Years. :: s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,3,Price per cwt. :: d.,9,9.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,4,Price per cwt. :: £,8,8.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,5,Years. :: s.,1859,1859.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,6,Years. :: d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,7,Price per cwt. :: £,7,7.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,8,Price per cwt. :: s.,9,9.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,9,Years. :: d.,1863,1863.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,10,Years. :: £,1,1.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,11,Price per cwt. :: s.,6,6.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,12,Price per cwt. :: d.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,13,Years.,1867,1867.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,14,Years.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,15,Price per cwt.,3,3.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,1,data,,1855,16,Price per cwt.,3,3.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,2,Years. :: s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,3,Price per cwt. :: d.,12,12.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,4,Price per cwt. :: £,6,6.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,5,Years. :: s.,1860,1860.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,6,Years. :: d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,7,Price per cwt. :: £,7,7.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,8,Price per cwt. :: s.,1,1.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,9,Years. :: d.,1864,1864.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,10,Years. :: £,1,1.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,11,Price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,12,Price per cwt. :: d.,11,11.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,13,Years.,1868,1868.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,14,Years.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,15,Price per cwt.,3,3.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,2,data,,1856,16,Price per cwt.,6,6.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,2,Years. :: s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,3,Price per cwt. :: d.,17,17.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,4,Price per cwt. :: £,6,6.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,5,Years. :: s.,1861,1861.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,6,Years. :: d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,7,Price per cwt. :: £,8,8.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,8,Price per cwt. :: s.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,9,Years. :: d.,1865,1865.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,10,Years. :: £,1,1.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,11,Price per cwt. :: s.,3,3.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,12,Price per cwt. :: d.,6,6.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,13,Years.,1869,1869.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,14,Years.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,15,Price per cwt.,7,7.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,3,data,,1857,16,Price per cwt.,2,2.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,2,Years. :: s.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,3,Price per cwt. :: d.,10,10.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,4,Price per cwt. :: £,3,3.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,5,Years. :: s.,1862,1862.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,6,Years. :: d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,7,Price per cwt. :: £,6,6.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,8,Price per cwt. :: s.,9,9.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,9,Years. :: d.,1866,1866.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,10,Years. :: £,1,1.0,GBP,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,11,Price per cwt. :: s.,3,3.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,12,Price per cwt. :: d.,4,4.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,13,Years.,1870,1870.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,14,Years.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,15,Price per cwt.,5,5.0,cwt,False,False
+poverty-and-un-british-rule,tbl-046,Table 46,87,67,4,data,,1858,16,Price per cwt.,7,7.0,cwt,False,False

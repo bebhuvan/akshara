@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-016,Table 16,158,134,1,data,,Productive,2,Column 2,"Rs. 31,25,29,480",312529480.0,Rs,False,True
+famines-and-land-assessments,tbl-016,Table 16,158,134,2,data,,Protective,2,Column 2,"2,09,92,530",20992530.0,,False,True
+famines-and-land-assessments,tbl-016,Table 16,158,134,3,total,,Total,2,Column 2,"33,35,22,010",333522010.0,,False,True

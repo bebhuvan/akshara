@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,1,data,,14 Seers,2,Customary Measure in the Ashta gram. :: Bushels.,1 Colaga,,,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,1,data,,14 Seers,3,Cubical inches and Decimals. :: Pecks.,1047.375,1047.375,,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,1,data,,14 Seers,4,Cubical inches and Decimals. :: Pecks.,—,,,True,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,1,data,,14 Seers,5,Winchester Measure. :: Gallons. and Decimals.,1,1.0,gallons,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,1,data,,14 Seers,6,Winchester Measure. :: Gallons. and Decimals.,1.897,1.897,gallons,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,2,data,,20 Colagas,2,Customary Measure in the Ashta gram. :: Bushels.,1 Candaca,,,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,2,data,,20 Colagas,3,Cubical inches and Decimals. :: Pecks.,20947.5,20947.5,,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,2,data,,20 Colagas,4,Cubical inches and Decimals. :: Pecks.,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,2,data,,20 Colagas,5,Winchester Measure. :: Gallons. and Decimals.,2,2.0,gallons,False,False
+journey-from-madras-vol-i,tbl-010,Table 10,165,131,2,data,,20 Colagas,6,Winchester Measure. :: Gallons. and Decimals.,1.94,1.94,gallons,False,False

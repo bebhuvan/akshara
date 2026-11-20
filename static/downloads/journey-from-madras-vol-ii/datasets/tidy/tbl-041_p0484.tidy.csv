@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,1,data,,Jack trees,2,Bearing.,"34,428",34428.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,1,data,,Jack trees,3,Unproductive.,"72,117",72117.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,1,data,,Jack trees,4,Total.,"1,06,545",106545.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,2,data,,Coco-nut trees,2,Bearing.,"3,79,659",379659.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,2,data,,Coco-nut trees,3,Unproductive.,"4,17,630",417630.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,2,data,,Coco-nut trees,4,Total.,"7,97,289",797289.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,3,data,,Betel-nut trees,2,Bearing.,"2,06,699",206699.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,3,data,,Betel-nut trees,3,Unproductive.,"4,37,833",437833.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,3,data,,Betel-nut trees,4,Total.,"6,44,532",644532.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,4,data,,Pepper vines,2,Bearing.,"29,764",29764.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,4,data,,Pepper vines,3,Unproductive.,"87,092",87092.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,4,data,,Pepper vines,4,Total.,"1,16,856",116856.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,5,data,,Brab trees,2,Bearing.,941,941.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,5,data,,Brab trees,3,Unproductive.,"3,741",3741.0,,False,False
+journey-from-madras-vol-ii,tbl-041,Table 41,484,458,5,data,,Brab trees,4,Total.,"4,682",4682.0,,False,False

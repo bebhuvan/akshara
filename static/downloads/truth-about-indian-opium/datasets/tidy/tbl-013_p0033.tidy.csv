@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-013,Table 13,33,29,1,data,,1910–11,2,Excise Revenue plus Sales for Export. :: £,"8,216,540",8216540.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,1,data,,1910–11,3,Gross Revenue of British India. :: £,"80,682,473",80682473.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,2,data,,1911–12,2,Excise Revenue plus Sales for Export. :: £,"5,908,284",5908284.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,2,data,,1911–12,3,Gross Revenue of British India. :: £,"82,835,750",82835750.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,3,data,,1912–13,2,Excise Revenue plus Sales for Export. :: £,"4,470,815",4470815.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,3,data,,1912–13,3,Gross Revenue of British India. :: £,"86,862,598",86862598.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,4,data,,1913–14,2,Excise Revenue plus Sales for Export. :: £,"2,635,444",2635444.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,4,data,,1913–14,3,Gross Revenue of British India. :: £,"85,207,175",85207175.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,5,data,,1914–15,2,Excise Revenue plus Sales for Export. :: £,"2,603,152",2603152.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,5,data,,1914–15,3,Gross Revenue of British India. :: £,"81,157,666",81157666.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,6,data,,1915–16,2,Excise Revenue plus Sales for Export. :: £,"2,924,815",2924815.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,6,data,,1915–16,3,Gross Revenue of British India. :: £,"84,413,537",84413537.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,7,data,,1916–17,2,Excise Revenue plus Sales for Export. :: £,"3,828,508",3828508.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,7,data,,1916–17,3,Gross Revenue of British India. :: £,"98,050,430",98050430.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,8,data,,1917–18,2,Excise Revenue plus Sales for Export. :: £,"3,593,010",3593010.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,8,data,,1917–18,3,Gross Revenue of British India. :: £,"112,662,347",112662347.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,9,data,,1918–19,2,Excise Revenue plus Sales for Export. :: £,"4,042,054",4042054.0,GBP,False,False
+truth-about-indian-opium,tbl-013,Table 13,33,29,9,data,,1918–19,3,Gross Revenue of British India. :: £,"123,257,744",123257744.0,GBP,False,False

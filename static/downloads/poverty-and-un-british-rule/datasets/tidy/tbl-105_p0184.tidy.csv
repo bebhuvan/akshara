@@ -1,0 +1,166 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,1,data,,1 Delhi,2,Acres.,"34,881",34881.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,1,data,,1 Delhi,3,Per Acre. :: lbs.,"1,500",1500.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"52,321,500",52321500.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,1,data,,1 Delhi,5,1st sort. Price per Re. 1. :: lbs.,5·49,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,1,data,,1 Delhi,6,Total Value. :: Rs.,"95,30,328",9530328.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,2,data,,2 Gurgaon,2,Acres.,"1,125",1125.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,646,646.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"726,750",726750.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,2,data,,2 Gurgaon,5,1st sort. Price per Re. 1. :: lbs.,6·68,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,2,data,,2 Gurgaon,6,Total Value. :: Rs.,"1,08,795",108795.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,3,data,,3 Kárnal,2,Acres.,"14,309",14309.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,3,data,,3 Kárnal,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,3,data,,3 Kárnal,4,Total Quantity. :: lbs.,"9,243,614",9243614.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,3,data,,3 Kárnal,5,1st sort. Price per Re. 1. :: lbs.,7·03,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,3,data,,3 Kárnal,6,Total Value. :: Rs.,"13,14,881",1314881.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,4,data,,4 Hissar,2,Acres.,34,34.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,4,data,,4 Hissar,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,4,data,,4 Hissar,4,Total Quantity. :: lbs.,"21,964",21964.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,4,data,,4 Hissar,5,1st sort. Price per Re. 1. :: lbs.,..,,lbs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,4,data,,4 Hissar,6,Total Value. :: Rs.,..,,Rs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,5,data,,5 Rohtak,2,Acres.,"33,324",33324.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,5,data,,5 Rohtak,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,"21,527,304",21527304.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,5,data,,5 Rohtak,5,1st sort. Price per Re. 1. :: lbs.,8·14,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,5,data,,5 Rohtak,6,Total Value. :: Rs.,"26,44,631",2644631.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,6,data,,6 Sirsa,2,Acres.,6,6.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,6,data,,6 Sirsa,3,Per Acre. :: lbs.,389,389.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,6,data,,6 Sirsa,4,Total Quantity. :: lbs.,"2,334",2334.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,6,data,,6 Sirsa,5,1st sort. Price per Re. 1. :: lbs.,6·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,6,data,,6 Sirsa,6,Total Value. :: Rs.,368,368.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,7,data,,7 Umballa,2,Acres.,"25,540",25540.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,7,data,,7 Umballa,3,Per Acre. :: lbs.,280,280.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,7,data,,7 Umballa,4,Total Quantity. :: lbs.,"7,151,200",7151200.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,7,data,,7 Umballa,5,1st sort. Price per Re. 1. :: lbs.,5·83,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,7,data,,7 Umballa,6,Total Value. :: Rs.,"12,26,620",1226620.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,8,data,,8 Ludhiána,2,Acres.,"14,400",14400.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,8,data,,8 Ludhiána,3,Per Acre. :: lbs.,661,661.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,8,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"9,518,400",9518400.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,8,data,,8 Ludhiána,5,1st sort. Price per Re. 1. :: lbs.,6·86,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,8,data,,8 Ludhiána,6,Total Value. :: Rs.,"13,87,521",1387521.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,9,data,,9 Simla,2,Acres.,..,,acres,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,9,data,,9 Simla,3,Per Acre. :: lbs.,..,,acres,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,9,data,,9 Simla,4,Total Quantity. :: lbs.,..,,lbs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,9,data,,9 Simla,5,1st sort. Price per Re. 1. :: lbs.,..,,lbs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,9,data,,9 Simla,6,Total Value. :: Rs.,..,,Rs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,10,data,,10 Jullundar,2,Acres.,"43,963",43963.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,10,data,,10 Jullundar,3,Per Acre. :: lbs.,531,531.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,10,data,,10 Jullundar,4,Total Quantity. :: lbs.,"23,344,353",23344353.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,10,data,,10 Jullundar,5,1st sort. Price per Re. 1. :: lbs.,6·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,10,data,,10 Jullundar,6,Total Value. :: Rs.,"35,85,922",3585922.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,11,data,,11 Hoshiarpur,2,Acres.,"42,015",42015.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,11,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,597,597.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,11,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"25,082,955",25082955.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,11,data,,11 Hoshiarpur,5,1st sort. Price per Re. 1. :: lbs.,6·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,11,data,,11 Hoshiarpur,6,Total Value. :: Rs.,"38,52,988",3852988.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,12,data,,12 Kángra,2,Acres.,"8,139",8139.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,12,data,,12 Kángra,3,Per Acre. :: lbs.,494,494.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,12,data,,12 Kángra,4,Total Quantity. :: lbs.,"4,020,666",4020666.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,12,data,,12 Kángra,5,1st sort. Price per Re. 1. :: lbs.,6·43,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,12,data,,12 Kángra,6,Total Value. :: Rs.,"6,25,297",625297.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,13,data,,13 Amritsar,2,Acres.,"36,579",36579.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,13,data,,13 Amritsar,3,Per Acre. :: lbs.,646,646.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,13,data,,13 Amritsar,4,Total Quantity. :: lbs.,"23,630,034",23630034.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,13,data,,13 Amritsar,5,1st sort. Price per Re. 1. :: lbs.,7·11,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,13,data,,13 Amritsar,6,Total Value. :: Rs.,"33,23,492",3323492.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,14,data,,14 Gurdáspur,2,Acres.,"41,375",41375.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,14,data,,14 Gurdáspur,3,Per Acre. :: lbs.,360,360.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,14,data,,14 Gurdáspur,4,Total Quantity. :: lbs.,"14,895,000",14895000.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,14,data,,14 Gurdáspur,5,1st sort. Price per Re. 1. :: lbs.,5·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,14,data,,14 Gurdáspur,6,Total Value. :: Rs.,"26,36,283",2636283.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,15,data,,15 Siálkot,2,Acres.,"29,009",29009.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,15,data,,15 Siálkot,3,Per Acre. :: lbs.,646,646.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,15,data,,15 Siálkot,4,Total Quantity. :: lbs.,"18,739,814",18739814.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,15,data,,15 Siálkot,5,1st sort. Price per Re. 1. :: lbs.,6·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,15,data,,15 Siálkot,6,Total Value. :: Rs.,"28,78,619",2878619.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,16,data,,16 Lahore,2,Acres.,"2,527",2527.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,16,data,,16 Lahore,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,16,data,,16 Lahore,4,Total Quantity. :: lbs.,"1,632,442",1632442.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,16,data,,16 Lahore,5,1st sort. Price per Re. 1. :: lbs.,5·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,16,data,,16 Lahore,6,Total Value. :: Rs.,"2,88,927",288927.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,17,data,,17 Gujránwála,2,Acres.,"26,625",26625.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,17,data,,17 Gujránwála,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,17,data,,17 Gujránwála,4,Total Quantity. :: lbs.,"17,199,750",17199750.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,17,data,,17 Gujránwála,5,1st sort. Price per Re. 1. :: lbs.,7·2,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,17,data,,17 Gujránwála,6,Total Value. :: Rs.,"25,27,743",2527743.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,18,data,,18 Firozepore,2,Acres.,"1,916",1916.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,18,data,,18 Firozepore,3,Per Acre. :: lbs.,410,410.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,18,data,,18 Firozepore,4,Total Quantity. :: lbs.,"785,560",785560.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,18,data,,18 Firozepore,5,1st sort. Price per Re. 1. :: lbs.,6·,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,18,data,,18 Firozepore,6,Total Value. :: Rs.,"1,30,926",130926.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,19,data,,19 Ráwalpindi,2,Acres.,"2,381",2381.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,19,data,,19 Ráwalpindi,3,Per Acre. :: lbs.,646,646.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,19,data,,19 Ráwalpindi,4,Total Quantity. :: lbs.,"1,538,126",1538126.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,19,data,,19 Ráwalpindi,5,1st sort. Price per Re. 1. :: lbs.,6·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,19,data,,19 Ráwalpindi,6,Total Value. :: Rs.,"2,42,606",242606.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,20,data,,20 Jhelum,2,Acres.,414,414.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,20,data,,20 Jhelum,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,20,data,,20 Jhelum,4,Total Quantity. :: lbs.,"267,444",267444.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,20,data,,20 Jhelum,5,1st sort. Price per Re. 1. :: lbs.,5·83,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,20,data,,20 Jhelum,6,Total Value. :: Rs.,"45,873",45873.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,21,data,,21 Gujrát,2,Acres.,"7,221",7221.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,21,data,,21 Gujrát,3,Per Acre. :: lbs.,660,660.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,21,data,,21 Gujrát,4,Total Quantity. :: lbs.,"4,765,860",4765860.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,21,data,,21 Gujrát,5,1st sort. Price per Re. 1. :: lbs.,6·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,21,data,,21 Gujrát,6,Total Value. :: Rs.,"7,32,082",732082.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,22,data,,22 Shahpur,2,Acres.,"1,312",1312.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,22,data,,22 Shahpur,3,Per Acre. :: lbs.,646,646.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,22,data,,22 Shahpur,4,Total Quantity. :: lbs.,"847,552",847552.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,22,data,,22 Shahpur,5,1st sort. Price per Re. 1. :: lbs.,..,,lbs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,22,data,,22 Shahpur,6,Total Value. :: Rs.,..,,Rs,True,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,23,data,,23 Mooltan,2,Acres.,"3,726",3726.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,23,data,,23 Mooltan,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,23,data,,23 Mooltan,4,Total Quantity. :: lbs.,"2,406,996",2406996.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,23,data,,23 Mooltan,5,1st sort. Price per Re. 1. :: lbs.,6·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,23,data,,23 Mooltan,6,Total Value. :: Rs.,"3,90,112",390112.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,24,data,,24 Jhang,2,Acres.,260,260.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,24,data,,24 Jhang,3,Per Acre. :: lbs.,261,261.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,24,data,,24 Jhang,4,Total Quantity. :: lbs.,"67,860",67860.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,24,data,,24 Jhang,5,1st sort. Price per Re. 1. :: lbs.,5·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,24,data,,24 Jhang,6,Total Value. :: Rs.,"11,482",11482.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,25,data,,25 Montgomery,2,Acres.,113,113.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,25,data,,25 Montgomery,3,Per Acre. :: lbs.,646,646.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,25,data,,25 Montgomery,4,Total Quantity. :: lbs.,"72,998",72998.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,25,data,,25 Montgomery,5,1st sort. Price per Re. 1. :: lbs.,6·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,25,data,,25 Montgomery,6,Total Value. :: Rs.,"11,831",11831.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,26,data,,26 Mazaffargarh,2,Acres.,"4,355",4355.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,26,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,26,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"2,813,330",2813330.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,26,data,,26 Mazaffargarh,5,1st sort. Price per Re. 1. :: lbs.,5·83,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,26,data,,26 Mazaffargarh,6,Total Value. :: Rs.,"4,82,560",482560.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,27,data,,27 D. I. Khan,2,Acres.,88,88.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,27,data,,27 D. I. Khan,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,27,data,,27 D. I. Khan,4,Total Quantity. :: lbs.,"56,848",56848.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,27,data,,27 D. I. Khan,5,1st sort. Price per Re. 1. :: lbs.,5·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,27,data,,27 D. I. Khan,6,Total Value. :: Rs.,"10,061",10061.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,28,data,,28 D. G. Khan,2,Acres.,55,55.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,28,data,,28 D. G. Khan,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,28,data,,28 D. G. Khan,4,Total Quantity. :: lbs.,"35,530",35530.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,28,data,,28 D. G. Khan,5,1st sort. Price per Re. 1. :: lbs.,5·23,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,28,data,,28 D. G. Khan,6,Total Value. :: Rs.,"6,793",6793.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,29,data,,29 Bannu,2,Acres.,"5,443",5443.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,29,data,,29 Bannu,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,29,data,,29 Bannu,4,Total Quantity. :: lbs.,"3,516,178",3516178.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,29,data,,29 Bannu,5,1st sort. Price per Re. 1. :: lbs.,5·36,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,29,data,,29 Bannu,6,Total Value. :: Rs.,"6,56,003",656003.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,30,data,,30 Pesháwar,2,Acres.,"9,914",9914.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,30,data,,30 Pesháwar,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,30,data,,30 Pesháwar,4,Total Quantity. :: lbs.,"6,404,444",6404444.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,30,data,,30 Pesháwar,5,1st sort. Price per Re. 1. :: lbs.,6·08,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,30,data,,30 Pesháwar,6,Total Value. :: Rs.,"10,53,362",1053362.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,31,data,,31 Hazára,2,Acres.,561,561.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,31,data,,31 Hazára,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,31,data,,31 Hazára,4,Total Quantity. :: lbs.,"362,406",362406.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,31,data,,31 Hazára,5,1st sort. Price per Re. 1. :: lbs.,5·49,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,31,data,,31 Hazára,6,Total Value. :: Rs.,"66,022",66022.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,32,data,,32 Kohát,2,Acres.,20,20.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,32,data,,32 Kohát,3,Per Acre. :: lbs.,",,",,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,32,data,,32 Kohát,4,Total Quantity. :: lbs.,"12,920",12920.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,32,data,,32 Kohát,5,1st sort. Price per Re. 1. :: lbs.,5·74,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,32,data,,32 Kohát,6,Total Value. :: Rs.,"2,250",2250.0,Rs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,33,total,,Total,2,Acres.,"391,630",391630.0,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,33,total,,Total,3,Per Acre. :: lbs.,Average 646,,acres,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,33,total,,Total,4,Total Quantity. :: lbs.,"253,012,132",253012132.0,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,33,total,,Total,5,1st sort. Price per Re. 1. :: lbs.,Average 6·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-105,Sugar.,184,164,33,total,,Total,6,Total Value. :: Rs.,"3,97,74,378 for 252,142,616 lbs., excluding the two quantities marked .",,Rs,False,True

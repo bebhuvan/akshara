@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,2,Sandal wood trees. Total.,8758,8758.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,3,Teak trees cut annually.,—,,,True,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,4,Sissa trees cut annually.,1582,1582.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,5,Annual produce of honey. :: Maunds.,—,,maunds,True,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,6,Annual produce of bees wax. :: Maunds.,—,,maunds,True,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,7,Annual produce wild cin-namon. :: Maunds.,8 30,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,8,Annual produce of Cabob China. :: Maunds.,25 30,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,9,Annual produce nutmegs :: Maunds.,—,,maunds,True,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,1,data,,Kunda-pura,10,Annual produce of wild pepper. :: Maunds.,51 0,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,2,Sandal wood trees. Total.,1017,1017.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,3,Teak trees cut annually.,2059,2059.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,4,Sissa trees cut annually.,344,344.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,5,Annual produce of honey. :: Maunds.,—,,maunds,True,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,6,Annual produce of bees wax. :: Maunds.,—,,maunds,True,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,7,Annual produce wild cin-namon. :: Maunds.,99 35,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,8,Annual produce of Cabob China. :: Maunds.,42 32½,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,9,Annual produce nutmegs :: Maunds.,12 5,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,2,data,,Honawera,10,Annual produce of wild pepper. :: Maunds.,533 0,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,2,Sandal wood trees. Total.,315,315.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,3,Teak trees cut annually.,1124,1124.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,4,Sissa trees cut annually.,572,572.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,5,Annual produce of honey. :: Maunds.,8 0,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,6,Annual produce of bees wax. :: Maunds.,2 7½,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,7,Annual produce wild cin-namon. :: Maunds.,15 10,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,8,Annual produce of Cabob China. :: Maunds.,50 14,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,9,Annual produce nutmegs :: Maunds.,28 17½,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,3,data,,Ancola,10,Annual produce of wild pepper. :: Maunds.,474 38¾,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,2,Sandal wood trees. Total.,10143,10143.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,3,Teak trees cut annually.,3183,3183.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,4,Sissa trees cut annually.,2498,2498.0,,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,5,Annual produce of honey. :: Maunds.,8 0,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,6,Annual produce of bees wax. :: Maunds.,2 7½,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,7,Annual produce wild cin-namon. :: Maunds.,123 35,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,8,Annual produce of Cabob China. :: Maunds.,118 36½,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,9,Annual produce nutmegs :: Maunds.,40 22½,,maunds,False,False
+journey-from-madras-vol-iii,tbl-019,Table 19,216,192,4,total,,Total,10,Annual produce of wild pepper. :: Maunds.,1058 38¾,,maunds,False,False

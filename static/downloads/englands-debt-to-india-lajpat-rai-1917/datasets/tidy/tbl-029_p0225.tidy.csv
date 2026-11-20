@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,225,185,1,data,,1903–04,2,Column 2,"£ 891,011",891011.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,225,185,2,data,,1904–05,2,Column 2,"1,139,181",1139181.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,225,185,3,data,,1905–06,2,Column 2,"1,337,108",1337108.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,225,185,4,data,,1906–07,2,Column 2,"1,547,306",1547306.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,5,data,,1907-08,2,Column 2,"£1,365,631",1365631.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,6,data,,1908-09,2,Column 2,"1,364,536",1364536.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,7,data,,1909-10,2,Column 2,"1,850,846",1850846.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,8,data,,1910-11,2,Column 2,"1,867,323",1867323.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,9,data,,1911-12,2,Column 2,"1,659,622",1659622.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,10,data,,1912-13,2,Column 2,"1,704,785",1704785.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-029,Table 29,226,185,11,data,,1913-14,2,Column 2,"1,621,111",1621111.0,,False,False

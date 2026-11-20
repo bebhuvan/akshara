@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-061,"Expected supplies of coolthee from the Southern Canara, viz.",260,248,1,data,,Mysore Gunnies,2,Column 2,"10,000",10000.0,,False,True
+report-past-famines-bombay-etheridge-1868,tbl-061,"Expected supplies of coolthee from the Southern Canara, viz.",260,248,2,data,,"Deduct received by the Carron 1,000 moorees, or",2,Column 2,500,500.0,,False,True
+report-past-famines-bombay-etheridge-1868,tbl-061,"Expected supplies of coolthee from the Southern Canara, viz.",260,248,3,total,,Gunnies,2,Column 2,"9,500",9500.0,,False,True

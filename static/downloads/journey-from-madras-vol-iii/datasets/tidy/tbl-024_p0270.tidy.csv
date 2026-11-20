@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,1,data,,Supa,2,Land capable of cultivation.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,1,data,,Supa,3,Sterile lands.,88,88.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,2,data,,"Soonda, or Sudha",2,Land capable of cultivation.,16,16.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,2,data,,"Soonda, or Sudha",3,Sterile lands.,84,84.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,3,data,,Banawási,2,Land capable of cultivation.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,3,data,,Banawási,3,Sterile lands.,80,80.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,4,data,,Billighy,2,Land capable of cultivation.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-024,Table 24,270,244,4,data,,Billighy,3,Sterile lands.,80,80.0,,False,False

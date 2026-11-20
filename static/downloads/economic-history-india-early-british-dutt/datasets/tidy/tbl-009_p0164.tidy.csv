@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-009,Table 9,164,136,1,subtotal,,"Total gross produce, say",2,Column 2,100,100.0,,False,False
+economic-history-india-early-british-dutt,tbl-009,Table 9,164,136,2,data,,Government share by the present assessment,2,Column 2,45,45.0,,False,False
+economic-history-india-early-british-dutt,tbl-009,Table 9,164,136,3,data,,Deduct 25 per cent. of assessment,2,Column 2,11¼,11.25,,False,False
+economic-history-india-early-british-dutt,tbl-009,Table 9,164,136,4,total,,Government’s share by proposed permanent assessment,2,Column 2,33¾,33.75,,False,False

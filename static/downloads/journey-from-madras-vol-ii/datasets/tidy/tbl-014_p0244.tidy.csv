@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,1,data,,Cambu,2,Seed. :: Per Bulla. :: Bullas.,6,6.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,1,data,,Cambu,3,Seed. :: Per Acre. :: Gallons. dec.,"1,018",1018.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,1,data,,Cambu,4,Produce. :: Per Bulla. :: Podis.,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,1,data,,Cambu,5,Produce. :: Per Acre. :: Bushels. dec.,"6,11",611.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,2,data,,Colu,2,Seed. :: Per Bulla. :: Bullas.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,2,data,,Colu,3,Seed. :: Per Acre. :: Gallons. dec.,"1,697",1697.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,2,data,,Colu,4,Produce. :: Per Bulla. :: Podis.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,2,data,,Colu,5,Produce. :: Per Acre. :: Bushels. dec.,"4,073",4073.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,3,data,,Sholum,2,Seed. :: Per Bulla. :: Bullas.,8,8.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,3,data,,Sholum,3,Seed. :: Per Acre. :: Gallons. dec.,"1,358",1358.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,3,data,,Sholum,4,Produce. :: Per Bulla. :: Podis.,2 1/2,2.5,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,3,data,,Sholum,5,Produce. :: Per Acre. :: Bushels. dec.,"5,092",5092.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,4,data,,Varagu,2,Seed. :: Per Bulla. :: Bullas.,8,8.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,4,data,,Varagu,3,Seed. :: Per Acre. :: Gallons. dec.,"1,358",1358.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,4,data,,Varagu,4,Produce. :: Per Bulla. :: Podis.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,4,data,,Varagu,5,Produce. :: Per Acre. :: Bushels. dec.,"8,147",8147.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,5,data,,Shamay,2,Seed. :: Per Bulla. :: Bullas.,8,8.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,5,data,,Shamay,3,Seed. :: Per Acre. :: Gallons. dec.,"1,358",1358.0,acres,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,5,data,,Shamay,4,Produce. :: Per Bulla. :: Podis.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-014,Table 14,244,228,5,data,,Shamay,5,Produce. :: Per Acre. :: Bushels. dec.,"8,147",8147.0,acres,False,False

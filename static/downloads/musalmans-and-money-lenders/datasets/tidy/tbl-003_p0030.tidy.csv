@@ -1,0 +1,49 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,1,data,,1,2,Name of tribe or caste.,Pathans (Afghans).,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,1,data,,1,3,Number.,"745,000",745000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,1,data,,1,4,Percentage to grand total of Musalmans.,19,19.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,1,data,,1,5,Distribution.,"Chiefly in the Hazara district, and Trans-Indus, as far south as the southern boundary of the Dera-Ismail-Khan district.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,2,data,,2,2,Name of tribe or caste.,Biluches.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,2,data,,2,3,Number.,"279,000",279000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,2,data,,2,4,Percentage to grand total of Musalmans.,7,7.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,2,data,,2,5,Distribution.,"Trans-Indus, in the Dera-Ghazi-Khan district, also in adjacent Cis-Indus tracts.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,3,data,,3,2,Name of tribe or caste.,Jats.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,3,data,,3,3,Number.,"1,082,000",1082000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,3,data,,3,4,Percentage to grand total of Musalmans.,27,27.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,3,data,,3,5,Distribution.,"Thickest throughout the south-western plain, but to be found everywhere.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,4,data,,4,2,Name of tribe or caste.,"Rajputs (535,000) including Karials, 10,000 Khakhars, 36,000 Kharrals, 19,000",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,4,data,,4,3,Number.,"600,000",600000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,4,data,,4,4,Percentage to grand total of Musalmans.,15,15.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,4,data,,4,5,Distribution.,"Throughout submontane tracts in the northern table-land (Cis-Indus), also south of the Salt Range in the Mooltan, Jhang, and Montgomery districts.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,5,data,,5,2,Name of tribe or caste.,"Syads, Shekhs, and Uluma.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,5,data,,5,3,Number.,"272,000",272000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,5,data,,5,4,Percentage to grand total of Musalmans.,7,7.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,5,data,,5,5,Distribution.,"Everywhere, but thickest north of the Salt Range.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,6,data,,6,2,Name of tribe or caste.,Awans.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,6,data,,6,3,Number.,"485,000",485000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,6,data,,6,4,Percentage to grand total of Musalmans.,12,12.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,6,data,,6,5,Distribution.,"Throughout Gujrat and the northern table-land (Cis-Indus) generally, also in the Peshawar valley, Salt Range, and Kohat.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,7,data,,7,2,Name of tribe or caste.,Gujars.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,7,data,,7,3,Number.,"215,000",215000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,7,data,,7,4,Percentage to grand total of Musalmans.,5,5.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,7,data,,7,5,Distribution.,"Throughout Gujrat and the northern table-land (Cis-Indus) generally, also in the Peshawar valley.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,8,data,,8,2,Name of tribe or caste.,Ghakhars.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,8,data,,8,3,Number.,"26,000",26000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,8,data,,8,4,Percentage to grand total of Musalmans.,1,1.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,8,data,,8,5,Distribution.,"Almost exclusively in the Rawalpindi, Hazara, and Jhelum districts of the northern table-land.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,9,data,,9,2,Name of tribe or caste.,Moghels and Turks.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,9,data,,9,3,Number.,"68,000",68000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,9,data,,9,4,Percentage to grand total of Musalmans.,2,2.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,9,data,,9,5,Distribution.,"North-west corner of northern table-land, viz., in the Rawalpindi, Hazara, and Peshawar districts.",,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,10,data,,10,2,Name of tribe or caste.,Arains including Bhagwans.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,10,data,,10,3,Number.,"134,000",134000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,10,data,,10,4,Percentage to grand total of Musalmans.,3,3.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,10,data,,10,5,Distribution.,Everywhere.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,11,data,,11,2,Name of tribe or caste.,Miscellaneous.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,11,data,,11,3,Number.,"94,000",94000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,11,data,,11,4,Percentage to grand total of Musalmans.,2,2.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,11,data,,11,5,Distribution.,Ditto.,,,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,12,total,,Total,2,Name of tribe or caste.,,,,True,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,12,total,,Total,3,Number.,"4,000,000",4000000.0,count,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,12,total,,Total,4,Percentage to grand total of Musalmans.,100,100.0,%,False,True
+musalmans-and-money-lenders,tbl-003,Table 3,30,18,12,total,,Total,5,Distribution.,,,,True,True

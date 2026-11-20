@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,1,data,,Biana,2,Exports in cwt. :: 1638–9.,385,385.0,cwt,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,1,data,,Biana,3,Average Price in Rupees per cwt. paid on the spot. :: 1639–40.,70,70.0,Rs,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,1,data,,Biana,4,1640–41.,927,927.0,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,1,data,,Biana,5,1638–9.,106·3,,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,1,data,,Biana,6,1639–40.,93·3,,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,1,data,,Biana,7,1640–41.,76·4,,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,2,data,,Sarkhej,2,Exports in cwt. :: 1638–9.,1060,1060.0,cwt,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,2,data,,Sarkhej,3,Average Price in Rupees per cwt. paid on the spot. :: 1639–40.,661,661.0,Rs,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,2,data,,Sarkhej,4,1640–41.,75,75.0,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,2,data,,Sarkhej,5,1638–9.,90·6,,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,2,data,,Sarkhej,6,1639–40.,58·1,,,False,False
+from-akbar-to-aurangzeb,tbl-009,Table 9,134,112,2,data,,Sarkhej,7,1640–41.,56·6,,,False,False

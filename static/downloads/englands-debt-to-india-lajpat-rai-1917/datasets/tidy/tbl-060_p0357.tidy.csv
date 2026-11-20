@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-060,Table 60,357,317,1,data,,Europeans received,2,Column 2,R.,,Rs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-060,Table 60,357,317,1,data,,Europeans received,3,Column 3,"3,590,000",3590000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-060,Table 60,357,317,2,data,,Eurasians “,2,Column 2,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-060,Table 60,357,317,2,data,,Eurasians “,3,Column 3,"844,000",844000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-060,Table 60,357,317,3,data,,Indians “,2,Column 2,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-060,Table 60,357,317,3,data,,Indians “,3,Column 3,"2,457,000",2457000.0,,False,False

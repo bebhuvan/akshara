@@ -5,11 +5,13 @@ full_name: "John Nicol Farquhar"
 birth_year: 1861
 death_year: 1929
 birth_place: "Aberdeen, Scotland"
-languages: ["English", "Bengali", "Sanskrit"]
+languages:
+  - "English"
+  - "Bengali"
+  - "Sanskrit"
 short_bio: "Scottish missionary, Orientalist, and scholar of Indian religions who pioneered the study of modern religious movements in India"
 works_count: 1
 first_publication: 1913
-
 timeline:
   - year: 1861
     title: "Birth in Aberdeen"

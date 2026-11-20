@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,1,data,,1. Interest on Debt and Management of Debt,2,£,"3,052,410",3052410.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,2,data,,"2. Cost of Mail Service, Telegraph Lines, &c., charged to India",2,£,"227,288",227288.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,3,data,,"3. Railways, State and Guaranteed (Interest and Annuities)",2,£,"6,416,373",6416373.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,4,data,,"4. Public Works (Absentee Allowances, &c.)",2,£,"51,214",51214.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,5,data,,5. Marine Charges (including H. M. Ships in Indian Seas),2,£,"173,502",173502.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,6,data,,6. Military Charges (including Pensions),2,£,"2,945,614",2945614.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,7,data,,"7. Civil Charges (including Secretary of State's Establishment, Cooper's Hill College, Pensions, &c.)",2,£,"2,435,370",2435370.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,8,data,,8. Stores (including those for Defence Works),2,£,"2,057,934",2057934.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-073,Table 73,632,604,9,total,,Total,2,£,"17,368,655",17368655.0,GBP,False,False

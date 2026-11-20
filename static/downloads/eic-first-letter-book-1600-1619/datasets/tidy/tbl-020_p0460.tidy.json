@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "eic-first-letter-book-1600-1619",
+    "table_id": "tbl-020",
+    "caption": "Table 20",
+    "page_number": 460,
+    "printed_folio": "368",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "The difference is",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "580",
+    "value_numeric": 580.0,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "eic-first-letter-book-1600-1619",
+    "table_id": "tbl-020",
+    "caption": "Table 20",
+    "page_number": 460,
+    "printed_folio": "368",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Thone halfe is",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "y 290",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

@@ -1,0 +1,52 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,1,data,,"The towne of Mazagon, with all its rents and pretences",2,xs.,"9,300",9300.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,1,data,,"The towne of Mazagon, with all its rents and pretences",3,laris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,1,data,,"The towne of Mazagon, with all its rents and pretences",4,rees.,40,40.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,2,data,,"Maim, with its rents",2,xs.,"4,797",4797.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,2,data,,"Maim, with its rents",3,laris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,2,data,,"Maim, with its rents",4,rees.,45,45.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,3,data,,"Parela, with its rents",2,xs.,"2,377",2377.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,3,data,,"Parela, with its rents",3,laris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,3,data,,"Parela, with its rents",4,rees.,56,56.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,4,data,,"Vadala, with its rents",2,xs.,"1,738",1738.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,4,data,,"Vadala, with its rents",3,laris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,4,data,,"Vadala, with its rents",4,rees.,40,40.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,5,data,,"Siaon, with its rents",2,xs.,790,790.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,5,data,,"Siaon, with its rents",3,laris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,5,data,,"Siaon, with its rents",4,rees.,62,62.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,6,data,,"Varely, with its rents",2,xs.,571,571.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,6,data,,"Varely, with its rents",3,laris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,6,data,,"Varely, with its rents",4,rees.,34,34.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,7,data,,"Bombaim, with its rents",2,xs.,"6,344",6344.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,7,data,,"Bombaim, with its rents",3,laris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,7,data,,"Bombaim, with its rents",4,rees.,61,61.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,8,subtotal,,Row 8,2,xs.,"25,920",25920.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,8,subtotal,,Row 8,3,laris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,8,subtotal,,Row 8,4,rees.,18,18.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,9,header,,Row 9,2,xs.,xs.,,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,9,header,,Row 9,3,laris.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,9,header,,Row 9,4,rees.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,10,data,,The rent of tobacco,2,xs.,"9,550",9550.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,10,data,,The rent of tobacco,3,laris.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,10,data,,The rent of tobacco,4,rees.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,11,data,,The rent of the taverns,2,xs.,"2,400",2400.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,11,data,,The rent of the taverns,3,laris.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,11,data,,The rent of the taverns,4,rees.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,12,data,,The customes,2,xs.,"18,000",18000.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,12,data,,The customes,3,laris.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,12,data,,The customes,4,rees.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,13,data,,The coconutts received for rent of the gardens,2,xs.,"18,000",18000.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,13,data,,The coconutts received for rent of the gardens,3,laris.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,13,data,,The coconutts received for rent of the gardens,4,rees.,,,,True,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,14,subtotal,,Row 14,2,xs.,"xs. 47,950",47950.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,14,subtotal,,Row 14,3,laris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,14,subtotal,,Row 14,4,rees.,00,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,15,data,,The summe of which is,2,xs.,"73,870",73870.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,15,data,,The summe of which is,3,laris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,15,data,,The summe of which is,4,rees.,18,18.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,16,data,,More may bee advanced,2,xs.,"1,129",1129.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,16,data,,More may bee advanced,3,laris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,16,data,,More may bee advanced,4,rees.,62,62.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,17,total,,Summe total is,2,xs.,"75,000",75000.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,17,total,,Summe total is,3,laris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-002,Table 2,321,307,17,total,,Summe total is,4,rees.,00,0.0,,False,True

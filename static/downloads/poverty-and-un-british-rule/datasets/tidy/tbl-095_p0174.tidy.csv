@@ -1,0 +1,176 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,1,data,,1 Delhi,2,Acres.,"114,677",114677.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,1,data,,1 Delhi,3,Per Acre. :: lbs.,522,522.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"59,816,394",59816394.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,1,data,,1 Delhi,5,Price per Re. 1. :: lbs.,66·85,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,1,data,,1 Delhi,6,Total Value. :: Rs.,"8,95,458",895458.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,2,data,,2 Gurgaon,2,Acres.,"404,175",404175.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,447,447.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"180,666,225",180666225.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,2,data,,2 Gurgaon,5,Price per Re. 1. :: lbs.,66·,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,2,data,,2 Gurgaon,6,Total Value. :: Rs.,"27,37,367",2737367.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,3,data,,3 Karnál,2,Acres.,"196,787",196787.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,3,data,,3 Karnál,3,Per Acre. :: lbs.,521,521.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,3,data,,3 Karnál,4,Total Quantity. :: lbs.,"102,526,027",102526027.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,3,data,,3 Karnál,5,Price per Re. 1. :: lbs.,64·79,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,3,data,,3 Karnál,6,Total Value. :: Rs.,"15,82,436",1582436.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,4,data,,4 Hissar,2,Acres.,"1,256,158",1256158.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,4,data,,4 Hissar,3,Per Acre. :: lbs.,393,393.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,4,data,,4 Hissar,4,Total Quantity. :: lbs.,"493,670,094",493670094.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,4,data,,4 Hissar,5,Price per Re. 1. :: lbs.,76·79,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,4,data,,4 Hissar,6,Total Value. :: Rs.,"64,28,833",6428833.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,5,data,,5 Rohtak,2,Acres.,"441,437",441437.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,5,data,,5 Rohtak,3,Per Acre. :: lbs.,412,412.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,"181,872,044",181872044.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,5,data,,5 Rohtak,5,Price per Re. 1. :: lbs.,64·79,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,5,data,,5 Rohtak,6,Total Value. :: Rs.,"28,07,100",2807100.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,6,data,,6 Sirsa,2,Acres.,"680,225",680225.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,6,data,,6 Sirsa,3,Per Acre. :: lbs.,118,118.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,6,data,,6 Sirsa,4,Total Quantity. :: lbs.,"80,266,550",80266550.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,6,data,,6 Sirsa,5,Price per Re. 1. :: lbs.,104·39,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,6,data,,6 Sirsa,6,Total Value. :: Rs.,"7,68,910",768910.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,7,data,,7 Umballa,2,Acres.,"195,893",195893.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,7,data,,7 Umballa,3,Per Acre. :: lbs.,680,680.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,7,data,,7 Umballa,4,Total Quantity. :: lbs.,"133,207,240",133207240.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,7,data,,7 Umballa,5,Price per Re. 1. :: lbs.,66·16,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,7,data,,7 Umballa,6,Total Value. :: Rs.,"20,13,410",2013410.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,8,data,,8 Ludhiána,2,Acres.,"214,111",214111.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,8,data,,8 Ludhiána,3,Per Acre. :: lbs.,"1,355",1355.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,8,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"290,120,405",290120405.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,8,data,,8 Ludhiána,5,Price per Re. 1. :: lbs.,68·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,8,data,,8 Ludhiána,6,Total Value. :: Rs.,"42,10,135",4210135.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,9,data,,9 Simla,2,Acres.,"3,406",3406.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,9,data,,9 Simla,3,Per Acre. :: lbs.,520,520.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,9,data,,9 Simla,4,Total Quantity. :: lbs.,"1,771,120",1771120.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,9,data,,9 Simla,5,Price per Re. 1. :: lbs.,40·11,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,9,data,,9 Simla,6,Total Value. :: Rs.,"44,156",44156.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,10,data,,10 Jullundar,2,Acres.,"165,767",165767.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,10,data,,10 Jullundar,3,Per Acre. :: lbs.,395,395.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,10,data,,10 Jullundar,4,Total Quantity. :: lbs.,"65,477,965",65477965.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,10,data,,10 Jullundar,5,Price per Re. 1. :: lbs.,62·05,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,10,data,,10 Jullundar,6,Total Value. :: Rs.,"10,55,245",1055245.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,11,data,,11 Hoshiarpur,2,Acres.,"111,933",111933.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,11,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,685,685.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,11,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"76,674,105",76674105.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,11,data,,11 Hoshiarpur,5,Price per Re. 1. :: lbs.,58·41,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,11,data,,11 Hoshiarpur,6,Total Value. :: Rs.,"13,12,687",1312687.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,12,data,,12 Kángra,2,Acres.,"30,366",30366.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,12,data,,12 Kángra,3,Per Acre. :: lbs.,362,362.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,12,data,,12 Kángra,4,Total Quantity. :: lbs.,"10,992,492",10992492.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,12,data,,12 Kángra,5,Price per Re. 1. :: lbs.,..,,lbs,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,12,data,,12 Kángra,6,Total Value. :: Rs.,..,,Rs,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,13,data,,13 Amritsar,2,Acres.,"71,937",71937.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,13,data,,13 Amritsar,3,Per Acre. :: lbs.,590,590.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,13,data,,13 Amritsar,4,Total Quantity. :: lbs.,"42,442,830",42442830.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,13,data,,13 Amritsar,5,Price per Re. 1. :: lbs.,67·88,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,13,data,,13 Amritsar,6,Total Value. :: Rs.,"6,25,262",625262.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,14,data,,14 Gurdáspur,2,Acres.,"154,306",154306.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,14,data,,14 Gurdáspur,3,Per Acre. :: lbs.,648,648.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,14,data,,14 Gurdáspur,4,Total Quantity. :: lbs.,"99,990,288",99990288.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,14,data,,14 Gurdáspur,5,Price per Re. 1. :: lbs.,48·,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,14,data,,14 Gurdáspur,6,Total Value. :: Rs.,"20,83,131",2083131.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,15,data,,15 Siálkot,2,Acres.,"94,070",94070.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,15,data,,15 Siálkot,3,Per Acre. :: lbs.,745,745.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,15,data,,15 Siálkot,4,Total Quantity. :: lbs.,"70,082,150",70082150.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,15,data,,15 Siálkot,5,Price per Re. 1. :: lbs.,65·14,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,15,data,,15 Siálkot,6,Total Value. :: Rs.,"10,75,869",1075869.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,16,data,,16 Lahore,2,Acres.,"141,579",141579.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,16,data,,16 Lahore,3,Per Acre. :: lbs.,374,374.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,16,data,,16 Lahore,4,Total Quantity. :: lbs.,"52,950,546",52950546.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,16,data,,16 Lahore,5,Price per Re. 1. :: lbs.,69·94,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,16,data,,16 Lahore,6,Total Value. :: Rs.,"7,57,085",757085.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,17,data,,17 Gujránwála,2,Acres.,"123,515",123515.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,17,data,,17 Gujránwála,3,Per Acre. :: lbs.,449,449.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,17,data,,17 Gujránwála,4,Total Quantity. :: lbs.,"55,458,235",55458235.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,17,data,,17 Gujránwála,5,Price per Re. 1. :: lbs.,64·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,17,data,,17 Gujránwála,6,Total Value. :: Rs.,"8,60,484",860484.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,18,data,,18 Firozepore,2,Acres.,"477,728",477728.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,18,data,,18 Firozepore,3,Per Acre. :: lbs.,608,608.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,18,data,,18 Firozepore,4,Total Quantity. :: lbs.,"290,458,624",290458624.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,18,data,,18 Firozepore,5,Price per Re. 1. :: lbs.,82·11,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,18,data,,18 Firozepore,6,Total Value. :: Rs.,"35,37,433",3537433.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,19,data,,19 Ráwalpindi,2,Acres.,"287,941",287941.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,19,data,,19 Ráwalpindi,3,Per Acre. :: lbs.,554,554.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,19,data,,19 Ráwalpindi,4,Total Quantity. :: lbs.,"159,519,314",159519314.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,19,data,,19 Ráwalpindi,5,Price per Re. 1. :: lbs.,92·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,19,data,,19 Ráwalpindi,6,Total Value. :: Rs.,"17,16,923",1716923.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,20,data,,20 Jhelum,2,Acres.,"209,379",209379.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,20,data,,20 Jhelum,3,Per Acre. :: lbs.,722,722.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,20,data,,20 Jhelum,4,Total Quantity. :: lbs.,"151,171,638",151171638.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,20,data,,20 Jhelum,5,Price per Re. 1. :: lbs.,70·28,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,20,data,,20 Jhelum,6,Total Value. :: Rs.,"21,50,990",2150990.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,21,data,,21 Gujrát,2,Acres.,"239,640",239640.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,21,data,,21 Gujrát,3,Per Acre. :: lbs.,632,632.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,21,data,,21 Gujrát,4,Total Quantity. :: lbs.,"151,452,480",151452480.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,21,data,,21 Gujrát,5,Price per Re. 1. :: lbs.,80·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,21,data,,21 Gujrát,6,Total Value. :: Rs.,"18,71,863",1871863.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,22,data,,22 Shahpur,2,Acres.,"68,819",68819.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,22,data,,22 Shahpur,3,Per Acre. :: lbs.,"1,100",1100.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,22,data,,22 Shahpur,4,Total Quantity. :: lbs.,"75,700,900",75700900.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,22,data,,22 Shahpur,5,Price per Re. 1. :: lbs.,66·16,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,22,data,,22 Shahpur,6,Total Value. :: Rs.,"11,44,209",1144209.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,23,data,,23 Moolton,2,Acres.,"98,847",98847.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,23,data,,23 Moolton,3,Per Acre. :: lbs.,468,468.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,23,data,,23 Moolton,4,Total Quantity. :: lbs.,"46,260,396",46260396.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,23,data,,23 Moolton,5,Price per Re. 1. :: lbs.,51·08,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,23,data,,23 Moolton,6,Total Value. :: Rs.,"9,05,646",905646.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,24,data,,24 Jhang,2,Acres.,"55,474",55474.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,24,data,,24 Jhang,3,Per Acre. :: lbs.,218,218.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,24,data,,24 Jhang,4,Total Quantity. :: lbs.,"12,093,332",12093332.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,24,data,,24 Jhang,5,Price per Re. 1. :: lbs.,60·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,24,data,,24 Jhang,6,Total Value. :: Rs.,"2,00,986",200986.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,25,data,,25 Montgomery,2,Acres.,"63,883",63883.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,25,data,,25 Montgomery,3,Per Acre. :: lbs.,686,686.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,25,data,,25 Montgomery,4,Total Quantity. :: lbs.,"43,823,738",43823738.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,25,data,,25 Montgomery,5,Price per Re. 1. :: lbs.,55·54,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,25,data,,25 Montgomery,6,Total Value. :: Rs.,"7,89,048",789048.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,26,data,,26 Mazaffargarh,2,Acres.,"76,969",76969.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,26,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,693,693.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,26,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"53,339,517",53339517.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,26,data,,26 Mazaffargarh,5,Price per Re. 1. :: lbs.,49·37,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,26,data,,26 Mazaffargarh,6,Total Value. :: Rs.,"10,80,403",1080403.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,27,data,,27 D. I. Khan,2,Acres.,"43,618",43618.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,27,data,,27 D. I. Khan,3,Per Acre. :: lbs.,485,485.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,27,data,,27 D. I. Khan,4,Total Quantity. :: lbs.,"21,154,730",21154730.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,27,data,,27 D. I. Khan,5,Price per Re. 1. :: lbs.,89·13,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,27,data,,27 D. I. Khan,6,Total Value. :: Rs.,"2,37,346",237346.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,28,data,,28 D. G. Khan,2,Acres.,"178,113",178113.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,28,data,,28 D. G. Khan,3,Per Acre. :: lbs.,640,640.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,28,data,,28 D. G. Khan,4,Total Quantity. :: lbs.,"113,992,320",113992320.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,28,data,,28 D. G. Khan,5,Price per Re. 1. :: lbs.,54·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,28,data,,28 D. G. Khan,6,Total Value. :: Rs.,"21,04,344",2104344.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,29,data,,29 Bannu,2,Acres.,"105,488",105488.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,29,data,,29 Bannu,3,Per Acre. :: lbs.,536,536.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,29,data,,29 Bannu,4,Total Quantity. :: lbs.,"56,541,568",56541568.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,29,data,,29 Bannu,5,Price per Re. 1. :: lbs.,111·42,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,29,data,,29 Bannu,6,Total Value. :: Rs.,"5,07,463",507463.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,30,data,,30 Pesháwar,2,Acres.,"107,183",107183.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,30,data,,30 Pesháwar,3,Per Acre. :: lbs.,550,550.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,30,data,,30 Pesháwar,4,Total Quantity. :: lbs.,"58,950,650",58950650.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,30,data,,30 Pesháwar,5,Price per Re. 1. :: lbs.,59·48,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,30,data,,30 Pesháwar,6,Total Value. :: Rs.,"9,91,100",991100.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,31,data,,31 Hazára,2,Acres.,"52,074",52074.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,31,data,,31 Hazára,3,Per Acre. :: lbs.,960,960.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,31,data,,31 Hazára,4,Total Quantity. :: lbs.,"49,991,040",49991040.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,31,data,,31 Hazára,5,Price per Re. 1. :: lbs.,74·05,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,31,data,,31 Hazára,6,Total Value. :: Rs.,"6,75,098",675098.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,32,data,,32 Kohát,2,Acres.,"69,465",69465.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,32,data,,32 Kohát,3,Per Acre. :: lbs.,770,770.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,32,data,,32 Kohát,4,Total Quantity. :: lbs.,"53,488,050",53488050.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,32,data,,32 Kohát,5,Price per Re. 1. :: lbs.,112·28,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,32,data,,32 Kohát,6,Total Value. :: Rs.,"4,76,380",476380.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,33,total,,Total,2,Acres.,"6,534,963",6534963.0,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,33,total,,Total,3,Per Acre. :: lbs.,Average 510·5,,acres,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,33,total,,Total,4,Total Quantity. :: lbs.,"3,335,968,007",3335968007.0,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,33,total,,Total,5,Price per Re. 1. :: lbs.,Average 69·78,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,33,total,,Total,6,Total Value. :: Rs.,"4,76,46,800",47646800.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,34,data,,Row 34,2,Acres.,,,acres,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,34,data,,Row 34,3,Per Acre. :: lbs.,,,acres,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,34,data,,Row 34,4,Total Quantity. :: lbs.,,,lbs,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,34,data,,Row 34,5,Price per Re. 1. :: lbs.,Add,,lbs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,34,data,,Row 34,6,Total Value. :: Rs.,"1,57,530",157530.0,Rs,False,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,35,total,,Row 35,2,Acres.,,,acres,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,35,total,,Row 35,3,Per Acre. :: lbs.,,,acres,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,35,total,,Row 35,4,Total Quantity. :: lbs.,,,lbs,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,35,total,,Row 35,5,Price per Re. 1. :: lbs.,,,lbs,True,True
+poverty-and-un-british-rule,tbl-095,Inferior Grain (as noted below).,174,154,35,total,,Row 35,6,Total Value. :: Rs.,"4,78,04,330",47804330.0,Rs,False,True

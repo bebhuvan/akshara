@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-049,Table 49,515,487,1,data,,The salt-makers get,2,Column 2,"Fanams 27,865",,,False,False
+journey-from-madras-vol-ii,tbl-049,Table 49,515,487,2,data,,The owners of the soil,2,Column 2,"4,149",4149.0,,False,False
+journey-from-madras-vol-ii,tbl-049,Table 49,515,487,3,data,,The government,2,Column 2,961,961.0,,False,False

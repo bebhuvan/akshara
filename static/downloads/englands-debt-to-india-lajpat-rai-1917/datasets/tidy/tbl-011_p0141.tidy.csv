@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,1,data,,Stationery and Printing,2,Column 2,"£ 85,314",85314.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,2,data,,Civil Departments,2,Column 2,"253,585",253585.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,3,data,,Marine Stores,2,Column 2,"84,727",84727.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,4,data,,Public Works,2,Column 2,"144,773",144773.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,5,data,,Military,2,Column 2,"788,309",788309.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,6,data,,Miscellaneous,2,Column 2,"9,563",9563.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-011,Table 11,141,101,7,total,,Total,2,Column 2,"1,366,271",1366271.0,,False,True

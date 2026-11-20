@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,1,data,,Edward Collenes 22 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,1,data,,Edward Collenes 22 p monneth,3,Column 3,02,2.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,1,data,,Edward Collenes 22 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,2,data,,Iohn Smyth 22 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,2,data,,Iohn Smyth 22 p monneth,3,Column 3,02,2.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,2,data,,Iohn Smyth 22 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,3,data,,Matthew Price 24 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,3,data,,Matthew Price 24 p monneth,3,Column 3,04,4.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,3,data,,Matthew Price 24 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,4,data,,Iames More 24 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,4,data,,Iames More 24 p monneth,3,Column 3,04,4.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,4,data,,Iames More 24 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,5,data,,Michaell Martin 26 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,5,data,,Michaell Martin 26 p monneth,3,Column 3,06,6.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,5,data,,Michaell Martin 26 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,6,data,,Edward Elsmore 28 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,6,data,,Edward Elsmore 28 p monneth,3,Column 3,08,8.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,6,data,,Edward Elsmore 28 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,7,data,,Austen Spaulden 26 p monneth,2,Column 2,01,1.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,7,data,,Austen Spaulden 26 p monneth,3,Column 3,06,6.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,7,data,,Austen Spaulden 26 p monneth,4,Column 4,00,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,8,total,,Row 8,2,Column 2,37½,37.5,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,8,total,,Row 8,3,Column 3,02,2.0,,False,False
+eic-first-letter-book-1600-1619,tbl-003,Table 3,187,95,8,total,,Row 8,4,Column 4,,,,True,False

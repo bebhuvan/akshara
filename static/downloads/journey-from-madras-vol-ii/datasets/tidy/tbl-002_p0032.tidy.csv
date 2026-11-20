@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,1,data,,"To the keeper of the forest, for permission to make charcoal",2,Fanams.,100,100.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,2,data,,"To the Gauda, or chief of the village, for leave to gather iron sand",2,Fanams.,40,40.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,3,data,,To ditto for furnace rent,2,Fanams.,15,15.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,4,data,,"To the Sunca, or collector of customs",2,Fanams.,30,30.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,5,data,,To a pair of bellows for the smelting-house,2,Fanams.,42,42.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,6,data,,To ditto for the forge,2,Fanams.,24,24.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,7,data,,To sacrifices,2,Fanams.,15,15.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,8,data,,To charity for the Bráhmans,2,Fanams.,10,10.0,,False,True
+journey-from-madras-vol-ii,tbl-002,Table 2,32,18,9,total,,Fanams,2,Fanams.,276,276.0,,False,True

@@ -1,0 +1,3 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-085,Total Exports.,149,129,1,data,,"513,044,273",2,Re-exports. (Gold Value.) $,"28,459,899",28459899.0,,False,False
+poverty-and-un-british-rule,tbl-085,Total Exports.,149,129,1,data,,"513,044,273",3,Total. (Gold Value.) $,"541,504,172",541504172.0,,False,False

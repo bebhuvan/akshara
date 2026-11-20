@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,1,data,,(1) Balance of State Funds,2,Column 2,"1,27,23,615",12723615.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,2,data,,(2) Investment on account of Railway Loan Repayment Fund,2,Column 2,"27,81,500",2781500.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,3,data,,(3) Capital Outlay on Mysore Harihar Railways,2,Column 2,"1,48,03,306",14803306.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,4,data,,(4) Capital Outlay on other Railway,2,Column 2,"41,33,390",4133390.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,5,data,,(5) Unexpended portion of Capital borrowed for Mysore-Harihar Railway (with British Government),2,Column 2,"15,79,495",1579495.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,6,subtotal,,Row 6,2,Column 2,"3,60,21,306",36021306.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,9,data,"(1) Local Railway Loan  Rs. 20,00,000","(2) English Railway Loan  1,63,82,801",2,Column 2,"1,83,82,801",18382801.0,,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,10,total,,Net assets,2,Column 2,"Rs.1,76,38,505",17638505.0,Rs,False,False
+poverty-and-un-british-rule,tbl-169,"On June 30th, 1895.",642,622,12,data,Add Other Assets—,Capital outlay on original Irrigation Works,2,Column 2,"Rs.99,08,935",9908935.0,Rs,False,False

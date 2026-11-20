@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,1,data,,"To 3 men to collect and prepare ore for 9 months, at 10 Fanams",2,Fanams.,270,270.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,2,data,,"To 5 persons to make charcoal, at ditto",2,Fanams.,450,450.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,3,data,,"To the head workman at the smelting furnace, at 15 Fanams a month",2,Fanams.,135,135.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,4,data,,"To 3 under workmen at ditto, at 13 Fanams each a month",2,Fanams.,351,351.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,5,data,,"To the head workman at the forge, 20 Fanams a month",2,Fanams.,180,180.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,6,data,,"To 3 hammer-men at ditto, at 9 Fanams each",2,Fanams.,243,243.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,7,data,,"To 2 bellows-men at ditto, at 8 Fanams each",2,Fanams.,144,144.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,9,data,Paid to the Government,For liberty to make charcoal,2,Fanams.,200,200.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,10,data,Paid to the Government,For ground-rent of furnace,2,Fanams.,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,11,data,Paid to the Government,Ditto for workmen's huts,2,Fanams.,54,54.0,,False,False
+journey-from-madras-vol-i,tbl-018,Table 18,217,177,12,total,,Total of expences,2,Fanams.,2037,2037.0,,False,False

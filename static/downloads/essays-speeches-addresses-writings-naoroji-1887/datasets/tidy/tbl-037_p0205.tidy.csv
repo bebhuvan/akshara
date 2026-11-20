@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,1,data,,"1½ lbs. Rice per day, at Rs. 2 to Rs. 2-8 per maund of 40 lbs., say",2,Column 2,Rs.,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,1,data,,"1½ lbs. Rice per day, at Rs. 2 to Rs. 2-8 per maund of 40 lbs., say",3,Column 3,28,28.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,1,data,,"1½ lbs. Rice per day, at Rs. 2 to Rs. 2-8 per maund of 40 lbs., say",4,Column 4,8,8.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,2,data,,"Salt, including waste, about 1 oz. a day",2,Column 2,"""",,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,2,data,,"Salt, including waste, about 1 oz. a day",3,Column 3,1,1.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,2,data,,"Salt, including waste, about 1 oz. a day",4,Column 4,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,3,data,,¼ lb. Dhal,2,Column 2,"""",,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,3,data,,¼ lb. Dhal,3,Column 3,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,3,data,,¼ lb. Dhal,4,Column 4,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,4,data,,Vegetables,2,Column 2,"""",,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,4,data,,Vegetables,3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,4,data,,Vegetables,4,Column 4,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,5,data,,Food-oil,2,Column 2,"""",,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,5,data,,Food-oil,3,Column 3,5,5.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,5,data,,Food-oil,4,Column 4,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,6,data,,"Condiments, chillies, &c",2,Column 2,"""",,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,6,data,,"Condiments, chillies, &c",3,Column 3,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,6,data,,"Condiments, chillies, &c",4,Column 4,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,7,data,,Tobacco,2,Column 2,"""",,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,7,data,,Tobacco,3,Column 3,5,5.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,7,data,,Tobacco,4,Column 4,0,0.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,8,total,,Row 8,2,Column 2,Rs.,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,8,total,,Row 8,3,Column 3,48,48.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-037,Food—,205,186,8,total,,Row 8,4,Column 4,8,8.0,,False,False

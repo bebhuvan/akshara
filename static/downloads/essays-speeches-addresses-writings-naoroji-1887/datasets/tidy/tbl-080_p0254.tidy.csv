@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,1,data,,Delhi,2,1st Jan. :: 1869 :: Seers.,26,26.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,1,data,,Delhi,3,1st June :: 1869 :: Seers.,11¼,11.25,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,1,data,,Delhi,4,1st Jan. :: 1870 :: Seers.,15,15.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,1,data,,Delhi,5,Column 5,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,1,data,,Delhi,6,Column 6,Prices in seers of 2 lbs. per rupee.,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,2,data,,Umballa,2,1st Jan. :: 1869 :: Seers.,24,24.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,2,data,,Umballa,3,1st June :: 1869 :: Seers.,9½,9.5,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,2,data,,Umballa,4,1st Jan. :: 1870 :: Seers.,13½,13.5,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,2,data,,Umballa,5,Column 5,9,9.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,2,data,,Umballa,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,3,data,,Lahore,2,1st Jan. :: 1869 :: Seers.,18,18.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,3,data,,Lahore,3,1st June :: 1869 :: Seers.,9¾,9.75,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,3,data,,Lahore,4,1st Jan. :: 1870 :: Seers.,13½,13.5,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,3,data,,Lahore,5,Column 5,9½,9.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,3,data,,Lahore,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,4,data,,Sealkote,2,1st Jan. :: 1869 :: Seers.,19,19.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,4,data,,Sealkote,3,1st June :: 1869 :: Seers.,10¾,10.75,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,4,data,,Sealkote,4,1st Jan. :: 1870 :: Seers.,13¼,13.25,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,4,data,,Sealkote,5,Column 5,10½,10.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,4,data,,Sealkote,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,5,data,,Multan,2,1st Jan. :: 1869 :: Seers.,17,17.0,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,5,data,,Multan,3,1st June :: 1869 :: Seers.,11¼,11.25,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,5,data,,Multan,4,1st Jan. :: 1870 :: Seers.,12½,12.5,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,5,data,,Multan,5,Column 5,9½,9.5,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,5,data,,Multan,6,Column 6,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,6,data,,Peshawur,2,1st Jan. :: 1869 :: Seers.,20½,20.5,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,6,data,,Peshawur,3,1st June :: 1869 :: Seers.,147/8,,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,6,data,,Peshawur,4,1st Jan. :: 1870 :: Seers.,17⅔,17.666667,seers,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,6,data,,Peshawur,5,Column 5,17⅚,17.833333,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-080,Table 80,254,237,6,data,,Peshawur,6,Column 6,,,,True,False

@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,1,data,,Rice,2,1913-14 for British India Acres,"60,320,000",60320000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,1,data,,Rice,3,1914-15 for whole India Acres,"77,668,882",77668882.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,2,data,,Wheat,2,1913-14 for British India Acres,"20,476,000",20476000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,2,data,,Wheat,3,1914-15 for whole India Acres,"25,451,330",25451330.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,3,data,,Other food grains (chiefly millet and pulse),2,1913-14 for British India Acres,"76,217,000",76217000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,3,data,,Other food grains (chiefly millet and pulse),3,1914-15 for whole India Acres,"93,479,555",93479555.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,4,data,,Barley,2,1913-14 for British India Acres,"5,844,000",5844000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,4,data,,Barley,3,1914-15 for whole India Acres,"7,904,783",7904783.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,5,subtotal,,Total food grains and pulses,2,1913-14 for British India Acres,"162,966,000",162966000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,5,subtotal,,Total food grains and pulses,3,1914-15 for whole India Acres,"204,504,550",204504550.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,6,data,,Oil seeds,2,1913-14 for British India Acres,"12,675,000",12675000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,6,data,,Oil seeds,3,1914-15 for whole India Acres,"15,333,591",15333591.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,7,data,,Sugar crops,2,1913-14 for British India Acres,"2,432,000",2432000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,7,data,,Sugar crops,3,1914-15 for whole India Acres,"2,458,865",2458865.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,8,data,,Cotton,2,1913-14 for British India Acres,"15,665,000",15665000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,8,data,,Cotton,3,1914-15 for whole India Acres,"15,221,787",15221787.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,9,data,,Jute,2,1913-14 for British India Acres,"2,817,000",2817000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-025,Table 25,223,183,9,data,,Jute,3,1914-15 for whole India Acres,"3,308,718",3308718.0,acres,False,False

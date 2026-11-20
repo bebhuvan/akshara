@@ -1,0 +1,28 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",389,349,1,data,,Unskilled labour,2,Column 2,$ .66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",389,349,4,data,Card room,Card mistri,2,Column 2,$3.33,3.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",389,349,5,data,Card room,Feeder,2,Column 2,.89,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",389,349,6,data,Card room,Card cleaner,2,Column 2,1.33,1.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",389,349,7,data,Card room,Spare hands,2,Column 2,.80,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",389,349,8,data,Card room,Mixer,2,Column 2,.80,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,10,data,Mule room,Head mistri,2,Column 2,$4.16,4.16,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,11,data,Mule room,Minder,2,Column 2,1.33,1.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,12,data,Mule room,Piecer,2,Column 2,.66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,13,data,Mule room,Spare hands,2,Column 2,.84,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,15,data,Finishing department,Washing and bleaching,2,Column 2,$1.50,1.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,16,data,Finishing department,Dyeing,2,Column 2,1.60,1.6,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,17,data,Finishing department,Dyer,2,Column 2,.84,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,19,data,Weaving department,Mistry,2,Column 2,a little over $2.00,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,20,data,Weaving department,Healder,2,Column 2,a little over .84,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,21,data,Weaving department,Weaver,2,Column 2,a little over 1.10,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,23,data,Engineering department,Boiler mistri,2,Column 2,$1.35,1.35,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,24,data,Engineering department,Engine man,2,Column 2,.70,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,25,data,Engineering department,Oil man,2,Column 2,.70,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,26,data,Engineering department,Head carpenter,2,Column 2,3.30,3.3,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,27,data,Engineering department,Turner,2,Column 2,a little less than 2.00,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,28,data,Engineering department,Boiler man,2,Column 2,.80,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,29,data,Engineering department,Fitter,2,Column 2,1.52,1.52,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,30,data,Engineering department,Blacksmith,2,Column 2,2.00,2.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,31,data,Engineering department,Carpenter,2,Column 2,1.33,1.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,32,data,Engineering department,Tinsmith,2,Column 2,1.25,1.25,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-070,"Average weekly wages paid in a woollen mill in Northern India, 1914:",390,349,33,data,Engineering department,Leather man,2,Column 2,.75,,,False,False

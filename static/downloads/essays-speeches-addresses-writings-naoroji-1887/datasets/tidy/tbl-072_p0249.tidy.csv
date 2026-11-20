@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-072,Table 72,249,232,1,data,,1863,2,Tolas per Rupee. :: Poona.,"1,120",1120.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-072,Table 72,249,232,1,data,,1863,3,Belgaum.,720,720.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-072,Table 72,249,232,1,data,,1863,4,Ahmedabad.,880,880.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-072,Table 72,249,232,2,data,,1867-68,2,Tolas per Rupee. :: Poona.,"1,786",1786.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-072,Table 72,249,232,2,data,,1867-68,3,Belgaum.,"2,633",2633.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-072,Table 72,249,232,2,data,,1867-68,4,Ahmedabad.,"1,180",1180.0,,False,False

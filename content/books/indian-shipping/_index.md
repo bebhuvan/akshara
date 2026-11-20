@@ -1,6 +1,6 @@
 ---
 title: "Indian Shipping"
-date: 2026-02-28
+date: "2026-02-28"
 subtitle: "A History of the Sea-Borne Trade and Maritime Activity of the Indians from the Earliest Times"
 author: "Radhakumud Mookerji"
 author_slug: "radhakumud-mookerji"
@@ -23,11 +23,14 @@ archive_url: "https://archive.org/details/indianshippinghi00mookrich/mode/2up"
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain. References to illustrations in the original print edition have been retained as placeholders."
-
 download_url: "https://drive.google.com/drive/folders/1jysDa88P6G_KXxqHuNfeTq24z04TIyeF?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/indian-shipping.svg"
+archetype: "maritime_company_records"
+palette: "Pelagic Indigo"
 ---
 
 A landmark work of Indian historical scholarship, *Indian Shipping* was the first systematic attempt to trace the full history of Indian maritime enterprise from the Vedic age to the decline of the Mughal Empire. Radhakumud Mookerji, then a young Premchand Roychand Scholar at Calcutta University, assembled an extraordinary range of evidence — from the shipbuilding treatise *Yuktikalpataru* and the economic regulations of Kautilya's *Arthashastra*, to the sculptures of Borobudur, the accounts of Greek and Roman geographers, and the records of the East India Company.

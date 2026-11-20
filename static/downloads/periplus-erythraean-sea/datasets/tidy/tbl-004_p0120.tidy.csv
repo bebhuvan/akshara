@@ -1,0 +1,82 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+periplus-erythraean-sea,tbl-004,Table 4,120,110,1,data,,39–14,2,ROMAN,Augustus Cæsar,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,1,data,,39–14,3,PARTHIAN,Phraates IV,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,1,data,,39–14,4,B. C.,37–2,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,2,header,,A. D,2,ROMAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,2,header,,A. D,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,2,header,,A. D,4,B. C.,B. C. A. D.,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,3,data,,14–37,2,ROMAN,Tiberius,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,3,data,,14–37,3,PARTHIAN,Phraataces,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,3,data,,14–37,4,B. C.,2–?,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,4,data,,37–41,2,ROMAN,Caligula,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,4,data,,37–41,3,PARTHIAN,Orodes II,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,4,data,,37–41,4,B. C.,?,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,5,data,,41–54,2,ROMAN,Claudius,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,5,data,,41–54,3,PARTHIAN,Vonones I,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,5,data,,41–54,4,B. C.,?–16,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,6,data,,54–68,2,ROMAN,Nero,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,6,data,,54–68,3,PARTHIAN,Artabanus III,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,6,data,,54–68,4,B. C.,16–42,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,7,data,,68–69,2,ROMAN,Galba,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,7,data,,68–69,3,PARTHIAN,Vardanes,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,7,data,,68–69,4,B. C.,42–46,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,8,data,,69,2,ROMAN,Otho,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,8,data,,69,3,PARTHIAN,Gotarzes,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,8,data,,69,4,B. C.,46–51,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,9,data,,69,2,ROMAN,Vitellius,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,9,data,,69,3,PARTHIAN,Vonones II,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,9,data,,69,4,B. C.,51,51.0,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,10,data,,69–79,2,ROMAN,Vespasian,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,10,data,,69–79,3,PARTHIAN,Volagases I,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,10,data,,69–79,4,B. C.,51–78,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,11,data,,79–81,2,ROMAN,Titus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,11,data,,79–81,3,PARTHIAN,Pacorus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,11,data,,79–81,4,B. C.,78–108,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,12,data,,81–96,2,ROMAN,Domitian,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,12,data,,81–96,3,PARTHIAN,Chosroes,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,12,data,,81–96,4,B. C.,108–130,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,13,data,,96–98,2,ROMAN,Nerva,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,13,data,,96–98,3,PARTHIAN,Volagases II,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,13,data,,96–98,4,B. C.,130–149,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,14,data,,98–117,2,ROMAN,Trajan,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,14,data,,98–117,3,PARTHIAN,Volagases III,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,14,data,,98–117,4,B. C.,149–191,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,15,data,,117–138,2,ROMAN,Hadrian,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,15,data,,117–138,3,PARTHIAN,Volagases IV,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,15,data,,117–138,4,B. C.,191–209,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,16,data,,138–161,2,ROMAN,Antoninus Pius,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,16,data,,138–161,3,PARTHIAN,disputed succession:,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,16,data,,138–161,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,17,data,,161–169,2,ROMAN,{ Marcus Aurelius / Lucius Verus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,17,data,,161–169,3,PARTHIAN,Volagases V / Artabanus III },,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,17,data,,161–169,4,B. C.,209–215,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,18,data,,169–180,2,ROMAN,Marcus Aurelius,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,18,data,,169–180,3,PARTHIAN,Artabanus III,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,18,data,,169–180,4,B. C.,215–226,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,19,data,,180–192,2,ROMAN,Commodus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,19,data,,180–192,3,PARTHIAN,(End of Parthian Empire),,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,19,data,,180–192,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,20,data,,193,2,ROMAN,Pertinax,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,20,data,,193,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,20,data,,193,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,21,data,,193,2,ROMAN,Didius Julianus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,21,data,,193,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,21,data,,193,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,22,data,,193–211,2,ROMAN,Septimius Severus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,22,data,,193–211,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,22,data,,193–211,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,23,data,,211–212,2,ROMAN,{ Caracalla / Geta,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,23,data,,211–212,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,23,data,,211–212,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,24,data,,212–217,2,ROMAN,Caracalla,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,24,data,,212–217,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,24,data,,212–217,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,25,data,,217–218,2,ROMAN,Macrinus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,25,data,,217–218,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,25,data,,217–218,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,26,data,,218–222,2,ROMAN,Heliogabalus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,26,data,,218–222,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,26,data,,218–222,4,B. C.,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,27,data,,222–235,2,ROMAN,Alexander Severus,,,False,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,27,data,,222–235,3,PARTHIAN,,,,True,False
+periplus-erythraean-sea,tbl-004,Table 4,120,110,27,data,,222–235,4,B. C.,,,,True,False

@@ -1,0 +1,46 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,1,data,,1851,2,Import of Merchandise.,"£ 11,558,789",11558789.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,1,data,,1851,3,Import of Treasure.,"£ 3,811,809",3811809.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,1,data,,1851,4,Total Imports.,"£ 15,370,598",15370598.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,1,data,,1851,5,Total Exports.,"£ 18,705,439",18705439.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,1,data,,1851,6,Excess of Exports.,"£ 3,334,839",3334839.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,2,data,,1852,2,Import of Merchandise.,"12,240,490",12240490.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,2,data,,1852,3,Import of Treasure.,"5,052,059",5052059.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,2,data,,1852,4,Total Imports.,"17,292,549",17292549.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,2,data,,1852,5,Total Exports.,"20,798,342",20798342.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,2,data,,1852,6,Excess of Exports.,"3,505,793",3505793.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,3,data,,1853,2,Import of Merchandise.,"10,070,863",10070863.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,3,data,,1853,3,Import of Treasure.,"6,831,377",6831377.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,3,data,,1853,4,Total Imports.,"16,902,240",16902240.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,3,data,,1853,5,Total Exports.,"21,519,863",21519863.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,3,data,,1853,6,Excess of Exports.,"4,617,623",4617623.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,4,data,,1854,2,Import of Merchandise.,"11,122,659",11122659.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,4,data,,1854,3,Import of Treasure.,"4,871,954",4871954.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,4,data,,1854,4,Total Imports.,"15,994,613",15994613.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,4,data,,1854,5,Total Exports.,"20,778,435",20778435.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,4,data,,1854,6,Excess of Exports.,"4,783,822",4783822.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,5,data,,1855,2,Import of Merchandise.,"12,742,671",12742671.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,5,data,,1855,3,Import of Treasure.,"2,028,256",2028256.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,5,data,,1855,4,Total Imports.,"14,770,927",14770927.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,5,data,,1855,5,Total Exports.,"20,194,255",20194255.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,5,data,,1855,6,Excess of Exports.,"5,423,328",5423328.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,6,subheader,,Row 6,2,Import of Merchandise.,,,,True,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,6,subheader,,Row 6,3,Import of Treasure.,,,,True,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,6,subheader,,Row 6,4,Total Imports.,,,,True,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,6,subheader,,Row 6,5,Total Exports.,,,,True,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,6,subheader,,Row 6,6,Excess of Exports.,Excess of Imports.,,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,7,data,,1856,2,Import of Merchandise.,"13,943,494",13943494.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,7,data,,1856,3,Import of Treasure.,"11,301,288",11301288.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,7,data,,1856,4,Total Imports.,"25,244,782",25244782.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,7,data,,1856,5,Total Exports.,"23,639,435",23639435.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,7,data,,1856,6,Excess of Exports.,"1,605,347",1605347.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,8,data,,1857,2,Import of Merchandise.,"14,194,587",14194587.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,8,data,,1857,3,Import of Treasure.,"14,413,697",14413697.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,8,data,,1857,4,Total Imports.,"28,608,284",28608284.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,8,data,,1857,5,Total Exports.,"26,591,877",26591877.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,8,data,,1857,6,Excess of Exports.,"2,016,407",2016407.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,9,data,,1858,2,Import of Merchandise.,"15,277,629",15277629.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,9,data,,1858,3,Import of Treasure.,"15,815,436",15815436.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,9,data,,1858,4,Total Imports.,"31,093,065",31093065.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,9,data,,1858,5,Total Exports.,"28,278,474",28278474.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-020,Trade of India with all Countries.,188,160,9,data,,1858,6,Excess of Exports.,"2,814,591",2814591.0,,False,False

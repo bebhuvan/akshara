@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-famines-causes-prevention-dutt-1901,tbl-001,Table 1,11,7,1,data,,By Productive Works,2,Column 2,"9,448,692",9448692.0,,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-001,Table 1,11,7,2,data,,By Protective Works,2,Column 2,"323,820",323820.0,,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-001,Table 1,11,7,3,data,,By Minor Works,2,Column 2,"7,442,990",7442990.0,,False,True
+indian-famines-causes-prevention-dutt-1901,tbl-001,Table 1,11,7,4,total,,Total area irrigated,2,Column 2,"17,215,502",17215502.0,,False,True

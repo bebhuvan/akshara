@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,1,data,,Indapur,2,Collections of First Period of Initial Settlement. :: Rupees.,"65,220",65220.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,1,data,,Indapur,3,Revised Assessment at Expiry of Thirty Years. :: Rupees.,"124,506",124506.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,1,data,,Indapur,4,Percentage of Increase in the Thirtieth Year over the Collections of the First Period.,90,90.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,2,data,,Haveli,2,Collections of First Period of Initial Settlement. :: Rupees.,"64,452",64452.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,2,data,,Haveli,3,Revised Assessment at Expiry of Thirty Years. :: Rupees.,"134,189",134189.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,2,data,,Haveli,4,Percentage of Increase in the Thirtieth Year over the Collections of the First Period.,108,108.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,3,data,,Pabal,2,Collections of First Period of Initial Settlement. :: Rupees.,"66,508",66508.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,3,data,,Pabal,3,Revised Assessment at Expiry of Thirty Years. :: Rupees.,"152,228",152228.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,3,data,,Pabal,4,Percentage of Increase in the Thirtieth Year over the Collections of the First Period.,85,85.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,4,data,,Supa,2,Collections of First Period of Initial Settlement. :: Rupees.,"48,856",48856.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,4,data,,Supa,3,Revised Assessment at Expiry of Thirty Years. :: Rupees.,"81,943",81943.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,4,data,,Supa,4,Percentage of Increase in the Thirtieth Year over the Collections of the First Period.,68,68.0,,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,5,data,,Bhimthari,2,Collections of First Period of Initial Settlement. :: Rupees.,"43,407",43407.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,5,data,,Bhimthari,3,Revised Assessment at Expiry of Thirty Years. :: Rupees.,"129,842",129842.0,Rs,False,False
+economic-history-india-victorian-age-dutt,tbl-030,Table 30,358,330,5,data,,Bhimthari,4,Percentage of Increase in the Thirtieth Year over the Collections of the First Period.,199,199.0,,False,False

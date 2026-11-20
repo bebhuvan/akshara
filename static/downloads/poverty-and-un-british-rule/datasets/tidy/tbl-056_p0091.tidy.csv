@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-056,Table 56,91,71,1,data,,2nd Sort Rice,2,Nov. 1867. Seers.,14·40,,seers,False,False
+poverty-and-un-british-rule,tbl-056,Table 56,91,71,1,data,,2nd Sort Rice,3,Nov. 1868. Seers.,13·9,,seers,False,False
+poverty-and-un-british-rule,tbl-056,Table 56,91,71,2,data,,Bajri,2,Nov. 1867. Seers.,24,24.0,seers,False,False
+poverty-and-un-british-rule,tbl-056,Table 56,91,71,2,data,,Bajri,3,Nov. 1868. Seers.,26,26.0,seers,False,False
+poverty-and-un-british-rule,tbl-056,Table 56,91,71,3,data,,Jowari,2,Nov. 1867. Seers.,28,28.0,seers,False,False
+poverty-and-un-british-rule,tbl-056,Table 56,91,71,3,data,,Jowari,3,Nov. 1868. Seers.,35,35.0,seers,False,False

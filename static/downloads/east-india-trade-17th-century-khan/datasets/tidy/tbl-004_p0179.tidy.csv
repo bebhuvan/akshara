@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-004,Table 4,179,167,1,subtotal,,Total for 5 years,2,Column 2,"£210,472",210472.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-004,Table 4,179,167,2,data,,"Other goods, stores, &c",2,Column 2,"194,646",194646.0,,False,True
+east-india-trade-17th-century-khan,tbl-004,Table 4,179,167,3,total,,Total,2,Column 2,"405,118",405118.0,,False,True

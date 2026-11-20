@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-051,Facts and Figures about Education,340,300,1,subtotal,,Total population of India,2,Column 2,"315,156,386",315156386.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-051,Facts and Figures about Education,340,300,2,data,,Population of British India,2,Column 2,"244,267,542",244267542.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-051,Facts and Figures about Education,340,300,3,data,,School enrolment for 1912,2,Column 2,"6,781,000",6781000.0,,False,False

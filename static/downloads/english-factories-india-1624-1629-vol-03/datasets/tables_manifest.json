@@ -1,0 +1,29 @@
+{
+  "version": "tables-dataset-v2",
+  "book_id": "english-factories-india-1624-1629-vol-03",
+  "collection": "indian-economic-history",
+  "title": "The English Factories in India, 1624–1629",
+  "publication_year": 1909,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl-001",
+      "csv_file": "tables/tbl-001_p0040.csv",
+      "csv_path": "tables/tbl-001_p0040.csv",
+      "tidy_csv_file": "tidy/tbl-001_p0040.tidy.csv",
+      "tidy_csv_path": "tidy/tbl-001_p0040.tidy.csv",
+      "tidy_json_file": "tidy/tbl-001_p0040.tidy.json",
+      "parquet_file": null,
+      "caption": "Table 1",
+      "section_id": "sec-03",
+      "start_page": 40,
+      "end_page": 41,
+      "printed_folio": "xxxiv",
+      "column_count": 3,
+      "row_count": 17,
+      "tidy_observation_count": 34,
+      "arithmetic_verified": false,
+      "arithmetic_status": "no_total_row"
+    }
+  ]
+}

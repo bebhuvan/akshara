@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,1,data,,Coal,2,Column 2,"£3,781,064",3781064.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,2,data,,Gold,2,Column 2,"2,369,486",2369486.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,3,data,,Petroleum,2,Column 2,"1,256,803",1256803.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,4,data,,Manganese-ore,2,Column 2,"929,546",929546.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,5,data,,Salt,2,Column 2,"660,250",660250.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,6,data,,Mica,2,Column 2,"183,947",183947.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,7,data,,Saltpetre,2,Column 2,"373,891",373891.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,8,data,,Lead-ore and Lead,2,Column 2,"316,182",316182.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-024,Table 24,218,178,9,data,,Tungsten-ore,2,Column 2,"296,772",296772.0,,False,False

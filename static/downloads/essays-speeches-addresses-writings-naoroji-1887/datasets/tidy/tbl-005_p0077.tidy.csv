@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,1,data,,No. 116 of 1860,2,European Employés. :: Description.,{ Covenanted Civil Servants. },,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,1,data,,No. 116 of 1860,3,European Employés. :: No.,"1,775",1775.0,count,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,1,data,,No. 116 of 1860,4,"Salaries paid in India, about","£ 2,250,000",2250000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,1,data,,No. 116 of 1860,5,Column 5,{ Exclusive of furloughs in England.,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,2,data,,No. 201—VI. of 1858,2,European Employés. :: Description.,"{ Uncovenanted Civil Servants, including Indo-Britons, are 3082, of whom say Europeans are . . . }",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,2,data,,No. 201—VI. of 1858,3,European Employés. :: No.,500,500.0,count,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,2,data,,No. 201—VI. of 1858,4,"Salaries paid in India, about","250,000",250000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,2,data,,No. 201—VI. of 1858,5,Column 5,{ Taking an average of £500 a-year.,,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,3,data,,No. 201—IX. of 1858,2,European Employés. :: Description.,Indian Navy .,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,3,data,,No. 201—IX. of 1858,3,European Employés. :: No.,305,305.0,count,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,3,data,,No. 201—IX. of 1858,4,"Salaries paid in India, about","70,000",70000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,3,data,,No. 201—IX. of 1858,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,4,data,,"No. 251—I. part II, Grant, No. 3 of 1866",2,European Employés. :: Description.,{ Officers . . . Army . . . },,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,4,data,,"No. 251—I. part II, Grant, No. 3 of 1866",3,European Employés. :: No.,"8,231 67,121",,count,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,4,data,,"No. 251—I. part II, Grant, No. 3 of 1866",4,"Salaries paid in India, about","5,000,000 1,150,000",,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,4,data,,"No. 251—I. part II, Grant, No. 3 of 1866",5,Column 5,{ Exclusive of furloughs,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,5,total,,Row 5,2,European Employés. :: Description.,Total . . .,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,5,total,,Row 5,3,European Employés. :: No.,...,,count,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,5,total,,Row 5,4,"Salaries paid in India, about","£8,720,000",8720000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,5,total,,Row 5,5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,6,data,,"Half of the salaries may represent transfer to England for support of families, relations, &c., for education of children, for savings, and for purchase in India and England of British goods for consumption in India",2,European Employés. :: Description.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,6,data,,"Half of the salaries may represent transfer to England for support of families, relations, &c., for education of children, for savings, and for purchase in India and England of British goods for consumption in India",3,European Employés. :: No.,,,count,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,6,data,,"Half of the salaries may represent transfer to England for support of families, relations, &c., for education of children, for savings, and for purchase in India and England of British goods for consumption in India",4,"Salaries paid in India, about","£4,360,000",4360000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,6,data,,"Half of the salaries may represent transfer to England for support of families, relations, &c., for education of children, for savings, and for purchase in India and England of British goods for consumption in India",5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,7,data,,"Add Home charges, about",2,European Employés. :: Description.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,7,data,,"Add Home charges, about",3,European Employés. :: No.,,,count,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,7,data,,"Add Home charges, about",4,"Salaries paid in India, about","5,000,000",5000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,7,data,,"Add Home charges, about",5,Column 5,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,8,total,,Total,2,European Employés. :: Description.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,8,total,,Total,3,European Employés. :: No.,,,count,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,8,total,,Total,4,"Salaries paid in India, about","£9,360,000",9360000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-005,Table 5,77,50,8,total,,Total,5,Column 5,,,,True,False

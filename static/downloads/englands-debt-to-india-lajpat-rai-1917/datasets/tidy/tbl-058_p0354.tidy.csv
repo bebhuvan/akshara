@@ -1,0 +1,27 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,1,data,,Gross Revenue for 1913–14,2,Column 2,"£85,207,175",85207175.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,2,data,,Expenditure charged to Revenue in India,2,Column 2,"62,583,079",62583079.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,3,data,,Expenditure charged to Revenue in England,2,Column 2,"20,311,673",20311673.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,4,data,,Surplus,2,Column 2,"2,312,423",2312423.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,6,data,Principal Heads of Revenue,Land Revenue,2,Column 2,"£21,391,575",21391575.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,7,data,Principal Heads of Revenue,Opium,2,Column 2,"1,624,878",1624878.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,8,data,Principal Heads of Revenue,Salt,2,Column 2,"3,445,305",3445305.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,9,data,Principal Heads of Revenue,Stamps,2,Column 2,"5,318,293",5318293.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,10,data,Principal Heads of Revenue,Excise,2,Column 2,"8,894,300",8894300.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,11,data,Principal Heads of Revenue,Customs,2,Column 2,"7,558,220",7558220.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,12,data,Principal Heads of Revenue,Assessed Taxes,2,Column 2,"1,950,250",1950250.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,13,data,Principal Heads of Revenue,Forest,2,Column 2,"2,229,872",2229872.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,14,data,Principal Heads of Revenue,Registration,2,Column 2,"518,962",518962.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,15,data,Principal Heads of Revenue,Tributes from Native States,2,Column 2,"616,881",616881.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,16,data,Principal Heads of Revenue,Provincial Rates,2,Column 2,"180,210",180210.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,17,total,,Total,2,Column 2,"£53,728,746",53728746.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,18,data,Principal Heads of Revenue,Net receipts from Railways,2,Column 2,"£17,625,634",17625634.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,19,data,Principal Heads of Revenue,Irrigation,2,Column 2,"4,713,159",4713159.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,354,314,20,data,Principal Heads of Revenue,Military Receipts,2,Column 2,"1,369,652",1369652.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,21,data,Principal Heads of Revenue,Interest,2,Column 2,"£1,352,119",1352119.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,22,data,Principal Heads of Revenue,Post Office,2,Column 2,"2,410,210",2410210.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,23,data,Principal Heads of Revenue,Telegraph,2,Column 2,"1,188,309",1188309.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,24,data,Principal Heads of Revenue,Mint,2,Column 2,"339,841",339841.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,25,data,Principal Heads of Revenue,"Receipts by Civil Departments such as Courts of Law, Jails, &c",2,Column 2,"1,408,286",1408286.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,26,data,Principal Heads of Revenue,Miscellaneous Receipts,2,Column 2,"772,579",772579.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-058,Table 58,355,314,27,total,,Total Revenue,2,Column 2,"£85,207,175",85207175.0,GBP,False,False

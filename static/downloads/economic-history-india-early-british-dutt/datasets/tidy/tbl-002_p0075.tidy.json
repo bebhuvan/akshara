@@ -1,0 +1,20 @@
+[
+  {
+    "book_id": "economic-history-india-early-british-dutt",
+    "table_id": "tbl-002",
+    "caption": "Table 2",
+    "page_number": 75,
+    "printed_folio": "47",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "£624,375",
+    "column_index": 2,
+    "column_header": "Exports.",
+    "raw_text": "£6,311,250",
+    "value_numeric": 6311250.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

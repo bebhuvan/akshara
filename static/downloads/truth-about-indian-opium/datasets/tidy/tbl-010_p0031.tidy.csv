@@ -1,0 +1,353 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,2,China (including Hong Kong and Macao). :: Chests.,"77,105",77105.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,3,Straits Settlements. :: Chests.,"8,054",8054.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,4,United Kingdom. :: Chests.,54,54.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,5,East Coast of Africa. :: Chests.,13,13.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,6,Mauritius. :: Chests.,9,9.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,8,Reunion. :: Chests,10,10.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,9,Aden. :: Chests,10,10.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,10,Ceylon. :: Chests.,34,34.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,11,French Indo-China. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,12,Dutch East Indies. :: Chests.,224,224.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,14,Australia. :: Chests.,5,5.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,15,Other Countries. (See p. 28.) :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,16,Total. :: Chests.,"85,518",85518.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,1,data,,1870–71,17,Year.,1870–71,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,2,China (including Hong Kong and Macao). :: Chests.,"77,186",77186.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,3,Straits Settlements. :: Chests.,"11,005",11005.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,4,United Kingdom. :: Chests.,60,60.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,5,East Coast of Africa. :: Chests.,7,7.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,6,Mauritius. :: Chests.,19,19.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,10,Ceylon. :: Chests.,68,68.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,11,French Indo-China. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,12,Dutch East Indies. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,14,Australia. :: Chests.,5,5.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,15,Other Countries. (See p. 28.) :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,16,Total. :: Chests.,"88,350",88350.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,2,data,,1875–76,17,Year.,1875–76,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,2,China (including Hong Kong and Macao). :: Chests.,"82,392",82392.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,3,Straits Settlements. :: Chests.,"9,622",9622.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,4,United Kingdom. :: Chests.,30,30.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,5,East Coast of Africa. :: Chests.,14,14.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,6,Mauritius. :: Chests.,39,39.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,7,Natal. :: Chests,1,1.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,8,Reunion. :: Chests,5,5.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,9,Aden. :: Chests,3,3.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,10,Ceylon. :: Chests.,84,84.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,11,French Indo-China. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,12,Dutch East Indies. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,15,Other Countries. (See p. 28.) :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,16,Total. :: Chests.,"92,190",92190.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,3,data,,1880–81,17,Year.,1880–81,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,2,China (including Hong Kong and Macao). :: Chests.,"76,115",76115.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,3,Straits Settlements. :: Chests.,"10,728",10728.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,5,East Coast of Africa. :: Chests.,7,7.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,6,Mauritius. :: Chests.,19,19.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,7,Natal. :: Chests,2,2.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,8,Reunion. :: Chests,7,7.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,10,Ceylon. :: Chests.,77,77.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,11,French Indo-China. :: Chests.,"1,000",1000.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,12,Dutch East Indies. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,15,Other Countries. (See p. 28.) :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,16,Total. :: Chests.,"87,956",87956.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,4,data,,1885–86,17,Year.,1885–86,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,2,China (including Hong Kong and Macao). :: Chests.,"70,855",70855.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,3,Straits Settlements. :: Chests.,"13,915",13915.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,4,United Kingdom. :: Chests.,47,47.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,5,East Coast of Africa. :: Chests.,17,17.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,6,Mauritius. :: Chests.,55,55.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,7,Natal. :: Chests,1,1.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,10,Ceylon. :: Chests.,103,103.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,11,French Indo-China. :: Chests.,480,480.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,12,Dutch East Indies. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,13,Philippines. :: Chests.,280,280.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,15,Other Countries. (See p. 28.) :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,16,Total. :: Chests.,"85,753",85753.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,5,data,,1890–91,17,Year.,1890–91,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,2,China (including Hong Kong and Macao). :: Chests.,"45,617",45617.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,3,Straits Settlements. :: Chests.,"12,529",12529.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,5,East Coast of Africa. :: Chests.,8,8.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,6,Mauritius. :: Chests.,32,32.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,7,Natal. :: Chests,2,2.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,10,Ceylon. :: Chests.,123,123.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,11,French Indo-China. :: Chests.,"1,450",1450.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,12,Dutch East Indies. :: Chests.,750,750.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,13,Philippines. :: Chests.,245,245.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,15,Other Countries. (See p. 28.) :: Chests.,80,80.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,16,Total. :: Chests.,"60,860",60860.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,6,data,,1895–96,17,Year.,1895–96,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,2,China (including Hong Kong and Macao). :: Chests.,"49,761",49761.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,3,Straits Settlements. :: Chests.,"16,779",16779.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,4,United Kingdom. :: Chests.,507,507.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,5,East Coast of Africa. :: Chests.,17,17.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,6,Mauritius. :: Chests.,38,38.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,7,Natal. :: Chests,5,5.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,9,Aden. :: Chests,1,1.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,10,Ceylon. :: Chests.,181,181.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,11,French Indo-China. :: Chests.,"1,720",1720.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,12,Dutch East Indies. :: Chests.,590,590.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,15,Other Countries. (See p. 28.) :: Chests.,10,10.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,16,Total. :: Chests.,"69,708",69708.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,7,data,,1900–01,17,Year.,1900–01,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,2,China (including Hong Kong and Macao). :: Chests.,"48,007",48007.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,3,Straits Settlements. :: Chests.,"12,368",12368.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,4,United Kingdom. :: Chests.,427,427.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,5,East Coast of Africa. :: Chests.,13,13.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,6,Mauritius. :: Chests.,40,40.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,7,Natal. :: Chests,23,23.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,10,Ceylon. :: Chests.,179,179.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,11,French Indo-China. :: Chests.,500,500.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,12,Dutch East Indies. :: Chests.,770,770.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,14,Australia. :: Chests.,71,71.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,15,Other Countries. (See p. 28.) :: Chests.,538,538.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,16,Total. :: Chests.,"62,936",62936.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,8,data,,1905–06,17,Year.,1905–06,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,2,China (including Hong Kong and Macao). :: Chests.,"50,590",50590.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,3,Straits Settlements. :: Chests.,"12,953",12953.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,4,United Kingdom. :: Chests.,315,315.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,5,East Coast of Africa. :: Chests.,16,16.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,6,Mauritius. :: Chests.,24,24.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,7,Natal. :: Chests,1,1.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,10,Ceylon. :: Chests.,178,178.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,11,French Indo-China. :: Chests.,580,580.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,12,Dutch East Indies. :: Chests.,930,930.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,14,Australia. :: Chests.,249,249.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,15,Other Countries. (See p. 28.) :: Chests.,438,438.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,16,Total. :: Chests.,"66,274",66274.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,9,data,,1906–07,17,Year.,1906–07,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,2,China (including Hong Kong and Macao). :: Chests.,"47,749",47749.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,3,Straits Settlements. :: Chests.,"13,195",13195.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,4,United Kingdom. :: Chests.,116,116.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,5,East Coast of Africa. :: Chests.,15,15.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,6,Mauritius. :: Chests.,25,25.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,10,Ceylon. :: Chests.,194,194.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,11,French Indo-China. :: Chests.,940,940.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,12,Dutch East Indies. :: Chests.,"1,285",1285.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,15,Other Countries. (See p. 28.) :: Chests.,241,241.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,16,Total. :: Chests.,"63,760",63760.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,10,data,,1907–08,17,Year.,1907–08,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,2,China (including Hong Kong and Macao). :: Chests.,"52,758",52758.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,3,Straits Settlements. :: Chests.,"11,174",11174.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,4,United Kingdom. :: Chests.,21,21.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,5,East Coast of Africa. :: Chests.,17,17.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,6,Mauritius. :: Chests.,21,21.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,10,Ceylon. :: Chests.,345,345.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,11,French Indo-China. :: Chests.,"1,600",1600.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,12,Dutch East Indies. :: Chests.,970,970.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,15,Other Countries. (See p. 28.) :: Chests.,51,51.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,16,Total. :: Chests.,"66,957",66957.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,11,data,,1908–09,17,Year.,1908–09,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,2,China (including Hong Kong and Macao). :: Chests.,"41,468",41468.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,3,Straits Settlements. :: Chests.,"11,140",11140.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,5,East Coast of Africa. :: Chests.,11,11.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,6,Mauritius. :: Chests.,5,5.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,10,Ceylon. :: Chests.,312,312.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,11,French Indo-China. :: Chests.,"1,895",1895.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,12,Dutch East Indies. :: Chests.,"1,360",1360.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,15,Other Countries. (See p. 28.) :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,16,Total. :: Chests.,"56,191",56191.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,12,data,,1909–10,17,Year.,1909–10,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,2,China (including Hong Kong and Macao). :: Chests.,"31,323",31323.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,3,Straits Settlements. :: Chests.,"9,138",9138.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,4,United Kingdom. :: Chests.,4,4.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,5,East Coast of Africa. :: Chests.,7,7.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,6,Mauritius. :: Chests.,28,28.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,10,Ceylon. :: Chests.,231,231.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,11,French Indo-China. :: Chests.,"1,015",1015.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,12,Dutch East Indies. :: Chests.,"2,125",2125.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,15,Other Countries. (See p. 28.) :: Chests.,50,50.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,16,Total. :: Chests.,"43,921",43921.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,13,data,,1910–11,17,Year.,1910–11,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,2,China (including Hong Kong and Macao). :: Chests.,"25,398",25398.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,3,Straits Settlements. :: Chests.,"6,684",6684.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,4,United Kingdom. :: Chests.,15,15.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,5,East Coast of Africa. :: Chests.,4,4.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,6,Mauritius. :: Chests.,23,23.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,10,Ceylon. :: Chests.,120,120.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,11,French Indo-China. :: Chests.,"2,125",2125.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,12,Dutch East Indies. :: Chests.,"2,195",2195.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,15,Other Countries. (See p. 28.) :: Chests.,"1,625",1625.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,16,Total. :: Chests.,"38,189",38189.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,14,data,,1911–12,17,Year.,1911–12,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,2,China (including Hong Kong and Macao). :: Chests.,"19,575",19575.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,3,Straits Settlements. :: Chests.,"5,098",5098.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,4,United Kingdom. :: Chests.,11,11.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,6,Mauritius. :: Chests.,10,10.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,10,Ceylon. :: Chests.,50,50.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,11,French Indo-China. :: Chests.,805,805.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,12,Dutch East Indies. :: Chests.,"3,010",3010.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,15,Other Countries. (See p. 28.) :: Chests.,"2,815",2815.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,16,Total. :: Chests.,"31,374",31374.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,15,data,,1912–13,17,Year.,1912–13,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,2,China (including Hong Kong and Macao). :: Chests.,"4,061",4061.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,3,Straits Settlements. :: Chests.,"1,537",1537.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,4,United Kingdom. :: Chests.,115,115.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,6,Mauritius. :: Chests.,19,19.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,10,Ceylon. :: Chests.,105,105.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,11,French Indo-China. :: Chests.,875,875.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,12,Dutch East Indies. :: Chests.,"3,265",3265.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,15,Other Countries. (See p. 28.) :: Chests.,"1,929",1929.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,16,Total. :: Chests.,"11,906",11906.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,16,data,,1913–14,17,Year.,1913–14,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,2,China (including Hong Kong and Macao). :: Chests.,"1,350",1350.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,3,Straits Settlements. :: Chests.,"1,355",1355.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,4,United Kingdom. :: Chests.,498,498.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,6,Mauritius. :: Chests.,23,23.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,10,Ceylon. :: Chests.,80,80.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,11,French Indo-China. :: Chests.,"2,690",2690.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,12,Dutch East Indies. :: Chests.,"2,650",2650.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,15,Other Countries. (See p. 28.) :: Chests.,"3,160",3160.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,16,Total. :: Chests.,"11,806",11806.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,17,data,,1914–15,17,Year.,1914–15,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,2,China (including Hong Kong and Macao). :: Chests.,824,824.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,3,Straits Settlements. :: Chests.,"3,155",3155.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,4,United Kingdom. :: Chests.,199,199.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,6,Mauritius. :: Chests.,65,65.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,10,Ceylon. :: Chests.,65,65.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,11,French Indo-China. :: Chests.,"2,035",2035.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,12,Dutch East Indies. :: Chests.,"1,835",1835.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,15,Other Countries. (See p. 28.) :: Chests.,"3,248",3248.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,16,Total. :: Chests.,"11,426",11426.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,18,data,,1915–16,17,Year.,1915–16,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,2,China (including Hong Kong and Macao). :: Chests.,865,865.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,3,Straits Settlements. :: Chests.,"3,989",3989.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,6,Mauritius. :: Chests.,120,120.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,10,Ceylon. :: Chests.,80,80.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,11,French Indo-China. :: Chests.,"3,440",3440.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,12,Dutch East Indies. :: Chests.,"1,965",1965.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,15,Other Countries. (See p. 28.) :: Chests.,"2,366",2366.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,16,Total. :: Chests.,"12,829",12829.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,19,data,,1916–17,17,Year.,1916–17,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,2,China (including Hong Kong and Macao). :: Chests.,855,855.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,3,Straits Settlements. :: Chests.,"5,174",5174.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,6,Mauritius. :: Chests.,15,15.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,10,Ceylon. :: Chests.,60,60.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,11,French Indo-China. :: Chests.,"3,050",3050.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,12,Dutch East Indies. :: Chests.,"1,800",1800.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,15,Other Countries. (See p. 28.) :: Chests.,"2,648",2648.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,16,Total. :: Chests.,"13,602",13602.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,20,data,,1917–18,17,Year.,1917–18,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,2,China (including Hong Kong and Macao). :: Chests.,"1,001",1001.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,3,Straits Settlements. :: Chests.,"4,003",4003.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,6,Mauritius. :: Chests.,42,42.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,10,Ceylon. :: Chests.,70,70.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,11,French Indo-China. :: Chests.,"3,490",3490.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,12,Dutch East Indies. :: Chests.,"2,400",2400.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,15,Other Countries. (See p. 28.) :: Chests.,"3,822",3822.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,16,Total. :: Chests.,"14,828",14828.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,21,data,,1918–19,17,Year.,1918–19,,,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,2,China (including Hong Kong and Macao). :: Chests.,869,869.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,3,Straits Settlements. :: Chests.,"4,025",4025.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,4,United Kingdom. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,5,East Coast of Africa. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,6,Mauritius. :: Chests.,35,35.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,7,Natal. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,8,Reunion. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,9,Aden. :: Chests,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,10,Ceylon. :: Chests.,60,60.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,11,French Indo-China. :: Chests.,995,995.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,12,Dutch East Indies. :: Chests.,"2,000",2000.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,13,Philippines. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,14,Australia. :: Chests.,—,,chests,True,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,15,Other Countries. (See p. 28.) :: Chests.,"2,525",2525.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,16,Total. :: Chests.,"10,509",10509.0,chests,False,False
+truth-about-indian-opium,tbl-010,Table 10,31,27,22,data,,1919–20,17,Year.,1919–20,,,False,False

@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-010,Table 10,203,175,1,data,,Amount of the Nawab’s land revenue assessment,2,Rupees.,"13,523,474",13523474.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-010,Table 10,203,175,2,data,,"Amount of the British assessment, first year",2,Rupees.,"15,619,627",15619627.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-010,Table 10,203,175,3,data,,"Amount of the British assessment, second year",2,Rupees.,"16,162,786",16162786.0,Rs,False,False
+economic-history-india-early-british-dutt,tbl-010,Table 10,203,175,4,data,,"Amount of the British assessment, third year",2,Rupees.,"16,823,063",16823063.0,Rs,False,False

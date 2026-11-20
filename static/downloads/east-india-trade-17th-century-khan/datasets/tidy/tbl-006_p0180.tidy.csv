@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,1,data,,1667–8,2,Column 2,"£128,605",128605.0,GBP,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,1,data,,1667–8,3,Column 3,17,17.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,1,data,,1667–8,4,Column 4,5,5.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,2,data,,1668–9,2,Column 2,"162,394",162394.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,2,data,,1668–9,3,Column 3,9,9.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,2,data,,1668–9,4,Column 4,10,10.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,3,data,,1669–70,2,Column 2,"187,458",187458.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,3,data,,1669–70,3,Column 3,3,3.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,3,data,,1669–70,4,Column 4,8,8.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,4,data,,1670–71,2,Column 2,"186,149",186149.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,4,data,,1670–71,3,Column 3,10,10.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,4,data,,1670–71,4,Column 4,11,11.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,5,data,,1671–72,2,Column 2,"186,420",186420.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,5,data,,1671–72,3,Column 3,8,8.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,5,data,,1671–72,4,Column 4,3,3.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,6,data,,1672–73,2,Column 2,"131,300",131300.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,6,data,,1672–73,3,Column 3,5,5.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,6,data,,1672–73,4,Column 4,11,11.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,7,data,,1673–74,2,Column 2,"182,983",182983.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,7,data,,1673–74,3,Column 3,0,0.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,7,data,,1673–74,4,Column 4,6,6.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,8,total,,Total,2,Column 2,"£1,165,311",1165311.0,GBP,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,8,total,,Total,3,Column 3,16,16.0,,False,False
+east-india-trade-17th-century-khan,tbl-006,Exports of Bullion from 1667–74.,180,168,8,total,,Total,4,Column 4,6,6.0,,False,False

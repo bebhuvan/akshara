@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="bgShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1D1D1B" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#131312" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="#131312"/>
+  <rect width="1200" height="1800" fill="url(#bgShade)"/>
+
+  <line x1="112" y1="110" x2="1088" y2="110" stroke="#3A3A36" stroke-width="1.5"/><line x1="112" y1="215" x2="1088" y2="215" stroke="#E04026" stroke-width="3"/><text x="1088" y="1470" text-anchor="end" fill="#F7F4EC" fill-opacity="0.08" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-weight="700" font-size="340" letter-spacing="-10">1862</text><line x1="112" y1="1520" x2="1088" y2="1520" stroke="#3A3A36" stroke-width="1.5"/><line x1="112" y1="1685" x2="1088" y2="1685" stroke="#3A3A36" stroke-width="1.5"/>
+
+  <text x="112" y="168" fill="#E04026" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
+    LETTERS, SPEECHES &amp; DISCOURSE
+  </text>
+  <text x="1088" y="168" text-anchor="end" fill="#B8B4AC" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
+    1862
+  </text>
+
+  <text x="112" y="355" fill="#F7F4EC" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="80" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">Letters from</tspan><tspan x="112" dy="92">Malabar</tspan>
+  </text>
+
+  <text x="112" y="509" fill="#B8B4AC" font-family="Noto Serif, Georgia, serif" font-style="italic" font-size="30"><tspan x="112" dy="0">Now First Translated from the Original Dutch</tspan></text>
+
+  <line x1="112" y1="593" x2="290" y2="593" stroke="#E04026" stroke-width="4"/>
+
+  <text x="112" y="657" fill="#F7F4EC" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+    <tspan x="112" dy="0">Jacob Canter Visscher</tspan>
+  </text>
+  <text x="112" y="711" fill="#B8B4AC" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1862
+  </text>
+
+  <text x="112" y="1605" fill="#F7F4EC" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
+    AKSHARA
+  </text>
+  <text x="112" y="1652" fill="#B8B4AC" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    ARCHIVAL EDITION  ·  AKSHARA.INK
+  </text>
+  <text x="1088" y="1628" text-anchor="end" fill="#E04026" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
+    ಅಕ್ಷರ
+  </text>
+</svg>

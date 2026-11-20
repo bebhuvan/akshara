@@ -1,6 +1,6 @@
 ---
 title: "Modern Religious Movements in India"
-date: 2025-12-27
+date: "2025-12-27"
 subtitle: ""
 author: "John Nicol Farquhar"
 author_slug: "j-n-farquhar"
@@ -23,11 +23,14 @@ archive_url: "https://archive.org/details/modernreligiousm00farqiala/mode/2up"
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain. The appendix, glossary, and index have been omitted from this digital edition."
-
 download_url: "https://drive.google.com/drive/folders/1V4KCE1EueayCDmea5d_QCOzckKynywOu?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/modern-religious-movements-india.svg"
+archetype: "classical_and_philological"
+palette: "Birch & Carbon"
 ---
 
 A landmark study of the religious ferment that transformed India during the nineteenth century. John Nicol Farquhar, drawing on sixteen years of residence in India and extensive travels across the subcontinent, documents the emergence of reform movements, revival organizations, and new religious syntheses that arose in response to Western influence and Christian missions.

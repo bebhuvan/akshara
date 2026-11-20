@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,1,data,,Mercoolis,2,From Surat—,"10,000",10000.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,1,data,,Mercoolis,3,From Surat—,pieces.,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,2,data,,Narrow baftas,2,From Surat—,"10,000",10000.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,2,data,,Narrow baftas,3,From Surat—,„,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,3,data,,Broad baftas,2,From Surat—,"5,000",5000.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,3,data,,Broad baftas,3,From Surat—,„,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,4,data,,Sind calico,2,From Surat—,"10,000",10000.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,4,data,,Sind calico,3,From Surat—,„,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,5,data,,Dariyabads,2,From Surat—,"10,000",10000.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,5,data,,Dariyabads,3,From Surat—,„,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,6,data,,Dungaree,2,From Surat—,"10,000",10000.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,6,data,,Dungaree,3,From Surat—,„,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,7,data,,Other calico,2,From Surat—,"8,500",8500.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,7,data,,Other calico,3,From Surat—,„,,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,8,total,,Row 8,2,From Surat—,"63,500",63500.0,,False,True
+from-akbar-to-aurangzeb,tbl-012,Table 12,153,131,8,total,,Row 8,3,From Surat—,„,,,False,True

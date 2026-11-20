@@ -5,11 +5,14 @@ full_name: "Radha Kumud Mukherjee"
 birth_year: 1884
 death_year: 1963
 birth_place: "Berhampore, Murshidabad, Bengal"
-languages: ["English", "Sanskrit", "Bengali", "Pali"]
+languages:
+  - "English"
+  - "Sanskrit"
+  - "Bengali"
+  - "Pali"
 short_bio: "Indian historian and nationalist who pioneered the study of Indian maritime history, ancient Indian institutions, and Hindu civilisation."
 works_count: 1
 first_publication: 1912
-
 timeline:
   - year: 1884
     title: "Birth in Bengal"

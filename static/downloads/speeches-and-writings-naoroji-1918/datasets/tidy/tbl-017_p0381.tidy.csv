@@ -1,0 +1,23 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,1,data,,(1) Balance of State Funds,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,1,data,,(1) Balance of State Funds,3,Assets—,"1,27,23,615",12723615.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,2,data,,(2) Investment on account of Railway Loan Repayment Fund,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,2,data,,(2) Investment on account of Railway Loan Repayment Fund,3,Assets—,"27,81,500",2781500.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,3,data,,(3) Capital outlay on Mysore-Harihar Railway,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,3,data,,(3) Capital outlay on Mysore-Harihar Railway,3,Assets—,"1,48,03,306",14803306.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,4,data,,(4) Capital outlay on other Railways,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,4,data,,(4) Capital outlay on other Railways,3,Assets—,"41,33,390",4133390.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,5,data,,(5) Unexpended portion of Capital borrowed for Mysore-Harihar Railway (with British Government),2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,5,data,,(5) Unexpended portion of Capital borrowed for Mysore-Harihar Railway (with British Government),3,Assets—,"15,79,495",1579495.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,6,subtotal,,Row 6,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,6,subtotal,,Row 6,3,Assets—,"3,60,21,306",36021306.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,8,data,Liabilities—,(1) Local Railway Loan,2,Assets—,Rs.,,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,8,data,Liabilities—,(1) Local Railway Loan,3,Assets—,"20,00,000",2000000.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,9,data,Liabilities—,(2) English Railway Loan,2,Assets—,„,,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,9,data,Liabilities—,(2) English Railway Loan,3,Assets—,"1,63,82,801",16382801.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,10,subtotal,,Row 10,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,10,subtotal,,Row 10,3,Assets—,"1,83,82,801",18382801.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,11,total,,Net Assets,2,Assets—,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,11,total,,Net Assets,3,Assets—,"Rs. 1,76,38,505",17638505.0,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,13,data,Add Other Assets—,Capital outlay on original Irrigation Works,2,Assets—,Rs.,,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-017,"On 30th June, 1895 :",381,367,13,data,Add Other Assets—,Capital outlay on original Irrigation Works,3,Assets—,"99,08,935",9908935.0,,False,False

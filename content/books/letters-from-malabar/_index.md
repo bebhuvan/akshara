@@ -1,6 +1,6 @@
 ---
 title: "Letters from Malabar"
-date: 2024-12-19
+date: "2024-12-19"
 subtitle: "Now First Translated from the Original Dutch"
 author: "Jacob Canter Visscher"
 translator: "Major Heber Drury"
@@ -27,11 +27,15 @@ downloads:
 digitized_from: "Archive.org (Google Books scan)"
 digitization_method: "OCR with manual correction"
 digitization_notes: "Text extracted using LLM-based OCR from the Google Books scan hosted on Archive.org. Original Dutch work published in 1743; this English translation by Major Heber Drury published in 1862."
-
 cascade:
   - _target:
       kind: "page"
     type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/letters-from-malabar.svg"
+archetype: "epistolary_and_speeches"
+palette: "Carbon & Vermilion"
 ---
 
 Jacob Canter Visscher served as a Dutch chaplain at Cochin in the early 18th century, spending five years observing the land, people, and customs of the Malabar Coast. His letters home, originally published in Dutch in 1743, provide a remarkable window into colonial-era South India.

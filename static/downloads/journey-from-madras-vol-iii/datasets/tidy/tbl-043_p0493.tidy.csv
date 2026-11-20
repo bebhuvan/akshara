@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,1,data,,Rent of the iron boiler belonging to the government,2,Seers.,1½,1.5,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,1,data,,Rent of the iron boiler belonging to the government,3,Fanams.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,2,data,,Mill rent,2,Seers.,1½,1.5,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,2,data,,Mill rent,3,Fanams.,1,1.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,3,data,,"Nirgunty, or conductor of water",2,Seers.,1½,1.5,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,3,data,,"Nirgunty, or conductor of water",3,Fanams.,0,0.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,4,data,,"Shanaboga, or village accomptant",2,Seers.,1½,1.5,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,4,data,,"Shanaboga, or village accomptant",3,Fanams.,0,0.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,5,data,,"Iron-smith, as a workman",2,Seers.,1½,1.5,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,5,data,,"Iron-smith, as a workman",3,Fanams.,0,0.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,6,data,,"Ditto as priest, or Pújári of Ganésa",2,Seers.,0¾,0.75,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,6,data,,"Ditto as priest, or Pújári of Ganésa",3,Fanams.,0,0.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,7,data,,"Oil, butter, and quick-lime",2,Seers.,0,0.0,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,7,data,,"Oil, butter, and quick-lime",3,Fanams.,0,0.0,,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,8,total,,Row 8,2,Seers.,8¼,8.25,seers,False,False
+journey-from-madras-vol-iii,tbl-043,Table 43,493,451,8,total,,Row 8,3,Fanams.,2½,2.5,,False,False

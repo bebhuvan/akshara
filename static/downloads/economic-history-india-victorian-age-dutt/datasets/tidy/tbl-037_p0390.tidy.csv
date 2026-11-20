@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,1,data,,Spent up to March 1870,2,State Railways.,"£ 743,862",743862.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,1,data,,Spent up to March 1870,3,Irrigation Works.,"£ 2,695,465",2695465.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,2,data,,„ „ 1871,2,State Railways.,"449,372",449372.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,2,data,,„ „ 1871,3,Irrigation Works.,"718,438",718438.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,3,data,,„ „ 1872,2,State Railways.,"644,620",644620.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,3,data,,„ „ 1872,3,Irrigation Works.,"983,854",983854.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,4,data,,„ „ 1873,2,State Railways.,"1,413,649",1413649.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,4,data,,„ „ 1873,3,Irrigation Works.,"770,920",770920.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,5,data,,„ „ 1874,2,State Railways.,"2,354,625",2354625.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,5,data,,„ „ 1874,3,Irrigation Works.,"1,198,682",1198682.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,6,data,,„ „ 1875,2,State Railways.,"3,014,180",3014180.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,6,data,,„ „ 1875,3,Irrigation Works.,"1,235,391",1235391.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,7,data,,„ „ 1876,2,State Railways.,"3,165,184",3165184.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,7,data,,„ „ 1876,3,Irrigation Works.,"1,105,445",1105445.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,8,data,,„ „ 1877,2,State Railways.,"2,865,861",2865861.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,8,data,,„ „ 1877,3,Irrigation Works.,"943,423",943423.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,9,data,,„ „ 1878,2,State Railways.,"3,984,968",3984968.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,9,data,,„ „ 1878,3,Irrigation Works.,"806,084",806084.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,10,data,,„ „ 1879,2,State Railways.,"3,327,888",3327888.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,10,data,,„ „ 1879,3,Irrigation Works.,"794,654",794654.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,11,data,,„ „ 1880,2,State Railways.,"2,680,493",2680493.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,11,data,,„ „ 1880,3,Irrigation Works.,"598,837",598837.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,12,total,,Total,2,State Railways.,"£24,644,702",24644702.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-037,Table 37,390,362,12,total,,Total,3,Irrigation Works.,"£11,851,193",11851193.0,GBP,False,True

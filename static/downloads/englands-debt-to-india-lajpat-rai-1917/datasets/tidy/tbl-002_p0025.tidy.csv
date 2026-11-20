@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-002,Table 2,25,xv,1,data,,"Military stores, services, and supplies",2,Column 2,"£50,000,000",50000000.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-002,Table 2,25,xv,2,data,,"Advanced to Britain from Reserves, etc",2,Column 2,"27,000,000",27000000.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-002,Table 2,25,xv,3,data,,Deduct loans from Britain,2,Column 2,Nil,0.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-002,Table 2,25,xv,4,total,,Total,2,Column 2,"£77,000,000",77000000.0,GBP,False,True

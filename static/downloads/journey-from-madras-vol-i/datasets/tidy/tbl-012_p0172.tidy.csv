@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-012,Table 12,172,138,1,data,,Doda Butta,2,Ripening.,5 months.,,,False,False
+journey-from-madras-vol-i,tbl-012,Table 12,172,138,2,data,,Putu Butta,2,Ripening.,5 months.,,,False,False
+journey-from-madras-vol-i,tbl-012,Table 12,172,138,3,data,,Hotay Caimbuti,2,Ripening.,5 months.,,,False,False
+journey-from-madras-vol-i,tbl-012,Table 12,172,138,4,data,,Conawaly,2,Ripening.,5 months.,,,False,False
+journey-from-madras-vol-i,tbl-012,Table 12,172,138,5,data,,Mulu Butta,2,Ripening.,3 months.,,,False,False

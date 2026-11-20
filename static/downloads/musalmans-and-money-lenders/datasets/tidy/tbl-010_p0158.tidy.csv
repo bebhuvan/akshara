@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,1,data,,1880,2,Number arrested.,"10,772",10772.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,1,data,,1880,3,Number imprisoned.,990,990.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,1,data,,1880,4,Percentage imprisoned to arrested.,9,9.0,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,1,data,,1880,5,REMARKS.,,,,True,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,2,data,,1881,2,Number arrested.,"7,090",7090.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,2,data,,1881,3,Number imprisoned.,948,948.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,2,data,,1881,4,Percentage imprisoned to arrested.,13,13.0,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,2,data,,1881,5,REMARKS.,,,,True,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,3,data,,1882,2,Number arrested.,"9,011",9011.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,3,data,,1882,3,Number imprisoned.,989,989.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,3,data,,1882,4,Percentage imprisoned to arrested.,11,11.0,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,3,data,,1882,5,REMARKS.,Thus in 89 per cent. of cases the threat of imprisonment im-plied by arrest sufficed to con-strain debtor to come to terms with his creditor.,,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,4,data,,1883,2,Number arrested.,"9,691",9691.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,4,data,,1883,3,Number imprisoned.,"1,167",1167.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,4,data,,1883,4,Percentage imprisoned to arrested.,12,12.0,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,4,data,,1883,5,REMARKS.,,,,True,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,5,data,,1884,2,Number arrested.,"8,310",8310.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,5,data,,1884,3,Number imprisoned.,"1,033",1033.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,5,data,,1884,4,Percentage imprisoned to arrested.,12,12.0,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,5,data,,1884,5,REMARKS.,,,,True,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,6,total,,Total,2,Number arrested.,"44,874",44874.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,6,total,,Total,3,Number imprisoned.,"5,127",5127.0,count,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,6,total,,Total,4,Percentage imprisoned to arrested.,11,11.0,%,False,True
+musalmans-and-money-lenders,tbl-010,Table 10,158,146,6,total,,Total,5,REMARKS.,,,,True,True

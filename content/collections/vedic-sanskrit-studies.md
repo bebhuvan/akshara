@@ -1,15 +1,20 @@
 ---
-title: "Vedic & Sanskrit Studies"
+title: "Classical, Vedic & Philological Studies"
 type: "collections"
-book_count: 3
-description: "Scholarly explorations of Vedic religion, Sanskrit literature, and the intellectual heritage of ancient India"
-period: "Vedic Period Studies"
+book_count: 5
+author_count: 5
+earliest_year: 1883
+latest_year: 1915
+description: "Classical translations, Vedic philology, comparative religion, and literary heritage from India's ancient canons."
+period: "Vedic & Classical Traditions"
 books:
-  - "religion-of-the-veda"
   - "india-what-can-it-teach-us"
+  - "lays-of-ancient-india"
+  - "modern-religious-movements-india"
+  - "religion-of-the-veda"
   - "rig-veda-vedic-religion"
 ---
 
-This collection brings together works by leading Western scholars who dedicated their lives to understanding India's oldest literary and religious traditions. From the hymns of the Rig Veda to the philosophy of the Upanishads, these studies illuminate the foundations of Hindu thought.
+Classical translations, Vedic philology, comparative religion, and literary heritage from India's ancient canons.
 
-Written by scholars who mastered Sanskrit and devoted decades to careful textual analysis, these works made Vedic literature accessible to English readers while maintaining scholarly rigor. They explore the development of religious ideas, the nature of Vedic deities, and the enduring influence of India's ancient wisdom on world thought.
+This curated shelf brings together 5 public-domain editions across Akshara.

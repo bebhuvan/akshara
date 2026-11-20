@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "east-india-trade-17th-century-khan",
+    "table_id": "tbl-007",
+    "caption": "Table 7",
+    "page_number": 184,
+    "printed_folio": "172",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Dead stock was",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "£216,483",
+    "value_numeric": 216483.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": true
+  },
+  {
+    "book_id": "east-india-trade-17th-century-khan",
+    "table_id": "tbl-007",
+    "caption": "Table 7",
+    "page_number": 184,
+    "printed_folio": "172",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Quick stock",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "£1,511,619",
+    "value_numeric": 1511619.0,
+    "unit": "GBP",
+    "is_null_or_leader": false,
+    "arithmetic_verified": true
+  }
+]

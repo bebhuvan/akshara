@@ -1,0 +1,106 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,2,Quality.,White and small,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,3,Soil.,Bylu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,4,Crop for which it is used.,Yenalu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,5,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,6,Manner of cultivation.,transplanted,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,7,Increase in a good crop. Folds.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,1,data,,Bily Ayki,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",25,25.0,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,2,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,4,Crop for which it is used.,Colaky,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,5,Months required for this crop.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,6,Manner of cultivation.,sprouted seed,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,7,Increase in a good crop. Folds.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,2,data,,Ditto,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",6¼,6.25,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,2,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,3,Soil.,Majelu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,4,Crop for which it is used.,Yenalu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,5,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,7,Increase in a good crop. Folds.,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,3,data,,Ditto,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",15,15.0,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,2,Quality.,Very small,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,3,Soil.,Bylu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,5,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,6,Manner of cultivation.,transplanted,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,7,Increase in a good crop. Folds.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,4,data,,Jirigay Saly,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",18¾,18.75,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,2,Quality.,Large and black,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,5,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,6,Manner of cultivation.,sprouted seed,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,7,Increase in a good crop. Folds.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,5,data,,Amutty,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",25,25.0,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,2,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,5,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,7,Increase in a good crop. Folds.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,6,data,,Cagi Ayki,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",18¾,18.75,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,2,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,4,Crop for which it is used.,Colaky,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,5,Months required for this crop.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,7,Increase in a good crop. Folds.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,7,data,,Ditto,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",6¼,6.25,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,2,Quality.,Red and low priced,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,4,Crop for which it is used.,Sughi,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,5,Months required for this crop.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,7,Increase in a good crop. Folds.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,8,data,,Atticaráya,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",12½,12.5,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,3,Soil.,Majelu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,4,Crop for which it is used.,Yenalu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,5,Months required for this crop.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,7,Increase in a good crop. Folds.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,9,data,,Kiny Vettu,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",12½,12.5,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,3,Soil.,Bettu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,5,Months required for this crop.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,7,Increase in a good crop. Folds.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,10,data,,Ditto,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",10,10.0,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,3,Soil.,Majelu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,5,Months required for this crop.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,7,Increase in a good crop. Folds.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,11,data,,Sampa Saly,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",12½,12.5,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,5,Months required for this crop.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,7,Increase in a good crop. Folds.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,12,data,,Soma Saly,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",12½,12.5,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,3,Soil.,Bettu,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,5,Months required for this crop.,3½,3.5,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,7,Increase in a good crop. Folds.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,13,data,,Ditto,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",10,10.0,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,3,Soil.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,4,Crop for which it is used.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,5,Months required for this crop.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,6,Manner of cultivation.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,7,Increase in a good crop. Folds.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,14,data,,Tungalu,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",10,10.0,acres,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,2,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,3,Soil.,Potla,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,4,Crop for which it is used.,—,,,True,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,5,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,6,Manner of cultivation.,transplanted,,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,7,Increase in a good crop. Folds.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-009,Table explaining the Cultivation of Rice at Mangalore.,52,38,15,data,,Attigary,8,"Produce of an Acre, supposing it to sow 1¼ Bushel.",12½,12.5,acres,False,False

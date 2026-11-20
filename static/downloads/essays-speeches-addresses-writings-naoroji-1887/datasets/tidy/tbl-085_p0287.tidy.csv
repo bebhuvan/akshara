@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,1,data,,ant Surgeon during the first 7 years' service,2,Pay :: Rs.,100,100.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,1,data,,ant Surgeon during the first 7 years' service,3,Allow-ance :: Rs.,100,100.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,1,data,,ant Surgeon during the first 7 years' service,4,Total :: Rs.,200,200.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,2,data,,"2nd Class Sub-Assist-ant Surgeon, between 7 and 14 years' service",2,Pay :: Rs.,150,150.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,2,data,,"2nd Class Sub-Assist-ant Surgeon, between 7 and 14 years' service",3,Allow-ance :: Rs.,150,150.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,2,data,,"2nd Class Sub-Assist-ant Surgeon, between 7 and 14 years' service",4,Total :: Rs.,300,300.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,3,data,,1st Class Sub-Assist-ant Surgeon after 14 years' service till the end of his service,2,Pay :: Rs.,200,200.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,3,data,,1st Class Sub-Assist-ant Surgeon after 14 years' service till the end of his service,3,Allow-ance :: Rs.,150,150.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-085,Table 85,287,270,3,data,,1st Class Sub-Assist-ant Surgeon after 14 years' service till the end of his service,4,Total :: Rs.,350,350.0,Rs,False,False

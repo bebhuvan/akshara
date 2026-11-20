@@ -1,0 +1,58 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,1,data,,A. D. 1782,2,Candies of 600 lb.,86,86.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,1,data,,A. D. 1782,3,Maunds of 30 lb.,13,13.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,1,data,,A. D. 1782,4,lb.,07,7.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,2,data,,1783,2,Candies of 600 lb.,132,132.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,2,data,,1783,3,Maunds of 30 lb.,14,14.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,2,data,,1783,4,lb.,19,19.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,3,data,,1784,2,Candies of 600 lb.,2185,2185.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,3,data,,1784,3,Maunds of 30 lb.,10,10.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,558,530,3,data,,1784,4,lb.,08,8.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,4,data,,A. D. 1785,2,Candies of 600 lb.,28,28.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,4,data,,A. D. 1785,3,Maunds of 30 lb.,07,7.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,4,data,,A. D. 1785,4,lb.,04,4.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,5,data,,1786,2,Candies of 600 lb.,615,615.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,5,data,,1786,3,Maunds of 30 lb.,01,1.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,5,data,,1786,4,lb.,05,5.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,6,data,,1789,2,Candies of 600 lb.,937,937.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,6,data,,1789,3,Maunds of 30 lb.,19,19.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,6,data,,1789,4,lb.,08,8.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,7,data,,1790,2,Candies of 600 lb.,1148,1148.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,7,data,,1790,3,Maunds of 30 lb.,09,9.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,7,data,,1790,4,lb.,01,1.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,8,data,,1791,2,Candies of 600 lb.,2107,2107.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,8,data,,1791,3,Maunds of 30 lb.,05,5.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,8,data,,1791,4,lb.,05,5.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,9,data,,1792,2,Candies of 600 lb.,2001,2001.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,9,data,,1792,3,Maunds of 30 lb.,15,15.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,9,data,,1792,4,lb.,17,17.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,10,data,,1793,2,Candies of 600 lb.,2499,2499.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,10,data,,1793,3,Maunds of 30 lb.,06,6.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,10,data,,1793,4,lb.,10,10.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,11,data,,1794,2,Candies of 600 lb.,2400,2400.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,11,data,,1794,3,Maunds of 30 lb.,00,0.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,11,data,,1794,4,lb.,00 about.,,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,12,data,,1795,2,Candies of 600 lb.,1914,1914.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,12,data,,1795,3,Maunds of 30 lb.,11,11.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,12,data,,1795,4,lb.,23,23.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,13,data,,1796,2,Candies of 600 lb.,none.,0.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,13,data,,1796,3,Maunds of 30 lb.,,,lbs,True,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,13,data,,1796,4,lb.,,,lbs,True,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,14,data,,1797,2,Candies of 600 lb.,4155,4155.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,14,data,,1797,3,Maunds of 30 lb.,04,4.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,14,data,,1797,4,lb.,23 of crop 96 and,,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,15,data,,Row 15,2,Candies of 600 lb.,2070,2070.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,15,data,,Row 15,3,Maunds of 30 lb.,18,18.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,15,data,,Row 15,4,lb.,07 of crop 97.,,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,16,data,,1798,2,Candies of 600 lb.,4778,4778.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,16,data,,1798,3,Maunds of 30 lb.,09,9.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,16,data,,1798,4,lb.,01,1.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,17,data,,1799,2,Candies of 600 lb.,1135,1135.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,17,data,,1799,3,Maunds of 30 lb.,06,6.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,17,data,,1799,4,lb.,01,1.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,18,data,,1800,2,Candies of 600 lb.,1145,1145.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,18,data,,1800,3,Maunds of 30 lb.,03,3.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,18,data,,1800,4,lb.,10,10.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,19,data,,In store,2,Candies of 600 lb.,4067,4067.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,19,data,,In store,3,Maunds of 30 lb.,24.,24.0,lbs,False,False
+journey-from-madras-vol-ii,tbl-059,Table 59,559,530,19,data,,In store,4,lb.,,,lbs,True,False

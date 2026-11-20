@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,2,Column 2,A Pinnace of 120 Tunns & all her chardges of setting forth w victualls & ympreste ...,,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,3,Column 3,...,,,True,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,4,Column 4,2600,2600.0,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,5,Column 5,00,0.0,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,1,data,,Pynnace,6,Column 6,00d,,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,2,Column 2,Soma totalis,,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,3,Column 3,,,,True,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,4,Column 4,22913,22913.0,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,5,Column 5,16,16.0,,False,True
+eic-first-letter-book-1600-1619,tbl-006,THE PYNNACE,188,96,2,total,,Row 2,6,Column 6,00,0.0,,False,True

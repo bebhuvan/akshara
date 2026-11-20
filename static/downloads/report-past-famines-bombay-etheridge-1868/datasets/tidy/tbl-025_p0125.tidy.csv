@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,1,data,,“ Jowaree,2,Per Rupee.,6 seers.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,2,data,,“ Bajree,2,Per Rupee.,5¼ do.,5.25,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,3,data,,"“ Rice, 1st sort",2,Per Rupee.,4¼ do.,4.25,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,4,data,,“ Do. 2nd do,2,Per Rupee.,6 do.,6.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,5,data,,“ Dall,2,Per Rupee.,4¼ do.,4.25,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,6,data,,“ Koolthi,2,Per Rupee.,6½ do.,6.5,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-025,Table 25,125,113,7,data,,“ Horse grain,2,Per Rupee.,3½ do.,3.5,Rs,False,False

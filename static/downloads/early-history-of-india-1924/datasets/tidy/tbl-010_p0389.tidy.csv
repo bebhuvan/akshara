@@ -1,0 +1,51 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+early-history-of-india-1924,tbl-010,Table 10,389,345,1,data,,c. 271,2,EVENT.,Gupta,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,1,data,,c. 271,3,REMARKS.,Jain date for commence- ment of Gup- ta dynasty.,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,2,data,,c. 290,2,EVENT.,Ghaṭotkacha,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,2,data,,c. 290,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,3,data,,c. 308,2,EVENT.,Lichchhavi marriage of Chandra-gupta I,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,3,data,,c. 308,3,REMARKS.,"Foundation of Gupta Era, of which year 1 began Febru- ary 26, 320",,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,4,data,,320,2,EVENT.,Chandra-gupta I acc. to independent power,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,4,data,,320,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,5,data,,c. 330,2,EVENT.,Samudragupta acc.,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,5,data,,c. 330,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,6,data,,c. 330–6,2,EVENT.,Campaigns in Northern India,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,6,data,,c. 330–6,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,7,data,,c. 347–50,2,EVENT.,Campaign in Southern India,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,7,data,,c. 347–50,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,8,data,,c. 351,2,EVENT.,Horse-sacrifice,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,8,data,,c. 351,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,9,data,,c. 360,2,EVENT.,Embassy from King Meghavarṇa of Ceylon,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,9,data,,c. 360,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,10,data,,c. 380,2,EVENT.,Chandra-gupta II acc.,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,10,data,,c. 380,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,11,data,,c. 395,2,EVENT.,Conquest of Western India,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,11,data,,c. 395,3,REMARKS.,,,,True,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,12,data,,401,2,EVENT.,Udayagiri inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,12,data,,401,3,REMARKS.,G. E. 82,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,13,data,,405–11,2,EVENT.,Travels of Fa-hien in Gupta empire,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,13,data,,405–11,3,REMARKS.,” 86–92,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,14,data,,407,2,EVENT.,Gaṛhwā inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,14,data,,407,3,REMARKS.,” 88,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,15,data,,409,2,EVENT.,Silver coins of western type,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,15,data,,409,3,REMARKS.,” 90,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,16,data,,412,2,EVENT.,Sāñchī inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,16,data,,412,3,REMARKS.,” 93,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,17,data,,415,2,EVENT.,Kumāragupta I acc.,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,17,data,,415,3,REMARKS.,” 94,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,18,data,,415,2,EVENT.,Bilsaṛ inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,18,data,,415,3,REMARKS.,” 96,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,19,data,,417,2,EVENT.,Gaṛhwā inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,19,data,,417,3,REMARKS.,” 98,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,20,data,,432,2,EVENT.,Mathurā and Natore in N. Bengal inscrip- tions,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,20,data,,432,3,REMARKS.,” 113,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,21,data,,436,2,EVENT.,Mandasōr inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,21,data,,436,3,REMARKS.,V.S. 493 (= G.E. 117),,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,22,data,,436,2,EVENT.,Bharadi inscription,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,22,data,,436,3,REMARKS.,G. E. 117,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,23,data,,440,2,EVENT.,Silver coins,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,23,data,,440,3,REMARKS.,” 121,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,24,data,,443,2,EVENT.,Silver coins,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,24,data,,443,3,REMARKS.,” 124,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,25,data,,447,2,EVENT.,Silver coins,,,False,False
+early-history-of-india-1924,tbl-010,Table 10,389,345,25,data,,447,3,REMARKS.,” 128,,,False,False

@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,1,data,,Ghee,2,Column 2,,,,True,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,1,data,,Ghee,3,Column 3,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,1,data,,Ghee,4,Column 4,83¼,83.25,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,1,data,,Ghee,5,Column 5,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,1,data,,Ghee,6,Column 6,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,1,data,,Ghee,7,Column 7,9½,9.5,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,2,data,,Betel-nut,2,Column 2,Walagram,,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,2,data,,Betel-nut,3,Column 3,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,2,data,,Betel-nut,4,Column 4,73¾,73.75,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,2,data,,Betel-nut,5,Column 5,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,2,data,,Betel-nut,6,Column 6,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,2,data,,Betel-nut,7,Column 7,7¼,7.25,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,3,data,,Black pepper,2,Column 2,,,,True,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,3,data,,Black pepper,3,Column 3,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,3,data,,Black pepper,4,Column 4,73¾,73.75,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,3,data,,Black pepper,5,Column 5,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,3,data,,Black pepper,6,Column 6,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-021,Goods sold by the Maund of 40 Seers.,237,197,3,data,,Black pepper,7,Column 7,7¼,7.25,,False,False

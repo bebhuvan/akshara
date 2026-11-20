@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,1,data,,Carding,2,Column 2,$ .66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,2,data,,Spinner,2,Column 2,1.16,1.16,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,3,data,,Minder,2,Column 2,1.20,1.2,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,4,data,,Beawer,2,Column 2,1.40,1.4,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,5,data,,Weaver,2,Column 2,a little less than 2.00,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,6,data,,Coolies,2,Column 2,less than .16 per day,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-071,"Average weekly wage in a jute mill in Bengal, 1914:",390,350,7,data,,Mistries,2,Column 2,about .35 per day,,,False,False

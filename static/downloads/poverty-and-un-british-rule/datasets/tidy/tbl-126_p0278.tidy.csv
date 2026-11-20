@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,1,data,,British India,2,s.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,1,data,,British India,3,d.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,2,data,,United Kingdom,2,s.,48,48.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,2,data,,United Kingdom,3,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,3,data,,Ceylon,2,s.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,3,data,,Ceylon,3,d.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,4,data,,Mauritius,2,s.,40,40.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,4,data,,Mauritius,3,d.,5,5.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,5,data,,Australia,2,s.,139,139.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,5,data,,Australia,3,d.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,6,data,,Natal,2,s.,29,29.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,6,data,,Natal,3,d.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,7,data,,Cape of Good Hope,2,s.,53,53.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,7,data,,Cape of Good Hope,3,d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,8,data,,North American Colonies,2,s.,31,31.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,8,data,,North American Colonies,3,d.,7,7.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,9,data,,West India Islands,2,s.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,9,data,,West India Islands,3,d.,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,10,data,,British Guiana,2,s.,32,32.0,,False,False
+poverty-and-un-british-rule,tbl-126,Gross Revenue per Head per Annum.,278,258,10,data,,British Guiana,3,d.,2,2.0,,False,False

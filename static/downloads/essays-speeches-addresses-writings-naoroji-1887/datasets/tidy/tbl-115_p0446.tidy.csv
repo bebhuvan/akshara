@@ -1,0 +1,161 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,1,data,,1,2,Acres.,"24,565",24565.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,1,data,,1,3,Per Acre. :: lbs.,186,186.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,1,data,,1,4,Total quantity. :: lbs.,"4,569,090",4569090.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,1,data,,1,5,Price per Re. 1 :: lbs.,6·51,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,1,data,,1,6,Total value. :: Rs.,"7,01,857",701857.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,2,data,,2,2,Acres.,"47,855",47855.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,2,data,,2,3,Per Acre. :: lbs.,164,164.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,2,data,,2,4,Total quantity. :: lbs.,"7,848,220",7848220.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,2,data,,2,5,Price per Re. 1 :: lbs.,6·51,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,2,data,,2,6,Total value. :: Rs.,"12,05,563",1205563.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,3,data,,3,2,Acres.,"21,510",21510.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,3,data,,3,3,Per Acre. :: lbs.,140,140.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,3,data,,3,4,Total quantity. :: lbs.,"3,011,400",3011400.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,3,data,,3,5,Price per Re. 1 :: lbs.,6·43,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,3,data,,3,6,Total value. :: Rs.,"4,68,336",468336.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,4,data,,4,2,Acres.,"20,323",20323.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,4,data,,4,3,Per Acre. :: lbs.,87,87.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,4,data,,4,4,Total quantity. :: lbs.,"1,768,101",1768101.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,4,data,,4,5,Price per Re. 1 :: lbs.,6·17,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,4,data,,4,6,Total value. :: Rs.,"2,86,564",286564.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,5,data,,5,2,Acres.,"49,073",49073.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,5,data,,5,3,Per Acre. :: lbs.,70,70.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,5,data,,5,4,Total quantity. :: lbs.,"3,435,110",3435110.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,5,data,,5,5,Price per Re. 1 :: lbs.,7·2,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,5,data,,5,6,Total value. :: Rs.,"4,77,098",477098.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,6,data,,6,2,Acres.,77,77.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,6,data,,6,3,Per Acre. :: lbs.,64,64.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,6,data,,6,4,Total quantity. :: lbs.,"4,928",4928.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,6,data,,6,5,Price per Re. 1 :: lbs.,6·17,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,6,data,,6,6,Total value. :: Rs.,798,798.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,7,data,,7,2,Acres.,"27,332",27332.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,7,data,,7,3,Per Acre. :: lbs.,72,72.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,7,data,,7,4,Total quantity. :: lbs.,"1,967,904",1967904.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,7,data,,7,5,Price per Re. 1 :: lbs.,6·34,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,7,data,,7,6,Total value. :: Rs.,"3,10,395",310395.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,8,data,,8,2,Acres.,"11,488",11488.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,8,data,,8,3,Per Acre. :: lbs.,85,85.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,8,data,,8,4,Total quantity. :: lbs.,"976,480",976480.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,8,data,,8,5,Price per Re. 1 :: lbs.,6·34,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,8,data,,8,6,Total value. :: Rs.,"1,54,019",154019.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,10,data,9,10,2,Acres.,"26,093",26093.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,10,data,9,10,3,Per Acre. :: lbs.,122,122.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,10,data,9,10,4,Total quantity. :: lbs.,"3,183,346",3183346.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,10,data,9,10,5,Price per Re. 1 :: lbs.,5·14,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,10,data,9,10,6,Total value. :: Rs.,"6,19,328",619328.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,11,data,9,11,2,Acres.,"24,420",24420.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,11,data,9,11,3,Per Acre. :: lbs.,136,136.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,11,data,9,11,4,Total quantity. :: lbs.,"3,321,120",3321120.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,11,data,9,11,5,Price per Re. 1 :: lbs.,5·49,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,11,data,9,11,6,Total value. :: Rs.,"6,04,940",604940.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,12,data,9,12,2,Acres.,"6,733",6733.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,12,data,9,12,3,Per Acre. :: lbs.,22,22.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,12,data,9,12,4,Total quantity. :: lbs.,"148,126",148126.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,12,data,9,12,5,Price per Re. 1 :: lbs.,5·14,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,12,data,9,12,6,Total value. :: Rs.,"28,818",28818.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,13,data,9,13,2,Acres.,"23,597",23597.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,13,data,9,13,3,Per Acre. :: lbs.,64,64.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,13,data,9,13,4,Total quantity. :: lbs.,"1,510,208",1510208.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,13,data,9,13,5,Price per Re. 1 :: lbs.,5·65,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,13,data,9,13,6,Total value. :: Rs.,"2,67,293",267293.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,14,data,9,14,2,Acres.,"37,474",37474.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,14,data,9,14,3,Per Acre. :: lbs.,50,50.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,14,data,9,14,4,Total quantity. :: lbs.,"1,873,700",1873700.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,14,data,9,14,5,Price per Re. 1 :: lbs.,5·14,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,14,data,9,14,6,Total value. :: Rs.,"3,64,533",364533.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,15,data,9,15,2,Acres.,"11,425",11425.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,15,data,9,15,3,Per Acre. :: lbs.,65,65.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,15,data,9,15,4,Total quantity. :: lbs.,"742,625",742625.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,15,data,9,15,5,Price per Re. 1 :: lbs.,5·65,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,15,data,9,15,6,Total value. :: Rs.,"1,31,438",131438.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,16,data,9,16,2,Acres.,"25,305",25305.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,16,data,9,16,3,Per Acre. :: lbs.,138,138.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,16,data,9,16,4,Total quantity. :: lbs.,"3,492,090",3492090.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,16,data,9,16,5,Price per Re. 1 :: lbs.,5·49,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,16,data,9,16,6,Total value. :: Rs.,"6,36,082",636082.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,17,data,9,17,2,Acres.,"33,376",33376.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,17,data,9,17,3,Per Acre. :: lbs.,129,129.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,17,data,9,17,4,Total quantity. :: lbs.,"4,305,504",4305504.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,17,data,9,17,5,Price per Re. 1 :: lbs.,5·49,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,17,data,9,17,6,Total value. :: Rs.,"7,84,244",784244.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,18,data,9,18,2,Acres.,"9,680",9680.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,18,data,9,18,3,Per Acre. :: lbs.,158,158.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,18,data,9,18,4,Total quantity. :: lbs.,"1,529,440",1529440.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,18,data,9,18,5,Price per Re. 1 :: lbs.,6·17,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,18,data,9,18,6,Total value. :: Rs.,"2,47,883",247883.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,19,data,9,19,2,Acres.,"33,745",33745.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,19,data,9,19,3,Per Acre. :: lbs.,128,128.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,19,data,9,19,4,Total quantity. :: lbs.,"4,319,360",4319360.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,19,data,9,19,5,Price per Re. 1 :: lbs.,4·46,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,19,data,9,19,6,Total value. :: Rs.,"9,68,466",968466.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,20,data,9,20,2,Acres.,"25,557",25557.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,20,data,9,20,3,Per Acre. :: lbs.,122,122.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,20,data,9,20,4,Total quantity. :: lbs.,"3,117,954",3117954.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,20,data,9,20,5,Price per Re. 1 :: lbs.,5·27,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,20,data,9,20,6,Total value. :: Rs.,"5,91,642",591642.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,21,data,9,21,2,Acres.,"24,716",24716.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,21,data,9,21,3,Per Acre. :: lbs.,43,43.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,21,data,9,21,4,Total quantity. :: lbs.,"1,062,788",1062788.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,21,data,9,21,5,Price per Re. 1 :: lbs.,4·63,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,21,data,9,21,6,Total value. :: Rs.,"2,29,543",229543.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,22,data,9,22,2,Acres.,"26,029",26029.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,22,data,9,22,3,Per Acre. :: lbs.,50,50.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,22,data,9,22,4,Total quantity. :: lbs.,"1,301,450",1301450.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,22,data,9,22,5,Price per Re. 1 :: lbs.,5·49,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,22,data,9,22,6,Total value. :: Rs.,"2,37,058",237058.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,23,data,9,23,2,Acres.,"16,550",16550.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,23,data,9,23,3,Per Acre. :: lbs.,82,82.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,23,data,9,23,4,Total quantity. :: lbs.,"1,357,100",1357100.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,23,data,9,23,5,Price per Re. 1 :: lbs.,5·65,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,23,data,9,23,6,Total value. :: Rs.,"2,40,194",240194.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,24,data,9,24,2,Acres.,"16,881",16881.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,24,data,9,24,3,Per Acre. :: lbs.,87,87.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,24,data,9,24,4,Total quantity. :: lbs.,"1,468,647",1468647.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,24,data,9,24,5,Price per Re. 1 :: lbs.,5·27,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,24,data,9,24,6,Total value. :: Rs.,"2,78,680",278680.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,25,data,9,25,2,Acres.,"15,838",15838.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,25,data,9,25,3,Per Acre. :: lbs.,149,149.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,25,data,9,25,4,Total quantity. :: lbs.,"2,359,862",2359862.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,25,data,9,25,5,Price per Re. 1 :: lbs.,5·31,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,25,data,9,25,6,Total value. :: Rs.,"4,44,418",444418.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,26,data,9,26,2,Acres.,"29,632",29632.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,26,data,9,26,3,Per Acre. :: lbs.,124,124.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,26,data,9,26,4,Total quantity. :: lbs.,"3,674,368",3674368.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,26,data,9,26,5,Price per Re. 1 :: lbs.,6,6.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,26,data,9,26,6,Total value. :: Rs.,"6,12,394",612394.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,27,data,9,27,2,Acres.,"11,175",11175.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,27,data,9,27,3,Per Acre. :: lbs.,115,115.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,27,data,9,27,4,Total quantity. :: lbs.,"1,285,125",1285125.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,27,data,9,27,5,Price per Re. 1 :: lbs.,6,6.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,27,data,9,27,6,Total value. :: Rs.,"2,14,187",214187.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,28,data,9,28,2,Acres.,"29,739",29739.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,28,data,9,28,3,Per Acre. :: lbs.,84,84.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,28,data,9,28,4,Total quantity. :: lbs.,"2,498,076",2498076.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,28,data,9,28,5,Price per Re. 1 :: lbs.,5·7,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,28,data,9,28,6,Total value. :: Rs.,"4,38,259",438259.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,29,data,9,29,2,Acres.,"7,544",7544.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,29,data,9,29,3,Per Acre. :: lbs.,73,73.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,29,data,9,29,4,Total quantity. :: lbs.,"550,712",550712.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,29,data,9,29,5,Price per Re. 1 :: lbs.,5·36,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,29,data,9,29,6,Total value. :: Rs.,"1,02,744",102744.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,30,data,9,30,2,Acres.,"16,468",16468.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,30,data,9,30,3,Per Acre. :: lbs.,105,105.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,30,data,9,30,4,Total quantity. :: lbs.,"1,729,140",1729140.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,30,data,9,30,5,Price per Re. 1 :: lbs.,5·23,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,30,data,9,30,6,Total value. :: Rs.,"3,30,619",330619.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,31,data,9,31,2,Acres.,"8,280",8280.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,31,data,9,31,3,Per Acre. :: lbs.,100,100.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,31,data,9,31,4,Total quantity. :: lbs.,"828,000",828000.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,31,data,9,31,5,Price per Re. 1 :: lbs.,4·11,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,31,data,9,31,6,Total value. :: Rs.,"2,01,460",201460.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,32,data,9,32,2,Acres.,"6,396",6396.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,32,data,9,32,3,Per Acre. :: lbs.,121,121.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,32,data,9,32,4,Total quantity. :: lbs.,"773,916",773916.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,32,data,9,32,5,Price per Re. 1 :: lbs.,4·41,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,32,data,9,32,6,Total value. :: Rs.,"1,75,491",175491.0,Rs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,33,total,,Total,2,Acres.,"668,876",668876.0,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,33,total,,Total,3,Per Acre. :: lbs.,Average 105,,acres,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,33,total,,Total,4,Total quantity. :: lbs.,"70,013,890",70013890.0,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,33,total,,Total,5,Price per Re. 1 :: lbs.,Average 5·66,,lbs,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-115,Cotton.,446,427,33,total,,Total,6,Total value. :: Rs.,"1,23,54,344",12354344.0,Rs,False,True

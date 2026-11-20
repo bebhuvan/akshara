@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,1,data,,Kunda-pura,2,Now cultivated.,"0,32",32.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,1,data,,Kunda-pura,3,Capable of being so.,"0,08",8.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,1,data,,Kunda-pura,4,Sterile.,"0,60",60.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,2,data,,Honawera,2,Now cultivated.,"0,26",26.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,2,data,,Honawera,3,Capable of being so.,"0,12",12.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,2,data,,Honawera,4,Sterile.,"0,62",62.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,3,data,,Ancola,2,Now cultivated.,"0,21",21.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,3,data,,Ancola,3,Capable of being so.,"0,20",20.0,,False,False
+journey-from-madras-vol-iii,tbl-018,Table 18,215,191,3,data,,Ancola,4,Sterile.,"0,59",59.0,,False,False

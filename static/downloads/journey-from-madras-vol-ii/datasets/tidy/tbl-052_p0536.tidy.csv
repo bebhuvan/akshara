@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,1,data,,Males under 15 years of age,2,Column 2,1296,1296.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,1,data,,Males under 15 years of age,3,Column 3,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,2,data,,capable of labour,2,Column 2,2679,2679.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,2,data,,capable of labour,3,Column 3,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,3,data,,old and infirm,2,Column 2,509,509.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,3,data,,old and infirm,3,Column 3,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,4,subtotal,,Males,2,Column 2,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,4,subtotal,,Males,3,Column 3,4484,4484.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,5,data,,Females under 15 years of age,2,Column 2,1121,1121.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,5,data,,Females under 15 years of age,3,Column 3,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,6,data,,capable of labour,2,Column 2,2534,2534.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,6,data,,capable of labour,3,Column 3,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,7,data,,old and infirm,2,Column 2,453,453.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,7,data,,old and infirm,3,Column 3,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,8,subtotal,,Females,2,Column 2,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,8,subtotal,,Females,3,Column 3,4108,4108.0,,False,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,9,total,,Total slaves,2,Column 2,,,,True,True
+journey-from-madras-vol-ii,tbl-052,The slaves are:,536,508,9,total,,Total slaves,3,Column 3,8592,8592.0,,False,True

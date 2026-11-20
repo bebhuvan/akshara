@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "speeches-and-writings-naoroji-1918",
+    "table_id": "tbl-013",
+    "caption": "Table 13",
+    "page_number": 332,
+    "printed_folio": "318",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Exports in 1870-1",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "Rx. 64,690,000",
+    "value_numeric": null,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "speeches-and-writings-naoroji-1918",
+    "table_id": "tbl-013",
+    "caption": "Table 13",
+    "page_number": 332,
+    "printed_folio": "318",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "\" \" 1890-1",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "Rx. 102,340,000",
+    "value_numeric": null,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

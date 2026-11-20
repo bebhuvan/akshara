@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,1,data,,Vegetables,2,Incorrect Average.,"4,008",4008.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,1,data,,Vegetables,3,Correct Average.,"4,753",4753.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,1,data,,Vegetables,4,Error. :: Correct Average. :: More per cent.,18½,18.5,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,1,data,,Vegetables,5,Error. :: Correct Average. :: Less per cent.,..,,%,True,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,2,data,,Sugar,2,Incorrect Average.,449,449.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,2,data,,Sugar,3,Correct Average.,646,646.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,2,data,,Sugar,4,Error. :: Correct Average. :: More per cent.,44,44.0,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,2,data,,Sugar,5,Error. :: Correct Average. :: Less per cent.,..,,%,True,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,3,data,,Cotton,2,Incorrect Average.,102,102.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,3,data,,Cotton,3,Correct Average.,105,105.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,3,data,,Cotton,4,Error. :: Correct Average. :: More per cent.,3,3.0,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,3,data,,Cotton,5,Error. :: Correct Average. :: Less per cent.,..,,%,True,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,4,data,,Tobacco,2,Incorrect Average.,825,825.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,4,data,,Tobacco,3,Correct Average.,846,846.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,4,data,,Tobacco,4,Error. :: Correct Average. :: More per cent.,2½,2.5,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,4,data,,Tobacco,5,Error. :: Correct Average. :: Less per cent.,..,,%,True,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,5,data,,Fibres,2,Incorrect Average.,322,322.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,5,data,,Fibres,3,Correct Average.,366,366.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,5,data,,Fibres,4,Error. :: Correct Average. :: More per cent.,13¾,13.75,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,5,data,,Fibres,5,Error. :: Correct Average. :: Less per cent.,..,,%,True,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,6,data,,Indigo,2,Incorrect Average.,47,47.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,6,data,,Indigo,3,Correct Average.,31,31.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,6,data,,Indigo,4,Error. :: Correct Average. :: More per cent.,..,,%,True,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,6,data,,Indigo,5,Error. :: Correct Average. :: Less per cent.,33,33.0,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,7,data,,Opium,2,Incorrect Average.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,7,data,,Opium,3,Correct Average.,12·5,,,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,7,data,,Opium,4,Error. :: Correct Average. :: More per cent.,25,25.0,%,False,False
+poverty-and-un-british-rule,tbl-115,Table 115,209,189,7,data,,Opium,5,Error. :: Correct Average. :: Less per cent.,..,,%,True,False

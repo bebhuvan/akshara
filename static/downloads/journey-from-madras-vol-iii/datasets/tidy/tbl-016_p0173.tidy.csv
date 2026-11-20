@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-016,Table 16,173,151,1,data,,Rice for slaves per Corge Pagodas,2,Column 2,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,173,151,2,data,,coarse,2,Column 2,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,173,151,3,data,,fine,2,Column 2,22½,22.5,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,173,151,4,data,,"Betel-nut boiled, per Candy",2,Column 2,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,174,151,5,data,,"Betel-nut raw per Candy, Pagodas",2,Column 2,11,11.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,174,151,6,data,,Coco-nut Copra,2,Column 2,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,174,151,7,data,,whole per 1000,2,Column 2,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,174,151,8,data,,"Black-pepper, per Candy",2,Column 2,30,30.0,,False,False
+journey-from-madras-vol-iii,tbl-016,Table 16,174,151,9,data,,"Jagory of sugar-cane, Maunds 2½",2,Column 2,1,1.0,,False,False

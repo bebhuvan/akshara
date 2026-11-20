@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-050,Table 50,338,298,1,data,,Productive major works,2,Column 2,"£33,780,252",33780252.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-050,Table 50,338,298,2,data,,Protective major works,2,Column 2,"4,364,073",4364073.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-050,Table 50,338,298,3,data,,Minor works,2,Column 2,"4,525,445",4525445.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-050,Table 50,338,298,4,total,,Total,2,Column 2,"£42,669,770",42669770.0,GBP,False,True

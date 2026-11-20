@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "history-and-economics-indian-famines-loveday-1914",
+    "table_id": "tbl-006",
+    "caption": "Table 6",
+    "page_number": 172,
+    "printed_folio": "156",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Hyndman, H. M",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "The Indian Famine and Crisis in India, 1877.",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "history-and-economics-indian-famines-loveday-1914",
+    "table_id": "tbl-006",
+    "caption": "Table 6",
+    "page_number": 172,
+    "printed_folio": "156",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Johnson, H. L",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "Indian Famine, 1878.",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

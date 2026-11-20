@@ -1,0 +1,166 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,1,data,,I,2,Acres. :: fbs.,"11,700",11700.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,1,data,,I,3,Per Acre :: lbs.,"4,753",4753.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,1,data,,I,4,Total quantity. :: Rs.,"55,610,100",55610100.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,1,data,,I,5,Price per Re. 1,43·88,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,1,data,,I,6,Total value.,"12,67,322",1267322.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,2,data,,2,2,Acres. :: fbs.,"9,387",9387.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,2,data,,2,3,Per Acre :: lbs.,"6,000",6000.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,2,data,,2,4,Total quantity. :: Rs.,"56,322,000",56322000.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,2,data,,2,5,Price per Re. 1,28·8,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,2,data,,2,6,Total value.,"19,55,625",1955625.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,3,data,,3,2,Acres. :: fbs.,846,846.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,3,data,,3,3,Per Acre :: lbs.,"4,753",4753.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,3,data,,3,4,Total quantity. :: Rs.,"4,021,030",4021030.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,3,data,,3,5,Price per Re. 1,39·77,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,3,data,,3,6,Total value.,"1,01,107",101107.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,4,data,,4,2,Acres. :: fbs.,"3,485",3485.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,4,data,,4,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,4,data,,4,4,Total quantity. :: Rs.,"16,564,205",16564205.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,4,data,,4,5,Price per Re. 1,28·8,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,4,data,,4,6,Total value.,"5,75,146",575146.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,5,data,,5,2,Acres. :: fbs.,920,920.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,5,data,,5,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,5,data,,5,4,Total quantity. :: Rs.,"4,372,760",4372760.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,5,data,,5,5,Price per Re. 1,35·65,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,5,data,,5,6,Total value.,"1,22,658",122658.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,6,data,,6,2,Acres. :: fbs.,677,677.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,6,data,,6,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,6,data,,6,4,Total quantity. :: Rs.,"3,217,781",3217781.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,6,data,,6,5,Price per Re. 1,27·43,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,6,data,,6,6,Total value.,"1,17,308",117308.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,7,data,,7,2,Acres. :: fbs.,"3,495",3495.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,7,data,,7,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,7,data,,7,4,Total quantity. :: Rs.,"16,611,735",16611735.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,7,data,,7,5,Price per Re. 1,35·65,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,7,data,,7,6,Total value.,"4,65,967",465967.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,8,data,,8,2,Acres. :: fbs.,"7,560",7560.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,8,data,,8,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,8,data,,8,4,Total quantity. :: Rs.,"35,932,680",35932680.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,8,data,,8,5,Price per Re. 1,30·17,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,8,data,,8,6,Total value.,"11,91,006",1191006.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,9,data,,9,2,Acres. :: fbs.,7,7.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,9,data,,9,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,9,data,,9,4,Total quantity. :: Rs.,"33,271",33271.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,9,data,,9,5,Price per Re. 1,60·34,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,9,data,,9,6,Total value.,551,551.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,10,data,,10,2,Acres. :: fbs.,"7,731",7731.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,10,data,,10,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,10,data,,10,4,Total quantity. :: Rs.,"36,745,443",36745443.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,10,data,,10,5,Price per Re. 1,27·43,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,10,data,,10,6,Total value.,"13,39,607",1339607.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,11,data,,11,2,Acres. :: fbs.,"3,586",3586.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,11,data,,11,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,11,data,,11,4,Total quantity. :: Rs.,"17,044,258",17044258.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,11,data,,11,5,Price per Re. 1,32·91,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,11,data,,11,6,Total value.,"5,17,905",517905.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,12,data,,12,2,Acres. :: fbs.,"6,551",6551.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,12,data,,12,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,12,data,,12,4,Total quantity. :: Rs.,"31,136,903",31136903.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,12,data,,12,5,Price per Re. 1,49·37,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,12,data,,12,6,Total value.,"6,30,684",630684.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,13,data,,13,2,Acres. :: fbs.,"15,175",15175.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,13,data,,13,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,13,data,,13,4,Total quantity. :: Rs.,"72,126,775",72126775.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,13,data,,13,5,Price per Re. 1,36·34,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,13,data,,13,6,Total value.,"19,84,776",1984776.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,14,data,,14,2,Acres. :: fbs.,"6,790",6790.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,14,data,,14,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,14,data,,14,4,Total quantity. :: Rs.,"32,272,870",32272870.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,14,data,,14,5,Price per Re. 1,27·43,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,14,data,,14,6,Total value.,"11,76,553",1176553.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,15,data,,15,2,Acres. :: fbs.,"3,000",3000.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,15,data,,15,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,15,data,,15,4,Total quantity. :: Rs.,"14,259,000",14259000.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,15,data,,15,5,Price per Re. 1,32·91,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,15,data,,15,6,Total value.,"4,33,272",433272.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,16,data,,16,2,Acres. :: fbs.,"5,746",5746.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,16,data,,16,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,16,data,,16,4,Total quantity. :: Rs.,"27,310,738",27310738.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,16,data,,16,5,Price per Re. 1,24·68,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,16,data,,16,6,Total value.,"11,06,593",1106593.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,17,data,,17,2,Acres. :: fbs.,"56,988",56988.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,17,data,,17,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,17,data,,17,4,Total quantity. :: Rs.,"270,863,964",270863964.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,17,data,,17,5,Price per Re. 1,39·77,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,17,data,,17,6,Total value.,"68,10,761",6810761.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,18,data,,18,2,Acres. :: fbs.,"4,274",4274.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,18,data,,18,3,Per Acre :: lbs.,"2,015",2015.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,18,data,,18,4,Total quantity. :: Rs.,"8,612,110",8612110.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,18,data,,18,5,Price per Re. 1,32·91,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,18,data,,18,6,Total value.,"2,61,686",261686.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,19,data,,19,2,Acres. :: fbs.,"4,660",4660.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,19,data,,19,3,Per Acre :: lbs.,"4,753",4753.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,19,data,,19,4,Total quantity. :: Rs.,"22,148,980",22148980.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,19,data,,19,5,Price per Re. 1,40·45,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,19,data,,19,6,Total value.,"5,47,564",547564.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,20,data,,20,2,Acres. :: fbs.,"3,709",3709.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,20,data,,20,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,20,data,,20,4,Total quantity. :: Rs.,"17,628,877",17628877.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,20,data,,20,5,Price per Re. 1,31·54,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,20,data,,20,6,Total value.,"5,58,937",558937.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,21,data,,21,2,Acres. :: fbs.,"21,904",21904.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,21,data,,21,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,21,data,,21,4,Total quantity. :: Rs.,"104,109,712",104109712.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,21,data,,21,5,Price per Re. 1,28·8,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,21,data,,21,6,Total value.,"36,14,920",3614920.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,22,data,,22,2,Acres. :: fbs.,"11,072",11072.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,22,data,,22,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,22,data,,22,4,Total quantity. :: Rs.,"52,625,216",52625216.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,22,data,,22,5,Price per Re. 1,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,22,data,,22,6,Total value.,,,,True,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,23,data,,23,2,Acres. :: fbs.,"29,239",29239.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,23,data,,23,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,23,data,,23,4,Total quantity. :: Rs.,"138,972,967",138972967.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,23,data,,23,5,Price per Re. 1,26·74,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,23,data,,23,6,Total value.,"51,97,194",5197194.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,24,data,,24,2,Acres. :: fbs.,"23,203",23203.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,24,data,,24,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,24,data,,24,4,Total quantity. :: Rs.,"110,283,859",110283859.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,24,data,,24,5,Price per Re. 1,20·57,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,24,data,,24,6,Total value.,"53,61,393",5361393.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,25,data,,25,2,Acres. :: fbs.,"1,423",1423.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,25,data,,25,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,25,data,,25,4,Total quantity. :: Rs.,"6,763,519",6763519.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,25,data,,25,5,Price per Re. 1,27·43,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,25,data,,25,6,Total value.,"2,46,574",246574.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,26,data,,26,2,Acres. :: fbs.,"3,095",3095.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,26,data,,26,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,26,data,,26,4,Total quantity. :: Rs.,"14,710,535",14710535.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,26,data,,26,5,Price per Re. 1,21·25,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,26,data,,26,6,Total value.,"6,92,260",692260.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,27,data,,27,2,Acres. :: fbs.,803,803.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,27,data,,27,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,27,data,,27,4,Total quantity. :: Rs.,"3,816,659",3816659.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,27,data,,27,5,Price per Re. 1,33·42,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,27,data,,27,6,Total value.,"1,14,202",114202.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,28,data,,28,2,Acres. :: fbs.,794,794.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,28,data,,28,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,28,data,,28,4,Total quantity. :: Rs.,"3,773,882",3773882.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,28,data,,28,5,Price per Re. 1,20·57,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,28,data,,28,6,Total value.,"1,83,465",183465.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,29,data,,29,2,Acres. :: fbs.,"4,152",4152.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,29,data,,29,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,29,data,,29,4,Total quantity. :: Rs.,"19,734,456",19734456.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,29,data,,29,5,Price per Re. 1,45·25,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,29,data,,29,6,Total value.,"4,36,120",436120.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,30,data,,30,2,Acres. :: fbs.,"3,631",3631.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,30,data,,30,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,30,data,,30,4,Total quantity. :: Rs.,"17,258,143",17258143.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,30,data,,30,5,Price per Re. 1,32·05,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,30,data,,30,6,Total value.,"5,38,475",538475.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,31,data,,31,2,Acres. :: fbs.,598,598.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,31,data,,31,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,31,data,,31,4,Total quantity. :: Rs.,"2,842,294",2842294.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,31,data,,31,5,Price per Re. 1,45·25,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,31,data,,31,6,Total value.,"62,813",62813.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,32,data,,32,2,Acres. :: fbs.,599,599.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,32,data,,32,3,Per Acre :: lbs.,",,",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,32,data,,32,4,Total quantity. :: Rs.,"2,847,047",2847047.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,32,data,,32,5,Price per Re. 1,31·45,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,32,data,,32,6,Total value.,"90,526",90526.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,33,total,,Total,2,Acres. :: fbs.,"256,800",256800.0,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,33,total,,Total,3,Per Acre :: lbs.,"Average 4,753",,acres,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,33,total,,Total,4,Total quantity. :: Rs.,"1,220,573,777",1220573777.0,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,33,total,,Total,5,Price per Re. 1,Average 30·98,,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-118,Vegetables.,449,430,33,total,,Total,6,Total value.,"3,77,02,970 for lbs. 1,167,948,561",,lbs,False,False

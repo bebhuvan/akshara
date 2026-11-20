@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,1,data,,1630,2,Ships sent home.,Charles (700 tons) and Jonas (800),,tons,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,1,data,,1630,3,Approximate cost of cargoes.,"[valued in England at 170,000l.]",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,2,data,,1631,2,Ships sent home.,Discovery (500) and Reformation (500),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,2,data,,1631,3,Approximate cost of cargoes.,,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,3,data,,1632,2,Ships sent home.,Blessing (700),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,3,data,,1632,3,Approximate cost of cargoes.,"[valued in England at 150,000l.]",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,4,data,,1633,2,Ships sent home.,James (900),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,4,data,,1633,3,Approximate cost of cargoes.,—,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,5,data,,1634,2,Ships sent home.,Mary (800),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,5,data,,1634,3,Approximate cost of cargoes.,"[valued in England at 58,000l.]",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,6,data,,1635,2,Ships sent home.,Jonas,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,6,data,,1635,3,Approximate cost of cargoes.,—,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,7,data,,1636,2,Ships sent home.,Discovery,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,7,data,,1636,3,Approximate cost of cargoes.,—,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,8,data,,1637,2,Ships sent home.,William (700),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,8,data,,1637,3,Approximate cost of cargoes.,—,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,9,data,,1638,2,Ships sent home.,Jonas,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,9,data,,1638,3,Approximate cost of cargoes.,—,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,10,data,,1639,2,Ships sent home.,Mary and Swan (300),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,10,data,,1639,3,Approximate cost of cargoes.,"68,760l.",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,11,data,,Row 11,2,Ships sent home.,Discovery,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,11,data,,Row 11,3,Approximate cost of cargoes.,"40,810l.",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,12,data,,1640,2,Ships sent home.,London (800),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,12,data,,1640,3,Approximate cost of cargoes.,,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,13,data,,Row 13,2,Ships sent home.,Crispiana (500),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,13,data,,Row 13,3,Approximate cost of cargoes.,"59,450l.",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,14,data,,1641,2,Ships sent home.,[None],,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,14,data,,1641,3,Approximate cost of cargoes.,,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,15,data,,1642,2,Ships sent home.,London,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,15,data,,1642,3,Approximate cost of cargoes.,—,,,True,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,16,data,,1643,2,Ships sent home.,Crispiana and Aleppo Merchant (400),,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,16,data,,1643,3,Approximate cost of cargoes.,"58,770l.",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,17,data,,1644,2,Ships sent home.,Dolphin (300) and Discovery,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,17,data,,1644,3,Approximate cost of cargoes.,"46,500l.",,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,18,data,,1645,2,Ships sent home.,Crispiana,,,False,False
+english-factories-india-1642-1645-vol-07,tbl-001,Table 1,25,xix,18,data,,1645,3,Approximate cost of cargoes.,—,,,True,False

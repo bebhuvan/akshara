@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-011,Table 11,172,160,1,data,,(1). Those who are so involved that they cannot free themselves without selling all or a part of their land,2,Per cent.,10,10.0,%,False,False
+musalmans-and-money-lenders,tbl-011,Table 11,172,160,2,data,,"(2). Those who are solvent, but cannot pay immediately",2,Per cent.,25,25.0,%,False,False
+musalmans-and-money-lenders,tbl-011,Table 11,172,160,3,data,,(3). Those who can pay immediately,2,Per cent.,15,15.0,%,False,False

@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,1,data,,"464,300,771",2,Merchandise. :: from Pacific Ports. :: Gold Value. $,"13,712,624",13712624.0,,False,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,1,data,,"464,300,771",3,Specie and bullion. Gold Value. :: from Atlantic Ports. :: $,"76,187,027",76187027.0,,False,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,1,data,,"464,300,771",4,Specie and bullion. Gold Value. :: from Pacific Ports. :: $,"8,318,229",8318229.0,,False,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,1,data,,"464,300,771",5,Total. :: Mixed Value. :: $,"562,518,651",562518651.0,,False,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,2,data,,"equal to gold Value. $ 414,826,393",2,Merchandise. :: from Pacific Ports. :: Gold Value. $,"13,712,624",13712624.0,,False,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,2,data,,"equal to gold Value. $ 414,826,393",3,Specie and bullion. Gold Value. :: from Atlantic Ports. :: $,"Total 84,505,256",,,False,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,2,data,,"equal to gold Value. $ 414,826,393",4,Specie and bullion. Gold Value. :: from Pacific Ports. :: $,,,,True,False
+poverty-and-un-british-rule,tbl-084,Exports.,149,129,2,data,,"equal to gold Value. $ 414,826,393",5,Total. :: Mixed Value. :: $,"equal to Gold Value. $ 513,044,273",,,False,False

@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,1,data,,Coco-nut palms,2,Productive.,"42,903",42903.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,1,data,,Coco-nut palms,3,Not productive.,"32,230",32230.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,1,data,,Coco-nut palms,4,Total.,"75,133",75133.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,2,data,,Betel-nut palms,2,Productive.,"6,594",6594.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,2,data,,Betel-nut palms,3,Not productive.,"14,270",14270.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,2,data,,Betel-nut palms,4,Total.,"20,864",20864.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,3,data,,Jack trees,2,Productive.,"3,306",3306.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,3,data,,Jack trees,3,Not productive.,"5,755",5755.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,3,data,,Jack trees,4,Total.,"9,061",9061.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,4,data,,Pepper vines,2,Productive.,"7,930",7930.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,4,data,,Pepper vines,3,Not productive.,"9,599",9599.0,,False,False
+journey-from-madras-vol-ii,tbl-055,Table 55,554,526,4,data,,Pepper vines,4,Total.,"17,529",17529.0,,False,False

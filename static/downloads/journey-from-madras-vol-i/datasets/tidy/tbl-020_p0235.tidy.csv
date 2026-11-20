@@ -1,0 +1,445 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,1,data,,Betel-nut,2,Quality.,Deshavara,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,1,data,,Betel-nut,3,Sultany Fanams. :: Maund,20 8/10,20.8,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,1,data,,Betel-nut,4,Sultany Fanams. :: Cwt.,90¾,90.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,1,data,,Betel-nut,5,English Money. Cwt. :: £.,3,3.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,1,data,,Betel-nut,6,English Money. Cwt. :: s.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,1,data,,Betel-nut,7,English Money. Cwt. :: d.,8¼,8.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,2,data,,Sandal-wood,2,Quality.,Nagara 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,2,data,,Sandal-wood,3,Sultany Fanams. :: Maund,12,12.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,2,data,,Sandal-wood,4,Sultany Fanams. :: Cwt.,52⅛,52.125,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,2,data,,Sandal-wood,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,2,data,,Sandal-wood,6,English Money. Cwt. :: s.,15,15.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,2,data,,Sandal-wood,7,English Money. Cwt. :: d.,1,1.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,3,data,,Row 3,2,Quality.,—— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,3,data,,Row 3,3,Sultany Fanams. :: Maund,10,10.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,3,data,,Row 3,4,Sultany Fanams. :: Cwt.,43 4/10,43.4,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,3,data,,Row 3,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,3,data,,Row 3,6,English Money. Cwt. :: s.,9,9.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,3,data,,Row 3,7,English Money. Cwt. :: d.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,4,data,,Row 4,2,Quality.,—— 3d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,4,data,,Row 4,3,Sultany Fanams. :: Maund,8,8.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,4,data,,Row 4,4,Sultany Fanams. :: Cwt.,34¾,34.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,4,data,,Row 4,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,4,data,,Row 4,6,English Money. Cwt. :: s.,3,3.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,4,data,,Row 4,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,5,data,,Row 5,2,Quality.,Walagram 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,5,data,,Row 5,3,Sultany Fanams. :: Maund,8,8.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,5,data,,Row 5,4,Sultany Fanams. :: Cwt.,34¾,34.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,5,data,,Row 5,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,5,data,,Row 5,6,English Money. Cwt. :: s.,3,3.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,5,data,,Row 5,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,6,data,,Row 6,2,Quality.,—— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,6,data,,Row 6,3,Sultany Fanams. :: Maund,6,6.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,6,data,,Row 6,4,Sultany Fanams. :: Cwt.,26 1/10,26.1,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,6,data,,Row 6,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,6,data,,Row 6,6,English Money. Cwt. :: s.,17,17.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,6,data,,Row 6,7,English Money. Cwt. :: d.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,7,data,,Row 7,2,Quality.,—— 3d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,7,data,,Row 7,3,Sultany Fanams. :: Maund,5,5.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,7,data,,Row 7,4,Sultany Fanams. :: Cwt.,21 9/10,21.9,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,7,data,,Row 7,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,7,data,,Row 7,6,English Money. Cwt. :: s.,14,14.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,7,data,,Row 7,7,English Money. Cwt. :: d.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,8,data,,"Arulay, or Myrobalans",2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,8,data,,"Arulay, or Myrobalans",3,Sultany Fanams. :: Maund,1½,1.5,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,8,data,,"Arulay, or Myrobalans",4,Sultany Fanams. :: Cwt.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,8,data,,"Arulay, or Myrobalans",5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,8,data,,"Arulay, or Myrobalans",6,English Money. Cwt. :: s.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,8,data,,"Arulay, or Myrobalans",7,English Money. Cwt. :: d.,4½,4.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,9,data,,Cardamoms,2,Quality.,Ghettadu,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,9,data,,Cardamoms,3,Sultany Fanams. :: Maund,100,100.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,9,data,,Cardamoms,4,Sultany Fanams. :: Cwt.,434,434.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,9,data,,Cardamoms,5,English Money. Cwt. :: £.,14,14.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,9,data,,Cardamoms,6,English Money. Cwt. :: s.,11,11.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,9,data,,Cardamoms,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,10,data,,Row 10,2,Quality.,Tripathi,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,10,data,,Row 10,3,Sultany Fanams. :: Maund,50,50.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,10,data,,Row 10,4,Sultany Fanams. :: Cwt.,217,217.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,10,data,,Row 10,5,English Money. Cwt. :: £.,7,7.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,10,data,,Row 10,6,English Money. Cwt. :: s.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,10,data,,Row 10,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,11,data,,"Cut, or Terra japonica",2,Quality.,White,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,11,data,,"Cut, or Terra japonica",3,Sultany Fanams. :: Maund,16,16.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,11,data,,"Cut, or Terra japonica",4,Sultany Fanams. :: Cwt.,69½,69.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,11,data,,"Cut, or Terra japonica",5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,11,data,,"Cut, or Terra japonica",6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,11,data,,"Cut, or Terra japonica",7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,12,data,,Row 12,2,Quality.,Red,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,12,data,,Row 12,3,Sultany Fanams. :: Maund,14,14.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,12,data,,Row 12,4,Sultany Fanams. :: Cwt.,60 8/10,60.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,12,data,,Row 12,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,12,data,,Row 12,6,English Money. Cwt. :: s.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,12,data,,Row 12,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,13,data,,Row 13,2,Quality.,Black,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,13,data,,Row 13,3,Sultany Fanams. :: Maund,12,12.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,13,data,,Row 13,4,Sultany Fanams. :: Cwt.,52⅛,52.125,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,13,data,,Row 13,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,13,data,,Row 13,6,English Money. Cwt. :: s.,15,15.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,13,data,,Row 13,7,English Money. Cwt. :: d.,1,1.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,14,data,,Asafœtida,2,Quality.,Multany,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,14,data,,Asafœtida,3,Sultany Fanams. :: Maund,200,200.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,14,data,,Asafœtida,4,Sultany Fanams. :: Cwt.,868,868.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,14,data,,Asafœtida,5,English Money. Cwt. :: £.,29,29.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,14,data,,Asafœtida,6,English Money. Cwt. :: s.,11,11.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,14,data,,Asafœtida,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,15,data,,Row 15,2,Quality.,Codeal,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,15,data,,Row 15,3,Sultany Fanams. :: Maund,160,160.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,15,data,,Row 15,4,Sultany Fanams. :: Cwt.,695,695.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,15,data,,Row 15,5,English Money. Cwt. :: £.,23,23.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,15,data,,Row 15,6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,15,data,,Row 15,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,16,data,,Row 16,2,Quality.,Bad,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,16,data,,Row 16,3,Sultany Fanams. :: Maund,120,120.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,16,data,,Row 16,4,Sultany Fanams. :: Cwt.,521¼,521.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,16,data,,Row 16,5,English Money. Cwt. :: £.,17,17.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,16,data,,Row 16,6,English Money. Cwt. :: s.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,235,195,16,data,,Row 16,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,17,data,,Cossumba,2,Quality.,Prepared 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,17,data,,Cossumba,3,Sultany Fanams. :: Maund,13½,13.5,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,17,data,,Cossumba,4,Sultany Fanams. :: Cwt.,58⅝,58.625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,17,data,,Cossumba,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,17,data,,Cossumba,6,English Money. Cwt. :: s.,19,19.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,17,data,,Cossumba,7,English Money. Cwt. :: d.,5½,5.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,18,data,,Row 18,2,Quality.,— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,18,data,,Row 18,3,Sultany Fanams. :: Maund,10,10.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,18,data,,Row 18,4,Sultany Fanams. :: Cwt.,43 4/10,43.4,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,18,data,,Row 18,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,18,data,,Row 18,6,English Money. Cwt. :: s.,9,9.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,18,data,,Row 18,7,English Money. Cwt. :: d.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,19,data,,Row 19,2,Quality.,Flowers 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,19,data,,Row 19,3,Sultany Fanams. :: Maund,20,20.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,19,data,,Row 19,4,Sultany Fanams. :: Cwt.,86 8/10,86.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,19,data,,Row 19,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,19,data,,Row 19,6,English Money. Cwt. :: s.,18,18.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,19,data,,Row 19,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,20,data,,Row 20,2,Quality.,— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,20,data,,Row 20,3,Sultany Fanams. :: Maund,16,16.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,20,data,,Row 20,4,Sultany Fanams. :: Cwt.,69½,69.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,20,data,,Row 20,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,20,data,,Row 20,6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,20,data,,Row 20,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,21,data,,Dates,2,Quality.,Green or 1st quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,21,data,,Dates,3,Sultany Fanams. :: Maund,10,10.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,21,data,,Dates,4,Sultany Fanams. :: Cwt.,43 4/10,43.4,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,21,data,,Dates,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,21,data,,Dates,6,English Money. Cwt. :: s.,9,9.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,21,data,,Dates,7,English Money. Cwt. :: d.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,22,data,,Row 22,2,Quality.,Common or 2d quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,22,data,,Row 22,3,Sultany Fanams. :: Maund,7,7.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,22,data,,Row 22,4,Sultany Fanams. :: Cwt.,30 4/10,30.4,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,22,data,,Row 22,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,22,data,,Row 22,6,English Money. Cwt. :: s.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,22,data,,Row 22,7,English Money. Cwt. :: d.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,23,data,,Saffron,2,Quality.,Cashemere,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,23,data,,Saffron,3,Sultany Fanams. :: Maund,2400,2400.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,23,data,,Saffron,4,Sultany Fanams. :: Cwt.,10425,10425.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,23,data,,Saffron,5,English Money. Cwt. :: £.,350,350.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,23,data,,Saffron,6,English Money. Cwt. :: s.,1,1.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,23,data,,Saffron,7,English Money. Cwt. :: d.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,24,data,,Row 24,2,Quality.,European,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,24,data,,Row 24,3,Sultany Fanams. :: Maund,1200,1200.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,24,data,,Row 24,4,Sultany Fanams. :: Cwt.,5212½,5212.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,24,data,,Row 24,5,English Money. Cwt. :: £.,175,175.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,24,data,,Row 24,6,English Money. Cwt. :: s.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,24,data,,Row 24,7,English Money. Cwt. :: d.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,25,data,,Tundu flowers,2,Quality.,Nagara,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,25,data,,Tundu flowers,3,Sultany Fanams. :: Maund,10,10.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,25,data,,Tundu flowers,4,Sultany Fanams. :: Cwt.,43 4/10,43.4,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,25,data,,Tundu flowers,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,25,data,,Tundu flowers,6,English Money. Cwt. :: s.,9,9.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,25,data,,Tundu flowers,7,English Money. Cwt. :: d.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,26,data,,Row 26,2,Quality.,Denkina cotay,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,26,data,,Row 26,3,Sultany Fanams. :: Maund,17,17.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,26,data,,Row 26,4,Sultany Fanams. :: Cwt.,73 8/10,73.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,26,data,,Row 26,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,26,data,,Row 26,6,English Money. Cwt. :: s.,9,9.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,26,data,,Row 26,7,English Money. Cwt. :: d.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,27,data,,Nutmegs,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,27,data,,Nutmegs,3,Sultany Fanams. :: Maund,200,200.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,27,data,,Nutmegs,4,Sultany Fanams. :: Cwt.,868,868.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,27,data,,Nutmegs,5,English Money. Cwt. :: £.,29,29.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,27,data,,Nutmegs,6,English Money. Cwt. :: s.,11,11.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,27,data,,Nutmegs,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,28,data,,Cloves,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,28,data,,Cloves,3,Sultany Fanams. :: Maund,240,240.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,28,data,,Cloves,4,Sultany Fanams. :: Cwt.,1042½,1042.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,28,data,,Cloves,5,English Money. Cwt. :: £.,35,35.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,28,data,,Cloves,6,English Money. Cwt. :: s.,1,1.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,28,data,,Cloves,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,29,data,,Mace,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,29,data,,Mace,3,Sultany Fanams. :: Maund,1720,1720.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,29,data,,Mace,4,Sultany Fanams. :: Cwt.,7471½,7471.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,29,data,,Mace,5,English Money. Cwt. :: £.,250,250.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,29,data,,Mace,6,English Money. Cwt. :: s.,1,1.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,29,data,,Mace,7,English Money. Cwt. :: d.,9¼,9.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,30,data,,Raw silk,2,Quality.,"Bily-china, or white china",,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,30,data,,Raw silk,3,Sultany Fanams. :: Maund,500,500.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,30,data,,Raw silk,4,Sultany Fanams. :: Cwt.,2172,2172.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,30,data,,Raw silk,5,English Money. Cwt. :: £.,73,73.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,30,data,,Raw silk,6,English Money. Cwt. :: s.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,30,data,,Raw silk,7,English Money. Cwt. :: d.,7¼,7.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,31,data,,Row 31,2,Quality.,Casturi do. or yellow do.,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,31,data,,Row 31,3,Sultany Fanams. :: Maund,460,460.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,31,data,,Row 31,4,Sultany Fanams. :: Cwt.,1998,1998.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,31,data,,Row 31,5,English Money. Cwt. :: £.,67,67.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,31,data,,Row 31,6,English Money. Cwt. :: s.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,31,data,,Row 31,7,English Money. Cwt. :: d.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,32,data,,Row 32,2,Quality.,Rajanagari white and yellow,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,32,data,,Row 32,3,Sultany Fanams. :: Maund,380,380.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,32,data,,Row 32,4,Sultany Fanams. :: Cwt.,1650½,1650.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,32,data,,Row 32,5,English Money. Cwt. :: £.,56,56.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,32,data,,Row 32,6,English Money. Cwt. :: s.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,32,data,,Row 32,7,English Money. Cwt. :: d.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,33,data,,Row 33,2,Quality.,Yekatava or Mugaduty,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,33,data,,Row 33,3,Sultany Fanams. :: Maund,120,120.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,33,data,,Row 33,4,Sultany Fanams. :: Cwt.,521¼,521.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,33,data,,Row 33,5,English Money. Cwt. :: £.,17,17.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,33,data,,Row 33,6,English Money. Cwt. :: s.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,33,data,,Row 33,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,34,data,,Camphor,2,Quality.,Unrefined 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,34,data,,Camphor,3,Sultany Fanams. :: Maund,160,160.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,34,data,,Camphor,4,Sultany Fanams. :: Cwt.,695,695.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,34,data,,Camphor,5,English Money. Cwt. :: £.,23,23.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,34,data,,Camphor,6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,34,data,,Camphor,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,35,data,,Row 35,2,Quality.,— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,35,data,,Row 35,3,Sultany Fanams. :: Maund,120,120.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,35,data,,Row 35,4,Sultany Fanams. :: Cwt.,521¼,521.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,35,data,,Row 35,5,English Money. Cwt. :: £.,17,17.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,35,data,,Row 35,6,English Money. Cwt. :: s.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,35,data,,Row 35,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,36,data,,Benjamin,2,Quality.,Canday sembrany,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,36,data,,Benjamin,3,Sultany Fanams. :: Maund,60,60.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,36,data,,Benjamin,4,Sultany Fanams. :: Cwt.,260⅝,260.625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,36,data,,Benjamin,5,English Money. Cwt. :: £.,8,8.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,36,data,,Benjamin,6,English Money. Cwt. :: s.,15,15.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,36,data,,Benjamin,7,English Money. Cwt. :: d.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,37,data,,Row 37,2,Quality.,— 2d quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,37,data,,Row 37,3,Sultany Fanams. :: Maund,40,40.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,37,data,,Row 37,4,Sultany Fanams. :: Cwt.,173¾,173.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,37,data,,Row 37,5,English Money. Cwt. :: £.,5,5.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,37,data,,Row 37,6,English Money. Cwt. :: s.,16,16.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,37,data,,Row 37,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,38,data,,Row 38,2,Quality.,— 3d quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,38,data,,Row 38,3,Sultany Fanams. :: Maund,30,30.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,38,data,,Row 38,4,Sultany Fanams. :: Cwt.,130 5/16,130.3125,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,38,data,,Row 38,5,English Money. Cwt. :: £.,4,4.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,38,data,,Row 38,6,English Money. Cwt. :: s.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,38,data,,Row 38,7,English Money. Cwt. :: d.,8½,8.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,39,data,,Sugar candy,2,Quality.,China,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,39,data,,Sugar candy,3,Sultany Fanams. :: Maund,30,30.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,39,data,,Sugar candy,4,Sultany Fanams. :: Cwt.,130 5/16,130.3125,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,39,data,,Sugar candy,5,English Money. Cwt. :: £.,4,4.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,39,data,,Sugar candy,6,English Money. Cwt. :: s.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,39,data,,Sugar candy,7,English Money. Cwt. :: d.,8⅛,8.125,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,40,data,,Row 40,2,Quality.,Namagundla,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,40,data,,Row 40,3,Sultany Fanams. :: Maund,16,16.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,40,data,,Row 40,4,Sultany Fanams. :: Cwt.,69½,69.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,40,data,,Row 40,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,40,data,,Row 40,6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,40,data,,Row 40,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,41,data,,Sugar,2,Quality.,Madras,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,41,data,,Sugar,3,Sultany Fanams. :: Maund,20,20.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,41,data,,Sugar,4,Sultany Fanams. :: Cwt.,86 8/10,86.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,41,data,,Sugar,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,41,data,,Sugar,6,English Money. Cwt. :: s.,18,18.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,41,data,,Sugar,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,42,data,,Row 42,2,Quality.,Namagundla,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,42,data,,Row 42,3,Sultany Fanams. :: Maund,14,14.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,42,data,,Row 42,4,Sultany Fanams. :: Cwt.,60 8/10,60.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,42,data,,Row 42,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,42,data,,Row 42,6,English Money. Cwt. :: s.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,42,data,,Row 42,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,43,data,,Jagory sugar cane,2,Quality.,Best,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,43,data,,Jagory sugar cane,3,Sultany Fanams. :: Maund,4½,4.5,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,43,data,,Jagory sugar cane,4,Sultany Fanams. :: Cwt.,19½,19.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,43,data,,Jagory sugar cane,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,43,data,,Jagory sugar cane,6,English Money. Cwt. :: s.,13,13.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,43,data,,Jagory sugar cane,7,English Money. Cwt. :: d.,1½,1.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,44,data,,Row 44,2,Quality.,Second,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,44,data,,Row 44,3,Sultany Fanams. :: Maund,3½,3.5,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,44,data,,Row 44,4,Sultany Fanams. :: Cwt.,15 2/10,15.2,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,44,data,,Row 44,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,44,data,,Row 44,6,English Money. Cwt. :: s.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,44,data,,Row 44,7,English Money. Cwt. :: d.,2½,2.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,45,data,,— Date,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,45,data,,— Date,3,Sultany Fanams. :: Maund,2,2.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,45,data,,— Date,4,Sultany Fanams. :: Cwt.,8⅔,8.666667,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,45,data,,— Date,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,45,data,,— Date,6,English Money. Cwt. :: s.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,45,data,,— Date,7,English Money. Cwt. :: d.,10½,10.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,46,data,,Tin,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,46,data,,Tin,3,Sultany Fanams. :: Maund,35,35.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,46,data,,Tin,4,Sultany Fanams. :: Cwt.,152½,152.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,46,data,,Tin,5,English Money. Cwt. :: £.,5,5.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,46,data,,Tin,6,English Money. Cwt. :: s.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,46,data,,Tin,7,English Money. Cwt. :: d.,1,1.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,47,data,,Lead,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,47,data,,Lead,3,Sultany Fanams. :: Maund,10,10.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,47,data,,Lead,4,Sultany Fanams. :: Cwt.,43 4/10,43.4,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,47,data,,Lead,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,47,data,,Lead,6,English Money. Cwt. :: s.,9,9.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,47,data,,Lead,7,English Money. Cwt. :: d.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,48,data,,Zinc,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,48,data,,Zinc,3,Sultany Fanams. :: Maund,20,20.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,48,data,,Zinc,4,Sultany Fanams. :: Cwt.,86 8/10,86.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,48,data,,Zinc,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,48,data,,Zinc,6,English Money. Cwt. :: s.,18,18.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,48,data,,Zinc,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,49,data,,Copper,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,49,data,,Copper,3,Sultany Fanams. :: Maund,50,50.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,49,data,,Copper,4,Sultany Fanams. :: Cwt.,217,217.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,49,data,,Copper,5,English Money. Cwt. :: £.,7,7.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,49,data,,Copper,6,English Money. Cwt. :: s.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,49,data,,Copper,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,50,data,,Quicksilver,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,50,data,,Quicksilver,3,Sultany Fanams. :: Maund,160,160.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,50,data,,Quicksilver,4,Sultany Fanams. :: Cwt.,695,695.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,50,data,,Quicksilver,5,English Money. Cwt. :: £.,23,23.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,50,data,,Quicksilver,6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,50,data,,Quicksilver,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,51,data,,Indigo,2,Quality.,Carada 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,51,data,,Indigo,3,Sultany Fanams. :: Maund,100,100.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,51,data,,Indigo,4,Sultany Fanams. :: Cwt.,434,434.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,51,data,,Indigo,5,English Money. Cwt. :: £.,14,14.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,51,data,,Indigo,6,English Money. Cwt. :: s.,11,11.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,51,data,,Indigo,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,52,data,,Row 52,2,Quality.,— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,52,data,,Row 52,3,Sultany Fanams. :: Maund,60,60.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,52,data,,Row 52,4,Sultany Fanams. :: Cwt.,260⅝,260.625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,52,data,,Row 52,5,English Money. Cwt. :: £.,8,8.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,52,data,,Row 52,6,English Money. Cwt. :: s.,15,15.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,52,data,,Row 52,7,English Money. Cwt. :: d.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,53,data,,Row 53,2,Quality.,Bapaly 1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,53,data,,Row 53,3,Sultany Fanams. :: Maund,40,40.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,53,data,,Row 53,4,Sultany Fanams. :: Cwt.,173¾,173.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,53,data,,Row 53,5,English Money. Cwt. :: £.,5,5.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,53,data,,Row 53,6,English Money. Cwt. :: s.,16,16.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,53,data,,Row 53,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,54,data,,Row 54,2,Quality.,— 2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,54,data,,Row 54,3,Sultany Fanams. :: Maund,20,20.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,54,data,,Row 54,4,Sultany Fanams. :: Cwt.,86 8/10,86.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,54,data,,Row 54,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,54,data,,Row 54,6,English Money. Cwt. :: s.,18,18.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,54,data,,Row 54,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,55,data,,Shicai fruit,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,55,data,,Shicai fruit,3,Sultany Fanams. :: Maund,1,1.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,55,data,,Shicai fruit,4,Sultany Fanams. :: Cwt.,4⅓,4.333333,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,55,data,,Shicai fruit,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,55,data,,Shicai fruit,6,English Money. Cwt. :: s.,2,2.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,55,data,,Shicai fruit,7,English Money. Cwt. :: d.,11¼,11.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,56,data,,Popli-chica dye,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,56,data,,Popli-chica dye,3,Sultany Fanams. :: Maund,6,6.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,56,data,,Popli-chica dye,4,Sultany Fanams. :: Cwt.,26 1/16,26.0625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,56,data,,Popli-chica dye,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,56,data,,Popli-chica dye,6,English Money. Cwt. :: s.,17,17.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,56,data,,Popli-chica dye,7,English Money. Cwt. :: d.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,57,data,,Lodu-chica do,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,57,data,,Lodu-chica do,3,Sultany Fanams. :: Maund,25,25.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,57,data,,Lodu-chica do,4,Sultany Fanams. :: Cwt.,108½,108.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,57,data,,Lodu-chica do,5,English Money. Cwt. :: £.,3,3.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,57,data,,Lodu-chica do,6,English Money. Cwt. :: s.,12,12.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,57,data,,Lodu-chica do,7,English Money. Cwt. :: d.,11,11.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,58,data,,Honey,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,58,data,,Honey,3,Sultany Fanams. :: Maund,6,6.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,58,data,,Honey,4,Sultany Fanams. :: Cwt.,26 1/16,26.0625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,58,data,,Honey,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,58,data,,Honey,6,English Money. Cwt. :: s.,17,17.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,58,data,,Honey,7,English Money. Cwt. :: d.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,59,data,,Bees-wax,2,Quality.,Yellow,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,59,data,,Bees-wax,3,Sultany Fanams. :: Maund,30,30.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,59,data,,Bees-wax,4,Sultany Fanams. :: Cwt.,130 5/16,130.3125,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,59,data,,Bees-wax,5,English Money. Cwt. :: £.,4,4.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,59,data,,Bees-wax,6,English Money. Cwt. :: s.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,59,data,,Bees-wax,7,English Money. Cwt. :: d.,8½,8.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,60,data,,Stick-lac,2,Quality.,Cleaned,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,60,data,,Stick-lac,3,Sultany Fanams. :: Maund,14,14.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,60,data,,Stick-lac,4,Sultany Fanams. :: Cwt.,60 8/10,60.8,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,60,data,,Stick-lac,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,60,data,,Stick-lac,6,English Money. Cwt. :: s.,0,0.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,60,data,,Stick-lac,7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,61,data,,Row 61,2,Quality.,Including the sticks,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,61,data,,Row 61,3,Sultany Fanams. :: Maund,6,6.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,61,data,,Row 61,4,Sultany Fanams. :: Cwt.,26 1/16,26.0625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,61,data,,Row 61,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,61,data,,Row 61,6,English Money. Cwt. :: s.,17,17.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,61,data,,Row 61,7,English Money. Cwt. :: d.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,62,data,,Alum,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,62,data,,Alum,3,Sultany Fanams. :: Maund,16,16.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,62,data,,Alum,4,Sultany Fanams. :: Cwt.,69½,69.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,62,data,,Alum,5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,62,data,,Alum,6,English Money. Cwt. :: s.,6,6.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,62,data,,Alum,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,63,data,,Muddi-chica dye,2,Quality.,—,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,63,data,,Muddi-chica dye,3,Sultany Fanams. :: Maund,6,6.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,63,data,,Muddi-chica dye,4,Sultany Fanams. :: Cwt.,26 1/16,26.0625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,63,data,,Muddi-chica dye,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,63,data,,Muddi-chica dye,6,English Money. Cwt. :: s.,17,17.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,63,data,,Muddi-chica dye,7,English Money. Cwt. :: d.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,64,data,,Dinduga gum,2,Quality.,1st sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,64,data,,Dinduga gum,3,Sultany Fanams. :: Maund,8,8.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,64,data,,Dinduga gum,4,Sultany Fanams. :: Cwt.,34¾,34.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,64,data,,Dinduga gum,5,English Money. Cwt. :: £.,1,1.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,64,data,,Dinduga gum,6,English Money. Cwt. :: s.,3,3.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,64,data,,Dinduga gum,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,65,data,,Row 65,2,Quality.,2d sort,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,65,data,,Row 65,3,Sultany Fanams. :: Maund,6,6.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,65,data,,Row 65,4,Sultany Fanams. :: Cwt.,26 1/16,26.0625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,65,data,,Row 65,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,65,data,,Row 65,6,English Money. Cwt. :: s.,17,17.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,236,195,65,data,,Row 65,7,English Money. Cwt. :: d.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,66,data,,"Borax, or Biligara",2,Quality.,1st quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,66,data,,"Borax, or Biligara",3,Sultany Fanams. :: Maund,50,50.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,66,data,,"Borax, or Biligara",4,Sultany Fanams. :: Cwt.,217,217.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,66,data,,"Borax, or Biligara",5,English Money. Cwt. :: £.,7,7.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,66,data,,"Borax, or Biligara",6,English Money. Cwt. :: s.,5,5.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,66,data,,"Borax, or Biligara",7,English Money. Cwt. :: d.,10,10.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,67,data,,Row 67,2,Quality.,2d quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,67,data,,Row 67,3,Sultany Fanams. :: Maund,40,40.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,67,data,,Row 67,4,Sultany Fanams. :: Cwt.,173¾,173.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,67,data,,Row 67,5,English Money. Cwt. :: £.,5,5.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,67,data,,Row 67,6,English Money. Cwt. :: s.,16,16.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,67,data,,Row 67,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,68,data,,Row 68,2,Quality.,3d quality,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,68,data,,Row 68,3,Sultany Fanams. :: Maund,30,30.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,68,data,,Row 68,4,Sultany Fanams. :: Cwt.,130 5⁄10,130.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,68,data,,Row 68,5,English Money. Cwt. :: £.,4,4.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,68,data,,Row 68,6,English Money. Cwt. :: s.,7,7.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,68,data,,Row 68,7,English Money. Cwt. :: d.,8½,8.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,69,data,,Opium,2,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,69,data,,Opium,3,Sultany Fanams. :: Maund,320,320.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,69,data,,Opium,4,Sultany Fanams. :: Cwt.,1390,1390.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,69,data,,Opium,5,English Money. Cwt. :: £.,46,46.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,69,data,,Opium,6,English Money. Cwt. :: s.,13,13.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,69,data,,Opium,7,English Money. Cwt. :: d.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,70,data,,"Soulu, or soda",2,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,70,data,,"Soulu, or soda",3,Sultany Fanams. :: Maund,1½,1.5,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,70,data,,"Soulu, or soda",4,Sultany Fanams. :: Cwt.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,70,data,,"Soulu, or soda",5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,70,data,,"Soulu, or soda",6,English Money. Cwt. :: s.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,70,data,,"Soulu, or soda",7,English Money. Cwt. :: d.,4½,4.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,71,data,,"Suja cara, or soda",2,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,71,data,,"Suja cara, or soda",3,Sultany Fanams. :: Maund,15,15.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,71,data,,"Suja cara, or soda",4,Sultany Fanams. :: Cwt.,65 1⁄6,65.166667,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,71,data,,"Suja cara, or soda",5,English Money. Cwt. :: £.,2,2.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,71,data,,"Suja cara, or soda",6,English Money. Cwt. :: s.,3,3.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,71,data,,"Suja cara, or soda",7,English Money. Cwt. :: d.,10¼,10.25,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,72,data,,Capili-podi a dye,2,Quality.,Ráma-giri,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,72,data,,Capili-podi a dye,3,Sultany Fanams. :: Maund,70,70.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,72,data,,Capili-podi a dye,4,Sultany Fanams. :: Cwt.,304 1⁄16,304.0625,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,72,data,,Capili-podi a dye,5,English Money. Cwt. :: £.,10,10.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,72,data,,Capili-podi a dye,6,English Money. Cwt. :: s.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,72,data,,Capili-podi a dye,7,English Money. Cwt. :: d.,4½,4.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,73,data,,Row 73,2,Quality.,Nagara,,,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,73,data,,Row 73,3,Sultany Fanams. :: Maund,40,40.0,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,73,data,,Row 73,4,Sultany Fanams. :: Cwt.,173¾,173.75,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,73,data,,Row 73,5,English Money. Cwt. :: £.,5,5.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,73,data,,Row 73,6,English Money. Cwt. :: s.,16,16.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,73,data,,Row 73,7,English Money. Cwt. :: d.,8,8.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,74,data,,Tamarinds,2,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,74,data,,Tamarinds,3,Sultany Fanams. :: Maund,1½,1.5,maunds,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,74,data,,Tamarinds,4,Sultany Fanams. :: Cwt.,6½,6.5,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,74,data,,Tamarinds,5,English Money. Cwt. :: £.,0,0.0,GBP,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,74,data,,Tamarinds,6,English Money. Cwt. :: s.,4,4.0,cwt,False,False
+journey-from-madras-vol-i,tbl-020,Average price current at Bangalore. Goods sold by the Maund of 42½ Seers.,237,195,74,data,,Tamarinds,7,English Money. Cwt. :: d.,4½,4.5,cwt,False,False

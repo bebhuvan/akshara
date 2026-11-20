@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,1,data,,An acre sows of Ragy,2,Pecks.,"2,221368",2221368.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,1,data,,An acre sows of Ragy,3,Column 3,and produces,,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,1,data,,An acre sows of Ragy,4,Bushels.,"28,877333",28877333.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,2,data,,Mustard,2,Pecks.,"0,023139",23139.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,2,data,,Mustard,3,Column 3,,,,True,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,2,data,,Mustard,4,Bushels.,"0,416509",416509.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,3,data,,Pulse,2,Pecks.,"0,556332",556332.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,3,data,,Pulse,3,Column 3,,,,True,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,3,data,,Pulse,4,Bushels.,"4,4427",44427.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,4,total,,Total,2,Pecks.,"2,800839",2800839.0,,False,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,4,total,,Total,3,Column 3,,,,True,False
+journey-from-madras-vol-i,tbl-037,Table 37,424,376,4,total,,Total,4,Bushels.,"33,736542",33736542.0,,False,False

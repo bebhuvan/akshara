@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,1,data,,Food,2,Column 2,Rs.,,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,1,data,,Food,3,Column 3,36,36.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,2,data,,Clothing,2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,2,data,,Clothing,3,Column 3,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,3,data,,Lodging,2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,3,data,,Lodging,3,Column 3,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,4,total,,Row 4,2,Column 2,Rs.,,Rs,False,False
+poverty-and-un-british-rule,tbl-030,Table 30,48,28,4,total,,Row 4,3,Column 3,45,45.0,,False,False

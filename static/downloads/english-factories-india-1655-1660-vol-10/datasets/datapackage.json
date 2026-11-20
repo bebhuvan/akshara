@@ -1,0 +1,20 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-english-factories-india-1655-1660-vol-10",
+  "title": "The English Factories in India, 1655–1660 — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "William Foster",
+      "role": "author"
+    }
+  ],
+  "temporal": "1655-1660",
+  "spatial": "Surat, Madras, Hugli, Kasimbazar, Patna, Balasore",
+  "resources": []
+}

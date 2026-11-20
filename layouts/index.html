@@ -1,122 +1,242 @@
 {{ define "main" }}
-<!-- Header -->
 {{ partial "header.html" . }}
 
-<!-- Hero -->
-<section class="hero">
-    <div class="hero-content">
-        <div class="hero-eyebrow">Project Akshara</div>
-        <h1>Making India's <em>forgotten</em> books readable</h1>
-        <p class="hero-intro">Reviving India's literary heritage from fading pages and forgotten archives.</p>
-
-        <div class="hero-stats">
-            {{ $allBooks := where .Site.Pages "Section" "books" }}
-            {{ $allBooks = where $allBooks "Kind" "section" }}
-            {{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
-            {{ $bookCount := len $allBooks }}
-            {{/* Count unique authors from books */}}
-            {{ $authors := slice }}
-            {{ range $allBooks }}
-                {{ with .Params.author }}
-                    {{ $authors = $authors | append . }}
-                {{ end }}
-            {{ end }}
-            {{ $authorCount := len (uniq $authors) }}
-
-            <div class="stat">
-                <div class="stat-number">{{ $bookCount }}</div>
-                <div class="stat-label">books digitized</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">{{ $authorCount }}</div>
-                <div class="stat-label">authors preserved</div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- Featured Book (Latest) -->
-{{ $books := where .Site.Pages "Section" "books" }}
-{{ $books = where $books "Kind" "section" }}
-{{ $books = where $books "File.Path" "!=" "books/_index.md" }}
-{{ $latestBook := index ($books.ByDate.Reverse) 0 }}
-{{ with $latestBook }}
-<section class="featured">
-    <div class="featured-book">
-        <div class="featured-visual">
-            {{ with .Params.featured_quote }}
-            <blockquote class="featured-quote">{{ . | markdownify }}</blockquote>
-            {{ end }}
-        </div>
-        <div class="featured-content">
-            <div class="featured-label">Recently Digitized</div>
-            <h2 class="featured-title">{{ .Title }}</h2>
-            <p class="featured-author">
-                {{ if .Params.editor }}
-                    Edited by {{ .Params.editor }}, {{ .Params.year }}
-                {{ else }}
-                    {{ .Params.author }}, {{ .Params.year }}
-                {{ end }}
-            </p>
-            <p class="featured-excerpt">{{ .Params.description }}</p>
-            <a href="{{ .RelPermalink }}" class="btn-primary">Begin Reading</a>
-        </div>
-    </div>
-</section>
+{{ $allBooks := where .Site.Pages "Section" "books" }}
+{{ $allBooks = where $allBooks "Kind" "section" }}
+{{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
+{{ $v6Books := where $allBooks "Params.edition_generation" "v6" }}
+{{ $machineBooks := where $allBooks "Params.edition_tier" "machine_checked" }}
+{{ $communityBooks := where $allBooks "Params.edition_tier" "community" }}
+{{ $datasetBooks := where $allBooks "Params.has_datasets" true }}
+{{ $totalPages := 0 }}
+{{ range $allBooks }}
+  {{ $totalPages = add $totalPages (.Params.pages | default 0) }}
+{{ end }}
+{{ $tableTotal := 0 }}
+{{ if .Site.Data.tables_atlas }}
+  {{ $tableTotal = len .Site.Data.tables_atlas.tables }}
 {{ end }}
 
-<!-- Recent Books -->
-<section class="recent">
-    <div class="section-header">
-        <h2 class="section-title">Recent Additions</h2>
-        <a href="/books" class="section-link">View all books →</a>
-    </div>
+<main class="home-shell">
+  <!-- Asymmetric Broadsheet Hero -->
+  <section class="hero-broadsheet">
+    <div class="hero-grid">
+      <div class="hero-lead">
+        <div class="eyebrow-tag">
+          <span class="eyebrow-dot"></span>
+          <span>STAGE TWO · SIXTH-GENERATION ARCHIVAL COMPILER</span>
+        </div>
+        <h1 class="hero-headline">India’s written heritage, <em>liberated</em> from rotting scans.</h1>
+        <p class="hero-deck">
+          A solo public-domain digital press restoring foundational Indian histories, economic treatises, parliamentary testimonies, and field surveys—preserving every nineteenth-century diacritic, split footnote, and pre-decimal statistical ledger straight from camera-original Archive.org scans.
+        </p>
 
-    <div class="books-grid">
-        {{ $books := where .Site.Pages "Section" "books" }}
-        {{ $books = where $books "Kind" "section" }}
-        {{ $books := where $books "File.Path" "!=" "books/_index.md" }}
-        {{ range first 12 ($books.ByDate.Reverse) }}
-            {{ partial "book-card.html" . }}
-        {{ end }}
-    </div>
-</section>
-
-<!-- Collections -->
-<section class="collections">
-    <div class="collections-inner">
-        <div class="section-header">
-            <h2 class="section-title">Collections</h2>
-            <a href="/collections" class="section-link">View all →</a>
+        <div class="hero-cta-row">
+          <a href="/books/" class="btn-solid">Browse {{ len $allBooks }} Editions →</a>
+          <a href="/blog/stage-two-of-akshara/" class="btn-outline">Read the Stage Two Essay</a>
+          <a href="/datasets/" class="btn-ghost-link">Explore {{ $tableTotal }} CSV Tables</a>
         </div>
 
-        <div class="collections-grid">
-            {{ range $index, $page := (where .Site.RegularPages "Type" "collections") }}
-            <a href="{{ .RelPermalink }}" class="collection-card">
-                <div class="collection-number">{{ printf "%02d" (add $index 1) }}</div>
-                <h3 class="collection-name">{{ .Title }}</h3>
-                <div class="collection-count">{{ .Params.book_count }} Books</div>
-                <p class="collection-description">{{ .Params.description }}</p>
-            </a>
+        <dl class="hero-telemetry-bar">
+          <div class="telemetry-cell">
+            <dt>Catalog Volumes</dt>
+            <dd>{{ len $allBooks }}</dd>
+          </div>
+          <div class="telemetry-cell">
+            <dt>v6 Compiler Editions</dt>
+            <dd>{{ len $v6Books }}</dd>
+          </div>
+          <div class="telemetry-cell">
+            <dt>Transcribed Folios</dt>
+            <dd>{{ $totalPages }}</dd>
+          </div>
+          <div class="telemetry-cell">
+            <dt>Statistical Tables</dt>
+            <dd>{{ $tableTotal }}</dd>
+          </div>
+        </dl>
+      </div>
+
+      <!-- Featured Volume on the Press -->
+      {{ $featuredSlug := .Site.Params.featured_book | default "india-at-the-death-of-akbar" }}
+      {{ $featured := .Site.GetPage (printf "/books/%s" $featuredSlug) }}
+      {{ if not $featured }}
+        {{ $featured = index ($allBooks.ByDate.Reverse) 0 }}
+      {{ end }}
+      {{ with $featured }}
+      <aside class="hero-feature-panel" aria-label="Featured edition">
+        <div class="feature-panel-top">
+          <span class="panel-kicker">ON THE PRESS · FEATURED EDITION</span>
+          <span class="tier-pill {{ if eq .Params.edition_tier "machine_checked" }}is-machine{{ else }}is-community{{ end }}">
+            {{ if eq .Params.edition_tier "machine_checked" }}Machine-Checked · 100/100{{ else }}Community Edition{{ end }}
+          </span>
+        </div>
+
+        <div class="feature-panel-body">
+          <a href="{{ .RelPermalink }}" class="feature-cover-link">
+            <img src="{{ .Params.cover }}" alt="{{ .Title }} cover" class="feature-cover-img" width="260" height="390">
+          </a>
+          <div class="feature-copy">
+            <div class="feature-year-line">{{ .Params.year }} · {{ .Params.pages }} pp. · {{ .Params.tables_count | default 0 }} CSV tables</div>
+            <h2 class="feature-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <p class="feature-author">{{ .Params.editor | default .Params.author }}</p>
+            {{ with .Params.featured_quote }}
+            <blockquote class="feature-pullquote">“{{ . | truncate 165 }}”</blockquote>
             {{ end }}
+            <div class="feature-actions">
+              <a href="{{ .RelPermalink }}" class="btn-mini-solid">Open Edition →</a>
+              {{ with .Params.download_epub }}
+              <a href="{{ . }}" class="btn-mini-outline" download>EPUB 3</a>
+              {{ end }}
+              {{ with .Params.download_html }}
+              <a href="{{ . }}" class="btn-mini-outline">Full HTML</a>
+              {{ end }}
+            </div>
+          </div>
         </div>
+      </aside>
+      {{ end }}
     </div>
-</section>
+  </section>
 
-<!-- CTA Section -->
-<section class="cta">
-    <div class="cta-content">
-        <h2 class="cta-title">Want to help?</h2>
-        <p class="cta-text">If you have rare PDFs to share, can help with OCR cleanup, or just want to follow along—I'd appreciate it.</p>
-        <div class="cta-actions">
-            <a href="/contact" class="btn-primary">Get in Touch</a>
-        </div>
-        <div class="newsletter-embed">
-            <iframe src="https://bhuvan.substack.com/embed" width="100%" height="150" style="border:none; background:transparent;" frameborder="0" scrolling="no" loading="lazy" title="Subscribe to newsletter"></iframe>
-        </div>
+  <!-- Launch Essay Spotlight Strip -->
+  <section class="essay-spotlight">
+    <div class="essay-spotlight-inner">
+      <div class="essay-spotlight-tag">JOURNAL ESSAY · NOVEMBER 2026</div>
+      <div class="essay-spotlight-main">
+        <h2 class="essay-spotlight-title">
+          <a href="/blog/stage-two-of-akshara/">Stage Two of Akshara: 47 New Books, a VLM Archival Compiler, and an Open Call for Proofreaders</a>
+        </h2>
+        <p class="essay-spotlight-summary">
+          How Project Akshara evolved from copy-pasting pages by hand in AI Studio to a 6th-generation compiler that reads camera-original JP2 scans, verifies colonial Rs. a. p. ledgers, and ships 7 open formats per book.
+        </p>
+      </div>
+      <a href="/blog/stage-two-of-akshara/" class="essay-spotlight-cta">Read Essay →</a>
     </div>
-</section>
+  </section>
 
-<!-- Footer -->
+  <!-- Interactive Library Shelf -->
+  <section class="home-shelf-section">
+    <div class="shelf-container">
+      <div class="section-head-row">
+        <div>
+          <span class="section-kicker">THE ARCHIVE CATALOG</span>
+          <h2 class="section-display-heading">Editions Ready to Read &amp; Download</h2>
+        </div>
+        <a href="/books/" class="section-all-link">Complete {{ len $allBooks }}-Book Catalog →</a>
+      </div>
+
+      <div class="filter-tabs" role="tablist" aria-label="Filter library shelf">
+        <button type="button" class="filter-tab is-active" data-home-filter="all">All Featured ({{ len $allBooks }})</button>
+        <button type="button" class="filter-tab" data-home-filter="machine_checked">Machine-Checked 100/100 ({{ len $machineBooks }})</button>
+        <button type="button" class="filter-tab" data-home-filter="community">Community Editions ({{ len $communityBooks }})</button>
+        <button type="button" class="filter-tab" data-home-filter="datasets">With CSV Datasets ({{ len $datasetBooks }})</button>
+        <button type="button" class="filter-tab" data-home-filter="eic">East India Company &amp; Trade</button>
+      </div>
+
+      <div class="books-grid" id="homeBooksGrid">
+        {{/* Show v6 books ordered cleanly by tier + publication year, plus legacy highlights */}}
+        {{ $orderedBooks := sort $allBooks "Params.year" "asc" }}
+        {{ range $orderedBooks }}
+          {{ partial "book-card.html" . }}
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <!-- Curated Collections -->
+  <section class="home-collections-section">
+    <div class="shelf-container">
+      <div class="section-head-row">
+        <div>
+          <span class="section-kicker">THEMATIC SHELVES</span>
+          <h2 class="section-display-heading">Curated Historical Collections</h2>
+        </div>
+        <a href="/collections/" class="section-all-link">All Collections →</a>
+      </div>
+
+      <div class="collections-architectural-grid">
+        {{ range $idx, $col := (where .Site.RegularPages "Type" "collections") }}
+        <a href="{{ .RelPermalink }}" class="collection-slab">
+          <div class="collection-slab-top">
+            <span class="collection-idx">{{ printf "%02d" (add $idx 1) }}</span>
+            <span class="collection-count-pill">{{ .Params.book_count }} Volumes</span>
+          </div>
+          <h3 class="collection-slab-title">{{ .Title }}</h3>
+          {{ with .Params.period }}
+          <div class="collection-slab-period">{{ . }}</div>
+          {{ end }}
+          <p class="collection-slab-desc">{{ .Params.description }}</p>
+          <span class="collection-slab-link">Explore Shelf →</span>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <!-- Statistical Atlas & Community Proofreading Callout -->
+  <section class="home-pillars-section">
+    <div class="shelf-container pillars-split">
+      <div class="pillar-panel">
+        <span class="section-kicker">STRUCTURED ECONOMIC DATA</span>
+        <h2 class="pillar-title">{{ $tableTotal }} Colonial Statistical Tables, Ready as CSV</h2>
+        <p class="pillar-body">
+          Every trade return, famine mortality statement, land revenue ledger, and household budget across our v6 corpus is exported in two formats: <strong>Diplomatic 2D CSVs</strong> preserving exact pre-decimal <em>Rs. a. p.</em> and <em>£ s. d.</em> columns, and unpivoted <strong>Tidy Long-Format CSVs</strong> ready for R, Python, or DuckDB.
+        </p>
+        <div class="pillar-actions">
+          <a href="/datasets/" class="btn-solid">Open Statistical Atlas →</a>
+        </div>
+      </div>
+
+      <div class="pillar-panel is-accent-border">
+        <span class="section-kicker">TRANSPARENT PROVENANCE &amp; PROOFREADING</span>
+        <h2 class="pillar-title">Honest Machine Editions. Human Proofreading Live.</h2>
+        <p class="pillar-body">
+          Every v6 book carries an explicit rubric score, a link back to the Archive.org source scan on every single page (click any <code>[p. N]</code> marker while reading), and all raw text, TEI XML, and metadata in our open <a href="/github/" class="inline-link">GitHub library repository</a>.
+        </p>
+        <div class="pillar-actions">
+          <a href="{{ .Site.Params.proofing_url | default "https://akshara-proofing.r-bhuvanesh2007.workers.dev" }}" class="btn-outline" target="_blank" rel="noopener">Open Proofing Studio ↗</a>
+          <a href="/github/" class="btn-ghost-link">Explore Open Repository →</a>
+          <a href="/contact/" class="btn-ghost-link">Volunteer as Proofreader</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var tabs = document.querySelectorAll('[data-home-filter]');
+  var cards = Array.from(document.querySelectorAll('#homeBooksGrid .book-card-wrap'));
+  var MAX_DEFAULT = 18;
+
+  function applyHomeFilter(mode) {
+    tabs.forEach(function(t) { t.classList.toggle('is-active', t.dataset.homeFilter === mode); });
+    var shown = 0;
+    cards.forEach(function(c) {
+      var match = false;
+      if (mode === 'all') {
+        match = shown < MAX_DEFAULT;
+      } else if (mode === 'machine_checked') {
+        match = c.dataset.tier === 'machine_checked';
+      } else if (mode === 'community') {
+        match = c.dataset.tier === 'community';
+      } else if (mode === 'datasets') {
+        match = c.dataset.datasets === '1';
+      } else if (mode === 'eic') {
+        match = c.dataset.archetype === 'maritime_company_records';
+      }
+      c.style.display = match ? '' : 'none';
+      if (match) shown++;
+    });
+  }
+
+  tabs.forEach(function(t) {
+    t.addEventListener('click', function() { applyHomeFilter(t.dataset.homeFilter); });
+  });
+  applyHomeFilter('all');
+});
+</script>
+
 {{ partial "footer.html" . }}
 {{ end }}

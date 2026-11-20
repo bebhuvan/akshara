@@ -1,0 +1,95 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,1,data,,"‘Brawles,’ 58 corge",2,Mahm.,"2,090",2090.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,1,data,,"‘Brawles,’ 58 corge",3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,2,data,,"Dutties, various",2,Mahm.,"2,259",2259.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,2,data,,"Dutties, various",3,Pice.,28,28.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,3,data,,"‘Tapseeles,’ 20 corge",2,Mahm.,"2,329",2329.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,3,data,,"‘Tapseeles,’ 20 corge",3,Pice.,8,8.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,4,data,,"‘Cadia cotten,’ 5 corge",2,Mahm.,196,196.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,4,data,,"‘Cadia cotten,’ 5 corge",3,Pice.,21,21.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,5,data,,"‘Mentasses,’ 5 corge",2,Mahm.,110,110.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,5,data,,"‘Mentasses,’ 5 corge",3,Pice.,26,26.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,6,data,,"‘Bemimas pancharwira,’ 3½ corge",2,Mahm.,176,176.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,6,data,,"‘Bemimas pancharwira,’ 3½ corge",3,Pice.,29,29.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,7,data,,"‘Ditto sattevilas,’ 1½ corge",2,Mahm.,111,111.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,7,data,,"‘Ditto sattevilas,’ 1½ corge",3,Pice.,3,3.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,8,data,,"‘Grobades panchawira,’ 5 corge",2,Mahm.,226,226.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",116,62,8,data,,"‘Grobades panchawira,’ 5 corge",3,Pice.,21,21.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,9,data,,"‘Cannekins,’ 930 corge",2,Mahm.,"18,199",18199.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,9,data,,"‘Cannekins,’ 930 corge",3,Pice.,21,21.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,10,data,,"‘Pangeries,’ 12 corge",2,Mahm.,"1,100",1100.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,10,data,,"‘Pangeries,’ 12 corge",3,Pice.,28,28.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,11,data,,"‘Pitcharies,’ 15 corge",2,Mahm.,"1,337",1337.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,11,data,,"‘Pitcharies,’ 15 corge",3,Pice.,22½,22.5,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,12,data,,"Baftas, various, 214 corge [ ]",2,Mahm.,"17,316",17316.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,12,data,,"Baftas, various, 214 corge [ ]",3,Pice.,9¾,9.75,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,13,data,,"‘Allejaies,’ 20 corge",2,Mahm.,"1,740",1740.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,13,data,,"‘Allejaies,’ 20 corge",3,Pice.,3,3.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,14,data,,"‘Tricandies,’ 100 corge",2,Mahm.,"1,815",1815.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,14,data,,"‘Tricandies,’ 100 corge",3,Pice.,3,3.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,15,data,,"Ditto, 619 1/10 corge",2,Mahm.,"9,510",9510.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,15,data,,"Ditto, 619 1/10 corge",3,Pice.,2,2.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,16,data,,"‘Pilgar chawdar,’ 20 corge",2,Mahm.,"3,668",3668.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,16,data,,"‘Pilgar chawdar,’ 20 corge",3,Pice.,14,14.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,17,data,,"‘Mittfoones,’ 20 corge",2,Mahm.,"2,370",2370.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,17,data,,"‘Mittfoones,’ 20 corge",3,Pice.,1[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,18,data,,"‘Pettolas,’ 127 corge",2,Mahm.,"12,738",12738.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,18,data,,"‘Pettolas,’ 127 corge",3,Pice.,2[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,19,data,,"‘Sabony,’ 5 corge",2,Mahm.,518,518.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,19,data,,"‘Sabony,’ 5 corge",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,20,data,,"‘Newlee,’ little, 10 corge",2,Mahm.,675,675.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,20,data,,"‘Newlee,’ little, 10 corge",3,Pice.,2[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,21,data,,"‘Mavee,’ 25 corge",2,Mahm.,436,436.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,21,data,,"‘Mavee,’ 25 corge",3,Pice.,1[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,22,data,,"‘Seras,’ 30 corge",2,Mahm.,"1,789",1789.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,22,data,,"‘Seras,’ 30 corge",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,23,data,,"‘Buckar,’ 13½ corge",2,Mahm.,572,572.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,23,data,,"‘Buckar,’ 13½ corge",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,24,data,,"‘Casseeds,’ 33 corge",2,Mahm.,"2,74[ ]",,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,24,data,,"‘Casseeds,’ 33 corge",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,25,data,,"‘Byrames blew,’ 40 corge",2,Mahm.,"2,73[ ]",,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,25,data,,"‘Byrames blew,’ 40 corge",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,26,data,,"‘Chintes,’ 50 corge",2,Mahm.,"3,900",3900.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,26,data,,"‘Chintes,’ 50 corge",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,27,data,,"‘Red Sealas,’ 120 corge",2,Mahm.,"4,468",4468.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,27,data,,"‘Red Sealas,’ 120 corge",3,Pice.,24,24.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,28,data,,"‘Byrames white,’ 10 corge",2,Mahm.,450,450.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,28,data,,"‘Byrames white,’ 10 corge",3,Pice.,30,30.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,29,data,,"‘Gadelles,’ 20 corge",2,Mahm.,"1,023",1023.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,29,data,,"‘Gadelles,’ 20 corge",3,Pice.,2[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,30,data,,"‘Gingames,’ [ ] corge",2,Mahm.,"2,548",2548.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,30,data,,"‘Gingames,’ [ ] corge",3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,31,data,,"Stuffs, various",2,Mahm.,"1,523",1523.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,31,data,,"Stuffs, various",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,32,data,,"Cotton wool, 193 bags",2,Mahm.,"2,608",2608.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,32,data,,"Cotton wool, 193 bags",3,Pice.,[ ],,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,33,data,,"Steel, 188 corge",2,Mahm.,634,634.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,33,data,,"Steel, 188 corge",3,Pice.,16,16.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,34,data,,"‘Serebaffes,’ 397½ pieces",2,Mahm.,"2,694",2694.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,34,data,,"‘Serebaffes,’ 397½ pieces",3,Pice.,25,25.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,35,data,,"Corn, 540 maunds of 39 seers",2,Mahm.,553,553.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,35,data,,"Corn, 540 maunds of 39 seers",3,Pice.,22½,22.5,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,36,data,,"Spangles, 1 box",2,Mahm.,"1,697",1697.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,36,data,,"Spangles, 1 box",3,Pice.,16,16.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,37,data,,"Iron, English, 1,149 bars",2,Mahm.,"5,784",5784.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,37,data,,"Iron, English, 1,149 bars",3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,38,data,,Divers toys,2,Mahm.,59,59.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,38,data,,Divers toys,3,Pice.,10⅔,10.666667,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,39,data,,Ditto for barter,2,Mahm.,"5,15[5?]",,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,39,data,,Ditto for barter,3,Pice.,26⅔,26.666667,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,40,data,,Iron for barter,2,Mahm.,52,52.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,40,data,,Iron for barter,3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,41,data,,Knives,2,Mahm.,44,44.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,41,data,,Knives,3,Pice.,24,24.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,42,data,,Brass ordnance for the King,2,Mahm.,"5,266",5266.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,42,data,,Brass ordnance for the King,3,Pice.,21⅓,21.333333,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,43,data,,Apparel,2,Mahm.,294,294.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,43,data,,Apparel,3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,44,data,,Rials,2,Mahm.,"91,082",91082.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,44,data,,Rials,3,Pice.,0,0.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,45,subtotal,,Row 45,2,Mahm.,"212,012",212012.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,45,subtotal,,Row 45,3,Pice.,1,1.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,46,data,,Deduct: 6¼ corge of dutties wrongly entered,2,Mahm.,398,398.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,46,data,,Deduct: 6¼ corge of dutties wrongly entered,3,Pice.,11,11.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,47,total,,Mahmūdīs,2,Mahm.,"211,613",211613.0,,False,False
+english-factories-india-1618-1621-vol-01,tbl-003,"Goods shipped to the Southwards on Capt. Bonner's Fleet (Ibid., f. 56).",117,62,47,total,,Mahmūdīs,3,Pice.,22,22.0,,False,False

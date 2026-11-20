@@ -1,0 +1,589 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,"1,09,316",109316.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,"13,580",13580.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,6,Percentage. :: Rs.,12,12.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,7,Ordinary Revenue. :: Rs.,"71,484",71484.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,8,Remissions. :: Rs.,"12,162",12162.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,9,Percentage. :: Rs.,17,17.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,1,data,,Row 1,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,2,data,,Row 2,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,3,data,,Row 3,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,13,Ordinary Revenue. :: Rs.,"2,77,122",277122.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,14,Remissions. :: Rs.,"1,09,499",109499.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,4,data,,Row 4,15,Percentage. :: Rs.,39,39.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,5,data,,Row 5,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,13,Ordinary Revenue. :: Rs.,"17,245",17245.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,14,Remissions. :: Rs.,"1,535",1535.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,6,data,,Row 6,15,Percentage. :: Rs.,9,9.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,13,Ordinary Revenue. :: Rs.,"15,827",15827.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,14,Remissions. :: Rs.,"1,691",1691.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,7,data,,Row 7,15,Percentage. :: Rs.,11,11.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,8,data,,Row 8,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,13,Ordinary Revenue. :: Rs.,"3,812",3812.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,14,Remissions. :: Rs.,582,582.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,9,data,,Row 9,15,Percentage. :: Rs.,15,15.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,10,data,,Row 10,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,13,Ordinary Revenue. :: Rs.,"15,356",15356.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,14,Remissions. :: Rs.,"2,231",2231.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,11,data,,Row 11,15,Percentage. :: Rs.,15,15.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,12,data,,Row 12,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,13,Ordinary Revenue. :: Rs.,"2,969",2969.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,14,Remissions. :: Rs.,135,135.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,13,data,,Row 13,15,Percentage. :: Rs.,4,4.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,13,Ordinary Revenue. :: Rs.,"40,921",40921.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,14,Remissions. :: Rs.,"33,975",33975.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,14,data,,Row 14,15,Percentage. :: Rs.,83,83.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,15,data,,Row 15,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,16,data,,Row 16,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,17,data,,Row 17,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,18,data,,Row 18,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,19,data,,Row 19,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,20,data,,Row 20,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,21,data,,Row 21,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,22,data,,Row 22,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,23,data,,Row 23,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,24,data,,Row 24,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,25,data,,Row 25,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,26,data,,Row 26,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,27,data,,Row 27,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,28,data,,Row 28,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,"29,271",29271.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,13,13.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",7,Ordinary Revenue. :: Rs.,"4,72,527",472527.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",8,Remissions. :: Rs.,"2,15,336",215336.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",9,Percentage. :: Rs.,46,46.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,29,data,,"2,21,518",15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,30,data,,Row 30,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,31,data,,Row 31,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,32,data,,Row 32,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,33,data,,Row 33,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,"4,493",4493.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,11,11.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,34,data,,"41,364",15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,35,data,,Row 35,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,32 082,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,23,23.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,"1,33,381",133381.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,"32,089",32089.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",6,Percentage. :: Rs.,24,24.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",7,Ordinary Revenue. :: Rs.,"1,34,266",134266.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",8,Remissions. :: Rs.,"29,361",29361.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",9,Percentage. :: Rs.,22,22.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",10,Ordinary Revenue. :: Rs.,"1,34,029",134029.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",11,Remissions. :: Rs.,"29,055",29055.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",12,Percentage. :: Rs.,22,22.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",13,Ordinary Revenue. :: Rs.,"1,09,357",109357.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",14,Remissions. :: Rs.,"23,021",23021.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,36,data,,"1,39,573",15,Percentage. :: Rs.,21,21.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,37,data,,Row 37,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,38,data,,Row 38,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,39,data,,Row 39,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,10,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,11,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,12,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,40,data,,Row 40,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,6,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,7,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,8,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,9,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,10,Ordinary Revenue. :: Rs.,"39,161",39161.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,11,Remissions. :: Rs.,"21,897",21897.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,12,Percentage. :: Rs.,56,56.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,13,Ordinary Revenue. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,14,Remissions. :: Rs.,....,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,41,data,,Row 41,15,Percentage. :: Rs.,..,,Rs,True,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",2,Rice...... 8 Seers. Toor .... 12 „ Wheat .... 7 „ Bajree .... 18 „ Jowaree .. 10 „ Gram .... 13 „ Ghee .... 2 „ Oil ...... 3½ „ Gool...... 3½ „ :: Remissions. :: Rs.,"65,846",65846.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",3,Rice...... 11 Seers. Toor .... 14 „ Wheat .... 14 „ Bajree .. 21 „ Jowarce .. 34 „ Gram .... 22 „ Ghee .... 2¼ „ Oil ...... 5 „ Gool .... 4¼ „ :: Percentage. :: Rs.,16,16.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",4,Rice...... 10¾ Seers. Toor...... 36 „ Wheat .... 27 „ Bajree.... 40 „ Jowaree .. 36 „ Gram .... 29 „ Ghee .... 2 „ Oil ...... 5½ „ Gool .... 8 „ :: Ordinary Revenue. :: Rs.,"2,42,697",242697.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",5,Jowaree .. 44 Seers. Gram .... 20 „ :: Remissions. :: Rs.,"45,669",45669.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",6,Percentage. :: Rs.,19,19.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",7,Ordinary Revenue. :: Rs.,"6,78,277",678277.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",8,Remissions. :: Rs.,"2,56,879",256879.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",9,Percentage. :: Rs.,38,38.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",10,Ordinary Revenue. :: Rs.,"1,73,190",173190.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",11,Remissions. :: Rs.,"50,952",50952.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",12,Percentage. :: Rs.,29,29.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",13,Ordinary Revenue. :: Rs.,"4,82,609",482609.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",14,Remissions. :: Rs.,"1,72,669",172669.0,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-051,the extent that the records furnish evidence.,201,189,42,total,,"4,02,455",15,Percentage. :: Rs.,36,36.0,Rs,False,False

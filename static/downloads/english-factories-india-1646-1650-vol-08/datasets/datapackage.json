@@ -1,0 +1,20 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-english-factories-india-1646-1650-vol-08",
+  "title": "The English Factories in India, 1646–1650 — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "William Foster",
+      "role": "author"
+    }
+  ],
+  "temporal": "1646-1650",
+  "spatial": "Surat, Agra, Madras, Masulipatam, Balasore",
+  "resources": []
+}

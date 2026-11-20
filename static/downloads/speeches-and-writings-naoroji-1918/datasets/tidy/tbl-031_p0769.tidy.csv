@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,1,data,,Row 1,2,Rx.,"3,874,929",3874929.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,2,data,,Public Works Department (Civil),2,Rx.,"909,814",909814.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,3,data,,Absentee Allowances Civil Department,2,Rx.,"175,677",175677.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,4,data,,"Public Works Department, (Civil)",2,Rx.,"44,734",44734.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,5,data,,"Pensions paid in India, Civil:— Europeans (Eurasians)",2,Rx.,"97,323",97323.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,6,data,,"Public Works Department, Civil:— Europeans (Eurasians)",2,Rx.,"23,871",23871.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-031,Table 31,769,87,7,total,,Total in India,2,Rx.,"5,126,348",5126348.0,Rs,False,True

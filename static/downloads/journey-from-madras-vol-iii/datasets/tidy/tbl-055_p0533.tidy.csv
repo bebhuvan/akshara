@@ -1,0 +1,433 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,1,data,,Alum,2,From whence imported.,China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,1,data,,Alum,3,Quality.,Dapotas,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,1,data,,Alum,4,Average Price.,35 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,1,data,,Alum,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,2,data,,Almonds,2,From whence imported.,"Muscat, Mocha, and Judah",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,2,data,,Almonds,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,2,data,,Almonds,4,Average Price.,4 to 6 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,2,data,,Almonds,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,3,data,,Amber,2,From whence imported.,"Diree Mahall ditto (Arabia""",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,3,data,,Amber,3,Quality.,Wooden Boxes,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,3,data,,Amber,4,Average Price.,3 to 400 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,3,data,,Amber,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,4,data,,Aloes,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,4,data,,Aloes,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,4,data,,Aloes,4,Average Price.,6 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,4,data,,Aloes,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,5,data,,Benjamin,2,From whence imported.,Bengal and Achin,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,5,data,,Benjamin,3,Quality.,Chests,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,5,data,,Benjamin,4,Average Price.,12 to 20 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,5,data,,Benjamin,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,6,data,,Black Grapes,2,From whence imported.,Muscat and Mocha,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,6,data,,Black Grapes,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,6,data,,Black Grapes,4,Average Price.,4½ rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,6,data,,Black Grapes,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,7,data,,Brimstone,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,7,data,,Brimstone,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,7,data,,Brimstone,4,Average Price.,60 to 90 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,7,data,,Brimstone,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,8,data,,Black Cummin Seed,2,From whence imported.,"Ditto, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,8,data,,Black Cummin Seed,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,8,data,,Black Cummin Seed,4,Average Price.,80 to 100 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,8,data,,Black Cummin Seed,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,9,data,,"Black Gram, a Pulse",2,From whence imported.,Bombay ditto and ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,9,data,,"Black Gram, a Pulse",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,9,data,,"Black Gram, a Pulse",4,Average Price.,18 to 35 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,9,data,,"Black Gram, a Pulse",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,10,data,,"Bole, Medicine",2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,10,data,,"Bole, Medicine",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,10,data,,"Bole, Medicine",4,Average Price.,8 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,10,data,,"Bole, Medicine",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,11,data,,"Batty, Rice in the Husk",2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,11,data,,"Batty, Rice in the Husk",3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,11,data,,"Batty, Rice in the Husk",4,Average Price.,35 to 45 rupees per morah,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,11,data,,"Batty, Rice in the Husk",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,12,data,,"Black Dooties, a Cloth",2,From whence imported.,"Surat, Guzerat, and Madras",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,12,data,,"Black Dooties, a Cloth",3,Quality.,Bale,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,12,data,,"Black Dooties, a Cloth",4,Average Price.,"110 to 130 rupees per corge, or 20 pieces",,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,12,data,,"Black Dooties, a Cloth",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,13,data,,Broad Cloth,2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,13,data,,Broad Cloth,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,13,data,,Broad Cloth,4,Average Price.,45 to 80 rupees per piece,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,13,data,,Broad Cloth,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,14,data,,Camphire,2,From whence imported.,China and Achin,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,14,data,,Camphire,3,Quality.,Chest,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,14,data,,Camphire,4,Average Price.,80 to 100 rupees per pecul,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,14,data,,Camphire,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,15,data,,Cotton,2,From whence imported.,"Bombay, Surat, Guzerat, Rajapore",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,15,data,,Cotton,3,Quality.,Bale,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,15,data,,Cotton,4,Average Price.,80 to 130 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,15,data,,Cotton,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,16,data,,Cutch Cotton,2,From whence imported.,Cutch,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,16,data,,Cutch Cotton,3,Quality.,Ditto and Dokras,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,16,data,,Cutch Cotton,4,Average Price.,60 to 90 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,16,data,,Cutch Cotton,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,17,data,,"Chilly, Capsicum",2,From whence imported.,Bombay and Goa,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,17,data,,"Chilly, Capsicum",3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,17,data,,"Chilly, Capsicum",4,Average Price.,40 to 70 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,17,data,,"Chilly, Capsicum",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,18,data,,Castor Oil,2,From whence imported.,Surat and Guzerat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,18,data,,Castor Oil,3,Quality.,Dupper,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,18,data,,Castor Oil,4,Average Price.,60 to 80 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,18,data,,Castor Oil,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,19,data,,Chintz,2,From whence imported.,"Bengal, Madras, Bombay, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,19,data,,Chintz,3,Quality.,Bales,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,19,data,,Chintz,4,Average Price.,30 to 80 rupees per corge,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,19,data,,Chintz,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,20,data,,Cinnamon,2,From whence imported.,Ceylon and China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,20,data,,Cinnamon,3,Quality.,Chests,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,20,data,,Cinnamon,4,Average Price.,40 to 50 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,20,data,,Cinnamon,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,21,data,,Coffee,2,From whence imported.,Muscat and Mocha,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,21,data,,Coffee,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,21,data,,Coffee,4,Average Price.,8 to 10 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,21,data,,Coffee,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,22,data,,China Root,2,From whence imported.,China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,22,data,,China Root,3,Quality.,Dapotas,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,22,data,,China Root,4,Average Price.,45 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,22,data,,China Root,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,23,data,,"Copper in Sheet, Plate, and Bar",2,From whence imported.,"Bombay, Bengal, Muscat, and Batavia",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,23,data,,"Copper in Sheet, Plate, and Bar",3,Quality.,Chests,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,23,data,,"Copper in Sheet, Plate, and Bar",4,Average Price.,16 to 18 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,23,data,,"Copper in Sheet, Plate, and Bar",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,24,data,,Creat,2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,24,data,,Creat,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,24,data,,Creat,4,Average Price.,8 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,24,data,,Creat,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,25,data,,Cloves,2,From whence imported.,Batavia and Malacca,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,25,data,,Cloves,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,25,data,,Cloves,4,Average Price.,3 to 4 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,25,data,,Cloves,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,26,data,,China Cabob,2,From whence imported.,China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,26,data,,China Cabob,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,26,data,,China Cabob,4,Average Price.,15 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,26,data,,China Cabob,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,27,data,,Cummin Seed,2,From whence imported.,"Bombay, Surat, Guzerat and Muscat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,27,data,,Cummin Seed,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,27,data,,Cummin Seed,4,Average Price.,100 to 150 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,27,data,,Cummin Seed,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,28,data,,"Dholl, a Pulse",2,From whence imported.,"Bengal, Bombay, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,28,data,,"Dholl, a Pulse",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,28,data,,"Dholl, a Pulse",4,Average Price.,25 to 30 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,28,data,,"Dholl, a Pulse",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,29,data,,Dry Dates,2,From whence imported.,"Bussorah, Muscat, and Mocha",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,29,data,,Dry Dates,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,29,data,,Dry Dates,4,Average Price.,25 to 30 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,29,data,,Dry Dates,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,30,data,,Dry Ginger,2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,30,data,,Dry Ginger,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,30,data,,Dry Ginger,4,Average Price.,65 to 75 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,30,data,,Dry Ginger,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,31,data,,"Dammer, Resin",2,From whence imported.,"China, Achin, and Malacca",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,31,data,,"Dammer, Resin",3,Quality.,Chests,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,31,data,,"Dammer, Resin",4,Average Price.,50 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,31,data,,"Dammer, Resin",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,32,data,,Eyes Medicine,2,From whence imported.,Muscat and Juddah,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,32,data,,Eyes Medicine,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,32,data,,Eyes Medicine,4,Average Price.,10 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,32,data,,Eyes Medicine,5,Remarks.,Refined Antimony,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,33,data,,Essoop Gool Seed,2,From whence imported.,Ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,33,data,,Essoop Gool Seed,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,33,data,,Essoop Gool Seed,4,Average Price.,50 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,33,data,,Essoop Gool Seed,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,34,data,,"Figs, Dry",2,From whence imported.,Ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,34,data,,"Figs, Dry",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,34,data,,"Figs, Dry",4,Average Price.,10 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,34,data,,"Figs, Dry",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,35,data,,"Gram, a Pulse",2,From whence imported.,"Bengal, Bombay, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,35,data,,"Gram, a Pulse",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,35,data,,"Gram, a Pulse",4,Average Price.,22 to 35 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,35,data,,"Gram, a Pulse",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,36,data,,Green Paint,2,From whence imported.,Surat and Guzerat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,36,data,,Green Paint,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,36,data,,Green Paint,4,Average Price.,20 to 35 per maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,36,data,,Green Paint,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,37,data,,"Ghee, Boiled Butter",2,From whence imported.,"Bengal, Sind, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,37,data,,"Ghee, Boiled Butter",3,Quality.,Dupper,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,37,data,,"Ghee, Boiled Butter",4,Average Price.,6 to 8 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,37,data,,"Ghee, Boiled Butter",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,38,data,,Gunny Bags,2,From whence imported.,Bengal and Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,38,data,,Gunny Bags,3,Quality.,Bale,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,38,data,,Gunny Bags,4,Average Price.,3 to 4 rupees per corge,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,38,data,,Gunny Bags,5,Remarks.,Made from the Croto-laria juncea,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,39,data,,Gunny in Pots,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,39,data,,Gunny in Pots,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,39,data,,Gunny in Pots,4,Average Price.,2½ to 3 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,39,data,,Gunny in Pots,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,40,data,,Gum Arabic,2,From whence imported.,"Muscat, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,40,data,,Gum Arabic,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,40,data,,Gum Arabic,4,Average Price.,5 to 8 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,40,data,,Gum Arabic,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,41,data,,"Hartall, Cinnabar",2,From whence imported.,China and Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,41,data,,"Hartall, Cinnabar",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,41,data,,"Hartall, Cinnabar",4,Average Price.,110 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,41,data,,"Hartall, Cinnabar",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,42,data,,"Hing, Asafœtida",2,From whence imported.,Muscat and Sindia,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,42,data,,"Hing, Asafœtida",3,Quality.,Jar,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,42,data,,"Hing, Asafœtida",4,Average Price.,30 to 50 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,42,data,,"Hing, Asafœtida",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,43,data,,Hengraw,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,43,data,,Hengraw,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,43,data,,Hengraw,4,Average Price.,5 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,43,data,,Hengraw,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,44,data,,Iron,2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,44,data,,Iron,3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,44,data,,Iron,4,Average Price.,65 to 80 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,44,data,,Iron,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,45,data,,Jenjily Oil,2,From whence imported.,Ditto Surat and Guzerat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,45,data,,Jenjily Oil,3,Quality.,Dubler,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,45,data,,Jenjily Oil,4,Average Price.,70 to 100 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,45,data,,Jenjily Oil,5,Remarks.,Sesamum,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,46,data,,Jagree,2,From whence imported.,Bombay and Rajapore,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,46,data,,Jagree,3,Quality.,Earthen Pots and Baskets,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,46,data,,Jagree,4,Average Price.,55 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,46,data,,Jagree,5,Remarks.,Inspissated Juice of Sugar Cane,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,47,data,,"Jestomud, Medicine",2,From whence imported.,"Bussorah, Muscat, and Mocha",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,47,data,,"Jestomud, Medicine",3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,47,data,,"Jestomud, Medicine",4,Average Price.,30 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,47,data,,"Jestomud, Medicine",5,Remarks.,Liquorice,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,48,data,,"Kincob, Cloth",2,From whence imported.,"Bombay, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,48,data,,"Kincob, Cloth",3,Quality.,Bales,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,48,data,,"Kincob, Cloth",4,Average Price.,20 to 100 rupees per piece,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,48,data,,"Kincob, Cloth",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,49,data,,"Kismiss, Raisins",2,From whence imported.,Mocha and Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,49,data,,"Kismiss, Raisins",3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,49,data,,"Kismiss, Raisins",4,Average Price.,4 to 5 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,49,data,,"Kismiss, Raisins",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,50,data,,Long Pepper,2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,50,data,,Long Pepper,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,50,data,,Long Pepper,4,Average Price.,30 to 40 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,50,data,,Long Pepper,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,51,data,,Lime Pickles,2,From whence imported.,Mocha and Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,51,data,,Lime Pickles,3,Quality.,Jar,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,51,data,,Lime Pickles,4,Average Price.,12 to 15 ditto per 100,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,51,data,,Lime Pickles,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,52,data,,Lead,2,From whence imported.,"Bombay, Malacca, and Batavia",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,52,data,,Lead,3,Quality.,Cask,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,52,data,,Lead,4,Average Price.,4 to 5 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,52,data,,Lead,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,53,data,,"Mug, Pulse",2,From whence imported.,"Ditto, Bengal, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,53,data,,"Mug, Pulse",3,Quality.,Bag,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,53,data,,"Mug, Pulse",4,Average Price.,18 to 35 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,53,data,,"Mug, Pulse",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,54,data,,Mustard,2,From whence imported.,Ditto Guzerat and Sindia,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,54,data,,Mustard,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,54,data,,Mustard,4,Average Price.,30 to 40 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,54,data,,Mustard,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,55,data,,Mace,2,From whence imported.,"Batavia, China, and Sindia",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,55,data,,Mace,3,Quality.,Wooden Box,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,55,data,,Mace,4,Average Price.,3 to 500 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",533,485,55,data,,Mace,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,56,data,,"Mugadooties, Silks",2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,56,data,,"Mugadooties, Silks",3,Quality.,Bales,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,56,data,,"Mugadooties, Silks",4,Average Price.,30 to 40 rupees per corge,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,56,data,,"Mugadooties, Silks",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,57,data,,Musroo,2,From whence imported.,"Bombay, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,57,data,,Musroo,3,Quality.,Bales,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,57,data,,Musroo,4,Average Price.,90 to 200 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,57,data,,Musroo,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,58,data,,"Munzett, Madder",2,From whence imported.,"Mocha, Bussorah, and Sindia",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,58,data,,"Munzett, Madder",3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,58,data,,"Munzett, Madder",4,Average Price.,160 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,58,data,,"Munzett, Madder",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,59,data,,"Mortooth, or Blue Vitriol",2,From whence imported.,"Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,59,data,,"Mortooth, or Blue Vitriol",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,59,data,,"Mortooth, or Blue Vitriol",4,Average Price.,15 to 25 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,59,data,,"Mortooth, or Blue Vitriol",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,60,data,,"Maytee, Fenugreek",2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,60,data,,"Maytee, Fenugreek",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,60,data,,"Maytee, Fenugreek",4,Average Price.,35 to 45 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,60,data,,"Maytee, Fenugreek",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,61,data,,Medicine,2,From whence imported.,"{ Bengal, China, Bombay, Su- { rat, Guzerat, and Mocha }",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,61,data,,Medicine,3,Quality.,Ditto and Chests,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,61,data,,Medicine,4,Average Price.,Not to be ascertained,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,61,data,,Medicine,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,62,data,,Nutmegs,2,From whence imported.,Batavia and China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,62,data,,Nutmegs,3,Quality.,Wooden Box,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,62,data,,Nutmegs,4,Average Price.,10 to 12 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,62,data,,Nutmegs,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,63,data,,Nuckla,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,63,data,,Nuckla,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,63,data,,Nuckla,4,Average Price.,15 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,63,data,,Nuckla,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,64,data,,Opium,2,From whence imported.,"Bengal, Bombay, and Mocha",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,64,data,,Opium,3,Quality.,Chests,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,64,data,,Opium,4,Average Price.,70 to 180 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,64,data,,Opium,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,65,data,,Oil of Mustard Seed,2,From whence imported.,"Surat, Guzerat, and Sind.",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,65,data,,Oil of Mustard Seed,3,Quality.,Jars,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,65,data,,Oil of Mustard Seed,4,Average Price.,70 to 90 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,65,data,,Oil of Mustard Seed,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,66,data,,Onions,2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,66,data,,Onions,3,Quality.,Baskets,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,66,data,,Onions,4,Average Price.,20 to 50 rupees per ditto,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,66,data,,Onions,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,67,data,,"Purpets, Cloth",2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,67,data,,"Purpets, Cloth",3,Quality.,Bales,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,67,data,,"Purpets, Cloth",4,Average Price.,16 to 27 rupees per piece,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,67,data,,"Purpets, Cloth",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,68,data,,"Piece Goods, Silk and Thread",2,From whence imported.,"{ Bengal, Madras, Bombay, Su- { rat, and Guzerat }",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,68,data,,"Piece Goods, Silk and Thread",3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,68,data,,"Piece Goods, Silk and Thread",4,Average Price.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,68,data,,"Piece Goods, Silk and Thread",5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,69,data,,Pistachio Nuts,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,69,data,,Pistachio Nuts,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,69,data,,Pistachio Nuts,4,Average Price.,6 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,69,data,,Pistachio Nuts,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,70,data,,Pepul Mull,2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,70,data,,Pepul Mull,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,70,data,,Pepul Mull,4,Average Price.,22 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,70,data,,Pepul Mull,5,Remarks.,Root of the Long Pepper,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,71,data,,Pearls,2,From whence imported.,"Muscat, Bombay, and Surat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,71,data,,Pearls,3,Quality.,Buts,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,71,data,,Pearls,4,Average Price.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,71,data,,Pearls,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,72,data,,Pomegranate,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,72,data,,Pomegranate,3,Quality.,Baskets,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,72,data,,Pomegranate,4,Average Price.,16 to 20 per a rupee,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,72,data,,Pomegranate,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,73,data,,Persia Gul,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,73,data,,Persia Gul,3,Quality.,Jars,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,73,data,,Persia Gul,4,Average Price.,22 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,73,data,,Persia Gul,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,74,data,,Persia Salt,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,74,data,,Persia Salt,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,74,data,,Persia Salt,4,Average Price.,10 rupees per cwt.,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,74,data,,Persia Salt,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,75,data,,Quick Silver,2,From whence imported.,"Bombay, China, and Batavia",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,75,data,,Quick Silver,3,Quality.,Jars,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,75,data,,Quick Silver,4,Average Price.,45 to 50 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,75,data,,Quick Silver,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,76,data,,Rice,2,From whence imported.,"Bengal, Mangalore, and Sindia",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,76,data,,Rice,3,Quality.,Bags and robin,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,76,data,,Rice,4,Average Price.,7½ to 12 rupees per bag,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,76,data,,Rice,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,77,data,,Rattans,2,From whence imported.,Batavia,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,77,data,,Rattans,3,Quality.,Bundles,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,77,data,,Rattans,4,Average Price.,2½ rupees per 100,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,77,data,,Rattans,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,78,data,,Red Earth,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,78,data,,Red Earth,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,78,data,,Red Earth,4,Average Price.,15 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,78,data,,Red Earth,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,79,data,,Rose Flowers,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,79,data,,Rose Flowers,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,79,data,,Rose Flowers,4,Average Price.,4 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,79,data,,Rose Flowers,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,80,data,,Rose Water,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,80,data,,Rose Water,3,Quality.,Bottles,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,80,data,,Rose Water,4,Average Price.,1 rupee per bottle,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,80,data,,Rose Water,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,81,data,,Rose Mallos,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,81,data,,Rose Mallos,3,Quality.,Jars,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,81,data,,Rose Mallos,4,Average Price.,121 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,81,data,,Rose Mallos,5,Remarks.,Mallows ?,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,82,data,,Red Lead,2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,82,data,,Red Lead,3,Quality.,Casks,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,82,data,,Red Lead,4,Average Price.,4½ rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,82,data,,Red Lead,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,83,data,,Salt,2,From whence imported.,"Bombay, Muscat, and Mocha",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,83,data,,Salt,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,83,data,,Salt,4,Average Price.,¾ per bag,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,83,data,,Salt,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,84,data,,Shark Fins,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,84,data,,Shark Fins,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,84,data,,Shark Fins,4,Average Price.,30 rupees per pecul,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,84,data,,Shark Fins,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,85,data,,Sweet Limes,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,85,data,,Sweet Limes,3,Quality.,Baskets,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,85,data,,Sweet Limes,4,Average Price.,15 to 20 per rupee,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,85,data,,Sweet Limes,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,86,data,,Sheep,2,From whence imported.,Ditto and Mocha,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,86,data,,Sheep,3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,86,data,,Sheep,4,Average Price.,8 to 12 rupees each,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,86,data,,Sheep,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,87,data,,Salem,2,From whence imported.,Ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,87,data,,Salem,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,87,data,,Salem,4,Average Price.,2 to 4 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,87,data,,Salem,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,88,data,,Sunsull Karr,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,88,data,,Sunsull Karr,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,88,data,,Sunsull Karr,4,Average Price.,2 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,88,data,,Sunsull Karr,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,89,data,,Sona Makee,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,89,data,,Sona Makee,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,89,data,,Sona Makee,4,Average Price.,3 ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,89,data,,Sona Makee,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,90,data,,Saw Cummin Seed,2,From whence imported.,"Ditto Surat, Guzerat, and Sind",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,90,data,,Saw Cummin Seed,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,90,data,,Saw Cummin Seed,4,Average Price.,160 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,90,data,,Saw Cummin Seed,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,91,data,,Saffron,2,From whence imported.,"China, Bombay, and Goa",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,91,data,,Saffron,3,Quality.,Dupper and Tin Box,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,91,data,,Saffron,4,Average Price.,20 to 25 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,91,data,,Saffron,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,92,data,,Shawls,2,From whence imported.,"Bombay, Surat, and Guzerat",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,92,data,,Shawls,3,Quality.,Bale,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,92,data,,Shawls,4,Average Price.,20 to 100 rupees per piece,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,92,data,,Shawls,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,93,data,,Steel,2,From whence imported.,Bombay,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,93,data,,Steel,3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,93,data,,Steel,4,Average Price.,90 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,93,data,,Steel,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,94,data,,Sugar in Dapotas,2,From whence imported.,China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,94,data,,Sugar in Dapotas,3,Quality.,Dapotas,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,94,data,,Sugar in Dapotas,4,Average Price.,18 rupees per pecul,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,94,data,,Sugar in Dapotas,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,95,data,,Ditto in Bags,2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,95,data,,Ditto in Bags,3,Quality.,Bags,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,95,data,,Ditto in Bags,4,Average Price.,16 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,95,data,,Ditto in Bags,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,96,data,,Ditto in Cannister,2,From whence imported.,Batavia,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,96,data,,Ditto in Cannister,3,Quality.,Cannister,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,96,data,,Ditto in Cannister,4,Average Price.,80 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,96,data,,Ditto in Cannister,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,97,data,,Sugar Candy,2,From whence imported.,China and ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,97,data,,Sugar Candy,3,Quality.,Tub and Cannister,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,97,data,,Sugar Candy,4,Average Price.,120 to160 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,97,data,,Sugar Candy,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,98,data,,Salt Petre,2,From whence imported.,Bengal,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,98,data,,Salt Petre,3,Quality.,Bag,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,98,data,,Salt Petre,4,Average Price.,60 to 70 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,98,data,,Salt Petre,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,99,data,,Silk,2,From whence imported.,Ditto and China,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,99,data,,Silk,3,Quality.,Bale and Chest,,chests,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,99,data,,Silk,4,Average Price.,4 to 600 rupees per pecul,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,99,data,,Silk,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,100,data,,Tobacco,2,From whence imported.,"Surat, Rajapore, and Coimbetore",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,100,data,,Tobacco,3,Quality.,Bale,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,100,data,,Tobacco,4,Average Price.,60 to 100 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,100,data,,Tobacco,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,101,data,,Sandal Wood,2,From whence imported.,Rajapore and Mangalore,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,101,data,,Sandal Wood,3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,101,data,,Sandal Wood,4,Average Price.,10 to 15 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,101,data,,Sandal Wood,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,102,data,,Tuthnague,2,From whence imported.,China and Batavia,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,102,data,,Tuthnague,3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,102,data,,Tuthnague,4,Average Price.,8 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,102,data,,Tuthnague,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,103,data,,Tortoise Shells,2,From whence imported.,Batavia,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,103,data,,Tortoise Shells,3,Quality.,Bale,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,103,data,,Tortoise Shells,4,Average Price.,5 rupees per pound,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,103,data,,Tortoise Shells,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,104,data,,Tin,2,From whence imported.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,104,data,,Tin,3,Quality.,—,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,104,data,,Tin,4,Average Price.,10 rupees per maund,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,104,data,,Tin,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,105,data,,Vermillion,2,From whence imported.,China and Surat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,105,data,,Vermillion,3,Quality.,{ Wooden Box and } { Bundle },,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,105,data,,Vermillion,4,Average Price.,1¼ rupee per bundle,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,105,data,,Vermillion,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,106,data,,Wheat,2,From whence imported.,"{ Bombay, Surat, Guzerat, and } { Muscat }",,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,106,data,,Wheat,3,Quality.,Bag,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,106,data,,Wheat,4,Average Price.,20 to 35 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,106,data,,Wheat,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,107,data,,Wallnuts,2,From whence imported.,Muscat,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,107,data,,Wallnuts,3,Quality.,Bag,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,107,data,,Wallnuts,4,Average Price.,2 to 3 rupees per 1000,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,107,data,,Wallnuts,5,Remarks.,,,,True,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,108,data,,Wet Dates,2,From whence imported.,Muscat and Mocha,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,108,data,,Wet Dates,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,108,data,,Wet Dates,4,Average Price.,20 rupees per candy,,Rs,False,False
+journey-from-madras-vol-iii,tbl-055,"3dly, ACCOUNT of GOODS IMPORTED.",534,485,108,data,,Wet Dates,5,Remarks.,,,,True,False

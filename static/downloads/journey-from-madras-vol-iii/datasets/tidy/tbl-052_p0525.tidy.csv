@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,1,data,,Krishna Ráyar,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,1,data,,Krishna Ráyar,3,Column 3,governed,,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,1,data,,Krishna Ráyar,4,Column 4,20 years.,,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,2,data,,Achuta Ráyar,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,2,data,,Achuta Ráyar,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,2,data,,Achuta Ráyar,4,Column 4,13,13.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,3,total,,Total,2,Column 2,33.,33.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,3,total,,Total,3,Column 3,,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,3,total,,Total,4,Column 4,,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,4,data,,Ráma Rájá,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,4,data,,Ráma Rájá,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,4,data,,Ráma Rájá,4,Column 4,22,22.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,5,data,,Tirumala Deva Maha Ráyar,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,5,data,,Tirumala Deva Maha Ráyar,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,5,data,,Tirumala Deva Maha Ráyar,4,Column 4,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,6,data,,Sri Ranga Deva M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,6,data,,Sri Ranga Deva M. R,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,6,data,,Sri Ranga Deva M. R,4,Column 4,14,14.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,7,data,,Peria Vencata Puti Maha Ráyar,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,7,data,,Peria Vencata Puti Maha Ráyar,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,7,data,,Peria Vencata Puti Maha Ráyar,4,Column 4,29,29.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,8,data,,Ráma Deva M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,8,data,,Ráma Deva M. R,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,8,data,,Ráma Deva M. R,4,Column 4,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,9,data,,Anagundi Vencata M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,9,data,,Anagundi Vencata M. R,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,9,data,,Anagundi Vencata M. R,4,Column 4,12,12.0,,False,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,10,data,,Sri Ranga M. R,2,Column 2,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,10,data,,Sri Ranga M. R,3,Column 3,-,,,True,False
+journey-from-madras-vol-iii,tbl-052,Table 52,525,477,10,data,,Sri Ranga M. R,4,Column 4,5,5.0,,False,False

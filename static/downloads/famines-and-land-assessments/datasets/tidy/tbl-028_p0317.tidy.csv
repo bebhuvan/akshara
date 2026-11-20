@@ -1,0 +1,41 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,2,£100 and under £250. :: No.,94,94.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,3,£100 and under £250. :: Amount. :: £,"14,724",14724.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,4,£250 and under £500. :: No.,51,51.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,5,£250 and under £500. :: Amount. :: £,"16,230",16230.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,6,"£500 and under £1,000. :: No.",31,31.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,7,"£500 and under £1,000. :: Amount. :: £","19,058",19058.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,8,"£1,000 and under £2,000. :: No.",4,4.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,9,"£1,000 and under £2,000. :: Amount. :: £","4,510",4510.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,10,TOTAL. :: No.,180,180.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,1,data,,European,11,TOTAL. :: Amount. :: £,"54,522",54522.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,2,£100 and under £250. :: No.,...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,3,£100 and under £250. :: Amount. :: £,...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,4,£250 and under £500. :: No.,...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,5,£250 and under £500. :: Amount. :: £,...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,6,"£500 and under £1,000. :: No.",...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,7,"£500 and under £1,000. :: Amount. :: £",...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,8,"£1,000 and under £2,000. :: No.",...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,9,"£1,000 and under £2,000. :: Amount. :: £",...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,10,TOTAL. :: No.,...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,2,data,,Eurasian,11,TOTAL. :: Amount. :: £,...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,2,£100 and under £250. :: No.,...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,3,£100 and under £250. :: Amount. :: £,...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,4,£250 and under £500. :: No.,...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,5,£250 and under £500. :: Amount. :: £,...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,6,"£500 and under £1,000. :: No.",...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,7,"£500 and under £1,000. :: Amount. :: £",...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,8,"£1,000 and under £2,000. :: No.",...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,9,"£1,000 and under £2,000. :: Amount. :: £",...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,10,TOTAL. :: No.,...,,count,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,3,data,,Native,11,TOTAL. :: Amount. :: £,...,,GBP,True,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,2,£100 and under £250. :: No.,94,94.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,3,£100 and under £250. :: Amount. :: £,"14,724",14724.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,4,£250 and under £500. :: No.,51,51.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,5,£250 and under £500. :: Amount. :: £,"16,230",16230.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,6,"£500 and under £1,000. :: No.",31,31.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,7,"£500 and under £1,000. :: Amount. :: £","19,058",19058.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,8,"£1,000 and under £2,000. :: No.",4,4.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,9,"£1,000 and under £2,000. :: Amount. :: £","4,510",4510.0,GBP,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,10,TOTAL. :: No.,180,180.0,count,False,True
+famines-and-land-assessments,tbl-028,(b) Not Resident in India.,317,293,4,total,,Total,11,TOTAL. :: Amount. :: £,"54,522",54522.0,GBP,False,True

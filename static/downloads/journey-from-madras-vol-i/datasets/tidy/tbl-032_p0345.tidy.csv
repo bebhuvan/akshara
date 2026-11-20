@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,1,data,,"By the Toti, or watchman, whatever sticks to the seals of mud, that he puts on to prevent embezzlement, which may be about",2,Column 2,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,2,data,,"By the Pujaries, or priests of the village gods",2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,3,data,,"By vagrants of all religions and kinds, who, under pretence of dedicating themselves to God, live by begging",2,Column 2,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,4,data,,"By the Gauda who rents the village, as his perquisite",2,Column 2,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,5,data,,"By the government, as its perquisite, called Sadi",2,Column 2,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,6,data,,"By the hereditary Gauda, or chief of the village, in order to defray the expense of the feast which is given to Ganésa, under the form of a stake of the Cassia Fistula",2,Column 2,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-032,Table 32,345,299,7,total,,Seers,2,Column 2,51,51.0,,False,False

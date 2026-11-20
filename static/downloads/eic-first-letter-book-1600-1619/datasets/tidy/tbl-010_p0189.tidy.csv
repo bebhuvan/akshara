@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,1,data,,20 stamette att 4,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,1,data,,20 stamette att 4,3,Column 3,80,80.0,,False,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,2,data,,10 Violette graine at 4,2,Column 2,...,,,True,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,2,data,,10 Violette graine at 4,3,Column 3,40,40.0,,False,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,3,data,,30 venice Redde 10 popingey greenes ... 10 flame Coullo ... 10 grasse greenes,2,Column 2,},,,False,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,3,data,,30 venice Redde 10 popingey greenes ... 10 flame Coullo ... 10 grasse greenes,3,Column 3,att 50—150,,,False,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,4,data,,10 gallaunte ... 10 yallowes ... 4 blacke ... 6 blewes,2,Column 2,},,,False,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,4,data,,10 gallaunte ... 10 yallowes ... 4 blacke ... 6 blewes,3,Column 3,att 50 — 75,,,False,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,5,data,,120 kersies,2,Column 2,,,,True,False
+eic-first-letter-book-1600-1619,tbl-010,Devonshire kersies,189,97,5,data,,120 kersies,3,Column 3,0345 00 00,,,False,False

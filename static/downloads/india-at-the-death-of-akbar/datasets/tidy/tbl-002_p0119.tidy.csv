@@ -1,0 +1,14 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,1,data,,Wheat,2,Comparative Value.,100,100.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,2,data,,Barley,2,Comparative Value.,67,67.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,3,data,,Gram (common),2,Comparative Value.,60,60.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,4,data,,Jowār,2,Comparative Value.,59,59.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,5,data,,Bājra,2,Comparative Value.,42,42.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,6,data,,Mandua,2,Comparative Value.,44,44.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,7,data,,Sāwan,2,Comparative Value.,22,22.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,8,data,,Linseed,2,Comparative Value.,51,51.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,9,data,,Rape,2,Comparative Value.,53,53.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,10,data,,Poppy,2,Comparative Value.,210,210.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,11,data,,Sugar-cane (ordinary),2,Comparative Value.,213,213.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,12,data,,Cotton,2,Comparative Value.,150,150.0,,False,False
+india-at-the-death-of-akbar,tbl-002,Table 2,119,103,13,data,,Indigo,2,Comparative Value.,254,254.0,,False,False

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="bgShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#172A3B" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#101E2B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="#101E2B"/>
+  <rect width="1200" height="1800" fill="url(#bgShade)"/>
+
+  <rect x="72" y="72" width="1056" height="1656" fill="none" stroke="#3B5269" stroke-width="2"/><rect x="86" y="86" width="1028" height="1628" fill="none" stroke="#3B5269" stroke-width="0.9"/><line x1="86" y1="220" x2="1114" y2="220" stroke="#D69B4E" stroke-width="2.2"/><line x1="86" y1="228" x2="1114" y2="228" stroke="#3B5269" stroke-width="1"/><line x1="110" y1="220" x2="110" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><line x1="760" y1="220" x2="760" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><line x1="930" y1="220" x2="930" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><line x1="1090" y1="220" x2="1090" y2="1540" stroke="#3B5269" stroke-width="1" stroke-opacity="0.45"/><rect x="110" y="1310" width="980" height="205" fill="#172A3B" stroke="#3B5269" stroke-width="1.2"/><rect x="110" y="1367" width="24" height="128" fill="#D69B4E" fill-opacity="0.85"/><rect x="146" y="1352" width="24" height="143" fill="#3B5269" fill-opacity="0.52"/><rect x="182" y="1397" width="24" height="98" fill="#3B5269" fill-opacity="0.52"/><rect x="218" y="1391" width="24" height="104" fill="#3B5269" fill-opacity="0.52"/><rect x="254" y="1326" width="24" height="169" fill="#3B5269" fill-opacity="0.52"/><rect x="290" y="1345" width="24" height="150" fill="#D69B4E" fill-opacity="0.85"/><rect x="326" y="1344" width="24" height="151" fill="#3B5269" fill-opacity="0.52"/><rect x="362" y="1447" width="24" height="48" fill="#3B5269" fill-opacity="0.52"/><rect x="398" y="1355" width="24" height="140" fill="#3B5269" fill-opacity="0.52"/><rect x="434" y="1340" width="24" height="155" fill="#3B5269" fill-opacity="0.52"/><rect x="470" y="1391" width="24" height="104" fill="#D69B4E" fill-opacity="0.85"/><rect x="506" y="1462" width="24" height="33" fill="#3B5269" fill-opacity="0.52"/><rect x="542" y="1457" width="24" height="38" fill="#3B5269" fill-opacity="0.52"/><rect x="578" y="1365" width="24" height="130" fill="#3B5269" fill-opacity="0.52"/><rect x="614" y="1440" width="24" height="55" fill="#3B5269" fill-opacity="0.52"/><rect x="650" y="1393" width="24" height="102" fill="#D69B4E" fill-opacity="0.85"/><rect x="686" y="1462" width="24" height="33" fill="#3B5269" fill-opacity="0.52"/><rect x="722" y="1327" width="24" height="168" fill="#3B5269" fill-opacity="0.52"/><rect x="758" y="1463" width="24" height="32" fill="#3B5269" fill-opacity="0.52"/><rect x="794" y="1430" width="24" height="65" fill="#3B5269" fill-opacity="0.52"/><rect x="830" y="1418" width="24" height="77" fill="#D69B4E" fill-opacity="0.85"/><rect x="866" y="1391" width="24" height="104" fill="#3B5269" fill-opacity="0.52"/><rect x="902" y="1367" width="24" height="128" fill="#3B5269" fill-opacity="0.52"/><rect x="938" y="1386" width="24" height="109" fill="#3B5269" fill-opacity="0.52"/><rect x="974" y="1403" width="24" height="92" fill="#3B5269" fill-opacity="0.52"/><rect x="1010" y="1364" width="24" height="131" fill="#D69B4E" fill-opacity="0.85"/><line x1="86" y1="1540" x2="1114" y2="1540" stroke="#3B5269" stroke-width="1.5"/>
+
+  <text x="112" y="168" fill="#D69B4E" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
+    POLITICAL ECONOMY &amp; AGRARIAN ARCHIVE
+  </text>
+  <text x="1088" y="168" text-anchor="end" fill="#BAC8D6" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
+    1868
+  </text>
+
+  <text x="112" y="355" fill="#F5F2EB" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="66" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">Report on Past Famines</tspan><tspan x="112" dy="76">in the Bombay</tspan><tspan x="112" dy="76">Presidency</tspan>
+  </text>
+
+  
+
+  <line x1="112" y1="587" x2="290" y2="587" stroke="#D69B4E" stroke-width="4"/>
+
+  <text x="112" y="651" fill="#F5F2EB" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+    <tspan x="112" dy="0">A. T. Etheridge</tspan>
+  </text>
+  <text x="112" y="705" fill="#BAC8D6" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1868
+  </text>
+
+  <text x="112" y="1605" fill="#F5F2EB" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
+    AKSHARA
+  </text>
+  <text x="112" y="1652" fill="#BAC8D6" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    COMMUNITY EDITION  ·  AKSHARA.INK
+  </text>
+  <text x="1088" y="1628" text-anchor="end" fill="#D69B4E" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
+    ಅಕ್ಷರ
+  </text>
+</svg>

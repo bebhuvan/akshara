@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,1,data,,Rice Mola cultivation,2,Seed per Acre. :: Bushels.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,1,data,,Rice Mola cultivation,3,Seed per Acre. :: Gallons. Decimals.,4.57,4.57,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,1,data,,Rice Mola cultivation,4,Produce per Acre. :: Bushels.,31,31.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,1,data,,Rice Mola cultivation,5,Produce per Acre. :: Gallons. Decimals.,3.40,3.4,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,1,data,,Rice Mola cultivation,6,Increase on one seed.,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,2,data,,Udu,2,Seed per Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,2,data,,Udu,3,Seed per Acre. :: Gallons. Decimals.,4.0,4.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,2,data,,Udu,4,Produce per Acre. :: Bushels.,7,7.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,2,data,,Udu,5,Produce per Acre. :: Gallons. Decimals.,6.86,6.86,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,2,data,,Udu,6,Increase on one seed.,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,3,data,,Hessaru,2,Seed per Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,3,data,,Hessaru,3,Seed per Acre. :: Gallons. Decimals.,4.0,4.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,3,data,,Hessaru,4,Produce per Acre. :: Bushels.,7,7.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,3,data,,Hessaru,5,Produce per Acre. :: Gallons. Decimals.,6.86,6.86,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,3,data,,Hessaru,6,Increase on one seed.,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,4,data,,Wull' Ellu,2,Seed per Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,4,data,,Wull' Ellu,3,Seed per Acre. :: Gallons. Decimals.,0.898,0.898,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,4,data,,Wull' Ellu,4,Produce per Acre. :: Bushels.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,4,data,,Wull' Ellu,5,Produce per Acre. :: Gallons. Decimals.,7.43,7.43,acres,False,False
+journey-from-madras-vol-i,tbl-004,Table 4,129,99,4,data,,Wull' Ellu,6,Increase on one seed.,35,35.0,,False,False

@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,1,data,,One acre sows of Shamay,2,Pecks.,"2,221368",2221368.0,,False,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,1,data,,One acre sows of Shamay,3,Column 3,and produces,,,False,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,1,data,,One acre sows of Shamay,4,Bushels.,"22,213684",22213684.0,,False,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,2,data,,Tovary,2,Pecks.,"0,699133",699133.0,,False,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,2,data,,Tovary,3,Column 3,- -,,,True,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,2,data,,Tovary,4,Bushels.,"5,552736",5552736.0,,False,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,3,total,,Total,2,Pecks.,"2,920501",2920501.0,,False,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,3,total,,Total,3,Column 3,- - -,,,True,False
+journey-from-madras-vol-i,tbl-038,Table 38,425,377,3,total,,Total,4,Bushels.,"27,76,642",2776642.0,,False,False

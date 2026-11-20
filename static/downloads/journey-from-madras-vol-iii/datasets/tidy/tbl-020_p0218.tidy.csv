@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,1,data,,Kunda-pura,2,Ploughs belonging to :: Landlords.,3180,3180.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,1,data,,Kunda-pura,3,Ploughs belonging to :: Tenants.,4343,4343.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,1,data,,Kunda-pura,4,Ploughs belonging to :: Total.,7523,7523.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,1,data,,Kunda-pura,5,Cattle. :: Buffaloes old and young.,5894,5894.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,1,data,,Kunda-pura,6,Cattle. :: Cow kind old and young.,23462,23462.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,2,data,,Honawera,2,Ploughs belonging to :: Landlords.,4883,4883.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,2,data,,Honawera,3,Ploughs belonging to :: Tenants.,1221,1221.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,2,data,,Honawera,4,Ploughs belonging to :: Total.,6104,6104.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,2,data,,Honawera,5,Cattle. :: Buffaloes old and young.,8472,8472.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,2,data,,Honawera,6,Cattle. :: Cow kind old and young.,22148,22148.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,3,data,,Ancola,2,Ploughs belonging to :: Landlords.,2331,2331.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,3,data,,Ancola,3,Ploughs belonging to :: Tenants.,673,673.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,3,data,,Ancola,4,Ploughs belonging to :: Total.,3004,3004.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,3,data,,Ancola,5,Cattle. :: Buffaloes old and young.,2858,2858.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,3,data,,Ancola,6,Cattle. :: Cow kind old and young.,11055,11055.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,4,total,,Total,2,Ploughs belonging to :: Landlords.,10396,10396.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,4,total,,Total,3,Ploughs belonging to :: Tenants.,6237,6237.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,4,total,,Total,4,Ploughs belonging to :: Total.,16633,16633.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,4,total,,Total,5,Cattle. :: Buffaloes old and young.,17224,17224.0,,False,False
+journey-from-madras-vol-iii,tbl-020,Table 20,218,194,4,total,,Total,6,Cattle. :: Cow kind old and young.,55665,55665.0,,False,False

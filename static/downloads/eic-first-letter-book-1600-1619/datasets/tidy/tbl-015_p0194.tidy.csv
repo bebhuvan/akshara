@@ -1,0 +1,181 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,1,data,,Breade,2,DRAGON,ffor 21 mo: att 24 a man per mo: 30 daies to amo: is,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,1,data,,Breade,3,HECTOR,675 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,1,data,,Breade,4,CONSENT,450 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,1,data,,Breade,5,TOTALL,135 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,1,data,,Breade,6,Column 6,1260,1260.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,2,data,,Meale,2,DRAGON,ffor 3 mo: 24 per mo: for a man,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,2,data,,Meale,3,HECTOR,096½ weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,2,data,,Meale,4,CONSENT,064 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,2,data,,Meale,5,TOTALL,019 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,2,data,,Meale,6,Column 6,179½,179.5,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,3,data,,Shipbeare,2,DRAGON,ffor 3 mo: at a pottle aman per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,3,data,,Shipbeare,3,HECTOR,028¾ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,3,data,,Shipbeare,4,CONSENT,018¾ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,3,data,,Shipbeare,5,TOTALL,005¾ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,3,data,,Shipbeare,6,Column 6,} 060¼ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,4,data,,Row 4,2,DRAGON,ffor leakedg & lees,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,4,data,,Row 4,3,HECTOR,004½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,4,data,,Row 4,4,CONSENT,003 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,4,data,,Row 4,5,TOTALL,001 Tunn,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,4,data,,Row 4,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,5,data,,Beare stronge,2,DRAGON,ffor one monneth,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,5,data,,Beare stronge,3,HECTOR,009½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,5,data,,Beare stronge,4,CONSENT,006¼ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,5,data,,Beare stronge,5,TOTALL,002 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,5,data,,Beare stronge,6,Column 6,} 020½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,6,data,,Row 6,2,DRAGON,ffor leakinge & lees,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,6,data,,Row 6,3,HECTOR,001½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,6,data,,Row 6,4,CONSENT,001 Tunn,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,6,data,,Row 6,5,TOTALL,000¼ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,6,data,,Row 6,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,7,data,,Sider,2,DRAGON,ffor 12 mo: att a quarte a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,7,data,,Sider,3,HECTOR,040 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,7,data,,Sider,4,CONSENT,036 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,7,data,,Sider,5,TOTALL,010½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,7,data,,Sider,6,Column 6,} 110½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,8,data,,Row 8,2,DRAGON,ffor leakedg after tenn in the 100,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,8,data,,Row 8,3,HECTOR,005½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,8,data,,Row 8,4,CONSENT,003½ Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,8,data,,Row 8,5,TOTALL,001 Tunn,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,8,data,,Row 8,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,9,data,,Wyne,2,DRAGON,ffor 8 mo: 1 pinte a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,9,data,,Wyne,3,HECTOR,041 Pipes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,9,data,,Wyne,4,CONSENT,028 Pipes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,9,data,,Wyne,5,TOTALL,008 pipes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,9,data,,Wyne,6,Column 6,083½ pipes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,10,data,,beafe drisalted,2,DRAGON,ffor 2 mo: at 1 Di a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,10,data,,beafe drisalted,3,HECTOR,120½ weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,10,data,,beafe drisalted,4,CONSENT,080 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,10,data,,beafe drisalted,5,TOTALL,024 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,10,data,,beafe drisalted,6,Column 6,224 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,11,data,,beafe pickled,2,DRAGON,ffor 4 monneth 1 ½ a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,11,data,,beafe pickled,3,HECTOR,241 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,11,data,,beafe pickled,4,CONSENT,160 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,11,data,,beafe pickled,5,TOTALL,028 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,11,data,,beafe pickled,6,Column 6,429,429.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,12,data,,porck pickled,2,DRAGON,ffor 10 monneths att 4 for 5 men per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,12,data,,porck pickled,3,HECTOR,322 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,12,data,,porck pickled,4,CONSENT,214 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,12,data,,porck pickled,5,TOTALL,064 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,12,data,,porck pickled,6,Column 6,600,600.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,13,data,,pease:,2,DRAGON,ffor 9 mo: att halfe a pinte,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,13,data,,pease:,3,HECTOR,210 bushells pease,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,13,data,,pease:,4,CONSENT,140 bushells pease,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,13,data,,pease:,5,TOTALL,042 bus: peas,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,13,data,,pease:,6,Column 6,392 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,14,data,,beanes:,2,DRAGON,a man per diem ⅔ peas & ⅓ beanes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,14,data,,beanes:,3,HECTOR,105 bu: beanes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,14,data,,beanes:,4,CONSENT,070 bu: beanes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,14,data,,beanes:,5,TOTALL,021 bu: beanes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,14,data,,beanes:,6,Column 6,196 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,15,data,,Backalew,2,DRAGON,ffor 3 mo: att a fish a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,15,data,,Backalew,3,HECTOR,112 at 120 the c,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,15,data,,Backalew,4,CONSENT,074 ffish,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,15,data,,Backalew,5,TOTALL,022 ffish,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,15,data,,Backalew,6,Column 6,208,208.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,16,data,,Stockfish,2,DRAGON,ffor 1 mo: att ½ a fish aman per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,16,data,,Stockfish,3,HECTOR,019. 120 y c,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,16,data,,Stockfish,4,CONSENT,012½,12.5,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,16,data,,Stockfish,5,TOTALL,004 ffish,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,16,data,,Stockfish,6,Column 6,035,35.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,17,data,,Lynge,2,DRAGON,ffor a monneth at 4 mease to a fish 5 men to a mess,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,17,data,,Lynge,3,HECTOR,003¾ fish,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,17,data,,Lynge,4,CONSENT,002½,2.5,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,17,data,,Lynge,5,TOTALL,000¾ of a c,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,17,data,,Lynge,6,Column 6,007,7.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,18,data,,Oatmeale,2,DRAGON,ffor 4 mo: att ½ pinte a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,18,data,,Oatmeale,3,HECTOR,141 bu:,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,18,data,,Oatmeale,4,CONSENT,094 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,18,data,,Oatmeale,5,TOTALL,028 bu:,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,18,data,,Oatmeale,6,Column 6,263 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,19,data,,Steal wheate,2,DRAGON,ffor 4 monnethes att ½ a pinte a man per diem,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,19,data,,Steal wheate,3,HECTOR,141 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,19,data,,Steal wheate,4,CONSENT,094 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,19,data,,Steal wheate,5,TOTALL,028 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,19,data,,Steal wheate,6,Column 6,263 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,20,subheader,,Row 20,2,DRAGON,Victualling extraordinarie,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,20,subheader,,Row 20,3,HECTOR,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,20,subheader,,Row 20,4,CONSENT,Victualling extraordinarie,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,20,subheader,,Row 20,5,TOTALL,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,20,subheader,,Row 20,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,21,data,,Cheese,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,21,data,,Cheese,3,HECTOR,005 weyes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,21,data,,Cheese,4,CONSENT,003 weyes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,21,data,,Cheese,5,TOTALL,001 wey,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,21,data,,Cheese,6,Column 6,009 weyes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,22,data,,Butter,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,22,data,,Butter,3,HECTOR,021 ffirkins,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,22,data,,Butter,4,CONSENT,014 ffirkins,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,22,data,,Butter,5,TOTALL,004 ffirkins,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,22,data,,Butter,6,Column 6,039 ffirkins,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,23,data,,sweete Oyle,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,23,data,,sweete Oyle,3,HECTOR,600 gallons,600.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,23,data,,sweete Oyle,4,CONSENT,400 Gallons,400.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,23,data,,sweete Oyle,5,TOTALL,120 Gallons,120.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,23,data,,sweete Oyle,6,Column 6,1120 gallons,1120.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,24,data,,vinagre,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,24,data,,vinagre,3,HECTOR,006 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,24,data,,vinagre,4,CONSENT,004 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,24,data,,vinagre,5,TOTALL,001 Tunn,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,24,data,,vinagre,6,Column 6,011 Tunn,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,25,data,,Aquavite,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,25,data,,Aquavite,3,HECTOR,150 gallons,150.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,25,data,,Aquavite,4,CONSENT,100 gallons,100.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,25,data,,Aquavite,5,TOTALL,030 gallons,30.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,25,data,,Aquavite,6,Column 6,280 gallons,280.0,gallons,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,26,data,,Honny,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,26,data,,Honny,3,HECTOR,003 barrells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,26,data,,Honny,4,CONSENT,002 barrells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,26,data,,Honny,5,TOTALL,000½ barrells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,26,data,,Honny,6,Column 6,005½ barrells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,27,data,,Musterdseed,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,27,data,,Musterdseed,3,HECTOR,006 bushell,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,27,data,,Musterdseed,4,CONSENT,004 bushells,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,27,data,,Musterdseed,5,TOTALL,001 bush:,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,27,data,,Musterdseed,6,Column 6,011 bushells.,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,28,data,,Rice,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,28,data,,Rice,3,HECTOR,002,2.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,28,data,,Rice,4,CONSENT,001 weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,28,data,,Rice,5,TOTALL,000½ weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,28,data,,Rice,6,Column 6,003½ weight,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,29,data,,Salt,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,29,data,,Salt,3,HECTOR,006 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,29,data,,Salt,4,CONSENT,004 hh 3 bay & 1 white,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,29,data,,Salt,5,TOTALL,002 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,29,data,,Salt,6,Column 6,012 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,30,data,,Rape Oyle for lampes,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,30,data,,Rape Oyle for lampes,3,HECTOR,003 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,30,data,,Rape Oyle for lampes,4,CONSENT,002½ hh,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,30,data,,Rape Oyle for lampes,5,TOTALL,002 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,30,data,,Rape Oyle for lampes,6,Column 6,007½ h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,31,data,,wax Candles,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,31,data,,wax Candles,3,HECTOR,100 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,31,data,,wax Candles,4,CONSENT,100 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,31,data,,wax Candles,5,TOTALL,080 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,31,data,,wax Candles,6,Column 6,280 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,32,data,,Tallow Candles,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,32,data,,Tallow Candles,3,HECTOR,150 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,32,data,,Tallow Candles,4,CONSENT,150 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,32,data,,Tallow Candles,5,TOTALL,100 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,32,data,,Tallow Candles,6,Column 6,400 pounde,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,33,data,,Water Caske,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,33,data,,Water Caske,3,HECTOR,040 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,33,data,,Water Caske,4,CONSENT,030 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,33,data,,Water Caske,5,TOTALL,008 Tunns,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,33,data,,Water Caske,6,Column 6,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,34,data,,Barricos,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,34,data,,Barricos,3,HECTOR,040,40.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,34,data,,Barricos,4,CONSENT,030,30.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,34,data,,Barricos,5,TOTALL,008,8.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,34,data,,Barricos,6,Column 6,078,78.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,35,data,,Wyne for the mrchauntes att Bantam,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,35,data,,Wyne for the mrchauntes att Bantam,3,HECTOR,004 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,35,data,,Wyne for the mrchauntes att Bantam,4,CONSENT,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,35,data,,Wyne for the mrchauntes att Bantam,5,TOTALL,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,35,data,,Wyne for the mrchauntes att Bantam,6,Column 6,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,36,data,,Wyne extraordinarie for the Captaines table,2,DRAGON,,,,True,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,36,data,,Wyne extraordinarie for the Captaines table,3,HECTOR,003 h heedes,,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,36,data,,Wyne extraordinarie for the Captaines table,4,CONSENT,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,36,data,,Wyne extraordinarie for the Captaines table,5,TOTALL,0,0.0,,False,False
+eic-first-letter-book-1600-1619,tbl-015,Table 15,194,102,36,data,,Wyne extraordinarie for the Captaines table,6,Column 6,0,0.0,,False,False

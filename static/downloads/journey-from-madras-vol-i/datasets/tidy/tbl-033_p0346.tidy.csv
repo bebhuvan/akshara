@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-033,Table 33,346,300,1,data,,"By the Panchánga, or astrologer",2,Seers.,1,1.0,seers,False,True
+journey-from-madras-vol-i,tbl-033,Table 33,346,300,2,data,,"By the Cumbharu, or potmaker",2,Seers.,1,1.0,seers,False,True
+journey-from-madras-vol-i,tbl-033,Table 33,346,300,3,data,,"By the Assaga, or washerman,",2,Seers.,1,1.0,seers,False,True
+journey-from-madras-vol-i,tbl-033,Table 33,346,300,4,data,,"By the Vasara-dava, or blacksmith and carpenter,",2,Seers.,1,1.0,seers,False,True
+journey-from-madras-vol-i,tbl-033,Table 33,346,300,5,data,,"By the measurer the sweepings, about",2,Seers.,8,8.0,seers,False,True
+journey-from-madras-vol-i,tbl-033,Table 33,346,300,6,total,,Seers,2,Seers.,12,12.0,seers,False,True

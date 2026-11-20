@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-142,"Ten Years (1883-1892). (Return [C. 7,193,] 1893.)",354,334,2,data,"Rx. 944,279,318",",, 188,855,863",2,Column 2,"Add, as in other countries, say 20 per cent. excess of imports or profits (U.K. is 32 per cent.).",,%,False,True
+poverty-and-un-british-rule,tbl-142,"Ten Years (1883-1892). (Return [C. 7,193,] 1893.)",354,334,3,subtotal,,"Rx. 1,133,135,181",2,Column 2,or the amount which the imports should be. But,,,False,True
+poverty-and-un-british-rule,tbl-142,"Ten Years (1883-1892). (Return [C. 7,193,] 1893.)",354,334,4,data,"Rx. 944,279,318",",, 774,099,570",2,Column 2,only are the actual imports.,,,False,True
+poverty-and-un-british-rule,tbl-142,"Ten Years (1883-1892). (Return [C. 7,193,] 1893.)",354,334,5,total,,"Rx. 359,035,611",2,Column 2,is the loss of India for which it has not received back a single farthing either in Merchandise or treasure.,,,False,True

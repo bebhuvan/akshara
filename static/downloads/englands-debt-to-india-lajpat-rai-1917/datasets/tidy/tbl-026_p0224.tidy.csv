@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,1,data,,Rice,2,1913–14 :: Area in Acres,"70,583,000",70583000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,1,data,,Rice,3,1913–14 :: Estimated Yield,"563,332,000 cwts.",563332000.0,cwt,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,1,data,,Rice,4,1914–15 :: Area,"76,181,000",76181000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,1,data,,Rice,5,1914–15 :: Estimated Yield,"27,964,000 cwts.",27964000.0,cwt,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,2,data,,Wheat,2,1913–14 :: Area in Acres,"27,697,000",27697000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,2,data,,Wheat,3,1913–14 :: Estimated Yield,"8,427,000 tons",8427000.0,tons,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,2,data,,Wheat,4,1914–15 :: Area,"32,230,000",32230000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,2,data,,Wheat,5,1914–15 :: Estimated Yield,"10,269,000 tons",10269000.0,tons,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,3,data,,Sugar,2,1913–14 :: Area in Acres,"2,519,800",2519800.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,3,data,,Sugar,3,1913–14 :: Estimated Yield,"2,262,000 tons",2262000.0,tons,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,3,data,,Sugar,4,1914–15 :: Area,"2,315,000",2315000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,3,data,,Sugar,5,1914–15 :: Estimated Yield,"2,367,000 tons",2367000.0,tons,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,4,data,,Tea,2,1913–14 :: Area in Acres,"610,000",610000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,4,data,,Tea,3,1913–14 :: Estimated Yield,"307,250,000 lbs",307250000.0,lbs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,4,data,,Tea,4,1914–15 :: Area,"622,600",622600.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,4,data,,Tea,5,1914–15 :: Estimated Yield,"312,976,000 lbs",312976000.0,lbs,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,5,data,,Jute (1914),2,1913–14 :: Area in Acres,"3,359,000",3359000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,5,data,,Jute (1914),3,1913–14 :: Estimated Yield,"10,444,000 bales",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,5,data,,Jute (1914),4,1914–15 :: Area,"2,377,000",2377000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,5,data,,Jute (1914),5,1914–15 :: Estimated Yield,"7,429,000 bales",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,6,data,,Cotton,2,1913–14 :: Area in Acres,"24,595,000",24595000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,6,data,,Cotton,3,1913–14 :: Estimated Yield,"5,201,000 bales",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,6,data,,Cotton,4,1914–15 :: Area,"24,632,000",24632000.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,6,data,,Cotton,5,1914–15 :: Estimated Yield,"5,232,000 bales",,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,7,data,,Oilseeds,2,1913–14 :: Area in Acres,"15,720,000",15720000.0,acres,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,7,data,,Oilseeds,3,1913–14 :: Estimated Yield,"2,565,000 tons",2565000.0,tons,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,7,data,,Oilseeds,4,1914–15 :: Area,Not Given,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-026,Table 26,224,184,7,data,,Oilseeds,5,1914–15 :: Estimated Yield,,,,True,False

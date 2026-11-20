@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+east-india-trade-17th-century-khan,tbl-011,Table 11,282,270,1,data,,Silver,2,£,"3,392,158",3392158.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-011,Table 11,282,270,2,data,,Gold,2,£,"128,229",128229.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-011,Table 11,282,270,3,total,,Row 3,2,£,"3,520,387",3520387.0,GBP,False,True

@@ -5,37 +5,31 @@ full_name: "Maurice Bloomfield"
 birth_year: 1855
 death_year: 1928
 birth_place: "Bielitz, Austria (now Bielsko-Biała, Poland)"
-languages: ["English", "German", "Sanskrit", "Pali", "Avestan"]
-
-# Bio
+languages:
+  - "English"
+  - "German"
+  - "Sanskrit"
+  - "Pali"
+  - "Avestan"
 short_bio: "American Sanskrit scholar and professor at Johns Hopkins University, renowned for his Vedic Concordance and authoritative works on Vedic religion and the Atharva-Veda."
-
-# Works
-works_count: 100
+works_count: 1
 first_publication: 1878
-
-# Timeline
 timeline:
   - year: 1855
     title: "Birth in Austria"
     description: "Born in Bielitz, Austria, in a Jewish family that later emigrated to America"
-
   - year: 1877
     title: "PhD from Johns Hopkins"
     description: "Earned one of the first PhDs from Johns Hopkins University"
-
   - year: 1881
     title: "Professor of Sanskrit"
     description: "Appointed Professor of Sanskrit and Comparative Philology at Johns Hopkins"
-
   - year: 1897
     title: "Vedic Concordance"
     description: "Published his monumental Vedic Concordance, an indispensable reference work"
-
   - year: 1908
     title: "The Religion of the Veda"
     description: "Published lectures tracing Vedic religion from Rig-Veda to Upanishads"
-
   - year: 1928
     title: "Passing"
     description: "Died in San Francisco, leaving a rich scholarly legacy"

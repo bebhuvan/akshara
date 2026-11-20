@@ -1,0 +1,35 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,1,data,,Thana,2,Revenue Prior to Settlement.,"£ 166,287",166287.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,1,data,,Thana,3,Revenue Under the Settlement.,"£ 211,037",211037.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,2,data,,Khandesh,2,Revenue Prior to Settlement.,"215,946",215946.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,2,data,,Khandesh,3,Revenue Under the Settlement.,"307,869",307869.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,3,data,,Ratnagiri,2,Revenue Prior to Settlement.,"46,440",46440.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,3,data,,Ratnagiri,3,Revenue Under the Settlement.,"46,572",46572.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,4,data,,Ahmadabad,2,Revenue Prior to Settlement.,"53,752",53752.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,4,data,,Ahmadabad,3,Revenue Under the Settlement.,"90,474",90474.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,5,data,,Kaira,2,Revenue Prior to Settlement.,"144,886",144886.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,5,data,,Kaira,3,Revenue Under the Settlement.,"188,752",188752.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,6,data,,Surat,2,Revenue Prior to Settlement.,"174,081",174081.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,6,data,,Surat,3,Revenue Under the Settlement.,"240,134",240134.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,7,data,,Broach,2,Revenue Prior to Settlement.,"88,984",88984.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,7,data,,Broach,3,Revenue Under the Settlement.,"112,564",112564.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,8,data,,Panch Mahals,2,Revenue Prior to Settlement.,"4,825",4825.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,8,data,,Panch Mahals,3,Revenue Under the Settlement.,"8,155",8155.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,9,data,,Karachi,2,Revenue Prior to Settlement.,"19,404",19404.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,9,data,,Karachi,3,Revenue Under the Settlement.,"31,676",31676.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,10,data,,Hyderabad,2,Revenue Prior to Settlement.,"63,330",63330.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,10,data,,Hyderabad,3,Revenue Under the Settlement.,"77,353",77353.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,11,data,,Shikarpur,2,Revenue Prior to Settlement.,"123,931",123931.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,11,data,,Shikarpur,3,Revenue Under the Settlement.,"159,263",159263.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,12,data,,Dharwar,2,Revenue Prior to Settlement.,"113,039",113039.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,12,data,,Dharwar,3,Revenue Under the Settlement.,"156,562",156562.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,13,data,,Belgaum,2,Revenue Prior to Settlement.,"130,744",130744.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,13,data,,Belgaum,3,Revenue Under the Settlement.,"157,026",157026.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,14,data,,Kishnagiri,2,Revenue Prior to Settlement.,"30,555",30555.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,14,data,,Kishnagiri,3,Revenue Under the Settlement.,"58,283",58283.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,15,data,,Satara,2,Revenue Prior to Settlement.,"143,656",143656.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,15,data,,Satara,3,Revenue Under the Settlement.,"158,543",158543.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,16,data,,Kanara,2,Revenue Prior to Settlement.,"14,850",14850.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,16,data,,Kanara,3,Revenue Under the Settlement.,"27,788",27788.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,17,total,,Total,2,Revenue Prior to Settlement.,"£1,534,710",1534710.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-006,Table 6,94,66,17,total,,Total,3,Revenue Under the Settlement.,"£2,032,051",2032051.0,GBP,False,True

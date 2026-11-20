@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,1,data,,1855,2,d.,8¼,8.25,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,1,data,,1855,3,Years.,1859,1859.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,1,data,,1855,4,d.,7¾,7.75,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,2,data,,1856,2,d.,9,9.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,2,data,,1856,3,Years.,1860,1860.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,2,data,,1856,4,d.,8¼,8.25,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,3,data,,1857,2,d.,8¾,8.75,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,3,data,,1857,3,Years.,1861,1861.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,3,data,,1857,4,d.,7¾,7.75,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,4,data,,1858,2,d.,6¾,6.75,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,4,data,,1858,3,Years.,1862,1862.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,4,data,,1858,4,d.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,5,data,,1863,2,d.,11⅝,11.625,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,5,data,,1863,3,Years.,1867,1867.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,5,data,,1863,4,d.,7⅞,7.875,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,6,data,,1864,2,d.,11½,11.5,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,6,data,,1864,3,Years.,1868,1868.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,6,data,,1864,4,d.,7⅝,7.625,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,7,data,,1865,2,d.,11⅜,11.375,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,7,data,,1865,3,Years.,1869,1869.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,7,data,,1865,4,d.,7½,7.5,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,8,data,,1866,2,d.,9 15/16,9.9375,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,8,data,,1866,3,Years.,1870,1870.0,,False,False
+poverty-and-un-british-rule,tbl-049,Table 49,88,68,8,data,,1866,4,d.,7 7/16,7.4375,,False,False

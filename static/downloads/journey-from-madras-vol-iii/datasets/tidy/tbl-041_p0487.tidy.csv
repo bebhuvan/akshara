@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,1,data,,Gydda Byra,2,Quality.,Thick grain,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,1,data,,Gydda Byra,3,Months required for this crop.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,1,data,,Gydda Byra,4,Crop in which it is cultivated.,Hainu and Caru.,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,2,data,,Doda Byra,2,Quality.,Large grain,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,2,data,,Doda Byra,3,Months required for this crop.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,2,data,,Doda Byra,4,Crop in which it is cultivated.,Hainu,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,3,data,,Doda Caimbutty,2,Quality.,ditto.,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,3,data,,Doda Caimbutty,3,Months required for this crop.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,3,data,,Doda Caimbutty,4,Crop in which it is cultivated.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,4,data,,Sana ditto,2,Quality.,Small grain,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,4,data,,Sana ditto,3,Months required for this crop.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,4,data,,Sana ditto,4,Crop in which it is cultivated.,ditto,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,5,data,,Indigay,2,Quality.,Large grain,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,5,data,,Indigay,3,Months required for this crop.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,5,data,,Indigay,4,Crop in which it is cultivated.,Hainu and Caru,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,6,data,,Potapalu,2,Quality.,ditto.,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,6,data,,Potapalu,3,Months required for this crop.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,6,data,,Potapalu,4,Crop in which it is cultivated.,ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,7,data,,Cari Nellu,2,Quality.,ditto.,,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,7,data,,Cari Nellu,3,Months required for this crop.,4,4.0,,False,False
+journey-from-madras-vol-iii,tbl-041,Table 41,487,445,7,data,,Cari Nellu,4,Crop in which it is cultivated.,ditto ditto,,,False,False

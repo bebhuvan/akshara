@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,1,data,,Land Revenue,2,1856–57.,"£ 20,046,748",20046748.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,1,data,,Land Revenue,3,1870–71.,"£ 24,170,151",24170151.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,2,data,,Assessed Taxes,2,1856–57.,"108,833",108833.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,2,data,,Assessed Taxes,3,1870–71.,"2,072,025",2072025.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,3,data,,Customs,2,1856–57.,"1,191,985",1191985.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,3,data,,Customs,3,1870–71.,"2,610,789",2610789.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,4,data,,Salt,2,1856–57.,"3,610,223",3610223.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,4,data,,Salt,3,1870–71.,"6,106,280",6106280.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,5,data,,Opium,2,1856–57.,"4,988,434",4988434.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,5,data,,Opium,3,1870–71.,"8,045,459",8045459.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,6,data,,Other Heads of Revenue,2,1856–57.,"1,974,687",1974687.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,6,data,,Other Heads of Revenue,3,1870–71.,"6,371,521",6371521.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,7,total,,Total,2,1856–57.,"£31,920,910",31920910.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-041,Table 41,412,384,7,total,,Total,3,1870–71.,"£49,376,225",49376225.0,GBP,False,True

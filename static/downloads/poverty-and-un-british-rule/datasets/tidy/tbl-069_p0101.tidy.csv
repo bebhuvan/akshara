@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,2,January.,25 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,3,June.,26 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,4,Column 4,Sealkote,,,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,5,January.,16 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,1,data,,Delhi,6,June.,19 seers.,,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,2,January.,20½ „,20.5,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,3,June.,24 „,24.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,4,Column 4,Multan,,,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,5,January.,13¾ „,13.75,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,2,data,,Umballa,6,June.,17 „,17.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,2,January.,17 „,17.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,3,June.,18 „,18.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,4,Column 4,Peshawur,,,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,5,January.,15 „,15.0,seers,False,False
+poverty-and-un-british-rule,tbl-069,Table 69,101,81,3,data,,Lahore,6,June.,20½ „,20.5,seers,False,False

@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,1,data,,“ Wheat,2,Column 2,Rs. 68 per Kulsee of 16 maunds.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,1,data,,“ Wheat,3,Column 3,,,,True,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,2,data,,“ Joowar,2,Column 2,Rs. 27 per do.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,2,data,,“ Joowar,3,Column 3,do.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,3,data,,“ Bajree,2,Column 2,Rs. 27 per do.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,3,data,,“ Bajree,3,Column 3,do.,,,False,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,4,data,,“ Ghee,2,Column 2,Rs. 22 per one maund.,,Rs,False,False
+report-past-famines-bombay-etheridge-1868,tbl-017,Table 17,67,55,4,data,,“ Ghee,3,Column 3,,,,True,False

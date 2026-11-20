@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,1,data,,"To able bodied men,",2,Column 2,6 Nallis heaped,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,1,data,,"To able bodied men,",3,Column 3,=,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,1,data,,"To able bodied men,",4,Cubical inches.,"148 1⁄2,",,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,1,data,,"To able bodied men,",5,Column 5,which is yearly,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,1,data,,"To able bodied men,",6,Bushels.,25 1⁄5,25.2,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,2,data,,To able bodied women,2,Column 2,6 Nallis streaked,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,2,data,,To able bodied women,3,Column 3,=,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,2,data,,To able bodied women,4,Cubical inches.,"103 1⁄2,",,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,2,data,,To able bodied women,5,Column 5,ditto,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,2,data,,To able bodied women,6,Bushels.,17 1⁄2,17.5,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,3,data,,"To old persons and children,",2,Column 2,3 Nallis heaped,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,3,data,,"To old persons and children,",3,Column 3,=,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,3,data,,"To old persons and children,",4,Cubical inches.,"74 1⁄4,",,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,3,data,,"To old persons and children,",5,Column 5,ditto,,,False,False
+journey-from-madras-vol-ii,tbl-051,Table 51,519,491,3,data,,"To old persons and children,",6,Bushels.,12 6⁄10,12.6,,False,False

@@ -1,0 +1,64 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,2,Column 2,Total.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,3,Column 3,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,4,Column 4,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,5,Column 5,Agricultural.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,6,Column 6,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,7,Column 7,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,8,Column 8,Non-agricultural.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,9,Column 9,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,1,data,,Classified as living,10,Column 10,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,2,Column 2,Families.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,3,Column 3,Persons.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,4,Column 4,Income in rupees.,,Rs,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,5,Column 5,Families.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,6,Column 6,Persons.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,7,Column 7,Income in rupees.,,Rs,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,8,Column 8,Families.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,9,Column 9,Persons.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,2,data,,Row 2,10,Column 10,Income in rupees.,,Rs,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,2,Column 2,"102,630",102630.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,3,Column 3,"577,668",577668.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,4,Column 4,"35,797,400",35797400.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,5,Column 5,"94,389",94389.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,6,Column 6,"537,061",537061.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,7,Column 7,"33,007,239",33007239.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,8,Column 8,"8,241",8241.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,9,Column 9,"40,607",40607.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,3,data,,in comfort,10,Column 10,"2,790,161",2790161.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,2,Column 2,"61,458",61458.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,3,Column 3,"332,027",332027.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,4,Column 4,"14,379,238",14379238.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,5,Column 5,"55,771",55771.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,6,Column 6,"305,878",305878.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,7,Column 7,"13,330,792",13330792.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,8,Column 8,"5,687",5687.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,9,Column 9,"26,149",26149.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,4,data,,below comfort,10,Column 10,"1,048,446",1048446.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,2,Column 2,"41,987",41987.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,3,Column 3,"210,778",210778.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,4,Column 4,"7,163,318",7163318.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,5,Column 5,"36,877",36877.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,6,Column 6,"187,732",187732.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,7,Column 7,"6,449,993",6449993.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,8,Column 8,"5,110",5110.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,9,Column 9,"23,046",23046.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,5,data,,above indigence,10,Column 10,"713,325",713325.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,2,Column 2,"9,658",9658.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,3,Column 3,"44,351",44351.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,4,Column 4,"1,171,496",1171496.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,5,Column 5,"7,938",7938.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,6,Column 6,"37,164",37164.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,7,Column 7,"997,186",997186.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,8,Column 8,"1,720",1720.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,9,Column 9,"7,187",7187.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,6,data,,in indigence,10,Column 10,"174,310",174310.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,2,Column 2,"215,733",215733.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,3,Column 3,"1,164,824",1164824.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,4,Column 4,"58,511,452",58511452.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,5,Column 5,"194,975",194975.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,6,Column 6,"1,067,835",1067835.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,7,Column 7,"53,785,210",53785210.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,8,Column 8,"20,758",20758.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,9,Column 9,"96,989",96989.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-012,Muhammadans,156,152,7,total,,Total,10,Column 10,"4,726,242",4726242.0,,False,True

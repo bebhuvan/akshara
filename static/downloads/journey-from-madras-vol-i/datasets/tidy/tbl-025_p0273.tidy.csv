@@ -1,0 +1,717 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,1,data,,Mar. 26,2,Karnata Months. :: 1722,Chaitra - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,1,data,,Mar. 26,3,Holidays.,Agádi.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,2,data,,27,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,2,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,3,data,,28,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,3,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,4,data,,29,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,4,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,5,data,,30,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,5,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,6,data,,31,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,6,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,7,data,,April 1,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,7,data,,April 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,8,data,,2,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,8,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,9,data,,3,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,9,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,10,data,,4,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,10,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,11,data,,5,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,11,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,12,data,,6,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,12,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,13,data,,7,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,13,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,14,data,,8,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,14,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,15,data,,9,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,15,data,,9,3,Holidays.,Chaitra Paurnimá.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,16,data,,10,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,16,data,,10,3,Holidays.,Sankranti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,17,data,,11,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,17,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,18,data,,12,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,18,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,19,data,,13,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,19,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,20,data,,14,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,20,data,,14,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,21,data,,15,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,21,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,22,data,,16,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,22,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,23,data,,17,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,23,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,24,data,,18,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,24,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,25,data,,19,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,25,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,26,data,,20,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,26,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,27,data,,21,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,27,data,,21,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,28,data,,22,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,28,data,,22,3,Holidays.,Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,29,data,,23,2,Karnata Months. :: 1722,Vaisáka - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,29,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,30,data,,24,2,Karnata Months. :: 1722,1,1.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,30,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,31,data,,25,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,31,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,32,data,,26,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,32,data,,26,3,Holidays.,Achatadiga Gauri,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,33,data,,27,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,33,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,34,data,,28,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,34,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,35,data,,29,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,35,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,36,data,,30,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,36,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,37,data,,May 1,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,37,data,,May 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,38,data,,2,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,38,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,39,data,,3,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,39,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,40,data,,4,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,40,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,41,data,,5,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,41,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,42,data,,6,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,42,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,43,data,,7,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,43,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,44,data,,8,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,44,data,,8,3,Holidays.,Vyása Paurnimá.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,45,data,,9,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,45,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,46,data,,10,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,46,data,,10,3,Holidays.,Sankranti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,47,data,,11,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,47,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,48,data,,12,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,48,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,49,data,,13,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,49,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,50,data,,July 2,2,Karnata Months. :: 1722,Ashádha - 10,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,50,data,,July 2,3,Holidays.,Seyna ékádasi.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,51,data,,3,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,51,data,,3,3,Holidays.,Chaturmasyam. Gopadma-aritam Lukshya-vrata-dipiam. Prathama ékádasi.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,52,data,,4,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,52,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,53,data,,5,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,53,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,54,data,,6,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,54,data,,6,3,Holidays.,Vyása pújá.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,55,data,,7,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,55,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,56,data,,8,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,56,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,57,data,,9,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,57,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,58,data,,10,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,58,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,59,data,,11,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,59,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,60,data,,12,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,60,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,61,data,,13,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,61,data,,13,3,Holidays.,"Sankranti, sun returns",,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,62,data,,14,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,62,data,,14,3,Holidays.,[south.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,63,data,,15,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,63,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,64,data,,16,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,64,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,65,data,,17,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,65,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,66,data,,18,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,66,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,67,data,,19,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,67,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,68,data,,20,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,68,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,69,data,,21,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,69,data,,21,3,Holidays.,Dipastambha-vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,70,data,,22,2,Karnata Months. :: 1722,Srávana - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,70,data,,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,71,data,,23,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,71,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,72,data,,24,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,72,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,73,data,,25,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,73,data,,25,3,Holidays.,Nagachetrusti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,74,data,,26,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,74,data,,26,3,Holidays.,Garuda panchami.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,75,data,,27,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,75,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,76,data,,28,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,76,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,77,data,,29,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,77,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,78,data,,30,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,78,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,79,data,,31,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,79,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,80,data,,Aug. 1,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,80,data,,Aug. 1,3,Holidays.,Vara maka Lakshmi vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,81,data,,2,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,81,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,82,data,,3,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,82,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,83,data,,4,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,83,data,,4,3,Holidays.,Sravana Paurnima.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,84,data,,5,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,84,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,85,data,,6,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,85,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,86,data,,7,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,86,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,87,data,,8,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,87,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,88,data,,9,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,88,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,89,data,,10,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,89,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,90,data,,11,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,90,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,91,data,,12,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,91,data,,12,3,Holidays.,Gokul ashtami.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,92,data,,13,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,92,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,93,data,,14,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,93,data,,14,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,94,data,,15,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,94,data,,15,3,Holidays.,Sankranti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,95,data,,16,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,95,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,98,subheader,,1800,2,Karnata Months. :: 1722,1722.,1722.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,98,subheader,,1800,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,99,data,,Oct. 4,2,Karnata Months. :: 1722,Aswayuja - 16,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,99,data,,Oct. 4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,100,data,,5,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,100,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,101,data,,6,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,101,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,102,data,,7,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,102,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,103,data,,8,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,103,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,104,data,,9,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,104,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,105,data,,10,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,105,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,106,data,,11,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,106,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,107,data,,12,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,107,data,,12,3,Holidays.,Naraka chaturdasi.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,108,data,,13,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,108,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,109,data,,14,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,109,data,,14,3,Holidays.,Sankránti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,110,data,,15,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,110,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,111,data,,16,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,111,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,112,data,,17,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,112,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,113,data,,18,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,113,data,,18,3,Holidays.,Dípávali Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,114,data,,19,2,Karnata Months. :: 1722,Kartika - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,114,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,115,data,,20,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,115,data,,20,3,Holidays.,[Gaurí.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,116,data,,21,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,116,data,,21,3,Holidays.,Dadhi Gaurí and Giraki,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,117,data,,22,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,117,data,,22,3,Holidays.,Apanga Lilita Gaurí.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,118,data,,23,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,118,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,119,data,,24,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,119,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,120,data,,25,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,120,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,121,data,,26,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,121,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,122,data,,27,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,122,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,123,data,,28,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,123,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,124,data,,29,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,124,data,,29,3,Holidays.,Uttana dwadasi and Si-,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,125,data,,30,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,125,data,,30,3,Holidays.,[rabdi vratam.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,126,data,,31,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,126,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,127,data,,Nov. 1,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,127,data,,Nov. 1,3,Holidays.,Dhatri pújá.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,128,data,,2,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,128,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,129,data,,3,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,129,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,130,data,,4,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,130,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,131,data,,5,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,131,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,132,data,,6,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,132,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,133,data,,7,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,133,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,134,data,,8,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,134,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,135,data,,9,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,135,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,136,data,,10,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,136,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,137,data,,11,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,137,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,138,data,,12,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,138,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,139,data,,13,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,139,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,140,data,,14,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,140,data,,14,3,Holidays.,Sankránti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,141,data,,15,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,141,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,142,data,,16,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,142,data,,16,3,Holidays.,Amávásya,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,143,data,,17,2,Karnata Months. :: 1722,Márgasírsha 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,143,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,144,data,,18,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,144,data,,18,3,Holidays.,Tantrini Gaurí.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,145,data,,19,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,145,data,,19,3,Holidays.,Rambha Gaurí.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,146,data,,20,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,146,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,147,subheader,,1801,2,Karnata Months. :: 1722,1722.,1722.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,147,subheader,,1801,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,148,data,,Jan. 7,2,Karnata Months. :: 1722,Paushya - 22,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,148,data,,Jan. 7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,149,data,,8,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,149,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,150,data,,9,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,150,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,151,data,,10,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,151,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,152,data,,11,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,152,data,,11,3,Holidays.,Sankránti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,153,data,,12,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,153,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,154,data,,13,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,154,data,,13,3,Holidays.,Savitra Gaurí.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,155,data,,14,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,155,data,,14,3,Holidays.,Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,156,data,,15,2,Karnata Months. :: 1722,Magha - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,156,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,157,data,,16,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,157,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,158,data,,17,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,158,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,159,data,,18,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,159,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,160,data,,19,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,160,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,161,data,,20,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,161,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,162,data,,21,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,162,data,,21,3,Holidays.,Ratri saptami.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,163,data,,22,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,163,data,,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,164,data,,23,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,164,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,165,data,,24,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,165,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,166,data,,25,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,166,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,167,data,,26,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,167,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,168,data,,27,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,168,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,169,data,,28,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,169,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,170,data,,29,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,170,data,,29,3,Holidays.,Cunti Gaurí vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,171,data,,30,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,171,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,172,data,,31,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,172,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,173,data,,Feb. 1,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,173,data,,Feb. 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,174,data,,2,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,174,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,175,data,,3,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,175,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,176,data,,4,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,176,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,177,data,,5,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,177,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,178,data,,6,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,178,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,179,data,,7,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,179,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,180,data,,8,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,180,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,181,data,,9,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,181,data,,9,3,Holidays.,Sankránti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,182,data,,May 14,2,Karnata Months. :: 1722,Vaisáka - 21,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,182,data,,May 14,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,183,data,,15,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,183,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,184,data,,16,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,184,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,185,data,,17,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,185,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,186,data,,18,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,186,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,187,data,,19,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,187,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,188,data,,20,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,188,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,189,data,,21,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,189,data,,21,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,190,data,,22,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,190,data,,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,191,data,,23,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,191,data,,23,3,Holidays.,Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,192,data,,24,2,Karnata Months. :: 1722,Jyaishta - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,192,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,193,data,,25,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,193,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,194,data,,26,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,194,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,195,data,,27,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,195,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,196,data,,28,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,196,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,197,data,,29,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,197,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,198,data,,30,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,198,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,199,data,,31,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,199,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,200,data,,June 1,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,200,data,,June 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,201,data,,2,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,201,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,202,data,,3,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,202,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,203,data,,4,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,203,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,204,data,,5,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,204,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,205,data,,6,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,205,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,206,data,,7,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,206,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,207,data,,8,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,207,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,208,data,,9,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,208,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,209,data,,10,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,209,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,210,data,,11,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,210,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,211,data,,12,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,211,data,,12,3,Holidays.,Sankránti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,212,data,,13,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,212,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,213,data,,14,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,213,data,,14,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,214,data,,15,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,214,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,215,data,,16,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,215,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,216,data,,17,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,216,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,217,data,,18,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,217,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,218,data,,19,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,218,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,219,data,,20,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,219,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,220,data,,21,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,220,data,,21,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,221,data,,22,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,221,data,,22,3,Holidays.,Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,222,data,,23,2,Karnata Months. :: 1722,Ashádha - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,222,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,223,data,,24,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,223,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,224,data,,25,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,224,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,225,data,,26,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,225,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,226,data,,27,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,226,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,227,data,,28,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,227,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,228,data,,29,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,228,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,229,data,,30,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,229,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,230,data,,July 1,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,273,231,230,data,,July 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,231,data,,Aug 17,2,Karnata Months. :: 1722,Srávana - 27,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,231,data,,Aug 17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,232,data,,18,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,232,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,233,data,,19,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,233,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,234,data,,20,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,234,data,,20,3,Holidays.,Amavasya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,235,data,,21,2,Karnata Months. :: 1722,Bhadrapada 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,235,data,,21,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,236,data,,22,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,236,data,,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,237,data,,23,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,237,data,,23,3,Holidays.,Swarna Gauri vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,238,data,,24,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,238,data,,24,3,Holidays.,Ganésa vrata,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,239,data,,25,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,239,data,,25,3,Holidays.,Rishi panchami.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,240,data,,26,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,240,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,241,data,,27,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,241,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,242,data,,28,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,242,data,,28,3,Holidays.,Gaja Lakshmi vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,243,data,,29,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,243,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,244,data,,30,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,244,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,245,data,,31,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,245,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,246,data,,Sept. 1,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,246,data,,Sept. 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,247,data,,2,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,247,data,,2,3,Holidays.,Ananta chaturdasi.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,248,data,,3,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,248,data,,3,3,Holidays.,Uma Maheswara vratam.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,249,data,,4,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,249,data,,4,3,Holidays.,Beginning of general fast.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,250,data,,5,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,250,data,,5,3,Holidays.,Bhagavari vratam.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,251,data,,6,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,251,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,252,data,,7,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,252,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,253,data,,8,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,253,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,254,data,,9,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,254,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,255,data,,10,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,255,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,256,data,,11,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,256,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,257,data,,12,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,257,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,258,data,,13,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,258,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,259,data,,14,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,259,data,,14,3,Holidays.,Sankranti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,260,data,,15,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,260,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,261,data,,16,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,261,data,,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,262,data,,17,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,262,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,263,data,,18,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,263,data,,18,3,Holidays.,General fast in honour of,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,264,data,,19,2,Karnata Months. :: 1722,Aswayuja or Aswaja - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,264,data,,19,3,Holidays.,[deceased parents ends. Navarátri.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,265,data,,20,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,265,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,266,data,,21,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,266,data,,21,3,Holidays.,Mahasura Gauri vratam.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,267,data,,22,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,267,data,,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,268,data,,23,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,268,data,,23,3,Holidays.,Kanaka Lakshmi vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,269,data,,24,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,269,data,,24,3,Holidays.,Guhya Gauri vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,270,data,,25,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,270,data,,25,3,Holidays.,Saraswati puja.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,271,data,,26,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,271,data,,26,3,Holidays.,Durga astami.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,272,data,,27,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,272,data,,27,3,Holidays.,Mana Navami.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,273,data,,28,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,273,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,274,data,,29,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,274,data,,29,3,Holidays.,Visya Dasami or Dana.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,275,data,,30,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,275,data,,30,3,Holidays.,[puja vrata.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,276,data,,Oct. 1,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,276,data,,Oct. 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,277,data,,2,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,277,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,278,data,,3,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,274,231,278,data,,3,3,Holidays.,"Kanmudi vrata, an eclipse.",,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,279,subheader,,1800,2,Karnata Months. :: 1722,1722.,1722.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,279,subheader,,1800,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,280,data,,Nov. 21,2,Karnata Months. :: 1722,Márgasírsha 5,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,280,data,,Nov. 21,3,Holidays.,Bhadrí Gaurí.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,281,data,,22,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,281,data,,22,3,Holidays.,Sampada srishti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,282,data,,23,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,282,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,283,data,,24,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,283,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,284,data,,25,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,284,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,285,data,,26,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,285,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,286,data,,27,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,286,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,287,data,,28,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,287,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,288,data,,29,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,288,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,289,data,,30,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,289,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,290,data,,Dec. 1,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,290,data,,Dec. 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,291,data,,2,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,291,data,,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,292,data,,3,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,292,data,,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,293,data,,4,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,293,data,,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,294,data,,5,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,294,data,,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,295,data,,6,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,295,data,,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,296,data,,7,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,296,data,,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,297,data,,8,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,297,data,,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,298,data,,9,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,298,data,,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,299,data,,10,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,299,data,,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,300,data,,11,2,Karnata Months. :: 1722,25,25.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,300,data,,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,301,data,,12,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,301,data,,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,302,data,,13,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,302,data,,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,303,data,,14,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,303,data,,14,3,Holidays.,Sankránti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,304,data,,15,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,304,data,,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,305,data,,16,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,305,data,,16,3,Holidays.,Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,306,data,,17,2,Karnata Months. :: 1722,Paushya - - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,306,data,,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,307,data,,18,2,Karnata Months. :: 1722,2,2.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,307,data,,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,308,data,,19,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,308,data,,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,309,data,,20,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,309,data,,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,310,data,,21,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,310,data,,21,3,Holidays.,Tulava srishti.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,311,data,,22,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,311,data,,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,312,data,,23,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,312,data,,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,313,data,,24,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,313,data,,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,314,data,,25,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,314,data,,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,315,data,,26,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,315,data,,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,316,data,,27,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,316,data,,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,317,data,,28,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,317,data,,28,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,318,data,,29,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,318,data,,29,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,319,data,,30,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,319,data,,30,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,320,data,,31,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,320,data,,31,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,322,data,1801,Jan. 1,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,322,data,1801,Jan. 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,323,data,1801,2,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,323,data,1801,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,324,data,1801,3,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,324,data,1801,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,325,data,1801,4,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,325,data,1801,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,326,data,1801,5,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,326,data,1801,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,327,data,1801,6,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,275,231,327,data,1801,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,328,subheader,1801,1801,2,Karnata Months. :: 1722,1722.,1722.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,328,subheader,1801,1801,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,329,data,1801,Feb. 10,2,Karnata Months. :: 1722,Magha - 27,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,329,data,1801,Feb. 10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,330,data,1801,11,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,330,data,1801,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,331,data,1801,12,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,331,data,1801,12,3,Holidays.,Sivarátri.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,332,data,1801,13,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,332,data,1801,13,3,Holidays.,Amávásya.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,333,data,1801,14,2,Karnata Months. :: 1722,Phalguna - 1,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,333,data,1801,14,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,334,data,1801,15,2,Karnata Months. :: 1722,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,334,data,1801,15,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,335,data,1801,16,2,Karnata Months. :: 1722,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,335,data,1801,16,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,336,data,1801,17,2,Karnata Months. :: 1722,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,336,data,1801,17,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,337,data,1801,18,2,Karnata Months. :: 1722,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,337,data,1801,18,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,338,data,1801,19,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,338,data,1801,19,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,339,data,1801,20,2,Karnata Months. :: 1722,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,339,data,1801,20,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,340,data,1801,21,2,Karnata Months. :: 1722,8,8.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,340,data,1801,21,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,341,data,1801,22,2,Karnata Months. :: 1722,9,9.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,341,data,1801,22,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,342,data,1801,23,2,Karnata Months. :: 1722,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,342,data,1801,23,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,343,data,1801,24,2,Karnata Months. :: 1722,11,11.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,343,data,1801,24,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,344,data,1801,25,2,Karnata Months. :: 1722,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,344,data,1801,25,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,345,data,1801,26,2,Karnata Months. :: 1722,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,345,data,1801,26,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,346,data,1801,27,2,Karnata Months. :: 1722,14,14.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,346,data,1801,27,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,347,data,1801,28,2,Karnata Months. :: 1722,15,15.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,347,data,1801,28,3,Holidays.,Káma Dhanam.,,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,348,data,1801,Mar. 1,2,Karnata Months. :: 1722,16,16.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,348,data,1801,Mar. 1,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,349,data,1801,2,2,Karnata Months. :: 1722,17,17.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,349,data,1801,2,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,350,data,1801,3,2,Karnata Months. :: 1722,18,18.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,350,data,1801,3,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,351,data,1801,4,2,Karnata Months. :: 1722,19,19.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,351,data,1801,4,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,352,data,1801,5,2,Karnata Months. :: 1722,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,352,data,1801,5,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,353,data,1801,6,2,Karnata Months. :: 1722,21,21.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,353,data,1801,6,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,354,data,1801,7,2,Karnata Months. :: 1722,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,354,data,1801,7,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,355,data,1801,8,2,Karnata Months. :: 1722,23,23.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,355,data,1801,8,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,356,data,1801,9,2,Karnata Months. :: 1722,24,24.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,356,data,1801,9,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,357,data,1801,10,2,Karnata Months. :: 1722,26,26.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,357,data,1801,10,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,358,data,1801,11,2,Karnata Months. :: 1722,27,27.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,358,data,1801,11,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,359,data,1801,12,2,Karnata Months. :: 1722,28,28.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,359,data,1801,12,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,360,data,1801,13,2,Karnata Months. :: 1722,29,29.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,360,data,1801,13,3,Holidays.,,,,True,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,361,data,1801,14,2,Karnata Months. :: 1722,30,30.0,,False,False
+journey-from-madras-vol-i,tbl-025,Table 25,276,231,361,data,1801,14,3,Holidays.,Amávásya.,,,False,False

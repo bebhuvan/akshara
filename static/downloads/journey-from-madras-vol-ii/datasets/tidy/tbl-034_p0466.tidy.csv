@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,1,data,,"Each bellowsman 1 Fanam, and 1⁄10 Poray of rice",2,Fanams.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,1,data,,"Each bellowsman 1 Fanam, and 1⁄10 Poray of rice",3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,1,data,,"Each bellowsman 1 Fanam, and 1⁄10 Poray of rice",4,Edangallies.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,2,data,,The head workman,2,Fanams.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,2,data,,The head workman,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,2,data,,The head workman,4,Edangallies.,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,3,data,,The hammerman,2,Fanams.,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,3,data,,The hammerman,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,3,data,,The hammerman,4,Edangallies.,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,4,data,,Charcoal,2,Fanams.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,4,data,,Charcoal,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,4,data,,Charcoal,4,Edangallies.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,5,data,,Ore,2,Fanams.,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,5,data,,Ore,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,5,data,,Ore,4,Edangallies.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,6,subtotal,,Fanams,2,Fanams.,27,27.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,6,subtotal,,Fanams,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,6,subtotal,,Fanams,4,Edangallies.,6,6.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,7,data,,Value of 6 Edangallies of rice,2,Fanams.,"0,1⁄2",,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,7,data,,Value of 6 Edangallies of rice,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,7,data,,Value of 6 Edangallies of rice,4,Edangallies.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,8,total,,Row 8,2,Fanams.,"27,1⁄2",,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,8,total,,Row 8,3,Poray.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-034,Table 34,466,440,8,total,,Row 8,4,Edangallies.,0,0.0,,False,False

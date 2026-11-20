@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-064,Lahore Railway Work Shops.,388,348,1,data,,Skilled Fitters,2,Column 2,$1.66,1.66,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-064,Lahore Railway Work Shops.,388,348,1,data,,Skilled Fitters,3,Column 3,Unskilled,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-064,Lahore Railway Work Shops.,388,348,1,data,,Skilled Fitters,4,Column 4,$ .70,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-064,Lahore Railway Work Shops.,388,348,2,data,,Skilled Carpenters,2,Column 2,$1.75,1.75,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-064,Lahore Railway Work Shops.,388,348,2,data,,Skilled Carpenters,3,Column 3,,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-064,Lahore Railway Work Shops.,388,348,2,data,,Skilled Carpenters,4,Column 4,,,,True,False

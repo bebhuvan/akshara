@@ -1,0 +1,3 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-144,Table 144,357,337,1,data,,"Now take 1850, exports",2,Column 2,"£18,700,000",18700000.0,GBP,False,False
+poverty-and-un-british-rule,tbl-144,Table 144,357,337,2,data,,",,   ,,  1870,   ,,",2,Column 2,"£64,690,000",64690000.0,GBP,False,False

@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-003,Table 3,121,81,1,data,,"(1) Interest on money due or borrowed (chiefly for railways, etc.) about",2,Column 2,"£10,000,000",10000000.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-003,Table 3,121,81,2,data,,(2) Purchase of stores,2,Column 2,"£2,500,000",2500000.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-003,Table 3,121,81,3,data,,(3) Military charges (including pensions),2,Column 2,"£4,000,000",4000000.0,GBP,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-003,Table 3,121,81,4,data,,(4) Civil charges (including pensions),2,Column 2,"£2,500,000",2500000.0,GBP,False,False

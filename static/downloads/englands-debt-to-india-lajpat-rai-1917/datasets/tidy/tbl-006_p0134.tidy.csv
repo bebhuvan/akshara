@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-006,Table 6,134,94,1,data,,"‘Loss to India, as already shown",2,Column 2,"£4,910,922,732",4910922732.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-006,Table 6,134,94,2,data,,"‘Add, for remittances to England on official account, not shown in the trade returns, nearly £2,000,- 000 per annum, since (and including) 1834–5, at 5 per cent., per annum compound interest",2,Column 2,"£1,044,980,684",1044980684.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-006,Table 6,134,94,3,data,,"‘Borrowings in England (net remaining after conversions, repayments, etc",2,Column 2,"£ 124,268,605",124268605.0,GBP,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-006,Table 6,134,94,4,total,,Row 4,2,Column 2,"£6,080,172,021’",,GBP,False,True

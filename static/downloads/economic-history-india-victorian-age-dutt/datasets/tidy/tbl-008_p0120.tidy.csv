@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-008,Table 8,120,92,1,data,,1856–57,2,Demand.,"£1,485,000",1485000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-008,Table 8,120,92,1,data,,1856–57,3,Collection.,"£1,452,000",1452000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-008,Table 8,120,92,2,data,,1857–58,2,Demand.,"£1,465,000",1465000.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-008,Table 8,120,92,2,data,,1857–58,3,Collection.,"£1,452,000",1452000.0,GBP,False,False

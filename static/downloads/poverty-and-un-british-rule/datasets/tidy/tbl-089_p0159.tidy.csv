@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,1,data,,1835—1839,2,Column 2,"£6,000,000",6000000.0,GBP,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,1,data,,1835—1839,3,Column 3,1855—1859,,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,1,data,,1835—1839,4,Column 4,"£8,700,000",8700000.0,GBP,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,2,data,,1840—1844,2,Column 2,"6,600,000",6600000.0,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,2,data,,1840—1844,3,Column 3,1860—1864,,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,2,data,,1840—1844,4,Column 4,"19,000,000",19000000.0,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,3,data,,1845—1849,2,Column 2,"8,700,000",8700000.0,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,3,data,,1845—1849,3,Column 3,1865—1869,,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,3,data,,1845—1849,4,Column 4,"27,500,000",27500000.0,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,4,data,,1850—1854,2,Column 2,"8,400,000",8400000.0,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,4,data,,1850—1854,3,Column 3,1870—1872,,,False,False
+poverty-and-un-british-rule,tbl-089,Averages will be about,159,139,4,data,,1850—1854,4,Column 4,"31,000,000",31000000.0,,False,False

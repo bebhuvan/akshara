@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,1,data,,The United Kingdom,2,True trade exports per head (1885). :: s.,149,149.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,1,data,,The United Kingdom,3,True trade exports per head (1885). :: d.,4,4.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,4,data,Australia (including bullion and specie which it produces),Row 4,2,True trade exports per head (1885). :: s.,271,271.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,4,data,Australia (including bullion and specie which it produces),Row 4,3,True trade exports per head (1885). :: d.,0,0.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,5,data,Australia (including bullion and specie which it produces),Natal,2,True trade exports per head (1885). :: s.,28,28.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,5,data,Australia (including bullion and specie which it produces),Natal,3,True trade exports per head (1885). :: d.,8,8.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,7,data,Cape of Good Hope (exclusive of diamonds),Row 7,2,True trade exports per head (1885). :: s.,35,35.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,7,data,Cape of Good Hope (exclusive of diamonds),Row 7,3,True trade exports per head (1885). :: d.,5,5.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,8,data,Cape of Good Hope (exclusive of diamonds),North American Colonies,2,True trade exports per head (1885). :: s.,70,70.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,8,data,Cape of Good Hope (exclusive of diamonds),North American Colonies,3,True trade exports per head (1885). :: d.,5,5.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,9,data,Cape of Good Hope (exclusive of diamonds),West India Islands,2,True trade exports per head (1885). :: s.,75,75.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,9,data,Cape of Good Hope (exclusive of diamonds),West India Islands,3,True trade exports per head (1885). :: d.,4,4.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,10,data,Cape of Good Hope (exclusive of diamonds),British India only,2,True trade exports per head (1885). :: s.,3,3.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-020,Table 20,600,586,10,data,Cape of Good Hope (exclusive of diamonds),British India only,3,True trade exports per head (1885). :: d.,0,0.0,,False,False

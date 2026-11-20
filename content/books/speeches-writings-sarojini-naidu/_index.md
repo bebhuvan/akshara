@@ -1,6 +1,6 @@
 ---
 title: "Speeches and Writings of Sarojini Naidu"
-date: 2024-12-21
+date: "2024-12-21"
 author: "Sarojini Naidu"
 author_slug: "sarojini-naidu"
 year: 1918
@@ -26,11 +26,15 @@ downloads:
 digitized_from: "Archive.org (Digital Library of India)"
 digitization_method: "OCR with manual correction"
 digitization_notes: "Text extracted using LLM-based OCR from archival scans. First edition published in 1918 by G.A. Natesan & Co., Madras."
-
 cascade:
   - _target:
       kind: "page"
     type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/speeches-writings-sarojini-naidu.svg"
+archetype: "epistolary_and_speeches"
+palette: "Fitzcarraldo Ultramarine"
 ---
 
 Sarojini Naidu (1879-1949), known as the "Nightingale of India," was a poet, political activist, and one of the most prominent figures in India's struggle for independence. This collection, first published in 1918, brings together her most significant speeches and writings on subjects ranging from women's education and social reform to Hindu-Muslim unity and self-governance.

@@ -1,0 +1,82 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,2,Imports. :: Merchandise. :: £,"331,015,480",331015480.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,3,Imports. :: Treasure. (Gold and Silver.) :: £,"38,140,827",38140827.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,4,Imports. :: Total. :: £,"369,156,307",369156307.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,5,Exports. :: Years.,1871,1871.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,6,Exports. :: Merchandise. :: £,"283,574,700",283574700.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,7,Exports. :: Treasure. (Gold and Silver.) :: £,"33,760,671",33760671.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,8,Exports. :: Total. :: £,"317,335,371",317335371.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,9,Exports. :: Foreign Trade Profits. :: £,"51,820,936",51820936.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,1,data,,1871,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,2,Imports. :: Merchandise. :: £,"354,693,624",354693624.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,3,Imports. :: Treasure. (Gold and Silver.) :: £,"29,608,012",29608012.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,4,Imports. :: Total. :: £,"384,301,636",384301636.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,5,Exports. :: Years.,1872,1872.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,6,Exports. :: Merchandise. :: £,"314,588,834",314588834.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,7,Exports. :: Treasure. (Gold and Silver.) :: £,"30,335,861",30335861.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,8,Exports. :: Total. :: £,"344,924,695",344924695.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,9,Exports. :: Foreign Trade Profits. :: £,"39,376,941",39376941.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,2,data,,1872,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,2,Imports. :: Merchandise. :: £,"371,287,372",371287372.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,3,Imports. :: Treasure. (Gold and Silver.) :: £,"33,599,231",33599231.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,4,Imports. :: Total. :: £,"404,886,603",404886603.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,5,Exports. :: Years.,1873,1873.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,6,Exports. :: Merchandise. :: £,"311,004,765",311004765.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,7,Exports. :: Treasure. (Gold and Silver.) :: £,"28,899,285",28899285.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,8,Exports. :: Total. :: £,"339,904,050",339904050.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,9,Exports. :: Foreign Trade Profits. :: £,"64,982,553",64982553.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,3,data,,1873,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,2,Imports. :: Merchandise. :: £,"370,082,701",370082701.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,3,Imports. :: Treasure. (Gold and Silver.) :: £,"30,379,188",30379188.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,4,Imports. :: Total. :: £,"400,461,889",400461889.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,5,Exports. :: Years.,1874,1874.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,6,Exports. :: Merchandise. :: £,"297,650,464",297650464.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,7,Exports. :: Treasure. (Gold and Silver.) :: £,"22,853,593",22853593.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,8,Exports. :: Total. :: £,"320,504,057",320504057.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,9,Exports. :: Foreign Trade Profits. :: £,"79,957,832",79957832.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,4,data,,1874,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,2,Imports. :: Merchandise. :: £,"373,939,577",373939577.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,3,Imports. :: Treasure. (Gold and Silver.) :: £,"33,264,789",33264789.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,4,Imports. :: Total. :: £,"407,204,366",407204366.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,5,Exports. :: Years.,1875,1875.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,6,Exports. :: Merchandise. :: £,"281,612,323",281612323.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,7,Exports. :: Treasure. (Gold and Silver.) :: £,"27,628,042",27628042.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,8,Exports. :: Total. :: £,"309,240,365",309240365.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,9,Exports. :: Foreign Trade Profits. :: £,"97,964,001",97964001.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,5,data,,1875,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,2,Imports. :: Merchandise. :: £,"375,154,703",375154703.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,3,Imports. :: Treasure. (Gold and Silver.) :: £,"37,054,244",37054244.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,4,Imports. :: Total. :: £,"412,208,947",412208947.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,5,Exports. :: Years.,1876,1876.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,6,Exports. :: Merchandise. :: £,"256,776,602",256776602.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,7,Exports. :: Treasure. (Gold and Silver.) :: £,"29,464,082",29464082.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,8,Exports. :: Total. :: £,"286,240,684",286240684.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,9,Exports. :: Foreign Trade Profits. :: £,"125,968,263",125968263.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,6,data,,1876,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,2,Imports. :: Merchandise. :: £,"394,419,682",394419682.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,3,Imports. :: Treasure. (Gold and Silver.) :: £,"37,152,799",37152799.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,4,Imports. :: Total. :: £,"431,572,481",431572481.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,5,Exports. :: Years.,1877,1877.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,6,Exports. :: Merchandise. :: £,"252,346,020",252346020.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,7,Exports. :: Treasure. (Gold and Silver.) :: £,"39,798,119",39798119.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,8,Exports. :: Total. :: £,"292,144,139",292144139.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,9,Exports. :: Foreign Trade Profits. :: £,"139,428,342",139428342.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,7,data,,1877,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,2,Imports. :: Merchandise. :: £,"368,770,742",368770742.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,3,Imports. :: Treasure. (Gold and Silver.) :: £,"32,422,955",32422955.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,4,Imports. :: Total. :: £,"401,193,697",401193697.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,5,Exports. :: Years.,1878,1878.0,,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,6,Exports. :: Merchandise. :: £,"245,483,858",245483858.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,7,Exports. :: Treasure. (Gold and Silver.) :: £,"26,686,546",26686546.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,8,Exports. :: Total. :: £,"272,170,404",272170404.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,9,Exports. :: Foreign Trade Profits. :: £,"129,023,293",129023293.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,8,data,,1878,10,Exports. :: Per Cent.,,,%,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,2,Imports. :: Merchandise. :: £,,,GBP,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,3,Imports. :: Treasure. (Gold and Silver.) :: £,,,GBP,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,4,Imports. :: Total. :: £,"3,210,985,926",3210985926.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,5,Exports. :: Years.,,,,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,6,Exports. :: Merchandise. :: £,Grand Total . .,,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,7,Exports. :: Treasure. (Gold and Silver.) :: £,,,GBP,True,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,8,Exports. :: Total. :: £,"2,482,463,765",2482463765.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,9,Exports. :: Foreign Trade Profits. :: £,"728,522,161",728522161.0,GBP,False,True
+poverty-and-un-british-rule,tbl-117,PROFITS OF FOREIGN TRADE OF THE UNITED KINGDOM.,217,197,9,total,,Grand Total,10,Exports. :: Per Cent.,= 29·34,,%,False,True

@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,1,data,,1. Ajmir-Merwara,2,Area in sq. miles.,"2,711",2711.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,1,data,,1. Ajmir-Merwara,3,Population.,"476,912",476912.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,2,data,,2. Andamans and Nicobars,2,Area in sq. miles.,"3,188",3188.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,2,data,,2. Andamans and Nicobars,3,Population.,"24,649",24649.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,3,data,,3. Assam,2,Area in sq. miles.,"56,243",56243.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,3,data,,3. Assam,3,Population.,"6,126,343",6126343.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,4,data,,4. Beluchistan,2,Area in sq. miles.,"45,804",45804.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,4,data,,4. Beluchistan,3,Population.,"308,246",308246.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,5,data,,5. Bengal,2,Area in sq. miles.,"151,185",151185.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,5,data,,5. Bengal,3,Population.,"74,744,866",74744866.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,6,data,,6. Berar and Central Provinces,2,Area in sq. miles.,"104,169",104169.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,6,data,,6. Berar and Central Provinces,3,Population.,"12,630,662",12630662.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,7,data,,7. Bombay (including Aden),2,Area in sq. miles.,"123,064",123064.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,7,data,,7. Bombay (including Aden),3,Population.,"18,559,561",18559561.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,8,data,,8. Burma,2,Area in sq. miles.,"236,738",236738.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,8,data,,8. Burma,3,Population.,"10,490,624",10490624.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,9,data,,9. Coorg,2,Area in sq. miles.,"1,582",1582.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,9,data,,9. Coorg,3,Population.,"180,607",180607.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,10,data,,10. Madras,2,Area in sq. miles.,"141,726",141726.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,10,data,,10. Madras,3,Population.,"38,209,436",38209436.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,11,data,,11. N.-W. Frontier Province,2,Area in sq. miles.,"16,466",16466.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,11,data,,11. N.-W. Frontier Province,3,Population.,"2,125,480",2125480.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,12,data,,12. Punjab,2,Area in sq. miles.,"97,209",97209.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,12,data,,12. Punjab,3,Population.,"20,330,339",20330339.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,13,data,,13. Agra and Oudh,2,Area in sq. miles.,"107,164",107164.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,13,data,,13. Agra and Oudh,3,Population.,"47,691,782",47691782.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,14,total,,Total,2,Area in sq. miles.,"1,087,249",1087249.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-071,British India.,630,602,14,total,,Total,3,Population.,"231,899,507",231899507.0,,False,True

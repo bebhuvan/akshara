@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,388,348,1,data,,Foreman,2,Column 2,$2.50,2.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,388,348,2,data,,Saddlers,2,Column 2,2.08,2.08,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,388,348,3,data,,Machine operators,2,Column 2,1.70,1.7,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,388,348,4,data,,Fitters,2,Column 2,1.40,1.4,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,5,data,,Carpenters,2,Column 2,$1.40,1.4,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,6,data,,Cutters,2,Column 2,.82,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,7,data,,Saddler’s assistants,2,Column 2,1.00,1.0,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,8,data,,Tanners,2,Column 2,.66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,9,data,,Messengers and storemen,2,Column 2,.58,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,10,data,,Beltmakers,2,Column 2,.72,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-067,Table 67,389,348,11,data,,Work distributors,2,Column 2,.72,,,False,False

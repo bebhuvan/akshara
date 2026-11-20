@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,1,data,,"Sultany, Bahadury, and Ikeri Varahun, Huns, or Pagodas",2,V. R. F.,16 1/4 + 1/32 =,,Rs,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,1,data,,"Sultany, Bahadury, and Ikeri Varahun, Huns, or Pagodas",3,s.,8,8.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,1,data,,"Sultany, Bahadury, and Ikeri Varahun, Huns, or Pagodas",4,d.,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,2,data,,Star-Pagoda,2,V. R. F.,14 3/4 + 1/64 =,,Rs,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,2,data,,Star-Pagoda,3,s.,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,2,data,,Star-Pagoda,4,d.,4,4.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,3,data,,"Porto-Novo, or Feringy ditto",2,V. R. F.,12 1/2 =,,Rs,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,3,data,,"Porto-Novo, or Feringy ditto",3,s.,6,6.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,3,data,,"Porto-Novo, or Feringy ditto",4,d.,2 1/2,2.5,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,4,data,,Sultany Fanam,2,V. R. F.,1 25/100 =,,Rs,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,4,data,,Sultany Fanam,3,s.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,4,data,,Sultany Fanam,4,d.,7 1/2,7.5,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,6,data,Silver Coins,"Pondichery, or Sultany Rupee",2,V. R. F.,4 1/4 + 3/16 + 1/64 =,,Rs,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,6,data,Silver Coins,"Pondichery, or Sultany Rupee",3,s.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,6,data,Silver Coins,"Pondichery, or Sultany Rupee",4,d.,2 1/2,2.5,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,7,data,Silver Coins,Company's Madras Rupee,2,V. R. F.,4 3/16 + 1/32 =,,Rs,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,7,data,Silver Coins,Company's Madras Rupee,3,s.,2,2.0,,False,False
+journey-from-madras-vol-ii,tbl-020,Gold Coins.,330,310,7,data,Silver Coins,Company's Madras Rupee,4,d.,1,1.0,,False,False

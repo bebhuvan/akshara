@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,1,data,,Bengal,2,Column 2,5 to 6 per cent. of gross produce,,%,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,1,data,,Bengal,3,Column 3,,,,True,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,1,data,,Bengal,4,Column 4,,,,True,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,1,data,,Bengal,5,Column 5,,,,True,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,2,data,,North-West,2,Column 2,8,8.0,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,2,data,,North-West,3,Column 3,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,2,data,,North-West,4,Column 4,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,2,data,,North-West,5,Column 5,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,3,data,,Punjab,2,Column 2,10,10.0,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,3,data,,Punjab,3,Column 3,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,3,data,,Punjab,4,Column 4,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,3,data,,Punjab,5,Column 5,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,4,data,,Madras,2,Column 2,12 to 31,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,4,data,,Madras,3,Column 3,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,4,data,,Madras,4,Column 4,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,4,data,,Madras,5,Column 5,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,5,data,,Bombay,2,Column 2,20 to 33,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,5,data,,Bombay,3,Column 3,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,5,data,,Bombay,4,Column 4,„,,,False,False
+famines-and-land-assessments,tbl-012,Land Revenue,137,113,5,data,,Bombay,5,Column 5,„,,,False,False

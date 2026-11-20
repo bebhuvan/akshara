@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,1,data,,Bengal,2,Canals.,Orissa Canals . Midnapur Canal . Sone Canal .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,1,data,,Bengal,3,Acres irrigated.,"201,498 82,134 557,494",,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,2,data,,Agra and Oudh,2,Canals.,East Jumna and two Ganges Canals and other Works .,,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,2,data,,Agra and Oudh,3,Acres irrigated.,"2,741,400",2741400.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,3,data,,Punjab,2,Canals.,"West Jumna Canal . Bari Doab Canal . Sirhind British Canal . Sirhind Native State Canal . Chinab Canal . Jhelum Canal . Sohag, Para and Sidhnai Canals .",,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,3,data,,Punjab,3,Acres irrigated.,"589,955 856,041 728,908 341,553 1,748,129 65,367 161,885",,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,4,data,,Bombay,2,Canals.,"Nira, Mutha, and other Canals . .",,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,4,data,,Bombay,3,Acres irrigated.,"139,040",139040.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,5,data,,Madras,2,Canals.,"Kaveri, Krishna, and Godavari Canal systems, about . . . Periyar system . . . . Rushikulya system . . . . Pennar and other Canals . . .",,,False,False
+economic-history-india-victorian-age-dutt,tbl-059,Table 59,579,551,5,data,,Madras,3,Acres irrigated.,"2,500,000 154,000 84,3000 not given",,acres,False,False

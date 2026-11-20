@@ -1,0 +1,171 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,2,Months required to ripen.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,3,Quality.,Middle,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,4,Seed. :: On a Colaga-land. :: Seers.,88,88.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,5,Seed. :: On an Acre. :: Pecks.,"8,145",8145.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1920,1920.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,7,Produce :: In a good crop. :: Increase folds.,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"44,427",44427.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,1248,1248.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,10,Produce :: In an indifferent crop. :: Increase folds.,14 2/11,14.181818,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,1,data,,Rice Caimbutti,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"28,877333",28877333.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,2,Months required to ripen.,4 1/2,4.5,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,3,Quality.,Large,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,4,Seed. :: On a Colaga-land. :: Seers.,96,96.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,5,Seed. :: On an Acre. :: Pecks.,"8,8854",88854.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1920,1920.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,7,Produce :: In a good crop. :: Increase folds.,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"44,427",44427.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,1248,1248.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,10,Produce :: In an indifferent crop. :: Increase folds.,13,13.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,2,data,,Rice Dodacassery,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"28,877333",28877333.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,2,Months required to ripen.,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,3,Quality.,Middle,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,4,Seed. :: On a Colaga-land. :: Seers.,88,88.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,5,Seed. :: On an Acre. :: Pecks.,"8,145",8145.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1536,1536.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,7,Produce :: In a good crop. :: Increase folds.,17 5/11,17.454545,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"35,541777",35541777.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,864,864.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,10,Produce :: In an indifferent crop. :: Increase folds.,9 9/11,9.818182,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,3,data,,Rice Chaningy,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"19,99",1999.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,2,Months required to ripen.,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,4,Seed. :: On a Colaga-land. :: Seers.,88,88.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,5,Seed. :: On an Acre. :: Pecks.,"8,145",8145.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1536,1536.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,7,Produce :: In a good crop. :: Increase folds.,17 5/11,17.454545,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"35,541777",35541777.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,864,864.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,10,Produce :: In an indifferent crop. :: Increase folds.,9 9/11,9.818182,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,4,data,,Rice Gayruda Chaningy,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"19,99",1999.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,2,Months required to ripen.,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,3,Quality.,Small,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,4,Seed. :: On a Colaga-land. :: Seers.,80,80.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,5,Seed. :: On an Acre. :: Pecks.,"7,405",7405.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,960,960.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,7,Produce :: In a good crop. :: Increase folds.,12,12.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"22,213684",22213684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,672,672.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,10,Produce :: In an indifferent crop. :: Increase folds.,8 4/10,8.4,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,5,data,,Rice Tripathi,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"15,55",1555.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,2,Months required to ripen.,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,4,Seed. :: On a Colaga-land. :: Seers.,80,80.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,5,Seed. :: On an Acre. :: Pecks.,"7,405",7405.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1152,1152.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,7,Produce :: In a good crop. :: Increase folds.,14 2/5,14.4,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"26,65625",2665625.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,768,768.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,10,Produce :: In an indifferent crop. :: Increase folds.,9 3/5,9.6,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,6,data,,Rice Cari Nelly,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"17,770909",17770909.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,2,Months required to ripen.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,3,Quality.,Middling,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,4,Seed. :: On a Colaga-land. :: Seers.,88,88.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,5,Seed. :: On an Acre. :: Pecks.,"8,145",8145.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1920,1920.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,7,Produce :: In a good crop. :: Increase folds.,22,22.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"44,427",44427.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,1344,1344.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,10,Produce :: In an indifferent crop. :: Increase folds.,15 3/11,15.272727,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,7,data,,Rice Bily Nelly,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"31,1",311.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,2,Months required to ripen.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,3,Quality.,Small,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,4,Seed. :: On a Colaga-land. :: Seers.,80,80.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,5,Seed. :: On an Acre. :: Pecks.,"7,405",7405.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1152,1152.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,7,Produce :: In a good crop. :: Increase folds.,14 2/5,14.4,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"26,65625",2665625.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,768,768.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,10,Produce :: In an indifferent crop. :: Increase folds.,9 3/5,9.6,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,8,data,,Rice Put'-Rája,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"17,770909",17770909.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,2,Months required to ripen.,5 1/2,5.5,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,3,Quality.,Ditto,,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,4,Seed. :: On a Colaga-land. :: Seers.,80,80.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,5,Seed. :: On an Acre. :: Pecks.,"7,405",7405.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,768,768.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,7,Produce :: In a good crop. :: Increase folds.,9 3/5,9.6,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"17,770909",17770909.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,576,576.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,10,Produce :: In an indifferent crop. :: Increase folds.,7 2/10,7.2,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,9,data,,Rice Sucadass,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,"13,328125",13328125.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,2,Months required to ripen.,6 1/2,6.5,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,4,Seed. :: On a Colaga-land. :: Seers.,12,12.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,5,Seed. :: On an Acre. :: Pecks.,"1,110684",1110684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,960,960.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,7,Produce :: In a good crop. :: Increase folds.,80,80.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"22,213684",22213684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,10,data,,Doda Ragy in place of the Kartika crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,2,Months required to ripen.,6 1/2,6.5,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,4,Seed. :: On a Colaga-land. :: Seers.,12,12.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,5,Seed. :: On an Acre. :: Pecks.,"1,110684",1110684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,1440,1440.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,7,Produce :: In a good crop. :: Increase folds.,120,120.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"33,32",3332.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,11,data,,Tripathi Ragy in place of the Vaisakha crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,2,Months required to ripen.,4 1/2,4.5,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,4,Seed. :: On a Colaga-land. :: Seers.,12,12.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,5,Seed. :: On an Acre. :: Pecks.,"1,110684",1110684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,768,768.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,7,Produce :: In a good crop. :: Increase folds.,64,64.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"17,770909",17770909.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,12,data,,Bily Jola in place of the Vaisakha crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,2,Months required to ripen.,4,4.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,4,Seed. :: On a Colaga-land. :: Seers.,12,12.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,5,Seed. :: On an Acre. :: Pecks.,"1,110684",1110684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,384,384.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,7,Produce :: In a good crop. :: Increase folds.,52,52.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"8,8854",88854.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,13,data,,Kempa Jola in place of the Vaisakha crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,2,Months required to ripen.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,4,Seed. :: On a Colaga-land. :: Seers.,12,12.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,5,Seed. :: On an Acre. :: Pecks.,"1,110684",1110684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,576,576.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,7,Produce :: In a good crop. :: Increase folds.,48,48.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"13,328125",13328125.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,14,data,,Hessaru Jola in place of the Vaisakha crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",2,Months required to ripen.,3 1/2,3.5,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",4,Seed. :: On a Colaga-land. :: Seers.,24,24.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",5,Seed. :: On an Acre. :: Pecks.,"2,221368",2221368.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",6,Produce :: In a good crop. :: On a Colaga-land. Seers.,480,480.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",7,Produce :: In a good crop. :: Increase folds.,20,20.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"11,106842",11106842.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,15,data,,"Navony Bily, or Mobu, in place of the Kartika crop",11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,2,Months required to ripen.,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,4,Seed. :: On a Colaga-land. :: Seers.,96,96.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,5,Seed. :: On an Acre. :: Pecks.,"8,8854",88854.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,960,960.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,7,Produce :: In a good crop. :: Increase folds.,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"22,213684",22213684.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,16,data,,Wheat Juri Godi in place of the Vaisakha crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,2,Months required to ripen.,3,3.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,3,Quality.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,4,Seed. :: On a Colaga-land. :: Seers.,48,48.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,5,Seed. :: On an Acre. :: Pecks.,"4,4427",44427.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,6,Produce :: In a good crop. :: On a Colaga-land. Seers.,480,480.0,seers,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,7,Produce :: In a good crop. :: Increase folds.,10,10.0,,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,8,Produce :: In a good crop. :: On an Acre. W. Bushels.,"11,106842",11106842.0,acres,False,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,9,Produce :: In an indifferent crop. :: On a Colaga-land. Seers.,,,seers,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,10,Produce :: In an indifferent crop. :: Increase folds.,,,,True,False
+journey-from-madras-vol-i,tbl-042,Table 42,450,402,17,data,,Ditto Hotay Godi in place of the Vaisakha crop,11,Produce :: In an indifferent crop. :: On an Acre. Bushels.,,,acres,True,False

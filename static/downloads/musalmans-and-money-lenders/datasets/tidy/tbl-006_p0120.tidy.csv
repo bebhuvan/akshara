@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,1,data,,Bannu,2,2 :: Tract.,Marwat ... Isakhel ... Mianwali ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,1,data,,Bannu,3,3 :: Average annual rainfall in inches.,12,12.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,1,data,,Bannu,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,470,470.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,1,data,,Bannu,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"2,450",2450.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,1,data,,Bannu,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"2,920",2920.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,1,data,,Bannu,7,7 :: Estimated land revenue of area in column 4.,"1,50,000",150000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,2,data,,Dera-Ismail-Khan,2,2 :: Tract.,Cis-Indus uplands and part of Tank.,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,2,data,,Dera-Ismail-Khan,3,3 :: Average annual rainfall in inches.,8,8.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,2,data,,Dera-Ismail-Khan,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,77,77.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,2,data,,Dera-Ismail-Khan,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"6,037",6037.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,2,data,,Dera-Ismail-Khan,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"6,114",6114.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,2,data,,Dera-Ismail-Khan,7,7 :: Estimated land revenue of area in column 4.,"25,000",25000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,3,data,,Dera-Ghazi-Khan,2,2 :: Tract.,The Pachad ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,3,data,,Dera-Ghazi-Khan,3,3 :: Average annual rainfall in inches.,8,8.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,3,data,,Dera-Ghazi-Khan,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,375,375.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,3,data,,Dera-Ghazi-Khan,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"1,942",1942.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,3,data,,Dera-Ghazi-Khan,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"2,317",2317.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,3,data,,Dera-Ghazi-Khan,7,7 :: Estimated land revenue of area in column 4.,"90,000",90000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,4,data,,Rawalpindi,2,2 :: Tract.,Pindigheb ... Fattehjang ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,4,data,,Rawalpindi,3,3 :: Average annual rainfall in inches.,19 15,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,4,data,,Rawalpindi,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,605,605.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,4,data,,Rawalpindi,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"3,344",3344.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,4,data,,Rawalpindi,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"3,949",3949.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,4,data,,Rawalpindi,7,7 :: Estimated land revenue of area in column 4.,"1,94,000",194000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,5,data,,Jhelum,2,2 :: Tract.,Pind-Dadan-Khan Chakwal ... Tallaganj,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,5,data,,Jhelum,3,3 :: Average annual rainfall in inches.,18 15 19,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,5,data,,Jhelum,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,752,752.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,5,data,,Jhelum,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"2,576",2576.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,5,data,,Jhelum,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"3,328",3328.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,5,data,,Jhelum,7,7 :: Estimated land revenue of area in column 4.,"2,40,000",240000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,6,data,,Shahpur,2,2 :: Tract.,All but sailâb lands,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,6,data,,Shahpur,3,3 :: Average annual rainfall in inches.,13,13.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,6,data,,Shahpur,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,98,98.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,6,data,,Shahpur,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"3,571",3571.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,6,data,,Shahpur,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"3,669",3669.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,6,data,,Shahpur,7,7 :: Estimated land revenue of area in column 4.,"31,000",31000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,7,data,,Montgomery,2,2 :: Tract.,Ditto ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,7,data,,Montgomery,3,3 :: Average annual rainfall in inches.,9,9.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,7,data,,Montgomery,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,16,16.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,7,data,,Montgomery,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"4,015",4015.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,7,data,,Montgomery,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"4,031",4031.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,7,data,,Montgomery,7,7 :: Estimated land revenue of area in column 4.,"5,000",5000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,8,data,,Jhang,2,2 :: Tract.,Ditto ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,8,data,,Jhang,3,3 :: Average annual rainfall in inches.,10,10.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,8,data,,Jhang,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,5,5.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,8,data,,Jhang,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"4,059",4059.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,8,data,,Jhang,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"4,064",4064.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,8,data,,Jhang,7,7 :: Estimated land revenue of area in column 4.,"3,000",3000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,9,data,,Mooltan,2,2 :: Tract.,Ditto ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,9,data,,Mooltan,3,3 :: Average annual rainfall in inches.,6,6.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,9,data,,Mooltan,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,164,164.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,9,data,,Mooltan,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"4,231",4231.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,9,data,,Mooltan,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"4,395",4395.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,9,data,,Mooltan,7,7 :: Estimated land revenue of area in column 4.,"52,000",52000.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,10,total,,Row 10,2,2 :: Tract.,Total ...,,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,10,total,,Row 10,3,3 :: Average annual rainfall in inches.,...,,,True,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,10,total,,Row 10,4,4 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Cultivated.,"2,562",2562.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,10,total,,Row 10,5,5 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Uncultivated.,"32,225",32225.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,10,total,,Row 10,6,6 :: AREA IN SQUARE MILES DEPENDENT ON RAINFALL. :: Total.,"34,787",34787.0,,False,True
+musalmans-and-money-lenders,tbl-006,Table 6,120,108,10,total,,Row 10,7,7 :: Estimated land revenue of area in column 4.,"7,90,000",790000.0,,False,True

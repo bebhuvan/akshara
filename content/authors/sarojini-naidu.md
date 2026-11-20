@@ -5,9 +5,13 @@ full_name: "Sarojini Naidu"
 birth_year: 1879
 death_year: 1949
 birth_place: "Hyderabad, India"
-languages: ["English", "Telugu", "Urdu", "Bengali"]
+languages:
+  - "English"
+  - "Telugu"
+  - "Urdu"
+  - "Bengali"
 short_bio: "Known as the 'Nightingale of India,' Sarojini Naidu was a poet, political activist, and freedom fighter."
-works_count: 10
+works_count: 1
 first_publication: 1905
 ---
 

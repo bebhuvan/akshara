@@ -1,0 +1,103 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-english-factories-india-1630-1633-vol-04",
+  "title": "The English Factories in India, 1630–1633 — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "William Foster",
+      "role": "author"
+    }
+  ],
+  "temporal": "1630-1633",
+  "spatial": "Gujarat, Surat, Broach, Coromandel, Bengal, Balasore",
+  "resources": [
+    {
+      "name": "tbl-001-diplomatic",
+      "title": "ENGLISH CHIEFS AT SURAT, 1613-1633. (Diplomatic Matrix)",
+      "path": "tables/tbl-001_p0046.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-001-tidy",
+      "title": "ENGLISH CHIEFS AT SURAT, 1613-1633. (Tidy Observations)",
+      "path": "tidy/tbl-001_p0046.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    }
+  ]
+}

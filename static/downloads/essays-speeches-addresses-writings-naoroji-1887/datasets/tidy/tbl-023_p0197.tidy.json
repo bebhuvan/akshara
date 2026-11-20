@@ -1,0 +1,20 @@
+[
+  {
+    "book_id": "essays-speeches-addresses-writings-naoroji-1887",
+    "table_id": "tbl-023",
+    "caption": "Rice—",
+    "page_number": 197,
+    "printed_folio": "178",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "822,218",
+    "column_index": 2,
+    "column_header": "Produce, maund of 82 lbs.",
+    "raw_text": "9,197,713, giving an average of 917 lbs.",
+    "value_numeric": null,
+    "unit": "lbs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

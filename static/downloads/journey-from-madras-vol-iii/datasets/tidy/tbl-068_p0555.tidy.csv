@@ -1,0 +1,403 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,1,data,,"Ajuan, Seed of an umbelliferous Plant",2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,1,data,,"Ajuan, Seed of an umbelliferous Plant",3,Quality. :: C,Confectionary,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,1,data,,"Ajuan, Seed of an umbelliferous Plant",4,Quantity.,2 pots,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,2,data,,Ditto,2,Quantity.,4 maunds,4.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,2,data,,Ditto,3,Quality. :: C,Coco-Nut Oil,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,2,data,,Ditto,4,Quantity.,12 paddas,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,3,data,,Ditto,2,Quantity.,14 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,3,data,,Ditto,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,3,data,,Ditto,4,Quantity.,50 cooties,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,4,data,,Arrack,2,Quantity.,4 casks,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,4,data,,Arrack,3,Quality. :: C,Cointer Seed,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,4,data,,Arrack,4,Quantity.,31 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,5,data,,Almonds,2,Quantity.,25 maunds,25.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,5,data,,Almonds,3,Quality. :: C,Camphire,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,5,data,,Almonds,4,Quantity.,¼ maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,6,data,,Ditto,2,Quantity.,1 jar,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,6,data,,Ditto,3,Quality. :: C,Cotton,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,6,data,,Ditto,4,Quantity.,6 candies 9¾ maunds,,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,7,data,,Ditto,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,7,data,,Ditto,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,7,data,,Ditto,4,Quantity.,40 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,8,data,,Ditto,2,Quantity.,1 cappat,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,8,data,,Ditto,3,Quality. :: C,Chandroise,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,8,data,,Ditto,4,Quantity.,2 bales,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,9,data,,Row 9,2,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,9,data,,Row 9,3,Quality. :: C,Curtain Cloth,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,9,data,,Row 9,4,Quantity.,2 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,10,data,,B,2,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,10,data,,B,3,Quality. :: C,"Chilly Pepper, Capsicum",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,10,data,,B,4,Quantity.,8½ maunds,8.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,11,data,,Row 11,2,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,11,data,,Row 11,3,Quality. :: C,Columbo Arrack,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,11,data,,Row 11,4,Quantity.,15 leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,12,data,,Bengal Piece Goods,2,Quantity.,155 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,12,data,,Bengal Piece Goods,3,Quality. :: C,Ditto ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,12,data,,Bengal Piece Goods,4,Quantity.,30 gallons,30.0,gallons,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,13,data,,Betel-Nut,2,Quantity.,2½ maunds,2.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,13,data,,Betel-Nut,3,Quality. :: C,Cadys,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,13,data,,Betel-Nut,4,Quantity.,20 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,14,data,,Boots,2,Quantity.,24 pair,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,14,data,,Boots,3,Quality. :: C,Cochin Shoes,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,14,data,,Boots,4,Quantity.,"7 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,15,data,,Barley,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,15,data,,Barley,3,Quality. :: C,Chella Cloth,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,15,data,,Barley,4,Quantity.,67 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,16,data,,Beer,2,Quantity.,7 casks,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,16,data,,Beer,3,Quality. :: C,China Shoes,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,16,data,,Beer,4,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,17,data,,Ditto,2,Quantity.,28 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,17,data,,Ditto,3,Quality. :: C,Chints,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,17,data,,Ditto,4,Quantity.,238 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,18,data,,Ditto,2,Quantity.,½ leaguer,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,18,data,,Ditto,3,Quality. :: C,Copper Pots,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,18,data,,Ditto,4,Quantity.,40 maunds,40.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,19,data,,"Blue Doty, Cotton Cloth",2,Quantity.,59 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,19,data,,"Blue Doty, Cotton Cloth",3,Quality. :: C,"China Summerheads, Umbrellas)",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,19,data,,"Blue Doty, Cotton Cloth",4,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,20,data,,Ditto,2,Quantity.,"23 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,20,data,,Ditto,3,Quality. :: C,"Comblics, Country Blankets",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,20,data,,Ditto,4,Quantity.,"1½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,21,data,,Blue,2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,21,data,,Blue,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,21,data,,Blue,4,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,22,data,,Brass Pots,2,Quantity.,6,6.0,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,22,data,,Brass Pots,3,Quality. :: C,"Cot Lace, a kind of Tape",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,22,data,,Brass Pots,4,Quantity.,4 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,23,data,,Benjamin,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,23,data,,Benjamin,3,Quality. :: C,China Ware,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,23,data,,Benjamin,4,Quantity.,20 chests,20.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,24,data,,Ditto,2,Quantity.,1½ maund,1.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,24,data,,Ditto,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,24,data,,Ditto,4,Quantity.,1 basket,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,25,data,,Bruces (Brushes?),2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,25,data,,Bruces (Brushes?),3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,25,data,,Bruces (Brushes?),4,Quantity.,5 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,26,data,,Brandy,2,Quantity.,2 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,26,data,,Brandy,3,Quality. :: C,China Paper,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",555,507,26,data,,Brandy,4,Quantity.,4½ quires,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,27,data,,Country Medicine,2,Quantity.,2 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,27,data,,Country Medicine,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,27,data,,Country Medicine,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,28,data,,Country Thread,2,Quantity.,19 lbs.,19.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,28,data,,Country Thread,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,28,data,,Country Thread,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,29,data,,Country Twine,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,29,data,,Country Twine,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,29,data,,Country Twine,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,30,data,,Ditto,2,Quantity.,1½ maund,1.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,30,data,,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,30,data,,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,31,data,,Ditto,2,Quantity.,4 lbs.,4.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,31,data,,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,31,data,,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,32,data,,Coco-Nuts,2,Quantity.,19700,19700.0,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,32,data,,Coco-Nuts,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,32,data,,Coco-Nuts,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,33,data,,Combla Mass (Fish),2,Quantity.,60500 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,33,data,,Combla Mass (Fish),3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,33,data,,Combla Mass (Fish),4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,34,data,,Ditto ditto,2,Quantity.,26 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,34,data,,Ditto ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,34,data,,Ditto ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,35,data,,Coffee,2,Quantity.,6 chests,6.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,35,data,,Coffee,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,35,data,,Coffee,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,36,data,,Ditto,2,Quantity.,6 maunds,6.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,36,data,,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,36,data,,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,38,data,D,Dry Coco-Nuts,2,Quantity.,5 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,38,data,D,Dry Coco-Nuts,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,38,data,D,Dry Coco-Nuts,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,39,data,D,"Dupatts, a Cotton Cloth",2,Quantity.,"6 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,39,data,D,"Dupatts, a Cotton Cloth",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,39,data,D,"Dupatts, a Cotton Cloth",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,40,data,D,Dates,2,Quantity.,37 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,40,data,D,Dates,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,40,data,D,Dates,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,41,data,D,Ditto,2,Quantity.,3 candies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,41,data,D,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,41,data,D,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,42,data,D,Ditto,2,Quantity.,71 bales,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,42,data,D,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,42,data,D,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,43,data,D,Ditto,2,Quantity.,20 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,43,data,D,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,43,data,D,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,44,data,D,Dimity,2,Quantity.,18 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,44,data,D,Dimity,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,44,data,D,Dimity,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,45,data,D,"Dholl, a kind of Pulse",2,Quantity.,141 maunds,141.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,45,data,D,"Dholl, a kind of Pulse",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,45,data,D,"Dholl, a kind of Pulse",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,46,data,D,Ditto,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,46,data,D,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,46,data,D,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,47,data,D,"Dungary, a Cotton Cloth",2,Quantity.,"15 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,47,data,D,"Dungary, a Cotton Cloth",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,47,data,D,"Dungary, a Cotton Cloth",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,49,data,E,Europe Cloth,2,Quantity.,6 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,49,data,E,Europe Cloth,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,49,data,E,Europe Cloth,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,50,data,E,"Ditto, Chints",2,Quantity.,9 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,50,data,E,"Ditto, Chints",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,50,data,E,"Ditto, Chints",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,51,data,E,Empty Bottles,2,Quantity.,109 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,51,data,E,Empty Bottles,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,51,data,E,Empty Bottles,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,52,data,E,Europe Twine,2,Quantity.,2 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,52,data,E,Europe Twine,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,52,data,E,Europe Twine,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,53,data,E,Ditto Thread,2,Quantity.,6 lbs.,6.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,53,data,E,Ditto Thread,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,53,data,E,Ditto Thread,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,55,data,G,"Ginghams, a Cotton Cloth",2,Quantity.,"2 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,55,data,G,"Ginghams, a Cotton Cloth",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,55,data,G,"Ginghams, a Cotton Cloth",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,56,data,G,Ditto,2,Quantity.,8 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,56,data,G,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,56,data,G,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,57,data,G,"Gram, a kind of Pulse",2,Quantity.,500 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,57,data,G,"Gram, a kind of Pulse",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,57,data,G,"Gram, a kind of Pulse",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,58,data,G,Ditto,2,Quantity.,1½ candy,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,58,data,G,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,58,data,G,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,59,data,G,Ditto,2,Quantity.,28 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,59,data,G,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,59,data,G,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,60,data,G,Gin,2,Quantity.,10 chests,10.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,60,data,G,Gin,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,60,data,G,Gin,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,61,data,G,Ditto,2,Quantity.,2 cases,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,61,data,G,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,61,data,G,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,62,data,G,Glass Ware,2,Quantity.,13 chests,13.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,62,data,G,Glass Ware,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,62,data,G,Glass Ware,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,63,data,G,"Ghee, Boiled Butter",2,Quantity.,"43 duppers, or skins",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,63,data,G,"Ghee, Boiled Butter",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,63,data,G,"Ghee, Boiled Butter",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,64,data,G,Ditto,2,Quantity.,2 pots,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,64,data,G,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,64,data,G,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,66,data,H,Hooka-Snakes,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,66,data,H,Hooka-Snakes,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,66,data,H,Hooka-Snakes,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,67,data,H,Horse-Shoes,2,Quantity.,10 pair,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,67,data,H,Horse-Shoes,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,67,data,H,Horse-Shoes,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,68,data,H,Hams,2,Quantity.,15 chests,15.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,68,data,H,Hams,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,68,data,H,Hams,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,69,data,H,Hats,2,Quantity.,3,3.0,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,69,data,H,Hats,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,69,data,H,Hats,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,70,data,H,Handles,2,Quantity.,10 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,70,data,H,Handles,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,70,data,H,Handles,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,71,data,H,Handkerchiefs,2,Quantity.,2 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,71,data,H,Handkerchiefs,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,71,data,H,Handkerchiefs,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,73,data,I,"Izary, Cotton Cloth",2,Quantity.,3 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,73,data,I,"Izary, Cotton Cloth",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,73,data,I,"Izary, Cotton Cloth",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,74,data,I,"Iron, Brass (Bars?)",2,Quantity.,2 candies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,74,data,I,"Iron, Brass (Bars?)",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,74,data,I,"Iron, Brass (Bars?)",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,75,data,I,"Jack Wood, Artocarpus",2,Quantity.,25 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,75,data,I,"Jack Wood, Artocarpus",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,75,data,I,"Jack Wood, Artocarpus",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,76,data,I,Issence (Incense?),2,Quantity.,1½ maund,1.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,76,data,I,Issence (Incense?),3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,76,data,I,Issence (Incense?),4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,78,data,K,Knives and Forks,2,Quantity.,6 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,78,data,K,Knives and Forks,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,78,data,K,Knives and Forks,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,80,data,L,Leather Gloves,2,Quantity.,1 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,80,data,L,Leather Gloves,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,80,data,L,Leather Gloves,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,81,data,L,Large Nails,2,Quantity.,225,225.0,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,81,data,L,Large Nails,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,81,data,L,Large Nails,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,82,data,L,Lime Pickles,2,Quantity.,6 jars,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,82,data,L,Lime Pickles,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,82,data,L,Lime Pickles,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,83,data,L,Ditto,2,Quantity.,200,200.0,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,83,data,L,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,83,data,L,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,85,data,M,"Methy Seed, Fenugreek",2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,85,data,M,"Methy Seed, Fenugreek",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,85,data,M,"Methy Seed, Fenugreek",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,86,data,M,Maneary,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,86,data,M,Maneary,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,86,data,M,Maneary,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,87,data,M,Mowdah,2,Quantity.,9 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,87,data,M,Mowdah,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,87,data,M,Mowdah,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,88,data,M,Manapar Cloth,2,Quantity.,57½ bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,88,data,M,Manapar Cloth,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,88,data,M,Manapar Cloth,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,89,data,M,Ditto,2,Quantity.,34 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,89,data,M,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,89,data,M,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,90,data,M,Madeira Wine,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,90,data,M,Madeira Wine,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,90,data,M,Madeira Wine,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,91,data,M,Ditto,2,Quantity.,½ pipe,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,91,data,M,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,91,data,M,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,93,data,N,Nankins,2,Quantity.,54 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,93,data,N,Nankins,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,93,data,N,Nankins,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,94,data,N,Nutmegs,2,Quantity.,12 lbs.,12.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,94,data,N,Nutmegs,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,94,data,N,Nutmegs,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,95,data,N,"Nelly, Rice in the Husk",2,Quantity.,2500 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,95,data,N,"Nelly, Rice in the Husk",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,95,data,N,"Nelly, Rice in the Husk",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,97,data,O,Opium,2,Quantity.,12 lbs.,12.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,97,data,O,Opium,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,97,data,O,Opium,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,98,data,O,"Orny, Gold Thread",2,Quantity.,5 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,98,data,O,"Orny, Gold Thread",3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,98,data,O,"Orny, Gold Thread",4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,99,data,O,Onions,2,Quantity.,7 candies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,99,data,O,Onions,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,99,data,O,Onions,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,100,data,O,Ditto,2,Quantity.,3 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,100,data,O,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,100,data,O,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,101,data,O,Oil,2,Quantity.,"13 duppers, or skins",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,101,data,O,Oil,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,101,data,O,Oil,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,103,data,P,Piece Goods,2,Quantity.,"8 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,103,data,P,Piece Goods,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,103,data,P,Piece Goods,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,104,data,P,Ditto,2,Quantity.,37½ ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,104,data,P,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,104,data,P,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,105,data,P,Ditto,2,Quantity.,671 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,105,data,P,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,105,data,P,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,106,data,P,Portuguese Paper,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,106,data,P,Portuguese Paper,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,106,data,P,Portuguese Paper,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,107,data,P,Ditto ditto,2,Quantity.,128 reams,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,107,data,P,Ditto ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,107,data,P,Ditto ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,108,data,P,Ditto ditto,2,Quantity.,5 quires,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,108,data,P,Ditto ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,108,data,P,Ditto ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,109,data,P,Padlocks,2,Quantity.,15 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,109,data,P,Padlocks,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,109,data,P,Padlocks,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,110,data,P,Palighat Tobacco,2,Quantity.,2 bales,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,110,data,P,Palighat Tobacco,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,110,data,P,Palighat Tobacco,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,111,data,P,Ditto Piece Goods,2,Quantity.,200 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,111,data,P,Ditto Piece Goods,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,111,data,P,Ditto Piece Goods,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,112,data,P,Perfumery,2,Quantity.,2 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,112,data,P,Perfumery,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,112,data,P,Perfumery,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,113,data,P,Pins,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,113,data,P,Pins,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,113,data,P,Pins,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,114,data,P,Port Wine,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,114,data,P,Port Wine,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,114,data,P,Port Wine,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,115,data,P,Pickles,2,Quantity.,2 cases,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,115,data,P,Pickles,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,115,data,P,Pickles,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,117,data,R,Rice,2,Quantity.,500 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,117,data,R,Rice,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,117,data,R,Rice,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,118,data,R,Ditto,2,Quantity.,1542 robins,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,118,data,R,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,118,data,R,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,119,data,R,Razors,2,Quantity.,30 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,119,data,R,Razors,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,119,data,R,Razors,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,120,data,R,Rum,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,120,data,R,Rum,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,120,data,R,Rum,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,122,data,S,Super San,2,Quantity.,3 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,122,data,S,Super San,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,122,data,S,Super San,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,123,data,S,Surat Tobacco,2,Quantity.,3 candies ¼ maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,123,data,S,Surat Tobacco,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",556,507,123,data,S,Surat Tobacco,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,124,data,S,Surat Tobacco,2,Quantity.,9 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,124,data,S,Surat Tobacco,3,Quality. :: C,Tobacco,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,124,data,S,Surat Tobacco,4,Quantity.,32 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,125,data,S,Soap,2,Quantity.,274 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,125,data,S,Soap,3,Quality. :: C,Turbands,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,125,data,S,Soap,4,Quantity.,20 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,126,data,S,Silver Epaulettes,2,Quantity.,1 pair,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,126,data,S,Silver Epaulettes,3,Quality. :: C,Taffetas,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,126,data,S,Silver Epaulettes,4,Quantity.,"1 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,127,data,S,South Cloth,2,Quantity.,5 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,127,data,S,South Cloth,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,127,data,S,South Cloth,4,Quantity.,15 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,128,data,S,Sandal Wood,2,Quantity.,14325 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,128,data,S,Sandal Wood,3,Quality. :: C,Turmerick,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,128,data,S,Sandal Wood,4,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,129,data,S,Saddy,2,Quantity.,388 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,129,data,S,Saddy,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,129,data,S,Saddy,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,130,data,S,Sugar,2,Quantity.,16 chests,16.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,130,data,S,Sugar,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,130,data,S,Sugar,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,131,data,S,Ditto,2,Quantity.,5 candies 3 maunds,,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,131,data,S,Ditto,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,131,data,S,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,132,data,S,Ditto,2,Quantity.,18 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,132,data,S,Ditto,3,Quality. :: C,V,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,132,data,S,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,133,data,S,Spanes Glass (Spying Glasses),2,Quantity.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,133,data,S,Spanes Glass (Spying Glasses),3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,133,data,S,Spanes Glass (Spying Glasses),4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,134,data,S,Sugar Candy,2,Quantity.,10 chests,10.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,134,data,S,Sugar Candy,3,Quality. :: C,Ulva Seed,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,134,data,S,Sugar Candy,4,Quantity.,4 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,135,data,S,Ditto,2,Quantity.,15 tubs,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,135,data,S,Ditto,3,Quality. :: C,Vinegar,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,135,data,S,Ditto,4,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,136,data,S,Stationery,2,Quantity.,3 chests,3.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,136,data,S,Stationery,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,136,data,S,Stationery,4,Quantity.,3 casks,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,137,data,S,Sundry Europe Articles,2,Quantity.,6 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,137,data,S,Sundry Europe Articles,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,137,data,S,Sundry Europe Articles,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,138,data,S,Scissars,2,Quantity.,3 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,138,data,S,Scissars,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,138,data,S,Scissars,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,139,data,S,Salt,2,Quantity.,1 bale,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,139,data,S,Salt,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,139,data,S,Salt,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,140,data,S,Ditto,2,Quantity.,7 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,140,data,S,Ditto,3,Quality. :: C,W,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,140,data,S,Ditto,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,141,data,S,Stockings,2,Quantity.,1 trunk,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,141,data,S,Stockings,3,Quality. :: C,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,141,data,S,Stockings,4,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,142,data,S,Salmon,2,Quantity.,1 cag,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,142,data,S,Salmon,3,Quality. :: C,Wax Candles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,142,data,S,Salmon,4,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,143,data,S,Shot,2,Quantity.,2 bags,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,143,data,S,Shot,3,Quality. :: C,Ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,143,data,S,Shot,4,Quantity.,3½ maunds,3.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,144,data,S,Silk Handkerchiefs,2,Quantity.,1 piece,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,144,data,S,Silk Handkerchiefs,3,Quality. :: C,Wine Glasses,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,144,data,S,Silk Handkerchiefs,4,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,145,data,S,T,2,Quantity.,,,,True,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,145,data,S,T,3,Quality. :: C,Wetery,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,145,data,S,T,4,Quantity.,1 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,146,data,S,Tobacco,2,Quantity.,1 candy 5 maunds,,maunds,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,146,data,S,Tobacco,3,Quality. :: C,Wheat,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,146,data,S,Tobacco,4,Quantity.,6½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,147,data,S,Ditto,2,Quantity.,93 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,147,data,S,Ditto,3,Quality. :: C,Wine and Claret,,,False,False
+journey-from-madras-vol-iii,tbl-068,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1800.",557,507,147,data,S,Ditto,4,Quantity.,2 chests,2.0,chests,False,False

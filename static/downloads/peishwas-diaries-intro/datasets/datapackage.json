@@ -1,0 +1,20 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-peishwas-diaries-intro",
+  "title": "Introduction to the Peishwa's Diaries — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Mahadev Govind Ranade",
+      "role": "author"
+    }
+  ],
+  "temporal": "1708-1817",
+  "spatial": "Maharashtra, Deccan, Bombay Presidency",
+  "resources": []
+}

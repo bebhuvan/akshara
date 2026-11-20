@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-031,Table 31,358,330,1,data,,Indapur,2,Percentage.,56,56.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-031,Table 31,358,330,2,data,,Pabal,2,Percentage.,48,48.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-031,Table 31,358,330,3,data,,Haveli,2,Percentage.,66,66.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-031,Table 31,358,330,4,data,,Bhimthari,2,Percentage.,63,63.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-031,Table 31,358,330,5,data,,Supa,2,Percentage.,32,32.0,%,False,False

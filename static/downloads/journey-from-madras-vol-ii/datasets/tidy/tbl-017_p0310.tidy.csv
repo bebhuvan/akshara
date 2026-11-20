@@ -1,0 +1,45 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,1,data,,"Cambu, or Holcus spicatus",2,Of one Vullam. :: Seed.,6 Vullams,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,1,data,,"Cambu, or Holcus spicatus",3,Of one Vullam. :: Produce.,2 Podis -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,1,data,,"Cambu, or Holcus spicatus",4,Of one Acre. :: Seed.,"dec. Bushels 0,1852",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,1,data,,"Cambu, or Holcus spicatus",5,Of one Acre. :: Produce.,"dec. Bushels 5,926",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,2,data,,"Muchu-cotay, or Dolichos Lablab",2,Of one Vullam. :: Seed.,1 ditto -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,2,data,,"Muchu-cotay, or Dolichos Lablab",3,Of one Vullam. :: Produce.,2 Moraus,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,2,data,,"Muchu-cotay, or Dolichos Lablab",4,Of one Acre. :: Seed.,"- - 0,0308",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,2,data,,"Muchu-cotay, or Dolichos Lablab",5,Of one Acre. :: Produce.,"- - 0,247",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,3,subtotal,,Total,2,Of one Vullam. :: Seed.,- - -,,,True,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,3,subtotal,,Total,3,Of one Vullam. :: Produce.,- - -,,,True,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,3,subtotal,,Total,4,Of one Acre. :: Seed.,"- - 0,216",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,3,subtotal,,Total,5,Of one Acre. :: Produce.,"- - 6,173",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,4,data,,"Sholum, or Holcus sorghum",2,Of one Vullam. :: Seed.,6 Vullams,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,4,data,,"Sholum, or Holcus sorghum",3,Of one Vullam. :: Produce.,8 Moraus,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,4,data,,"Sholum, or Holcus sorghum",4,Of one Acre. :: Seed.,"- - 0,1852",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,4,data,,"Sholum, or Holcus sorghum",5,Of one Acre. :: Produce.,"- - 0,988",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,5,data,,"Tat' Ellu, or Sesamum",2,Of one Vullam. :: Seed.,1⁄4 Vullam,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,5,data,,"Tat' Ellu, or Sesamum",3,Of one Vullam. :: Produce.,6 Vullams,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,5,data,,"Tat' Ellu, or Sesamum",4,Of one Acre. :: Seed.,"- - 0,0077",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,5,data,,"Tat' Ellu, or Sesamum",5,Of one Acre. :: Produce.,"- - 0,185",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,6,subtotal,,Total,2,Of one Vullam. :: Seed.,- - -,,,True,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,6,subtotal,,Total,3,Of one Vullam. :: Produce.,- - -,,,True,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,6,subtotal,,Total,4,Of one Acre. :: Seed.,"- - 0,1929",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,6,subtotal,,Total,5,Of one Acre. :: Produce.,"- - 1,173",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,7,data,,"Shamay, or Panicum miliare",2,Of one Vullam. :: Seed.,6 Vullams,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,7,data,,"Shamay, or Panicum miliare",3,Of one Vullam. :: Produce.,8 Moraus,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,7,data,,"Shamay, or Panicum miliare",4,Of one Acre. :: Seed.,"- - 0,1852",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,7,data,,"Shamay, or Panicum miliare",5,Of one Acre. :: Produce.,"- - 0,988",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,8,data,,"Wulindu, or Phaseolus minimoo",2,Of one Vullam. :: Seed.,6 ditto -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,8,data,,"Wulindu, or Phaseolus minimoo",3,Of one Vullam. :: Produce.,3 ditto -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,8,data,,"Wulindu, or Phaseolus minimoo",4,Of one Acre. :: Seed.,"- - 0,1852",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,8,data,,"Wulindu, or Phaseolus minimoo",5,Of one Acre. :: Produce.,"- - 0,37",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,9,data,,"Pacha Pyru, or Phaseolus Mungo",2,Of one Vullam. :: Seed.,6 ditto -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,9,data,,"Pacha Pyru, or Phaseolus Mungo",3,Of one Vullam. :: Produce.,3 ditto -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,9,data,,"Pacha Pyru, or Phaseolus Mungo",4,Of one Acre. :: Seed.,"- - 0,1852",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,9,data,,"Pacha Pyru, or Phaseolus Mungo",5,Of one Acre. :: Produce.,"- - 0,37",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,10,data,,"Tovaray, or Cytisus Cajan",2,Of one Vullam. :: Seed.,3 Puddies,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,10,data,,"Tovaray, or Cytisus Cajan",3,Of one Vullam. :: Produce.,1 ditto -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,10,data,,"Tovaray, or Cytisus Cajan",4,Of one Acre. :: Seed.,"- - 0,0023",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,10,data,,"Tovaray, or Cytisus Cajan",5,Of one Acre. :: Produce.,"- - 0,123",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,11,data,,Nadum cotton,2,Of one Vullam. :: Seed.,1 Tolam -,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,11,data,,Nadum cotton,3,Of one Vullam. :: Produce.,5 Tolams,,,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,11,data,,Nadum cotton,4,Of one Acre. :: Seed.,"- lb. 4,7619",,acres,False,False
+journey-from-madras-vol-ii,tbl-017,Table explaining the cultivation of dry-field at Erodu.,310,290,11,data,,Nadum cotton,5,Of one Acre. :: Produce.,"lb. 23,8095",,acres,False,False

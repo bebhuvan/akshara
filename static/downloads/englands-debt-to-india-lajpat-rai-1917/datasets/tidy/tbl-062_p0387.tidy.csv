@@ -1,0 +1,43 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,1,data,,Rangpur,2,Weekly wage of an able bodied agricultural labourer,$1.00 (1910),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,1,data,,Rangpur,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.66 (1910),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,2,data,,Backerganje,2,Weekly wage of an able bodied agricultural labourer,$ .82 to $1.00 (1910),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,2,data,,Backerganje,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.30 to $1.66 (1910),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,3,data,,Calcutta,2,Weekly wage of an able bodied agricultural labourer,$1.33 (1917),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,3,data,,Calcutta,3,"Weekly wage of a mason, carpenter, or blacksmith",....,,,True,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,4,data,,Patna,2,Weekly wage of an able bodied agricultural labourer,$ .49 (1907),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,4,data,,Patna,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.00 (1907),,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,6,data,United Provinces of Agra and Oude,Cawnpore ....1906,2,Weekly wage of an able bodied agricultural labourer,$ .33 to $ .49,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,6,data,United Provinces of Agra and Oude,Cawnpore ....1906,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.66,1.66,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,7,data,United Provinces of Agra and Oude,Fyzabad .....1906,2,Weekly wage of an able bodied agricultural labourer,$ .16 to $ .33,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,7,data,United Provinces of Agra and Oude,Fyzabad .....1906,3,"Weekly wage of a mason, carpenter, or blacksmith",$ .49 to $ .66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,8,data,United Provinces of Agra and Oude,Meerut ......1906,2,Weekly wage of an able bodied agricultural labourer,$ .35,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,8,data,United Provinces of Agra and Oude,Meerut ......1906,3,"Weekly wage of a mason, carpenter, or blacksmith",$ .82,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,10,data,Punjab,Delhi ........1909,2,Weekly wage of an able bodied agricultural labourer,$ .82,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,10,data,Punjab,Delhi ........1909,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.66,1.66,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,11,data,Punjab,Ameitsar ....1909,2,Weekly wage of an able bodied agricultural labourer,$ .79,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,11,data,Punjab,Ameitsar ....1909,3,"Weekly wage of a mason, carpenter, or blacksmith",$2.50,2.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,12,data,Punjab,Rawalpindi ...1909,2,Weekly wage of an able bodied agricultural labourer,$ .82,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,12,data,Punjab,Rawalpindi ...1909,3,"Weekly wage of a mason, carpenter, or blacksmith",$2.33,2.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,14,data,Sindh,Karachi ......1912,2,Weekly wage of an able bodied agricultural labourer,$1.08 to $1.33,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,14,data,Sindh,Karachi ......1912,3,"Weekly wage of a mason, carpenter, or blacksmith",$2.08 to $3.33,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,16,data,Bombay,Belgaum .....1908,2,Weekly wage of an able bodied agricultural labourer,$ .50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,16,data,Bombay,Belgaum .....1908,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.16 to $1.33,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,17,data,Bombay,Ahmadnagar .1914,2,Weekly wage of an able bodied agricultural labourer,$ .82,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,17,data,Bombay,Ahmadnagar .1914,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.33 to $2.00,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,18,data,Bombay,Bombay ......1912,2,Weekly wage of an able bodied agricultural labourer,$1.33,1.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,18,data,Bombay,Bombay ......1912,3,"Weekly wage of a mason, carpenter, or blacksmith",$2.33 to $3.50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,19,data,Bombay,Ahmadabad ..1912,2,Weekly wage of an able bodied agricultural labourer,$ .66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,19,data,Bombay,Ahmadabad ..1912,3,"Weekly wage of a mason, carpenter, or blacksmith",About $2.00,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,21,data,Central Provinces,Jubbulpur ....1908,2,Weekly wage of an able bodied agricultural labourer,$ .50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,21,data,Central Provinces,Jubbulpur ....1908,3,"Weekly wage of a mason, carpenter, or blacksmith",$2.50,2.5,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,22,data,Central Provinces,Nagpur ......1908,2,Weekly wage of an able bodied agricultural labourer,$ .66,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,22,data,Central Provinces,Nagpur ......1908,3,"Weekly wage of a mason, carpenter, or blacksmith",$2.00 to $2.50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,23,data,Central Provinces,Raepur ......1908,2,Weekly wage of an able bodied agricultural labourer,$ .50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,23,data,Central Provinces,Raepur ......1908,3,"Weekly wage of a mason, carpenter, or blacksmith",$1.33,1.33,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,25,data,Madras,Bellary ......1907,2,Weekly wage of an able bodied agricultural labourer,$ .50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,25,data,Madras,Bellary ......1907,3,"Weekly wage of a mason, carpenter, or blacksmith",Less than $1.50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,26,data,Madras,Madras ......1907,2,Weekly wage of an able bodied agricultural labourer,$ .50,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,26,data,Madras,Madras ......1907,3,"Weekly wage of a mason, carpenter, or blacksmith",“ “ “,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,27,data,Madras,Salem .......1907,2,Weekly wage of an able bodied agricultural labourer,$ .35,,,False,False
+englands-debt-to-india-lajpat-rai-1917,tbl-062,Table 62,387,347,27,data,Madras,Salem .......1907,3,"Weekly wage of a mason, carpenter, or blacksmith",“ “ “,,,False,False

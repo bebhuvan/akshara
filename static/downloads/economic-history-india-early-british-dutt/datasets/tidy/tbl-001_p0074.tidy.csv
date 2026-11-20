@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,1,data,,May    April 1765 to 1766,2,Gross collection.,"£ 2,258,227",2258227.0,GBP,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,1,data,,May    April 1765 to 1766,3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","£ 1,681,427",1681427.0,GBP,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,1,data,,May    April 1765 to 1766,4,"Total expenses, civil, military, buildings, fortifications, &c.","£ 1,210,360",1210360.0,GBP,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,1,data,,May    April 1765 to 1766,5,Nett annnal balance.,"£ 471,067",471067.0,GBP,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,2,data,,"1766 ,, 1767",2,Gross collection.,"3,805,817",3805817.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,2,data,,"1766 ,, 1767",3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","2,527,594",2527594.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,2,data,,"1766 ,, 1767",4,"Total expenses, civil, military, buildings, fortifications, &c.","1,274,093",1274093.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,2,data,,"1766 ,, 1767",5,Nett annnal balance.,"1,253,501",1253501.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,3,data,,"1767 ,, 1768",2,Gross collection.,"3,608,009",3608009.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,3,data,,"1767 ,, 1768",3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","2,359,005",2359005.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,3,data,,"1767 ,, 1768",4,"Total expenses, civil, military, buildings, fortifications, &c.","1,487,383",1487383.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,3,data,,"1767 ,, 1768",5,Nett annnal balance.,"871,622",871622.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,4,data,,"1768 ,, 1769",2,Gross collection.,"3,787,207",3787207.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,4,data,,"1768 ,, 1769",3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","2,402,191",2402191.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,4,data,,"1768 ,, 1769",4,"Total expenses, civil, military, buildings, fortifications, &c.","1,573,129",1573129.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,4,data,,"1768 ,, 1769",5,Nett annnal balance.,"829,062",829062.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,5,data,,"1769 ,, 1707",2,Gross collection.,"3,341,976",3341976.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,5,data,,"1769 ,, 1707",3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","2,089,368",2089368.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,5,data,,"1769 ,, 1707",4,"Total expenses, civil, military, buildings, fortifications, &c.","1,752,556",1752556.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,5,data,,"1769 ,, 1707",5,Nett annnal balance.,"336,812",336812.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,6,data,,"1707 ,, 1771",2,Gross collection.,"3,332,343",3332343.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,6,data,,"1707 ,, 1771",3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","2,007,176",2007176.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,6,data,,"1707 ,, 1771",4,"Total expenses, civil, military, buildings, fortifications, &c.","1,732,088",1732088.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,6,data,,"1707 ,, 1771",5,Nett annnal balance.,"275,088",275088.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,7,total,,Total,2,Gross collection.,"20,133,579",20133579.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,7,total,,Total,3,"Nett revenues after deducting tribute to the Great Moghal, allowance to the Nawab, charges of collection, salaries, commissions, &c.","13,066,761",13066761.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,7,total,,Total,4,"Total expenses, civil, military, buildings, fortifications, &c.","9,027,609",9027609.0,,False,True
+economic-history-india-early-british-dutt,tbl-001,Table 1,74,46,7,total,,Total,5,Nett annnal balance.,"4,037,152",4037152.0,,False,True

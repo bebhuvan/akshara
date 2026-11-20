@@ -1,0 +1,41 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,1,data,,Hassoday,2,Land.,Niravery,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,1,data,,Hassoday,3,Cultivation.,Dry-seed,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,1,data,,Hassoday,4,Quality.,Large,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,1,data,,Hassoday,5,Months required to ripen.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,2,data,,Chipiga,2,Land.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,2,data,,Chipiga,3,Cultivation.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,2,data,,Chipiga,4,Quality.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,2,data,,Chipiga,5,Months required to ripen.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,3,data,,Kiaseri,2,Land.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,3,data,,Kiaseri,3,Cultivation.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,3,data,,Kiaseri,4,Quality.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,3,data,,Kiaseri,5,Months required to ripen.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,4,data,,Cumbara Kiaseri,2,Land.,Both,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,4,data,,Cumbara Kiaseri,3,Cultivation.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,4,data,,Cumbara Kiaseri,4,Quality.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,4,data,,Cumbara Kiaseri,5,Months required to ripen.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,5,data,,Balla Mulligay,2,Land.,Niravery,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,5,data,,Balla Mulligay,3,Cultivation.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,5,data,,Balla Mulligay,4,Quality.,Middle sized,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,5,data,,Balla Mulligay,5,Months required to ripen.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,6,data,,Sana Butta Bily,2,Land.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,6,data,,Sana Butta Bily,3,Cultivation.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,6,data,,Sana Butta Bily,4,Quality.,Small,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,6,data,,Sana Butta Bily,5,Months required to ripen.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,7,data,,Do. Kempu,2,Land.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,7,data,,Do. Kempu,3,Cultivation.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,7,data,,Do. Kempu,4,Quality.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,7,data,,Do. Kempu,5,Months required to ripen.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,8,data,,Modara,2,Land.,Both,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,8,data,,Modara,3,Cultivation.,All 3 methods,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,8,data,,Modara,4,Quality.,Coarse,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,8,data,,Modara,5,Months required to ripen.,7,7.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,9,data,,Kirwiunna,2,Land.,Niravery,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,9,data,,Kirwiunna,3,Cultivation.,Dry-seed transplanted,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,9,data,,Kirwiunna,4,Quality.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,9,data,,Kirwiunna,5,Months required to ripen.,8,8.0,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,10,data,,Putta Butta,2,Land.,do.,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,10,data,,Putta Butta,3,Cultivation.,Dry and sprouted-seed,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,10,data,,Putta Butta,4,Quality.,Small,,,False,False
+journey-from-madras-vol-iii,tbl-037,Table 37,434,394,10,data,,Putta Butta,5,Months required to ripen.,8,8.0,,False,False

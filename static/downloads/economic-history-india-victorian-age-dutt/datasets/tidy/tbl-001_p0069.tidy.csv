@@ -1,0 +1,101 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,1,data,,Delhi,2,District.,Delhi,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,1,data,,Delhi,3,Total Area in Acres.,"364,534",364534.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,1,data,,Delhi,4,Cultivated Area in Acres.,"174,605",174605.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,1,data,,Delhi,5,Bird's Assessment of the Land Tax. :: £,"36,337",36337.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,2,data,,Row 2,2,District.,Rohtuk,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,2,data,,Row 2,3,Total Area in Acres.,"844,666",844666.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,2,data,,Row 2,4,Cultivated Area in Acres.,"474,465",474465.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,2,data,,Row 2,5,Bird's Assessment of the Land Tax. :: £,"62,831",62831.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,3,data,,Row 3,2,District.,Gurgaon,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,3,data,,Row 3,3,Total Area in Acres.,"1,160,437",1160437.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,3,data,,Row 3,4,Cultivated Area in Acres.,"647,353",647353.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,3,data,,Row 3,5,Bird's Assessment of the Land Tax. :: £,"101,424",101424.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,4,data,,Row 4,2,District.,Hissar,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,4,data,,Row 4,3,Total Area in Acres.,"1,657,975",1657975.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,4,data,,Row 4,4,Cultivated Area in Acres.,"696,147",696147.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,4,data,,Row 4,5,Bird's Assessment of the Land Tax. :: £,"38,020",38020.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,5,data,,Meerut,2,District.,Saharanpur,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,5,data,,Meerut,3,Total Area in Acres.,"1,018,705",1018705.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,5,data,,Meerut,4,Cultivated Area in Acres.,"606,847",606847.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,5,data,,Meerut,5,Bird's Assessment of the Land Tax. :: £,"100,558",100558.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,6,data,,Row 6,2,District.,Muzaffarnagar,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,6,data,,Row 6,3,Total Area in Acres.,"691,706",691706.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,6,data,,Row 6,4,Cultivated Area in Acres.,"392,377",392377.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,6,data,,Row 6,5,Bird's Assessment of the Land Tax. :: £,"67,274",67274.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,7,data,,Row 7,2,District.,Meerut,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,7,data,,Row 7,3,Total Area in Acres.,"1,776,430",1776430.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,7,data,,Row 7,4,Cultivated Area in Acres.,"1,034,016",1034016.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,7,data,,Row 7,5,Bird's Assessment of the Land Tax. :: £,"281,561",281561.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,8,data,,Row 8,2,District.,Bulandshahar,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,8,data,,Row 8,3,Total Area in Acres.,"1,025,096",1025096.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,8,data,,Row 8,4,Cultivated Area in Acres.,"592,630",592630.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,8,data,,Row 8,5,Bird's Assessment of the Land Tax. :: £,"95,168",95168.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,9,data,,Row 9,2,District.,Aligarh,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,9,data,,Row 9,3,Total Area in Acres.,"1,119,238",1119238.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,9,data,,Row 9,4,Cultivated Area in Acres.,"900,562",900562.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,9,data,,Row 9,5,Bird's Assessment of the Land Tax. :: £,"196,448",196448.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,10,data,,Rohilkhand,2,District.,Bijnaur,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,10,data,,Rohilkhand,3,Total Area in Acres.,"1,027,533",1027533.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,10,data,,Rohilkhand,4,Cultivated Area in Acres.,"459,409",459409.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,10,data,,Rohilkhand,5,Bird's Assessment of the Land Tax. :: £,"112,237",112237.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,11,data,,Row 11,2,District.,Muradabad,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,11,data,,Row 11,3,Total Area in Acres.,not given,,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,11,data,,Row 11,4,Cultivated Area in Acres.,not given,,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,11,data,,Row 11,5,Bird's Assessment of the Land Tax. :: £,"66,870",66870.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,12,data,,Row 12,2,District.,Budaon,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,12,data,,Row 12,3,Total Area in Acres.,"1,450,418",1450418.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,12,data,,Row 12,4,Cultivated Area in Acres.,"752,103",752103.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,12,data,,Row 12,5,Bird's Assessment of the Land Tax. :: £,"110,306",110306.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,13,data,,Row 13,2,District.,Pilibeet,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,13,data,,Row 13,3,Total Area in Acres.,not given,,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,13,data,,Row 13,4,Cultivated Area in Acres.,not given,,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,13,data,,Row 13,5,Bird's Assessment of the Land Tax. :: £,"39,049",39049.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,14,data,,Row 14,2,District.,Bareli,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,14,data,,Row 14,3,Total Area in Acres.,"1,116,174",1116174.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,14,data,,Row 14,4,Cultivated Area in Acres.,"639,579",639579.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,14,data,,Row 14,5,Bird's Assessment of the Land Tax. :: £,"126,345",126345.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,15,data,,Row 15,2,District.,Shajehanpur,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,15,data,,Row 15,3,Total Area in Acres.,"1,309,211",1309211.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,15,data,,Row 15,4,Cultivated Area in Acres.,"651,549",651549.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,15,data,,Row 15,5,Bird's Assessment of the Land Tax. :: £,"102,707",102707.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,16,data,,Agra,2,District.,Muttra,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,16,data,,Agra,3,Total Area in Acres.,"1,016,153",1016153.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,16,data,,Agra,4,Cultivated Area in Acres.,not given,,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,16,data,,Agra,5,Bird's Assessment of the Land Tax. :: £,"155,728",155728.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,17,data,,Row 17,2,District.,Agra,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,17,data,,Row 17,3,Total Area in Acres.,"935,825",935825.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,17,data,,Row 17,4,Cultivated Area in Acres.,"646,818",646818.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,17,data,,Row 17,5,Bird's Assessment of the Land Tax. :: £,"139,297",139297.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,18,data,,Row 18,2,District.,Farakkabad,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,18,data,,Row 18,3,Total Area in Acres.,"1,247,288",1247288.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,18,data,,Row 18,4,Cultivated Area in Acres.,"614,253",614253.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,18,data,,Row 18,5,Bird's Assessment of the Land Tax. :: £,"149,575",149575.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,19,data,,Row 19,2,District.,Mynpuri,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,19,data,,Row 19,3,Total Area in Acres.,"1,280,927",1280927.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,19,data,,Row 19,4,Cultivated Area in Acres.,"613,422",613422.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,19,data,,Row 19,5,Bird's Assessment of the Land Tax. :: £,"138,238",138238.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,20,data,,Row 20,2,District.,Etawa,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,20,data,,Row 20,3,Total Area in Acres.,"1,071,756",1071756.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,20,data,,Row 20,4,Cultivated Area in Acres.,"477,901",477901.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,20,data,,Row 20,5,Bird's Assessment of the Land Tax. :: £,"131,093",131093.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,21,data,,Allahabad,2,District.,Cawnpur,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,21,data,,Allahabad,3,Total Area in Acres.,"1,497,795",1497795.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,21,data,,Allahabad,4,Cultivated Area in Acres.,"782,276",782276.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,21,data,,Allahabad,5,Bird's Assessment of the Land Tax. :: £,"218,154",218154.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,22,data,,Row 22,2,District.,Futtehpur,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,22,data,,Row 22,3,Total Area in Acres.,"990,584",990584.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,22,data,,Row 22,4,Cultivated Area in Acres.,"506,905",506905.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,22,data,,Row 22,5,Bird's Assessment of the Land Tax. :: £,"141,893",141893.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,23,data,,Row 23,2,District.,Allahabad,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,23,data,,Row 23,3,Total Area in Acres.,"1,790,244",1790244.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,23,data,,Row 23,4,Cultivated Area in Acres.,"997,508",997508.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,23,data,,Row 23,5,Bird's Assessment of the Land Tax. :: £,"215,650",215650.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,24,data,,Benares,2,District.,Goruckpur,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,24,data,,Benares,3,Total Area in Acres.,"4,560,049",4560049.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,24,data,,Benares,4,Cultivated Area in Acres.,"1,927,234",1927234.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,24,data,,Benares,5,Bird's Assessment of the Land Tax. :: £,"208,354",208354.0,GBP,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,25,data,,Row 25,2,District.,Azimgarh,,,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,25,data,,Row 25,3,Total Area in Acres.,"1,652,293",1652293.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,25,data,,Row 25,4,Cultivated Area in Acres.,"773,616",773616.0,acres,False,False
+economic-history-india-victorian-age-dutt,tbl-001,Table 1,69,41,25,data,,Row 25,5,Bird's Assessment of the Land Tax. :: £,"151,788",151788.0,GBP,False,False

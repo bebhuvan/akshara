@@ -1,0 +1,14 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,1,data,,Wheat,2,Rupees.,17·0 to 20·0,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,2,data,,Barley,2,Rupees.,11·5 „ 13·5,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,3,data,,Gram,2,Rupees.,10·25 „ 12·0,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,4,data,,Jowār,2,Rupees.,9·0 „ 10·5,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,5,data,,Bajra,2,Rupees.,7·25 „ 8·5,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,6,data,,Mandua,2,Rupees.,7·5 „ 8·75,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,7,data,,Sāwān,2,Rupees.,3·75 „ 4·5,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,8,data,,Linseed,2,Rupees.,8·5 to 10·25,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,9,data,,Rape,2,Rupees.,9·0 „ 10·75,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,10,data,,Poppy,2,Rupees.,36·25 „ 42·0,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,11,data,,Sugar-cane (ordinary),2,Rupees.,36·5 „ 42·25,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,12,data,,Cotton,2,Rupees.,26·0 „ 30·0,,Rs,False,False
+india-at-the-death-of-akbar,tbl-003,Akbar's Revenue Demand per Acre calculated in Modern Currency,148,132,13,data,,Indigo,2,Rupees.,43·75 „ 50·75,,Rs,False,False

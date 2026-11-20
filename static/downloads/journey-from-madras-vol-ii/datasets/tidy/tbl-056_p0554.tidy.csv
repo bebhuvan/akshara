@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,1,data,,Cows,2,Animals of the ox kind:,1126,1126.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,1,data,,Cows,3,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,2,data,,Oxen,2,Animals of the ox kind:,1192,1192.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,2,data,,Oxen,3,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,3,data,,Calves,2,Animals of the ox kind:,812,812.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,3,data,,Calves,3,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,4,subtotal,,Row 4,2,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,4,subtotal,,Row 4,3,Animals of the ox kind:,3130,3130.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,6,data,Buffaloes,Male,2,Animals of the ox kind:,29,29.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,6,data,Buffaloes,Male,3,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,7,data,Buffaloes,Female,2,Animals of the ox kind:,59,59.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,7,data,Buffaloes,Female,3,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,8,data,Buffaloes,Young,2,Animals of the ox kind:,8,8.0,,False,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,8,data,Buffaloes,Young,3,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,9,subtotal,,Row 9,2,Animals of the ox kind:,,,,True,False
+journey-from-madras-vol-ii,tbl-056,Table 56,554,526,9,subtotal,,Row 9,3,Animals of the ox kind:,96,96.0,,False,False

@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,1,data,,Pepper,2,Unit.,Quintal,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,1,data,,Pepper,3,1602.,7598,7598.0,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,1,data,,Pepper,4,1603.,"21,349",21349.0,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,1,data,,Pepper,5,Probable Source.,Malabar coast.,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,2,data,,Ginger,2,Unit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,2,data,,Ginger,3,1602.,?,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,2,data,,Ginger,4,1603.,. .,,,True,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,2,data,,Ginger,5,Probable Source.,,,,True,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,3,data,,Cardamoms,2,Unit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,3,data,,Cardamoms,3,1602.,82,82.0,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,3,data,,Cardamoms,4,1603.,. .,,,True,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,3,data,,Cardamoms,5,Probable Source.,South India.,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,4,data,,Indigo,2,Unit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,4,data,,Indigo,3,1602.,17½,17.5,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,4,data,,Indigo,4,1603.,809,809.0,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,4,data,,Indigo,5,Probable Source.,Gujarat or Agra.,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,5,data,,Carnelians (laqueca),2,Unit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,5,data,,Carnelians (laqueca),3,1602.,27,27.0,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,5,data,,Carnelians (laqueca),4,1603.,. .,,,True,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,5,data,,Carnelians (laqueca),5,Probable Source.,Gujarat.,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,6,data,,Ebony,2,Unit.,”,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,6,data,,Ebony,3,1602.,? 55,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,6,data,,Ebony,4,1603.,. .,,,True,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,6,data,,Ebony,5,Probable Source.,Possibly South India : more probably East Africa.,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,7,data,,Calicoes,2,Unit.,Chests and bales,,chests,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,7,data,,Calicoes,3,1602.,All,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,7,data,,Calicoes,4,1603.,All,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,7,data,,Calicoes,5,Probable Source.,All coasts of India.,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,8,data,,Precious stones,2,Unit.,. .,,,True,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,8,data,,Precious stones,3,1602.,?,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,8,data,,Precious stones,4,1603.,?,,,False,False
+from-akbar-to-aurangzeb,tbl-004,Table 4,115,93,8,data,,Precious stones,5,Probable Source.,Not identifiable : probably some diamonds and pearls from India.,,,False,False

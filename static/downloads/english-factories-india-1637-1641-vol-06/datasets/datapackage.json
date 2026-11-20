@@ -1,0 +1,20 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-english-factories-india-1637-1641-vol-06",
+  "title": "The English Factories in India, 1637–1641 — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "William Foster",
+      "role": "author"
+    }
+  ],
+  "temporal": "1637-1641",
+  "spatial": "Surat, Malabar, Bhatkal, Madras, Fort St. George, Bengal",
+  "resources": []
+}

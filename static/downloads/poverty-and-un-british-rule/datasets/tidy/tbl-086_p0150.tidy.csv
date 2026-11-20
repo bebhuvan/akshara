@@ -1,0 +1,41 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,1,data,,1869,2,Imports. :: Merchandise. $,"417,506,379",417506379.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,1,data,,1869,3,Imports. :: Bullion. $,"19,807,876",19807876.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,1,data,,1869,4,Exports. :: Merchandise. $,"439,134,529",439134529.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,1,data,,1869,5,Exports. :: Bullion. $,"57,138,380",57138380.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,2,data,,1870,2,Imports. :: Merchandise. $,"462,377,587",462377587.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,2,data,,1870,3,Imports. :: Bullion. $,"26,419,179",26419179.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,2,data,,1870,4,Exports. :: Merchandise. $,"529,519,302",529519302.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,2,data,,1870,5,Exports. :: Bullion. $,"58,155,666",58155666.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,3,data,,1871,2,Imports. :: Merchandise. $,"541,493,774",541493774.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,3,data,,1871,3,Imports. :: Bullion. $,"21,270,024",21270024.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,3,data,,1871,4,Exports. :: Merchandise. $,"590,978,550",590978550.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,3,data,,1871,5,Exports. :: Bullion. $,"98,441,989",98441989.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,4,data,,1872,2,Imports. :: Merchandise. $,"572,510,304",572510304.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,4,data,,1872,3,Imports. :: Bullion. $,"13,743,689",13743689.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,4,data,,1872,4,Exports. :: Merchandise. $,"561,808,381",561808381.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,4,data,,1872,5,Exports. :: Bullion. $,"79,877,534",79877534.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,5,data,,1873,2,Imports. :: Merchandise. $,"642,030,539",642030539.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,5,data,,1873,3,Imports. :: Bullion. $,"21,480,937",21480937.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,5,data,,1873,4,Exports. :: Merchandise. $,"626,595,077",626595077.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,5,data,,1873,5,Exports. :: Bullion. $,"84,608,574",84608574.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,6,subtotal,,Row 6,2,Imports. :: Merchandise. $,"2,635,918,583",2635918583.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,6,subtotal,,Row 6,3,Imports. :: Bullion. $,"102,721,705",102721705.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,6,subtotal,,Row 6,4,Exports. :: Merchandise. $,"2,748,035,839",2748035839.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,6,subtotal,,Row 6,5,Exports. :: Bullion. $,"378,222,143",378222143.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,7,data,,Add,2,Imports. :: Merchandise. $,"102,721,705",102721705.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,7,data,,Add,3,Imports. :: Bullion. $,,,,True,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,7,data,,Add,4,Exports. :: Merchandise. $,"378,222,143",378222143.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,7,data,,Add,5,Exports. :: Bullion. $,,,,True,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,8,total,,Total,2,Imports. :: Merchandise. $,"2,738,640,288",2738640288.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,8,total,,Total,3,Imports. :: Bullion. $,Imports.,,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,8,total,,Total,4,Exports. :: Merchandise. $,"3,126,257,982",3126257982.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,8,total,,Total,5,Exports. :: Bullion. $,Total Exports.,,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,9,data,,Row 9,2,Imports. :: Merchandise. $,,,,True,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,9,data,,Row 9,3,Imports. :: Bullion. $,,,,True,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,9,data,,Row 9,4,Exports. :: Merchandise. $,"2,738,640,288",2738640288.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,9,data,,Row 9,5,Exports. :: Bullion. $,Deduct Imports.,,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,10,total,,Row 10,2,Imports. :: Merchandise. $,,,,True,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,10,total,,Row 10,3,Imports. :: Bullion. $,,,,True,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,10,total,,Row 10,4,Exports. :: Merchandise. $,"387,617,694",387617694.0,,False,False
+poverty-and-un-british-rule,tbl-086,The Statesman’s book’s wrong figures.,150,130,10,total,,Row 10,5,Exports. :: Bullion. $,Excess of Exports.,,,False,False

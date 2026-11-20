@@ -1,0 +1,28 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,2,data,A,Almonds,2,Quantity.,40 maunds,40.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,4,data,C,Country Medicines,2,Quantity.,2 bags,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,5,data,C,"Comblies, or Indian Blankets",2,Quantity.,"1 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,6,data,C,Coco-Nut Oil,2,Quantity.,50 cootys,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,7,data,C,Chella,2,Quantity.,3 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,8,data,C,Cotton,2,Quantity.,39¼ maunds,39.25,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,9,data,C,"Comblies, or Indian Blankets",2,Quantity.,10 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,10,data,C,Camphire,2,Quantity.,½ maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,11,data,C,Catcha Cloth,2,Quantity.,4 bales,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,13,data,D,"Dholl, a kind of Pulse",2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,14,data,D,Dates,2,Quantity.,34 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,15,data,D,Ditto,2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,16,data,D,Ditto,2,Quantity.,3 candies,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,17,data,D,Ditto,2,Quantity.,33 bales,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,18,data,,"Doty, a Cloth",2,Quantity.,2 pair,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,19,data,,"Dongary, a Cotton Cloth",2,Quantity.,22 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,21,data,M,Manapar Cloth,2,Quantity.,57 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,22,data,M,Ditto ditto,2,Quantity.,8 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,23,data,M,Ditto ditto,2,Quantity.,"6 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,26,data,S,Summerheads (Umbrellas),2,Quantity.,"1½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,27,data,S,Salt,2,Quantity.,"1,03,0080 edungallies",,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,28,data,S,Sugar,2,Quantity.,6 cappats,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,29,data,S,Ditto,2,Quantity.,7½ maunds,7.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,30,data,S,Ditto,2,Quantity.,9 tubs,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,31,data,S,Scissars,2,Quantity.,3 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,32,data,S,Soap,2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-070,"ABSTRACT of GOODS EXPORTED by LAND, from 1st January to 31st December, 1800.",559,511,34,data,T,Turpentine Oil,2,Quantity.,1½ dozen,,,False,False

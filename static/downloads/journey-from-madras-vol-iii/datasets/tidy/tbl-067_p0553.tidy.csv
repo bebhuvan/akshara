@@ -1,0 +1,161 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,2,data,A,Arrack,2,Quantity.,36¼ leaguers,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,3,data,A,Ditto,2,Quantity.,16 kegs,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,4,data,A,Ditto,2,Quantity.,150 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,5,data,A,Aniseed,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,6,data,A,"Ajuan, Seed of an umbelliferous Plant",2,Quantity.,5 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,7,data,A,Ditto,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,8,data,A,Almonds,2,Quantity.,1 bale,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,11,data,B,Betel-Nut,2,Quantity.,12 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,12,data,B,Ditto,2,Quantity.,17 maunds,17.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,13,data,B,Ditto,2,Quantity.,2000,2000.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,14,data,B,Brandy,2,Quantity.,7 chests,7.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,15,data,B,Beer,2,Quantity.,9 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,16,data,B,Barley,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,17,data,B,"Bottles, Empty",2,Quantity.,650,650.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,18,data,B,"Budgery, a Grain",2,Quantity.,2 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,19,data,B,Bomblos (Dried Fish),2,Quantity.,60 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,20,data,B,"Blue Duty, Cotton Cloth",2,Quantity.,"11 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,21,data,B,Blue Scarlet Cloth,2,Quantity.,6 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,24,data,C,"Churats, Tobacco rolled, for Smoking",2,Quantity.,4000,4000.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,25,data,C,Cotton,2,Quantity.,12 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,26,data,C,Ditto,2,Quantity.,27 bales,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,27,data,C,Ditto,2,Quantity.,24 maunds,24.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,29,data,C,Dates,2,Quantity.,4 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,30,data,C,Ditto,2,Quantity.,2 cappals,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,32,data,G,Gin,2,Quantity.,53 cases,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,33,data,G,"Gram, a kind of Pulse",2,Quantity.,18 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,34,data,G,Ditto,2,Quantity.,34 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,35,data,G,Ditto,2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,36,data,G,Garlick,2,Quantity.,2 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,37,data,G,Ditto,2,Quantity.,6 maunds,6.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,38,data,G,"Ganja, Dried Flowers and Leaves of Hemp",2,Quantity.,7 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,39,data,G,"Ghee, or boiled Butter",2,Quantity.,34 duppers,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,40,data,G,Ditto,2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,41,data,G,Ditto,2,Quantity.,7¼ maunds,7.25,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,42,data,G,Glass Ware,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,43,data,G,Gloucester Cheese,2,Quantity.,2 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,45,data,H,"Hing, or Asafœtida",2,Quantity.,4 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,46,data,H,Hams,2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,47,data,H,Ditto,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,48,data,H,Hooka-Snakes,2,Quantity.,2,2.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,49,data,H,Hats and Hosiery,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,51,data,I,Iron,2,Quantity.,3 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,52,data,I,Ditto,2,Quantity.,11½ maunds,11.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,53,data,I,Jagory,2,Quantity.,10 pots,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,54,data,I,Ditto,2,Quantity.,14 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,55,data,I,Ditto,2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,56,data,I,Ditto,2,Quantity.,9½ maunds,9.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,57,data,I,Ironmongery,2,Quantity.,10 chests,10.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,58,data,I,Ditto,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,59,data,I,Jackets,2,Quantity.,"2 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,61,data,K,Knives,2,Quantity.,"1½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,63,data,L,Leather,2,Quantity.,"14¾ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,64,data,L,Limes,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,66,data,M,"Mung, a kind of Pulse",2,Quantity.,28 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,67,data,M,Ditto,2,Quantity.,5 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,68,data,M,Ditto,2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,69,data,M,Madeira,2,Quantity.,3½ pipes,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,70,data,M,Ditto,2,Quantity.,8 chests,8.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,71,data,M,Ditto,2,Quantity.,32¾ dozen,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,72,data,M,Moodra,2,Quantity.,10 robins,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,73,data,M,Mustard Seed,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,74,data,M,Ditto,2,Quantity.,9 maunds,9.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,75,data,M,"Metty Seed, Fenugreek",2,Quantity.,2 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,76,header,M,Quality,2,Quantity.,Quantity.,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,78,data,N,Nankins,2,Quantity.,"58 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,79,data,N,Ditto,2,Quantity.,15 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,80,data,N,"Nelly, Rice in the Husk",2,Quantity.,4 robins,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,81,data,N,Ditto,2,Quantity.,12800 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,83,data,O,Onions,2,Quantity.,6 cappals,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,84,data,O,Ditto,2,Quantity.,27 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,85,data,O,Ditto,2,Quantity.,27 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,86,data,O,Ditto,2,Quantity.,13 maunds,13.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,87,data,O,Opium,2,Quantity.,1 bag,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,88,data,O,Ditto,2,Quantity.,1 bundle,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,90,data,P,Pepper,2,Quantity.,32 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,91,data,P,Ditto,2,Quantity.,13 maunds,13.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,92,data,P,Paper,2,Quantity.,66½ reams,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,93,data,P,Port Wine,2,Quantity.,9 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,94,data,P,Pantaloons,2,Quantity.,"12 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,95,data,P,Piece Goods,2,Quantity.,4050 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,96,data,P,Ditto,2,Quantity.,69½ bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,97,data,P,Ditto,2,Quantity.,"92 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,99,data,R,Rose Water,2,Quantity.,1 bottle,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,100,data,R,Rice,2,Quantity.,2057 robins,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,101,data,R,Rum,2,Quantity.,4 pipes,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,102,data,R,Rum Shrub,2,Quantity.,2 boxes,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,103,data,R,Red Camblys,2,Quantity.,"2 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,104,data,R,Raisins,2,Quantity.,4 cappals,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,105,data,R,Ditto,2,Quantity.,3 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,106,data,R,Ditto,2,Quantity.,15 maunds,15.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,108,data,S,Sandal Wood,2,Quantity.,7 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,109,data,S,Salt,2,Quantity.,7 bales,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,110,data,S,Ditto,2,Quantity.,22500 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,111,data,S,Sindy Salt,2,Quantity.,2 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,112,data,S,Ditto,2,Quantity.,6 cappals,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,113,data,S,Ditto,2,Quantity.,3 maunds,3.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,114,data,S,Shoes,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,115,data,S,Ditto,2,Quantity.,"41½ corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,116,data,S,Sugar,2,Quantity.,7 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,117,data,S,Ditto,2,Quantity.,43 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,118,data,S,Ditto,2,Quantity.,4¾ candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,119,data,S,Ditto,2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,120,data,S,Shirts,2,Quantity.,"17 corge, or score",,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,121,data,S,"Summerheads, Umbrellas",2,Quantity.,2 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,122,data,S,Sundry,2,Quantity.,1 trunk,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,123,data,S,Ditto,2,Quantity.,17 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,124,data,S,Ditto,2,Quantity.,1 case,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,125,data,S,Soap,2,Quantity.,450 loaves,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,126,data,S,Ditto,2,Quantity.,22 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,127,data,S,Stationery,2,Quantity.,1 chest,1.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",554,505,128,data,S,Surat Tobacco,2,Quantity.,7¼ candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,130,data,T,Tea,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,131,data,T,Ditto,2,Quantity.,22 chests,22.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,132,data,T,Ditto,2,Quantity.,15 lbs.,15.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,133,data,T,Tortoise Shells,2,Quantity.,1 maund,1.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,134,data,T,Ditto ditto,2,Quantity.,4 lbs.,4.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,135,data,T,Twine,2,Quantity.,3 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,136,data,T,Ditto,2,Quantity.,7½ maunds,7.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,137,data,T,Tutanague,2,Quantity.,4 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,138,data,T,Tamarinds,2,Quantity.,2 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,139,data,T,Ditto,2,Quantity.,17 maunds,17.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,140,data,T,Ditto,2,Quantity.,7 bundles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,141,data,T,Tobacco,2,Quantity.,62 ditto,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,142,data,T,Ditto,2,Quantity.,12 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,143,data,T,Ditto,2,Quantity.,23 maunds,23.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,144,data,,Coco-Nuts,2,Quantity.,1 candy,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,145,data,,Ditto,2,Quantity.,23900,23900.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,146,data,,Cointer Seed,2,Quantity.,145 edangallies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,147,data,,Country Mats,2,Quantity.,400,400.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,148,data,,"Comblams, Country Blankets",2,Quantity.,1050 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,149,data,,"Chelly Pepper, Capsicum",2,Quantity.,7 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,150,data,,Cardamums,2,Quantity.,6 maunds,6.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,151,data,,"Chilly Pepper, Capsicum",2,Quantity.,22½ ditto,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,152,data,,China Bowls,2,Quantity.,2400,2400.0,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,153,data,,Coco-Nut Oil,2,Quantity.,7 pots,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,154,data,,Cummin Seed,2,Quantity.,4 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,155,data,,Ditto,2,Quantity.,3 maunds,3.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,156,data,,Coir Rope of Coco-Nut Husks,2,Quantity.,½ maund,,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,157,data,,Cheese,2,Quantity.,84 lbs.,84.0,lbs,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,158,data,,Cotton Rope,2,Quantity.,7½ maunds,7.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,159,data,,Coffee,2,Quantity.,1 box,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,160,data,,Ditto,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,161,data,,Canvas,2,Quantity.,15 pieces,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,162,data,,China Ware,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,163,data,,Ditto,2,Quantity.,4 dozen,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,164,data,,China Sweetmeats,2,Quantity.,2 jars,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,165,data,,Copper Pots,2,Quantity.,5 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,166,data,,Ditto,2,Quantity.,22½ maunds,22.5,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,168,data,D,"Dholl, a kind of Pulse",2,Quantity.,2 candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,169,data,D,Ditto,2,Quantity.,20 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,170,data,D,Dates,2,Quantity.,7½ candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",553,505,171,data,D,Ditto,2,Quantity.,15 maunds,15.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,273,data,V,Vinegar,2,Quantity.,7 bottles,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,274,data,V,"Ured, a kind of Pulse",2,Quantity.,96 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,278,data,W,Wheat,2,Quantity.,115 bags,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,279,data,W,Ditto,2,Quantity.,45¾ candies,,,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,280,data,W,Ditto,2,Quantity.,5 maunds,5.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,281,data,W,Wax Candles,2,Quantity.,2 chests,2.0,chests,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,282,data,W,Ditto,2,Quantity.,2 maunds,2.0,maunds,False,False
+journey-from-madras-vol-iii,tbl-067,"ABSTRACT of GOODS EXPORTED by SEA, from 1st January to 31st December, 1799.",555,505,283,data,W,Ditto,2,Quantity.,34 lbs.,34.0,lbs,False,False

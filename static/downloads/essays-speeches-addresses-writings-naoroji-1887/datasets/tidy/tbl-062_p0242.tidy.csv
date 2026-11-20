@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-062,Table 62,242,225,1,data,,Vizagapatam,2,Column 2,Rs. 203 per garce.,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-062,Table 62,242,225,2,data,,Godavery,2,Column 2,„ 222 „,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-062,Table 62,242,225,3,data,,Ganjam,2,Column 2,„ 232 „,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-062,Table 62,242,225,4,data,,South Canara,2,Column 2,„ 308 „,,Rs,False,False

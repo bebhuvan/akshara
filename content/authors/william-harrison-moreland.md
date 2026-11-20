@@ -5,11 +5,15 @@ full_name: "William Harrison Moreland"
 birth_year: 1868
 death_year: 1938
 birth_place: "Belfast, Ireland"
-languages: ["English", "Persian", "French", "Latin", "Portuguese"]
+languages:
+  - "English"
+  - "Persian"
+  - "French"
+  - "Latin"
+  - "Portuguese"
 short_bio: "British civil servant and economic historian who reconstructed the economic life of Mughal India from Persian, Portuguese, and European sources."
-works_count: 1
+works_count: 2
 first_publication: 1913
-
 timeline:
   - year: 1868
     title: "Birth in Belfast"

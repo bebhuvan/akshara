@@ -1,0 +1,22 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,1,data,,1. Bengal,2,For.,143,143.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,1,data,,1. Bengal,3,Against.,35,35.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,1,data,,1. Bengal,4,Doubtful.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,2,data,,2. Madras,2,For.,63,63.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,2,data,,2. Madras,3,Against.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,2,data,,2. Madras,4,Doubtful.,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,3,data,,3. Bombay,2,For.,64,64.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,3,data,,3. Bombay,3,Against.,38,38.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,3,data,,3. Bombay,4,Doubtful.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,4,data,,4. North-West Provinces and Oudh,2,For.,31,31.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,4,data,,4. North-West Provinces and Oudh,3,Against.,29,29.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,4,data,,4. North-West Provinces and Oudh,4,Doubtful.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,5,data,,5. The Punjab,2,For.,36,36.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,5,data,,5. The Punjab,3,Against.,26,26.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,5,data,,5. The Punjab,4,Doubtful.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,6,data,,6. Central Provinces,2,For.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,6,data,,6. Central Provinces,3,Against.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,6,data,,6. Central Provinces,4,Doubtful.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,7,total,,Totals,2,For.,361,361.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,7,total,,Totals,3,Against.,163,163.0,,False,False
+poverty-and-un-british-rule,tbl-150,SUMMARY.,488,468,7,total,,Totals,4,Doubtful.,73,73.0,,False,False

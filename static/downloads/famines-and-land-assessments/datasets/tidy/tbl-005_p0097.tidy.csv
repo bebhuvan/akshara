@@ -1,0 +1,3 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-005,"Administration Report of N. W. P. & Oudh, 1897-98, pp. 7 to 9.",97,73,1,data,,Montgomery,2,Old Revenue.,"Rs. 408,981",408981.0,Rs,False,False
+famines-and-land-assessments,tbl-005,"Administration Report of N. W. P. & Oudh, 1897-98, pp. 7 to 9.",97,73,1,data,,Montgomery,3,Increase of Revenue due to resettlement.,"Rs. 163,058",163058.0,Rs,False,False

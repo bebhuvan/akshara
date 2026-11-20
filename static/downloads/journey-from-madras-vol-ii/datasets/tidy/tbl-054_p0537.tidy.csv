@@ -1,0 +1,23 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,1,data,,Carriage oxen,2,Column 2,481,481.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,1,data,,Carriage oxen,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,2,data,,Plough oxen,2,Column 2,4906,4906.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,2,data,,Plough oxen,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,3,data,,Male calves,2,Column 2,2488,2488.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,3,data,,Male calves,3,Column 3,8885,8885.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,4,data,,Cows,2,Column 2,7036,7036.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,4,data,,Cows,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,5,data,,Cow calves,2,Column 2,3124,3124.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,5,data,,Cow calves,3,Column 3,"10,160",10160.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,6,total,,Total of ox kind,2,Column 2,"18,945",18945.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,6,total,,Total of ox kind,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,8,data,Buffaloes,Males full grown,2,Column 2,719,719.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,8,data,Buffaloes,Males full grown,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,9,data,Buffaloes,young,2,Column 2,164,164.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,9,data,Buffaloes,young,3,Column 3,883,883.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,10,data,Buffaloes,Females full grown,2,Column 2,397,397.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,10,data,Buffaloes,Females full grown,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,11,data,Buffaloes,young,2,Column 2,130,130.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,11,data,Buffaloes,young,3,Column 3,527,527.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,12,total,,Total buffaloes,2,Column 2,1410,1410.0,,False,False
+journey-from-madras-vol-ii,tbl-054,Table 54,537,509,12,total,,Total buffaloes,3,Column 3,,,,True,False

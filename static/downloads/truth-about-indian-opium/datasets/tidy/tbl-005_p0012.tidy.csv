@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-005,Table 5,12,8,1,data,,1905–06,2,Acres under cultivation in Indian States.,"146,677",146677.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,2,data,,1906–07,2,Acres under cultivation in Indian States.,"246,911",246911.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,3,data,,1907–08,2,Acres under cultivation in Indian States.,"191,714",191714.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,4,data,,1908–09,2,Acres under cultivation in Indian States.,"134,629",134629.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,5,data,,1909–10,2,Acres under cultivation in Indian States.,"108,973",108973.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,6,data,,1910–11,2,Acres under cultivation in Indian States.,"147,262",147262.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,7,data,,1911–12,2,Acres under cultivation in Indian States.,"71,983",71983.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,8,data,,1912–13,2,Acres under cultivation in Indian States.,"47,143",47143.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,9,data,,1913–14,2,Acres under cultivation in Indian States.,"12,277",12277.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,10,data,,1914–15,2,Acres under cultivation in Indian States.,"15,320",15320.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,11,data,,1915–16,2,Acres under cultivation in Indian States.,"10,568",10568.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,12,data,,1916–17,2,Acres under cultivation in Indian States.,"46,441",46441.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,13,data,,1917–18,2,Acres under cultivation in Indian States.,"54,341",54341.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,14,data,,1918–19,2,Acres under cultivation in Indian States.,"24,871",24871.0,acres,False,False
+truth-about-indian-opium,tbl-005,Table 5,12,8,15,data,,1919–20,2,Acres under cultivation in Indian States.,"56,934",56934.0,acres,False,False

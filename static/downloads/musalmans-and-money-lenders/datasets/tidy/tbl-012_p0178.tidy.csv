@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+musalmans-and-money-lenders,tbl-012,Table 12,178,166,1,data,,Already ruined,2,Percentage of Mahomedans.,13,13.0,%,False,False
+musalmans-and-money-lenders,tbl-012,Table 12,178,166,2,data,,Irretrievably involved,2,Percentage of Mahomedans.,10,10.0,%,False,False
+musalmans-and-money-lenders,tbl-012,Table 12,178,166,3,data,,"Seriously, but retrievably involved",2,Percentage of Mahomedans.,28,28.0,%,False,False
+musalmans-and-money-lenders,tbl-012,Table 12,178,166,4,data,,Would be free with two good crops and a little thrift,2,Percentage of Mahomedans.,26,26.0,%,False,False
+musalmans-and-money-lenders,tbl-012,Table 12,178,166,5,data,,"Owing nothing, or if anything, under Rs. 50, and easily able to pay it",2,Percentage of Mahomedans.,23,23.0,%,False,False

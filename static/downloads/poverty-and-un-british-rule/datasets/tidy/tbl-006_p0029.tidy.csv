@@ -1,0 +1,111 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,2,Wheat. :: April. :: s.,22,22.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,3,Wheat. :: April. :: c.,6,6.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,4,Wheat. :: May. :: s.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,5,Wheat. :: May. :: c.,14,14.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,6,Wheat. :: June. :: s.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,7,Wheat. :: June. :: c.,14,14.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,8,Wheat. :: Average. :: s.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,9,Wheat. :: Average. :: c.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,10,Wheat. :: Average. :: lb.,49,49.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,11,Wheat. :: Average. :: oz.,6,6.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,1,data,,Saharunpore,12,My Remarks.,The report does not say which seer this is.,,seers,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,2,Wheat. :: April. :: s.,26,26.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,3,Wheat. :: April. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,4,Wheat. :: May. :: s.,27,27.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,5,Wheat. :: May. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,6,Wheat. :: June. :: s.,27,27.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,7,Wheat. :: June. :: c.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,8,Wheat. :: Average. :: s.,26,26.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,9,Wheat. :: Average. :: c.,13,13.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,10,Wheat. :: Average. :: lb.,53,53.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,11,Wheat. :: Average. :: oz.,10,10.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,2,data,,Meerut,12,My Remarks.,Formerly 1 seer is given equal to 2·057 lbs.,,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,2,Wheat. :: April. :: s.,26,26.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,3,Wheat. :: April. :: c.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,4,Wheat. :: May. :: s.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,5,Wheat. :: May. :: c.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,6,Wheat. :: June. :: s.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,8,Wheat. :: Average. :: s.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,9,Wheat. :: Average. :: c.,8⅔,8.666667,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,10,Wheat. :: Average. :: lb.,51,51.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,11,Wheat. :: Average. :: oz.,1,1.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,3,data,,Moradabad,12,My Remarks.,"(Parliamentary Return No. 29 of 1862, page 5.)",,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,2,Wheat. :: April. :: s.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,3,Wheat. :: April. :: c.,10,10.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,4,Wheat. :: May. :: s.,27,27.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,5,Wheat. :: May. :: c.,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,6,Wheat. :: June. :: s.,25,25.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,8,Wheat. :: Average. :: s.,26,26.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,9,Wheat. :: Average. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,10,Wheat. :: Average. :: lb.,52,52.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,11,Wheat. :: Average. :: oz.,0,0.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,4,data,,Bareilly,12,My Remarks.,I take this seer= 2 lb.,,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,2,Wheat. :: April. :: s.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,3,Wheat. :: April. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,4,Wheat. :: May. :: s.,....,,,True,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,5,Wheat. :: May. :: c.,....,,,True,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,6,Wheat. :: June. :: s.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,8,Wheat. :: Average. :: s.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,9,Wheat. :: Average. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,10,Wheat. :: Average. :: lb.,48,48.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,11,Wheat. :: Average. :: oz.,0,0.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,5,data,,Muttra,12,My Remarks.,16 chittacks = 1 seer.,,seers,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,2,Wheat. :: April. :: s.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,3,Wheat. :: April. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,4,Wheat. :: May. :: s.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,5,Wheat. :: May. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,6,Wheat. :: June. :: s.,24,24.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,8,Wheat. :: Average. :: s.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,9,Wheat. :: Average. :: c.,5,5.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,10,Wheat. :: Average. :: lb.,46,46.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,11,Wheat. :: Average. :: oz.,10,10.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,6,data,,Agra,12,My Remarks.,"The report also does not say whether these quantities were got for one rupee, but it evidently appears to be meant so.",,Rs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,2,Wheat. :: April. :: s.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,3,Wheat. :: April. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,4,Wheat. :: May. :: s.,23,23.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,5,Wheat. :: May. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,6,Wheat. :: June. :: s.,22,22.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,8,Wheat. :: Average. :: s.,22,22.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,9,Wheat. :: Average. :: c.,11,11.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,10,Wheat. :: Average. :: lb.,45,45.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,11,Wheat. :: Average. :: oz.,6,6.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,7,data,,Cawnpore,12,My Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,2,Wheat. :: April. :: s.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,3,Wheat. :: April. :: c.,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,4,Wheat. :: May. :: s.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,5,Wheat. :: May. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,6,Wheat. :: June. :: s.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,8,Wheat. :: Average. :: s.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,9,Wheat. :: Average. :: c.,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,10,Wheat. :: Average. :: lb.,35,35.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,11,Wheat. :: Average. :: oz.,8,8.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,8,data,,Allahabad,12,My Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,2,Wheat. :: April. :: s.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,3,Wheat. :: April. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,4,Wheat. :: May. :: s.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,5,Wheat. :: May. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,6,Wheat. :: June. :: s.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,8,Wheat. :: Average. :: s.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,9,Wheat. :: Average. :: c.,10⅔,10.666667,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,10,Wheat. :: Average. :: lb.,35,35.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,11,Wheat. :: Average. :: oz.,6,6.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,9,data,,Mirzapore,12,My Remarks.,,,,True,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,2,Wheat. :: April. :: s.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,3,Wheat. :: April. :: c.,5,5.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,4,Wheat. :: May. :: s.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,5,Wheat. :: May. :: c.,5,5.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,6,Wheat. :: June. :: s.,18,18.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,7,Wheat. :: June. :: c.,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,8,Wheat. :: Average. :: s.,17,17.0,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,9,Wheat. :: Average. :: c.,15⅓,15.333333,,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,10,Wheat. :: Average. :: lb.,35,35.0,lbs,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,11,Wheat. :: Average. :: oz.,14”,14.0,oz,False,False
+poverty-and-un-british-rule,tbl-006,Table 6,29,9,10,data,,Benares,12,My Remarks.,,,,True,False

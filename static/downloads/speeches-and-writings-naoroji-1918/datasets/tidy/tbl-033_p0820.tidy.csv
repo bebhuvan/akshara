@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-033,EXCESS OF IMPORTS IN BOMBAY PRESIDENCY.,820,138,1,data,,From Rajputana and Central India,2,Rs.,"5,55,46,753",55546753.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-033,EXCESS OF IMPORTS IN BOMBAY PRESIDENCY.,820,138,2,data,,„ Berar,2,Rs.,"1,48,91,355",14891355.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-033,EXCESS OF IMPORTS IN BOMBAY PRESIDENCY.,820,138,3,data,,„ Hyderabad,2,Rs.,"8,67,688",867688.0,Rs,False,True
+speeches-and-writings-naoroji-1918,tbl-033,EXCESS OF IMPORTS IN BOMBAY PRESIDENCY.,820,138,4,total,,Total,2,Rs.,"7,13,05,796",71305796.0,Rs,False,True

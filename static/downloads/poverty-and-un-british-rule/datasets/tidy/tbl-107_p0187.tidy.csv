@@ -1,0 +1,65 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,1,data,,Silks,2,Value given in the Report. :: Rs.,"19,62,049",1962049.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,1,data,,Silks,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",Say half for material (imported),,,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,1,data,,Silks,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","9,81,024",981024.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,1,data,,Silks,5,Balance representing Labour. :: Rs.,"9,81,024",981024.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,2,data,,Cottons,2,Value given in the Report. :: Rs.,"1,75,05,556",17505556.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,2,data,,Cottons,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ 40 per cent. „ „,,%,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,2,data,,Cottons,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","70,02,222",7002222.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,2,data,,Cottons,5,Balance representing Labour. :: Rs.,"1,05,03,334",10503334.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,3,data,,Wool,2,Value given in the Report. :: Rs.,"9,42,329",942329.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,3,data,,Wool,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",,,,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,3,data,,Wool,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,3,data,,Wool,5,Balance representing Labour. :: Rs.,"9,42,329",942329.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,4,data,,Fibres,2,Value given in the Report. :: Rs.,"6,41,578",641578.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,4,data,,Fibres,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ 20 „ „ „,,%,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,4,data,,Fibres,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","1,28,315",128315.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,4,data,,Fibres,5,Balance representing Labour. :: Rs.,"5,13,263",513263.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,5,data,,Paper,2,Value given in the Report. :: Rs.,"1,58,565",158565.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,5,data,,Paper,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ 25 „ „ „,,%,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,5,data,,Paper,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","39,641",39641.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,5,data,,Paper,5,Balance representing Labour. :: Rs.,"1,18,924",118924.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,6,data,,Wood,2,Value given in the Report. :: Rs.,"67,28,686",6728686.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,6,data,,Wood,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",,,,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,6,data,,Wood,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,6,data,,Wood,5,Balance representing Labour. :: Rs.,"67,28,686",6728686.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,7,data,,Iron,2,Value given in the Report. :: Rs.,"43,26,132",4326132.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,7,data,,Iron,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ One-third „ „,,%,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,7,data,,Iron,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","14,42,044",1442044.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,7,data,,Iron,5,Balance representing Labour. :: Rs.,"28,84,088",2884088.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,8,data,,Brass and Copper,2,Value given in the Report. :: Rs.,"6,38,573",638573.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,8,data,,Brass and Copper,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ 40 per cent. „ „,,%,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,8,data,,Brass and Copper,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","2,55,429",255429.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,8,data,,Brass and Copper,5,Balance representing Labour. :: Rs.,"3,83,144",383144.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,9,data,,Building,2,Value given in the Report. :: Rs.,"43,22,867",4322867.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,9,data,,Building,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",,,,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,9,data,,Building,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,9,data,,Building,5,Balance representing Labour. :: Rs.,"43,22,867",4322867.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,10,data,,Leather,2,Value given in the Report. :: Rs.,"63,21,802",6321802.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,10,data,,Leather,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",,,,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,10,data,,Leather,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,10,data,,Leather,5,Balance representing Labour. :: Rs.,"63,21,802",6321802.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,11,data,,Gold and Silver Lace,2,Value given in the Report. :: Rs.,"56,27,054",5627054.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,11,data,,Gold and Silver Lace,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ Two-thirds „ „,,%,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,11,data,,Gold and Silver Lace,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","37,51,370",3751370.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,11,data,,Gold and Silver Lace,5,Balance representing Labour. :: Rs.,"18,75,685",1875685.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,12,data,,Dyeing,2,Value given in the Report. :: Rs.,"7,38,926",738926.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,12,data,,Dyeing,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ Materials not stated,,,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,12,data,,Dyeing,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,12,data,,Dyeing,5,Balance representing Labour. :: Rs.,"7,38,926",738926.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,13,data,,Oil,2,Value given in the Report. :: Rs.,"12,45,966",1245966.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,13,data,,Oil,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.","„ Two-thirds, or say one-half Material",,,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,13,data,,Oil,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","6,22,983",622983.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,13,data,,Oil,5,Balance representing Labour. :: Rs.,"6,22,983",622983.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,14,data,,Shawls,2,Value given in the Report. :: Rs.,"8,96,507",896507.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,14,data,,Shawls,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",„ One-twelfth Material imported,,,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,14,data,,Shawls,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.","74,709",74709.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,14,data,,Shawls,5,Balance representing Labour. :: Rs.,"8,21,798",821798.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,15,data,,Other Manufactures,2,Value given in the Report. :: Rs.,"30,81,205",3081205.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,15,data,,Other Manufactures,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",Not Described,,,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,15,data,,Other Manufactures,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,15,data,,Other Manufactures,5,Balance representing Labour. :: Rs.,"30,81,205",3081205.0,Rs,False,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,16,total,,Total,2,Value given in the Report. :: Rs.,,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,16,total,,Total,3,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce.",,,,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,16,total,,Total,4,"Deduct for raw Material already calculated and included in the Produce, or imported and paid from Produce. :: Rs.",,,Rs,True,True
+poverty-and-un-british-rule,tbl-107,"PUNJAB, 1876-7. Manufactures.",187,167,16,total,,Total,5,Balance representing Labour. :: Rs.,"4,08,40,058",40840058.0,Rs,False,True

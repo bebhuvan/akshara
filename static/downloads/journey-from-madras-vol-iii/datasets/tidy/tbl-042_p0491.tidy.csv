@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,1,data,,"The Shanaboga, or village accomptant, gets with a bundle of unthrashed corn",2,Colagas.,1,1.0,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,2,data,,"Toty, a watchman, all that adheres to the Chaps or marks, and with some straw",2,Colagas.,1½,1.5,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,3,data,,"Nirgunty, or conductor of water",2,Colagas.,2¼,2.25,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,4,data,,"Wudary, a kind of beadle",2,Colagas.,1½,1.5,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,5,data,,"Gauda, or chief of the village",2,Colagas.,2,2.0,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,6,data,,Ditto for the annual sacrifice which he makes to the village god,2,Colagas.,1,1.0,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,7,data,,Ditto for marking the heaps,2,Colagas.,1,1.0,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,8,data,,"Washerman, barber, and blacksmith",2,Colagas.,2½,2.5,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,9,data,,The temples in the village,2,Colagas.,1,1.0,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,10,data,,"To poor Bráhmans, and other religious mendicants",2,Colagas.,1,1.0,,False,True
+journey-from-madras-vol-iii,tbl-042,Table 42,491,449,11,total,,Row 11,2,Colagas.,14¾;,,,False,True

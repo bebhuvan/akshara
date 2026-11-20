@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,1,data,,"To the keeper of the forest, for leave to make charcoal",2,Fanams.,110,110.0,,False,True
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,2,data,,"To the Sunca, or collector of the customs",2,Fanams.,30,30.0,,False,True
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,3,data,,"To the Gauda, or chief of the village, for house-rent",2,Fanams.,15,15.0,,False,True
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,4,data,,To sacrifices,2,Fanams.,30,30.0,,False,True
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,5,data,,To bellows,2,Fanams.,42,42.0,,False,True
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,6,data,,To the Bráhmans as charity,2,Fanams.,20,20.0,,False,True
+journey-from-madras-vol-ii,tbl-003,Table 3,38,22,7,total,,Row 7,2,Fanams.,Fanams 247,,,False,True

@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-139,ACRES—continued.,348,328,1,data,,"730,500",2,Cinchona.,"2,900",2900.0,acres,False,False
+poverty-and-un-british-rule,tbl-139,ACRES—continued.,348,328,1,data,,"730,500",3,Miscellaneous.,"424,900",424900.0,acres,False,False
+poverty-and-un-british-rule,tbl-139,ACRES—continued.,348,328,1,data,,"730,500",4,Total area under crops.,"64,444,200",64444200.0,acres,False,False
+poverty-and-un-british-rule,tbl-139,ACRES—continued.,348,328,1,data,,"730,500",5,Deduct area cropped more than once.,"10,456,900",10456900.0,acres,False,False
+poverty-and-un-british-rule,tbl-139,ACRES—continued.,348,328,1,data,,"730,500",6,Actual Area on which crops were grown.,"53,987,300",53987300.0,acres,False,False

@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,1,data,,Large breed of the ox kind,2,Male. :: Young.,- -,,,True,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,1,data,,Large breed of the ox kind,3,Male. :: Full grown.,56,56.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,1,data,,Large breed of the ox kind,4,Female. :: Young.,,,,True,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,1,data,,Large breed of the ox kind,5,Female. :: Full grown.,,,,True,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,2,data,,Small country breed of ditto,2,Male. :: Young.,898,898.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,2,data,,Small country breed of ditto,3,Male. :: Full grown.,4021,4021.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,2,data,,Small country breed of ditto,4,Female. :: Young.,2339,2339.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,2,data,,Small country breed of ditto,5,Female. :: Full grown.,4101,4101.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,3,data,,Buffaloes,2,Male. :: Young.,5,5.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,3,data,,Buffaloes,3,Male. :: Full grown.,113,113.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,3,data,,Buffaloes,4,Female. :: Young.,25,25.0,,False,False
+journey-from-madras-vol-ii,tbl-050,Table 50,516,488,3,data,,Buffaloes,5,Female. :: Full grown.,9,9.0,,False,False

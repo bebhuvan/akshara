@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-026,Table 26,360,338,1,data,,Baftas of Gujarat,2,Column 2,14 to 15 yards.,,,False,False
+from-akbar-to-aurangzeb,tbl-026,Table 26,360,338,2,data,,Dutties of Gujarat,2,Column 2,About 12 yards.,,,False,False
+from-akbar-to-aurangzeb,tbl-026,Table 26,360,338,3,data,,Semianoes of Samana,2,Column 2,About 10 yards.,,,False,False
+from-akbar-to-aurangzeb,tbl-026,Table 26,360,338,4,data,,Joorees of Sind,2,Column 2,Between 12 and 15 yards.,,,False,False
+from-akbar-to-aurangzeb,tbl-026,Table 26,360,338,5,data,,Mercoolis of Agra,2,Column 2,About 15 yards.,,,False,False

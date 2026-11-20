@@ -1,0 +1,18 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,1,data,,Government,2,£ (000’s omitted).,"178,995",178995.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,2,data,,Municipal,2,£ (000’s omitted).,"3,522",3522.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,3,data,,Railways,2,£ (000’s omitted).,"136,519",136519.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,4,data,,Banks,2,£ (000’s omitted).,"3,400",3400.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,5,data,,"Commercial and Industrial, etc",2,£ (000’s omitted).,"2,647",2647.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,6,data,,Electric lighting and power,2,£ (000’s omitted).,"1,763",1763.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,7,data,,"Financial, land and investment",2,£ (000’s omitted).,"1,853",1853.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,8,data,,Gas and water,2,£ (000’s omitted).,659,659.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,9,data,,"Iron, coal and steel",2,£ (000’s omitted).,803,803.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,10,data,,Mines,2,£ (000’s omitted).,"3,531",3531.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,11,data,,Motor traction and manufacturing,2,£ (000’s omitted).,90,90.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,12,data,,Oil,2,£ (000’s omitted).,"3,184",3184.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,13,data,,Rubber,2,£ (000’s omitted).,"4,610",4610.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,14,data,,Tea and coffee,2,£ (000’s omitted).,"19,644",19644.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,15,data,,Telegraphs and telephones,2,£ (000’s omitted).,43,43.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,16,data,,Tramways,2,£ (000’s omitted).,"4,136",4136.0,GBP,False,True
+some-aspects-indian-commerce-industry-shirras-1911,tbl-002,Table 2,33,27,17,total,,Total,2,£ (000’s omitted).,"365,399",365399.0,GBP,False,True

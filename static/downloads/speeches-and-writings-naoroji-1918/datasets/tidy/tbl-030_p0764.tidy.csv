@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,1,data,,(1) Balance of State Funds,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,1,data,,(1) Balance of State Funds,3,Column 3,"1,272,361",1272361.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,2,data,,(2) Investment on account of Railway Loan Repayment Fund,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,2,data,,(2) Investment on account of Railway Loan Repayment Fund,3,Column 3,"278,150",278150.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,3,data,,(3) Capital outlay on Mysore-Harihar Railways,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,3,data,,(3) Capital outlay on Mysore-Harihar Railways,3,Column 3,"1,480,330",1480330.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,4,data,,(4) Capital outlay on other Railway,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,764,82,4,data,,(4) Capital outlay on other Railway,3,Column 3,"413,339",413339.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,5,data,,(5) Unexpended portion of capital borrowed for Mysore-Harihar Railway (with British Government),2,Column 2,...,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,5,data,,(5) Unexpended portion of capital borrowed for Mysore-Harihar Railway (with British Government),3,Column 3,"157,949",157949.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,6,data,,Row 6,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,6,data,,Row 6,3,Column 3,"3,602,129",3602129.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,7,data,,Liabilities :,2,Column 2,Rx.,,Rs,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,7,data,,Liabilities :,3,Column 3,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,8,data,,(1) Local Railway loan,2,Column 2,"200,000",200000.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,8,data,,(1) Local Railway loan,3,Column 3,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,9,data,,(2) English railway loan,2,Column 2,"1,638,280",1638280.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,9,data,,(2) English railway loan,3,Column 3,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,10,data,,Row 10,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,10,data,,Row 10,3,Column 3,"1,838,280",1838280.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,11,data,,Net assets,2,Column 2,...,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,11,data,,Net assets,3,Column 3,"1,763,849",1763849.0,,False,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,13,data,And other assets ,Capital outlay on original irrigation works,2,Column 2,,,,True,False
+speeches-and-writings-naoroji-1918,tbl-030,Table 30,765,82,13,data,And other assets ,Capital outlay on original irrigation works,3,Column 3,"Rx. 990,893",,Rs,False,False

@@ -1,0 +1,222 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.","40,89,975",4089975.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,3,"R. 40,000 to less than R. 50,000. :: No.",46,46.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.","20,34,004",2034004.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,5,"R. 50,000 to less than R. 60,000. :: No.",7,7.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.","3,70,000",370000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,7,"R. 60,000 to less than R. 80,000. :: No.",13,13.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.","8,81,760",881760.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,9,"R. 80,000 to less than R. 1,00,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.","86,000",86000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,11,"R. 1,00,000 and upwards. :: No.",6,6.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,12,"R. 1,00,000 and upwards. :: Amount. :: R.","8,16,800",816800.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,13,TOTAL. :: No.,"4,128",4128.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,1,data,,5,14,TOTAL. :: Amount. :: R.,"3,87,09,216",38709216.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,13,TOTAL. :: No.,"1,576",1576.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,2,data,,Row 2,14,TOTAL. :: Amount. :: R.,"39,21,123",3921123.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,3,"R. 40,000 to less than R. 50,000. :: No.",6,6.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.","2,70,000",270000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,13,TOTAL. :: No.,"8,252",8252.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,3,data,,Row 3,14,TOTAL. :: Amount. :: R.,"1,94,27,376",19427376.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.","2,83,198",283198.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,3,"R. 40,000 to less than R. 50,000. :: No.",12,12.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.","4,01,556",401556.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,7,"R. 60,000 to less than R. 80,000. :: No.",2,2.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.","1,32,000",132000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,11,"R. 1,00,000 and upwards. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,12,"R. 1,00,000 and upwards. :: Amount. :: R.","1,00,000",100000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,13,TOTAL. :: No.,"6,735",6735.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,4,data,,9,14,TOTAL. :: Amount. :: R.,"3,78,18,448",37818448.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,13,TOTAL. :: No.,443,443.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,5,data,,Row 5,14,TOTAL. :: Amount. :: R.,"9,66,492",966492.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,13,TOTAL. :: No.,"1,527",1527.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,6,data,,Row 6,14,TOTAL. :: Amount. :: R.,"26,48,760",2648760.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.","60,000",60000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,13,TOTAL. :: No.,"2,020",2020.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,7,data,,2,14,TOTAL. :: Amount. :: R.,"90,98,144",9098144.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.","1,64,944",164944.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,13,TOTAL. :: No.,225,225.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,8,data,,5,14,TOTAL. :: Amount. :: R.,"17,10,757",1710757.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,13,TOTAL. :: No.,"1,244",1244.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,9,data,,Row 9,14,TOTAL. :: Amount. :: R.,"22,99,431",2299431.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,13,TOTAL. :: No.,"1,452",1452.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,10,data,,Row 10,14,TOTAL. :: Amount. :: R.,"28,92,082",2892082.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,13,TOTAL. :: No.,70,70.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,11,data,,Row 11,14,TOTAL. :: Amount. :: R.,"3,77,866",377866.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,13,TOTAL. :: No.,46,46.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,12,data,,Row 12,14,TOTAL. :: Amount. :: R.,"1,08,980",108980.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,13,TOTAL. :: No.,323,323.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,13,data,,Row 13,14,TOTAL. :: Amount. :: R.,"5,86,095",586095.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.","45,98,117",4598117.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,3,"R. 40,000 to less than R. 50,000. :: No.",58,58.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.","24,35,556",2435556.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,5,"R. 50,000 to less than R. 60,000. :: No.",7,7.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.","3,70,000",370000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,7,"R. 60,000 to less than R. 80,000. :: No.",15,15.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.","10,13,760",1013760.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,9,"R. 80,000 to less than R. 1,00,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.","86,000",86000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,11,"R. 1,00,000 and upwards. :: No.",7,7.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,12,"R. 1,00,000 and upwards. :: Amount. :: R.","9,16,800",916800.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,13,TOTAL. :: No.,"13,178",13178.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,14,data,,1,14,TOTAL. :: Amount. :: R.,"8,77,14,431",87714431.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,3,"R. 40,000 to less than R. 50,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,13,TOTAL. :: No.,"3,309",3309.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,15,data,,Row 15,14,TOTAL. :: Amount. :: R.,"72,96,026",7296026.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,3,"R. 40,000 to less than R. 50,000. :: No.",6,6.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.","2,70,000",270000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,5,"R. 50,000 to less than R. 60,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,7,"R. 60,000 to less than R. 80,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,9,"R. 80,000 to less than R. 1,00,000. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,11,"R. 1,00,000 and upwards. :: No.",…,,count,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,12,"R. 1,00,000 and upwards. :: Amount. :: R.",…,,Rs,True,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,13,TOTAL. :: No.,"11,554",11554.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,16,data,,Row 16,14,TOTAL. :: Amount. :: R.,"2,55,54,313",25554313.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,2,"R. 30,000 to less than R. 40,000. :: Amount. :: R.","45,98,117",4598117.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,3,"R. 40,000 to less than R. 50,000. :: No.",64,64.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,4,"R. 40,000 to less than R. 50,000. :: Amount. :: R.","27,05,556",2705556.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,5,"R. 50,000 to less than R. 60,000. :: No.",7,7.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,6,"R. 50,000 to less than R. 60,000. :: Amount. :: R.","3,70,000",370000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,7,"R. 60,000 to less than R. 80,000. :: No.",15,15.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,8,"R. 60,000 to less than R. 80,000. :: Amount. :: R.","10,13,760",1013760.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,9,"R. 80,000 to less than R. 1,00,000. :: No.",1,1.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,10,"R. 80,000 to less than R. 1,00,000. :: Amount. :: R.","86,000",86000.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,11,"R. 1,00,000 and upwards. :: No.",7,7.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,12,"R. 1,00,000 and upwards. :: Amount. :: R.","9,16,800",916800.0,Rs,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,13,TOTAL. :: No.,"28,041",28041.0,count,False,False
+famines-and-land-assessments,tbl-023,rvice in India on the 31st March 1900.,311,287,17,total,,1,14,TOTAL. :: Amount. :: R.,"12,05,64,770",120564770.0,Rs,False,False

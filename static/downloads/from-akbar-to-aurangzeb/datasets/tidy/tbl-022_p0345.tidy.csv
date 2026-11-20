@@ -1,0 +1,78 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,2,Province. :: Original. :: A.,"22,19",2219.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,3,c. 1594. :: Adjusted. :: B.,"22,70",2270.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,4,c. 1594. :: Accession. :: C.,"31,27",3127.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,5,Shahjahan. :: c. 1647. :: D.,"40,00",4000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,6,Shahjahan. :: Late. :: E.,"39,43",3943.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,7,Aurangzeb. :: Late. :: F.,"39,69",3969.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,1,data,,Bihar,8,Aurangzeb. :: Before 1668. :: G.,"[72,18]",,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,2,Province. :: Original. :: A.,"20,83",2083.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,3,c. 1594. :: Adjusted. :: B.,"21,00",2100.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,4,c. 1594. :: Accession. :: C.,"30,70",3070.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,5,Shahjahan. :: c. 1647. :: D.,"40,00",4000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,6,Shahjahan. :: Late. :: E.,"42,43",4243.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,7,Aurangzeb. :: Late. :: F.,"44,96",4496.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,2,data,,Allahabad,8,Aurangzeb. :: Before 1668. :: G.,"43,67",4367.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,2,Province. :: Original. :: A.,"20,17",2017.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,3,c. 1594. :: Adjusted. :: B.,"20,34",2034.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,4,c. 1594. :: Accession. :: C.,"23,22",2322.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,5,Shahjahan. :: c. 1647. :: D.,"30,00",3000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,6,Shahjahan. :: Late. :: E.,"27,95",2795.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,7,Aurangzeb. :: Late. :: F.,"31,52",3152.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,3,data,,Oudh,8,Aurangzeb. :: Before 1668. :: G.,"32,01",3201.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,2,Province. :: Original. :: A.,"54,62",5462.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,3,c. 1594. :: Adjusted. :: B.,"54,47",5447.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,4,c. 1594. :: Accession. :: C.,"82,25",8225.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,5,Shahjahan. :: c. 1647. :: D.,"90,00",9000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,6,Shahjahan. :: Late. :: E.,"86,12",8612.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,7,Aurangzeb. :: Late. :: F.,"1,07,19",10719.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,4,data,,Agra,8,Aurangzeb. :: Before 1668. :: G.,"1,05,17",10517.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,2,Province. :: Original. :: A.,"24,07",2407.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,3,c. 1594. :: Adjusted. :: B.,"23,51",2351.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,4,c. 1594. :: Accession. :: C.,"28,00",2800.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,5,Shahjahan. :: c. 1647. :: D.,"40,00",4000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,6,Shahjahan. :: Late. :: E.,"40,83",4083.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,7,Aurangzeb. :: Late. :: F.,"38,99",3899.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,5,data,,Malwa,8,Aurangzeb. :: Before 1668. :: G.,"42,55",4255.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,2,Province. :: Original. :: A.,"43,68",4368.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,3,c. 1594. :: Adjusted. :: B.,"43,27",4327.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,4,c. 1594. :: Accession. :: C.,"50,64",5064.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,5,Shahjahan. :: c. 1647. :: D.,"53,00",5300.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,6,Shahjahan. :: Late. :: E.,"53,65",5365.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,7,Aurangzeb. :: Late. :: F.,"50,70",5070.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,6,data,,Gujarat,8,Aurangzeb. :: Before 1668. :: G.,"44,01",4401.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,2,Province. :: Original. :: A.,"28,84",2884.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,3,c. 1594. :: Adjusted. :: B.,"28,34",2834.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,4,c. 1594. :: Accession. :: C.,"42,05",4205.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,5,Shahjahan. :: c. 1647. :: D.,"60,00",6000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,6,Shahjahan. :: Late. :: E.,"60,29",6029.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,7,Aurangzeb. :: Late. :: F.,"65,12",6512.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,7,data,,Ajmer,8,Aurangzeb. :: Before 1668. :: G.,"63,69",6369.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,2,Province. :: Original. :: A.,"60,16",6016.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,3,c. 1594. :: Adjusted. :: B.,"59,56",5956.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,4,c. 1594. :: Accession. :: C.,"65,61",6561.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,5,Shahjahan. :: c. 1647. :: D.,"1,00,00",10000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,6,Shahjahan. :: Late. :: E.,"1,22,29",12229.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,7,Aurangzeb. :: Late. :: F.,"1,19,35",11935.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,8,data,,Delhi,8,Aurangzeb. :: Before 1668. :: G.,"1,16,84",11684.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,2,Province. :: Original. :: A.,"55,95",5595.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,3,c. 1594. :: Adjusted. :: B.,"55,91",5591.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,4,c. 1594. :: Accession. :: C.,"82,50",8250.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,5,Shahjahan. :: c. 1647. :: D.,"90,00",9000.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,6,Shahjahan. :: Late. :: E.,"89,30",8930.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,7,Aurangzeb. :: Late. :: F.,"85,47",8547.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,9,data,,Lahore,8,Aurangzeb. :: Before 1668. :: G.,"90,70",9070.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,2,Province. :: Original. :: A.,"15,14",1514.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,3,c. 1594. :: Adjusted. :: B.,"14,95",1495.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,4,c. 1594. :: Accession. :: C.,"[40,00]",,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,5,Shahjahan. :: c. 1647. :: D.,"28,00",2800.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,6,Shahjahan. :: Late. :: E.,"21,98",2198.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,7,Aurangzeb. :: Late. :: F.,"21,62",2162.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,10,data,,Multan,8,Aurangzeb. :: Before 1668. :: G.,"24,53",2453.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),2,Province. :: Original. :: A.,"3,45,65",34565.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),3,c. 1594. :: Adjusted. :: B.,"3,44,05",34405.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),4,c. 1594. :: Accession. :: C.,"[4,76,24]",,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),5,Shahjahan. :: c. 1647. :: D.,"5,71,00",57100.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),6,Shahjahan. :: Late. :: E.,"5,84,27",58427.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),7,Aurangzeb. :: Late. :: F.,"6,04,61",60461.0,,False,True
+from-akbar-to-aurangzeb,tbl-022,Revenue Demand at Different Periods (Lakhs of Dams),345,323,11,total,,Total . . (by addition),8,Aurangzeb. :: Before 1668. :: G.,"[6,35,35]",,,False,True

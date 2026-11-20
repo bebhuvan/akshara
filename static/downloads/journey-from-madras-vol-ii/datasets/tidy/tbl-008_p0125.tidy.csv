@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,1,data,,The farmer gets for his labour,2,Cand.,1,1.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,1,data,,The farmer gets for his labour,3,Col.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,2,data,,"The Mety, or priest to the stake of Cassia Fistula",2,Cand.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,2,data,,"The Mety, or priest to the stake of Cassia Fistula",3,Col.,5,5.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,3,data,,"The Saktis, or destructive spirits",2,Cand.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,3,data,,"The Saktis, or destructive spirits",3,Col.,2,2.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,4,data,,"The watchman, Talliari, or Barica, as he is here called",2,Cand.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,4,data,,"The watchman, Talliari, or Barica, as he is here called",3,Col.,2,2.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,5,data,,"The Shanaboga of the Hobly, or accomptant of the division",2,Cand.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,5,data,,"The Shanaboga of the Hobly, or accomptant of the division",3,Col.,1,1.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,6,data,,"The Nirgunty, or conductor of water",2,Cand.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,6,data,,"The Nirgunty, or conductor of water",3,Col.,2,2.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,7,data,,The ironsmith,2,Cand.,0,0.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,7,data,,The ironsmith,3,Col.,2,2.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,8,total,,Row 8,2,Cand.,1,1.0,,False,True
+journey-from-madras-vol-ii,tbl-008,Table 8,125,109,8,total,,Row 8,3,Col.,14,14.0,,False,True

@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,1,data,,1. Beluchistan Agency,2,Area in sq. miles.,"86,511",86511.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,1,data,,1. Beluchistan Agency,3,Population.,"502,500",502500.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,2,data,,2. Baroda State,2,Area in sq. miles.,"8,099",8099.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,2,data,,2. Baroda State,3,Population.,"1,952,692",1952692.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,3,data,,3. Bengal States,2,Area in sq. miles.,"38,652",38652.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,3,data,,3. Bengal States,3,Population.,"3,748,544",3748544.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,4,data,,4. Bombay States,2,Area in sq. miles.,"65,761",65761.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,4,data,,4. Bombay States,3,Population.,"6,908,648",6908648.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,5,data,,5. Central India Agency,2,Area in sq. miles.,"78,772",78772.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,5,data,,5. Central India Agency,3,Population.,"8,628,781",8628781.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,6,data,,6. Central Province States,2,Area in sq. miles.,"29,435",29435.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,6,data,,6. Central Province States,3,Population.,"1,996,383",1996383.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,7,data,,7. Hyderabad State,2,Area in sq. miles.,"82,698",82698.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,7,data,,7. Hyderabad State,3,Population.,"11,141,142",11141142.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,8,data,,8. Kashmir State,2,Area in sq. miles.,"80,900",80900.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,8,data,,8. Kashmir State,3,Population.,"2,905,578",2905578.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,9,data,,9. Madras States,2,Area in sq. miles.,"9,969",9969.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,9,data,,9. Madras States,3,Population.,"4,188,086",4188086.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,10,data,,10. Mysore State,2,Area in sq. miles.,"29,444",29444.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,10,data,,10. Mysore State,3,Population.,"5,539,399",5539399.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,11,data,,11. Punjab States,2,Area in sq. miles.,"36,532",36532.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,11,data,,11. Punjab States,3,Population.,"4,424,398",4424398.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,12,data,,12. Rajputana Agency,2,Area in sq. miles.,"127,541",127541.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,12,data,,12. Rajputana Agency,3,Population.,"9,723,301",9723301.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,13,data,,13. Agra and Oudh States,2,Area in sq. miles.,"5,079",5079.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,13,data,,13. Agra and Oudh States,3,Population.,"802,097",802097.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,14,total,,Total,2,Area in sq. miles.,"679,393",679393.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-072,Native States in India.,631,603,14,total,,Total,3,Population.,"62,461,549",62461549.0,,False,True

@@ -1,0 +1,129 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,2,Months required to bring the Seed to maturity.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,3,Seed required for one Acre. :: Bushels.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,4,Seed required for one Acre. :: Pecks.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,5,Seed required for one Acre. :: Gallons. Decimal parts.,1.467,1.467,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,59,59.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,0.47,0.47,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,9,Increase on one Seed.,100,100.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,41,41.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.25,0.25,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,13,Increase on one Seed.,70,70.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,23,23.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.8,1.8,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,1,data,,Hotay Caimbuti,17,Increase on one Seed.,40,40.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,2,Months required to bring the Seed to maturity.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,3,Seed required for one Acre. :: Bushels.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,4,Seed required for one Acre. :: Pecks.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,5,Seed required for one Acre. :: Gallons. Decimal parts.,1.467,1.467,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,59,59.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,0.47,0.47,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,9,Increase on one Seed.,100,100.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,41,41.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.25,0.25,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,13,Increase on one Seed.,70,70.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,23,23.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.8,1.8,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,2,data,,Doda or Bily Butta,17,Increase on one Seed.,40,40.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,2,Months required to bring the Seed to maturity.,4½,4.5,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,3,Seed required for one Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,4,Seed required for one Acre. :: Pecks.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,5,Seed required for one Acre. :: Gallons. Decimal parts.,0.627,0.627,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,47,47.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,1.6,1.6,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,9,Increase on one Seed.,114,114.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,35,35.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.7,0.7,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,13,Increase on one Seed.,84,84.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,17,17.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.52,1.52,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,3,data,,Arsina Caimbuti,17,Increase on one Seed.,42,42.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,2,Months required to bring the Seed to maturity.,4½,4.5,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,3,Seed required for one Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,4,Seed required for one Acre. :: Pecks.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,5,Seed required for one Acre. :: Gallons. Decimal parts.,0.627,0.627,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,47,47.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,1.6,1.6,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,9,Increase on one Seed.,114,114.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,35,35.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.7,0.7,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,13,Increase on one Seed.,84,84.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,17,17.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.52,1.52,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,4,data,,Putu Butta,17,Increase on one Seed.,42,42.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,2,Months required to bring the Seed to maturity.,4½,4.5,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,3,Seed required for one Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,4,Seed required for one Acre. :: Pecks.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,5,Seed required for one Acre. :: Gallons. Decimal parts.,0.627,0.627,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,47,47.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,1.6,1.6,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,9,Increase on one Seed.,114,114.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,35,35.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.7,0.7,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,13,Increase on one Seed.,84,84.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,17,17.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.52,1.52,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,5,data,,Yalic Raja,17,Increase on one Seed.,42,42.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,2,Months required to bring the Seed to maturity.,6,6.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,3,Seed required for one Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,4,Seed required for one Acre. :: Pecks.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,5,Seed required for one Acre. :: Gallons. Decimal parts.,0.627,0.627,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,47,47.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,1.6,1.6,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,9,Increase on one Seed.,114,114.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,35,35.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.7,0.7,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,13,Increase on one Seed.,84,84.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,17,17.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.52,1.52,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,6,data,,Murargilli,17,Increase on one Seed.,42,42.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,2,Months required to bring the Seed to maturity.,5,5.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,3,Seed required for one Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,4,Seed required for one Acre. :: Pecks.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,5,Seed required for one Acre. :: Gallons. Decimal parts.,0.627,0.627,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,47,47.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,1.6,1.6,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,9,Increase on one Seed.,114,114.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,35,35.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.7,0.7,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,13,Increase on one Seed.,84,84.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,17,17.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.52,1.52,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,7,data,,Conawaly,17,Increase on one Seed.,42,42.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,2,Months required to bring the Seed to maturity.,4½,4.5,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,3,Seed required for one Acre. :: Bushels.,0,0.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,4,Seed required for one Acre. :: Pecks.,3,3.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,5,Seed required for one Acre. :: Gallons. Decimal parts.,0.627,0.627,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,6,Produce of one Acre 1st Quality of Soil. :: Bushels.,47,47.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,7,Produce of one Acre 1st Quality of Soil. :: Pecks.,1,1.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,8,Produce of one Acre 1st Quality of Soil. :: Gallons. Decimal parts.,1.6,1.6,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,9,Increase on one Seed.,114,114.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,10,Produce of one Acre 2d Quality of Soil. :: Bushels.,35,35.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,11,Produce of one Acre 2d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,12,Produce of one Acre 2d Quality of Soil. :: Gallons. Decimal parts.,0.7,0.7,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,13,Increase on one Seed.,84,84.0,,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,14,Produce of one Acre 3d Quality of Soil. :: Bushels.,17,17.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,15,Produce of one Acre 3d Quality of Soil. :: Pecks.,2,2.0,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,16,Produce of one Acre 3d Quality of Soil. :: Gallons. Decimal parts.,1.52,1.52,acres,False,False
+journey-from-madras-vol-i,tbl-013,Table 13,174,140,8,data,,Sucadass,17,Increase on one Seed.,42,42.0,,False,False

@@ -23,13 +23,15 @@ digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain. Imported to Akshara Hugo site 2025-12-14."
 download_url: "https://drive.google.com/drive/folders/1bg-wpmYQqC1tmHsnulx6X0dAyT7RSUSg?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/religion-of-the-veda.svg"
+archetype: "classical_and_philological"
+palette: "Birch & Carbon"
 ---
 
 This volume reproduces six lectures on the Religion of the Veda delivered before various learned institutions of America during 1906-07. Maurice Bloomfield, Professor of Sanskrit and Comparative Philology at Johns Hopkins University, was one of the leading authorities on Vedic Literature, whose life's work included the monumental Concordance of the Vedic hymns.
 
 The work explores how Vedic religion rests upon a prehistoric foundation of nature myth, continues in the Rig-Veda as hieratic ritual worship of polytheistic gods, grows increasingly formal in the Yajur-Vedas and Brahmanas, and finally transforms into the pantheistic and pessimistic philosophy of the Upanishads—a philosophy that Hindu thought has never abandoned.
-
-

@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,1,data,,1. Guinea cloth,2,Column 2,500 bales.,,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,3,data,2. Other calico—,Semianoes (Punjab),2,Column 2,"1,000 pieces.",,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,4,data,2. Other calico—,Ambertees (Bihar),2,Column 2,"1,000 „",1000.0,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,5,data,2. Other calico—,Broad baftas (Gujarat),2,Column 2,"5,000 „",5000.0,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,6,data,2. Other calico—,Narrow baftas (Gujarat),2,Column 2,"4,000–5,000 „",,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,7,data,2. Other calico—,Dariyabads (Oudh),2,Column 2,"2,000 „",2000.0,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,8,data,2. Other calico—,Salempores (East Coast),2,Column 2,"3,000–4,000 „",,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,9,data,2. Other calico—,Moorees and Percalles (East Coast),2,Column 2,"9,000–11,000 „",,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,10,subtotal,,Row 10,2,Column 2,"25,000–29,000 „",,,False,False
+from-akbar-to-aurangzeb,tbl-014,Table 14,155,133,11,data,2. Other calico—,3. Various muslin and fancy goods— (East Coast and Bengal),2,Column 2,"8,000–11,000 „",,,False,False

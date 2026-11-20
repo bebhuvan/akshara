@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-016,Table 16,215,175,1,data,,"To 4 men for collecting iron sand, at 10 Fanams each for 4 months",2,Fanams.,160,160.0,,False,True
+journey-from-madras-vol-i,tbl-016,Table 16,215,175,2,data,,"To 6 men to make charcoal, 4 for the smelting-house, and 2 for the forge, during 8 months, at 8 Fanams monthly for each",2,Fanams.,384,384.0,,False,True
+journey-from-madras-vol-i,tbl-016,Table 16,215,175,3,data,,"To 4 labourers at the smelting-house, for 8 months, at 10 Fanams each",2,Fanams.,320,320.0,,False,True
+journey-from-madras-vol-i,tbl-016,Table 16,215,175,4,data,,"To 6 labourers in the forging-house, of whom 1 has 12 Fanams, the others 6 Fanams a month, for 8 months",2,Fanams.,336,336.0,,False,True
+journey-from-madras-vol-i,tbl-016,Table 16,215,175,5,data,,"To the government paid yearly; for making charcoal 60 Fanams, for ground rent for furnace 20 Fanams, for ditto for servants houses 20 Fanams",2,Fanams.,100,100.0,,False,True
+journey-from-madras-vol-i,tbl-016,Table 16,215,175,6,total,,Fanams,2,Fanams.,1300,1300.0,,False,True

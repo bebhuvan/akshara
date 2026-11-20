@@ -21,14 +21,17 @@ archive_url: "https://archive.org/details/in.ernet.dli.2015.351402/mode/2up"
 digitized_from: "Archive.org"
 digitization_method: "AI-assisted extraction via Project Akshara"
 digitization_notes: "This text has been digitized from scanned pages using AI-assisted extraction. While every effort has been made to ensure accuracy, some errors may remain. Originally processed 2025-12-10, imported to Akshara Hugo site 2025-12-13."
-
 downloads:
   epub: "https://drive.google.com/file/d/1FnxcBaHD_4LWf4qLLHlviSwPfazSlSEy/view?usp=sharing"
   pdf: "https://drive.google.com/file/d/1aUIYkSaALIZkbeBtRsOveenMZv3t4Rei/view?usp=sharing"
   markdown: "https://drive.google.com/file/d/1-6d6Mknw66PEf1jDV_00MIzVcxTGdnD3/view?usp=sharing"
-
 cascade:
   type: "chapters"
+edition_generation: "v1"
+edition_tier: "v1_archive"
+cover_svg: "/covers/brief-history-indian-peoples.svg"
+archetype: "village_and_society"
+palette: "Loom Indigo"
 ---
 
 A comprehensive survey of Indian history written by one of the foremost authorities on India in the late 19th century. Sir William Wilson Hunter's work stands out for its balanced approach, giving proper weight to India's ancient civilizations and Hindu kingdoms rather than merely presenting India as a conquered territory. 

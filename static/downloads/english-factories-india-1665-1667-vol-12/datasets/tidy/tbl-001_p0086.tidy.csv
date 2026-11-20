@@ -1,0 +1,46 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,1,data,,Rent of the kasaba of Bombay,2,Zer.,"1,953",1953.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,1,data,,Rent of the kasaba of Bombay,3,lāris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,1,data,,Rent of the kasaba of Bombay,4,reis.,40,40.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,2,data,,Revenue from the testing of coco-nuts (called parquauna),2,Zer.,9,9.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,2,data,,Revenue from the testing of coco-nuts (called parquauna),3,lāris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,2,data,,Revenue from the testing of coco-nuts (called parquauna),4,reis.,35,35.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,3,data,,‘Suretor’,2,Zer.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,3,data,,‘Suretor’,3,lāris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,3,data,,‘Suretor’,4,reis.,16,16.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,4,data,,Rent of the aldea of Parel,2,Zer.,441,441.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,4,data,,Rent of the aldea of Parel,3,lāris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,4,data,,Rent of the aldea of Parel,4,reis.,72,72.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,5,data,,‘Vala’ [Vadāla?],2,Zer.,23,23.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,5,data,,‘Vala’ [Vadāla?],3,lāris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,5,data,,‘Vala’ [Vadāla?],4,reis.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,6,data,,‘Aldea Verulim’ [Warli?],2,Zer.,81,81.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,6,data,,‘Aldea Verulim’ [Warli?],3,lāris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,6,data,,‘Aldea Verulim’ [Warli?],4,reis.,36,36.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,7,data,,Sion,2,Zer.,36,36.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,7,data,,Sion,3,lāris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,7,data,,Sion,4,reis.,36,36.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,8,data,,Mazagaon,2,Zer.,266,266.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,8,data,,Mazagaon,3,lāris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,8,data,,Mazagaon,4,reis.,40,40.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,9,data,,Rent of the Māhīm customs,2,Zer.,272,272.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,9,data,,Rent of the Māhīm customs,3,lāris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,9,data,,Rent of the Māhīm customs,4,reis.,16,16.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,10,data,,Rent of the kasaba of Māhīm,2,Zer.,"1,806",1806.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,10,data,,Rent of the kasaba of Māhīm,3,lāris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,10,data,,Rent of the kasaba of Māhīm,4,reis.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,11,data,,Rent of the tobacco monopoly,2,Zer.,"4,800",4800.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,11,data,,Rent of the tobacco monopoly,3,lāris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,11,data,,Rent of the tobacco monopoly,4,reis.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,12,data,,Revenue from taxes [dreitos] after deducting the costs of the officials,2,Zer.,"4,000",4000.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,12,data,,Revenue from taxes [dreitos] after deducting the costs of the officials,3,lāris.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,12,data,,Revenue from taxes [dreitos] after deducting the costs of the officials,4,reis.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,13,subtotal,,Row 13,2,Zer.,"13,694",13694.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,13,subtotal,,Row 13,3,lāris.,1,1.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,13,subtotal,,Row 13,4,reis.,51,51.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,14,data,,Deduct the allowance for the Agra Padres out of the payment for Māhīm,2,Zer.,"1,773",1773.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,14,data,,Deduct the allowance for the Agra Padres out of the payment for Māhīm,3,lāris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,14,data,,Deduct the allowance for the Agra Padres out of the payment for Māhīm,4,reis.,0,0.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,15,total,,Row 15,2,Zer.,"11,920",11920.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,15,total,,Row 15,3,lāris.,2,2.0,,False,True
+english-factories-india-1665-1667-vol-12,tbl-001,Table 1,86,72,15,total,,Row 15,4,reis.,51,51.0,,False,True

@@ -1,0 +1,85 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,1,data,,1. Covenanted Civil Service,2,Column 2,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,1,data,,1. Covenanted Civil Service,3,Column 3,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,1,data,,1. Covenanted Civil Service,4,Column 4,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,1,data,,1. Covenanted Civil Service,5,Column 5,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,1,data,,1. Covenanted Civil Service,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,1,data,,1. Covenanted Civil Service,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,2,data,,2. Statutory Civil Service,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,2,data,,2. Statutory Civil Service,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,2,data,,2. Statutory Civil Service,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,2,data,,2. Statutory Civil Service,5,Column 5,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,2,data,,2. Statutory Civil Service,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,2,data,,2. Statutory Civil Service,7,Column 7,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,4,data,3. Uncovenanted Service,a. Judicial and Executive,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,4,data,3. Uncovenanted Service,a. Judicial and Executive,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,4,data,3. Uncovenanted Service,a. Judicial and Executive,4,Column 4,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,4,data,3. Uncovenanted Service,a. Judicial and Executive,5,Column 5,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,4,data,3. Uncovenanted Service,a. Judicial and Executive,6,Column 6,5,5.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,4,data,3. Uncovenanted Service,a. Judicial and Executive,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,5,data,3. Uncovenanted Service,b. Educational Department,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,5,data,3. Uncovenanted Service,b. Educational Department,3,Column 3,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,5,data,3. Uncovenanted Service,b. Educational Department,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,5,data,3. Uncovenanted Service,b. Educational Department,5,Column 5,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,5,data,3. Uncovenanted Service,b. Educational Department,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,5,data,3. Uncovenanted Service,b. Educational Department,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,6,data,3. Uncovenanted Service,c. Unclassified,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,6,data,3. Uncovenanted Service,c. Unclassified,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,6,data,3. Uncovenanted Service,c. Unclassified,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,6,data,3. Uncovenanted Service,c. Unclassified,5,Column 5,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,6,data,3. Uncovenanted Service,c. Unclassified,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,6,data,3. Uncovenanted Service,c. Unclassified,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,8,data,4. General Public,"a. Barristers, Vakils, & Solicitors",2,Column 2,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,8,data,4. General Public,"a. Barristers, Vakils, & Solicitors",3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,8,data,4. General Public,"a. Barristers, Vakils, & Solicitors",4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,8,data,4. General Public,"a. Barristers, Vakils, & Solicitors",5,Column 5,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,8,data,4. General Public,"a. Barristers, Vakils, & Solicitors",6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,8,data,4. General Public,"a. Barristers, Vakils, & Solicitors",7,Column 7,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,9,data,4. General Public,b. Zemindars,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,9,data,4. General Public,b. Zemindars,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,9,data,4. General Public,b. Zemindars,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,9,data,4. General Public,b. Zemindars,5,Column 5,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,9,data,4. General Public,b. Zemindars,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,9,data,4. General Public,b. Zemindars,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,10,data,4. General Public,c. Merchants,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,10,data,4. General Public,c. Merchants,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,10,data,4. General Public,c. Merchants,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,10,data,4. General Public,c. Merchants,5,Column 5,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,10,data,4. General Public,c. Merchants,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,10,data,4. General Public,c. Merchants,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,11,data,4. General Public,d. Unclassified,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,11,data,4. General Public,d. Unclassified,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,11,data,4. General Public,d. Unclassified,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,11,data,4. General Public,d. Unclassified,5,Column 5,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,11,data,4. General Public,d. Unclassified,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,11,data,4. General Public,d. Unclassified,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,12,data,4. General Public,5. English Newspapers,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,12,data,4. General Public,5. English Newspapers,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,12,data,4. General Public,5. English Newspapers,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,12,data,4. General Public,5. English Newspapers,5,Column 5,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,12,data,4. General Public,5. English Newspapers,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,12,data,4. General Public,5. English Newspapers,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,13,data,4. General Public,6. Vernacular „,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,13,data,4. General Public,6. Vernacular „,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,13,data,4. General Public,6. Vernacular „,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,13,data,4. General Public,6. Vernacular „,5,Column 5,2,2.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,13,data,4. General Public,6. Vernacular „,6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,13,data,4. General Public,6. Vernacular „,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,14,data,4. General Public,7. Associations and Societies,2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,14,data,4. General Public,7. Associations and Societies,3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,14,data,4. General Public,7. Associations and Societies,4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,14,data,4. General Public,7. Associations and Societies,5,Column 5,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,14,data,4. General Public,7. Associations and Societies,6,Column 6,1,1.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,14,data,4. General Public,7. Associations and Societies,7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,15,data,4. General Public,"8. Members of Council, and High Court Judges",2,Column 2,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,15,data,4. General Public,"8. Members of Council, and High Court Judges",3,Column 3,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,15,data,4. General Public,"8. Members of Council, and High Court Judges",4,Column 4,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,15,data,4. General Public,"8. Members of Council, and High Court Judges",5,Column 5,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,15,data,4. General Public,"8. Members of Council, and High Court Judges",6,Column 6,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,15,data,4. General Public,"8. Members of Council, and High Court Judges",7,Column 7,—,,,True,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,16,total,,Totals,2,Column 2,3,3.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,16,total,,Totals,3,Column 3,4,4.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,16,total,,Totals,4,Column 4,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,16,total,,Totals,5,Column 5,21,21.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,16,total,,Totals,6,Column 6,6,6.0,,False,True
+poverty-and-un-british-rule,tbl-160,6.—CENTRAL PROVINCES.,499,479,16,total,,Totals,7,Column 7,2,2.0,,False,True

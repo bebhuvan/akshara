@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,1,data,,Cotton goods,2,Column 2,3 per cent.,3.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,2,data,,Grain of all sorts,2,Column 2,4½d. per maund.,,maunds,False,False
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,3,data,,Hides,2,Column 2,3 per cent.,3.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,4,data,,Indigo,2,Column 2,6s. per maund.,,maunds,False,False
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,5,data,,"Shell lac, lac dye",2,Column 2,4 per cent.,4.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,6,data,,Oils,2,Column 2,3 „,3.0,%,False,False
+economic-history-india-victorian-age-dutt,tbl-033,Export Duties.,366,338,7,data,,Seeds and spices,2,Column 2,3 „,3.0,%,False,False

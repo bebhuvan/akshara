@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,1,data,,Ordinary labourers,2,Sanctioned Rate.,2 dams daily,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,1,data,,Ordinary labourers,3,Modern Equivalent.,5½ annas,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,2,data,,Superior labourers,2,Sanctioned Rate.,3 to 4    „,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,2,data,,Superior labourers,3,Modern Equivalent.,8½ to 11    „,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,3,data,,Carpenters,2,Sanctioned Rate.,3 „ 7    „,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,3,data,,Carpenters,3,Modern Equivalent.,8½ annas to Re. 1.4,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,4,data,,Builders,2,Sanctioned Rate.,5 „ 7    „,,,False,False
+india-at-the-death-of-akbar,tbl-005,Table 5,207,191,4,data,,Builders,3,Modern Equivalent.,14    „    Re. 1.4,,,False,False

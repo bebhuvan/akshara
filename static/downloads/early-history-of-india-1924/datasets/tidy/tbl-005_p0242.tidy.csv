@@ -1,0 +1,50 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,1,data,,326 or 325,2,Event.,Chandragupta Maurya in his youth met Alexander the Great.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,2,data,,"Sept. or Oct., 325",2,Event.,Alexander quitted India.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,3,data,,"Feb., 324",2,Event.,"Alexander, while in Karmania, received news of the murder of his satrap Philippos, in India; and placed Eudēmos and Āmbhi, king of Taxila, in charge of the Indian provinces.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,4,data,,"June, 323",2,Event.,Death of Alexander at Babylon.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,5,data,,323–322 (possibly a year or two years earlier),2,Event.,Revolt of Panjāb under Chandragupta Maurya and destruction of Nanda dynasty of Magadha; accession of Chandragupta Maurya as emperor of India.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,6,data,,321,2,Event.,Second partition of Alexander's empire at Triparadeisos.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,7,data,,315,2,Event.,Seleukos Nikator compelled by Antigonos to retire to Egypt.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,8,data,,312,2,Event.,Recovery of Babylon by Seleukos.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,9,data,,"Oct. 1, 212",2,Event.,Establishment of Seleukidan era.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,10,data,,306,2,Event.,Assumption by Seleukos of title of king.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,11,data,,305 or 304,2,Event.,Invasion of India by Seleukos.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,12,data,,303,2,Event.,Defeat of Seleukos by Chandragupta; treaty of peace; cession of a large part of Ariana by Seleukos.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,13,data,,303–301,2,Event.,March of Seleukos against Antigonos.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,14,data,,302,2,Event.,Megasthenes ambassador of Seleukos at Pāṭaliputra.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,15,data,,301,2,Event.,Defeat and death of Antigonos at Ipsos in Phrygia.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,16,data,,298,2,Event.,Accession of Bindusāra Amitraghāta as emperor of India.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,17,data,,c. 296,2,Event.,Deïmachos ambassador of Seleukos at Pāṭaliputra.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,18,data,,285,2,Event.,"Ptolemy Philadelphos, king of Egypt, acc.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,19,data,,280,2,Event.,"Seleukos Nikator, king of Syria, d.; Antiochos Soter, his son, acc.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,20,data,,278 or 277,2,Event.,"Antigonos Gonatas, king of Macedonia, grandson of Antiochos I, acc.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,21,data,,273,2,Event.,"Alexander, king of Epirus, son of Pyrrhus, and opponent of Antigonos Gonatas, acc.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,22,data,,272,2,Event.,Accession of Asoka-vardhana as emperor of India.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,23,data,,269,2,Event.,Coronation (abhisheka) of Asoka.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,24,data,,264,2,Event.,Outbreak of First Punic War.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,25,data,,261,2,Event.,"Conquest of Kaliṅga by Asoka; Antiochos Theos, king of Syria, son of Antiochos Soter, acc.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,26,data,,259,2,Event.,"Asoka abolished hunting, instituted tours devoted to works of piety, and dispatched missionaries.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,27,data,,258,2,Event.,"Magas, king of Cyrēnē, half-brother of Ptolemy Philadelphos, died; (?) Alexander, king of Epirus, died.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),242,206,28,data,,257,2,Event.,"Minor Rock Edict I and Rock Edicts III and IV of Asoka, who instituted quinquennial official progresses for propagation of Law of Piety (dharma), and dedicated cave-dwellings at Barābar for the use of the Ājīvikas.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,29,header,,Year B. C,2,Event.,Events.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,30,data,,256,2,Event.,"Publication of complete series of Fourteen Rock Edicts, and of the Kalinga Borderers' Edict by Asoka, who appointed Censors of the Law of Piety (dharmamahāmātrāḥ).",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,31,data,,255,2,Event.,Asoka enlarged for the second time the stūpa of Konākamana Buddha near Kapilavastu.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,32,data,,? 254,2,Event.,Publication by Asoka of the Kaliṅga Provincial's Edict.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,33,data,,250,2,Event.,Dedication by Asoka of a third cave-dwelling at Barābar for the use of the Ājīvikas.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,34,data,,249,2,Event.,"Pilgrimage of Asoka to Buddhist holy places ; erection of pillars at Lumbinī Garden and near a stūpa of Konākamana ; (?) his visit to Nepāl, and foundation of Lalita Pātan ; his daughter Chārumatī becomes a nun.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,35,data,,? 248,2,Event.,Declaration of independence by Bactria and Parthia.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,36,data,,247,2,Event.,"Ptolemy Philadelphos, king of Egypt, died.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,37,data,,247 or 246,2,Event.,"Antiochos Theos, king of Syria, grandson of Seleukos Nikator, died.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,38,data,,243,2,Event.,"Composition by Asoka of Pillar Edict VI, confirming the Rock Edicts.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,39,data,,242,2,Event.,Publication by Asoka of complete series of Seven Pillar Edicts.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,40,data,,242 or 239,2,Event.,"Antigonos Gonatas, king of Macedonia, died.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,41,data,,241,2,Event.,Close of First Punic War ; rise of the kingdom of Pergamum.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,42,data,,? 240–232,2,Event.,Minor Pillar Edicts of Asoka.,,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,43,data,,232,2,Event.,"Asoka died : Dasartha (Kuśāla, Vāyu P.) acc., and dedicated Nāgārjuni caves to the Ājīvikas; break-up of Maurya empire began.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,44,data,,? 224,2,Event.,"Sangata Maurya, king (Bandhupālita, Vāyu P.).",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,45,data,,? 216,2,Event.,"Sāliśūka Maurya, king (Indrapālita, Vāyu P.) ; ? defeated by Khāravēla of Orissa.",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,46,data,,? 206,2,Event.,"Somaśarman Maurya, king (Daśavarman, or Devavarman, Vāyu P.).",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,47,data,,? 199,2,Event.,"Śatadhanwan Maurya, king (Śatadhanus, Vāyu P.)",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,48,data,,? 191,2,Event.,"Bṛihadratha Maurya, king (Bṛijadaśva, Vāyu P.).",,,False,False
+early-history-of-india-1924,tbl-005,CHRONOLOGICAL TABLE (Nearly exact dates.),243,206,49,data,,185,2,Event.,"Pushyamitra Śunga, acc., having slain Bṛihadratha ; final destruction of Maurya Empire.",,,False,False

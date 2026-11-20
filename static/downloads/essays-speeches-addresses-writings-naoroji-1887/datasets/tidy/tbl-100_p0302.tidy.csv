@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,1,data,,The United Kingdom,2,Column 2,25 per cent.,25.0,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,1,data,,The United Kingdom,3,Column 3,(1858 to 1870),,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,2,data,,Australia,2,Column 2,15 „ „,15.0,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,2,data,,Australia,3,Column 3,(1858 to 1868),,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,3,data,,British North America,2,Column 2,29 „ „,29.0,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,3,data,,British North America,3,Column 3,(1858 to 1868),,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,4,data,,United States (as under),2,Column 2,18 „ „,18.0,%,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,4,data,,United States (as under),3,Column 3,(1869 to 1873),,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,5,data,,Imports,2,Column 2,"$2,745,141,403",2745141403.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,5,data,,Imports,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,6,data,,"Add 6 per cent. Freight (leaving other charges)— Commission, Insurance, &c.—alone",2,Column 2,"164,708,484",164708484.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,6,data,,"Add 6 per cent. Freight (leaving other charges)— Commission, Insurance, &c.—alone",3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,7,subtotal,,Row 7,2,Column 2,"$2,909,849,887",2909849887.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,7,subtotal,,Row 7,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,8,data,,Deduct Exports,2,Column 2,"2,466,589,293",2466589293.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,8,data,,Deduct Exports,3,Column 3,,,,True,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,9,total,,Excess of Imports or Profits—say 18 per cent. above Exports,2,Column 2,"$443,260,594",443260594.0,,False,True
+essays-speeches-addresses-writings-naoroji-1887,tbl-100,Table 100,302,285,9,total,,Excess of Imports or Profits—say 18 per cent. above Exports,3,Column 3,,,,True,True

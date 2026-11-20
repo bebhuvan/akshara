@@ -1,0 +1,64 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,2,Column 2,Total.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,3,Column 3,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,4,Column 4,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,5,Column 5,Agricultural.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,6,Column 6,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,7,Column 7,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,8,Column 8,Non-agricultural.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,9,Column 9,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,1,data,,Classified as living,10,Column 10,,,,True,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,2,Column 2,Families.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,3,Column 3,Persons.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,4,Column 4,Income in rupees.,,Rs,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,5,Column 5,Families.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,6,Column 6,Persons.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,7,Column 7,Income in rupees.,,Rs,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,8,Column 8,Families.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,9,Column 9,Persons.,,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,2,data,,Row 2,10,Column 10,Income in rupees.,,Rs,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,2,Column 2,"64,143",64143.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,3,Column 3,"371,133",371133.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,4,Column 4,"25,694,502",25694502.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,5,Column 5,"32,391",32391.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,6,Column 6,"198,890",198890.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,7,Column 7,"11,387,040",11387040.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,8,Column 8,"31,752",31752.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,9,Column 9,"172,243",172243.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,3,data,,in comfort,10,Column 10,"14,307,462",14307462.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,2,Column 2,"34,660",34660.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,3,Column 3,"191,588",191588.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,4,Column 4,"8,024,071",8024071.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,5,Column 5,"17,215",17215.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,6,Column 6,"100,556",100556.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,7,Column 7,"4,109,875",4109875.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,8,Column 8,"17,445",17445.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,9,Column 9,"91,032",91032.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,4,data,,below comfort,10,Column 10,"3,914,196",3914196.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,2,Column 2,"21,845",21845.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,3,Column 3,"107,832",107832.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,4,Column 4,"3,425,490",3425490.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,5,Column 5,"9,503",9503.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,6,Column 6,"49,582",49582.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,7,Column 7,"1,638,553",1638553.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,8,Column 8,"12,342",12342.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,9,Column 9,"58,250",58250.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,5,data,,above indigence,10,Column 10,"1,786,937",1786937.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,2,Column 2,"5,028",5028.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,3,Column 3,"21,415",21415.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,4,Column 4,"514,504",514504.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,5,Column 5,"1,989",1989.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,6,Column 6,"8,896",8896.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,7,Column 7,"221,093",221093.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,8,Column 8,"3,039",3039.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,9,Column 9,"12,519",12519.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,6,data,,in indigence,10,Column 10,"293,411",293411.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,2,Column 2,"125,676",125676.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,3,Column 3,"691,968",691968.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,4,Column 4,"37,658,567",37658567.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,5,Column 5,"61,098",61098.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,6,Column 6,"357,924",357924.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,7,Column 7,"17,356,561",17356561.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,8,Column 8,"64,578",64578.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,9,Column 9,"334,044",334044.0,,False,True
+economic-life-bengal-district-faridpur-1916,tbl-013,Hindus,156,152,7,total,,Total,10,Column 10,"20,302,006",20302006.0,,False,True

@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "famines-and-land-assessments",
+    "table_id": "tbl-005",
+    "caption": "Administration Report of N. W. P. & Oudh, 1897-98, pp. 7 to 9.",
+    "page_number": 97,
+    "printed_folio": "73",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Montgomery",
+    "column_index": 2,
+    "column_header": "Old Revenue.",
+    "raw_text": "Rs. 408,981",
+    "value_numeric": 408981.0,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "famines-and-land-assessments",
+    "table_id": "tbl-005",
+    "caption": "Administration Report of N. W. P. & Oudh, 1897-98, pp. 7 to 9.",
+    "page_number": 97,
+    "printed_folio": "73",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Montgomery",
+    "column_index": 3,
+    "column_header": "Increase of Revenue due to resettlement.",
+    "raw_text": "Rs. 163,058",
+    "value_numeric": 163058.0,
+    "unit": "Rs",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

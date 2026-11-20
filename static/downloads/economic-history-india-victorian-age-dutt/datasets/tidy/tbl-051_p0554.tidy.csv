@@ -1,0 +1,23 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,1,data,,Bengal,2,Output in Tons. :: 1892.,"1,920,050",1920050.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,1,data,,Bengal,3,Output in Tons. :: 1901.,"5,703,876",5703876.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,2,data,,Assam,2,Output in Tons. :: 1892.,"164,050",164050.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,2,data,,Assam,3,Output in Tons. :: 1901.,"253,162",253162.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,3,data,,Burma,2,Output in Tons. :: 1892.,"3,670",3670.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,3,data,,Burma,3,Output in Tons. :: 1901.,"12,466",12466.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,4,data,,Rajputana,2,Output in Tons. :: 1892.,nil,0.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,4,data,,Rajputana,3,Output in Tons. :: 1901.,"12,094",12094.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,5,data,,Central India,2,Output in Tons. :: 1892.,"88,623",88623.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,5,data,,Central India,3,Output in Tons. :: 1901.,"164,415",164415.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,6,data,,Punjab,2,Output in Tons. :: 1892.,"66,352",66352.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,6,data,,Punjab,3,Output in Tons. :: 1901.,"67,730",67730.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,7,data,,Beluchistan,2,Output in Tons. :: 1892.,"13,284",13284.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,7,data,,Beluchistan,3,Output in Tons. :: 1901.,"22,772",22772.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,8,data,,Central Provinces,2,Output in Tons. :: 1892.,"132,005",132005.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,8,data,,Central Provinces,3,Output in Tons. :: 1901.,"191,516",191516.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,9,data,,Nizam's Territory,2,Output in Tons. :: 1892.,"149,601",149601.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,9,data,,Nizam's Territory,3,Output in Tons. :: 1901.,"421,218",421218.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,10,data,,Madras,2,Output in Tons. :: 1892.,61,61.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,10,data,,Madras,3,Output in Tons. :: 1901.,nil.,0.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,11,total,,Total,2,Output in Tons. :: 1892.,"2,537,696",2537696.0,tons,False,True
+economic-history-india-victorian-age-dutt,tbl-051,Table 51,554,526,11,total,,Total,3,Output in Tons. :: 1901.,"6,849,249",6849249.0,tons,False,True

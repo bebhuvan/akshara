@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,1,data,,Bengal,2,Column 2,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,1,data,,Bengal,3,Column 3,Not given,,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,1,data,,Bengal,4,Column 4,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,1,data,,Bengal,5,Column 5,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,2,header,,Row 2,2,Column 2,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,2,header,,Row 2,3,Column 3,RS.,,Rs,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,2,header,,Row 2,4,Column 4,A.,,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,2,header,,Row 2,5,Column 5,P.,,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,3,data,,North-Western Provinces,2,Column 2,"Zemindari, Temporarily settled",,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,3,data,,North-Western Provinces,3,Column 3,2,2.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,3,data,,North-Western Provinces,4,Column 4,0,0.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,3,data,,North-Western Provinces,5,Column 5,8,8.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,4,data,,Row 4,2,Column 2,"Do., permanently settled",,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,4,data,,Row 4,3,Column 3,1,1.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,4,data,,Row 4,4,Column 4,12,12.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,137,113,4,data,,Row 4,5,Column 5,4,4.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,5,data,,Oudh,2,Column 2,Temporarily settled . . .,,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,5,data,,Oudh,3,Column 3,1,1.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,5,data,,Oudh,4,Column 4,15,15.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,5,data,,Oudh,5,Column 5,7,7.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,6,data,,Row 6,2,Column 2,{ Permanently settled . . .,,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,6,data,,Row 6,3,Column 3,1,1.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,6,data,,Row 6,4,Column 4,1,1.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,6,data,,Row 6,5,Column 5,9,9.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,8,data,"[Administration Report, 1897-78. Appendices, pp. 18 to 21.]",Punjab,2,Column 2,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,8,data,"[Administration Report, 1897-78. Appendices, pp. 18 to 21.]",Punjab,3,Column 3,1,1.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,8,data,"[Administration Report, 1897-78. Appendices, pp. 18 to 21.]",Punjab,4,Column 4,2,2.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,8,data,"[Administration Report, 1897-78. Appendices, pp. 18 to 21.]",Punjab,5,Column 5,0,0.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,10,data,"[Administration Report, 1898-99.]",Bombay,2,Column 2,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,10,data,"[Administration Report, 1898-99.]",Bombay,3,Column 3,3,3.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,10,data,"[Administration Report, 1898-99.]",Bombay,4,Column 4,13,13.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,10,data,"[Administration Report, 1898-99.]",Bombay,5,Column 5,5,5.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,12,data,"[Administration Report, 1898-99. Statistical Returns, p. 75.]",Madras,2,Column 2,,,,True,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,12,data,"[Administration Report, 1898-99. Statistical Returns, p. 75.]",Madras,3,Column 3,2,2.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,12,data,"[Administration Report, 1898-99. Statistical Returns, p. 75.]",Madras,4,Column 4,4,4.0,,False,False
+famines-and-land-assessments,tbl-013,Incidence of Land Revenue Per Acre of Fully Assessed Cultivated Land,138,113,12,data,"[Administration Report, 1898-99. Statistical Returns, p. 75.]",Madras,5,Column 5,10,10.0,,False,False

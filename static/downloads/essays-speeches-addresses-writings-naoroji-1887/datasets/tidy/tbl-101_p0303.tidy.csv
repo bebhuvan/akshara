@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,1,data,,For 1858 to 1875 his figure for Exports is,2,Column 2,"£910,995,000",910995000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,2,data,,Add 15 per cent. Profits,2,Column 2,"136,649,250",136649250.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,3,total,,Total proceeds of Exports,2,Column 2,"£1,047,644,250",1047644250.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,4,data,,His Imports are,2,Column 2,"£764,310,000",764310000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,5,data,,"Deduct Loans Imported, about",2,Column 2,"140,000,000",140000000.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,6,total,,Actual Commercial Imports (including Government Store),2,Column 2,"£624,310,000",624310000.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,7,data,,Excess of proceeds of Exports,2,Column 2,"£423,334,250",423334250.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,8,data,,Deduct Railway Interest,2,Column 2,"51,133,987",51133987.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,9,total,,Transfer to England from India's resources (excluding Interest on Railway Loans),2,Column 2,"372,200,263",372200263.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,10,data,,This transfer is equal to the whole of the Opium Revenue,2,Column 2,"£108,156,107",108156107.0,GBP,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,11,data,,The whole of profits on Exports,2,Column 2,"136,649,250",136649250.0,,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-101,Table 101,303,286,12,data,,"And furthermore, from India's resources",2,Column 2,"127,394,906",127394906.0,,False,False

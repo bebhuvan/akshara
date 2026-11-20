@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,1,data,,Occupied by the families of Rájás,2,Column 2,42,42.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,2,data,,by Nazaranics,2,Column 2,13,13.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,3,data,,Mussulmans,2,Column 2,1469,1469.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,4,data,,Namburis,2,Column 2,137,137.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,5,data,,Puttar Bráhmans,2,Column 2,3309,3309.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,6,data,,Nairs,2,Column 2,4292,4292.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,7,data,,"Artificers, tradesmen, &c",2,Column 2,2329,2329.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,8,data,,"Shanars, or Tiars",2,Column 2,4287,4287.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,9,data,,Fishermen,2,Column 2,539,539.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,10,data,,"People of Karnata, or Chéra",2,Column 2,5054,5054.0,,False,False
+journey-from-madras-vol-ii,tbl-028,Table 28,381,361,11,total,,Total houses,2,Column 2,"21,473",21473.0,,False,False

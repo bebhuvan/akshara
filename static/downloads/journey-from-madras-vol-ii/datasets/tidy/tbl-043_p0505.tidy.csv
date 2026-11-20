@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,1,data,,"Negadi, or land-tax",2,Porays.,15,15.0,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,2,data,,Charges of collection,2,Porays.,1½,1.5,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,3,data,,Seed,2,Porays.,11,11.0,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,4,data,,"Slaves, and other stock",2,Porays.,11,11.0,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,5,data,,Landlord,2,Porays.,2¼,2.25,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,6,data,,"Interest of 25 Fanams, which he has given on mortgage, and which ought to be considered as part of the landlord's profit",2,Porays.,1¼,1.25,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,7,data,,Farmer's profit,2,Porays.,9,9.0,,False,True
+journey-from-madras-vol-ii,tbl-043,Table 43,505,477,8,total,,Porays,2,Porays.,51,51.0,,False,True

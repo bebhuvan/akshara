@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,1,data,,1 Doda Butta,2,Months required to ripen.,7,7.0,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,1,data,,1 Doda Butta,3,Season for sowing.,Both,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,1,data,,1 Doda Butta,4,Modes of Cultivation.,"Puneji, Mola, both kinds of Nati.",,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,2,data,,2 Hotay Caimbuti,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,2,data,,2 Hotay Caimbuti,3,Season for sowing.,Hainu,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,2,data,,2 Hotay Caimbuti,4,Modes of Cultivation.,ditto ditto ditto.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,3,data,,3 Arsina Caimbuti,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,3,data,,3 Arsina Caimbuti,3,Season for sowing.,ditto,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,3,data,,3 Arsina Caimbuti,4,Modes of Cultivation.,ditto and Barra'agy Nati.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,4,data,,4 Sucadass,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,4,data,,4 Sucadass,3,Season for sowing.,ditto,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,4,data,,4 Sucadass,4,Modes of Cultivation.,ditto and Mola.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,5,data,,5 Murargilli,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,5,data,,5 Murargilli,3,Season for sowing.,ditto,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,5,data,,5 Murargilli,4,Modes of Cultivation.,Mola.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,6,data,,6 Yalic Raja,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,6,data,,6 Yalic Raja,3,Season for sowing.,ditto,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,6,data,,6 Yalic Raja,4,Modes of Cultivation.,Puneji.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,7,data,,7 Conawaly,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,7,data,,7 Conawaly,3,Season for sowing.,ditto,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,7,data,,7 Conawaly,4,Modes of Cultivation.,ditto and Mola.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,8,data,,8 Bily sana butta,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,8,data,,8 Bily sana butta,3,Season for sowing.,ditto,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,8,data,,8 Bily sana butta,4,Modes of Cultivation.,ditto ditto.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,9,data,,9 Puttu butta,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,9,data,,9 Puttu butta,3,Season for sowing.,Both,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,9,data,,9 Puttu butta,4,Modes of Cultivation.,Mola and Nir'agy Noti.,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,10,data,,10 Caracullu,2,Months required to ripen.,5½,5.5,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,10,data,,10 Caracullu,3,Season for sowing.,Caru,,,False,False
+journey-from-madras-vol-i,tbl-003,Table 3,115,85,10,data,,10 Caracullu,4,Modes of Cultivation.,ditto ditto.,,,False,False

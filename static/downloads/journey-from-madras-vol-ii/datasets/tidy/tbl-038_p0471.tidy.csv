@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-038,Table 38,471,445,1,data,,The natives allow 5 Porays for the interest of 100 Fanams; so the interest of the bond is,2,Porays.,15,15.0,,False,True
+journey-from-madras-vol-ii,tbl-038,Table 38,471,445,2,data,,"Land-tax 5 Fanams, with 10 per cent. collector’s charges = 5, all together 55 Fanams, worth",2,Porays.,110,110.0,,False,True
+journey-from-madras-vol-ii,tbl-038,Table 38,471,445,3,data,,"One-fifth of rent, deducting interest",2,Porays.,17,17.0,,False,True
+journey-from-madras-vol-ii,tbl-038,Table 38,471,445,4,subtotal,,Total to be paid by the mortgagee,2,Porays.,142,142.0,,False,True
+journey-from-madras-vol-ii,tbl-038,Table 38,471,445,5,data,,Farmers’ allowances,2,Porays.,100,100.0,,False,True
+journey-from-madras-vol-ii,tbl-038,Table 38,471,445,6,total,,Porays,2,Porays.,242,242.0,,False,True

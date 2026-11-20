@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-013,Produce of a Bulla land.,238,222,1,data,,"1st year, 288 Bullas of Cambu, average value",2,Gópály Fanams.,57⅗,57.6,,False,True
+journey-from-madras-vol-ii,tbl-013,Produce of a Bulla land.,238,222,2,data,,"2d year, July crop seven Tucus of cotton, January crop 8 Tucus",2,Gópály Fanams.,45,45.0,,False,True
+journey-from-madras-vol-ii,tbl-013,Produce of a Bulla land.,238,222,3,data,,"3d year, ditto - two ditto - - - - - - ditto two ditto",2,Gópály Fanams.,12,12.0,,False,True
+journey-from-madras-vol-ii,tbl-013,Produce of a Bulla land.,238,222,4,total,,Gópály Fanams,2,Gópály Fanams.,114⅗,114.6,,False,True

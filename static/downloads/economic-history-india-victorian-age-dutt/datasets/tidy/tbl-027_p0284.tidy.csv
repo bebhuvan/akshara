@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,1,data,,Bengal,2,Column 2,"£ 1,168,592",1168592.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,2,data,,North-West Provinces,2,Column 2,"640,792",640792.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,3,data,,Punjab,2,Column 2,"516,221",516221.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,4,data,,Madras,2,Column 2,"739,488",739488.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,5,data,,Bombay,2,Column 2,"880,075",880075.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,6,data,,Oudh,2,Column 2,"206,948",206948.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,7,data,,Central Provinces,2,Column 2,"261,263",261263.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,8,data,,Burma,2,Column 2,"275,332",275332.0,,False,True
+economic-history-india-victorian-age-dutt,tbl-027,Table 27,284,256,9,total,,Total,2,Column 2,"£4,688,711",4688711.0,GBP,False,True

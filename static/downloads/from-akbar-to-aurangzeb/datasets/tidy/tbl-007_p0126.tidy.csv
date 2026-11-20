@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,1,data,,About 1620,2,From West Coast.,2½,2.5,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,1,data,,About 1620,3,From East Coast and Bengal.,..,,,True,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,1,data,,About 1620,4,Total.,2½,2.5,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,2,data,,„ 1628,2,From West Coast.,6,6.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,2,data,,„ 1628,3,From East Coast and Bengal.,..,,,True,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,2,data,,„ 1628,4,Total.,6,6.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,3,data,,„ 1640,2,From West Coast.,2½-3,,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,3,data,,„ 1640,3,From East Coast and Bengal.,..,,,True,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,3,data,,„ 1640,4,Total.,2½-3,,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,4,data,,„ 1643–48,2,From West Coast.,3½,3.5,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,4,data,,„ 1643–48,3,From East Coast and Bengal.,..,,,True,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,4,data,,„ 1643–48,4,Total.,3½,3.5,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,5,data,,„ 1649–53,2,From West Coast.,2,2.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,5,data,,„ 1649–53,3,From East Coast and Bengal.,1,1.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,5,data,,„ 1649–53,4,Total.,3,3.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,6,data,,„ 1658–60,2,From West Coast.,5,5.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,6,data,,„ 1658–60,3,From East Coast and Bengal.,3,3.0,,False,False
+from-akbar-to-aurangzeb,tbl-007,Annual Exports in English Vessels from India to Europe (IN LAKHS OF RUPEES),126,104,6,data,,„ 1658–60,4,Total.,8,8.0,,False,False

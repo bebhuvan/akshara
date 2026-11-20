@@ -1,0 +1,27 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,1,data,,Coco-nut palms small,2,Column 2,"28,164",28164.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,1,data,,Coco-nut palms small,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,2,data,,Ditto young,2,Column 2,"38,765",38765.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,2,data,,Ditto young,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,3,data,,Ditto bearing,2,Column 2,"146,552",146552.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,3,data,,Ditto bearing,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,4,subtotal,,Row 4,2,Column 2,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,4,subtotal,,Row 4,3,Column 3,"313,481",313481.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,5,data,,Betel-nut palms young,2,Column 2,"55,320",55320.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,5,data,,Betel-nut palms young,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,6,data,,Ditto bearing,2,Column 2,"47,296",47296.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,6,data,,Ditto bearing,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,7,subtotal,,Row 7,2,Column 2,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,7,subtotal,,Row 7,3,Column 3,"102,616",102616.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,8,data,,Jack trees young,2,Column 2,"13,467",13467.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,8,data,,Jack trees young,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,9,data,,Ditto bearing,2,Column 2,"6,362",6362.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,9,data,,Ditto bearing,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,10,subtotal,,Row 10,2,Column 2,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,10,subtotal,,Row 10,3,Column 3,"19,829",19829.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,11,data,,Trees supporting pepper vines young,2,Column 2,"34,110",34110.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,11,data,,Trees supporting pepper vines young,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,12,data,,Ditto bearing,2,Column 2,"73,999",73999.0,,False,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,12,data,,Ditto bearing,3,Column 3,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,13,subtotal,,Row 13,2,Column 2,,,,True,False
+journey-from-madras-vol-ii,tbl-063,Table 63,580,552,13,subtotal,,Row 13,3,Column 3,"108,109",108109.0,,False,False

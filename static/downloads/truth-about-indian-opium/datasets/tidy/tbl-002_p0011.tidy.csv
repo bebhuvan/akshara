@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+truth-about-indian-opium,tbl-002,Table 2,11,7,1,data,,1912–13,2,Excise Chests of 123 3/7 lbs.,"4,163",4163.0,chests,False,False
+truth-about-indian-opium,tbl-002,Table 2,11,7,2,data,,1913–14,2,Excise Chests of 123 3/7 lbs.,"7,001",7001.0,chests,False,False
+truth-about-indian-opium,tbl-002,Table 2,11,7,3,data,,1914–15,2,Excise Chests of 123 3/7 lbs.,"9,034",9034.0,chests,False,False
+truth-about-indian-opium,tbl-002,Table 2,11,7,4,data,,1915–16,2,Excise Chests of 123 3/7 lbs.,"13,990",13990.0,chests,False,False
+truth-about-indian-opium,tbl-002,Table 2,11,7,5,data,,1916–17,2,Excise Chests of 123 3/7 lbs.,"5,257",5257.0,chests,False,False
+truth-about-indian-opium,tbl-002,Table 2,11,7,6,data,,1917–18,2,Excise Chests of 123 3/7 lbs.,"4,916",4916.0,chests,False,False
+truth-about-indian-opium,tbl-002,Table 2,11,7,7,data,,1918–19,2,Excise Chests of 123 3/7 lbs.,"5,314",5314.0,chests,False,False

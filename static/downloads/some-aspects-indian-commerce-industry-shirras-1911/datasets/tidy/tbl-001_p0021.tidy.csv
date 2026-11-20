@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,1,data,,Payments in connexion with Civil Departments in India,2,Column 2,Rs.,,Rs,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,1,data,,Payments in connexion with Civil Departments in India,3,Column 3,26.,26.0,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,1,data,,Payments in connexion with Civil Departments in India,4,Column 4,lakhs.,,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,2,data,,Army and Marine effective charges,2,Column 2,„,,Rs,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,2,data,,Army and Marine effective charges,3,Column 3,127,127.0,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,2,data,,Army and Marine effective charges,4,Column 4,„,,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,3,data,,India Office,2,Column 2,„,,Rs,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,3,data,,India Office,3,Column 3,32,32.0,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,3,data,,India Office,4,Column 4,„,,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,4,data,,Furlough allowances,2,Column 2,„,,Rs,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,4,data,,Furlough allowances,3,Column 3,127,127.0,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,4,data,,Furlough allowances,4,Column 4,„,,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,5,data,,Pensions and gratuities,2,Column 2,„,,Rs,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,5,data,,Pensions and gratuities,3,Column 3,666,666.0,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,5,data,,Pensions and gratuities,4,Column 4,„,,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,6,total,,Row 6,2,Column 2,Rs.,,Rs,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,6,total,,Row 6,3,Column 3,9¾,9.75,,False,False
+some-aspects-indian-commerce-industry-shirras-1911,tbl-001,Table 1,21,15,6,total,,Row 6,4,Column 4,crores.,,,False,False

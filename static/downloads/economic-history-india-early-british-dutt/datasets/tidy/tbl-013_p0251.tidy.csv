@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,1,data,,Land Tax,2,Column 2,£0,0.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,1,data,,Land Tax,3,Column 3,12,12.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,1,data,,Land Tax,4,Column 4,9½,9.5,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,2,data,,Charges of collection,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,2,data,,Charges of collection,3,Column 3,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,2,data,,Charges of collection,4,Column 4,3¼,3.25,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,3,data,,Seed,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,3,data,,Seed,3,Column 3,9,9.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,3,data,,Seed,4,Column 4,4½,4.5,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,4,data,,Expense of cultivation,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,4,data,,Expense of cultivation,3,Column 3,9,9.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,4,data,,Expense of cultivation,4,Column 4,4½,4.5,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,5,data,,Landlord,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,5,data,,Landlord,3,Column 3,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,5,data,,Landlord,4,Column 4,11,11.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,6,data,,Interest of money advanced,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,6,data,,Interest of money advanced,3,Column 3,1,1.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,6,data,,Interest of money advanced,4,Column 4,0¾,0.75,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,7,data,,Cultivator,2,Column 2,0,0.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,7,data,,Cultivator,3,Column 3,7,7.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,7,data,,Cultivator,4,Column 4,8,8.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,8,total,,Row 8,2,Column 2,£2,2.0,GBP,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,8,total,,Row 8,3,Column 3,3,3.0,,False,False
+economic-history-india-early-british-dutt,tbl-013,For a Field of Poor Quality.,251,223,8,total,,Row 8,4,Column 4,5½,5.5,,False,False

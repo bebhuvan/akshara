@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-history-india-victorian-age-dutt,tbl-066,1881-82 to 1896-97.,621,593,1,data,,Famine Relief,2,£,"213,571",213571.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-066,1881-82 to 1896-97.,621,593,2,data,,Protective Railways,2,£,"4,367,287",4367287.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-066,1881-82 to 1896-97.,621,593,3,data,,Protective Irrigation Works,2,£,"1,209,207",1209207.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-066,1881-82 to 1896-97.,621,593,4,data,,Reduction or Avoidance of Debt,2,£,"3,551,533",3551533.0,GBP,False,True
+economic-history-india-victorian-age-dutt,tbl-066,1881-82 to 1896-97.,621,593,5,total,,Total,2,£,"9,341,598",9341598.0,GBP,False,True

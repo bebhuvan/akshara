@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,1,data,,3 Dhotees a year,2,Column 2,Rs.,,Rs,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,1,data,,3 Dhotees a year,3,Column 3,3,3.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,1,data,,3 Dhotees a year,4,Column 4,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,2,data,,1 pair champal (shoes),2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,2,data,,1 pair champal (shoes),3,Column 3,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,2,data,,1 pair champal (shoes),4,Column 4,12,12.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,3,data,,½ a turban,2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,3,data,,½ a turban,3,Column 3,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,3,data,,½ a turban,4,Column 4,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,4,data,,1 Bundee (jacket),2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,4,data,,1 Bundee (jacket),3,Column 3,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,4,data,,1 Bundee (jacket),4,Column 4,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,5,data,,2 Kamlees (blankets),2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,5,data,,2 Kamlees (blankets),3,Column 3,1,1.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,5,data,,2 Kamlees (blankets),4,Column 4,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,6,data,,1 Rumal (handkerchiet),2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,6,data,,1 Rumal (handkerchiet),3,Column 3,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,6,data,,1 Rumal (handkerchiet),4,Column 4,2,2.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,7,data,,1 Rain-protector,2,Column 2,",,",,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,7,data,,1 Rain-protector,3,Column 3,0,0.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,7,data,,1 Rain-protector,4,Column 4,4,4.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,8,total,,Row 8,2,Column 2,Rs.,,Rs,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,8,total,,Row 8,3,Column 3,8,8.0,,False,False
+poverty-and-un-british-rule,tbl-027,Table 27,48,28,8,total,,Row 8,4,Column 4,2,2.0,,False,False

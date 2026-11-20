@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-065",
+    "caption": "Table 65",
+    "page_number": 388,
+    "printed_folio": "348",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Skilled labour",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "from 7¢ to 16¢",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "englands-debt-to-india-lajpat-rai-1917",
+    "table_id": "tbl-065",
+    "caption": "Table 65",
+    "page_number": 388,
+    "printed_folio": "348",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "Unskilled labour",
+    "column_index": 2,
+    "column_header": "Column 2",
+    "raw_text": "ordinarily below 7¢",
+    "value_numeric": null,
+    "unit": "",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

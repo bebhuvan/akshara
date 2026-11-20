@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+economic-causes-of-famines-in-india-ray-1909,tbl-001,Table 1,11,5,1,data,,Actual expenditure in 1896-97,2,Column 2,"2,06 lakhs",,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-001,Table 1,11,5,2,data,,” ” 1897-98,2,Column 2,"5,32 ”",532.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-001,Table 1,11,5,3,data,,Loss of revenue in the two years,2,Column 2,"6,40 ”",640.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-001,Table 1,11,5,4,data,,Indirect expenditure,2,Column 2,"2,00 ”",200.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-001,Table 1,11,5,5,data,,Loans and advances,2,Column 2,"1,29 ”",129.0,,False,True
+economic-causes-of-famines-in-india-ray-1909,tbl-001,Table 1,11,5,6,total,,Total,2,Column 2,"17,07 lakhs",,,False,True
