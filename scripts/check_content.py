@@ -43,6 +43,10 @@ class Checker(HTMLParser):
                 self.problems.append(f"<{tag} {name}={value!r}>")
             if tag == "img" and name == "src":
                 self.check_img(value or "")
+            # Pagefind splits data-pagefind-meta on commas, so a value with a comma (a title like "Essays,
+            # Speeches...", or two keys at once) ends up in the wrong field of every search result.
+            if name == "data-pagefind-meta" and "," in (value or ""):
+                self.problems.append(f"<{tag} data-pagefind-meta={value!r}> has a comma; give each value its own element")
         if self.text_depth and (tag in BANNED_TAGS or tag == "script"):
             self.problems.append(f"<{tag}> inside the book text")
 

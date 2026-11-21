@@ -115,7 +115,7 @@ its own words; the book's headings printed in capitals are marked to be set in s
     </div>
   </header>
 
-  <article class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}, shelf:{{ $b.code }}" data-pagefind-filter="book:{{ $b.id }}">
+  <article class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-filter="book:{{ $b.id }}"><span class="vh" aria-hidden="true" data-pagefind-meta="book">{{ $b.cover_title }}</span><span data-pagefind-meta="shelf:{{ $b.code }}"></span>
     {{ $text | safeHTML }}
   </article>
 

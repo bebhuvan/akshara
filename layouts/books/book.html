@@ -44,7 +44,8 @@ shown as two plain lines, in the record's own capitals. */ -}}
 {{- $plates := slice -}}
 {{- range hugo.Data.plates.group }}{{ range .plate }}{{ if eq .book $b.id }}{{ $plates = $plates | append . }}{{ end }}{{ end }}{{ end -}}
 
-<article class="{{ $b.code }}" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}, shelf:{{ $b.code }}">
+{{- /* search metadata: the book's title as an element's text (a title may hold commas), the shelf as an attribute */}}
+<article class="{{ $b.code }}" data-pagefind-body><span class="vh" aria-hidden="true" data-pagefind-meta="book">{{ $b.cover_title }}</span><span data-pagefind-meta="shelf:{{ $b.code }}"></span>
 <section class="bk-head"><div class="bk-in">
   <div class="bk-cover">{{ partial "book/cover.html" (merge $b (dict "big" true)) }}</div>
   <div class="bk-text">

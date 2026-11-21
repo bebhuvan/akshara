@@ -112,7 +112,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
   -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px); border-bottom: 1px solid var(--hair); }
 .hd-in { display: grid; grid-template-columns: 1fr auto auto; grid-template-areas: "mark l r"; align-items: center; gap: 0 20px; height: 56px; }
 .hd-l { grid-area: l; } .hd-r { grid-area: r; } .hd .mark { grid-area: mark; justify-self: start; }
-.mark { display: flex; align-items: baseline; gap: 9px; min-height: 44px; align-items: center; }
+/* the two scripts of the name stand on one baseline; the 44px for tapping comes from padding, not centring */
+.mark { display: flex; align-items: baseline; gap: 9px; padding: 12px 0; line-height: 1; }
 .mark .kn { font-size: var(--fs-mark-kn); color: var(--k); line-height: 1; }
 .mark .en { font-size: var(--fs-mark); letter-spacing: -0.005em; line-height: 1; }
 .hd nav { display: flex; align-items: center; gap: 20px; font-size: var(--fs-ui); color: var(--ink-2); }
@@ -645,7 +646,7 @@ table.ledger .n { text-align: right; }
 .rd-bar.rbar-away { transform: translateY(-110%); }
 .rd-bar.rbar-away:focus-within { transform: none; }
 .rd-bar .wrap { height: 52px; display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: var(--fs-aside); color: var(--ink-2); }
-.rd-bar .back { display: flex; gap: 10px; align-items: center; min-width: 0; min-height: 44px; }
+.rd-bar .back { display: flex; gap: 10px; align-items: baseline; min-width: 0; padding: 13px 0; }
 .rd-bar .back .kn { color: var(--k); font-size: var(--fs-mark-kn); line-height: 1; }
 .rd-bar .back span:last-child { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-style: italic; }
 .rd-bar .back:hover span:last-child { color: var(--ink); }

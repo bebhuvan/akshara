@@ -56,6 +56,11 @@ class Content(unittest.TestCase):
     def test_clean_text_passes(self):
         self.assertEqual(self.problems('<p>Plain <em>text</em> and <a href="/books/">a link</a>.</p>'), [])
 
+    def test_search_metadata_with_a_comma_is_caught(self):
+        found = self.problems('<span data-pagefind-meta="book:Essays, Speeches, shelf:le"></span>')
+        self.assertTrue(any("data-pagefind-meta" in f for f in found))
+        self.assertEqual(self.problems('<span data-pagefind-meta="shelf:le"></span>'), [])
+
     def test_scripts_and_handlers_are_caught(self):
         self.assertTrue(self.problems("<script>alert(1)</script>"))
         self.assertTrue(self.problems('<p onclick="x()">hi</p>'))
