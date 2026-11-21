@@ -173,3 +173,18 @@ on it, which is what the project has that nobody else has.
 **Rejected.** The open-book comparison and the strip of engravings from the earlier opening: two
 signatures where the Plate has one. The commons section and the closing quotation: their facts are on
 the book pages and the About page.
+
+## D16: The visual grammar is the source of truth for design (2026-11-21)
+
+**Decided.** `docs/VISUAL_GRAMMAR.md` is the rulebook for how Akshara looks: principles, colour, type,
+space, the plate, covers, components, motion, writing, and how to extend it. Every value it relies on is a
+CSS custom property in `assets/css/plate.css` (type sizes as `--fs-…` role tokens, section rhythm as
+`--sec`, the measure as `--measure`, colours as named tokens and shelf classes); the document names the
+tokens and never repeats their values. A design change updates the grammar in the same change.
+
+**Why.** Future sessions and the sister projects (living books, a review) must be able to follow the
+design without reverse-engineering the stylesheet, and a document that repeats raw values drifts from
+what ships.
+
+**Rejected.** A design-token build step (Style Dictionary or similar): a dependency and a generator for
+what custom properties already do.

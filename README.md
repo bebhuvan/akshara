@@ -16,7 +16,8 @@ each edition's Hugo pages; `scripts/sync_from_pipeline.py` copies them in here.
 
 The design is "The Plate" (`../design_directions/2026-11-redesign/plate.html`, see `DECISIONS.md` D10–):
 white paper, and for each shelf a pale paper and a deep ink. Every cover is drawn from the book's data and
-carries a picture from that same book, printed in its shelf's ink, or its title alone.
+carries a picture from that same book, printed in its shelf's ink, or its title alone. The rules for how
+everything looks, and for extending it, are in `docs/VISUAL_GRAMMAR.md`: read it before changing the design.
 
 ## Where things are
 

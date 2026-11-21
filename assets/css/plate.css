@@ -39,6 +39,30 @@
   --kn: "Akshara Kannada", "Noto Serif Kannada", "Tunga", serif;
   --gut: max(20px, env(safe-area-inset-left, 0px));
   --gut-r: max(20px, env(safe-area-inset-right, 0px));
+  /* Type: one scale, named by role. Display sizes grow with the screen. */
+  --fs-tiny: 12.5px;     /* captions under small tiles */
+  --fs-caption: 13.5px;  /* plate captions, the last line of the footer */
+  --fs-note: 14.5px;     /* marginal notes, counts, small italic labels */
+  --fs-aside: 15px;      /* asides beside headings, the line under a button */
+  --fs-ui: 16px;         /* navigation, captions under covers, links in lists */
+  --fs-lede: 17px;       /* the sentence under a page or section title */
+  --fs-body: 18px;       /* the body of the site */
+  --fs-read: 19px;       /* reading text on a phone */
+  --fs-read-wide: 20px;  /* reading text on a wider screen */
+  --fs-h4: 20px;         /* small headings: steps, the way on */
+  --fs-h3: 22px;         /* shelf names, sub-headings */
+  --fs-h2: 26px;         /* section headings */
+  --fs-h1: 32px;         /* a heading inside prose */
+  --fs-quote: clamp(22px, 5.6vw, 28px);    /* a book's own words, set large */
+  --fs-feature: clamp(28px, 7.2vw, 42px);  /* the featured edition's title */
+  --fs-title: clamp(42px, 12vw, 84px);     /* a page's title */
+  --fs-display: clamp(36px, 10.4vw, 84px); /* the opening headline */
+  --fs-mark: 20px; --fs-mark-kn: 19px;     /* the mark in the header */
+  --fs-mark-wide: 24px; --fs-mark-kn-wide: 21px;
+  --measure: 33em;       /* the reading column: about 65 characters */
+  /* Space: the rhythm between sections, and the room before the footer. */
+  --sec: 72px;
+  --sec-end: 112px;
 }
 /* The eight shelves: each shelf's cloth, washed pale for its paper (--g) and deepened for its ink (--k). */
 .su { --g: #E6EAE0; --k: #4C5936; }
@@ -53,7 +77,7 @@
 /* ---------- Base ---------- */
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; background: var(--paper); }
-body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: 18px; line-height: 1.55;
+body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--serif); font-size: var(--fs-body); line-height: 1.55;
   font-optical-sizing: auto; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; overflow-wrap: break-word; }
 h1, h2, h3, h4, p, blockquote, figure, ol, ul, dl, dd { margin: 0; }
 h1, h2, h3, h4 { font-weight: 400; }
@@ -81,9 +105,9 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .hd-in { display: grid; grid-template-columns: 1fr auto auto; grid-template-areas: "mark l r"; align-items: center; gap: 0 20px; height: 56px; }
 .hd-l { grid-area: l; } .hd-r { grid-area: r; } .hd .mark { grid-area: mark; justify-self: start; }
 .mark { display: flex; align-items: baseline; gap: 9px; min-height: 44px; align-items: center; }
-.mark .kn { font-size: 19px; color: var(--k); line-height: 1; }
-.mark .en { font-size: 20px; letter-spacing: -0.005em; line-height: 1; }
-.hd nav { display: flex; align-items: center; gap: 20px; font-size: 16px; color: var(--ink-2); }
+.mark .kn { font-size: var(--fs-mark-kn); color: var(--k); line-height: 1; }
+.mark .en { font-size: var(--fs-mark); letter-spacing: -0.005em; line-height: 1; }
+.hd nav { display: flex; align-items: center; gap: 20px; font-size: var(--fs-ui); color: var(--ink-2); }
 .hd nav a { display: inline-flex; align-items: center; min-height: 44px; }
 .hd nav a[aria-current] { color: var(--ink); }
 .hd nav a:hover { color: var(--ink); }
@@ -92,26 +116,26 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .hd .srch svg { opacity: .7; }
 
 /* ---------- Section heads ---------- */
-.sec { padding-top: 72px; }
+.sec { padding-top: var(--sec); }
 /* One heading for every section: the name, a quiet aside, one hairline. */
 .sec-h { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 0 0 26px; padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
-.sec-h h2 { font-weight: 400; font-size: 26px; letter-spacing: -0.015em; line-height: 1.15; }
-.sec-h > a, .sec-h > span { font-size: 15px; color: var(--ink-2); font-style: italic; white-space: nowrap; }
+.sec-h h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15; }
+.sec-h > a, .sec-h > span { font-size: var(--fs-aside); color: var(--ink-2); font-style: italic; white-space: nowrap; }
 .sec-h > a { padding: 10px 0; margin: -10px 0; }
 .sec-h > a:hover { color: var(--ink); }
-.sec-lede { margin: -8px 0 24px; font-size: 17px; line-height: 1.5; color: var(--ink-2); max-width: 36em; }
+.sec-lede { margin: -8px 0 24px; font-size: var(--fs-lede); line-height: 1.5; color: var(--ink-2); max-width: 36em; }
 
 /* ---------- Buttons ---------- */
 /* The way in: a block of the book's own ink, the words in paper. */
-.cta { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; min-height: 56px; padding: 15px 20px; background: var(--k); color: var(--on-k); font-size: 18px; line-height: 1.2; }
-.cta span:last-child { font-size: 15px; opacity: .8; font-style: italic; text-align: right; }
+.cta { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; min-height: 56px; padding: 15px 20px; background: var(--k); color: var(--on-k); font-size: var(--fs-body); line-height: 1.2; }
+.cta span:last-child { font-size: var(--fs-aside); opacity: .8; font-style: italic; text-align: right; }
 /* On the home page the way in is one compact button, sized to its words. */
 .cta-solo { display: inline-flex; width: max-content; max-width: 100%; align-items: center; gap: 14px; padding: 0 26px; min-height: 54px; }
-.cta-solo span:last-child { font-style: normal; opacity: 1; font-size: 18px; transition: transform .2s; }
+.cta-solo span:last-child { font-style: normal; opacity: 1; font-size: var(--fs-body); transition: transform .2s; }
 .cta-solo:hover span:last-child { transform: translateX(3px); }
-.readon { display: inline-flex; align-items: center; gap: 12px; min-height: 48px; padding: 0 18px; border: 1px solid color-mix(in srgb, var(--k) 55%, transparent); color: var(--k); font-size: 17px; transition: background-color .2s, color .2s; }
+.readon { display: inline-flex; align-items: center; gap: 12px; min-height: 48px; padding: 0 18px; border: 1px solid color-mix(in srgb, var(--k) 55%, transparent); color: var(--k); font-size: var(--fs-lede); transition: background-color .2s, color .2s; }
 .readon:hover { background: var(--k); color: var(--on-k); }
-.quiet { font-size: 15.5px; line-height: 1.55; color: var(--ink-2); max-width: 30em; }
+.quiet { font-size: var(--fs-aside); line-height: 1.55; color: var(--ink-2); max-width: 30em; }
 .quiet a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .quiet a:hover { border-bottom-color: var(--ink); }
 
@@ -151,119 +175,119 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .k-type .lbl.long b { font-size: 11.6cqi; }
 .k-type::before { content: ""; position: absolute; left: 9%; right: 9%; top: 8%; height: 1px; background: color-mix(in srgb, var(--k) 45%, transparent); }
 .k-type .au { position: absolute; left: 9%; right: 9%; top: calc(8% + 5cqi); font-size: 6.2cqi; font-style: italic; color: var(--k); }
-.book .cap { font-size: 15px; line-height: 1.3; color: var(--ink-2); }
-.book .cap b { display: block; font-weight: 400; color: var(--ink); font-size: 16px; }
+.book .cap { font-size: var(--fs-aside); line-height: 1.3; color: var(--ink-2); }
+.book .cap b { display: block; font-weight: 400; color: var(--ink); font-size: var(--fs-ui); }
 
 /* ---------- Home ---------- */
 .lede { padding-block: 14px 20px; }
-.lede h1 { font-weight: 300; font-size: clamp(36px, 10.4vw, 84px); line-height: 1; letter-spacing: -0.028em; text-wrap: balance; }
+.lede h1 { font-weight: 300; font-size: var(--fs-display); line-height: 1; letter-spacing: -0.028em; text-wrap: balance; }
 /* The turning plate: one engraving at a time on its own shelf's paper, crossfading to the next. */
 .stage { position: relative; background: var(--g); overflow: hidden; transition: background-color 1.4s ease; }
 .stage .art { position: relative; height: min(74vw, 560px); }
 .stage .plate { position: absolute; inset: 6% -14% 2% 6%; transition: opacity 1.4s ease, background-color 1.4s ease; }
 .stage .plate.off { opacity: 0; }
 .stage figcaption { display: flex; justify-content: space-between; align-items: end; gap: 16px; padding-bottom: 14px;
-  font-size: 13.5px; line-height: 1.35; color: var(--k); transition: color 1.4s ease; }
-.stage figcaption i { display: block; font-size: 15px; color: var(--ink); }
+  font-size: var(--fs-caption); line-height: 1.35; color: var(--k); transition: color 1.4s ease; }
+.stage figcaption i { display: block; font-size: var(--fs-aside); color: var(--ink); }
 .stage .n { white-space: nowrap; }
 .stage .cap-s i, .stage .cap-s em { display: inline; font-size: inherit; color: inherit; }
 .begin { display: grid; gap: 14px; justify-items: start; }
-.intro { margin: 20px 0 18px; font-size: 18px; line-height: 1.5; color: var(--ink-2); max-width: 32em; }
+.intro { margin: 20px 0 18px; font-size: var(--fs-body); line-height: 1.5; color: var(--ink-2); max-width: 32em; }
 
 /* The featured edition: one book shown properly, its cover, what it is, how it begins, and three of its plates. */
-.feature { margin-top: 72px; background: color-mix(in srgb, var(--g) 55%, var(--paper)); padding-block: 40px 48px; }
+.feature { margin-top: var(--sec); background: color-mix(in srgb, var(--g) 55%, var(--paper)); padding-block: 40px 48px; }
 .voice-h { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding-bottom: 12px; margin-bottom: 26px;
   border-bottom: 1px solid color-mix(in srgb, var(--k) 35%, transparent); }
-.voice-h h2 { font-weight: 400; font-size: 26px; letter-spacing: -0.015em; line-height: 1.15; color: var(--k); }
-.voice-h span { font-size: 15px; font-style: italic; color: var(--k); }
+.voice-h h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15; color: var(--k); }
+.voice-h span { font-size: var(--fs-aside); font-style: italic; color: var(--k); }
 .feat { display: grid; gap: 26px; }
 .feat-cover { width: 58%; max-width: 280px; }
-.feat h3 { font-weight: 300; font-size: clamp(28px, 7.2vw, 42px); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 18em; }
+.feat h3 { font-weight: 300; font-size: var(--fs-feature); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 18em; }
 .feat h3 a:hover { color: var(--k); }
-.feat .by { margin: 10px 0 0; font-size: 16px; font-style: italic; color: var(--k); }
-.feat .desc { margin: 22px 0 0; font-size: 17px; line-height: 1.6; color: var(--ink-2); max-width: 34em; }
+.feat .by { margin: 10px 0 0; font-size: var(--fs-ui); font-style: italic; color: var(--k); }
+.feat .desc { margin: 22px 0 0; font-size: var(--fs-lede); line-height: 1.6; color: var(--ink-2); max-width: 34em; }
 /* The book's own first words carry the section: set large and light, before any description of it. */
 .feat-body > figure { margin: 26px 0 0; }
-.feat blockquote { font-size: clamp(22px, 5.6vw, 28px); line-height: 1.32; font-weight: 300; font-style: italic; color: var(--k); max-width: 24em; text-wrap: pretty; }
-.feat-body > figure figcaption { margin-top: 10px; font-size: 14px; color: var(--ink-3); }
+.feat blockquote { font-size: var(--fs-quote); line-height: 1.32; font-weight: 300; font-style: italic; color: var(--k); max-width: 24em; text-wrap: pretty; }
+.feat-body > figure figcaption { margin-top: 10px; font-size: var(--fs-note); color: var(--ink-3); }
 .feat-links { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 24px; margin-top: 26px; }
-.feat-links .q { font-size: 16px; color: var(--ink-2); border-bottom: 1px solid var(--hair); padding: 10px 0 2px; }
+.feat-links .q { font-size: var(--fs-ui); color: var(--ink-2); border-bottom: 1px solid var(--hair); padding: 10px 0 2px; }
 .feat-links .q:hover { color: var(--ink); border-bottom-color: var(--ink-2); }
 .feat-plates { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-top: 34px; padding-top: 22px; border-top: 1px solid color-mix(in srgb, var(--k) 22%, transparent); max-width: 520px; }
 .feat-plates .tile { aspect-ratio: 1; position: relative; background: var(--g); }
 .feat-plates .tile .plate { position: absolute; inset: 12%; }
-.feat-plates figcaption { margin-top: 6px; font-size: 12.5px; line-height: 1.3; font-style: italic; color: var(--ink-2); }
+.feat-plates figcaption { margin-top: 6px; font-size: var(--fs-tiny); line-height: 1.3; font-style: italic; color: var(--ink-2); }
 /* Small things from the books: a few plates, each on its own shelf's paper, each a way into its book. */
 .smalls { display: grid; grid-template-columns: 1fr 1fr; gap: 22px 14px; }
 .smalls a { display: grid; gap: 8px; align-content: start; }
 .smalls .tile { aspect-ratio: 4 / 5; position: relative; background: var(--g); transition: background-color .3s; }
 .smalls a:hover .tile { background: color-mix(in oklab, var(--g) 88%, var(--k) 12%); }
 .smalls .tile .plate { position: absolute; inset: 11%; }
-.smalls span { font-size: 13.5px; line-height: 1.35; color: var(--ink-2); }
-.smalls b { display: block; font-weight: 400; font-size: 15.5px; color: var(--ink); }
+.smalls span { font-size: var(--fs-caption); line-height: 1.35; color: var(--ink-2); }
+.smalls b { display: block; font-weight: 400; font-size: var(--fs-aside); color: var(--ink); }
 /* How a book is made: the photographed table beside the set one, then the four steps in their order. */
 .made-pair { display: grid; gap: 22px; }
 .made-pair figure { min-width: 0; }
 .made-pair img { display: block; width: 100%; box-shadow: 0 0 0 1px var(--hair); }
-.made-pair figcaption { margin-top: 8px; font-size: 14px; font-style: italic; color: var(--ink-2); }
+.made-pair figcaption { margin-top: 8px; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
 .made-set { padding: 18px 18px 14px; background: var(--g); overflow-x: auto; }
-.made-set table { width: 100%; border-collapse: collapse; font-size: 15px; line-height: 1.35; font-variant-numeric: tabular-nums; }
+.made-set table { width: 100%; border-collapse: collapse; font-size: var(--fs-aside); line-height: 1.35; font-variant-numeric: tabular-nums; }
 .made-set th { font-weight: 400; font-style: italic; color: var(--k); text-align: left; padding: 0 0 8px; border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .made-set td { padding: 4px 0; }
 .made-set .n { text-align: right; padding-left: 14px; white-space: nowrap; }
 .made-set .tot td { border-top: 1px solid color-mix(in srgb, var(--k) 40%, transparent); padding-top: 7px; }
 .made-set .tot td:first-child { font-style: italic; }
-.made-src { margin-top: 18px; font-size: 15px; line-height: 1.5; color: var(--ink-2); max-width: 40em; }
+.made-src { margin-top: 18px; font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); max-width: 40em; }
 .steps { list-style: none; padding: 0; margin-top: 36px; display: grid; gap: 26px; counter-reset: step; }
-.steps li { border-top: 1px solid var(--hair); padding-top: 14px; font-size: 16px; line-height: 1.55; color: var(--ink-2); }
-.steps h3 { font-size: 20px; line-height: 1.2; color: var(--ink); margin-bottom: 6px; }
+.steps li { border-top: 1px solid var(--hair); padding-top: 14px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
+.steps h3 { font-size: var(--fs-h4); line-height: 1.2; color: var(--ink); margin-bottom: 6px; }
 .steps h3::before { counter-increment: step; content: counter(step) ". "; color: var(--k); font-style: italic; }
 /* The eight shelves, each named in its ink and introduced by a sentence from one of its own books. */
 .shelves { display: grid; gap: 0 40px; }
 .sh { display: grid; grid-template-columns: minmax(0, 1fr) 64px; gap: 4px 18px; padding: 18px 0 20px; border-bottom: 1px solid var(--hair); }
 .sh:first-child { padding-top: 4px; }
 .sh-t { display: block; }
-.sh h3 { font-size: 22px; line-height: 1.2; color: var(--k); letter-spacing: -0.01em; }
-.sh .n { display: block; font-size: 14.5px; font-style: italic; color: var(--ink-2); }
-.sh blockquote { margin-top: 8px; font-size: 16.5px; line-height: 1.5; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
+.sh h3 { font-size: var(--fs-h3); line-height: 1.2; color: var(--k); letter-spacing: -0.01em; }
+.sh .n { display: block; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.sh blockquote { margin-top: 8px; font-size: var(--fs-ui); line-height: 1.5; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
 .sh blockquote p::before { content: "“"; } .sh blockquote p::after { content: "”"; }
-.sh blockquote footer { margin-top: 4px; font-size: 13.5px; font-style: normal; color: var(--ink-3); }
+.sh blockquote footer { margin-top: 4px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-3); }
 .sh .face { align-self: start; }
 .sh:hover h3, .sh:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 
 /* ---------- Footer ---------- */
 /* The footer ends the site the way a book ends: a printer's device, the house name, one sentence on what this
    is, the ways back in as a single line of words, and a last line on how the texts are made. */
-.ft { margin-top: 112px; border-top: 1px solid var(--hair); padding-block: 56px 52px; text-align: center; }
+.ft { margin-top: var(--sec-end); border-top: 1px solid var(--hair); padding-block: 56px 52px; text-align: center; }
 .ft-in { display: grid; justify-items: center; }
 .ft-device { width: 74px; aspect-ratio: 800 / 1126; --k: var(--ft-ink, #8E8A82); }
-.ft-name { margin: 20px 0 0; font-size: 24px; line-height: 1.2; letter-spacing: -0.005em; }
-.ft-name .kn { color: var(--ink-2); font-size: 21px; margin-right: 6px; }
-.ft-gloss { margin: 6px 0 0; font-size: 15px; font-style: italic; color: var(--ink-3); }
-.ft-mission { margin: 18px 0 0; font-size: 16px; line-height: 1.6; color: var(--ink-2); max-width: 30em; text-wrap: balance; }
-.ft-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 22px; margin-top: 26px; max-width: 52em; font-size: 16px; }
+.ft-name { margin: 20px 0 0; font-size: var(--fs-mark-wide); line-height: 1.2; letter-spacing: -0.005em; }
+.ft-name .kn { color: var(--ink-2); font-size: var(--fs-mark-kn-wide); margin-right: 6px; }
+.ft-gloss { margin: 6px 0 0; font-size: var(--fs-aside); font-style: italic; color: var(--ink-3); }
+.ft-mission { margin: 18px 0 0; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); max-width: 30em; text-wrap: balance; }
+.ft-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 22px; margin-top: 26px; max-width: 52em; font-size: var(--fs-ui); }
 .ft-links a { display: inline-flex; align-items: center; min-height: 44px; color: var(--ink); }
 .ft-links a:hover { color: var(--ink-2); }
-.ft-last { margin: 18px 0 0; font-size: 13.5px; line-height: 1.8; color: var(--ink-3); }
+.ft-last { margin: 18px 0 0; font-size: var(--fs-caption); line-height: 1.8; color: var(--ink-3); }
 .ft-last i { margin-right: 6px; }
 .ft-last a { display: inline-block; padding: 10px 0 2px; color: var(--ink-2); margin: 0 5px; border-bottom: 1px solid var(--hair); line-height: 1.2; }
 .ft-last a:hover { color: var(--ink); }
 
 /* ---------- Plain pages (about, journal, authors, collections, tables, search) ---------- */
 .pg-h { padding-block: 26px 0; }
-.pg-h .up { font-size: 15px; font-style: italic; color: var(--k); }
+.pg-h .up { font-size: var(--fs-aside); font-style: italic; color: var(--k); }
 .pg-h .up a { display: inline-block; padding: 10px 0; margin: -10px 0; }
-.pg-h h1 { font-weight: 300; font-size: clamp(42px, 12vw, 84px); line-height: 1; letter-spacing: -0.03em; text-wrap: balance; }
+.pg-h h1 { font-weight: 300; font-size: var(--fs-title); line-height: 1; letter-spacing: -0.03em; text-wrap: balance; }
 .pg-h .up + h1 { margin-top: 6px; }
-.pg-h p.dek { margin: 12px 0 0; color: var(--ink-2); font-size: 17px; line-height: 1.5; max-width: 36em; }
+.pg-h p.dek { margin: 12px 0 0; color: var(--ink-2); font-size: var(--fs-lede); line-height: 1.5; max-width: 36em; }
 .pg-h p.dek a { color: var(--ink); border-bottom: 1px solid var(--hair); }
 .pg-body { margin-top: 40px; }
 /* Prose: one calm column at the reading page's measure. */
-.prose { max-width: 33em; font-size: 19px; line-height: 1.62; }
+.prose { max-width: var(--measure); font-size: var(--fs-read); line-height: 1.62; }
 .prose > * + * { margin-top: .9em; }
-.prose h2 { margin-top: 2em; font-size: 26px; line-height: 1.2; letter-spacing: -0.015em; }
-.prose h3 { margin-top: 1.8em; font-size: 21px; line-height: 1.25; font-style: italic; }
-.prose h1 { margin-top: 1.6em; font-weight: 300; font-size: 32px; line-height: 1.12; letter-spacing: -0.02em; }
+.prose h2 { margin-top: 2em; font-size: var(--fs-h2); line-height: 1.2; letter-spacing: -0.015em; }
+.prose h3 { margin-top: 1.8em; font-size: var(--fs-h3); line-height: 1.25; font-style: italic; }
+.prose h1 { margin-top: 1.6em; font-weight: 300; font-size: var(--fs-h1); line-height: 1.12; letter-spacing: -0.02em; }
 .prose a { border-bottom: 1px solid color-mix(in srgb, var(--k) 45%, transparent); }
 .prose a:hover { border-bottom-color: var(--ink); }
 .prose ul, .prose ol { padding-left: 1.3em; }
@@ -271,21 +295,20 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .prose blockquote { padding-left: 1em; border-left: 2px solid color-mix(in srgb, var(--k) 40%, transparent); color: var(--ink-2); font-style: italic; }
 .prose img { display: block; }
 .prose code { font-size: .86em; overflow-wrap: anywhere; }
-.prose pre { overflow-x: auto; font-size: 14px; background: var(--well); padding: 14px; }
-.prose table { display: block; overflow-x: auto; border-collapse: collapse; font-size: 16px; }
+.prose pre { overflow-x: auto; font-size: var(--fs-note); background: var(--well); padding: 14px; }
+.prose table { display: block; overflow-x: auto; border-collapse: collapse; font-size: var(--fs-ui); }
 .prose th, .prose td { text-align: left; padding: 4px 14px 4px 0; border-bottom: 1px solid var(--hair); vertical-align: top; }
 .prose hr { border: 0; border-top: 1px solid var(--hair); width: 40px; margin: 2em 0; }
 
 @media (min-width: 760px) {
-  :root { --gut: max(40px, env(safe-area-inset-left, 0px)); --gut-r: max(40px, env(safe-area-inset-right, 0px)); }
+  :root { --gut: max(40px, env(safe-area-inset-left, 0px)); --gut-r: max(40px, env(safe-area-inset-right, 0px));
+    --sec: 96px; --fs-display: clamp(48px, 5.3vw, 80px); --fs-mark: var(--fs-mark-wide); --fs-mark-kn: 22px; }
   .hd-in { grid-template-columns: 1fr auto 1fr; grid-template-areas: "l mark r"; height: 76px; }
   .hd .mark { justify-self: center; }
   .hd-r { justify-self: end; }
   .hd nav { gap: 30px; }
   .hd nav .wide { display: inline-flex; }
   .mark { gap: 11px; }
-  .mark .kn { font-size: 22px; }
-  .mark .en { font-size: 24px; }
 
   /* Headline at the top of the left column, the way in at its foot, the plate filling the right. */
   .home-top { display: grid; grid-template-columns: 1.1fr 1fr; grid-template-rows: 1fr auto auto 1fr; grid-template-areas: "gap stage" "lede stage" "side stage" "gap2 stage";
@@ -295,11 +318,9 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
   .home-top .lede { grid-area: lede; padding-top: 0; padding-bottom: 0; }
   .home-top .stage { grid-area: stage; }
   .home-top .side { grid-area: side; align-self: start; display: flex; flex-direction: column; gap: 28px; padding-bottom: 0; padding-top: 34px; }
-  .home-top .intro { margin: 0; font-size: 19px; }
-  .lede h1 { font-size: clamp(48px, 5.3vw, 80px); }
+  .home-top .intro { margin: 0; font-size: var(--fs-read); }
   .stage .art { height: clamp(420px, 36vw, 520px); }
-  .sec { padding-top: 96px; }
-  .feature { margin-top: 96px; padding-block: 56px 64px; }
+  .feature { padding-block: 56px 64px; }
   .feat { grid-template-columns: 340px 1fr; gap: 72px; align-items: start; }
   .feat-cover { width: 100%; }
   .feat-plates { gap: 16px; }
@@ -322,16 +343,16 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 /* ---------- Lists, pagers, signatures ---------- */
 /* A plain list of pages: one row each, on hairlines. */
 .rows { list-style: none; padding: 0; border-top: 1px solid var(--hair); max-width: 46em; }
-.rows a { display: block; padding: 14px 0; border-bottom: 1px solid var(--hair); font-size: 18px; }
+.rows a { display: block; padding: 14px 0; border-bottom: 1px solid var(--hair); font-size: var(--fs-body); }
 .rows a:hover { color: var(--k); }
-.post-foot { max-width: 33em; margin-top: 48px; }
+.post-foot { max-width: var(--measure); margin-top: 48px; }
 .sig { font-style: italic; color: var(--ink-2); }
 .sig .kn { color: var(--k); margin-right: 6px; font-style: normal; }
 /* The way back and the way on: each a small italic label over the name. */
 .pager { display: grid; margin-top: 28px; border-top: 1px solid var(--hair); }
 .pager a { display: grid; gap: 3px; padding: 18px 0; border-bottom: 1px solid var(--hair); }
-.pager small { font-size: 14px; font-style: italic; color: var(--k); }
-.pager b { font-weight: 400; font-size: 20px; line-height: 1.25; letter-spacing: -0.005em; }
+.pager small { font-size: var(--fs-note); font-style: italic; color: var(--k); }
+.pager b { font-weight: 400; font-size: var(--fs-h4); line-height: 1.25; letter-spacing: -0.005em; }
 .pager a:hover b { color: var(--k); }
 @media (min-width: 760px) {
   .pager { grid-template-columns: 1fr 1fr; gap: 32px; border-top: 0; }
