@@ -15,19 +15,19 @@
     <p class="tally" id="tally" aria-live="polite">All {{ partial "words.html" (len $books) }} editions, by shelf.</p>
   </div>
 
-  <section class="case wrap" aria-label="The shelves" data-when="shelf">
-    <div class="case-run">
-    {{- range $i, $s := hugo.Data.shelves.shelf }}
-      {{- $bs := sort (where $books "shelf_no" $i) "year" }}
-      {{- if $bs }}{{ $rest := sub (len $bs) 18 }}
-      <div class="case-g" style="--cloth:{{ $s.cloth | safeCSS }}"><div class="case-shelf">
-        {{- range first 18 $bs }}{{ partial "book/spine.html" . }}{{ end -}}
-        {{- if gt $rest 0 }}<a class="case-end" href="/shelves/{{ $s.slug }}/">and {{ partial "words.html" $rest }} more</a>{{ end -}}
-      </div><a class="case-label" href="/shelves/{{ $s.slug }}/"><span class="cl-name">{{ $s.name }}</span><span class="cl-n">{{ partial "words.html" (len $bs) | strings.FirstUpper }} {{ cond (eq (len $bs) 1) "book" "books" }}, {{ (index $bs 0).year }}–{{ (index $bs (sub (len $bs) 1)).year }}</span></a></div>
-      {{- end }}
+  <section class="shelfrows" aria-label="The shelves" data-when="shelf">
+  {{- range $i, $s := hugo.Data.shelves.shelf }}
+    {{- $bs := sort (where $books "shelf_no" $i) "year" }}
+    {{- if $bs }}{{ $n := len $bs }}{{ $rest := sub $n 18 }}
+    <section class="shr" style="--cloth:{{ $s.cloth | safeCSS }}" aria-labelledby="sr-{{ $s.slug }}">
+      <header class="wrap shr-head"><h2 id="sr-{{ $s.slug }}"><a href="/shelves/{{ $s.slug }}/">{{ $s.name }}</a></h2><p>{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $bs 0).year }}–{{ (index $bs (sub $n 1)).year }}</p></header>
+      <div class="shr-run"><ol class="shr-books">
+        {{- range first 18 $bs }}<li><a class="shr-b" href="{{ .url }}">{{ partial "book/cover.html" . }}<span class="shr-cap"><i>{{ .cover_title }}</i><span>{{ .year }}</span></span></a></li>{{ end }}
+        {{- if gt $rest 0 }}<li class="shr-more"><a href="/shelves/{{ $s.slug }}/">and {{ partial "words.html" $rest }} more on this shelf</a></li>{{ end }}
+      </ol></div>
+    </section>
     {{- end }}
-    </div>
-    <p class="case-note">Each spine is as thick as its book is long. Open a shelf to see its covers and the sentence that introduces it.</p>
+  {{- end }}
   </section>
 
   <div class="wrap" data-when="shelf">
