@@ -188,3 +188,39 @@ what ships.
 
 **Rejected.** A design-token build step (Style Dictionary or similar): a dependency and a generator for
 what custom properties already do.
+
+## D17: Five kinds of cover, each picture from its own book (2026-11-21)
+
+**Decided.** Every book's cover is drawn from `data/covers.toml`: its kind (engraving, map, device,
+portrait or photograph, type only), the key of its plate in `static/plates/`, and where needed a crop
+(`inset`). A cover's picture always comes from that same book, never another book, volume or edition.
+Each plate's book is recorded where it was made (`data/plates.toml`, `data/plate_sources.toml`), and
+`scripts/check_covers.py`, run first by `./verify`, fails if a cover uses a plate recorded for another
+book, if a book has no cover, or if a type-only cover does not say why. 37 books carry a picture; 26 are
+type only, three of them (Toru Dutt, Sarojini Naidu, the Comprehensive History Vol. II) until better scans
+are found. New plates are made by `scripts/make_plates.py` from the sources and crops recorded in
+`data/plate_sources.toml` (grayscale, level, negate to an alpha mask on black; photographs first get an
+ordered-dither halftone). Book titles on covers never break inside a word: a title with a word of eleven
+letters or more steps its type down.
+
+**Why.** A series must be recognisable from across a room, so one system holds every cover; and a
+library of rare books cannot dress one book in another's picture.
+
+**Dependency.** `make_plates.py` uses Pillow 13.0.0 (pinned in the script's own `uv` header, never a site
+dependency): image decoding, cropping and levels, which the standard library cannot do. Pillow is the
+standard Python imaging library, maintained since 2010 and among the most-used packages on PyPI. It runs
+only when plates are remade, not in the build or CI.
+
+**Rejected.** Covers taking the first figure the pipeline extracted (too often a table or a blot);
+borrowing another volume's engraving for a book without one.
+
+## D18: The library: search, three arrangements, shelves face out (2026-11-21)
+
+**Decided.** The library page has a real search field: as the reader types it narrows the covers by
+title, author, year, place and shelf at once, and lists where the words occur in the text of the books
+(Pagefind, six results, then a link to the search page). Without JavaScript the field is a plain form that
+opens the search page. Three arrangements, switched by plain words on a hairline: by shelf, by date (by
+decade) and by author (by surname). On a phone each group is a row of covers to swipe, snapping to the
+gutter; on a wide screen a grid of six. The text catalogue with its tier marks is gone: a book's tier is
+on its own page. The shelf, author and collection pages show the same covers, and `/books/` is titled
+The Library.

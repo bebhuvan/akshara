@@ -187,9 +187,10 @@ A plate is a picture from a book's own pages, cleaned so it prints in one ink.
    fine screen of dots, as a printed halftone does.
 5. Long side about 1000–1600px for line, 700–900px for halftones.
 
-`scripts/make_plates.py` does this from `data/plate_sources.toml`, which records each plate's book,
-source page and crop; plates made earlier are recorded in `data/plates.toml`. *(to be confirmed when the
-plate script lands)*
+`uv run scripts/make_plates.py` does this from `data/plate_sources.toml`, which records each plate's
+book, source page and crop (and, where needed, levels, a colour channel that drops a library stamp, boxes
+painted out as paper, or a rotation). Plates made earlier are recorded in `data/plates.toml`. Every plate's
+book must be recorded in one of the two: the cover check refuses a plate it cannot trace.
 
 ### Printing
 A plate is never shown as an image. It is an element with class `.plate` and `--src:url(...)`: the file is
@@ -241,7 +242,16 @@ right, bottom, left) for that book in `data/covers.toml`. Keep the label and the
 2. Add the source and crop to `data/plate_sources.toml` and run `uv run scripts/make_plates.py`.
 3. Add the book to `data/covers.toml`: `kind`, `plate`, and `inset` or `line` if needed; or
    `kind = "type"` with `why`.
-4. Run `./verify`. The build stops if a book has no cover, a kind is unknown or a plate file is missing.
+4. Run `./verify`. `scripts/check_covers.py` stops it if a book has no cover, a kind is unknown, a plate file
+   is missing, a plate is recorded for another book, or a type-only cover does not say why.
+
+### Title lines
+The label's first line is the short title (`cover_title` in `data/bookdetails.toml`, or the title). A
+trailing ", Vol. II" becomes an italic second line "Volume II"; trailing years ("1642–1645") and a short
+subtitle after a colon do the same. A title is never broken inside a word: one with a word of eleven
+letters or more steps its type down (`.lw`), and one over forty characters steps down again (`.long`);
+on a pictured cover a long title moves the picture down to keep clear of it. Hyphenated names do not break
+at the hyphen. Straight apostrophes from the records are set as ’.
 
 ---
 
@@ -267,8 +277,25 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   name first. The ground deepens a little under the pointer.
 - **The eight shelves (`.sh`).** The shelf's name in its ink, its count and years, its epigraph in italic
   with the source beneath, and one cover from the shelf beside it.
-- **Shelf rows, search, the book head, the chapter opener, marginal notes, folios, chapter end.**
-  *(to be written with milestones 2 and 3)*
+- **Search field (`.findbox`).** The one filled form control: a tinted well (`--well`), a glass, at least
+  58px tall, an italic placeholder that says what can be searched. It turns to paper with an ink edge when
+  in use. Under it, one italic line saying what it searches. It is a real form, so it works with no script.
+- **Arrangement switch (`.views`).** Plain words on one hairline, the chosen one in ink with a 2px rule
+  under it, like a running head; a count in italic at the right. Never tabs, pills or a dropdown.
+- **Shelf row (`.row`, `.row-h`).** The group's name in the shelf's ink over a 1px rule in that ink, its
+  count in italic at the right; then its covers, face out. On a phone a row to swipe, each cover snapping
+  to the gutter, the next one showing at the edge to say there is more; on a wide screen a grid of six.
+  Rows that are not one shelf's (decades, letters) use the neutral ink.
+- **Cover with caption (`.book`, `.cap`).** The cover, then the short title in ink and the author and year
+  in `--ink-2`. The whole is one link.
+- **Search results (`.hit-list`).** Rows on hairlines: the chapter's name, the book in italic, an excerpt
+  with the found words underlined in the shelf's ink (`mark`). Built as text, never as HTML.
+- **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up in
+  italic, the name in the shelf's ink, its epigraph, its count.
+- **Lists of pages (`.rows`, `.au`).** One row per entry on hairlines; titles of books in italic with a
+  hairline beneath in the shelf's ink.
+- **The book head, the chapter opener, marginal notes, folios, chapter end.** *(to be written with
+  milestone 3)*
 
 ---
 
