@@ -543,7 +543,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .bk-actions .cta { max-width: 420px; }
 .bk-actions .dl { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
 .bk-actions .dl a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
-.bk-actions .dl a:last-child { color: var(--ink-2); font-style: italic; margin-left: 4px; }
+.bk-actions .dl a:last-child { color: var(--ink-2); font-style: italic; margin-left: 4px; white-space: nowrap; }
 .facts { display: flex; flex-wrap: wrap; gap: 14px 34px; margin-top: 26px; padding-top: 14px; border-top: 1px solid color-mix(in srgb, var(--k) 25%, transparent); max-width: 460px; }
 .facts div { display: grid; gap: 4px; }
 .facts b { font-weight: 300; font-size: 32px; line-height: 1; letter-spacing: -0.03em; color: var(--k); font-variation-settings: "opsz" 60; font-variant-numeric: lining-nums; }
