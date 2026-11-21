@@ -1730,3 +1730,9 @@ body[data-paper="night"] .read .seg button[aria-pressed="true"] { background: co
 [hidden] { display: none !important; }
 /* past sixteen books, a shelf in the catalogue shows "and n more"; a search opens every entry */
 .catalogue li.over:not(.open) { display: none; }
+.tp-sub { margin-top: .6rem; font-style: italic; font-size: 1.15rem; color: var(--ink-2); }
+.bk-record { margin-top: 1.4rem; border-top: .5px solid var(--hair); padding-top: .9rem; }
+.bk-record summary { cursor: pointer; font-style: italic; color: var(--blue); font-size: .95rem; }
+.bk-record .bk-prose { margin-top: 1rem; font-size: .9rem; }
+.ledger-wrap { overflow-x: auto; }
+.bk-plates figcaption { display: flex; flex-direction: column; }

@@ -1,0 +1,13 @@
+{{- /* The opening sentence of a chapter's text, for "How it begins". Empty if none can be found. */ -}}
+{{- $html := .Content -}}
+{{- $out := "" -}}
+{{- range findRE `<p class="prose-p">[\s\S]*?</p>|<p>[\s\S]*?</p>` $html 6 -}}
+  {{- if not $out -}}
+    {{- $txt := . | replaceRE `<sup[\s\S]*?</sup>` "" | replaceRE `<button[\s\S]*?</button>` "" | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+    {{- $caps := len (findRE `[A-Z]` $txt) -}}{{- $lows := len (findRE `[a-z]` $txt) -}}
+    {{- if and (gt (len $txt) 60) (gt $lows (mul $caps 2)) -}}
+      {{- with findRE `^[\s\S]{40,400}?[.!?](?:["’”])?(?:\s|$)` $txt 1 -}}{{- $out = strings.TrimSpace (index . 0) -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}
