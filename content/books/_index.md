@@ -1,6 +1,4 @@
 ---
-title: "All Books"
-description: "Browse our complete collection of Indian literature"
+title: "The Library"
+description: "Every book in Akshara, by shelf, by date or by author, with a search that reads the whole text."
 ---
-
-Explore our curated collection of Indian literary works, spanning centuries of thought, philosophy, and storytelling. From freedom fighters to poets, philosophers to novelists, discover the voices that shaped Indian intellectual and cultural heritage.

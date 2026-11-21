@@ -154,6 +154,10 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .cover .lbl b { display: block; font-weight: 400; font-size: 11.4cqi; line-height: 1.03; letter-spacing: -0.015em; text-wrap: balance; color: color-mix(in srgb, var(--k) 88%, black); }
 .cover .lbl i { display: block; margin-top: 4cqi; font-size: 6.2cqi; line-height: 1.2; }
 .cover .lbl.long b { font-size: 9.6cqi; }
+.cover .lbl b { overflow-wrap: normal; hyphens: manual; }
+.cover .lbl.lw b { font-size: 9.6cqi; }
+/* a three-line title on a pictured cover: the picture steps down to keep clear of it */
+.t-long:not(.k-type) .pic { translate: 0 5cqi; }
 .cover .no { position: absolute; left: 9%; right: 9%; bottom: 6%; display: flex; justify-content: space-between; font-size: 5.6cqi; color: var(--k); }
 .cover .pic { position: absolute; }
 .cover .pic .plate { position: absolute; inset: 0; }
@@ -172,7 +176,8 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 /* Type alone: the title set larger and lower, under a single rule. */
 .k-type .lbl { top: auto; bottom: 17%; }
 .k-type .lbl b { font-size: 14cqi; line-height: 1.02; }
-.k-type .lbl.long b { font-size: 11.6cqi; }
+.k-type .lbl.long b, .k-type .lbl.lw b { font-size: 11.6cqi; }
+.k-type .lbl.long.lw b { font-size: 10.4cqi; }
 .k-type::before { content: ""; position: absolute; left: 9%; right: 9%; top: 8%; height: 1px; background: color-mix(in srgb, var(--k) 45%, transparent); }
 .k-type .au { position: absolute; left: 9%; right: 9%; top: calc(8% + 5cqi); font-size: 6.2cqi; font-style: italic; color: var(--k); }
 .book .cap { font-size: var(--fs-aside); line-height: 1.3; color: var(--ink-2); }
@@ -359,3 +364,115 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
   .pager a { border-top: 1px solid var(--hair); border-bottom: 0; }
   .pager a + a { text-align: right; }
 }
+
+/* ---------- Library ---------- */
+/* Search is the second way into the library, so it gets a real field: a tinted well, a glass, room to tap. */
+.findbox { margin-top: 22px; display: flex; align-items: center; gap: 12px; min-height: 58px; padding: 0 16px; background: var(--well); border: 1px solid var(--well-edge); color: var(--ink-2); }
+.findbox:focus-within { background: var(--paper); border-color: var(--ink-2); }
+.findbox svg { flex: none; }
+.find { flex: 1; min-width: 0; border: 0; background: transparent; padding: 14px 0; font: var(--fs-body)/1.3 var(--serif); color: var(--ink); border-radius: 0; outline: none; -webkit-appearance: none; appearance: none; }
+.find::placeholder { color: var(--ink-3); font-style: italic; }
+.find::-webkit-search-cancel-button { -webkit-appearance: none; }
+.findnote { margin: 8px 0 0; font-size: var(--fs-note); font-style: italic; color: var(--ink-3); }
+/* Ways to arrange the shelves: plain words on one hairline, the chosen one underlined in ink, like a running head. */
+.views { display: flex; align-items: baseline; gap: 26px; margin-top: 18px; border-bottom: 1px solid var(--hair); }
+.views button { min-height: 44px; padding: 12px 0 11px; margin-bottom: -1px; font-size: var(--fs-ui); color: var(--ink-2); border-bottom: 2px solid transparent; }
+.views button:hover { color: var(--ink); }
+.views button[aria-pressed="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+.views .count { margin-left: auto; font-size: var(--fs-note); font-style: italic; color: var(--ink-3); white-space: nowrap; }
+/* A shelf in the library: its name in its ink over a rule in its ink, then its books, face out. */
+.row { margin-top: 44px; }
+.row-h { display: flex; align-items: baseline; gap: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--k); }
+.row-h h2 { font-weight: 400; font-size: var(--fs-h3); line-height: 1.15; letter-spacing: -0.01em; color: var(--k); }
+.row-h h2 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.row-h span { margin-left: auto; font-size: var(--fs-note); color: var(--ink-2); font-style: italic; white-space: nowrap; }
+/* On a phone a shelf is a row to swipe, each cover snapping to the gutter; on a wide screen, a grid. */
+.row .shelf { margin-top: 18px; grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: 42%; overflow-x: auto; scroll-snap-type: x mandatory;
+  margin-left: calc(-1 * var(--gut)); margin-right: calc(-1 * var(--gut-r)); padding-left: var(--gut); padding-right: var(--gut-r);
+  scroll-padding-inline: var(--gut) var(--gut-r); scrollbar-width: none; overscroll-behavior-x: contain; padding-bottom: 6px; }
+.row .shelf::-webkit-scrollbar { display: none; }
+.row .book { scroll-snap-align: start; }
+/* Searching: what answers in the text, then the covers that answer by title, author, year or place. */
+.hits { margin-top: 36px; }
+.hit-list { list-style: none; padding: 0; }
+.hit-list li { border-bottom: 1px solid var(--hair); }
+.hit-list a { display: grid; gap: 3px; padding: 14px 0; }
+.hit-list .t { font-size: var(--fs-body); line-height: 1.3; color: var(--ink); }
+.hit-list .b { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.hit-list .x { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
+.hit-list a:hover .t { color: var(--k); }
+.hits-more { margin-top: 14px; font-size: var(--fs-aside); }
+mark { background: none; color: var(--ink); text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--k) 60%, transparent); text-decoration-thickness: 2px; text-underline-offset: .18em; }
+.empty { margin-top: 32px; font-size: var(--fs-lede); font-style: italic; color: var(--ink-2); max-width: 32em; }
+@media (min-width: 760px) {
+  .lib-h { max-width: 820px; }
+  .row .shelf { grid-auto-flow: row; grid-template-columns: repeat(6, 1fr); overflow: visible; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; gap: 30px 20px; }
+}
+
+/* ---------- Library pages: shelves, plates, authors, collections, search, tables, journal ---------- */
+/* A page that belongs to one shelf opens on that shelf's paper. */
+.band { background: var(--g); padding-bottom: 34px; }
+.band .pg-h .up, .band .pg-h h1 { color: var(--k); }
+.epi { margin-top: 18px; max-width: 34em; font-size: var(--fs-lede); line-height: 1.5; font-style: italic; color: var(--ink-2); }
+.epi footer { margin-top: 6px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-3); }
+/* A grid of covers on a page of its own: two to a row on a phone, six on a wide screen. */
+.shelf.grid { margin-bottom: 8px; }
+.plates-grid .tile { aspect-ratio: 1; }
+.pl-group { margin-top: 56px; }
+.pl-group .sec-h h2 { font-size: var(--fs-h3); }
+.authors { columns: 1; }
+.au { break-inside: avoid; padding: 14px 0 16px; border-bottom: 1px solid var(--hair); }
+.au h2 { font-size: var(--fs-h3); line-height: 1.25; }
+.au h2 a:hover { color: var(--k); }
+.au h2 span { font-size: var(--fs-note); font-style: italic; color: var(--ink-3); white-space: nowrap; }
+.au ul { list-style: none; padding: 0; margin-top: 4px; }
+.au li { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
+.au li a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
+.au li a:hover { border-bottom-color: var(--ink); }
+.colls a, .essays a { display: grid; gap: 3px; }
+.colls b, .essays b { font-weight: 400; font-size: var(--fs-h4); line-height: 1.25; }
+.colls span, .essays span { font-size: var(--fs-aside); line-height: 1.45; color: var(--ink-2); }
+.colls i { font-size: var(--fs-note); color: var(--ink-3); }
+.essays small { font-size: var(--fs-note); font-style: italic; color: var(--k); }
+.tally { margin-top: 26px; font-size: var(--fs-aside); font-style: italic; color: var(--ink-2); }
+.s-more { margin-top: 22px; }
+.ways { list-style: none; padding: 0; display: grid; gap: 0 32px; }
+.ways a { display: flex; align-items: center; min-height: 48px; border-bottom: 1px solid var(--hair); color: var(--k); font-size: var(--fs-body); }
+.ways a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.tbooks { max-width: 52em; border-top: 1px solid var(--hair); }
+.tb { border-bottom: 1px solid var(--hair); }
+.tb summary { display: grid; grid-template-columns: 1fr auto; gap: 2px 20px; padding: 14px 0; cursor: pointer; list-style: none; }
+.tb summary::-webkit-details-marker { display: none; }
+.tb summary b { font-weight: 400; font-size: var(--fs-body); line-height: 1.3; }
+.tb summary span { grid-column: 1; font-size: var(--fs-aside); color: var(--ink-2); }
+.tb summary em { grid-row: 1; grid-column: 2; font-size: var(--fs-note); color: var(--k); }
+.tb[open] summary b { color: var(--k); }
+.tb-list { margin: 0 0 14px; padding-left: 1.3em; font-size: var(--fs-aside); line-height: 1.5; }
+.tb-list li { padding: 5px 0; }
+.tb-list .pg { color: var(--ink-3); }
+.tb-list .dl a { color: var(--k); margin-left: 10px; white-space: nowrap; }
+.tb-list .dl a::after { content: "\00A0\2193"; }
+.tb-note { margin: 0 0 14px; font-size: var(--fs-aside); color: var(--ink-2); }
+/* The journal's front page: the lead essay beside one worn page as the camera found it. */
+.jl { display: grid; gap: 26px; }
+.jl-art { display: block; max-width: 300px; }
+.jl-art img { display: block; width: 100%; box-shadow: 0 0 0 1px var(--hair), 0 18px 26px -20px rgba(var(--shadow), .45); }
+.jl-art span { display: block; margin-top: 8px; font-size: var(--fs-caption); font-style: italic; color: var(--ink-2); }
+.jl-k { font-size: var(--fs-note); font-style: italic; color: var(--k); }
+.jl h2 { margin-top: 6px; font-weight: 300; font-size: var(--fs-feature); line-height: 1.1; letter-spacing: -0.02em; text-wrap: balance; }
+.jl h2 a:hover { color: var(--k); }
+.jl-d { margin-top: 8px; font-size: var(--fs-h4); font-style: italic; color: var(--ink-2); }
+.jl-x { margin-top: 16px; font-size: var(--fs-lede); line-height: 1.6; color: var(--ink-2); max-width: 34em; }
+.jl-q { margin-top: 22px; font-size: var(--fs-quote); line-height: 1.3; font-weight: 300; font-style: italic; color: var(--k); max-width: 22em; }
+.jl-m { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin-top: 26px; font-size: var(--fs-aside); font-style: italic; color: var(--ink-3); }
+@media (min-width: 760px) {
+  .shelf.grid { grid-template-columns: repeat(6, 1fr); gap: 30px 20px; }
+  .plates-grid { grid-template-columns: repeat(4, 1fr); }
+  .plates-grid .wide { grid-column: span 2; }
+  .plates-grid .wide .tile { aspect-ratio: 2 / 1; height: auto; }
+  .authors { columns: 2; column-gap: 48px; }
+  .ways { grid-template-columns: repeat(2, 1fr); }
+  .jl { grid-template-columns: 300px 1fr; gap: 56px; align-items: start; }
+  .band { padding-bottom: 48px; }
+}
+.jl-m .readon { font-style: normal; }

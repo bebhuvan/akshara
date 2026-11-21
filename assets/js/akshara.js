@@ -26,50 +26,76 @@
   var $ = function (sel, root) { return (root || document).querySelector(sel); };
   var $$ = function (sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); };
 
-  /* the library: three arrangements rendered by the build; the script chooses one and filters it */
+  /* the library: three arrangements rendered by the build (by shelf, date or author); the script shows
+     one, narrows it as the reader types (title, author, year, place), and lists where the words occur in
+     the text of the books, from the search index. Results are built as text nodes, never HTML (D7). */
   function library() {
-    var box = $("[data-lib-search]");
-    if (!box) return;
-    box.hidden = false;
-    var input = $("#q", box), tally = $("#tally"), empty = $("[data-empty]");
-    var order = "shelf";
-    var HOW = { shelf: "by shelf", year: "by date of printing", author: "by author" };
-    $$("li[data-hay]").forEach(function (li) { li.dataset.fold = fold(li.dataset.hay); });
-    var total = $$('[data-order-block="year"] li[data-hay]').length;
+    var form = $("[data-lib-find]");
+    if (!form) return;
+    var input = $("#find", form), views = $("[data-views]"), count = $("[data-count]");
+    var hits = $("[data-hits]"), hitList = $("[data-hits-list]"), hitTally = $("[data-hits-tally]"), hitMore = $("[data-hits-more]");
+    var empty = $("[data-empty]"), view = "shelf", seq = 0, pf = null;
+    views.hidden = false;
+    $$("[data-hay]").forEach(function (a) { a.dataset.fold = fold(a.dataset.hay); });
+    var shelfWord = count.textContent;
 
-    function render() {
-      var toks = tokens(input.value), searching = toks.length > 0;
-      $$("[data-order-block]").forEach(function (b) { b.hidden = b.dataset.orderBlock !== order; });
-      $$("[data-when]").forEach(function (el) { el.hidden = searching || el.dataset.when !== order; });
-      var block = $('[data-order-block="' + order + '"]'), n = 0;
-      $$(".cat-group", block).forEach(function (g) {
-        var shown = 0;
-        $$("li[data-hay]", g).forEach(function (li) {
-          var ok = !searching || matchesAll(li.dataset.fold, toks);
-          li.hidden = !ok;
-          li.classList.toggle("open", searching);
-          if (ok) shown++;
+    function narrow() {
+      var toks = tokens(input.value), searching = toks.length > 0, shown = 0;
+      $$("[data-view-block]").forEach(function (block) {
+        var on = block.dataset.viewBlock === view;
+        block.hidden = !on;
+        if (!on) return;
+        $$(".row", block).forEach(function (row) {
+          var n = 0;
+          $$("[data-hay]", row).forEach(function (a) {
+            var ok = !searching || matchesAll(a.dataset.fold, toks);
+            a.hidden = !ok;
+            if (ok) n++;
+          });
+          row.hidden = n === 0;
+          shown += n;
         });
-        var more = $(".more-on", g);
-        if (more) more.hidden = searching;
-        g.hidden = shown === 0;
-        n += shown;
       });
-      empty.hidden = n > 0;
-      if (!searching) tally.textContent = "All " + words(total) + " editions, " + HOW[order] + ".";
-      else if (!n) tally.textContent = "";
-      else tally.textContent = cap(words(n)) + (n === 1 ? " book answers" : " books answer") + " to “" + input.value.trim() + "”, " + HOW[order] + ".";
+      empty.hidden = !searching || shown > 0;
+      if (searching) count.textContent = shown ? cap(words(shown)) + (shown === 1 ? " book" : " books") : "";
+      else count.textContent = { shelf: shelfWord, date: "By decade", author: "By surname" }[view];
     }
-    input.addEventListener("input", render);
-    $$("[data-order]", box).forEach(function (btn) {
+    function load() { return pf || (pf = import("/pagefind/pagefind.js").then(function (m) { m.options({ excerptLength: 24 }); return m; })); }
+    function inText() {
+      var q = input.value.trim(), mine = ++seq;
+      if (q.length < 3) { hits.hidden = true; hitList.replaceChildren(); return; }
+      load().then(function (p) { return p.debouncedSearch(q, {}, 300); }).then(function (res) {
+        if (!res || mine !== seq) return;
+        var n = res.results.length;
+        if (!n) { hits.hidden = true; return; }
+        return Promise.all(res.results.slice(0, 6).map(function (r) { return r.data(); })).then(function (items) {
+          if (mine !== seq) return;
+          hitTally.textContent = n === 1 ? "One page" : n + " pages";
+          hitMore.href = "/search/?q=" + encodeURIComponent(q);
+          hitList.replaceChildren.apply(hitList, items.map(function (d) {
+            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"),
+              bk = document.createElement("span"), x = document.createElement("span");
+            a.href = d.url;
+            t.className = "t"; t.textContent = ((d.meta && d.meta.title) || d.url).replace(/^[\s—–-]+/, "");
+            bk.className = "b"; bk.textContent = (d.meta && d.meta.book) || "";
+            x.className = "x"; x.appendChild(excerptNodes(d.excerpt));
+            a.append(t, bk, x); li.appendChild(a); return li;
+          }));
+          hits.hidden = false;
+        });
+      }).catch(function () { hits.hidden = true; });
+    }
+    input.addEventListener("input", function () { narrow(); inText(); });
+    form.addEventListener("submit", function (e) { e.preventDefault(); input.blur(); });
+    $$("[data-view]", views).forEach(function (btn) {
       btn.addEventListener("click", function () {
-        order = btn.dataset.order;
-        $$("[data-order]", box).forEach(function (b) { b.setAttribute("aria-pressed", String(b === btn)); });
-        render();
+        view = btn.dataset.view;
+        $$("[data-view]", views).forEach(function (o) { o.setAttribute("aria-pressed", String(o === btn)); });
+        narrow();
       });
     });
     var q = new URLSearchParams(location.search).get("q");
-    if (q) { input.value = q; render(); }
+    if (q) { input.value = q; narrow(); inText(); }
   }
 
   /* settings kept on this device; storage may be unavailable (private windows), and the page works without it */
@@ -297,12 +323,12 @@
           moreBtn.hidden = shown >= all.length;
           moreBtn.textContent = "Show " + Math.min(30, all.length - shown) + " more of " + all.length;
           out.append.apply(out, items.map(function (d) {
-            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), b = document.createElement("span"), x = document.createElement("p");
-            a.href = d.url; a.className = "s-hit";
-            t.className = "s-t"; t.textContent = (d.meta && d.meta.title) || d.url;
-            b.className = "s-b"; b.textContent = (d.meta && d.meta.book) || "";
-            x.className = "s-x"; x.appendChild(excerptNodes(d.excerpt));
-            a.append(t, b); li.append(a, x);
+            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), b = document.createElement("span"), x = document.createElement("span");
+            a.href = d.url;
+            t.className = "t"; t.textContent = ((d.meta && d.meta.title) || d.url).replace(/^[\s—–-]+/, "");
+            b.className = "b"; b.textContent = (d.meta && d.meta.book) || "";
+            x.className = "x"; x.appendChild(excerptNodes(d.excerpt));
+            a.append(t, b, x); li.append(a);
             return li;
           }));
       });
