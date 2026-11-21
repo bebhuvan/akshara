@@ -1,10 +1,9 @@
 {{ define "main" }}
 {{- $books := slice -}}
 {{- range .Params.books | default slice }}{{ with site.GetPage (printf "/books/%s" .) }}{{ $books = $books | append (partialCached "book/record.html" . .RelPermalink) }}{{ end }}{{ end -}}
-<section class="pg wrap">
-  <header class="lib-head"><p class="so-kicker tc"><a href="/collections/">Collections</a></p><h1 class="lib-title">{{ .Title }}</h1>{{ with .Params.description }}<p class="lib-dek">{{ . }}</p>{{ end }}</header>
-  {{- with .Content }}<div class="prose coll-prose">{{ . }}</div>{{ end }}
-  <div class="so-covers">{{ range sort $books "year" }}<a class="cv-link" href="{{ .url }}">{{ partial "book/cover.html" . }}<span class="cv-cap"><i>{{ .cover_title }}</i><br>{{ .author }}, {{ .year }}</span></a>{{ end }}</div>
-  <div class="catalogue two">{{ partial "book/groups.html" (dict "books" $books "order" "year") }}</div>
+<section class="wrap">
+  <header class="pg-h"><p class="up"><a href="/collections/">Collections</a></p><h1>{{ .Title }}</h1>{{ with .Params.description }}<p class="dek">{{ . }}</p>{{ end }}</header>
+  {{- with .Content }}<div class="pg-body prose">{{ . }}</div>{{ end }}
+  <div class="shelf grid pg-body">{{ range sort $books "year" }}{{ partial "book/lib-entry.html" . }}{{ end }}</div>
 </section>
 {{ end }}

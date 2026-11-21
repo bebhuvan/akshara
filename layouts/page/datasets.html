@@ -2,20 +2,23 @@
 {{- $books := partial "book/all.html" . -}}
 {{- $with := slice -}}{{- $total := 0 -}}
 {{- range $b := $books }}{{ with $b.page.Params.tables_list }}{{ $with = $with | append $b }}{{ $total = add $total (int ($b.page.Params.tables_count | default (len .))) }}{{ end }}{{ end -}}
-<section class="pg wrap tables-page">
-  <header class="lib-head"><h1 class="lib-title">The Tables</h1>
-    <p class="lib-dek">The tables set from the books so far, {{ $total }} in all from {{ partial "words.html" (len $with) }} books, each given twice as CSV: as printed, row for row, and tidy, one figure to a line, ready for a spreadsheet or a program. Each links to the page where it stands in its chapter.</p></header>
+<section class="wrap">
+  <header class="pg-h"><h1>The Tables</h1>
+    <p class="dek">The tables set from the books so far, {{ $total }} in all from {{ partial "words.html" (len $with) }} books, each given twice as CSV: as printed, row for row, and tidy, one figure to a line, ready for a spreadsheet or a program. Each links to the page where it stands in its chapter.</p></header>
+  <div class="pg-body tbooks">
   {{- range $with }}{{ $b := . }}
-  <details class="tb-book" style="--cloth:{{ $b.cloth | safeCSS }}">
-    <summary><span class="tb-t"><i>{{ $b.title }}</i></span><span class="tb-a">{{ $b.author }}, {{ $b.year }}</span>{{ $tn := int ($b.page.Params.tables_count | default (len $b.page.Params.tables_list)) }}<span class="tb-n">{{ $tn }} {{ cond (eq $tn 1) "table" "tables" }}</span></summary>
+  <details class="tb {{ $b.code }}">
+    {{- $tn := int ($b.page.Params.tables_count | default (len $b.page.Params.tables_list)) }}
+    <summary><b><i>{{ $b.cover_title }}</i></b><span>{{ $b.author }}, {{ $b.year }}</span><em>{{ $tn }} {{ cond (eq $tn 1) "table" "tables" }}</em></summary>
     <ol class="tb-list">
       {{- range $b.page.Params.tables_list }}
-      <li><a href="{{ .section_url }}">{{ .caption }}</a><span class="tb-pg">{{ with .printed_folio }}p.&nbsp;{{ . }}{{ end }}</span><span class="tbl-dl"><a href="{{ .diplomatic_csv }}" download>As printed</a><a href="{{ .tidy_csv }}" download>Tidy</a></span></li>
+      <li><a class="ln" href="{{ .section_url }}">{{ .caption }}</a>{{ with .printed_folio }} <span class="pg">p.&nbsp;{{ . }}</span>{{ end }} <span class="dl"><a href="{{ .diplomatic_csv }}" download>As printed</a> <a href="{{ .tidy_csv }}" download>Tidy</a></span></li>
       {{- end }}
     </ol>
-    {{- if gt $tn (len $b.page.Params.tables_list) }}<p class="tb-pkg">The first {{ len $b.page.Params.tables_list }} are listed here; all {{ $tn }} are in the book’s data package.</p>{{ end }}
-    {{- with $b.page.Params.download_datasets }}<p class="tb-pkg"><a href="{{ . }}">The book’s data package (JSON), with every table</a></p>{{ end }}
+    {{- if gt $tn (len $b.page.Params.tables_list) }}<p class="tb-note">The first {{ len $b.page.Params.tables_list }} are listed here; all {{ $tn }} are in the book’s data package.</p>{{ end }}
+    {{- with $b.page.Params.download_datasets }}<p class="tb-note"><a class="ln" href="{{ . }}">The book’s data package (JSON), with every table</a></p>{{ end }}
   </details>
   {{- end }}
+  </div>
 </section>
 {{ end }}

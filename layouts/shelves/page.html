@@ -7,23 +7,14 @@
 {{- $all := sort (where $books "shelf_no" $i) "year" -}}
 {{- $n := len $all -}}
 {{- $prev := index $shelves (mod (add $i 7) 8) -}}{{- $next := index $shelves (mod (add $i 1) 8) -}}
-<section class="library">
-<header class="shelf-open band" style="--cloth:{{ $s.cloth | safeCSS }}"><div class="wrap so-grid">
-  <div class="so-case" aria-hidden="true">{{ range $all }}{{ replaceRE `^<a class="spine"(.*)</a>$` `<span class="spine"$1</span>` (partial "book/spine.html" .) | replaceRE ` href="[^"]*"` "" | safeHTML }}{{ end }}</div>
-  <div class="so-text">
-    <p class="tc so-kicker"><a href="/books/">The Library</a>&ensp;/&ensp;Shelf {{ partial "words.html" (add $i 1) }}</p>
-    <h1 class="so-name">{{ $s.name }}</h1>
-    <blockquote class="so-q"><p>“{{ $s.epigraph }}”</p><footer>{{ $s.source | markdownify }}</footer></blockquote>
-    <p class="so-count">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, printed between {{ (index $all 0).year }} and {{ (index $all (sub $n 1)).year }}.</p>
-  </div>
+<header class="band {{ $s.code }}"><div class="wrap pg-h">
+  <p class="up"><a href="/books/">The Library</a> · shelf {{ partial "words.html" (add $i 1) }} of eight</p>
+  <h1>{{ $s.name }}</h1>
+  <blockquote class="epi"><p>“{{ $s.epigraph }}”</p><footer>{{ $s.source | markdownify }}</footer></blockquote>
+  <p class="dek">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, printed between {{ (index $all 0).year }} and {{ (index $all (sub $n 1)).year }}.</p>
 </div></header>
-<div class="wrap"><div class="so-covers">
-  {{- range sort $all "no" }}
-  <a class="cv-link" href="{{ .url }}" title="{{ .title }} · {{ .author }}, {{ .year }}">{{ partial "book/cover.html" . }}<span class="cv-cap"><i>{{ .cover_title }}</i><br>{{ .author }}, {{ .year }}</span></a>
-  {{- end }}
-</div></div>
 <div class="wrap">
-  <nav class="shelf-nav"><a href="/shelves/{{ $prev.slug }}/"><span class="tc">The shelf before</span>{{ $prev.name }}</a><a href="/shelves/{{ $next.slug }}/"><span class="tc">The shelf after</span>{{ $next.name }}</a></nav>
+  <div class="shelf grid pg-body">{{ range $all }}{{ partial "book/lib-entry.html" . }}{{ end }}</div>
+  <nav class="pager" aria-label="Other shelves"><a class="{{ $prev.code }}" href="/shelves/{{ $prev.slug }}/"><small>The shelf before</small><b>{{ $prev.name }}</b></a><a class="{{ $next.code }}" href="/shelves/{{ $next.slug }}/"><small>The shelf after</small><b>{{ $next.name }}</b></a></nav>
 </div>
-</section>
 {{ end }}
