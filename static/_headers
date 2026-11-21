@@ -15,8 +15,6 @@
   Cache-Control: public, max-age=31536000, immutable
 /js/*
   Cache-Control: public, max-age=31536000, immutable
-/fonts/*
-  Cache-Control: public, max-age=31536000, immutable
 
 # These keep their names when they change, so browsers check back daily.
 /covers/*
@@ -27,6 +25,8 @@
   Cache-Control: public, max-age=86400
 /img/*
   Cache-Control: public, max-age=86400
+/fonts/*
+  Cache-Control: public, max-age=2592000
 /pagefind/*
   Cache-Control: public, max-age=3600
 

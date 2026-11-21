@@ -9,7 +9,7 @@
 {{- $prev := index $shelves (mod (add $i 7) 8) -}}{{- $next := index $shelves (mod (add $i 1) 8) -}}
 <section class="library">
 <header class="shelf-open band" style="--cloth:{{ $s.cloth | safeCSS }}"><div class="wrap so-grid">
-  <div class="so-case" aria-hidden="true">{{ range $all }}{{ partial "book/spine.html" . }}{{ end }}</div>
+  <div class="so-case" aria-hidden="true">{{ range $all }}{{ replaceRE `^<a class="spine"(.*)</a>$` `<span class="spine"$1</span>` (partial "book/spine.html" .) | replaceRE ` href="[^"]*"` "" | safeHTML }}{{ end }}</div>
   <div class="so-text">
     <p class="tc so-kicker"><a href="/books/">The Library</a>&ensp;/&ensp;Shelf {{ partial "words.html" (add $i 1) }}</p>
     <h1 class="so-name">{{ $s.name }}</h1>

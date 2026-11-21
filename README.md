@@ -53,8 +53,15 @@ Then open http://localhost:1313.
 ```
 
 This builds the whole site with warnings treated as errors, makes the search index, checks that every
-address in `tests/known-urls.txt` still opens a page or redirects to one, and audits dependencies.
-CI runs it on every push.
+address in `tests/known-urls.txt` still opens a page or redirects to one, checks every page for unsafe
+or broken markup (`scripts/check_content.py`), warns before Cloudflare's size limits
+(`scripts/check_limits.py`), runs the tests in `tests/`, and audits dependencies. CI runs it on every push.
+
+To refuse commits containing secrets, turn on the hook once per clone (needs gitleaks):
+
+```bash
+git config core.hooksPath .githooks
+```
 
 ## Add a book
 
@@ -66,10 +73,10 @@ CI runs it on every push.
 ## Deploy
 
 Pushing to `main` deploys to akshara.ink through GitHub Actions (`.github/workflows/deploy.yml`), after
-`./verify` passes. To check a change privately first, deploy the preview:
+`./verify` passes. To check a change first, deploy the preview (the default; only `--env production` touches the live site):
 
 ```bash
-npx wrangler deploy --env preview
+npx wrangler deploy
 ```
 
 ## If a page moves

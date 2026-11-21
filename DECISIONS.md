@@ -79,3 +79,23 @@ description) needs no index and works instantly.
 
 **Why.** Pagefind was already used by the live site, runs with no server, and keeps the index on
 akshara.ink. Inserting result excerpts as HTML would put stored text into the page unescaped.
+
+## D8: Book text is checked before it is published (2026-11-21)
+
+**Decided.** `scripts/check_content.py` reads every built page and fails the build on script, style,
+frame or form elements inside book text, event-handler attributes, `javascript:` links, images from
+anywhere but this site and archive.org, and images whose files are missing.
+
+**Why.** Chapter text comes from the pipeline, where a model reads each page, and goes onto the site as
+HTML. The security policy would block most harm, but nothing should rely on one layer. The first run found
+five broken images in three Stage One chapters, left over from the old OCR; each is now a plain note that
+a figure is printed there and not yet reproduced.
+
+## D9: Warn at 90% of Cloudflare's limits (2026-11-21)
+
+**Decided.** `scripts/check_limits.py` fails the build above 18,000 files or 1,800 redirects (90% of
+the Free plan's 20,000 and 2,000).
+
+**Why.** 63 books already make 6,648 files, most of them downloads. At a few hundred books the deploy
+would be refused without warning. When the warning comes, move `static/downloads` to GitHub Releases or
+R2 rather than raising the margin.

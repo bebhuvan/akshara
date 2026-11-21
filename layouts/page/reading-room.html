@@ -2,10 +2,12 @@
 {{- $books := partial "book/all.html" . -}}
 <section class="pg wrap reading-room">
   <header class="lib-head"><h1 class="lib-title">The Reading Room</h1>
-    <p class="lib-dek" data-resume>Every chapter opens in the reading room: one calm column, the page numbers of the printed book in the margin, and the photograph of each page a tap away. Begin with any book below.</p></header>
+    <p class="lib-dek" data-resume>Every chapter opens in the reading room: one calm column, with the page numbers of the printed book in the margin. In the newer editions, each page number opens the photograph of that page. Begin with any book below.</p></header>
   <div class="rr-grid">
   {{- range $i, $s := hugo.Data.shelves.shelf }}
-    {{- $bs := sort (where $books "shelf_no" $i) "no" }}
+    {{- $all := sort (where $books "shelf_no" $i) "no" }}
+    {{- $full := where $all "tier" "!=" "v1_archive" }}
+    {{- $bs := cond (gt (len $full) 0) $full $all }}
     {{- with $bs }}{{ $b := index . 0 }}{{ $first := partial "book/first-chapter.html" $b.page }}{{ $fn := partial "chapter/name.html" $first }}
     <article class="rr-item"><a class="cv-link" href="{{ $first.RelPermalink }}">{{ partial "book/cover.html" $b }}</a>
       <p class="rr-shelf"><a href="/shelves/{{ $s.slug }}/">{{ $s.name }}</a></p>

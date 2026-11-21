@@ -1,0 +1,72 @@
+"""Tests for the build checks. Run: python3 -m unittest discover -s tests"""
+import sys
+import tempfile
+import unittest
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
+import check_content  # noqa: E402
+import check_urls  # noqa: E402
+
+
+def site(files: dict[str, str]) -> Path:
+    root = Path(tempfile.mkdtemp())
+    for rel, text in files.items():
+        p = root / rel
+        p.parent.mkdir(parents=True, exist_ok=True)
+        p.write_text(text, encoding="utf-8")
+    return root
+
+
+class Urls(unittest.TestCase):
+    def test_normalise_adds_trailing_slash_to_pages_only(self):
+        self.assertEqual(check_urls.normalise("/books/x"), "/books/x/")
+        self.assertEqual(check_urls.normalise("/books/x/"), "/books/x/")
+        self.assertEqual(check_urls.normalise("/index.xml"), "/index.xml")
+
+    def test_redirect_rules_are_read(self):
+        root = site({"_redirects": "# note\n/old/ /new/ 301\n"})
+        self.assertEqual(check_urls.read_redirects(root), {"/old/": "/new/"})
+
+    def test_malformed_redirect_stops_the_build(self):
+        for bad in ("/old/ /new/", "/old/* /new/ 301", "/old/ /new/ 302", "/a/ /b/ 301 extra"):
+            root = site({"_redirects": bad + "\n"})
+            with self.assertRaises(SystemExit, msg=bad):
+                check_urls.read_redirects(root)
+
+    def test_has_page(self):
+        root = site({"index.html": "", "books/x/index.html": ""})
+        self.assertTrue(check_urls.has_page(root, "/"))
+        self.assertTrue(check_urls.has_page(root, "/books/x/"))
+        self.assertFalse(check_urls.has_page(root, "/books/y/"))
+
+
+class Content(unittest.TestCase):
+    def problems(self, body: str, extra: dict[str, str] | None = None) -> list[str]:
+        files = {"page/index.html": f'<html><body><main><div data-pagefind-body>{body}</div></main></body></html>'}
+        files.update(extra or {})
+        root = site(files)
+        return check_content.check_file(root / "page/index.html", root)
+
+    def test_clean_text_passes(self):
+        self.assertEqual(self.problems('<p>Plain <em>text</em> and <a href="/books/">a link</a>.</p>'), [])
+
+    def test_scripts_and_handlers_are_caught(self):
+        self.assertTrue(self.problems("<script>alert(1)</script>"))
+        self.assertTrue(self.problems('<p onclick="x()">hi</p>'))
+        self.assertTrue(self.problems('<a href="javascript:alert(1)">x</a>'))
+        self.assertTrue(self.problems('<iframe src="/x"></iframe>'))
+
+    def test_images(self):
+        self.assertEqual(self.problems('<img src="https://archive.org/download/x/page/n1.jpg">'), [])
+        self.assertEqual(self.problems('<img src="/fig.webp">', {"fig.webp": "x"}), [])
+        self.assertTrue(self.problems('<img src="/missing.webp">'))
+        self.assertTrue(self.problems('<img src="https://example.com/x.png">'))
+
+    def test_site_form_outside_book_text_is_allowed(self):
+        root = site({"s/index.html": '<main><form action="/search/"></form></main>'})
+        self.assertEqual(check_content.check_file(root / "s/index.html", root), [])
+
+
+if __name__ == "__main__":
+    unittest.main()

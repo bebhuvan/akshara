@@ -3,7 +3,9 @@
 # unknown address with public/404.html and a real 404 status (see DECISIONS.md, D3).
 # Docs: https://developers.cloudflare.com/workers/static-assets/
 
-name = "akshara"
+# The top-level name is the preview, so a bare `npx wrangler deploy` can never replace the live site.
+# Production is only ever deployed with --env production, which CI does from main.
+name = "akshara-preview"
 compatibility_date = "2026-11-01"
 
 [assets]
@@ -18,6 +20,3 @@ routes = [
   { pattern = "www.akshara.ink/*", zone_name = "akshara.ink" }
 ]
 
-# A private preview for checking a redesign before it goes live: npx wrangler deploy --env preview
-[env.preview]
-name = "akshara-preview"

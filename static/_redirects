@@ -2,7 +2,8 @@
 # Never delete a line: people and other sites still link to these. Add a line whenever a page moves.
 # 2026-11-21: chapters of four books moved under /chapters/ when they were set again (matched by title,
 # and for Dutt's Victorian Age by part and chapter number); three books and their authors were
-# withdrawn for copyright; five old collections were merged; one author page was renamed.
+# withdrawn for copyright; five old collections were merged; one author page was renamed; the empty
+# theme and period lists and the language lists of authors were retired.
 /authors/k-a-nilakanta-sastri/ /withdrawn/ 301
 /authors/sir-william-wilson-hunter/ /authors/william-wilson-hunter/ 301
 /authors/sophia-dobson-collet/ /withdrawn/ 301
@@ -172,3 +173,21 @@
 /collections/biographical-classics/ /collections/ 301
 /collections/classical-literature/ /collections/ 301
 /collections/reference-works/ /collections/ 301
+/languages/ /authors/ 301
+/languages/avestan/ /authors/ 301
+/languages/bengali/ /authors/ 301
+/languages/dutch/ /authors/ 301
+/languages/english/ /authors/ 301
+/languages/french/ /authors/ 301
+/languages/german/ /authors/ 301
+/languages/hindi/ /authors/ 301
+/languages/latin/ /authors/ 301
+/languages/pali/ /authors/ 301
+/languages/persian/ /authors/ 301
+/languages/portuguese/ /authors/ 301
+/languages/sanskrit/ /authors/ 301
+/languages/tamil/ /authors/ 301
+/languages/telugu/ /authors/ 301
+/languages/urdu/ /authors/ 301
+/periods/ /books/ 301
+/themes/ /books/ 301

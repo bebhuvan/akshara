@@ -221,15 +221,28 @@
     function run() {
       var q = input.value.trim(), mine = ++seq;
       history.replaceState(null, "", q ? "?q=" + encodeURIComponent(q) : location.pathname);
-      if (!q) { out.replaceChildren(); tally.textContent = ""; ways.hidden = false; return; }
+      if (!q) { out.replaceChildren(); tally.textContent = ""; ways.hidden = false; moreBtn.hidden = true; return; }
       ways.hidden = true;
       load().then(function (p) { return p.debouncedSearch(q, {}, 250); }).then(function (res) {
         if (!res || mine !== seq) return;
         var n = res.results.length;
         tally.textContent = n ? (n === 1 ? "One page" : n + " pages") + " answer to “" + q + "”." : "Nothing answers to “" + q + "”. Try another spelling, or a shorter word.";
-        return Promise.all(res.results.slice(0, 30).map(function (r) { return r.data(); })).then(function (items) {
+        shown = 0; all = res.results;
+        return more(mine);
+      }).catch(function () {
+        tally.textContent = "Search could not be loaded. The catalogue in the library lists every book.";
+      });
+    }
+    var all = [], shown = 0, moreBtn = $("#s-more");
+    function more(mine) {
+      var next = all.slice(shown, shown + 30);
+      return Promise.all(next.map(function (r) { return r.data(); })).then(function (items) {
           if (mine !== seq) return;
-          out.replaceChildren.apply(out, items.map(function (d) {
+          if (shown === 0) out.replaceChildren();
+          shown += items.length;
+          moreBtn.hidden = shown >= all.length;
+          moreBtn.textContent = "Show " + Math.min(30, all.length - shown) + " more of " + all.length;
+          out.append.apply(out, items.map(function (d) {
             var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), b = document.createElement("span"), x = document.createElement("p");
             a.href = d.url; a.className = "s-hit";
             t.className = "s-t"; t.textContent = (d.meta && d.meta.title) || d.url;
@@ -238,11 +251,9 @@
             a.append(t, b); li.append(a, x);
             return li;
           }));
-        });
-      }).catch(function () {
-        tally.textContent = "Search could not be loaded. The catalogue in the library lists every book.";
       });
     }
+    moreBtn.addEventListener("click", function () { more(seq); });
     form.addEventListener("submit", function (e) { e.preventDefault(); run(); });
     input.addEventListener("input", run);
     var q = new URLSearchParams(location.search).get("q");

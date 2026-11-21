@@ -1,6 +1,15 @@
-{{- /* The page a reader should open first: the first chapter proper (section_kind "chapter"), else the first page. */ -}}
-{{- $pages := .Pages.ByWeight -}}
-{{- $ch := index (where $pages "Params.section_kind" "chapter") 0 -}}
-{{- if not $ch -}}{{- $ch = index (where $pages "Kind" "page") 0 -}}{{- end -}}
-{{- if not $ch -}}{{- errorf "Book %s has no chapters" .RelPermalink -}}{{- end -}}
-{{- return $ch -}}
+{{- /* The page a reader should open first: the first chapter or introduction with real text in it,
+skipping title pages, contents, lists of authorities and bibliographies. */ -}}
+{{- $skip := `(?i)^(list of|contents|bibliography|abbreviations|index|errata|front ?matter|title|authorities)` -}}
+{{- $found := "" -}}
+{{- range .Pages.ByWeight -}}
+  {{- if not $found -}}
+    {{- $kind := .Params.section_kind | default "chapter" -}}
+    {{- if and (in (slice "chapter" "introduction") $kind) (not (findRE $skip (strings.TrimSpace .Title))) (gt (len .Plain) 2000) -}}
+      {{- $found = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $found -}}{{- $found = index (where .Pages.ByWeight "Kind" "page") 0 -}}{{- end -}}
+{{- if not $found -}}{{- errorf "Book %s has no chapters" .RelPermalink -}}{{- end -}}
+{{- return $found -}}

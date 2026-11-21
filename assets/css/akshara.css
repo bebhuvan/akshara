@@ -1857,3 +1857,6 @@ body[data-paper="night"] .read #chapter-text .archival-plate img { mix-blend-mod
 @media (max-width: 760px) { .ed-table-in { grid-template-columns: minmax(0, 1fr) !important; } }
 .bk-colophon code, .prose code { overflow-wrap: anywhere; word-break: break-word; }
 .journal .prose table { display: block; overflow-x: auto; max-width: 100%; }
+.s-more { margin-top: 1.4rem; background: none; border: 0; border-bottom: .5px solid var(--blue-rule); padding: .3rem 0; color: var(--blue); font-style: italic; cursor: pointer; font-size: 1rem; }
+.s-more:hover { border-bottom-color: var(--blue); }
+.read #chapter-text .missing-figure { margin: 1.4rem 0; font-size: .86rem; color: var(--ink-2); text-align: center !important; }

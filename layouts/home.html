@@ -14,7 +14,7 @@
   <div class="op-text">
     <h1 class="op-title">Rare books about India, <em>set again with care and given to everyone.</em></h1>
     <div class="op-lede">
-      <p>Travellers’ journals, the East India Company’s letter-books, famine reports, speeches, letters and verse, printed between {{ $first }} and {{ $last }} and long out of print. Each is read afresh from photographs of its pages, set to be read with pleasure, kept page by page beside its scan, and free to read, copy and reuse.</p>
+      <p>Travellers’ journals, the East India Company’s letter-books, famine reports, speeches, letters and verse, printed between {{ $first }} and {{ $last }} and long out of print. Each is read from photographs of its pages, set to be read with pleasure, and free to read, copy and reuse; the editions made since November 2026 keep every page beside its scan.</p>
       <p class="op-links"><a href="/books/">All {{ partial "words.html" $count }} books</a><a href="{{ $featFirst.RelPermalink }}">Begin reading</a><a href="/about/">Why Akshara exists</a></p>
     </div>
   </div>
@@ -123,7 +123,7 @@
     {{- $n := len $all }}
     <article class="shc">
       <a class="sc-case" href="/shelves/{{ $s.slug }}/" aria-label="{{ $s.name }}, the shelf"><span class="face">{{ partial "book/cover.html" (index $all 0) }}</span>
-        {{- range first 7 (after 1 $all) }}{{ replaceRE `^<a class="spine"(.*)</a>$` `<span class="spine"$1</span>` (partial "book/spine.html" .) | safeHTML }}{{ end -}}
+        {{- range first 7 (after 1 $all) }}{{ replaceRE `^<a class="spine"(.*)</a>$` `<span class="spine"$1</span>` (partial "book/spine.html" .) | replaceRE ` href="[^"]*"` "" | safeHTML }}{{ end -}}
       </a>
       <h3><a href="/shelves/{{ $s.slug }}/">{{ $s.name }}</a></h3>
       <p class="sc-n">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $ys 0).year }}–{{ (index $ys (sub $n 1)).year }}</p>
@@ -174,7 +174,7 @@
 
 <figure class="closing wrap">
   <blockquote><p>A mechanical estampage has been reproduced so that a worthier scholar may re-edit it from the plates.</p></blockquote>
-  <figcaption>R. D. Banerji, on the inscriptions he printed in <i>The Pālas of Bengal</i>, 1915. Akshara is made in the same spirit: every page is kept beside its photograph, so that anyone may check it and set it right.</figcaption>
+  <figcaption>R. D. Banerji, on the inscriptions he printed in <i>The Pālas of Bengal</i>, 1915. Akshara is made in the same spirit: each new edition keeps every page beside its photograph, so that anyone may check it and set it right.</figcaption>
 </figure>
 
 <section class="hs commons band soft" aria-labelledby="h-commons">
@@ -190,7 +190,7 @@
           <div><dt>Read here</dt><dd>chapter by chapter, with the scan one tap away</dd></div>
           <div><dt>EPUB</dt><dd>for e-readers and phones</dd></div>
           <div><dt>One page</dt><dd>the whole book in a single HTML file</dd></div>
-          <div><dt>Print PDF</dt><dd>set for paper, with the original scan kept beside it</dd></div>
+          <div><dt>Print PDF</dt><dd>set for paper, with the photographs of the original as a second PDF</dd></div>
           <div><dt>Markdown and TEI</dt><dd>for editors and scholarly tools</dd></div>
           <div><dt>Tables</dt><dd>every table as CSV, as printed and in tidy form</dd></div>
         </dl>

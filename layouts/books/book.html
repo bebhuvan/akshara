@@ -32,9 +32,10 @@
 
 <div class="bk-body wrap"><div class="bk-main">
   {{- $opening := partial "book/first-sentence.html" $first }}
-  {{- with $p.featured_quote }}{{ $opening = . }}{{ end }}
+  {{- /* a featured quote is used only if it is really in the book: some Stage One records hold the editor's blurb there */}}
+  {{- with $p.featured_quote }}{{ $q := . }}{{ $probe := substr (replaceRE `\s+` " " $q) 0 40 }}{{ range $chapters }}{{ if strings.Contains (replaceRE `\s+` " " .Plain) $probe }}{{ $opening = $q }}{{ end }}{{ end }}{{ end }}
   {{- with $opening }}
-  <section class="bk-sec" aria-labelledby="h-first"><h2 class="bk-h" id="h-first">How it begins</h2>
+  <section class="bk-sec" aria-labelledby="h-first"><h2 class="bk-h" id="h-first">From its opening pages</h2>
     <blockquote class="ed-first"><p>{{ . }}</p><footer>{{ $b.author }}, <i>{{ $b.cover_title }}</i>{{ with $first.Params.printed_start_folio }}, p.&#8201;{{ . }}{{ end }}</footer></blockquote>
   </section>
   {{- end }}
@@ -83,7 +84,7 @@
   </section>
   <section class="bk-card bk-ed-card" aria-labelledby="h-ed"><h2 class="bk-h" id="h-ed">This edition</h2><dl class="bk-facts">
     <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
-    {{- with $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
+    {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
     {{- with $p.tables_count }}<div><dt>Tables</dt><dd>{{ . }}, each given as CSV</dd></div>{{ end }}
     {{- with $p.footnotes_count }}<div><dt>Notes</dt><dd>{{ . }} footnotes, kept where they were printed</dd></div>{{ end }}
     {{- with $archiveID }}<div><dt>Scan</dt><dd><a href="https://archive.org/details/{{ . }}">{{ . }}</a>, Internet Archive</dd></div>{{ end }}
