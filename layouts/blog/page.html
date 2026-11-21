@@ -1,15 +1,14 @@
 {{ define "main" }}
-<article class="journal">
-  <div class="sheet"><div class="col">
-    <header class="art-head">
-      <span class="kicker"><a href="/blog/">The Journal</a>&ensp;·&ensp;{{ .Date.Format "2 January 2006" }}</span>
-      <h1>{{ .Title }}</h1>
-      {{- with .Description }}<p class="dek">{{ . }}</p>{{ end }}
-    </header>
-    <div class="prose">{{ .Content }}</div>
-    <footer class="post-foot"><p class="sig"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span> Bhuvan</p>
-      <nav class="chap-nav" aria-label="Journal">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><span class="tc">Later</span>{{ .Title }}</a>{{ end }}{{ with .NextInSection }}<a class="cn-next" href="{{ .RelPermalink }}"><span class="tc">Earlier</span>{{ .Title }}</a>{{ end }}</nav>
-    </footer>
-  </div></div>
+<article class="wrap su">
+  <header class="pg-h">
+    <p class="up"><a href="/blog/">The Journal</a> · {{ .Date.Format "2 January 2006" }}</p>
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}<p class="dek">{{ . }}</p>{{ end }}
+  </header>
+  <div class="pg-body prose">{{ .Content }}</div>
+  <footer class="post-foot">
+    <p class="sig"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span> Bhuvan</p>
+    <nav class="pager" aria-label="Journal">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><small>Later</small><b>{{ .Title }}</b></a>{{ end }}{{ with .NextInSection }}<a href="{{ .RelPermalink }}"><small>Earlier</small><b>{{ .Title }}</b></a>{{ end }}</nav>
+  </footer>
 </article>
 {{ end }}
