@@ -448,3 +448,40 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   its own components on top. It may choose its own cloth colours as new shelf classes; it keeps white
   paper, Newsreader, the plate, the hairline and the banned list. If it needs to break a rule here, change
   the rule here first, with a DECISIONS entry, so the family stays one family.
+
+## 12. Sister imprints: the living book
+
+Approved by the owner on 21 November 2026, from the living-book mock (design_mocks/directions/15-living-book-plate/, published privately as version 11).
+
+A sister imprint is a publication of the house that is not a library book: the living books now, a review later. It belongs to the house by everything below the ink, is recognised as a living book by its shape, and each book is told from the others by its own ink.
+
+**Shared with the library, without change**
+- White paper; the three text inks and the hairline; Newsreader for every word, Noto Serif Kannada for the mark.
+- The house masthead (mark centred, the library's ways in either side, one hairline) and the colophon (device, name, gloss, the one sentence, the ways back in, the last line).
+- One heading for every section: the name, a quiet aside, one hairline. (The living book sets the aside upright; see italic, below.)
+- Engravings and devices printed through a mask in one ink on one pale paper.
+- **Charts** (proposed for the library too): a figure printed in the book, not a widget. A rule in the ink above, the caption, the drawing on the white page with no box or tint, the source beneath. The thing the text is about in the book's ink, everything else in a quiet warm grey. Names and values in the text's own type and inks, never the data's colour, at 13 to 15px at every width (each chart drawn for each width, never scaled down). Bars in the source's order, names flush left, one hairline baseline, thin square bars, the value at the tip. Lines: hairline guides with the unit on the top one, names at the line ends, crowded ends gathered under one label with a bracket, a thin paper halo on labels among lines. Only the story's values written in; the table beside the chart carries every number.
+- The cover grammar: label at the head, picture or type in the middle, series number and year at the foot.
+- The reading page: bar, progress line, centred opener, about 65 characters to the line, indented paragraphs, old-style figures.
+- The phone rules.
+
+**The imprint's own: recognised by its shape, not its colour**
+- **A title band**: the book's pale paper, the title set large and light, one solid button in the book's ink.
+- **The cover's foot**: a mark for every block, filled where written, and "Living book 1 · 2026–", a series number and an open date, because a living book is never finished.
+- **The three trust marks** at the head of every block (drafted, checked, read), and on the opening page.
+- **The book's own line under the masthead**: its name and its sections. On a phone this line, not the house masthead, is the one that stays at the top.
+- **The colophon opens with one line for the book**, its device printed in the book's ink, then the house's colophon unchanged.
+
+**Each living book has its own ink**
+- As each library book is printed in its shelf's ink, each living book is printed in an ink of its own. One ink for every living book would say only "a living book", never which one.
+- Four inks are kept for living books, each in a hue no shelf uses, at the shelves' quiet strength, about 7:1 against white. They are given out in order:
+  1. Sea green, ink #33635D on paper #E1ECE9 (hue 172°): An Economic History of India.
+  2. Ochre, #655534 on #EDE9E0 (40°).
+  3. Leaf, #366534 on #E1EDE0 (118°).
+  4. Mulberry, #653456 on #EDE0E9 (318°).
+- The ink goes where a library book uses its shelf's ink: link rules, the title band, numerals, marks, the solid button, chart marks, quotation marks, the colophon's device.
+- **Library books keep their shelf's ink inside a living book.** A witness's page and cover are printed in its shelf's ink, so a reader can always tell the book's pages from the library's.
+- **Italic means one thing**: someone else's words or the title of a book. Labels, captions, dates, section asides and the editor's own words are upright. (Proposed for the library too.)
+- **Quotations set apart**: italic, regular weight, in the text's near-black ink, the opening mark hung outside the measure, and the quotation marks alone in the book's ink.
+
+A new living book takes the next reserved ink and changes nothing else. A different kind of sister publication (the review) would keep the house grammar and take a shape of its own, as the living books take the title band and the growing marks.
