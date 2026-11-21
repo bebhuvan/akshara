@@ -149,6 +149,18 @@ source = ""
 page = "38"
 alt = "A sickle with a bound handle."
 
+
+[[group.plate]]
+key = "j1-cart"
+book = "journey-from-madras-vol-i"
+ratio = "1600/972"
+title = "Cart of Mysore"
+italic = false
+detail = "Fig. 11"
+volume = "vol. I"
+source = ""
+page = "121"
+alt = "A bullock cart with a long wicker body on two solid wooden wheels."
 [[group]]
 name = "Wilfred H. Schoff, The Periplus of the Erythræan Sea"
 year = "1912"

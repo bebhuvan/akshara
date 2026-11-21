@@ -1,8 +1,0 @@
-{{- /* A spine: the shelf's cloth, the title running down, the year at the foot. Thickness follows the page
-count (17 + 1.55·√pages px); height varies a little by book, as real books do. */ -}}
-{{- $b := . -}}
-{{- $t := replaceRE `^English Factories in India, ` "English Factories, " (replaceRE `^(The|A|An) ` "" $b.cover_title) -}}
-{{- $w := math.Round (add 17 (mul (math.Sqrt $b.pages) 1.55)) -}}
-{{- $h := index (slice 272 286 300) (mod (hash.FNV32a $b.id) 3) -}}
-<a class="spine" href="{{ $b.url }}" title="{{ $b.title }} · {{ $b.author }}, {{ $b.year }}" style="--cloth:{{ $b.cloth | safeCSS }};--w:{{ $w }}px;--h:{{ $h }}px"><span class="sp-label"><span class="sp-t{{ if gt (len $t) 34 }} two{{ end }}">{{ $t }}</span></span><span class="sp-y">{{ $b.year }}</span></a>
-{{- /**/ -}}

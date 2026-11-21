@@ -5,6 +5,8 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
 {{- $d := index hugo.Data.bookdetails $id | default dict -}}
 
 {{- $title := replaceRE `\s+:` ":" $p.Title -}}
+{{- /* typographer's apostrophes: the pipeline's titles carry straight ones */ -}}
+{{- $title = replace $title "'" "’" -}}
 {{- with $p.Params.subtitle -}}
   {{- with findRESubmatch `^Volume ([IVX]+)\b` . 1 -}}
     {{- if not (strings.Contains $title "Vol.") -}}{{- $title = printf "%s, Vol. %s" $title (index (index . 0) 1) -}}{{- end -}}
@@ -46,6 +48,7 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
   {{- if not $cv.plate -}}{{- errorf "Book %s: a %s cover needs a plate (data/covers.toml)" $id $cv.kind -}}{{- end -}}
   {{- if not (fileExists (printf "static/plates/%s.webp" $cv.plate)) -}}{{- errorf "Book %s: plate %q is not in static/plates/" $id $cv.plate -}}{{- end -}}
 {{- end -}}
+{{- $cover = replace $cover "'" "’" -}}
 {{- $lblTitle := $cv.title | default $cover -}}
 {{- $lblLine := $cv.line | default "" -}}
 {{- if not $cv.title -}}

@@ -41,8 +41,8 @@ plate = "et-coryat"
 inset = "34% -14% 15% -6%"
 
 ["east-india-exchange-currency-1920"]
-kind = "type"
-why = "plate not yet made (device: royal arms on the title page)"
+kind = "device"
+plate = "x-exchange-arms"
 
 ["east-india-trade-17th-century-khan"]
 kind = "type"
@@ -75,32 +75,34 @@ plate = "eic-ship"
 inset = "38% 25% 14% 25%"
 
 ["englands-debt-to-india-lajpat-rai-1917"]
-kind = "type"
-why = "plate not yet made (device: publisher’s device, B. W. Huebsch)"
+kind = "device"
+plate = "x-lajpat-device"
 
 ["english-factories-india-1618-1621-vol-01"]
-kind = "type"
-why = "plate not yet made (map: frontispiece map)"
+kind = "map"
+plate = "x-ef1-map"
 
 ["english-factories-india-1622-1623-vol-02"]
-kind = "type"
-why = "plate not yet made (map: map of Ormus and the strait)"
+kind = "map"
+plate = "x-ef2-ormus"
 
 ["english-factories-india-1624-1629-vol-03"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece: a facsimile letter)"
+kind = "photo"
+plate = "x-ef3-letter"
+inset = "36% 8% 18% 8%"
 
 ["english-factories-india-1630-1633-vol-04"]
-kind = "map"
-plate = "ef4-coast"
+kind = "portrait"
+plate = "x-ef4-portrait"
 
 ["english-factories-india-1634-1636-vol-05"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece photograph of a building)"
+kind = "photo"
+plate = "x-ef5-factory"
+inset = "36% 6% 18% 6%"
 
 ["english-factories-india-1637-1641-vol-06"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece photograph)"
+kind = "photo"
+plate = "x-ef6-tombs"
 
 ["english-factories-india-1642-1645-vol-07"]
 kind = "map"
@@ -111,16 +113,16 @@ kind = "photo"
 plate = "x-ef8-tomb"
 
 ["english-factories-india-1651-1654-vol-09"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece: a Mughal painting)"
+kind = "photo"
+plate = "x-ef9-painting"
 
 ["english-factories-india-1655-1660-vol-10"]
-kind = "type"
-why = "plate not yet made (map: map of the west coast)"
+kind = "map"
+plate = "x-ef10-map"
 
 ["english-factories-india-1661-1664-vol-11"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece portrait)"
+kind = "portrait"
+plate = "x-ef11-portrait"
 
 ["english-factories-india-1665-1667-vol-12"]
 kind = "map"
@@ -136,8 +138,8 @@ kind = "type"
 why = "nothing pictorial in the book"
 
 ["from-akbar-to-aurangzeb"]
-kind = "type"
-why = "plate not yet made (map: two maps of India)"
+kind = "map"
+plate = "x-a2a-map"
 
 ["guide-to-india-office-records-1919"]
 kind = "device"
@@ -154,8 +156,8 @@ kind = "type"
 why = "nothing pictorial in the book"
 
 ["india-at-the-death-of-akbar"]
-kind = "type"
-why = "plate not yet made (map: map of India at Akbar’s death)"
+kind = "map"
+plate = "x-akbar-map"
 
 ["india-what-can-it-teach-us"]
 kind = "type"
@@ -188,8 +190,8 @@ plate = "j3-fish"
 inset = "40% -16% 17% -10%"
 
 ["judicial-revenue-systems-india-rammohun-1832"]
-kind = "type"
-why = "plate not yet made (map: folding map of India)"
+kind = "map"
+plate = "x-rammohun-map"
 
 ["lays-of-ancient-india"]
 kind = "type"
@@ -208,8 +210,8 @@ kind = "type"
 why = "nothing pictorial in the book"
 
 ["modern-religious-movements-india"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece portrait)"
+kind = "portrait"
+plate = "x-farquhar-roy"
 
 ["mughal-administration"]
 kind = "type"
@@ -229,8 +231,8 @@ kind = "type"
 why = "nothing pictorial in the book"
 
 ["people-of-india"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece portrait of Risley)"
+kind = "portrait"
+plate = "x-risley"
 
 ["periplus-erythraean-sea"]
 kind = "plate"
@@ -262,17 +264,17 @@ kind = "type"
 why = "nothing pictorial in the book"
 
 ["speeches-and-writings-naoroji-1918"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece portrait of Naoroji)"
+kind = "portrait"
+plate = "x-naoroji-1918"
 
 ["speeches-writings-sarojini-naidu"]
 kind = "type"
-why = "plate not yet made (photo: frontispiece portrait; the scan is poor, a better copy is needed)"
+why = "a frontispiece portrait exists, but this scan is too poor; a better copy is needed"
 
 ["truth-about-indian-opium"]
-kind = "type"
-why = "plate not yet made (device: royal arms on the title page)"
+kind = "device"
+plate = "x-opium-arms"
 
 ["while-sewing-sandals"]
-kind = "type"
-why = "plate not yet made (photo: frontispiece photograph of a village scene)"
+kind = "photo"
+plate = "x-sandals"

@@ -3,6 +3,8 @@
 # Builds the whole site, then checks every address it has ever served, the data files, and dependencies.
 set -euo pipefail
 cd "$(dirname "$0")"
+echo "== every cover's picture comes from its own book"
+python3 scripts/check_covers.py
 echo "== build"
 scripts/build.sh
 echo "== every known address still works"

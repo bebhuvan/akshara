@@ -15,7 +15,7 @@ from data attributes (no inline script, D4). */ -}}
 {{- $turn := slice -}}
 {{- range $home.turning -}}
   {{- $pl := partial "plate/get.html" .plate -}}{{- $b := partial "book/get.html" $pl.book -}}
-  {{- $turn = $turn | append (dict "src" (printf "/plates/%s.webp" $pl.key) "code" $b.code "title" .title "line" .line "alt" $pl.alt "url" $b.url) -}}
+  {{- $turn = $turn | append (dict "src" (partial "plate/url.html" $pl.key) "code" $b.code "title" .title "line" .line "alt" $pl.alt "url" $b.url) -}}
 {{- end -}}
 {{- $t0 := index $turn 0 -}}
 {{- $first := index $home.turning 0 -}}
@@ -71,7 +71,7 @@ range of the library, newest series numbers first. */ -}}
       <div class="feat-links"><a class="readon" href="{{ $featFirst.RelPermalink }}">Read chapter I <span aria-hidden="true">→</span></a><a class="q" href="{{ $feat.url }}">The volume, its contents and plates</a></div>
       <div class="feat-plates">
         {{- range $f.plates }}{{ $pl := partial "plate/get.html" .plate }}{{ $pb := partial "book/get.html" $pl.book }}
-        <figure class="{{ $pb.code }}"><div class="tile"><i class="plate" style="--src:url(/plates/{{ $pl.key }}.webp)" role="img" aria-label="{{ $pl.alt }}"></i></div><figcaption>{{ .caption | default $pl.title }}</figcaption></figure>
+        <figure class="{{ $pb.code }}"><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" $pl.key }})" role="img" aria-label="{{ $pl.alt }}"></i></div><figcaption>{{ .caption | default $pl.title }}</figcaption></figure>
         {{- end }}
       </div>
     </div>
@@ -84,7 +84,7 @@ range of the library, newest series numbers first. */ -}}
   <p class="sec-lede">Engravings, woodcuts and devices printed in these books, each cleaned from its own page and printed in the ink of its shelf. Each one opens the book it came from.</p>
   <div class="smalls">
     {{- range $home.cabinet }}{{ $pl := partial "plate/get.html" . }}{{ $b := partial "book/get.html" $pl.book }}
-    <a class="{{ $b.code }}" href="{{ $b.url }}"><div class="tile"><i class="plate" style="--src:url(/plates/{{ $pl.key }}.webp)" role="img" aria-label="{{ $pl.alt }}"></i></div><span><b>{{ if $pl.italic }}<i>{{ $pl.title }}</i>{{ else }}{{ $pl.title }}{{ end }}</b>{{ partial "plate/source.html" (dict "plate" $pl "book" $b) }}</span></a>
+    <a class="{{ $b.code }}" href="{{ $b.url }}"><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" $pl.key }})" role="img" aria-label="{{ $pl.alt }}"></i></div><span><b>{{ if $pl.italic }}<i>{{ $pl.title }}</i>{{ else }}{{ $pl.title }}{{ end }}</b>{{ partial "plate/source.html" (dict "plate" $pl "book" $b) }}</span></a>
     {{- end }}
   </div>
 </section>
