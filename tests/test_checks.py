@@ -25,7 +25,7 @@ class Urls(unittest.TestCase):
         self.assertEqual(check_urls.normalise("/index.xml"), "/index.xml")
 
     def test_redirect_rules_are_read(self):
-        root = site({"_redirects": "# note\n/old/ /new/ 301\n"})
+        root = site({"_redirects": "# note\n/old/ /new/ 301\n/old /new/ 301\n"})
         self.assertEqual(check_urls.read_redirects(root), {"/old/": "/new/"})
 
     def test_malformed_redirect_stops_the_build(self):
@@ -33,6 +33,11 @@ class Urls(unittest.TestCase):
             root = site({"_redirects": bad + "\n"})
             with self.assertRaises(SystemExit, msg=bad):
                 check_urls.read_redirects(root)
+
+    def test_rule_without_slashless_twin_stops_the_build(self):
+        root = site({"_redirects": "/old/ /new/ 301\n"})
+        with self.assertRaises(SystemExit):
+            check_urls.read_redirects(root)
 
     def test_has_page(self):
         root = site({"index.html": "", "books/x/index.html": ""})
