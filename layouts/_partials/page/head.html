@@ -24,7 +24,11 @@
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="{{ $cardAlt }}">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="theme-color" content="#FFFFFF">
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17181A" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
+{{- $paper := resources.Get "js/paper.js" | minify | fingerprint }}
+<script src="{{ $paper.RelPermalink }}" integrity="{{ $paper.Data.Integrity }}"></script>
 <link rel="icon" href="/favicon.ico" sizes="32x32">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">

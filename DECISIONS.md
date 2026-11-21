@@ -269,3 +269,17 @@ step outside the build, so the cards can never fall out of date with the covers.
 
 **Rejected.** Screenshots of a card page with a headless browser (a browser in CI, or 64 committed images
 that drift); an image library in a script (a dependency for what the build can do).
+
+## D22: Dark mode follows the device; the reading room's Paper can override it (2026-11-21)
+
+**Decided.** The whole site has a dark version: a deep neutral paper (`#17181A`), light inks, and for each
+shelf a dark ground and an ink lifted toward the light so the plates still read (every shelf ink at least
+5.5:1 on its ground). It follows the device's light or dark setting and changes with it. The reading room's
+Paper setting (Day, Cotton, Night, and Auto, which follows the device) is kept on the device and applies to
+every page. A small script in the page's head (`assets/js/paper.js`, self-hosted, so D4 holds) sets
+`<html data-theme>` before the page is drawn, so a chosen paper never flashes white. Only tokens change in
+dark mode; on dark paper the solid Begin reading block becomes a deep tint of the ink. Photographs of pages
+are dimmed a little; the books' own figures in the text are printed light on dark.
+
+**Rejected.** A `prefers-color-scheme` media query alone: it cannot honour a reader's chosen paper on every
+page. A toggle in the masthead: one more control for something the device already decides.

@@ -171,12 +171,12 @@
     var DEFAULTS = { lh: "normal", width: "medium", notes: "margin", para: "indented", align: "ragged", folios: "shown" };
     function apply() {
       Object.keys(DEFAULTS).forEach(function (k) { read.dataset[k] = store.get("ak-" + k) || DEFAULTS[k]; });
-      body.dataset.paper = store.get("ak-paper") || "day";
+      if (window.akPaper) window.akPaper();
       var sz = Math.max(0, Math.min(5, parseInt(store.get("ak-size") || "2", 10)));
       read.style.setProperty("--rs", String(1 + (sz - 2) * 0.075));
       $$("[data-sz]", panel).forEach(function (b) { b.setAttribute("aria-pressed", String(+b.dataset.sz === sz)); });
       $$("[data-set]", panel).forEach(function (b) {
-        var now = b.dataset.set === "paper" ? body.dataset.paper : read.dataset[b.dataset.set];
+        var now = b.dataset.set === "paper" ? document.documentElement.dataset.paper : read.dataset[b.dataset.set];
         b.setAttribute("aria-pressed", String(now === b.dataset.val));
       });
     }

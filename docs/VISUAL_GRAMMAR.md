@@ -97,10 +97,14 @@ inherits `--g` and `--k`. Never write a shelf's colour as a raw value.
 - **May not:** the header, the footer (the device prints in a neutral grey), body text, large flat bands
   of saturated colour, gradients, or more than one shelf's colour behind any one block.
 
-### Dark mode *(to be confirmed in milestone 4)*
-`--paper` becomes a deep neutral, the inks lighten, each shelf's `--g` darkens to a ground a step above the
-paper and its `--k` lifts toward the light (every shelf ink at least 5.5:1 on its ground). Defined by
-redefining the same tokens, never in a component. The reading room's Night paper uses them now.
+### Dark mode
+Under `html[data-theme="dark"]` (set by `assets/js/paper.js` from the device's setting or the reader's
+chosen paper, D22) the same tokens are redefined: `--paper` becomes a deep neutral, the inks lighten, each
+shelf's `--g` darkens to a ground a step above the paper and its `--k` lifts toward the light (every shelf
+ink at least 5.5:1 on its ground). A component never writes dark colours of its own; the only dark-specific
+rules are: the solid Begin reading block becomes a deep tint of the ink (a slab of light ink shouts on dark
+paper), photographs of pages are dimmed a little, and the books' own figures in the text are inverted to
+print light on dark. Cotton (`html[data-paper="cotton"]`) is a warm light paper for readers who ask for it.
 
 ---
 
