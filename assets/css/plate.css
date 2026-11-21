@@ -899,3 +899,6 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
   .op-plate { max-width: 60mm; }
   .row .shelf, .sh, .pl-group, .feature, .made, .strip, .smalls, #chapter-text .archival-plate { content-visibility: visible; }
 }
+/* headings that are links get room to tap without changing how they sit */
+.row-h h2 a, .jl h2 a, .auth h2 a { display: inline-block; padding: 11px 0; margin: -11px 0; }
+.feat-links .q { padding: 14px 0 4px; }
