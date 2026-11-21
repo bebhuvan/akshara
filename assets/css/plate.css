@@ -612,3 +612,227 @@ table.ledger .n { text-align: right; }
   .strip { grid-auto-columns: calc((100% - var(--gut) - var(--gut-r) - 36px) / 4); max-width: 1240px; margin: 0 auto; }
   .edition { grid-template-columns: 1.4fr 1fr; gap: 56px; }
 }
+
+/* ---------- Reading page ---------- */
+/* One calm column. By default: 19px type on a phone and 20px on a wider screen, about 65 characters to the
+   line, indented paragraphs, the author's marginal notes in the left margin and the printed page numbers in
+   the right one. Every one of these is the reader's to change in the panel (Aa). */
+.read { --rs: 1; --lh: 1.62; --measure: 33em; --note-w: 168px; --note-gap: 30px; --folio-w: 3.4em; }
+.read[data-lh="close"] { --lh: 1.48; }
+.read[data-lh="open"] { --lh: 1.82; }
+.read[data-width="narrow"] { --measure: 28em; }
+.read[data-width="wide"] { --measure: 39em; }
+/* The bar: the way back to the book, then Contents, Aa and Focus. It slides away while reading down and
+   comes back on the first move up. A hairline beneath fills with the book's ink as the chapter is read. */
+.rd-bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 15; background: var(--paper); border-bottom: 1px solid var(--hair); transition: transform .28s ease, opacity .4s ease; }
+.rd-bar.rbar-away { transform: translateY(-110%); }
+.rd-bar.rbar-away:focus-within { transform: none; }
+.rd-bar .wrap { height: 52px; display: flex; align-items: center; justify-content: space-between; gap: 12px; font-size: var(--fs-aside); color: var(--ink-2); }
+.rd-bar .back { display: flex; gap: 10px; align-items: center; min-width: 0; min-height: 44px; }
+.rd-bar .back .kn { color: var(--k); font-size: var(--fs-mark-kn); line-height: 1; }
+.rd-bar .back span:last-child { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-style: italic; }
+.rd-bar .back:hover span:last-child { color: var(--ink); }
+.rd-bar .tools { display: flex; align-items: center; gap: 18px; flex: none; }
+.rd-bar .tools a, .rd-bar .tools button { display: inline-flex; align-items: center; min-height: 44px; color: var(--ink-2); font-size: var(--fs-aside); }
+.rd-bar .tools a:hover, .rd-bar .tools button:hover, .rd-bar .tools [aria-pressed="true"] { color: var(--ink); }
+.rd-bar .tools [data-open="rp-settings"] span:first-child { font-size: 17px; letter-spacing: .01em; }
+.progress { height: 2px; background: transparent; position: absolute; left: 0; right: 0; bottom: -1px; }
+.progress i { display: block; height: 100%; background: var(--k); transform-origin: left; transform: scaleX(var(--p, 0)); }
+body.focus .ft { display: none; }
+body.focus .rd-bar { opacity: 0; }
+body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
+/* A chapter opens the way a printed one does: a headpiece engraving in the book's ink, the chapter's number
+   and title centred over the text column, where it comes from, then a short rule. */
+.opener { padding: 40px var(--gut-r) 0 var(--gut); }
+.op-in { max-width: 30em; margin: 0 auto; text-align: center; display: grid; justify-items: center; font-size: var(--fs-read); }
+.op-plate { width: 72%; max-width: 320px; aspect-ratio: 16 / 10; }
+.op-mark { font-size: 22px; color: var(--k); }
+.op-in .ch { margin-top: 24px; font-size: var(--fs-lede); font-style: italic; color: var(--k); }
+.op-in h1 { margin-top: 6px; font-weight: 300; font-size: clamp(28px, 8vw, 42px); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 15em; }
+.op-in .meta { margin-top: 16px; font-size: var(--fs-note); line-height: 1.5; color: var(--ink-3); max-width: 26em; text-wrap: balance; }
+.op-in .meta::after { content: ""; display: block; width: 40px; height: 1px; margin: 26px auto 0; background: color-mix(in srgb, var(--k) 50%, transparent); }
+/* The text: old-style figures where the face has them, small capitals only on the chapter's first line,
+   indented paragraphs, and the book's own marks (notes, folios, tables, plates) kept as a book keeps them. */
+.text { position: relative; box-sizing: content-box; max-width: var(--measure); margin: 0 auto; padding: 34px var(--gut-r) 0 var(--gut);
+  font-size: calc(var(--fs-read) * var(--rs)); line-height: var(--lh); font-variant-numeric: oldstyle-nums proportional-nums;
+  font-variation-settings: "opsz" 16; hanging-punctuation: first; }
+.text p { text-wrap: pretty; }
+.read[data-align="justified"] .text p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
+#chapter-text .prose-unit { position: relative; }
+.read[data-para="indented"] #chapter-text .prose-unit + .prose-unit .prose-p,
+.read[data-para="indented"] .text-v1 p + p { text-indent: 1.5em; }
+.read[data-para="spaced"] #chapter-text .prose-unit + .prose-unit,
+.read[data-para="spaced"] .text-v1 p + p { margin-top: .9em; }
+#chapter-text .prose-unit + .verse-stanza, #chapter-text .verse-stanza + .prose-unit { margin-top: .9em; }
+#chapter-text .prose-unit:not(.prose-unit ~ .prose-unit) .prose-p::first-line { font-variant: small-caps; letter-spacing: .04em; }
+#chapter-text .sc { font-variant: small-caps; letter-spacing: .03em; }
+#chapter-text .sec-h1 { margin: 2.6em 0 .3em; text-align: center; font-size: 1em; font-style: italic; color: var(--k); clear: both; }
+#chapter-text .sec-h2 { margin: 0 0 1.4em; text-align: center; font-weight: 300; font-size: 1.3em; line-height: 1.25; text-wrap: balance; }
+#chapter-text .sec-h3 { margin: 2.2em 0 .8em; font-size: 1.05em; font-style: italic; }
+#chapter-text h2 + .prose-unit .prose-p, #chapter-text h3 + .prose-unit .prose-p { text-indent: 0 !important; }
+/* Marginal notes: the author's shoulder notes, in the book's ink, above their paragraph on a phone. */
+#chapter-text .sidenote-stack { display: block; margin: 1.5em 0 .35em; font-size: var(--fs-note); line-height: 1.35; font-style: italic; color: var(--k); text-indent: 0; }
+#chapter-text .shoulder-sidenote { display: block; }
+#chapter-text .shoulder-sidenote + .shoulder-sidenote { margin-top: .4em; }
+.read[data-notes="off"] #chapter-text .sidenote-stack { display: none; }
+/* Page numbers: the printed folios, faint, each opening the camera's photograph of that page. */
+#chapter-text .page-rail-marker { height: 0; }
+#chapter-text .folio-trigger { position: absolute; right: calc(-1 * var(--gut-r) + 3px); padding: 0; margin-top: .45em; font: italic 11px/1 var(--serif); color: var(--ink-3);
+  font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; text-indent: 0; letter-spacing: 0; cursor: pointer; }
+#chapter-text .folio-trigger:hover, #chapter-text .folio-trigger[aria-expanded="true"] { color: var(--k); text-decoration: underline; text-underline-offset: 3px; }
+.read[data-folios="hidden"] #chapter-text .folio-trigger { display: none; }
+/* Footnote marks and the notes at the end of the chapter. */
+#chapter-text sup.fn-ref { line-height: 0; }
+#chapter-text sup.fn-ref a { color: var(--k); font-size: .78em; padding: 0 .12em; }
+#chapter-text .apparatus-zone { margin-top: 3em; padding-top: .9em; font-size: var(--fs-aside); line-height: 1.5; position: relative; clear: both; text-indent: 0; }
+#chapter-text .apparatus-zone::before { content: ""; position: absolute; top: 0; left: 0; width: 40px; border-top: 1px solid color-mix(in srgb, var(--k) 50%, transparent); }
+#chapter-text .apparatus-heading { font-size: var(--fs-ui); font-style: italic; color: var(--ink-2); margin: 0 0 .7em; font-weight: 400; }
+#chapter-text .apparatus-list { list-style: none; margin: 0; padding: 0; }
+#chapter-text .apparatus-item { padding-left: 1.8em; text-indent: -1.8em; margin-bottom: .45em; }
+#chapter-text .fn-backlink { display: inline-block; width: 1.8em; text-indent: 0; color: var(--k); }
+#chapter-text .apparatus-item:target { background: color-mix(in srgb, var(--g) 70%, transparent); }
+/* Tables, set as printed, with their data on one line beneath. */
+#chapter-text .ledger-table-block { display: flex; flex-direction: column; margin: 1.6em 0 1.8em; clear: both; text-indent: 0; }
+#chapter-text .table-toolbar { order: 2; display: flex; flex-wrap: wrap; gap: .2em 1.2em; margin-top: .6em; font-size: var(--fs-note); color: var(--ink-2); font-style: italic; }
+#chapter-text .table-csv-links a { color: var(--k); font-style: normal; }
+#chapter-text .table-csv-links a::after { content: "\00A0\2193"; }
+#chapter-text .ledger-table-wrap { overflow-x: auto; }
+#chapter-text .ledger-table { border-collapse: collapse; font-variant-numeric: lining-nums tabular-nums; border-top: 1px solid var(--k); border-bottom: 1px solid var(--k);
+  font-size: .8em; line-height: 1.35; min-width: 60%; }
+#chapter-text .ledger-table th, #chapter-text .ledger-table td { padding: .25em .9em .25em 0; vertical-align: baseline; text-align: left; font-weight: 400; }
+#chapter-text .ledger-table th { font-style: italic; color: var(--k); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
+#chapter-text .ledger-table td.num { text-align: right; }
+#chapter-text .ledger-table tr.row-total td, #chapter-text .ledger-table tr.row-subtotal td { border-top: 1px solid var(--ink-3); font-style: italic; }
+#chapter-text .ledger-table tr.row-subheader td { font-style: italic; color: var(--ink-2); padding-top: .6em; }
+/* The book's own figures, its verse, uncertain readings, indexes and printed contents. */
+#chapter-text .archival-plate { margin: 2em 0 2.2em; clear: both; text-indent: 0; }
+#chapter-text .archival-plate img { display: block; width: 100%; mix-blend-mode: multiply; filter: brightness(1.06) contrast(1.1); }
+#chapter-text .archival-plate figcaption { margin-top: .8em; font-size: var(--fs-note); line-height: 1.4; color: var(--ink-2); font-style: italic; text-align: center; }
+#chapter-text .verse-stanza { margin: 1.2em 0 1.4em 2em; line-height: 1.55; text-indent: 0; }
+#chapter-text .epigraph-block { margin: 1.4em 0 1.6em 2em; font-size: .92em; font-style: italic; color: var(--ink-2); text-indent: 0; }
+#chapter-text .unclear { text-decoration: underline dotted color-mix(in srgb, var(--k) 50%, transparent); text-underline-offset: .22em; cursor: help; }
+#chapter-text .index-entry { padding-left: 1.6em; text-indent: -1.6em !important; margin: 0 !important; font-size: .9em; line-height: 1.45; }
+#chapter-text .printed-toc-line { margin: .15em 0 !important; font-size: .95em; text-indent: 0 !important; }
+#chapter-text .imprint-line { text-align: center; margin: .4em 0 !important; text-indent: 0 !important; }
+#chapter-text .editorial-list { padding-left: 1.4em; font-size: .95em; }
+#chapter-text .missing-figure { margin: 1.4em 0; font-size: var(--fs-note); color: var(--ink-2); text-align: center; font-style: italic; text-indent: 0; }
+#chapter-text blockquote { margin: 1.1em 0 1.1em 1.6em; }
+#chapter-text img { max-width: 100%; height: auto; }
+::highlight(find) { background-color: color-mix(in srgb, var(--k) 25%, transparent); }
+/* The end of a chapter: a short rule, then the way on and the way back, as quiet as a running foot. */
+.chap-end { box-sizing: content-box; max-width: var(--measure); margin: 0 auto; padding: 0 var(--gut-r) 0 var(--gut); font-size: calc(var(--fs-read) * var(--rs)); }
+.chap-end .end { margin-top: 2.6em; display: grid; justify-items: center; gap: 10px; font-size: var(--fs-note); font-style: italic; color: var(--ink-3); }
+.chap-end .end::before { content: ""; width: 40px; height: 1px; background: color-mix(in srgb, var(--k) 50%, transparent); }
+.chap-nav { margin-top: 28px; display: grid; border-top: 1px solid var(--hair); }
+.chap-nav a { display: grid; gap: 3px; padding: 18px 0; border-bottom: 1px solid var(--hair); }
+.chap-nav small { font-size: var(--fs-note); font-style: italic; color: var(--k); }
+.chap-nav b { font-weight: 400; font-size: var(--fs-h4); line-height: 1.25; letter-spacing: -0.005em; }
+.chap-nav a:hover b { color: var(--k); }
+.chap-nav .on { order: -1; }
+.chap-nav .on b { font-size: 23px; }
+.chap-more { margin-top: 14px; }
+.chap-proof { margin-top: 6px; font-size: var(--fs-aside); font-style: italic; color: var(--ink-2); }
+.chap-proof a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
+
+/* The panel: settings and contents, sliding in from the right. Choices are words, A's and small sheets of
+   paper; the chosen one in full ink with a short rule beneath in the book's ink. */
+.rpanel { position: fixed; top: 0; right: 0; bottom: 0; z-index: 40; width: min(23rem, 92vw); display: flex; flex-direction: column;
+  background: var(--paper); color: var(--ink); border-left: 1px solid var(--hair); box-shadow: -24px 0 40px -36px rgba(var(--shadow), .5);
+  transform: translateX(102%); visibility: hidden; transition: transform .32s cubic-bezier(.2,.7,.2,1), visibility 0s linear .32s; font-size: var(--fs-ui); }
+.rpanel.open { transform: none; visibility: visible; transition: transform .32s cubic-bezier(.2,.7,.2,1); }
+.rpanel:focus { outline: none; }
+.rp-head { display: flex; justify-content: space-between; align-items: baseline; gap: 16px; padding: 18px 22px 14px; border-bottom: 1px solid var(--hair); }
+.rp-head p { font-size: var(--fs-ui); line-height: 1.35; }
+.rp-head p span { display: block; color: var(--ink-2); font-size: var(--fs-note); }
+.rp-close, .close-leaf { min-height: 44px; color: var(--k); font-style: italic; font-size: var(--fs-aside); }
+.rp-tabs { display: flex; gap: 26px; padding: 0 22px; border-bottom: 1px solid var(--hair); }
+.rp-tabs button { min-height: 44px; padding: 12px 0 10px; margin-bottom: -1px; font-size: var(--fs-ui); color: var(--ink-2); border-bottom: 2px solid transparent; }
+.rp-tabs button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+.rp-body { flex: 1; overflow-y: auto; padding: 6px 22px 32px; overscroll-behavior: contain; }
+.rp-sec[hidden] { display: none; }
+.rs-row { display: grid; grid-template-columns: 6.6rem minmax(0, 1fr); align-items: baseline; gap: 10px; padding: 12px 0; }
+.rs-k { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.rs-opts { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 18px; }
+.rs-opts button { position: relative; min-height: 40px; padding: 8px 0; font-size: var(--fs-ui); line-height: 1.2; color: var(--ink-3); }
+.rs-opts button:hover, .rs-opts button[aria-pressed="true"] { color: var(--ink); }
+.rs-opts button[aria-pressed="true"]::after { content: ""; position: absolute; left: 0; right: 0; bottom: 4px; border-top: 2px solid var(--k); }
+.rs-size .rs-opts { flex-wrap: nowrap; gap: 0; justify-content: space-between; }
+.rs-size button { flex: 1 1 0; text-align: center; }
+.rs-size button:nth-child(1) { font-size: 13px; } .rs-size button:nth-child(2) { font-size: 15px; } .rs-size button:nth-child(3) { font-size: 17.5px; }
+.rs-size button:nth-child(4) { font-size: 20.5px; } .rs-size button:nth-child(5) { font-size: 23.5px; } .rs-size button:nth-child(6) { font-size: 27px; }
+.rs-size button[aria-pressed="true"]::after { left: 26%; right: 26%; }
+.rs-paper { align-items: start; }
+.rs-sheets { display: flex; gap: 16px; }
+.rs-sheets button { position: relative; display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 0 0 10px; font-size: var(--fs-note); color: var(--ink-3); }
+.pp-sheet { display: flex; align-items: center; justify-content: center; width: 48px; height: 62px; font-size: 17px; box-shadow: 0 0 0 1px rgba(30,29,27,.18), 0 6px 10px -8px rgba(30,29,27,.45); }
+.pp-day .pp-sheet { background: #FFFFFF; color: #1E1D1B; }
+.pp-cotton .pp-sheet { background: #F5F1E8; color: #1E1D1B; }
+.pp-night .pp-sheet { background: #17181A; color: #E6E2DA; }
+.rs-sheets button[aria-pressed="true"] { color: var(--ink); }
+.rs-sheets button[aria-pressed="true"]::after { content: ""; position: absolute; left: 26%; right: 26%; bottom: 0; border-top: 2px solid var(--k); }
+.rs-more { margin-top: 10px; border-top: 1px solid var(--hair); }
+.rs-more summary { list-style: none; cursor: pointer; min-height: 44px; padding: 14px 0 6px; font-size: var(--fs-aside); font-style: italic; color: var(--k); }
+.rs-more summary::-webkit-details-marker { display: none; }
+.rs-more summary::after { content: "\00A0\00A0+"; font-style: normal; }
+.rs-more[open] summary::after { content: "\00A0\00A0\2212"; }
+.rp-note { margin-top: 22px; padding-top: 14px; border-top: 1px solid var(--hair); font-size: var(--fs-note); line-height: 1.5; font-style: italic; color: var(--ink-2); }
+.rp-note b { font-style: normal; color: var(--ink); font-weight: 400; }
+@media (hover: none) { .rp-keys, .rp-find-key { display: none; } }
+.rp-find { position: relative; margin: 16px 0 6px; }
+.rp-find input { width: 100%; font: italic 300 var(--fs-body)/1.3 var(--serif); color: var(--ink); background: transparent; border: 0; border-bottom: 1px solid var(--ink-2);
+  border-radius: 0; padding: 10px 1.6em 8px 0; -webkit-appearance: none; appearance: none; }
+.rp-find input:focus { outline: none; border-bottom: 2px solid var(--ink); }
+.rp-find input::placeholder { color: var(--ink-3); }
+.rp-find-key { position: absolute; right: 0; bottom: 12px; font-size: var(--fs-caption); color: var(--ink-3); border: 1px solid var(--hair); padding: 0 6px; line-height: 1.5; }
+.rp-find input:focus + .rp-find-key, .rp-find input:not(:placeholder-shown) + .rp-find-key { display: none; }
+.rp-find-tally { margin: 10px 0 4px; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.rp-find-out { list-style: none; padding: 0; }
+.rp-find-out a { display: grid; gap: 2px; padding: 10px 0; border-bottom: 1px solid var(--hair); }
+.rp-find-out .rf-t { font-size: var(--fs-ui); color: var(--ink); }
+.rp-find-out .rf-x { font-size: var(--fs-note); line-height: 1.45; color: var(--ink-2); }
+.rpanel #rtoc ol { list-style: none; margin: 10px 0 0; padding: 0; }
+.rpanel #rtoc a { display: grid; grid-template-columns: 2.2em 1fr auto; gap: 8px; padding: 10px 0; font-size: var(--fs-aside); line-height: 1.35; border-bottom: 1px solid var(--hair); }
+.rpanel #rtoc a:hover, .rpanel #rtoc a[aria-current] { color: var(--k); }
+.rpanel #rtoc .rn { color: var(--k); font-style: italic; }
+.rpanel #rtoc .pg { color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.rp-scrim { position: fixed; inset: 0; z-index: 39; background: rgba(var(--shadow), .1); }
+/* The scan leaf: the camera's photograph of the page, beside the text. */
+.leaf { position: fixed; top: 0; right: 0; bottom: 0; z-index: 30; width: min(28rem, 100vw); background: var(--paper); border-left: 1px solid var(--hair);
+  visibility: hidden; transform: translateX(102%); transition: transform .32s cubic-bezier(.2,.7,.2,1); display: flex; flex-direction: column; padding: 14px 22px 18px; }
+.leaf.open { transform: none; visibility: visible; box-shadow: -18px 0 40px -30px rgba(var(--shadow), .45); }
+.leaf header { display: flex; justify-content: space-between; align-items: center; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.leaf header b { color: var(--k); font-weight: 400; font-style: normal; font-size: var(--fs-h4); margin-left: 4px; }
+.leaf .leaf-img { flex: 1; overflow: auto; margin-top: 8px; box-shadow: 0 0 0 1px var(--hair); background: #F2EEE6; }
+.leaf .leaf-img img { width: 100%; height: auto; display: block; }
+.leaf .stand { font-size: var(--fs-caption); color: var(--ink-2); margin-top: 10px; line-height: 1.45; font-style: italic; }
+@media (min-width: 760px) {
+  .text, .chap-end { font-size: calc(var(--fs-read-wide) * var(--rs)); }
+  .op-in { font-size: var(--fs-read-wide); }
+  /* The column keeps room on its left for the marginal notes and on its right for the page numbers. */
+  .text, .chap-end { max-width: min(var(--measure), calc(100vw - var(--gut) - var(--gut-r) - var(--note-w) - var(--note-gap) - 4.5em));
+    padding-left: 0; padding-right: 0; margin-left: max(calc(var(--gut) + var(--note-w) + var(--note-gap)), calc((100vw - var(--measure)) / 2)); margin-right: auto; }
+  .read[data-notes="off"] .text, .read[data-notes="off"] .chap-end { margin-left: max(var(--gut), calc((100vw - var(--measure)) / 2)); max-width: min(var(--measure), calc(100vw - var(--gut) - var(--gut-r) - 4.5em)); }
+  #chapter-text .sidenote-stack { position: absolute; left: calc(-1 * (var(--note-w) + var(--note-gap))); width: var(--note-w); margin: .35em 0 0; text-align: right; }
+  #chapter-text .folio-trigger { right: -4.4em; font-size: 12.5px; margin-top: .55em; }
+  .chap-nav { grid-template-columns: 1fr 1fr; gap: 32px; border-top: 0; }
+  .chap-nav a { border-top: 1px solid var(--hair); border-bottom: 0; }
+  .chap-nav .on { order: 2; text-align: right; }
+}
+@media (prefers-reduced-motion: reduce) { .rpanel, .rpanel.open, .leaf, .rd-bar { transition: none; } }
+
+/* ---------- Night ----------
+   The reading room's Night paper (and, from D20, the whole site in a device's dark mode): a deep neutral
+   paper, light inks, and for each shelf a dark ground and an ink lifted toward the light so plates still read. */
+body[data-paper="cotton"] { --paper: #F5F1E8; --well: #ECE7DC; }
+body[data-paper="night"] { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; --ink-2: #ABA69C; --ink-3: #858077; --hair: #2E2F31;
+  --well: #222326; --well-edge: #2E2F31; --on-k: #17181A; --shadow: 0, 0, 0; --g: #26272A; --k: #C9C4BA; }
+body[data-paper="night"] .su { --g: #282D23; --k: #B8C79E; }
+body[data-paper="night"] .ma { --g: #1E2D35; --k: #8EC1D7; }
+body[data-paper="night"] .le { --g: #36262C; --k: #CA9BA9; }
+body[data-paper="night"] .co { --g: #362723; --k: #D3A492; }
+body[data-paper="night"] .cl { --g: #252A3D; --k: #95A0D0; }
+body[data-paper="night"] .vi { --g: #222F2B; --k: #9DC8B7; }
+body[data-paper="night"] .ec { --g: #2D2635; --k: #B49FC6; }
+body[data-paper="night"] .cu { --g: #262B32; --k: #A4B0C1; }
+body[data-paper="night"] #chapter-text .archival-plate img { mix-blend-mode: screen; filter: invert(1) brightness(.85) contrast(1.1); }
+body[data-paper="night"] .leaf .leaf-img { background: #222326; }

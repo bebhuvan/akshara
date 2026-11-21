@@ -168,7 +168,7 @@
       b.setAttribute("aria-expanded", "false");
     });
 
-    var DEFAULTS = { lh: "normal", width: "medium", notes: "off", para: "spaced", align: "ragged", folios: "shown" };
+    var DEFAULTS = { lh: "normal", width: "medium", notes: "margin", para: "indented", align: "ragged", folios: "shown" };
     function apply() {
       Object.keys(DEFAULTS).forEach(function (k) { read.dataset[k] = store.get("ak-" + k) || DEFAULTS[k]; });
       body.dataset.paper = store.get("ak-paper") || "day";
