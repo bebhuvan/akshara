@@ -610,7 +610,9 @@ table.ledger .n { text-align: right; }
 .forms b::after { content: "\00A0\2193"; color: var(--k); font-size: .9em; }
 .forms span { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
 .forms a:hover b { color: var(--k); }
-.record { margin-top: 16px; max-width: 33em; border-top: 1px solid var(--hair); }
+.note-intro { margin-top: 18px; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); }
+.record { margin-top: 14px; max-width: 34em; border-top: 1px solid var(--hair); }
+.record .prose { font-size: var(--fs-ui); }
 .record summary { cursor: pointer; padding: 12px 0; font-size: var(--fs-ui); font-style: italic; color: var(--k); list-style: none; min-height: 44px; }
 .record summary::-webkit-details-marker { display: none; }
 .record summary::after { content: "\00A0\00A0+"; font-style: normal; }
@@ -671,7 +673,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .text { position: relative; box-sizing: content-box; max-width: var(--measure); margin: 0 auto; padding: 34px var(--gut-r) 0 var(--gut);
   font-size: calc(var(--fs-read) * var(--rs)); line-height: var(--lh); font-variant-numeric: oldstyle-nums proportional-nums;
   font-variation-settings: "opsz" 16; hanging-punctuation: first; }
-.text p { text-wrap: pretty; }
+.text p { text-wrap: pretty; hyphens: auto; -webkit-hyphens: auto; hyphenate-limit-chars: 6 3 3; }
 .read[data-align="justified"] .text p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 #chapter-text .prose-unit { position: relative; }
 .read[data-para="indented"] #chapter-text .prose-unit + .prose-unit .prose-p,

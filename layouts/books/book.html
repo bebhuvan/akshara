@@ -158,6 +158,13 @@ shown as two plain lines, in the record's own capitals. */ -}}
         {{- if not $isV1 }}
         <p class="proof">{{ if eq (int ($p.human_verified_pages | default 0)) 0 }}No page of this book has yet been read through by a person. {{ end }}Any one of its pages needs a reader, the scan beside the text, and about five minutes. <a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page <span aria-hidden="true">→</span></a></p>
         {{- end }}
+        {{- with $p.editorial_note_markdown }}
+        {{- $note := . | replaceRE `(?m)^# .*\n+` "" }}
+        {{- $intro := index (split $note "\n## ") 0 }}
+        <div class="note-intro prose">{{ $intro | markdownify }}</div>
+        <details class="record"><summary>The full record of this edition</summary>
+        <div class="prose">{{ strings.TrimPrefix $intro $note | replaceRE `(?m)^## ` "### " | markdownify }}</div></details>
+        {{- end }}
         <dl class="facts-list">
           <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
           {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
@@ -182,17 +189,6 @@ shown as two plain lines, in the record's own capitals. */ -}}
       {{- end }}
     </div>
   </section>
-
-  {{- with $p.editorial_note_markdown }}
-  <section class="sec" aria-labelledby="h-colo">
-    <div class="sec-h"><h2 id="h-colo">A note on this edition</h2></div>
-    {{- $note := . | replaceRE `(?m)^# .*\n+` "" }}
-    {{- $intro := index (split $note "\n## ") 0 }}
-    <div class="prose">{{ $intro | markdownify }}</div>
-    <details class="record"><summary>The full record of this edition</summary>
-    <div class="prose">{{ strings.TrimPrefix $intro $note | replaceRE `(?m)^## ` "### " | markdownify }}</div></details>
-  </section>
-  {{- end }}
 
   <p class="imprint"><b>{{ $b.title }}</b>{{ with $b.subtitle }}{{ . }}. {{ end }}{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}. {{ $b.tier_name }}.</p>
 </div>
