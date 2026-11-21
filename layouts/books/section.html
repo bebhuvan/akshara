@@ -22,7 +22,7 @@
     <section class="shr" style="--cloth:{{ $s.cloth | safeCSS }}" aria-labelledby="sr-{{ $s.slug }}">
       <header class="wrap shr-head"><h2 id="sr-{{ $s.slug }}"><a href="/shelves/{{ $s.slug }}/">{{ $s.name }}</a></h2><p>{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $bs 0).year }}–{{ (index $bs (sub $n 1)).year }}</p></header>
       <div class="shr-run"><ol class="shr-books">
-        {{- range first 18 $bs }}<li><a class="shr-b" href="{{ .url }}">{{ partial "book/cover.html" . }}<span class="shr-cap"><i>{{ .cover_title }}</i><span>{{ .year }}</span></span></a></li>{{ end }}
+        {{- range first 18 $bs }}<li><a class="shr-b" href="{{ .url }}" title="{{ .title }}">{{ partial "book/cover.html" . }}<span class="shr-cap">{{ .author }}<span>{{ .year }}</span></span></a></li>{{ end }}
         {{- if gt $rest 0 }}<li class="shr-more"><a href="/shelves/{{ $s.slug }}/">and {{ partial "words.html" $rest }} more on this shelf</a></li>{{ end }}
       </ol></div>
     </section>
