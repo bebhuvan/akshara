@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# The one check to run before saying anything is done, and what CI runs on every push.
+# Builds the whole site, then checks every address it has ever served, the data files, and dependencies.
+set -euo pipefail
+cd "$(dirname "$0")"
+echo "== build"
+scripts/build.sh
+echo "== every known address still works"
+python3 scripts/check_urls.py public
+echo "== Python scripts compile"
+python3 -m py_compile scripts/check_urls.py scripts/sync_from_pipeline.py
+echo "== dependency audit"
+npm audit --omit=optional --audit-level=high
+echo "verify: all checks passed"

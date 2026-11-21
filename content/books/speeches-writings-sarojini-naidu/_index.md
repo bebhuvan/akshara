@@ -27,7 +27,7 @@ digitized_from: "Archive.org (Digital Library of India)"
 digitization_method: "OCR with manual correction"
 digitization_notes: "Text extracted using LLM-based OCR from archival scans. First edition published in 1918 by G.A. Natesan & Co., Madras."
 cascade:
-  - _target:
+  - target:
       kind: "page"
     type: "chapters"
 edition_generation: "v1"

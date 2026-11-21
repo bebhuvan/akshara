@@ -28,7 +28,7 @@ digitized_from: "Archive.org (Google Books scan)"
 digitization_method: "OCR with manual correction"
 digitization_notes: "Text extracted using LLM-based OCR from the Google Books scan hosted on Archive.org. Original Dutch work published in 1743; this English translation by Major Heber Drury published in 1862."
 cascade:
-  - _target:
+  - target:
       kind: "page"
     type: "chapters"
 edition_generation: "v1"
