@@ -99,3 +99,77 @@ the Free plan's 20,000 and 2,000).
 **Why.** 63 books already make 6,648 files, most of them downloads. At a few hundred books the deploy
 would be refused without warning. When the warning comes, move `static/downloads` to GitHub Releases or
 R2 rather than raising the margin.
+
+## D10: The design is "The Plate" (2026-11-21)
+
+**Decided.** The site is rebuilt to direction A, "The Plate", as refined over seventeen rounds into the
+mock at `../design_directions/2026-11-redesign/plate.html` (judged against `BRIEF.md` there). Every shelf
+has a pale paper and a deeper ink, washed and deepened from its cloth: the classes `.su .ma .le .co .cl
+.vi .ec .cu` in `assets/css/plate.css` set `--g` (paper) and `--k` (ink), and `data/shelves.toml` names
+each shelf's class as `code`. The engravings print as masks in the shelf's ink, so one cleaned file
+prints in any colour. All styles are in one file, `assets/css/plate.css`; the old `akshara.css` and the
+unused stylesheets beside it were removed.
+
+**Why.** Bhuvanesh chose A of three directions and rejected a combined version: the engravings are the
+most beautiful thing the project owns, and printing them in each shelf's ink makes the whole library
+read as one series.
+
+**Rejected.** B, The Title Page (typography alone), and C, The Register (a timeline); a mix of the three.
+
+## D11: White paper (2026-11-21)
+
+**Decided.** The page is pure white, `#FFFFFF`. Colour comes only from the shelves' pale papers and inks.
+
+**Why.** Compared side by side in the mock, white let the shelf colours and the engravings carry the page;
+the warm off-white made everything look aged on purpose.
+
+**Rejected.** `#F9F8F5`, the warm white the mock also offered; the cream paper banned by the brief.
+
+## D12: Newsreader for all text, Noto Serif Kannada for the mark, self-hosted (2026-11-21)
+
+**Decided.** One family, Newsreader (variable, weights 200–800, optical sizes 6–72), sets every word.
+Noto Serif Kannada sets only ಅಕ್ಷರ; it is instanced at weight 500 and cut to the Kannada block
+(`static/fonts/noto-serif-kannada-500-subset.woff2`, 35 KB, made with fonttools from the Google Fonts
+repository's variable file). Both are served from akshara.ink; the policy allows no font host (D4).
+The fonts that nothing used any more (Crimson, Inter, JetBrains Mono, Source Serif) were removed.
+
+**Why.** The mock was approved in these faces. Newsreader's optical sizes let one family serve the large
+light headlines and the 19px reading text.
+
+**Known limit.** Newsreader has no old-style figures and no true small capitals (checked in both the
+site's files and the full family). The reading text asks for old-style figures, so they appear if the
+font ever gains them; small capitals at a chapter's opening are drawn by the browser from capitals,
+exactly as they were in the approved mock.
+
+## D13: A centred masthead (2026-11-21)
+
+**Decided.** On a wide screen the header is a masthead: Library, Plates and Authors on the left, the mark
+in the middle, Journal, About and Search on the right. On a phone it folds to the mark on the left and
+Library and Search on the right. One hairline beneath, no colour band; Search is a plain word with a
+small glass. Every link is at least 44px tall.
+
+## D14: The footer is a colophon (2026-11-21)
+
+**Decided.** The footer ends the site as a book ends: the printer's device from the First Letter Book (a
+ship before the sun), the house name and its gloss, one sentence on what Akshara is, the ways back in on
+one line of words, and a last line with Bhuvan's Twitter, LinkedIn and GitHub (from `hugo.toml`).
+
+**Rejected.** The three columns of grouped links: a directory, not an ending.
+
+## D15: The opening page (2026-11-21)
+
+**Decided.** In this order: the headline beside a turning plate (six engravings crossfading every 6.5
+seconds, each on its own shelf's paper, still for readers who ask for reduced motion), one sentence on
+what the library holds, a compact "Begin reading →" and one sentence beneath it; New on the shelves; the
+featured edition; Small things from the books; How a book is made (the photographed table beside the set
+one, then the four steps); the eight shelves with their epigraphs. Everything hand-chosen on the page
+(the turning plates and their captions, the featured edition's words, the small things, the book
+"Begin reading" opens) is in `data/home.toml`. "New on the shelves" is worked out: the books added most
+recently, at most one per shelf, those with a picture of their own first.
+
+**Why.** The first screen on a phone says what Akshara is and offers the next step, with an engraving
+on it, which is what the project has that nobody else has.
+
+**Rejected.** The open-book comparison and the strip of engravings from the earlier opening: two
+signatures where the Plate has one. The commons section and the closing quotation: their facts are on
+the book pages and the About page.
