@@ -1983,3 +1983,24 @@ table.ed-ledger td:not(.n) { text-align: left; }
 .shr-head p { font-style: italic; }
 .shr-cap { font-size: .8rem; color: var(--ink); }
 .shr-b:hover .shr-cap { color: var(--blue); }
+
+/* ================= the opening: a warm shelf =================
+   The first screen sits on a pale paper tone taken from the photographed page, so the page reads as paper,
+   not as a blank screen; warmth without a new colour. The headline is a step larger, the paragraph in a
+   firmer ink, and the covers stand on a shelf line, rising out of the band. The captions under the open
+   book carry the site's idea (the scan, and the same page set again), so they are set as labels. */
+:root { --warm: #F4EEE2; --shelf-line: #CDBFA4; }
+.op { position: relative; isolation: isolate; padding-top: clamp(3rem, 6vw, 5rem); padding-bottom: clamp(7rem, 12vw, 10rem); }
+.op::before { content: ""; position: absolute; inset: 0 calc(50% - 50vw); background: var(--warm); z-index: -1; }
+.op-title { font-size: clamp(2.6rem, 4.6vw, 4.6rem); }
+.op-lede { color: color-mix(in srgb, var(--ink) 82%, var(--warm)); }
+.op-row { position: relative; margin-top: clamp(-8.5rem, -9vw, -5rem); }
+.op-books { gap: clamp(1rem, 2vw, 2rem); padding-bottom: 0; border-bottom: 2px solid var(--shelf-line); align-items: end; }
+.op-books .ob .cv { box-shadow: 0 0 0 .5px rgba(0,0,0,.12), 0 22px 26px -18px rgba(28,26,23,.55); }
+.ob-caps { margin-top: 1.3rem; font-size: 1rem; color: var(--ink); }
+.ob-caps p { display: flex; flex-direction: column; align-items: center; gap: .25rem; }
+.ob-caps p::before { content: ""; width: 1.6rem; border-top: 1px solid var(--blue-soft); margin-bottom: .35rem; }
+@media (max-width: 760px) {
+  .op-row { margin-top: -4rem; }
+  .ob-caps { font-size: .92rem; }
+}
