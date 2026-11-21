@@ -1,4 +1,5 @@
 ---
+type: "page"
 title: "Withdrawn books"
 description: "Books that were once in the library and have been taken down because they are still in copyright in India."
 sitemap:
