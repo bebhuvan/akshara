@@ -115,20 +115,23 @@ its own words; the book's headings printed in capitals are marked to be set in s
     </div>
   </header>
 
-  <article class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-filter="book:{{ $b.id }}"><span class="vh" aria-hidden="true" data-pagefind-meta="book">{{ $b.cover_title }}</span><span data-pagefind-meta="shelf:{{ $b.code }}"></span>
+  <article class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-filter="book:{{ $b.id }}">{{ partial "book/search-meta.html" $b }}
     {{ $text | safeHTML }}
   </article>
 
   <footer class="chap-end">
     <p class="end">End of {{ with $n.num }}{{ lower $n.label }} {{ . }}{{ else }}{{ $n.title }}{{ end }}</p>
-    <nav class="chap-nav" aria-label="Chapters">
-      {{- with $next }}{{ $nn := partial "chapter/name.html" . }}<a class="on" href="{{ .RelPermalink }}"><small>Next{{ with $nn.num }} · {{ $nn.label }} {{ . }}{{ end }}</small><b>{{ $nn.title }}</b></a>{{ end }}
-      {{- with $prev }}{{ $pn := partial "chapter/name.html" . }}<a href="{{ .RelPermalink }}"><small>Before{{ with $pn.num }} · {{ $pn.label }} {{ . }}{{ end }}</small><b>{{ $pn.title }}</b></a>{{ end }}
-    </nav>
-    <p class="chap-more"><a class="more" href="{{ $book.RelPermalink }}">The book and its contents <span aria-hidden="true">→</span></a></p>
-    {{- if not $isV1 }}
-    <p class="chap-proof">Found a misreading? <a href="{{ .Params.proofing_url | default (printf "%s/" site.Params.proofing_url) }}">Correct it on the proofreading desk</a>, beside the scan.</p>
+    {{- /* the page to turn to, as one block on the book's paper; the other ways out on one quiet line */}}
+    {{- with $next }}{{ $nn := partial "chapter/name.html" . }}
+    <a class="turn" href="{{ .RelPermalink }}"><small>Turn to {{ with $nn.num }}{{ lower $nn.label }} {{ . }}{{ else }}the next part{{ end }}</small><b>{{ $nn.title }}</b><span class="arrow" aria-hidden="true">→</span></a>
+    {{- else }}
+    <a class="turn" href="{{ $book.RelPermalink }}"><small>The end of the book</small><b>Back to {{ $b.cover.title }}</b><span class="arrow" aria-hidden="true">→</span></a>
     {{- end }}
+    <nav class="chap-ways" aria-label="Other ways from here">
+      {{- with $prev }}{{ $pn := partial "chapter/name.html" . }}<a href="{{ .RelPermalink }}"><span aria-hidden="true">←</span> {{ $pn.title }}</a>{{ end }}
+      <a href="{{ $book.RelPermalink }}#h-toc">The book’s contents</a>
+      {{- if not $isV1 }}<a href="{{ .Params.proofing_url | default (printf "%s/" site.Params.proofing_url) }}">Correct a misreading, beside the scan</a>{{ end }}
+    </nav>
   </footer>
 
   <aside class="leaf" id="leaf" aria-label="Scan of the printed page" aria-hidden="true">

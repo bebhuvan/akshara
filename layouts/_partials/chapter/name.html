@@ -17,4 +17,5 @@ title case, since the house sets no shouting capitals. */ -}}
   {{- $t = delimit $ws " " -}}
 {{- end -}}
 {{- if not $t -}}{{- $t = printf "%s %s" $label $num -}}{{- end -}}
+{{- if eq (lower $t) "frontmatter" -}}{{- $t = "Front matter" -}}{{- end -}}
 {{- return dict "num" $num "label" $label "title" $t -}}

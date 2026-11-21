@@ -30,7 +30,8 @@
     items.forEach(function (d) {
       var id = bookOf(d.url);
       if (!id) return;
-      if (!by[id]) { by[id] = { id: id, title: (d.meta && d.meta.book) || "", shelf: (d.meta && d.meta.shelf) || "", hits: [] }; order.push(id); }
+      var m = d.meta || {};
+      if (!by[id]) { by[id] = { id: id, title: m.book || "", author: m.author || "", year: m.year || "", kind: m.kind || "", plate: m.plate || "", shelf: m.shelf || "", hits: [] }; order.push(id); }
       if (by[id].hits.length < perBook) by[id].hits.push({ url: d.url, title: ((d.meta && d.meta.title) || "").replace(/^[\s—–-]+/, ""), excerpt: d.excerpt, own: d.url === "/books/" + id + "/" });
     });
     return order.map(function (id) { return by[id]; });
@@ -40,12 +41,28 @@
   var $ = function (sel, root) { return (root || document).querySelector(sel); };
   var $$ = function (sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); };
 
+  /* a small cover for a result, drawn from what the search index records about the book: its shelf's paper,
+     its own plate placed by its kind, or the rule of a type-only cover. Only values the build wrote are used. */
+  function smallCover(g) {
+    if (!/^[a-z]{2}$/.test(g.shelf) || !/^[a-z]+$/.test(g.kind)) return null;
+    var c = document.createElement("div");
+    c.className = "cover k-" + g.kind + " " + g.shelf;
+    c.dataset.shelf = g.shelf;
+    if (g.kind !== "type" && /^\/plates\/[a-z0-9_-]+\.webp$/.test(g.plate)) {
+      var pic = document.createElement("div"), plate = document.createElement("i");
+      pic.className = "pic"; plate.className = "plate";
+      plate.style.setProperty("--src", "url(" + g.plate + ")");
+      pic.appendChild(plate); c.appendChild(pic);
+    }
+    return c;
+  }
+
   /* one result group: the book's cover (when the page has it), its title in its shelf's ink, then each
      place in it where the words occur. Built as text nodes and <mark> elements, never HTML (D7). */
   function renderGroups(list, groups) {
     list.replaceChildren.apply(list, groups.map(function (g) {
       var li = document.createElement("li"), head = document.createElement("a"), title = document.createElement("i");
-      var cover = $('.book[href="/books/' + g.id + '/"] .cover');
+      var cover = $('.book[href="/books/' + g.id + '/"] .cover') || smallCover(g);
       li.className = "hit" + (/^[a-z]{2}$/.test(g.shelf) ? " " + g.shelf : "");
       if (cover) {
         var thumb = document.createElement("a");
@@ -57,6 +74,11 @@
       var body = document.createElement("div"); body.className = "hit-body";
       head.className = "hit-book"; head.href = "/books/" + g.id + "/"; title.textContent = g.title || g.id; head.appendChild(title);
       body.appendChild(head);
+      if (g.author || g.year) {
+        var by = document.createElement("p"); by.className = "hit-by";
+        by.textContent = [g.author, g.year].filter(Boolean).join(", ");
+        body.appendChild(by);
+      }
       g.hits.forEach(function (h) {
         var a = document.createElement("a"), t = document.createElement("span"), x = document.createElement("span");
         a.className = "hit-place"; a.href = h.url;

@@ -326,3 +326,13 @@ the browsers that do.
 **Noted for later.** The library page draws every cover three times (by shelf, date and author): about 140 KB
 of HTML for 63 books, so about 1 MB at 500. When that matters, render the shelf view and build the other two
 in the script from the same cards.
+
+## D26: Every edition is CC BY 4.0, and says so (2026-11-21)
+
+**Decided (by Bhuvanesh).** Every Akshara edition is released under Creative Commons Attribution 4.0
+International. The site says so in the footer of every page, in each book page's edition record (with the
+note that the book itself is in the public domain), and in a `<link rel="license">` in every page's head. The
+licence's name and address are in `hugo.toml` (`license_name`, `license_title`, `license_url`).
+
+**Why.** It had been stated nowhere: a reader or another library could not tell what they may do with an
+edition, and a public library's terms should be plain on every page.
