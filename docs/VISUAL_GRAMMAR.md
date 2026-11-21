@@ -98,10 +98,9 @@ inherits `--g` and `--k`. Never write a shelf's colour as a raw value.
   of saturated colour, gradients, or more than one shelf's colour behind any one block.
 
 ### Dark mode *(to be confirmed in milestone 4)*
-The site follows the reader's device. The plan: `--paper` becomes a deep neutral, the inks lighten, each
-shelf's `--g` darkens to a ground a step above the paper and its `--k` lifts toward the light ink so plates
-still read. Defined by redefining the same tokens under `prefers-color-scheme: dark` and under the reading
-room's Night paper; no component writes its own dark colours.
+`--paper` becomes a deep neutral, the inks lighten, each shelf's `--g` darkens to a ground a step above the
+paper and its `--k` lifts toward the light (every shelf ink at least 5.5:1 on its ground). Defined by
+redefining the same tokens, never in a component. The reading room's Night paper uses them now.
 
 ---
 
@@ -308,8 +307,32 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   italic, the name in the shelf's ink, its epigraph, its count.
 - **Lists of pages (`.rows`, `.auth`).** One row per entry on hairlines; titles of books in italic with a
   hairline beneath in the shelf's ink.
-- **The book head, the chapter opener, marginal notes, folios, chapter end.** *(to be written with
-  milestone 3)*
+- **The book head (`.bk-head`).** One full-width band in the shelf's paper: the cover (paler than the band),
+  then in reading order the series line in italic in the shelf's ink, the short title at display weight with
+  any volume in italic, the rest of the title in light italic, the author (a link) with place and year in
+  the shelf's ink, the Begin reading block naming the first chapter, the downloads as one sentence, the
+  description, and the book's measure as light figures on one hairline. On a phone the cover is small and
+  centred and Begin reading comes before the description, so it is on the first screen.
+- **How it begins (`.opening`).** The book's own first sentence, large, light and italic in the shelf's ink,
+  with where it stands beneath. Printed capitals on the first words are set in lower case.
+- **Contents (`.toc`).** One row a chapter on hairlines, at least 48px tall: the number in lower-case roman
+  italic in the shelf's ink, the title, the printed page at the right in `--ink-3`.
+- **The reading bar (`.rd-bar`).** Replaces the masthead on a chapter: ಅ and the short title in italic
+  (back to the book), then Contents, Aa, Focus. A 2px line in the shelf's ink fills beneath as the chapter
+  is read. It slides away going down the page and returns on the first move up.
+- **The chapter opener (`.opener`).** Centred over the column: the headpiece (one of the book's own
+  engravings in its ink, or the house mark), the chapter's number in italic in the shelf's ink, the title
+  in light display type, one line of where it comes from, then a 40px rule.
+- **The text (`.text`).** `--fs-read`, `--fs-read-wide` times the reader's size; `--measure`; indented
+  paragraphs; small capitals on the first line only; the book's own small capitals (`.sc`) kept.
+- **Marginal notes (`.sidenote-stack`).** The author's shoulder notes, italic, `--fs-note`, in the shelf's
+  ink: right-aligned in the left margin on a wide screen, above their paragraph on a phone.
+- **Folios (`.folio-trigger`).** The printed page numbers, small italic figures in `--ink-3` in the right
+  margin (at the very edge on a phone), each opening the scan of that page; the shelf's ink on hover.
+- **Chapter end (`.chap-end`).** A 40px rule, "End of chapter I" in italic, then the way on (larger, first)
+  and the way back as two labelled links on hairlines, side by side on a wide screen; then the book.
+- **The panel (`.rpanel`) and the scan leaf (`.leaf`).** Slide in from the right. Settings are words, A's
+  and small sheets of paper, never boxes; the chosen one is in full ink with a 2px rule in the shelf's ink.
 
 ---
 

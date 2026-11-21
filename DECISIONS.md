@@ -224,3 +224,29 @@ decade) and by author (by surname). On a phone each group is a row of covers to 
 gutter; on a wide screen a grid of six. The text catalogue with its tier marks is gone: a book's tier is
 on its own page. The shelf, author and collection pages show the same covers, and `/books/` is titled
 The Library.
+
+## D19: The book page is one band, then the book's own material (2026-11-21)
+
+**Decided.** A book's page opens on one full-width band in its shelf's paper holding the cover and the
+text: the series line (Akshara No., volume, shelf), the short title, the rest of the title in italic, the
+author, place and year, then Begin reading (naming the first chapter), the downloads as one sentence, and
+the book's measure as figures on one hairline (pages, chapters, tables, hours). On a phone Begin reading
+comes before the description so it is always on the first screen. Below: how the book begins (its own
+first sentence), contents, its plates, one of its tables set as printed, this edition (how far it is
+checked, the record, every form), the editor's note, and the imprint. A prose description is shown as
+written; the pipeline's catalogue line ("Archival scope: …") is not shown raw: its record's own period,
+places and subjects are shown as two plain lines instead (D6: nothing invented).
+
+## D20: The reading page (2026-11-21)
+
+**Decided.** A chapter has a reading bar in place of the masthead: the way back to the book, Contents, Aa
+and Focus, with a hairline beneath that fills in the book's ink as the chapter is read. The chapter opens
+with a headpiece: one of the book's own engravings (a different one per chapter when it has several), or,
+for a book with no engraving, the house mark; a photograph is never used as a headpiece. Text at 19px on a
+phone and 20px from 760px, measure about 33em, indented paragraphs, old-style figures asked for (D12),
+small capitals only on the chapter's first line. The author's marginal notes sit in the left margin on a
+wide screen and above their paragraph on a phone; the printed page numbers sit in the right margin and open
+the scan. The chapter ends with a short rule, then next and before. Every earlier feature stays: the panel
+(size, paper, spacing, width, paragraphs, edges, notes, page numbers), the scan leaf, focus, find in this
+book, the keys and the progress line. Marginal notes are now shown by default (the reader can hide them),
+and paragraphs are indented by default, as the books were printed.
