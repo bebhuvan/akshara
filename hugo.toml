@@ -51,3 +51,14 @@ disableKinds = ["taxonomy", "term"]
   author = "Akshara"
   featured_book = "india-at-the-death-of-akbar"
   proofing_url = "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
+
+  # Shown in the footer as "Bhuvan elsewhere".
+  [[params.elsewhere]]
+    name = "Twitter"
+    url = "https://twitter.com/bebhuvan"
+  [[params.elsewhere]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/bebhuvan/"
+  [[params.elsewhere]]
+    name = "GitHub"
+    url = "https://github.com/bebhuvan"

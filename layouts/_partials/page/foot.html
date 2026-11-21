@@ -1,13 +1,17 @@
 <footer class="foot">
-  <div class="wrap foot-grid">
-    <p class="foot-word"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span> Akshara</p>
-    <div class="foot-text">
-      <p>A public-domain library of rare books about India, made and kept by one person. The texts are free to read, copy and reuse; corrections are welcome from anyone.</p>
+  <div class="wrap foot-in">
+    <div class="foot-top">
+      <p class="foot-word"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span> Akshara</p>
+      <p class="foot-text">A public-domain library of rare books about India, made and kept by one person. The texts are free to read, copy and reuse; corrections are welcome from anyone.</p>
     </div>
     <nav class="foot-nav" aria-label="Footer">
-      <div><p>The library</p><a href="/books/">Catalogue</a><a href="/authors/">Authors</a><a href="/collections/">Collections</a><a href="/plates/">Plates</a><a href="/datasets/">Tables</a></div>
-      <div><p>Reading</p><a href="/reading-room/">Reading Room</a><a href="/search/">Search</a><a href="/index.xml">New books, by RSS</a></div>
-      <div><p>The house</p><a href="/blog/">Journal</a><a href="/about/">About</a><a href="/contact/">Write to me</a><a href="/github/">The code</a></div>
+      <div><p>The library</p><ul><li><a href="/books/">Catalogue</a></li><li><a href="/authors/">Authors</a></li><li><a href="/collections/">Collections</a></li><li><a href="/plates/">Plates</a></li><li><a href="/datasets/">Tables</a></li></ul></div>
+      <div><p>Reading</p><ul><li><a href="/reading-room/">Reading Room</a></li><li><a href="/search/">Search</a></li><li><a href="/withdrawn/">Withdrawn books</a></li></ul></div>
+      <div><p>The house</p><ul><li><a href="/blog/">Journal</a></li><li><a href="/about/">About</a></li><li><a href="/contact/">Write to me</a></li><li><a href="/github/">The code</a></li></ul></div>
     </nav>
+    <div class="foot-base">
+      <p class="foot-else"><span>Bhuvan elsewhere</span>{{ range site.Params.elsewhere }}<a href="{{ .url }}" rel="me">{{ .name }}</a>{{ end }}</p>
+      <a class="foot-rss" href="/index.xml"><svg viewBox="0 0 16 16" width="15" height="15" aria-hidden="true" focusable="false"><circle cx="3" cy="13" r="1.9" fill="currentColor"/><path d="M1.6 7.2a7.2 7.2 0 0 1 7.2 7.2M1.6 2.4a12 12 0 0 1 12 12" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></svg>New books and essays, by RSS</a>
+    </div>
   </div>
 </footer>

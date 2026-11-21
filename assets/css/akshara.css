@@ -1900,3 +1900,44 @@ table.ed-ledger td:not(.n) { text-align: left; }
 .bk-proof .bk-begin::after { content: "\00A0\2192"; display: inline; height: auto; background: none; margin: 0; font-style: normal; }
 .bk-proof .bk-begin { display: inline-block; text-decoration: underline; text-decoration-thickness: .5px; text-underline-offset: .25em; text-decoration-color: var(--blue-rule); }
 @media (max-width: 760px) { .bk-proof { margin-top: 3.5rem; padding: 2.8rem 0; } .ed-table { padding-bottom: 1rem; } }
+
+/* ================= the footer: the name, three groups of links, and a last line =================
+   Replaces the mock's three-column grid, which fell into a long, uneven stack on the phone. */
+.foot-in { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 2.4rem clamp(3rem, 7vw, 7rem); align-items: start; }
+.foot-top { max-width: 26rem; }
+.foot-word { font-size: 1.5rem; line-height: 1.2; white-space: nowrap; }
+.foot-text { margin-top: .9rem; font-size: .9rem; line-height: 1.55; color: var(--ink-2); max-width: none; }
+.foot-nav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.6rem 2rem; font-size: .95rem; }
+.foot-nav p { font-style: italic; color: var(--ink-2); font-size: .82rem; margin: 0 0 .5rem; }
+.foot-nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .15rem; }
+.foot-nav a { display: inline-block; padding: .2rem 0; text-decoration: none; color: var(--ink); }
+.foot-nav a:hover { color: var(--blue); }
+.foot-base { grid-column: 1 / -1; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .8rem 2rem;
+  padding-top: 1.4rem; border-top: .5px solid var(--hair); font-size: .88rem; color: var(--ink-2); }
+.foot-else { display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem 1.2rem; }
+.foot-else span { font-style: italic; }
+.foot-else a, .foot-rss { color: var(--ink-2); text-decoration: none; padding: .2rem 0; }
+.foot-else a:hover, .foot-rss:hover { color: var(--blue); }
+.foot-rss { display: inline-flex; align-items: center; gap: .5rem; }
+.foot-rss svg { color: #C2703D; flex: none; }
+@media (max-width: 760px) {
+  .foot { padding: 3rem 0 3.4rem; }
+  .foot-in { grid-template-columns: minmax(0, 1fr); gap: 2rem; }
+  .foot-nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .foot-nav > div:last-child { grid-column: 1 / -1; }
+  .foot-nav > div:last-child ul { flex-direction: row; flex-wrap: wrap; gap: .1rem 1.4rem; }
+  .foot-base { flex-direction: column; gap: .6rem; }
+}
+/* find in this book */
+.rp-find { position: relative; margin: 1rem 0 .4rem; }
+.rp-find input { width: 100%; font: inherit; font-size: 1rem; font-style: italic; color: var(--ink); background: none; border: 0; border-bottom: .5px solid var(--ink-2); padding: .5rem 1.6rem .5rem 0; border-radius: 0; }
+.rp-find input:focus { outline: none; border-bottom-color: var(--blue); }
+.rp-find-key { position: absolute; right: 0; top: .55rem; font-size: .8rem; color: var(--ink-2); border: .5px solid var(--hair); padding: 0 .35rem; line-height: 1.4; }
+.rp-find-tally { font-size: .82rem; font-style: italic; color: var(--ink-2); margin: .3rem 0 .4rem; }
+.rp-find-out { list-style: none; margin: 0; padding: 0; }
+.rp-find-out a { display: flex; flex-direction: column; gap: .2rem; padding: .7rem 0; border-bottom: .5px solid var(--hair); text-decoration: none; }
+.rf-t { color: var(--ink); font-size: .92rem; line-height: 1.3; }
+.rf-x { color: var(--ink-2); font-size: .82rem; line-height: 1.45; }
+.rf-x mark { background: none; color: var(--ink); text-decoration: underline; text-decoration-color: var(--blue-soft); text-decoration-thickness: 2px; text-underline-offset: .18em; }
+.rp-find-out a:hover .rf-t { color: var(--blue); }
+::highlight(find) { background-color: color-mix(in srgb, var(--cloth, #5466A0) 22%, transparent); color: inherit; }

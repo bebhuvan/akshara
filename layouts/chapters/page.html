@@ -18,7 +18,7 @@
 {{- /* The printed heading at the top of the chapter repeats the title we set above it, so it is taken out;
 the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
 {{- $text := .Content -}}
-{{- $text = replaceRE `^(\s*(?:<div class="page-rail-marker"[^>]*>[\s\S]*?</div>|<span[^>]*sec-page-anchor[^>]*></span>)?)\s*<h2 class="sec-h1">[\s\S]*?</h2>\s*(?:<h3 class="sec-h2">[\s\S]*?</h3>)?` "$1" $text 1 -}}
+{{- $text = replaceRE `^(\s*(?:<div class="page-rail-marker"[^>]*>[\s\S]*?</div>|<span[^>]*sec-page-anchor[^>]*></span>)?)\s*(?:<h2 class="sec-h1">[\s\S]*?</h2>\s*){1,3}(?:<h3 class="sec-h2">[\s\S]*?</h3>)?` "$1" $text 1 -}}
 {{- $text = replace $text "Critical Apparatus &amp; Notes" "Notes" -}}
 
 <section class="read" id="read" style="--cloth:{{ $b.cloth | safeCSS }}" data-lh="normal" data-width="medium" data-notes="off" data-para="spaced" data-align="ragged" data-folios="shown" data-book="{{ $b.id }}">
@@ -68,9 +68,16 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
           <div class="rs-row" role="group" aria-labelledby="lb-f"><span class="rs-k" id="lb-f">Page numbers</span>
             <div class="rs-opts rs-words"><button type="button" data-set="folios" data-val="shown">Shown</button><button type="button" data-set="folios" data-val="hidden">Hidden</button></div></div>
         </details>
-        <p class="rp-note">Kept on this device, for every book.<span class="rp-keys"> Keys: <b>M</b> this panel, <b>F</b> focus, <b>+</b> and <b>−</b> size.</span></p>
+        <p class="rp-note">Kept on this device, for every book.<span class="rp-keys"> Keys: <b>M</b> this panel, <b>/</b> find in this book, <b>F</b> focus, <b>+</b> and <b>−</b> size.</span></p>
       </section>
       <section class="rp-sec" id="rp-contents" role="tabpanel" aria-labelledby="tab-toc" hidden>
+        <div class="rp-find" role="search" data-needs-js hidden>
+          <label for="rfind" class="vh">Find in this book</label>
+          <input id="rfind" type="search" autocomplete="off" spellcheck="false" placeholder="Find in this book" aria-describedby="rfind-key">
+          <span class="rp-find-key" id="rfind-key" aria-hidden="true">/</span>
+        </div>
+        <p class="rp-find-tally" id="rfind-tally" aria-live="polite"></p>
+        <ol class="rp-find-out" id="rfind-out" hidden></ol>
         <nav id="rtoc" aria-label="Contents of the book"><ol>
           {{- range $all }}{{ $cn := partial "chapter/name.html" . }}
           <li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}><span class="rn">{{ $cn.num }}</span><span>{{ $cn.title }}</span><span class="pg">{{ .Params.printed_start_folio }}</span></a></li>
@@ -88,7 +95,7 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
       <h1 data-pagefind-meta="title">{{ $n.title }}</h1>
       <aside class="m"><p><i>{{ $b.cover_title }}</i>, by {{ $b.author }}, {{ $b.year }}.{{ with $folioFrom }} From page {{ . }}.{{ end }}</p></aside>
     </header>
-    <div class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}">
+    <div class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}" data-pagefind-filter="book:{{ $b.id }}">
       {{ $text | safeHTML }}
     </div>
     <footer class="chap-end">
