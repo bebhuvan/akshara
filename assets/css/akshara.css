@@ -1867,19 +1867,36 @@ body[data-paper="night"] .read #chapter-text .archival-plate img { mix-blend-mod
 .rbar.rbar-away:focus-within { transform: none; }
 @media (prefers-reduced-motion: reduce) { .rbar { transition: none; } }
 @media (min-width: 761px) { .ja-row > :nth-child(n+12) { display: none; } }
-/* the catalogue on a phone: no dotted leaders or hanging indents (they break up at this width);
-   each entry is the title, then the author and the year, with a hairline between */
-@media (max-width: 760px) {
-  ol.entries li + li .entry { border-top: .5px solid var(--hair); }
-  .entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "ttl mk" "who yr"; column-gap: .8rem;
-    align-items: baseline; padding: .6rem 0; font-size: 1rem; line-height: 1.32; }
-  .entry .what { display: contents; }
-  .entry, .entry .what, .entry .what > * { text-indent: 0; padding-left: 0; }
-  .entry .ttl { grid-area: ttl; }
-  .entry .mk { grid-area: mk; justify-self: end; margin: 0; vertical-align: 0; line-height: 1.32; }
-  .entry .who { grid-area: who; margin-top: .2rem; font-size: .86rem; }
-  .entry .who::after { content: none; }
-  .entry .yr { grid-area: yr; justify-self: end; width: auto; margin-top: .2rem; font-size: .86rem; color: var(--ink-2); }
-  .entry .lead { display: none; }
-  .cg-head { margin-bottom: .2rem; }
-}
+
+/* ================= lists: one design for every list of books =================
+   Modelled on the book page's contents: the title, a quieter line beneath (author, the edition's state in
+   words), the year at the right in figures, and a hairline between rows. No dotted leaders, no hanging
+   indents, no symbols that need a key. Group heads are a short rule and an italic heading. */
+ol.entries { list-style: none; margin: 0; padding: 0; }
+ol.entries li { break-inside: avoid; }
+ol.entries li + li .entry { border-top: .5px solid var(--hair); }
+.entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "t y" "s s"; column-gap: 1rem;
+  align-items: baseline; padding: .7rem 0 .75rem; color: var(--ink); text-decoration: none; text-indent: 0; }
+.e-t { grid-area: t; font-style: italic; font-size: 1.02rem; line-height: 1.3; text-wrap: pretty; }
+.e-y { grid-area: y; font-size: .9rem; color: var(--ink-2); font-variant-numeric: tabular-nums lining-nums; }
+.e-s { grid-area: s; margin-top: .2rem; font-size: .84rem; line-height: 1.4; color: var(--ink-2); }
+.e-st { font-style: italic; }
+a.entry:hover .e-t, a.entry:focus-visible .e-t { color: var(--blue); }
+.cat-group { margin: 0 0 2.4rem; }
+.cg-head { margin-bottom: .3rem; }
+.cat-group.pt .cg-mark { border-top-color: var(--cloth, var(--blue-soft)); }
+.cat-key { display: none; }
+/* the contents' back matter, as rows like the chapters */
+.chaps-back { margin-top: 1.4rem; }
+.chaps-back .ch-t { font-size: 1rem; }
+/* tables on the book page: no box around them */
+.ed-table-fig { background: none; box-shadow: none; padding: 0; }
+@media (max-width: 760px) { .ed-table-fig { margin: 0; padding: 0; } }
+table.ed-ledger td:not(.n) { text-align: left; }
+/* calls to action read as links: the accent colour and an arrow */
+.bk-proof .bk-begin { font-size: 1.3rem; }
+.bk-proof .bk-begin::before { content: none; }
+.bk-proof .bk-begin, .bk-bar .bk-begin { color: var(--accent); }
+.bk-proof .bk-begin::after { content: "\00A0\2192"; display: inline; height: auto; background: none; margin: 0; font-style: normal; }
+.bk-proof .bk-begin { display: inline-block; text-decoration: underline; text-decoration-thickness: .5px; text-underline-offset: .25em; text-decoration-color: var(--blue-rule); }
+@media (max-width: 760px) { .bk-proof { margin-top: 3.5rem; padding: 2.8rem 0; } .ed-table { padding-bottom: 1rem; } }
