@@ -122,10 +122,10 @@
     {{- $ys := sort $all "year" }}
     {{- $n := len $all }}
     <article class="shc">
-      <a class="sc-case" href="/shelves/{{ $s.key | urlize }}/" aria-label="{{ $s.name }}, the shelf"><span class="face">{{ partial "book/cover.html" (index $all 0) }}</span>
+      <a class="sc-case" href="/shelves/{{ $s.slug }}/" aria-label="{{ $s.name }}, the shelf"><span class="face">{{ partial "book/cover.html" (index $all 0) }}</span>
         {{- range first 7 (after 1 $all) }}{{ replaceRE `^<a class="spine"(.*)</a>$` `<span class="spine"$1</span>` (partial "book/spine.html" .) | safeHTML }}{{ end -}}
       </a>
-      <h3><a href="/shelves/{{ $s.key | urlize }}/">{{ $s.name }}</a></h3>
+      <h3><a href="/shelves/{{ $s.slug }}/">{{ $s.name }}</a></h3>
       <p class="sc-n">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $ys 0).year }}–{{ (index $ys (sub $n 1)).year }}</p>
       <blockquote class="sc-q"><p>“{{ $s.epigraph }}”</p><footer>{{ $s.source | markdownify }}</footer></blockquote>
     </article>

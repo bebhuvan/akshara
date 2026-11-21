@@ -1727,3 +1727,6 @@ body[data-paper="night"] .read .seg button[aria-pressed="true"] { background: co
 .skip { position: absolute; left: var(--side); top: -3rem; z-index: 20; background: var(--paper); padding: .4rem .7rem; }
 .skip:focus { top: .5rem; }
 .cm-note { margin-top: 1.2rem; font-size: .86rem; line-height: 1.5; color: var(--ink-2); font-style: italic; }
+[hidden] { display: none !important; }
+/* past sixteen books, a shelf in the catalogue shows "and n more"; a search opens every entry */
+.catalogue li.over:not(.open) { display: none; }
