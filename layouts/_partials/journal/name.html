@@ -1,0 +1,9 @@
+{{- /* A post's title split at the colon into title and subtitle; the subtitle in sentence case, names kept. */ -}}
+{{- $t := .Title -}}{{- $title := $t -}}{{- $dek := "" -}}
+{{- with findRESubmatch `^(.*?):\s*(.*)$` $t 1 -}}{{- $title = index (index . 0) 1 -}}{{- $raw := index (index . 0) 2 -}}
+  {{- $keep := `^(India|Indian|Akshara|Gutenberg|Project|English|British|AI|OCR|TEI|PDF|EPUB)$` -}}
+  {{- $words := slice -}}
+  {{- range $i, $w := split $raw " " -}}{{- if or (eq $i 0) (findRE $keep (replaceRE `\W` "" $w)) -}}{{- $words = $words | append $w -}}{{- else -}}{{- $words = $words | append (lower $w) -}}{{- end -}}{{- end -}}
+  {{- $dek = delimit $words " " -}}
+{{- end -}}
+{{- return dict "title" $title "dek" $dek -}}

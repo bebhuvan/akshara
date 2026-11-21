@@ -7,10 +7,12 @@ buildExpired = false
 buildDrafts = false
 enableRobotsTXT = false
 
-# /authors/ is a section of author pages; the old theme, period and language groupings were retired
-# on 2026-11-21 (they were empty or listed authors by the languages they knew) and redirect in static/_redirects.
-[taxonomies]
-  author = "authors"
+# No taxonomies. /authors/ is a section of author pages (content/authors/); an "authors" taxonomy of the
+# same name hid it, leaving the page empty. The old theme, period and language groupings were retired on
+# 2026-11-21 and redirect in static/_redirects.
+disableKinds = ["taxonomy", "term"]
+
+
 
 [permalinks]
   authors = "/authors/:slug"
