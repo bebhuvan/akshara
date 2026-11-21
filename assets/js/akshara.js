@@ -458,6 +458,7 @@
       b.classList.remove("off"); a.classList.add("off");
       var t = a; a = b; b = t;
       capT.textContent = p.title;
+      capT.classList.toggle("sp", p.sp === true);
       capS.replaceChildren(captionNodes(p.line));
       capN.textContent = (i + 1) + " of " + plates.length;
     }, 6500);

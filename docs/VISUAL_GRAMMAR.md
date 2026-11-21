@@ -136,7 +136,7 @@ Use the role tokens; do not invent sizes.
 | `--fs-lede` | The sentence under a page or section title, in `--ink-2`. |
 | `--fs-ui` | Navigation, captions under covers. |
 | `--fs-aside` | Asides beside headings, the line under a button. |
-| `--fs-note` | Marginal notes, counts, small italic labels. |
+| `--fs-note` | Marginal notes, counts, small labels. |
 | `--fs-caption`, `--fs-tiny` | Plate captions; captions under small tiles. |
 | `--fs-mark`, `--fs-mark-kn` | The mark (two scripts sized to read as one name). |
 
@@ -145,9 +145,11 @@ any size.
 
 ### Rules
 - **Measure:** `--measure` for any running text (about 65 characters). Never wider.
-- **Weights:** 300 for display sizes, 400 for everything else. No bold in the interface; emphasis is italic.
-- **Italic** is the house's second voice: asides, labels, captions, the second line of a title, a book's
-  own words. Titles of books are always italic in running text.
+- **Weights:** 300 for display sizes, 400 for everything else. No bold in the interface; a quiet voice is made with size and the lighter inks, not italic.
+- **Italic means one thing** (D29): someone else's words, or the title of a book. A quotation, an epigraph,
+  a book's opening sentence, the second line of a title, a title in running text, a scientific name as
+  printed. Labels, captions, dates, counts, section asides, headings, buttons and the editor's own words are
+  upright, made quiet by size and `--ink-2`/`--ink-3`. Inside a chapter the book's own italics stay as printed.
 - **Small capitals** only at a chapter's opening line, and for the book's own headings that it printed in
   capitals (set in small capitals so they do not shout). Newsreader has none, so the browser draws them from
   capitals (D12). Never small or spaced capitals as labels or eyebrows.
@@ -286,7 +288,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   corners, an arrow that moves 3px on hover. One outlined (`.readon`) for a second way in. Everything else
   is a link: a word with a hairline in the shelf's ink beneath (`.ln`, `.quiet a`). No pills, no icons
   except the search glass.
-- **Section heading (`.sec-h`).** The name at `--fs-h2`, a quiet italic aside on the right (often a link),
+- **Section heading (`.sec-h`).** The name at `--fs-h2`, a quiet aside on the right (often a link),
   one hairline beneath. When the two do not fit on one line the aside goes beneath the name, never leaving a
   word of the heading alone. Inside a shelf-coloured band, `.voice-h` does the same in the shelf's ink.
 - **Featured edition (`.feature`).** A band of the shelf's ground mixed half-way to paper: the cover (centred in the column on a phone, beside the words on a wide screen), the
@@ -304,18 +306,18 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   named above itself ("As photographed", "As set"); then the four steps, each under a large light numeral
   in the shelf's ink, because they are a real sequence.
 - **Search field (`.findbox`).** A line to write on: white paper, one rule in `--ink-2` beneath that
-  becomes 2px of `--ink` while in use, the glass at the left, the placeholder in large light italic saying
-  what can be searched, the typed words upright. A "Clear" in italic appears once something is written. It
-  is a real form (with a reset button), so it works with no script. Under it, one italic line saying what
+  becomes 2px of `--ink` while in use, the glass at the left, the placeholder in large light type saying
+  what can be searched, the typed words upright. A "Clear" appears once something is written. It
+  is a real form (with a reset button), so it works with no script. Under it, one quiet line saying what
   it searches. No filled box, no rounded corners.
 - **Arrangement switch (`.views`).** Plain words on one hairline, the chosen one in ink with a 2px rule
-  under it, like a running head; a count in italic at the right. Never tabs, pills or a dropdown.
+  under it, like a running head; a count in `--ink-3` at the right. Never tabs, pills or a dropdown.
 - **Shelf row (`.row`, `.row-h`).** The group's name in the shelf's ink over a 1px rule in that ink, its
-  count in italic at the right; then its covers, face out. On a phone a row to swipe, each cover snapping
+  count at the right; then its covers, face out. On a phone a row to swipe, each cover snapping
   to the gutter, the next one showing at the edge to say there is more; on a wide screen a grid of six.
   Rows that are not one shelf's (decades, letters) use the neutral ink.
 - **Cover with caption (`.book`, `.cap`).** The cover, then a quiet caption: the short title at `--fs-aside`,
-  never more than three lines, then the author in italic at `--fs-caption`. The year and number are already
+  never more than three lines, then the author at `--fs-caption` in `--ink-2`. The year and number are already
   on the cover, so the caption does not repeat them. The whole is one link; the title takes the shelf's ink
   on hover.
 - **Search results (`.hit`).** Grouped by book, in the order the books first appear: the book's cover small
@@ -326,17 +328,16 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   HTML.
 - **A way further on (`.more`).** A link that stands alone after a list ("Every result, on the search
   page"): the shelf's ink, an arrow that moves 3px on hover, underlined only on hover.
-- **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up in
-  italic, the name in the shelf's ink, its epigraph, its count.
+- **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up, the name in the shelf's ink, its epigraph, its count.
 - **Lists of pages (`.rows`).** One row per entry on hairlines; titles of books in italic. A list that follows
   a section heading shares the heading's rule and draws none of its own. The journal's earlier essays set the
   date in its own column on a wide screen, like a register.
 - **The authors index (`.index`, `.ix`).** Filed by surname under a large light letter in the margin, as a
   printed index is, with a row of letters at the top to jump to. Each writer: the name, years and
-  birthplace in italic, one line on who they were (the record's `short_bio`; the pipeline's placeholder is
+  birthplace in `--ink-2`, one line on who they were (the record's `short_bio`; the pipeline's placeholder is
   left out), then their own books, each a small cover (its picture and paper only) beside its title.
 - **The book head (`.bk-head`).** One full-width band in the shelf's paper: the cover (paler than the band),
-  then in reading order the series line in italic in the shelf's ink, the short title at display weight with
+  then in reading order the series line in the shelf's ink, the short title at display weight with
   any volume in italic, the rest of the title in light italic, the author (a link) with place and year in
   the shelf's ink, the Begin reading block naming the first chapter, the downloads as one sentence, the
   description, and the book's measure as light figures on one hairline. On a phone the cover is small and
@@ -345,22 +346,22 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   most) set as an epigraph: light italic in the text's ink, one large quotation mark hung in the margin in the
   shelf's ink, the source beneath after a dash. Printed capitals on the first words are set in lower case.
 - **Contents (`.toc`).** As a printed contents page, held to a reading width: the preliminaries as quiet rows
-  first, then one row a chapter with its numeral in lower-case roman italic in the shelf's ink, each title led
+  first, then one row a chapter with its numeral in lower-case roman in the shelf's ink, each title led
   by dots to the page it was printed on; the back matter quieter after. Every row at least 44px tall.
 - **Tables (`table.ledger`, `.ledger-table`).** Set as a printer's ledger: a 2px rule in the shelf's ink above,
-  1px below, faint rules between rows, figures in tabular lining numerals aligned right, headings in italic in
+  1px below, faint rules between rows, figures in tabular lining numerals aligned right, headings in
   the shelf's ink. On a book's page the table sits on a panel of the shelf's paper, named by its page; its data
   (as printed, tidy) is offered on one line beneath.
 - **How this text was read (`.reading`).** An account, never an alarm: no warning colour, icon or box around
-  the words. A lede on how the book was read, and a paragraph on why a language model's errors look like the book; the provenance line in italic; "The quirks of a machine reading"
-  as short entries behind a fine rule in the shelf's ink, each led by an italic name. Beside it (beneath
+  the words. A lede on how the book was read, and a paragraph on why a language model's errors look like the book; the provenance line in `--ink-2`; "The quirks of a machine reading"
+  as short entries behind a fine rule in the shelf's ink, each led by its name in ink. Beside it (beneath
   on a phone) the checks' score on a panel of the shelf's paper: the figure large in the shelf's ink, each check
   a 2px bar with what it found in plain words, and the caveat that a score of 100 is not a proofread text. Then
   the invitation to proofread. The score also stands among the book's facts (linking here), with a one-line
-  italic note under them; each chapter's opener carries the same note in `--ink-3`.
+  quiet note under them; each chapter's opener carries the same note in `--ink-3`.
 - **This edition (`.edition`).** Two columns with
   no boxes or rules: plain typeset lists, "To read elsewhere" and "For study", each line the form's name (a
-  link) led by dots to what it is for in italic, as in the contents; and a colophon centred under the ಅಕ್ಷರ
+  link) led by dots to what it is for in `--ink-2`, as in the contents; and a colophon centred under the ಅಕ್ಷರ
   mark in the shelf's ink, with a short rule beneath its name, the edition's record told in a few sentences as at the
   back of a book (where and by whom it was printed, what this edition gives, the copy it was read from, its
   number and shelf, its licence), every fact from the record. Then the editor's note with its full record
@@ -369,19 +370,19 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   (back to the book), then Contents, Aa, Focus. A 2px line in the shelf's ink fills beneath as the chapter
   is read. It slides away going down the page and returns on the first move up.
 - **The chapter opener (`.opener`).** Centred over the column: the headpiece (one of the book's own
-  engravings in its ink, or the house mark), the chapter's number in italic in the shelf's ink, the title
+  engravings in its ink, or the house mark), the chapter's number in the shelf's ink, the title
   in light display type, one line of where it comes from, then a 40px rule.
 - **The text (`.text`).** `--fs-read`, `--fs-read-wide` times the reader's size; `--measure`; indented
   paragraphs; small capitals on the first line only; the book's own small capitals (`.sc`) kept.
-- **Side-headings (`.sec-h3`).** The book's own headings within a chapter: the text's size, italic in the
+- **Side-headings (`.sec-h3`).** The book's own headings within a chapter: the text's size, upright in the
   shelf's ink, closer to the paragraph they head than to the one before. Headings the book printed in capitals
   are set in small capitals.
-- **Marginal notes (`.sidenote-stack`).** The author's shoulder notes, italic, in the shelf's
+- **Marginal notes (`.sidenote-stack`).** The author's shoulder notes, upright, in the shelf's
   ink: right-aligned in the left margin at `--fs-note` on a wide screen; on a phone above their paragraph, at
   nearly the text's size, so they read as a heading and not a footnote.
-- **Folios (`.folio-trigger`).** The printed page numbers, small italic figures in `--ink-3` in the right
+- **Folios (`.folio-trigger`).** The printed page numbers, small figures in `--ink-3` in the right
   margin (at the very edge on a phone), each opening the scan of that page; the shelf's ink on hover.
-- **Chapter end (`.chap-end`).** A 40px rule, "End of chapter I" in italic, then the next chapter as one block
+- **Chapter end (`.chap-end`).** A 40px rule, "End of chapter I", then the next chapter as one block
   on the shelf's paper ("Turn to chapter II", its name large, an arrow that moves), then the other ways out on
   one quiet centred line: the previous chapter, the book's contents, correcting a misreading.
 - **The panel (`.rpanel`) and the scan leaf (`.leaf`).** Slide in from the right. Settings are words, A's
@@ -411,7 +412,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   "Small things from the books".
 - **Sentence case** for every heading and label. No capitals for emphasis.
 - **Numbers in running text** are words (sixty-three books); in data, labels and captions, figures.
-- **Asides** are italic and short: "The library", "All 24 plates", "Akshara No. 19".
+- **Asides** are upright, quiet and short: "The library", "All 24 plates", "Akshara No. 19".
 - **Crediting a plate:** name first, then detail, then the book: *Name* · Plate or fig. · Author's surname,
   *Short title*, year, volume, page. The plate always links to the book it came from.
 - Every word on a page comes from the books, their records, or the editor; nothing is placeholder.
@@ -425,7 +426,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 | Print a plate through its mask in the shelf's ink | Show the scan as a photo with its yellow paper |
 | A type-only cover when the book has no picture | Borrow a picture from another book or volume |
 | One hairline under a heading | A box, a card shadow, or a coloured band |
-| Italic for an aside | Small spaced capitals as an eyebrow |
+| A quiet upright aside in `--ink-2` | Small spaced capitals as an eyebrow |
 | "Begin reading →" in the shelf's ink, square | A rounded pill button |
 | A link as a word with a coloured hairline | Blue underlined links, or coloured link text |
 | Sizes from the `--fs-` tokens | A new pixel size for one heading |
@@ -435,7 +436,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 
 ## 11. Adding to the grammar
 
-- **A new component** reuses the tokens, the hairline, italic for its quiet voice, and a shelf's `--g`/`--k`
+- **A new component** reuses the tokens, the hairline, size and the lighter inks for its quiet voice (never italic), and a shelf's `--g`/`--k`
   if it belongs to one book or shelf. Add it to §7 with what it is for and why it looks so, in the same
   change that ships it.
 - **A new token** only when a role is genuinely new, named for its role (`--fs-…`), added to `:root` with a
@@ -458,7 +459,7 @@ A sister imprint is a publication of the house that is not a library book: the l
 **Shared with the library, without change**
 - White paper; the three text inks and the hairline; Newsreader for every word, Noto Serif Kannada for the mark.
 - The house masthead (mark centred, the library's ways in either side, one hairline) and the colophon (device, name, gloss, the one sentence, the ways back in, the last line).
-- One heading for every section: the name, a quiet aside, one hairline. (The living book sets the aside upright; see italic, below.)
+- One heading for every section: the name, a quiet aside, one hairline. (The aside is upright, as in the library; see italic, below.)
 - Engravings and devices printed through a mask in one ink on one pale paper.
 - **Charts** (proposed for the library too): a figure printed in the book, not a widget. A rule in the ink above, the caption, the drawing on the white page with no box or tint, the source beneath. The thing the text is about in the book's ink, everything else in a quiet warm grey. Names and values in the text's own type and inks, never the data's colour, at 13 to 15px at every width (each chart drawn for each width, never scaled down). Bars in the source's order, names flush left, one hairline baseline, thin square bars, the value at the tip. Lines: hairline guides with the unit on the top one, names at the line ends, crowded ends gathered under one label with a bracket, a thin paper halo on labels among lines. Only the story's values written in; the table beside the chart carries every number.
 - The cover grammar: label at the head, picture or type in the middle, series number and year at the foot.
@@ -481,7 +482,7 @@ A sister imprint is a publication of the house that is not a library book: the l
   4. Mulberry, #653456 on #EDE0E9 (318°).
 - The ink goes where a library book uses its shelf's ink: link rules, the title band, numerals, marks, the solid button, chart marks, quotation marks, the colophon's device.
 - **Library books keep their shelf's ink inside a living book.** A witness's page and cover are printed in its shelf's ink, so a reader can always tell the book's pages from the library's.
-- **Italic means one thing**: someone else's words or the title of a book. Labels, captions, dates, section asides and the editor's own words are upright. (Proposed for the library too.)
+- **Italic means one thing**: someone else's words or the title of a book. Labels, captions, dates, section asides and the editor's own words are upright. (The library follows it too: D29.)
 - **Quotations set apart**: italic, regular weight, in the text's near-black ink, the opening mark hung outside the measure, and the quotation marks alone in the book's ink.
 
 A new living book takes the next reserved ink and changes nothing else. A different kind of sister publication (the review) would keep the house grammar and take a shape of its own, as the living books take the title band and the growing marks.

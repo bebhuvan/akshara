@@ -16,7 +16,7 @@ from data attributes (no inline script, D4). */ -}}
 {{- $turn := slice -}}
 {{- range $home.turning -}}
   {{- $pl := partial "plate/get.html" .plate -}}{{- $b := partial "book/get.html" $pl.book -}}
-  {{- $turn = $turn | append (dict "src" (partial "plate/url.html" (dict "key" $pl.key "w" 960)) "code" $b.code "title" .title "line" .line "alt" $pl.alt "url" $b.url) -}}
+  {{- $turn = $turn | append (dict "src" (partial "plate/url.html" (dict "key" $pl.key "w" 960)) "code" $b.code "title" .title "sp" ($pl.italic | default false) "line" .line "alt" $pl.alt "url" $b.url) -}}
 {{- end -}}
 {{- $t0 := index $turn 0 -}}
 {{- $first := index $home.turning 0 -}}
@@ -27,7 +27,7 @@ from data attributes (no inline script, D4). */ -}}
       <i class="plate" style="--src:url({{ $t0.src }})" role="img" aria-label="{{ $t0.alt }}"></i>
       <i class="plate off" aria-hidden="true"></i>
     </div>
-    <figcaption class="wrap"><span><i data-cap="t">{{ $first.title }}</i><span class="cap-s" data-cap="s">{{ $first.line | markdownify }}</span></span><span class="n"><span data-cap="n">1 of {{ len $turn }}</span><button type="button" class="turn-pause" data-turn-pause aria-pressed="false" hidden>Pause</button></span></figcaption>
+    <figcaption class="wrap"><span><i data-cap="t"{{ if $t0.sp }} class="sp"{{ end }}>{{ $first.title }}</i><span class="cap-s" data-cap="s">{{ $first.line | markdownify }}</span></span><span class="n"><span data-cap="n">1 of {{ len $turn }}</span><button type="button" class="turn-pause" data-turn-pause aria-pressed="false" hidden>Pause</button></span></figcaption>
   </figure>
   <div class="side wrap {{ $begin.code }}">
     <p class="intro">Travellers’ roads and the Company’s ledgers, famine commissions and village life, Vedic hymns and letters to a friend. Long out of print, now set to be read, and free to all.</p>

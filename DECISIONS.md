@@ -363,3 +363,17 @@ gets wrong, as a notice and not a warning, and for the page to say that Akshara 
 puts these books right. The score is shown with its limit stated beside it (a score of 100 is not a proofread
 text), because a bare number would claim more than the checks measure. Rejected: a coloured alert banner, which
 would treat every book as faulty and speak in the wrong voice for a library.
+
+## D29: Italic means someone else's words, or the title of a book (2026-11-21)
+
+**Decision.** Across the library, italic is kept for quotations (epigraphs, a book's opening sentence, the
+shelves' epigraphs, the featured quotation), titles of books (including the second line of a title and a
+volume), and scientific names as printed. Everything else that was italic, which was most of the interface's
+quiet voice (section asides, counts, captions, authors under covers, dates, headings in the edition section,
+chapter numbers, shoulder notes and side-headings, folios, buttons, the search field), is now upright, made
+quiet by size and the lighter inks. The headline's "readable again." keeps its colour and is upright. Inside a
+chapter the book's own italics are untouched.
+
+**Why.** Bhuvanesh approved this rule for the living books and chose to apply it to the library too, so the
+house and its sister imprints read as one family, and so italic carries meaning instead of mood. Rejected:
+keeping italic as the library's second voice, which made every small label look like a quotation.
