@@ -314,6 +314,19 @@
     if (q) { input.value = q; run(); }
   }
 
+  /* the opening: the set page over the photographed one, and a handle to wipe between them */
+  function compare() {
+    var input = $("[data-compare]");
+    if (!input) return;
+    var book = input.closest(".op-book"), handle = $(".ob-handle", book), hint = $("[data-compare-hint]");
+    book.classList.add("compare");
+    input.hidden = false; handle.hidden = false; if (hint) hint.hidden = false;
+    function set() { book.style.setProperty("--cut", input.value + "%"); }
+    input.addEventListener("input", set);
+    set();
+  }
+
+  compare();
   library();
   reading();
   search();
