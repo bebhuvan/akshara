@@ -84,7 +84,6 @@
     if (!read) return;
     var body = document.body, panel = $("#rpanel"), scrim = $("#rp-scrim");
     $$("[data-needs-js]").forEach(function (el) { el.hidden = false; });
-    store.set("ak-last", location.pathname);
 
     /* "[p. 12]" in the margin reads better as "12" */
     $$(".folio-trigger").forEach(function (b) {
@@ -254,12 +253,6 @@
     progress();
   }
 
-  /* the Reading Room link goes back to the last chapter read on this device */
-  function readingRoom() {
-    var last = store.get("ak-last");
-    if (!last || !/^\/books\/[a-z0-9-]+\/[a-z0-9\/-]+\/$/.test(last)) return;
-    $$('a[href="/reading-room/"]').forEach(function (a) { a.href = last; });
-  }
 
   /* search: the Pagefind index made after the build (static, on this site, nothing third-party).
      Excerpts come back as escaped text with <mark> around the found words; they are rebuilt as text
@@ -323,6 +316,5 @@
 
   library();
   reading();
-  readingRoom();
   search();
 })();
