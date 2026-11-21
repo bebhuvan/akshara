@@ -1867,19 +1867,114 @@ body[data-paper="night"] .read #chapter-text .archival-plate img { mix-blend-mod
 .rbar.rbar-away:focus-within { transform: none; }
 @media (prefers-reduced-motion: reduce) { .rbar { transition: none; } }
 @media (min-width: 761px) { .ja-row > :nth-child(n+12) { display: none; } }
-/* the catalogue on a phone: no dotted leaders or hanging indents (they break up at this width);
-   each entry is the title, then the author and the year, with a hairline between */
+
+/* ================= lists: one design for every list of books =================
+   Modelled on the book page's contents: the title, a quieter line beneath (author, the edition's state in
+   words), the year at the right in figures, and a hairline between rows. No dotted leaders, no hanging
+   indents, no symbols that need a key. Group heads are a short rule and an italic heading. */
+ol.entries { list-style: none; margin: 0; padding: 0; }
+ol.entries li { break-inside: avoid; }
+ol.entries li + li .entry { border-top: .5px solid var(--hair); }
+.entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "t y" "s s"; column-gap: 1rem;
+  align-items: baseline; padding: .7rem 0 .75rem; color: var(--ink); text-decoration: none; text-indent: 0; }
+.e-t { grid-area: t; font-style: italic; font-size: 1.02rem; line-height: 1.3; text-wrap: pretty; }
+.e-y { grid-area: y; font-size: .9rem; color: var(--ink-2); font-variant-numeric: tabular-nums lining-nums; }
+.e-s { grid-area: s; margin-top: .2rem; font-size: .84rem; line-height: 1.4; color: var(--ink-2); }
+.e-st { font-style: italic; }
+a.entry:hover .e-t, a.entry:focus-visible .e-t { color: var(--blue); }
+.cat-group { margin: 0 0 2.4rem; }
+.cg-head { margin-bottom: .3rem; }
+.cat-group.pt .cg-mark { border-top-color: var(--cloth, var(--blue-soft)); }
+.cat-key { display: none; }
+/* the contents' back matter, as rows like the chapters */
+.chaps-back { margin-top: 1.4rem; }
+.chaps-back .ch-t { font-size: 1rem; }
+/* tables on the book page: no box around them */
+.ed-table-fig { background: none; box-shadow: none; padding: 0; }
+@media (max-width: 760px) { .ed-table-fig { margin: 0; padding: 0; } }
+table.ed-ledger td:not(.n) { text-align: left; }
+/* calls to action read as links: the accent colour and an arrow */
+.bk-proof .bk-begin { font-size: 1.3rem; }
+.bk-proof .bk-begin::before { content: none; }
+.bk-proof .bk-begin, .bk-bar .bk-begin { color: var(--accent); }
+.bk-proof .bk-begin::after { content: "\00A0\2192"; display: inline; height: auto; background: none; margin: 0; font-style: normal; }
+.bk-proof .bk-begin { display: inline-block; text-decoration: underline; text-decoration-thickness: .5px; text-underline-offset: .25em; text-decoration-color: var(--blue-rule); }
+@media (max-width: 760px) { .bk-proof { margin-top: 3.5rem; padding: 2.8rem 0; } .ed-table { padding-bottom: 1rem; } }
+
+/* ================= the footer: the name, three groups of links, and a last line =================
+   Replaces the mock's three-column grid, which fell into a long, uneven stack on the phone. */
+.foot-in { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 2.4rem clamp(3rem, 7vw, 7rem); align-items: start; }
+.foot-top { max-width: 26rem; }
+.foot-word { font-size: 1.5rem; line-height: 1.2; white-space: nowrap; }
+.foot-text { margin-top: .9rem; font-size: .9rem; line-height: 1.55; color: var(--ink-2); max-width: none; }
+.foot-nav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.6rem 2rem; font-size: .95rem; }
+.foot-nav p { font-style: italic; color: var(--ink-2); font-size: .82rem; margin: 0 0 .5rem; }
+.foot-nav ul { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .15rem; }
+.foot-nav a { display: inline-block; padding: .2rem 0; text-decoration: none; color: var(--ink); }
+.foot-nav a:hover { color: var(--blue); }
+.foot-base { grid-column: 1 / -1; display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .8rem 2rem;
+  padding-top: 1.4rem; border-top: .5px solid var(--hair); font-size: .88rem; color: var(--ink-2); }
+.foot-else { display: flex; flex-wrap: wrap; align-items: baseline; gap: .3rem 1.2rem; }
+.foot-else span { font-style: italic; }
+.foot-else a, .foot-rss { color: var(--ink-2); text-decoration: none; padding: .2rem 0; }
+.foot-else a:hover, .foot-rss:hover { color: var(--blue); }
+.foot-rss { display: inline-flex; align-items: center; gap: .5rem; }
+.foot-rss svg { color: #C2703D; flex: none; }
 @media (max-width: 760px) {
-  ol.entries li + li .entry { border-top: .5px solid var(--hair); }
-  .entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "ttl mk" "who yr"; column-gap: .8rem;
-    align-items: baseline; padding: .6rem 0; font-size: 1rem; line-height: 1.32; }
-  .entry .what { display: contents; }
-  .entry, .entry .what, .entry .what > * { text-indent: 0; padding-left: 0; }
-  .entry .ttl { grid-area: ttl; }
-  .entry .mk { grid-area: mk; justify-self: end; margin: 0; vertical-align: 0; line-height: 1.32; }
-  .entry .who { grid-area: who; margin-top: .2rem; font-size: .86rem; }
-  .entry .who::after { content: none; }
-  .entry .yr { grid-area: yr; justify-self: end; width: auto; margin-top: .2rem; font-size: .86rem; color: var(--ink-2); }
-  .entry .lead { display: none; }
-  .cg-head { margin-bottom: .2rem; }
+  .foot { padding: 3rem 0 3.4rem; }
+  .foot-in { grid-template-columns: minmax(0, 1fr); gap: 2rem; }
+  .foot-nav { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .foot-nav > div:last-child { grid-column: 1 / -1; }
+  .foot-nav > div:last-child ul { flex-direction: row; flex-wrap: wrap; gap: .1rem 1.4rem; }
+  .foot-base { flex-direction: column; gap: .6rem; }
 }
+/* find in this book */
+.rp-find { position: relative; margin: 1rem 0 .4rem; }
+.rp-find input { width: 100%; font: inherit; font-size: 1rem; font-style: italic; color: var(--ink); background: none; border: 0; border-bottom: .5px solid var(--ink-2); padding: .5rem 1.6rem .5rem 0; border-radius: 0; }
+.rp-find input:focus { outline: none; border-bottom-color: var(--blue); }
+.rp-find-key { position: absolute; right: 0; top: .55rem; font-size: .8rem; color: var(--ink-2); border: .5px solid var(--hair); padding: 0 .35rem; line-height: 1.4; }
+.rp-find-tally { font-size: .82rem; font-style: italic; color: var(--ink-2); margin: .3rem 0 .4rem; }
+.rp-find-out { list-style: none; margin: 0; padding: 0; }
+.rp-find-out a { display: flex; flex-direction: column; gap: .2rem; padding: .7rem 0; border-bottom: .5px solid var(--hair); text-decoration: none; }
+.rf-t { color: var(--ink); font-size: .92rem; line-height: 1.3; }
+.rf-x { color: var(--ink-2); font-size: .82rem; line-height: 1.45; }
+.rf-x mark { background: none; color: var(--ink); text-decoration: underline; text-decoration-color: var(--blue-soft); text-decoration-thickness: 2px; text-underline-offset: .18em; }
+.rp-find-out a:hover .rf-t { color: var(--blue); }
+::highlight(find) { background-color: color-mix(in srgb, var(--cloth, #5466A0) 22%, transparent); color: inherit; }
+/* the opening's links: one first step, and two quieter ways in beneath it */
+.op-act { margin-top: 1.8rem; display: flex; flex-direction: column; align-items: flex-start; gap: .7rem; }
+.op-go { font-style: italic; font-size: 1.35rem; line-height: 1.2; color: var(--blue); text-decoration: none; padding: .2rem 0;
+  border-bottom: 1px solid var(--blue-rule); }
+.op-go::after { content: "\00A0\00A0\2192"; font-style: normal; }
+.op-go:hover { border-bottom-color: var(--blue); }
+.op-more { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .7rem; font-size: .95rem; color: var(--ink-2); }
+.op-more a { color: var(--ink-2); text-decoration: underline; text-decoration-color: var(--hair); text-underline-offset: .22em; padding: .3rem 0; }
+.op-more a:hover { color: var(--blue); text-decoration-color: var(--blue-rule); }
+.op-more span { color: var(--blue-rule); }
+
+/* ================= the library's shelves: rows of covers, face out =================
+   Spines read sideways are hard to find a book by; covers carry the title level and large. Each row
+   scrolls sideways and snaps to a cover; past eighteen books a last card opens the shelf. */
+.shelfrows { margin: 1.4rem 0 clamp(3rem, 6vw, 5rem); }
+.shr { padding: 1.6rem 0 1.2rem; border-top: .5px solid var(--hair); }
+.shr:first-child { border-top: 0; }
+.shr-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem 1rem; margin-bottom: 1rem; }
+.shr-head h2 { display: flex; align-items: baseline; gap: .8rem; font-size: 1.3rem; font-style: italic; font-weight: 400; }
+.shr-head h2::before { content: ""; width: 1.6rem; border-top: 2px solid var(--cloth); align-self: center; }
+.shr-head h2 a { color: var(--ink); text-decoration: none; }
+.shr-head h2 a:hover { color: var(--blue); }
+.shr-head p { font-size: .88rem; color: var(--ink-2); }
+.shr-run { overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-left: var(--side); scrollbar-width: thin; scrollbar-color: var(--hair) transparent;
+  overscroll-behavior-x: contain; }
+.shr-books { list-style: none; margin: 0; padding: .4rem var(--side) 1rem; display: flex; gap: clamp(.9rem, 1.6vw, 1.4rem);
+  width: max-content; max-width: none; }
+.shr-books > li { flex: none; width: clamp(108px, 9.2vw, 138px); scroll-snap-align: start; }
+@media (min-width: 761px) { .shr-books { padding-left: max(var(--side), calc((100vw - var(--max)) / 2)); padding-right: max(var(--side), calc((100vw - var(--max)) / 2)); } }
+.shr-b { display: block; text-decoration: none; color: var(--ink); }
+.shr-b .cv { box-shadow: 0 0 0 .5px rgba(0,0,0,.1), 0 14px 18px -14px rgba(28,26,23,.5); }
+@media (prefers-reduced-motion: no-preference) { .shr-b .cv { transition: transform .3s ease; } .shr-b:hover .cv { transform: translateY(-5px); } }
+.shr-cap { display: flex; flex-direction: column; margin-top: .6rem; font-size: .8rem; line-height: 1.3; }
+.shr-cap span { color: var(--ink-2); font-size: .76rem; margin-top: .15rem; }
+.shr-b:hover .shr-cap i { color: var(--blue); }
+.shr-more { display: flex; align-items: center; }
+.shr-more a { display: block; font-style: italic; font-size: .95rem; line-height: 1.3; padding: 1rem 0; }

@@ -5,6 +5,7 @@
 # withdrawn for copyright; five old collections were merged; one author page was renamed; the empty
 # theme and period lists and the language lists of authors were retired.
 # Cloudflare matches a redirect exactly, so each address is listed with and without its final slash.
+# 2026-11-21: the Reading Room page was retired; readers start from the Library.
 /authors/k-a-nilakanta-sastri /withdrawn/ 301
 /authors/k-a-nilakanta-sastri/ /withdrawn/ 301
 /authors/sir-william-wilson-hunter /authors/william-wilson-hunter/ 301
@@ -377,5 +378,7 @@
 /languages/urdu/ /authors/ 301
 /periods /books/ 301
 /periods/ /books/ 301
+/reading-room /books/ 301
+/reading-room/ /books/ 301
 /themes /books/ 301
 /themes/ /books/ 301

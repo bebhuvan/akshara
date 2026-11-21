@@ -23,7 +23,6 @@
   {{- end }}
 </div></div>
 <div class="wrap">
-  <div class="catalogue two">{{ partial "book/groups.html" (dict "books" $all "order" "year") }}</div>
   <nav class="shelf-nav"><a href="/shelves/{{ $prev.slug }}/"><span class="tc">The shelf before</span>{{ $prev.name }}</a><a href="/shelves/{{ $next.slug }}/"><span class="tc">The shelf after</span>{{ $next.name }}</a></nav>
 </div>
 </section>

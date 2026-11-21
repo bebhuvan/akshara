@@ -9,7 +9,7 @@
 {{- $imprint := $p.imprint | default (delimit (slice ($p.publication_location | default "") ($p.publisher | default "")) ": ") | strings.Trim ": " -}}
 {{- $archiveID := $p.archive_id | default (replaceRE `^https?://archive\.org/details/([^/?#]+).*$` "$1" ($p.archive_url | default "")) -}}
 
-<section class="edition" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}" style="--cloth:{{ $b.cloth | safeCSS }}">
+<section class="edition book" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}" style="--cloth:{{ $b.cloth | safeCSS }}">
 <div class="band bk-band"><div class="wrap bk-grid">
   <div class="bk-cover">{{ partial "book/cover.html" $b }}</div>
   <div class="tp tp-plain">
@@ -56,7 +56,11 @@
       <li><a href="{{ $c.RelPermalink }}"><span class="ch-n">{{ $n.num }}</span><span class="ch-t">{{ $n.title }}</span><span class="ch-p">{{ $c.Params.printed_start_folio }}</span></a></li>
       {{- end }}
     </ol>
-    {{- with $back }}<p class="toc-back">{{ range $i, $c := . }}{{ if $i }}<span class="sep">·</span>{{ end }}{{ $n := partial "chapter/name.html" $c }}<a href="{{ $c.RelPermalink }}">{{ with $n.num }}{{ $n.label }} {{ . }}: {{ end }}{{ $n.title }}</a>{{ with $c.Params.printed_start_folio }}&ensp;<span>{{ . }}</span>{{ end }}{{ end }}</p>{{ end }}
+    {{- with $back }}<ol class="chaps chaps-back">
+      {{- range $c := . }}{{ $n := partial "chapter/name.html" $c }}
+      <li><a href="{{ $c.RelPermalink }}"><span class="ch-n">{{ $n.num }}</span><span class="ch-t">{{ $n.title }}</span><span class="ch-p">{{ $c.Params.printed_start_folio }}</span></a></li>
+      {{- end }}
+    </ol>{{ end }}
     {{- if not $isV1 }}<p class="bk-small">Page numbers are those printed in {{ $b.year }}; roman numbers are the preliminaries.</p>{{ end }}
   </section>
 </div>
@@ -124,8 +128,11 @@
     <p class="more"><a href="{{ .section_url }}">The table in its chapter</a></p></div>
   <figure class="ed-table-fig">
     {{- if not (hasPrefix .caption "Table ") }}<figcaption class="ed-tcap">{{ .caption }}</figcaption>{{ end }}
-    <div class="ledger-wrap"><table class="ledger ed-ledger"><thead><tr>{{ range $i, $h := index $rows 0 }}<th scope="col"{{ if $i }} class="n"{{ end }}>{{ $h }}</th>{{ end }}</tr></thead><tbody>
-      {{- range after 1 $rows }}<tr>{{ range $i, $c := . }}<td{{ if $i }} class="n"{{ end }}>{{ $c }}</td>{{ end }}</tr>{{ end }}
+    {{- $head := index $rows 0 }}{{ $invented := true }}{{ range $head }}{{ if not (findRE `^(Item|Column \d+)?$` .) }}{{ $invented = false }}{{ end }}{{ end }}
+    {{- $num := `^[\s(]*[£$₹]?\s*(Rs\.?\s*)?[\d][\d,.\s½¼¾⅓⅔/–-]*[)]?\.?$` }}
+    <div class="ledger-wrap"><table class="ledger ed-ledger">
+      {{- if not $invented }}<thead><tr>{{ range $i, $h := $head }}<th scope="col">{{ $h }}</th>{{ end }}</tr></thead>{{ end }}<tbody>
+      {{- range after 1 $rows }}<tr>{{ range $i, $c := . }}<td{{ if findRE $num $c }} class="n"{{ end }}>{{ $c }}</td>{{ end }}</tr>{{ end }}
     </tbody></table></div>
     <p class="tbl-dl"><span class="tbl-dl-k">This table as data</span><a href="{{ .diplomatic_csv }}" download>As printed</a><a href="{{ .tidy_csv }}" download>Tidy</a><span class="tbl-dl-f">CSV</span></p>
   </figure>

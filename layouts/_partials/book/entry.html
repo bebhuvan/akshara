@@ -1,8 +1,8 @@
-{{- /* One catalogue card: author, title, year, and a mark for how far the edition is checked.
-`data-hay` is the text the library's filter searches, lower-cased and without accents. */ -}}
+{{- /* One catalogue row: the title, then the author and how far the edition is checked, in words; the year
+at the right. `data-hay` is the text the library's filter searches. */ -}}
 {{- $b := .book -}}
 {{- $who := cond .inverted $b.sort_name $b.author -}}
-{{- $mk := index (dict "machine_checked" "*" "community" "†") $b.tier -}}
+{{- $state := index (dict "machine_checked" "machine-checked" "community" "open for proofreading") $b.tier -}}
 {{- $hay := lower (printf "%s %s %s %s no %d %s" $b.title $b.subtitle $b.author $b.year $b.no ($b.page.Params.description | default "")) -}}
-<li data-hay="{{ $hay }}"{{ with .over }} class="over"{{ end }}><a class="entry" href="{{ $b.url }}" title="{{ $b.tier_name }}, Akshara No. {{ $b.no }}"><span class="what">{{ if not .nowho }}<span class="who">{{ $who }}</span> {{ end }}<span class="ttl">{{ $b.title }}</span>{{ with $mk }}<span class="mk" title="{{ $b.tier_name }}">{{ . }}</span>{{ end }}</span><span class="lead" aria-hidden="true"></span><span class="yr">{{ $b.year }}</span></a></li>
+<li data-hay="{{ $hay }}"{{ with .over }} class="over"{{ end }}><a class="entry" href="{{ $b.url }}" title="{{ $b.tier_name }}, Akshara No. {{ $b.no }}"><span class="e-t">{{ $b.title }}</span><span class="e-s">{{ if not .nowho }}{{ $who }}{{ end }}{{ with $state }}{{ if not $.nowho }}<span class="e-dot" aria-hidden="true"> · </span>{{ end }}<span class="e-st">{{ . }}</span>{{ end }}</span><span class="e-y">{{ $b.year }}</span></a></li>
 {{- /**/ -}}

@@ -15,14 +15,14 @@ Takes dict "books" "order" "cap" (entries per shelf before "and n more"; 0 for n
   {{- $decades := slice -}}
   {{- range $books -}}{{- $decades = $decades | append (mul (div (int .year) 10) 10) -}}{{- end -}}
   {{- range sort (uniq $decades) -}}{{- $d := . -}}
-<section class="cat-group dec"><h3 class="cg-head"><span class="cg-mark">{{ $d }}s</span></h3>
+<section class="cat-group pt dec"><h3 class="cg-head"><span class="cg-mark"></span>The {{ $d }}s</h3>
 <ol class="entries">{{ range sort $books "year" }}{{ if eq (mul (div (int .year) 10) 10) $d }}{{ partial "book/entry.html" (dict "book" .) }}{{ end }}{{ end }}</ol></section>
   {{- end -}}
 {{- else -}}
   {{- $letters := slice -}}
   {{- range $books -}}{{- $letters = $letters | append (upper (substr .sort_name 0 1)) -}}{{- end -}}
   {{- range sort (uniq $letters) -}}{{- $L := . -}}
-<section class="cat-group letter"><h3 class="cg-head"><span class="cg-mark">{{ $L }}</span></h3>
+<section class="cat-group pt letter"><h3 class="cg-head"><span class="cg-mark"></span>{{ $L }}</h3>
 <ol class="entries">{{ range sort $books "sort_name" }}{{ if eq (upper (substr .sort_name 0 1)) $L }}{{ partial "book/entry.html" (dict "book" . "inverted" true) }}{{ end }}{{ end }}</ol></section>
   {{- end -}}
 {{- end -}}

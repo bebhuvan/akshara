@@ -84,7 +84,6 @@
     if (!read) return;
     var body = document.body, panel = $("#rpanel"), scrim = $("#rp-scrim");
     $$("[data-needs-js]").forEach(function (el) { el.hidden = false; });
-    store.set("ak-last", location.pathname);
 
     /* "[p. 12]" in the margin reads better as "12" */
     $$(".folio-trigger").forEach(function (b) {
@@ -171,9 +170,59 @@
     });
     $("#leaf-close").addEventListener("click", closeLeaf);
 
+    /* find in this book: the search index, filtered to this book; results are built as text, never HTML */
+    var rfind = $("#rfind"), rout = $("#rfind-out"), rtally = $("#rfind-tally"), rtoc = $("#rtoc"), rseq = 0, rpf = null;
+    function rload() { return rpf || (rpf = import("/pagefind/pagefind.js").then(function (m) { m.options({ excerptLength: 22 }); return m; })); }
+    function findRun() {
+      var q = rfind.value.trim(), mine = ++rseq;
+      if (!q) { rout.hidden = true; rout.replaceChildren(); rtally.textContent = ""; rtoc.hidden = false; return; }
+      rload().then(function (p) { return p.debouncedSearch(q, { filters: { book: read.dataset.book } }, 250); }).then(function (res) {
+        if (!res || mine !== rseq) return;
+        return Promise.all(res.results.slice(0, 40).map(function (r) { return r.data(); })).then(function (items) {
+          if (mine !== rseq) return;
+          rtoc.hidden = true; rout.hidden = false;
+          rtally.textContent = items.length ? (res.results.length === 1 ? "One chapter" : res.results.length + " chapters") + " answer to “" + q + "”." :
+            "Nothing answers to that. Old books spell differently: try another spelling, or part of the word.";
+          rout.replaceChildren.apply(rout, items.map(function (d) {
+            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), x = document.createElement("span");
+            a.href = d.url + (d.url.indexOf("?") < 0 ? "?" : "&") + "find=" + encodeURIComponent(q);
+            t.className = "rf-t"; t.textContent = (d.meta && d.meta.title) || d.url;
+            x.className = "rf-x"; x.appendChild(excerptNodes(d.excerpt));
+            a.append(t, x); li.appendChild(a); return li;
+          }));
+        });
+      }).catch(function () { rtally.textContent = "Find could not be loaded; the contents are below."; rtoc.hidden = false; });
+    }
+    rfind.addEventListener("input", findRun);
+
+    /* arriving from a find: mark the word in the text and bring its first place to the middle of the screen */
+    var found = new URLSearchParams(location.search).get("find");
+    if (found) { try { markFound(found); } catch (e) { /* never let finding break the reading room */ } }
+    function markFound(q) {
+      var want = fold(q.trim()), text = $("#chapter-text"), ranges = [];
+      if (!want) return;
+      var walk = document.createTreeWalker(text, NodeFilter.SHOW_TEXT, null), node;
+      while ((node = walk.nextNode()) && ranges.length < 200) {
+        if (node.parentElement.closest("button, .apparatus-zone")) continue;
+        var hay = fold(node.nodeValue), at = 0, i;
+        if (hay.length !== node.nodeValue.length) continue;
+        while ((i = hay.indexOf(want, at)) !== -1) { var r = document.createRange(); r.setStart(node, i); r.setEnd(node, i + want.length); ranges.push(r); at = i + want.length; }
+      }
+      if (!ranges.length) return;
+      try {
+        if (window.CSS && CSS.highlights && window.Highlight) {
+          var hl = new Highlight();
+          ranges.forEach(function (r) { hl.add(r); });
+          CSS.highlights.set("find", hl);
+        }
+      } catch (e) { /* marking is a nicety; the passage is still brought into view */ }
+      ranges[0].startContainer.parentElement.scrollIntoView({ block: "center" });
+    }
+
     /* keys */
     document.addEventListener("keydown", function (e) {
       if (e.target.closest("input, textarea, select") || e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.key === "/") { e.preventDefault(); openPanel("rp-contents"); rfind.focus(); return; }
       if (e.key === "Escape") { closePanel(); closeLeaf(); if (body.classList.contains("focus")) focusMode(false); }
       else if (e.key === "m" || e.key === "M") { panel.classList.contains("open") ? closePanel() : openPanel("rp-settings"); }
       else if (e.key === "f" || e.key === "F") focusMode(!body.classList.contains("focus"));
@@ -204,12 +253,6 @@
     progress();
   }
 
-  /* the Reading Room link goes back to the last chapter read on this device */
-  function readingRoom() {
-    var last = store.get("ak-last");
-    if (!last || !/^\/books\/[a-z0-9-]+\/[a-z0-9\/-]+\/$/.test(last)) return;
-    $$('a[href="/reading-room/"]').forEach(function (a) { a.href = last; });
-  }
 
   /* search: the Pagefind index made after the build (static, on this site, nothing third-party).
      Excerpts come back as escaped text with <mark> around the found words; they are rebuilt as text
@@ -273,6 +316,5 @@
 
   library();
   reading();
-  readingRoom();
   search();
 })();
