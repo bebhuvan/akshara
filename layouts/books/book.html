@@ -183,6 +183,8 @@ shown as two plain lines, in the record's own capitals. */ -}}
         </div>
         <div>
           <h3 class="ed-h">The record</h3>
+          <div class="card">
+          <p class="card-no"><span>Akshara No. {{ $b.no }}</span><span>{{ $b.shelf.name }}</span></p>
           <dl class="facts-list">
             <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
             {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
@@ -192,6 +194,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
             <div><dt>Shelf</dt><dd><a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a></dd></div>
             <div><dt>Licence</dt><dd><a class="ln" href="{{ site.Params.license_url }}" rel="license" title="{{ site.Params.license_title }}">{{ site.Params.license_name }}</a>: share and adapt this edition freely, crediting Akshara. The book itself is in the public domain.</dd></div>
           </dl>
+          </div>
         </div>
       </div>
       {{- with $p.editorial_note_markdown }}

@@ -351,8 +351,10 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   the shelf's ink. On a book's page the table sits on a panel of the shelf's paper, named by its page; its data
   (as printed, tidy) is offered on one line beneath.
 - **This edition (`.edition`).** How far it has been checked, with the way to proofread; then two matching
-  columns, "Take it away" (every form) and "The record" (published, pages, scan, shelf, licence), each under a
-  small italic head on one hairline; then the editor's note with its full record folded.
+  columns under small italic heads: "Take it away", every form as a small flat tile on the shelf's paper in a
+  grid (name, what it is for, a down-arrow); and "The record", set as a library catalogue card (a pale panel
+  with a fine edge, the book's number and shelf at its head over a rule, then dotted ruled lines: published,
+  pages, scan, shelf, licence); then the editor's note with its full record folded.
 - **The reading bar (`.rd-bar`).** Replaces the masthead on a chapter: ಅ and the short title in italic
   (back to the book), then Contents, Aa, Focus. A 2px line in the shelf's ink fills beneath as the chapter
   is read. It slides away going down the page and returns on the first move up.
