@@ -14,9 +14,8 @@ The design is "The Plate", approved by Bhuvanesh on 2026-11-21 after seventeen r
 approved mock is `../design_directions/2026-11-redesign/plate.html`; the brief it answered is `BRIEF.md`
 beside it.
 
-> Status: first draft, written with milestone 1 (tokens, header, footer, home). Sections marked
-> *(to be confirmed)* describe approved decisions that are not yet built; they are checked against the
-> built pages before the redesign is merged.
+> Status: complete for the redesign (milestones 1–4, 2026-11-21). Checked against the built pages before the
+> redesign is merged; any later design change updates this document in the same change.
 
 ---
 
@@ -200,6 +199,13 @@ A plate is never shown as an image. It is an element with class `.plate` and `--
 the mask and `--k` shows through it, so one file prints in any shelf's ink and in dark mode. Plates sit on
 their shelf's `--g`.
 
+### Sizes
+Always take a plate's address from `partial "plate/url.html" (dict "key" … "w" …)`, with `w` the widest it
+will be drawn at twice its CSS size: covers in grids 440, a book's own cover 800, tiles 600–640, a headpiece
+700, the turning plate 960, the footer device 200. The build makes the copy (never larger than the
+original, and never heavier: the hand-made file is kept when the copy would weigh more). A plate in a
+section below the first screen is fetched only as the reader nears it (`content-visibility: auto`, D23).
+
 ### Cropping and placing
 - In a tile, a plate is inset so it never touches the tile's edge.
 - On a cover, an engraving may run off the edge (it is printed large); a map never does.
@@ -337,6 +343,11 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   and the way back as two labelled links on hairlines, side by side on a wide screen; then the book.
 - **The panel (`.rpanel`) and the scan leaf (`.leaf`).** Slide in from the right. Settings are words, A's
   and small sheets of paper, never boxes; the chosen one is in full ink with a 2px rule in the shelf's ink.
+
+- **No page here (`.lost`).** The Periplus ship on its shelf's paper, the title, a line to search on, two
+  ways back. On a phone the words come first.
+- **Print.** A printed page keeps the text, its marginal notes and page numbers, in black on white; bars,
+  panels, footers and navigation are left off.
 
 ---
 
