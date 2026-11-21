@@ -42,8 +42,12 @@
   {{- $added := slice }}{{ range $books }}{{ if eq (.page.Date.Format "2006-01-02") $latest }}{{ $added = $added | append . }}{{ end }}{{ end }}
   <section class="sec" aria-labelledby="ja-h">
     <div class="sec-h"><h2 id="ja-h">Lately added to the library</h2><span>{{ (time $latest).Format "2 January 2006" }}</span></div>
-    <p class="sec-lede">{{ partial "words.html" (len $added) | strings.FirstUpper }} editions on that day; the newest twelve are here.</p>
-    <div class="row"><div class="shelf">{{ range first 12 (sort $added "no" "desc") }}{{ partial "book/lib-entry.html" . }}{{ end }}</div></div>
+    {{- /* six of them, one from each shelf first so the row shows the range, then the newest */}}
+    {{- $pick := slice }}{{ $seen := slice }}
+    {{- range sort $added "no" "desc" }}{{ if and (not (in $seen .code)) (lt (len $pick) 6) }}{{ $pick = $pick | append . }}{{ $seen = $seen | append .code }}{{ end }}{{ end }}
+    {{- range sort $added "no" "desc" }}{{ if and (not (in $pick .)) (lt (len $pick) 6) }}{{ $pick = $pick | append . }}{{ end }}{{ end }}
+    <p class="sec-lede">{{ partial "words.html" (len $added) | strings.FirstUpper }} editions on that day; six of them, from across the shelves, are here. <a class="ln" href="/books/">All of them are in the library.</a></p>
+    <div class="row"><div class="shelf">{{ range $pick }}{{ partial "book/lib-entry.html" . }}{{ end }}</div></div>
     <p class="quiet" style="margin-top:22px">The journal is written as the work goes on, a few times a year. To hear of new entries, follow <a href="/index.xml">the RSS feed</a>, or <a href="/contact/">write to the editor</a>.</p>
   </section>
 </section>

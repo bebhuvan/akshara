@@ -325,8 +325,13 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   page"): the shelf's ink, an arrow that moves 3px on hover, underlined only on hover.
 - **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up in
   italic, the name in the shelf's ink, its epigraph, its count.
-- **Lists of pages (`.rows`, `.auth`).** One row per entry on hairlines; titles of books in italic with a
-  hairline beneath in the shelf's ink.
+- **Lists of pages (`.rows`).** One row per entry on hairlines; titles of books in italic. A list that follows
+  a section heading shares the heading's rule and draws none of its own. The journal's earlier essays set the
+  date in its own column on a wide screen, like a register.
+- **The authors index (`.index`, `.ix`).** Filed by surname under a large light letter in the margin, as a
+  printed index is, with a row of letters at the top to jump to. Each writer: the name, years and
+  birthplace in italic, one line on who they were (the record's `short_bio`; the pipeline's placeholder is
+  left out), then their own books, each a small cover (its picture and paper only) beside its title.
 - **The book head (`.bk-head`).** One full-width band in the shelf's paper: the cover (paler than the band),
   then in reading order the series line in italic in the shelf's ink, the short title at display weight with
   any volume in italic, the rest of the title in light italic, the author (a link) with place and year in

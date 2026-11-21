@@ -918,3 +918,43 @@ html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-phot
 .prose blockquote { border-left: 0; padding-left: 1.6em; }
 @media (min-width: 760px) { .jl-art { max-width: 300px; } }
 .op-in h1.long { font-size: clamp(24px, 6.4vw, 32px); line-height: 1.15; max-width: 22em; }
+
+/* ---------- Authors: an index ----------
+   Filed by surname under a large light letter, as a printed index is. Each writer: the name, their years
+   and birthplace, one line on who they were, then their own books, each a small cover beside its title. */
+.az { display: flex; flex-wrap: wrap; gap: 0 14px; margin-top: 22px; padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
+.az a { display: inline-flex; align-items: center; justify-content: center; min-width: 28px; min-height: 44px; font-size: var(--fs-body); color: var(--ink-2); }
+.az a:hover { color: var(--ink); }
+.index { margin-top: 8px; }
+.ix-group { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 0 16px; padding: 22px 0 6px; border-bottom: 1px solid var(--hair); scroll-margin-top: 80px; }
+.ix-letter { font-weight: 200; font-size: 44px; line-height: .9; color: var(--ink-3); font-variation-settings: "opsz" 72; }
+.ix-entries { display: grid; gap: 0 48px; }
+.ix { padding-bottom: 22px; }
+.ix + .ix { padding-top: 18px; border-top: 1px solid color-mix(in srgb, var(--hair) 70%, transparent); }
+.ix h2 { font-size: var(--fs-h3); line-height: 1.2; letter-spacing: -0.01em; }
+.ix h2 a:hover { color: var(--k); }
+.ix .yrs { margin-top: 2px; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.ix .bio { margin-top: 8px; font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); max-width: 34em; text-wrap: pretty; }
+.ix-books { list-style: none; padding: 0; margin-top: 12px; display: grid; gap: 8px; }
+.ix-b { display: grid; grid-template-columns: 30px minmax(0, 1fr); gap: 12px; align-items: center; min-height: 44px; }
+.ix-cover .cover { box-shadow: 0 4px 8px -6px color-mix(in srgb, var(--k) 70%, transparent); }
+.ix-cover .cover .lbl, .ix-cover .cover .no, .ix-cover .cover .au { visibility: hidden; }
+.ix-t { font-size: var(--fs-aside); line-height: 1.35; color: var(--ink-2); }
+.ix-t i { color: var(--ink); }
+.ix-b:hover .ix-t i { color: var(--k); }
+@media (min-width: 760px) {
+  .ix-group { grid-template-columns: 96px minmax(0, 1fr); padding-top: 30px; }
+  .ix-letter { font-size: 64px; }
+  .ix-entries { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .ix + .ix { padding-top: 0; border-top: 0; }
+}
+
+/* A list that follows a section heading shares the heading's rule; it draws none of its own. */
+.sec-h + .rows, .sec-h + .sec-lede + .rows { border-top: 0; max-width: none; }
+/* The journal's earlier entries: the date in its own column on a wide screen, like a register. */
+.essays li a { padding: 16px 0 18px; }
+@media (min-width: 760px) {
+  .essays a { grid-template-columns: 12em minmax(0, 1fr); column-gap: 32px; }
+  .essays small { grid-row: 1 / span 2; padding-top: 4px; }
+  .essays span { max-width: 40em; }
+}
