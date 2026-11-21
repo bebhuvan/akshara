@@ -902,3 +902,10 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
 /* headings that are links get room to tap without changing how they sit */
 .row-h h2 a, .jl h2 a, .auth h2 a { display: inline-block; padding: 11px 0; margin: -11px 0; }
 .feat-links .q { padding: 14px 0 4px; }
+/* An essay or a plain page is a centred reading column, its title set over it, all on one width. */
+.article { --col: 640px; }
+.article > .pg-h, .article > .prose, .article > .post-foot { max-width: var(--col); margin-left: auto; margin-right: auto; }
+.article > .prose { font-size: var(--fs-read); }
+.article > .pg-h h1 { font-size: clamp(40px, 10vw, 64px); }
+@media (min-width: 760px) { .article { --col: 680px; } .article > .prose { font-size: var(--fs-read-wide); } }
+.prose strong, .prose b { font-weight: 560; }
