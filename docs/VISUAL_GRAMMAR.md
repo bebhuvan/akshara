@@ -352,8 +352,8 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   the shelf's ink. On a book's page the table sits on a panel of the shelf's paper, named by its page; its data
   (as printed, tidy) is offered on one line beneath.
 - **How this text was read (`.reading`).** An account, never an alarm: no warning colour, icon or box around
-  the words. A lede on how the book was read; the provenance line in italic; "What a machine reading can get
-  wrong" as short entries behind a fine rule in the shelf's ink, each led by an italic name. Beside it (beneath
+  the words. A lede on how the book was read, and a paragraph on why a language model's errors look like the book; the provenance line in italic; "The quirks of a machine reading"
+  as short entries behind a fine rule in the shelf's ink, each led by an italic name. Beside it (beneath
   on a phone) the checks' score on a panel of the shelf's paper: the figure large in the shelf's ink, each check
   a 2px bar with what it found in plain words, and the caveat that a score of 100 is not a proofread text. Then
   the invitation to proofread. The score also stands among the book's facts (linking here), with a one-line

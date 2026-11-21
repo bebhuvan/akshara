@@ -9,15 +9,17 @@ set as part of the edition. Takes dict "p" (the book page's Params), "isV1". */ 
   <div class="sec-h"><h2 id="h-reading">How this text was read</h2><span>{{ if $checked }}{{ $checked }} of {{ $pages }} pages checked by a person{{ else }}Read by machine{{ end }}</span></div>
   <div class="rd">
     <div class="rd-text">
-      <p class="rd-lede">{{ if $isV1 }}This is an earlier edition, read by machine from the scans before the present methods and checks existed. It has not been read against the scans page by page, and will be set again.{{ else }}This book was read from photographs of its printed pages by a vision-language model, a kind of AI that reads images. It reads well, and errors are now uncommon, but never perfectly: until a person has read a page against its photograph, some will remain.{{ end }}</p>
+      <p class="rd-lede">{{ if $isV1 }}This is an earlier edition, read by machine from the scans before the present methods and checks existed. It has not been read against the scans page by page, and will be set again.{{ else }}This book was read from photographs of its pages by a vision-language model: an AI that looks at the image of a page and writes out its text. It reads well, and errors are now uncommon. Until a person has read a page against its photograph, though, some will remain.{{ end }}</p>
+      <p class="rd-key">Its mistakes are not the ones older OCR made. OCR leaves garbled letters that catch the eye. A language model reads for sense, so when it goes wrong it usually writes something fluent and plausible: its errors look like the book.</p>
       {{- with and (not $isV1) $p.provenance_statement }}<p class="rd-prov">{{ . }}</p>{{ end }}
-      <h3 class="ed-h">What a machine reading can get wrong</h3>
+      <h3 class="ed-h">The quirks of a machine reading</h3>
       <ul class="rd-kinds">
-        <li><b>Letters and words.</b> A word misread, a line ending’s hyphen kept or a word wrongly joined; accents and diacritics dropped; punctuation missing; figures confused, a 1 for an l, a 0 for an O.</li>
-        <li><b>Other languages and scripts.</b> Words in Indian scripts, Urdu, Persian, Arabic, Greek or Latin are read less surely than English; an old romanisation of Sanskrit may be quietly turned into modern IAST, or an old spelling modernised.</li>
-        <li><b>The shape of the page.</b> A paragraph broken or wrongly joined where a page turns; a running head or page number left in the text; a heading split, or set at the wrong level; pages in two columns read in the wrong order; stray marks and stamps in the front matter.</li>
-        <li><b>Notes, tables and pictures.</b> A footnote parted from its mark; a table’s columns out of line or a figure misread; an illustration, map or plate with no marker where it stood.</li>
-        <li><b>Now and then, words that are not there.</b> A model can supply a plausible word the page does not have. This has grown rare, but it happens.</li>
+        <li><b>It tidies what it should copy.</b> An old spelling modernised; the author’s own slip quietly corrected; a romanisation as the author printed it, <i>Bhagavad Gita</i>, given modern IAST, <i>Bhagavad Gītā</i>.</li>
+        <li><b>Where the print is faint, it guesses.</b> A word, a figure, now and then a phrase, supplied because it fits rather than because it is printed. A line may be dropped, or read twice. This has grown rare, and it is the hardest kind to catch.</li>
+        <li><b>Accents and other scripts.</b> Diacritics dropped, or added where the author had none; one name spelt two ways in two chapters. Words in Indian scripts, in Urdu, Persian or Arabic, and quotations in Greek or Latin are all read less surely than English, and a right-to-left line can come out in the wrong order.</li>
+        <li><b>It reads one page at a time.</b> So a paragraph that runs over a page turn may be broken in two, or two paragraphs joined; the running head and page number may slip into the text; a heading may be set at the wrong level, or a title broken; a page in two columns read across instead of down.</li>
+        <li><b>Notes, tables and pictures.</b> A footnote parted from its mark, or joined to the wrong one; a table’s columns shifted, or a figure misread, and a wrong number in a table looks exactly like a right one; an illustration, map or plate left with no marker where it stood.</li>
+        <li><b>Small things.</b> Punctuation missing or changed; italics lost; a line-end hyphen kept, or a hyphenated word run together; library stamps, bookplates and handwriting in the front matter read as if they were printed.</li>
       </ul>
     </div>
     {{- with and (not $isV1) $p.rubric_score }}{{ $score := . }}
@@ -38,7 +40,7 @@ set as part of the edition. Takes dict "p" (the book page's Params), "isV1". */ 
     {{- end }}
   </div>
   <div class="rd-call">
-    <p>This is why Akshara is open. It is meant to become a community of people who care for India’s written heritage, reading these books against their scans and putting them right, page by page.{{ if $isV1 }} When this book is set again it will go to the proofreading desk, each page with its photograph beside it.{{ else }} Every page has its photograph beside it on the proofreading desk, and any one of them takes about five minutes.{{ end }}</p>
+    <p>Machines have brought these books this far; only people can finish them. That is why Akshara is open. It is meant to become a community of readers who care for India’s written heritage: people who will sit with a page and its photograph, and put it right.{{ if $isV1 }} When this book is set again it will go to the proofreading desk, each page with its scan beside it.{{ else }} Every page of this book is on the proofreading desk with its scan beside it, and one page takes about five minutes.{{ end }}</p>
     {{- if not $isV1 }}
     <p><a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page of this book <span aria-hidden="true">→</span></a></p>
     {{- end }}

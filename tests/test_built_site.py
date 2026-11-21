@@ -45,7 +45,7 @@ class HowTheTextWasRead(unittest.TestCase):
         for page in self.book_pages():
             html = page.read_text(encoding="utf-8")
             self.assertRegex(html, r'id="?h-reading"?', page)
-            self.assertIn("What a machine reading can get wrong", html, page)
+            self.assertIn("The quirks of a machine reading", html, page)
 
     def test_every_score_in_the_records_is_shown(self):
         for record in (ROOT / "content/books").glob("*/_index.md"):

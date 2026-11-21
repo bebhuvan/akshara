@@ -1015,6 +1015,8 @@ html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-phot
 .rd { display: grid; gap: 36px; }
 .rd-text { max-width: 40em; }
 .rd-lede { font-size: var(--fs-lede); line-height: 1.55; color: var(--ink); text-wrap: pretty; }
+.rd-key { margin-top: 14px; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink); text-wrap: pretty; }
+.rd-kinds i { font-style: italic; color: var(--ink); }
 .rd-prov { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.55; font-style: italic; color: var(--ink-2); }
 .rd-text .ed-h { margin-top: 30px; }
 .rd-kinds { list-style: none; padding: 0; margin-top: 12px; display: grid; gap: 12px; }
