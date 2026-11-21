@@ -28,8 +28,8 @@ def read_redirects(public: Path) -> dict[str, str]:
         if not line or line.startswith("#"):
             continue
         parts = line.split()
-        if len(parts) < 2 or "*" in parts[0] or ":" in parts[0]:
-            sys.exit(f"_redirects line {n}: only plain one-to-one rules are allowed here: {line}")
+        if len(parts) != 3 or parts[2] != "301" or "*" in parts[0] or ":" in parts[0]:
+            sys.exit(f"_redirects line {n}: each rule must be 'old-path new-path 301': {line}")
         rules[normalise(parts[0])] = normalise(parts[1])
     return rules
 

@@ -85,10 +85,10 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
   <div class="col">
     <header class="chap-head">
       {{- with $n.num }}<span class="kicker">{{ $n.label }} {{ . }}.</span>{{ end }}
-      <h1>{{ $n.title }}</h1>
+      <h1 data-pagefind-meta="title">{{ $n.title }}</h1>
       <aside class="m"><p><i>{{ $b.cover_title }}</i>, by {{ $b.author }}, {{ $b.year }}.{{ with $folioFrom }} From page {{ . }}.{{ end }}</p></aside>
     </header>
-    <div class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text">
+    <div class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}">
       {{ $text | safeHTML }}
     </div>
     <footer class="chap-end">

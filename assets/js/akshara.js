@@ -200,7 +200,57 @@
     $$('a[href="/reading-room/"]').forEach(function (a) { a.href = last; });
   }
 
+  /* search: the Pagefind index made after the build (static, on this site, nothing third-party).
+     Excerpts come back as escaped text with <mark> around the found words; they are rebuilt as text
+     nodes and <mark> elements, never inserted as HTML. */
+  function excerptNodes(excerpt) {
+    var frag = document.createDocumentFragment(), parts = String(excerpt).split(/<\/?mark>/);
+    var dec = document.createElement("textarea");
+    parts.forEach(function (part, i) {
+      dec.innerHTML = part.replace(/</g, "&lt;");
+      var text = document.createTextNode(dec.value);
+      if (i % 2) { var m = document.createElement("mark"); m.appendChild(text); frag.appendChild(m); } else frag.appendChild(text);
+    });
+    return frag;
+  }
+  function search() {
+    var form = $("[data-search]");
+    if (!form) return;
+    var input = $("#sq", form), out = $("#s-results"), tally = $("#s-tally"), ways = $("#s-ways"), pf = null, seq = 0;
+    function load() { return pf || (pf = import("/pagefind/pagefind.js").then(function (m) { m.options({ excerptLength: 30 }); return m; })); }
+    function run() {
+      var q = input.value.trim(), mine = ++seq;
+      history.replaceState(null, "", q ? "?q=" + encodeURIComponent(q) : location.pathname);
+      if (!q) { out.replaceChildren(); tally.textContent = ""; ways.hidden = false; return; }
+      ways.hidden = true;
+      load().then(function (p) { return p.debouncedSearch(q, {}, 250); }).then(function (res) {
+        if (!res || mine !== seq) return;
+        var n = res.results.length;
+        tally.textContent = n ? (n === 1 ? "One page" : n + " pages") + " answer to “" + q + "”." : "Nothing answers to “" + q + "”. Try another spelling, or a shorter word.";
+        return Promise.all(res.results.slice(0, 30).map(function (r) { return r.data(); })).then(function (items) {
+          if (mine !== seq) return;
+          out.replaceChildren.apply(out, items.map(function (d) {
+            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), b = document.createElement("span"), x = document.createElement("p");
+            a.href = d.url; a.className = "s-hit";
+            t.className = "s-t"; t.textContent = (d.meta && d.meta.title) || d.url;
+            b.className = "s-b"; b.textContent = (d.meta && d.meta.book) || "";
+            x.className = "s-x"; x.appendChild(excerptNodes(d.excerpt));
+            a.append(t, b); li.append(a, x);
+            return li;
+          }));
+        });
+      }).catch(function () {
+        tally.textContent = "Search could not be loaded. The catalogue in the library lists every book.";
+      });
+    }
+    form.addEventListener("submit", function (e) { e.preventDefault(); run(); });
+    input.addEventListener("input", run);
+    var q = new URLSearchParams(location.search).get("q");
+    if (q) { input.value = q; run(); }
+  }
+
   library();
   reading();
   readingRoom();
+  search();
 })();

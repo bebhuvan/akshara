@@ -9,7 +9,7 @@
 {{- $imprint := $p.imprint | default (delimit (slice ($p.publication_location | default "") ($p.publisher | default "")) ": ") | strings.Trim ": " -}}
 {{- $archiveID := $p.archive_id | default (replaceRE `^https?://archive\.org/details/([^/?#]+).*$` "$1" ($p.archive_url | default "")) -}}
 
-<section class="edition" style="--cloth:{{ $b.cloth | safeCSS }}">
+<section class="edition" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}" style="--cloth:{{ $b.cloth | safeCSS }}">
 <div class="band bk-band"><div class="wrap bk-grid">
   <div class="bk-cover">{{ partial "book/cover.html" $b }}</div>
   <div class="tp tp-plain">

@@ -1,0 +1,20 @@
+{{ define "main" }}
+{{- $books := partial "book/all.html" . -}}
+{{- $with := slice -}}{{- $total := 0 -}}
+{{- range $b := $books }}{{ with $b.page.Params.tables_list }}{{ $with = $with | append $b }}{{ $total = add $total (len .) }}{{ end }}{{ end -}}
+<section class="pg wrap tables-page">
+  <header class="lib-head"><h1 class="lib-title">The Tables</h1>
+    <p class="lib-dek">Every table set from the books so far, {{ $total }} in all from {{ partial "words.html" (len $with) }} books, each given twice as CSV: as printed, row for row, and tidy, one figure to a line, ready for a spreadsheet or a program. Each links to the page where it stands in its chapter.</p></header>
+  {{- range $with }}{{ $b := . }}
+  <details class="tb-book" style="--cloth:{{ $b.cloth | safeCSS }}">
+    <summary><span class="tb-t"><i>{{ $b.title }}</i></span><span class="tb-a">{{ $b.author }}, {{ $b.year }}</span><span class="tb-n">{{ len $b.page.Params.tables_list }} {{ cond (eq (len $b.page.Params.tables_list) 1) "table" "tables" }}</span></summary>
+    <ol class="tb-list">
+      {{- range $b.page.Params.tables_list }}
+      <li><a href="{{ .section_url }}">{{ .caption }}</a><span class="tb-pg">{{ with .printed_folio }}p.&nbsp;{{ . }}{{ end }}</span><span class="tbl-dl"><a href="{{ .diplomatic_csv }}" download>As printed</a><a href="{{ .tidy_csv }}" download>Tidy</a></span></li>
+      {{- end }}
+    </ol>
+    {{- with $b.page.Params.download_datasets }}<p class="tb-pkg"><a href="{{ . }}">The book’s data package (JSON)</a></p>{{ end }}
+  </details>
+  {{- end }}
+</section>
+{{ end }}
