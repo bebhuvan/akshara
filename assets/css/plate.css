@@ -129,6 +129,7 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .sec-h { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 0 0 26px; padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
 .sec-h h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15; }
 .sec-h > a, .sec-h > span { font-size: var(--fs-aside); color: var(--ink-2); font-style: italic; white-space: nowrap; }
+.sec-h > span { white-space: normal; text-align: right; }
 .sec-h > a { padding: 10px 0; margin: -10px 0; }
 .sec-h > a:hover { color: var(--ink); }
 .sec-lede { margin: -8px 0 24px; font-size: var(--fs-lede); line-height: 1.5; color: var(--ink-2); max-width: 36em; }
@@ -273,10 +274,11 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .steps h3 { font-size: var(--fs-h4); line-height: 1.2; color: var(--ink); margin-bottom: 6px; }
 /* The eight shelves: each a small bookcase on its own paper, four of its books standing face out on one
    rule, then its name, its count and a sentence from one of its books. */
-.shelves { display: grid; gap: 34px 40px; }
+.shelves { display: grid; grid-template-columns: minmax(0, 1fr); gap: 34px 40px; }
+.sh, .sh-case { min-width: 0; }
 .sh { display: grid; gap: 16px; align-content: start; }
 .sh-case { display: flex; align-items: flex-end; gap: 10px; padding: 26px 22px 0; background: var(--g); border-bottom: 2px solid color-mix(in srgb, var(--k) 55%, transparent); }
-.sh-b { flex: 0 1 25%; max-width: 92px; transition: transform .35s ease; }
+.sh-b { flex: 0 1 25%; min-width: 0; max-width: 92px; transition: transform .35s ease; }
 .sh-b .cover { box-shadow: 0 1px 1px rgba(var(--shadow), .07), 0 10px 14px -12px color-mix(in srgb, var(--k) 70%, transparent); }
 .sh:hover .sh-b:nth-child(odd), .sh:focus-visible .sh-b:nth-child(odd) { transform: translateY(-4px); }
 .sh-name { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 14px; }
@@ -361,7 +363,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
   .made { padding-block: 56px 64px; }
   .made-pair { grid-template-columns: 1fr 1fr; gap: 40px; align-items: stretch; }
   .steps { grid-template-columns: repeat(4, 1fr); gap: 36px; }
-  .shelves { grid-template-columns: 1fr 1fr; gap: 56px 48px; }
+  .shelves { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 56px 48px; }
   .sh-case { padding: 30px 28px 0; gap: 14px; }
   .ft { padding-block: 72px 60px; }
   .ft-device { width: 86px; }
@@ -590,7 +592,8 @@ table.ledger .n { text-align: right; }
 .tbl-dl a { font-style: normal; color: var(--k); margin-left: 8px; }
 .tbl-dl a::after { content: "\00A0\2193"; }
 /* This edition: how far it has been checked, the record, and every form it comes in. */
-.edition { display: grid; gap: 28px; }
+.edition { display: grid; grid-template-columns: minmax(0, 1fr); gap: 28px; }
+.facts-list dd { min-width: 0; overflow-wrap: anywhere; }
 .edition .state { font-size: var(--fs-lede); line-height: 1.55; color: var(--ink-2); max-width: 34em; }
 .edition .proof { margin-top: 14px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); max-width: 34em; }
 .edition .proof .more { margin-left: 6px; }
@@ -618,7 +621,7 @@ table.ledger .n { text-align: right; }
   .bk-text .about { margin-top: 18px; }
   .bk-actions { margin-top: 24px; }
   .strip { grid-auto-columns: calc((100% - var(--gut) - var(--gut-r) - 36px) / 4); max-width: 1240px; margin: 0 auto; }
-  .edition { grid-template-columns: 1.4fr 1fr; gap: 56px; }
+  .edition { grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 56px; }
 }
 
 /* ---------- Reading page ---------- */
@@ -684,8 +687,8 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text .shoulder-sidenote + .shoulder-sidenote { margin-top: .4em; }
 .read[data-notes="off"] #chapter-text .sidenote-stack { display: none; }
 /* Page numbers: the printed folios, faint, each opening the camera's photograph of that page. */
-#chapter-text .page-rail-marker { height: 0; }
-#chapter-text .folio-trigger { position: absolute; right: calc(-1 * var(--gut-r) + 3px); padding: 0; margin-top: .45em; font: italic 11px/1 var(--serif); color: var(--ink-3);
+#chapter-text .page-rail-marker { height: 0; position: relative; }
+#chapter-text .folio-trigger { position: absolute; right: calc(-1 * var(--gut-r) + 5px); padding: 0; margin-top: .45em; font: italic 11px/1 var(--serif); color: var(--ink-3);
   font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; text-indent: 0; letter-spacing: 0; cursor: pointer; }
 #chapter-text .folio-trigger:hover, #chapter-text .folio-trigger[aria-expanded="true"] { color: var(--k); text-decoration: underline; text-underline-offset: 3px; }
 .read[data-folios="hidden"] #chapter-text .folio-trigger { display: none; }
