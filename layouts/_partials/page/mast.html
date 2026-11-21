@@ -1,0 +1,20 @@
+{{- $here := .RelPermalink -}}
+{{- $sec := .Section -}}
+<header class="mast" id="mast">
+  <div class="mast-in">
+    <nav class="mast-nav mn-l" aria-label="The library">
+      {{ partial "page/navlink" (dict "here" $here "href" "/books/" "match" "/books/" "label" "Library") }}
+      {{ partial "page/navlink" (dict "here" $here "href" "/plates/" "match" "/plates/" "label" "Plates") }}
+      {{ partial "page/navlink" (dict "here" $here "href" "/reading-room/" "match" "/reading-room/" "label" "Reading<span class=\"mn-long\"> Room</span>") }}
+    </nav>
+    <a class="mast-brand" href="/" aria-label="Akshara, the opening page">
+      <span class="mb-word"><span class="kn" lang="kn">ಅಕ್ಷರ</span> Akshara</span>
+      <span class="mb-sub"><span class="mb-ak">akṣara</span>, that which does not perish</span>
+    </a>
+    <nav class="mast-nav mn-r" aria-label="The house">
+      {{ partial "page/navlink" (dict "here" $here "href" "/blog/" "match" "/blog/" "label" "Journal") }}
+      {{ partial "page/navlink" (dict "here" $here "href" "/about/" "match" "/about/" "label" "About") }}
+      {{ partial "page/navlink" (dict "here" $here "href" "/search/" "match" "/search/" "label" "Search" "cls" "mn-search") }}
+    </nav>
+  </div>
+</header>

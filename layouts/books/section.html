@@ -1,0 +1,45 @@
+{{ define "view" }}library{{ end }}
+{{ define "main" }}
+{{- $books := partial "book/all.html" . -}}
+<section class="library">
+  <div class="wrap">
+    <header class="lib-head">
+      <h1 class="lib-title">The Library</h1>
+      <p class="lib-dek">Every edition in the house, by shelf, by date or by author. The filter reads titles, authors, years and descriptions.</p>
+    </header>
+    <div class="lib-search" role="search" data-lib-search hidden>
+      <label for="q" class="vh">Filter the library</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="A title, an author, a year or a word">
+      <p class="orders">Arranged <button type="button" data-order="shelf" aria-pressed="true">by shelf</button>, <button type="button" data-order="year" aria-pressed="false">by date</button>, or <button type="button" data-order="author" aria-pressed="false">by author</button></p>
+    </div>
+    <p class="tally" id="tally" aria-live="polite">All {{ partial "words.html" (len $books) }} editions, by shelf.</p>
+  </div>
+
+  <section class="case wrap" aria-label="The shelves" data-when="shelf">
+    <div class="case-run">
+    {{- range $i, $s := hugo.Data.shelves.shelf }}
+      {{- $bs := sort (where $books "shelf_no" $i) "year" }}
+      {{- if $bs }}{{ $rest := sub (len $bs) 18 }}
+      <div class="case-g" style="--cloth:{{ $s.cloth | safeCSS }}"><div class="case-shelf">
+        {{- range first 18 $bs }}{{ partial "book/spine.html" . }}{{ end -}}
+        {{- if gt $rest 0 }}<a class="case-end" href="/shelves/{{ $s.slug }}/">and {{ partial "words.html" $rest }} more</a>{{ end -}}
+      </div><a class="case-label" href="/shelves/{{ $s.slug }}/"><span class="cl-name">{{ $s.name }}</span><span class="cl-n">{{ partial "words.html" (len $bs) | strings.FirstUpper }} {{ cond (eq (len $bs) 1) "book" "books" }}, {{ (index $bs 0).year }}–{{ (index $bs (sub (len $bs) 1)).year }}</span></a></div>
+      {{- end }}
+    {{- end }}
+    </div>
+    <p class="case-note">Each spine is as thick as its book is long. Open a shelf to see its covers and the sentence that introduces it.</p>
+  </section>
+
+  <div class="wrap" data-when="shelf">
+    <h2 class="lib-sub tc">The catalogue</h2>
+    <p class="cat-intro">Every edition as a card in a library’s index: author, title, year. The marks say how far each has been checked.</p>
+  </div>
+  <div class="wrap">
+    <div class="catalogue" data-order-block="shelf">{{ partial "book/groups.html" (dict "books" $books "order" "shelf" "cap" 16) }}</div>
+    <div class="catalogue" data-order-block="year" hidden>{{ partial "book/groups.html" (dict "books" $books "order" "year") }}</div>
+    <div class="catalogue" data-order-block="author" hidden>{{ partial "book/groups.html" (dict "books" $books "order" "author") }}</div>
+    <p class="empty" data-empty hidden>Nothing in the library answers to that. Try a shorter word, or an author’s surname alone.</p>
+    <p class="cat-key"><span class="mk">*</span> Machine-checked edition&emsp;<span class="mk">†</span> Community edition, open for proofreading&emsp;Unmarked: Stage One edition</p>
+  </div>
+</section>
+{{ end }}

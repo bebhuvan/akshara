@@ -1,0 +1,84 @@
+# Hand-set details for particular books: the title on the cover when the full title is too long,
+# the author as the house sets it, the name to file it under, and the engraving stamped on its cover
+# (one of the book's own plates, cleaned to line in static/plates/). A book not listed here gets
+# all of these from its own front matter.
+
+["comprehensive-history-india-v2"]
+cover_title = "A Comprehensive History of India, Vol. II"
+
+["early-history-of-india-1924"]
+vignette = { plate = "eh-harsha", ratio = "1000/282", caption = "Autograph of King Harsha" }
+
+["early-history-tea-industry"]
+cover_title = "The Early History of the Tea Industry"
+
+["early-travels-in-india-1583-1619"]
+vignette = { plate = "et-coryat", ratio = "1000/960", caption = "Coryat on an elephant" }
+
+["east-india-exchange-currency-1920"]
+cover_title = "East India: Exchange and Currency"
+author = "The India Office"
+sort_name = "India Office, The"
+
+["economic-history-india-early-british-dutt"]
+cover_title = "The Economic History of India under Early British Rule"
+
+["economic-history-india-victorian-age-dutt"]
+cover_title = "The Economic History of India in the Victorian Age"
+
+["economic-life-bengal-district-faridpur-1916"]
+vignette = { plate = "fari-plan", ratio = "900/634", caption = "Plans of homesteads" }
+
+["eic-first-letter-book-1600-1619"]
+cover_title = "The First Letter Book of the East India Company"
+author = "George Birdwood and William Foster"
+vignette = { plate = "eic-ship", ratio = "800/1126", caption = "Ship before the sun, the printer’s device" }
+
+["englands-debt-to-india-lajpat-rai-1917"]
+sort_name = "Lajpat Rai, Lala"
+
+["english-factories-india-1630-1633-vol-04"]
+vignette = { plate = "ef4-coast", ratio = "900/646", caption = "The Coast Factories in 1630" }
+
+["english-factories-india-1665-1667-vol-12"]
+vignette = { plate = "ef12-bombay", ratio = "900/1083", caption = "Bombay Island and Salsette" }
+
+["essays-speeches-addresses-writings-naoroji-1887"]
+cover_title = "Essays, Speeches, Addresses and Writings"
+author = "Dadabhai Naoroji"
+
+["guide-to-india-office-records-1919"]
+cover_title = "A Guide to the India Office Records"
+
+["imperial-gazetteer-india-v1"]
+cover_title = "The Imperial Gazetteer of India, Vol. I"
+author = "Various authors"
+sort_name = "Imperial Gazetteer, various authors"
+
+["journey-from-madras-vol-i"]
+cover_title = "A Journey from Madras, Vol. I"
+vignette = { plate = "j1-cart", ratio = "1600/972", caption = "Cart of Mysore, fig. 11" }
+
+["journey-from-madras-vol-ii"]
+cover_title = "A Journey from Madras, Vol. II"
+vignette = { plate = "j2-chakram", ratio = "1600/1488", caption = "Chakram of Chowgaut, fig. 51" }
+
+["journey-from-madras-vol-iii"]
+cover_title = "A Journey from Madras, Vol. III"
+vignette = { plate = "j3-fish", ratio = "1700/1204", caption = "Cyprinus curmuca, plate xxx" }
+
+["judicial-revenue-systems-india-rammohun-1832"]
+cover_title = "The Judicial and Revenue Systems of India"
+
+["palas-of-bengal"]
+vignette = { plate = "pal-jones", ratio = "623/832", caption = "Sir William Jones, seal of the Asiatic Society" }
+
+["periplus-erythraean-sea"]
+cover_title = "The Periplus of the Erythræan Sea"
+vignette = { plate = "per-ship", ratio = "1/1", caption = "Merchant-ship of the second century" }
+
+["some-aspects-indian-commerce-industry-shirras-1911"]
+cover_title = "Some Aspects of Indian Commerce and Industry"
+
+["truth-about-indian-opium"]
+author = "G. Graham Dixon"

@@ -1,0 +1,15 @@
+{{ define "main" }}
+{{- $books := partial "book/all.html" . -}}
+<section class="pg wrap">
+  <header class="lib-head"><h1 class="lib-title">Authors</h1><p class="lib-dek">Everyone whose work is in the library, by surname, with the books of theirs that are here.</p></header>
+  <div class="catalogue authors-list">
+  {{- range sort .Pages "Title" }}
+    {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
+    {{- $theirs := where $books "page.Params.author_slug" $slug }}
+    <section class="au-row"><h2 class="au-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if or .Params.birth_year .Params.death_year }}<span class="au-yrs">{{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}</span>{{ end }}</h2>
+      {{- with $theirs }}<ol class="entries">{{ range . }}{{ partial "book/entry.html" (dict "book" .) }}{{ end }}</ol>{{ end }}
+    </section>
+  {{- end }}
+  </div>
+</section>
+{{ end }}

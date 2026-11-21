@@ -1,0 +1,114 @@
+{{ define "view" }}read{{ end }}
+{{ define "mast" }}{{ end }}
+{{ define "main" }}
+{{- $book := .Parent -}}
+{{- if eq $book.Kind "section" | not -}}{{- errorf "Chapter %s has no book above it" .RelPermalink -}}{{- end -}}
+{{- if eq $book.Title "Chapters" -}}{{- $book = $book.Parent -}}{{- end -}}
+{{- $b := partialCached "book/record.html" $book $book.RelPermalink -}}
+{{- $n := partial "chapter/name.html" . -}}
+{{- $all := $book.Pages.ByWeight -}}
+{{- $prev := "" -}}{{- $next := "" -}}
+{{- range $i, $c := $all -}}{{- if eq $c.RelPermalink $.RelPermalink -}}
+  {{- if gt $i 0 -}}{{- $prev = index $all (sub $i 1) -}}{{- end -}}
+  {{- if lt (add $i 1) (len $all) -}}{{- $next = index $all (add $i 1) -}}{{- end -}}
+{{- end -}}{{- end -}}
+{{- $isV1 := eq $b.tier "v1_archive" -}}
+{{- $folioFrom := .Params.printed_start_folio -}}
+
+{{- /* The printed heading at the top of the chapter repeats the title we set above it, so it is taken out;
+the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
+{{- $text := .Content -}}
+{{- $text = replaceRE `^(\s*(?:<div class="page-rail-marker"[^>]*>[\s\S]*?</div>|<span[^>]*sec-page-anchor[^>]*></span>)?)\s*<h2 class="sec-h1">[\s\S]*?</h2>\s*(?:<h3 class="sec-h2">[\s\S]*?</h3>)?` "$1" $text 1 -}}
+{{- $text = replace $text "Critical Apparatus &amp; Notes" "Notes" -}}
+
+<section class="read" id="read" style="--cloth:{{ $b.cloth | safeCSS }}" data-lh="normal" data-width="medium" data-notes="off" data-para="spaced" data-align="ragged" data-folios="shown" data-book="{{ $b.id }}">
+  <div class="rbar" id="rbar">
+    <span class="rb-prog" id="rb-prog" aria-hidden="true"></span>
+    <span class="rb-left"><a class="rb-home" href="/" aria-label="Akshara, the opening page"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span></a><a class="rb-btn" href="{{ $book.RelPermalink }}#h-toc" data-open="rp-contents" aria-controls="rpanel" aria-expanded="false">Contents</a></span>
+    <span class="rb-title"><a href="{{ $book.RelPermalink }}"><i>{{ $b.cover_title }}</i></a>{{ with $n.num }}&ensp;·&ensp;{{ $n.label }} {{ . }}{{ end }}<span class="rb-pos" id="rb-pos"></span></span>
+    <span class="rb-right" data-needs-js hidden>
+      <button type="button" class="rb-btn rb-focus" id="rb-focus" aria-pressed="false" title="Hide everything but the text (F)">Focus</button>
+      <button type="button" class="rb-btn" data-open="rp-settings" aria-controls="rpanel" aria-expanded="false" title="Text size, spacing, width, notes and paper"><span class="rb-aa" aria-hidden="true">Aa</span> Reading</button>
+    </span>
+  </div>
+
+  <aside class="rpanel" id="rpanel" aria-label="Contents and reading settings" aria-hidden="true" tabindex="-1">
+    <header class="rp-head">
+      <p><i>{{ $b.cover_title }}</i><br><span>{{ $b.author }}, {{ $b.year }}</span></p>
+      <button type="button" class="rp-close" id="rp-close">Close</button>
+    </header>
+    <div class="rp-tabs" role="tablist" aria-label="Panel">
+      <button type="button" role="tab" id="tab-set" aria-controls="rp-settings" aria-selected="true" data-tab="rp-settings">Reading</button>
+      <button type="button" role="tab" id="tab-toc" aria-controls="rp-contents" aria-selected="false" data-tab="rp-contents">Contents</button>
+    </div>
+    <div class="rp-body">
+      <section class="rp-sec" id="rp-settings" role="tabpanel" aria-labelledby="tab-set">
+        <div class="rs-row rs-size" role="group" aria-labelledby="lb-size"><span class="rs-k" id="lb-size">Size</span>
+          <div class="rs-opts"><button type="button" data-sz="0" aria-label="Smallest">A</button><button type="button" data-sz="1" aria-label="Small">A</button><button type="button" data-sz="2" aria-label="Medium">A</button><button type="button" data-sz="3" aria-label="Large">A</button><button type="button" data-sz="4" aria-label="Larger">A</button><button type="button" data-sz="5" aria-label="Largest">A</button></div>
+        </div>
+        <div class="rs-row rs-paper" role="group" aria-labelledby="lb-paper"><span class="rs-k" id="lb-paper">Paper</span>
+          <div class="rs-sheets">
+            <button type="button" data-set="paper" data-val="day" class="pp-day"><span class="pp-sheet" aria-hidden="true">Aa</span>Day</button>
+            <button type="button" data-set="paper" data-val="cotton" class="pp-cotton"><span class="pp-sheet" aria-hidden="true">Aa</span>Cotton</button>
+            <button type="button" data-set="paper" data-val="night" class="pp-night"><span class="pp-sheet" aria-hidden="true">Aa</span>Night</button>
+          </div>
+        </div>
+        <div class="rs-row" role="group" aria-labelledby="lb-lh"><span class="rs-k" id="lb-lh">Spacing</span>
+          <div class="rs-opts rs-words"><button type="button" data-set="lh" data-val="close">Close</button><button type="button" data-set="lh" data-val="normal">Easy</button><button type="button" data-set="lh" data-val="open">Open</button></div></div>
+        <div class="rs-row" role="group" aria-labelledby="lb-w"><span class="rs-k" id="lb-w">Width</span>
+          <div class="rs-opts rs-words"><button type="button" data-set="width" data-val="narrow">Narrow</button><button type="button" data-set="width" data-val="medium">Book</button><button type="button" data-set="width" data-val="wide">Wide</button></div></div>
+        <details class="rs-more">
+          <summary>More about the page</summary>
+          <div class="rs-row" role="group" aria-labelledby="lb-p"><span class="rs-k" id="lb-p">Paragraphs</span>
+            <div class="rs-opts rs-words"><button type="button" data-set="para" data-val="spaced">Spaced</button><button type="button" data-set="para" data-val="indented">Indented</button></div></div>
+          <div class="rs-row" role="group" aria-labelledby="lb-a"><span class="rs-k" id="lb-a">Edges</span>
+            <div class="rs-opts rs-words"><button type="button" data-set="align" data-val="ragged">Ragged</button><button type="button" data-set="align" data-val="justified">Justified</button></div></div>
+          <div class="rs-row" role="group" aria-labelledby="lb-n"><span class="rs-k" id="lb-n">Shoulder notes</span>
+            <div class="rs-opts rs-words"><button type="button" data-set="notes" data-val="off">Hidden</button><button type="button" data-set="notes" data-val="margin">In the margin</button></div></div>
+          <div class="rs-row" role="group" aria-labelledby="lb-f"><span class="rs-k" id="lb-f">Page numbers</span>
+            <div class="rs-opts rs-words"><button type="button" data-set="folios" data-val="shown">Shown</button><button type="button" data-set="folios" data-val="hidden">Hidden</button></div></div>
+        </details>
+        <p class="rp-note">Kept on this device, for every book.<span class="rp-keys"> Keys: <b>M</b> this panel, <b>F</b> focus, <b>+</b> and <b>−</b> size.</span></p>
+      </section>
+      <section class="rp-sec" id="rp-contents" role="tabpanel" aria-labelledby="tab-toc" hidden>
+        <nav id="rtoc" aria-label="Contents of the book"><ol>
+          {{- range $all }}{{ $cn := partial "chapter/name.html" . }}
+          <li><a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $.RelPermalink }} aria-current="page"{{ end }}><span class="rn">{{ $cn.num }}</span><span>{{ $cn.title }}</span><span class="pg">{{ .Params.printed_start_folio }}</span></a></li>
+          {{- end }}
+        </ol></nav>
+      </section>
+    </div>
+  </aside>
+  <div class="rp-scrim" id="rp-scrim" hidden></div>
+
+  <div class="sheet">
+  <div class="col">
+    <header class="chap-head">
+      {{- with $n.num }}<span class="kicker">{{ $n.label }} {{ . }}.</span>{{ end }}
+      <h1 data-pagefind-meta="title">{{ $n.title }}</h1>
+      <aside class="m"><p><i>{{ $b.cover_title }}</i>, by {{ $b.author }}, {{ $b.year }}.{{ with $folioFrom }} From page {{ . }}.{{ end }}</p></aside>
+    </header>
+    <div class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}">
+      {{ $text | safeHTML }}
+    </div>
+    <footer class="chap-end">
+      <span class="ce-mark" aria-hidden="true">ಅಕ್ಷರ</span>
+      <nav class="chap-nav" aria-label="Chapters">
+        {{- with $next }}{{ $nn := partial "chapter/name.html" . }}<a class="cn-next" href="{{ .RelPermalink }}"><span class="tc">Turn to {{ with $nn.num }}{{ lower $nn.label }} {{ . }}{{ else }}the next part{{ end }}</span><span class="cn-t">{{ $nn.title }}</span>{{ with .Params.printed_start_folio }}<span class="cn-s">From page {{ . }}</span>{{ end }}</a>{{ end }}
+        {{- with $prev }}{{ $pn := partial "chapter/name.html" . }}<a class="cn-prev" href="{{ .RelPermalink }}">Back to {{ $pn.title }}</a>{{ end }}
+        <a class="cn-prev" href="{{ $book.RelPermalink }}">The book, and its contents</a>
+      </nav>
+      {{- if not $isV1 }}
+      <p class="chap-proof">Found a misreading? {{ with .Params.proofing_url }}<a href="{{ . }}">Correct it on the proofreading desk</a>{{ else }}<a href="{{ site.Params.proofing_url }}/">Correct it on the proofreading desk</a>{{ end }}, beside the scan.</p>
+      {{- end }}
+    </footer>
+  </div>
+  </div>
+
+  <aside class="leaf" id="leaf" aria-label="Scan of the printed page" aria-hidden="true">
+    <header><span>The printed page&ensp;<b id="leaf-no"></b></span><button type="button" class="close-leaf" id="leaf-close">Close</button></header>
+    <div class="leaf-img" id="leaf-img"></div>
+    <p class="stand">The camera’s photograph of this page, from the copy in the Internet Archive, so that every word can be checked against it.</p>
+  </aside>
+</section>
+{{ end }}

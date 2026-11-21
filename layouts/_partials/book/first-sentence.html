@@ -1,0 +1,19 @@
+{{- /* The opening sentence of a chapter's text, for "How it begins". Headings run into the text
+(capitals, or "CHAPTER I") are stepped over, and a sentence set mostly in capitals or title case is
+skipped. Returns "" if nothing suitable is found. */ -}}
+{{- $out := "" -}}
+{{- range findRE `<p class="prose-p">[\s\S]*?</p>|<p>[\s\S]*?</p>` .Content 12 -}}
+  {{- if not $out -}}
+    {{- $txt := . | replaceRE `<sup[\s\S]*?</sup>` "" | replaceRE `<button[\s\S]*?</button>` "" | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
+    {{- $txt = $txt | replaceRE `^(?i:chapter|book|part)\s+[IVXLC\d]+\.?\s+` "" | replaceRE `^(?:[A-Z][A-Z’'.,:;-]+\s+){3,}` "" -}}
+    {{- range findRE `[^.!?]{30,400}[.!?](?:["’”])?` $txt 3 -}}
+      {{- if not $out -}}
+        {{- $s := strings.TrimSpace . -}}
+        {{- $words := split $s " " -}}
+        {{- $caps := len (findRE `(?:^|\s)[A-Z]` $s) -}}
+        {{- if and (ge (len $words) 8) (lt (mul $caps 10) (mul (len $words) 6)) (findRE `^[A-Z“"‘']` $s) -}}{{- $out = $s -}}{{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

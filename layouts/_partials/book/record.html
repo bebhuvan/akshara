@@ -1,0 +1,50 @@
+{{- /* One book's record, as every page shows it. Takes a book page (content/books/<id>/_index.md) and
+returns a dict. All hand-set exceptions come from data/bookdetails.toml; everything else from front matter. */ -}}
+{{- $p := . -}}
+{{- $id := path.Base (strings.TrimSuffix "/" $p.RelPermalink) -}}
+{{- $d := index hugo.Data.bookdetails $id | default dict -}}
+
+{{- $title := replaceRE `\s+:` ":" $p.Title -}}
+{{- with $p.Params.subtitle -}}
+  {{- with findRESubmatch `^Volume ([IVX]+)\b` . 1 -}}
+    {{- if not (strings.Contains $title "Vol.") -}}{{- $title = printf "%s, Vol. %s" $title (index (index . 0) 1) -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $cover := $d.cover_title | default "" -}}
+{{- if not $cover -}}
+  {{- $cover = $title -}}
+  {{- if gt (len $cover) 46 -}}{{- $cover = replaceRE `\s*[:—(].*$` "" $cover -}}{{- end -}}
+  {{- if gt (len $cover) 56 -}}{{- $cover = replaceRE `,[^,]*$` "" $cover -}}{{- end -}}
+{{- end -}}
+
+{{- $author := $d.author | default (replaceRE `\.([A-Z])` ". $1" (replaceRE `^Sir\s+` "" (replaceRE `,\s*C\.I\.E\.` "" ($p.Params.author | default "")))) -}}
+{{- $sort := $d.sort_name | default "" -}}
+{{- if not $sort -}}
+  {{- $words := split (strings.TrimSpace (replaceRE ` and .*$` "" (replaceRE `,.*$` "" $author))) " " -}}
+  {{- $last := index $words (sub (len $words) 1) -}}
+  {{- $rest := delimit (first (sub (len $words) 1) $words) " " -}}
+  {{- $sort = cond (eq $rest "") $last (printf "%s, %s" $last $rest) -}}
+{{- end -}}
+
+{{- $shelf := dict -}}
+{{- $shelfNo := 7 -}}
+{{- range $i, $s := hugo.Data.shelves.shelf -}}{{- if eq $s.key $p.Params.archetype -}}{{- $shelf = $s -}}{{- $shelfNo = $i -}}{{- end -}}{{- end -}}
+{{- if not $shelf -}}{{- errorf "Book %s has archetype %q, which is not one of the eight shelves in data/shelves.toml" $id $p.Params.archetype -}}{{- end -}}
+
+{{- $no := index hugo.Data.series $id -}}
+{{- if not $no -}}{{- errorf "Book %s has no series number. Add the next number to data/series.toml" $id -}}{{- end -}}
+
+{{- $year := printf "%v" $p.Params.year -}}
+{{- $pages := int ($p.Params.pages | default 300) -}}
+
+{{- $tier := $p.Params.edition_tier | default "v1_archive" -}}
+{{- $tierName := index (dict "machine_checked" "Machine-checked edition" "community" "Community edition, open for proofreading" "v1_archive" "Stage One edition") $tier -}}
+
+{{- return dict
+  "page" $p "id" $id "url" $p.RelPermalink
+  "title" $title "cover_title" $cover "subtitle" ($p.Params.subtitle | default "")
+  "author" $author "sort_name" $sort "year" $year "pages" $pages
+  "no" $no "shelf" $shelf "shelf_no" $shelfNo "cloth" $shelf.cloth
+  "vignette" ($d.vignette | default dict) "tier" $tier "tier_name" $tierName
+-}}

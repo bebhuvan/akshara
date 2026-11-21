@@ -1,0 +1,9 @@
+{{- /* One page per shelf, made from data/shelves.toml, at /shelves/<shelf-key>/. */ -}}
+{{- range $i, $s := hugo.Data.shelves.shelf -}}
+  {{- $.AddPage (dict
+    "path" ($s.slug)
+    "title" $s.name
+    "kind" "page"
+    "params" (dict "shelf_no" $i "shelf_key" $s.key)
+  ) -}}
+{{- end -}}

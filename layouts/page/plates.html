@@ -1,0 +1,21 @@
+{{ define "main" }}
+<section class="plates">
+  <div class="wrap"><header class="lib-head"><h1 class="lib-title">The Plates</h1>
+    <p class="lib-dek">Engravings, maps, coins and inscriptions from the books, with the paper of each scan taken away and the line left as it was cut. Each one opens the book it came from.</p></header></div>
+  <div class="wrap" id="plates-body">
+  {{- range hugo.Data.plates.group }}{{ $g := . }}
+    <section class="pl-group"><h2 class="pl-head">{{ if $g.year }}<span class="tc">From</span>{{ end }}{{ $g.name | replaceRE `^(.*?), (.*)$` (cond (ne $g.year "") "$1, <i>$2</i>" "$1, $2") | safeHTML }}{{ with $g.year }}, {{ . }}{{ end }}</h2>
+      <div class="pl-grid">
+      {{- range $g.plate }}{{ $b := partial "book/get.html" .book }}
+        {{- $ar := split .ratio "/" }}{{ $wide := gt (div (float (index $ar 0)) (float (index $ar 1))) 1.15 }}
+        <figure class="pl{{ if $wide }} wide{{ end }}" style="--plate:color-mix(in srgb, {{ $b.cloth | safeCSS }} 86%, #000)">
+          <a class="pl-open" href="{{ $b.url }}" aria-label="{{ .title }}, in {{ $b.title }}"><span class="ink-plate" role="img" aria-label="{{ .alt }}" style="--src:url(/plates/{{ .key }}.webp);--ar:{{ .ratio | safeCSS }}"></span></a>
+          <figcaption class="museum inline">{{ with .detail }}<span class="mu-no">{{ . | replaceRE `\bPlate ([ivxlc]+)\b` "Plate <span class=\"rn\">$1</span>" | safeHTML }}</span>{{ end }}<span class="mu-title">{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }}</span><span class="mu-src">{{ partial "plate/source.html" (dict "plate" . "book" $b) }}</span></figcaption>
+        </figure>
+      {{- end }}
+      </div>
+    </section>
+  {{- end }}
+  </div>
+</section>
+{{ end }}

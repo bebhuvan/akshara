@@ -1,0 +1,267 @@
+/* Akshara. Plain script, no dependencies. Every page works without it; it only adds conveniences.
+   Deciding (folding text, matching) is kept apart from doing (reading and changing the page). */
+(function () {
+  "use strict";
+
+  /* ---------------- deciding ---------------- */
+
+  /* lower case, accents removed, so "Palas" finds "Pālas" and "Muller" finds "Müller" */
+  function fold(s) {
+    return String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/æ/g, "ae").replace(/œ/g, "oe").toLowerCase();
+  }
+  function tokens(q) { return fold(q).split(/[^a-z0-9]+/).filter(Boolean); }
+  function matchesAll(hay, toks) { return toks.every(function (t) { return hay.indexOf(t) !== -1; }); }
+
+  var NUM = ["no", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen",
+    "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
+  var TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
+  function words(n) {
+    if (n < 20) return NUM[n];
+    if (n < 100) return TENS[Math.floor(n / 10)] + (n % 10 ? "-" + NUM[n % 10] : "");
+    return String(n);
+  }
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+
+  /* ---------------- doing ---------------- */
+  var $ = function (sel, root) { return (root || document).querySelector(sel); };
+  var $$ = function (sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); };
+
+  /* the library: three arrangements rendered by the build; the script chooses one and filters it */
+  function library() {
+    var box = $("[data-lib-search]");
+    if (!box) return;
+    box.hidden = false;
+    var input = $("#q", box), tally = $("#tally"), empty = $("[data-empty]");
+    var order = "shelf";
+    var HOW = { shelf: "by shelf", year: "by date of printing", author: "by author" };
+    $$("li[data-hay]").forEach(function (li) { li.dataset.fold = fold(li.dataset.hay); });
+    var total = $$('[data-order-block="year"] li[data-hay]').length;
+
+    function render() {
+      var toks = tokens(input.value), searching = toks.length > 0;
+      $$("[data-order-block]").forEach(function (b) { b.hidden = b.dataset.orderBlock !== order; });
+      $$("[data-when]").forEach(function (el) { el.hidden = searching || el.dataset.when !== order; });
+      var block = $('[data-order-block="' + order + '"]'), n = 0;
+      $$(".cat-group", block).forEach(function (g) {
+        var shown = 0;
+        $$("li[data-hay]", g).forEach(function (li) {
+          var ok = !searching || matchesAll(li.dataset.fold, toks);
+          li.hidden = !ok;
+          li.classList.toggle("open", searching);
+          if (ok) shown++;
+        });
+        var more = $(".more-on", g);
+        if (more) more.hidden = searching;
+        g.hidden = shown === 0;
+        n += shown;
+      });
+      empty.hidden = n > 0;
+      if (!searching) tally.textContent = "All " + words(total) + " editions, " + HOW[order] + ".";
+      else if (!n) tally.textContent = "";
+      else tally.textContent = cap(words(n)) + (n === 1 ? " book answers" : " books answer") + " to “" + input.value.trim() + "”, " + HOW[order] + ".";
+    }
+    input.addEventListener("input", render);
+    $$("[data-order]", box).forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        order = btn.dataset.order;
+        $$("[data-order]", box).forEach(function (b) { b.setAttribute("aria-pressed", String(b === btn)); });
+        render();
+      });
+    });
+    var q = new URLSearchParams(location.search).get("q");
+    if (q) { input.value = q; render(); }
+  }
+
+  /* settings kept on this device; storage may be unavailable (private windows), and the page works without it */
+  var store = {
+    get: function (k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* unavailable: nothing is kept */ } }
+  };
+
+  /* the reading room */
+  function reading() {
+    var read = $("#read");
+    if (!read) return;
+    var body = document.body, panel = $("#rpanel"), scrim = $("#rp-scrim");
+    $$("[data-needs-js]").forEach(function (el) { el.hidden = false; });
+    store.set("ak-last", location.pathname);
+
+    /* "[p. 12]" in the margin reads better as "12" */
+    $$(".folio-trigger").forEach(function (b) {
+      b.textContent = b.dataset.folio || b.textContent.replace(/^\[p\.\s*|\]$/g, "");
+      b.setAttribute("aria-expanded", "false");
+    });
+
+    var DEFAULTS = { lh: "normal", width: "medium", notes: "off", para: "spaced", align: "ragged", folios: "shown" };
+    function apply() {
+      Object.keys(DEFAULTS).forEach(function (k) { read.dataset[k] = store.get("ak-" + k) || DEFAULTS[k]; });
+      body.dataset.paper = store.get("ak-paper") || "day";
+      var sz = Math.max(0, Math.min(5, parseInt(store.get("ak-size") || "2", 10)));
+      read.style.setProperty("--rs", String(1 + (sz - 2) * 0.075));
+      $$("[data-sz]", panel).forEach(function (b) { b.setAttribute("aria-pressed", String(+b.dataset.sz === sz)); });
+      $$("[data-set]", panel).forEach(function (b) {
+        var now = b.dataset.set === "paper" ? body.dataset.paper : read.dataset[b.dataset.set];
+        b.setAttribute("aria-pressed", String(now === b.dataset.val));
+      });
+    }
+    function size(step) {
+      var sz = Math.max(0, Math.min(5, parseInt(store.get("ak-size") || "2", 10) + step));
+      store.set("ak-size", String(sz)); apply();
+    }
+    $$("[data-sz]", panel).forEach(function (b) { b.addEventListener("click", function () { store.set("ak-size", b.dataset.sz); apply(); }); });
+    $$("[data-set]", panel).forEach(function (b) { b.addEventListener("click", function () { store.set("ak-" + b.dataset.set, b.dataset.val); apply(); }); });
+    apply();
+
+    /* the panel */
+    var opener = null;
+    function tab(id) {
+      $$(".rp-tabs [data-tab]", panel).forEach(function (t) { t.setAttribute("aria-selected", String(t.dataset.tab === id)); });
+      $$(".rp-sec", panel).forEach(function (s) { s.hidden = s.id !== id; });
+    }
+    function openPanel(id, from) {
+      opener = from || document.activeElement;
+      tab(id);
+      panel.classList.add("open"); panel.setAttribute("aria-hidden", "false"); scrim.hidden = false;
+      $$("[data-open]").forEach(function (b) { b.setAttribute("aria-expanded", "true"); });
+      panel.focus();
+      var cur = $('#rtoc a[aria-current]', panel); if (id === "rp-contents" && cur) cur.scrollIntoView({ block: "center" });
+    }
+    function closePanel() {
+      if (!panel.classList.contains("open")) return;
+      panel.classList.remove("open"); panel.setAttribute("aria-hidden", "true"); scrim.hidden = true;
+      $$("[data-open]").forEach(function (b) { b.setAttribute("aria-expanded", "false"); });
+      if (opener) opener.focus({ preventScroll: true });
+    }
+    $$("[data-open]").forEach(function (b) {
+      b.addEventListener("click", function (e) { e.preventDefault(); openPanel(b.dataset.open, b); });
+    });
+    $$(".rp-tabs [data-tab]", panel).forEach(function (t) { t.addEventListener("click", function () { tab(t.dataset.tab); }); });
+    $("#rp-close").addEventListener("click", closePanel);
+    scrim.addEventListener("click", closePanel);
+
+    /* focus: nothing but the text */
+    var focusBtn = $("#rb-focus");
+    function focusMode(on) { body.classList.toggle("focus", on); focusBtn.setAttribute("aria-pressed", String(on)); }
+    focusBtn.addEventListener("click", function () { focusMode(!body.classList.contains("focus")); });
+
+    /* the scan leaf: a printed page number opens the camera's photograph of that page */
+    var leaf = $("#leaf"), leafImg = $("#leaf-img"), leafNo = $("#leaf-no"), leafFrom = null;
+    function closeLeaf() {
+      if (!leaf.classList.contains("open")) return;
+      leaf.classList.remove("open"); leaf.setAttribute("aria-hidden", "true"); body.classList.remove("leaf-open");
+      $$(".folio-trigger[aria-expanded='true']").forEach(function (b) { b.setAttribute("aria-expanded", "false"); });
+      if (leafFrom) leafFrom.focus({ preventScroll: true });
+    }
+    $$(".folio-trigger").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var src = b.dataset.scan;
+        if (!src || !/^https:\/\/archive\.org\//.test(src)) return;
+        if (b.getAttribute("aria-expanded") === "true") { closeLeaf(); return; }
+        $$(".folio-trigger[aria-expanded='true']").forEach(function (x) { x.setAttribute("aria-expanded", "false"); });
+        leafFrom = b;
+        var img = document.createElement("img");
+        img.src = src; img.alt = "Photograph of printed page " + (b.dataset.folio || "");
+        img.decoding = "async";
+        leafImg.replaceChildren(img);
+        leafNo.textContent = b.dataset.folio || "";
+        b.setAttribute("aria-expanded", "true");
+        leaf.classList.add("open"); leaf.setAttribute("aria-hidden", "false"); body.classList.add("leaf-open");
+        $("#leaf-close").focus({ preventScroll: true });
+      });
+    });
+    $("#leaf-close").addEventListener("click", closeLeaf);
+
+    /* keys */
+    document.addEventListener("keydown", function (e) {
+      if (e.target.closest("input, textarea, select") || e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.key === "Escape") { closePanel(); closeLeaf(); if (body.classList.contains("focus")) focusMode(false); }
+      else if (e.key === "m" || e.key === "M") { panel.classList.contains("open") ? closePanel() : openPanel("rp-settings"); }
+      else if (e.key === "f" || e.key === "F") focusMode(!body.classList.contains("focus"));
+      else if (e.key === "+" || e.key === "=") size(1);
+      else if (e.key === "-" || e.key === "−") size(-1);
+    });
+
+    /* how far through the chapter: a hairline under the bar */
+    var prog = $("#rb-prog"), text = $("#chapter-text"), ticking = false;
+    function progress() {
+      ticking = false;
+      var r = text.getBoundingClientRect(), span = r.height - window.innerHeight * 0.6;
+      var f = span > 0 ? Math.max(0, Math.min(1, -r.top / span)) : 1;
+      prog.style.setProperty("--p", f.toFixed(4));
+    }
+    window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(progress); } }, { passive: true });
+    progress();
+  }
+
+  /* the Reading Room link goes back to the last chapter read on this device */
+  function readingRoom() {
+    var last = store.get("ak-last");
+    if (!last || !/^\/books\/[a-z0-9-]+\/[a-z0-9\/-]+\/$/.test(last)) return;
+    $$('a[href="/reading-room/"]').forEach(function (a) { a.href = last; });
+  }
+
+  /* search: the Pagefind index made after the build (static, on this site, nothing third-party).
+     Excerpts come back as escaped text with <mark> around the found words; they are rebuilt as text
+     nodes and <mark> elements, never inserted as HTML. */
+  function excerptNodes(excerpt) {
+    var frag = document.createDocumentFragment(), parts = String(excerpt).split(/<\/?mark>/);
+    var dec = document.createElement("textarea");
+    parts.forEach(function (part, i) {
+      dec.innerHTML = part.replace(/</g, "&lt;");
+      var text = document.createTextNode(dec.value);
+      if (i % 2) { var m = document.createElement("mark"); m.appendChild(text); frag.appendChild(m); } else frag.appendChild(text);
+    });
+    return frag;
+  }
+  function search() {
+    var form = $("[data-search]");
+    if (!form) return;
+    var input = $("#sq", form), out = $("#s-results"), tally = $("#s-tally"), ways = $("#s-ways"), pf = null, seq = 0;
+    function load() { return pf || (pf = import("/pagefind/pagefind.js").then(function (m) { m.options({ excerptLength: 30 }); return m; })); }
+    function run() {
+      var q = input.value.trim(), mine = ++seq;
+      history.replaceState(null, "", q ? "?q=" + encodeURIComponent(q) : location.pathname);
+      if (!q) { out.replaceChildren(); tally.textContent = ""; ways.hidden = false; moreBtn.hidden = true; return; }
+      ways.hidden = true;
+      load().then(function (p) { return p.debouncedSearch(q, {}, 250); }).then(function (res) {
+        if (!res || mine !== seq) return;
+        var n = res.results.length;
+        tally.textContent = n ? (n === 1 ? "One page" : n + " pages") + " answer to “" + q + "”." : "Nothing answers to “" + q + "”. Try another spelling, or a shorter word.";
+        shown = 0; all = res.results;
+        return more(mine);
+      }).catch(function () {
+        tally.textContent = "Search could not be loaded. The catalogue in the library lists every book.";
+      });
+    }
+    var all = [], shown = 0, moreBtn = $("#s-more");
+    function more(mine) {
+      var next = all.slice(shown, shown + 30);
+      return Promise.all(next.map(function (r) { return r.data(); })).then(function (items) {
+          if (mine !== seq) return;
+          if (shown === 0) out.replaceChildren();
+          shown += items.length;
+          moreBtn.hidden = shown >= all.length;
+          moreBtn.textContent = "Show " + Math.min(30, all.length - shown) + " more of " + all.length;
+          out.append.apply(out, items.map(function (d) {
+            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), b = document.createElement("span"), x = document.createElement("p");
+            a.href = d.url; a.className = "s-hit";
+            t.className = "s-t"; t.textContent = (d.meta && d.meta.title) || d.url;
+            b.className = "s-b"; b.textContent = (d.meta && d.meta.book) || "";
+            x.className = "s-x"; x.appendChild(excerptNodes(d.excerpt));
+            a.append(t, b); li.append(a, x);
+            return li;
+          }));
+      });
+    }
+    moreBtn.addEventListener("click", function () { more(seq); });
+    form.addEventListener("submit", function (e) { e.preventDefault(); run(); });
+    input.addEventListener("input", run);
+    var q = new URLSearchParams(location.search).get("q");
+    if (q) { input.value = q; run(); }
+  }
+
+  library();
+  reading();
+  readingRoom();
+  search();
+})();

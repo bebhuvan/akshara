@@ -54,7 +54,7 @@ The north-east monsoon is a season of winds of continental origin, and thus of g
 
 The north-east monsoon air movement is fully established over the Indian land and sea areas by the beginning of January, when temperature is lowest in the Asiatic continent. A belt of high pressure and anti-cyclonic conditions then stretches from the West Mediterranean to Central Asia and North-east China. This corresponds to the belts of high pressure in about latitude 30° N. in the Pacific and Atlantic Oceans, but lies farther north. Pressure decreases southwards to a belt a little to the south of the equator, and thence increases again to a broad belt stretching from South-west Australia across the South Indian Ocean to the Cape. The northern belt of high pressure appears to separate completely the region traversed by the storms of Northern Europe (most of which enter from the North Atlantic) from the areas of the local storms of the Mediterranean Sea, Persia, and India, and limits to the north what may be termed the Indian monsoon region. The pressure conditions evidently accompany and determine northerly winds (deflected to north-east in consequence of the earth's rotation) in the Indian seas, and south-easterly winds in the centre of the Indian Ocean. The winds in the land area are modified by the trend and elevation of the mountain ranges, and by the direction of the mountain valleys. Temperature begins to rise in general in the month of February over the Asiatic continent, but the changes are usually small until the end of that month. Hence the normal air movement and pressure conditions are practically the same during these two months over the whole area between lat. 40° S. and 35° N., and the air movement in that large area virtually consists of two independent circulations. The rough sketch below shows the general character of the pressure conditions and air movements in these areas.
 
-<div style="text-align: center;"><img src="imgs/img_in_chart_box_67_425_650_639.jpg" alt="Image" width="85%" /></div>
+<p class="missing-figure"><i>A figure is printed here in the book; it is not yet reproduced in this edition.</i></p>
 
 **Fig. 1.** Sketch of air movement in India during cold weather period.
 
@@ -105,7 +105,7 @@ The first portion of the wet season, from June to September, witnesses the exten
 
 Accompanying the rapid increase of temperature in the Asiatic land area in May, pressure generally decreases, so that at the end of May the Asian winter anticyclone has been replaced by a deepish low-pressure area, the axis of which stretches from the Sūdān to Sind and Western Rājputāna and thence to Bengal, and is hence farther south than the median line of the winter anticyclone. A graphical representation of the chief pressure conditions in India and the Indian Ocean in May is given below. As compared with that given on p. 111, it indicates the replacement of a stable by an unstable system. Finally by a spasmodic and sudden burst, due chiefly to the momentum of the current and the diminution of resistance, and hence to vis a tergo and not to indraught towards the low-pressure area in India, the equatorial belt closes up, and the south-east circulation extends northwards across the equator into the two areas of the Arabian Sea and the Bay of Bengal, whence it advances more or less quickly into the neighbouring land areas of Burma, India, and Abyssinia.
 
-<div style="text-align: center;"><img src="imgs/img_in_chart_box_68_416_647_660.jpg" alt="Image" width="85%" /></div>
+<p class="missing-figure"><i>A figure is printed here in the book; it is not yet reproduced in this edition.</i></p>
 
 **Fig. 2.**
 
@@ -115,7 +115,7 @@ When this current is established over the Indian seas and adjacent land areas, a
 
 The south-east trades, previous to their extension across the equator, are largely directed to the African coast, and give more or less general rain, during the dry monsoon period of India, in South and East Africa. During April and May the rainfall occurs most largely in the Equatorial Lakes area and the south-east.
 
-<div style="text-align: center;"><img src="imgs/img_in_chart_box_53_457_631_779.jpg" alt="Image" width="85%" /></div>
+<p class="missing-figure"><i>A figure is printed here in the book; it is not yet reproduced in this edition.</i></p>
 
 **Fig. 3.**
 
@@ -255,7 +255,7 @@ The following chart shows clearly the normal distribution of rainfall of the per
 
 **CHART SHOWING THE NORMAL RAINFALL IN INCHES IN THE PLAINS OF INDIA, i.e. AT STATIONS BELOW 3,000 FEET IN ELEVATION, DURING THE PERIOD JUNE TO SEPTEMBER**
 
-![Image](imgs/img_in_image_box_54_248_613_813.jpg)
+<p class="missing-figure"><i>A figure is printed here in the book; it is not yet reproduced in this edition.</i></p>
 
 Fig. 4.
 

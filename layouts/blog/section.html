@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="journal jidx">
+  <div class="sheet"><div class="col">
+    <header class="art-head"><h1>The Journal</h1><p class="dek">Notes from the making of the library: what was done, how, and what is still wrong.</p></header>
+    <ol class="entries jindex">
+    {{- range .Pages.ByDate.Reverse }}
+      <li><a class="entry" href="{{ .RelPermalink }}"><span class="what"><span class="ttl">{{ .Title }}</span></span><span class="lead" aria-hidden="true"></span><span class="yr">{{ .Date.Format "2 Jan 2006" }}</span></a>{{ with .Description }}<span class="dek-s">{{ . }}</span>{{ end }}</li>
+    {{- end }}
+    </ol>
+  </div></div>
+</section>
+{{ end }}

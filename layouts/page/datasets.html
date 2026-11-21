@@ -1,164 +1,21 @@
 {{ define "main" }}
-{{ partial "header.html" . }}
-
-{{ $tableTotal := 0 }}
-{{ if .Site.Data.tables_atlas }}
-  {{ $tableTotal = len .Site.Data.tables_atlas.tables }}
-{{ end }}
-
-<main class="atlas-shell">
-  <header class="catalog-header">
-    <div class="catalog-header-inner">
-      <span class="section-kicker">OPEN STRUCTURED DATA · CC0 PUBLIC DOMAIN</span>
-      <h1 class="catalog-title">Colonial Statistical Atlas</h1>
-      <p class="catalog-subtitle">
-        Search across <strong>{{ $tableTotal }}</strong> historical ledgers, trade statements, revenue settlements, price series, and famine returns extracted from Akshara’s v6 editions. Every table ships in two CSV forms: <strong>Diplomatic</strong> (preserving exact printed pre-decimal <em>Rs. a. p.</em> and <em>£ s. d.</em> layout) and <strong>Tidy</strong> (unpivoted long-format observations).
-      </p>
-    </div>
-  </header>
-
-  <section class="catalog-controls-bar" aria-label="Filter statistical tables">
-    <div class="catalog-controls-inner">
-      <div class="catalog-search-box">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
-          <circle cx="11" cy="11" r="8"></circle>
-          <path d="m21 21-4.35-4.35"></path>
-        </svg>
-        <input type="search" id="atlasSearch" placeholder="Search captions, headers, or books (e.g. revenue, opium, famine, bullion, madras)..." autocomplete="off">
-      </div>
-
-      <div class="catalog-selects">
-        <select id="atlasBookFilter" aria-label="Filter by book">
-          <option value="all">All Books</option>
-        </select>
-
-        <select id="atlasUnitFilter" aria-label="Filter by currency or unit">
-          <option value="all">All Units</option>
-          <option value="Rs">Rupees / Annas / Pies (Rs)</option>
-          <option value="GBP">Sterling (£ s. d.)</option>
-        </select>
-
-        <label class="catalog-toggle-check">
-          <input type="checkbox" id="atlasVerifiedOnly">
-          <span>Arithmetic Verified Only</span>
-        </label>
-      </div>
-    </div>
-  </section>
-
-  <section class="atlas-results-wrap">
-    <div class="catalog-count-row">
-      <span id="atlasStatus">Loading {{ $tableTotal }} tables...</span>
-    </div>
-    <div id="atlasList" class="atlas-table-grid"></div>
-    <div class="atlas-load-more-wrap">
-      <button type="button" id="atlasLoadMore" class="btn-outline" hidden>Show More Tables</button>
-    </div>
-  </section>
-</main>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var listEl = document.getElementById('atlasList');
-  var statusEl = document.getElementById('atlasStatus');
-  var qEl = document.getElementById('atlasSearch');
-  var bookEl = document.getElementById('atlasBookFilter');
-  var unitEl = document.getElementById('atlasUnitFilter');
-  var verEl = document.getElementById('atlasVerifiedOnly');
-  var moreBtn = document.getElementById('atlasLoadMore');
-
-  var allTables = [];
-  var filtered = [];
-  var limit = 60;
-
-  function esc(s) {
-    return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-  }
-
-  function renderSlice() {
-    var slice = filtered.slice(0, limit);
-    if (!slice.length) {
-      listEl.innerHTML = '<div class="atlas-empty">No matching statistical tables found.</div>';
-      moreBtn.hidden = true;
-      return;
-    }
-    listEl.innerHTML = slice.map(function(t) {
-      var headers = (t.column_headers_preview || []).slice(0, 4).map(esc).join(' · ');
-      var units = (t.units || []).map(function(u) { return '<span class="atlas-unit-tag">' + esc(u) + '</span>'; }).join('');
-      var verBadge = t.arithmetic_verified ? '<span class="atlas-ver-badge is-ok">Sum Verified</span>' : '';
-      return '<article class="atlas-card">' +
-        '<div class="atlas-card-top">' +
-          '<span class="atlas-book-meta">' + esc(t.book_title) + ' (' + esc(t.publication_year) + ')</span>' +
-          '<div class="atlas-badges">' + units + verBadge + '</div>' +
-        '</div>' +
-        '<h3 class="atlas-card-title"><a href="' + esc(t.reader_url) + '">' + esc(t.caption || t.table_id) + '</a></h3>' +
-        (headers ? '<p class="atlas-card-cols">' + headers + '</p>' : '') +
-        '<div class="atlas-card-foot">' +
-          '<span class="atlas-dims">' + esc(t.table_id).toUpperCase() + ' · p. ' + esc(t.printed_folio || t.start_page) + ' · ' + esc(t.row_count) + '×' + esc(t.column_count) + ' · ' + esc(t.tidy_observation_count || 0) + ' obs</span>' +
-          '<div class="atlas-dl-links">' +
-            '<a href="' + esc(t.reader_url) + '" class="csv-pill">Read in Context</a>' +
-            (t.diplomatic_csv_url ? '<a href="' + esc(t.diplomatic_csv_url) + '" class="csv-pill" download>Diplomatic CSV</a>' : '') +
-            (t.tidy_csv_url ? '<a href="' + esc(t.tidy_csv_url) + '" class="csv-pill is-tidy" download>Tidy CSV</a>' : '') +
-          '</div>' +
-        '</div>' +
-      '</article>';
-    }).join('');
-    moreBtn.hidden = filtered.length <= limit;
-    if (!moreBtn.hidden) {
-      moreBtn.textContent = 'Show More (' + (filtered.length - limit) + ' remaining)';
-    }
-  }
-
-  function applyFilters() {
-    var q = (qEl.value || '').trim().toLowerCase();
-    var bk = bookEl.value;
-    var un = unitEl.value;
-    var verOnly = verEl.checked;
-    limit = 60;
-
-    filtered = allTables.filter(function(t) {
-      if (bk !== 'all' && t.book_id !== bk) return false;
-      if (un !== 'all' && !(t.units || []).includes(un)) return false;
-      if (verOnly && !t.arithmetic_verified) return false;
-      if (q) {
-        var hay = (t.caption + ' ' + t.book_title + ' ' + (t.authors || []).join(' ') + ' ' + (t.column_headers_preview || []).join(' ')).toLowerCase();
-        if (hay.indexOf(q) === -1) return false;
-      }
-      return true;
-    });
-    statusEl.textContent = 'Showing ' + Math.min(limit, filtered.length) + ' of ' + filtered.length + ' matching tables (' + allTables.length + ' total)';
-    renderSlice();
-  }
-
-  fetch('/data/tables_atlas.json')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      allTables = data.tables || [];
-      var books = {};
-      allTables.forEach(function(t) { books[t.book_id] = t.book_title + ' (' + (t.publication_year || '') + ')'; });
-      Object.keys(books).sort(function(a, b) { return books[a].localeCompare(books[b]); }).forEach(function(bid) {
-        var opt = document.createElement('option');
-        opt.value = bid;
-        opt.textContent = books[bid];
-        bookEl.appendChild(opt);
-      });
-      applyFilters();
-    })
-    .catch(function() {
-      statusEl.textContent = 'Could not load tables_atlas.json';
-    });
-
-  [qEl, bookEl, unitEl, verEl].forEach(function(el) {
-    el.addEventListener('input', applyFilters);
-    el.addEventListener('change', applyFilters);
-  });
-  moreBtn.addEventListener('click', function() {
-    limit += 60;
-    statusEl.textContent = 'Showing ' + Math.min(limit, filtered.length) + ' of ' + filtered.length + ' matching tables (' + allTables.length + ' total)';
-    renderSlice();
-  });
-});
-</script>
-
-{{ partial "footer.html" . }}
+{{- $books := partial "book/all.html" . -}}
+{{- $with := slice -}}{{- $total := 0 -}}
+{{- range $b := $books }}{{ with $b.page.Params.tables_list }}{{ $with = $with | append $b }}{{ $total = add $total (int ($b.page.Params.tables_count | default (len .))) }}{{ end }}{{ end -}}
+<section class="pg wrap tables-page">
+  <header class="lib-head"><h1 class="lib-title">The Tables</h1>
+    <p class="lib-dek">The tables set from the books so far, {{ $total }} in all from {{ partial "words.html" (len $with) }} books, each given twice as CSV: as printed, row for row, and tidy, one figure to a line, ready for a spreadsheet or a program. Each links to the page where it stands in its chapter.</p></header>
+  {{- range $with }}{{ $b := . }}
+  <details class="tb-book" style="--cloth:{{ $b.cloth | safeCSS }}">
+    <summary><span class="tb-t"><i>{{ $b.title }}</i></span><span class="tb-a">{{ $b.author }}, {{ $b.year }}</span>{{ $tn := int ($b.page.Params.tables_count | default (len $b.page.Params.tables_list)) }}<span class="tb-n">{{ $tn }} {{ cond (eq $tn 1) "table" "tables" }}</span></summary>
+    <ol class="tb-list">
+      {{- range $b.page.Params.tables_list }}
+      <li><a href="{{ .section_url }}">{{ .caption }}</a><span class="tb-pg">{{ with .printed_folio }}p.&nbsp;{{ . }}{{ end }}</span><span class="tbl-dl"><a href="{{ .diplomatic_csv }}" download>As printed</a><a href="{{ .tidy_csv }}" download>Tidy</a></span></li>
+      {{- end }}
+    </ol>
+    {{- if gt $tn (len $b.page.Params.tables_list) }}<p class="tb-pkg">The first {{ len $b.page.Params.tables_list }} are listed here; all {{ $tn }} are in the book’s data package.</p>{{ end }}
+    {{- with $b.page.Params.download_datasets }}<p class="tb-pkg"><a href="{{ . }}">The book’s data package (JSON), with every table</a></p>{{ end }}
+  </details>
+  {{- end }}
+</section>
 {{ end }}

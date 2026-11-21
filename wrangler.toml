@@ -1,21 +1,18 @@
-# Akshara - Cloudflare Workers Configuration
-# Docs: https://developers.cloudflare.com/workers/wrangler/configuration/
+# Akshara on Cloudflare Workers, as static assets only: no Worker script runs.
+# Cloudflare serves public/ directly, reads public/_headers and public/_redirects, and answers an
+# unknown address with public/404.html and a real 404 status (see DECISIONS.md, D3).
+# Docs: https://developers.cloudflare.com/workers/static-assets/
 
-name = "akshara"
-main = "src/index.js"
-compatibility_date = "2024-12-01"
+# The top-level name is the preview, so a bare `npx wrangler deploy` can never replace the live site.
+# Production is only ever deployed with --env production, which CI does from main.
+name = "akshara-preview"
+compatibility_date = "2026-11-01"
 
-# Build is handled by GitHub Actions workflow, not wrangler
-# [build]
-# command = "chmod +x scripts/build.sh && ./scripts/build.sh"
-
-# Static assets configuration
 [assets]
 directory = "./public"
-binding = "ASSETS"
 not_found_handling = "404-page"
+html_handling = "auto-trailing-slash"
 
-# Production environment
 [env.production]
 name = "akshara"
 routes = [
@@ -23,12 +20,3 @@ routes = [
   { pattern = "www.akshara.ink/*", zone_name = "akshara.ink" }
 ]
 
-[env.production.vars]
-ENVIRONMENT = "production"
-
-# Preview/staging environment (optional)
-[env.preview]
-name = "akshara-preview"
-
-[env.preview.vars]
-ENVIRONMENT = "preview"

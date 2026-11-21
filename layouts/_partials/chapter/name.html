@@ -1,0 +1,12 @@
+{{- /* A chapter's printed title split into its number and its words: "CHAPTER I: The Country and People"
+gives num "I", label "Chapter", title "The Country and People". Titles printed in capitals are set in
+title case, since the house sets no shouting capitals. */ -}}
+{{- $t := strings.TrimSpace .Title -}}
+{{- $num := "" -}}{{- $label := "" -}}
+{{- with findRESubmatch `^(?i)(chapter|book|part|appendix|lecture|essay|letter)\s+([IVXLCDM]+|\d+|[A-Z])\b[.:—-]?\s*(.*)$` $t 1 -}}
+  {{- $m := index . 0 -}}
+  {{- $label = index $m 1 | lower | strings.FirstUpper -}}{{- $num = index $m 2 -}}{{- $t = index $m 3 -}}
+{{- end -}}
+{{- if and $t (eq $t (upper $t)) -}}{{- $t = title (lower $t) -}}{{- end -}}
+{{- if not $t -}}{{- $t = printf "%s %s" $label $num -}}{{- end -}}
+{{- return dict "num" $num "label" $label "title" $t -}}

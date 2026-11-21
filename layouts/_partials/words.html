@@ -1,0 +1,12 @@
+{{- /* A number from 0 to 999 in words, as the house writes counts in running text. */ -}}
+{{- $n := int . -}}
+{{- $ones := slice "no" "one" "two" "three" "four" "five" "six" "seven" "eight" "nine" "ten" "eleven" "twelve" "thirteen" "fourteen" "fifteen" "sixteen" "seventeen" "eighteen" "nineteen" -}}
+{{- $tens := slice "" "" "twenty" "thirty" "forty" "fifty" "sixty" "seventy" "eighty" "ninety" -}}
+{{- $out := "" -}}
+{{- $h := div $n 100 -}}{{- $r := mod $n 100 -}}
+{{- if gt $h 0 -}}{{- $out = printf "%s hundred" (index $ones $h) -}}{{- if gt $r 0 -}}{{- $out = printf "%s and " $out -}}{{- end -}}{{- end -}}
+{{- if or (gt $r 0) (eq $n 0) -}}
+  {{- if lt $r 20 -}}{{- $out = printf "%s%s" $out (index $ones $r) -}}
+  {{- else -}}{{- $out = printf "%s%s" $out (index $tens (div $r 10)) -}}{{- if gt (mod $r 10) 0 -}}{{- $out = printf "%s-%s" $out (index $ones (mod $r 10)) -}}{{- end -}}{{- end -}}
+{{- end -}}
+{{- return $out -}}

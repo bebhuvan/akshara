@@ -1,32 +1,6 @@
 {{ define "main" }}
-{{ partial "header.html" . }}
-
-<main class="catalog-shell">
-  <header class="catalog-header">
-    <div class="catalog-header-inner">
-      <span class="section-kicker">404 · PAGE NOT FOUND</span>
-      <h1 class="catalog-title">This folio isn’t in the archive.</h1>
-      <p class="catalog-subtitle">The URL may have moved during Akshara's Stage Two upgrade, or the link may be misspelled.</p>
-      <div class="hero-cta-row">
-        <a href="/" class="btn-solid">Return Home →</a>
-        <a href="/books/" class="btn-outline">Browse Catalog</a>
-        <a href="/search/" class="btn-ghost-link">Search Archive</a>
-      </div>
-    </div>
-  </header>
-
-  <section class="catalog-results-wrap">
-    <h2 class="band-title-sm" style="margin-bottom: 32px;">Featured Editions</h2>
-    <div class="books-grid">
-      {{ $allBooks := where .Site.Pages "Section" "books" }}
-      {{ $allBooks = where $allBooks "Kind" "section" }}
-      {{ $allBooks = where $allBooks "File.Path" "!=" "books/_index.md" }}
-      {{ range first 6 ($allBooks.ByDate.Reverse) }}
-        {{ partial "book-card.html" . }}
-      {{ end }}
-    </div>
-  </section>
-</main>
-
-{{ partial "footer.html" . }}
+<section class="pg wrap notfound">
+  <header class="lib-head"><h1 class="lib-title">No page here</h1>
+    <p class="lib-dek">The address may be mistyped, or the page may have moved. Every book is in <a href="/books/">the library</a>, and <a href="/search/">search</a> reads the whole text.</p></header>
+</section>
 {{ end }}

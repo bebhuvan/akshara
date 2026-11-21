@@ -24,7 +24,7 @@ digitized_from: "Archive.org (DLI)"
 digitization_method: "PaddleOCR with AI-assisted cleanup"
 digitization_notes: "Extracted from the 1909 edition using PaddleOCR and processed for clean formatting. This volume is part of the comprehensive 26-volume Imperial Gazetteer of India series. Footnotes have been preserved inline with their respective chapters. The Table of Contents has been omitted from the chapter files. Tables are not properly processed. Accuracy is estimated at 95%+."
 cascade:
-  - _target:
+  - target:
       kind: "page"
     type: "chapters"
 edition_generation: "v1"

@@ -1,42 +1,34 @@
-# Akshara Headers Configuration
-# These headers are used by Cloudflare Workers/Pages as fallback
-# Primary headers are set in src/index.js
-
-# All pages
+# Security and cache headers for every response. Cloudflare reads this file (see DECISIONS.md, D3).
+# Scripts run only from this site; 'wasm-unsafe-eval' lets the search index (Pagefind) run its
+# WebAssembly. Inline style attributes carry each book's cloth colour. Scans load from archive.org.
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
-  Permissions-Policy: camera=(), microphone=(), geolocation=()
-  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
   Cross-Origin-Opener-Policy: same-origin
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self' https://cloudflareinsights.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
 
-# HTML pages - short cache, revalidate
-/*.html
-  Cache-Control: public, max-age=3600, must-revalidate
-
-# Static assets - long cache, immutable
+# Stylesheets and scripts are fingerprinted (the file name changes with the content), so they can be kept a year.
+/css/*
+  Cache-Control: public, max-age=31536000, immutable
 /js/*
   Cache-Control: public, max-age=31536000, immutable
 
-/css/*
-  Cache-Control: public, max-age=31536000, immutable
-
-/fonts/*
-  Cache-Control: public, max-age=31536000, immutable
-  Access-Control-Allow-Origin: *
-
+# These keep their names when they change, so browsers check back daily.
 /covers/*
-  Cache-Control: public, max-age=31536000, immutable
-
+  Cache-Control: public, max-age=86400
 /figures/*
-  Cache-Control: public, max-age=31536000, immutable
-
+  Cache-Control: public, max-age=86400
+/plates/*
+  Cache-Control: public, max-age=86400
+/img/*
+  Cache-Control: public, max-age=86400
+/fonts/*
+  Cache-Control: public, max-age=2592000
 /pagefind/*
-  Cache-Control: public, max-age=86400, must-revalidate
+  Cache-Control: public, max-age=3600
 
-# Downloads - allow direct download
 /downloads/*
-  Content-Disposition: attachment
+  Cache-Control: public, max-age=86400

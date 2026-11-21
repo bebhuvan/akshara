@@ -1,0 +1,2 @@
+{{- $on := false -}}{{- with .match }}{{ if hasPrefix $.here . }}{{ $on = true }}{{ end }}{{ end -}}
+<a href="{{ .href }}"{{ with .cls }} class="{{ . }}"{{ end }}{{ if $on }} aria-current="page"{{ end }}>{{ .label | safeHTML }}</a>

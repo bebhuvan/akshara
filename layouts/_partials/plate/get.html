@@ -1,0 +1,5 @@
+{{- /* A plate's record by its key, from data/plates.toml. */ -}}
+{{- $key := . -}}{{- $found := dict -}}
+{{- range hugo.Data.plates.group -}}{{- $g := . -}}{{- range .plate -}}{{- if eq .key $key -}}{{- $found = merge . (dict "group_name" $g.name "group_year" $g.year) -}}{{- end -}}{{- end -}}{{- end -}}
+{{- if not $found -}}{{- errorf "No plate %q in data/plates.toml" $key -}}{{- end -}}
+{{- return $found -}}
