@@ -296,7 +296,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 - **The eight shelves (`.sh`).** Each a small bookcase: four of its own books (those with pictures first)
   standing face out against a case a shade deeper than their covers (its paper with a sixth of its ink), on
   a 2px shelf-line in its ink; beneath, its name in its ink with
-  the count and years, its epigraph in italic and the source. On hover alternate books lift a little.
+  the count and years, its epigraph in italic and the source. The books stay still on hover; the shelf's name underlines.
 - **How a book is made (`.made`).** A band of the paper of the shelf the example comes from. The
   photographed page and the set table side by side as equals, each on white paper with a fine edge and
   named above itself ("As photographed", "As set"); then the four steps, each under a large light numeral
