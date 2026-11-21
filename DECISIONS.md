@@ -250,3 +250,22 @@ the scan. The chapter ends with a short rule, then next and before. Every earlie
 (size, paper, spacing, width, paragraphs, edges, notes, page numbers), the scan leaf, focus, find in this
 book, the keys and the progress line. Marginal notes are now shown by default (the reader can hide them),
 and paragraphs are indented by default, as the books were printed.
+
+## D21: Favicon, social previews and /library/ (2026-11-21)
+
+**Decided.** The favicon is ಅ, traced from Noto Serif Kannada (weight 500) into an outline, in the Surveys
+shelf's ink on its pale paper, with a dark version for devices in dark mode (`static/favicon.svg`); a
+180px touch icon and a 32/16px `favicon.ico` are made from the same outline. Every book has a social
+preview, 1200×630, made by Hugo itself at build time (`layouts/_partials/book/social.html`): the shelf's
+paper, the book's own plate printed in its ink (cut from a block of ink with the plate as a mask), the series
+line, the title, the author and year. Type-only books set the title larger under a rule. The rest of the site
+uses one card for Akshara (`page/social-home.html`). The plates are mounted as assets for this
+(`hugo.toml`, `[module]`). The text is drawn with three small static instances of Newsreader in
+`assets/fonts/og-*.ttf` (Latin only, made with fonttools; licence beside them), used only at build time and
+never sent to readers. `/library/` and `/library` redirect to `/books/`.
+
+**Why.** Hugo's own image filters (Padding, Mask, Overlay, Text) do this with no new dependency and no
+step outside the build, so the cards can never fall out of date with the covers.
+
+**Rejected.** Screenshots of a card page with a headless browser (a browser in CI, or 64 committed images
+that drift); an image library in a script (a dependency for what the build can do).

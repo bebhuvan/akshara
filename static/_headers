@@ -23,6 +23,8 @@
   Cache-Control: public, max-age=86400
 /plates/*
   Cache-Control: public, max-age=86400
+/og/*
+  Cache-Control: public, max-age=86400
 /img/*
   Cache-Control: public, max-age=86400
 /fonts/*
