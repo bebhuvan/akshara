@@ -1860,3 +1860,26 @@ body[data-paper="night"] .read #chapter-text .archival-plate img { mix-blend-mod
 .s-more { margin-top: 1.4rem; background: none; border: 0; border-bottom: .5px solid var(--blue-rule); padding: .3rem 0; color: var(--blue); font-style: italic; cursor: pointer; font-size: 1rem; }
 .s-more:hover { border-bottom-color: var(--blue); }
 .read #chapter-text .missing-figure { margin: 1.4rem 0; font-size: .86rem; color: var(--ink-2); text-align: center !important; }
+/* the reading bar: solid, and out of the way while reading; it slides away going down the page and
+   returns on the first move back up (the script adds .rbar-away) */
+.rbar { background: var(--paper); transition: transform .28s ease, opacity .4s ease; will-change: transform; }
+.rbar.rbar-away { transform: translateY(-110%); }
+.rbar.rbar-away:focus-within { transform: none; }
+@media (prefers-reduced-motion: reduce) { .rbar { transition: none; } }
+@media (min-width: 761px) { .ja-row > :nth-child(n+12) { display: none; } }
+/* the catalogue on a phone: no dotted leaders or hanging indents (they break up at this width);
+   each entry is the title, then the author and the year, with a hairline between */
+@media (max-width: 760px) {
+  ol.entries li + li .entry { border-top: .5px solid var(--hair); }
+  .entry { display: grid; grid-template-columns: minmax(0, 1fr) auto; grid-template-areas: "ttl mk" "who yr"; column-gap: .8rem;
+    align-items: baseline; padding: .6rem 0; font-size: 1rem; line-height: 1.32; }
+  .entry .what { display: contents; }
+  .entry, .entry .what, .entry .what > * { text-indent: 0; padding-left: 0; }
+  .entry .ttl { grid-area: ttl; }
+  .entry .mk { grid-area: mk; justify-self: end; margin: 0; vertical-align: 0; line-height: 1.32; }
+  .entry .who { grid-area: who; margin-top: .2rem; font-size: .86rem; }
+  .entry .who::after { content: none; }
+  .entry .yr { grid-area: yr; justify-self: end; width: auto; margin-top: .2rem; font-size: .86rem; color: var(--ink-2); }
+  .entry .lead { display: none; }
+  .cg-head { margin-bottom: .2rem; }
+}

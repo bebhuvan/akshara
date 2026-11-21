@@ -1,0 +1,8 @@
+# Sentences set large on the journal's front page, taken word for word from each essay.
+# The first is shown with the entry in the list; the second is set large when the essay leads.
+
+[introducing-akshara]
+pull = ["There’s a wide chasm between our boasts about the richness of our civilization and the respect we actually have for it.", "Why do this? This should exist. That’s it."]
+
+[stage-two-of-akshara]
+pull = ["One rule governs everything we publish: never pretend machine output is human-certified.", "Words endure when someone bothers to keep the lamp lit."]

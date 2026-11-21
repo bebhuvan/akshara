@@ -1,6 +1,0 @@
-{{ define "main" }}
-<section class="pg wrap">
-  <header class="lib-head"><p class="so-kicker tc"><a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a></p><h1 class="lib-title">{{ .Title }}</h1></header>
-  <ol class="entries plain-list">{{ range .Pages }}<li><a class="entry" href="{{ .RelPermalink }}"><span class="what"><span class="ttl">{{ .Title }}</span></span></a></li>{{ end }}</ol>
-</section>
-{{ end }}

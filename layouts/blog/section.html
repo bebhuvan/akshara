@@ -1,12 +1,57 @@
+{{ define "view" }}journal{{ end }}
 {{ define "main" }}
-<section class="journal jidx">
-  <div class="sheet"><div class="col">
-    <header class="art-head"><h1>The Journal</h1><p class="dek">Notes from the making of the library: what was done, how, and what is still wrong.</p></header>
-    <ol class="entries jindex">
-    {{- range .Pages.ByDate.Reverse }}
-      <li><a class="entry" href="{{ .RelPermalink }}"><span class="what"><span class="ttl">{{ .Title }}</span></span><span class="lead" aria-hidden="true"></span><span class="yr">{{ .Date.Format "2 Jan 2006" }}</span></a>{{ with .Description }}<span class="dek-s">{{ . }}</span>{{ end }}</li>
+{{- $posts := .Pages.ByDate.Reverse -}}
+{{- $lead := index $posts 0 -}}
+{{- $ln := partial "journal/name.html" $lead -}}
+{{- $lq := index (index hugo.Data.journal (path.Base (strings.TrimSuffix "/" $lead.RelPermalink)) | default dict) "pull" | default slice -}}
+<section class="jhome">
+  <header class="pg-head wrap">
+    <h1 class="pg-title">The Journal</h1>
+    <p class="pg-dek">Notes on making the editions: what the old books are like to work with, what goes wrong with them, and what the library is for. Written by the editor as the work goes on.</p>
+  </header>
+
+  <article class="jl wrap">
+    <a class="jl-art" href="{{ $lead.RelPermalink }}" aria-hidden="true" tabindex="-1">
+      <span class="jl-leaf" role="img" aria-label="Photograph of page 5 of R. C. Dutt’s India in the Victorian Age, 1904: heavy, uneven type on toned paper."></span>
+      <span class="jl-cap">Page 5 of R. C. Dutt’s <i>India in the Victorian Age</i>, 1904, as photographed</span>
+    </a>
+    <div class="jl-text">
+      <p class="jl-k">{{ with $lead.Params.category }}{{ . }}&ensp;·&ensp;{{ end }}{{ $lead.Date.Format "2 January 2006" }}</p>
+      <h2 class="jl-t"><a href="{{ $lead.RelPermalink }}">{{ $ln.title }}</a></h2>
+      {{- with $ln.dek }}<p class="jl-d">{{ . }}</p>{{ end }}
+      {{- with $lead.Description }}<p class="jl-x">{{ . }}</p>{{ end }}
+      <p class="jl-m">{{ $lead.ReadingTime }} minutes to read&ensp;<a href="{{ $lead.RelPermalink }}">Read the essay</a></p>
+    </div>
+  </article>
+
+  {{- if ge (len $lq) 2 }}
+  <figure class="jq wrap"><blockquote><p>{{ index $lq 1 }}</p></blockquote><figcaption>From <a href="{{ $lead.RelPermalink }}"><i>{{ $ln.title }}</i></a></figcaption></figure>
+  {{- end }}
+
+  {{- with after 1 $posts }}
+  <section class="jr wrap" aria-labelledby="jr-h"><h2 class="jr-h" id="jr-h">Earlier</h2>
+    {{- range . }}{{ $n := partial "journal/name.html" . }}{{ $q := index (index hugo.Data.journal (path.Base (strings.TrimSuffix "/" .RelPermalink)) | default dict) "pull" | default slice }}
+    <article class="jr-i"><p class="jr-date">{{ .Date.Format "2 January 2006" }}</p><div>
+      <h3><a href="{{ .RelPermalink }}">{{ $n.title }}</a></h3>
+      {{- with .Description }}<p class="jr-d">{{ . }}</p>{{ end }}
+      {{- with $q }}<p class="jr-q">“{{ index . 0 }}”</p>{{ end }}
+      <p class="jr-m">{{ with .Params.category }}{{ . }}&ensp;·&ensp;{{ end }}{{ .ReadingTime }} minutes</p>
+    </div></article>
     {{- end }}
-    </ol>
-  </div></div>
+  </section>
+  {{- end }}
+
+  {{- $books := partial "book/all.html" . }}
+  {{- $dates := slice }}{{ range $books }}{{ $dates = $dates | append (.page.Date.Format "2006-01-02") }}{{ end }}
+  {{- $latest := index (sort (uniq $dates) "value" "desc") 0 }}
+  {{- $added := slice }}{{ range $books }}{{ if eq (.page.Date.Format "2006-01-02") $latest }}{{ $added = $added | append . }}{{ end }}{{ end }}
+  <section class="jn-added band" aria-labelledby="ja-h"><div class="wrap">
+    <h2 class="jr-h" id="ja-h">Lately added to the library</h2>
+    <p class="ja-d">{{ (time $latest).Format "2 January 2006" }}: {{ partial "words.html" (len $added) }} editions.</p>
+    <div class="ja-row">{{ range first 12 (sort $added "no") }}{{ partial "book/cover-link.html" . }}{{ end }}</div>
+    <p class="more"><a href="/books/">The whole library</a></p>
+  </div></section>
+
+  <section class="jw wrap"><p>The journal is written as the work goes on, a few times a year. To hear of new entries, follow <a href="/index.xml">the RSS feed</a>, or <a href="/contact/">write to the editor</a>.</p></section>
 </section>
 {{ end }}

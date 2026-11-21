@@ -189,7 +189,18 @@
       var f = span > 0 ? Math.max(0, Math.min(1, -r.top / span)) : 1;
       prog.style.setProperty("--p", f.toFixed(4));
     }
-    window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(progress); } }, { passive: true });
+    /* the bar slides away while reading down and comes back on the first move up */
+    var bar = $("#rbar"), lastY = window.scrollY;
+    function barPlace() {
+      var y = window.scrollY, dy = y - lastY;
+      if (y < 80 || panel.classList.contains("open")) bar.classList.remove("rbar-away");
+      else if (dy > 6) bar.classList.add("rbar-away");
+      else if (dy < -6) bar.classList.remove("rbar-away");
+      if (Math.abs(dy) > 6) lastY = y;
+    }
+    window.addEventListener("scroll", function () {
+      if (!ticking) { ticking = true; requestAnimationFrame(function () { progress(); barPlace(); }); }
+    }, { passive: true });
     progress();
   }
 
