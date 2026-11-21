@@ -123,7 +123,7 @@ Use the role tokens; do not invent sizes.
 
 | Token | Role |
 |---|---|
-| `--fs-display` | The opening headline. Weight 300, tight leading, negative tracking. |
+| `--fs-display` | The opening headline. Weight 300, tight leading, negative tracking; on a phone sized so its widest line fills the column. Three phrases, each whole on its line, the last (the promise) italic in the house ink. |
 | `--fs-title` | A page's title (Library, an author, a book's short title). Weight 300. |
 | `--fs-feature` | A featured title inside a section. Weight 300. |
 | `--fs-quote` | A book's own words set large: weight 300, italic, in the shelf's ink. |
@@ -298,7 +298,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 - **The eight shelves (`.sh`).** Each a small bookcase: four of its own books (those with pictures first)
   standing face out against a case a shade deeper than their covers (its paper with a sixth of its ink), on
   a 2px shelf-line in its ink; beneath, its name in its ink with
-  the count and years, its epigraph in italic and, after a dash, the source in balanced lines. The books stay still on hover; the shelf's name underlines.
+  the count and years, its epigraph in italic in the text's ink behind a fine rule in the shelf's ink (full ink on hover), the source beneath in roman, quieter, in balanced lines. The books stay still on hover; the shelf's name underlines.
 - **How a book is made (`.made`).** A band of the paper of the shelf the example comes from. The
   photographed page and the set table side by side as equals, each on white paper with a fine edge and
   named above itself ("As photographed", "As set"); then the four steps, each under a large light numeral

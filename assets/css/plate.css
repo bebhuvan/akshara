@@ -64,7 +64,7 @@
   --fs-quote: clamp(22px, 5.6vw, 28px);    /* a book's own words, set large */
   --fs-feature: clamp(28px, 7.2vw, 42px);  /* the featured edition's title */
   --fs-title: clamp(42px, 12vw, 84px);     /* a page's title */
-  --fs-display: clamp(36px, 10.4vw, 84px); /* the opening headline */
+  --fs-display: clamp(36px, calc(15.6vw - 6px), 84px); /* the opening headline: its widest line fills a phone's column */
   --fs-mark: 20px; --fs-mark-kn: 19px;     /* the mark in the header */
   --fs-mark-wide: 24px; --fs-mark-kn-wide: 21px;
   --measure: 33em;       /* the reading column: about 65 characters */
@@ -203,7 +203,11 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 
 /* ---------- Home ---------- */
 .lede { padding-block: 14px 20px; }
-.lede h1 { font-weight: 300; font-size: var(--fs-display); line-height: 1; letter-spacing: -0.028em; text-wrap: balance; }
+.lede h1 { font-weight: 300; font-size: var(--fs-display); line-height: 1; letter-spacing: -0.028em; }
+/* The promise in the house's own ink, the colour of the mark above it: italic, a little looser. */
+.lede h1 em { color: var(--k); letter-spacing: -0.015em; }
+/* Three lines, as written: each phrase whole on its own line. */
+.lede h1 > * { display: block; white-space: nowrap; }
 /* The turning plate: one engraving at a time on its own shelf's paper, crossfading to the next. */
 .stage { position: relative; background: var(--g); overflow: hidden; transition: background-color 1.4s ease; }
 .stage .art { position: relative; height: min(74vw, 560px); }
@@ -288,12 +292,15 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .sh-name { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 14px; }
 .sh h3 { font-size: var(--fs-h3); line-height: 1.2; color: var(--k); letter-spacing: -0.01em; }
 .sh .n { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
-/* The shelf's epigraph, a little apart from the name; the source set off by a dash, quieter, broken in
-   balanced lines. (The opening quote is not hung: the section's paint containment would clip it.) */
-.sh blockquote { margin-top: 16px; font-size: var(--fs-ui); line-height: 1.55; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
+/* The shelf's epigraph, set as a passage quoted from the books: a fine rule in the shelf's ink down its left,
+   the words in the text's ink, the source beneath, roman and quieter. The rule sits inside the box, so the
+   section's paint containment never clips it. */
+.sh blockquote { margin-top: 18px; padding: 2px 0 2px 16px; border-left: 2px solid color-mix(in srgb, var(--k) 45%, transparent); }
+.sh blockquote p { font-size: var(--fs-ui); line-height: 1.55; font-style: italic; color: var(--ink); text-wrap: pretty; }
 .sh blockquote p::before { content: "“"; } .sh blockquote p::after { content: "”"; }
-.sh blockquote footer { margin-top: 8px; font-size: var(--fs-caption); line-height: 1.45; font-style: normal; color: var(--ink-3); text-wrap: balance; }
-.sh blockquote footer::before { content: "— "; }
+.sh blockquote footer { margin-top: 8px; font-size: var(--fs-caption); line-height: 1.45; font-style: normal; color: var(--ink-2); text-wrap: balance; }
+.sh blockquote footer em, .sh blockquote footer i { color: inherit; }
+.sh:hover blockquote { border-left-color: var(--k); }
 .sh:hover h3, .sh:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 
 /* ---------- Footer ---------- */
