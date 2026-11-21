@@ -123,7 +123,7 @@ Use the role tokens; do not invent sizes.
 
 | Token | Role |
 |---|---|
-| `--fs-display` | The opening headline. Weight 300, tight leading, negative tracking; on a phone sized so its widest line fills the column. Three phrases, each whole on its line, the last (the promise) italic in the house ink. |
+| `--fs-display` | The opening headline. Weight 300, tight leading, negative tracking; on a phone sized so its widest line fills the column. Three phrases, each whole on its line, the last (the promise) upright in the house ink. |
 | `--fs-title` | A page's title (Library, an author, a book's short title). Weight 300. |
 | `--fs-feature` | A featured title inside a section. Weight 300. |
 | `--fs-quote` | A book's own words set large: weight 300, italic, in the shelf's ink. |
@@ -148,7 +148,7 @@ any size.
 - **Weights:** 300 for display sizes, 400 for everything else. No bold in the interface; a quiet voice is made with size and the lighter inks, not italic.
 - **Italic means one thing** (D29): someone else's words, or the title of a book. A quotation, an epigraph,
   a book's opening sentence, the second line of a title, a title in running text, a scientific name as
-  printed. Labels, captions, dates, counts, section asides, headings, buttons and the editor's own words are
+  printed, and a word cited as a word (the footer's *akṣara*). Labels, captions, dates, counts, section asides, headings, buttons and the editor's own words are
   upright, made quiet by size and `--ink-2`/`--ink-3`. Inside a chapter the book's own italics stay as printed.
 - **Small capitals** only at a chapter's opening line, and for the book's own headings that it printed in
   capitals (set in small capitals so they do not shout). Newsreader has none, so the browser draws them from
@@ -221,7 +221,7 @@ section below the first screen is fetched only as the reader nears it (`content-
 - On the turning plate, the engraving fills its stage but is never cut by its edges.
 
 ### Captions
-Like a label in a gallery: the plate's name (italic if it is a scientific or foreign name), then where it
+Like a label in a gallery: the plate's name (italic only if it is a scientific name, as printed), then where it
 was printed: *Plate xx, fig. 51 · Buchanan, A Journey from Madras, 1807*. See §9.
 
 ---

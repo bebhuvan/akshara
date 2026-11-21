@@ -734,6 +734,8 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .read[data-notes="off"] #chapter-text .sidenote-stack { display: none; }
 /* Page numbers: the printed folios, faint, each opening the camera's photograph of that page. */
 #chapter-text .page-rail-marker { height: 0; position: relative; }
+/* a page's link target stands clear of the reading bar when a link opens the text at that page */
+#chapter-text .pg-at { scroll-margin-top: 80px; }
 #chapter-text .folio-trigger { position: absolute; right: calc(-1 * var(--gut-r) + 5px); padding: 12px 6px 12px 12px; margin: calc(.45em - 12px) -6px 0 0; min-width: 26px; text-align: right; font: 11px/1 var(--serif); color: var(--ink-3);
   font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; text-indent: 0; letter-spacing: 0; cursor: pointer; }
 #chapter-text .folio-trigger:hover, #chapter-text .folio-trigger[aria-expanded="true"] { color: var(--k); text-decoration: underline; text-underline-offset: 3px; }
@@ -1035,7 +1037,7 @@ html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-phot
 .pillars li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 5px 12px; align-items: baseline; }
 .pl-name { font-size: var(--fs-ui); color: var(--ink); }
 .pl-n { font-size: var(--fs-ui); color: var(--k); font-variant-numeric: lining-nums tabular-nums; }
-.pl-n i { color: var(--ink-3); font-style: normal; }
+.pl-n i { color: var(--ink-2); font-style: normal; }
 .pl-bar { grid-column: 1 / -1; height: 2px; background: color-mix(in srgb, var(--k) 16%, transparent); }
 .pl-bar i { display: block; height: 100%; background: var(--k); }
 .pl-found { grid-column: 1 / -1; font-size: var(--fs-note); line-height: 1.45; color: var(--ink-2); }

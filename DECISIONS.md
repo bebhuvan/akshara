@@ -368,7 +368,8 @@ would treat every book as faulty and speak in the wrong voice for a library.
 
 **Decision.** Across the library, italic is kept for quotations (epigraphs, a book's opening sentence, the
 shelves' epigraphs, the featured quotation), titles of books (including the second line of a title and a
-volume), and scientific names as printed. Everything else that was italic, which was most of the interface's
+volume), scientific names as printed, and a word cited as a word (the footer's *akṣara*, as a dictionary
+sets its headword; added after review 0003). Everything else that was italic, which was most of the interface's
 quiet voice (section asides, counts, captions, authors under covers, dates, headings in the edition section,
 chapter numbers, shoulder notes and side-headings, folios, buttons, the search field), is now upright, made
 quiet by size and the lighter inks. The headline's "readable again." keeps its colour and is upright. Inside a
@@ -377,3 +378,18 @@ chapter the book's own italics are untouched.
 **Why.** Bhuvanesh approved this rule for the living books and chose to apply it to the library too, so the
 house and its sister imprints read as one family, and so italic carries meaning instead of mood. Rejected:
 keeping italic as the library's second voice, which made every small label look like a quotation.
+
+## D30: What "How this text was read" may say about each book (2026-11-21)
+
+**Decision.** The account says only what is true of every book (read by a vision-language model, then run
+through automatic checks that flag passages to be re-read), and lets the book's record say the rest. "What errors
+remain should be few and small" appears only when the checks' score is 95 or more; below 90 the page says the
+checks flagged more than usual. Stage One books get their own account: OCR or an earlier AI reading, cleaned up
+with AI, not read page by page. What an edition leaves out of the printed book is said on its page, from
+`data/edition_notes.toml`. Each printed page in a chapter has a link target, `#p-<folio>`, so a living book can
+open an edition at the page it quotes.
+
+**Why.** Review 0003 found the first wording told every book it had been checked against the scans and had few,
+small errors, beside records saying no page was re-read and dozens of items were open. The thresholds (95, 90)
+are mine, set from the spread of scores (26 books at 100, the lowest at 75); Bhuvanesh may move them.
+Rejected: one sentence for every book, which is either too modest for the clean ones or untrue of the rest.

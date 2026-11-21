@@ -1,0 +1,5 @@
+# What an edition leaves out of the printed book, said on its page so a reader does not think it lost from the
+# source. Each line is taken from the book's own record (content/books/<id>/_index.md, digitization_notes);
+# keep the record as the source and copy its words here when one says something is omitted.
+[modern-religious-movements-india]
+omits = "The printed book’s appendix, glossary and index are not in this edition."

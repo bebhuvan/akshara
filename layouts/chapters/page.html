@@ -30,6 +30,9 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
 {{- /* a shoulder note that begins by repeating the chapter's number ("CHAPTER I. Vicinity of Madras.") keeps only
 its own words; the book's headings printed in capitals are marked to be set in small capitals */ -}}
 {{- $text = replaceRE `(<aside class="shoulder-sidenote[^"]*">)\s*(?:CHAPTER|Chapter)\s+[IVXLC\d]+\.\s*` "$1" $text -}}
+{{- /* a link target at each printed page, #p-<folio>, so another page (a living book's note) can open the text at page N */}}
+{{- $folios := slice }}{{ range findRESubmatch `class="folio-trigger[^"]*"[^>]*?data-folio="([0-9ivxlcdm]+)"` $text }}{{ $folios = $folios | append (index . 1) }}{{ end }}
+{{- range uniq $folios }}{{ $text = replaceRE (printf `(<(?:button|span|a)\b[^>]*? class="folio-trigger[^"]*"[^>]*?data-folio="%s")` .) (printf `<span class="pg-at" id="p-%s"></span>$1` .) $text 1 }}{{ end -}}
 {{- $text = replaceRE `<h3 class="sec-h3">([^a-z<]{3,})</h3>` `<h3 class="sec-h3 caps">$1</h3>` $text -}}
 
 <div class="read {{ $b.code }}" id="read" data-lh="normal" data-width="medium" data-notes="margin" data-para="indented" data-align="ragged" data-folios="shown" data-book="{{ $b.id }}">
@@ -113,7 +116,7 @@ its own words; the book's headings printed in capitals are marked to be set in s
       <h1 data-pagefind-meta="title"{{ if gt (strings.RuneCount $n.title) 60 }} class="long"{{ end }}>{{ $n.title }}</h1>
       <p class="meta"><i>{{ $b.cover_title }}</i>, {{ $b.author }}, {{ $b.year }}{{ with $folioFrom }} · from page {{ . }}{{ end }}{{ with findRE `^\d+` (printf "%v" ($.Params.reading_time | default "")) 1 }}{{ $mins := int (index . 0) }}{{ if gt $mins 0 }} · about {{ $mins }} minutes{{ end }}{{ end }}</p>
       {{- $checked := int ($book.Params.human_verified_pages | default 0) }}
-      <p class="op-read"><a href="{{ $book.RelPermalink }}#h-reading">{{ if $checked }}Read by machine; {{ $checked }} pages since checked by a person{{ else }}Read by machine, not yet checked by a person{{ end }}. It may hold small errors.</a></p>
+      <p class="op-read"><a href="{{ $book.RelPermalink }}#h-reading">{{ if $isV1 }}An earlier edition, not yet checked against its scans. It may hold errors.{{ else if $checked }}Read by machine; {{ $checked }} pages since checked by a person. It may hold small errors.{{ else }}Read by machine, not yet checked by a person. It may hold small errors.{{ end }}</a></p>
     </div>
   </header>
 

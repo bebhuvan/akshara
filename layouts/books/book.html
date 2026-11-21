@@ -73,7 +73,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
       <div><b>{{ len $main }}</b><span>{{ cond (eq (len $main) 1) "chapter" "chapters" }}</span></div>
       {{- with $p.tables_count }}<div><b>{{ . }}</b><span>{{ cond (eq (int .) 1) "table" "tables" }}</span></div>{{ end }}
       {{- with $hours }}<div><b>{{ . }}</b><span>{{ cond (eq . "1") "hour" "hours" }}</span></div>{{ end }}
-      {{- with and (not $isV1) $p.rubric_score }}<a class="fact-score" href="#h-reading"><b>{{ math.Round . }}</b><span>of 100, checked</span></a>{{ end }}
+      {{- with and (not $isV1) $p.rubric_score }}<a class="fact-score" href="#h-reading"><b>{{ math.Round . }}</b><span>of 100 in automatic checks</span></a>{{ end }}
     </div>
     {{- $checked := int ($p.human_verified_pages | default 0) }}
     <p class="read-note"><a href="#h-reading">{{ if $isV1 }}An earlier edition, read by machine and not yet checked against its scans.{{ else if $checked }}Read by machine; {{ $checked }} of {{ $p.pages }} pages since checked by a person.{{ else }}Read by machine from the photographs, and not yet checked by a person.{{ end }} <span>What that means</span></a></p>
@@ -155,7 +155,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
 {{- end }}{{ end }}
 
 <div class="wrap">
-  {{ partial "book/reading.html" (dict "p" $p "isV1" $isV1) }}
+  {{ partial "book/reading.html" (dict "p" $p "isV1" $isV1 "id" $b.id) }}
   <section class="sec" aria-labelledby="h-edition">
     <div class="sec-h"><h2 id="h-edition">This edition</h2><span>{{ index (dict "machine_checked" "Machine-checked" "community" "Open for proofreading" "v1_archive" "Stage One") $b.tier }}</span></div>
     <div class="edition">

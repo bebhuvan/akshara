@@ -1,9 +1,10 @@
-{{- /* What a search result needs to draw its book: the title and author as element text (they may hold
+{{- /* What a search result needs to draw its book (ignored as text, so a chapter does not match its own
+title and author on every page; Pagefind still reads the metadata): the title and author as element text (they may hold
 commas, which Pagefind would split in an attribute), the shelf, year, cover kind and plate as attributes.
 Takes a book record. */ -}}
 {{- $b := . -}}
-<span class="vh" aria-hidden="true" data-pagefind-meta="book">{{ $b.cover_title }}</span>
-<span class="vh" aria-hidden="true" data-pagefind-meta="author">{{ $b.author }}</span>
+<span class="vh" aria-hidden="true" data-pagefind-ignore data-pagefind-meta="book">{{ $b.cover_title }}</span>
+<span class="vh" aria-hidden="true" data-pagefind-ignore data-pagefind-meta="author">{{ $b.author }}</span>
 <span data-pagefind-meta="shelf:{{ $b.code }}"></span><span data-pagefind-meta="year:{{ $b.year }}"></span><span data-pagefind-meta="kind:{{ $b.cover.kind }}"></span>
 {{- with $b.cover.plate }}<span data-pagefind-meta="plate:{{ partial "plate/url.html" (dict "key" . "w" 240) }}"></span>{{ end }}
 {{- /**/ -}}

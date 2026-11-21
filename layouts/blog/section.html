@@ -46,7 +46,8 @@
     {{- $pick := slice }}{{ $seen := slice }}
     {{- range sort $added "no" "desc" }}{{ if and (not (in $seen .code)) (lt (len $pick) 6) }}{{ $pick = $pick | append . }}{{ $seen = $seen | append .code }}{{ end }}{{ end }}
     {{- range sort $added "no" "desc" }}{{ if and (not (in $pick .)) (lt (len $pick) 6) }}{{ $pick = $pick | append . }}{{ end }}{{ end }}
-    <p class="sec-lede">{{ partial "words.html" (len $added) | strings.FirstUpper }} editions on that day; six of them, from across the shelves, are here. <a class="ln" href="/books/">All of them are in the library.</a></p>
+    {{- $na := len $added }}
+    <p class="sec-lede">{{ if eq $na 1 }}One edition on that day, here.{{ else if le $na 6 }}{{ partial "words.html" $na | strings.FirstUpper }} editions on that day, all of them here.{{ else }}{{ partial "words.html" $na | strings.FirstUpper }} editions on that day; six of them, from across the shelves, are here.{{ end }} <a class="ln" href="/books/">All of them are in the library.</a></p>
     <div class="row"><div class="shelf">{{ range $pick }}{{ partial "book/lib-entry.html" . }}{{ end }}</div></div>
     <p class="quiet" style="margin-top:22px">The journal is written as the work goes on, a few times a year. To hear of new entries, follow <a href="/index.xml">the RSS feed</a>, or <a href="/contact/">write to the editor</a>.</p>
   </section>

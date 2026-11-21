@@ -12,7 +12,7 @@
 {{- $rows = sort $rows "key" -}}
 {{- $letters := slice }}{{ range $rows }}{{ if ne .key "zzzz" }}{{ $letters = $letters | append .letter }}{{ end }}{{ end }}{{ $letters = uniq $letters -}}
 <section class="wrap">
-  <header class="pg-h"><h1>Authors</h1><p class="dek">{{ partial "words.html" (len $rows) | strings.FirstUpper }} writers, filed by surname, each with the books of theirs that are on the shelves.</p></header>
+  <header class="pg-h"><h1>Authors</h1><p class="dek">{{ partial "words.html" (len $rows) | strings.FirstUpper }} names, filed by surname, each with the books of theirs that are on the shelves.</p></header>
   <nav class="az" aria-label="Authors by letter">{{ range $letters }}<a href="#by-{{ lower . }}">{{ . }}</a>{{ end }}</nav>
   <div class="index">
   {{- range $letter := $letters }}
