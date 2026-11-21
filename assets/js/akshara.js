@@ -22,9 +22,61 @@
   }
   function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
 
+  /* search results grouped by the book they come from, in the order the books first appear; a result
+     that is the book's own page is marked, so it can be named as such */
+  function bookOf(url) { var m = /^\/books\/([^/]+)\//.exec(url || ""); return m ? m[1] : ""; }
+  function groupByBook(items, perBook) {
+    var order = [], by = {};
+    items.forEach(function (d) {
+      var id = bookOf(d.url);
+      if (!id) return;
+      if (!by[id]) { by[id] = { id: id, title: (d.meta && d.meta.book) || "", shelf: (d.meta && d.meta.shelf) || "", hits: [] }; order.push(id); }
+      if (by[id].hits.length < perBook) by[id].hits.push({ url: d.url, title: ((d.meta && d.meta.title) || "").replace(/^[\s—–-]+/, ""), excerpt: d.excerpt, own: d.url === "/books/" + id + "/" });
+    });
+    return order.map(function (id) { return by[id]; });
+  }
+
   /* ---------------- doing ---------------- */
   var $ = function (sel, root) { return (root || document).querySelector(sel); };
   var $$ = function (sel, root) { return Array.prototype.slice.call((root || document).querySelectorAll(sel)); };
+
+  /* one result group: the book's cover (when the page has it), its title in its shelf's ink, then each
+     place in it where the words occur. Built as text nodes and <mark> elements, never HTML (D7). */
+  function renderGroups(list, groups) {
+    list.replaceChildren.apply(list, groups.map(function (g) {
+      var li = document.createElement("li"), head = document.createElement("a"), title = document.createElement("i");
+      var cover = $('.book[href="/books/' + g.id + '/"] .cover');
+      li.className = "hit" + (/^[a-z]{2}$/.test(g.shelf) ? " " + g.shelf : "");
+      if (cover) {
+        var thumb = document.createElement("a");
+        thumb.className = "hit-cover"; thumb.href = "/books/" + g.id + "/"; thumb.tabIndex = -1; thumb.setAttribute("aria-hidden", "true");
+        thumb.appendChild(cover.cloneNode(true));
+        li.className = "hit " + (cover.className.match(/\b(su|ma|le|co|cl|vi|ec|cu)\b/) || [""])[0];
+        li.appendChild(thumb);
+      }
+      var body = document.createElement("div"); body.className = "hit-body";
+      head.className = "hit-book"; head.href = "/books/" + g.id + "/"; title.textContent = g.title || g.id; head.appendChild(title);
+      body.appendChild(head);
+      g.hits.forEach(function (h) {
+        var a = document.createElement("a"), t = document.createElement("span"), x = document.createElement("span");
+        a.className = "hit-place"; a.href = h.url;
+        t.className = "t"; t.textContent = h.own ? "The book’s own page" : (h.title || "A chapter");
+        x.className = "x"; x.append("…", excerptNodes(h.excerpt), "…");
+        a.append(t, x); body.appendChild(a);
+      });
+      li.appendChild(body);
+      return li;
+    }));
+  }
+
+  /* a search field's Clear: shown once something is written; clearing runs the search again, empty */
+  function clearButton(form, input, rerun) {
+    var btn = $(".clear", form);
+    if (!btn) return function () {};
+    function sync() { btn.hidden = !input.value; }
+    form.addEventListener("reset", function () { setTimeout(function () { rerun(); sync(); input.focus(); }, 0); });
+    return sync;
+  }
 
   /* the library: three arrangements rendered by the build (by shelf, date or author); the script shows
      one, narrows it as the reader types (title, author, year, place), and lists where the words occur in
@@ -73,24 +125,18 @@
         if (!res || mine !== seq) return;
         var n = res.results.length;
         if (!n) { hits.hidden = true; return; }
-        return Promise.all(res.results.slice(0, 6).map(function (r) { return r.data(); })).then(function (items) {
+        return Promise.all(res.results.slice(0, 24).map(function (r) { return r.data(); })).then(function (items) {
           if (mine !== seq) return;
-          hitTally.textContent = n === 1 ? "One page" : n + " pages";
+          var groups = groupByBook(items, 2).slice(0, 5);
+          hitTally.textContent = (n === 1 ? "One page" : n + " pages") + ", the best below";
           hitMore.href = "/search/?q=" + encodeURIComponent(q);
-          hitList.replaceChildren.apply(hitList, items.map(function (d) {
-            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"),
-              bk = document.createElement("span"), x = document.createElement("span");
-            a.href = d.url;
-            t.className = "t"; t.textContent = ((d.meta && d.meta.title) || d.url).replace(/^[\s—–-]+/, "");
-            bk.className = "b"; bk.textContent = (d.meta && d.meta.book) || "";
-            x.className = "x"; x.appendChild(excerptNodes(d.excerpt));
-            a.append(t, bk, x); li.appendChild(a); return li;
-          }));
-          hits.hidden = false;
+          renderGroups(hitList, groups);
+          hits.hidden = groups.length === 0;
         });
       }).catch(function () { hits.hidden = true; });
     }
-    input.addEventListener("input", function () { narrow(); inText(); });
+    var syncClear = clearButton(form, input, function () { narrow(); inText(); });
+    input.addEventListener("input", function () { narrow(); inText(); syncClear(); });
     form.addEventListener("submit", function (e) { e.preventDefault(); input.blur(); });
     $$("[data-view]", views).forEach(function (btn) {
       btn.addEventListener("click", function () {
@@ -100,7 +146,7 @@
       });
     });
     var q = new URLSearchParams(location.search).get("q");
-    if (q) { input.value = q; narrow(); inText(); }
+    if (q) { input.value = q; narrow(); inText(); syncClear(); }
   }
 
   /* settings kept on this device; storage may be unavailable (private windows), and the page works without it */
@@ -318,31 +364,24 @@
         tally.textContent = "Search could not be loaded. The catalogue in the library lists every book.";
       });
     }
-    var all = [], shown = 0, moreBtn = $("#s-more");
+    var all = [], shown = 0, items = [], moreBtn = $("#s-more");
     function more(mine) {
-      var next = all.slice(shown, shown + 30);
-      return Promise.all(next.map(function (r) { return r.data(); })).then(function (items) {
+      var next = all.slice(shown, shown + 60);
+      return Promise.all(next.map(function (r) { return r.data(); })).then(function (got) {
           if (mine !== seq) return;
-          if (shown === 0) out.replaceChildren();
-          shown += items.length;
+          if (shown === 0) items = [];
+          shown += got.length; items = items.concat(got);
           moreBtn.hidden = shown >= all.length;
-          moreBtn.textContent = "Show " + Math.min(30, all.length - shown) + " more of " + all.length;
-          out.append.apply(out, items.map(function (d) {
-            var li = document.createElement("li"), a = document.createElement("a"), t = document.createElement("span"), b = document.createElement("span"), x = document.createElement("span");
-            a.href = d.url;
-            t.className = "t"; t.textContent = ((d.meta && d.meta.title) || d.url).replace(/^[\s—–-]+/, "");
-            b.className = "b"; b.textContent = (d.meta && d.meta.book) || "";
-            x.className = "x"; x.appendChild(excerptNodes(d.excerpt));
-            a.append(t, b, x); li.append(a);
-            return li;
-          }));
+          moreBtn.textContent = "Show more, from " + (all.length - shown) + " further pages";
+          renderGroups(out, groupByBook(items, 4));
       });
     }
     moreBtn.addEventListener("click", function () { more(seq); });
     form.addEventListener("submit", function (e) { e.preventDefault(); run(); });
-    input.addEventListener("input", run);
+    var syncClear = clearButton(form, input, run);
+    input.addEventListener("input", function () { run(); syncClear(); });
     var q = new URLSearchParams(location.search).get("q");
-    if (q) { input.value = q; run(); }
+    if (q) { input.value = q; run(); syncClear(); }
   }
 
   /* the opening: the plate turns slowly, each engraving on its own shelf's paper. Nothing moves for a

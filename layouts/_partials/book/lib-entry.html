@@ -3,5 +3,5 @@ instant filter reads: title, subtitle, author, year, place, shelf and series num
 {{- $b := . -}}
 {{- $p := $b.page.Params -}}
 {{- $hay := lower (printf "%s %s %s %s %s %s no %d" $b.title $b.subtitle $b.author $b.year ($p.publication_location | default "") $b.shelf.name $b.no) -}}
-<a class="book {{ $b.code }}" href="{{ $b.url }}" data-hay="{{ $hay }}">{{ partial "book/cover.html" $b }}<span class="cap"><b>{{ $b.cover.title }}{{ with $b.cover.line }}, {{ . }}{{ end }}</b>{{ cond (isset $b "by_surname") $b.sort_name $b.author }}, {{ $b.year }}</span></a>
+<a class="book {{ $b.code }}" href="{{ $b.url }}" data-hay="{{ $hay }}">{{ partial "book/cover.html" $b }}<span class="cap"><b>{{ $b.cover.title }}{{ with $b.cover.line }}, {{ . }}{{ end }}</b><span class="by">{{ cond (isset $b "by_surname") $b.sort_name $b.author }}</span></span></a>
 {{- /**/ -}}

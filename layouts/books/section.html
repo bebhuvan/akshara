@@ -15,6 +15,7 @@
       <svg viewBox="0 0 16 16" width="18" height="18" aria-hidden="true" focusable="false"><circle cx="6.8" cy="6.8" r="4.6" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M10.3 10.3 14 14" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
       <label for="find" class="vh">Search the library</label>
       <input class="find" id="find" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="Search by title, author, year or place">
+      <button class="clear" type="reset" hidden>Clear</button>
     </form>
     <p class="findnote">Searches the full text of all {{ partial "words.html" $n }} books, not only their titles.</p>
     <div class="views" role="group" aria-label="Arrange the library" data-views hidden>
@@ -26,7 +27,7 @@
   <section class="hits" aria-labelledby="hits-h" data-hits hidden>
     <div class="row-h"><h2 id="hits-h">In the text of the books</h2><span data-hits-tally></span></div>
     <ol class="hit-list" data-hits-list></ol>
-    <p class="hits-more"><a class="ln" href="/search/" data-hits-more>Every result, on the search page</a></p>
+    <p class="hits-more"><a class="more" href="/search/" data-hits-more>Every result, on the search page <span aria-hidden="true">→</span></a></p>
   </section>
   <p class="empty" data-empty hidden>No title, author, year or place answers to that. The text of the books may still: see above.</p>
 

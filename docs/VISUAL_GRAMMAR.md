@@ -275,21 +275,35 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   three of its plates on one rule.
 - **Plate tiles (`.smalls`, `.feat-plates`).** A plate inset on its shelf's ground; the caption beneath,
   name first. The ground deepens a little under the pointer.
-- **The eight shelves (`.sh`).** The shelf's name in its ink, its count and years, its epigraph in italic
-  with the source beneath, and one cover from the shelf beside it.
-- **Search field (`.findbox`).** The one filled form control: a tinted well (`--well`), a glass, at least
-  58px tall, an italic placeholder that says what can be searched. It turns to paper with an ink edge when
-  in use. Under it, one italic line saying what it searches. It is a real form, so it works with no script.
+- **The eight shelves (`.sh`).** Each a small bookcase: four of its own books (those with pictures first)
+  standing face out on the shelf's paper, on a 2px shelf-line in its ink; beneath, its name in its ink with
+  the count and years, its epigraph in italic and the source. On hover alternate books lift a little.
+- **How a book is made (`.made`).** A band of the paper of the shelf the example comes from. The
+  photographed page and the set table side by side as equals, each on white paper with a fine edge and
+  named above itself ("As photographed", "As set"); then the four steps, each under a large light numeral
+  in the shelf's ink, because they are a real sequence.
+- **Search field (`.findbox`).** A line to write on: white paper, one rule in `--ink-2` beneath that
+  becomes 2px of `--ink` while in use, the glass at the left, the placeholder in large light italic saying
+  what can be searched, the typed words upright. A "Clear" in italic appears once something is written. It
+  is a real form (with a reset button), so it works with no script. Under it, one italic line saying what
+  it searches. No filled box, no rounded corners.
 - **Arrangement switch (`.views`).** Plain words on one hairline, the chosen one in ink with a 2px rule
   under it, like a running head; a count in italic at the right. Never tabs, pills or a dropdown.
 - **Shelf row (`.row`, `.row-h`).** The group's name in the shelf's ink over a 1px rule in that ink, its
   count in italic at the right; then its covers, face out. On a phone a row to swipe, each cover snapping
   to the gutter, the next one showing at the edge to say there is more; on a wide screen a grid of six.
   Rows that are not one shelf's (decades, letters) use the neutral ink.
-- **Cover with caption (`.book`, `.cap`).** The cover, then the short title in ink and the author and year
-  in `--ink-2`. The whole is one link.
-- **Search results (`.hit-list`).** Rows on hairlines: the chapter's name, the book in italic, an excerpt
-  with the found words underlined in the shelf's ink (`mark`). Built as text, never as HTML.
+- **Cover with caption (`.book`, `.cap`).** The cover, then a quiet caption: the short title at `--fs-aside`,
+  never more than two lines, then the author in italic at `--fs-caption`. The year and number are already
+  on the cover, so the caption does not repeat them. The whole is one link; the title takes the shelf's ink
+  on hover.
+- **Search results (`.hit`).** Grouped by book, in the order the books first appear: the book's cover small
+  at the left (its words hidden, only its picture and paper showing), its title in italic in its shelf's
+  ink, then each place in it where the words occur, set in from a fine rule in the shelf's ink: the chapter's
+  name, then an excerpt between ellipses with the found words washed in the shelf's paper (`mark`). Built
+  as text, never as HTML.
+- **A way further on (`.more`).** A link that stands alone after a list ("Every result, on the search
+  page"): the shelf's ink, an arrow that moves 3px on hover, underlined only on hover.
 - **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up in
   italic, the name in the shelf's ink, its epigraph, its count.
 - **Lists of pages (`.rows`, `.auth`).** One row per entry on hairlines; titles of books in italic with a

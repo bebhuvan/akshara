@@ -89,16 +89,17 @@ range of the library, newest series numbers first. */ -}}
   </div>
 </section>
 
-<section class="sec wrap {{ $dutt.code }}" aria-labelledby="h-made">
-  <div class="sec-h"><h2 id="h-made">How a book is made</h2><a href="/about/">The method</a></div>
+<section class="made {{ $dutt.code }}" aria-labelledby="h-made"><div class="wrap">
+  <div class="voice-h"><h2 id="h-made">How a book is made</h2><a href="/about/">The method</a></div>
   <p class="sec-lede">From the camera’s photographs to a page that can be trusted. The hardest part of an old book is often its figures, so here is one of its tables, photographed and set.</p>
   <div class="made-pair">
-    <figure>
-      <img src="/img/scan-dutt-p384-table.webp" width="600" height="270" alt="Photograph of a printed table, Heads of Revenue for 1856–57 and 1870–71, the figures small and blurred." loading="lazy">
-      <figcaption>As photographed</figcaption>
+    <figure class="made-scan">
+      <figcaption><b>As photographed</b>Page 384, as the camera found it</figcaption>
+      <div class="sheet"><img src="/img/scan-dutt-p384-table.webp" width="600" height="270" alt="Photograph of a printed table, Heads of Revenue for 1856–57 and 1870–71, the figures small and blurred." loading="lazy" decoding="async"></div>
     </figure>
-    <figure>
-      <div class="made-set"><table>
+    <figure class="made-set">
+      <figcaption><b>As set</b>And added up again: both columns agree with the totals Dutt printed</figcaption>
+      <div class="sheet"><table>
         <thead><tr><th scope="col">Heads of Revenue.</th><th scope="col" class="n">1856–57.</th><th scope="col" class="n">1870–71.</th></tr></thead>
         <tbody>
           <tr><td>Land Revenue</td><td class="n">£20,046,748</td><td class="n">£24,170,151</td></tr>
@@ -110,32 +111,34 @@ range of the library, newest series numbers first. */ -}}
           <tr class="tot"><td>Total</td><td class="n">£31,920,910</td><td class="n">£49,376,225</td></tr>
         </tbody>
       </table></div>
-      <figcaption>As set, and added up again: both columns agree with the totals Dutt printed</figcaption>
     </figure>
   </div>
-  <p class="made-src">From page 384 of Romesh Chunder Dutt, <a class="ln" href="{{ $dutt.url }}"><i>The Economic History of India in the Victorian Age</i></a>, 1904. The table is given with the book as CSV, as printed and in tidy form.</p>
+  <p class="made-src">From Romesh Chunder Dutt, <a class="ln" href="{{ $dutt.url }}"><i>The Economic History of India in the Victorian Age</i></a>, 1904. Every table is given with its book as CSV, as printed and in tidy form.</p>
   <ol class="steps">
     <li><h3>The photographs</h3><p>The PDFs on the Internet Archive are compressed, and compression can turn one digit into another. Akshara goes back to the camera’s own photographs of each page and rebuilds a clean copy before a word is read.</p></li>
     <li><h3>The reading</h3><p>A vision model reads each page as it was printed: old spellings, accents and italics kept, footnotes followed across pages, shoulder notes kept beside the paragraph they belong to.</p></li>
     <li><h3>The figures</h3><p>Every table in rupees, annas and pies, or in pounds, shillings and pence, is added up again by program, and each printed total is read a second time on its own.</p></li>
     <li><h3>The proof</h3><p>Nothing read by machine is passed off as proofread. Each edition says how far it has been checked, and any reader can open a page beside its scan and <a class="ln" href="{{ site.Params.proofing_url }}/">set it right</a>.</p></li>
   </ol>
-</section>
+</div></section>
 
 <section class="sec wrap" aria-labelledby="h-shelves">
-  <div class="sec-h"><h2 id="h-shelves">The eight shelves</h2><a href="/books/">By date or by author</a></div>
+  <div class="sec-h"><h2 id="h-shelves">The eight shelves</h2><a href="/books/">The whole library</a></div>
   <p class="sec-lede">The library is arranged as a reader would arrange it, by the kind of book. Each shelf is introduced by a sentence from one of its own books.</p>
   <div class="shelves">
     {{- range $i, $s := hugo.Data.shelves.shelf }}
     {{- $all := sort (where $books "shelf_no" $i) "year" }}
     {{- if $all }}
     {{- $n := len $all }}
-    {{- $face := index $all 0 }}{{ range $all }}{{ if and (eq $face.cover.kind "type") (ne .cover.kind "type") }}{{ $face = . }}{{ end }}{{ end }}
+    {{- /* four of its books stand on the shelf, those with pictures of their own first */}}
+    {{- $stand := slice }}{{ range $all }}{{ if and (ne .cover.kind "type") (lt (len $stand) 4) }}{{ $stand = $stand | append . }}{{ end }}{{ end }}
+    {{- range $all }}{{ if and (eq .cover.kind "type") (lt (len $stand) 4) }}{{ $stand = $stand | append . }}{{ end }}{{ end }}
     <a class="sh {{ $s.code }}" href="/shelves/{{ $s.slug }}/">
-      <span class="sh-t"><h3>{{ $s.name }}</h3>
-      <span class="n">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $all 0).year }}–{{ (index $all (sub $n 1)).year }}</span>
-      <blockquote><p>{{ $s.epigraph }}</p><footer>{{ $s.source | markdownify }}</footer></blockquote></span>
-      <span class="face" aria-hidden="true">{{ partial "book/cover.html" $face }}</span>
+      <span class="sh-case" aria-hidden="true">{{ range sort $stand "year" }}<span class="sh-b">{{ partial "book/cover.html" . }}</span>{{ end }}</span>
+      <span class="sh-t">
+        <span class="sh-name"><h3>{{ $s.name }}</h3><span class="n">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $all 0).year }}–{{ (index $all (sub $n 1)).year }}</span></span>
+        <blockquote><p>{{ $s.epigraph }}</p><footer>{{ $s.source | markdownify }}</footer></blockquote>
+      </span>
     </a>
     {{- end }}
     {{- end }}

@@ -135,6 +135,11 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 .cta-solo:hover span:last-child { transform: translateX(3px); }
 .readon { display: inline-flex; align-items: center; gap: 12px; min-height: 48px; padding: 0 18px; border: 1px solid color-mix(in srgb, var(--k) 55%, transparent); color: var(--k); font-size: var(--fs-lede); transition: background-color .2s, color .2s; }
 .readon:hover { background: var(--k); color: var(--on-k); }
+/* A way further on, standing alone after a list: the shelf's ink and an arrow that moves on hover. */
+.more { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; font-size: var(--fs-ui); color: var(--k); }
+.more span { transition: transform .2s; }
+.more:hover span { transform: translateX(3px); }
+.more:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .quiet { font-size: var(--fs-aside); line-height: 1.55; color: var(--ink-2); max-width: 30em; }
 .quiet a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .quiet a:hover { border-bottom-color: var(--ink); }
@@ -180,8 +185,13 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .k-type .lbl.long.lw b { font-size: 10.4cqi; }
 .k-type::before { content: ""; position: absolute; left: 9%; right: 9%; top: 8%; height: 1px; background: color-mix(in srgb, var(--k) 45%, transparent); }
 .k-type .au { position: absolute; left: 9%; right: 9%; top: calc(8% + 5cqi); font-size: 6.2cqi; font-style: italic; color: var(--k); }
-.book .cap { font-size: var(--fs-aside); line-height: 1.3; color: var(--ink-2); }
-.book .cap b { display: block; font-weight: 400; color: var(--ink); font-size: var(--fs-ui); }
+/* Under a cover, a quiet caption: the short title, never more than two lines, then the author in italic.
+   The year and number are already on the cover. */
+.book .cap { display: grid; gap: 3px; padding-right: 4px; }
+.book .cap b { font-weight: 400; color: var(--ink); font-size: var(--fs-aside); line-height: 1.28; text-wrap: pretty;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.book .cap .by { font-size: var(--fs-caption); line-height: 1.3; font-style: italic; color: var(--ink-2); }
+.book:hover .cap b { color: var(--k); }
 
 /* ---------- Home ---------- */
 .lede { padding-block: 14px 20px; }
@@ -230,34 +240,43 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .smalls .tile .plate { position: absolute; inset: 11%; }
 .smalls span { font-size: var(--fs-caption); line-height: 1.35; color: var(--ink-2); }
 .smalls b { display: block; font-weight: 400; font-size: var(--fs-aside); color: var(--ink); }
-/* How a book is made: the photographed table beside the set one, then the four steps in their order. */
-.made-pair { display: grid; gap: 22px; }
-.made-pair figure { min-width: 0; }
-.made-pair img { display: block; width: 100%; box-shadow: 0 0 0 1px var(--hair); }
-.made-pair figcaption { margin-top: 8px; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
-.made-set { padding: 18px 18px 14px; background: var(--g); overflow-x: auto; }
+/* How a book is made: a band of the paper of the shelf the example comes from. The photographed page and the
+   set one side by side as equals, each named above itself; then the four steps, in their order. */
+.made { margin-top: var(--sec); background: color-mix(in srgb, var(--g) 55%, var(--paper)); padding-block: 40px 52px; }
+.made .voice-h a { font-size: var(--fs-aside); font-style: italic; color: var(--k); padding: 10px 0; margin: -10px 0; }
+.made .voice-h a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.made-pair { display: grid; gap: 28px; }
+.made-pair figure { min-width: 0; display: flex; flex-direction: column; }
+.made-pair figcaption { margin-bottom: 10px; font-size: var(--fs-note); line-height: 1.4; font-style: italic; color: var(--ink-2); }
+.made-pair figcaption b { display: block; font-weight: 400; font-style: normal; font-size: var(--fs-h4); color: var(--k); }
+.made-pair .sheet { flex: 1; display: flex; align-items: center; background: var(--paper); padding: 18px; box-shadow: 0 0 0 1px color-mix(in srgb, var(--k) 14%, transparent); overflow-x: auto; }
+.made-scan img { display: block; width: 100%; }
 .made-set table { width: 100%; border-collapse: collapse; font-size: var(--fs-aside); line-height: 1.35; font-variant-numeric: tabular-nums; }
 .made-set th { font-weight: 400; font-style: italic; color: var(--k); text-align: left; padding: 0 0 8px; border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .made-set td { padding: 4px 0; }
 .made-set .n { text-align: right; padding-left: 14px; white-space: nowrap; }
 .made-set .tot td { border-top: 1px solid color-mix(in srgb, var(--k) 40%, transparent); padding-top: 7px; }
 .made-set .tot td:first-child { font-style: italic; }
-.made-src { margin-top: 18px; font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); max-width: 40em; }
-.steps { list-style: none; padding: 0; margin-top: 36px; display: grid; gap: 26px; counter-reset: step; }
-.steps li { border-top: 1px solid var(--hair); padding-top: 14px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
+.made-src { margin-top: 16px; font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); max-width: 40em; }
+.steps { list-style: none; padding: 0; margin-top: 40px; display: grid; gap: 28px; counter-reset: step; }
+.steps li { font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
+.steps li::before { counter-increment: step; content: counter(step); display: block; font-weight: 200; font-size: 44px; line-height: 1; color: var(--k);
+  padding-bottom: 12px; margin-bottom: 14px; border-bottom: 1px solid color-mix(in srgb, var(--k) 30%, transparent); font-variation-settings: "opsz" 72; }
 .steps h3 { font-size: var(--fs-h4); line-height: 1.2; color: var(--ink); margin-bottom: 6px; }
-.steps h3::before { counter-increment: step; content: counter(step) ". "; color: var(--k); font-style: italic; }
-/* The eight shelves, each named in its ink and introduced by a sentence from one of its own books. */
-.shelves { display: grid; gap: 0 40px; }
-.sh { display: grid; grid-template-columns: minmax(0, 1fr) 64px; gap: 4px 18px; padding: 18px 0 20px; border-bottom: 1px solid var(--hair); }
-.sh:first-child { padding-top: 4px; }
-.sh-t { display: block; }
+/* The eight shelves: each a small bookcase on its own paper, four of its books standing face out on one
+   rule, then its name, its count and a sentence from one of its books. */
+.shelves { display: grid; gap: 34px 40px; }
+.sh { display: grid; gap: 16px; align-content: start; }
+.sh-case { display: flex; align-items: flex-end; gap: 10px; padding: 26px 22px 0; background: var(--g); border-bottom: 2px solid color-mix(in srgb, var(--k) 55%, transparent); }
+.sh-b { flex: 0 1 25%; max-width: 92px; transition: transform .35s ease; }
+.sh-b .cover { box-shadow: 0 1px 1px rgba(var(--shadow), .07), 0 10px 14px -12px color-mix(in srgb, var(--k) 70%, transparent); }
+.sh:hover .sh-b:nth-child(odd), .sh:focus-visible .sh-b:nth-child(odd) { transform: translateY(-4px); }
+.sh-name { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 14px; }
 .sh h3 { font-size: var(--fs-h3); line-height: 1.2; color: var(--k); letter-spacing: -0.01em; }
-.sh .n { display: block; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
-.sh blockquote { margin-top: 8px; font-size: var(--fs-ui); line-height: 1.5; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
+.sh .n { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.sh blockquote { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.5; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
 .sh blockquote p::before { content: "“"; } .sh blockquote p::after { content: "”"; }
-.sh blockquote footer { margin-top: 4px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-3); }
-.sh .face { align-self: start; }
+.sh blockquote footer { margin-top: 6px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-3); }
 .sh:hover h3, .sh:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 
 /* ---------- Footer ---------- */
@@ -331,17 +350,18 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
   .feat-plates { gap: 16px; }
   .smalls { grid-template-columns: repeat(4, 1fr); gap: 24px; }
   .shelf { grid-template-columns: repeat(4, 1fr); gap: 38px 24px; }
-  .made-pair { grid-template-columns: 1fr 1fr; gap: 40px; align-items: center; }
-  .steps { grid-template-columns: repeat(4, 1fr); gap: 32px; }
-  .shelves { grid-template-columns: 1fr 1fr; }
-  .sh:nth-child(2) { padding-top: 4px; }
-  .sh { grid-template-columns: minmax(0, 1fr) 76px; }
+  .made { padding-block: 56px 64px; }
+  .made-pair { grid-template-columns: 1fr 1fr; gap: 40px; align-items: stretch; }
+  .steps { grid-template-columns: repeat(4, 1fr); gap: 36px; }
+  .shelves { grid-template-columns: 1fr 1fr; gap: 56px 48px; }
+  .sh-case { padding: 30px 28px 0; gap: 14px; }
   .ft { padding-block: 72px 60px; }
   .ft-device { width: 86px; }
   .pg-h { padding-top: 48px; }
 }
 @media (prefers-reduced-motion: reduce) {
-  .stage, .stage .plate, .stage figcaption, .cover, .cta-solo span:last-child { transition: none; }
+  .stage, .stage .plate, .stage figcaption, .cover, .cta-solo span:last-child, .more span, .sh-b { transition: none; }
+  .sh:hover .sh-b:nth-child(odd) { transform: none; }
   a:hover > .cover, .book:hover .cover { transform: none; }
 }
 
@@ -367,12 +387,18 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 
 /* ---------- Library ---------- */
 /* Search is the second way into the library, so it gets a real field: a tinted well, a glass, room to tap. */
-.findbox { margin-top: 22px; display: flex; align-items: center; gap: 12px; min-height: 58px; padding: 0 16px; background: var(--well); border: 1px solid var(--well-edge); color: var(--ink-2); }
-.findbox:focus-within { background: var(--paper); border-color: var(--ink-2); }
-.findbox svg { flex: none; }
-.find { flex: 1; min-width: 0; border: 0; background: transparent; padding: 14px 0; font: var(--fs-body)/1.3 var(--serif); color: var(--ink); border-radius: 0; outline: none; -webkit-appearance: none; appearance: none; }
-.find::placeholder { color: var(--ink-3); font-style: italic; }
-.find::-webkit-search-cancel-button { -webkit-appearance: none; }
+/* Search: a line to write on. White paper, one rule in ink beneath that thickens while in use, the words set
+   large in italic, and a Clear that appears once something is written. */
+.findbox { margin-top: 26px; display: flex; align-items: center; gap: 14px; min-height: 60px; border-bottom: 1px solid var(--ink-2); color: var(--ink-2); }
+.findbox:focus-within { border-bottom: 2px solid var(--ink); margin-bottom: -1px; color: var(--ink); }
+.findbox svg { flex: none; width: 20px; height: 20px; }
+.find { flex: 1; min-width: 0; border: 0; background: transparent; padding: 14px 0 12px; font: italic 300 var(--fs-h3)/1.25 var(--serif); color: var(--ink); border-radius: 0; outline: none; -webkit-appearance: none; appearance: none; }
+.find:not(:placeholder-shown) { font-style: normal; font-weight: 400; }
+.find::placeholder { color: var(--ink-3); }
+.find::-webkit-search-cancel-button { -webkit-appearance: none; display: none; }
+.findbox:focus-within input:focus-visible { outline: none; }
+.clear { flex: none; min-height: 44px; padding: 0 2px; font-size: var(--fs-aside); font-style: italic; color: var(--ink-2); }
+.clear:hover { color: var(--ink); }
 .findnote { margin: 8px 0 0; font-size: var(--fs-note); font-style: italic; color: var(--ink-3); }
 /* Ways to arrange the shelves: plain words on one hairline, the chosen one underlined in ink, like a running head. */
 .views { display: flex; align-items: baseline; gap: 26px; margin-top: 18px; border-bottom: 1px solid var(--hair); }
@@ -394,15 +420,21 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .row .book { scroll-snap-align: start; }
 /* Searching: what answers in the text, then the covers that answer by title, author, year or place. */
 .hits { margin-top: 36px; }
+/* Results, grouped by book: its cover small at the left, its title in its shelf's ink, then each place
+   where the words occur, an excerpt with the found words washed in the shelf's paper. */
 .hit-list { list-style: none; padding: 0; }
-.hit-list li { border-bottom: 1px solid var(--hair); }
-.hit-list a { display: grid; gap: 3px; padding: 14px 0; }
-.hit-list .t { font-size: var(--fs-body); line-height: 1.3; color: var(--ink); }
-.hit-list .b { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
-.hit-list .x { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
-.hit-list a:hover .t { color: var(--k); }
-.hits-more { margin-top: 14px; font-size: var(--fs-aside); }
-mark { background: none; color: var(--ink); text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--k) 60%, transparent); text-decoration-thickness: 2px; text-underline-offset: .18em; }
+.hit { display: grid; grid-template-columns: 52px minmax(0, 1fr); gap: 0 16px; padding: 18px 0; border-bottom: 1px solid var(--hair); }
+.hit:not(:has(.hit-cover)) { grid-template-columns: minmax(0, 1fr); }
+.hit-cover .cover { box-shadow: 0 6px 10px -8px color-mix(in srgb, var(--k) 70%, transparent); }
+.hit-cover .cover .lbl b, .hit-cover .cover .lbl i, .hit-cover .cover .no, .hit-cover .cover .au { visibility: hidden; }
+.hit-book { display: inline-block; font-size: var(--fs-body); line-height: 1.3; color: var(--k); }
+.hit-book:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+.hit-place { display: grid; gap: 2px; margin-top: 10px; padding-left: 14px; border-left: 1px solid color-mix(in srgb, var(--k) 30%, transparent); }
+.hit-place .t { font-size: var(--fs-ui); line-height: 1.3; color: var(--ink); }
+.hit-place .x { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); text-wrap: pretty; }
+.hit-place:hover .t { color: var(--k); }
+.hit mark { background: color-mix(in srgb, var(--g) 90%, var(--k) 10%); color: var(--ink); text-decoration: none; padding: 0 2px; margin: 0 -2px; border-radius: 2px; }
+mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--ink); padding: 0 2px; margin: 0 -2px; }
 .empty { margin-top: 32px; font-size: var(--fs-lede); font-style: italic; color: var(--ink-2); max-width: 32em; }
 @media (min-width: 760px) {
   .lib-h { max-width: 820px; }
@@ -483,3 +515,4 @@ mark { background: none; color: var(--ink); text-decoration: underline; text-dec
   .hd nav { gap: 12px; font-size: var(--fs-aside); }
   .mark { gap: 7px; }
 }
+.sh-t { display: block; }
