@@ -361,6 +361,9 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   in light display type, one line of where it comes from, then a 40px rule.
 - **The text (`.text`).** `--fs-read`, `--fs-read-wide` times the reader's size; `--measure`; indented
   paragraphs; small capitals on the first line only; the book's own small capitals (`.sc`) kept.
+- **Side-headings (`.sec-h3`).** The book's own headings within a chapter: the text's size, italic in the
+  shelf's ink, closer to the paragraph they head than to the one before. Headings the book printed in capitals
+  are set in small capitals.
 - **Marginal notes (`.sidenote-stack`).** The author's shoulder notes, italic, `--fs-note`, in the shelf's
   ink: right-aligned in the left margin on a wide screen, above their paragraph on a phone.
 - **Folios (`.folio-trigger`).** The printed page numbers, small italic figures in `--ink-3` in the right
