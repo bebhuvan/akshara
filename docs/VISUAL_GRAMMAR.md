@@ -294,7 +294,8 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 - **Plate tiles (`.smalls`, `.feat-plates`).** A plate inset on its shelf's ground; the caption beneath,
   name first. The ground deepens a little under the pointer.
 - **The eight shelves (`.sh`).** Each a small bookcase: four of its own books (those with pictures first)
-  standing face out on the shelf's paper, on a 2px shelf-line in its ink; beneath, its name in its ink with
+  standing face out against a case a shade deeper than their covers (its paper with a sixth of its ink), on
+  a 2px shelf-line in its ink; beneath, its name in its ink with
   the count and years, its epigraph in italic and the source. On hover alternate books lift a little.
 - **How a book is made (`.made`).** A band of the paper of the shelf the example comes from. The
   photographed page and the set table side by side as equals, each on white paper with a fine edge and

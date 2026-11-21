@@ -277,9 +277,10 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .shelves { display: grid; grid-template-columns: minmax(0, 1fr); gap: 34px 40px; }
 .sh, .sh-case { min-width: 0; }
 .sh { display: grid; gap: 16px; align-content: start; }
-.sh-case { display: flex; align-items: flex-end; justify-content: space-evenly; gap: 10px; padding: 26px 22px 0; background: var(--g); border-bottom: 2px solid color-mix(in srgb, var(--k) 55%, transparent); }
+.sh-case { display: flex; align-items: flex-end; justify-content: space-evenly; gap: 10px; padding: 26px 22px 0; background: color-mix(in oklab, var(--g) 84%, var(--k) 16%); border-bottom: 2px solid color-mix(in srgb, var(--k) 70%, transparent); }
 .sh-b { flex: 0 1 25%; min-width: 0; max-width: 104px; transition: transform .35s ease; }
-.sh-b .cover { box-shadow: 0 1px 1px rgba(var(--shadow), .07), 0 10px 14px -12px color-mix(in srgb, var(--k) 70%, transparent); }
+/* the case is a shade deeper than its books, so each cover stands out from the back of the shelf */
+.sh-b .cover { box-shadow: 0 0 0 1px color-mix(in srgb, var(--k) 12%, transparent), 0 10px 14px -10px color-mix(in srgb, var(--k) 80%, transparent); }
 .sh:hover .sh-b:nth-child(odd), .sh:focus-visible .sh-b:nth-child(odd) { transform: translateY(-4px); }
 .sh-name { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 14px; }
 .sh h3 { font-size: var(--fs-h3); line-height: 1.2; color: var(--k); letter-spacing: -0.01em; }
