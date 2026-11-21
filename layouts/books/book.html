@@ -166,34 +166,38 @@ shown as two plain lines, in the record's own capitals. */ -}}
       </div>
       <div class="ed-cols">
         <div>
-          <h3 class="ed-h">Take it away</h3>
-          {{- if or $p.download_epub $p.download_pdf $p.download_html $p.download_source_pdf $p.download_datasets $p.download_md $p.download_tei }}
-          <ul class="forms" aria-label="Every form of this edition">
-            {{- with $p.download_epub }}<li><a href="{{ . }}" download><b>EPUB</b><span>for e-readers and phones</span></a></li>{{ end }}
-            {{- with $p.download_pdf }}<li><a href="{{ . }}"><b>Print PDF</b><span>set for paper</span></a></li>{{ end }}
-            {{- with $p.download_html }}<li><a href="{{ . }}"><b>One page</b><span>the whole book as one HTML file</span></a></li>{{ end }}
-            {{- with $p.download_source_pdf }}<li><a href="{{ . }}"><b>Original scan</b><span>the photographs, as a PDF</span></a></li>{{ end }}
-            {{- with $p.download_datasets }}<li><a href="{{ . }}"><b>Tables</b><span>all {{ $p.tables_count | default (len $p.tables_list) }}, as CSV, with a data package</span></a></li>{{ end }}
-            {{- with $p.download_md }}<li><a href="{{ . }}" download><b>Markdown</b><span>plain text</span></a></li>{{ end }}
-            {{- with $p.download_tei }}<li><a href="{{ . }}" download><b>TEI XML</b><span>the archival master</span></a></li>{{ end }}
-          </ul>
+          {{- $read := slice }}{{ $study := slice }}
+          {{- with $p.download_epub }}{{ $read = $read | append (dict "url" . "name" "EPUB" "what" "for e-readers and phones" "dl" true) }}{{ end }}
+          {{- with $p.download_pdf }}{{ $read = $read | append (dict "url" . "name" "Print PDF" "what" "set for paper") }}{{ end }}
+          {{- with $p.download_html }}{{ $read = $read | append (dict "url" . "name" "One page" "what" "the whole book as one web page") }}{{ end }}
+          {{- with $p.download_source_pdf }}{{ $study = $study | append (dict "url" . "name" "The scan" "what" "the photographs of the copy, as a PDF") }}{{ end }}
+          {{- with $p.download_datasets }}{{ $study = $study | append (dict "url" . "name" "Tables" "what" (printf "all %v, as CSV, with a data package" ($p.tables_count | default (len $p.tables_list)))) }}{{ end }}
+          {{- with $p.download_md }}{{ $study = $study | append (dict "url" . "name" "Markdown" "what" "plain text" "dl" true) }}{{ end }}
+          {{- with $p.download_tei }}{{ $study = $study | append (dict "url" . "name" "TEI XML" "what" "the archival master" "dl" true) }}{{ end }}
+          {{- if or $read $study }}
+          {{- with $read }}
+          <h3 class="ed-h">To read elsewhere</h3>
+          <ul class="forms">{{ range . }}<li><a href="{{ .url }}"{{ if .dl }} download{{ end }}><b>{{ .name }}</b> <i>{{ .what }}</i></a></li>{{ end }}</ul>
+          {{- end }}
+          {{- with $study }}
+          <h3 class="ed-h">For study</h3>
+          <ul class="forms">{{ range . }}<li><a href="{{ .url }}"{{ if .dl }} download{{ end }}><b>{{ .name }}</b> <i>{{ .what }}</i></a></li>{{ end }}</ul>
+          {{- end }}
           {{- else }}
-          <p class="state">EPUB, PDF and the other forms will come when this book is set again.{{ with $p.download_url }} Meanwhile, <a class="ln" href="{{ . }}">the files of this edition</a>.{{ end }}</p>
+          <h3 class="ed-h">To read elsewhere</h3>
+          <p class="forms-none">EPUB, PDF and the other forms will come when this book is set again.{{ with $p.download_url }} Meanwhile, <a class="ln" href="{{ . }}">the files of this edition</a>.{{ end }}</p>
           {{- end }}
         </div>
         <div>
-          <h3 class="ed-h">The record</h3>
-          <div class="card">
-          <p class="card-no"><span>Akshara No. {{ $b.no }}</span><span>{{ $b.shelf.name }}</span></p>
-          <dl class="facts-list">
-            <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
-            {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
-            {{- with $p.footnotes_count }}<div><dt>Notes</dt><dd>{{ . }} {{ cond (eq (int .) 1) "footnote" "footnotes" }}, kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed</dd></div>{{ end }}
-            {{- with $archiveID }}<div><dt>Scan</dt><dd><a class="ln" href="https://archive.org/details/{{ . }}">{{ . }}</a>, Internet Archive</dd></div>{{ end }}
-            {{- with $p.collection_slug }}{{ with site.GetPage (printf "/collections/%s" .) }}<div><dt>Collection</dt><dd><a class="ln" href="{{ .RelPermalink }}">{{ .Title }}</a></dd></div>{{ end }}{{ end }}
-            <div><dt>Shelf</dt><dd><a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a></dd></div>
-            <div><dt>Licence</dt><dd><a class="ln" href="{{ site.Params.license_url }}" rel="license" title="{{ site.Params.license_title }}">{{ site.Params.license_name }}</a>: share and adapt this edition freely, crediting Akshara. The book itself is in the public domain.</dd></div>
-          </dl>
+          <h3 class="ed-h">Colophon</h3>
+          {{- /* the edition's record told as a book's colophon is: a few sentences, every fact from the record */}}
+          <div class="colophon">
+            {{- $parts := split $imprint ":" }}{{ $where := strings.TrimSpace (index $parts 0) }}{{ $who := "" }}{{ if gt (len $parts) 1 }}{{ $who = strings.TrimSpace (delimit (after 1 $parts) ":") }}{{ end }}
+            <p>{{ if and $where $who }}Printed in {{ $where }} by {{ $who }}, {{ else if $where }}Printed in {{ $where }}, {{ else }}Printed in {{ end }}{{ $b.year }}.
+            {{- if and (not $isV1) $p.pages }} This edition gives all {{ $p.pages }} printed pages{{ with $p.reread_pages }}, {{ . }} of them read a second time against the scan{{ end }}{{ with $p.footnotes_count }}, with {{ cond (eq (int .) 1) "its one footnote" (printf "its %v footnotes" .) }} kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed{{ end }}.{{ end }}
+            {{- with $archiveID }} It was read from the copy in the Internet Archive, <a class="ln" href="https://archive.org/details/{{ . }}">{{ . }}</a>.{{ end }}</p>
+            <p>Akshara No. {{ $b.no }}, on the shelf of <a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a>{{ with $p.collection_slug }}{{ with site.GetPage (printf "/collections/%s" .) }}, and in the collection <a class="ln" href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end }}.</p>
+            <p>Released under <a class="ln" href="{{ site.Params.license_url }}" rel="license" title="{{ site.Params.license_title }}">{{ site.Params.license_name }}</a>: share and adapt it freely, crediting Akshara. The book itself is in the public domain.</p>
           </div>
         </div>
       </div>
@@ -210,7 +214,6 @@ shown as two plain lines, in the record's own capitals. */ -}}
     </div>
   </section>
 
-  <p class="imprint"><b>{{ $b.title }}.</b> {{ with $b.subtitle }}{{ . }}. {{ end }}{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}. {{ $b.tier_name }}.</p>
 </div>
 </article>
 {{ end }}

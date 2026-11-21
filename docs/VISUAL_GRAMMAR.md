@@ -350,11 +350,12 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   1px below, faint rules between rows, figures in tabular lining numerals aligned right, headings in italic in
   the shelf's ink. On a book's page the table sits on a panel of the shelf's paper, named by its page; its data
   (as printed, tidy) is offered on one line beneath.
-- **This edition (`.edition`).** How far it has been checked, with the way to proofread; then two matching
-  columns under small italic heads: "Take it away", every form as a small flat tile on the shelf's paper in a
-  grid (name, what it is for, a down-arrow); and "The record", set as a library catalogue card (a pale panel
-  with a fine edge, the book's number and shelf at its head over a rule, then dotted ruled lines: published,
-  pages, scan, shelf, licence); then the editor's note with its full record folded.
+- **This edition (`.edition`).** How far it has been checked, with the way to proofread; then two columns with
+  no boxes or rules: plain typeset lists, "To read elsewhere" and "For study", each line the form's name (a
+  link) and what it is for in italic; and a colophon, the edition's record told in a few sentences as at the
+  back of a book (where and by whom it was printed, what this edition gives, the copy it was read from, its
+  number and shelf, its licence), every fact from the record. Then the editor's note with its full record
+  folded.
 - **The reading bar (`.rd-bar`).** Replaces the masthead on a chapter: ಅ and the short title in italic
   (back to the book), then Contents, Aa, Focus. A 2px line in the shelf's ink fills beneath as the chapter
   is read. It slides away going down the page and returns on the first move up.

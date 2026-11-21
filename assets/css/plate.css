@@ -614,20 +614,18 @@ table.ledger .n { text-align: right; }
 .edition .proof { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
 .ed-cols { display: grid; gap: 36px; }
 .ed-h { font-size: var(--fs-note); font-style: italic; color: var(--k); }
-/* Take it away: each form a small flat tile on the shelf's paper, in a grid. */
-.forms { list-style: none; padding: 0; margin-top: 14px; display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
-.forms a { display: grid; align-content: start; gap: 3px; min-height: 76px; padding: 13px 14px 14px; background: color-mix(in srgb, var(--g) 60%, var(--paper)); transition: background-color .2s; }
-.forms a:hover { background: color-mix(in oklab, var(--g) 85%, var(--k) 15%); }
-.forms b { font-weight: 400; font-size: var(--fs-ui); color: var(--ink); }
-.forms b::after { content: "\00A0\2193"; color: var(--k); font-size: .9em; }
-.forms span { font-size: var(--fs-note); line-height: 1.35; font-style: italic; color: var(--ink-2); }
-/* The record: a library's catalogue card, a pale panel with fine ruled lines and the book's number at its head. */
-.card { margin-top: 14px; padding: 14px 20px 8px; background: color-mix(in srgb, var(--g) 35%, var(--paper)); box-shadow: 0 0 0 1px color-mix(in srgb, var(--k) 14%, transparent); }
-.card-no { display: flex; justify-content: space-between; gap: 12px; padding-bottom: 9px; border-bottom: 1px solid color-mix(in srgb, var(--k) 45%, transparent); font-size: var(--fs-note); font-style: italic; color: var(--k); }
-.facts-list div { display: grid; grid-template-columns: 6.5em minmax(0, 1fr); gap: 12px; padding: 8px 0; font-size: var(--fs-aside); line-height: 1.45; }
-.facts-list div + div { border-top: 1px dotted color-mix(in srgb, var(--k) 25%, transparent); }
-.facts-list dt { font-style: italic; color: var(--ink-2); }
-.facts-list dd { min-width: 0; overflow-wrap: anywhere; }
+/* To read elsewhere, for study: plain typeset lists, the form's name in ink and what it is for in italic. */
+.ed-h + .forms, .ed-h + .colophon, .ed-h + .forms-none { margin-top: 10px; }
+.forms + .ed-h { margin-top: 26px; }
+.forms { list-style: none; padding: 0; }
+.forms a { display: block; padding: 6px 0; font-size: var(--fs-ui); line-height: 1.45; }
+.forms b { font-weight: 400; color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 35%, transparent); }
+.forms i { color: var(--ink-2); }
+.forms a:hover b { color: var(--k); border-bottom-color: var(--k); }
+.forms-none { font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
+/* The colophon: the edition's record told in a few sentences, as at the back of a book. */
+.colophon { font-size: var(--fs-ui); line-height: 1.65; color: var(--ink-2); max-width: 34em; }
+.colophon p + p { margin-top: .7em; }
 .ed-note { max-width: 40em; }
 .note-intro { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); }
 .record { margin-top: 14px; max-width: 34em; border-top: 1px solid var(--hair); }
@@ -636,8 +634,6 @@ table.ledger .n { text-align: right; }
 .record summary::-webkit-details-marker { display: none; }
 .record summary::after { content: "\00A0\00A0+"; font-style: normal; }
 .record[open] summary::after { content: "\00A0\00A0\2212"; }
-.imprint { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--hair); font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); max-width: 46em; }
-.imprint b { display: block; font-weight: 400; color: var(--ink); font-size: var(--fs-lede); margin-bottom: 4px; }
 @media (min-width: 760px) {
   .bk-in { max-width: 1240px; margin: 0 auto; display: grid; grid-template-columns: 300px 1fr; gap: 64px; align-items: center; padding-block: 56px; }
   .bk-cover { width: 100%; margin: 0; }
@@ -646,7 +642,7 @@ table.ledger .n { text-align: right; }
   .bk-text .about { margin-top: 18px; }
   .bk-actions { margin-top: 24px; }
   .strip { grid-auto-columns: calc((100% - var(--gut) - var(--gut-r) - 36px) / 4); max-width: 1240px; margin: 0 auto; }
-  .ed-cols { grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: 56px; }
+  .ed-cols { grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 64px; }
 }
 
 /* ---------- Reading page ---------- */
