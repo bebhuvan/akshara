@@ -80,3 +80,24 @@ class Content(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class Headers(unittest.TestCase):
+    """static/_headers: the search index's entry files must be checked on every visit, or a deploy that
+    renames the index chunks breaks search for readers with an old entry cached."""
+    def rules(self):
+        text = (Path(__file__).resolve().parent.parent / "static" / "_headers").read_text(encoding="utf-8")
+        rules, path = {}, None
+        for line in text.splitlines():
+            if line.startswith("/"):
+                path = line.strip()
+                rules[path] = ""
+            elif path and line.strip().lower().startswith("cache-control:"):
+                rules[path] = line.split(":", 1)[1].strip()
+        return rules
+
+    def test_search_entry_files_are_never_cached_stale(self):
+        rules = self.rules()
+        for f in ("/pagefind/pagefind-entry.json", "/pagefind/pagefind.js"):
+            self.assertIn("max-age=0", rules.get(f, ""), f)
+        self.assertNotIn("/pagefind/*", rules, "a rule for all of /pagefind/ would also cache the entry files")
