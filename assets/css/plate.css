@@ -613,20 +613,26 @@ table.ledger .n { text-align: right; }
 .edition .state { font-size: var(--fs-lede); line-height: 1.55; color: var(--ink-2); }
 .edition .proof { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
 .ed-cols { display: grid; gap: 36px; }
-.ed-h { font-size: var(--fs-note); font-style: italic; color: var(--k); }
-/* To read elsewhere, for study: plain typeset lists, the form's name in ink and what it is for in italic. */
-.ed-h + .forms, .ed-h + .colophon, .ed-h + .forms-none { margin-top: 10px; }
-.forms + .ed-h { margin-top: 26px; }
-.forms { list-style: none; padding: 0; }
-.forms a { display: block; padding: 6px 0; font-size: var(--fs-ui); line-height: 1.45; }
-.forms b { font-weight: 400; color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 35%, transparent); }
-.forms i { color: var(--ink-2); }
-.forms a:hover b { color: var(--k); border-bottom-color: var(--k); }
+/* To read elsewhere, for study: typeset lists, each form's name led by dots to what it is for, like the contents. */
+.ed-h { font-size: var(--fs-h4); line-height: 1.25; font-style: italic; color: var(--ink); letter-spacing: -0.005em; }
+.ed-h + .forms, .ed-h + .forms-none, .ed-h + p { margin-top: 10px; }
+.forms + .ed-h { margin-top: 30px; }
+.forms { list-style: none; padding: 0; max-width: 30em; }
+.forms a { display: flex; align-items: baseline; gap: 10px; min-height: 40px; padding: 6px 0; font-size: var(--fs-ui); line-height: 1.4; }
+.forms b { flex: none; font-weight: 400; color: var(--ink); }
+.forms .dots { flex: 1 1 20px; min-width: 20px; border-bottom: 1px dotted color-mix(in srgb, var(--ink-3) 60%, transparent); transform: translateY(-.3em); }
+.forms i { flex: 0 1 auto; text-align: right; color: var(--ink-2); font-size: var(--fs-aside); }
+.forms a:hover b { color: var(--k); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .forms-none { font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
-/* The colophon: the edition's record told in a few sentences, as at the back of a book. */
-.colophon { font-size: var(--fs-ui); line-height: 1.65; color: var(--ink-2); max-width: 34em; }
+/* The colophon: centred under the house mark, as at the back of a book; a short rule, then a few sentences. */
+.colophon { max-width: 30em; margin: 0 auto; text-align: center; font-size: var(--fs-aside); line-height: 1.7; color: var(--ink-2); text-wrap: balance; }
+.colophon .device { font-size: 22px; line-height: 1; color: var(--k); }
+.colophon .ed-h { margin-top: 10px; font-style: italic; font-size: var(--fs-ui); color: var(--k); }
+.colophon .ed-h::after { content: ""; display: block; width: 32px; height: 1px; margin: 12px auto 4px; background: color-mix(in srgb, var(--k) 50%, transparent); }
 .colophon p + p { margin-top: .7em; }
+.colophon p { text-wrap: balance; }
 .ed-note { max-width: 40em; }
+.ed-note .ed-h + .note-intro { margin-top: 10px; }
 .note-intro { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); }
 .record { margin-top: 14px; max-width: 34em; border-top: 1px solid var(--hair); }
 .record .prose { font-size: var(--fs-ui); }

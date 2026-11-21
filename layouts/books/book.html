@@ -177,11 +177,11 @@ shown as two plain lines, in the record's own capitals. */ -}}
           {{- if or $read $study }}
           {{- with $read }}
           <h3 class="ed-h">To read elsewhere</h3>
-          <ul class="forms">{{ range . }}<li><a href="{{ .url }}"{{ if .dl }} download{{ end }}><b>{{ .name }}</b> <i>{{ .what }}</i></a></li>{{ end }}</ul>
+          <ul class="forms">{{ range . }}<li><a href="{{ .url }}"{{ if .dl }} download{{ end }}><b>{{ .name }}</b><span class="dots" aria-hidden="true"></span><i>{{ .what }}</i></a></li>{{ end }}</ul>
           {{- end }}
           {{- with $study }}
           <h3 class="ed-h">For study</h3>
-          <ul class="forms">{{ range . }}<li><a href="{{ .url }}"{{ if .dl }} download{{ end }}><b>{{ .name }}</b> <i>{{ .what }}</i></a></li>{{ end }}</ul>
+          <ul class="forms">{{ range . }}<li><a href="{{ .url }}"{{ if .dl }} download{{ end }}><b>{{ .name }}</b><span class="dots" aria-hidden="true"></span><i>{{ .what }}</i></a></li>{{ end }}</ul>
           {{- end }}
           {{- else }}
           <h3 class="ed-h">To read elsewhere</h3>
@@ -189,9 +189,11 @@ shown as two plain lines, in the record's own capitals. */ -}}
           {{- end }}
         </div>
         <div>
-          <h3 class="ed-h">Colophon</h3>
-          {{- /* the edition's record told as a book's colophon is: a few sentences, every fact from the record */}}
+          {{- /* the edition's record told as a book's colophon is: a few sentences, every fact from the record,
+          centred under the house mark */}}
           <div class="colophon">
+            <p class="device"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span></p>
+            <h3 class="ed-h">Colophon</h3>
             {{- $parts := split $imprint ":" }}{{ $where := strings.TrimSpace (index $parts 0) }}{{ $who := "" }}{{ if gt (len $parts) 1 }}{{ $who = strings.TrimSpace (delimit (after 1 $parts) ":") }}{{ end }}
             <p>{{ if and $where $who }}Printed in {{ $where }} by {{ $who }}, {{ else if $where }}Printed in {{ $where }}, {{ else }}Printed in {{ end }}{{ $b.year }}.
             {{- if and (not $isV1) $p.pages }} This edition gives all {{ $p.pages }} printed pages{{ with $p.reread_pages }}, {{ . }} of them read a second time against the scan{{ end }}{{ with $p.footnotes_count }}, with {{ cond (eq (int .) 1) "its one footnote" (printf "its %v footnotes" .) }} kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed{{ end }}.{{ end }}

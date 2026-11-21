@@ -352,7 +352,8 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   (as printed, tidy) is offered on one line beneath.
 - **This edition (`.edition`).** How far it has been checked, with the way to proofread; then two columns with
   no boxes or rules: plain typeset lists, "To read elsewhere" and "For study", each line the form's name (a
-  link) and what it is for in italic; and a colophon, the edition's record told in a few sentences as at the
+  link) led by dots to what it is for in italic, as in the contents; and a colophon centred under the ಅಕ್ಷರ
+  mark in the shelf's ink, with a short rule beneath its name, the edition's record told in a few sentences as at the
   back of a book (where and by whom it was printed, what this edition gives, the copy it was read from, its
   number and shelf, its licence), every fact from the record. Then the editor's note with its full record
   folded.
