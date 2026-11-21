@@ -1019,7 +1019,8 @@ html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-phot
 .rd-kinds i { font-style: italic; color: var(--ink); }
 .rd-prov { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.55; font-style: italic; color: var(--ink-2); }
 .rd-text .ed-h { margin-top: 30px; }
-.rd-kinds { list-style: none; padding: 0; margin-top: 12px; display: grid; gap: 12px; }
+.rd-sub { margin-top: 6px; font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
+.rd-kinds { list-style: none; padding: 0; margin-top: 14px; display: grid; gap: 12px; }
 .rd-kinds li { font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); text-wrap: pretty; padding-left: 16px; border-left: 1px solid color-mix(in srgb, var(--k) 30%, transparent); }
 .rd-kinds b { font-weight: 400; font-style: italic; color: var(--ink); }
 /* The score: a large figure in the shelf's ink, then each check as a fine bar with what it found. */
