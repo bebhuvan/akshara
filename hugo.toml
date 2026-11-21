@@ -45,7 +45,7 @@ enableRobotsTXT = false
     keepWhitespace = false
 
 [params]
-  description = "Rare books about India, set again with care and given to everyone. Each is read afresh from photographs of its pages and kept page by page beside its scan."
+  description = "Making India’s forgotten books readable again: travels, Company records, famine reports, village life, Vedic hymns, speeches and letters, long out of print, set to be read and free to all."
   author = "Akshara"
   featured_book = "india-at-the-death-of-akbar"
   proofing_url = "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
