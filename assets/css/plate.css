@@ -225,7 +225,8 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .voice-h h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15; color: var(--k); }
 .voice-h span { font-size: var(--fs-aside); font-style: italic; color: var(--k); }
 .feat { display: grid; gap: 26px; }
-.feat-cover { width: 58%; max-width: 280px; }
+/* On a phone the book stands centred in the column, as on a stand, above the words that describe it. */
+.feat-cover { justify-self: center; width: 64%; max-width: 280px; margin: 6px 0 4px; }
 .feat h3 { font-weight: 300; font-size: var(--fs-feature); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 18em; }
 .feat h3 a:hover { color: var(--k); }
 .feat .by { margin: 10px 0 0; font-size: var(--fs-ui); font-style: italic; color: var(--k); }
@@ -361,7 +362,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
   .stage .art { height: clamp(420px, 36vw, 520px); }
   .feature { padding-block: 56px 64px; }
   .feat { grid-template-columns: 340px 1fr; gap: 72px; align-items: start; }
-  .feat-cover { width: 100%; }
+  .feat-cover { justify-self: stretch; width: 100%; margin: 0; }
   .feat-plates { gap: 16px; }
   .smalls { grid-template-columns: repeat(4, 1fr); gap: 24px; }
   .shelf { grid-template-columns: repeat(4, 1fr); gap: 38px 24px; }
@@ -715,7 +716,9 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text .sec-h3 em, #chapter-text .sec-h3 i { font-style: italic; }
 #chapter-text h2 + .prose-unit .prose-p, #chapter-text h3 + .prose-unit .prose-p { text-indent: 0 !important; }
 /* Marginal notes: the author's shoulder notes, in the book's ink, above their paragraph on a phone. */
-#chapter-text .sidenote-stack { display: block; margin: 1.5em 0 .35em; font-size: var(--fs-note); line-height: 1.35; font-style: italic; color: var(--k); text-indent: 0; }
+/* On a phone the printed shoulder note comes in above its paragraph, near the text's own size so it reads as a heading,
+   not a footnote; on a wide screen it goes back to the margin at note size. */
+#chapter-text .sidenote-stack { display: block; margin: 1.6em 0 .3em; font-size: .92em; line-height: 1.35; font-style: italic; color: var(--k); text-indent: 0; }
 #chapter-text .shoulder-sidenote { display: block; }
 #chapter-text .shoulder-sidenote + .shoulder-sidenote { margin-top: .4em; }
 .read[data-notes="off"] #chapter-text .sidenote-stack { display: none; }
@@ -861,7 +864,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
   .text, .chap-end { max-width: min(var(--measure), calc(100vw - var(--gut) - var(--gut-r) - var(--note-w) - var(--note-gap) - 4.5em));
     padding-left: 0; padding-right: 0; margin-left: max(calc(var(--gut) + var(--note-w) + var(--note-gap)), calc((100vw - var(--measure)) / 2)); margin-right: auto; }
   .read[data-notes="off"] .text, .read[data-notes="off"] .chap-end { margin-left: max(var(--gut), calc((100vw - var(--measure)) / 2)); max-width: min(var(--measure), calc(100vw - var(--gut) - var(--gut-r) - 4.5em)); }
-  #chapter-text .sidenote-stack { position: absolute; left: calc(-1 * (var(--note-w) + var(--note-gap))); width: var(--note-w); margin: .35em 0 0; text-align: right; }
+  #chapter-text .sidenote-stack { position: absolute; left: calc(-1 * (var(--note-w) + var(--note-gap))); width: var(--note-w); margin: .35em 0 0; font-size: var(--fs-note); text-align: right; }
   #chapter-text .folio-trigger { right: -4.4em; font-size: 12.5px; margin-top: calc(.55em - 12px); }
   .turn { padding: 26px 30px 28px; }
 }

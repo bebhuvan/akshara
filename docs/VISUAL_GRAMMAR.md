@@ -289,7 +289,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 - **Section heading (`.sec-h`).** The name at `--fs-h2`, a quiet italic aside on the right (often a link),
   one hairline beneath. When the two do not fit on one line the aside goes beneath the name, never leaving a
   word of the heading alone. Inside a shelf-coloured band, `.voice-h` does the same in the shelf's ink.
-- **Featured edition (`.feature`).** A band of the shelf's ground mixed half-way to paper: the cover, the
+- **Featured edition (`.feature`).** A band of the shelf's ground mixed half-way to paper: the cover (centred in the column on a phone, beside the words on a wide screen), the
   full title, the author line, the book's own first sentence set large, a description, two ways in, then
   three of its plates on one rule.
 - **Plate tiles (`.smalls`, `.feat-plates`).** A plate inset on its shelf's ground; the caption beneath,
@@ -369,8 +369,9 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 - **Side-headings (`.sec-h3`).** The book's own headings within a chapter: the text's size, italic in the
   shelf's ink, closer to the paragraph they head than to the one before. Headings the book printed in capitals
   are set in small capitals.
-- **Marginal notes (`.sidenote-stack`).** The author's shoulder notes, italic, `--fs-note`, in the shelf's
-  ink: right-aligned in the left margin on a wide screen, above their paragraph on a phone.
+- **Marginal notes (`.sidenote-stack`).** The author's shoulder notes, italic, in the shelf's
+  ink: right-aligned in the left margin at `--fs-note` on a wide screen; on a phone above their paragraph, at
+  nearly the text's size, so they read as a heading and not a footnote.
 - **Folios (`.folio-trigger`).** The printed page numbers, small italic figures in `--ink-3` in the right
   margin (at the very edge on a phone), each opening the scan of that page; the shelf's ink on hover.
 - **Chapter end (`.chap-end`).** A 40px rule, "End of chapter I" in italic, then the next chapter as one block
