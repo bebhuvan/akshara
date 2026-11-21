@@ -17,6 +17,8 @@
   </div>
   <div class="op-book" aria-label="Page 3 of R. C. Dutt’s India in the Victorian Age: the 1904 printing as photographed, and the same page set again by Akshara">
     <div class="ob-spread">
+      <input class="ob-cmp" type="range" min="0" max="100" value="50" step="1" aria-label="Compare the photographed page with the page as Akshara sets it" data-compare hidden>
+      <span class="ob-handle" aria-hidden="true" hidden><span>‹&ensp;›</span></span>
       <figure class="ob-l"><img src="/img/scan-dutt-p3-toned.webp" width="760" height="1224" alt="Photograph of the worn printed page: India in the Victorian Age, Chapter I, Auckland and Ellenborough." fetchpriority="high"></figure>
       <div class="ob-r" aria-hidden="true">
         <p class="ob-rh">India in the Victorian Age</p>
@@ -29,8 +31,16 @@
       </div>
     </div>
     <div class="ob-caps"><p>The 1904 printing, as the camera found it</p><p>The same page, as Akshara sets it</p></div>
+    <p class="ob-hint" data-compare-hint hidden>Drag across the page to compare the two</p>
   </div>
 </header>
+
+<div class="frieze wrap" aria-label="Engravings from the books">
+{{- range hugo.Data.home.frieze -}}
+{{- $pl := partial "plate/get.html" . -}}{{- $b := partial "book/get.html" $pl.book -}}
+<a class="fz" href="{{ $b.url }}" title="{{ $pl.title }}, from {{ $b.title }}"><span class="ink-plate" role="img" aria-label="{{ $pl.alt }}" style="--src:url(/plates/{{ $pl.key }}.webp);--ar:{{ $pl.ratio | safeCSS }};--plate:color-mix(in srgb, {{ $b.cloth | safeCSS }} 86%, #000)"></span></a>
+{{- end -}}
+</div>
 
 <div class="op-row" aria-label="A few of the books"><div class="op-books">
 {{- range slice "life-and-letters-of-toru-dutt" "journey-from-madras-vol-i" "periplus-erythraean-sea" "life-in-an-indian-village" "lays-of-ancient-india" "poverty-and-un-british-rule" "palas-of-bengal" -}}

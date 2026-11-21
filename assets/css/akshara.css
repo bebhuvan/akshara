@@ -1997,3 +1997,46 @@ table.ed-ledger td:not(.n) { text-align: left; }
 .ob-caps p { display: flex; flex-direction: column; align-items: center; gap: .25rem; }
 .ob-caps p::before { content: ""; width: 1.6rem; border-top: 1px solid var(--blue-soft); margin-bottom: .35rem; }
 @media (max-width: 760px) { .ob-caps { font-size: .92rem; } }
+
+/* ---- the opening, enlarged: the open book a little larger, and an object with a real book's shadow ---- */
+@media (min-width: 1101px) { .op { grid-template-columns: minmax(0, 4.4fr) minmax(0, 6.6fr); } }
+.ob-spread { box-shadow: 0 0 0 .5px rgba(28,26,23,.16), 0 2px 3px rgba(28,26,23,.08), 0 50px 70px -40px rgba(28,26,23,.5); }
+
+/* ---- compare: with the script, the set page lies over the photographed one and a handle wipes between
+   them. The control is a range input over the page, so arrow keys and screen readers work too. Without the
+   script the two-page spread stays as it is. Sizes inside the page are in units of the page's own width. */
+.op-book.compare .ob-spread { grid-template-columns: 1fr; aspect-ratio: 760 / 1224; width: min(66%, 31rem); margin: 0 auto;
+  container-type: inline-size; touch-action: pan-y; }
+.op-book.compare .ob-spread::after { display: none; }
+.op-book.compare .ob-l, .op-book.compare .ob-r { grid-area: 1 / 1; }
+.op-book.compare .ob-r { clip-path: inset(0 0 0 var(--cut, 50%)); padding: 12.8cqw 9.2cqw 0 10cqw; font-size: 2.72cqw; }
+.op-book.compare .ob-rh { font-size: 2.3cqw; }
+.op-book.compare .ob-ch { margin-top: 8.4cqw; font-size: 2.6cqw; }
+.op-book.compare .ob-t { margin-top: 1cqw; font-size: 4.6cqw; }
+.op-book.compare .ob-rule { width: 6.8cqw; margin: 3.6cqw auto 5.2cqw; border-top-width: max(.5px, .2cqw); }
+.op-book.compare .ob-folio { bottom: 6.8cqw; font-size: 2.3cqw; }
+.ob-cmp { position: absolute; inset: 0; z-index: 4; width: 100%; height: 100%; margin: 0; opacity: 0; cursor: ew-resize; touch-action: pan-y; }
+.ob-handle { position: absolute; top: 0; bottom: 0; left: var(--cut, 50%); z-index: 3; width: 0; border-left: 1.5px solid var(--blue); pointer-events: none; }
+.ob-handle span { position: absolute; top: 50%; left: 0; transform: translate(-50%, -50%); white-space: nowrap; background: var(--paper); color: var(--blue);
+  border: 1px solid var(--blue); border-radius: 999px; padding: .3rem .75rem; font-size: .95rem; line-height: 1; box-shadow: 0 4px 12px rgba(28,26,23,.14); }
+.ob-cmp:focus-visible ~ .ob-handle span { outline: 2px solid var(--blue); outline-offset: 3px; }
+.op-book.compare .ob-caps { width: min(66%, 31rem); margin-left: auto; margin-right: auto; }
+.op-book.compare .ob-caps p { padding: 0 .4rem; }
+.ob-hint { margin-top: .9rem; text-align: center; font-size: .86rem; font-style: italic; color: var(--ink-2); }
+@media (max-width: 760px) {
+  .op-book.compare { width: 100%; margin: 1rem 0 0; }
+  .op-book.compare .ob-spread, .op-book.compare .ob-caps { width: 84%; }
+}
+
+/* ---- the strip of engravings under the opening, each in its own book's ink; each opens its book ---- */
+.frieze { display: flex; align-items: flex-end; justify-content: space-between; gap: clamp(1rem, 3vw, 3rem);
+  margin-top: clamp(3rem, 6vw, 5rem); margin-bottom: clamp(3rem, 6vw, 5rem); padding-top: 2rem; padding-bottom: 2rem;
+  border-top: .5px solid var(--hair); border-bottom: .5px solid var(--hair); }
+.fz { flex: 1 1 0; display: flex; align-items: flex-end; justify-content: center; height: clamp(70px, 9vw, 130px); }
+.fz .ink-plate { height: 100%; width: auto; max-width: 100%; background: var(--plate); }
+@media (prefers-reduced-motion: no-preference) { .fz { transition: transform .3s ease; } .fz:hover { transform: translateY(-4px); } }
+@media (max-width: 760px) {
+  .frieze { overflow-x: auto; justify-content: flex-start; scroll-snap-type: x mandatory; scrollbar-width: none; margin-left: 0; margin-right: 0; }
+  .frieze::-webkit-scrollbar { display: none; }
+  .fz { flex: none; width: 96px; height: 84px; scroll-snap-align: start; }
+}

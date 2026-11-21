@@ -2,6 +2,10 @@
 # Plain keys must come before the first [[table]], or TOML files them under it.
 
 # "Small things from the books": plate keys from data/plates.toml.
+# The strip of engravings under the opening: plate keys from data/plates.toml, in order.
+frieze = ["j2-chakram", "per-ship", "j2-bull", "pal-jones", "et-coryat", "j1-sugarmill", "eic-ship"]
+
+# "Small things from the books": plate keys from data/plates.toml.
 cabinet = ["j2-bull", "per-ship", "j3-fish", "et-coryat", "pal-jones", "j1-sugarmill"]
 
 # "Three more to begin with": a book and a sentence from it, with where the sentence comes from.
