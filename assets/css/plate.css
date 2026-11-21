@@ -35,7 +35,7 @@
   --paper: #FFFFFF;
   --ink: #1E1D1B;
   --ink-2: #57544E;
-  --ink-3: #8A867E;
+  --ink-3: #76726A;     /* 4.8:1 on white: the mock's #8A867E (3.6:1) was too faint for small captions */
   --hair: #E2DFD8;
   --well: #EFEDE7;
   --well-edge: #E4E1DA;
@@ -834,7 +834,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
    ink is at least 5.5:1 on its ground). Only tokens change here; no component has dark colours of its own.
    assets/js/paper.js sets <html data-theme> before the page is drawn. */
 html[data-paper="cotton"][data-theme="light"] { --paper: #F5F1E8; --well: #ECE7DC; --well-edge: #E2DCCF; }
-html[data-theme="dark"] { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; --ink-2: #ABA69C; --ink-3: #858077; --hair: #2E2F31;
+html[data-theme="dark"] { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; --ink-2: #ABA69C; --ink-3: #8E897F; --hair: #2E2F31;
   --well: #222326; --well-edge: #2E2F31; --on-k: #17181A; --shadow: 0, 0, 0; --g: #26272A; --k: #C9C4BA; --ft-ink: #8A867E; }
 html[data-theme="dark"] .su { --g: #282D23; --k: #B8C79E; }
 html[data-theme="dark"] .ma { --g: #1E2D35; --k: #8EC1D7; }

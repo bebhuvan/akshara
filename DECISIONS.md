@@ -305,3 +305,10 @@ page. A toggle in the masthead: one more control for something the device alread
 
 **Rejected.** Lossy re-encoding of every plate in a script (the masks' fine lines blur, and the gain was
 small beside not loading them at all); a font-loading script (the browser's own `unicode-range` does it).
+
+## D24: The third ink is darkened for legibility (2026-11-21)
+
+**Decided.** `--ink-3`, the faintest text colour (captions, notes on notes, placeholders), is `#76726A`,
+4.8:1 on white, instead of the mock's `#8A867E` (3.6:1, below the 4.5:1 that WCAG asks of small text). In
+dark mode it is `#8E897F` (5.1:1). Every other ink already passed: `--ink-2` 7.5:1, each shelf's ink at least
+7:1 on white and 5.9:1 on its own ground.
