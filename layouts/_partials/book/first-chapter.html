@@ -1,0 +1,6 @@
+{{- /* The page a reader should open first: the first chapter proper (section_kind "chapter"), else the first page. */ -}}
+{{- $pages := .Pages.ByWeight -}}
+{{- $ch := index (where $pages "Params.section_kind" "chapter") 0 -}}
+{{- if not $ch -}}{{- $ch = index (where $pages "Kind" "page") 0 -}}{{- end -}}
+{{- if not $ch -}}{{- errorf "Book %s has no chapters" .RelPermalink -}}{{- end -}}
+{{- return $ch -}}

@@ -1,0 +1,306 @@
+# Engravings cleaned to line from the books own figures (static/plates/<key>.webp, made by the design mock prepare_plates.py).
+# Each names the book it came from, so it always links there and prints in that book ink. Captions give figure and page.
+
+[[group]]
+name = "Francis Buchanan, A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
+year = "1807"
+
+[[group.plate]]
+key = "j2-chakram"
+book = "journey-from-madras-vol-ii"
+ratio = "1600/1488"
+title = "Chakram of Chowgaut"
+italic = false
+detail = "Plate xx, fig. 51"
+volume = "vol. II"
+source = ""
+page = "407"
+alt = "A wooden wheel with twelve flat arms turning in a plank case."
+
+[[group.plate]]
+key = "j3-fish"
+book = "journey-from-madras-vol-iii"
+ratio = "1700/1204"
+title = "Cyprinus curmuca"
+italic = true
+detail = "Plate xxx"
+volume = "vol. III"
+source = ""
+page = "344"
+alt = "A carp in profile, every scale drawn."
+
+[[group.plate]]
+key = "j2-bull"
+book = "journey-from-madras-vol-ii"
+ratio = "1371/986"
+title = "Seringapatam bull, from the late Sultan’s herd"
+italic = false
+detail = "Fig. 38"
+volume = "vol. II"
+source = ""
+page = "7"
+alt = "A humped bull standing in profile."
+
+[[group.plate]]
+key = "j1-krishna"
+book = "journey-from-madras-vol-i"
+ratio = "900/1151"
+title = "Krishna Raja, Curtur, or Sovereign of Mysore"
+italic = false
+detail = "Frontispiece, engraved by C. Picart"
+volume = "vol. I"
+source = ""
+page = "ii"
+alt = "Portrait of a boy king in a large turban."
+
+[[group.plate]]
+key = "j1-sugarmill"
+book = "journey-from-madras-vol-i"
+ratio = "1500/1097"
+title = "Sugar mill at Chica Ballapura"
+italic = false
+detail = "Fig. 34"
+volume = "vol. I"
+source = ""
+page = "340"
+alt = "An upright wooden sugar press with a long curved beam."
+
+[[group.plate]]
+key = "j3-sultan"
+book = "journey-from-madras-vol-iii"
+ratio = "800/1046"
+title = "Sultan Mohay ud Deen, eldest legitimate son of Tippoo Sultan"
+italic = false
+detail = "Plate xxxvi"
+volume = "vol. III"
+source = ""
+page = "467"
+alt = "Portrait of a young man in a turban."
+
+[[group.plate]]
+key = "j1-yatam"
+book = "journey-from-madras-vol-i"
+ratio = "900/1223"
+title = "Single Yatam of Bangalore"
+italic = false
+detail = ""
+volume = "vol. I"
+source = ""
+page = "262"
+alt = "A counterpoised well-sweep over a well."
+
+[[group.plate]]
+key = "j2-ram"
+book = "journey-from-madras-vol-ii"
+ratio = "1000/592"
+title = "Curumbar ram"
+italic = false
+detail = "Plate xvii, fig. 42"
+volume = "vol. II"
+source = ""
+page = "277"
+alt = "A ram standing in profile."
+
+[[group.plate]]
+key = "j3-carculla"
+book = "journey-from-madras-vol-iii"
+ratio = "700/1478"
+title = "Image at Carculla in Canara"
+italic = false
+detail = ""
+volume = "vol. III"
+source = ""
+page = "82"
+alt = "A tall standing stone figure on a pedestal."
+
+[[group.plate]]
+key = "j1-goat"
+book = "journey-from-madras-vol-i"
+ratio = "900/729"
+title = "The long-legged goat called Maykay in Karnata"
+italic = false
+detail = "Fig. 10"
+volume = "vol. I"
+source = ""
+page = "121"
+alt = "A long-legged goat in profile."
+
+[[group.plate]]
+key = "j3-sankara"
+book = "journey-from-madras-vol-iii"
+ratio = "700/1253"
+title = "Image of Sankara Narayana at Gaukarna"
+italic = false
+detail = "Plate xxiv, fig. 67"
+volume = "vol. III"
+source = ""
+page = "169"
+alt = "A carved four-armed standing image."
+
+[[group.plate]]
+key = "j1-gudagu"
+book = "journey-from-madras-vol-i"
+ratio = "502/892"
+title = "Gudagu, or reaping-hook"
+italic = false
+detail = "Plate ii, fig. 2"
+volume = "vol. I"
+source = ""
+page = "38"
+alt = "A sickle with a bound handle."
+
+[[group]]
+name = "Wilfred H. Schoff, The Periplus of the Erythræan Sea"
+year = "1912"
+
+[[group.plate]]
+key = "per-ship"
+book = "periplus-erythraean-sea"
+ratio = "1/1"
+title = "Merchant-ship of the second century, from a relief in the Lateran Museum"
+italic = false
+detail = ""
+volume = ""
+source = ""
+page = "210"
+alt = "A Roman merchant ship under sail on stylised waves."
+
+[[group.plate]]
+key = "per-trees"
+book = "periplus-erythraean-sea"
+ratio = "1600/1195"
+title = "Frankincense trees, from the Punt reliefs at Deir el Bahri"
+italic = false
+detail = "After Naville"
+volume = ""
+source = ""
+page = "120"
+alt = "Three trees in baskets, from an Egyptian relief."
+
+[[group.plate]]
+key = "per-pallava"
+book = "periplus-erythraean-sea"
+ratio = "1000/1031"
+title = "Kurumbar or Pallava coin, with a two-masted ship"
+italic = false
+detail = ""
+volume = ""
+source = ""
+page = "244"
+alt = "A coin bearing a two-masted ship."
+
+[[group.plate]]
+key = "per-nero"
+book = "periplus-erythraean-sea"
+ratio = "1000/428"
+title = "Coin of Nero, for the opening of the harbour-works at Ostia"
+italic = false
+detail = ""
+volume = ""
+source = ""
+page = "220"
+alt = "Two faces of a Roman coin."
+
+[[group]]
+name = "The Company and the travellers"
+year = ""
+
+[[group.plate]]
+key = "eic-ship"
+book = "eic-first-letter-book-1600-1619"
+ratio = "800/1126"
+title = "Ship before the sun"
+italic = false
+detail = "Printer’s device"
+volume = ""
+source = "The First Letter Book of the East India Company, 1893"
+page = "vi"
+alt = "A sailing ship before a rayed sun, in a roundel."
+
+[[group.plate]]
+key = "et-coryat"
+book = "early-travels-in-india-1583-1619"
+ratio = "1000/960"
+title = "Coryat on an elephant"
+italic = false
+detail = ""
+volume = ""
+source = "Early Travels in India, 1583–1619, 1921"
+page = "248"
+alt = "A man riding an elephant."
+
+[[group.plate]]
+key = "ef12-bombay"
+book = "english-factories-india-1665-1667-vol-12"
+ratio = "900/1083"
+title = "Bombay Island and Salsette"
+italic = false
+detail = "Sketch map"
+volume = ""
+source = "The English Factories in India, 1665–1667, 1925"
+page = "40"
+alt = "A sketch map of Bombay island and Salsette."
+
+[[group.plate]]
+key = "ef4-coast"
+book = "english-factories-india-1630-1633-vol-04"
+ratio = "900/646"
+title = "The Coast Factories in 1630"
+italic = false
+detail = "Map"
+volume = ""
+source = "The English Factories in India, 1630–1633, 1910"
+page = "xi"
+alt = "A map of the Coromandel coast with its factories."
+
+[[group]]
+name = "Inscriptions, seals and a district"
+year = ""
+
+[[group.plate]]
+key = "pal-narasimha"
+book = "palas-of-bengal"
+ratio = "1600/1393"
+title = "The Narasiṁha temple inscription of Nayapāla, the year 15"
+italic = false
+detail = "Rubbing"
+volume = ""
+source = "R. D. Banerji, The Pālas of Bengal, 1915"
+page = "123"
+alt = "A rubbing of a stone inscription."
+
+[[group.plate]]
+key = "pal-jones"
+book = "palas-of-bengal"
+ratio = "623/832"
+title = "Sir William Jones, MDCCXLVI–MDCCXCIV"
+italic = false
+detail = "Seal of the Asiatic Society"
+volume = ""
+source = "R. D. Banerji, The Pālas of Bengal, 1915"
+page = "9"
+alt = "A medallion portrait of Sir William Jones."
+
+[[group.plate]]
+key = "eh-harsha"
+book = "early-history-of-india-1924"
+ratio = "1000/282"
+title = "Autograph of King Harsha"
+italic = false
+detail = ""
+volume = ""
+source = "Vincent A. Smith, The Early History of India, 1924"
+page = "356"
+alt = "A line of signature in an Indian script."
+
+[[group.plate]]
+key = "fari-plan"
+book = "economic-life-bengal-district-faridpur-1916"
+ratio = "900/634"
+title = "Plans of homesteads in comfort, Hindu and Muhammadan"
+italic = false
+detail = ""
+volume = ""
+source = "J. C. Jack, The Economic Life of a Bengal District, 1916"
+page = "24"
+alt = "Plans of two homesteads."

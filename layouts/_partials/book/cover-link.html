@@ -1,0 +1,3 @@
+{{- $b := . -}}
+<a class="cv-link" href="{{ $b.url }}" title="{{ $b.title }} · {{ $b.author }}, {{ $b.year }}">{{ partial "book/cover.html" $b }}</a>
+{{- /**/ -}}

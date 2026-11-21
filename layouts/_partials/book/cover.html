@@ -1,0 +1,21 @@
+{{- /* A cover drawn from the book's record (see the design's COVER_SCHEMA): cloth of its shelf, the title
+in ivory, the author, its own engraving stamped in line or the house device pressed blind, and the foot line. */ -}}
+{{- $b := . -}}
+{{- $t := $b.cover_title -}}
+{{- $longest := 0 -}}
+{{- range split $t " " -}}{{- if gt (len .) $longest -}}{{- $longest = len . -}}{{- end -}}{{- end -}}
+{{- $n := len $t -}}
+{{- $step := "s4" -}}
+{{- if and (le $n 16) (le $longest 9) -}}{{- $step = "s1" -}}
+{{- else if and (le $n 30) (le $longest 11) -}}{{- $step = "s2" -}}
+{{- else if le $n 44 -}}{{- $step = "s3" -}}{{- end -}}
+{{- if and (ge $longest 12) (in (slice "s3" "s4") $step) -}}{{- $step = printf "%s lw" $step -}}{{- end -}}
+<div class="cv" role="img" aria-label="Cover of {{ $b.title }}, Akshara No. {{ $b.no }}" style="--cloth:{{ $b.cloth | safeCSS }}"><span class="cv-in">
+<span class="cv-title {{ $step }}">{{ $t }}</span><span class="cv-auth">{{ $b.author }}</span>
+{{- with $b.vignette.plate -}}
+<span class="cv-art"><span class="cv-plate" style="--src:url(/plates/{{ . }}.webp);--ar:{{ $b.vignette.ratio | safeCSS }}"></span></span>
+{{- else -}}
+<span class="cv-art cv-device" aria-hidden="true"><span class="cv-seal"><span>ಅಕ್ಷರ</span></span></span>
+{{- end -}}
+<span class="cv-foot"><span class="cv-imp">Akshara</span><span class="cv-no">No.&#8201;{{ $b.no }}</span><span class="cv-year">{{ $b.year }}</span></span></span></div>
+{{- /**/ -}}

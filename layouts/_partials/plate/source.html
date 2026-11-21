@@ -1,0 +1,6 @@
+{{- /* "Buchanan, A Journey from Madras, 1807, vol. II, p. 7": where a plate was printed. */ -}}
+{{- $pl := .plate -}}{{- $b := .book -}}
+{{- $who := index (split $b.author " ") (sub (len (split $b.author " ")) 1) -}}
+{{- if strings.Contains $b.author " and " -}}{{- $who = $b.author -}}{{- end -}}
+{{ $who }}, <i>{{ $b.cover_title | replaceRE `, Vol\. [IVX]+$` "" }}</i>, {{ $b.year }}{{ with $pl.volume }}, {{ . }}{{ end }}, p.&nbsp;{{ $pl.page }}
+{{- /**/ -}}

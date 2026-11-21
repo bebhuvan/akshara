@@ -1,0 +1,66 @@
+# The eight shelves. A book's shelf comes from its `archetype` front matter (set by the pipeline).
+# The order here is the order on the site. Each shelf has one cloth colour (see GRAMMAR in the design notes).
+
+[[shelf]]
+key = "epistolary_and_speeches"
+name = "Literature and Letters"
+cloth_name = "madder"
+cloth = "#9A5E6A"
+epigraph = "I wonder what I should do without your dear letters; there would be such a gap in my everyday life, if I did not receive them."
+source = "Toru Dutt, to Mary Martin, 1877"
+
+[[shelf]]
+key = "village_and_society"
+name = "Village and Society"
+cloth_name = "sea green"
+cloth = "#4A7E6B"
+epigraph = "A cluster of trees, consisting of the tamarind, mango, cocoanut, plantain, and other useful Indian trees; a group of dwellings, some thatched and some tiled; a small temple in the centre."
+source = "T. Ramakrishna, *Life in an Indian Village*, 1891"
+
+[[shelf]]
+key = "court_and_chronicle"
+name = "Travel and Chronicles"
+cloth_name = "terracotta"
+cloth = "#9A614A"
+epigraph = "We who are closet students of Indian history can deal only with old paper, with MS. records of the past; we can touch only the exterior of the Mughal system."
+source = "Jadunath Sarkar, *The Mughal Administration*, 1920"
+
+[[shelf]]
+key = "classical_and_philological"
+name = "Classical and Philology"
+cloth_name = "lapis"
+cloth = "#5466A0"
+epigraph = "Even at the present moment, after a century of English rule and English teaching, I believe that Sanskrit is more widely understood in India than Latin was in Europe at the time of Dante."
+source = "F. Max Müller, *India: What Can It Teach Us?*, 1883"
+
+[[shelf]]
+key = "maritime_company_records"
+name = "Maritime and Company Records"
+cloth_name = "sea blue"
+cloth = "#3E7790"
+epigraph = "The growth of civilization in India created an active merchant marine, trading to the Euphrates and Africa, and eastward we know not whither."
+source = "Wilfred H. Schoff, *The Periplus of the Erythræan Sea*, 1912"
+
+[[shelf]]
+key = "political_economy_ledger"
+name = "Political Economy"
+cloth_name = "heather"
+cloth = "#7A5C88"
+epigraph = "In their prosperity will be our strength, in their contentment our security, and in their gratitude our best reward."
+source = "The Proclamation of 1858, as Naoroji quotes it, 1901"
+
+[[shelf]]
+key = "survey_and_gazetteer"
+name = "Surveys and Gazetteers"
+cloth_name = "moss"
+cloth = "#66744A"
+epigraph = "In good sooth, my masters, this is no door. Yet is it a little window, that looketh upon a great world."
+source = "The epigraph to Herbert Risley, *The People of India*, 1915"
+
+[[shelf]]
+key = "currency_and_finance"
+name = "Currency and Finance"
+cloth_name = "slate"
+cloth = "#5E6A7E"
+epigraph = "The Punjab is an agricultural province, a land of peasant proprietors, a large and annually increasing portion of whom are sinking into the position of serfs to the money-lenders."
+source = "S. S. Thorburn, *Musalmans and Money-Lenders in the Punjab*, 1886"

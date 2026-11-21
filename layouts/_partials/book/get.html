@@ -1,0 +1,4 @@
+{{- /* A book's record by its id. Stops the build if the id is not a book, so a curated list can never link to nothing. */ -}}
+{{- $p := site.GetPage (printf "/books/%s" .) -}}
+{{- if not $p -}}{{- errorf "No book with id %q (a curated list names it)" . -}}{{- end -}}
+{{- return partialCached "book/record.html" $p $p.RelPermalink -}}

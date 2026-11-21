@@ -1,0 +1,4 @@
+{{- /* Every book's record, in series order. Cached: build once per site build. */ -}}
+{{- $out := slice -}}
+{{- range (site.GetPage "/books").Sections -}}{{- $out = $out | append (partialCached "book/record.html" . .RelPermalink) -}}{{- end -}}
+{{- return sort $out "no" -}}
