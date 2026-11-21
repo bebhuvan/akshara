@@ -314,19 +314,44 @@
     if (q) { input.value = q; run(); }
   }
 
-  /* the opening: the set page over the photographed one, and a handle to wipe between them */
-  function compare() {
-    var input = $("[data-compare]");
-    if (!input) return;
-    var book = input.closest(".op-book"), handle = $(".ob-handle", book), hint = $("[data-compare-hint]");
-    book.classList.add("compare");
-    input.hidden = false; handle.hidden = false; if (hint) hint.hidden = false;
-    function set() { book.style.setProperty("--cut", input.value + "%"); }
-    input.addEventListener("input", set);
-    set();
+  /* the opening: the plate turns slowly, each engraving on its own shelf's paper. Nothing moves for a
+     reader who has asked for less motion. Captions are built as text nodes; *words* are set in italic. */
+  function captionNodes(line) {
+    var frag = document.createDocumentFragment();
+    String(line).split("*").forEach(function (part, i) {
+      if (!part) return;
+      if (i % 2) { var it = document.createElement("i"); it.textContent = part; frag.appendChild(it); }
+      else frag.appendChild(document.createTextNode(part));
+    });
+    return frag;
+  }
+  function turning() {
+    var stage = $("#stage");
+    if (!stage || !stage.dataset.turn) return;
+    if (window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    var plates;
+    try { plates = JSON.parse(stage.dataset.turn); } catch (e) { return; }
+    if (!Array.isArray(plates) || plates.length < 2) return;
+    var faces = $$(".art .plate", stage), a = faces[0], b = faces[1], i = 0, base = stage.className.split(" ")[0];
+    var capT = $('[data-cap="t"]', stage), capS = $('[data-cap="s"]', stage), capN = $('[data-cap="n"]', stage);
+    plates.forEach(function (p) { var im = new Image(); im.src = p.src; });
+    setInterval(function () {
+      if (document.hidden) return;
+      i = (i + 1) % plates.length; var p = plates[i];
+      if (!/^\/plates\/[a-z0-9-]+\.webp$/.test(p.src) || !/^[a-z]{2}$/.test(p.code)) return;
+      b.style.setProperty("--src", "url(" + p.src + ")");
+      b.setAttribute("role", "img"); b.setAttribute("aria-label", p.alt || ""); b.removeAttribute("aria-hidden");
+      a.removeAttribute("role"); a.removeAttribute("aria-label"); a.setAttribute("aria-hidden", "true");
+      stage.className = base + " " + p.code;
+      b.classList.remove("off"); a.classList.add("off");
+      var t = a; a = b; b = t;
+      capT.textContent = p.title;
+      capS.replaceChildren(captionNodes(p.line));
+      capN.textContent = (i + 1) + " of " + plates.length;
+    }, 6500);
   }
 
-  compare();
+  turning();
   library();
   reading();
   search();

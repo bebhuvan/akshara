@@ -2,220 +2,143 @@
 {{ define "main" }}
 {{- $books := partial "book/all.html" . -}}
 {{- $count := len $books -}}
-{{- $full := where $books "tier" "!=" "v1_archive" -}}
-{{- $feat := partial "book/get.html" "journey-from-madras-vol-i" -}}
+{{- $home := hugo.Data.home -}}
+{{- $begin := partial "book/get.html" $home.begin -}}
+{{- $beginFirst := partial "book/first-chapter.html" $begin.page -}}
+{{- $f := $home.featured -}}
+{{- $feat := partial "book/get.html" $f.book -}}
 {{- $featFirst := partial "book/first-chapter.html" $feat.page -}}
 {{- $dutt := partial "book/get.html" "economic-history-india-victorian-age-dutt" -}}
 
-<header class="op wrap">
-  <div class="op-text">
-    <h1 class="op-title">Making India’s forgotten books <em>readable again.</em></h1>
-    <div class="op-lede">
-      <p>Travellers’ roads and the Company’s ledgers, famine commissions and village life, Vedic hymns, coins and copper-plates, speeches that argued for a nation and letters written to a friend: the books in which India was described, measured and argued over. Long out of print, now set to be read, and free to all.</p>
-      <div class="op-act"><a class="op-go" href="{{ $featFirst.RelPermalink }}">Begin reading</a><p class="op-more"><a href="/books/">All {{ partial "words.html" $count }} books</a><span aria-hidden="true">·</span><a href="/about/">Why Akshara exists</a></p></div>
-    </div>
-  </div>
-  <div class="op-book" aria-label="Page 3 of R. C. Dutt’s India in the Victorian Age: the 1904 printing as photographed, and the same page set again by Akshara">
-    <div class="ob-spread">
-      <input class="ob-cmp" type="range" min="0" max="100" value="50" step="1" aria-label="Compare the photographed page with the page as Akshara sets it" data-compare hidden>
-      <span class="ob-handle" aria-hidden="true" hidden><span>‹&ensp;›</span></span>
-      <figure class="ob-l"><img src="/img/scan-dutt-p3-toned.webp" width="760" height="1224" alt="Photograph of the worn printed page: India in the Victorian Age, Chapter I, Auckland and Ellenborough." fetchpriority="high"></figure>
-      <div class="ob-r" aria-hidden="true">
-        <p class="ob-rh">India in the Victorian Age</p>
-        <p class="ob-ch">Chapter I</p>
-        <p class="ob-t">Auckland and Ellenborough</p>
-        <span class="ob-rule"></span>
-        <p class="ob-p"><span class="ob-init">L</span><span class="ob-sc">ord William Bentinck</span> left India in 1835. His seven years’ rule was an era of Peace, Retrenchment, and Reform. He secured tranquillity in the East India Company’s dominions, and lived at peace with the Indian Powers. He reduced the public debt, decreased the annual expenditure, and showed a surplus. He commenced that revised settlement of land revenue in Northern India which gave relief to landlords and cultivators. He admitted the educated people of India to the higher appointments in the revenue and judicial departments. He abolished the practice of Sati and suppressed the crime of Thugs. He promoted English education in India, and endeavoured to carry out the maxim that the administration of India was primarily for the interests of the people. His successor, Sir Charles Metcalfe, trained in the traditions of his school, worked in the same lines, and followed the same principles. He gave liberty to the Press of India, and earned for himself a high reputation as an able and benevolent administrator.</p>
-        <p class="ob-p ob-in">Henry St. George Tucker was the Chairman of the Court of Directors in August 1834, when the resignation of Lord William Bentinck was received by the Directors. Tucker had himself done distinguished service in India, and had ably managed its finances under Wellesley and</p>
-        <p class="ob-folio">3</p>
-      </div>
-    </div>
-    <div class="ob-caps"><p>The 1904 printing, as the camera found it</p><p>The same page, as Akshara sets it</p></div>
-    <p class="ob-hint" data-compare-hint hidden>Drag across the page to compare the two</p>
-  </div>
-</header>
-
-<div class="frieze wrap" aria-label="Engravings from the books">
-{{- range hugo.Data.home.frieze -}}
-{{- $pl := partial "plate/get.html" . -}}{{- $b := partial "book/get.html" $pl.book -}}
-<a class="fz" href="{{ $b.url }}" title="{{ $pl.title }}, from {{ $b.title }}"><span class="ink-plate" role="img" aria-label="{{ $pl.alt }}" style="--src:url(/plates/{{ $pl.key }}.webp);--ar:{{ $pl.ratio | safeCSS }};--plate:color-mix(in srgb, {{ $b.cloth | safeCSS }} 86%, #000)"></span></a>
+{{- /* The turning plate: the first plate is drawn by the page; the script turns to the rest, reading them
+from data attributes (no inline script, D4). */ -}}
+{{- $turn := slice -}}
+{{- range $home.turning -}}
+  {{- $pl := partial "plate/get.html" .plate -}}{{- $b := partial "book/get.html" $pl.book -}}
+  {{- $turn = $turn | append (dict "src" (printf "/plates/%s.webp" $pl.key) "code" $b.code "title" .title "line" .line "alt" $pl.alt "url" $b.url) -}}
 {{- end -}}
+{{- $t0 := index $turn 0 -}}
+{{- $first := index $home.turning 0 -}}
+<div class="home-top">
+  <div class="lede wrap"><h1>Making India’s forgotten books <em>readable again.</em></h1></div>
+  <figure class="stage {{ $t0.code }}" id="stage" data-turn="{{ $turn | jsonify }}">
+    <div class="art">
+      <i class="plate" style="--src:url({{ $t0.src }})" role="img" aria-label="{{ $t0.alt }}"></i>
+      <i class="plate off" aria-hidden="true"></i>
+    </div>
+    <figcaption class="wrap"><span><i data-cap="t">{{ $first.title }}</i><span class="cap-s" data-cap="s">{{ $first.line | markdownify }}</span></span><span class="n" data-cap="n">1 of {{ len $turn }}</span></figcaption>
+  </figure>
+  <div class="side wrap {{ $begin.code }}">
+    <p class="intro">Travellers’ roads and the Company’s ledgers, famine commissions and village life, Vedic hymns and letters to a friend. Long out of print, now set to be read, and free to all.</p>
+    <div class="begin">
+      <a class="cta cta-solo" href="{{ $beginFirst.RelPermalink }}">Begin reading <span aria-hidden="true">→</span></a>
+      {{- $who := index (split $begin.author " ") (sub (len (split $begin.author " ")) 1) }}
+      <p class="quiet">It opens with {{ $who }}’s <i>{{ $begin.cover.title }}</i>, {{ $begin.year }}. Or browse <a href="/books/">all {{ partial "words.html" $count }} books</a>, or read <a href="/about/">why Akshara exists</a>.</p>
+    </div>
+  </div>
 </div>
 
-<div class="op-row" aria-label="A few of the books"><div class="op-books">
-{{- range slice "life-and-letters-of-toru-dutt" "journey-from-madras-vol-i" "periplus-erythraean-sea" "life-in-an-indian-village" "lays-of-ancient-india" "poverty-and-un-british-rule" "palas-of-bengal" -}}
-{{- $b := partial "book/get.html" . -}}
-<a class="ob" href="{{ $b.url }}" title="{{ $b.title }} · {{ $b.author }}, {{ $b.year }}">{{ partial "book/cover.html" $b }}</a>
-{{- end -}}
-</div></div>
+{{- /* New on the shelves: the books added most recently, at most one from each shelf so the row shows the
+range of the library, newest series numbers first. */ -}}
+{{- $dates := slice -}}{{- range $books -}}{{- $dates = $dates | append (.page.Date.Format "2006-01-02") -}}{{- end -}}
+{{- $latest := index (sort (uniq $dates) "value" "desc") 0 -}}
+{{- $new := slice -}}{{- $seen := slice -}}
+{{- /* books with a picture of their own first, then type-only ones if the row is still short */ -}}
+{{- range $pass := slice true false -}}
+  {{- range sort $books "no" "desc" -}}
+    {{- if and (eq (.page.Date.Format "2006-01-02") $latest) (eq (ne .cover.kind "type") $pass) (not (in $seen .code)) (lt (len $new) 4) -}}
+      {{- $new = $new | append . -}}{{- $seen = $seen | append .code -}}
+    {{- end -}}
+  {{- end -}}
+{{- end }}
+<section class="sec wrap" aria-labelledby="h-new">
+  <div class="sec-h"><h2 id="h-new">New on the shelves</h2><a href="/books/">The library</a></div>
+  <div class="shelf">{{ range $new }}{{ partial "book/cover-link.html" . }}{{ end }}</div>
+</section>
 
-<section class="feat band" aria-labelledby="h-feat" style="--cloth:{{ $feat.cloth | safeCSS }}">
-  <div class="feat-grid wrap">
-    <div class="feat-cover"><a href="{{ $feat.url }}" class="cover-link" aria-label="{{ $feat.title }}: the edition">{{ partial "book/cover.html" $feat }}</a></div>
-    <div class="feat-text">
-      <h2 class="kicker" id="h-feat">The featured edition</h2>
-      <p class="feat-title"><a href="{{ $feat.url }}"><i>A Journey from Madras through the Countries of Mysore, Canara, and Malabar</i></a></p>
-      <p class="feat-by">Francis Buchanan&ensp;·&ensp;London, 1807&ensp;·&ensp;three volumes</p>
-      <p class="feat-about">Early in 1800 the Governor General sent Francis Buchanan, a surgeon in the Company’s service, through Mysore and the country just taken from Tipu Sultan, to record its agriculture, arts and commerce, its tenures and its coins. This is his journal of the road, with its engraved plates.</p>
-      <figure class="quote">
-        <p class="quote-intro">It begins:</p>
-        <blockquote><p>In the afternoon of the 23d April 1800, I set out from Madras, in the very hot dry weather, which usually prevails at this season.</p></blockquote>
-        <figcaption>Francis Buchanan, <i>A Journey from Madras</i>, vol.&nbsp;I, chapter&nbsp;I, page&nbsp;1</figcaption>
+<section class="feature {{ $feat.code }}" aria-labelledby="h-feat"><div class="wrap">
+  <div class="voice-h"><h2 id="h-feat">The featured edition</h2><span>Akshara No. {{ $feat.no }}</span></div>
+  <div class="feat">
+    <a class="feat-cover book" href="{{ $feat.url }}" aria-label="{{ $feat.title }}: the edition">{{ partial "book/cover.html" $feat }}</a>
+    <div class="feat-body">
+      <h3><a href="{{ $feat.url }}">{{ $f.title }}</a></h3>
+      <p class="by">{{ $f.by }}</p>
+      <figure>
+        <blockquote><p>“{{ $f.quote }}”</p></blockquote>
+        <figcaption>{{ $f.quote_source }}</figcaption>
       </figure>
-      <p class="feat-links"><a href="{{ $featFirst.RelPermalink }}">Read chapter I</a><a href="{{ $feat.url }}">The volume, its contents and plates</a></p>
-    </div>
-  </div>
-  <div class="wrap feat-more">
-    <h3 class="fm-head">Three more to begin with</h3>
-    <div class="fm-grid">
-      {{- range hugo.Data.home.begin_with }}
-      {{- $b := partial "book/get.html" .book }}
-      <article class="fmb" style="--fm:{{ $b.cloth | safeCSS }}">
-        <a class="fm-cover" href="{{ $b.url }}" aria-hidden="true" tabindex="-1">{{ partial "book/cover.html" $b }}</a>
-        <div class="fm-text">
-          <p class="fm-t"><a href="{{ $b.url }}"><i>{{ $b.title }}</i></a></p>
-          <p class="fm-by">{{ $b.author }}, {{ $b.year }}</p>
-          <blockquote class="fm-q{{ if .verse }} fm-verse{{ end }}"><p>{{ .quote | safeHTML }}</p></blockquote>
-          <p class="fm-src">{{ .source | markdownify }}</p>
-        </div>
-      </article>
-      {{- end }}
-    </div>
-  </div>
-</section>
-
-<section class="hs cabinet wrap" aria-labelledby="h-cab">
-  <header class="hs-head">
-    <h2 id="h-cab">Small things from the books</h2>
-    <p class="hs-dek">The engravings, woodcuts and rubbings printed in these books, each cleaned of its paper and kept as it was cut. Each one opens the book it came from.</p>
-  </header>
-  <div class="cab-grid">
-    {{- range hugo.Data.home.cabinet }}
-    {{- $pl := partial "plate/get.html" . }}
-    {{- $b := partial "book/get.html" $pl.book }}
-    <a class="cab" href="{{ $b.url }}">
-      <span class="cab-art"><span class="ink-plate soft" role="img" aria-label="{{ $pl.alt }}" style="--src:url(/plates/{{ $pl.key }}.webp);--ar:{{ $pl.ratio | safeCSS }};--plate:color-mix(in srgb, {{ $b.cloth | safeCSS }} 86%, #000)"></span></span>
-      <span class="cab-t">{{ if $pl.italic }}<i>{{ $pl.title }}</i>{{ else }}{{ $pl.title }}{{ end }}</span>
-      <span class="cab-s">{{ partial "plate/source.html" (dict "plate" $pl "book" $b) }}</span>
-    </a>
-    {{- end }}
-  </div>
-  <p class="more"><a href="/plates/">All the plates, book by book</a></p>
-</section>
-
-{{- $vol2 := partial "book/get.html" "journey-from-madras-vol-ii" }}
-<figure class="eng band book-wash" style="--cloth:{{ $vol2.cloth | safeCSS }}">
-  <div class="wrap eng-grid">
-    <div class="eng-art"><div class="ink-plate soft" role="img" aria-label="Engraving of the chakram: a large wooden wheel with twelve flat arms, turning inside a plank case set into a field bank." style="--src:url(/plates/j2-chakram.webp);--ar:1600/1488"></div></div>
-    <figcaption class="museum">
-      <span class="mu-no">Plate <span class="rn">XX</span>, fig. 51</span>
-      <span class="mu-title">Chakram of Chowgaut</span>
-      <span class="mu-q">“The wheel is moved by six men, who support themselves on slight Bamboo stages, and push the upper arms of the wheel with their feet.”</span>
-      <span class="mu-src">A wheel for lifting water from the rice fields of south Malabar, which Buchanan saw in December 1800. <i>A Journey from Madras</i>, vol.&nbsp;II, p.&nbsp;407. Engraved by Warner.</span>
-      <a class="mu-go" href="{{ $vol2.url }}">The book, and its plates</a>
-    </figcaption>
-  </div>
-</figure>
-
-<section class="hs shelves" aria-labelledby="h-shelves">
-  <header class="hs-head hs-wide wrap">
-    <h2 id="h-shelves">The shelves</h2>
-    <p class="hs-dek">The library is arranged as a reader would arrange it, by the kind of book: eight shelves, each introduced by a sentence from one of its own books.</p>
-  </header>
-  <div class="sc-grid wrap">
-    {{- range $i, $s := hugo.Data.shelves.shelf }}
-    {{- $all := where $books "shelf_no" $i }}
-    {{- if $all }}
-    {{- $ys := sort $all "year" }}
-    {{- $n := len $all }}
-    <article class="shc">
-      <a class="sc-case" href="/shelves/{{ $s.slug }}/" aria-label="{{ $s.name }}, the shelf"><span class="face">{{ partial "book/cover.html" (index $all 0) }}</span>
-        {{- range first 7 (after 1 $all) }}{{ replaceRE `^<a class="spine"(.*)</a>$` `<span class="spine"$1</span>` (partial "book/spine.html" .) | replaceRE ` href="[^"]*"` "" | safeHTML }}{{ end -}}
-      </a>
-      <h3><a href="/shelves/{{ $s.slug }}/">{{ $s.name }}</a></h3>
-      <p class="sc-n">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $ys 0).year }}–{{ (index $ys (sub $n 1)).year }}</p>
-      <blockquote class="sc-q"><p>“{{ $s.epigraph }}”</p><footer>{{ $s.source | markdownify }}</footer></blockquote>
-    </article>
-    {{- end }}
-    {{- end }}
-  </div>
-  <p class="more wrap"><a href="/books/">The whole library, by shelf, by date or by author</a></p>
-</section>
-
-<section class="hs made band tint" aria-labelledby="h-made">
-  <div class="wrap">
-    <header class="hs-head">
-      <h2 id="h-made">How a book is made</h2>
-      <p class="hs-dek">Four steps, from the camera’s photographs to a page that can be trusted. The hardest part of an old book is often its figures, so here is one of its tables, photographed and set.</p>
-    </header>
-    <div class="tcmp">
-      <figure class="tc-scan">
-        <img src="/img/scan-dutt-p384-table.webp" width="600" height="270" alt="Photograph of a printed table, Heads of Revenue for 1856–57 and 1870–71, the figures small and blurred.">
-        <figcaption>As photographed</figcaption>
-      </figure>
-      <figure class="tc-set">
-        <table class="ledger tc-table">
-          <thead><tr><th scope="col">Heads of Revenue.</th><th scope="col" class="n">1856–57.</th><th scope="col" class="n">1870–71.</th></tr></thead>
-          <tbody>
-            <tr><td>Land Revenue</td><td class="n">£20,046,748</td><td class="n">£24,170,151</td></tr>
-            <tr><td>Assessed Taxes</td><td class="n">108,833</td><td class="n">2,072,025</td></tr>
-            <tr><td>Customs</td><td class="n">1,191,985</td><td class="n">2,610,789</td></tr>
-            <tr><td>Salt</td><td class="n">3,610,223</td><td class="n">6,106,280</td></tr>
-            <tr><td>Opium</td><td class="n">4,988,434</td><td class="n">8,045,459</td></tr>
-            <tr><td>Other Heads of Revenue</td><td class="n">1,974,687</td><td class="n">6,371,521</td></tr>
-            <tr class="tot"><td>Total</td><td class="n">£31,920,910</td><td class="n">£49,376,225</td></tr>
-          </tbody>
-        </table>
-        <figcaption>As set, and added up again: both columns agree with the totals Dutt printed</figcaption>
-      </figure>
-    </div>
-    <p class="sp-cap">From page 384 of Romesh Chunder Dutt, <a href="{{ $dutt.url }}"><i>The Economic History of India in the Victorian Age</i></a>, 1904. The table is given with the book as CSV, as printed and in tidy form.</p>
-    <ol class="steps">
-      <li><span class="st-no">1</span><h3>The photographs</h3><p>The PDFs on the Internet Archive are compressed, and compression can turn one digit into another. Akshara goes back to the camera’s own photographs of each page and rebuilds a clean copy before a word is read.</p></li>
-      <li><span class="st-no">2</span><h3>The reading</h3><p>A vision model reads each page as it was printed: old spellings, accents and italics kept, footnotes followed across pages, shoulder notes kept beside the paragraph they belong to.</p></li>
-      <li><span class="st-no">3</span><h3>The figures</h3><p>Every table in rupees, annas and pies, or in pounds, shillings and pence, is added up again by program, and each printed total is read a second time on its own. The tables are given as data too.</p></li>
-      <li><span class="st-no">4</span><h3>The proof</h3><p>Nothing read by machine is passed off as proofread. Each edition says how far it has been checked; where the machine was unsure the page is flagged, and any reader can open it beside its scan and set it right.</p></li>
-    </ol>
-  </div>
-</section>
-
-<figure class="closing wrap">
-  <blockquote><p>A mechanical estampage has been reproduced so that a worthier scholar may re-edit it from the plates.</p></blockquote>
-  <figcaption>R. D. Banerji, on the inscriptions he printed in <i>The Pālas of Bengal</i>, 1915. Akshara is made in the same spirit: each new edition keeps every page beside its photograph, so that anyone may check it and set it right.</figcaption>
-</figure>
-
-<section class="hs commons band soft" aria-labelledby="h-commons">
-  <div class="wrap">
-    <header class="hs-head">
-      <h2 id="h-commons">Given to the commons</h2>
-      <p class="hs-dek">Every book here is in the public domain, and every edition of it is free: read it here, take it away, print it, quote it, build on it.</p>
-    </header>
-    <div class="commons-grid">
-      <div class="cm-forms">
-        <h3>Every new edition, in every open form</h3>
-        <dl class="forms">
-          <div><dt>Read here</dt><dd>chapter by chapter, with the scan one tap away</dd></div>
-          <div><dt>EPUB</dt><dd>for e-readers and phones</dd></div>
-          <div><dt>One page</dt><dd>the whole book in a single HTML file</dd></div>
-          <div><dt>Print PDF</dt><dd>set for paper, with the photographs of the original as a second PDF</dd></div>
-          <div><dt>Markdown and TEI</dt><dd>for editors and scholarly tools</dd></div>
-          <div><dt>Tables</dt><dd>every table as CSV, as printed and in tidy form</dd></div>
-        </dl>
-        <p class="cm-note">{{ partial "words.html" (len $full) | strings.FirstUpper }} of the {{ partial "words.html" $count }} books have all of these. The {{ partial "words.html" (sub $count (len $full)) }} earlier editions are read here, and will gain them as they are set again.</p>
-      </div>
-      <div>
-        <h3>Proofread a page</h3>
-        <p>The last step needs people. Open a book, choose one page, read it beside its scan, and correct what the machine misread. It takes about five minutes. When a second reader agrees, the correction goes into every edition of that book.</p>
-        <p class="cm-link"><a href="{{ site.Params.proofing_url }}/">Open the proofreading desk</a></p>
-      </div>
-      <div>
-        <h3>From the journal</h3>
-        {{- range first 2 (where site.RegularPages "Section" "blog").ByDate.Reverse }}
-        <p class="jn"><a href="{{ .RelPermalink }}">{{ .Title }}</a><span>{{ .Date.Format "2 January 2006" }}.{{ with .Params.dek }} {{ . }}{{ end }}</span></p>
+      <p class="desc">{{ $f.about }}</p>
+      <div class="feat-links"><a class="readon" href="{{ $featFirst.RelPermalink }}">Read chapter I <span aria-hidden="true">→</span></a><a class="q" href="{{ $feat.url }}">The volume, its contents and plates</a></div>
+      <div class="feat-plates">
+        {{- range $f.plates }}{{ $pl := partial "plate/get.html" .plate }}{{ $pb := partial "book/get.html" $pl.book }}
+        <figure class="{{ $pb.code }}"><div class="tile"><i class="plate" style="--src:url(/plates/{{ $pl.key }}.webp)" role="img" aria-label="{{ $pl.alt }}"></i></div><figcaption>{{ .caption | default $pl.title }}</figcaption></figure>
         {{- end }}
       </div>
     </div>
-    <p class="commons-coming">Studies written from these books, in which every claim cites a page of these editions, and a review of Indian works in the public domain, are to follow under the same name.</p>
+  </div>
+</div></section>
+
+{{- $nplates := 0 -}}{{- range hugo.Data.plates.group -}}{{- $nplates = add $nplates (len .plate) -}}{{- end }}
+<section class="sec wrap" aria-labelledby="h-small">
+  <div class="sec-h"><h2 id="h-small">Small things from the books</h2><a href="/plates/">All {{ $nplates }} plates</a></div>
+  <p class="sec-lede">Engravings, woodcuts and devices printed in these books, each cleaned from its own page and printed in the ink of its shelf. Each one opens the book it came from.</p>
+  <div class="smalls">
+    {{- range $home.cabinet }}{{ $pl := partial "plate/get.html" . }}{{ $b := partial "book/get.html" $pl.book }}
+    <a class="{{ $b.code }}" href="{{ $b.url }}"><div class="tile"><i class="plate" style="--src:url(/plates/{{ $pl.key }}.webp)" role="img" aria-label="{{ $pl.alt }}"></i></div><span><b>{{ if $pl.italic }}<i>{{ $pl.title }}</i>{{ else }}{{ $pl.title }}{{ end }}</b>{{ partial "plate/source.html" (dict "plate" $pl "book" $b) }}</span></a>
+    {{- end }}
+  </div>
+</section>
+
+<section class="sec wrap {{ $dutt.code }}" aria-labelledby="h-made">
+  <div class="sec-h"><h2 id="h-made">How a book is made</h2><a href="/about/">The method</a></div>
+  <p class="sec-lede">From the camera’s photographs to a page that can be trusted. The hardest part of an old book is often its figures, so here is one of its tables, photographed and set.</p>
+  <div class="made-pair">
+    <figure>
+      <img src="/img/scan-dutt-p384-table.webp" width="600" height="270" alt="Photograph of a printed table, Heads of Revenue for 1856–57 and 1870–71, the figures small and blurred." loading="lazy">
+      <figcaption>As photographed</figcaption>
+    </figure>
+    <figure>
+      <div class="made-set"><table>
+        <thead><tr><th scope="col">Heads of Revenue.</th><th scope="col" class="n">1856–57.</th><th scope="col" class="n">1870–71.</th></tr></thead>
+        <tbody>
+          <tr><td>Land Revenue</td><td class="n">£20,046,748</td><td class="n">£24,170,151</td></tr>
+          <tr><td>Assessed Taxes</td><td class="n">108,833</td><td class="n">2,072,025</td></tr>
+          <tr><td>Customs</td><td class="n">1,191,985</td><td class="n">2,610,789</td></tr>
+          <tr><td>Salt</td><td class="n">3,610,223</td><td class="n">6,106,280</td></tr>
+          <tr><td>Opium</td><td class="n">4,988,434</td><td class="n">8,045,459</td></tr>
+          <tr><td>Other Heads of Revenue</td><td class="n">1,974,687</td><td class="n">6,371,521</td></tr>
+          <tr class="tot"><td>Total</td><td class="n">£31,920,910</td><td class="n">£49,376,225</td></tr>
+        </tbody>
+      </table></div>
+      <figcaption>As set, and added up again: both columns agree with the totals Dutt printed</figcaption>
+    </figure>
+  </div>
+  <p class="made-src">From page 384 of Romesh Chunder Dutt, <a class="ln" href="{{ $dutt.url }}"><i>The Economic History of India in the Victorian Age</i></a>, 1904. The table is given with the book as CSV, as printed and in tidy form.</p>
+  <ol class="steps">
+    <li><h3>The photographs</h3><p>The PDFs on the Internet Archive are compressed, and compression can turn one digit into another. Akshara goes back to the camera’s own photographs of each page and rebuilds a clean copy before a word is read.</p></li>
+    <li><h3>The reading</h3><p>A vision model reads each page as it was printed: old spellings, accents and italics kept, footnotes followed across pages, shoulder notes kept beside the paragraph they belong to.</p></li>
+    <li><h3>The figures</h3><p>Every table in rupees, annas and pies, or in pounds, shillings and pence, is added up again by program, and each printed total is read a second time on its own.</p></li>
+    <li><h3>The proof</h3><p>Nothing read by machine is passed off as proofread. Each edition says how far it has been checked, and any reader can open a page beside its scan and <a class="ln" href="{{ site.Params.proofing_url }}/">set it right</a>.</p></li>
+  </ol>
+</section>
+
+<section class="sec wrap" aria-labelledby="h-shelves">
+  <div class="sec-h"><h2 id="h-shelves">The eight shelves</h2><a href="/books/">By date or by author</a></div>
+  <p class="sec-lede">The library is arranged as a reader would arrange it, by the kind of book. Each shelf is introduced by a sentence from one of its own books.</p>
+  <div class="shelves">
+    {{- range $i, $s := hugo.Data.shelves.shelf }}
+    {{- $all := sort (where $books "shelf_no" $i) "year" }}
+    {{- if $all }}
+    {{- $n := len $all }}
+    {{- $face := index $all 0 }}{{ range $all }}{{ if and (eq $face.cover.kind "type") (ne .cover.kind "type") }}{{ $face = . }}{{ end }}{{ end }}
+    <a class="sh {{ $s.code }}" href="/shelves/{{ $s.slug }}/">
+      <span class="sh-t"><h3>{{ $s.name }}</h3>
+      <span class="n">{{ partial "words.html" $n | strings.FirstUpper }} {{ cond (eq $n 1) "book" "books" }}, {{ (index $all 0).year }}–{{ (index $all (sub $n 1)).year }}</span>
+      <blockquote><p>{{ $s.epigraph }}</p><footer>{{ $s.source | markdownify }}</footer></blockquote></span>
+      <span class="face" aria-hidden="true">{{ partial "book/cover.html" $face }}</span>
+    </a>
+    {{- end }}
+    {{- end }}
   </div>
 </section>
 {{ end }}
