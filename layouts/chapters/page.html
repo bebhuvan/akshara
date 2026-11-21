@@ -101,7 +101,7 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
   <header class="opener">
     <div class="op-in">
       {{- with $head.key }}
-      <i class="plate op-plate" style="--src:url({{ partial "plate/url.html" . }})"{{ with $head.alt }} role="img" aria-label="{{ . }}"{{ else }} aria-hidden="true"{{ end }}></i>
+      <i class="plate op-plate" style="--src:url({{ partial "plate/url.html" (dict "key" . "w" 700) }})"{{ with $head.alt }} role="img" aria-label="{{ . }}"{{ else }} aria-hidden="true"{{ end }}></i>
       {{- else }}
       <span class="op-mark kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span>
       {{- end }}

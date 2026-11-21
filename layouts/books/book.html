@@ -46,7 +46,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
 
 <article class="{{ $b.code }}" data-pagefind-body data-pagefind-meta="book:{{ $b.cover_title }}, shelf:{{ $b.code }}">
 <section class="bk-head"><div class="bk-in">
-  <div class="bk-cover">{{ partial "book/cover.html" $b }}</div>
+  <div class="bk-cover">{{ partial "book/cover.html" (merge $b (dict "big" true)) }}</div>
   <div class="bk-text">
     <p class="no">Akshara No. {{ $b.no }}{{ with $vol }} · Volume {{ . }}{{ end }} · <a href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a></p>
     <h1 data-pagefind-meta="title">{{ replaceRE `(\pL)-(\pL)` "$1‑$2" $short }}{{ with $b.cover.line }}<span class="line">, {{ . }}</span>{{ end }}</h1>
@@ -115,7 +115,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
   <div class="wrap"><div class="sec-h"><h2 id="h-plates">From its plates</h2><a href="/plates/">All the plates</a></div></div>
   <div class="strip">
     {{- range . }}
-    <figure><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" .key }})" role="img" aria-label="{{ .alt }}"></i></div><figcaption>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }} · {{ with .detail }}{{ . }}, {{ end }}p.&nbsp;{{ .page }}</figcaption></figure>
+    <figure><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" .key "w" 640) }})" role="img" aria-label="{{ .alt }}"></i></div><figcaption>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }} · {{ with .detail }}{{ . }}, {{ end }}p.&nbsp;{{ .page }}</figcaption></figure>
     {{- end }}
   </div>
 </section>

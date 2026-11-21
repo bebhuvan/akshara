@@ -9,7 +9,7 @@
     <div class="smalls plates-grid">
     {{- range $g.plate }}{{ $b := partial "book/get.html" .book }}
       {{- $ar := split .ratio "/" }}{{ $wide := gt (div (float (index $ar 0)) (float (index $ar 1))) 1.25 }}
-      <a class="{{ $b.code }}{{ if $wide }} wide{{ end }}" href="{{ $b.url }}"><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" .key }})" role="img" aria-label="{{ .alt }}"></i></div><span><b>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }}</b>{{ with .detail }}{{ . }} · {{ end }}{{ partial "plate/source.html" (dict "plate" . "book" $b) }}</span></a>
+      <a class="{{ $b.code }}{{ if $wide }} wide{{ end }}" href="{{ $b.url }}"><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" .key "w" (cond $wide 1100 640)) }})" role="img" aria-label="{{ .alt }}"></i></div><span><b>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }}</b>{{ with .detail }}{{ . }} · {{ end }}{{ partial "plate/source.html" (dict "plate" . "book" $b) }}</span></a>
     {{- end }}
     </div>
   </section>

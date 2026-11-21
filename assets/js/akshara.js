@@ -404,11 +404,14 @@
     if (!Array.isArray(plates) || plates.length < 2) return;
     var faces = $$(".art .plate", stage), a = faces[0], b = faces[1], i = 0, base = stage.className.split(" ")[0];
     var capT = $('[data-cap="t"]', stage), capS = $('[data-cap="s"]', stage), capN = $('[data-cap="n"]', stage);
-    plates.forEach(function (p) { var im = new Image(); im.src = p.src; });
+    /* only the next plate is fetched, a little before it is needed, so the opening page stays light */
+    function fetchNext() { var im = new Image(); im.src = plates[(i + 1) % plates.length].src; }
+    setTimeout(fetchNext, 3000);
     setInterval(function () {
       if (document.hidden) return;
       i = (i + 1) % plates.length; var p = plates[i];
-      if (!/^\/plates\/[a-z0-9-]+\.webp$/.test(p.src) || !/^[a-z]{2}$/.test(p.code)) return;
+      if (!/^\/plates\/[a-z0-9_-]+\.webp$/.test(p.src) || !/^[a-z]{2}$/.test(p.code)) return;
+      setTimeout(fetchNext, 2500);
       b.style.setProperty("--src", "url(" + p.src + ")");
       b.setAttribute("role", "img"); b.setAttribute("aria-label", p.alt || ""); b.removeAttribute("aria-hidden");
       a.removeAttribute("role"); a.removeAttribute("aria-label"); a.setAttribute("aria-hidden", "true");

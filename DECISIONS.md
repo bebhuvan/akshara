@@ -283,3 +283,25 @@ are dimmed a little; the books' own figures in the text are printed light on dar
 
 **Rejected.** A `prefers-color-scheme` media query alone: it cannot honour a reader's chosen paper on every
 page. A toggle in the masthead: one more control for something the device already decides.
+
+## D23: Speed: send only what the reader will see (2026-11-21)
+
+**Decided.**
+- **Plates at the size they are shown.** `layouts/_partials/plate/url.html` asks the build for a copy no wider
+  than needed (covers 440px, a book's own cover 800px, tiles 600–640px, headpieces 700px, the turning plate
+  960px, the footer device 200px), and keeps the hand-made file instead whenever the copy would be heavier.
+  Nothing extra is committed; Hugo makes and caches the copies.
+- **Nothing below the first screen is laid out or fetched until the reader comes near it** (`content-visibility:
+  auto` on shelf rows, bookcases, bands, plate groups, result rows and figures in chapters). The library loads
+  one row of covers, not sixty-three.
+- **The turning plate fetches only the next engraving,** a little before it turns, instead of all six at once.
+- **Fonts cut to what is used.** The Kannada mark is cut to the five letters of ಅಕ್ಷರ (35 KB to 3 KB). The
+  accented letters the books actually use (74, chiefly transliteration) are in a small file of their own
+  (about 30 KB in each style), so the 90 KB Latin Extended file loads only for a page that needs a rarer
+  letter. Both upright and italic Latin are preloaded; the unused Vietnamese files were removed.
+- Measured on a first visit with nothing cached, before compression: the opening page went from about 1.36 MB
+  to about 0.87 MB (of which 0.4 MB is the two text fonts), the library to about 0.4 MB, a chapter to about
+  0.6 MB. HTML and CSS are compressed further by Cloudflare.
+
+**Rejected.** Lossy re-encoding of every plate in a script (the masks' fine lines blur, and the gain was
+small beside not loading them at all); a font-loading script (the browser's own `unicode-range` does it).
