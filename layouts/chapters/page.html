@@ -18,7 +18,7 @@
 {{- /* The headpiece: one of this book's own engravings, a different one for each chapter where the book has
 several; a book without one (or whose only picture is a photograph) opens on the house mark. Never a picture from another book (D17). */ -}}
 {{- $heads := slice -}}
-{{- range hugo.Data.plates.group }}{{ range .plate }}{{ if eq .book $b.id }}{{ $heads = $heads | append (dict "key" .key "alt" .alt) }}{{ end }}{{ end }}{{ end -}}
+{{- range hugo.Data.plates.group }}{{ range .plate }}{{ if and (eq .book $b.id) (not .face) }}{{ $heads = $heads | append (dict "key" .key "alt" .alt) }}{{ end }}{{ end }}{{ end -}}
 {{- if and (not $heads) (in (slice "plate" "map" "device") $b.cover.kind) -}}{{- $heads = slice (dict "key" $b.cover.plate "alt" "") -}}{{- end -}}
 {{- $head := dict -}}{{- with $heads -}}{{- $head = index $heads (mod $at (len $heads)) -}}{{- end -}}
 

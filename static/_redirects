@@ -385,3 +385,5 @@
 # 2026-11-21: /library/ is the name readers guess for the library; it opens /books/ (The Library).
 /library /books/ 301
 /library/ /books/ 301
+# 2026-11-21: the old social image was replaced by the site's card; links already shared keep their preview.
+/og-image.png /og/akshara.jpg 301

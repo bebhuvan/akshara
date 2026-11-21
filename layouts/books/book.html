@@ -57,12 +57,13 @@ shown as two plain lines, in the record's own capitals. */ -}}
     {{- if or $scope $subjects }}<p class="about scope">{{ with $scope }}<span>{{ . }}</span>{{ end }}{{ with $subjects }}<i>{{ . }}</i>{{ end }}</p>{{ end }}
     <div class="bk-actions">
       <a class="cta" href="{{ $first.RelPermalink }}"><span>Begin reading</span><span>{{ with $firstName.num }}{{ $firstName.label }} {{ . }}{{ else }}{{ $firstName.title | truncate 34 }}{{ end }}</span></a>
+      {{- /* the downloads as one sentence; each address is escaped by the template, never marked safe */}}
       {{- $forms := slice }}
-      {{- with $p.download_epub }}{{ $forms = $forms | append (printf `<a href="%s" download>EPUB</a>` .) }}{{ end }}
-      {{- with $p.download_pdf }}{{ $forms = $forms | append (printf `<a href="%s">PDF</a>` .) }}{{ end }}
-      {{- with $p.download_html }}{{ $forms = $forms | append (printf `<a href="%s">one page</a>` .) }}{{ end }}
-      {{- if $forms }}
-      <p class="dl">Or take it away as {{ if eq (len $forms) 1 }}{{ index $forms 0 | safeHTML }}{{ else }}{{ delimit (first (sub (len $forms) 1) $forms) ", " | safeHTML }} or {{ index $forms (sub (len $forms) 1) | safeHTML }}{{ end }}. <a href="#h-edition">All the forms</a></p>
+      {{- with $p.download_epub }}{{ $forms = $forms | append (dict "url" . "name" "EPUB" "dl" true) }}{{ end }}
+      {{- with $p.download_pdf }}{{ $forms = $forms | append (dict "url" . "name" "PDF") }}{{ end }}
+      {{- with $p.download_html }}{{ $forms = $forms | append (dict "url" . "name" "one page") }}{{ end }}
+      {{- if $forms }}{{ $last := sub (len $forms) 1 }}
+      <p class="dl">Or take it away as {{ range $i, $f := $forms }}{{ if and $i (lt $i $last) }}, {{ else if and $i (eq $i $last) }} or {{ end }}<a href="{{ $f.url }}"{{ if $f.dl }} download{{ end }}>{{ $f.name }}</a>{{ end }}. <a href="#h-edition">All the forms</a></p>
       {{- else }}{{ with $p.download_url }}
       <p class="dl">Or take away <a href="{{ . }}">the files of this edition</a>.</p>
       {{- end }}{{ end }}
@@ -191,7 +192,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
     </div>
   </section>
 
-  <p class="imprint"><b>{{ $b.title }}</b>{{ with $b.subtitle }}{{ . }}. {{ end }}{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}. {{ $b.tier_name }}.</p>
+  <p class="imprint"><b>{{ $b.title }}.</b> {{ with $b.subtitle }}{{ . }}. {{ end }}{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}. {{ $b.tier_name }}.</p>
 </div>
 </article>
 {{ end }}

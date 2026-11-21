@@ -130,7 +130,7 @@ the warm off-white made everything look aged on purpose.
 **Decided.** One family, Newsreader (variable, weights 200–800, optical sizes 6–72), sets every word.
 Noto Serif Kannada sets only ಅಕ್ಷರ; it is instanced at weight 500 and cut to the Kannada block
 (`static/fonts/noto-serif-kannada-500-subset.woff2`, 35 KB, made with fonttools from the Google Fonts
-repository's variable file). Both are served from akshara.ink; the policy allows no font host (D4).
+repository's variable file; since D23 cut to the five letters of the mark, `noto-serif-kannada-500-mark.woff2`, 3 KB). Both are served from akshara.ink; the policy allows no font host (D4).
 The fonts that nothing used any more (Crimson, Inter, JetBrains Mono, Source Serif) were removed.
 
 **Why.** The mock was approved in these faces. Newsreader's optical sizes let one family serve the large
@@ -218,7 +218,7 @@ borrowing another volume's engraving for a book without one.
 
 **Decided.** The library page has a real search field: as the reader types it narrows the covers by
 title, author, year, place and shelf at once, and lists where the words occur in the text of the books
-(Pagefind, six results, then a link to the search page). Without JavaScript the field is a plain form that
+(Pagefind; up to five books with two places in each, then a link to the search page). Without JavaScript the field is a plain form that
 opens the search page. Three arrangements, switched by plain words on a hairline: by shelf, by date (by
 decade) and by author (by surname). On a phone each group is a row of covers to swipe, snapping to the
 gutter; on a wide screen a grid of six. The text catalogue with its tier marks is gone: a book's tier is
@@ -312,3 +312,17 @@ small beside not loading them at all); a font-loading script (the browser's own 
 4.8:1 on white, instead of the mock's `#8A867E` (3.6:1, below the 4.5:1 that WCAG asks of small text). In
 dark mode it is `#8E897F` (5.1:1). Every other ink already passed: `--ink-2` 7.5:1, each shelf's ink at least
 7:1 on white and 5.9:1 on its own ground.
+
+## D25: Review 0002 answered (2026-11-21)
+
+**Decided.** Every finding of the fresh-eyes review `reviews/0002-plate-redesign.md` is fixed or answered
+there, each bug fix with its test. Shelf colours moved to `data/shelves.toml`, from which the build writes the
+shelf classes (`assets/css/shelves.css`) and the social cards read their colours. The cover check now checks
+each plate's record against its source. The security policy keeps `'unsafe-inline'` in `style-src` for
+browsers that do not know `style-src-elem`/`style-src-attr` (inline style attributes carry plate addresses
+and crops; without them older Safari would show blank covers) and narrows `<style>` elements to this site in
+the browsers that do.
+
+**Noted for later.** The library page draws every cover three times (by shelf, date and author): about 140 KB
+of HTML for 63 books, so about 1 MB at 500. When that matters, render the shelf view and build the other two
+in the script from the same cards.

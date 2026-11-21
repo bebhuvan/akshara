@@ -4,3 +4,8 @@ plate.css. Each shelf's class sets --g (its paper) and --k (its ink), light and 
 .{{ .code }} { --g: {{ .paper }}; --k: {{ .ink }}; }
 html[data-theme="dark"] .{{ .code }} { --g: {{ .paper_dark }}; --k: {{ .ink_dark }}; }
 {{ end -}}
+@media (prefers-color-scheme: dark) {
+{{ range hugo.Data.shelves.shelf -}}
+  html:not([data-theme]) .{{ .code }} { --g: {{ .paper_dark }}; --k: {{ .ink_dark }}; }
+{{ end -}}
+}

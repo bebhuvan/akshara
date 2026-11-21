@@ -841,6 +841,9 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 html[data-paper="cotton"][data-theme="light"] { --paper: #F5F1E8; --well: #ECE7DC; --well-edge: #E2DCCF; }
 html[data-theme="dark"] { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; --ink-2: #ABA69C; --ink-3: #8E897F; --hair: #2E2F31;
   --well: #222326; --well-edge: #2E2F31; --on-k: #17181A; --shadow: 0, 0, 0; --g: #26272A; --k: #C9C4BA; --ft-ink: #8A867E; }
+/* without the script, the page still follows the device */
+@media (prefers-color-scheme: dark) { html:not([data-theme]) { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; --ink-2: #ABA69C; --ink-3: #8E897F; --hair: #2E2F31;
+  --well: #222326; --well-edge: #2E2F31; --on-k: #17181A; --shadow: 0, 0, 0; --g: #26272A; --k: #C9C4BA; --ft-ink: #8A867E; } }
 /* photographs of pages keep their paper but are dimmed a little; the book's own figures are printed light on dark */
 html[data-theme="dark"] .made-scan img, html[data-theme="dark"] .jl-art img, html[data-theme="dark"] .leaf .leaf-img img { filter: brightness(.82) contrast(1.05); }
 html[data-theme="dark"] #chapter-text .archival-plate img { mix-blend-mode: screen; filter: invert(1) brightness(.85) contrast(1.1); }

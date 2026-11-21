@@ -50,6 +50,7 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
   {{- if not (fileExists (printf "static/plates/%s.webp" $cv.plate)) -}}{{- errorf "Book %s: plate %q is not in static/plates/" $id $cv.plate -}}{{- end -}}
 {{- end -}}
 {{- $cover = replace $cover "'" "’" -}}
+{{- with $cv.inset -}}{{- if not (findRE `^(-?\d+(\.\d+)?% ){3}-?\d+(\.\d+)?%$` .) -}}{{- errorf "Book %s: cover inset %q must be four percentages, top right bottom left (data/covers.toml)" $id . -}}{{- end -}}{{- end -}}
 {{- $lblTitle := $cv.title | default $cover -}}
 {{- $lblLine := $cv.line | default "" -}}
 {{- if not $cv.title -}}

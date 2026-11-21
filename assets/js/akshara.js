@@ -194,10 +194,13 @@
       $$(".rp-tabs [data-tab]", panel).forEach(function (t) { t.setAttribute("aria-selected", String(t.dataset.tab === id)); });
       $$(".rp-sec", panel).forEach(function (s) { s.hidden = s.id !== id; });
     }
+    /* everything on the page but the panel, made inert while the panel is open so Tab stays inside it */
+    function behindPanel() { return $$("body > *").concat($$("#read > *")).filter(function (el) { return el !== read && el !== panel && !el.contains(panel); }); }
     function openPanel(id, from) {
       opener = from || document.activeElement;
       tab(id);
       panel.classList.add("open"); panel.setAttribute("aria-hidden", "false"); scrim.hidden = false;
+      behindPanel().forEach(function (el) { el.inert = true; });
       $$("[data-open]").forEach(function (b) { b.setAttribute("aria-expanded", "true"); });
       panel.focus();
       var cur = $('#rtoc a[aria-current]', panel); if (id === "rp-contents" && cur) cur.scrollIntoView({ block: "center" });
@@ -205,6 +208,7 @@
     function closePanel() {
       if (!panel.classList.contains("open")) return;
       panel.classList.remove("open"); panel.setAttribute("aria-hidden", "true"); scrim.hidden = true;
+      behindPanel().forEach(function (el) { el.inert = false; });
       $$("[data-open]").forEach(function (b) { b.setAttribute("aria-expanded", "false"); });
       if (opener) opener.focus({ preventScroll: true });
     }
@@ -365,7 +369,10 @@
       });
     }
     var all = [], shown = 0, items = [], moreBtn = $("#s-more");
+    var fetching = false;
     function more(mine) {
+      if (fetching) return Promise.resolve();
+      fetching = true; moreBtn.disabled = true;
       var next = all.slice(shown, shown + 60);
       return Promise.all(next.map(function (r) { return r.data(); })).then(function (got) {
           if (mine !== seq) return;
@@ -374,7 +381,7 @@
           moreBtn.hidden = shown >= all.length;
           moreBtn.textContent = "Show more, from " + (all.length - shown) + " further pages";
           renderGroups(out, groupByBook(items, 4));
-      });
+      }).then(function () { fetching = false; moreBtn.disabled = false; }, function () { fetching = false; moreBtn.disabled = false; });
     }
     moreBtn.addEventListener("click", function () { more(seq); });
     form.addEventListener("submit", function (e) { e.preventDefault(); run(); });

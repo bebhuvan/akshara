@@ -7,7 +7,8 @@
 {{- $beginFirst := partial "book/first-chapter.html" $begin.page -}}
 {{- $f := $home.featured -}}
 {{- $feat := partial "book/get.html" $f.book -}}
-{{- $featFirst := partial "book/first-chapter.html" $feat.page -}}
+{{- $featFirst := index (where $feat.page.Pages.ByWeight "Params.section_kind" "chapter") 0 | default (partial "book/first-chapter.html" $feat.page) -}}
+{{- $featName := partial "chapter/name.html" $featFirst -}}
 {{- $dutt := partial "book/get.html" "economic-history-india-victorian-age-dutt" -}}
 
 {{- /* The turning plate: the first plate is drawn by the page; the script turns to the rest, reading them
@@ -69,7 +70,7 @@ each shelf so the row shows the range of the library, those with a picture of th
         <figcaption>{{ $f.quote_source }}</figcaption>
       </figure>
       <p class="desc">{{ $f.about }}</p>
-      <div class="feat-links"><a class="readon" href="{{ $featFirst.RelPermalink }}">Read chapter I <span aria-hidden="true">→</span></a><a class="q" href="{{ $feat.url }}">The volume, its contents and plates</a></div>
+      <div class="feat-links"><a class="readon" href="{{ $featFirst.RelPermalink }}">Read {{ with $featName.num }}{{ lower $featName.label }} {{ . }}{{ else }}{{ $featName.title }}{{ end }} <span aria-hidden="true">→</span></a><a class="q" href="{{ $feat.url }}">The volume, its contents and plates</a></div>
       <div class="feat-plates">
         {{- range $f.plates }}{{ $pl := partial "plate/get.html" .plate }}{{ $pb := partial "book/get.html" $pl.book }}
         <figure class="{{ $pb.code }}"><div class="tile{{ if $pl.face }} face{{ end }}"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" $pl.key "w" 600) }})" role="img" aria-label="{{ $pl.alt }}"></i></div><figcaption>{{ .caption | default $pl.title }}</figcaption></figure>

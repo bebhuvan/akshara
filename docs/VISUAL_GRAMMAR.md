@@ -6,7 +6,8 @@ design (DECISIONS.md, D16). Where it and the site disagree, one of them is a bug
 the same change.
 
 **Values live in the stylesheet, not here.** Every colour, size and space is a CSS custom property in
-`assets/css/plate.css` (the `:root` block and the eight shelf classes). This document names those tokens
+`assets/css/plate.css` (the `:root` block); the shelves' colours are in `data/shelves.toml`, from which the
+build writes the eight shelf classes. This document names those tokens
 and says when to use them; it does not repeat their values, so the two cannot drift apart. To change a
 value, change the token.
 
@@ -405,8 +406,10 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   change that ships it.
 - **A new token** only when a role is genuinely new, named for its role (`--fs-…`), added to `:root` with a
   comment, and listed here.
-- **A new shelf** gets a class with `--g` and `--k` derived from its cloth like the others (ground washed
-  very pale; ink deep enough to read on white and on its ground), and a `code` in `data/shelves.toml`.
+- **A new shelf** is one entry in `data/shelves.toml`: its `code`, and four colours derived from its cloth
+  like the others: `paper` (washed very pale), `ink` (deep enough to read on white and on its paper),
+  `paper_dark` and `ink_dark` (at least 5.5:1 on its dark paper). The build writes its class
+  (`assets/css/shelves.css`) and the social cards use the same values; nothing else needs touching.
 - **A sister project** (living books, a review) takes `plate.css`'s tokens and type as they are and adds
   its own components on top. It may choose its own cloth colours as new shelf classes; it keeps white
   paper, Newsreader, the plate, the hairline and the banned list. If it needs to break a rule here, change

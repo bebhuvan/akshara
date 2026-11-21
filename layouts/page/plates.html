@@ -5,7 +5,7 @@
     <p class="dek">Engravings, maps, coins and inscriptions from the books, {{ partial "words.html" $n }} so far, each cleaned from its own page and printed in the ink of its shelf. Each one opens the book it came from.</p></header>
   {{- range hugo.Data.plates.group }}{{ $g := . }}
   <section class="pl-group">
-    <div class="sec-h"><h2>{{ $g.name | replaceRE `^(.*?), (.*)$` (cond (ne $g.year "") "$1, <i>$2</i>" "$1, $2") | safeHTML }}{{ with $g.year }}, {{ . }}{{ end }}</h2></div>
+    <div class="sec-h"><h2>{{ $g.name | htmlEscape | replaceRE `^(.*?), (.*)$` (cond (ne $g.year "") "$1, <i>$2</i>" "$1, $2") | safeHTML }}{{ with $g.year }}, {{ . }}{{ end }}</h2></div>
     <div class="smalls plates-grid">
     {{- range $g.plate }}{{ $b := partial "book/get.html" .book }}
       {{- $ar := split .ratio "/" }}{{ $wide := gt (div (float (index $ar 0)) (float (index $ar 1))) 1.25 }}
