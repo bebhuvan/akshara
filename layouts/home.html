@@ -2,9 +2,6 @@
 {{ define "main" }}
 {{- $books := partial "book/all.html" . -}}
 {{- $count := len $books -}}
-{{- $byYear := sort $books "year" -}}
-{{- $first := (index $byYear 0).year -}}
-{{- $last := (index $byYear (sub $count 1)).year -}}
 {{- $full := where $books "tier" "!=" "v1_archive" -}}
 {{- $feat := partial "book/get.html" "journey-from-madras-vol-i" -}}
 {{- $featFirst := partial "book/first-chapter.html" $feat.page -}}
@@ -14,7 +11,7 @@
   <div class="op-text">
     <h1 class="op-title">Rare books about India, <em>set again with care and given to everyone.</em></h1>
     <div class="op-lede">
-      <p>Travellers’ journals, the East India Company’s letter-books, famine reports, speeches, letters and verse, printed between {{ $first }} and {{ $last }} and long out of print. Each is read from photographs of its pages, set to be read with pleasure, and free to read, copy and reuse; the editions made since November 2026 keep every page beside its scan.</p>
+      <p>Travellers’ roads and the Company’s ledgers, famine commissions and village life, Vedic hymns, coins and copper-plates, speeches that argued for a nation and letters written to a friend: the books in which India was described, measured and argued over. Long out of print, now set to be read, and free to all.</p>
       <p class="op-links"><a href="/books/">All {{ partial "words.html" $count }} books</a><a href="{{ $featFirst.RelPermalink }}">Begin reading</a><a href="/about/">Why Akshara exists</a></p>
     </div>
   </div>
