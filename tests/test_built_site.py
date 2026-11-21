@@ -33,3 +33,34 @@ class SearchMetadata(unittest.TestCase):
         page = next((PUBLIC / "books").glob("*/index.html")).read_text(encoding="utf-8")
         self.assertRegex(page, r'data-pagefind-meta="?book"?')
         self.assertNotRegex(page, r'data-pagefind-meta="?book:')
+
+
+@unittest.skipUnless((PUBLIC / "books/index.html").exists(), "the site is not built")
+class HowTheTextWasRead(unittest.TestCase):
+    def book_pages(self):
+        # a book's old addresses are tiny redirect pages; only real book pages count
+        return [p for p in (PUBLIC / "books").glob("*/index.html") if "http-equiv=refresh" not in p.read_text(encoding="utf-8")]
+
+    def test_every_book_page_says_how_its_text_was_read(self):
+        for page in self.book_pages():
+            html = page.read_text(encoding="utf-8")
+            self.assertRegex(html, r'id="?h-reading"?', page)
+            self.assertIn("What a machine reading can get wrong", html, page)
+
+    def test_every_score_in_the_records_is_shown(self):
+        for record in (ROOT / "content/books").glob("*/_index.md"):
+            m = re.search(r"^rubric_score:\s*([0-9.]+)", record.read_text(encoding="utf-8"), re.M)
+            if not m or 'edition_tier: "v1_archive"' in record.read_text(encoding="utf-8"):
+                continue
+            html = (PUBLIC / "books" / record.parent.name / "index.html").read_text(encoding="utf-8")
+            self.assertRegex(html, r'class="?rd-n"?><b>%d</b>' % round(float(m.group(1))), record)
+
+    def test_checker_findings_are_put_in_plain_words(self):
+        # The checker writes "-3.0: 1 unresolved footnote callout/body mismatch(es)"; a reader should never see that.
+        for page in self.book_pages():
+            for found in re.findall(r'class="?pl-found"?>([^<]*)', page.read_text(encoding="utf-8")):
+                self.assertNotRegex(found, r"\(s\)|\(es\)|\(ies\)|^-?\d+\.\d+:|unclear", page)
+
+    def test_chapters_point_to_the_account(self):
+        chapter = next((PUBLIC / "books").glob("*/chapters/*/index.html")).read_text(encoding="utf-8")
+        self.assertIn("#h-reading", chapter)

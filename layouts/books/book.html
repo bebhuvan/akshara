@@ -73,7 +73,10 @@ shown as two plain lines, in the record's own capitals. */ -}}
       <div><b>{{ len $main }}</b><span>{{ cond (eq (len $main) 1) "chapter" "chapters" }}</span></div>
       {{- with $p.tables_count }}<div><b>{{ . }}</b><span>{{ cond (eq (int .) 1) "table" "tables" }}</span></div>{{ end }}
       {{- with $hours }}<div><b>{{ . }}</b><span>{{ cond (eq . "1") "hour" "hours" }}</span></div>{{ end }}
+      {{- with and (not $isV1) $p.rubric_score }}<a class="fact-score" href="#h-reading"><b>{{ math.Round . }}</b><span>of 100, checked</span></a>{{ end }}
     </div>
+    {{- $checked := int ($p.human_verified_pages | default 0) }}
+    <p class="read-note"><a href="#h-reading">{{ if $isV1 }}An earlier edition, read by machine and not yet checked against its scans.{{ else if $checked }}Read by machine; {{ $checked }} of {{ $p.pages }} pages since checked by a person.{{ else }}Read by machine from the photographs, and not yet checked by a person.{{ end }} <span>What that means</span></a></p>
   </div>
 </div></section>
 
@@ -152,18 +155,10 @@ shown as two plain lines, in the record's own capitals. */ -}}
 {{- end }}{{ end }}
 
 <div class="wrap">
+  {{ partial "book/reading.html" (dict "p" $p "isV1" $isV1) }}
   <section class="sec" aria-labelledby="h-edition">
     <div class="sec-h"><h2 id="h-edition">This edition</h2><span>{{ index (dict "machine_checked" "Machine-checked" "community" "Open for proofreading" "v1_archive" "Stage One") $b.tier }}</span></div>
     <div class="edition">
-      <div class="ed-state">
-        <p class="state">
-        {{- if $isV1 }}An earlier edition, set in 2025 from the scans before the present methods existed. It has not been checked against the scans page by page, and will be set again.
-        {{- else }}{{ $p.provenance_statement | default "Read by machine from the camera’s own photographs." }}{{ end }}</p>
-        {{- if not $isV1 }}
-        <p class="proof">{{ if eq (int ($p.human_verified_pages | default 0)) 0 }}No page of this book has yet been read through by a person. {{ end }}Any one of its pages needs a reader, the scan beside the text, and about five minutes.</p>
-        <p><a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page <span aria-hidden="true">→</span></a></p>
-        {{- end }}
-      </div>
       <div class="ed-cols">
         <div>
           {{- $read := slice }}{{ $study := slice }}

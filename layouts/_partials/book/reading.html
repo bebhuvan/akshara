@@ -1,0 +1,47 @@
+{{- /* "How this text was read": the automatic checks' score and what it does not measure, the kinds of
+error a machine reading leaves, and the invitation to put them right. Not a warning: an honest account,
+set as part of the edition. Takes dict "p" (the book page's Params), "isV1". */ -}}
+{{- $p := .p -}}{{- $isV1 := .isV1 -}}
+{{- $checked := int ($p.human_verified_pages | default 0) -}}
+{{- $pages := int ($p.pages | default 0) -}}
+{{- $names := dict "Structural Completeness" "Structure" "Apparatus & Footnotes" "Footnotes" "Tabular & Numeric Accuracy" "Tables and figures" "Orthography & Diacritics" "Spelling and accents" -}}
+<section class="sec reading" aria-labelledby="h-reading">
+  <div class="sec-h"><h2 id="h-reading">How this text was read</h2><span>{{ if $checked }}{{ $checked }} of {{ $pages }} pages checked by a person{{ else }}Read by machine{{ end }}</span></div>
+  <div class="rd">
+    <div class="rd-text">
+      <p class="rd-lede">{{ if $isV1 }}This is an earlier edition, read by machine from the scans before the present methods and checks existed. It has not been read against the scans page by page, and will be set again.{{ else }}This book was read from photographs of its printed pages by a vision-language model, a kind of AI that reads images. It reads well, and errors are now uncommon, but never perfectly: until a person has read a page against its photograph, some will remain.{{ end }}</p>
+      {{- with and (not $isV1) $p.provenance_statement }}<p class="rd-prov">{{ . }}</p>{{ end }}
+      <h3 class="ed-h">What a machine reading can get wrong</h3>
+      <ul class="rd-kinds">
+        <li><b>Letters and words.</b> A word misread, a line ending’s hyphen kept or a word wrongly joined; accents and diacritics dropped; punctuation missing; figures confused, a 1 for an l, a 0 for an O.</li>
+        <li><b>Other languages and scripts.</b> Words in Indian scripts, Urdu, Persian, Arabic, Greek or Latin are read less surely than English; an old romanisation of Sanskrit may be quietly turned into modern IAST, or an old spelling modernised.</li>
+        <li><b>The shape of the page.</b> A paragraph broken or wrongly joined where a page turns; a running head or page number left in the text; a heading split, or set at the wrong level; pages in two columns read in the wrong order; stray marks and stamps in the front matter.</li>
+        <li><b>Notes, tables and pictures.</b> A footnote parted from its mark; a table’s columns out of line or a figure misread; an illustration, map or plate with no marker where it stood.</li>
+        <li><b>Now and then, words that are not there.</b> A model can supply a plausible word the page does not have. This has grown rare, but it happens.</li>
+      </ul>
+    </div>
+    {{- with and (not $isV1) $p.rubric_score }}{{ $score := . }}
+    <div class="rd-score">
+      <p class="rd-n"><b>{{ math.Round $score }}</b><span>of 100</span></p>
+      <p class="rd-what">from the automatic checks of structure, notes, tables and spelling</p>
+      {{- with $p.rubric_pillars }}
+      <ul class="pillars">
+        {{- range . }}{{ $found := partial "book/check-note.html" .notes }}
+        <li><span class="pl-name">{{ index $names .name | default .name }}</span><span class="pl-n">{{ math.Round .score }}<i>/{{ math.Round .max }}</i></span>
+          <span class="pl-bar" aria-hidden="true"><i style="width: {{ math.Round (mul 100 (div (float .score) (float .max))) }}%"></i></span>
+          {{- if $found }}<span class="pl-found">{{ delimit $found "; " }}</span>{{ else }}<span class="pl-found">Nothing found</span>{{ end }}</li>
+        {{- end }}
+      </ul>
+      {{- end }}
+      <p class="rd-caveat">The checks find what a machine can find. A book can score 100 and still hold misreadings that only a reader, with the scan beside the text, will catch.</p>
+    </div>
+    {{- end }}
+  </div>
+  <div class="rd-call">
+    <p>This is why Akshara is open. It is meant to become a community of people who care for India’s written heritage, reading these books against their scans and putting them right, page by page.{{ if $isV1 }} When this book is set again it will go to the proofreading desk, each page with its photograph beside it.{{ else }} Every page has its photograph beside it on the proofreading desk, and any one of them takes about five minutes.{{ end }}</p>
+    {{- if not $isV1 }}
+    <p><a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page of this book <span aria-hidden="true">→</span></a></p>
+    {{- end }}
+  </div>
+</section>
+{{- /**/ -}}

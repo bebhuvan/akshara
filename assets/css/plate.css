@@ -623,9 +623,6 @@ table.ledger .n { text-align: right; }
 /* This edition: how far it has been checked; then two matching columns, the forms it comes in and its record;
    then the editor's note. Each part is named by a small italic head over the same hairline. */
 .edition { display: grid; grid-template-columns: minmax(0, 1fr); gap: 36px; }
-.ed-state { max-width: 40em; }
-.edition .state { font-size: var(--fs-lede); line-height: 1.55; color: var(--ink-2); }
-.edition .proof { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); }
 .ed-cols { display: grid; gap: 36px; }
 /* To read elsewhere, for study: typeset lists, each form's name led by dots to what it is for, like the contents. */
 .ed-h { font-size: var(--fs-h4); line-height: 1.25; font-style: italic; color: var(--ink); letter-spacing: -0.005em; }
@@ -702,6 +699,9 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .op-in .ch { margin-top: 24px; font-size: var(--fs-lede); font-style: italic; color: var(--k); }
 .op-in h1 { margin-top: 6px; font-weight: 300; font-size: clamp(28px, 8vw, 42px); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 15em; }
 .op-in .meta { margin-top: 16px; font-size: var(--fs-note); line-height: 1.5; color: var(--ink-3); max-width: 26em; text-wrap: balance; }
+/* Under the opener, how the text was read, quietly, leading to the book's account of it. */
+.op-in .op-read { margin-top: 8px; font-size: var(--fs-note); font-style: italic; line-height: 1.5; color: var(--ink-3); max-width: 26em; text-wrap: balance; }
+.op-in .op-read a:hover { color: var(--k); text-decoration: underline; text-underline-offset: 3px; }
 .op-in .meta::after { content: ""; display: block; width: 40px; height: 1px; margin: 26px auto 0; background: color-mix(in srgb, var(--k) 50%, transparent); }
 /* The text: old-style figures where the face has them, small capitals only on the chapter's first line,
    indented paragraphs, and the book's own marks (notes, folios, tables, plates) kept as a book keeps them. */
@@ -1003,3 +1003,38 @@ html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-phot
   .essays span { max-width: 40em; }
 }
 @media (min-width: 760px) { .hit { grid-template-columns: 64px minmax(0, 1fr); gap: 0 24px; } }
+
+/* ---------- How this text was read: an account, not an alarm ---------- */
+/* The checks' score stands among the book's facts and leads to the account below. */
+.fact-score { display: grid; gap: 4px; }
+.fact-score span { text-decoration: underline; text-decoration-color: color-mix(in srgb, var(--k) 40%, transparent); text-underline-offset: 3px; }
+.fact-score:hover span { color: var(--k); }
+.read-note { margin-top: 14px; max-width: 460px; font-size: var(--fs-note); font-style: italic; line-height: 1.5; color: var(--ink-2); }
+.read-note span { white-space: nowrap; color: var(--k); }
+.read-note a:hover span { text-decoration: underline; text-underline-offset: 3px; }
+.rd { display: grid; gap: 36px; }
+.rd-text { max-width: 40em; }
+.rd-lede { font-size: var(--fs-lede); line-height: 1.55; color: var(--ink); text-wrap: pretty; }
+.rd-prov { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.55; font-style: italic; color: var(--ink-2); }
+.rd-text .ed-h { margin-top: 30px; }
+.rd-kinds { list-style: none; padding: 0; margin-top: 12px; display: grid; gap: 12px; }
+.rd-kinds li { font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); text-wrap: pretty; padding-left: 16px; border-left: 1px solid color-mix(in srgb, var(--k) 30%, transparent); }
+.rd-kinds b { font-weight: 400; font-style: italic; color: var(--ink); }
+/* The score: a large figure in the shelf's ink, then each check as a fine bar with what it found. */
+.rd-score { align-self: start; padding: 22px 22px 24px; background: color-mix(in srgb, var(--g) 60%, var(--paper)); }
+.rd-n { display: flex; align-items: baseline; gap: 10px; }
+.rd-n b { font-weight: 300; font-size: 64px; line-height: 1; letter-spacing: -0.03em; color: var(--k); font-variant-numeric: lining-nums; }
+.rd-n span { font-size: var(--fs-ui); font-style: italic; color: var(--ink-2); }
+.rd-what { margin-top: 6px; font-size: var(--fs-note); line-height: 1.45; font-style: italic; color: var(--ink-2); }
+.pillars { list-style: none; padding: 0; margin-top: 18px; display: grid; gap: 14px; }
+.pillars li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 5px 12px; align-items: baseline; }
+.pl-name { font-size: var(--fs-ui); color: var(--ink); }
+.pl-n { font-size: var(--fs-ui); color: var(--k); font-variant-numeric: lining-nums tabular-nums; }
+.pl-n i { color: var(--ink-3); font-style: normal; }
+.pl-bar { grid-column: 1 / -1; height: 2px; background: color-mix(in srgb, var(--k) 16%, transparent); }
+.pl-bar i { display: block; height: 100%; background: var(--k); }
+.pl-found { grid-column: 1 / -1; font-size: var(--fs-note); line-height: 1.45; font-style: italic; color: var(--ink-2); }
+.rd-caveat { margin-top: 18px; padding-top: 14px; border-top: 1px solid color-mix(in srgb, var(--k) 25%, transparent); font-size: var(--fs-note); line-height: 1.5; color: var(--ink-2); text-wrap: pretty; }
+.rd-call { margin-top: 34px; max-width: 40em; }
+.rd-call p:first-child { font-size: var(--fs-ui); line-height: 1.6; color: var(--ink); text-wrap: pretty; }
+@media (min-width: 900px) { .rd { grid-template-columns: minmax(0, 1fr) 320px; gap: 64px; } }

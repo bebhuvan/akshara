@@ -351,7 +351,14 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   1px below, faint rules between rows, figures in tabular lining numerals aligned right, headings in italic in
   the shelf's ink. On a book's page the table sits on a panel of the shelf's paper, named by its page; its data
   (as printed, tidy) is offered on one line beneath.
-- **This edition (`.edition`).** How far it has been checked, with the way to proofread; then two columns with
+- **How this text was read (`.reading`).** An account, never an alarm: no warning colour, icon or box around
+  the words. A lede on how the book was read; the provenance line in italic; "What a machine reading can get
+  wrong" as short entries behind a fine rule in the shelf's ink, each led by an italic name. Beside it (beneath
+  on a phone) the checks' score on a panel of the shelf's paper: the figure large in the shelf's ink, each check
+  a 2px bar with what it found in plain words, and the caveat that a score of 100 is not a proofread text. Then
+  the invitation to proofread. The score also stands among the book's facts (linking here), with a one-line
+  italic note under them; each chapter's opener carries the same note in `--ink-3`.
+- **This edition (`.edition`).** Two columns with
   no boxes or rules: plain typeset lists, "To read elsewhere" and "For study", each line the form's name (a
   link) led by dots to what it is for in italic, as in the contents; and a colophon centred under the ಅಕ್ಷರ
   mark in the shelf's ink, with a short rule beneath its name, the edition's record told in a few sentences as at the

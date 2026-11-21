@@ -112,6 +112,8 @@ its own words; the book's headings printed in capitals are marked to be set in s
       {{- with $n.num }}<p class="ch">{{ $n.label }} {{ . }}</p>{{ end }}
       <h1 data-pagefind-meta="title"{{ if gt (strings.RuneCount $n.title) 60 }} class="long"{{ end }}>{{ $n.title }}</h1>
       <p class="meta"><i>{{ $b.cover_title }}</i>, {{ $b.author }}, {{ $b.year }}{{ with $folioFrom }} · from page {{ . }}{{ end }}{{ with findRE `^\d+` (printf "%v" ($.Params.reading_time | default "")) 1 }}{{ $mins := int (index . 0) }}{{ if gt $mins 0 }} · about {{ $mins }} minutes{{ end }}{{ end }}</p>
+      {{- $checked := int ($book.Params.human_verified_pages | default 0) }}
+      <p class="op-read"><a href="{{ $book.RelPermalink }}#h-reading">{{ if $checked }}Read by machine; {{ $checked }} pages since checked by a person{{ else }}Read by machine, not yet checked by a person{{ end }}. It may hold small errors.</a></p>
     </div>
   </header>
 

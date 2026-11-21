@@ -345,3 +345,21 @@ nearly edge to edge, instead of running off the right edge as the mock had them.
 **Why.** Bhuvanesh, 2026-11-21: on a phone the bleed read as plates being chopped. The picture is the book's own
 evidence; showing all of it matters more than the printed-large effect. Rejected: keeping the bleed on wide
 screens only, since a cover looks the same at every size.
+
+## D28: Every book says how its text was read, and shows its checks' score (2026-11-21)
+
+**Decision.** Each book page has a section, "How this text was read": that the text was read by a
+vision-language model from photographs of the page; the kinds of error such a reading leaves (misread words and
+hyphens, dropped diacritics and punctuation, other languages and scripts, old romanisations turned into IAST,
+paragraphs broken at page turns, running heads and page numbers left in, headings at the wrong level, column
+order, front-matter noise, footnotes parted from their marks, table errors, missing illustration markers, and
+the occasional invented word); the automatic checks' score (`rubric_score`) with its four parts and their
+findings put into plain words (`layouts/_partials/book/check-note.html`); and the invitation to proofread. The
+score also stands among the book's facts, a one-line note sits under them, and every chapter opener links to
+the account. Stage One books, which have no score, get the account without it.
+
+**Why.** Bhuvanesh asked for the score to be prominent and for readers to understand what a machine reading
+gets wrong, as a notice and not a warning, and for the page to say that Akshara exists to grow a community that
+puts these books right. The score is shown with its limit stated beside it (a score of 100 is not a proofread
+text), because a bare number would claim more than the checks measure. Rejected: a coloured alert banner, which
+would treat every book as faulty and speak in the wrong voice for a library.
