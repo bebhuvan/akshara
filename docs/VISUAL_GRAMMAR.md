@@ -293,11 +293,12 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   full title, the author line, the book's own first sentence set large, a description, two ways in, then
   three of its plates on one rule.
 - **Plate tiles (`.smalls`, `.feat-plates`).** A plate inset on its shelf's ground; the caption beneath,
-  name first. The ground deepens a little under the pointer.
+  name first, balanced over its lines; under it where it was printed, quieter, the year and page never
+  split across a line. The ground deepens a little under the pointer.
 - **The eight shelves (`.sh`).** Each a small bookcase: four of its own books (those with pictures first)
   standing face out against a case a shade deeper than their covers (its paper with a sixth of its ink), on
   a 2px shelf-line in its ink; beneath, its name in its ink with
-  the count and years, its epigraph in italic and the source. The books stay still on hover; the shelf's name underlines.
+  the count and years, its epigraph in italic and, after a dash, the source in balanced lines. The books stay still on hover; the shelf's name underlines.
 - **How a book is made (`.made`).** A band of the paper of the shelf the example comes from. The
   photographed page and the set table side by side as equals, each on white paper with a fine edge and
   named above itself ("As photographed", "As set"); then the four steps, each under a large light numeral

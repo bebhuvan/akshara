@@ -247,8 +247,10 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .smalls .tile { aspect-ratio: 4 / 5; position: relative; background: var(--g); transition: background-color .3s; }
 .smalls a:hover .tile { background: color-mix(in oklab, var(--g) 88%, var(--k) 12%); }
 .smalls .tile .plate { position: absolute; inset: 11%; }
-.smalls span { font-size: var(--fs-caption); line-height: 1.35; color: var(--ink-2); }
-.smalls b { display: block; font-weight: 400; font-size: var(--fs-aside); color: var(--ink); }
+/* The plate's name, balanced over two or three short lines; under it, where it was printed, quieter and kept whole. */
+.smalls a > span { font-size: var(--fs-caption); line-height: 1.45; color: var(--ink-2); text-wrap: pretty; }
+.smalls b { display: block; margin-bottom: 3px; font-weight: 400; font-size: var(--fs-aside); line-height: 1.3; color: var(--ink); text-wrap: balance; }
+.nw { white-space: nowrap; }
 /* How a book is made: a band of the paper of the shelf the example comes from. The photographed page and the
    set one side by side as equals, each named above itself; then the four steps, in their order. */
 .made { margin-top: var(--sec); background: color-mix(in srgb, var(--g) 55%, var(--paper)); padding-block: 40px 52px; }
@@ -284,9 +286,12 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .sh-name { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 14px; }
 .sh h3 { font-size: var(--fs-h3); line-height: 1.2; color: var(--k); letter-spacing: -0.01em; }
 .sh .n { font-size: var(--fs-note); font-style: italic; color: var(--ink-2); }
-.sh blockquote { margin-top: 12px; font-size: var(--fs-ui); line-height: 1.5; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
+/* The shelf's epigraph, a little apart from the name; the source set off by a dash, quieter, broken in
+   balanced lines. (The opening quote is not hung: the section's paint containment would clip it.) */
+.sh blockquote { margin-top: 16px; font-size: var(--fs-ui); line-height: 1.55; font-style: italic; color: var(--ink-2); text-wrap: pretty; }
 .sh blockquote p::before { content: "“"; } .sh blockquote p::after { content: "”"; }
-.sh blockquote footer { margin-top: 6px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-3); }
+.sh blockquote footer { margin-top: 8px; font-size: var(--fs-caption); line-height: 1.45; font-style: normal; color: var(--ink-3); text-wrap: balance; }
+.sh blockquote footer::before { content: "— "; }
 .sh:hover h3, .sh:focus-visible h3 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 
 /* ---------- Footer ---------- */
