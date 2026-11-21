@@ -864,3 +864,35 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
 .row .shelf { padding-top: 6px; margin-top: 12px; }
 .sh { contain-intrinsic-size: auto 420px; }
 .auth, .tb, .hit { contain-intrinsic-size: auto 120px; }
+
+/* ---------- No page here ---------- */
+/* A lost reader is shown a ship, a line to search on and two ways back. */
+.lost { display: grid; gap: 28px; padding-top: 24px; }
+.lost-plate .tile { position: relative; aspect-ratio: 1; max-width: 360px; background: var(--g); }
+.lost-plate .tile .plate { position: absolute; inset: 10%; }
+.lost-plate figcaption { margin-top: 8px; font-size: var(--fs-note); color: var(--ink-2); }
+.lost .pg-h { padding-top: 0; }
+.lost-text { order: -1; }
+.lost-plate .tile { max-width: 280px; }
+.lost-ways { display: flex; flex-wrap: wrap; gap: 0 28px; margin-top: 14px; }
+@media (min-width: 760px) {
+  .lost { grid-template-columns: 360px 1fr; gap: 64px; align-items: center; padding-top: 64px; }
+  .lost-text { max-width: 560px; order: 0; }
+  .lost-plate .tile { max-width: 360px; }
+}
+
+/* ---------- Print ----------
+   A chapter or a page printed on paper: the text alone, in black, with its notes and page numbers, and the
+   address it came from. */
+@media print {
+  :root { --paper: #fff; --ink: #000; --ink-2: #333; --ink-3: #555; --k: #000; --g: #fff; }
+  .hd, .ft, .rd-bar, .rpanel, .rp-scrim, .leaf, .chap-nav, .chap-more, .chap-proof, .skip, .findbox, .views, .clear, .hits { display: none !important; }
+  body { font-size: 11pt; }
+  .text, .chap-end { max-width: none; margin: 0; padding: 0; font-size: 11pt; }
+  #chapter-text .sidenote-stack { position: static; width: auto; text-align: left; }
+  #chapter-text .folio-trigger { position: static; font-size: 8pt; }
+  a { text-decoration: none; }
+  .opener { padding-top: 0; }
+  .op-plate { max-width: 60mm; }
+  .row .shelf, .sh, .pl-group, .feature, .made, .strip, .smalls, #chapter-text .archival-plate { content-visibility: visible; }
+}
