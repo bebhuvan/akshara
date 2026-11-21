@@ -35,7 +35,7 @@
 <div class="op-row" aria-label="A few of the books"><div class="op-books">
 {{- range slice "life-and-letters-of-toru-dutt" "journey-from-madras-vol-i" "periplus-erythraean-sea" "life-in-an-indian-village" "lays-of-ancient-india" "poverty-and-un-british-rule" "palas-of-bengal" -}}
 {{- $b := partial "book/get.html" . -}}
-<a class="ob" href="{{ $b.url }}" title="{{ $b.title }} · {{ $b.author }}, {{ $b.year }}">{{ partial "book/cover.html" $b }}<span class="ob-no">No.&#8201;{{ $b.no }}</span></a>
+<a class="ob" href="{{ $b.url }}" title="{{ $b.title }} · {{ $b.author }}, {{ $b.year }}">{{ partial "book/cover.html" $b }}</a>
 {{- end -}}
 </div></div>
 
