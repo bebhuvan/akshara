@@ -7,6 +7,14 @@ title case, since the house sets no shouting capitals. */ -}}
   {{- $m := index . 0 -}}
   {{- $label = index $m 1 | lower | strings.FirstUpper -}}{{- $num = index $m 2 -}}{{- $t = index $m 3 -}}
 {{- end -}}
-{{- if and $t (eq $t (upper $t)) -}}{{- $t = title (lower $t) -}}{{- end -}}
+{{- if and $t (eq $t (upper $t)) -}}{{- $t = title (lower $t) -}}
+{{- else if $t -}}
+  {{- /* a run of words printed in capitals inside a mixed title is set in title case too */ -}}
+  {{- $ws := slice -}}
+  {{- range split $t " " -}}
+    {{- if and (findRE `^[A-Z][A-Z’'.,:;-]{2,}$` .) (not (findRE `^[IVXLC]+[.,:;]?$` .)) -}}{{- $ws = $ws | append (title (lower .)) -}}{{- else -}}{{- $ws = $ws | append . -}}{{- end -}}
+  {{- end -}}
+  {{- $t = delimit $ws " " -}}
+{{- end -}}
 {{- if not $t -}}{{- $t = printf "%s %s" $label $num -}}{{- end -}}
 {{- return dict "num" $num "label" $label "title" $t -}}

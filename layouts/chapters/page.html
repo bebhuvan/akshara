@@ -27,6 +27,10 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
 {{- $text := .Content -}}
 {{- $text = replaceRE `^(\s*(?:<p>)?\s*(?:<div class="page-rail-marker"[^>]*>[\s\S]*?</div>|<span[^>]*sec-page-anchor[^>]*></span>)?)\s*(?:<h2 class="sec-h1">[\s\S]*?</h2>\s*){1,3}(?:<h3 class="sec-h2">[\s\S]*?</h3>)?` "$1" $text 1 -}}
 {{- $text = replace $text "Critical Apparatus &amp; Notes" "Notes" -}}
+{{- /* a shoulder note that begins by repeating the chapter's number ("CHAPTER I. Vicinity of Madras.") keeps only
+its own words; the book's headings printed in capitals are marked to be set in small capitals */ -}}
+{{- $text = replaceRE `(<aside class="shoulder-sidenote[^"]*">)\s*(?:CHAPTER|Chapter)\s+[IVXLC\d]+\.\s*` "$1" $text -}}
+{{- $text = replaceRE `<h3 class="sec-h3">([^a-z<]{3,})</h3>` `<h3 class="sec-h3 caps">$1</h3>` $text -}}
 
 <div class="read {{ $b.code }}" id="read" data-lh="normal" data-width="medium" data-notes="margin" data-para="indented" data-align="ragged" data-folios="shown" data-book="{{ $b.id }}">
   <div class="rd-bar" id="rbar">
@@ -106,7 +110,7 @@ the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
       <span class="op-mark kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span>
       {{- end }}
       {{- with $n.num }}<p class="ch">{{ $n.label }} {{ . }}</p>{{ end }}
-      <h1 data-pagefind-meta="title">{{ $n.title }}</h1>
+      <h1 data-pagefind-meta="title"{{ if gt (strings.RuneCount $n.title) 60 }} class="long"{{ end }}>{{ $n.title }}</h1>
       <p class="meta"><i>{{ $b.cover_title }}</i>, {{ $b.author }}, {{ $b.year }}{{ with $folioFrom }} · from page {{ . }}{{ end }}{{ with findRE `^\d+` (printf "%v" ($.Params.reading_time | default "")) 1 }}{{ $mins := int (index . 0) }}{{ if gt $mins 0 }} · about {{ $mins }} minutes{{ end }}{{ end }}</p>
     </div>
   </header>

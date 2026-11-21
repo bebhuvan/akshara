@@ -5,7 +5,7 @@ kind places it (data/covers.toml), the label, and the foot line. Takes a book re
 {{- $c := $b.cover -}}
 {{- /* a title with a long word steps its type down, so no word is ever broken across lines */ -}}
 {{- $longest := 0 -}}{{- range split $c.title " " -}}{{- if gt (strings.RuneCount .) $longest -}}{{- $longest = strings.RuneCount . -}}{{- end -}}{{- end -}}
-<div class="cover k-{{ $c.kind }} {{ $b.code }}{{ if gt (strings.RuneCount $c.title) 40 }} t-long{{ end }}" role="img" aria-label="Cover of {{ $b.title }}, Akshara No. {{ $b.no }}">
+<div class="cover k-{{ $c.kind }} {{ $b.code }}{{ if gt (strings.RuneCount $c.title) 40 }} t-long{{ else if and (gt (strings.RuneCount $c.title) 28) (in (slice "portrait" "map" "device") $c.kind) }} t-mid{{ end }}" role="img" aria-label="Cover of {{ $b.title }}, Akshara No. {{ $b.no }}">
 {{- if eq $c.kind "type" }}<div class="au">{{ $b.author }}</div>
 {{- else }}<div class="pic"{{ with $c.inset }} style="inset:{{ . | safeCSS }}"{{ end }}><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" $c.plate "w" (cond (isset $b "big") 800 440)) }})"></i></div>{{ end -}}
 <div class="lbl{{ if gt (strings.RuneCount $c.title) 40 }} long{{ end }}{{ if ge $longest 11 }} lw{{ end }}"><b>{{ replaceRE `(\pL)-(\pL)` "$1‑$2" $c.title }}</b>{{ with $c.line }}<i>{{ . }}</i>{{ end }}</div>

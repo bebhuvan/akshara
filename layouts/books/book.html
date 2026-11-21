@@ -70,20 +70,21 @@ shown as two plain lines, in the record's own capitals. */ -}}
       {{- if and (not $isV1) $p.pages }}<div><b>{{ $p.pages }}</b><span>pages</span></div>{{ end }}
       <div><b>{{ len $main }}</b><span>{{ cond (eq (len $main) 1) "chapter" "chapters" }}</span></div>
       {{- with $p.tables_count }}<div><b>{{ . }}</b><span>{{ cond (eq (int .) 1) "table" "tables" }}</span></div>{{ end }}
-      {{- with $hours }}<div><b>{{ . }}</b><span>hours</span></div>{{ end }}
+      {{- with $hours }}<div><b>{{ . }}</b><span>{{ cond (eq . "1") "hour" "hours" }}</span></div>{{ end }}
     </div>
   </div>
 </div></section>
 
 <div class="wrap">
-  {{- $opening := partial "book/first-sentence.html" $first }}
+  {{- $firstChapter := index (where $chapters "Params.section_kind" "chapter") 0 | default $first }}
+  {{- $opening := partial "book/first-sentence.html" $firstChapter }}
   {{- /* a featured quote is used only if it is really in the book: some Stage One records hold the editor's blurb there */}}
   {{- with $p.featured_quote }}{{ $q := . }}{{ $probe := substr (replaceRE `\s+` " " $q) 0 40 }}{{ range $chapters }}{{ if strings.Contains (replaceRE `\s+` " " .Plain) $probe }}{{ $opening = $q }}{{ end }}{{ end }}{{ end }}
   {{- with $opening }}
   <figure class="opening">
     <figcaption class="k">How it begins</figcaption>
     <blockquote><p>“{{ . }}”</p></blockquote>
-    <figcaption>{{ $b.author }}, <i>{{ $b.cover_title }}</i>{{ with $first.Params.printed_start_folio }}, p.&#8201;{{ . }}{{ end }}</figcaption>
+    <figcaption>{{ $b.author }}, <i>{{ $b.cover_title }}</i>{{ with $firstChapter.Params.printed_start_folio }}, p.&#8201;{{ . }}{{ end }}</figcaption>
   </figure>
   {{- end }}
 
@@ -115,7 +116,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
   <div class="wrap"><div class="sec-h"><h2 id="h-plates">From its plates</h2><a href="/plates/">All the plates</a></div></div>
   <div class="strip">
     {{- range . }}
-    <figure><div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" .key "w" 640) }})" role="img" aria-label="{{ .alt }}"></i></div><figcaption>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }} · {{ with .detail }}{{ . }}, {{ end }}p.&nbsp;{{ .page }}</figcaption></figure>
+    <figure><div class="tile{{ if .face }} face{{ end }}"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" .key "w" 640) }})" role="img" aria-label="{{ .alt }}"></i></div><figcaption>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }} · {{ with .detail }}{{ . }}, {{ end }}p.&nbsp;{{ .page }}</figcaption></figure>
     {{- end }}
   </div>
 </section>
@@ -148,7 +149,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
 
 <div class="wrap">
   <section class="sec" aria-labelledby="h-edition">
-    <div class="sec-h"><h2 id="h-edition">This edition</h2><span>{{ $b.tier_name }}</span></div>
+    <div class="sec-h"><h2 id="h-edition">This edition</h2><span>{{ index (dict "machine_checked" "Machine-checked" "community" "Open for proofreading" "v1_archive" "Stage One") $b.tier }}</span></div>
     <div class="edition">
       <div>
         <p class="state">
@@ -160,7 +161,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
         <dl class="facts-list">
           <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
           {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
-          {{- with $p.footnotes_count }}<div><dt>Notes</dt><dd>{{ . }} footnotes, kept where they were printed</dd></div>{{ end }}
+          {{- with $p.footnotes_count }}<div><dt>Notes</dt><dd>{{ . }} {{ cond (eq (int .) 1) "footnote" "footnotes" }}, kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed</dd></div>{{ end }}
           {{- with $archiveID }}<div><dt>Scan</dt><dd><a class="ln" href="https://archive.org/details/{{ . }}">{{ . }}</a>, Internet Archive</dd></div>{{ end }}
           {{- with $p.collection_slug }}{{ with site.GetPage (printf "/collections/%s" .) }}<div><dt>Collection</dt><dd><a class="ln" href="{{ .RelPermalink }}">{{ .Title }}</a></dd></div>{{ end }}{{ end }}
           <div><dt>Shelf</dt><dd><a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a></dd></div>

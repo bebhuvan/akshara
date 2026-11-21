@@ -126,10 +126,10 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* ---------- Section heads ---------- */
 .sec { padding-top: var(--sec); }
 /* One heading for every section: the name, a quiet aside, one hairline. */
-.sec-h { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; margin: 0 0 26px; padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
-.sec-h h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15; }
+.sec-h { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px; margin: 0 0 26px; padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
+.sec-h h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15; text-wrap: balance; }
 .sec-h > a, .sec-h > span { font-size: var(--fs-aside); color: var(--ink-2); font-style: italic; white-space: nowrap; }
-.sec-h > span { white-space: normal; text-align: right; }
+.sec-h > span { white-space: normal; }
 .sec-h > a { padding: 10px 0; margin: -10px 0; }
 .sec-h > a:hover { color: var(--ink); }
 .sec-lede { margin: -8px 0 24px; font-size: var(--fs-lede); line-height: 1.5; color: var(--ink-2); max-width: 36em; }
@@ -137,7 +137,8 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 /* ---------- Buttons ---------- */
 /* The way in: a block of the book's own ink, the words in paper. */
 .cta { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; min-height: 56px; padding: 15px 20px; background: var(--k); color: var(--on-k); font-size: var(--fs-body); line-height: 1.2; }
-.cta span:last-child { font-size: var(--fs-aside); opacity: .8; font-style: italic; text-align: right; }
+.cta span { white-space: nowrap; }
+.cta span:last-child { font-size: var(--fs-aside); opacity: .8; font-style: italic; text-align: right; overflow: hidden; text-overflow: ellipsis; min-width: 0; }
 /* On the home page the way in is one compact button, sized to its words. */
 .cta-solo { display: inline-flex; width: max-content; max-width: 100%; align-items: center; gap: 14px; padding: 0 26px; min-height: 54px; }
 .cta-solo span:last-child { font-style: normal; opacity: 1; font-size: var(--fs-body); transition: transform .2s; }
@@ -172,6 +173,9 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .cover .lbl.lw b { font-size: 9.6cqi; }
 /* a three-line title on a pictured cover: the picture steps down to keep clear of it */
 .t-long:not(.k-type) .pic { translate: 0 5cqi; }
+.t-mid .pic { translate: 0 4cqi; }
+.t-mid.k-portrait .lbl b { font-size: 9.8cqi; }
+.t-mid.k-portrait .pic { translate: 0 7cqi; }
 .cover .no { position: absolute; left: 9%; right: 9%; bottom: 6%; display: flex; justify-content: space-between; font-size: 5.6cqi; color: var(--k); }
 .cover .pic { position: absolute; }
 .cover .pic .plate { position: absolute; inset: 0; }
@@ -198,7 +202,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
    The year and number are already on the cover. */
 .book .cap { display: grid; gap: 3px; padding-right: 4px; }
 .book .cap b { font-weight: 400; color: var(--ink); font-size: var(--fs-aside); line-height: 1.28; text-wrap: pretty;
-  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
 .book .cap .by { font-size: var(--fs-caption); line-height: 1.3; font-style: italic; color: var(--ink-2); }
 .book:hover .cap b { color: var(--k); }
 
@@ -259,7 +263,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .made-pair figcaption { margin-bottom: 10px; font-size: var(--fs-note); line-height: 1.4; font-style: italic; color: var(--ink-2); }
 .made-pair figcaption b { display: block; font-weight: 400; font-style: normal; font-size: var(--fs-h4); color: var(--k); }
 .made-pair .sheet { flex: 1; display: flex; align-items: center; background: var(--paper); padding: 18px; box-shadow: 0 0 0 1px color-mix(in srgb, var(--k) 14%, transparent); overflow-x: auto; }
-.made-scan img { display: block; width: 100%; }
+.made-scan img { display: block; width: 100%; aspect-ratio: 600 / 252; object-fit: cover; object-position: top; }
 .made-set table { width: 100%; border-collapse: collapse; font-size: var(--fs-aside); line-height: 1.35; font-variant-numeric: tabular-nums; }
 .made-set th { font-weight: 400; font-style: italic; color: var(--k); text-align: left; padding: 0 0 8px; border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .made-set td { padding: 4px 0; }
@@ -277,8 +281,8 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .shelves { display: grid; grid-template-columns: minmax(0, 1fr); gap: 34px 40px; }
 .sh, .sh-case { min-width: 0; }
 .sh { display: grid; gap: 16px; align-content: start; }
-.sh-case { display: flex; align-items: flex-end; gap: 10px; padding: 26px 22px 0; background: var(--g); border-bottom: 2px solid color-mix(in srgb, var(--k) 55%, transparent); }
-.sh-b { flex: 0 1 25%; min-width: 0; max-width: 92px; transition: transform .35s ease; }
+.sh-case { display: flex; align-items: flex-end; justify-content: space-evenly; gap: 10px; padding: 26px 22px 0; background: var(--g); border-bottom: 2px solid color-mix(in srgb, var(--k) 55%, transparent); }
+.sh-b { flex: 0 1 25%; min-width: 0; max-width: 104px; transition: transform .35s ease; }
 .sh-b .cover { box-shadow: 0 1px 1px rgba(var(--shadow), .07), 0 10px 14px -12px color-mix(in srgb, var(--k) 70%, transparent); }
 .sh:hover .sh-b:nth-child(odd), .sh:focus-visible .sh-b:nth-child(odd) { transform: translateY(-4px); }
 .sh-name { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 2px 14px; }
@@ -292,7 +296,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 /* ---------- Footer ---------- */
 /* The footer ends the site the way a book ends: a printer's device, the house name, one sentence on what this
    is, the ways back in as a single line of words, and a last line on how the texts are made. */
-.ft { margin-top: var(--sec-end); border-top: 1px solid var(--hair); padding-block: 56px 52px; text-align: center; }
+.ft { margin-top: var(--sec-end); border-top: 1px solid var(--hair); padding: 56px 0 calc(72px + env(safe-area-inset-bottom, 0px)); text-align: center; }
 .ft-in { display: grid; justify-items: center; }
 .ft-device { width: 74px; aspect-ratio: 800 / 1126; --k: var(--ft-ink, #8E8A82); }
 .ft-name { margin: 20px 0 0; font-size: var(--fs-mark-wide); line-height: 1.2; letter-spacing: -0.005em; }
@@ -302,7 +306,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .ft-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 22px; margin-top: 26px; max-width: 52em; font-size: var(--fs-ui); }
 .ft-links a { display: inline-flex; align-items: center; min-height: 44px; color: var(--ink); }
 .ft-links a:hover { color: var(--ink-2); }
-.ft-last { margin: 18px 0 0; font-size: var(--fs-caption); line-height: 1.8; color: var(--ink-3); }
+.ft-last { margin: 18px 0 0; font-size: var(--fs-caption); line-height: 1.8; color: var(--ink-3); text-wrap: balance; }
 .ft-last i { margin-right: 6px; }
 .ft-last a { display: inline-block; padding: 10px 0 2px; color: var(--ink-2); margin: 0 5px; border-bottom: 1px solid var(--hair); line-height: 1.2; }
 .ft-last a:hover { color: var(--ink); }
@@ -418,8 +422,8 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .views .count { margin-left: auto; font-size: var(--fs-note); font-style: italic; color: var(--ink-3); white-space: nowrap; }
 /* A shelf in the library: its name in its ink over a rule in its ink, then its books, face out. */
 .row { margin-top: 44px; }
-.row-h { display: flex; align-items: baseline; gap: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--k); }
-.row-h h2 { font-weight: 400; font-size: var(--fs-h3); line-height: 1.15; letter-spacing: -0.01em; color: var(--k); }
+.row-h { display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 12px; padding-bottom: 10px; border-bottom: 1px solid var(--k); }
+.row-h h2 { font-weight: 400; font-size: var(--fs-h3); line-height: 1.15; letter-spacing: -0.01em; color: var(--k); text-wrap: balance; }
 .row-h h2 a:hover { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 4px; }
 .row-h span { margin-left: auto; font-size: var(--fs-note); color: var(--ink-2); font-style: italic; white-space: nowrap; }
 /* On a phone a shelf is a row to swipe, each cover snapping to the gutter; on a wide screen, a grid. */
@@ -469,7 +473,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .auth h2 span { font-size: var(--fs-note); font-style: italic; color: var(--ink-3); white-space: nowrap; }
 .auth ul { list-style: none; padding: 0; margin-top: 4px; }
 .auth li { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
-.auth li a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
+.auth li a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 22%, transparent); }
 .auth li a:hover { border-bottom-color: var(--ink); }
 .colls a, .essays a { display: grid; gap: 3px; }
 .colls b, .essays b { font-weight: 400; font-size: var(--fs-h4); line-height: 1.25; }
@@ -497,7 +501,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .tb-note { margin: 0 0 14px; font-size: var(--fs-aside); color: var(--ink-2); }
 /* The journal's front page: the lead essay beside one worn page as the camera found it. */
 .jl { display: grid; gap: 26px; }
-.jl-art { display: block; max-width: 300px; }
+.jl-art { display: block; }
 .jl-art img { display: block; width: 100%; box-shadow: 0 0 0 1px var(--hair), 0 18px 26px -20px rgba(var(--shadow), .45); }
 .jl-art span { display: block; margin-top: 8px; font-size: var(--fs-caption); font-style: italic; color: var(--ink-2); }
 .jl-k { font-size: var(--fs-note); font-style: italic; color: var(--k); }
@@ -509,7 +513,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .jl-m { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin-top: 26px; font-size: var(--fs-aside); font-style: italic; color: var(--ink-3); }
 @media (min-width: 760px) {
   .shelf.grid { grid-template-columns: repeat(6, 1fr); gap: 30px 20px; }
-  .plates-grid { grid-template-columns: repeat(4, 1fr); }
+  .plates-grid { grid-template-columns: repeat(4, 1fr); grid-auto-flow: row dense; }
   .plates-grid .wide { grid-column: span 2; }
   .plates-grid .wide .tile { aspect-ratio: 2 / 1; height: auto; }
   .authors { columns: 2; column-gap: 48px; }
@@ -553,7 +557,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .bk-actions .cta { max-width: 420px; }
 .bk-actions .dl { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
 .bk-actions .dl a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
-.bk-actions .dl a:last-child { color: var(--ink-2); font-style: italic; margin-left: 4px; white-space: nowrap; }
+.bk-actions .dl a:last-child { color: var(--ink-2); font-style: italic; white-space: nowrap; }
 .facts { display: flex; flex-wrap: wrap; gap: 14px 34px; margin-top: 26px; padding-top: 14px; border-top: 1px solid color-mix(in srgb, var(--k) 25%, transparent); max-width: 460px; }
 .facts div { display: grid; gap: 4px; }
 .facts b { font-weight: 300; font-size: 32px; line-height: 1; letter-spacing: -0.03em; color: var(--k); font-variation-settings: "opsz" 60; font-variant-numeric: lining-nums; }
@@ -566,7 +570,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 /* Contents: one row a chapter, its number in the shelf's ink, its printed page at the right. */
 .toc-pre { margin: -8px 0 16px; font-size: var(--fs-aside); line-height: 1.6; color: var(--ink-2); }
 .toc-pre a { color: var(--ink); border-bottom: 1px solid var(--hair); }
-.toc { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--hair); max-width: 52em; }
+.toc { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--hair); }
 .toc li a { display: grid; grid-template-columns: 2.6em 1fr auto; gap: 8px; align-items: baseline; min-height: 48px; padding: 13px 0; border-bottom: 1px solid var(--hair); font-size: var(--fs-lede); line-height: 1.35; }
 .toc li a:hover span:nth-child(2) { color: var(--k); }
 .toc .n { color: var(--k); font-style: italic; }
@@ -596,7 +600,7 @@ table.ledger .n { text-align: right; }
 .facts-list dd { min-width: 0; overflow-wrap: anywhere; }
 .edition .state { font-size: var(--fs-lede); line-height: 1.55; color: var(--ink-2); max-width: 34em; }
 .edition .proof { margin-top: 14px; font-size: var(--fs-ui); line-height: 1.55; color: var(--ink-2); max-width: 34em; }
-.edition .proof .more { margin-left: 6px; }
+.edition .proof .more { display: flex; }
 .facts-list { margin-top: 18px; border-top: 1px solid var(--hair); }
 .facts-list div { display: grid; grid-template-columns: 7.5em 1fr; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--hair); font-size: var(--fs-aside); line-height: 1.45; }
 .facts-list dt { font-style: italic; color: var(--ink-3); }
@@ -856,7 +860,7 @@ html[data-theme="dark"] .bk-head .cover { background: color-mix(in srgb, var(--g
 html[data-theme="dark"] .pp-sheet { box-shadow: 0 0 0 1px rgba(255,255,255,.14); }
 .pp-auto .pp-sheet { background: linear-gradient(135deg, #FFFFFF 50%, #17181A 50%); color: transparent; }
 /* on dark paper a solid block of light ink shouts: the way in becomes a deep tint of the ink, its words in the ink */
-html[data-theme="dark"] .cta { background: color-mix(in srgb, var(--k) 24%, var(--paper)); color: var(--k); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--k) 45%, transparent); }
+html[data-theme="dark"] .cta { background: color-mix(in srgb, var(--k) 20%, var(--paper)); color: var(--ink); box-shadow: inset 0 0 0 1px color-mix(in srgb, var(--k) 45%, transparent); }
 html[data-theme="dark"] .readon:hover { color: var(--paper); }
 
 /* ---------- Speed ----------
@@ -908,4 +912,15 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
 .article > .prose { font-size: var(--fs-read); }
 .article > .pg-h h1 { font-size: clamp(40px, 10vw, 64px); }
 @media (min-width: 760px) { .article { --col: 680px; } .article > .prose { font-size: var(--fs-read-wide); } }
-.prose strong, .prose b { font-weight: 560; }
+
+/* In dark mode a photograph or a portrait printed light on dark becomes a negative: faces glow. These are
+   printed as they would be on paper, in dark ink on a pale tile of their own. */
+html[data-theme="dark"] .k-portrait .pic, html[data-theme="dark"] .k-photo .pic, html[data-theme="dark"] .face { background: #DCD7CD; }
+html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-photo .pic .plate, html[data-theme="dark"] .face .plate { background: #2A2926; opacity: 1; }
+/* the book's own headings printed in capitals are set in small capitals, quieter, as a printer would */
+#chapter-text .caps { text-transform: lowercase; font-variant: small-caps; letter-spacing: .05em; font-style: normal; }
+/* essays: the house's emphasis is italic, and a quotation is indented in italic without a bar */
+.prose strong, .prose b { font-weight: 400; font-style: italic; }
+.prose blockquote { border-left: 0; padding-left: 1.6em; }
+@media (min-width: 760px) { .jl-art { max-width: 300px; } }
+.op-in h1.long { font-size: clamp(24px, 6.4vw, 32px); line-height: 1.15; max-width: 22em; }

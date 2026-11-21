@@ -43,6 +43,7 @@ alt = "A humped bull standing in profile."
 
 [[group.plate]]
 key = "j1-krishna"
+face = true  # a portrait: in dark mode it prints dark on a pale tile, never as a negative
 book = "journey-from-madras-vol-i"
 ratio = "900/1151"
 title = "Krishna Raja, Curtur, or Sovereign of Mysore"
@@ -67,6 +68,7 @@ alt = "An upright wooden sugar press with a long curved beam."
 
 [[group.plate]]
 key = "j3-sultan"
+face = true  # a portrait: in dark mode it prints dark on a pale tile, never as a negative
 book = "journey-from-madras-vol-iii"
 ratio = "800/1046"
 title = "Sultan Mohay ud Deen, eldest legitimate son of Tippoo Sultan"
@@ -283,6 +285,7 @@ alt = "A rubbing of a stone inscription."
 
 [[group.plate]]
 key = "pal-jones"
+face = true  # a portrait: in dark mode it prints dark on a pale tile, never as a negative
 book = "palas-of-bengal"
 ratio = "623/832"
 title = "Sir William Jones, MDCCXLVI–MDCCXCIV"

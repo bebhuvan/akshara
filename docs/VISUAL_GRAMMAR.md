@@ -102,8 +102,10 @@ chosen paper, D22) the same tokens are redefined: `--paper` becomes a deep neutr
 shelf's `--g` darkens to a ground a step above the paper and its `--k` lifts toward the light (every shelf
 ink at least 5.5:1 on its ground). A component never writes dark colours of its own; the only dark-specific
 rules are: the solid Begin reading block becomes a deep tint of the ink (a slab of light ink shouts on dark
-paper), photographs of pages are dimmed a little, and the books' own figures in the text are inverted to
-print light on dark. Cotton (`html[data-paper="cotton"]`) is a warm light paper for readers who ask for it.
+paper), photographs of pages are dimmed a little, the books' own figures in the text are inverted to
+print light on dark, and photographs and portraits (cover kinds `portrait` and `photo`, and plates marked
+`face = true` in `data/plates.toml`) print as on paper, dark ink on a pale tile, because a face printed
+light on dark becomes a negative. Cotton (`html[data-paper="cotton"]`) is a warm light paper for readers who ask for it.
 
 ---
 
@@ -145,8 +147,12 @@ any size.
 - **Weights:** 300 for display sizes, 400 for everything else. No bold in the interface; emphasis is italic.
 - **Italic** is the house's second voice: asides, labels, captions, the second line of a title, a book's
   own words. Titles of books are always italic in running text.
-- **Small capitals** only at a chapter's opening line. Newsreader has none, so the browser draws them from
+- **Small capitals** only at a chapter's opening line, and for the book's own headings that it printed in
+  capitals (set in small capitals so they do not shout). Newsreader has none, so the browser draws them from
   capitals (D12). Never small or spaced capitals as labels or eyebrows.
+- **Capitals in titles.** A chapter or book title printed in capitals is set in title case; so is a run of
+  capitalised words inside a mixed title. The printer's capitals on a chapter's first words are set in lower
+  case where they are quoted.
 - **Figures:** the reading text asks for old-style figures (`oldstyle-nums`); Newsreader draws lining ones,
   and that is accepted (D12). Tables and page numbers use tabular figures.
 - **Punctuation:** real quotation marks and apostrophes (’ “ ”), en dashes for ranges (1642–1645), a
@@ -259,7 +265,8 @@ The label's first line is the short title (`cover_title` in `data/bookdetails.to
 trailing ", Vol. II" becomes an italic second line "Volume II"; trailing years ("1642–1645") and a short
 subtitle after a colon do the same. A title is never broken inside a word: one with a word of eleven
 letters or more steps its type down (`.lw`), and one over forty characters steps down again (`.long`);
-on a pictured cover a long title moves the picture down to keep clear of it. Hyphenated names do not break
+on a pictured cover a long title moves the picture down to keep clear of it (`.t-long`; and `.t-mid` for a
+title over 28 letters on a portrait, map or device, where the portrait's title also steps down a size). Hyphenated names do not break
 at the hyphen. Straight apostrophes from the records are set as ’.
 
 ---
@@ -278,7 +285,8 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   is a link: a word with a hairline in the shelf's ink beneath (`.ln`, `.quiet a`). No pills, no icons
   except the search glass.
 - **Section heading (`.sec-h`).** The name at `--fs-h2`, a quiet italic aside on the right (often a link),
-  one hairline beneath. Inside a shelf-coloured band, `.voice-h` does the same in the shelf's ink.
+  one hairline beneath. When the two do not fit on one line the aside goes beneath the name, never leaving a
+  word of the heading alone. Inside a shelf-coloured band, `.voice-h` does the same in the shelf's ink.
 - **Featured edition (`.feature`).** A band of the shelf's ground mixed half-way to paper: the cover, the
   full title, the author line, the book's own first sentence set large, a description, two ways in, then
   three of its plates on one rule.
@@ -303,7 +311,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   to the gutter, the next one showing at the edge to say there is more; on a wide screen a grid of six.
   Rows that are not one shelf's (decades, letters) use the neutral ink.
 - **Cover with caption (`.book`, `.cap`).** The cover, then a quiet caption: the short title at `--fs-aside`,
-  never more than two lines, then the author in italic at `--fs-caption`. The year and number are already
+  never more than three lines, then the author in italic at `--fs-caption`. The year and number are already
   on the cover, so the caption does not repeat them. The whole is one link; the title takes the shelf's ink
   on hover.
 - **Search results (`.hit`).** Grouped by book, in the order the books first appear: the book's cover small
