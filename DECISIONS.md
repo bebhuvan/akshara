@@ -336,3 +336,12 @@ licence's name and address are in `hugo.toml` (`license_name`, `license_title`, 
 
 **Why.** It had been stated nowhere: a reader or another library could not tell what they may do with an
 edition, and a public library's terms should be plain on every page.
+
+## D27. Plates are never cut by their frame
+
+**Decision.** An engraving on a cover and the turning plate on the opening page sit wholly inside their frame,
+nearly edge to edge, instead of running off the right edge as the mock had them.
+
+**Why.** Bhuvanesh, 2026-11-21: on a phone the bleed read as plates being chopped. The picture is the book's own
+evidence; showing all of it matters more than the printed-large effect. Rejected: keeping the bleed on wide
+screens only, since a cover looks the same at every size.

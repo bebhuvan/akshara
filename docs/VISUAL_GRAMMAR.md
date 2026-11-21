@@ -215,8 +215,8 @@ section below the first screen is fetched only as the reader nears it (`content-
 
 ### Cropping and placing
 - In a tile, a plate is inset so it never touches the tile's edge.
-- On a cover, an engraving may run off the edge (it is printed large); a map never does.
-- On the turning plate, the engraving bleeds off the right edge of its stage.
+- On a cover, an engraving is printed large, nearly edge to edge, but always whole; a map sits smaller inside its rule.
+- On the turning plate, the engraving fills its stage but is never cut by its edges.
 
 ### Captions
 Like a label in a gallery: the plate's name (italic if it is a scientific or foreign name), then where it
@@ -233,7 +233,7 @@ a foot line (Akshara No. and the year), and in the middle whatever the book itse
 ### The five kinds
 | Kind | Class | What it shows | Placement |
 |---|---|---|---|
-| Engraving | `k-plate` | the book's own engravings, woodcuts or drawings | printed large, may run off the edge |
+| Engraving | `k-plate` | the book's own engravings, woodcuts or drawings | printed large, nearly edge to edge, never cut |
 | Map | `k-map` | a map bound into the book | kept whole inside a fine rule |
 | Device | `k-device` | arms, a seal or a printer's device from the title page | small and centred, as the printer placed it |
 | Photograph | `k-portrait` / `k-photo` | a frontispiece portrait or photograph, as halftone | an oval for a portrait, a ruled frame otherwise |

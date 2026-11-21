@@ -174,8 +174,8 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .cover .no { position: absolute; left: 9%; right: 9%; bottom: 6%; display: flex; justify-content: space-between; font-size: 5.6cqi; color: var(--k); }
 .cover .pic { position: absolute; }
 .cover .pic .plate { position: absolute; inset: 0; }
-/* An engraving: printed large, allowed to run off the edge. */
-.k-plate .pic { inset: 38% -14% 15% -8%; }
+/* An engraving: printed large, edge to edge of the board, but whole: nothing of the picture is cut away. */
+.k-plate .pic { inset: 36% 4% 14% 4%; }
 /* A map: kept whole, inside a fine rule, as maps were bound in. */
 .k-map .pic { inset: 33% 15% 15% 15%; border: 1px solid color-mix(in srgb, var(--k) 45%, transparent); }
 .k-map .pic .plate { inset: 4%; }
@@ -211,7 +211,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 /* The turning plate: one engraving at a time on its own shelf's paper, crossfading to the next. */
 .stage { position: relative; background: var(--g); overflow: hidden; transition: background-color 1.4s ease; }
 .stage .art { position: relative; height: min(74vw, 560px); }
-.stage .plate { position: absolute; inset: 6% -14% 2% 6%; transition: opacity 1.4s ease, background-color 1.4s ease; }
+.stage .plate { position: absolute; inset: 6% 5% 4% 5%; transition: opacity 1.4s ease, background-color 1.4s ease; }
 .stage .plate.off { opacity: 0; }
 .stage figcaption { display: flex; justify-content: space-between; align-items: end; gap: 16px; padding-bottom: 14px;
   font-size: var(--fs-caption); line-height: 1.35; color: var(--k); transition: color 1.4s ease; }
