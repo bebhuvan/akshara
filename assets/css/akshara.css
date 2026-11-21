@@ -1941,3 +1941,13 @@ table.ed-ledger td:not(.n) { text-align: left; }
 .rf-x mark { background: none; color: var(--ink); text-decoration: underline; text-decoration-color: var(--blue-soft); text-decoration-thickness: 2px; text-underline-offset: .18em; }
 .rp-find-out a:hover .rf-t { color: var(--blue); }
 ::highlight(find) { background-color: color-mix(in srgb, var(--cloth, #5466A0) 22%, transparent); color: inherit; }
+/* the opening's links: one first step, and two quieter ways in beneath it */
+.op-act { margin-top: 1.8rem; display: flex; flex-direction: column; align-items: flex-start; gap: .7rem; }
+.op-go { font-style: italic; font-size: 1.35rem; line-height: 1.2; color: var(--blue); text-decoration: none; padding: .2rem 0;
+  border-bottom: 1px solid var(--blue-rule); }
+.op-go::after { content: "\00A0\00A0\2192"; font-style: normal; }
+.op-go:hover { border-bottom-color: var(--blue); }
+.op-more { display: flex; flex-wrap: wrap; align-items: baseline; gap: .2rem .7rem; font-size: .95rem; color: var(--ink-2); }
+.op-more a { color: var(--ink-2); text-decoration: underline; text-decoration-color: var(--hair); text-underline-offset: .22em; padding: .3rem 0; }
+.op-more a:hover { color: var(--blue); text-decoration-color: var(--blue-rule); }
+.op-more span { color: var(--blue-rule); }
