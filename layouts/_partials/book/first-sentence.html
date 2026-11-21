@@ -14,7 +14,7 @@ skipped. Returns "" if nothing suitable is found. */ -}}
         {{- $s := strings.TrimSpace . -}}
         {{- $words := split $s " " -}}
         {{- $caps := len (findRE `(?:^|\s)[A-Z]` $s) -}}
-        {{- if and (ge (len $words) 8) (le (len $words) 60) (lt (mul $caps 10) (mul (len $words) 6)) (findRE `^[A-Z“"‘']` $s) -}}{{- $out = replace $s "\u2063" "." -}}{{- end -}}
+        {{- if and (ge (len $words) 8) (le (len $words) 45) (lt (mul $caps 10) (mul (len $words) 6)) (findRE `^[A-Z“"‘']` $s) -}}{{- $out = replace $s "\u2063" "." -}}{{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}

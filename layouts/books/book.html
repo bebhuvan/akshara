@@ -85,8 +85,8 @@ shown as two plain lines, in the record's own capitals. */ -}}
   {{- with $opening }}
   <figure class="opening">
     <figcaption class="k">How it begins</figcaption>
-    <blockquote><p>“{{ . }}”</p></blockquote>
-    <figcaption>{{ $b.author }}, <i>{{ $b.cover_title }}</i>{{ with $firstChapter.Params.printed_start_folio }}, p.&#8201;{{ . }}{{ end }}</figcaption>
+    <blockquote><p>{{ . }}</p></blockquote>
+    <figcaption class="src">{{ $b.author }}, <i>{{ $b.cover_title }}</i>{{ with $firstChapter.Params.printed_start_folio }}, page {{ . }}{{ end }}</figcaption>
   </figure>
   {{- end }}
 
@@ -101,13 +101,15 @@ shown as two plain lines, in the record's own capitals. */ -}}
     {{- $pre := where $chapters "Params.section_kind" "in" (slice "frontmatter" "preface" "introduction") }}
     {{- $back := where $chapters "Params.section_kind" "in" (slice "appendix" "backmatter" "index") }}
     <div class="sec-h"><h2 id="h-toc">Contents</h2>{{ if not $isV1 }}<span>Pages as printed in {{ $b.year }}</span>{{ end }}</div>
-    {{- with and (not $isV1) $pre }}<p class="toc-pre">{{ range $i, $c := . }}{{ if $i }} · {{ end }}{{ $n := partial "chapter/name.html" $c }}<a href="{{ $c.RelPermalink }}">{{ $n.title }}</a>{{ end }}</p>{{ end }}
     <ol class="toc">
+      {{- with and (not $isV1) $pre }}{{ range $c := . }}{{ $n := partial "chapter/name.html" $c }}
+      <li class="pre"><a href="{{ $c.RelPermalink }}"><span class="n"></span><span class="t">{{ $n.title }}</span><span class="dots" aria-hidden="true"></span><span class="p">{{ $c.Params.printed_start_folio }}</span></a></li>
+      {{- end }}{{ end }}
       {{- range $c := $main }}{{ $n := partial "chapter/name.html" $c }}
-      <li><a href="{{ $c.RelPermalink }}"><span class="n">{{ $n.num | lower }}</span><span>{{ $n.title }}</span><span class="p">{{ $c.Params.printed_start_folio }}</span></a></li>
+      <li><a href="{{ $c.RelPermalink }}"><span class="n">{{ $n.num | lower }}</span><span class="t">{{ $n.title }}</span><span class="dots" aria-hidden="true"></span><span class="p">{{ $c.Params.printed_start_folio }}</span></a></li>
       {{- end }}
-      {{- with and (not $isV1) $back }}{{ range $c := . }}{{ $n := partial "chapter/name.html" $c }}
-      <li class="back"><a href="{{ $c.RelPermalink }}"><span class="n"></span><span>{{ $n.title }}</span><span class="p">{{ $c.Params.printed_start_folio }}</span></a></li>
+      {{- with and (not $isV1) $back }}{{ range $i, $c := . }}{{ $n := partial "chapter/name.html" $c }}
+      <li class="back{{ if eq $i 0 }} first{{ end }}"><a href="{{ $c.RelPermalink }}"><span class="n"></span><span class="t">{{ $n.title }}</span><span class="dots" aria-hidden="true"></span><span class="p">{{ $c.Params.printed_start_folio }}</span></a></li>
       {{- end }}{{ end }}
     </ol>
   </section>
@@ -133,16 +135,16 @@ shown as two plain lines, in the record's own capitals. */ -}}
 <section class="sec wrap" aria-labelledby="h-tb">
   <div class="sec-h"><h2 id="h-tb">From its tables</h2><a href="/datasets/">All the tables</a></div>
   <div class="bk-table">
-    <p class="sec-lede">{{ $tn := int ($p.tables_count | default (len $p.tables_list)) }}{{ partial "words.html" $tn | strings.FirstUpper }} {{ cond (eq $tn 1) "table" "tables" }} in the book, each given as data. This one is set as it was printed{{ with .printed_folio }}, on page {{ . }}{{ end }}. <a class="ln" href="{{ .section_url }}">The table in its chapter</a></p>
-    <figure>
-      {{- if not (hasPrefix .caption "Table ") }}<figcaption class="tcap">{{ .caption }}</figcaption>{{ end }}
+    <p class="sec-lede">{{ $tn := int ($p.tables_count | default (len $p.tables_list)) }}{{ partial "words.html" $tn | strings.FirstUpper }} {{ cond (eq $tn 1) "table" "tables" }} in the book, each set as it was printed and given as data. Here is the first. <a class="ln" href="{{ .section_url }}">See it in its chapter</a>.</p>
+    <figure class="tbl-panel">
+      <figcaption class="tcap">{{ if not (hasPrefix .caption "Table ") }}{{ .caption }}{{ else }}As printed{{ with .printed_folio }} on page {{ . }}{{ end }}{{ end }}</figcaption>
       {{- $head := index $rows 0 }}{{ $invented := true }}{{ range $head }}{{ if not (findRE `^(Item|Column \d+)?$` .) }}{{ $invented = false }}{{ end }}{{ end }}
       {{- $num := `^[\s(]*[£$₹]?\s*(Rs\.?\s*)?[\d][\d,.\s½¼¾⅓⅔/–-]*[)]?\.?$` }}
       <div class="ledger-wrap"><table class="ledger">
         {{- if not $invented }}<thead><tr>{{ range $i, $h := $head }}<th scope="col">{{ $h }}</th>{{ end }}</tr></thead>{{ end }}<tbody>
         {{- range after 1 $rows }}<tr>{{ range $i, $c := . }}<td{{ if findRE $num $c }} class="n"{{ end }}>{{ $c }}</td>{{ end }}</tr>{{ end }}
       </tbody></table></div>
-      <p class="tbl-dl">This table as data: <a href="{{ .diplomatic_csv }}" download>as printed</a> <a href="{{ .tidy_csv }}" download>tidy</a> (CSV)</p>
+      <p class="tbl-dl">This table as data, CSV: <a href="{{ .diplomatic_csv }}" download>as printed</a> · <a href="{{ .tidy_csv }}" download>tidy</a></p>
     </figure>
   </div>
 </section>
@@ -153,42 +155,54 @@ shown as two plain lines, in the record's own capitals. */ -}}
   <section class="sec" aria-labelledby="h-edition">
     <div class="sec-h"><h2 id="h-edition">This edition</h2><span>{{ index (dict "machine_checked" "Machine-checked" "community" "Open for proofreading" "v1_archive" "Stage One") $b.tier }}</span></div>
     <div class="edition">
-      <div>
+      <div class="ed-state">
         <p class="state">
         {{- if $isV1 }}An earlier edition, set in 2025 from the scans before the present methods existed. It has not been checked against the scans page by page, and will be set again.
         {{- else }}{{ $p.provenance_statement | default "Read by machine from the camera’s own photographs." }}{{ end }}</p>
         {{- if not $isV1 }}
-        <p class="proof">{{ if eq (int ($p.human_verified_pages | default 0)) 0 }}No page of this book has yet been read through by a person. {{ end }}Any one of its pages needs a reader, the scan beside the text, and about five minutes. <a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page <span aria-hidden="true">→</span></a></p>
+        <p class="proof">{{ if eq (int ($p.human_verified_pages | default 0)) 0 }}No page of this book has yet been read through by a person. {{ end }}Any one of its pages needs a reader, the scan beside the text, and about five minutes.</p>
+        <p><a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page <span aria-hidden="true">→</span></a></p>
         {{- end }}
-        {{- with $p.editorial_note_markdown }}
-        {{- $note := . | replaceRE `(?m)^# .*\n+` "" }}
-        {{- $intro := index (split $note "\n## ") 0 }}
+      </div>
+      <div class="ed-cols">
+        <div>
+          <h3 class="ed-h">Take it away</h3>
+          {{- if or $p.download_epub $p.download_pdf $p.download_html $p.download_source_pdf $p.download_datasets $p.download_md $p.download_tei }}
+          <ul class="forms" aria-label="Every form of this edition">
+            {{- with $p.download_epub }}<li><a href="{{ . }}" download><b>EPUB</b><span>for e-readers and phones</span></a></li>{{ end }}
+            {{- with $p.download_pdf }}<li><a href="{{ . }}"><b>Print PDF</b><span>set for paper</span></a></li>{{ end }}
+            {{- with $p.download_html }}<li><a href="{{ . }}"><b>One page</b><span>the whole book as one HTML file</span></a></li>{{ end }}
+            {{- with $p.download_source_pdf }}<li><a href="{{ . }}"><b>Original scan</b><span>the photographs, as a PDF</span></a></li>{{ end }}
+            {{- with $p.download_datasets }}<li><a href="{{ . }}"><b>Tables</b><span>all {{ $p.tables_count | default (len $p.tables_list) }}, as CSV, with a data package</span></a></li>{{ end }}
+            {{- with $p.download_md }}<li><a href="{{ . }}" download><b>Markdown</b><span>plain text</span></a></li>{{ end }}
+            {{- with $p.download_tei }}<li><a href="{{ . }}" download><b>TEI XML</b><span>the archival master</span></a></li>{{ end }}
+          </ul>
+          {{- else }}
+          <p class="state">EPUB, PDF and the other forms will come when this book is set again.{{ with $p.download_url }} Meanwhile, <a class="ln" href="{{ . }}">the files of this edition</a>.{{ end }}</p>
+          {{- end }}
+        </div>
+        <div>
+          <h3 class="ed-h">The record</h3>
+          <dl class="facts-list">
+            <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
+            {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
+            {{- with $p.footnotes_count }}<div><dt>Notes</dt><dd>{{ . }} {{ cond (eq (int .) 1) "footnote" "footnotes" }}, kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed</dd></div>{{ end }}
+            {{- with $archiveID }}<div><dt>Scan</dt><dd><a class="ln" href="https://archive.org/details/{{ . }}">{{ . }}</a>, Internet Archive</dd></div>{{ end }}
+            {{- with $p.collection_slug }}{{ with site.GetPage (printf "/collections/%s" .) }}<div><dt>Collection</dt><dd><a class="ln" href="{{ .RelPermalink }}">{{ .Title }}</a></dd></div>{{ end }}{{ end }}
+            <div><dt>Shelf</dt><dd><a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a></dd></div>
+            <div><dt>Licence</dt><dd><a class="ln" href="{{ site.Params.license_url }}" rel="license" title="{{ site.Params.license_title }}">{{ site.Params.license_name }}</a>: share and adapt this edition freely, crediting Akshara. The book itself is in the public domain.</dd></div>
+          </dl>
+        </div>
+      </div>
+      {{- with $p.editorial_note_markdown }}
+      {{- $note := . | replaceRE `(?m)^# .*\n+` "" }}
+      {{- $intro := index (split $note "\n## ") 0 }}
+      <div class="ed-note">
+        <h3 class="ed-h">A note on this edition</h3>
         <div class="note-intro prose">{{ $intro | markdownify }}</div>
         <details class="record"><summary>The full record of this edition</summary>
         <div class="prose">{{ strings.TrimPrefix $intro $note | replaceRE `(?m)^## ` "### " | markdownify }}</div></details>
-        {{- end }}
-        <dl class="facts-list">
-          <div><dt>Published</dt><dd>{{ with $imprint }}{{ . }}, {{ end }}{{ $b.year }}</dd></div>
-          {{- with and (not $isV1) $p.pages }}<div><dt>Pages</dt><dd>{{ . }} printed pages{{ with $p.reread_pages }}; {{ . }} read a second time against the scan{{ end }}</dd></div>{{ end }}
-          {{- with $p.footnotes_count }}<div><dt>Notes</dt><dd>{{ . }} {{ cond (eq (int .) 1) "footnote" "footnotes" }}, kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed</dd></div>{{ end }}
-          {{- with $archiveID }}<div><dt>Scan</dt><dd><a class="ln" href="https://archive.org/details/{{ . }}">{{ . }}</a>, Internet Archive</dd></div>{{ end }}
-          {{- with $p.collection_slug }}{{ with site.GetPage (printf "/collections/%s" .) }}<div><dt>Collection</dt><dd><a class="ln" href="{{ .RelPermalink }}">{{ .Title }}</a></dd></div>{{ end }}{{ end }}
-          <div><dt>Shelf</dt><dd><a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a></dd></div>
-          <div><dt>Licence</dt><dd>This edition is <a class="ln" href="{{ site.Params.license_url }}" rel="license" title="{{ site.Params.license_title }}">{{ site.Params.license_name }}</a>: share and adapt it freely, crediting Akshara. The book itself is in the public domain.</dd></div>
-        </dl>
       </div>
-      {{- if or $p.download_epub $p.download_pdf $p.download_html $p.download_source_pdf $p.download_datasets $p.download_md $p.download_tei }}
-      <ul class="forms" aria-label="Every form of this edition">
-        {{- with $p.download_epub }}<li><a href="{{ . }}" download><b>EPUB</b><span>for e-readers and phones</span></a></li>{{ end }}
-        {{- with $p.download_pdf }}<li><a href="{{ . }}"><b>Print PDF</b><span>set for paper</span></a></li>{{ end }}
-        {{- with $p.download_html }}<li><a href="{{ . }}"><b>One page</b><span>the whole book as one HTML file</span></a></li>{{ end }}
-        {{- with $p.download_source_pdf }}<li><a href="{{ . }}"><b>Original scan</b><span>the photographs, as a PDF</span></a></li>{{ end }}
-        {{- with $p.download_datasets }}<li><a href="{{ . }}"><b>Tables</b><span>all {{ $p.tables_count | default (len $p.tables_list) }}, as CSV, with a data package</span></a></li>{{ end }}
-        {{- with $p.download_md }}<li><a href="{{ . }}" download><b>Markdown</b><span>plain text</span></a></li>{{ end }}
-        {{- with $p.download_tei }}<li><a href="{{ . }}" download><b>TEI XML</b><span>the archival master</span></a></li>{{ end }}
-      </ul>
-      {{- else }}
-      <p class="state">EPUB, PDF and the other forms will come when this book is set again.</p>
       {{- end }}
     </div>
   </section>

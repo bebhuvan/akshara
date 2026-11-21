@@ -276,7 +276,8 @@ at the hyphen. Straight apostrophes from the records are set as ’.
 
 Each is a class in `plate.css`; the comment above it says what it is for.
 
-- **Header (`.hd`).** A masthead with one hairline beneath, slightly translucent paper, sticky. Wide:
+- **Header (`.hd`).** A masthead with one hairline beneath. It scrolls away with the page; only a chapter's
+  reading bar stays to hand (it hides going down and returns going up). Wide:
   Library, Plates, Authors · the mark · Journal, About, Search. Phone: the mark left; Library and Search
   right. The mark always prints its Kannada in the Surveys shelf's ink. No colour band. (D13)
 - **Footer (`.ft`).** A colophon, centred: the printer's device in neutral grey, ಅಕ್ಷರ Akshara, its gloss,
@@ -317,10 +318,11 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   on the cover, so the caption does not repeat them. The whole is one link; the title takes the shelf's ink
   on hover.
 - **Search results (`.hit`).** Grouped by book, in the order the books first appear: the book's cover small
-  at the left (its words hidden, only its picture and paper showing), its title in italic in its shelf's
-  ink, then each place in it where the words occur, set in from a fine rule in the shelf's ink: the chapter's
-  name, then an excerpt between ellipses with the found words washed in the shelf's paper (`mark`). Built
-  as text, never as HTML.
+  at the left (drawn from what the search index records: shelf, kind, plate), its title in italic in its
+  shelf's ink with author and year beneath, then each place where the words occur, set in from a fine rule in
+  the shelf's ink: the chapter's name, then an excerpt between ellipses, held to a reading width, the found
+  words marked with a soft band of the shelf's ink under their lower half (`mark`). Built as text, never as
+  HTML.
 - **A way further on (`.more`).** A link that stands alone after a list ("Every result, on the search
   page"): the shelf's ink, an arrow that moves 3px on hover, underlined only on hover.
 - **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up in
@@ -338,10 +340,19 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   the shelf's ink, the Begin reading block naming the first chapter, the downloads as one sentence, the
   description, and the book's measure as light figures on one hairline. On a phone the cover is small and
   centred and Begin reading comes before the description, so it is on the first screen.
-- **How it begins (`.opening`).** The book's own first sentence, large, light and italic in the shelf's ink,
-  with where it stands beneath. Printed capitals on the first words are set in lower case.
-- **Contents (`.toc`).** One row a chapter on hairlines, at least 48px tall: the number in lower-case roman
-  italic in the shelf's ink, the title, the printed page at the right in `--ink-3`.
+- **How it begins (`.opening`).** The book's own first sentence (from its first real chapter, forty-five words at
+  most) set as an epigraph: light italic in the text's ink, one large quotation mark hung in the margin in the
+  shelf's ink, the source beneath after a dash. Printed capitals on the first words are set in lower case.
+- **Contents (`.toc`).** As a printed contents page, held to a reading width: the preliminaries as quiet rows
+  first, then one row a chapter with its numeral in lower-case roman italic in the shelf's ink, each title led
+  by dots to the page it was printed on; the back matter quieter after. Every row at least 44px tall.
+- **Tables (`table.ledger`, `.ledger-table`).** Set as a printer's ledger: a 2px rule in the shelf's ink above,
+  1px below, faint rules between rows, figures in tabular lining numerals aligned right, headings in italic in
+  the shelf's ink. On a book's page the table sits on a panel of the shelf's paper, named by its page; its data
+  (as printed, tidy) is offered on one line beneath.
+- **This edition (`.edition`).** How far it has been checked, with the way to proofread; then two matching
+  columns, "Take it away" (every form) and "The record" (published, pages, scan, shelf, licence), each under a
+  small italic head on one hairline; then the editor's note with its full record folded.
 - **The reading bar (`.rd-bar`).** Replaces the masthead on a chapter: ಅ and the short title in italic
   (back to the book), then Contents, Aa, Focus. A 2px line in the shelf's ink fills beneath as the chapter
   is read. It slides away going down the page and returns on the first move up.
@@ -354,8 +365,9 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   ink: right-aligned in the left margin on a wide screen, above their paragraph on a phone.
 - **Folios (`.folio-trigger`).** The printed page numbers, small italic figures in `--ink-3` in the right
   margin (at the very edge on a phone), each opening the scan of that page; the shelf's ink on hover.
-- **Chapter end (`.chap-end`).** A 40px rule, "End of chapter I" in italic, then the way on (larger, first)
-  and the way back as two labelled links on hairlines, side by side on a wide screen; then the book.
+- **Chapter end (`.chap-end`).** A 40px rule, "End of chapter I" in italic, then the next chapter as one block
+  on the shelf's paper ("Turn to chapter II", its name large, an arrow that moves), then the other ways out on
+  one quiet centred line: the previous chapter, the book's contents, correcting a misreading.
 - **The panel (`.rpanel`) and the scan leaf (`.leaf`).** Slide in from the right. Settings are words, A's
   and small sheets of paper, never boxes; the chosen one is in full ink with a 2px rule in the shelf's ink.
 
