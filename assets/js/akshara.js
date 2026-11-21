@@ -72,5 +72,135 @@
     if (q) { input.value = q; render(); }
   }
 
+  /* settings kept on this device; storage may be unavailable (private windows), and the page works without it */
+  var store = {
+    get: function (k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { window.localStorage.setItem(k, v); } catch (e) { /* unavailable: nothing is kept */ } }
+  };
+
+  /* the reading room */
+  function reading() {
+    var read = $("#read");
+    if (!read) return;
+    var body = document.body, panel = $("#rpanel"), scrim = $("#rp-scrim");
+    $$("[data-needs-js]").forEach(function (el) { el.hidden = false; });
+    store.set("ak-last", location.pathname);
+
+    /* "[p. 12]" in the margin reads better as "12" */
+    $$(".folio-trigger").forEach(function (b) {
+      b.textContent = b.dataset.folio || b.textContent.replace(/^\[p\.\s*|\]$/g, "");
+      b.setAttribute("aria-expanded", "false");
+    });
+
+    var DEFAULTS = { lh: "normal", width: "medium", notes: "off", para: "spaced", align: "ragged", folios: "shown" };
+    function apply() {
+      Object.keys(DEFAULTS).forEach(function (k) { read.dataset[k] = store.get("ak-" + k) || DEFAULTS[k]; });
+      body.dataset.paper = store.get("ak-paper") || "day";
+      var sz = Math.max(0, Math.min(5, parseInt(store.get("ak-size") || "2", 10)));
+      read.style.setProperty("--rs", String(1 + (sz - 2) * 0.075));
+      $$("[data-sz]", panel).forEach(function (b) { b.setAttribute("aria-pressed", String(+b.dataset.sz === sz)); });
+      $$("[data-set]", panel).forEach(function (b) {
+        var now = b.dataset.set === "paper" ? body.dataset.paper : read.dataset[b.dataset.set];
+        b.setAttribute("aria-pressed", String(now === b.dataset.val));
+      });
+    }
+    function size(step) {
+      var sz = Math.max(0, Math.min(5, parseInt(store.get("ak-size") || "2", 10) + step));
+      store.set("ak-size", String(sz)); apply();
+    }
+    $$("[data-sz]", panel).forEach(function (b) { b.addEventListener("click", function () { store.set("ak-size", b.dataset.sz); apply(); }); });
+    $$("[data-set]", panel).forEach(function (b) { b.addEventListener("click", function () { store.set("ak-" + b.dataset.set, b.dataset.val); apply(); }); });
+    apply();
+
+    /* the panel */
+    var opener = null;
+    function tab(id) {
+      $$(".rp-tabs [data-tab]", panel).forEach(function (t) { t.setAttribute("aria-selected", String(t.dataset.tab === id)); });
+      $$(".rp-sec", panel).forEach(function (s) { s.hidden = s.id !== id; });
+    }
+    function openPanel(id, from) {
+      opener = from || document.activeElement;
+      tab(id);
+      panel.classList.add("open"); panel.setAttribute("aria-hidden", "false"); scrim.hidden = false;
+      $$("[data-open]").forEach(function (b) { b.setAttribute("aria-expanded", "true"); });
+      panel.focus();
+      var cur = $('#rtoc a[aria-current]', panel); if (id === "rp-contents" && cur) cur.scrollIntoView({ block: "center" });
+    }
+    function closePanel() {
+      if (!panel.classList.contains("open")) return;
+      panel.classList.remove("open"); panel.setAttribute("aria-hidden", "true"); scrim.hidden = true;
+      $$("[data-open]").forEach(function (b) { b.setAttribute("aria-expanded", "false"); });
+      if (opener) opener.focus({ preventScroll: true });
+    }
+    $$("[data-open]").forEach(function (b) {
+      b.addEventListener("click", function (e) { e.preventDefault(); openPanel(b.dataset.open, b); });
+    });
+    $$(".rp-tabs [data-tab]", panel).forEach(function (t) { t.addEventListener("click", function () { tab(t.dataset.tab); }); });
+    $("#rp-close").addEventListener("click", closePanel);
+    scrim.addEventListener("click", closePanel);
+
+    /* focus: nothing but the text */
+    var focusBtn = $("#rb-focus");
+    function focusMode(on) { body.classList.toggle("focus", on); focusBtn.setAttribute("aria-pressed", String(on)); }
+    focusBtn.addEventListener("click", function () { focusMode(!body.classList.contains("focus")); });
+
+    /* the scan leaf: a printed page number opens the camera's photograph of that page */
+    var leaf = $("#leaf"), leafImg = $("#leaf-img"), leafNo = $("#leaf-no"), leafFrom = null;
+    function closeLeaf() {
+      if (!leaf.classList.contains("open")) return;
+      leaf.classList.remove("open"); leaf.setAttribute("aria-hidden", "true"); body.classList.remove("leaf-open");
+      $$(".folio-trigger[aria-expanded='true']").forEach(function (b) { b.setAttribute("aria-expanded", "false"); });
+      if (leafFrom) leafFrom.focus({ preventScroll: true });
+    }
+    $$(".folio-trigger").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var src = b.dataset.scan;
+        if (!src || !/^https:\/\/archive\.org\//.test(src)) return;
+        if (b.getAttribute("aria-expanded") === "true") { closeLeaf(); return; }
+        $$(".folio-trigger[aria-expanded='true']").forEach(function (x) { x.setAttribute("aria-expanded", "false"); });
+        leafFrom = b;
+        var img = document.createElement("img");
+        img.src = src; img.alt = "Photograph of printed page " + (b.dataset.folio || "");
+        img.decoding = "async";
+        leafImg.replaceChildren(img);
+        leafNo.textContent = b.dataset.folio || "";
+        b.setAttribute("aria-expanded", "true");
+        leaf.classList.add("open"); leaf.setAttribute("aria-hidden", "false"); body.classList.add("leaf-open");
+        $("#leaf-close").focus({ preventScroll: true });
+      });
+    });
+    $("#leaf-close").addEventListener("click", closeLeaf);
+
+    /* keys */
+    document.addEventListener("keydown", function (e) {
+      if (e.target.closest("input, textarea, select") || e.metaKey || e.ctrlKey || e.altKey) return;
+      if (e.key === "Escape") { closePanel(); closeLeaf(); if (body.classList.contains("focus")) focusMode(false); }
+      else if (e.key === "m" || e.key === "M") { panel.classList.contains("open") ? closePanel() : openPanel("rp-settings"); }
+      else if (e.key === "f" || e.key === "F") focusMode(!body.classList.contains("focus"));
+      else if (e.key === "+" || e.key === "=") size(1);
+      else if (e.key === "-" || e.key === "−") size(-1);
+    });
+
+    /* how far through the chapter: a hairline under the bar */
+    var prog = $("#rb-prog"), text = $("#chapter-text"), ticking = false;
+    function progress() {
+      ticking = false;
+      var r = text.getBoundingClientRect(), span = r.height - window.innerHeight * 0.6;
+      var f = span > 0 ? Math.max(0, Math.min(1, -r.top / span)) : 1;
+      prog.style.setProperty("--p", f.toFixed(4));
+    }
+    window.addEventListener("scroll", function () { if (!ticking) { ticking = true; requestAnimationFrame(progress); } }, { passive: true });
+    progress();
+  }
+
+  /* the Reading Room link goes back to the last chapter read on this device */
+  function readingRoom() {
+    var last = store.get("ak-last");
+    if (!last || !/^\/books\/[a-z0-9-]+\/[a-z0-9\/-]+\/$/.test(last)) return;
+    $$('a[href="/reading-room/"]').forEach(function (a) { a.href = last; });
+  }
+
   library();
+  reading();
+  readingRoom();
 })();

@@ -1736,3 +1736,77 @@ body[data-paper="night"] .read .seg button[aria-pressed="true"] { background: co
 .bk-record .bk-prose { margin-top: 1rem; font-size: .9rem; }
 .ledger-wrap { overflow-x: auto; }
 .bk-plates figcaption { display: flex; flex-direction: column; }
+
+/* ---- the pipeline's chapter markup, set in the reading room's manner ----
+   Chapters come from the book compiler (akshara_new, render_hugo.py) with their own classes.
+   These rules give them the look the mock designed for its hand-set chapter. */
+.read #chapter-text .prose-unit + .prose-unit,
+.read #chapter-text .prose-unit + .verse-stanza,
+.read #chapter-text .verse-stanza + .prose-unit { margin-top: .9em; }
+.read[data-para="indented"] #chapter-text .prose-unit + .prose-unit { margin-top: 0; }
+.read[data-para="indented"] #chapter-text .prose-unit + .prose-unit .prose-p { text-indent: 1.6em; }
+.read #chapter-text .text-v1 p + p, .read .text-v1 p + p { margin-top: .9em; }
+.read #chapter-text .sc { font-style: normal; font-variant: small-caps; letter-spacing: .03em; text-transform: none; font-size: 1em; }
+.read #chapter-text .sec-h1 { margin: 3.2rem 0 .4rem; text-align: center; font-size: 1em; font-style: italic; color: var(--blue); clear: both; }
+.read #chapter-text .sec-h2 { margin: 0 0 1.6rem; text-align: center; font-size: 1.35em; line-height: 1.25; font-weight: 400; text-wrap: balance; }
+.read #chapter-text .sec-h3 { margin: 2.4rem 0 .9rem; font-size: 1.08em; font-style: italic; font-weight: 400; clear: both; }
+.read #chapter-text h2 + .prose-unit, .read #chapter-text h3 + .prose-unit, .read #chapter-text h4 + .prose-unit { margin-top: 0; }
+/* page numbers: faint figures in the outer margin, each opening the photograph of its page */
+.read #chapter-text .page-rail-marker { height: 0; }
+.read #chapter-text .folio-trigger { position: absolute; right: -4.6rem; width: 3.4rem; text-align: right; background: none; border: 0; padding: 0; cursor: pointer;
+  font: inherit; font-size: .72rem; line-height: 2.2; color: var(--blue); opacity: .75; font-variant-numeric: tabular-nums; white-space: nowrap; text-indent: 0; }
+.read #chapter-text .folio-trigger:hover, .read #chapter-text .folio-trigger[aria-expanded="true"] { opacity: 1; text-decoration: underline; text-decoration-color: var(--blue-rule); }
+.read[data-folios="hidden"] #chapter-text .folio-trigger { display: none; }
+.read[data-notes="margin"] #chapter-text .folio-trigger { right: calc(-1 * (var(--note) + var(--gap))); width: var(--folio); }
+/* shoulder notes: hidden by default; in the margin when asked */
+.read #chapter-text .sidenote-stack { display: none; }
+.read[data-notes="margin"] #chapter-text .sidenote-stack { display: block; float: right; clear: right; width: calc(var(--note) - var(--folio));
+  margin-right: calc(-1 * (var(--note) + var(--gap)) + var(--folio)); font-size: .76rem; line-height: 1.4; color: var(--ink-2); padding-top: .22em; }
+.read #chapter-text .shoulder-sidenote { display: block; }
+.read #chapter-text .shoulder-sidenote + .shoulder-sidenote { margin-top: .5em; }
+/* footnote marks and the notes at the end */
+.read #chapter-text sup.fn-ref { line-height: 0; }
+.read #chapter-text sup.fn-ref a { color: var(--blue); text-decoration: none; font-size: .8em; padding: 0 .1em; }
+.read #chapter-text .apparatus-zone { margin-top: 3.4rem; padding-top: .9rem; font-size: .82rem; line-height: 1.5; position: relative; clear: both; }
+.read #chapter-text .apparatus-zone::before { content: ""; position: absolute; top: 0; left: 0; width: 7.5em; border-top: .5px solid var(--blue-rule); }
+.read #chapter-text .apparatus-heading { font-size: .95rem; font-style: italic; color: var(--ink-2); margin: 0 0 .7rem; font-weight: 400; }
+.read #chapter-text .apparatus-list { list-style: none; margin: 0; padding: 0; }
+.read #chapter-text .apparatus-item { padding-left: 1.8em; text-indent: -1.8em; margin-bottom: .45em; }
+.read #chapter-text .fn-backlink { display: inline-block; width: 1.8em; text-indent: 0; color: var(--blue); text-decoration: none; }
+.read #chapter-text .apparatus-item:target { background: color-mix(in srgb, var(--cloth, #5466A0) 10%, transparent); }
+/* tables: the data line goes beneath the table */
+.read #chapter-text .ledger-table-block { display: flex; flex-direction: column; margin: 1.6rem 0 1.8rem; clear: both; }
+.read #chapter-text .table-toolbar { order: 2; display: flex; flex-wrap: wrap; gap: .2rem 1.3rem; margin-top: .7rem; font-size: .8rem; color: var(--ink-2); }
+.read #chapter-text .table-id-badge { font-style: italic; }
+.read #chapter-text .table-csv-links a { color: var(--blue); text-decoration: none; }
+.read #chapter-text .table-csv-links a::after { content: "\00A0\2193"; }
+.read #chapter-text .ledger-table-wrap { overflow-x: auto; }
+.read #chapter-text .ledger-table { border-collapse: collapse; font-variant-numeric: lining-nums tabular-nums; border-top: .5px solid var(--blue); border-bottom: .5px solid var(--blue);
+  font-size: .86em; line-height: 1.35; min-width: 60%; }
+.read #chapter-text .ledger-table th, .read #chapter-text .ledger-table td { padding: .25em .9em .25em 0; vertical-align: baseline; text-align: left; font-weight: 400; }
+.read #chapter-text .ledger-table th { color: var(--blue); border-bottom: .5px solid var(--blue-rule); }
+.read #chapter-text .ledger-table td.num { text-align: right; }
+.read #chapter-text .ledger-table tr.row-total td, .read #chapter-text .ledger-table tr.row-subtotal td { border-top: .5px solid var(--ink-2); font-style: italic; }
+.read #chapter-text .ledger-table tr.row-subheader td { font-style: italic; color: var(--ink-2); padding-top: .6em; }
+/* plates, verse, uncertain readings, indexes and printed contents */
+.read #chapter-text .archival-plate { margin: 2.2rem 0 2.4rem; clear: both; }
+.read #chapter-text .archival-plate img { width: 100%; mix-blend-mode: multiply; filter: brightness(1.08) contrast(1.12); }
+body[data-paper="night"] .read #chapter-text .archival-plate img { mix-blend-mode: screen; filter: brightness(1.08) contrast(1.12) invert(1) brightness(.8); }
+.read #chapter-text .archival-plate figcaption { margin-top: 1rem; padding-top: .7rem; border-top: .5px solid var(--hair); font-size: .8rem; color: var(--ink-2); font-style: italic; }
+.read #chapter-text .verse-stanza { margin: 1.2rem 0 1.4rem 2.2em; font-style: normal; line-height: 1.55; }
+.read #chapter-text .unclear { text-decoration: underline dotted var(--blue-rule); text-underline-offset: .22em; cursor: help; }
+.read #chapter-text .index-entry { padding-left: 1.6em; text-indent: -1.6em !important; margin: 0 !important; font-size: .92em; line-height: 1.45; }
+.read #chapter-text .index-folio-link { text-decoration: none; }
+.read #chapter-text .printed-toc-line { margin: .15em 0 !important; font-size: .95em; }
+.read #chapter-text .imprint-line { text-align: center !important; margin: .4em 0 !important; }
+.read #chapter-text .editorial-list { padding-left: 1.4em; font-size: .95em; }
+.read #chapter-text blockquote { margin: 1.1rem 0 1.1rem 1.6em; }
+.read #chapter-text img { max-width: 100%; height: auto; }
+/* the scan leaf: the camera's photograph */
+.leaf .leaf-img { flex: 1; overflow: auto; border: .5px solid var(--hair); background: #F2EEE6; }
+.leaf .leaf-img img { width: 100%; height: auto; display: block; }
+.chap-proof { margin-top: 2.4rem; font-size: .86rem; font-style: italic; color: var(--ink-2); }
+.rb-title a { color: inherit; text-decoration: none; }
+@media (max-width: 760px) {
+  .read #chapter-text .folio-trigger { right: calc(-1 * var(--side) + 2px); width: auto; font-size: .62rem; opacity: .55; }
+}
