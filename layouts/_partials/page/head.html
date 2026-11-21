@@ -34,6 +34,7 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preload" href="/fonts/newsreader-normal-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/newsreader-italic-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
-{{- $css := resources.Get "css/plate.css" | minify | fingerprint }}
+{{- $shelves := resources.Get "css/shelves.css" | resources.ExecuteAsTemplate "css/shelves.css" . }}
+{{- $css := slice (resources.Get "css/plate.css") $shelves | resources.Concat "css/plate.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{- with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" title="Akshara" href="{{ .RelPermalink }}">{{ end }}

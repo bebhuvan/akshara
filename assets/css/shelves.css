@@ -1,0 +1,6 @@
+{{- /* The shelves' colours, written by the build from data/shelves.toml (the one place they live) and joined to
+plate.css. Each shelf's class sets --g (its paper) and --k (its ink), light and dark. */ -}}
+{{ range hugo.Data.shelves.shelf -}}
+.{{ .code }} { --g: {{ .paper }}; --k: {{ .ink }}; }
+html[data-theme="dark"] .{{ .code }} { --g: {{ .paper_dark }}; --k: {{ .ink_dark }}; }
+{{ end -}}

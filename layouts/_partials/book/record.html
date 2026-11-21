@@ -33,6 +33,7 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
 {{- $shelfNo := 7 -}}
 {{- range $i, $s := hugo.Data.shelves.shelf -}}{{- if eq $s.key $p.Params.archetype -}}{{- $shelf = $s -}}{{- $shelfNo = $i -}}{{- end -}}{{- end -}}
 {{- if not $shelf -}}{{- errorf "Book %s has archetype %q, which is not one of the eight shelves in data/shelves.toml" $id $p.Params.archetype -}}{{- end -}}
+{{- if not (and $shelf.code $shelf.paper $shelf.ink $shelf.paper_dark $shelf.ink_dark) -}}{{- errorf "Shelf %q in data/shelves.toml needs code, paper, ink, paper_dark and ink_dark" $shelf.name -}}{{- end -}}
 
 {{- $no := index hugo.Data.series $id -}}
 {{- if not $no -}}{{- errorf "Book %s has no series number. Add the next number to data/series.toml" $id -}}{{- end -}}
@@ -69,6 +70,6 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
   "page" $p "id" $id "url" $p.RelPermalink
   "title" $title "cover_title" $cover "subtitle" ($p.Params.subtitle | default "")
   "author" $author "sort_name" $sort "year" $year "pages" $pages
-  "no" $no "shelf" $shelf "shelf_no" $shelfNo "cloth" $shelf.cloth "code" $shelf.code "cover" $coverData
+  "no" $no "shelf" $shelf "shelf_no" $shelfNo "code" $shelf.code "cover" $coverData
   "tier" $tier "tier_name" $tierName
 -}}

@@ -51,7 +51,7 @@
         var thumb = document.createElement("a");
         thumb.className = "hit-cover"; thumb.href = "/books/" + g.id + "/"; thumb.tabIndex = -1; thumb.setAttribute("aria-hidden", "true");
         thumb.appendChild(cover.cloneNode(true));
-        li.className = "hit " + (cover.className.match(/\b(su|ma|le|co|cl|vi|ec|cu)\b/) || [""])[0];
+        if (!/^[a-z]{2}$/.test(g.shelf) && /^[a-z]{2}$/.test(cover.dataset.shelf || "")) li.className = "hit " + cover.dataset.shelf;
         li.appendChild(thumb);
       }
       var body = document.createElement("div"); body.className = "hit-body";
@@ -407,8 +407,18 @@
     /* only the next plate is fetched, a little before it is needed, so the opening page stays light */
     function fetchNext() { var im = new Image(); im.src = plates[(i + 1) % plates.length].src; }
     setTimeout(fetchNext, 3000);
+    /* the reader can stop it (WCAG 2.2.2): Pause holds the plate that is showing */
+    var paused = false, pause = $("[data-turn-pause]", stage);
+    if (pause) {
+      pause.hidden = false;
+      pause.addEventListener("click", function () {
+        paused = !paused;
+        pause.setAttribute("aria-pressed", String(paused));
+        pause.textContent = paused ? "Play" : "Pause";
+      });
+    }
     setInterval(function () {
-      if (document.hidden) return;
+      if (document.hidden || paused) return;
       i = (i + 1) % plates.length; var p = plates[i];
       if (!/^\/plates\/[a-z0-9_-]+\.webp$/.test(p.src) || !/^[a-z]{2}$/.test(p.code)) return;
       setTimeout(fetchNext, 2500);

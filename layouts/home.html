@@ -26,7 +26,7 @@ from data attributes (no inline script, D4). */ -}}
       <i class="plate" style="--src:url({{ $t0.src }})" role="img" aria-label="{{ $t0.alt }}"></i>
       <i class="plate off" aria-hidden="true"></i>
     </div>
-    <figcaption class="wrap"><span><i data-cap="t">{{ $first.title }}</i><span class="cap-s" data-cap="s">{{ $first.line | markdownify }}</span></span><span class="n" data-cap="n">1 of {{ len $turn }}</span></figcaption>
+    <figcaption class="wrap"><span><i data-cap="t">{{ $first.title }}</i><span class="cap-s" data-cap="s">{{ $first.line | markdownify }}</span></span><span class="n"><span data-cap="n">1 of {{ len $turn }}</span><button type="button" class="turn-pause" data-turn-pause aria-pressed="false" hidden>Pause</button></span></figcaption>
   </figure>
   <div class="side wrap {{ $begin.code }}">
     <p class="intro">Travellers’ roads and the Company’s ledgers, famine commissions and village life, Vedic hymns and letters to a friend. Long out of print, now set to be read, and free to all.</p>
@@ -38,18 +38,19 @@ from data attributes (no inline script, D4). */ -}}
   </div>
 </div>
 
-{{- /* New on the shelves: the books added most recently, at most one from each shelf so the row shows the
-range of the library, newest series numbers first. */ -}}
-{{- $dates := slice -}}{{- range $books -}}{{- $dates = $dates | append (.page.Date.Format "2006-01-02") -}}{{- end -}}
-{{- $latest := index (sort (uniq $dates) "value" "desc") 0 -}}
+{{- /* New on the shelves: the books added most recently (by date added, then series number), at most one from
+each shelf so the row shows the range of the library, those with a picture of their own first. */ -}}
+{{- $order := slice -}}
+{{- range $books -}}{{- $order = $order | append (dict "k" (printf "%s-%05d" (.page.Date.Format "2006-01-02") .no) "b" .) -}}{{- end -}}
+{{- $order = sort $order "k" "desc" -}}
 {{- $new := slice -}}{{- $seen := slice -}}
 {{- /* books with a picture of their own first, then type-only ones if the row is still short */ -}}
 {{- range $pass := slice true false -}}
-  {{- range sort $books "no" "desc" -}}
-    {{- if and (eq (.page.Date.Format "2006-01-02") $latest) (eq (ne .cover.kind "type") $pass) (not (in $seen .code)) (lt (len $new) 4) -}}
+  {{- range $order -}}{{- with .b -}}
+    {{- if and (eq (ne .cover.kind "type") $pass) (not (in $seen .code)) (lt (len $new) 4) -}}
       {{- $new = $new | append . -}}{{- $seen = $seen | append .code -}}
     {{- end -}}
-  {{- end -}}
+  {{- end -}}{{- end -}}
 {{- end }}
 <section class="sec wrap" aria-labelledby="h-new">
   <div class="sec-h"><h2 id="h-new">New on the shelves</h2><a href="/books/">The library</a></div>

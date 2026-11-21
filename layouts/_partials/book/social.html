@@ -4,8 +4,7 @@ series line, the title and the author. Type-only books set the title larger unde
 record; returns the image resource. Fonts: assets/fonts/og-*.ttf (Newsreader instances, OFL), used only here. */ -}}
 {{- $b := . -}}
 {{- $px := resources.Get "img/px.png" -}}
-{{- $g := index (dict "su" "#E6EAE0" "ma" "#E0E9EE" "le" "#F0E4E6" "co" "#EFE5DF" "cl" "#E3E5EF" "vi" "#E1EBE6" "ec" "#EBE5EE" "cu" "#E4E7EB") $b.code -}}
-{{- $k := index (dict "su" "#4C5936" "ma" "#2C5A6E" "le" "#774353" "co" "#774735" "cl" "#424F88" "vi" "#395F50" "ec" "#5B456E" "cu" "#465264") $b.code -}}
+{{- $g := $b.shelf.paper -}}{{- $k := $b.shelf.ink -}}
 {{- $light := resources.Get "fonts/og-newsreader-light.ttf" -}}
 {{- $italic := resources.Get "fonts/og-newsreader-italic.ttf" -}}
 {{- $regular := resources.Get "fonts/og-newsreader-regular.ttf" -}}

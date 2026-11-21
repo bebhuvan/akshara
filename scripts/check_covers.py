@@ -2,11 +2,14 @@
 
 The rule that is never broken: a cover's picture comes from that same book. Each plate's book is
 recorded where the plate was made (data/plates.toml for the earlier ones, data/plate_sources.toml for
-the rest); a cover may only use a plate recorded for its own book. Also: every book has a cover, every
-cover belongs to a book, the kind is known, a picture's file exists, and a type-only cover says why.
+the rest); a cover may only use a plate recorded for its own book. That record is itself checked: a
+plate made from static/figures/<id>/ must name book <id>, one made from an archive.org scan must name the
+book whose archive_id that scan is, and a plate recorded twice must name the same book both times.
+Also: every book has a cover, every cover belongs to a book, the kind is known, a picture's file exists, and a type-only cover says why.
 
 Usage: python3 scripts/check_covers.py [repo root]
 """
+import re
 import sys
 import tomllib
 from pathlib import Path
@@ -23,6 +26,37 @@ def plate_books(plates: dict, sources: dict) -> dict[str, str]:
     for p in sources.get("plate", []):
         out[p["key"]] = p["book"]
     return out
+
+
+def provenance_problems(plates: dict, sources: dict, archive_ids: dict[str, str]) -> list[str]:
+    """Each plate's recorded book, checked against where the plate was actually made."""
+    out, seen = [], {}
+    records = [(p["key"], p["book"], None) for g in plates.get("group", []) for p in g.get("plate", [])]
+    records += [(p["key"], p["book"], p.get("source")) for p in sources.get("plate", [])]
+    for key, book, source in records:
+        if key in seen and seen[key] != book:
+            out.append(f"plate {key} is recorded for {seen[key]} and for {book}")
+        seen.setdefault(key, book)
+        if not source:
+            continue
+        m = re.match(r"static/figures/([^/]+)/", source)
+        if m and m.group(1) != book:
+            out.append(f"plate {key} is made from {m.group(1)}'s figures but recorded for {book}")
+        m = re.match(r"https://archive\.org/download/([^/]+)/", source)
+        if m and archive_ids.get(book) != m.group(1):
+            out.append(f"plate {key} is made from the scan {m.group(1)}, which is not {book}'s scan")
+        if not re.match(r"(static/figures/[^/]+/|https://archive\.org/download/[^/]+/)", source):
+            out.append(f"plate {key}: source {source!r} is neither a figure of a book nor an archive.org scan")
+    return out
+
+
+def archive_id(index_md: str) -> str:
+    """A book's Internet Archive identifier, from its front matter (archive_id, or archive_url)."""
+    m = re.search(r'^archive_id:\s*"?([^"\s]+)"?\s*$', index_md, re.M)
+    if m:
+        return m.group(1)
+    m = re.search(r'^archive_url:\s*"?https?://archive\.org/details/([^"/?#\s]+)', index_md, re.M)
+    return m.group(1) if m else ""
 
 
 def problems(covers: dict, books: set[str], provenance: dict[str, str], files: set[str]) -> list[str]:
@@ -63,9 +97,11 @@ def main(root: Path) -> int:
 
     covers = toml("data/covers.toml")
     books = {p.name for p in (root / "content" / "books").iterdir() if p.is_dir()}
-    provenance = plate_books(toml("data/plates.toml"), toml("data/plate_sources.toml"))
+    plates, sources = toml("data/plates.toml"), toml("data/plate_sources.toml")
+    provenance = plate_books(plates, sources)
     files = {p.stem for p in (root / "static" / "plates").glob("*.webp")}
-    found = problems(covers, books, provenance, files)
+    ids = {b: archive_id((root / "content" / "books" / b / "_index.md").read_text(encoding="utf-8")) for b in books}
+    found = provenance_problems(plates, sources, ids) + problems(covers, books, provenance, files)
     for line in found:
         print(line)
     pictured = sum(1 for c in covers.values() if c.get("kind") != "type")

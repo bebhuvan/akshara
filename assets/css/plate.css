@@ -72,15 +72,8 @@
   --sec: 72px;
   --sec-end: 112px;
 }
-/* The eight shelves: each shelf's cloth, washed pale for its paper (--g) and deepened for its ink (--k). */
-.su { --g: #E6EAE0; --k: #4C5936; }
-.ma { --g: #E0E9EE; --k: #2C5A6E; }
-.le { --g: #F0E4E6; --k: #774353; }
-.co { --g: #EFE5DF; --k: #774735; }
-.cl { --g: #E3E5EF; --k: #424F88; }
-.vi { --g: #E1EBE6; --k: #395F50; }
-.ec { --g: #EBE5EE; --k: #5B456E; }
-.cu { --g: #E4E7EB; --k: #465264; }
+/* The shelves' classes (.su .ma .le .co .cl .vi .ec .cu), each setting --g and --k light and dark, are
+   written by the build from data/shelves.toml into assets/css/shelves.css and joined after this file. */
 
 /* ---------- Base ---------- */
 * { box-sizing: border-box; }
@@ -218,7 +211,9 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 .stage figcaption { display: flex; justify-content: space-between; align-items: end; gap: 16px; padding-bottom: 14px;
   font-size: var(--fs-caption); line-height: 1.35; color: var(--k); transition: color 1.4s ease; }
 .stage figcaption i { display: block; font-size: var(--fs-aside); color: var(--ink); }
-.stage .n { white-space: nowrap; }
+.stage .n { white-space: nowrap; display: flex; align-items: baseline; gap: 14px; }
+.turn-pause { min-height: 44px; margin: -14px 0; font-style: italic; color: var(--k); }
+.turn-pause:hover { text-decoration: underline; text-underline-offset: 3px; }
 .stage .cap-s i, .stage .cap-s em { display: inline; font-size: inherit; color: inherit; }
 .begin { display: grid; gap: 14px; justify-items: start; }
 .intro { margin: 20px 0 18px; font-size: var(--fs-body); line-height: 1.5; color: var(--ink-2); max-width: 32em; }
@@ -238,7 +233,7 @@ a:hover > .cover, a:focus-visible > .cover, .book:hover .cover, .book:focus-visi
 /* The book's own first words carry the section: set large and light, before any description of it. */
 .feat-body > figure { margin: 26px 0 0; }
 .feat blockquote { font-size: var(--fs-quote); line-height: 1.32; font-weight: 300; font-style: italic; color: var(--k); max-width: 24em; text-wrap: pretty; }
-.feat-body > figure figcaption { margin-top: 10px; font-size: var(--fs-note); color: var(--ink-3); }
+.feat-body > figure figcaption { margin-top: 10px; font-size: var(--fs-note); color: var(--ink-2); }
 .feat-links { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 24px; margin-top: 26px; }
 .feat-links .q { font-size: var(--fs-ui); color: var(--ink-2); border-bottom: 1px solid var(--hair); padding: 10px 0 2px; }
 .feat-links .q:hover { color: var(--ink); border-bottom-color: var(--ink-2); }
@@ -461,7 +456,7 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .band { background: var(--g); padding-bottom: 34px; }
 .band .pg-h .up, .band .pg-h h1 { color: var(--k); }
 .epi { margin-top: 18px; max-width: 34em; font-size: var(--fs-lede); line-height: 1.5; font-style: italic; color: var(--ink-2); }
-.epi footer { margin-top: 6px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-3); }
+.epi footer { margin-top: 6px; font-size: var(--fs-caption); font-style: normal; color: var(--ink-2); }
 /* A grid of covers on a page of its own: two to a row on a phone, six on a wide screen. */
 .shelf.grid { margin-bottom: 8px; }
 .plates-grid .tile { aspect-ratio: 1; }
@@ -695,7 +690,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .read[data-notes="off"] #chapter-text .sidenote-stack { display: none; }
 /* Page numbers: the printed folios, faint, each opening the camera's photograph of that page. */
 #chapter-text .page-rail-marker { height: 0; position: relative; }
-#chapter-text .folio-trigger { position: absolute; right: calc(-1 * var(--gut-r) + 5px); padding: 0; margin-top: .45em; font: italic 11px/1 var(--serif); color: var(--ink-3);
+#chapter-text .folio-trigger { position: absolute; right: calc(-1 * var(--gut-r) + 5px); padding: 12px 6px 12px 12px; margin: calc(.45em - 12px) -6px 0 0; min-width: 26px; text-align: right; font: italic 11px/1 var(--serif); color: var(--ink-3);
   font-variant-numeric: lining-nums tabular-nums; white-space: nowrap; text-indent: 0; letter-spacing: 0; cursor: pointer; }
 #chapter-text .folio-trigger:hover, #chapter-text .folio-trigger[aria-expanded="true"] { color: var(--k); text-decoration: underline; text-underline-offset: 3px; }
 .read[data-folios="hidden"] #chapter-text .folio-trigger { display: none; }
@@ -831,7 +826,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
     padding-left: 0; padding-right: 0; margin-left: max(calc(var(--gut) + var(--note-w) + var(--note-gap)), calc((100vw - var(--measure)) / 2)); margin-right: auto; }
   .read[data-notes="off"] .text, .read[data-notes="off"] .chap-end { margin-left: max(var(--gut), calc((100vw - var(--measure)) / 2)); max-width: min(var(--measure), calc(100vw - var(--gut) - var(--gut-r) - 4.5em)); }
   #chapter-text .sidenote-stack { position: absolute; left: calc(-1 * (var(--note-w) + var(--note-gap))); width: var(--note-w); margin: .35em 0 0; text-align: right; }
-  #chapter-text .folio-trigger { right: -4.4em; font-size: 12.5px; margin-top: .55em; }
+  #chapter-text .folio-trigger { right: -4.4em; font-size: 12.5px; margin-top: calc(.55em - 12px); }
   .chap-nav { grid-template-columns: 1fr 1fr; gap: 32px; border-top: 0; }
   .chap-nav a { border-top: 1px solid var(--hair); border-bottom: 0; }
   .chap-nav .on { order: 2; text-align: right; }
@@ -846,14 +841,6 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 html[data-paper="cotton"][data-theme="light"] { --paper: #F5F1E8; --well: #ECE7DC; --well-edge: #E2DCCF; }
 html[data-theme="dark"] { color-scheme: dark; --paper: #17181A; --ink: #E6E2DA; --ink-2: #ABA69C; --ink-3: #8E897F; --hair: #2E2F31;
   --well: #222326; --well-edge: #2E2F31; --on-k: #17181A; --shadow: 0, 0, 0; --g: #26272A; --k: #C9C4BA; --ft-ink: #8A867E; }
-html[data-theme="dark"] .su { --g: #282D23; --k: #B8C79E; }
-html[data-theme="dark"] .ma { --g: #1E2D35; --k: #8EC1D7; }
-html[data-theme="dark"] .le { --g: #36262C; --k: #CA9BA9; }
-html[data-theme="dark"] .co { --g: #362723; --k: #D3A492; }
-html[data-theme="dark"] .cl { --g: #252A3D; --k: #95A0D0; }
-html[data-theme="dark"] .vi { --g: #222F2B; --k: #9DC8B7; }
-html[data-theme="dark"] .ec { --g: #2D2635; --k: #B49FC6; }
-html[data-theme="dark"] .cu { --g: #262B32; --k: #A4B0C1; }
 /* photographs of pages keep their paper but are dimmed a little; the book's own figures are printed light on dark */
 html[data-theme="dark"] .made-scan img, html[data-theme="dark"] .jl-art img, html[data-theme="dark"] .leaf .leaf-img img { filter: brightness(.82) contrast(1.05); }
 html[data-theme="dark"] #chapter-text .archival-plate img { mix-blend-mode: screen; filter: invert(1) brightness(.85) contrast(1.1); }

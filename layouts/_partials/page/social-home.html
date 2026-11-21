@@ -1,7 +1,7 @@
 {{- /* The site's own social preview, 1200×630, made at build time like the books' (book/social.html): the
 opening's headline beside the chakram of Chowgaut in the Surveys shelf's ink. Returns the image resource. */ -}}
 {{- $px := resources.Get "img/px.png" -}}
-{{- $g := "#E6EAE0" -}}{{- $k := "#4C5936" -}}
+{{- $su := index (where hugo.Data.shelves.shelf "code" "su") 0 -}}{{- $g := $su.paper -}}{{- $k := $su.ink -}}
 {{- $light := resources.Get "fonts/og-newsreader-light.ttf" -}}
 {{- $italic := resources.Get "fonts/og-newsreader-italic.ttf" -}}
 {{- $plate := (resources.Get "plates/j2-chakram.webp").Fit "560x560 jpg #ffffff q95" -}}

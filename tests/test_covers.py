@@ -57,6 +57,31 @@ class Covers(unittest.TestCase):
         self.assertIn("data/covers.toml has a cover for gone, which is not a book",
                       check_covers.problems(covers, BOOKS, PROVENANCE, FILES))
 
+    def test_a_plate_from_another_books_figures_is_refused(self):
+        sources = {"plate": [{"key": "x", "book": "vol-1", "source": "static/figures/vol-2/fig-001_p0006.webp"}]}
+        self.assertEqual(check_covers.provenance_problems({}, sources, {}),
+                         ["plate x is made from vol-2's figures but recorded for vol-1"])
+
+    def test_a_plate_from_another_books_scan_is_refused(self):
+        sources = {"plate": [{"key": "x", "book": "vol-1", "source": "https://archive.org/download/vol2scan/page/n6_w1400.jpg"}]}
+        self.assertEqual(check_covers.provenance_problems({}, sources, {"vol-1": "vol1scan"}),
+                         ["plate x is made from the scan vol2scan, which is not vol-1's scan"])
+        self.assertEqual(check_covers.provenance_problems({}, sources, {"vol-1": "vol2scan"}), [])
+
+    def test_a_plate_recorded_twice_for_two_books_is_refused(self):
+        plates = {"group": [{"plate": [{"key": "x", "book": "vol-1"}]}]}
+        sources = {"plate": [{"key": "x", "book": "vol-2"}]}
+        self.assertEqual(check_covers.provenance_problems(plates, sources, {}), ["plate x is recorded for vol-1 and for vol-2"])
+
+    def test_a_source_from_anywhere_else_is_refused(self):
+        sources = {"plate": [{"key": "x", "book": "b", "source": "https://example.com/p.jpg"}]}
+        self.assertTrue(check_covers.provenance_problems({}, sources, {}))
+
+    def test_archive_id_is_read_from_front_matter(self):
+        self.assertEqual(check_covers.archive_id('title: "T"\narchive_id: "abc01"\n'), "abc01")
+        self.assertEqual(check_covers.archive_id('archive_url: "https://archive.org/details/xyz02"\n'), "xyz02")
+        self.assertEqual(check_covers.archive_id('title: "T"\n'), "")
+
     def test_provenance_merges_both_records(self):
         plates = {"group": [{"plate": [{"key": "a", "book": "b1"}]}]}
         sources = {"plate": [{"key": "c", "book": "b2"}]}
