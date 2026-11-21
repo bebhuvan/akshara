@@ -421,14 +421,14 @@ mark { background: none; color: var(--ink); text-decoration: underline; text-dec
 .pl-group { margin-top: 56px; }
 .pl-group .sec-h h2 { font-size: var(--fs-h3); }
 .authors { columns: 1; }
-.au { break-inside: avoid; padding: 14px 0 16px; border-bottom: 1px solid var(--hair); }
-.au h2 { font-size: var(--fs-h3); line-height: 1.25; }
-.au h2 a:hover { color: var(--k); }
-.au h2 span { font-size: var(--fs-note); font-style: italic; color: var(--ink-3); white-space: nowrap; }
-.au ul { list-style: none; padding: 0; margin-top: 4px; }
-.au li { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
-.au li a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
-.au li a:hover { border-bottom-color: var(--ink); }
+.auth { break-inside: avoid; padding: 14px 0 16px; border-bottom: 1px solid var(--hair); }
+.auth h2 { font-size: var(--fs-h3); line-height: 1.25; }
+.auth h2 a:hover { color: var(--k); }
+.auth h2 span { font-size: var(--fs-note); font-style: italic; color: var(--ink-3); white-space: nowrap; }
+.auth ul { list-style: none; padding: 0; margin-top: 4px; }
+.auth li { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
+.auth li a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
+.auth li a:hover { border-bottom-color: var(--ink); }
 .colls a, .essays a { display: grid; gap: 3px; }
 .colls b, .essays b { font-weight: 400; font-size: var(--fs-h4); line-height: 1.25; }
 .colls span, .essays span { font-size: var(--fs-aside); line-height: 1.45; color: var(--ink-2); }
@@ -476,3 +476,10 @@ mark { background: none; color: var(--ink); text-decoration: underline; text-dec
   .band { padding-bottom: 48px; }
 }
 .jl-m .readon { font-style: normal; }
+/* the narrowest phones: the masthead tightens rather than scrolling sideways */
+@media (max-width: 359px) {
+  :root { --gut: max(16px, env(safe-area-inset-left, 0px)); --gut-r: max(16px, env(safe-area-inset-right, 0px)); --fs-mark: 18px; --fs-mark-kn: 17px; }
+  .hd-in { gap: 0 12px; }
+  .hd nav { gap: 12px; font-size: var(--fs-aside); }
+  .mark { gap: 7px; }
+}

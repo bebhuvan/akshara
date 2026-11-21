@@ -292,7 +292,7 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   with the found words underlined in the shelf's ink (`mark`). Built as text, never as HTML.
 - **Shelf band (`.band`).** A page that belongs to one shelf opens on the shelf's ground: the way up in
   italic, the name in the shelf's ink, its epigraph, its count.
-- **Lists of pages (`.rows`, `.au`).** One row per entry on hairlines; titles of books in italic with a
+- **Lists of pages (`.rows`, `.auth`).** One row per entry on hairlines; titles of books in italic with a
   hairline beneath in the shelf's ink.
 - **The book head, the chapter opener, marginal notes, folios, chapter end.** *(to be written with
   milestone 3)*

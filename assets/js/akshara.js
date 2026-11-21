@@ -53,6 +53,11 @@
             if (ok) n++;
           });
           row.hidden = n === 0;
+          var tally = $(".row-h span", row);
+          if (tally) {
+            if (!tally.dataset.all) tally.dataset.all = tally.textContent;
+            tally.textContent = searching ? cap(words(n)) + " of " + tally.dataset.all.toLowerCase() : tally.dataset.all;
+          }
           shown += n;
         });
       });

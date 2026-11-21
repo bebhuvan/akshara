@@ -9,7 +9,7 @@
   {{- range sort $rows "key" }}{{ with .page }}
     {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
     {{- $theirs := where $books "page.Params.author_slug" $slug }}
-    <section class="au">
+    <section class="auth">
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if or .Params.birth_year .Params.death_year }} <span>{{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}</span>{{ end }}</h2>
       {{- with $theirs }}<ul>{{ range . }}<li class="{{ .code }}"><a href="{{ .url }}"><i>{{ .cover_title }}</i></a>, {{ .year }}</li>{{ end }}</ul>{{ end }}
     </section>
