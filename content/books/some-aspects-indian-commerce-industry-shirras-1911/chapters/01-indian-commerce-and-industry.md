@@ -14,8 +14,8 @@ book_id: "some-aspects-indian-commerce-industry-shirras-1911"
 archive_id: "someaspectsofind00shiruoft"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/some-aspects-indian-commerce-industry-shirras-1911/1"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/some-aspects-indian-commerce-industry-shirras-1911/1"
 next: "/books/some-aspects-indian-commerce-industry-shirras-1911/chapters/02-some-aspects-of-indian-commerce-and-industry/"
 ---
 

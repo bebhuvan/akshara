@@ -14,8 +14,8 @@ book_id: "economic-history-india-victorian-age-dutt"
 archive_id: "indiainvictorian00duttuoft"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/economic-history-india-victorian-age-dutt/646"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/economic-history-india-victorian-age-dutt/646"
 prev: "/books/economic-history-india-victorian-age-dutt/chapters/43-chapter-xiv-india-in-the-twentieth-century/"
 ---
 

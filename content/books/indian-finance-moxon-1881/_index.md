@@ -77,8 +77,8 @@ download_tei: "/downloads/indian-finance-moxon-1881/indian-finance-moxon-1881.te
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-indian-finance-moxon-1881/indian-finance-moxon-1881.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-indian-finance-moxon-1881/indian-finance-moxon-1881.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/indian-finance-moxon-1881"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/indian-finance-moxon-1881"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/indian-finance-moxon-1881"
 has_datasets: true
 download_datasets: "/downloads/indian-finance-moxon-1881/datasets/datapackage.json"
 tables_list:

@@ -84,8 +84,8 @@ download_tei: "/downloads/speeches-and-writings-naoroji-1918/speeches-and-writin
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-speeches-and-writings-naoroji-1918/speeches-and-writings-naoroji-1918.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-speeches-and-writings-naoroji-1918/speeches-and-writings-naoroji-1918.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/speeches-and-writings-naoroji-1918"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/speeches-and-writings-naoroji-1918"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/speeches-and-writings-naoroji-1918"
 has_datasets: true
 download_datasets: "/downloads/speeches-and-writings-naoroji-1918/datasets/datapackage.json"
 tables_list:

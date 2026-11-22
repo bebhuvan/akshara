@@ -14,8 +14,8 @@ book_id: "english-factories-india-1634-1636-vol-05"
 archive_id: "englishfactories05fostuoft"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/english-factories-india-1634-1636-vol-05/1"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/english-factories-india-1634-1636-vol-05/1"
 next: "/books/english-factories-india-1634-1636-vol-05/chapters/02-preface/"
 ---
 

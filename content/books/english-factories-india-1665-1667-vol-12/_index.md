@@ -84,8 +84,8 @@ download_tei: "/downloads/english-factories-india-1665-1667-vol-12/english-facto
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-english-factories-india-1665-1667-vol-12/english-factories-india-1665-1667-vol-12.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-english-factories-india-1665-1667-vol-12/english-factories-india-1665-1667-vol-12.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/english-factories-india-1665-1667-vol-12"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/english-factories-india-1665-1667-vol-12"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/english-factories-india-1665-1667-vol-12"
 has_datasets: true
 download_datasets: "/downloads/english-factories-india-1665-1667-vol-12/datasets/datapackage.json"
 tables_list:

@@ -81,8 +81,8 @@ download_tei: "/downloads/early-history-of-india-1924/early-history-of-india-192
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-early-history-of-india-1924/early-history-of-india-1924.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-early-history-of-india-1924/early-history-of-india-1924.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/general-heritage/early-history-of-india-1924"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/early-history-of-india-1924"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/early-history-of-india-1924"
 has_datasets: true
 download_datasets: "/downloads/early-history-of-india-1924/datasets/datapackage.json"
 tables_list:

@@ -14,8 +14,8 @@ book_id: "east-india-exchange-currency-1920"
 archive_id: "pamphletsissuedb05grea"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/east-india-exchange-currency-1920/3"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/east-india-exchange-currency-1920/3"
 next: "/books/east-india-exchange-currency-1920/chapters/02-no-1-announcement-by-the-secretary-of-state-for-india-2nd-feb/"
 ---
 

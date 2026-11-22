@@ -77,8 +77,8 @@ download_tei: "/downloads/recent-economic-developments-punjab-wilson-1910/recent
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-recent-economic-developments-punjab-wilson-1910/recent-economic-developments-punjab-wilson-1910.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-recent-economic-developments-punjab-wilson-1910/recent-economic-developments-punjab-wilson-1910.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/recent-economic-developments-punjab-wilson-1910"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/recent-economic-developments-punjab-wilson-1910"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/recent-economic-developments-punjab-wilson-1910"
 has_datasets: true
 download_datasets: "/downloads/recent-economic-developments-punjab-wilson-1910/datasets/datapackage.json"
 tables_list:

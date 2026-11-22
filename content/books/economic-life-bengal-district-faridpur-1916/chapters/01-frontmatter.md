@@ -14,8 +14,8 @@ book_id: "economic-life-bengal-district-faridpur-1916"
 archive_id: "economiclifeofbe00jackuoft"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/economic-life-bengal-district-faridpur-1916/5"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/economic-life-bengal-district-faridpur-1916/5"
 next: "/books/economic-life-bengal-district-faridpur-1916/chapters/02-contents/"
 ---
 

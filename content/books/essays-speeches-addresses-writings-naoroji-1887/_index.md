@@ -85,8 +85,8 @@ download_tei: "/downloads/essays-speeches-addresses-writings-naoroji-1887/essays
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-essays-speeches-addresses-writings-naoroji-1887/essays-speeches-addresses-writings-naoroji-1887.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-essays-speeches-addresses-writings-naoroji-1887/essays-speeches-addresses-writings-naoroji-1887.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/essays-speeches-addresses-writings-naoroji-1887"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/essays-speeches-addresses-writings-naoroji-1887"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/essays-speeches-addresses-writings-naoroji-1887"
 has_datasets: true
 download_datasets: "/downloads/essays-speeches-addresses-writings-naoroji-1887/datasets/datapackage.json"
 tables_list:

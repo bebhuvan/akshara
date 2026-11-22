@@ -77,8 +77,8 @@ download_tei: "/downloads/history-and-economics-indian-famines-loveday-1914/hist
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-history-and-economics-indian-famines-loveday-1914/history-and-economics-indian-famines-loveday-1914.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-history-and-economics-indian-famines-loveday-1914/history-and-economics-indian-famines-loveday-1914.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/history-and-economics-indian-famines-loveday-1914"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/history-and-economics-indian-famines-loveday-1914"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/history-and-economics-indian-famines-loveday-1914"
 has_datasets: true
 download_datasets: "/downloads/history-and-economics-indian-famines-loveday-1914/datasets/datapackage.json"
 tables_list:

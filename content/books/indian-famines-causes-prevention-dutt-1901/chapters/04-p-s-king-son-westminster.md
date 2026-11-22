@@ -14,8 +14,8 @@ book_id: "indian-famines-causes-prevention-dutt-1901"
 archive_id: "indianfaminesthe00duttrich"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/indian-famines-causes-prevention-dutt-1901/22"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/indian-famines-causes-prevention-dutt-1901/22"
 prev: "/books/indian-famines-causes-prevention-dutt-1901/chapters/03-p-s-king-son/"
 ---
 

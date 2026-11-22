@@ -14,8 +14,8 @@ book_id: "palas-of-bengal"
 archive_id: "cu31924096224476"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/palas-of-bengal/121"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/palas-of-bengal/121"
 prev: "/books/palas-of-bengal/chapters/11-index/"
 ---
 

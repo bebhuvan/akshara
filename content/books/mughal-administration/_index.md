@@ -79,8 +79,8 @@ download_tei: "/downloads/mughal-administration/mughal-administration.tei.xml"
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-mughal-administration/mughal-administration.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-mughal-administration/mughal-administration.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/general-heritage/mughal-administration"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/mughal-administration"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/mughal-administration"
 has_datasets: false
 download_datasets: ""
 tables_list: []

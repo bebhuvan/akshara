@@ -75,8 +75,8 @@ download_tei: "/downloads/indian-famines-causes-prevention-dutt-1901/indian-fami
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-indian-famines-causes-prevention-dutt-1901/indian-famines-causes-prevention-dutt-1901.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-indian-famines-causes-prevention-dutt-1901/indian-famines-causes-prevention-dutt-1901.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/indian-famines-causes-prevention-dutt-1901"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/indian-famines-causes-prevention-dutt-1901"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/indian-famines-causes-prevention-dutt-1901"
 has_datasets: true
 download_datasets: "/downloads/indian-famines-causes-prevention-dutt-1901/datasets/datapackage.json"
 tables_list:

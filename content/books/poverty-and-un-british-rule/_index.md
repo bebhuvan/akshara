@@ -83,8 +83,8 @@ download_tei: "/downloads/poverty-and-un-british-rule/poverty-and-un-british-rul
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-poverty-and-un-british-rule/poverty-and-un-british-rule.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-poverty-and-un-british-rule/poverty-and-un-british-rule.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/poverty-and-un-british-rule"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/poverty-and-un-british-rule"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/poverty-and-un-british-rule"
 has_datasets: true
 download_datasets: "/downloads/poverty-and-un-british-rule/datasets/datapackage.json"
 tables_list:

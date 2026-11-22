@@ -14,8 +14,8 @@ book_id: "east-india-trade-17th-century-khan"
 archive_id: "eastindiatradein00khanuoft"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/east-india-trade-17th-century-khan/5"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/east-india-trade-17th-century-khan/5"
 next: "/books/east-india-trade-17th-century-khan/chapters/02-preface/"
 ---
 

@@ -50,7 +50,7 @@ disableKinds = ["taxonomy", "term"]
   description = "Making India’s forgotten books readable again: travels, Company records, famine reports, village life, Vedic hymns, speeches and letters, long out of print, set to be read and free to all."
   author = "Akshara"
   featured_book = "india-at-the-death-of-akbar"
-  proofing_url = "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
+  proofing_url = "https://proof.akshara.ink"
 
   # The licence of every Akshara edition (D26). The books themselves are in the public domain.
   license_name = "CC BY 4.0"

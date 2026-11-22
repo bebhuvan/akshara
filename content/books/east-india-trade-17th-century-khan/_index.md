@@ -83,8 +83,8 @@ download_tei: "/downloads/east-india-trade-17th-century-khan/east-india-trade-17
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-east-india-trade-17th-century-khan/east-india-trade-17th-century-khan.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-east-india-trade-17th-century-khan/east-india-trade-17th-century-khan.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/east-india-trade-17th-century-khan"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/east-india-trade-17th-century-khan"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/east-india-trade-17th-century-khan"
 has_datasets: true
 download_datasets: "/downloads/east-india-trade-17th-century-khan/datasets/datapackage.json"
 tables_list:

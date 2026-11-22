@@ -79,8 +79,8 @@ download_tei: "/downloads/musalmans-and-money-lenders/musalmans-and-money-lender
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-musalmans-and-money-lenders/musalmans-and-money-lenders.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-musalmans-and-money-lenders/musalmans-and-money-lenders.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/musalmans-and-money-lenders"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/musalmans-and-money-lenders"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/musalmans-and-money-lenders"
 has_datasets: true
 download_datasets: "/downloads/musalmans-and-money-lenders/datasets/datapackage.json"
 tables_list:

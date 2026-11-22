@@ -14,8 +14,8 @@ book_id: "journey-from-madras-vol-ii"
 archive_id: "journeyfrommadra02hami_2"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/journey-from-madras-vol-ii/518"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/journey-from-madras-vol-ii/518"
 prev: "/books/journey-from-madras-vol-ii/chapters/08-chapter-xii-route-from-valiencodu-to-coduwully-through-panyan/"
 ---
 

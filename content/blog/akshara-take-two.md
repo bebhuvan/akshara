@@ -1,7 +1,7 @@
 ---
 title: "Akshara, Take Two"
 date: 2026-11-22
-description: "The messy backstory of Project Akshara—from copy-pasting PDFs in AI Studio to 63 books, a distributed proofing site, and crazier experiments ahead."
+description: "The messy backstory of Project Akshara—from copy-pasting PDFs in AI Studio to 66 books, a distributed proofing site, and crazier experiments ahead."
 category: "Dispatches"
 tags: ["akshara", "public domain", "proofreading", "paper lanterns"]
 ---
@@ -34,9 +34,9 @@ After that, the site mostly sat still for a year. I kept processing books, and I
 
 The real reason I stopped uploading to Akshara was proofreading. I was checking every book by hand, and reading word for word—Romesh Chunder Dutt's two volumes of *The Economic History of India* alone are 1,128 pages—is impossible with a full-time job and a family. So I did fuzzy checking: first and last word of each paragraph against the source PDF, making sure split paragraphs were joined, diacritics preserved, running headers stripped, tables intact. Even that took a full day per big book. Doing it weekend after weekend put so much stress on my eyes that I still have a slight pain in one eye from last year. It was untenable.
 
-Then, a couple of weeks ago, the newer Gemini models launched. I had an old pipeline full of Python scripts, and on a whim I asked Gemini to look at it and build a better one. What followed was shocking. In the previous year, I had uploaded fewer than 25 books. In the last two weeks alone, Gemini helped me process 51 new books—over 18,000 pages, taking the library to 63 books—at accuracy well north of 90%, better than every OCR tool I've tried. Clean EPUBs and PDFs, and every chapter readable right on the site.
+Then, a couple of weeks ago, the newer Gemini models launched. I had an old pipeline full of Python scripts, and on a whim I asked Gemini to look at it and build a better one. What followed was shocking. In the previous year, I had uploaded fewer than 25 books. In the last two weeks alone, Gemini helped me process 51 new books—over 18,000 pages, taking the library to 66 books—at accuracy well north of 90%, better than every OCR tool I've tried. Clean EPUBs and PDFs, and every chapter readable right on the site.
 
-Around the same time, I realized proofreading only works if other people who care about this can pitch in—however many of us there are. I'd wanted to build that from the beginning, I just didn't know how, until Claude pointed me to [Distributed Proofreaders](https://www.pgdp.net/) (the volunteer system behind Project Gutenberg, similar to Wikisource). So I asked Gemini and Claude to build [Akshara Proofing](https://akshara-proofing.r-bhuvanesh2007.workers.dev), where anyone can open a book, pick a page, check it against the original scan, and submit corrections in a few minutes. That's the new avatar of Akshara.
+Around the same time, I realized proofreading only works if other people who care about this can pitch in—however many of us there are. I'd wanted to build that from the beginning, I just didn't know how, until Claude pointed me to [Distributed Proofreaders](https://www.pgdp.net/) (the volunteer system behind Project Gutenberg, similar to Wikisource). So I asked Gemini and Claude to build [Akshara Proofing](https://proof.akshara.ink), where anyone can open a book, inspect any page against the original scan, and flag errors right away—and if you'd like to proofread and edit full pages directly, drop me a note for an invite link. That's the new avatar of Akshara.
 
 Now, before leaving for work, I tell Gemini to queue up a bunch of books and let it run through the day. I can easily do more than a couple of books a week now. The only real constraint is cost—roughly three to five dollars a book (and the same for each collection of letters), all out of pocket—so I stick mostly to cheaper models like Gemini Flash, plus Sonnet and Haiku for letters. The frontier models are noticeably better, but the cost shoots up fast, and Gemini's Flash discount ends on January 1st.
 

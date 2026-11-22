@@ -83,8 +83,8 @@ download_tei: "/downloads/early-travels-in-india-1583-1619/early-travels-in-indi
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-early-travels-in-india-1583-1619/early-travels-in-india-1583-1619.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-early-travels-in-india-1583-1619/early-travels-in-india-1583-1619.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/early-travels-in-india-1583-1619"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/early-travels-in-india-1583-1619"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/early-travels-in-india-1583-1619"
 has_datasets: false
 download_datasets: ""
 tables_list: []

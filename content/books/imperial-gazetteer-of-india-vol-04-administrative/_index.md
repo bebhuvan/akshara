@@ -80,8 +80,8 @@ download_tei: "/downloads/imperial-gazetteer-of-india-vol-04-administrative/impe
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-imperial-gazetteer-of-india-vol-04-administrative/imperial-gazetteer-of-india-vol-04-administrative.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-imperial-gazetteer-of-india-vol-04-administrative/imperial-gazetteer-of-india-vol-04-administrative.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/imperial-gazetteer-of-india-vol-04-administrative"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/imperial-gazetteer-of-india-vol-04-administrative"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/imperial-gazetteer-of-india-vol-04-administrative"
 has_datasets: true
 download_datasets: "/downloads/imperial-gazetteer-of-india-vol-04-administrative/datasets/datapackage.json"
 tables_list:

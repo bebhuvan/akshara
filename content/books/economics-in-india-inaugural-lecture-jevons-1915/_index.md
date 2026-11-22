@@ -73,8 +73,8 @@ download_tei: "/downloads/economics-in-india-inaugural-lecture-jevons-1915/econo
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-economics-in-india-inaugural-lecture-jevons-1915/economics-in-india-inaugural-lecture-jevons-1915.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-economics-in-india-inaugural-lecture-jevons-1915/economics-in-india-inaugural-lecture-jevons-1915.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/economics-in-india-inaugural-lecture-jevons-1915"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/economics-in-india-inaugural-lecture-jevons-1915"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/economics-in-india-inaugural-lecture-jevons-1915"
 has_datasets: false
 download_datasets: ""
 tables_list: []

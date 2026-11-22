@@ -83,8 +83,8 @@ download_tei: "/downloads/report-past-famines-bombay-etheridge-1868/report-past-
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-report-past-famines-bombay-etheridge-1868/report-past-famines-bombay-etheridge-1868.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-report-past-famines-bombay-etheridge-1868/report-past-famines-bombay-etheridge-1868.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/report-past-famines-bombay-etheridge-1868"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/report-past-famines-bombay-etheridge-1868"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/report-past-famines-bombay-etheridge-1868"
 has_datasets: true
 download_datasets: "/downloads/report-past-famines-bombay-etheridge-1868/datasets/datapackage.json"
 tables_list:

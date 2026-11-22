@@ -14,8 +14,8 @@ book_id: "history-and-economics-indian-famines-loveday-1914"
 archive_id: "historyeconomics00loveuoft"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/history-and-economics-indian-famines-loveday-1914/177"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/history-and-economics-indian-famines-loveday-1914/177"
 prev: "/books/history-and-economics-indian-famines-loveday-1914/chapters/12-appendix-c-list-of-references/"
 ---
 

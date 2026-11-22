@@ -14,8 +14,8 @@ book_id: "economic-causes-of-famines-in-india-ray-1909"
 archive_id: "essayoneconomicc00raysuoft"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/economic-causes-of-famines-in-india-ray-1909/1"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/economic-causes-of-famines-in-india-ray-1909/1"
 next: "/books/economic-causes-of-famines-in-india-ray-1909/chapters/02-an-essay-on-the-economic-causes-of-famines-in-india-and-sugge/"
 ---
 

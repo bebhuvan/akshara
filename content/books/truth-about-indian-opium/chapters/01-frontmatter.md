@@ -14,8 +14,8 @@ book_id: "truth-about-indian-opium"
 archive_id: "truthaboutindian00grearich"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/truth-about-indian-opium/3"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/truth-about-indian-opium/3"
 next: "/books/truth-about-indian-opium/chapters/02-contents/"
 ---
 

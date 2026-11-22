@@ -14,8 +14,8 @@ book_id: "truth-about-indian-opium"
 archive_id: "truthaboutindian00grearich"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/truth-about-indian-opium/46"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/truth-about-indian-opium/46"
 prev: "/books/truth-about-indian-opium/chapters/09-chapter-vii-the-position-of-india-in-relation-to-the-world-s-/"
 ---
 

@@ -83,8 +83,8 @@ download_tei: "/downloads/india-at-the-death-of-akbar/india-at-the-death-of-akba
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-india-at-the-death-of-akbar/india-at-the-death-of-akbar.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-india-at-the-death-of-akbar/india-at-the-death-of-akbar.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/india-at-the-death-of-akbar"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/india-at-the-death-of-akbar"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/india-at-the-death-of-akbar"
 has_datasets: true
 download_datasets: "/downloads/india-at-the-death-of-akbar/datasets/datapackage.json"
 tables_list:

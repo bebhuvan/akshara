@@ -14,8 +14,8 @@ book_id: "early-history-tea-industry"
 archive_id: "cu31924013772441"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/early-history-tea-industry/21"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/early-history-tea-industry/21"
 prev: "/books/early-history-tea-industry/chapters/02-part-i-government-experiments-1834-1840/"
 ---
 

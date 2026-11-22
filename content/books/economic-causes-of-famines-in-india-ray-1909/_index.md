@@ -77,8 +77,8 @@ download_tei: "/downloads/economic-causes-of-famines-in-india-ray-1909/economic-
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-economic-causes-of-famines-in-india-ray-1909/economic-causes-of-famines-in-india-ray-1909.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-economic-causes-of-famines-in-india-ray-1909/economic-causes-of-famines-in-india-ray-1909.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/economic-causes-of-famines-in-india-ray-1909"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/economic-causes-of-famines-in-india-ray-1909"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/economic-causes-of-famines-in-india-ray-1909"
 has_datasets: true
 download_datasets: "/downloads/economic-causes-of-famines-in-india-ray-1909/datasets/datapackage.json"
 tables_list:

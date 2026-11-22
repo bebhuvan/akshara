@@ -78,8 +78,8 @@ download_tei: "/downloads/peishwas-diaries-intro/peishwas-diaries-intro.tei.xml"
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-peishwas-diaries-intro/peishwas-diaries-intro.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-peishwas-diaries-intro/peishwas-diaries-intro.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/peishwas-diaries-intro"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/peishwas-diaries-intro"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/peishwas-diaries-intro"
 has_datasets: false
 download_datasets: ""
 tables_list: []

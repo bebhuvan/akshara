@@ -76,8 +76,8 @@ download_tei: "/downloads/east-india-exchange-currency-1920/east-india-exchange-
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-east-india-exchange-currency-1920/east-india-exchange-currency-1920.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-east-india-exchange-currency-1920/east-india-exchange-currency-1920.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/east-india-exchange-currency-1920"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/east-india-exchange-currency-1920"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/east-india-exchange-currency-1920"
 has_datasets: false
 download_datasets: ""
 tables_list: []

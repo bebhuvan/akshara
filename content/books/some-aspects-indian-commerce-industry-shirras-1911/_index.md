@@ -76,8 +76,8 @@ download_tei: "/downloads/some-aspects-indian-commerce-industry-shirras-1911/som
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-some-aspects-indian-commerce-industry-shirras-1911/some-aspects-indian-commerce-industry-shirras-1911.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-some-aspects-indian-commerce-industry-shirras-1911/some-aspects-indian-commerce-industry-shirras-1911.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/some-aspects-indian-commerce-industry-shirras-1911"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/some-aspects-indian-commerce-industry-shirras-1911"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/some-aspects-indian-commerce-industry-shirras-1911"
 has_datasets: true
 download_datasets: "/downloads/some-aspects-indian-commerce-industry-shirras-1911/datasets/datapackage.json"
 tables_list:

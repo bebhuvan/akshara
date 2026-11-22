@@ -79,8 +79,8 @@ download_tei: "/downloads/imperial-gazetteer-of-india-vol-01-descriptive/imperia
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-imperial-gazetteer-of-india-vol-01-descriptive/imperial-gazetteer-of-india-vol-01-descriptive.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-imperial-gazetteer-of-india-vol-01-descriptive/imperial-gazetteer-of-india-vol-01-descriptive.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/imperial-gazetteer-of-india-vol-01-descriptive"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/imperial-gazetteer-of-india-vol-01-descriptive"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/imperial-gazetteer-of-india-vol-01-descriptive"
 has_datasets: true
 download_datasets: "/downloads/imperial-gazetteer-of-india-vol-01-descriptive/datasets/datapackage.json"
 tables_list:

@@ -84,8 +84,8 @@ download_tei: "/downloads/from-akbar-to-aurangzeb/from-akbar-to-aurangzeb.tei.xm
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-from-akbar-to-aurangzeb/from-akbar-to-aurangzeb.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-from-akbar-to-aurangzeb/from-akbar-to-aurangzeb.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/from-akbar-to-aurangzeb"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/from-akbar-to-aurangzeb"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/from-akbar-to-aurangzeb"
 has_datasets: true
 download_datasets: "/downloads/from-akbar-to-aurangzeb/datasets/datapackage.json"
 tables_list:

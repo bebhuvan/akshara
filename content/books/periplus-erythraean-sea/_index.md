@@ -83,8 +83,8 @@ download_tei: "/downloads/periplus-erythraean-sea/periplus-erythraean-sea.tei.xm
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-periplus-erythraean-sea/periplus-erythraean-sea.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-periplus-erythraean-sea/periplus-erythraean-sea.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/periplus-erythraean-sea"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/periplus-erythraean-sea"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/periplus-erythraean-sea"
 has_datasets: true
 download_datasets: "/downloads/periplus-erythraean-sea/datasets/datapackage.json"
 tables_list:

@@ -81,8 +81,8 @@ download_tei: "/downloads/palas-of-bengal/palas-of-bengal.tei.xml"
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-palas-of-bengal/palas-of-bengal.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-palas-of-bengal/palas-of-bengal.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/general-heritage/palas-of-bengal"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/palas-of-bengal"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/palas-of-bengal"
 has_datasets: false
 download_datasets: ""
 tables_list: []

@@ -88,8 +88,8 @@ download_tei: "/downloads/englands-debt-to-india-lajpat-rai-1917/englands-debt-t
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-englands-debt-to-india-lajpat-rai-1917/englands-debt-to-india-lajpat-rai-1917.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-englands-debt-to-india-lajpat-rai-1917/englands-debt-to-india-lajpat-rai-1917.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/englands-debt-to-india-lajpat-rai-1917"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/englands-debt-to-india-lajpat-rai-1917"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/englands-debt-to-india-lajpat-rai-1917"
 has_datasets: true
 download_datasets: "/downloads/englands-debt-to-india-lajpat-rai-1917/datasets/datapackage.json"
 tables_list:

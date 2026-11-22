@@ -14,8 +14,8 @@ book_id: "india-at-the-death-of-akbar"
 archive_id: "indiaatdeathofak00moreuoft"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/india-at-the-death-of-akbar/347"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/india-at-the-death-of-akbar/347"
 prev: "/books/india-at-the-death-of-akbar/chapters/17-index/"
 ---
 

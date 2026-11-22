@@ -82,8 +82,8 @@ download_tei: "/downloads/truth-about-indian-opium/truth-about-indian-opium.tei.
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-truth-about-indian-opium/truth-about-indian-opium.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-truth-about-indian-opium/truth-about-indian-opium.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/truth-about-indian-opium"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/truth-about-indian-opium"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/truth-about-indian-opium"
 has_datasets: true
 download_datasets: "/downloads/truth-about-indian-opium/datasets/datapackage.json"
 tables_list:

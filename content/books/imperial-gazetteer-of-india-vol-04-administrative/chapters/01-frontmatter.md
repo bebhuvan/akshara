@@ -14,8 +14,8 @@ book_id: "imperial-gazetteer-of-india-vol-04-administrative"
 archive_id: "imperialgazette04hunt"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/imperial-gazetteer-of-india-vol-04-administrative/8"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/imperial-gazetteer-of-india-vol-04-administrative/8"
 next: "/books/imperial-gazetteer-of-india-vol-04-administrative/chapters/02-preface/"
 ---
 

@@ -14,8 +14,8 @@ book_id: "famines-and-land-assessments"
 archive_id: "cu31924022938264"
 edition_tier: "community"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/famines-and-land-assessments/347"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/famines-and-land-assessments/347"
 prev: "/books/famines-and-land-assessments/chapters/36-appendix-z-paper-on-the-co-operation-of-the-people-in-adminis/"
 ---
 

@@ -78,8 +78,8 @@ download_tei: "/downloads/early-history-tea-industry/early-history-tea-industry.
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-early-history-tea-industry/early-history-tea-industry.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-early-history-tea-industry/early-history-tea-industry.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/early-history-tea-industry"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/early-history-tea-industry"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/early-history-tea-industry"
 has_datasets: true
 download_datasets: "/downloads/early-history-tea-industry/datasets/datapackage.json"
 tables_list:

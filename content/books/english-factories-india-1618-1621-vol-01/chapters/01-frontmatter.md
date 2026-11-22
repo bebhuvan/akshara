@@ -14,8 +14,8 @@ book_id: "english-factories-india-1618-1621-vol-01"
 archive_id: "englishfactories01fost"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/english-factories-india-1618-1621-vol-01/1"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/english-factories-india-1618-1621-vol-01/1"
 next: "/books/english-factories-india-1618-1621-vol-01/chapters/02-preface/"
 ---
 

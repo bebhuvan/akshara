@@ -77,8 +77,8 @@ download_tei: "/downloads/imperial-gazetteer-of-india-vol-02-historical/imperial
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-imperial-gazetteer-of-india-vol-02-historical/imperial-gazetteer-of-india-vol-02-historical.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-imperial-gazetteer-of-india-vol-02-historical/imperial-gazetteer-of-india-vol-02-historical.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/imperial-gazetteer-of-india-vol-02-historical"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/imperial-gazetteer-of-india-vol-02-historical"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/imperial-gazetteer-of-india-vol-02-historical"
 has_datasets: false
 download_datasets: ""
 tables_list: []

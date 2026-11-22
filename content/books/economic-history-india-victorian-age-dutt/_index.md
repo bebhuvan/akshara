@@ -84,8 +84,8 @@ download_tei: "/downloads/economic-history-india-victorian-age-dutt/economic-his
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-economic-history-india-victorian-age-dutt/economic-history-india-victorian-age-dutt.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-economic-history-india-victorian-age-dutt/economic-history-india-victorian-age-dutt.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/economic-history-india-victorian-age-dutt"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/economic-history-india-victorian-age-dutt"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/economic-history-india-victorian-age-dutt"
 has_datasets: true
 download_datasets: "/downloads/economic-history-india-victorian-age-dutt/datasets/datapackage.json"
 tables_list:

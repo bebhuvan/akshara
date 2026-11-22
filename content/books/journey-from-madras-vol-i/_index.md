@@ -83,8 +83,8 @@ download_tei: "/downloads/journey-from-madras-vol-i/journey-from-madras-vol-i.te
 download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-journey-from-madras-vol-i/journey-from-madras-vol-i.pdf"
 download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-journey-from-madras-vol-i/journey-from-madras-vol-i.originals.pdf"
 github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/indian-economic-history/journey-from-madras-vol-i"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#book/journey-from-madras-vol-i"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/journey-from-madras-vol-i"
 has_datasets: true
 download_datasets: "/downloads/journey-from-madras-vol-i/datasets/datapackage.json"
 tables_list:

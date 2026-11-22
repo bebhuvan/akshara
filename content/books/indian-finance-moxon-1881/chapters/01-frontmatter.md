@@ -14,8 +14,8 @@ book_id: "indian-finance-moxon-1881"
 archive_id: "indianfinance00moxorich"
 edition_tier: "machine_checked"
 edition_generation: "v6"
-proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
-proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/indian-finance-moxon-1881/3"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/indian-finance-moxon-1881/3"
 next: "/books/indian-finance-moxon-1881/chapters/02-indian-finance/"
 ---
 
