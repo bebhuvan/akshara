@@ -141,3 +141,6 @@ class JournalEssay(unittest.TestCase):
     def test_books_the_essay_names_are_shown(self):
         for book in self.journal["akshara-take-two"]["books"]:
             self.assertIn(f'href=/books/{book}/', self.html)
+
+    def test_a_pull_quote_never_sits_against_a_section_break(self):
+        self.assertNotRegex(self.html, r"</figure>\s*<hr")

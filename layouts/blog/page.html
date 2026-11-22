@@ -3,8 +3,8 @@
 {{- $j := index hugo.Data.journal $id | default dict -}}
 {{- $pulls := $j.pull | default slice -}}
 {{- /* the essay's own sentences from data/journal.toml, set large between paragraphs at a third and two thirds
-of the way. Only at a top-level paragraph break, never inside a quotation or a list. aria-hidden: a reader
-using a screen reader meets each sentence once, where it was written. */ -}}
+of the way. Only at a top-level paragraph break, never inside a quotation or a list, never beside a section
+break. aria-hidden: a reader using a screen reader meets each sentence once, where it was written. */ -}}
 {{- $content := string .Content -}}
 {{- if $pulls -}}
   {{- $parts := split $content "</p>\n" -}}
@@ -16,7 +16,7 @@ using a screen reader meets each sentence once, where it was written. */ -}}
     {{- if lt $i (sub $n 1) -}}{{- $out = printf "%s</p>\n" $out -}}{{- end -}}
     {{- $open := len (findRE `<(blockquote|ul|ol|table)\b` $out) -}}
     {{- $shut := len (findRE `</(blockquote|ul|ol|table)>` $out) -}}
-    {{- if and (lt $q (len $at)) (ge $i (index $at $q)) (eq $open $shut) (lt $i (sub $n 1)) -}}
+    {{- if and (lt $q (len $at)) (ge $i (index $at $q)) (eq $open $shut) (lt $i (sub $n 1)) (not (hasPrefix (trim (index $parts (add $i 1)) "\n") "<hr")) -}}
       {{- $s := index $pulls $q -}}
       {{- $out = printf "%s<figure class=\"pull\" aria-hidden=\"true\"><blockquote><p>%s</p></blockquote></figure>\n" $out (htmlEscape $s) -}}
       {{- $q = add $q 1 -}}
