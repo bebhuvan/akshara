@@ -387,3 +387,6 @@
 /library/ /books/ 301
 # 2026-11-21: the old social image was replaced by the site's card; links already shared keep their preview.
 /og-image.png /og/akshara.jpg 301
+# 2026-11-22: replaced the AI-drafted Stage Two dispatch with Bhuvan's own post.
+/blog/stage-two-of-akshara /blog/akshara-take-two/ 301
+/blog/stage-two-of-akshara/ /blog/akshara-take-two/ 301
