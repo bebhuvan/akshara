@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-shipping,tbl-006,Table 6,283,231,1,data,,Khalu,2,Column 2,2,2.0,,False,False
+indian-shipping,tbl-006,Table 6,283,231,2,data,,Ghrab,2,Column 2,9,9.0,,False,False
+indian-shipping,tbl-006,Table 6,283,231,3,data,,Jangi,2,Column 2,22,22.0,,False,False
+indian-shipping,tbl-006,Table 6,283,231,4,data,,Kusa,2,Column 2,12,12.0,,False,False
+indian-shipping,tbl-006,Table 6,283,231,5,data,,Jalba,2,Column 2,67 (68 ?),,,False,False
+indian-shipping,tbl-006,Table 6,283,231,6,data,,Balam,2,Column 2,22,22.0,,False,False

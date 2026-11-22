@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,1,data,,Kaundinya,2,Totem.,Tiger.,,,False,False
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,2,data,,Sarpa,2,Totem.,Snake.,,,False,False
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,3,data,,Neul,2,Totem.,Weasel.,,,False,False
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,4,data,,Goru,2,Totem.,Cow.,,,False,False
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,5,data,,Mudir,2,Totem.,Frog.,,,False,False
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,6,data,,"Bhadbhadria,",2,Totem.,Sparrow.,,,False,False
+people-of-india,tbl-010,Jagannāthi Kumhār.,141,99,7,data,,Kurmā,2,Totem.,Tortoise.,,,False,False

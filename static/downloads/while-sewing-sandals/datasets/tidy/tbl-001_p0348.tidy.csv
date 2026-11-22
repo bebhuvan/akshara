@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,1,data,,Northern India,2,Column 2,Chamars,,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,1,data,,Northern India,3,Column 3,"11,258,105",11258105.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,2,data,,Row 2,2,Column 2,Mochis,,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,2,data,,Row 2,3,Column 3,"961,133",961133.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,3,data,,Southern India,2,Column 2,Madigas,,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,3,data,,Southern India,3,Column 3,"927,339",927339.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,4,data,,Row 4,2,Column 2,Chakilyans,,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,4,data,,Row 4,3,Column 3,"445,366",445366.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,5,data,,Central India,2,Column 2,Bambhi,,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,5,data,,Central India,3,Column 3,"220,596",220596.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,6,subtotal,,Row 6,2,Column 2,,,,True,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,6,subtotal,,Row 6,3,Column 3,"13,812,539",13812539.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,7,data,,Other Pariahs in India,2,Column 2,,,,True,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,7,data,,Other Pariahs in India,3,Column 3,"7,157,740",7157740.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,8,total,,The entire Pariah population of India,2,Column 2,,,,True,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,8,total,,The entire Pariah population of India,3,Column 3,"20,970,279",20970279.0,,False,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,9,data,,The Telugu population of Southern India,2,Column 2,,,,True,True
+while-sewing-sandals,tbl-001,The Leather Workers of India.,348,314,9,data,,The Telugu population of Southern India,3,Column 3,"17,003,358",17003358.0,,False,True

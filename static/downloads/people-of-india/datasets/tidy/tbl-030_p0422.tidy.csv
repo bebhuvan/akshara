@@ -1,0 +1,45 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Risley.,75.2,75.2,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Waddell.,76.7,76.7,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,4,PROPORTIONS OF NOSE. (Nasal Index.),Average,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,5,PROPORTIONS OF NOSE. (Nasal Index.) :: Risley.,76.6,76.6,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,6,PROPORTIONS OF NOSE. (Nasal Index.) :: Waddell.,80.0,80.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,7,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Average,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,8,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Risley.,110.8,110.8,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,9,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Waddell.,110.0,110.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,10,STATURE.,Average,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,11,STATURE. :: Risley.,160.7,160.7,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,1,summary,,Average,12,STATURE. :: Waddell.,159.1,159.1,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Risley.,84,84.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Waddell.,87,87.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,4,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,5,PROPORTIONS OF NOSE. (Nasal Index.) :: Risley.,92,92.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,6,PROPORTIONS OF NOSE. (Nasal Index.) :: Waddell.,109,109.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,7,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,8,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Risley.,121,121.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,9,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Waddell.,121,121.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,10,STATURE.,Maximum,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,11,STATURE. :: Risley.,174.6,174.6,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,2,data,,Maximum,12,STATURE. :: Waddell.,169.5,169.5,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Risley.,68,68.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Waddell.,71,71.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,4,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,5,PROPORTIONS OF NOSE. (Nasal Index.) :: Risley.,61,61.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,6,PROPORTIONS OF NOSE. (Nasal Index.) :: Waddell.,67,67.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,7,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,8,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Risley.,104,104.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,9,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Waddell.,93,93.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,10,STATURE.,Minimum,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,11,STATURE. :: Risley.,144.0,144.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,3,data,,Minimum,12,STATURE. :: Waddell.,150.2,150.2,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Risley.,16,16.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Waddell.,16,16.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,4,PROPORTIONS OF NOSE. (Nasal Index.),Range,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,5,PROPORTIONS OF NOSE. (Nasal Index.) :: Risley.,31,31.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,6,PROPORTIONS OF NOSE. (Nasal Index.) :: Waddell.,42,42.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,7,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Range,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,8,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Risley.,17,17.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,9,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.) :: Waddell.,28,28.0,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,10,STATURE.,Range,,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,11,STATURE. :: Risley.,30.6,30.6,,False,False
+people-of-india,tbl-030,Type Specimen : Kochh.,422,380,4,data,,Range,12,STATURE. :: Waddell.,19 3,,,False,False

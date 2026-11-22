@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-shipping,tbl-007,Table 7,303,245,1,data,,From 1736 to 1774,2,Column 2,Lowjee,,,False,False
+indian-shipping,tbl-007,Table 7,303,245,2,data,,„ 1774 „ 1783,2,Column 2,Manseckjee and Bomenjee,,,False,False
+indian-shipping,tbl-007,Table 7,303,245,3,data,,„ 1793 „ 1805,2,Column 2,Framjee and Jamsetjee,,,False,False
+indian-shipping,tbl-007,Table 7,303,245,4,data,,„ 1805 „ 1811,2,Column 2,Jamsetjee and Ruttonjee,,,False,False
+indian-shipping,tbl-007,Table 7,303,245,5,data,,„ 1811 „ 1821,2,Column 2,Jamsetjee and Nowrojee,,,False,False
+indian-shipping,tbl-007,Table 7,303,245,6,data,,„ 1821 „ 1837,2,Column 2,Nowrojee and Cursetjee,,,False,False

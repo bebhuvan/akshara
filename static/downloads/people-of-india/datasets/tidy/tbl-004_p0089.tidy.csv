@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-004,Table 4,89,47,1,data,,Agamudaiyan,2,Mean stature.,165·8,165.8,,False,False
+people-of-india,tbl-004,Table 4,89,47,1,data,,Agamudaiyan,3,Mean nasal index.,74·2,74.2,,False,False
+people-of-india,tbl-004,Table 4,89,47,2,data,,Badaga,2,Mean stature.,164·1,164.1,,False,False
+people-of-india,tbl-004,Table 4,89,47,2,data,,Badaga,3,Mean nasal index.,75·6,75.6,,False,False
+people-of-india,tbl-004,Table 4,89,47,3,data,,Tiyan,2,Mean stature.,163·7,163.7,,False,False
+people-of-india,tbl-004,Table 4,89,47,3,data,,Tiyan,3,Mean nasal index.,75,75.0,,False,False
+people-of-india,tbl-004,Table 4,89,47,4,data,,Tamil Brāhman,2,Mean stature.,162·5,162.5,,False,False
+people-of-india,tbl-004,Table 4,89,47,4,data,,Tamil Brāhman,3,Mean nasal index.,76·7,76.7,,False,False
+people-of-india,tbl-004,Table 4,89,47,5,data,,Palli,2,Mean stature.,162·5,162.5,,False,False
+people-of-india,tbl-004,Table 4,89,47,5,data,,Palli,3,Mean nasal index.,77·3,77.3,,False,False
+people-of-india,tbl-004,Table 4,89,47,6,data,,Tamil Parāyan,2,Mean stature.,162·1,162.1,,False,False
+people-of-india,tbl-004,Table 4,89,47,6,data,,Tamil Parāyan,3,Mean nasal index.,80,80.0,,False,False
+people-of-india,tbl-004,Table 4,89,47,7,data,,Irula,2,Mean stature.,159·9,159.9,,False,False
+people-of-india,tbl-004,Table 4,89,47,7,data,,Irula,3,Mean nasal index.,80·4,80.4,,False,False
+people-of-india,tbl-004,Table 4,89,47,8,data,,Kādir,2,Mean stature.,157·7,157.7,,False,False
+people-of-india,tbl-004,Table 4,89,47,8,data,,Kādir,3,Mean nasal index.,89·8,89.8,,False,False
+people-of-india,tbl-004,Table 4,89,47,9,data,,Paniyan,2,Mean stature.,157,157.0,,False,False
+people-of-india,tbl-004,Table 4,89,47,9,data,,Paniyan,3,Mean nasal index.,95·1,95.1,,False,False

@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,2,PROPORTIONS OF HEAD. :: (Nasal Index.),78·6,78.6,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,3,PROPORTIONS OF NOSE. :: (Orbito-Nasal Index.),Average,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,4,PROPORTIONS OF NOSE.,86·3,86.3,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,5,RELATIVE PROMINENCE OF ROOT OF NOSE. :: C.M.,Average,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,108·4,108.4,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,7,STATURE.,Average,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,1,summary,,Average,8,STATURE.,156·9,156.9,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,2,PROPORTIONS OF HEAD. :: (Nasal Index.),84,84.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,3,PROPORTIONS OF NOSE. :: (Orbito-Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,4,PROPORTIONS OF NOSE.,108,108.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,5,RELATIVE PROMINENCE OF ROOT OF NOSE. :: C.M.,Maximum,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,119,119.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,7,STATURE.,Maximum,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,2,data,,Maximum,8,STATURE.,170·0,170.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,2,PROPORTIONS OF HEAD. :: (Nasal Index.),72,72.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,3,PROPORTIONS OF NOSE. :: (Orbito-Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,4,PROPORTIONS OF NOSE.,73,73.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,5,RELATIVE PROMINENCE OF ROOT OF NOSE. :: C.M.,Minimum,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,101,101.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,7,STATURE.,Minimum,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,3,data,,Minimum,8,STATURE.,141·7,141.7,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,2,PROPORTIONS OF HEAD. :: (Nasal Index.),12,12.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,3,PROPORTIONS OF NOSE. :: (Orbito-Nasal Index.),Range,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,4,PROPORTIONS OF NOSE.,35,35.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,5,RELATIVE PROMINENCE OF ROOT OF NOSE. :: C.M.,Range,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,18,18.0,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,7,STATURE.,Range,,,False,False
+people-of-india,tbl-034,Lt.-Col. Waddell.,430,388,4,data,,Range,8,STATURE.,28·3,28.3,,False,False

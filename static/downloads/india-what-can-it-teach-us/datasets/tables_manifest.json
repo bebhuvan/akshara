@@ -1,0 +1,48 @@
+{
+  "version": "tables-dataset-v2",
+  "book_id": "india-what-can-it-teach-us",
+  "collection": "general-heritage",
+  "title": "India: What Can It Teach Us?",
+  "publication_year": 1892,
+  "table_count": 2,
+  "tables": [
+    {
+      "table_id": "tbl-001",
+      "csv_file": "tables/tbl-001_p0314.csv",
+      "csv_path": "tables/tbl-001_p0314.csv",
+      "tidy_csv_file": "tidy/tbl-001_p0314.tidy.csv",
+      "tidy_csv_path": "tidy/tbl-001_p0314.tidy.csv",
+      "tidy_json_file": "tidy/tbl-001_p0314.tidy.json",
+      "parquet_file": null,
+      "caption": "Table 1",
+      "section_id": "sec-19",
+      "start_page": 314,
+      "end_page": 314,
+      "printed_folio": "292",
+      "column_count": 7,
+      "row_count": 6,
+      "tidy_observation_count": 18,
+      "arithmetic_verified": false,
+      "arithmetic_status": "no_total_row"
+    },
+    {
+      "table_id": "tbl-002",
+      "csv_file": "tables/tbl-002_p0315.csv",
+      "csv_path": "tables/tbl-002_p0315.csv",
+      "tidy_csv_file": "tidy/tbl-002_p0315.tidy.csv",
+      "tidy_csv_path": "tidy/tbl-002_p0315.tidy.csv",
+      "tidy_json_file": "tidy/tbl-002_p0315.tidy.json",
+      "parquet_file": null,
+      "caption": "Table 2",
+      "section_id": "sec-19",
+      "start_page": 315,
+      "end_page": 315,
+      "printed_folio": "293",
+      "column_count": 4,
+      "row_count": 11,
+      "tidy_observation_count": 33,
+      "arithmetic_verified": false,
+      "arithmetic_status": "compositor_variant"
+    }
+  ]
+}

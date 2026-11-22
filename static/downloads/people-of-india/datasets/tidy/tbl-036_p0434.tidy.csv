@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,2,Male.,83·0,83.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,3,Female.,82·7,82.7,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,4,PROPORTIONS OF NOSE. (Nasal Index.),Average,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,5,Male.,88·2,88.2,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,6,Female.,89·4,89.4,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,7,STATURE.,Average,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,8,C.M. Male.,148·2,148.2,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,1,summary,,Average,9,C.M. Female.,140·2,140.2,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,2,Male.,90,90.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,3,Female.,87,87.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,4,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,5,Male.,102,102.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,6,Female.,113,113.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,7,STATURE.,Maximum,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,8,C.M. Male.,159·4,159.4,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,2,data,,Maximum,9,C.M. Female.,148·5,148.5,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,2,Male.,79,79.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,3,Female.,79,79.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,4,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,5,Male.,74,74.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,6,Female.,70,70.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,7,STATURE.,Minimum,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,8,C.M. Male.,138·0,138.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,3,data,,Minimum,9,C.M. Female.,129·1,129.1,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,2,Male.,11,11.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,3,Female.,8,8.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,4,PROPORTIONS OF NOSE. (Nasal Index.),Range,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,5,Male.,28,28.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,6,Female.,43,43.0,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,7,STATURE.,Range,,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,8,C.M. Male.,21·4,21.4,,False,False
+people-of-india,tbl-036,MALE ♦ AND ⊗ FEMALE SERIES.,434,392,4,data,,Range,9,C.M. Female.,19·4,19.4,,False,False

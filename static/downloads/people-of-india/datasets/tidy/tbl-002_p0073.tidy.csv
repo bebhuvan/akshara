@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-002,Table 2,73,31,1,data,,Platyopic,2,Column 2,below 110.,,,False,False
+people-of-india,tbl-002,Table 2,73,31,2,data,,Mesopic,2,Column 2,110 to 112·9.,,,False,False
+people-of-india,tbl-002,Table 2,73,31,3,data,,Pro-opic,2,Column 2,113 and over.,,,False,False

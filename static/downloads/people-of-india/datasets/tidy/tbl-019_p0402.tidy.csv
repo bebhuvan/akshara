@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.),79·7,79.7,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,3,PROPORTIONS OF NOSE. (Nasal Index.),Average,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,4,PROPORTIONS OF NOSE. (Nasal Index.),73·1,73.1,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Average,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),116·7,116.7,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,7,STATURE. C.M.,Average,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,1,summary,,Average,8,STATURE. C.M.,164·3,164.3,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.),90,90.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,3,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,4,PROPORTIONS OF NOSE. (Nasal Index.),90,90.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),124,124.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,7,STATURE. C.M.,Maximum,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,2,data,,Maximum,8,STATURE. C.M.,178·8,178.8,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.),71,71.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,3,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,4,PROPORTIONS OF NOSE. (Nasal Index.),57,57.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),108,108.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,7,STATURE. C.M.,Minimum,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,3,data,,Minimum,8,STATURE. C.M.,151·3,151.3,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,2,PROPORTIONS OF HEAD. (Cephalic Index.),19,19.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,3,PROPORTIONS OF NOSE. (Nasal Index.),Range,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,4,PROPORTIONS OF NOSE. (Nasal Index.),33,33.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Range,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),16,16.0,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,7,STATURE. C.M.,Range,,,False,False
+people-of-india,tbl-019,Type Specimen : Nagar Brahman.,402,360,4,data,,Range,8,STATURE. C.M.,27·5,27.5,,False,False

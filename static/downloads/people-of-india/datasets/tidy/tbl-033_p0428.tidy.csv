@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,2,PROPORTIONS OF HEAD.,79·9,79.9,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,3,PROPORTIONS OF NOSE.,Average,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,4,PROPORTIONS OF NOSE.,67·2,67.2,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,5,RELATIVE PROMINENCE OF ROOT OF NOSE.,Average,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,108·1,108.1,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,7,STATURE.,Average,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,1,summary,,Average,8,STATURE.,157·0,157.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,2,PROPORTIONS OF HEAD.,90,90.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,3,PROPORTIONS OF NOSE.,Maximum,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,4,PROPORTIONS OF NOSE.,83,83.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,5,RELATIVE PROMINENCE OF ROOT OF NOSE.,Maximum,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,113,113.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,7,STATURE.,Maximum,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,2,data,,Maximum,8,STATURE.,169·0,169.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,2,PROPORTIONS OF HEAD.,73,73.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,3,PROPORTIONS OF NOSE.,Minimum,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,4,PROPORTIONS OF NOSE.,59,59.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,5,RELATIVE PROMINENCE OF ROOT OF NOSE.,Minimum,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,103,103.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,7,STATURE.,Minimum,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,3,data,,Minimum,8,STATURE.,149·0,149.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,2,PROPORTIONS OF HEAD.,17,17.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,3,PROPORTIONS OF NOSE.,Range,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,4,PROPORTIONS OF NOSE.,24,24.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,5,RELATIVE PROMINENCE OF ROOT OF NOSE.,Range,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,6,RELATIVE PROMINENCE OF ROOT OF NOSE.,10,10.0,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,7,STATURE.,Range,,,False,False
+people-of-india,tbl-033,Type Specimen : Lepcha.,428,386,4,data,,Range,8,STATURE.,20·0,20.0,,False,False

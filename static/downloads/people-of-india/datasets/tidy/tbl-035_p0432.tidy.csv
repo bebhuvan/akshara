@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,1,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,82.0,82.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,1,summary,,Average,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,81.9,81.9,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,2,data,,Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,88,88.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,2,data,,Maximum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,88,88.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,3,data,,Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,78,78.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,3,data,,Minimum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,78,78.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,4,data,,Range,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,10,10.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,4,data,,Range,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,10,10.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,6,header,PROPORTIONS OF NOSE. (Nasal Index.),Row 6,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,Male.,,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,6,header,PROPORTIONS OF NOSE. (Nasal Index.),Row 6,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,Female.,,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,7,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,92.5,92.5,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,7,summary,,Average,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,94.3,94.3,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,8,data,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,115,115.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,8,data,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,113,113.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,9,data,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,77,77.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,9,data,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,77,77.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,10,data,PROPORTIONS OF NOSE. (Nasal Index.),Range,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,38,38.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,10,data,PROPORTIONS OF NOSE. (Nasal Index.),Range,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,36,36.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,12,header,STATURE,Row 12,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,C.M. Male.,,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,12,header,STATURE,Row 12,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,C.M. Female.,,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,13,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,148.6,148.6,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,13,summary,,Average,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,138.5,138.5,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,14,data,STATURE,Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,156.8,156.8,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,14,data,STATURE,Maximum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,150.0,150.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,15,data,STATURE,Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,140.0,140.0,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,15,data,STATURE,Minimum,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,127.7,127.7,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,16,data,STATURE,Range,2,PROPORTIONS OF HEAD. (Cephalic Index.) :: Male.,16.8,16.8,,False,False
+people-of-india,tbl-035,MALE ♦ AND FEMALE ⊗ SERIES.,432,390,16,data,STATURE,Range,3,PROPORTIONS OF HEAD. (Cephalic Index.) :: Female.,23.3,23.3,,False,False

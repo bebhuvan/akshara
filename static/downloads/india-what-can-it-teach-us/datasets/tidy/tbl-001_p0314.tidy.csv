@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,2,data,"His sons, the seven Rishis",Virâg,2,Manu Hairanyagarbha,Marîki,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,2,data,"His sons, the seven Rishis",Virâg,3,Manu Hairanyagarbha,Atri,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,2,data,"His sons, the seven Rishis",Virâg,4,Manu Hairanyagarbha,Kavi (Bhrigu),,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,2,data,"His sons, the seven Rishis",Virâg,5,Manu Hairanyagarbha,Aṅgiras,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,2,data,"His sons, the seven Rishis",Virâg,6,Manu Hairanyagarbha,Pulastya,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,2,data,"His sons, the seven Rishis",Virâg,7,Manu Hairanyagarbha,Vasishtha,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,4,data,"Their sons, the Pitris",Somasads,2,Manu Hairanyagarbha,Agnishvâttas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,4,data,"Their sons, the Pitris",Somasads,3,Manu Hairanyagarbha,Barhishads,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,4,data,"Their sons, the Pitris",Somasads,4,Manu Hairanyagarbha,Somapas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,4,data,"Their sons, the Pitris",Somasads,5,Manu Hairanyagarbha,Havishmats,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,4,data,"Their sons, the Pitris",Somasads,6,Manu Hairanyagarbha,Âgyapas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,4,data,"Their sons, the Pitris",Somasads,7,Manu Hairanyagarbha,Sukalin,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,6,data,Their descendants,Sâdhyas,2,Manu Hairanyagarbha,Devas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,6,data,Their descendants,Sâdhyas,3,Manu Hairanyagarbha,Daityas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,6,data,Their descendants,Sâdhyas,4,Manu Hairanyagarbha,Brâhmanas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,6,data,Their descendants,Sâdhyas,5,Manu Hairanyagarbha,Kshatriyas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,6,data,Their descendants,Sâdhyas,6,Manu Hairanyagarbha,Vaisyas,,,False,False
+india-what-can-it-teach-us,tbl-001,Table 1,314,292,6,data,Their descendants,Sâdhyas,7,Manu Hairanyagarbha,Sûdras,,,False,False

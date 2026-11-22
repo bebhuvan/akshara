@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-003,Table 3,73,31,1,data,,"Tall statures,",2,Column 2,170 c.m.,,,False,False
+people-of-india,tbl-003,Table 3,73,31,1,data,,"Tall statures,",3,Column 3,(5′ 7″) and over,,,False,False
+people-of-india,tbl-003,Table 3,73,31,2,data,,"Above the average,",2,Column 2,165 c.m.,,,False,False
+people-of-india,tbl-003,Table 3,73,31,2,data,,"Above the average,",3,Column 3,(5′ 5″) and under 170 c.m. (5′ 7″),,,False,False
+people-of-india,tbl-003,Table 3,73,31,3,data,,"Below the average,",2,Column 2,160 c.m.,,,False,False
+people-of-india,tbl-003,Table 3,73,31,3,data,,"Below the average,",3,Column 3,(5′ 3″) and under 165 c.m. (5′ 5″),,,False,False
+people-of-india,tbl-003,Table 3,73,31,4,data,,"Small statures,",2,Column 2,under 160 c.m. (5′ 3″),,,False,False
+people-of-india,tbl-003,Table 3,73,31,4,data,,"Small statures,",3,Column 3,,,,True,False

@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+modern-religious-movements-india,tbl-001,Table 1,15,xi,1,data,,"The Committee of the Museum and Art Gallery, Bristol",2,Portraits,Raja Ram Mohan Ray,,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,2,data,,"Mr. N. C. Sen, Private Secretary to the Maharani of Cooch Behar",2,Portraits,Keshab Chandra Sen (father of the donor),,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,3,data,,Sir R. G. Bhandarkar,2,Portraits,His own,,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,4,data,,Sir N. G. Chandavarkar,2,Portraits,His own,,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,5,data,,"Mr. M. N. Katrak, Bombay",2,Portraits,Mr. K. R. Cama,,Rs,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,6,data,,"Dr. H. D. Griswold, Lahore",2,Portraits,Mirza Ghulam Aḥmad,,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,7,data,,"Mr. Sasipada Banerjea, Calcutta",2,Portraits,"The symbolic picture, Plate X.",,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,8,data,,"Mr. Mansukhlal Ravjibhai Mehta, Bombay",2,Portraits,Mr. Rajchandra Ravjibhai (brother of the donor),,,False,False
+modern-religious-movements-india,tbl-001,Table 1,15,xi,9,data,,"Mr. G. K. Devadhar, Bombay",2,Portraits,"The Hon'ble Mr. G. K. Gokhale, C. I. E.",,,False,False

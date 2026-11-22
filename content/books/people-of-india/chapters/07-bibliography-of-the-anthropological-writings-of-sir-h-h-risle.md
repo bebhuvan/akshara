@@ -1,0 +1,23 @@
+---
+title: "Bibliography of the Anthropological Writings of Sir H. H. Risley"
+chapter_number: "FRONTMATTER"
+section_kind: "frontmatter"
+weight: 7
+start_page: 37
+end_page: 40
+printed_start_folio: "xxxi"
+printed_end_folio: "xxxiv"
+reading_time: 2
+footnotes_count: 0
+tables_count: 0
+book_id: "people-of-india"
+archive_id: "cu31924024114773"
+edition_tier: "machine_checked"
+edition_generation: "v6"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/people-of-india/37"
+prev: "/books/people-of-india/chapters/06-list-of-illustrations/"
+next: "/books/people-of-india/chapters/08-chapter-i-the-physical-types/"
+---
+
+<div class="page-rail-marker" id="page-37"><button type="button" class="folio-trigger" data-page="37" data-folio="xxxi" data-scan="https://archive.org/download/cu31924024114773/page/n36_w1400.jpg" aria-label="Inspect scan for page xxxi">[p. xxxi]</button></div><h2 class="sec-h1">BIBLIOGRAPHY OF THE ANTHROPOLOGICAL WRITINGS OF SIR H. H. RISLEY</h2><div class="prose-unit"><ul class="editorial-list"><li>1.—<em>The Statistical Account of Bengal</em>, edited by W. W. Hunter, vol. xvi. : Districts of Hazāribāgh and Lohārdaga. London, 1877.</li><li>2.—<em>Sikkim and Tibet</em>, “Blackwood’s Edinburgh Magazine,” May, 1890.</li><li>3.—<em>The Race Basis of Indian Political Movements</em>, “Contemporary Review,” May, 1890.</li><li>4.—<em>Hindu Infant Marriage</em>, “Blackwood’s Edinburgh Magazine,” December, 1890.</li><li>5.—<em>The Study of Ethnology in India</em>, “Journal Anthropological Institute,” vol. xx., pp. 235 <em>et seq.</em> London, 1890.</li><li>6.—<em>The Tribes and Castes of Bengal</em>, 4 vols. : vol. i., ii., “Ethnographic Glossary” ; iii., iv., “Anthropometric Data.” Calcutta, 1891.</li><li>7.—<em>Anthropometric Instructions</em>, “Journal Asiatic Society of Bengal,” vol. lxii., pt. iii., pp. 95 <em>et seq.</em> Calcutta, 1893.</li><li>8.—<em>Measurements of Cingalese Moormen and Tamils taken in Ceylon, in November</em>, 1892, ibid., vol. lxii., pt. iii., pp. 33 <em>et seq.</em> Calcutta, 1893.</li><li>9.—<em>The Gazetteer of Sikkim</em>, Introduction. Calcutta, 1894.</li><li>10.—<em>Widow and Infant Marriage.</em> Calcutta, 1894.</li><li>11.—<em>Notes on Nepaul</em>, Introduction. Calcutta, 1896.</li><li>12.—<em>Presidential Anniversary Address</em>, “Asiatic Society of Bengal, Proceedings,” pp. 18 <em>et seq.</em> Calcutta, 1899.</li><li>13.—<em>Presidential Anniversary Address</em>, “Asiatic Society of Bengal, Proceedings,” pp. 21 <em>et seq.</em> Calcutta, 1900.</li><li>14.—<em>Note on some Indian Tatu-Marks</em>, <em>Man</em>, Article No. 74, pp. 97 <em>et seq.</em>, Anthropological Institute. London, 1902.</li><li>15.—<em>Extracts from Correspondence relating to the Origin of the Gipsies</em>, <em>ibid.</em>, Article No. 126, pp. 180 <em>et seq.</em>, Anthropological Institute. London, 1902.</li><li>16.—<em>Manual of Ethnography for India.</em> Calcutta, 1903.</li><li>17.—<em>Report Census of India</em>, 1901, vol. i. in collaboration with E. A. Gait ; vol. ii., Ethnographic Appendixes. Calcutta, 1903.</li><li>18.—<em>Presidential Annual Address</em>, “Asiatic Society of Bengal, Proceedings,” pp. 22 <em>et seq.</em> Calcutta, 1904.</li></ul></div><div class="page-rail-marker" id="page-38"><button type="button" class="folio-trigger" data-page="38" data-folio="xxxii" data-scan="https://archive.org/download/cu31924024114773/page/n37_w1400.jpg" aria-label="Inspect scan for page xxxii">[p. xxxii]</button></div><div class="prose-unit"><ul class="editorial-list"><li>19.—F. B. Bradley-Birt, <em>The Story of an Indian Upland</em>, Introduction. London, 1905.</li><li>20.—<em>Anthropometric Data from Bombay, Burma, Baluchistan, North-West Borderland.</em> Calcutta, 1906–09.</li><li>21.—<em>The People of India.</em> Calcutta, 1908.</li><li>22.—<em>The Indian Councils at Work</em>, “Blackwood’s Edinburgh Magazine,” November, 1900.</li><li>23.—<em>Manual of Anthropometry.</em> Calcutta, 1909.</li><li>24.—<em>Presidential Address</em>, “The Methods of Ethnography,” “Journal Royal Anthropological Institute,” vol. xli., pp. 8 <em>et seq.</em> London, 1911.</li></ul></div><div class="page-rail-marker" id="page-40"><button type="button" class="folio-trigger" data-page="40" data-folio="xxxiv" data-scan="https://archive.org/download/cu31924024114773/page/n39_w1400.jpg" aria-label="Inspect scan for page xxxiv">[p. xxxiv]</button></div><figure class="archival-plate" id="fig-003"><img src="/figures/people-of-india/fig-003_p0040.webp" alt="Photographic plate of two men seated outdoors on the ground, one on a woven mat in a loincloth and the other in a dark jacket and white shawl." loading="lazy"></figure>

@@ -1,0 +1,29 @@
+{
+  "version": "tables-dataset-v2",
+  "book_id": "while-sewing-sandals",
+  "collection": "general-heritage",
+  "title": "While Sewing Sandals",
+  "publication_year": 1899,
+  "table_count": 1,
+  "tables": [
+    {
+      "table_id": "tbl-001",
+      "csv_file": "tables/tbl-001_p0348.csv",
+      "csv_path": "tables/tbl-001_p0348.csv",
+      "tidy_csv_file": "tidy/tbl-001_p0348.tidy.csv",
+      "tidy_csv_path": "tidy/tbl-001_p0348.tidy.csv",
+      "tidy_json_file": "tidy/tbl-001_p0348.tidy.json",
+      "parquet_file": null,
+      "caption": "The Leather Workers of India.",
+      "section_id": "sec-26",
+      "start_page": 348,
+      "end_page": 348,
+      "printed_folio": "314",
+      "column_count": 3,
+      "row_count": 9,
+      "tidy_observation_count": 18,
+      "arithmetic_verified": true,
+      "arithmetic_status": "verified_total"
+    }
+  ]
+}

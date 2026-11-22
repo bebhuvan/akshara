@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,1,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.),74.1,74.1,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,1,summary,,Average,3,PROPORTIONS OF NOSE. (Nasal Index.),Average,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,1,summary,,Average,4,PROPORTIONS OF NOSE. (Nasal Index.),73.1,73.1,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,1,summary,,Average,5,STATURE. C.M.,Average,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,1,summary,,Average,6,STATURE. C.M.,162.4,162.4,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,2,data,,Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.),81.1,81.1,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,2,data,,Maximum,3,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,2,data,,Maximum,4,PROPORTIONS OF NOSE. (Nasal Index.),91.5,91.5,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,2,data,,Maximum,5,STATURE. C.M.,Maximum,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,2,data,,Maximum,6,STATURE. C.M.,172.8,172.8,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,3,data,,Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.),67.9,67.9,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,3,data,,Minimum,3,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,3,data,,Minimum,4,PROPORTIONS OF NOSE. (Nasal Index.),60.8,60.8,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,3,data,,Minimum,5,STATURE. C.M.,Minimum,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,3,data,,Minimum,6,STATURE. C.M.,153.2,153.2,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,4,data,,Range,2,PROPORTIONS OF HEAD. (Cephalic Index.),13.2,13.2,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,4,data,,Range,3,PROPORTIONS OF NOSE. (Nasal Index.),Range,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,4,data,,Range,4,PROPORTIONS OF NOSE. (Nasal Index.),30.7,30.7,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,4,data,,Range,5,STATURE. C.M.,Range,,,False,False
+people-of-india,tbl-023,Type Specimen : Vellala (Good Sudra).,408,366,4,data,,Range,6,STATURE. C.M.,19.6,19.6,,False,False

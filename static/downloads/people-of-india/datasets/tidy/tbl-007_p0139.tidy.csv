@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-007,Mahili.,139,97,1,data,,Dungri,2,Totem.,Dumur fig.,,,False,False
+people-of-india,tbl-007,Mahili.,139,97,2,data,,Turu,2,Totem.,Turu grass.,,,False,False
+people-of-india,tbl-007,Mahili.,139,97,3,data,,Kānti,2,Totem.,Ear of any animal.,,,False,False
+people-of-india,tbl-007,Mahili.,139,97,4,data,,Hānsda,2,Totem.,Wild goose.,,,False,False
+people-of-india,tbl-007,Mahili.,139,97,5,data,,Murmu,2,Totem.,Nīlgāi.,,,False,False

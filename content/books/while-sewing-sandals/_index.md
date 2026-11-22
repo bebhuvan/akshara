@@ -1,40 +1,132 @@
 ---
 title: "While Sewing Sandals"
+date: "2026-11-22"
 subtitle: "Or, Tales of a Telugu Pariah Tribe"
 author: "Emma Rauschenbusch-Clough"
 author_slug: "emma-rauschenbusch-clough"
 year: 1899
+imprint: "London: Hodder and Stoughton"
 language: "English"
-pages: 366
-chapters: 22
+pages: 362
+extracted_pages: 337
+reread_pages: 2
+human_verified_pages: 0
+chapters: 28
+footnotes_count: 0
+tables_count: 1
+figures_count: 9
+reading_time: "~5 hrs"
 type: "books"
 layout: "book"
+collection_slug: "general-heritage"
+collection_title: "Akshara General Heritage Library"
+edition_generation: "v6"
+edition_tier: "machine_checked"
+rubric_score: 100.0
+rubric_pillars:
+  - name: "Structural Completeness"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+  - name: "Apparatus & Footnotes"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+  - name: "Tabular & Numeric Accuracy"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+  - name: "Orthography & Diacritics"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+reader_model: "Gemini 3.8 Flash"
+provenance_statement: "Machine-checked; 2 of 337 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+taxonomy_provenance:
+  - "Read: Gemini 3.8 Flash"
+  - "Source: Camera JP2 Originals"
+  - "Scan-Triaged: 6 fixes · 2 pp. checked"
+  - "Human Proofed: 0% (Machine + Scan-Crop Only)"
+  - "Tables: 1/1 Arithmetic-Checked"
+taxonomy_diplomatic:
+  - "Diplomatic Orthography"
+  - "Script: Latin"
+period: "19th Century Andhra"
+regions:
+  - "Madras Presidency"
+  - "Andhra"
+  - "Ongole"
+  - "South India"
+subjects:
+  - "Madiga Community"
+  - "Oral Tradition"
+  - "Rural Society"
+  - "Ethnography"
+archive_id: "whilesewingsanda00rausrich"
+archive_url: "https://archive.org/details/whilesewingsanda00rausrich"
+source_sha256: "60525be4d5c9091dd257c8bb70067e39cd650b5ddc938ea5aa0ab1a8f907a55e"
 cover: "/covers/while-sewing-sandals.webp"
-description: "An intimate ethnographic account of the Madigas, the leather-working Pariah tribe of the Telugu country in South India. Written by a missionary who spent seventeen years among them, this remarkable work documents their ancient legends, religious practices, and the extraordinary mass movement toward Christianity that saw ten thousand converts in a single year. Through the voices of the Madigas themselves, we witness their search for truth 'while sewing sandals' with their hands."
-reading_time: "6-8 hours"
-period: "19th Century India"
-publisher: "Hodder and Stoughton"
-publication_location: "London"
-archive_url: "https://archive.org/details/whilesewingsanda00rausrich/mode/2up"
-digitized_from: "Archive.org (University of California Libraries)"
-digitization_method: "AI-assisted extraction via Project Akshara"
-downloads:
-  epub: "https://drive.google.com/drive/folders/19lF6t9Jfl9RZO8_6CTtgKXJ1-RuoZUkg?usp=sharing"
-  pdf: "https://drive.google.com/drive/folders/19lF6t9Jfl9RZO8_6CTtgKXJ1-RuoZUkg?usp=sharing"
-  markdown: "https://drive.google.com/drive/folders/19lF6t9Jfl9RZO8_6CTtgKXJ1-RuoZUkg?usp=sharing"
-cascade:
-  type: "chapters"
-edition_generation: "v1"
-edition_tier: "v1_archive"
 cover_svg: "/covers/while-sewing-sandals.svg"
 archetype: "village_and_society"
 palette: "Terracotta Loom"
+description: "Or, Tales of a Telugu Pariah Tribe. Archival scope: spanning 19th Century Andhra; covering Madras Presidency, Andhra, Ongole, South India; focusing on madiga community, oral tradition, rural society, ethnography. Original imprint: London: Hodder and Stoughton (1899)."
+featured_quote: ""
+download_epub: "/downloads/while-sewing-sandals/while-sewing-sandals.epub"
+download_html: "/downloads/while-sewing-sandals/while-sewing-sandals.html"
+download_md: "/downloads/while-sewing-sandals/while-sewing-sandals.md"
+download_tei: "/downloads/while-sewing-sandals/while-sewing-sandals.tei.xml"
+download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-while-sewing-sandals/while-sewing-sandals.pdf"
+download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-while-sewing-sandals/while-sewing-sandals.originals.pdf"
+github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/general-heritage/while-sewing-sandals"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/while-sewing-sandals"
+has_datasets: true
+download_datasets: "/downloads/while-sewing-sandals/datasets/datapackage.json"
+tables_list:
+  - table_id: "tbl-001"
+    caption: "The Leather Workers of India."
+    printed_folio: "314"
+    rows: 9
+    cols: 3
+    diplomatic_csv: "/downloads/while-sewing-sandals/datasets/tables/tbl-001_p0348.csv"
+    tidy_csv: "/downloads/while-sewing-sandals/datasets/tidy/tbl-001_p0348.tidy.csv"
+    section_url: "/books/while-sewing-sandals/chapters/26-references/#tbl-001"
+cascade:
+  type: "chapters"
+editorial_note_markdown: |-
+  # A Note On This Edition — *While Sewing Sandals*
+
+  This digital edition was produced by transcribing a scanned copy of the original printed book. This note records where the scan came from, what we normalized from the printed page, and what we know still awaits human eyes, so that you can judge the text for yourself and consult the original scan where it matters.
+
+  ## 1. The Copy We Worked From
+
+  - **Title**: *While Sewing Sandals* (1899)
+  - **Author(s)**: Emma Rauschenbusch-Clough
+  - **Imprint**: London: Hodder and Stoughton
+  - **Internet Archive Scan**: [`whilesewingsanda00rausrich`](https://archive.org/details/whilesewingsanda00rausrich)
+  - **Source File**: `while-sewing-sandals.originals.pdf`
+  - **Source SHA-256**: `60525be4d5c9091dd257c8bb70067e39cd650b5ddc938ea5aa0ab1a8f907a55e`
+  - **Leaf Accounting**: 362 PDF leaves — **337** content leaves transcribed, **25** blank/tissue leaves (`4, 6, 7, 12, 18, 20, 67, 72, 92, 113, 134, 136, 170, 180, 182, 192 (+9 more)`), **0** failed leaves.
+  - **Edition Status**: `machine_checked` (**100.0 / 100** Rubric Score)
+
+  ## 2. Editorial Policy: Presentation vs. Historical Text
+
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (50 flyleaf/stamp block(s)) are excluded from reading prose; **232** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **0** multi-page tables were stitched; and **535** end-of-line hyphens were resolved against intra-book attestation.
+  - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (6 distinct non-ASCII characters across 12 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+
+  ## 3. Transcription Provenance & Remaining Open Checks
+
+  - **Models**: `gemini-3.8-flash` (337 pp.).
+  - **Reader**: Read by gemini-3.8-flash on 337 of 337 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
+  - **Human Proofing**: 6 replayed correction(s). Machine-checked; 2 of 337 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+
+  Rather than pretend machine transcription is infallible, here is what our validators still flag:
+
+  - **2 finding(s) across 2 leaf(s)** (pp. 90, 345): rare character.
+
+  If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
-Emma Rauschenbusch-Clough arrived in India in 1882 as a young missionary and spent the next seventeen years living among the Telugu people. This book is the fruit of countless days spent with the Madigas, listening to their legends and learning about their religious practices.
+Or, Tales of a Telugu Pariah Tribe. Archival scope: spanning 19th Century Andhra; covering Madras Presidency, Andhra, Ongole, South India; focusing on madiga community, oral tradition, rural society, ethnography. Original imprint: London: Hodder and Stoughton (1899).
 
-The Madigas are among the most despised of the Pariah castes of Southern India. For centuries they have tanned hides, sewn sandals, and prepared leather goods for the higher castes. Yet within this humble community, Rauschenbusch-Clough discovered a rich tradition of myth, ritual, and spiritual seeking.
-
-The book is structured in six parts, moving from ancient tribal history through the Matangi mother-worship cult, the influence of various gurus, and finally to the remarkable mass movement toward Christianity that culminated in the baptism of 2,222 people in a single day in Ongole.
-
-Written with deep respect for her subjects, this work preserves voices and traditions that might otherwise have been lost to history.
+Digitized from Internet Archive copy [`whilesewingsanda00rausrich`](https://archive.org/details/whilesewingsanda00rausrich) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (0), and statistical tables (1) are preserved faithfully from the source camera scans.

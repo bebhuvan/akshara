@@ -3,7 +3,7 @@ title: "Classical, Vedic & Philological Studies"
 type: "collections"
 book_count: 5
 author_count: 5
-earliest_year: 1883
+earliest_year: 1892
 latest_year: 1915
 description: "Classical translations, Vedic philology, comparative religion, and literary heritage from India's ancient canons."
 period: "Vedic & Classical Traditions"

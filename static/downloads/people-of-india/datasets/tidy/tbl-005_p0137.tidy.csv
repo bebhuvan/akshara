@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-005,Table 5,137,95,1,data,,Tirki,2,Orāon. :: Totem.,Young mice.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,2,data,,Ekka,2,Orāon. :: Totem.,Tortoise.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,3,data,,Kispotta,2,Orāon. :: Totem.,Pig's entrails.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,4,data,,Lakra,2,Orāon. :: Totem.,Hyena.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,5,data,,Bāgh,2,Orāon. :: Totem.,Tiger.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,6,data,,Kujrar,2,Orāon. :: Totem.,Oil from Kujrar tree.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,7,data,,Gede,2,Orāon. :: Totem.,Duck.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,8,data,,Khoepa,2,Orāon. :: Totem.,Wild dog.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,9,data,,Minji,2,Orāon. :: Totem.,Eel.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,10,data,,Chirra,2,Orāon. :: Totem.,Squirrel.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,11,data,,Ergo,2,Santāl. :: Totem.,Rat.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,12,data,,Murmu,2,Santāl. :: Totem.,Nilgāi.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,13,data,,Hānsdā,2,Santāl. :: Totem.,Wild goose.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,14,data,,Mārudi,2,Santāl. :: Totem.,A kind of grass.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,15,data,,Besrā,2,Santāl. :: Totem.,Hawk.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,16,data,,Hemron,2,Santāl. :: Totem.,Betel palm.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,17,data,,Saren,2,Santāl. :: Totem.,The constellation Pleiades.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,18,data,,Sankh,2,Santāl. :: Totem.,Conch-shell.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,19,data,,Guā,2,Santāl. :: Totem.,Areca nut.,,,False,False
+people-of-india,tbl-005,Table 5,137,95,20,data,,Kārā,2,Santāl. :: Totem.,Buffalo.,,,False,False

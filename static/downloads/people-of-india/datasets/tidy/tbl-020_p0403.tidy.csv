@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-020,Table 20,403,361,1,data,,Medium Noses (Mesorrhine),2,Column 2,70 and under 75,,,False,False
+people-of-india,tbl-020,Table 20,403,361,1,data,,Medium Noses (Mesorrhine),3,Column 3,25,25.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,2,data,,Row 2,2,Column 2,75 and under 80,,,False,False
+people-of-india,tbl-020,Table 20,403,361,2,data,,Row 2,3,Column 3,16,16.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,3,data,,Row 3,2,Column 2,80 and under 85,,,False,False
+people-of-india,tbl-020,Table 20,403,361,3,data,,Row 3,3,Column 3,20,20.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,4,data,,Broad Noses (Platyrrhine),2,Column 2,85 and over,,,False,False
+people-of-india,tbl-020,Table 20,403,361,4,data,,Broad Noses (Platyrrhine),3,Column 3,6,6.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,6,data,ROOT OF NOSE,Platy-opic (Flat),2,Column 2,107 and under 110,,,False,False
+people-of-india,tbl-020,Table 20,403,361,6,data,ROOT OF NOSE,Platy-opic (Flat),3,Column 3,2,2.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,7,data,ROOT OF NOSE,Mes-opic (Medium),2,Column 2,110 and under 113,,,False,False
+people-of-india,tbl-020,Table 20,403,361,7,data,ROOT OF NOSE,Mes-opic (Medium),3,Column 3,9,9.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,8,data,ROOT OF NOSE,Pro-opic (Prominent),2,Column 2,113 and under 116,,,False,False
+people-of-india,tbl-020,Table 20,403,361,8,data,ROOT OF NOSE,Pro-opic (Prominent),3,Column 3,29,29.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,9,data,ROOT OF NOSE,Row 9,2,Column 2,116 and under 119,,,False,False
+people-of-india,tbl-020,Table 20,403,361,9,data,ROOT OF NOSE,Row 9,3,Column 3,34,34.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,10,data,ROOT OF NOSE,Row 10,2,Column 2,119 and under 122,,,False,False
+people-of-india,tbl-020,Table 20,403,361,10,data,ROOT OF NOSE,Row 10,3,Column 3,21,21.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,11,data,ROOT OF NOSE,Row 11,2,Column 2,122 and over,,,False,False
+people-of-india,tbl-020,Table 20,403,361,11,data,ROOT OF NOSE,Row 11,3,Column 3,5,5.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,13,data,STATURE. Centimetres,Short,2,Column 2,"Under 155 5' 1""",,,False,False
+people-of-india,tbl-020,Table 20,403,361,13,data,STATURE. Centimetres,Short,3,Column 3,3,3.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,14,data,STATURE. Centimetres,Row 14,2,Column 2,"155 and under 160 5' 1""—5' 3""",,,False,False
+people-of-india,tbl-020,Table 20,403,361,14,data,STATURE. Centimetres,Row 14,3,Column 3,23,23.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,15,data,STATURE. Centimetres,Below Mean,2,Column 2,"160 and under 165 5' 3""—5' 5""",,,False,False
+people-of-india,tbl-020,Table 20,403,361,15,data,STATURE. Centimetres,Below Mean,3,Column 3,33,33.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,16,data,STATURE. Centimetres,Above Mean,2,Column 2,"165 and under 170 5' 5""—5' 7""",,,False,False
+people-of-india,tbl-020,Table 20,403,361,16,data,STATURE. Centimetres,Above Mean,3,Column 3,22,22.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,17,data,STATURE. Centimetres,Tall,2,Column 2,"170 and under 175 5' 7""—5' 9""",,,False,False
+people-of-india,tbl-020,Table 20,403,361,17,data,STATURE. Centimetres,Tall,3,Column 3,16,16.0,,False,False
+people-of-india,tbl-020,Table 20,403,361,18,data,STATURE. Centimetres,Row 18,2,Column 2,"175 and over 5' 9""",,,False,False
+people-of-india,tbl-020,Table 20,403,361,18,data,STATURE. Centimetres,Row 18,3,Column 3,3,3.0,,False,False

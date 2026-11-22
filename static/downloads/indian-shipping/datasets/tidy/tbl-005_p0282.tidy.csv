@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-shipping,tbl-005,Table 5,282,230,1,data,,Ghrabs,2,Column 2,21,21.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,2,data,,Salb,2,Column 2,3,3.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,3,data,,Kusa,2,Column 2,157,157.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,4,data,,Jalba,2,Column 2,96,96.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,5,data,,Bachhari,2,Column 2,2,2.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,6,data,,Parenda,2,Column 2,6,6.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,7,data,,Not specified,2,Column 2,3,3.0,,False,True
+indian-shipping,tbl-005,Table 5,282,230,8,total,,Total,2,Column 2,288,288.0,,False,True

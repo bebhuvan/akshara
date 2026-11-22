@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-006,Bhūmij.,139,97,1,data,,Sālrisi,2,Totem.,Sāl fish.,,,False,False
+people-of-india,tbl-006,Bhūmij.,139,97,2,data,,Hānsda,2,Totem.,Wild goose.,,,False,False
+people-of-india,tbl-006,Bhūmij.,139,97,3,data,,Leng,2,Totem.,Mushroom.,,,False,False
+people-of-india,tbl-006,Bhūmij.,139,97,4,data,,Sāndilya,2,Totem.,A bird.,,,False,False
+people-of-india,tbl-006,Bhūmij.,139,97,5,data,,Hemron,2,Totem.,Betel palm.,,,False,False
+people-of-india,tbl-006,Bhūmij.,139,97,6,data,,Tumarung,2,Totem.,Pumpkin.,,,False,False
+people-of-india,tbl-006,Bhūmij.,139,97,7,data,,Nāg,2,Totem.,Snake.,,,False,False

@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+indian-shipping,tbl-004,Table 4,279,227,1,data,,Kosahs,2,Column 2,159,159.0,,False,True
+indian-shipping,tbl-004,Table 4,279,227,2,data,,Jalbahs,2,Column 2,48,48.0,,False,True
+indian-shipping,tbl-004,Table 4,279,227,3,data,,Ghrabs,2,Column 2,10,10.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,4,data,,Parindahs,2,Column 2,7,7.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,5,data,,Bajrahs,2,Column 2,4,4.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,6,data,,Patilahs,2,Column 2,50,50.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,7,data,,Salbs,2,Column 2,2,2.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,8,data,,Patils,2,Column 2,1,1.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,9,data,,Bhars,2,Column 2,1,1.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,10,data,,Balams,2,Column 2,2,2.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,11,data,,Rhatgiris,2,Column 2,10,10.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,12,data,,Mahalgiris,2,Column 2,5,5.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,13,data,,Palwarahs and other small ships,2,Column 2,24,24.0,,False,True
+indian-shipping,tbl-004,Table 4,280,227,14,total,,Total,2,Column 2,323,323.0,,False,True

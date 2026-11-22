@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-008,Korā.,139,97,1,data,,Kasyab,2,Totem.,Tortoise.,,,False,False
+people-of-india,tbl-008,Korā.,139,97,2,data,,Saulā,2,Totem.,Sāl fish.,,,False,False
+people-of-india,tbl-008,Korā.,139,97,3,data,,Kāsibak,2,Totem.,Heron.,,,False,False
+people-of-india,tbl-008,Korā.,139,97,4,data,,Hānsda,2,Totem.,Wild goose.,,,False,False
+people-of-india,tbl-008,Korā.,139,97,5,data,,Butku,2,Totem.,Pig.,,,False,False
+people-of-india,tbl-008,Korā.,139,97,6,data,,Sāmpu,2,Totem.,Bull.,,,False,False

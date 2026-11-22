@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-009,Kurmi.,139,97,1,data,,Kesariā,2,Totem.,Kesar grass.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,2,data,,Tarār,2,Totem.,Buffalo.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,3,data,,Dumuriā,2,Totem.,Dumur fig.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,4,data,,Chonchmukruār,2,Totem.,Spider.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,5,data,,Hastowār,2,Totem.,Tortoise.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,6,data,,Jālbanuār,2,Totem.,Net.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,7,data,,Sankhowār,2,Totem.,Shell ornaments.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,8,data,,Bāghbanuār,2,Totem.,Tiger.,,,False,False
+people-of-india,tbl-009,Kurmi.,139,97,9,data,,Katiār,2,Totem.,Silk cloth.,,,False,False

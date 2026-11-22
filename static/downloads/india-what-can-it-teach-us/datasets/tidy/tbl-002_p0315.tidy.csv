@@ -1,0 +1,34 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,1,data,,(1) The Krita-Yuga,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,1,data,,(1) The Krita-Yuga,3,Column 3,"1,728,000",1728000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,1,data,,(1) The Krita-Yuga,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,2,data,,(2) The Tretâ-Yuga,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,2,data,,(2) The Tretâ-Yuga,3,Column 3,"1,296,000",1296000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,2,data,,(2) The Tretâ-Yuga,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,3,data,,(3) The Dvâpara-Yuga,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,3,data,,(3) The Dvâpara-Yuga,3,Column 3,"864,000",864000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,3,data,,(3) The Dvâpara-Yuga,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,4,data,,(4) The Kali-Yuga,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,4,data,,(4) The Kali-Yuga,3,Column 3,"432,000",432000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,4,data,,(4) The Kali-Yuga,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,5,subtotal,,A Mahâyuga,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,5,subtotal,,A Mahâyuga,3,Column 3,"4,320,000",4320000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,5,subtotal,,A Mahâyuga,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,6,data,,Row 6,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,6,data,,Row 6,3,Column 3,71,71.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,6,data,,Row 6,4,Column 4,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,7,subtotal,,A Manu period,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,7,subtotal,,A Manu period,3,Column 3,"306,720,000",306720000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,7,subtotal,,A Manu period,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,8,data,,Row 8,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,8,data,,Row 8,3,Column 3,14,14.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,8,data,,Row 8,4,Column 4,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,9,subtotal,,Row 9,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,9,subtotal,,Row 9,3,Column 3,"4,294,080,000",4294080000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,9,subtotal,,Row 9,4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,10,data,,"With fifteen intervals of 1,728,000 each",2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,10,data,,"With fifteen intervals of 1,728,000 each",3,Column 3,"25,920,000",25920000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,10,data,,"With fifteen intervals of 1,728,000 each",4,Column 4,years,,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,11,total,,Row 11,2,Column 2,,,,True,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,11,total,,Row 11,3,Column 3,"4,320,000,000",4320000000.0,,False,False
+india-what-can-it-teach-us,tbl-002,Table 2,315,293,11,total,,Row 11,4,Column 4,"years,",,,False,False

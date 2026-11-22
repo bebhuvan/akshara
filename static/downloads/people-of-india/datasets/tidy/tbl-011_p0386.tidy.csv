@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,1,summary,,Average,2,PROPORTIONS OF HEAD. (Cephalic Index.),79·8,79.8,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,1,summary,,Average,3,PROPORTIONS OF NOSE. (Nasal Index.),Average,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,1,summary,,Average,4,PROPORTIONS OF NOSE. (Nasal Index.),63·1,63.1,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,1,summary,,Average,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Average,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,1,summary,,Average,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),125,125.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,2,data,,Maximum,2,PROPORTIONS OF HEAD. (Cephalic Index.),92,92.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,2,data,,Maximum,3,PROPORTIONS OF NOSE. (Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,2,data,,Maximum,4,PROPORTIONS OF NOSE. (Nasal Index.),84,84.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,2,data,,Maximum,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Maximum,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,2,data,,Maximum,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),143,143.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,3,data,,Minimum,2,PROPORTIONS OF HEAD. (Cephalic Index.),70,70.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,3,data,,Minimum,3,PROPORTIONS OF NOSE. (Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,3,data,,Minimum,4,PROPORTIONS OF NOSE. (Nasal Index.),42,42.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,3,data,,Minimum,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Minimum,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,3,data,,Minimum,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),104,104.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,4,data,,Range,2,PROPORTIONS OF HEAD. (Cephalic Index.),22,22.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,4,data,,Range,3,PROPORTIONS OF NOSE. (Nasal Index.),Range,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,4,data,,Range,4,PROPORTIONS OF NOSE. (Nasal Index.),42,42.0,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,4,data,,Range,5,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),Range,,,False,False
+people-of-india,tbl-011,Type Specimen: Jāt.,386,344,4,data,,Range,6,RELATIVE PROMINENCE OF ROOT OF NOSE. (Orbito-Nasal Index.),39,39.0,,False,False

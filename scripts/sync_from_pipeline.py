@@ -28,7 +28,13 @@ LEGACY_SUPERSEDED_DIRS = {
 AUTHOR_SLUG_ALIASES: dict[str, str] = {
     "w-h-moreland": "william-harrison-moreland",
     "rammohun-roy": "raja-rammohun-roy",
+    "f-max-m-ller": "f-max-muller",
+    "friedrich-max-muller": "f-max-muller",
+    "john-nicol-farquhar": "j-n-farquhar",
 }
+
+LEGACY_PROOFING_APP_URL = "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
+CANONICAL_PROOFING_APP_URL = "https://proof.akshara.ink"
 
 COLLECTION_DEFINITIONS: list[dict[str, Any]] = [
     {
@@ -402,7 +408,10 @@ def main() -> None:
             shutil.rmtree(dst_book)
         (dst_book / "chapters").mkdir(parents=True, exist_ok=True)
 
-        idx_fm, idx_body = _parse_frontmatter((hugo_src / "_index.md").read_text(encoding="utf-8"), yaml)
+        raw_idx = (hugo_src / "_index.md").read_text(encoding="utf-8").replace(
+            LEGACY_PROOFING_APP_URL, CANONICAL_PROOFING_APP_URL
+        )
+        idx_fm, idx_body = _parse_frontmatter(raw_idx, yaml)
         aslug = str(hm.get("author_slug") or idx_fm.get("author_slug") or _slugify(str(hm.get("primary_author") or "")))
         aslug = AUTHOR_SLUG_ALIASES.get(aslug, aslug)
         idx_fm["author_slug"] = aslug
@@ -412,7 +421,10 @@ def main() -> None:
 
         chap_slug_map[bid] = {}
         for ch_path in sorted((hugo_src / "chapters").glob("*.md")):
-            shutil.copy2(ch_path, dst_book / "chapters" / ch_path.name)
+            ch_text = ch_path.read_text(encoding="utf-8").replace(
+                LEGACY_PROOFING_APP_URL, CANONICAL_PROOFING_APP_URL
+            )
+            (dst_book / "chapters" / ch_path.name).write_text(ch_text, encoding="utf-8")
             stem = ch_path.stem
             chap_slug_map[bid][stem] = stem
             chap_slug_map[bid][re.sub(r"^\d{2,}-", "", stem)] = stem
