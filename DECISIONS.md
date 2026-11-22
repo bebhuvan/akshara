@@ -44,7 +44,7 @@ static files. Less code, fewer places to be wrong.
 **Decided.** Scripts run only from akshara.ink (`script-src 'self' 'wasm-unsafe-eval'`, the latter for the
 search index's WebAssembly). Inline styles are allowed, because each book's cloth colour is set in a
 `style` attribute. Images may load from archive.org, for the scan beside each page. Cloudflare Web
-Analytics was removed from the policy.
+Analytics was removed from the policy (since restored for visit counts, D32).
 
 **Why.** No inline scripts remain, so `'unsafe-inline'` for scripts is no longer needed. A public library
 should not send its readers to third parties.
@@ -413,3 +413,17 @@ know the other's file counts for Cloudflare's limits (D9).
 **Rejected.** Copying the imprint's `public/<path>/` into the library's `public/` at build: it ties the
 library's build to a second repository, and the headers and redirects would have to be merged by hand. A
 subdomain: Bhuvanesh chose a path.
+
+## D32: Cloudflare Web Analytics counts visits (2026-11-22)
+
+**Decided.** The security policy lets Cloudflare Web Analytics run: its beacon may load from
+`static.cloudflareinsights.com` (`script-src`) and report to `cloudflareinsights.com` (`connect-src`). This changes
+D4's "Cloudflare Web Analytics was removed from the policy (since restored for visit counts, D32).. Cloudflare adds the beacon to every page itself (the
+setting is on the akshara.ink zone), so the site's own templates do not change.
+
+**Why.** Bhuvanesh wants to know how many people read the library. After launch the policy blocked the beacon on every
+page and nothing was counted. Cloudflare already serves every request, so the beacon sends no reader to a new party; it
+sets no cookies and keeps no record that identifies a reader, which keeps within the DPDP Act.
+
+**Rejected.** A separate analytics service (Plausible, Google Analytics): a new third party for a count Cloudflare
+already offers. Reading Cloudflare's server-side traffic numbers only: they count bots and crawlers as readers.

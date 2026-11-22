@@ -124,3 +124,26 @@ class InlineStyles(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class SecurityPolicy(unittest.TestCase):
+    """The policy blocked Cloudflare's visitor-count beacon after launch, so no visits were counted (D32)."""
+
+    def directive(self, name: str) -> list[str]:
+        headers = (Path(__file__).resolve().parent.parent / "static" / "_headers").read_text(encoding="utf-8")
+        policy = next(line for line in headers.splitlines() if "Content-Security-Policy:" in line)
+        for part in policy.split(":", 1)[1].split(";"):
+            words = part.split()
+            if words and words[0] == name:
+                return words[1:]
+        self.fail(f"{name} is missing from the policy")
+
+    def test_the_analytics_beacon_may_load(self):
+        self.assertIn("https://static.cloudflareinsights.com", self.directive("script-src"))
+
+    def test_the_analytics_beacon_may_report(self):
+        self.assertIn("https://cloudflareinsights.com", self.directive("connect-src"))
+
+    def test_no_other_script_source_is_allowed(self):
+        self.assertEqual(self.directive("script-src"),
+                         ["'self'", "'wasm-unsafe-eval'", "https://static.cloudflareinsights.com"])
