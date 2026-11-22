@@ -334,9 +334,10 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   date in its own column on a wide screen, like a register.
 - **A journal essay (`.essay`, D33).** The plain page's column, plus a byline under the standfirst (the akṣara
   in the shelf's ink, By Bhuvan, date, minutes); a first letter three lines tall, light, in the shelf's ink; the
-  essay's own sentences set large in light italic in the shelf's ink between two fine rules of that ink
-  (`.pull`, hanging 40px into each margin on a wide screen); a section break (`***`) drawn as ಅ in the shelf's
-  ink; at the foot the signature, then "In the library" with the covers of the books it talks about, three to a
+  essay's own sentences set large in light italic in the shelf's ink under a large opening quotation mark and
+  over a short 2px rule of that ink (`.pull`); links in the shelf's ink with a 1.5px underline of it that fills
+  to a soft band of it on hover or focus; a quotation on a faint ground of the shelf's ink with a 3px rule of
+  it at the left; a section break (`***`) drawn as ಅ in the shelf's ink; at the foot the signature, then "In the library" with the covers of the books it talks about, three to a
   row, then Earlier and Later.
 - **The authors index (`.index`, `.ix`).** Filed by surname under a large light letter in the margin, as a
   printed index is, with a row of letters at the top to jump to. Each writer: the name, years and

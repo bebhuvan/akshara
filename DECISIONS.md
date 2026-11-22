@@ -432,9 +432,10 @@ already offers. Reading Cloudflare's server-side traffic numbers only: they coun
 
 **Decision.** A journal essay keeps the plain page's reading column but gains: a byline under the standfirst (the
 akṣara, "By Bhuvan", the date, the reading time); a first letter three lines tall in the shelf's ink; the essay's
-own sentences from `data/journal.toml` (`pull`) set large between paragraphs, at a third and two thirds of the way,
+own sentences from `data/journal.toml` (`pull`) set large under a large opening quotation mark between paragraphs, at a third and two thirds of the way,
 only at a top-level paragraph break and hidden from screen readers so they meet each sentence once; a section
-break written `***` drawn as the akṣara ಅ in the shelf's ink; and at the foot, under the signature, "In the
+break written `***` drawn as the akṣara ಅ in the shelf's ink; links and quotations in the shelf's ink (a link's
+underline fills to a soft band on hover, a quotation sits on a faint ground of the ink); and at the foot, under the signature, "In the
 library": the covers of the books the essay talks about, named by id in `data/journal.toml` (`books`). A named
 book that is not in the library stops the build. The foot's links were labelled the wrong way round (the older
 essay was called "Later"); they now read Earlier and Later.
