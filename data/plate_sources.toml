@@ -1,0 +1,244 @@
+# Where each cover plate comes from, and how scripts/make_plates.py rebuilds it.
+#
+# One [[plate]] per plate in static/plates/<key>.webp. A plate is always a picture from the
+# book it is credited to (never another volume or edition). Fields:
+#   key     file name in static/plates (without .webp)
+#   book    the book id (content/books/<book>)
+#   source  a repo path under static/figures, or the full archive.org page image URL of that book's scan
+#   crop    [left, top, right, bottom] as fractions of the source (after any rotate)
+#   mode    "line" (engraving, map, device) or "halftone" (photograph, ordered dither)
+#   levels  optional [black, white] points (0-255) after auto-contrast; otherwise measured
+#   channel optional colour channel to read instead of grey ("blue" drops a blue library stamp)
+#   blank   optional list of [l, t, r, b] boxes (fractions of the crop) painted out as paper
+#   rotate  optional degrees counter-clockwise, for plates printed sideways
+#   what    one line saying what the picture is and where it is in the book
+#   made    instead of crop: the plate was made by hand and the script skips it
+
+[[plate]]
+key = "x-exchange-arms"
+book = "east-india-exchange-currency-1920"
+source = "static/figures/east-india-exchange-currency-1920/fig-001_p0003.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+what = "Royal arms on the title page (scan p. 3)"
+
+[[plate]]
+key = "x-lajpat-device"
+book = "englands-debt-to-india-lajpat-rai-1917"
+source = "https://archive.org/download/englandsdebttoin00lajpuoft/page/n6_w1400.jpg"
+crop = [0.42, 0.57, 0.586, 0.73]
+mode = "line"
+what = "B. W. Huebsch's publisher's device (candlesticks) on the title page"
+
+[[plate]]
+key = "x-ef1-map"
+book = "english-factories-india-1618-1621-vol-01"
+source = "static/figures/english-factories-india-1618-1621-vol-01/fig-002_p0006.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+what = "Frontispiece map, the dominions of the Great Mogul"
+
+[[plate]]
+key = "x-ef2-ormus"
+book = "english-factories-india-1622-1623-vol-02"
+source = "static/figures/english-factories-india-1622-1623-vol-02/fig-001_p0001.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+what = "Map of Ormus and the strait in 1622 (frontispiece)"
+
+[[plate]]
+key = "x-ef3-letter"
+book = "english-factories-india-1624-1629-vol-03"
+source = "static/figures/english-factories-india-1624-1629-vol-03/fig-002_p0006.webp"
+crop = [0.0, 0.0, 1.0, 0.43]
+mode = "line"
+what = "Frontispiece facsimile letter: the hand-drawn sketch chart at its head"
+
+[[plate]]
+key = "x-ef4-portrait"
+book = "english-factories-india-1630-1633-vol-04"
+source = "static/figures/english-factories-india-1630-1633-vol-04/fig-002_p0006.webp"
+crop = [0.045, 0.04, 0.955, 0.965]
+mode = "halftone"
+what = "Frontispiece portrait"
+
+[[plate]]
+key = "x-ef5-factory"
+book = "english-factories-india-1634-1636-vol-05"
+source = "static/figures/english-factories-india-1634-1636-vol-05/fig-002_p0006.webp"
+crop = [0.03, 0.03, 0.97, 0.98]
+mode = "line"
+long_side = 900
+what = "Frontispiece: a building"
+
+[[plate]]
+key = "x-ef6-tombs"
+book = "english-factories-india-1637-1641-vol-06"
+source = "static/figures/english-factories-india-1637-1641-vol-06/fig-002_p0006.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "halftone"
+what = "Frontispiece photograph of tombs"
+
+[[plate]]
+key = "x-ef9-painting"
+book = "english-factories-india-1651-1654-vol-09"
+source = "static/figures/english-factories-india-1651-1654-vol-09/fig-002_p0006.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "halftone"
+what = "Frontispiece: a Mughal painting"
+
+[[plate]]
+key = "x-ef10-map"
+book = "english-factories-india-1655-1660-vol-10"
+source = "static/figures/english-factories-india-1655-1660-vol-10/fig-002_p0006.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+what = "Frontispiece map of the west coast"
+
+[[plate]]
+key = "x-ef11-portrait"
+book = "english-factories-india-1661-1664-vol-11"
+source = "static/figures/english-factories-india-1661-1664-vol-11/fig-002_p0008.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "halftone"
+what = "Frontispiece portrait"
+
+[[plate]]
+key = "x-a2a-map"
+book = "from-akbar-to-aurangzeb"
+source = "static/figures/from-akbar-to-aurangzeb/fig-001_p0022.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+levels = [45, 180]
+what = "Map of India, 1600-1660"
+
+[[plate]]
+key = "x-akbar-map"
+book = "india-at-the-death-of-akbar"
+source = "static/figures/india-at-the-death-of-akbar/fig-001_p0016.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+levels = [50, 215]
+what = "Map of India at the death of Akbar"
+
+[[plate]]
+key = "x-rammohun-map"
+book = "judicial-revenue-systems-india-rammohun-1832"
+source = "static/figures/judicial-revenue-systems-india-rammohun-1832/fig-001_p0024.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+levels = [75, 170]
+what = "Folding map of India"
+
+[[plate]]
+key = "x-naoroji-1918"
+book = "speeches-and-writings-naoroji-1918"
+source = "static/figures/speeches-and-writings-naoroji-1918/fig-001_p0006.webp"
+crop = [0.025, 0.02, 0.975, 0.98]
+mode = "halftone"
+what = "Frontispiece portrait of Dadabhai Naoroji"
+
+[[plate]]
+key = "x-opium-arms"
+book = "truth-about-indian-opium"
+source = "static/figures/truth-about-indian-opium/fig-001_p0003.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+what = "Royal arms on the title page (scan p. 3)"
+
+[[plate]]
+key = "x-farquhar-roy"
+book = "modern-religious-movements-india"
+source = "https://archive.org/download/modernreligiousm00farqiala/page/n5_w1400.jpg"
+crop = [0.27, 0.10, 0.76, 0.50]
+mode = "halftone"
+what = "Frontispiece: Raja Ram Mohan Ray after the portrait by Biggs (head and shoulders)"
+
+[[plate]]
+key = "x-risley"
+book = "people-of-india"
+source = "https://archive.org/download/cu31924024114773/page/n7_w1400.jpg"
+crop = [0.15, 0.115, 0.85, 0.775]
+mode = "halftone"
+what = "Frontispiece portrait of Sir Herbert Hope Risley"
+
+[[plate]]
+key = "x-sandals"
+book = "while-sewing-sandals"
+source = "https://archive.org/download/whilesewingsanda00rausrich/page/n7_w1400.jpg"
+crop = [0.12, 0.10, 0.91, 0.825]
+mode = "halftone"
+what = "Frontispiece: Madigas sewing sandals"
+
+# Remade from the same sources as the 2026-11 mock files, which clipped the device's edges.
+
+[[plate]]
+key = "x-ray-seal"
+book = "economic-causes-of-famines-in-india-ray-1909"
+source = "static/figures/economic-causes-of-famines-in-india-ray-1909/fig-001_p0005.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+blank = [[0.88, 0.79, 1.0, 1.0], [0.84, 0.88, 1.0, 1.0]]
+what = "Seal of the University of Calcutta on the title page (scan p. 5); a pencilled shelf mark painted out"
+
+[[plate]]
+key = "x-loveday-device"
+book = "history-and-economics-indian-famines-loveday-1914"
+source = "https://archive.org/download/historyeconomics00loveuoft/page/n6_w1400.jpg"
+crop = [0.418, 0.565, 0.545, 0.668]
+mode = "line"
+channel = "blue"
+blank = [[0.93, 0.9, 1.0, 1.0]]
+what = "G. Bell and Sons' bell-and-anchor device on the title page; read in blue to drop a library stamp"
+
+# Made by hand in the 2026-11 design mock (recipe not recorded). Each was matched back to its
+# source by comparing the plate with the book's figures or scan; the script leaves these files alone.
+
+[[plate]]
+key = "x-naoroji"
+book = "essays-speeches-addresses-writings-naoroji-1887"
+source = "static/figures/essays-speeches-addresses-writings-naoroji-1887/fig-001_p0009.webp"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Frontispiece portrait of Dadabhai Naoroji (oval vignette, scan p. 9)"
+
+[[plate]]
+key = "x-ef7-map"
+book = "english-factories-india-1642-1645-vol-07"
+source = "static/figures/english-factories-india-1642-1645-vol-07/fig-002_p0006.webp"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Frontispiece map of the south of India"
+
+[[plate]]
+key = "x-ef8-tomb"
+book = "english-factories-india-1646-1650-vol-08"
+source = "static/figures/english-factories-india-1646-1650-vol-08/fig-002_p0006.webp"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Frontispiece photograph of a tomb at Surat"
+
+[[plate]]
+key = "x-eh-coins"
+book = "early-history-of-india-1924"
+source = "static/figures/early-history-of-india-1924/fig-002_p0021.webp"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Plate of Indian coins (scan p. 21)"
+
+[[plate]]
+key = "x-guide-arms"
+book = "guide-to-india-office-records-1919"
+source = "static/figures/guide-to-india-office-records-1919/fig-002_p0007.webp"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Royal arms on the title page (scan p. 7)"
+
+[[plate]]
+key = "x-poverty-device"
+book = "poverty-and-un-british-rule"
+source = "static/figures/poverty-and-un-british-rule/fig-001_p0005.webp"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Swan Sonnenschein's publisher's device on the title page (scan p. 5)"
+
+[[plate]]
+key = "x-shipping-relief"
+book = "indian-shipping"
+source = "https://archive.org/download/indianshippinghi00mookrich/page/n7_w1400.jpg"
+made = "by hand in the 2026-11 mock; source verified"
+what = "Frontispiece: a ship relief from Borobudur, printed sideways on the page (cropped, rotated)"

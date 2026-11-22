@@ -2,19 +2,18 @@
 {{- $books := partial "book/all.html" . -}}
 {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
 {{- $theirs := where $books "page.Params.author_slug" $slug -}}
-<article class="journal author-page">
-  <div class="sheet"><div class="col">
-    <header class="art-head">
-      <p class="kicker"><a href="/authors/">Authors</a></p>
-      <h1>{{ .Title }}</h1>
-      {{- if or .Params.birth_year .Params.death_year }}<p class="dek">{{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}{{ with .Params.birth_place }}, born at {{ . }}{{ end }}</p>{{ end }}
-    </header>
-    {{- with $theirs }}
-    <section class="au-books"><h2 class="bk-h">In the library</h2>
-      <div class="so-covers au-covers">{{ range . }}<a class="cv-link" href="{{ .url }}">{{ partial "book/cover.html" . }}<span class="cv-cap"><i>{{ .cover_title }}</i><br>{{ .year }}</span></a>{{ end }}</div>
-    </section>
-    {{- end }}
-    <div class="prose">{{ .Content }}</div>
-  </div></div>
+<article class="wrap">
+  <header class="pg-h">
+    <p class="up"><a href="/authors/">Authors</a></p>
+    <h1>{{ .Title }}</h1>
+    {{- if or .Params.birth_year .Params.death_year }}<p class="dek">{{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}{{ with .Params.birth_place }}, born at {{ . }}{{ end }}</p>{{ end }}
+  </header>
+  {{- with $theirs }}
+  <section class="sec" aria-labelledby="h-theirs" style="padding-top:40px">
+    <div class="sec-h"><h2 id="h-theirs">In the library</h2><span>{{ partial "words.html" (len .) | strings.FirstUpper }} {{ cond (eq (len .) 1) "book" "books" }}</span></div>
+    <div class="shelf grid">{{ range . }}{{ partial "book/lib-entry.html" . }}{{ end }}</div>
+  </section>
+  {{- end }}
+  {{- with .Content }}<div class="pg-body prose">{{ . }}</div>{{ end }}
 </article>
 {{ end }}

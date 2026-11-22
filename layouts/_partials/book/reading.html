@@ -1,0 +1,59 @@
+{{- /* "How this text was read": the automatic checks' score and what it does not measure, the kinds of
+error a machine reading leaves, and the invitation to put them right. Not a warning: an honest account,
+set as part of the edition. Takes dict "p" (the book page's Params), "isV1", "id" (the book's id). */ -}}
+{{- $p := .p -}}{{- $isV1 := .isV1 -}}
+{{- $checked := int ($p.human_verified_pages | default 0) -}}
+{{- $pages := int ($p.pages | default 0) -}}
+{{- $names := dict "Structural Completeness" "Structure" "Apparatus & Footnotes" "Footnotes" "Tabular & Numeric Accuracy" "Tables and figures" "Orthography & Diacritics" "Spelling and accents" -}}
+<section class="sec reading" aria-labelledby="h-reading">
+  <div class="sec-h"><h2 id="h-reading">How this text was read</h2><span>{{ if $checked }}{{ $checked }} of {{ $pages }} pages checked by a person{{ else }}Read by machine{{ end }}</span></div>
+  <div class="rd">
+    <div class="rd-text">
+      {{- if $isV1 }}
+      <p class="rd-lede">This is an earlier edition, made in 2025 before the present methods existed. Its text was taken from the scans by optical character recognition (OCR) or an earlier AI reading, then cleaned up with AI, and it has not been read against the scans page by page. It will be set again with the present methods and checks.</p>
+      <p class="rd-key">Its errors can be of either kind: the garbled letters and broken words that OCR leaves, or the fluent guesses of a language model, which look like the book.</p>
+      {{- with index hugo.Data.edition_notes .id }}{{ with .omits }}<p class="rd-prov">{{ . }}</p>{{ end }}{{ end }}
+      {{- else }}
+      {{- $score := float ($p.rubric_score | default 0) }}
+      <p class="rd-lede">This book was read from photographs of its pages by a vision-language model, an AI that looks at the image of a page and writes out its text, then run through Akshara’s automatic checks, which flag passages to be read again against the scan. A model reads far more cleanly than ordinary OCR, the plain machine text that usually sits beside a scan online.
+        {{- if ge $score 95.0 }} In this book the checks found little, so what errors remain should be few and small, and should not spoil the reading.{{ else if lt $score 90.0 }} In this book the checks flagged more than usual; what they found is set out beside this.{{ end }} But no machine reading is perfect, and until a person has read a page against its photograph, some errors will remain.</p>
+      <p class="rd-key">When it does go wrong, its mistakes are not the ones older OCR made. OCR leaves garbled letters that catch the eye. A language model reads for sense, so when it goes wrong it usually writes something fluent and plausible: its errors look like the book.</p>
+      {{- with $p.provenance_statement }}<p class="rd-prov">{{ . }}</p>{{ end }}
+      {{- with index hugo.Data.edition_notes .id }}{{ with .omits }}<p class="rd-prov">{{ . }}</p>{{ end }}{{ end }}
+      <h3 class="ed-h">The quirks of a machine reading</h3>
+      <p class="rd-sub">Each is uncommon; these are the kinds a careful reader may meet.</p>
+      <ul class="rd-kinds">
+        <li><b>It tidies what it should copy.</b> An old spelling modernised; the author’s own slip quietly corrected; a romanisation as the author printed it, <i>Bhagavad Gita</i>, given modern IAST, <i>Bhagavad Gītā</i>.</li>
+        <li><b>Where the print is faint, it guesses.</b> A word, a figure, now and then a phrase, supplied because it fits rather than because it is printed. A line may be dropped, or read twice. This has grown rare, and it is the hardest kind to catch.</li>
+        <li><b>Accents and other scripts.</b> Diacritics dropped, or added where the author had none; one name spelt two ways in two chapters. Words in Indian scripts, in Urdu, Persian or Arabic, and quotations in Greek or Latin are all read less surely than English, and a right-to-left line can come out in the wrong order.</li>
+        <li><b>It reads one page at a time.</b> So a paragraph that runs over a page turn may be broken in two, or two paragraphs joined; the running head and page number may slip into the text; a heading may be set at the wrong level, or a title broken; a page in two columns read across instead of down.</li>
+        <li><b>Notes, tables and pictures.</b> A footnote parted from its mark, or joined to the wrong one; a table’s columns shifted, or a figure misread, and a wrong number in a table looks exactly like a right one; an illustration, map or plate left with no marker where it stood.</li>
+        <li><b>Small things.</b> Punctuation missing or changed; italics lost; a line-end hyphen kept, or a hyphenated word run together; library stamps, bookplates and handwriting in the front matter read as if they were printed.</li>
+      </ul>
+      {{- end }}
+    </div>
+    {{- with and (not $isV1) $p.rubric_score }}{{ $score := . }}
+    <div class="rd-score">
+      <p class="rd-n"><b>{{ math.Round $score }}</b><span>of 100</span></p>
+      <p class="rd-what">from the automatic checks of structure, notes, tables and spelling</p>
+      {{- with $p.rubric_pillars }}
+      <ul class="pillars">
+        {{- range . }}{{ $found := partial "book/check-note.html" .notes }}
+        <li><span class="pl-name">{{ index $names .name | default .name }}</span><span class="pl-n">{{ math.Round .score }}<i>/{{ math.Round .max }}</i></span>
+          <span class="pl-bar" aria-hidden="true"><i style="width: {{ math.Round (mul 100 (div (float .score) (float .max))) }}%"></i></span>
+          {{- if $found }}<span class="pl-found">{{ delimit $found "; " }}</span>{{ else }}<span class="pl-found">Nothing found</span>{{ end }}</li>
+        {{- end }}
+      </ul>
+      {{- end }}
+      <p class="rd-caveat">The checks find what a machine can find. A book can score 100 and still hold misreadings that only a reader, with the scan beside the text, will catch.</p>
+    </div>
+    {{- end }}
+  </div>
+  <div class="rd-call">
+    <p>Machines have brought these books this far; only people can finish them. That is why Akshara is open. It is meant to become a community of readers who care for India’s written heritage: people who will sit with a page and its photograph, and put it right.{{ if $isV1 }} When this book is set again it will go to the proofreading desk, each page with its scan beside it.{{ else }} Every page of this book is on the proofreading desk with its scan beside it, and one page takes about five minutes.{{ end }}</p>
+    {{- if not $isV1 }}
+    <p><a class="more" href="{{ $p.proofing_url | default site.Params.proofing_url }}">Proofread a page of this book <span aria-hidden="true">→</span></a></p>
+    {{- end }}
+  </div>
+</section>
+{{- /**/ -}}

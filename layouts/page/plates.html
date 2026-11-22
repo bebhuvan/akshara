@@ -1,21 +1,18 @@
 {{ define "main" }}
-<section class="plates">
-  <div class="wrap"><header class="lib-head"><h1 class="lib-title">The Plates</h1>
-    <p class="lib-dek">Engravings, maps, coins and inscriptions from the books, with the paper of each scan taken away and the line left as it was cut. Each one opens the book it came from.</p></header></div>
-  <div class="wrap" id="plates-body">
+{{- $n := 0 }}{{ range hugo.Data.plates.group }}{{ $n = add $n (len .plate) }}{{ end -}}
+<section class="wrap">
+  <header class="pg-h"><h1>The Plates</h1>
+    <p class="dek">Engravings, maps, coins and inscriptions from the books, {{ partial "words.html" $n }} so far, each cleaned from its own page and printed in the ink of its shelf. Each one opens the book it came from.</p></header>
   {{- range hugo.Data.plates.group }}{{ $g := . }}
-    <section class="pl-group"><h2 class="pl-head">{{ if $g.year }}<span class="tc">From</span>{{ end }}{{ $g.name | replaceRE `^(.*?), (.*)$` (cond (ne $g.year "") "$1, <i>$2</i>" "$1, $2") | safeHTML }}{{ with $g.year }}, {{ . }}{{ end }}</h2>
-      <div class="pl-grid">
-      {{- range $g.plate }}{{ $b := partial "book/get.html" .book }}
-        {{- $ar := split .ratio "/" }}{{ $wide := gt (div (float (index $ar 0)) (float (index $ar 1))) 1.15 }}
-        <figure class="pl{{ if $wide }} wide{{ end }}" style="--plate:color-mix(in srgb, {{ $b.cloth | safeCSS }} 86%, #000)">
-          <a class="pl-open" href="{{ $b.url }}" aria-label="{{ .title }}, in {{ $b.title }}"><span class="ink-plate" role="img" aria-label="{{ .alt }}" style="--src:url(/plates/{{ .key }}.webp);--ar:{{ .ratio | safeCSS }}"></span></a>
-          <figcaption class="museum inline">{{ with .detail }}<span class="mu-no">{{ . | replaceRE `\bPlate ([ivxlc]+)\b` "Plate <span class=\"rn\">$1</span>" | safeHTML }}</span>{{ end }}<span class="mu-title">{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }}</span><span class="mu-src">{{ partial "plate/source.html" (dict "plate" . "book" $b) }}</span></figcaption>
-        </figure>
-      {{- end }}
-      </div>
-    </section>
+  <section class="pl-group">
+    <div class="sec-h"><h2>{{ $g.name | htmlEscape | replaceRE `^(.*?), (.*)$` (cond (ne $g.year "") "$1, <i>$2</i>" "$1, $2") | safeHTML }}{{ with $g.year }}, {{ . }}{{ end }}</h2></div>
+    <div class="smalls plates-grid">
+    {{- range $g.plate }}{{ $b := partial "book/get.html" .book }}
+      {{- $ar := split .ratio "/" }}{{ $wide := gt (div (float (index $ar 0)) (float (index $ar 1))) 1.25 }}
+      <a class="{{ $b.code }}{{ if $wide }} wide{{ end }}" href="{{ $b.url }}"><div class="tile{{ if .face }} face{{ end }}"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" .key "w" (cond $wide 1100 640)) }})" role="img" aria-label="{{ .alt }}"></i></div><span><b>{{ if .italic }}<i>{{ .title }}</i>{{ else }}{{ .title }}{{ end }}</b>{{ if $g.year }}{{ delimit (slice (.detail | default "") (.volume | default "") (printf "p. %s" .page)) " · " | replaceRE `^( · )+` "" }}{{ else }}{{ with .detail }}{{ . }} · {{ end }}{{ partial "plate/source.html" (dict "plate" . "book" $b) }}{{ end }}</span></a>
+    {{- end }}
+    </div>
+  </section>
   {{- end }}
-  </div>
 </section>
 {{ end }}

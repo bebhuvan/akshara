@@ -99,3 +99,317 @@ the Free plan's 20,000 and 2,000).
 **Why.** 63 books already make 6,648 files, most of them downloads. At a few hundred books the deploy
 would be refused without warning. When the warning comes, move `static/downloads` to GitHub Releases or
 R2 rather than raising the margin.
+
+## D10: The design is "The Plate" (2026-11-21)
+
+**Decided.** The site is rebuilt to direction A, "The Plate", as refined over seventeen rounds into the
+mock at `../design_directions/2026-11-redesign/plate.html` (judged against `BRIEF.md` there). Every shelf
+has a pale paper and a deeper ink, washed and deepened from its cloth: the classes `.su .ma .le .co .cl
+.vi .ec .cu` in `assets/css/plate.css` set `--g` (paper) and `--k` (ink), and `data/shelves.toml` names
+each shelf's class as `code`. The engravings print as masks in the shelf's ink, so one cleaned file
+prints in any colour. All styles are in one file, `assets/css/plate.css`; the old `akshara.css` and the
+unused stylesheets beside it were removed.
+
+**Why.** Bhuvanesh chose A of three directions and rejected a combined version: the engravings are the
+most beautiful thing the project owns, and printing them in each shelf's ink makes the whole library
+read as one series.
+
+**Rejected.** B, The Title Page (typography alone), and C, The Register (a timeline); a mix of the three.
+
+## D11: White paper (2026-11-21)
+
+**Decided.** The page is pure white, `#FFFFFF`. Colour comes only from the shelves' pale papers and inks.
+
+**Why.** Compared side by side in the mock, white let the shelf colours and the engravings carry the page;
+the warm off-white made everything look aged on purpose.
+
+**Rejected.** `#F9F8F5`, the warm white the mock also offered; the cream paper banned by the brief.
+
+## D12: Newsreader for all text, Noto Serif Kannada for the mark, self-hosted (2026-11-21)
+
+**Decided.** One family, Newsreader (variable, weights 200–800, optical sizes 6–72), sets every word.
+Noto Serif Kannada sets only ಅಕ್ಷರ; it is instanced at weight 500 and cut to the Kannada block
+(`static/fonts/noto-serif-kannada-500-subset.woff2`, 35 KB, made with fonttools from the Google Fonts
+repository's variable file; since D23 cut to the five letters of the mark, `noto-serif-kannada-500-mark.woff2`, 3 KB). Both are served from akshara.ink; the policy allows no font host (D4).
+The fonts that nothing used any more (Crimson, Inter, JetBrains Mono, Source Serif) were removed.
+
+**Why.** The mock was approved in these faces. Newsreader's optical sizes let one family serve the large
+light headlines and the 19px reading text.
+
+**Known limit.** Newsreader has no old-style figures and no true small capitals (checked in both the
+site's files and the full family). The reading text asks for old-style figures, so they appear if the
+font ever gains them; small capitals at a chapter's opening are drawn by the browser from capitals,
+exactly as they were in the approved mock.
+
+## D13: A centred masthead (2026-11-21)
+
+**Decided.** On a wide screen the header is a masthead: Library, Plates and Authors on the left, the mark
+in the middle, Journal, About and Search on the right. On a phone it folds to the mark on the left and
+Library and Search on the right. One hairline beneath, no colour band; Search is a plain word with a
+small glass. Every link is at least 44px tall.
+
+## D14: The footer is a colophon (2026-11-21)
+
+**Decided.** The footer ends the site as a book ends: the printer's device from the First Letter Book (a
+ship before the sun), the house name and its gloss, one sentence on what Akshara is, the ways back in on
+one line of words, and a last line with Bhuvan's Twitter, LinkedIn and GitHub (from `hugo.toml`).
+
+**Rejected.** The three columns of grouped links: a directory, not an ending.
+
+## D15: The opening page (2026-11-21)
+
+**Decided.** In this order: the headline beside a turning plate (six engravings crossfading every 6.5
+seconds, each on its own shelf's paper, still for readers who ask for reduced motion), one sentence on
+what the library holds, a compact "Begin reading →" and one sentence beneath it; New on the shelves; the
+featured edition; Small things from the books; How a book is made (the photographed table beside the set
+one, then the four steps); the eight shelves with their epigraphs. Everything hand-chosen on the page
+(the turning plates and their captions, the featured edition's words, the small things, the book
+"Begin reading" opens) is in `data/home.toml`. "New on the shelves" is worked out: the books added most
+recently, at most one per shelf, those with a picture of their own first.
+
+**Why.** The first screen on a phone says what Akshara is and offers the next step, with an engraving
+on it, which is what the project has that nobody else has.
+
+**Rejected.** The open-book comparison and the strip of engravings from the earlier opening: two
+signatures where the Plate has one. The commons section and the closing quotation: their facts are on
+the book pages and the About page.
+
+## D16: The visual grammar is the source of truth for design (2026-11-21)
+
+**Decided.** `docs/VISUAL_GRAMMAR.md` is the rulebook for how Akshara looks: principles, colour, type,
+space, the plate, covers, components, motion, writing, and how to extend it. Every value it relies on is a
+CSS custom property in `assets/css/plate.css` (type sizes as `--fs-…` role tokens, section rhythm as
+`--sec`, the measure as `--measure`, colours as named tokens and shelf classes); the document names the
+tokens and never repeats their values. A design change updates the grammar in the same change.
+
+**Why.** Future sessions and the sister projects (living books, a review) must be able to follow the
+design without reverse-engineering the stylesheet, and a document that repeats raw values drifts from
+what ships.
+
+**Rejected.** A design-token build step (Style Dictionary or similar): a dependency and a generator for
+what custom properties already do.
+
+## D17: Five kinds of cover, each picture from its own book (2026-11-21)
+
+**Decided.** Every book's cover is drawn from `data/covers.toml`: its kind (engraving, map, device,
+portrait or photograph, type only), the key of its plate in `static/plates/`, and where needed a crop
+(`inset`). A cover's picture always comes from that same book, never another book, volume or edition.
+Each plate's book is recorded where it was made (`data/plates.toml`, `data/plate_sources.toml`), and
+`scripts/check_covers.py`, run first by `./verify`, fails if a cover uses a plate recorded for another
+book, if a book has no cover, or if a type-only cover does not say why. 37 books carry a picture; 26 are
+type only, three of them (Toru Dutt, Sarojini Naidu, the Comprehensive History Vol. II) until better scans
+are found. New plates are made by `scripts/make_plates.py` from the sources and crops recorded in
+`data/plate_sources.toml` (grayscale, level, negate to an alpha mask on black; photographs first get an
+ordered-dither halftone). Book titles on covers never break inside a word: a title with a word of eleven
+letters or more steps its type down.
+
+**Why.** A series must be recognisable from across a room, so one system holds every cover; and a
+library of rare books cannot dress one book in another's picture.
+
+**Dependency.** `make_plates.py` uses Pillow 13.0.0 (pinned in the script's own `uv` header, never a site
+dependency): image decoding, cropping and levels, which the standard library cannot do. Pillow is the
+standard Python imaging library, maintained since 2010 and among the most-used packages on PyPI. It runs
+only when plates are remade, not in the build or CI.
+
+**Rejected.** Covers taking the first figure the pipeline extracted (too often a table or a blot);
+borrowing another volume's engraving for a book without one.
+
+## D18: The library: search, three arrangements, shelves face out (2026-11-21)
+
+**Decided.** The library page has a real search field: as the reader types it narrows the covers by
+title, author, year, place and shelf at once, and lists where the words occur in the text of the books
+(Pagefind; up to five books with two places in each, then a link to the search page). Without JavaScript the field is a plain form that
+opens the search page. Three arrangements, switched by plain words on a hairline: by shelf, by date (by
+decade) and by author (by surname). On a phone each group is a row of covers to swipe, snapping to the
+gutter; on a wide screen a grid of six. The text catalogue with its tier marks is gone: a book's tier is
+on its own page. The shelf, author and collection pages show the same covers, and `/books/` is titled
+The Library.
+
+## D19: The book page is one band, then the book's own material (2026-11-21)
+
+**Decided.** A book's page opens on one full-width band in its shelf's paper holding the cover and the
+text: the series line (Akshara No., volume, shelf), the short title, the rest of the title in italic, the
+author, place and year, then Begin reading (naming the first chapter), the downloads as one sentence, and
+the book's measure as figures on one hairline (pages, chapters, tables, hours). On a phone Begin reading
+comes before the description so it is always on the first screen. Below: how the book begins (its own
+first sentence), contents, its plates, one of its tables set as printed, this edition (how far it is
+checked, the record, every form), the editor's note, and the imprint. A prose description is shown as
+written; the pipeline's catalogue line ("Archival scope: …") is not shown raw: its record's own period,
+places and subjects are shown as two plain lines instead (D6: nothing invented).
+
+## D20: The reading page (2026-11-21)
+
+**Decided.** A chapter has a reading bar in place of the masthead: the way back to the book, Contents, Aa
+and Focus, with a hairline beneath that fills in the book's ink as the chapter is read. The chapter opens
+with a headpiece: one of the book's own engravings (a different one per chapter when it has several), or,
+for a book with no engraving, the house mark; a photograph is never used as a headpiece. Text at 19px on a
+phone and 20px from 760px, measure about 33em, indented paragraphs, old-style figures asked for (D12),
+small capitals only on the chapter's first line. The author's marginal notes sit in the left margin on a
+wide screen and above their paragraph on a phone; the printed page numbers sit in the right margin and open
+the scan. The chapter ends with a short rule, then next and before. Every earlier feature stays: the panel
+(size, paper, spacing, width, paragraphs, edges, notes, page numbers), the scan leaf, focus, find in this
+book, the keys and the progress line. Marginal notes are now shown by default (the reader can hide them),
+and paragraphs are indented by default, as the books were printed.
+
+## D21: Favicon, social previews and /library/ (2026-11-21)
+
+**Decided.** The favicon is ಅ, traced from Noto Serif Kannada (weight 500) into an outline, in the Surveys
+shelf's ink on its pale paper, with a dark version for devices in dark mode (`static/favicon.svg`); a
+180px touch icon and a 32/16px `favicon.ico` are made from the same outline. Every book has a social
+preview, 1200×630, made by Hugo itself at build time (`layouts/_partials/book/social.html`): the shelf's
+paper, the book's own plate printed in its ink (cut from a block of ink with the plate as a mask), the series
+line, the title, the author and year. Type-only books set the title larger under a rule. The rest of the site
+uses one card for Akshara (`page/social-home.html`). The plates are mounted as assets for this
+(`hugo.toml`, `[module]`). The text is drawn with three small static instances of Newsreader in
+`assets/fonts/og-*.ttf` (Latin only, made with fonttools; licence beside them), used only at build time and
+never sent to readers. `/library/` and `/library` redirect to `/books/`.
+
+**Why.** Hugo's own image filters (Padding, Mask, Overlay, Text) do this with no new dependency and no
+step outside the build, so the cards can never fall out of date with the covers.
+
+**Rejected.** Screenshots of a card page with a headless browser (a browser in CI, or 64 committed images
+that drift); an image library in a script (a dependency for what the build can do).
+
+## D22: Dark mode follows the device; the reading room's Paper can override it (2026-11-21)
+
+**Decided.** The whole site has a dark version: a deep neutral paper (`#17181A`), light inks, and for each
+shelf a dark ground and an ink lifted toward the light so the plates still read (every shelf ink at least
+5.5:1 on its ground). It follows the device's light or dark setting and changes with it. The reading room's
+Paper setting (Day, Cotton, Night, and Auto, which follows the device) is kept on the device and applies to
+every page. A small script in the page's head (`assets/js/paper.js`, self-hosted, so D4 holds) sets
+`<html data-theme>` before the page is drawn, so a chosen paper never flashes white. Only tokens change in
+dark mode; on dark paper the solid Begin reading block becomes a deep tint of the ink. Photographs of pages
+are dimmed a little; the books' own figures in the text are printed light on dark.
+
+**Rejected.** A `prefers-color-scheme` media query alone: it cannot honour a reader's chosen paper on every
+page. A toggle in the masthead: one more control for something the device already decides.
+
+## D23: Speed: send only what the reader will see (2026-11-21)
+
+**Decided.**
+- **Plates at the size they are shown.** `layouts/_partials/plate/url.html` asks the build for a copy no wider
+  than needed (covers 440px, a book's own cover 800px, tiles 600–640px, headpieces 700px, the turning plate
+  960px, the footer device 200px), and keeps the hand-made file instead whenever the copy would be heavier.
+  Nothing extra is committed; Hugo makes and caches the copies.
+- **Nothing below the first screen is laid out or fetched until the reader comes near it** (`content-visibility:
+  auto` on shelf rows, bookcases, bands, plate groups, result rows and figures in chapters). The library loads
+  one row of covers, not sixty-three.
+- **The turning plate fetches only the next engraving,** a little before it turns, instead of all six at once.
+- **Fonts cut to what is used.** The Kannada mark is cut to the five letters of ಅಕ್ಷರ (35 KB to 3 KB). The
+  accented letters the books actually use (74, chiefly transliteration) are in a small file of their own
+  (about 30 KB in each style), so the 90 KB Latin Extended file loads only for a page that needs a rarer
+  letter. Both upright and italic Latin are preloaded; the unused Vietnamese files were removed.
+- Measured on a first visit with nothing cached, before compression: the opening page went from about 1.36 MB
+  to about 0.87 MB (of which 0.4 MB is the two text fonts), the library to about 0.4 MB, a chapter to about
+  0.6 MB. HTML and CSS are compressed further by Cloudflare.
+
+**Rejected.** Lossy re-encoding of every plate in a script (the masks' fine lines blur, and the gain was
+small beside not loading them at all); a font-loading script (the browser's own `unicode-range` does it).
+
+## D24: The third ink is darkened for legibility (2026-11-21)
+
+**Decided.** `--ink-3`, the faintest text colour (captions, notes on notes, placeholders), is `#76726A`,
+4.8:1 on white, instead of the mock's `#8A867E` (3.6:1, below the 4.5:1 that WCAG asks of small text). In
+dark mode it is `#8E897F` (5.1:1). Every other ink already passed: `--ink-2` 7.5:1, each shelf's ink at least
+7:1 on white and 5.9:1 on its own ground.
+
+## D25: Review 0002 answered (2026-11-21)
+
+**Decided.** Every finding of the fresh-eyes review `reviews/0002-plate-redesign.md` is fixed or answered
+there, each bug fix with its test. Shelf colours moved to `data/shelves.toml`, from which the build writes the
+shelf classes (`assets/css/shelves.css`) and the social cards read their colours. The cover check now checks
+each plate's record against its source. The security policy keeps `'unsafe-inline'` in `style-src` for
+browsers that do not know `style-src-elem`/`style-src-attr` (inline style attributes carry plate addresses
+and crops; without them older Safari would show blank covers) and narrows `<style>` elements to this site in
+the browsers that do.
+
+**Noted for later.** The library page draws every cover three times (by shelf, date and author): about 140 KB
+of HTML for 63 books, so about 1 MB at 500. When that matters, render the shelf view and build the other two
+in the script from the same cards.
+
+## D26: Every edition is CC BY 4.0, and says so (2026-11-21)
+
+**Decided (by Bhuvanesh).** Every Akshara edition is released under Creative Commons Attribution 4.0
+International. The site says so in the footer of every page, in each book page's edition record (with the
+note that the book itself is in the public domain), and in a `<link rel="license">` in every page's head. The
+licence's name and address are in `hugo.toml` (`license_name`, `license_title`, `license_url`).
+
+**Why.** It had been stated nowhere: a reader or another library could not tell what they may do with an
+edition, and a public library's terms should be plain on every page.
+
+## D27: Plates are never cut by their frame (2026-11-21)
+
+**Decision.** An engraving on a cover and the turning plate on the opening page sit wholly inside their frame,
+nearly edge to edge, instead of running off the right edge as the mock had them.
+
+**Why.** Bhuvanesh, 2026-11-21: on a phone the bleed read as plates being chopped. The picture is the book's own
+evidence; showing all of it matters more than the printed-large effect. Rejected: keeping the bleed on wide
+screens only, since a cover looks the same at every size.
+
+## D28: Every book says how its text was read, and shows its checks' score (2026-11-21)
+
+**Decision.** Each book page has a section, "How this text was read": that the text was read by a
+vision-language model from photographs of the page; the kinds of error such a reading leaves (misread words and
+hyphens, dropped diacritics and punctuation, other languages and scripts, old romanisations turned into IAST,
+paragraphs broken at page turns, running heads and page numbers left in, headings at the wrong level, column
+order, front-matter noise, footnotes parted from their marks, table errors, missing illustration markers, and
+the occasional invented word); the automatic checks' score (`rubric_score`) with its four parts and their
+findings put into plain words (`layouts/_partials/book/check-note.html`); and the invitation to proofread. The
+score also stands among the book's facts, a one-line note sits under them, and every chapter opener links to
+the account. Stage One books, which have no score, get the account without it.
+
+**Why.** Bhuvanesh asked for the score to be prominent and for readers to understand what a machine reading
+gets wrong, as a notice and not a warning, and for the page to say that Akshara exists to grow a community that
+puts these books right. The score is shown with its limit stated beside it (a score of 100 is not a proofread
+text), because a bare number would claim more than the checks measure. Rejected: a coloured alert banner, which
+would treat every book as faulty and speak in the wrong voice for a library.
+
+## D29: Italic means someone else's words, or the title of a book (2026-11-21)
+
+**Decision.** Across the library, italic is kept for quotations (epigraphs, a book's opening sentence, the
+shelves' epigraphs, the featured quotation), titles of books (including the second line of a title and a
+volume), scientific names as printed, and a word cited as a word (the footer's *akṣara*, as a dictionary
+sets its headword; added after review 0003). Everything else that was italic, which was most of the interface's
+quiet voice (section asides, counts, captions, authors under covers, dates, headings in the edition section,
+chapter numbers, shoulder notes and side-headings, folios, buttons, the search field), is now upright, made
+quiet by size and the lighter inks. The headline's "readable again." keeps its colour and is upright. Inside a
+chapter the book's own italics are untouched.
+
+**Why.** Bhuvanesh approved this rule for the living books and chose to apply it to the library too, so the
+house and its sister imprints read as one family, and so italic carries meaning instead of mood. Rejected:
+keeping italic as the library's second voice, which made every small label look like a quotation.
+
+## D30: What "How this text was read" may say about each book (2026-11-21)
+
+**Decision.** The account says only what is true of every book (read by a vision-language model, then run
+through automatic checks that flag passages to be re-read), and lets the book's record say the rest. "What errors
+remain should be few and small" appears only when the checks' score is 95 or more; below 90 the page says the
+checks flagged more than usual. Stage One books get their own account: OCR or an earlier AI reading, cleaned up
+with AI, not read page by page. What an edition leaves out of the printed book is said on its page, from
+`data/edition_notes.toml`. Each printed page in a chapter has a link target, `#p-<folio>`, so a living book can
+open an edition at the page it quotes.
+
+**Why.** Review 0003 found the first wording told every book it had been checked against the scans and had few,
+small errors, beside records saying no page was re-read and dozens of items were open. The thresholds (95, 90)
+are mine, set from the spread of scores (26 books at 100, the lowest at 75); Bhuvanesh may move them.
+Rejected: one sentence for every book, which is either too modest for the clean ones or untrue of the rest.
+
+## D31: The living book is served by its own Worker, on a path of akshara.ink (2026-11-22)
+
+**Decision.** The living-book imprint (its own repository, `akshara_living_books`) is deployed as a second
+Cloudflare Worker with static assets, routed at `akshara.ink/<path>/*` and `www.akshara.ink/<path>/*`. The
+more specific route wins over the library's `akshara.ink/*`, so everything under the path is answered by the
+imprint and everything else by the library. The path is still Bhuvanesh's to name (`/living/` is proposed). When
+it goes live, the library adds one line to `static/_redirects`, `/<path> /<path>/ 301`, because an address
+without the final slash does not match the route and would otherwise reach the library's 404.
+
+**Why.** The two are built by different code, in different repositories, at different times; separate Workers
+keep their deploys apart, so a library deploy cannot remove the living book or the other way round. Each keeps
+its own `_headers`: the imprint's policy is stricter than the library's (no `unsafe-inline`), and if both files
+were merged Cloudflare would send both policies on the imprint's pages. Each answers its own unknown addresses
+with its own 404 page (`/<path>/404.html` is the nearest one), with a real 404 status. Neither build has to
+know the other's file counts for Cloudflare's limits (D9).
+
+**Rejected.** Copying the imprint's `public/<path>/` into the library's `public/` at build: it ties the
+library's build to a second repository, and the headers and redirects would have to be merged by hand. A
+subdomain: Bhuvanesh chose a path.

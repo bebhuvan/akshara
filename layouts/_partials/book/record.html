@@ -5,6 +5,8 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
 {{- $d := index hugo.Data.bookdetails $id | default dict -}}
 
 {{- $title := replaceRE `\s+:` ":" $p.Title -}}
+{{- /* typographer's apostrophes: the pipeline's titles carry straight ones */ -}}
+{{- $title = replace $title "'" "’" -}}
 {{- with $p.Params.subtitle -}}
   {{- with findRESubmatch `^Volume ([IVX]+)\b` . 1 -}}
     {{- if not (strings.Contains $title "Vol.") -}}{{- $title = printf "%s, Vol. %s" $title (index (index . 0) 1) -}}{{- end -}}
@@ -31,9 +33,33 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
 {{- $shelfNo := 7 -}}
 {{- range $i, $s := hugo.Data.shelves.shelf -}}{{- if eq $s.key $p.Params.archetype -}}{{- $shelf = $s -}}{{- $shelfNo = $i -}}{{- end -}}{{- end -}}
 {{- if not $shelf -}}{{- errorf "Book %s has archetype %q, which is not one of the eight shelves in data/shelves.toml" $id $p.Params.archetype -}}{{- end -}}
+{{- if not (and $shelf.code $shelf.paper $shelf.ink $shelf.paper_dark $shelf.ink_dark) -}}{{- errorf "Shelf %q in data/shelves.toml needs code, paper, ink, paper_dark and ink_dark" $shelf.name -}}{{- end -}}
 
 {{- $no := index hugo.Data.series $id -}}
 {{- if not $no -}}{{- errorf "Book %s has no series number. Add the next number to data/series.toml" $id -}}{{- end -}}
+
+{{- /* The cover (data/covers.toml): its kind, its own picture, and the two lines of its label. */ -}}
+{{- $cv := index hugo.Data.covers $id -}}
+{{- if not $cv -}}{{- errorf "Book %s has no cover in data/covers.toml" $id -}}{{- end -}}
+{{- $kinds := slice "plate" "map" "device" "portrait" "photo" "type" -}}
+{{- if not (in $kinds $cv.kind) -}}{{- errorf "Book %s: cover kind %q is not one of %v (data/covers.toml)" $id $cv.kind $kinds -}}{{- end -}}
+{{- if eq $cv.kind "type" -}}
+  {{- with $cv.plate -}}{{- errorf "Book %s: a type-only cover takes no plate (data/covers.toml)" $id -}}{{- end -}}
+{{- else -}}
+  {{- if not $cv.plate -}}{{- errorf "Book %s: a %s cover needs a plate (data/covers.toml)" $id $cv.kind -}}{{- end -}}
+  {{- if not (fileExists (printf "static/plates/%s.webp" $cv.plate)) -}}{{- errorf "Book %s: plate %q is not in static/plates/" $id $cv.plate -}}{{- end -}}
+{{- end -}}
+{{- $cover = replace $cover "'" "’" -}}
+{{- with $cv.inset -}}{{- if not (findRE `^(-?\d+(\.\d+)?% ){3}-?\d+(\.\d+)?%$` .) -}}{{- errorf "Book %s: cover inset %q must be four percentages, top right bottom left (data/covers.toml)" $id . -}}{{- end -}}{{- end -}}
+{{- $lblTitle := $cv.title | default $cover -}}
+{{- $lblLine := $cv.line | default "" -}}
+{{- if not $cv.title -}}
+  {{- with findRESubmatch `^(.*), Vol\. ([IVX]+)$` $lblTitle 1 -}}{{- $lblTitle = index (index . 0) 1 -}}{{- $lblLine = printf "Volume %s" (index (index . 0) 2) -}}
+  {{- else -}}{{- with findRESubmatch `^(.*), (\d{4}–\d{4})$` $lblTitle 1 -}}{{- $lblTitle = index (index . 0) 1 -}}{{- $lblLine = index (index . 0) 2 -}}
+  {{- else -}}{{- with findRESubmatch `^(.*): (.{3,22})$` $lblTitle 1 -}}{{- $lblTitle = index (index . 0) 1 -}}{{- $lblLine = index (index . 0) 2 -}}{{- end -}}{{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $coverData := dict "kind" $cv.kind "plate" ($cv.plate | default "") "inset" ($cv.inset | default "") "title" $lblTitle "line" $lblLine -}}
 
 {{- $year := printf "%v" $p.Params.year -}}
 {{- $pages := int ($p.Params.pages | default 300) -}}
@@ -45,6 +71,6 @@ returns a dict. All hand-set exceptions come from data/bookdetails.toml; everyth
   "page" $p "id" $id "url" $p.RelPermalink
   "title" $title "cover_title" $cover "subtitle" ($p.Params.subtitle | default "")
   "author" $author "sort_name" $sort "year" $year "pages" $pages
-  "no" $no "shelf" $shelf "shelf_no" $shelfNo "cloth" $shelf.cloth
-  "vignette" ($d.vignette | default dict) "tier" $tier "tier_name" $tierName
+  "no" $no "shelf" $shelf "shelf_no" $shelfNo "code" $shelf.code "cover" $coverData
+  "tier" $tier "tier_name" $tierName
 -}}

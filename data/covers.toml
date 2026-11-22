@@ -1,0 +1,280 @@
+# Each book's cover: what kind it is, and which of its own pictures it carries.
+# Read by layouts/_partials/book/record.html; checked by tests/test_covers.py and by the build.
+#
+#   kind   plate (an engraving, printed large), map (kept whole in a fine rule), device (arms, seal or
+#          printer's device from the title page), portrait (a frontispiece in an oval), photo (a
+#          frontispiece photograph in a frame), type (no picture: the title alone makes the cover)
+#   plate  a key in static/plates/: the cleaned one-ink picture. It must come from THIS book
+#          (data/plates.toml or data/plate_sources.toml records where each plate came from).
+#   inset  optional: where the picture sits on the cover, as CSS inset (top right bottom left),
+#          when the kind's usual place does not suit its shape.
+#   line   optional: the italic second line of the cover label (a volume, or the years covered).
+#   why    for type covers: why there is no picture yet.
+#
+# Started from the 63-book cover audit (design_directions/2026-11-redesign/cover-plan.json).
+
+
+["brief-history-indian-peoples"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["comprehensive-history-india-v1"]
+kind = "type"
+why = "the scan is of a modern reprint"
+
+["comprehensive-history-india-v2"]
+kind = "type"
+why = "an engraved title page exists, but this scan is too dark"
+
+["early-history-of-india-1924"]
+kind = "photo"
+plate = "x-eh-coins"
+inset = "34% 16% 15% 16%"
+
+["early-history-tea-industry"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["early-travels-in-india-1583-1619"]
+kind = "plate"
+plate = "et-coryat"
+inset = "34% -14% 15% -6%"
+
+["east-india-exchange-currency-1920"]
+kind = "device"
+plate = "x-exchange-arms"
+
+["east-india-trade-17th-century-khan"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["economic-causes-of-famines-in-india-ray-1909"]
+kind = "device"
+plate = "x-ray-seal"
+inset = "42% 24% 17% 24%"
+
+["economic-history-india-early-british-dutt"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["economic-history-india-victorian-age-dutt"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["economic-life-bengal-district-faridpur-1916"]
+kind = "map"
+plate = "fari-plan"
+
+["economics-in-india-inaugural-lecture-jevons-1915"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["eic-first-letter-book-1600-1619"]
+kind = "device"
+plate = "eic-ship"
+inset = "38% 25% 14% 25%"
+
+["englands-debt-to-india-lajpat-rai-1917"]
+kind = "device"
+plate = "x-lajpat-device"
+
+["english-factories-india-1618-1621-vol-01"]
+kind = "map"
+plate = "x-ef1-map"
+
+["english-factories-india-1622-1623-vol-02"]
+kind = "map"
+plate = "x-ef2-ormus"
+
+["english-factories-india-1624-1629-vol-03"]
+kind = "photo"
+plate = "x-ef3-letter"
+inset = "36% 8% 18% 8%"
+
+["english-factories-india-1630-1633-vol-04"]
+kind = "portrait"
+plate = "x-ef4-portrait"
+
+["english-factories-india-1634-1636-vol-05"]
+kind = "photo"
+plate = "x-ef5-factory"
+inset = "36% 6% 18% 6%"
+
+["english-factories-india-1637-1641-vol-06"]
+kind = "photo"
+plate = "x-ef6-tombs"
+
+["english-factories-india-1642-1645-vol-07"]
+kind = "map"
+plate = "x-ef7-map"
+
+["english-factories-india-1646-1650-vol-08"]
+kind = "photo"
+plate = "x-ef8-tomb"
+
+["english-factories-india-1651-1654-vol-09"]
+kind = "photo"
+plate = "x-ef9-painting"
+
+["english-factories-india-1655-1660-vol-10"]
+kind = "map"
+plate = "x-ef10-map"
+
+["english-factories-india-1661-1664-vol-11"]
+kind = "portrait"
+plate = "x-ef11-portrait"
+
+["english-factories-india-1665-1667-vol-12"]
+kind = "map"
+plate = "ef12-bombay"
+inset = "31% 21% 13% 21%"
+
+["essays-speeches-addresses-writings-naoroji-1887"]
+kind = "portrait"
+plate = "x-naoroji"
+
+["famines-and-land-assessments"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["from-akbar-to-aurangzeb"]
+kind = "map"
+plate = "x-a2a-map"
+
+["guide-to-india-office-records-1919"]
+kind = "device"
+plate = "x-guide-arms"
+inset = "42% 25% 17% 25%"
+
+["history-and-economics-indian-famines-loveday-1914"]
+kind = "device"
+plate = "x-loveday-device"
+inset = "45% 31% 19% 31%"
+
+["imperial-gazetteer-india-v1"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["india-at-the-death-of-akbar"]
+kind = "map"
+plate = "x-akbar-map"
+
+["india-what-can-it-teach-us"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["indian-famines-causes-prevention-dutt-1901"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["indian-finance-moxon-1881"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["indian-shipping"]
+kind = "photo"
+plate = "x-shipping-relief"
+
+["journey-from-madras-vol-i"]
+kind = "plate"
+plate = "j1-cart"
+
+["journey-from-madras-vol-ii"]
+kind = "plate"
+plate = "j2-bull"
+inset = "36% -12% 15% -6%"
+
+["journey-from-madras-vol-iii"]
+kind = "plate"
+plate = "j3-fish"
+inset = "40% -16% 17% -10%"
+
+["judicial-revenue-systems-india-rammohun-1832"]
+kind = "map"
+plate = "x-rammohun-map"
+
+["lays-of-ancient-india"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["letters-from-malabar"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["life-and-letters-of-toru-dutt"]
+kind = "type"
+why = "a portrait exists, but this scan is unusable; a better copy is needed"
+
+["life-in-an-indian-village"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["modern-religious-movements-india"]
+kind = "portrait"
+plate = "x-farquhar-roy"
+
+["mughal-administration"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["musalmans-and-money-lenders"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["palas-of-bengal"]
+kind = "plate"
+plate = "pal-jones"
+inset = "32% 14% 15% 14%"
+
+["peishwas-diaries-intro"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["people-of-india"]
+kind = "portrait"
+plate = "x-risley"
+
+["periplus-erythraean-sea"]
+kind = "plate"
+plate = "per-ship"
+inset = "36% -16% 15% 4%"
+
+["poverty-and-un-british-rule"]
+kind = "device"
+plate = "x-poverty-device"
+
+["recent-economic-developments-punjab-wilson-1910"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["religion-of-the-veda"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["report-past-famines-bombay-etheridge-1868"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["rig-veda-vedic-religion"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["some-aspects-indian-commerce-industry-shirras-1911"]
+kind = "type"
+why = "nothing pictorial in the book"
+
+["speeches-and-writings-naoroji-1918"]
+kind = "portrait"
+plate = "x-naoroji-1918"
+
+["speeches-writings-sarojini-naidu"]
+kind = "type"
+why = "a frontispiece portrait exists, but this scan is too poor; a better copy is needed"
+
+["truth-about-indian-opium"]
+kind = "device"
+plate = "x-opium-arms"
+
+["while-sewing-sandals"]
+kind = "photo"
+plate = "x-sandals"

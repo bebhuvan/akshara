@@ -1,19 +1,41 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{- $title := cond .IsHome site.Title (printf "%s · %s" (.Title | plainify) site.Title) }}
+{{- if and .IsPage (eq .Type "chapters") }}{{ $cn := partial "chapter/name.html" . }}{{ $bk := .Parent }}{{ if eq $bk.Title "Chapters" }}{{ $bk = $bk.Parent }}{{ end }}{{ $br := partialCached "book/record.html" $bk $bk.RelPermalink }}
+{{- $title = printf "%s%s · %s · %s" (cond (ne $cn.num "") (printf "%s %s: " $cn.label $cn.num) "") ($cn.title | plainify) $br.cover_title site.Title }}{{ end }}
 <title>{{ $title }}</title>
 {{- $desc := .Params.description | default .Summary | default site.Params.description | plainify | truncate 200 }}
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
+<link rel="license" href="{{ site.Params.license_url }}">
 <meta property="og:title" content="{{ .Title | plainify }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="Akshara">
 <meta property="og:type" content="{{ cond .IsPage "article" "website" }}">
-<meta property="og:image" content="{{ "og-image.png" | absURL }}">
-<meta name="theme-color" content="#FCFBF8">
+{{- /* the social preview: a book's own card on its page and its chapters, the site's card elsewhere */}}
+{{- $card := "" }}{{ $cardAlt := "Akshara: making India’s forgotten books readable again." }}
+{{- $bk := cond (and .IsPage (eq .Type "chapters")) .Parent . }}{{ if and $bk (eq $bk.Title "Chapters") }}{{ $bk = $bk.Parent }}{{ end }}
+{{- if and $bk (eq $bk.Type "books") (eq $bk.Kind "section") (ne $bk.RelPermalink "/books/") }}
+  {{- $br := partialCached "book/record.html" $bk $bk.RelPermalink }}
+  {{- $card = partialCached "book/social.html" $br $br.id }}{{ $cardAlt = printf "The cover of %s, %s, %s, Akshara No. %d" $br.cover_title $br.author $br.year $br.no }}
+{{- else }}{{ $card = partialCached "page/social-home.html" . "home" }}{{ end }}
+<meta property="og:image" content="{{ $card.Permalink }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ $cardAlt }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17181A" media="(prefers-color-scheme: dark)">
+<meta name="color-scheme" content="light dark">
+{{- $paper := resources.Get "js/paper.js" | minify | fingerprint }}
+<script src="{{ $paper.RelPermalink }}" integrity="{{ $paper.Data.Integrity }}"></script>
+<link rel="icon" href="/favicon.ico" sizes="32x32">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preload" href="/fonts/newsreader-normal-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
-{{- $css := resources.Get "css/akshara.css" | minify | fingerprint }}
+<link rel="preload" href="/fonts/newsreader-italic-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
+{{- $shelves := resources.Get "css/shelves.css" | resources.ExecuteAsTemplate "css/shelves.css" . }}
+{{- $css := slice (resources.Get "css/plate.css") $shelves | resources.Concat "css/plate.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
 {{- with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" title="Akshara" href="{{ .RelPermalink }}">{{ end }}

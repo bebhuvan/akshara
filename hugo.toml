@@ -52,6 +52,11 @@ disableKinds = ["taxonomy", "term"]
   featured_book = "india-at-the-death-of-akbar"
   proofing_url = "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 
+  # The licence of every Akshara edition (D26). The books themselves are in the public domain.
+  license_name = "CC BY 4.0"
+  license_title = "Creative Commons Attribution 4.0 International"
+  license_url = "https://creativecommons.org/licenses/by/4.0/"
+
   # Shown in the footer as "Bhuvan elsewhere".
   [[params.elsewhere]]
     name = "Twitter"
@@ -62,3 +67,17 @@ disableKinds = ["taxonomy", "term"]
   [[params.elsewhere]]
     name = "GitHub"
     url = "https://github.com/bebhuvan"
+
+# The plates are served as they are from static/plates, and are also mounted as assets so the build can
+# make the social preview images and smaller copies from them (layouts/_partials/plate/). The two default
+# mounts are listed because adding any mount replaces them.
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "static/plates"
+    target = "assets/plates"
+  [[module.mounts]]
+    source = "static"
+    target = "static"

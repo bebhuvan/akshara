@@ -1,21 +1,14 @@
-{{- /* A cover drawn from the book's record (see the design's COVER_SCHEMA): cloth of its shelf, the title
-in ivory, the author, its own engraving stamped in line or the house device pressed blind, and the foot line. */ -}}
+{{- /* A cover drawn from the book's record: its shelf's pale paper and deep ink, its own picture placed as its
+kind places it (data/covers.toml), the label, and the foot line. Takes a book record; with "big" set
+(merge the record with dict "big" true) its picture is drawn from a larger copy. */ -}}
 {{- $b := . -}}
-{{- $t := $b.cover_title -}}
-{{- $longest := 0 -}}
-{{- range split $t " " -}}{{- if gt (len .) $longest -}}{{- $longest = len . -}}{{- end -}}{{- end -}}
-{{- $n := len $t -}}
-{{- $step := "s4" -}}
-{{- if and (le $n 16) (le $longest 9) -}}{{- $step = "s1" -}}
-{{- else if and (le $n 30) (le $longest 11) -}}{{- $step = "s2" -}}
-{{- else if le $n 44 -}}{{- $step = "s3" -}}{{- end -}}
-{{- if and (ge $longest 12) (in (slice "s3" "s4") $step) -}}{{- $step = printf "%s lw" $step -}}{{- end -}}
-<div class="cv" role="img" aria-label="Cover of {{ $b.title }}, Akshara No. {{ $b.no }}" style="--cloth:{{ $b.cloth | safeCSS }}"><span class="cv-in">
-<span class="cv-title {{ $step }}">{{ $t }}</span><span class="cv-auth">{{ $b.author }}</span>
-{{- with $b.vignette.plate -}}
-<span class="cv-art"><span class="cv-plate" style="--src:url(/plates/{{ . }}.webp);--ar:{{ $b.vignette.ratio | safeCSS }}"></span></span>
-{{- else -}}
-<span class="cv-art cv-device" aria-hidden="true"><span class="cv-seal"><span>ಅಕ್ಷರ</span></span></span>
-{{- end -}}
-<span class="cv-foot"><span class="cv-imp">Akshara</span><span class="cv-no">No.&#8201;{{ $b.no }}</span><span class="cv-year">{{ $b.year }}</span></span></span></div>
+{{- $c := $b.cover -}}
+{{- /* a title with a long word steps its type down, so no word is ever broken across lines */ -}}
+{{- $longest := 0 -}}{{- range split $c.title " " -}}{{- if gt (strings.RuneCount .) $longest -}}{{- $longest = strings.RuneCount . -}}{{- end -}}{{- end -}}
+<div data-shelf="{{ $b.code }}" class="cover k-{{ $c.kind }} {{ $b.code }}{{ if gt (strings.RuneCount $c.title) 40 }} t-long{{ else if and (gt (strings.RuneCount $c.title) 28) (in (slice "portrait" "map" "device") $c.kind) }} t-mid{{ end }}" role="img" aria-label="Cover of {{ $b.title }}, Akshara No. {{ $b.no }}">
+{{- if eq $c.kind "type" }}<div class="au">{{ $b.author }}</div>
+{{- else }}<div class="pic"{{ with $c.inset }} style="inset:{{ . | safeCSS }}"{{ end }}><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" $c.plate "w" (cond (isset $b "big") 800 440)) }})"></i></div>{{ end -}}
+<div class="lbl{{ if gt (strings.RuneCount $c.title) 40 }} long{{ end }}{{ if ge $longest 11 }} lw{{ end }}"><b>{{ replaceRE `(\pL)-(\pL)` "$1‑$2" $c.title }}</b>{{ with $c.line }}<i>{{ . }}</i>{{ end }}</div>
+<div class="no"><span>Akshara {{ $b.no }}</span><span>{{ $b.year }}</span></div>
+</div>
 {{- /**/ -}}

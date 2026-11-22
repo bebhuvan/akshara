@@ -2,5 +2,5 @@
 {{- $pl := .plate -}}{{- $b := .book -}}
 {{- $who := index (split $b.author " ") (sub (len (split $b.author " ")) 1) -}}
 {{- if strings.Contains $b.author " and " -}}{{- $who = $b.author -}}{{- end -}}
-{{ $who }}, <i>{{ $b.cover_title | replaceRE `, Vol\. [IVX]+$` "" }}</i>, {{ $b.year }}{{ with $pl.volume }}, {{ . }}{{ end }}, p.&nbsp;{{ $pl.page }}
+{{ $who }}, <i>{{ $b.cover_title | replaceRE `, Vol\. [IVX]+$` "" }}</i>, <span class="nw">{{ $b.year }}{{ with $pl.volume }}, {{ . }}{{ end }}, p.&nbsp;{{ $pl.page }}</span>
 {{- /**/ -}}

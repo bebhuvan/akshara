@@ -1,18 +1,50 @@
 {{ define "main" }}
 {{- $books := partial "book/all.html" . -}}
-<section class="pg wrap">
-  <header class="lib-head"><h1 class="lib-title">Authors</h1><p class="lib-dek">Everyone whose work is in the library, by surname, with the books of theirs that are here.</p></header>
-  <div class="catalogue authors-list">
-  {{- /* file each author under the surname: the last word of the name, titles and initials aside */}}
-  {{- $rows := slice }}
-  {{- range .Pages }}{{ $name := replaceRE `^(Sir|Raja|Lala|Dr\.?|Rev\.?)\s+` "" .Title }}{{ $words := split (replaceRE `,.*$` "" $name) " " }}{{ $key := lower (index $words (sub (len $words) 1)) }}{{ if eq .Title "Various Authors" }}{{ $key = "zzzz" }}{{ end }}{{ $rows = $rows | append (dict "key" $key "page" .) }}{{ end }}
-  {{- range sort $rows "key" }}{{ with .page }}
-    {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
-    {{- $theirs := where $books "page.Params.author_slug" $slug }}
-    <section class="au-row"><h2 class="au-name"><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ if or .Params.birth_year .Params.death_year }}<span class="au-yrs">{{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}</span>{{ end }}</h2>
-      {{- with $theirs }}<ol class="entries">{{ range . }}{{ partial "book/entry.html" (dict "book" . "nowho" true) }}{{ end }}</ol>{{ end }}
+{{- /* each author filed under the surname: the last word of the name, titles and initials aside */ -}}
+{{- $rows := slice -}}
+{{- range .Pages -}}
+  {{- $name := replaceRE `^(Sir|Raja|Lala|Dr\.?|Rev\.?)\s+` "" .Title -}}
+  {{- $words := split (replaceRE `,.*$` "" $name) " " -}}
+  {{- $key := lower (index $words (sub (len $words) 1)) -}}
+  {{- if eq .Title "Various Authors" }}{{ $key = "zzzz" }}{{ end -}}
+  {{- $rows = $rows | append (dict "key" $key "letter" (upper (substr $key 0 1)) "page" .) -}}
+{{- end -}}
+{{- $rows = sort $rows "key" -}}
+{{- $letters := slice }}{{ range $rows }}{{ if ne .key "zzzz" }}{{ $letters = $letters | append .letter }}{{ end }}{{ end }}{{ $letters = uniq $letters -}}
+<section class="wrap">
+  <header class="pg-h"><h1>Authors</h1><p class="dek">{{ partial "words.html" (len $rows) | strings.FirstUpper }} names, filed by surname, each with the books of theirs that are on the shelves.</p></header>
+  <nav class="az" aria-label="Authors by letter">{{ range $letters }}<a href="#by-{{ lower . }}">{{ . }}</a>{{ end }}</nav>
+  <div class="index">
+  {{- range $letter := $letters }}
+    <section class="ix-group" id="by-{{ lower $letter }}" aria-label="{{ $letter }}">
+      <p class="ix-letter" aria-hidden="true">{{ $letter }}</p>
+      <div class="ix-entries">
+      {{- range where $rows "letter" $letter }}{{ if ne .key "zzzz" }}{{ template "author-entry" (dict "page" .page "books" $books) }}{{ end }}{{ end }}
+      </div>
     </section>
-  {{- end }}{{ end }}
+  {{- end }}
+  {{- range where $rows "key" "zzzz" }}
+    <section class="ix-group" aria-label="Various authors"><p class="ix-letter" aria-hidden="true">&amp;</p><div class="ix-entries">{{ template "author-entry" (dict "page" .page "books" $books) }}</div></section>
+  {{- end }}
   </div>
 </section>
 {{ end }}
+
+{{- define "author-entry" -}}
+{{- with .page -}}
+{{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+{{- $theirs := sort (where $.books "page.Params.author_slug" $slug) "year" -}}
+{{- $code := "" }}{{ with $theirs }}{{ $code = (index . 0).code }}{{ end -}}
+<article class="ix {{ $code }}">
+  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  {{- if or .Params.birth_year .Params.death_year }}<p class="yrs">{{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}{{ with .Params.birth_place }} · {{ . }}{{ end }}</p>{{ end }}
+  {{- /* the pipeline's placeholder ("Author of 1 historical work(s) preserved…") says nothing, so it is left out */}}
+  {{- with .Params.short_bio }}{{ if not (findRE `work\(s\) preserved` .) }}<p class="bio">{{ . | strings.TrimRight "." }}.</p>{{ end }}{{ end }}
+  {{- with $theirs }}
+  <ul class="ix-books">
+    {{- range . }}<li><a class="ix-b" href="{{ .url }}" title="{{ .cover_title }}, {{ .year }}"><span class="ix-cover" aria-hidden="true">{{ partial "book/cover.html" . }}</span><span class="ix-t"><i>{{ .cover.title }}{{ with .cover.line }}, {{ . }}{{ end }}</i>, {{ .year }}</span></a></li>{{ end }}
+  </ul>
+  {{- end }}
+</article>
+{{- end -}}
+{{- end -}}

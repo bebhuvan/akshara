@@ -1,0 +1,16 @@
+{{- /* The address of a plate's one-ink file. Every page asks here. Given a key alone, the full file as it is
+in static/plates; given dict "key" "w", a copy made by the build no wider than w pixels (never enlarged), so
+a cover or tile downloads only what its size needs. */ -}}
+{{- $key := . -}}{{- $w := 0 -}}
+{{- if reflect.IsMap . -}}{{- $key = .key -}}{{- $w = int (.w | default 0) -}}{{- end -}}
+{{- $url := printf "/plates/%s.webp" $key -}}
+{{- if gt $w 0 -}}
+  {{- with resources.Get (printf "plates/%s.webp" $key) -}}
+    {{- if gt .Width $w -}}
+      {{- /* the build's copy is kept only when it is lighter than the hand-made file */ -}}
+      {{- $small := .Resize (printf "%dx webp" $w) -}}
+      {{- if lt (len $small.Content) (len .Content) -}}{{- $url = $small.RelPermalink -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $url -}}

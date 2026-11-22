@@ -1,0 +1,43 @@
+{{- /* A book's social preview, 1200×630, made by Hugo at build time from its cover data: the shelf's pale
+paper, the book's own picture printed in its ink on the right (placed by its kind), and on the left the
+series line, the title and the author. Type-only books set the title larger under a rule. Takes a book
+record; returns the image resource. Fonts: assets/fonts/og-*.ttf (Newsreader instances, OFL), used only here. */ -}}
+{{- $b := . -}}
+{{- $px := resources.Get "img/px.png" -}}
+{{- $g := $b.shelf.paper -}}{{- $k := $b.shelf.ink -}}
+{{- $light := resources.Get "fonts/og-newsreader-light.ttf" -}}
+{{- $italic := resources.Get "fonts/og-newsreader-italic.ttf" -}}
+{{- $regular := resources.Get "fonts/og-newsreader-regular.ttf" -}}
+{{- $img := $px | images.Filter (images.Padding 0 1199 629 0 $g) -}}
+{{- $c := $b.cover -}}
+{{- $pictured := ne $c.kind "type" -}}
+{{- if $pictured -}}
+  {{- /* the plate as a mask: flattened onto white, inverted, then used to cut a block of the shelf's ink */ -}}
+  {{- $plate := resources.Get (printf "plates/%s.webp" $c.plate) -}}
+  {{- $box := cond (eq $c.kind "plate") "600x500" "400x460" -}}
+  {{- $fit := $plate.Fit (printf "%s jpg #ffffff q95" $box) -}}
+  {{- $mask := $fit | images.Filter images.Invert -}}
+  {{- $inked := $px | images.Filter (images.Padding 0 (sub $fit.Width 1) (sub $fit.Height 1) 0 $k) (images.Mask $mask) -}}
+  {{- $x := cond (eq $c.kind "plate") (sub 1200 $fit.Width) (sub 950 (div $fit.Width 2)) -}}
+  {{- $y := sub 315 (div $fit.Height 2) -}}
+  {{- $img = $img | images.Filter (images.Overlay $inked $x $y) -}}
+{{- end -}}
+{{- $title := $c.title -}}
+{{- $n := strings.RuneCount $title -}}
+{{- $size := cond $pictured (cond (gt $n 44) 54 (cond (gt $n 26) 64 76)) (cond (gt $n 44) 66 (cond (gt $n 26) 78 92)) -}}
+{{- $width := cond $pictured 520 860 -}}
+{{- $tcanvas := $px | images.Filter (images.Padding 0 (sub $width 1) 329 0 "#00000000") (images.Text $title (dict "font" $light "size" $size "color" $k "linespacing" (div $size 5))) -}}
+{{- $series := printf "Akshara No. %d · %s" $b.no $b.shelf.name -}}
+{{- $img = $img | images.Filter
+  (images.Text $series (dict "font" $italic "size" 26 "color" $k "x" 72 "y" 78))
+  (images.Overlay $tcanvas 72 (cond $pictured 140 150)) -}}
+{{- if not $pictured -}}
+  {{- $rule := $px | images.Filter (images.Padding 0 1055 0 0 $k) -}}
+  {{- $img = $img | images.Filter (images.Overlay $rule 72 126) -}}
+{{- end -}}
+{{- $by := printf "%s%s · %s" $b.author (cond (ne $c.line "") (printf " · %s" $c.line) "") $b.year -}}
+{{- $img = $img | images.Filter
+  (images.Text $by (dict "font" $regular "size" 28 "color" "#1E1D1B" "x" 72 "y" 488))
+  (images.Text "Akshara · a public-domain library of rare books about India" (dict "font" $italic "size" 22 "color" "#57544E" "x" 72 "y" 548)) -}}
+{{- $out := $img.Process "jpg q84" | resources.Copy (printf "og/%s.jpg" $b.id) -}}
+{{- return $out -}}

@@ -6,14 +6,28 @@ skipped. Returns "" if nothing suitable is found. */ -}}
   {{- if not $out -}}
     {{- $txt := . | replaceRE `<sup[\s\S]*?</sup>` "" | replaceRE `<button[\s\S]*?</button>` "" | plainify | htmlUnescape | replaceRE `\s+` " " | strings.TrimSpace -}}
     {{- $txt = $txt | replaceRE `^(?i:chapter|book|part)\s+[IVXLC\d]+\.?\s+` "" | replaceRE `^(?:[A-Z][A-Z’'.,:;-]+\s+){3,}` "" -}}
-    {{- range findRE `[^.!?]{30,400}[.!?](?:["’”])?` $txt 3 -}}
+    {{- /* the full stop of an abbreviation or an initial ("Mr.", "W. H.") does not end a sentence: it is
+    hidden behind an invisible mark while sentences are found, and put back after */ -}}
+    {{- $txt = replaceRE `\b(Mr|Mrs|Messrs|Dr|St|No|Vol|viz|Capt|Col|Gen|Lieut|Rev|[A-Z])\.(\s)` "${1}\u2063${2}" $txt -}}
+    {{- range findRE `[^.!?]{30,600}[.!?](?:["’”])?` $txt 6 -}}
       {{- if not $out -}}
         {{- $s := strings.TrimSpace . -}}
         {{- $words := split $s " " -}}
         {{- $caps := len (findRE `(?:^|\s)[A-Z]` $s) -}}
-        {{- if and (ge (len $words) 8) (lt (mul $caps 10) (mul (len $words) 6)) (findRE `^[A-Z“"‘']` $s) -}}{{- $out = $s -}}{{- end -}}
+        {{- if and (ge (len $words) 8) (le (len $words) 45) (lt (mul $caps 10) (mul (len $words) 6)) (findRE `^[A-Z“"‘']` $s) -}}{{- $out = replace $s "\u2063" "." -}}{{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
+{{- end -}}
+{{- /* the printer's capitals on a chapter's first words ("A COPY of", "IN respect") are set in lower case */ -}}
+{{- if $out -}}
+  {{- $ws := split $out " " -}}{{- $fixed := slice -}}
+  {{- range $i, $w := $ws -}}
+    {{- if and (lt $i 3) (ge (len $w) 2) (eq $w (upper $w)) (findRE `^[A-Z]+[,;:]?$` $w) (ne $w "I") -}}
+      {{- if eq $i 0 -}}{{- $w = printf "%s%s" (substr $w 0 1) (lower (substr $w 1)) -}}{{- else -}}{{- $w = lower $w -}}{{- end -}}
+    {{- end -}}
+    {{- $fixed = $fixed | append $w -}}
+  {{- end -}}
+  {{- $out = delimit $fixed " " -}}
 {{- end -}}
 {{- return $out -}}

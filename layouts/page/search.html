@@ -1,19 +1,22 @@
 {{ define "view" }}search{{ end }}
 {{ define "main" }}
-<section class="pg wrap search-page">
-  <header class="lib-head"><h1 class="lib-title">Search</h1>
-    <p class="lib-dek">Search reads the whole text of every book, chapter by chapter. Old books spell differently, so try more than one spelling: Buchanan writes <i>Tamul</i>, <i>Jagory</i> and <i>Seringapatam</i>.</p></header>
-  <form class="lib-search" role="search" action="/search/" method="get" data-search>
-    <label for="sq" class="vh">Search the library</label>
-    <input id="sq" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="A word, a name, a place">
-  </form>
+<section class="wrap">
+  <header class="pg-h lib-h"><h1>Search</h1>
+    <p class="dek">Search reads the whole text of every book, chapter by chapter. Old books spell differently, so try more than one spelling: Buchanan writes <i>Tamul</i>, <i>Jagory</i> and <i>Seringapatam</i>.</p>
+    <form class="findbox" role="search" action="/search/" method="get" data-search>
+      <svg viewBox="0 0 16 16" width="18" height="18" aria-hidden="true" focusable="false"><circle cx="6.8" cy="6.8" r="4.6" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M10.3 10.3 14 14" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+      <label for="sq" class="vh">Search the library</label>
+      <input class="find" id="sq" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="A word, a name, a place">
+      <button class="clear" type="reset" hidden>Clear</button>
+    </form>
+  </header>
   <p class="tally" id="s-tally" aria-live="polite"></p>
-  <ol class="s-results" id="s-results"></ol>
-  <button type="button" class="s-more" id="s-more" hidden>Show more</button>
-  <noscript><p class="lib-dek">Search needs JavaScript. Without it, <a href="/books/">the library’s catalogue</a> lists every book.</p></noscript>
-  <section class="s-ways" id="s-ways">
-    <h2 class="lib-sub tc">Or go in by shelf</h2>
-    <ul class="s-shelves">{{ range hugo.Data.shelves.shelf }}<li style="--cloth:{{ .cloth | safeCSS }}"><a href="/shelves/{{ .slug }}/">{{ .name }}</a></li>{{ end }}</ul>
+  <ol class="hit-list s-results" id="s-results"></ol>
+  <button type="button" class="readon s-more" id="s-more" hidden>Show more</button>
+  <noscript><p class="empty">Search needs JavaScript. Without it, <a class="ln" href="/books/">the library</a> lists every book.</p></noscript>
+  <section class="sec" id="s-ways" aria-labelledby="h-ways">
+    <div class="sec-h"><h2 id="h-ways">Or go in by shelf</h2><a href="/books/">The library</a></div>
+    <ul class="ways">{{ range hugo.Data.shelves.shelf }}<li class="{{ .code }}"><a href="/shelves/{{ .slug }}/">{{ .name }}</a></li>{{ end }}</ul>
   </section>
 </section>
 {{ end }}

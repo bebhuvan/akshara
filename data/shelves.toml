@@ -1,8 +1,16 @@
 # The eight shelves. A book's shelf comes from its `archetype` front matter (set by the pipeline).
-# The order here is the order on the site. Each shelf has one cloth colour (see GRAMMAR in the design notes).
+# The order here is the order on the site. Each shelf has one cloth colour, and from it four colours that
+# every page uses: its paper and ink, light and dark. `code` names the CSS class that carries them; the build
+# writes those classes from this file (assets/css/shelves.css), and the social cards read the same values,
+# so a shelf's colours live here and nowhere else. A new shelf needs only an entry here.
 
 [[shelf]]
 key = "epistolary_and_speeches"
+code = "le"
+paper = "#F0E4E6"       # the cloth washed pale: covers, tiles, bands
+ink = "#774353"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#36262C"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#CA9BA9"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Literature and Letters"
 slug = "literature-and-letters"
 cloth_name = "madder"
@@ -12,6 +20,11 @@ source = "Toru Dutt, to Mary Martin, 1877"
 
 [[shelf]]
 key = "village_and_society"
+code = "vi"
+paper = "#E1EBE6"       # the cloth washed pale: covers, tiles, bands
+ink = "#395F50"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#222F2B"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#9DC8B7"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Village and Society"
 slug = "village-and-society"
 cloth_name = "sea green"
@@ -21,6 +34,11 @@ source = "T. Ramakrishna, *Life in an Indian Village*, 1891"
 
 [[shelf]]
 key = "court_and_chronicle"
+code = "co"
+paper = "#EFE5DF"       # the cloth washed pale: covers, tiles, bands
+ink = "#774735"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#362723"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#D3A492"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Travel and Chronicles"
 slug = "travel-and-chronicles"
 cloth_name = "terracotta"
@@ -30,6 +48,11 @@ source = "Jadunath Sarkar, *The Mughal Administration*, 1920"
 
 [[shelf]]
 key = "classical_and_philological"
+code = "cl"
+paper = "#E3E5EF"       # the cloth washed pale: covers, tiles, bands
+ink = "#424F88"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#252A3D"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#95A0D0"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Classical and Philology"
 slug = "classical-and-philology"
 cloth_name = "lapis"
@@ -39,6 +62,11 @@ source = "F. Max Müller, *India: What Can It Teach Us?*, 1883"
 
 [[shelf]]
 key = "maritime_company_records"
+code = "ma"
+paper = "#E0E9EE"       # the cloth washed pale: covers, tiles, bands
+ink = "#2C5A6E"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#1E2D35"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#8EC1D7"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Maritime and Company Records"
 slug = "maritime-and-company-records"
 cloth_name = "sea blue"
@@ -48,6 +76,11 @@ source = "Wilfred H. Schoff, *The Periplus of the Erythræan Sea*, 1912"
 
 [[shelf]]
 key = "political_economy_ledger"
+code = "ec"
+paper = "#EBE5EE"       # the cloth washed pale: covers, tiles, bands
+ink = "#5B456E"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#2D2635"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#B49FC6"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Political Economy"
 slug = "political-economy"
 cloth_name = "heather"
@@ -57,6 +90,11 @@ source = "The Proclamation of 1858, as Naoroji quotes it, 1901"
 
 [[shelf]]
 key = "survey_and_gazetteer"
+code = "su"
+paper = "#E6EAE0"       # the cloth washed pale: covers, tiles, bands
+ink = "#4C5936"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#282D23"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#B8C79E"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Surveys and Gazetteers"
 slug = "surveys-and-gazetteers"
 cloth_name = "moss"
@@ -66,6 +104,11 @@ source = "The epigraph to Herbert Risley, *The People of India*, 1915"
 
 [[shelf]]
 key = "currency_and_finance"
+code = "cu"
+paper = "#E4E7EB"       # the cloth washed pale: covers, tiles, bands
+ink = "#465264"         # the cloth deepened to read as text on white and on its paper
+paper_dark = "#262B32"  # the same in dark mode: a ground a step above the dark page
+ink_dark = "#A4B0C1"    # and an ink lifted toward the light (at least 5.5:1 on its ground)
 name = "Currency and Finance"
 slug = "currency-and-finance"
 cloth_name = "slate"

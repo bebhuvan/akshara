@@ -3,7 +3,8 @@
 <head>{{ partial "page/head.html" . }}</head>
 <body data-view="{{ block "view" . }}page{{ end }}">
 <a class="skip" href="#main">Skip to the text</a>
-{{ block "mast" . }}{{ partial "page/mast.html" . }}{{ end }}
+{{- /* a chapter has its own reading bar in place of the masthead */}}
+{{ if not (and .IsPage (eq .Type "chapters")) }}{{ partial "page/mast.html" . }}{{ end }}
 <main id="main">
 {{ block "main" . }}{{ end }}
 </main>

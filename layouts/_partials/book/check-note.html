@@ -1,0 +1,32 @@
+{{- /* One part of the automatic checks' report, in plain words: "-3.0: 1 unresolved footnote callout/body
+mismatch(es)" becomes "1 footnote not matched to its mark". A finding with no plain wording is shown as the
+checker wrote it, without its deduction. Takes the notes string; returns a slice of sentences (empty when clean). */ -}}
+{{- $plain := slice
+  (slice `unresolved footnote callout/body mismatch\(es\)` "footnote not matched to its mark" "footnotes not matched to their marks")
+  (slice "`<unclear>` ink span\\(s\\) awaiting scan check" "passage too faint to read, waiting for a look at the scan" "passages too faint to read, waiting for a look at the scan")
+  (slice `script/codepoint anomaly\(ies\)` "letter in an unexpected script" "letters in an unexpected script")
+  (slice `multi-column zig-zag reading order warning\(s\)` "page in columns whose reading order may be wrong" "pages in columns whose reading order may be wrong")
+  (slice `ragged table geometry warning\(s\)` "table with uneven rows" "tables with uneven rows")
+  (slice `Blind Totals Strip disagreement\(s\)` "printed total that the figures do not reach" "printed totals that the figures do not reach")
+  (slice `column total arithmetic mismatch\(es\)` "column that does not add up to its total" "columns that do not add up to their totals")
+  (slice `intra-book diacritic drift cluster\(s\)` "name spelt with different accents in different places" "names spelt with different accents in different places")
+-}}
+{{- $out := slice -}}
+{{- $s := . | default "" -}}
+{{- if not (hasPrefix $s "Clean") -}}
+  {{- range split $s ";" -}}
+    {{- $f := trim (replaceRE `^\s*-?[0-9.]+:\s*` "" .) " " -}}
+    {{- if $f -}}
+      {{- $done := false -}}
+      {{- range $plain -}}
+        {{- if and (not $done) (findRE (printf `^\d+ %s$` (index . 0)) $f) -}}
+          {{- $n := int (index (findRE `^\d+` $f) 0) -}}
+          {{- $out = $out | append (printf "%d %s" $n (cond (eq $n 1) (index . 1) (index . 2))) -}}
+          {{- $done = true -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if not $done }}{{ $out = $out | append $f }}{{ end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $out -}}

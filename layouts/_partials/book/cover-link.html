@@ -1,3 +1,4 @@
+{{- /* A cover that opens its book, with the short title and author beneath it. Takes a book record. */ -}}
 {{- $b := . -}}
-<a class="cv-link" href="{{ $b.url }}" title="{{ $b.title }} · {{ $b.author }}, {{ $b.year }}">{{ partial "book/cover.html" $b }}</a>
+<a class="book {{ $b.code }}" href="{{ $b.url }}">{{ partial "book/cover.html" $b }}<span class="cap"><b>{{ $b.cover.title }}{{ with $b.cover.line }}, {{ . }}{{ end }}</b><span class="by">{{ $b.author }}</span></span></a>
 {{- /**/ -}}

@@ -1,6 +1,8 @@
 # Security and cache headers for every response. Cloudflare reads this file (see DECISIONS.md, D3).
 # Scripts run only from this site; 'wasm-unsafe-eval' lets the search index (Pagefind) run its
-# WebAssembly. Inline style attributes carry each book's cloth colour. Scans load from archive.org.
+# WebAssembly. Inline style attributes carry each plate's address, a cover's crop and the reader's text size;
+# <style> elements and stylesheets may come only from this site (style-src-elem; browsers without it fall
+# back to style-src). Scans load from archive.org.
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
@@ -8,7 +10,7 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Cross-Origin-Opener-Policy: same-origin
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; style-src-elem 'self' 'sha256-BhZHOuPKomo/9dw1d2sZ3beCkwmqPd+WWX7nNgWi4ls='; style-src-attr 'unsafe-inline'; img-src 'self' data: https://archive.org https://*.archive.org; font-src 'self'; connect-src 'self'; object-src 'none'; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; upgrade-insecure-requests
 
 # Stylesheets and scripts are fingerprinted (the file name changes with the content), so they can be kept a year.
 /css/*
@@ -23,12 +25,29 @@
   Cache-Control: public, max-age=86400
 /plates/*
   Cache-Control: public, max-age=86400
+/og/*
+  Cache-Control: public, max-age=86400
 /img/*
   Cache-Control: public, max-age=86400
 /fonts/*
   Cache-Control: public, max-age=2592000
-/pagefind/*
-  Cache-Control: public, max-age=3600
+# The search index: its chunks are named by their content, so they can be kept a year. The files that point
+# at them keep their names, so browsers must check them on every visit; a cached pagefind-entry.json once
+# pointed at chunks a new deploy had removed, and search failed until the cache ran out.
+/pagefind/fragment/*
+  Cache-Control: public, max-age=31536000, immutable
+/pagefind/index/*
+  Cache-Control: public, max-age=31536000, immutable
+/pagefind/filter/*
+  Cache-Control: public, max-age=31536000, immutable
+/pagefind/pagefind-entry.json
+  Cache-Control: public, max-age=0, must-revalidate
+/pagefind/pagefind.js
+  Cache-Control: public, max-age=0, must-revalidate
+/pagefind/pagefind-worker.js
+  Cache-Control: public, max-age=0, must-revalidate
+/pagefind/wasm.*
+  Cache-Control: public, max-age=0, must-revalidate
 
 /downloads/*
   Cache-Control: public, max-age=86400

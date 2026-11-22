@@ -1,27 +1,63 @@
 # Hand-chosen things on the opening page. Every book and plate named here must exist, or the build stops.
-# Plain keys must come before the first [[table]], or TOML files them under it.
+# Plain keys must come before the first [table], or TOML files them under it.
 
-# "Small things from the books": plate keys from data/plates.toml.
-# The strip of engravings under the opening: plate keys from data/plates.toml, in order.
-frieze = ["j2-chakram", "per-ship", "j2-bull", "pal-jones", "et-coryat", "j1-sugarmill", "eic-ship"]
+# "Small things from the books": plate keys from data/plates.toml. Each opens the book it came from.
+cabinet = ["per-pallava", "j1-krishna", "eic-ship", "pal-jones"]
 
-# "Small things from the books": plate keys from data/plates.toml.
-cabinet = ["j2-bull", "per-ship", "j3-fish", "et-coryat", "pal-jones", "j1-sugarmill"]
+# The book the opening's "Begin reading" opens, at its first chapter.
+begin = "journey-from-madras-vol-i"
 
-# "Three more to begin with": a book and a sentence from it, with where the sentence comes from.
-[[begin_with]]
-book = "speeches-writings-sarojini-naidu"
-quote = "I was born in Bengal. I belong to the Madras Presidency. In a Mahomedan city I was brought up and married and there I lived; still I am neither a Bengalee, nor Madrassee, nor Hyderabadee but I am an Indian."
-source = "From her speech *True Brotherhood*"
+# The turning plate at the top of the page: plate keys from data/plates.toml, in the order they turn,
+# each with the caption set beneath it (its name, then where it was printed).
+[[turning]]
+plate = "j2-chakram"
+title = "Chakram of Chowgaut"
+line = "Plate xx, fig. 51 · Buchanan, *A Journey from Madras*, 1807"
 
-[[begin_with]]
-book = "indian-shipping"
-quote = "Do thou whose countenance is turned to all sides send off our adversaries as if in a ship to the opposite shore; do thou convey us in a ship across the sea for our welfare."
-source = "The Rig Veda, to Agni, as Mookerji quotes it"
+[[turning]]
+plate = "per-ship"
+title = "Merchant-ship of the second century"
+line = "From a relief in the Lateran Museum · Schoff, *The Periplus*, 1912"
 
-[[begin_with]]
-book = "lays-of-ancient-india"
-verse = true
-quote = "Beauteous daughter of the sky!<br>Hold thy ruddy light on high!<br>Grant us wealth and grant us day,<br>Bring us food with morning’s ray!"
-source = "*Ushas, or the Dawn*, from the Rig Veda"
+[[turning]]
+plate = "et-coryat"
+title = "Coryat on an elephant"
+line = "Foster, *Early Travels in India*, 1921, p. 248"
 
+[[turning]]
+plate = "pal-narasimha"
+title = "Inscription of Nayapāla, the year 15"
+line = "Rubbing · Banerji, *The Pālas of Bengal*, 1915"
+
+[[turning]]
+plate = "j3-fish"
+title = "Cyprinus curmuca"
+line = "Plate xxx · Buchanan, *A Journey from Madras*, vol. III"
+
+[[turning]]
+plate = "j2-bull"
+title = "Seringapatam bull, from the late Sultan’s herd"
+line = "Fig. 38 · Buchanan, *A Journey from Madras*, vol. II, p. 7"
+
+# The featured edition: one book shown properly. Its words are the editor's (D6 allows the curated
+# text on this page); the quotation is the book's own first sentence, with where it stands.
+[featured]
+book = "journey-from-madras-vol-i"
+title = "A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
+by = "Francis Buchanan · London, 1807 · three volumes"
+quote = "In the afternoon of the 23d April 1800, I set out from Madras, in the very hot dry weather, which usually prevails at this season."
+quote_source = "The day the survey began · vol. I, p. 1"
+about = "Seringapatam had fallen the year before. The Company sent Buchanan, a Scottish physician, through Mysore, Canara and Malabar to write down how the country lived: its crops and wells, its mills and looms, its weights, coins and rents. This is his journal of the road, with the engravings made from his drawings."
+
+# Three of its plates beneath, with short captions.
+[[featured.plates]]
+plate = "j1-sugarmill"
+caption = "Sugar mill, fig. 34"
+
+[[featured.plates]]
+plate = "j2-bull"
+caption = "Seringapatam bull, vol. II, fig. 38"
+
+[[featured.plates]]
+plate = "j3-fish"
+caption = "Cyprinus curmuca, vol. III, plate xxx"

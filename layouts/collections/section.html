@@ -1,13 +1,13 @@
 {{ define "main" }}
-<section class="pg wrap">
-  <header class="lib-head"><h1 class="lib-title">Collections</h1><p class="lib-dek">Books gathered around one subject, across the shelves.</p></header>
-  <div class="coll-list">
+<section class="wrap">
+  <header class="pg-h"><h1>Collections</h1><p class="dek">Books gathered around one subject, across the shelves.</p></header>
+  <ol class="pg-body rows colls">
   {{- range .Pages }}
     {{- $ids := .Params.books | default slice }}
     {{- if $ids }}
-    <a class="coll-row" href="{{ .RelPermalink }}"><span class="coll-t">{{ .Title }}</span><span class="coll-d">{{ .Params.description }}</span><span class="coll-n">{{ partial "words.html" (len $ids) | strings.FirstUpper }} {{ cond (eq (len $ids) 1) "book" "books" }}</span></a>
+    <li><a href="{{ .RelPermalink }}"><b>{{ .Title }}</b><span>{{ .Params.description }}</span><i>{{ partial "words.html" (len $ids) | strings.FirstUpper }} {{ cond (eq (len $ids) 1) "book" "books" }}</i></a></li>
     {{- end }}
   {{- end }}
-  </div>
+  </ol>
 </section>
 {{ end }}

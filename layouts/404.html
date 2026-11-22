@@ -1,6 +1,19 @@
 {{ define "main" }}
-<section class="pg wrap notfound">
-  <header class="lib-head"><h1 class="lib-title">No page here</h1>
-    <p class="lib-dek">The address may be mistyped, or the page may have moved. Every book is in <a href="/books/">the library</a>, and <a href="/search/">search</a> reads the whole text.</p></header>
+{{- $pl := partial "plate/get.html" "per-ship" -}}{{- $b := partial "book/get.html" $pl.book -}}
+<section class="wrap lost {{ $b.code }}">
+  <figure class="lost-plate">
+    <div class="tile"><i class="plate" style="--src:url({{ partial "plate/url.html" (dict "key" $pl.key "w" 640) }})" role="img" aria-label="{{ $pl.alt }}"></i></div>
+    <figcaption>Merchant-ship of the second century · Schoff, <a class="ln" href="{{ $b.url }}"><i>The Periplus</i></a>, 1912</figcaption>
+  </figure>
+  <div class="lost-text">
+    <header class="pg-h"><h1>No page here</h1>
+      <p class="dek">The address may be mistyped, or the page may have moved. Every book is in the library, and search reads the whole text of all of them.</p></header>
+    <form class="findbox" role="search" action="/search/" method="get">
+      <svg viewBox="0 0 16 16" width="18" height="18" aria-hidden="true" focusable="false"><circle cx="6.8" cy="6.8" r="4.6" fill="none" stroke="currentColor" stroke-width="1.3"/><path d="M10.3 10.3 14 14" stroke="currentColor" stroke-width="1.3" stroke-linecap="round"/></svg>
+      <label for="lost-q" class="vh">Search the library</label>
+      <input class="find" id="lost-q" name="q" type="search" autocomplete="off" spellcheck="false" placeholder="A word, a name, a place">
+    </form>
+    <p class="lost-ways"><a class="more" href="/books/">The library <span aria-hidden="true">→</span></a> <a class="more" href="/">The opening page <span aria-hidden="true">→</span></a></p>
+  </div>
 </section>
 {{ end }}

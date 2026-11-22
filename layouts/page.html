@@ -1,11 +1,9 @@
 {{ define "main" }}
-<article class="journal plain-page">
-  <div class="sheet"><div class="col">
-    <header class="art-head">
-      <h1>{{ .Title }}</h1>
-      {{- with .Params.dek | default .Params.subtitle }}<p class="dek">{{ . }}</p>{{ end }}
-    </header>
-    <div class="prose">{{ .Content | replaceRE `^\s*<h1[^>]*>[\s\S]*?</h1>` "" | safeHTML }}</div>
-  </div></div>
+<article class="wrap article">
+  <header class="pg-h">
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.dek | default .Params.subtitle }}<p class="dek">{{ . }}</p>{{ end }}
+  </header>
+  <div class="pg-body prose">{{ .Content | replaceRE `^\s*<h1[^>]*>[\s\S]*?</h1>` "" | safeHTML }}</div>
 </article>
 {{ end }}

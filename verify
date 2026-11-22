@@ -3,12 +3,16 @@
 # Builds the whole site, then checks every address it has ever served, the data files, and dependencies.
 set -euo pipefail
 cd "$(dirname "$0")"
+echo "== every cover's picture comes from its own book"
+python3 scripts/check_covers.py
 echo "== build"
 scripts/build.sh
 echo "== every known address still works"
 python3 scripts/check_urls.py public
 echo "== no unsafe or broken markup in any page"
 python3 scripts/check_content.py public
+echo "== every inline style is allowed by the security policy"
+python3 scripts/check_styles.py public
 echo "== within Cloudflare's limits"
 python3 scripts/check_limits.py public
 echo "== tests of the checks"

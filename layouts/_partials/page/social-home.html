@@ -1,0 +1,14 @@
+{{- /* The site's own social preview, 1200×630, made at build time like the books' (book/social.html): the
+opening's headline beside the chakram of Chowgaut in the Surveys shelf's ink. Returns the image resource. */ -}}
+{{- $px := resources.Get "img/px.png" -}}
+{{- $su := index (where hugo.Data.shelves.shelf "code" "su") 0 -}}{{- $g := $su.paper -}}{{- $k := $su.ink -}}
+{{- $light := resources.Get "fonts/og-newsreader-light.ttf" -}}
+{{- $italic := resources.Get "fonts/og-newsreader-italic.ttf" -}}
+{{- $plate := (resources.Get "plates/j2-chakram.webp").Fit "560x560 jpg #ffffff q95" -}}
+{{- $inked := $px | images.Filter (images.Padding 0 (sub $plate.Width 1) (sub $plate.Height 1) 0 $k) (images.Mask ($plate | images.Filter images.Invert)) -}}
+{{- $head := $px | images.Filter (images.Padding 0 579 359 0 "#00000000") (images.Text "Making India’s forgotten books readable again." (dict "font" $light "size" 74 "color" "#1E1D1B" "linespacing" 14)) -}}
+{{- $img := $px | images.Filter (images.Padding 0 1199 629 0 $g) (images.Overlay $inked 640 40) (images.Overlay $head 72 120)
+  (images.Text "Akshara" (dict "font" $italic "size" 30 "color" $k "x" 72 "y" 70))
+  (images.Text "A public-domain library of rare books about India" (dict "font" $italic "size" 26 "color" "#57544E" "x" 72 "y" 520)) -}}
+{{- $out := $img.Process "jpg q84" | resources.Copy "og/akshara.jpg" -}}
+{{- return $out -}}
