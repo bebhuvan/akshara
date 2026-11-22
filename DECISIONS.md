@@ -417,8 +417,8 @@ subdomain: Bhuvanesh chose a path.
 ## D32: Cloudflare Web Analytics counts visits (2026-11-22)
 
 **Decided.** The security policy lets Cloudflare Web Analytics run: its beacon may load from
-`static.cloudflareinsights.com` (`script-src`) and report to `cloudflareinsights.com` (`connect-src`). This changes
-D4's "Cloudflare Web Analytics was removed from the policy (since restored for visit counts, D32).. Cloudflare adds the beacon to every page itself (the
+`static.cloudflareinsights.com` (`script-src`) and report to `cloudflareinsights.com` (`connect-src`). This reverses
+D4, which had removed Cloudflare Web Analytics from the policy. Cloudflare adds the beacon to every page itself (the
 setting is on the akshara.ink zone), so the site's own templates do not change.
 
 **Why.** Bhuvanesh wants to know how many people read the library. After launch the policy blocked the beacon on every
@@ -427,3 +427,23 @@ sets no cookies and keeps no record that identifies a reader, which keeps within
 
 **Rejected.** A separate analytics service (Plausible, Google Analytics): a new third party for a count Cloudflare
 already offers. Reading Cloudflare's server-side traffic numbers only: they count bots and crawlers as readers.
+
+## D33: A journal essay is set with a little more voice than a plain page (2026-11-22)
+
+**Decision.** A journal essay keeps the plain page's reading column but gains: a byline under the standfirst (the
+akṣara, "By Bhuvan", the date, the reading time); a first letter three lines tall in the shelf's ink; the essay's
+own sentences from `data/journal.toml` (`pull`) set large between paragraphs, at a third and two thirds of the way,
+only at a top-level paragraph break and hidden from screen readers so they meet each sentence once; a section
+break written `***` drawn as the akṣara ಅ in the shelf's ink; and at the foot, under the signature, "In the
+library": the covers of the books the essay talks about, named by id in `data/journal.toml` (`books`). A named
+book that is not in the library stops the build. The foot's links were labelled the wrong way round (the older
+essay was called "Later"); they now read Earlier and Later.
+
+**Why.** Bhuvanesh found the first long essay lifeless: 1,800 words of unbroken grey in a layout made for
+quiet reading of old books. The essays are one person talking; the page should show a person and give the eye
+somewhere to land, using only the site's own means (its ink, its type, its covers).
+
+**Rejected.** Matching the essay's italic titles against the library automatically: a near-miss title would
+pick the wrong book or none, silently. Pull quotes written into the essay's text: they would be read twice by a
+screen reader and the essay's words would live in two places.
+

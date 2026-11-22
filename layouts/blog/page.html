@@ -1,14 +1,47 @@
 {{ define "main" }}
-<article class="wrap article su">
+{{- $id := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+{{- $j := index hugo.Data.journal $id | default dict -}}
+{{- $pulls := $j.pull | default slice -}}
+{{- /* the essay's own sentences from data/journal.toml, set large between paragraphs at a third and two thirds
+of the way. Only at a top-level paragraph break, never inside a quotation or a list. aria-hidden: a reader
+using a screen reader meets each sentence once, where it was written. */ -}}
+{{- $content := string .Content -}}
+{{- if $pulls -}}
+  {{- $parts := split $content "</p>\n" -}}
+  {{- $n := len $parts -}}
+  {{- $at := cond (ge (len $pulls) 2) (slice (div $n 3) (div (mul $n 2) 3)) (slice (div $n 2)) -}}
+  {{- $out := "" -}}{{- $q := 0 -}}
+  {{- range $i, $part := $parts -}}
+    {{- $out = printf "%s%s" $out $part -}}
+    {{- if lt $i (sub $n 1) -}}{{- $out = printf "%s</p>\n" $out -}}{{- end -}}
+    {{- $open := len (findRE `<(blockquote|ul|ol|table)\b` $out) -}}
+    {{- $shut := len (findRE `</(blockquote|ul|ol|table)>` $out) -}}
+    {{- if and (lt $q (len $at)) (ge $i (index $at $q)) (eq $open $shut) (lt $i (sub $n 1)) -}}
+      {{- $s := index $pulls $q -}}
+      {{- $out = printf "%s<figure class=\"pull\" aria-hidden=\"true\"><blockquote><p>%s</p></blockquote></figure>\n" $out (htmlEscape $s) -}}
+      {{- $q = add $q 1 -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $content = $out -}}
+{{- end -}}
+<article class="wrap article essay su">
   <header class="pg-h">
-    <p class="up"><a href="/blog/">The Journal</a> · {{ .Date.Format "2 January 2006" }}</p>
+    <p class="up"><a href="/blog/">The Journal</a>{{ with .Params.category }} · {{ . }}{{ end }}</p>
     <h1>{{ .Title }}</h1>
     {{- with .Description }}<p class="dek">{{ . }}</p>{{ end }}
+    <p class="byline"><span class="kn" lang="kn" aria-hidden="true">ಅ</span> By {{ .Params.author | default "Bhuvan" }} <span class="dot">·</span> <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time> <span class="dot">·</span> {{ .ReadingTime }} minutes</p>
   </header>
-  <div class="pg-body prose">{{ .Content }}</div>
+  <div class="pg-body prose">{{ $content | safeHTML }}</div>
   <footer class="post-foot">
     <p class="sig"><span class="kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span> Bhuvan</p>
-    <nav class="pager" aria-label="Journal">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><small>Later</small><b>{{ .Title }}</b></a>{{ end }}{{ with .NextInSection }}<a href="{{ .RelPermalink }}"><small>Earlier</small><b>{{ .Title }}</b></a>{{ end }}</nav>
+    {{- with $j.books }}
+    <section class="post-books" aria-labelledby="pb-h">
+      <h2 id="pb-h">In the library</h2>
+      <p>{{ cond (gt (len .) 1) "The books this essay talks about, set to be read and free to all." "The book this essay talks about, set to be read and free to all." }}</p>
+      <div class="shelf">{{ range . }}{{ with site.GetPage (printf "/books/%s" .) }}{{ partial "book/cover-link.html" (partialCached "book/record.html" . .RelPermalink) }}{{ else }}{{ errorf "journal %s names book %q, which is not in the library" $id . }}{{ end }}{{ end }}</div>
+    </section>
+    {{- end }}
+    <nav class="pager" aria-label="Journal">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}"><small>Earlier</small><b>{{ .Title }}</b></a>{{ end }}{{ with .NextInSection }}<a href="{{ .RelPermalink }}"><small>Later</small><b>{{ .Title }}</b></a>{{ end }}</nav>
   </footer>
 </article>
 {{ end }}

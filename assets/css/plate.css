@@ -955,6 +955,31 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
 .article > .pg-h h1 { font-size: clamp(40px, 10vw, 64px); }
 @media (min-width: 760px) { .article { --col: 680px; } .article > .prose { font-size: var(--fs-read-wide); } }
 
+/* A journal essay is one person writing, so it gets a little more voice than a plain page (D33): a byline,
+   a first letter set large in the shelf's ink, the essay's own sentences set large between paragraphs, a
+   section break marked with the akṣara, and the books it talks about at its foot. */
+.essay .byline { margin-top: 18px; font-size: var(--fs-aside); color: var(--ink-2); }
+.essay .byline .kn { color: var(--k); margin-right: 4px; }
+.essay .byline .dot { color: var(--ink-3); margin: 0 2px; }
+.essay .prose > p:first-child:not(:has(img))::first-letter,
+.essay .prose > p:has(> img:only-child) + p::first-letter {
+  float: left; font-size: 3.35em; line-height: .78; font-weight: 300; color: var(--k); margin: .1em .08em 0 -.02em; }
+.essay .prose > p:has(> img:only-child) img { width: 100%; height: auto; }
+.essay .prose .pull { margin: 2em 0; padding: 22px 0; border-top: 1px solid color-mix(in srgb, var(--k) 40%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
+.essay .prose .pull blockquote { border: 0; padding: 0; color: var(--k); font-size: var(--fs-quote); line-height: 1.3;
+  font-weight: 300; font-style: italic; text-wrap: balance; }
+.essay .prose .pull p::before { content: "“"; }
+.essay .prose .pull p::after { content: "”"; }
+.essay .prose hr { width: auto; border: 0; margin: 1.7em 0 .9em; text-align: center; overflow: visible; height: auto; }
+.essay .prose hr::after { content: "ಅ"; font-family: var(--kn); font-weight: 500; font-size: 30px; line-height: 1; color: var(--k); }
+.essay .post-books { margin-top: 44px; }
+.essay .post-books h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15;
+  padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
+.essay .post-books > p { margin-top: 12px; color: var(--ink-2); }
+.essay .post-books .shelf { margin-top: 22px; grid-template-columns: repeat(3, 1fr); gap: 20px 14px; }
+@media (min-width: 760px) { .essay .prose .pull { margin-left: -40px; margin-right: -40px; padding-left: 40px; padding-right: 40px; } }
+
 /* In dark mode a photograph or a portrait printed light on dark becomes a negative: faces glow. These are
    printed as they would be on paper, in dark ink on a pale tile of their own. */
 html[data-theme="dark"] .k-portrait .pic, html[data-theme="dark"] .k-photo .pic, html[data-theme="dark"] .face { background: #DCD7CD; }

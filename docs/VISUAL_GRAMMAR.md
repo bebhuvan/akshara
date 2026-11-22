@@ -332,6 +332,12 @@ Each is a class in `plate.css`; the comment above it says what it is for.
 - **Lists of pages (`.rows`).** One row per entry on hairlines; titles of books in italic. A list that follows
   a section heading shares the heading's rule and draws none of its own. The journal's earlier essays set the
   date in its own column on a wide screen, like a register.
+- **A journal essay (`.essay`, D33).** The plain page's column, plus a byline under the standfirst (the akṣara
+  in the shelf's ink, By Bhuvan, date, minutes); a first letter three lines tall, light, in the shelf's ink; the
+  essay's own sentences set large in light italic in the shelf's ink between two fine rules of that ink
+  (`.pull`, hanging 40px into each margin on a wide screen); a section break (`***`) drawn as ಅ in the shelf's
+  ink; at the foot the signature, then "In the library" with the covers of the books it talks about, three to a
+  row, then Earlier and Later.
 - **The authors index (`.index`, `.ix`).** Filed by surname under a large light letter in the margin, as a
   printed index is, with a row of letters at the top to jump to. Each writer: the name, years and
   birthplace in `--ink-2`, one line on who they were (the record's `short_bio`; the pipeline's placeholder is

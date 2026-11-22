@@ -1,6 +1,7 @@
 """Tests of the built site in public/ (./verify builds it before running the tests). Skipped if it is not built.
 Run: python3 -m unittest discover -s tests"""
 from decimal import Decimal, ROUND_HALF_UP
+import html
 import re
 import tomllib
 import unittest
@@ -112,3 +113,31 @@ class SearchAndPages(unittest.TestCase):
         ids = re.findall(r'id="?(p-[0-9ivxlcdm]+)"?', html)
         self.assertEqual(len(ids), len(set(ids)), "a page target appears twice")
 
+
+
+@unittest.skipUnless((PUBLIC / "blog/index.html").exists(), "the site is not built")
+class JournalEssay(unittest.TestCase):
+    def setUp(self):
+        self.html = (PUBLIC / "blog/akshara-take-two/index.html").read_text(encoding="utf-8")
+        self.journal = tomllib.loads((ROOT / "data/journal.toml").read_text(encoding="utf-8"))
+
+    def test_the_older_essay_is_labelled_earlier(self):
+        # The labels were swapped: the 2025 essay was offered as "Later" under the 2026 one.
+        foot = self.html[self.html.index('aria-label=Journal'):]
+        self.assertRegex(foot, r"<small>Earlier</small><b>Introducing Akshara</b>")
+        self.assertNotIn("<small>Later</small>", foot)
+
+    def test_byline_names_the_writer_and_reading_time(self):
+        self.assertRegex(self.html, r"By Bhuvan .*?\d+ minutes")
+
+    def test_pull_quotes_are_the_essays_own_words_and_hidden_from_screen_readers(self):
+        pulls = re.findall(r'<figure class=pull aria-hidden=true><blockquote><p>(.*?)</p>', self.html)
+        expected = self.journal["akshara-take-two"]["pull"]
+        self.assertEqual(len(pulls), len(expected))
+        body = html.unescape(re.sub(r'<figure class=pull.*?</figure>', "", self.html))
+        for s in expected:
+            self.assertIn(s, body, "a pull quote must be a sentence the essay itself contains")
+
+    def test_books_the_essay_names_are_shown(self):
+        for book in self.journal["akshara-take-two"]["books"]:
+            self.assertIn(f'href=/books/{book}/', self.html)
