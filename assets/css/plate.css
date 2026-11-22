@@ -955,6 +955,41 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
 .article > .pg-h h1 { font-size: clamp(40px, 10vw, 64px); }
 @media (min-width: 760px) { .article { --col: 680px; } .article > .prose { font-size: var(--fs-read-wide); } }
 
+/* A journal essay is one person writing, so it gets a little more voice than a plain page (D33): a byline,
+   a first letter set large in the shelf's ink, the essay's own sentences set large between paragraphs, a
+   section break marked with the akṣara, and the books it talks about at its foot. */
+.essay .byline { margin-top: 18px; font-size: var(--fs-aside); color: var(--ink-2); }
+.essay .byline .kn { color: var(--k); margin-right: 4px; }
+.essay .byline .dot { color: var(--ink-3); margin: 0 2px; }
+.essay .prose > p:first-child:not(:has(img))::first-letter,
+.essay .prose > p:has(> img:only-child) + p::first-letter {
+  float: left; font-size: 3.35em; line-height: .78; font-weight: 300; color: var(--k); margin: .1em .08em 0 -.02em; }
+.essay .prose > p:has(> img:only-child) img { width: 100%; height: auto; }
+.essay .prose .pull { margin: 2.2em 0; }
+.essay .prose .pull blockquote { position: relative; border: 0; padding: 0; color: var(--k); font-size: var(--fs-quote);
+  line-height: 1.3; font-weight: 300; font-style: italic; text-wrap: balance; }
+.essay .prose .pull blockquote::before { content: "“"; display: block; height: .42em; margin-bottom: .1em; font-size: 4.2em;
+  line-height: 1; font-style: normal; font-weight: 400; color: var(--k); }
+.essay .prose .pull blockquote::after { content: ""; display: block; width: 48px; margin-top: .7em; border-top: 2px solid var(--k); }
+/* a link in an essay: an underline in the shelf's ink that fills to a soft band of it under the finger */
+.essay .prose a { color: var(--k); border-bottom: 0; text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: .22em;
+  text-decoration-color: color-mix(in srgb, var(--k) 55%, transparent);
+  background: linear-gradient(color-mix(in srgb, var(--k) 14%, transparent), color-mix(in srgb, var(--k) 14%, transparent)) no-repeat 0 100% / 100% 0;
+  transition: background-size .18s ease-out, text-decoration-color .18s; }
+.essay .prose a:hover, .essay .prose a:focus-visible { background-size: 100% 100%; text-decoration-color: var(--k); }
+/* a quotation in an essay: set on a faint ground of the shelf's ink with a firm rule of it */
+.essay .prose > blockquote { margin: 1.6em 0; padding: 16px 20px; border-left: 3px solid var(--k);
+  background: color-mix(in srgb, var(--k) 6%, transparent); color: var(--ink); font-style: italic; }
+.essay .prose > blockquote > * + * { margin-top: .7em; }
+@media (prefers-reduced-motion: reduce) { .essay .prose a { transition: none; } }
+.essay .prose hr { width: auto; border: 0; margin: 1.7em 0 .9em; text-align: center; overflow: visible; height: auto; }
+.essay .prose hr::after { content: "ಅ"; font-family: var(--kn); font-weight: 500; font-size: 30px; line-height: 1; color: var(--k); }
+.essay .post-books { margin-top: 44px; }
+.essay .post-books h2 { font-weight: 400; font-size: var(--fs-h2); letter-spacing: -0.015em; line-height: 1.15;
+  padding-bottom: 12px; border-bottom: 1px solid var(--hair); }
+.essay .post-books > p { margin-top: 12px; color: var(--ink-2); }
+.essay .post-books .shelf { margin-top: 22px; grid-template-columns: repeat(3, 1fr); gap: 20px 14px; }
+
 /* In dark mode a photograph or a portrait printed light on dark becomes a negative: faces glow. These are
    printed as they would be on paper, in dark ink on a pale tile of their own. */
 html[data-theme="dark"] .k-portrait .pic, html[data-theme="dark"] .k-photo .pic, html[data-theme="dark"] .face { background: #DCD7CD; }
