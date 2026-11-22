@@ -393,3 +393,23 @@ open an edition at the page it quotes.
 small errors, beside records saying no page was re-read and dozens of items were open. The thresholds (95, 90)
 are mine, set from the spread of scores (26 books at 100, the lowest at 75); Bhuvanesh may move them.
 Rejected: one sentence for every book, which is either too modest for the clean ones or untrue of the rest.
+
+## D31: The living book is served by its own Worker, on a path of akshara.ink (2026-11-22)
+
+**Decision.** The living-book imprint (its own repository, `akshara_living_books`) is deployed as a second
+Cloudflare Worker with static assets, routed at `akshara.ink/<path>/*` and `www.akshara.ink/<path>/*`. The
+more specific route wins over the library's `akshara.ink/*`, so everything under the path is answered by the
+imprint and everything else by the library. The path is still Bhuvanesh's to name (`/living/` is proposed). When
+it goes live, the library adds one line to `static/_redirects`, `/<path> /<path>/ 301`, because an address
+without the final slash does not match the route and would otherwise reach the library's 404.
+
+**Why.** The two are built by different code, in different repositories, at different times; separate Workers
+keep their deploys apart, so a library deploy cannot remove the living book or the other way round. Each keeps
+its own `_headers`: the imprint's policy is stricter than the library's (no `unsafe-inline`), and if both files
+were merged Cloudflare would send both policies on the imprint's pages. Each answers its own unknown addresses
+with its own 404 page (`/<path>/404.html` is the nearest one), with a real 404 status. Neither build has to
+know the other's file counts for Cloudflare's limits (D9).
+
+**Rejected.** Copying the imprint's `public/<path>/` into the library's `public/` at build: it ties the
+library's build to a second repository, and the headers and redirects would have to be merged by hand. A
+subdomain: Bhuvanesh chose a path.

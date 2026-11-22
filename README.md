@@ -90,6 +90,15 @@ Pushing to `main` deploys to akshara.ink through GitHub Actions (`.github/workfl
 npx wrangler deploy
 ```
 
+To roll back the live site, either revert the merge on `main` (CI deploys the reverted site), or return the
+Worker to an earlier version at once: `npx wrangler deployments list --env production` shows the versions, and
+`npx wrangler rollback <version-id> --env production` serves one again.
+
+### The living book's path
+
+The living-book imprint is a separate Worker on a path of akshara.ink (DECISIONS.md, D31). This repository
+does not build or deploy it; its only part is the one redirect line for the path without its final slash.
+
 ## If a page moves
 
 Add a line `old-path new-path 301` to `static/_redirects`. `./verify` fails if any known address breaks.
