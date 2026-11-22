@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,1,data,,Depositors,2,1885–6.,"155,009",155009.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,1,data,,Depositors,3,1890–1.,"408,544",408544.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,1,data,,Depositors,4,1895–6.,"653,872",653872.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,1,data,,Depositors,5,1900–1.,"816,651",816651.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,1,data,,Depositors,6,1903–4.,"987,635",987635.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,2,data,,Amount of deposits (in lakhs of rupees),2,1885–6.,"2,19",219.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,2,data,,Amount of deposits (in lakhs of rupees),3,1890–1.,"6,13",613.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,2,data,,Amount of deposits (in lakhs of rupees),4,1895–6.,"8,79",879.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,2,data,,Amount of deposits (in lakhs of rupees),5,1900–1.,"9,75",975.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,2,data,,Amount of deposits (in lakhs of rupees),6,1903–4.,"12,33",1233.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,3,data,,Interest (in lakhs of rupees),2,1885–6.,7,7.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,3,data,,Interest (in lakhs of rupees),3,1890–1.,22,22.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,3,data,,Interest (in lakhs of rupees),4,1895–6.,25,25.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,3,data,,Interest (in lakhs of rupees),5,1900–1.,29,29.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-080,Table 80,476,434,3,data,,Interest (in lakhs of rupees),6,1903–4.,35,35.0,,False,False

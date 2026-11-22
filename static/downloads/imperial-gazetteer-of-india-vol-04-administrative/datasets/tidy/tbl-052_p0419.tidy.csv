@@ -1,0 +1,73 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,2,British. :: Cavalry.,"1,884",1884.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,3,British. :: Artillery.,"3,708",3708.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,4,British. :: Royal Engineers.,10,10.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,5,British. :: Infantry.,"14,494",14494.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,6,British. :: Total.,"20,096",20096.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,7,Native. :: Cavalry.,"9,420",9420.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,8,"Native. :: Artillery, including those with Brit. units.","4,496",4496.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,9,Native. :: Sappers and miners and I.S. Mule corps.,582,582.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,10,Native. :: Railway companies.,197,197.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,11,Native. :: Infantry.,"41,669",41669.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,12,Native. :: Total.,"56,364",56364.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,1,data,,Northern command,13,"Grand Total, British and Native troops.","76,460",76460.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,2,British. :: Cavalry.,"1,884",1884.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,3,British. :: Artillery.,"3,425",3425.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,4,British. :: Royal Engineers.,52,52.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,5,British. :: Infantry.,"15,516",15516.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,6,British. :: Total.,"20,877",20877.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,7,Native. :: Cavalry.,"3,950",3950.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,8,"Native. :: Artillery, including those with Brit. units.",483,483.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,9,Native. :: Sappers and miners and I.S. Mule corps.,"1,088",1088.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,10,Native. :: Railway companies.,…,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,11,Native. :: Infantry.,"20,363",20363.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,12,Native. :: Total.,"25,884",25884.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,2,data,,Eastern „,13,"Grand Total, British and Native troops.","46,761",46761.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,2,British. :: Cavalry.,628,628.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,3,British. :: Artillery.,"5,516",5516.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,4,British. :: Royal Engineers.,82,82.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,5,British. :: Infantry.,"14,482",14482.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,6,British. :: Total.,"20,708",20708.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,7,Native. :: Cavalry.,"10,562",10562.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,8,"Native. :: Artillery, including those with Brit. units.","1,155",1155.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,9,Native. :: Sappers and miners and I.S. Mule corps.,"1,421",1421.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,10,Native. :: Railway companies.,197,197.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,11,Native. :: Infantry.,"34,266",34266.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,12,Native. :: Total.,"47,601",47601.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,3,data,,Western „,13,"Grand Total, British and Native troops.","68,309",68309.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,2,British. :: Cavalry.,"1,256",1256.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,3,British. :: Artillery.,"1,877",1877.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,4,British. :: Royal Engineers.,34,34.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,5,British. :: Infantry.,"5,170",5170.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,6,British. :: Total.,"8,337",8337.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,7,Native. :: Cavalry.,"1,307",1307.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,8,"Native. :: Artillery, including those with Brit. units.",311,311.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,9,Native. :: Sappers and miners and I.S. Mule corps.,"1,071",1071.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,10,Native. :: Railway companies.,…,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,11,Native. :: Infantry.,"18,761",18761.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,12,Native. :: Total.,"21,450",21450.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,4,data,,Secunderābād division,13,"Grand Total, British and Native troops.","29,787",29787.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,2,British. :: Cavalry.,…,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,3,British. :: Artillery.,298,298.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,4,British. :: Royal Engineers.,32,32.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,5,British. :: Infantry.,"4,136",4136.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,6,British. :: Total.,"4,466",4466.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,7,Native. :: Cavalry.,…,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,8,"Native. :: Artillery, including those with Brit. units.",654,654.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,9,Native. :: Sappers and miners and I.S. Mule corps.,243,243.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,10,Native. :: Railway companies.,…,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,11,Native. :: Infantry.,"6,147",6147.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,12,Native. :: Total.,"7,044",7044.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,5,data,,Burma „,13,"Grand Total, British and Native troops.","11,510",11510.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,2,British. :: Cavalry.,"5,652",5652.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,3,British. :: Artillery.,"14,824",14824.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,4,British. :: Royal Engineers.,210,210.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,5,British. :: Infantry.,"53,798",53798.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,6,British. :: Total.,"74,484",74484.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,7,Native. :: Cavalry.,"25,239",25239.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,8,"Native. :: Artillery, including those with Brit. units.","7,099",7099.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,9,Native. :: Sappers and miners and I.S. Mule corps.,"4,405",4405.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,10,Native. :: Railway companies.,394,394.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,11,Native. :: Infantry.,"121,206",121206.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,12,Native. :: Total.,"158,343",158343.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-052,B. Strength of British and Native Regular Troops,419,381,6,total,,TOTAL,13,"Grand Total, British and Native troops.","232,827",232827.0,,False,True

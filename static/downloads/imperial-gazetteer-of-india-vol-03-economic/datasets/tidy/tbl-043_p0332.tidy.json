@@ -1,0 +1,38 @@
+[
+  {
+    "book_id": "imperial-gazetteer-of-india-vol-03-economic",
+    "table_id": "tbl-043",
+    "caption": "Table 43",
+    "page_number": 332,
+    "printed_folio": "290",
+    "row_index": 1,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "1882–3—1891–2",
+    "column_index": 2,
+    "column_header": "Cwt.",
+    "raw_text": "141,811",
+    "value_numeric": 141811.0,
+    "unit": "cwt",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  },
+  {
+    "book_id": "imperial-gazetteer-of-india-vol-03-economic",
+    "table_id": "tbl-043",
+    "caption": "Table 43",
+    "page_number": 332,
+    "printed_folio": "290",
+    "row_index": 2,
+    "row_role": "data",
+    "row_group": "",
+    "row_label": "1892–3—1901–2",
+    "column_index": 2,
+    "column_header": "Cwt.",
+    "raw_text": "135,396",
+    "value_numeric": 135396.0,
+    "unit": "cwt",
+    "is_null_or_leader": false,
+    "arithmetic_verified": false
+  }
+]

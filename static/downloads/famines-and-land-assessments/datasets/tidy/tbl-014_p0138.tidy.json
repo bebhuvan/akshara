@@ -156,7 +156,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "14·7, 17, 18, 14",
-    "value_numeric": null,
+    "value_numeric": 14.717181,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -282,7 +282,7 @@
     "column_index": 2,
     "column_header": "Percentage of enhancement in various groups.",
     "raw_text": "13·4, 7",
-    "value_numeric": null,
+    "value_numeric": 13.47,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false

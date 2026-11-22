@@ -1,6 +1,6 @@
 # The English Factories in India, 1661–1664
 *William Foster* (1923)
-> Akshara Machine Checked Edition · Collection: `indian-economic-history`
+> Akshara Community Edition · Collection: `indian-economic-history`
 
 
 ## Frontmatter
@@ -66,9 +66,6 @@ The map of the west coast of India given in the 1655–60 volume will be found o
 <!-- page: 13 | folio: v -->
 
 ### CONTENTS
-
-
-##### <span class="sc">PAGE</span>
 
 - 1661. <span class="sc">The Surat Presidency</span> . . . . . 1
 - <span class="sc">The Madras Agency</span> . . . . . 32
@@ -1628,7 +1625,7 @@ On 6 December the *Chestnut* pink, which Shipman had sent to Bantam with private
 
 A couple of days before the arrival of the *Chestnut*, the *Surat Frigate* came in from Bantam. She brought a letter, dated 18 August, which announced that the *Convertine* had arrived on 10 June, but in such a state that it had been found necessary to careen her before she could proceed to England. It was hoped that she would start by the end of the month. Part of her lading had been fetched from Macassar and Jambi by the *Surat Frigate*, which was now being dispatched to Surat with a cargo of gold, tutenague, benzoin, &c., under the charge of John Hunter.[^sec-11-fn-019] Her speedy return was desired, as she was the only small vessel the [p. 207] Bantam factors had available for voyaging to Siam, Camboja, Tonkin, and Macao. Of the two passengers sent in the *Convertine*, Penn was continuing his voyage to England, but Commins had, at his earnest request, been permitted to return to Surat in the *Surat Frigate*, with the intention of going home overland. He was accompanied by Richard Mohun, who had been Second at Macassar for four years, and by John South, who had gone to Siam in the *Hopewell* and had been ‘to and againe about this end of the world this five or six yeares’. The Sultān of Bantam was desirous of having two or three Persian horses sent him by the *Surat Frigate*, and it was hoped that his wishes would be met, if possible.
 
-At a consultation held on 10 December it was determined to provide a cargo for the *Surat Frigate* and send her back to Bantam, as desired. The President then called the attention of his colleagues to a plot he had discovered to take advantage of the permission given by the Company for the sale of their broadcloth at a very low price. The scheme was to buy the whole at a cheap rate, and, having thus cornered the market, to re-sell at a substantial profit. In this there was nothing reprehensible, if outside merchants had alone been concerned; but to Oxenden’s indignation he found that a leading member of the syndicate was Anthony Smith, by whose influence, it was hoped, the broadcloth would be secured on specially favourable terms. After offers of Rs. 4 and Rs. 4¼ per yard had been rejected, Smith proffered the President Rs. 4½ per yard, at the same time promising to give him a diamond worth about Rs. 1,000 if he would consent to the bargain. Oxenden indignantly refused the bribe and demanded the names of Smith’s partners in the venture. This information he could not obtain, though he afterwards found them to be Vġrji Vora and Chhota. The next best tender was from ‘Cojah Minaz, an able and well reputed Armenian merchant’. After some negotiation he offered Rs. 4⅝ per yard, and this the Council decided to accept.
+At a consultation held on 10 December it was determined to provide a cargo for the *Surat Frigate* and send her back to Bantam, as desired. The President then called the attention of his colleagues to a plot he had discovered to take advantage of the permission given by the Company for the sale of their broadcloth at a very low price. The scheme was to buy the whole at a cheap rate, and, having thus cornered the market, to re-sell at a substantial profit. In this there was nothing reprehensible, if outside merchants had alone been concerned; but to Oxenden’s indignation he found that a leading member of the syndicate was Anthony Smith, by whose influence, it was hoped, the broadcloth would be secured on specially favourable terms. After offers of Rs. 4 and Rs. 4¼ per yard had been rejected, Smith proffered the President Rs. 4½ per yard, at the same time promising to give him a diamond worth about Rs. 1,000 if he would consent to the bargain. Oxenden indignantly refused the bribe and demanded the names of Smith’s partners in the venture. This information he could not obtain, though he afterwards found them to be Vīrji Vora and Chhota. The next best tender was from ‘Cojah Minaz, an able and well reputed Armenian merchant’. After some negotiation he offered Rs. 4⅝ per yard, and this the Council decided to accept.
 
 The *Loyal Merchant* and *African* departed for England at the close of January, 1664, carrying with them a long letter from the President and Council, dated 28 January, from which some extracts have already been given.[^sec-11-fn-020] This opens with a series of replies [p. 208] to the letters of 24 March and 4 April brought by those vessels. The release of Sivājī's prisoners is reported, and a word of commendation is given to Revington. As for the renewal of trade in those parts,
 
@@ -1926,7 +1923,7 @@ The next letter from Kārwār received at Surat was dated 15 June, and was signe
 
 The 19th of May Mr. Ball set forth for Hubyly [Hubli], from whence wee have received letters how that pepper is risen to 12½ and 13 pagodas per barkey,[^sec-13-fn-018] and every day doth rise ⅛ of [a] pagoda in a barkey, by reason that there vends a great quantity towards Brampore [Burhānpur] and Agra; as allso the warrs betwixt this King and Suppenag [Sivappa Nāyak] hath hindred the merchants from bringing that commodity from his parts, for whereas there was use to come from his countrey 10,000 oxen yearely, this yeare there hath not arrived one to Hubyly.
 
-They would therefore await instructions before buying pepper, confining their operations to cardamoms and dungarees. The prize had been surrendered to the representatives of her owners. As for the *Swally* pinnace, for want of sails and rigging, she had not got further than ‘Mergee’ [Mġrjān], ‘the which is in Rustome Jeamah’s dominions’. There she was being laid up for the period of the rains, after which she would be brought to Kārwār.
+They would therefore await instructions before buying pepper, confining their operations to cardamoms and dungarees. The prize had been surrendered to the representatives of her owners. As for the *Swally* pinnace, for want of sails and rigging, she had not got further than ‘Mergee’ [Mīrjān], ‘the which is in Rustome Jeamah’s dominions’. There she was being laid up for the period of the rains, after which she would be brought to Kārwār.
 
 Wee have had a great deale of trouble here with our Governour about a custome of a place called Simmascare.[^sec-13-fn-019] It is some five miles at the other side of the river; an unjust demand, for as yet [p. 241] wee never paid any custome to that place, neither did the Squires[^sec-13-fn-020] servants ever pay any custome there, neither doe our goods come into that towne. But, however, the Governour tells me he is resolved to have the said custome paid him, and threatens me, if I will not pay the said custome by faire meanes, he is resolved to have it by foule; and more, threatens to seaze upon our goods, and I doe not much question but that he may seize likewise upon our persons allso; but wee are resolved never to pay him one pice on that accompt without order from Your Worshipp. There is but a small quantity of pepper this yeare at Hubyly to be had; Mr. Ball advises us that there is but 500 barkey in towne. So that, if Your Worshipp have occasion of any great quantity, if you please to enorder either sending us or one of us to goe to the Rajah of Canara, wee shall obey your commands, and there strike a [bargain] for what quantity you shall have occasion for. It was reported here a few dayes since that Sevagee was come as far as Banda [see p. 121], and that he was intended to take all these countreys here abouts as farr as Mergee. But it seemes that, the Moguls forces comming so hot upon him, he was forced to recall his forces. But whither or no he doth intend to returne againe after the raines, it is not as yet known, but, however, much feared.
 
@@ -2410,7 +2407,7 @@ Aldworth sailed for England in the *Royal Katherine*, but died during the voyage
 
 The main object of the Marātha chieftain, of course, was to recruit his treasury. With two such powerful and implacable foes as the Mughal Emperor and the King of Bījāpur, the maintenance of a strong military force was an absolute necessity. From his own people, had he desired to do so, he could hardly have wrung sufficient to provide for this outlay, in addition to the cost of the civil administration ; and so we find him continually seeking to plunder the coast towns or raiding far into enemy territory, thus securing treasure for the state and at the same time encouraging and rewarding his soldiery. The expedition against Surat was the longest and most daring that he had yet undertaken, but the results were commensurate. The richest and most important seaport of Aurangzeb’s empire was ransacked and an enormous booty was secured. To the material loss sustained by the Mughals was added the shame of the military incompetence revealed. The large army assembled at Aurangābād did nothing, either to prevent the raid or to intercept Sivāji’s retreat. The Surat officials took refuge in the castle, the garrison of which remained entirely on the defensive. Only the English and Dutch merchants displayed a bold front and defied the intruders. The latter showed no inclination to face the guns and swords of the Europeans, and even Sivāji contented himself with endeavouring, quite unsuccessfully, to frighten them into ransoming their property. Meanwhile, his followers were more congenially employed in plundering the unresisting inhabitants, and of actual fighting the Europeans had little experience.
 
-The English factory of that time stood in the north-western part of the city, in what is now known as the Mulla’s Ward. Its position [p. 297] is shown at A in the accompanying plan, which has been compiled from (1) a French map in the British Museum, based upon one drawn by Captain De Gloss in 1753; (2) a MS. survey of Surat in 1817 by Lieuts. Adams and Newport, now in the India Office Map Room; (3) a large scale map of that portion of Surat, kindly furnished by Mr. F. G. H. Anderson, I.C.S., who has also taken much trouble to identify as far as possible the ancient sites. B is the *sarāi* and mosque of Mġrza Zāhid (Zāhid Beg), still standing. This is presumably the mosque mentioned in the narrative. C is a building known as the *Dadhimār* or Racket Court. It was originally a *sarāi*, and may have been the one in which some
+The English factory of that time stood in the north-western part of the city, in what is now known as the Mulla’s Ward. Its position [p. 297] is shown at A in the accompanying plan, which has been compiled from (1) a French map in the British Museum, based upon one drawn by Captain De Gloss in 1753; (2) a MS. survey of Surat in 1817 by Lieuts. Adams and Newport, now in the India Office Map Room; (3) a large scale map of that portion of Surat, kindly furnished by Mr. F. G. H. Anderson, I.C.S., who has also taken much trouble to identify as far as possible the ancient sites. B is the *sarāi* and mosque of Mīrza Zāhid (Zāhid Beg), still standing. This is presumably the mosque mentioned in the narrative. C is a building known as the *Dadhimār* or Racket Court. It was originally a *sarāi*, and may have been the one in which some
 
 
 ![Plan of a section of Surat showing the river at F, streets, and marked structures A, B, C, D, and E.](../figures/fig-003_p0311.webp)
@@ -2564,7 +2561,7 @@ At a consultation held in Surat on 11 February, it was resolved to employ the sa
 
 > Wee doe not, therefore, thinck it fitt to disburse the somme of 15 or 20,000 rupees; but rather desire our President and Counsells care may bee continued (as alreadie they have begun) to preserve those priveledges which wee alreadie have, and then wee doubt not but our affaires will goe on currantly without any impeeding or interuptions.
 
-In future ships would be dispatched as early as possible from England, and the commanders would be bound down to arrive at Surat some time in September. The President and Council were desired to assist ‘Tulcidas Parrack’ to recover what was due to him from Vġrji Vora, and it was hoped that their success would enable the former to discharge his debt to the Company. The factory at Kāyal should be dissolved, as being altogether unnecessary; but those at Kārwār, &c., were left to the consideration of Oxenden and his colleagues. Any superfluous factors should be returned to England. Dissatisfaction was expressed at the Company’s claims [p. 319] against Andrews having been left for adjustment in England; for, granted that he had not sufficient means in India to make satisfaction, yet a settlement might have been reached there as to the exact amount due. The result had been that the Company had been forced to commence a lawsuit against him, which was likely to be both tedious and troublesome. Instructions were given to collect and send home further evidence concerning his malpractices. Action was also to be taken against Bladwell. The Lady Lambton having procured a letter from the King concerning the estate of her son, the late John Lambton, an exact account was to be sent home and her two surviving sons were to be permitted access to all relevant papers and were then to be sent home. Instructions were next given as to the keeping of accounts of freight and of seamen's wages. William Bell,[^sec-17-fn-002] an Armenian employed in Persia by Garway and Buckeridge as an interpreter, had petitioned the Company to be recommended for employment 'as one of those for the making of wine in Persia'; and his request had been granted. A postscript added coffee (8 or 10 tons) and borax to the list of goods desired. Rolt had written home, desiring the Company to recommend him to the President for advancement.
+In future ships would be dispatched as early as possible from England, and the commanders would be bound down to arrive at Surat some time in September. The President and Council were desired to assist ‘Tulcidas Parrack’ to recover what was due to him from Vīrji Vora, and it was hoped that their success would enable the former to discharge his debt to the Company. The factory at Kāyal should be dissolved, as being altogether unnecessary; but those at Kārwār, &c., were left to the consideration of Oxenden and his colleagues. Any superfluous factors should be returned to England. Dissatisfaction was expressed at the Company’s claims [p. 319] against Andrews having been left for adjustment in England; for, granted that he had not sufficient means in India to make satisfaction, yet a settlement might have been reached there as to the exact amount due. The result had been that the Company had been forced to commence a lawsuit against him, which was likely to be both tedious and troublesome. Instructions were given to collect and send home further evidence concerning his malpractices. Action was also to be taken against Bladwell. The Lady Lambton having procured a letter from the King concerning the estate of her son, the late John Lambton, an exact account was to be sent home and her two surviving sons were to be permitted access to all relevant papers and were then to be sent home. Instructions were next given as to the keeping of accounts of freight and of seamen's wages. William Bell,[^sec-17-fn-002] an Armenian employed in Persia by Garway and Buckeridge as an interpreter, had petitioned the Company to be recommended for employment 'as one of those for the making of wine in Persia'; and his request had been granted. A postscript added coffee (8 or 10 tons) and borax to the list of goods desired. Rolt had written home, desiring the Company to recommend him to the President for advancement.
 
 But in reguard wee have formerly left it to you to give imployment to the severall factors according to their capascities and merritts, wee doe not doubt but you will act accordingly, to him and all others, and not preferr any for other respects then their abillities and faithfullnes to our service; which wee recommend to you. And wee require you to take notice that, although wee give you lybertie to give imployment to our factors, according to their merritts and abillities, yet wee absolutly prohibite you the raising of their sallaries; but all such as shall bee soe raised in places shall referr themselves to us for augmentation of their sallarie or reward according to their merritts in our service.
 
@@ -2600,7 +2597,7 @@ The letter of 9 March is a lengthy document, replying in part to the Surat lette
 
 
 <!-- page: 339 | folio: 325 -->
-The opinion of the Council was desired as to the possibility of saving money by sending the Agra goods down the ‘Gangees’ to Bengal for shipment. Authority was given to borrow up to 15,000*l.*, should this be absolutely necessary. More copper and lead had been sent this year. The quicksilver had been packed in bladders placed inside very thick glass bottles, the latter being then covered with skins and put into strong cases. Copper vessels had been found unsuitable for the purpose. No ivory had been sent, as it sold so badly. The Council were directed to do nothing in the way of ‘planting or fortifying’ at Anjidiv or any other place without the express sanction of the Company. Trade should be maintained at Kārwār and a ‘faire corespondency’ kept with the ‘King of Decan’ by all possible means. A hope was expressed that an agreement had been made with Sivāji, providing for compensation for past injuries and the continuance of a factory at Rājāpur. Andrews had submitted to the Company and had agreed to the business being referred to the decision of four of the Committees; so a suit at law against him would not be necessary. Action would be taken against Bladwell. Vġrji Vora should be told that the Company highly resented his countenancing such a wrongdoer, and demand should be made upon him for the Rs. 30,000 deposited by Bladwell. A fear was expressed that the pirate Hugo, or others of his kidney, encouraged by the failure of the attempts made in France to bring him to justice, might attempt a fresh enterprise. All traders to the Red Sea should be warned accordingly. To a request for guidance in such an event,
+The opinion of the Council was desired as to the possibility of saving money by sending the Agra goods down the ‘Gangees’ to Bengal for shipment. Authority was given to borrow up to 15,000*l.*, should this be absolutely necessary. More copper and lead had been sent this year. The quicksilver had been packed in bladders placed inside very thick glass bottles, the latter being then covered with skins and put into strong cases. Copper vessels had been found unsuitable for the purpose. No ivory had been sent, as it sold so badly. The Council were directed to do nothing in the way of ‘planting or fortifying’ at Anjidiv or any other place without the express sanction of the Company. Trade should be maintained at Kārwār and a ‘faire corespondency’ kept with the ‘King of Decan’ by all possible means. A hope was expressed that an agreement had been made with Sivāji, providing for compensation for past injuries and the continuance of a factory at Rājāpur. Andrews had submitted to the Company and had agreed to the business being referred to the decision of four of the Committees; so a suit at law against him would not be necessary. Action would be taken against Bladwell. Vīrji Vora should be told that the Company highly resented his countenancing such a wrongdoer, and demand should be made upon him for the Rs. 30,000 deposited by Bladwell. A fear was expressed that the pirate Hugo, or others of his kidney, encouraged by the failure of the attempts made in France to bring him to justice, might attempt a fresh enterprise. All traders to the Red Sea should be warned accordingly. To a request for guidance in such an event,
 
 > wee answere that, if our shipping shall happen to encounter any such men of warr whoe shall have noe comission, then, if our shipping bee able and of force suffitient, wee give you order to surprize him. And if the said men of warr shall have comission from any forraigne prince and shall attempt any matter of force upon our nation, in that case, if able, wee require you also to surprize him; but if they have commission and shall not make use thereof against our nation, but only make seizures and prizes of the jouncks and goods of the natives, wee cannot give you power or order to medle with them, beeing it may bee construed a breach of peace betweene the twoe nations. Wee conceive, if any men of warr shall come into your parts, it will bee shipps of force; and wee know not what attempt they may make on our shipps. Wee therefore require that our shipps bee kept in company and retorned home togither, for [p. 326] their mutuall asistance one to another in case any assault or attempt should bee made upon them.
 
@@ -2899,7 +2896,7 @@ The danger from the Dutch encroachments, as also from the renewed activities of 
 [^sec-19-fn-006]: (2) See the previous volume, p. 243.
 [^sec-19-fn-007]: (3) Possibly Kadolee, about 30 miles north-east of Goa. The *Dagh-Register*, 1664 (p. 448) says that Aurangzeb had promised the Bījāpur monarch a yearly contribution of 30,000 pagodas towards a campaign against Sivāji.
 [^sec-19-fn-008]: (1) *Cf. op. cit.*, p. 449.
-[^sec-19-fn-009]: (1) Azġz Khān died on 18 June (*Dagh-Register*, 1664, p. 448).
+[^sec-19-fn-009]: (1) Azīz Khān died on 18 June (*Dagh-Register*, 1664, p. 448).
 [^sec-19-fn-010]: (2) He died on 3 July (*Dagh-Register*, 1664, p. 572).
 [^sec-19-fn-011]: (1) The Feast of Lights (*diwāli*).
 [^sec-19-fn-012]: (1) See the *Batavia Dagh-Register*, 1664, pp. 565, 572.
@@ -3331,140 +3328,47 @@ August 1. Blake, etc. to Chamber. J, 43 1. Consultation at Madras. J, 45 2. Madr
 
 September 10. Surat to Kārwār. F, 360 13. Powell to Aldworth. C, 2937 20. Browne to Surat. C, 2939 22. Surat to Achin. F, 365 22. Surat to Madras. F, 366 25. Company to Surat. A, 166 26. Aungier to Surat. C, 2941 26. Lord Marlborough to Surat. C, 2942 29. Surat to Kāyal. F, 367 30. Basra to Surat. C, 2943
 
-October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
-
-
-<!-- page: 420 | folio: 406 -->
-- 5. Viceroy to Shipman. C, 2946
-- 7. Masulipatam to Hūgli. K, 270
-- 8. Surat to Ld. Marlborough. F, 376;
-- C, 2949
-- 9. Surat to Kārwār. F, 374
-- 20. Consultation at Masulipatam. J, 77
-- 22. Consultation at Surat. C, 2953
-- 27. Proceedings at Goa. C, 2951
-- 27. Company to Madras. A, 175
-- 30. Ken to Aldworth. C, 2954
+- October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373 [p. 406] 5. Viceroy to Shipman. C, 2946 7. Masulipatam to Hūgli. K, 270 8. Surat to Ld. Marlborough. F, 376;
+- C, 2949 9. Surat to Kārwār. F, 374 20. Consultation at Masulipatam. J, 77 22. Consultation at Surat. C, 2953 27. Proceedings at Goa. C, 2951 27. Company to Madras. A, 175 30. Ken to Aldworth. C, 2954
 
 ##### November
 
-- 1. Surat to Ahmadābād. F, 389
-- 1. Undertaking by Chamber. J, 84
-- 4. Consultation at Masulipatam. J, 86
-- 6. Surat to Madras. F, 391
-- 9. Consultation at Masulipatam. J, 89
-- —. Consultation at Masulipatam. J, 90
-- 14. Surat to Rairi. F, 395
-- 16. Madras to Masulipatam. K, 276
-- 18. Charges against Andrews. E, 107
+- 1. Surat to Ahmadābād. F, 389 1. Undertaking by Chamber. J, 84 4. Consultation at Masulipatam. J, 86 6. Surat to Madras. F, 391 9. Consultation at Masulipatam. J, 89
+- —. Consultation at Masulipatam. J, 90 14. Surat to Rairi. F, 395 16. Madras to Masulipatam. K, 276 18. Charges against Andrews. E, 107
 
 ##### 1663
 
 
 ##### January
 
-- 2. Winter to Chamberlain. C, 2964
-- 2. Company to Madras. A, 199
-- 2. Company to Hūgli. A, 200
-- 10. Madras to Company. K, 287, 326
-- 18. Charges against Andrews. E, 118–25
-- 18. Andrews's bond. E, 125
-- 19. Surat to Company. N, 11
-- 24. Madras to Surat. K, 324; H, 238
-- 25. Surat to Company. N, 12
-- 26. Shipman to Surat. H, 247
-- 28. Kārwār to Surat. H, 246
-- [30?]. Madras to Company. K, 326
-- 30. Winter to Riccard. C, 2967
+- 2. Winter to Chamberlain. C, 2964 2. Company to Madras. A, 199 2. Company to Hūgli. A, 200 10. Madras to Company. K, 287, 326 18. Charges against Andrews. E, 118–25 18. Andrews's bond. E, 125 19. Surat to Company. N, 11 24. Madras to Surat. K, 324; H, 238 25. Surat to Company. N, 12 26. Shipman to Surat. H, 247 28. Kārwār to Surat. H, 246
+- [30?]. Madras to Company. K, 326 30. Winter to Riccard. C, 2967
 
 ##### February
 
 - 1. Instructions to Master. E, 128
 - 2 and 3. Instructions to Tinker. E, 132,
-- 134
-- 2. Consultation at Alvatty. H, 301
-- 6. Rājāpur to Surat. H, 233
-- 11. Sheldon to Aldworth. C, 2968
-- 12. Consultation at Surat. E, 135
-- 18. Rājāpur to Surat. H, 248
-- 20. Company to Madras. A, 228
-- 23. Tinker to Surat. H, 251
-- 23. Mokha to Surat. H, 260
-- 25. Shipman to Surat. H, 252
-- 25. Porakād to Surat. H, 276
-- 27. Kārwār to Surat. H. 251
-- 27. Company to Madras. A, 232
-- 27. Charnock to Aldworth. C, 2969
-- 28. Consultation at Madras. C, 2970
-- 28. Consultation at Surat. E, 137
-- 28. Instructions for Mokha. E, 138, 140
-- 28. Contract with Pīru. E, 142
-- 28. Gombroon to Surat. H, 241
-- 20. Surat to Kārwār. F, 398
-- 30. Surat to Gombroon. F, 400
-- 30. Surat to Aleppo. F, 402
-- 30. Surat to Company. F, 404
+- 134 2. Consultation at Alvatty. H, 301 6. Rājāpur to Surat. H, 233 11. Sheldon to Aldworth. C, 2968 12. Consultation at Surat. E, 135 18. Rājāpur to Surat. H, 248 20. Company to Madras. A, 228 23. Tinker to Surat. H, 251 23. Mokha to Surat. H, 260 25. Shipman to Surat. H, 252 25. Porakād to Surat. H, 276 27. Kārwār to Surat. H. 251 27. Company to Madras. A, 232 27. Charnock to Aldworth. C, 2969 28. Consultation at Madras. C, 2970 28. Consultation at Surat. E, 137 28. Instructions for Mokha. E, 138, 140 28. Contract with Pīru. E, 142 28. Gombroon to Surat. H, 241 20. Surat to Kārwār. F, 398 30. Surat to Gombroon. F, 400 30. Surat to Aleppo. F, 402 30. Surat to Company. F, 404
 
 ##### December
 
-- 1. Kārwār to Surat. H, 221
-- 2. Siam to Surat. H, 237
-- 6. Surat to Kārwār. F, 430; C, 2958
-- 6. Surat to Porakād. F, 431; C, 2959
-- 8. Surat to Company. F, 433
-- 9. Madras to Masulipatam. K, 279
-- 16. Consultation at Surat. E, 101
-- 17. Madras to Masulipatam. K, 282
-- 20. Rairi to Surat. H, 224
-- 22. Minors to Surat. H, 225
-- 23. Andrews's answer. E, 109, 114
-- 23. Consultation at Surat. E, 103
-- 27. Gary to Surat. H, 227
-- 31. Company to Madras. A, 180
+- 1. Kārwār to Surat. H, 221 2. Siam to Surat. H, 237 6. Surat to Kārwār. F, 430; C, 2958 6. Surat to Porakād. F, 431; C, 2959 8. Surat to Company. F, 433 9. Madras to Masulipatam. K, 279 16. Consultation at Surat. E, 101 17. Madras to Masulipatam. K, 282 20. Rairi to Surat. H, 224 22. Minors to Surat. H, 225 23. Andrews's answer. E, 109, 114 23. Consultation at Surat. E, 103 27. Gary to Surat. H, 227 31. Company to Madras. A, 180
 
 ##### March
 
-- 5. Surat to Company. N, 1
-- 11. Company to Madras. A, 235
-- 16. Swally to Surat (two). H, 246
-- 24. Company to Surat. A, 246
-- 30. Rājāpur to Surat. H, 262
-- 30. Kāyal to Surat. H, 293; D, 2974
-- 31. Consultation at Swally. E, 143
+- 5. Surat to Company. N, 1 11. Company to Madras. A, 235 16. Swally to Surat (two). H, 246 24. Company to Surat. A, 246 30. Rājāpur to Surat. H, 262 30. Kāyal to Surat. H, 293; D, 2974 31. Consultation at Swally. E, 143
 
 ##### April
 
-- 2. Madras to Surat. H, 265
-- 4. Company to Surat. A, 259
-- 6. Surat to Company. D, 2975
-- 7. Consultation at Swally. E, 145
-- 8. Instructions to Tinker. E, 149
-- 8. Rājāpur to Surat. H, 272
-- 11. Madras to Surat. H, 268
-- 12. Rājāpur to Surat. H, 268
-- 16. Shipman to Surat. H, 272
-- 17. Commissions for Achin. E, 151, 155
-- 17. Porakād to Surat. H, 276
-- 20. Patna to Surat. H, 270
-- 24. Widdrington's petition. H, 261
-- 26. Masulipatam to Surat. H, 269
-- 28. Ken to Aldworth. D, 2976
-- 28. Balasore to Surat. H, 274
-- 30. Madras to Surat. H, 275
+- 2. Madras to Surat. H, 265 4. Company to Surat. A, 259 6. Surat to Company. D, 2975 7. Consultation at Swally. E, 145 8. Instructions to Tinker. E, 149 8. Rājāpur to Surat. H, 272 11. Madras to Surat. H, 268 12. Rājāpur to Surat. H, 268 16. Shipman to Surat. H, 272 17. Commissions for Achin. E, 151, 155 17. Porakād to Surat. H, 276 20. Patna to Surat. H, 270 24. Widdrington's petition. H, 261 26. Masulipatam to Surat. H, 269 28. Ken to Aldworth. D, 2976 28. Balasore to Surat. H, 274 30. Madras to Surat. H, 275
 
 ##### May
 
-- 5. Rājāpur to Surat. H, 272
-- 7. Sheldon to Aldworth. D, 2977
-- 13. Consultation at Surat. E, 157
-- 24. Kolhāpur to Surat. H, 273
+- 5. Rājāpur to Surat. H, 272 7. Sheldon to Aldworth. D, 2977 13. Consultation at Surat. E, 157 24. Kolhāpur to Surat. H, 273
 
 ##### June
 
-- 10. Gombroon to Surat. H, 287
-- 15. Kārwār to Surat. H, 282
-- 22. Goa to Surat. H, 283
-- 23. Certificate by Trevisa. D, 2980
+- 10. Gombroon to Surat. H, 287 15. Kārwār to Surat. H, 282 22. Goa to Surat. H, 283 23. Certificate by Trevisa. D, 2980
 
 <!-- page: 421 | folio: 407 -->
 - July
@@ -3494,8 +3398,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 -   3. Consultation at Surat. E, 162
 -   9. Surat to Kāyal. D, 2993
 -   9. Commission to Taylor. E, 164; D,
--        2994
--  10. Commission to Willet. E, 169; D,
+-        2994 10. Commission to Willet. E, 169; D,
 -        2996
 -  12. Charnock to Aldworth. D, 2997
 -  24. Jaitāpur to Surat. H, 316
@@ -3693,10 +3596,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Andrews, Matthew, 40; President at Surat,
 - 2-30, 72-91, 116, 203, 238, 265; confirmed, 16, 19, 23; his pay, 19, 23, 31;
 - his dealings with Chamber, 37, 40, 67,
-- 145, 147 (3), 153-4; with Trevisa, 60,
-
-<!-- page: 424 | folio: 410 -->
-- 67, 71, 152–3; his private trade, 3, 12 *n.*, 77, 92, 98, 117, 188; intends to return to England, 23, 30, 79, 80; sends home his estate, 77, 118, 197; censured by the Company, 84, 93; superseded by Oxenden, 91, 100; charges against him, 3, 77, 98, 104, 108–9, 117 (2), 197 (2), 199 (2), 209, 211–13, 321–2; investigated, 95, 113, 118, 122, 319, 321; his charges against Oxenden, 119 *n.*, 327; he goes home, 108, 118–22, 269; the dispute settled, 325; his subsequent history, 119, 328.
+- 145, 147 (3), 153-4; with Trevisa, 60, [p. 410] 67, 71, 152–3; his private trade, 3, 12 *n.*, 77, 92, 98, 117, 188; intends to return to England, 23, 30, 79, 80; sends home his estate, 77, 118, 197; censured by the Company, 84, 93; superseded by Oxenden, 91, 100; charges against him, 3, 77, 98, 104, 108–9, 117 (2), 197 (2), 199 (2), 209, 211–13, 321–2; investigated, 95, 113, 118, 122, 319, 321; his charges against Oxenden, 119 *n.*, 327; he goes home, 108, 118–22, 269; the dispute settled, 325; his subsequent history, 119, 328.
 - Andrews, Thomas, 391.
 - Angely-wood, 249.
 - Anjidiv Island, 192, 317, 332; settlement forbidden by the Company, 84, 325; descriptions of, 215; Millet's account of, 224; Portuguese and, 215–16; Portuguese refugees at, 334; Shipman's force goes to, 114, 116, 139, 143; Lord Marlborough visits, 120, 214–15, 220, 222; the *Convertine* goes to, 122, 220; Shipman at, 214–28; 332–41; the Governor of Kārwār's claims, 140–1, 214–17, 225; Shipman offers the island to the Company, 202, 222–3; rumoured Dutch designs on, 219; condition of Shipman's force, 222–3, 225–6, 332, 335, 341; the force to be mustered, 335, 338; the English leave the island, 336–8.
@@ -3715,8 +3615,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Arsenic, yellow, 384 *n.*
 - Assam, 70 *n.*, 177 *n.*
 - Atkins, John, 27.
-- Aungier, Gerald, 132 *n.*, 302; sent out, 95; at Surat, 99, 186, 213; sent to Goa, 99, 105, 119, 138; and Bombay, 106,
-- 126, 132–4; his pay, 211; helps to defend the factory at Surat, 308; reward for, 315.
+- Aungier, Gerald, 132 *n.*, 302; sent out, 95; at Surat, 99, 186, 213; sent to Goa, 99, 105, 119, 138; and Bombay, 106, 126, 132–4; his pay, 211; helps to defend the factory at Surat, 308; reward for, 315.
 - Aurangzeb, 15, 30, 35, 70, 89, 113, 157, 203–6, 214, 231, 289, 310, 315, 344 *n.*; ships belonging to, 189, 191, 211; embassies to, 81, 101–3, 308 *n.*, 309; Dutch embassy to, 120–1, 185–6, 193; proposed English mission to, 93, 120, 318, 326, 396; agent for English with, 60, 289; negotiations for grant of privileges from, 165, 185–6, 193, 288–9, 293, 326, 393–4, 396; privileges obtained by the Dutch from, 185, 288–9, 293; rumoured death of, 105–6, 171; his envoy to Basra, 101–3; to Golconda, 274; Shāista Khān and, 396, 397 *n.*; and the raid on Surat, 311; grants in consequence, 302–3, 311–14.
 - *Avenhoorn*, the, 176 *n.*
 - Axtell, Thomas, 170, 283–4, 373 *n.*
@@ -3798,10 +3697,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Blackman, William, 95.
 - Bladwell, Richard, his voyage in the *Hopewell*, 1, 28, 74, 197, 282, 322; in the *Seaflower*, 78, 109, 193; absconds, 122, 193; is captured and sent home, 193-4, 321; action against, 319, 325.
 - Blake, William, sent out as Chief in Bengal, 160-1, 164-5; arrives at Madras, 162; and administers the government, 162-6; sails for Bengal, 166-7, 168 *n.*, 170; is driven back to Masulipatam, 168, 171-4; at Madras again, 174-5, 177, 182, 283, 287, 383; starts again for Bengal, 266-7, 269 (2), 287; arrives, 288; his administration, 288-95, 366, 379, 381, 392-402; his dealings with Shāista Khān, 394-7; his private trade, 402; letters from, 273, 288, 399.
-- Bombay, raided by Arabs, 132; ceded to
-
-<!-- page: 426 | folio: 412 -->
-- the English, 29, 123-5; descriptions of, 133-4, 143; a force sent to take possession, 126-9; the surrender refused, 105, 108, 114, 131-44, 194, 216, 226; proposal to buy back the island, 136; the Viceroy ordered to hand it over, 227-8; he prepares to do so, 335 (2), 339; dispute over limits of, 126, 134, 227; maps of, 126, 133-4, 143 (3), 227; the Jesuits and, 131 *n.*, 139, 142-4, 216, 341; overtures to English from natives of, 144; manor house at, 132 *n.*; meaning of the name, 143; commendations of, 139, 143, 216; fears of a Dutch attack upon, 220, 336, 340-1; Gary's schemes for development of, 340; to be the seat of the Presidency, 341; the East India Company and, 123-4. *See also* De Mello de Castro, Cooke, *etc.*
+- Bombay, raided by Arabs, 132; ceded to [p. 412] the English, 29, 123-5; descriptions of, 133-4, 143; a force sent to take possession, 126-9; the surrender refused, 105, 108, 114, 131-44, 194, 216, 226; proposal to buy back the island, 136; the Viceroy ordered to hand it over, 227-8; he prepares to do so, 335 (2), 339; dispute over limits of, 126, 134, 227; maps of, 126, 133-4, 143 (3), 227; the Jesuits and, 131 *n.*, 139, 142-4, 216, 341; overtures to English from natives of, 144; manor house at, 132 *n.*; meaning of the name, 143; commendations of, 139, 143, 216; fears of a Dutch attack upon, 220, 336, 340-1; Gary's schemes for development of, 340; to be the seat of the Presidency, 341; the East India Company and, 123-4. *See also* De Mello de Castro, Cooke, *etc.*
 - Books for Madras, 275-6, 284; for Surat, 199.
 - Borax, 187, 210, 319.
 - Bowen, Capt. Robert, 323, 337.
@@ -3822,8 +3718,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Browne, Quarles, 160.
 - Browne, Zachary, 155 (2), 161.
 - Broxon, William, 27.
-- Buckeridge, Nicholas, in Persia, 27, 31 (3), 94, 319; goes to Surat (and then home), 32; sent out to Madras, 366, 370 (3); at Masulipatam, 372-3, 383-4; his rela-
-- tions with Winter, 370, 372, 377-8, 382-3, 385, 387-8, 391-2; and with Jearsey, 377, 383, 392; accusations against, 377-8, 383, 402; returns to England, 376, 392; his report, 391-2.
+- Buckeridge, Nicholas, in Persia, 27, 31 (3), 94, 319; goes to Surat (and then home), 32; sent out to Madras, 366, 370 (3); at Masulipatam, 372-3, 383-4; his relations with Winter, 370, 372, 377-8, 382-3, 385, 387-8, 391-2; and with Jearsey, 377, 383, 392; accusations against, 377-8, 383, 402; returns to England, 376, 392; his report, 391-2.
 - Budley, Jonathan, 163, 175, 182, 275.
 - Bumberry, Joshua, 163.
 - Burhānpur, 205, 240.
@@ -3860,10 +3755,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Caste, 189; lost by a sea voyage, 65.
 - *Castle Frigate*, the, 277, 291 (2); arrives at Madras, 275 (2), 282; goes to Bengal, 285, 290, 294; goes home, 285-6.
 - Catherine of Braganza, Queen, 29, 123, 137, 254.
-- Ceylon, 120, 191, 202; English prisoners in, 34, 46, 54, 154, 169, 178, 269-70,
-
-<!-- page: 427 | folio: 413 -->
-- 275, 281, 361-2, 364, 367, 374, 379-80,
+- Ceylon, 120, 191, 202; English prisoners in, 34, 46, 54, 154, 169, 178, 269-70, [p. 413] 275, 281, 361-2, 364, 367, 374, 379-80,
 - 384; proposed settlement in, 45, 53, 170,
 - 178, 270, 361, 364, 374-5, 380; Dutch
 - and, 45, 270, 362, 375 (3), 380 (5);
@@ -4154,10 +4046,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - East India Company, the, *passim*; value
 -   of shares, 18, 44, 149; valuation of 1664,
 -   197, 276, 368; permit private trade in
--   jewels, 188, 196, 327, 376, 384; repudiate
-
-<!-- page: 430 | folio: 416 -->
-- responsibility for private debts, 22, 76, 209, 327. *See also* Joint Stock.
+-   jewels, 188, 196, 327, 376, 384; repudiate [p. 416] responsibility for private debts, 22, 76, 209, 327. *See also* Joint Stock.
 - *East India Merchant*, the, goes home, 32–3, 33 *n.*, 157; reaches Madras, 271–3; sent to Bantam, 278, 284.
 - Ebony wood, 96, 317, 327.
 - ‘Eckbarees’. *See* Cotton goods.
@@ -4476,10 +4365,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Lead, trade in, 179, 249, 281–2; sent out, 33, 95, 198, 272, 325; sale of, 94, 111, 194, 210, 243, 246, 260, 302, 355; price of, 210, 342.
 - *Leopard*, the, 128, 133–4, 137–40, 142; her outward voyage, 99, 129–30; arrives, 114–15; her relading, 99, 105; goes to Kārwār and Anjidiv, 114, 140, 143, 214, 252, 324; stopped by Dutch, 116, 120, 141, 194, 247, 324; goes home, 114, 116, 120. *See also* Minors, Capt.
 - L’Escaliot, Rev. John, 199; at Surat, 198, 209, 213; his account of Sivāji’s raid, 300 *n.*, 307–9; and of an epidemic, 329 *n.*; letters from, 196 *n.*; his brother, 307.
-- Letters drafted by the President, 329; to be well written and a margin left, 368;
-
-<!-- page: 434 | folio: 420 -->
-- not to be trusted to the English post,
+- Letters drafted by the President, 329; to be well written and a margin left, 368; [p. 420] not to be trusted to the English post,
 - 371.
 - ‘Limber’, 291.
 - Lion for King of Kandy, 380.
@@ -4536,8 +4422,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - fears of an attack upon, 148, 151, 173–5,
 - 180, 184, 268–9, 285, 382, 384; storm
 - at, 145; proposal to make taffetas at,
-- 63–5; dearness of living at, 65, 283, 383,
-- 387; expenses of housekeeping, 168, 184,
+- 63–5; dearness of living at, 65, 283, 383, 387; expenses of housekeeping, 168, 184,
 - 283, 383; the Company complains of
 - extravagance at, 42, 44, 369, 380, 383;
 - Isaacson’s account of abuses at, 58,
@@ -4715,10 +4600,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - Muskets, 182, 284, 367.
 - Mussula boat, 274.
 - Mustafa Khān, Governor of Surat, 29, 80,
-- 103; disputes with the English, 12-15,
-
-<!-- page: 436 | folio: 422 -->
-- 27, 88–90, 93, 203; obstructs trade, 22,
+- 103; disputes with the English, 12-15, [p. 422] 27, 88–90, 93, 203; obstructs trade, 22,
 - 76–7, 80 *n.*; Oxenden and, 100–3, 107,
 - 110, 113, 121, 203, 302, 318; Lord
 - Marlborough and, 105; recalled to court,
@@ -4773,8 +4655,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - 93, 95; arrives at Surat, 91, 99; his administration, 92–122, 186–214, 228–65.
 - 296–332; Marlborough and, 99, 105–9,
 - 137, 215; Shipman and, 140, 144, 216,
-- 221–3; buys two ships, *see Hopewell*
-- and *Royal Welcome*; relations with
+- 221–3; buys two ships, *see Hopewell* and *Royal Welcome*; relations with
 - the Madras factors, 267, 365, 391; and
 - the Bengal factors, 293, 393, 396; defends
 - Surat factory, 296–316; honours paid to,
@@ -5056,10 +4937,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - ‘Simmascare’, 240.
 - Sind, factory in, 18, 27, 30, 72, 78, 86, 96, 116, 122; dissolved, 108; goods from, 78, 108.
 - Sinha Shāh, 111.
-- Sivāji, 10, 50, 86, 237, 242 (2), 257, 260, 321, 325, 346; his character, 7, 301, 306-7, 309, 313, 358; his appearance, 307; imprisons Rājāpur factors, 3-5, 7, 27, 98 *n.*, 229; negotiations for their release, 6-12, 80, 86-8, 90, 105, 107; liberates them, 11, 73, 208, 230; his designs upon Danda Rājpuri, 5, 6, 8-11, 232; campaigns against Bījāpur, 4 (2), 30, 90, 231, 241 (2), 344-8, 350-1, 358-9; makes peace, 230-2; war with the Mughals, 7-9, 107, 235-6, 241-2, 343, 345, 347, 358; assaults Shāista Khān, 236-8; conquers fresh territory, 9, 347; raids Vengurla, 237, 260, 348, 350-1, 359; his raid on Surat, 211-12, 296-316, 343; an attempt to assassinate him, 306, 309; demands *chauth* for Gujarāt, 312; requires help from the Portuguese, 343; his method of fighting, 345; builds
-
-<!-- page: 440 | folio: 426 -->
-- ships, 345; suggested seizure of his
+- Sivāji, 10, 50, 86, 237, 242 (2), 257, 260, 321, 325, 346; his character, 7, 301, 306-7, 309, 313, 358; his appearance, 307; imprisons Rājāpur factors, 3-5, 7, 27, 98 *n.*, 229; negotiations for their release, 6-12, 80, 86-8, 90, 105, 107; liberates them, 11, 73, 208, 230; his designs upon Danda Rājpuri, 5, 6, 8-11, 232; campaigns against Bījāpur, 4 (2), 30, 90, 231, 241 (2), 344-8, 350-1, 358-9; makes peace, 230-2; war with the Mughals, 7-9, 107, 235-6, 241-2, 343, 345, 347, 358; assaults Shāista Khān, 236-8; conquers fresh territory, 9, 347; raids Vengurla, 237, 260, 348, 350-1, 359; his raid on Surat, 211-12, 296-316, 343; an attempt to assassinate him, 306, 309; demands *chauth* for Gujarāt, 312; requires help from the Portuguese, 343; his method of fighting, 345; builds [p. 426] ships, 345; suggested seizure of his
 - vessels, 88, 230, 232, 234; letters from,
 - 231, 236.
 - Sivappa Nāyak. *See* Ikkeri, Rāja of.
@@ -5114,8 +4992,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - position of English factory, 296; its
 - library and chapel, 199, 212; Presidents
 - at, *see* Andrews *and* Oxenden; chaplains,
-- *see* Thomson *and* L’Escaliot; negotia-
-- tions for privileges, *see* Aurangzeb;
+- *see* Thomson *and* L’Escaliot; negotiations for privileges, *see* Aurangzeb;
 - English granted a warehouse, 204;
 - question of reducing Presidency to an
 - Agency, 19; possible removal to Bombay, 341; or to Madras, 160 *n.*; brokers
@@ -5170,10 +5047,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - 310 *n.*
 - Taylor, Randolph, 3, 98, 213; captured by
 - Marāthas, 4-6, 27, 229; negotiations for
-- release, 6-12, 80, 86-8, 90, 105, 107-8,
-
-<!-- page: 441 | folio: 427 -->
-- 230; released, 208, 230–4; goes to
+- release, 6-12, 80, 86-8, 90, 105, 107-8, [p. 427] 230; released, 208, 230–4; goes to
 - Surat, 234–5, 238; sent to Malabar
 - Coast, 200, 224 *n.*, 257–61, 328, 348–
 - 51; letters from, 3, 5–11, 230, 259–60,
@@ -5229,8 +5103,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 - 287, 292, 397 (2); blamed, 23, 48, 50,
 - 60–2, 64–5, 68, 152, 271; called to
 - Madras, 48, 64–6, 145, 150, 154; dismissed, 160, 166; illness of, 152–3, 166,
-- 185; goes to Madras, 183 (2), 287; called
-- to account, 165, 179, 289–90, 292–3, 295,
+- 185; goes to Madras, 183 (2), 287; called to account, 165, 179, 289–90, 292–3, 295,
 - 367, 398; sent back to Bengal, 269, 287;
 - returns to Madras, 293; goes home, 295,
 - 398; dies, 295.
@@ -5329,8 +5202,7 @@ October 2. Surat to Porakād. F, 369 3. Surat to Ahmadābād. F, 373
 -  173; returns to Madras, 173–4; proposed
 -  visit to Golconda, 175, 181, 268, 274,
 -  367, 380; goes again to Masulipatam,
--  184, 372; and Madapollam, 372–3; re-
-- turns to Madras, 374; his dealings with
+-  184, 372; and Madapollam, 372–3; returns to Madras, 374; his dealings with
 -  the Bengal factors, 183, 185, 292–3, 398–
 - 9, 440–2; and Jearsey, 362–5, 372–3,
 -  377, 381–3, 387–8; and Timmanna,

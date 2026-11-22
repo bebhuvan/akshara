@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,1,data,,Madras,2,Percentage to Total Area of :: Net cropped area.,41·7,41.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,1,data,,Madras,3,Percentage to Total Area of :: Cultivable waste other than fallow.,8·8,8.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,1,data,,Madras,4,Percentage to Total Area of :: Forests.,19·5,19.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,2,data,,Bombay,2,Percentage to Total Area of :: Net cropped area.,37·0,37.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,2,data,,Bombay,3,Percentage to Total Area of :: Cultivable waste other than fallow.,10·8,10.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,2,data,,Bombay,4,Percentage to Total Area of :: Forests.,10·7,10.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,3,data,,Bengal,2,Percentage to Total Area of :: Net cropped area.,50·0,50.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,3,data,,Bengal,3,Percentage to Total Area of :: Cultivable waste other than fallow.,12·8,12.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,3,data,,Bengal,4,Percentage to Total Area of :: Forests.,5·4,5.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,4,data,,United Provinces,2,Percentage to Total Area of :: Net cropped area.,53·7,53.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,4,data,,United Provinces,3,Percentage to Total Area of :: Cultivable waste other than fallow.,16·3,16.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,4,data,,United Provinces,4,Percentage to Total Area of :: Forests.,13·9,13.9,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,5,data,,Punjab,2,Percentage to Total Area of :: Net cropped area.,43·6,43.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,5,data,,Punjab,3,Percentage to Total Area of :: Cultivable waste other than fallow.,31·5,31.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,5,data,,Punjab,4,Percentage to Total Area of :: Forests.,6·1,6.1,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,6,data,,Burma,2,Percentage to Total Area of :: Net cropped area.,12·1,12.1,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,6,data,,Burma,3,Percentage to Total Area of :: Cultivable waste other than fallow.,22·4,22.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,6,data,,Burma,4,Percentage to Total Area of :: Forests.,11·5,11.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,7,data,,Central Provinces and Berār,2,Percentage to Total Area of :: Net cropped area.,39·9,39.9,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,7,data,,Central Provinces and Berār,3,Percentage to Total Area of :: Cultivable waste other than fallow.,24·6,24.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,7,data,,Central Provinces and Berār,4,Percentage to Total Area of :: Forests.,21·7,21.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,8,data,,Assam,2,Percentage to Total Area of :: Net cropped area.,26·8,26.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,8,data,,Assam,3,Percentage to Total Area of :: Cultivable waste other than fallow.,42·4,42.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-003,Table 3,45,3,8,data,,Assam,4,Percentage to Total Area of :: Forests.,13·1,13.1,%,False,False

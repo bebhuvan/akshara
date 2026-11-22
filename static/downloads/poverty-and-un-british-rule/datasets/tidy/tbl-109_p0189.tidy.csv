@@ -1,52 +1,52 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,1,data,,Rice,2,Total Quantity. lbs.,"541,492,369",541492369.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,1,data,,Rice,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,1,data,,Rice,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,1,data,,Rice,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,1,data,,Rice,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,2,data,,Wheat,2,Total Quantity. lbs.,"5,332,813,517",5332813517.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,2,data,,Wheat,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,2,data,,Wheat,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,2,data,,Wheat,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,2,data,,Wheat,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,3,data,,Makai (Indian Corn),2,Total Quantity. lbs.,"1,593,872,255",1593872255.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,3,data,,Makai (Indian Corn),3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,3,data,,Makai (Indian Corn),4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,3,data,,Makai (Indian Corn),3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,3,data,,Makai (Indian Corn),4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,4,data,,Jow (Barley),2,Total Quantity. lbs.,"883,781,444",883781444.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,4,data,,Jow (Barley),3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,4,data,,Jow (Barley),4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,4,data,,Jow (Barley),3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,4,data,,Jow (Barley),4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,5,data,,Gram,2,Total Quantity. lbs.,"1,417,173,807",1417173807.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,5,data,,Gram,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,5,data,,Gram,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,5,data,,Gram,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,5,data,,Gram,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,6,data,,Inferior Grains,2,Total Quantity. lbs.,"3,169,169,607",3169169607.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,6,data,,Inferior Grains,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,6,data,,Inferior Grains,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,6,data,,Inferior Grains,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,6,data,,Inferior Grains,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,7,total,,Total,2,Total Quantity. lbs.,"12,938,302,999",12938302999.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,7,total,,Total,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,7,total,,Total,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,7,total,,Total,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,7,total,,Total,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,8,header,,Quantity Raised for Animals,2,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,8,header,,Quantity Raised for Animals,3,Total Quantity. lbs.,About,,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,8,header,,Quantity Raised for Animals,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,8,header,,Quantity Raised for Animals,3,Column 3,About,,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,8,header,,Quantity Raised for Animals,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,9,data,,Gram,2,Total Quantity. lbs.,"1,417,173,807 lbs.",1417173807.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,9,data,,Gram,3,Total Quantity. lbs.,× ½ =,,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,9,data,,Gram,4,Total Quantity. lbs.,"708,586,903",708586903.0,lbs,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,9,data,,Gram,3,Column 3,× ½ =,,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,9,data,,Gram,4,Column 4,"708,586,903",708586903.0,,False,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,10,data,,Jow,2,Total Quantity. lbs.,"883,781,444 ,,",883781444.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,10,data,,Jow,3,Total Quantity. lbs.,× ¾ =,,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,10,data,,Jow,4,Total Quantity. lbs.,"662,836,083",662836083.0,lbs,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,10,data,,Jow,3,Column 3,× ¾ =,,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,10,data,,Jow,4,Column 4,"662,836,083",662836083.0,,False,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,11,data,,Jowár,2,Total Quantity. lbs.,"2,221,535 acres",2221535.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,11,data,,Jowár,3,Total Quantity. lbs.,"× ⅔ = 1,481,023",,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,11,data,,Jowár,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,11,data,,Jowár,3,Column 3,"× ⅔ = 1,481,023",,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,11,data,,Jowár,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,12,data,,Bájra,2,Total Quantity. lbs.,"2,339,796 ,,",2339796.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,12,data,,Bájra,3,Total Quantity. lbs.,"× ½ = 1,169,898",,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,12,data,,Bájra,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,12,data,,Bájra,3,Column 3,"× ½ = 1,169,898",,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,12,data,,Bájra,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,13,data,,Moth,2,Total Quantity. lbs.,"982,208 ,,",982208.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,13,data,,Moth,3,Total Quantity. lbs.,"× ¾ = 736,656",,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,13,data,,Moth,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,13,data,,Moth,3,Column 3,"× ¾ = 736,656",,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,13,data,,Moth,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,14,data,,Másh,2,Total Quantity. lbs.,"213,465 ,,",213465.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,14,data,,Másh,3,Total Quantity. lbs.,"× ⅓ = 71,155",,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,14,data,,Másh,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,14,data,,Másh,3,Column 3,"× ⅓ = 71,155",,,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,14,data,,Másh,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,15,subtotal,,Total,2,Total Quantity. lbs.,"3,458,732 × 484 = 1,674,026,288",,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,15,subtotal,,Total,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,15,subtotal,,Total,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,15,subtotal,,Total,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,15,subtotal,,Total,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,16,total,,Total,2,Total Quantity. lbs.,"3,045,449,274",3045449274.0,lbs,False,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,16,total,,Total,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,16,total,,Total,4,Total Quantity. lbs.,,,lbs,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,16,total,,Total,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,16,total,,Total,4,Column 4,,,,True,False
 poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,17,total,,Balance remaining for human use,2,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,17,total,,Balance remaining for human use,3,Total Quantity. lbs.,,,lbs,True,False
-poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,17,total,,Balance remaining for human use,4,Total Quantity. lbs.,"9,892,853,725",9892853725.0,lbs,False,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,17,total,,Balance remaining for human use,3,Column 3,,,,True,False
+poverty-and-un-british-rule,tbl-109,GRAIN.,189,169,17,total,,Balance remaining for human use,4,Column 4,"9,892,853,725",9892853725.0,,False,False

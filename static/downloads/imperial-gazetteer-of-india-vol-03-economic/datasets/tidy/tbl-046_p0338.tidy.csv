@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,1,summary,,Average 1882–3 to 1891–2,2,Imports.,48,48.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,1,summary,,Average 1882–3 to 1891–2,3,Exports.,"1,77",177.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,2,data,,„ 1892–3 to 1901–2,2,Imports.,"2,10",210.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,2,data,,„ 1892–3 to 1901–2,3,Exports.,"7,99",799.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,3,data,,Year 1902–3,2,Imports.,"2,16",216.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,3,data,,Year 1902–3,3,Exports.,"10,18",1018.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,4,data,,„ 1903–4,2,Imports.,"2,92",292.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,4,data,,„ 1903–4,3,Exports.,"14,82",1482.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,5,data,,„ 1904–5,2,Imports.,"3,73",373.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-046,Table 46,338,296,5,data,,„ 1904–5,3,Exports.,"14,31",1431.0,,False,False

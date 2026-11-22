@@ -1,0 +1,67 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,1,data,,Sikkim,2,Area in square miles.,"2,818",2818.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,1,data,,Sikkim,3,Population in 1901.,"59,014, chiefly Bud- dhists and Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,1,data,,Sikkim,4,Approxi- mate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,1,data,,Sikkim,5,"Title, race, and religion of Ruler.","Mahārājā, Tibetan : Buddhist.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,1,data,,Sikkim,6,Salute of Ruler in guns.,15,15.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,1,data,,Sikkim,7,Designation of local Political Officer.,"Political Officer, Sikkim.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,2,data,,Cooch Behār,2,Area in square miles.,"1,307",1307.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,2,data,,Cooch Behār,3,Population in 1901.,"566,974, chiefly Hindus and Muhammadans.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,2,data,,Cooch Behār,4,Approxi- mate revenue (in lakhs of rupees).,24,24.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,2,data,,Cooch Behār,5,"Title, race, and religion of Ruler.","Mahārājā, Kshattriya : Brah- mo.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,2,data,,Cooch Behār,6,Salute of Ruler in guns.,13,13.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,2,data,,Cooch Behār,7,Designation of local Political Officer.,Commissioner of Rājshāhi (ex- officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,3,data,,Hill Tippera,2,Area in square miles.,"4,086",4086.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,3,data,,Hill Tippera,3,Population in 1901.,"173,325, chiefly Hin- dus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,3,data,,Hill Tippera,4,Approxi- mate revenue (in lakhs of rupees).,7,7.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,3,data,,Hill Tippera,5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,3,data,,Hill Tippera,6,Salute of Ruler in guns.,13,13.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,3,data,,Hill Tippera,7,Designation of local Political Officer.,Commissioner of Chittagong (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,4,data,,Bhutān,2,Area in square miles.,"20,000",20000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,4,data,,Bhutān,3,Population in 1901.,"250,000, Buddhists.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,4,data,,Bhutān,4,Approxi- mate revenue (in lakhs of rupees).,2,2.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,4,data,,Bhutān,5,"Title, race, and religion of Ruler.","Deb Rājā, Bhotia : Buddhist.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,4,data,,Bhutān,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,4,data,,Bhutān,7,Designation of local Political Officer.,Commissioner of Rājshāhi (ex- officio Political Officer).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,5,data,,Mayūrbhanj (Orissa Tribu- tary Mahāls),2,Area in square miles.,"4,243",4243.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,5,data,,Mayūrbhanj (Orissa Tribu- tary Mahāls),3,Population in 1901.,"610,383, chiefly Hin- dus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,5,data,,Mayūrbhanj (Orissa Tribu- tary Mahāls),4,Approxi- mate revenue (in lakhs of rupees).,8,8.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,5,data,,Mayūrbhanj (Orissa Tribu- tary Mahāls),5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,5,data,,Mayūrbhanj (Orissa Tribu- tary Mahāls),6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,5,data,,Mayūrbhanj (Orissa Tribu- tary Mahāls),7,Designation of local Political Officer.,Commissioner of Orissa (ex- officio Superintendent of the Orissa Tributary Mahāls).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,6,data,,Surgujā (Chotā Nāgpur Tributary Mahāls),2,Area in square miles.,"6,055",6055.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,6,data,,Surgujā (Chotā Nāgpur Tributary Mahāls),3,Population in 1901.,"351,011 """,351011.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,6,data,,Surgujā (Chotā Nāgpur Tributary Mahāls),4,Approxi- mate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,6,data,,Surgujā (Chotā Nāgpur Tributary Mahāls),5,"Title, race, and religion of Ruler.","Rājā, Ruksel Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,6,data,,Surgujā (Chotā Nāgpur Tributary Mahāls),6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,6,data,,Surgujā (Chotā Nāgpur Tributary Mahāls),7,Designation of local Political Officer.,Commissioner of Chotā Nāg- pur (ex-officio Superintendent of the Chotā Nāgpur Tribu- tary Mahāls).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,7,data,,Keonjhar (Orissa Tributary Ma- hāls),2,Area in square miles.,"3,096",3096.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,7,data,,Keonjhar (Orissa Tributary Ma- hāls),3,Population in 1901.,"285,758 """,285758.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,7,data,,Keonjhar (Orissa Tributary Ma- hāls),4,Approxi- mate revenue (in lakhs of rupees).,3,3.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,7,data,,Keonjhar (Orissa Tributary Ma- hāls),5,"Title, race, and religion of Ruler.","Rājā, Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,7,data,,Keonjhar (Orissa Tributary Ma- hāls),6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,7,data,,Keonjhar (Orissa Tributary Ma- hāls),7,Designation of local Political Officer.,Commissioner of Orissa (ex- officio Superintendent of the Orissa Tributary Mahāls).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,8,data,,Dhenkānāl (Orissa Tributary Ma- hāls),2,Area in square miles.,"1,463",1463.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,8,data,,Dhenkānāl (Orissa Tributary Ma- hāls),3,Population in 1901.,"273,662 """,273662.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,8,data,,Dhenkānāl (Orissa Tributary Ma- hāls),4,Approxi- mate revenue (in lakhs of rupees).,4,4.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,8,data,,Dhenkānāl (Orissa Tributary Ma- hāls),5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,8,data,,Dhenkānāl (Orissa Tributary Ma- hāls),6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,8,data,,Dhenkānāl (Orissa Tributary Ma- hāls),7,Designation of local Political Officer.,""" """,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,9,data,,Gāngpur (Chotā Nāgpur Tribu- tary Mahāls),2,Area in square miles.,"2,518",2518.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,9,data,,Gāngpur (Chotā Nāgpur Tribu- tary Mahāls),3,Population in 1901.,"238,896 """,238896.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,9,data,,Gāngpur (Chotā Nāgpur Tribu- tary Mahāls),4,Approxi- mate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,9,data,,Gāngpur (Chotā Nāgpur Tribu- tary Mahāls),5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,9,data,,Gāngpur (Chotā Nāgpur Tribu- tary Mahāls),6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,9,data,,Gāngpur (Chotā Nāgpur Tribu- tary Mahāls),7,Designation of local Political Officer.,Commissioner of Chotā Nāg- pur (ex-officio Superintendent of the Chotā Nāgpur Tribu- tary Mahāls).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,10,data,,21 Minor States,2,Area in square miles.,"13,066",13066.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,10,data,,21 Minor States,3,Population in 1901.,"1,189,521",1189521.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,10,data,,21 Minor States,4,Approxi- mate revenue (in lakhs of rupees).,27,27.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,10,data,,21 Minor States,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,10,data,,21 Minor States,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,10,data,,21 Minor States,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,11,total,,TOTAL,2,Area in square miles.,"58,652",58652.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,11,total,,TOTAL,3,Population in 1901.,"3,998,544",3998544.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,11,total,,TOTAL,4,Approxi- mate revenue (in lakhs of rupees).,78,78.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,11,total,,TOTAL,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,11,total,,TOTAL,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-010,(c) Bengal (30 States),136,98,11,total,,TOTAL,7,Designation of local Political Officer.,,,,True,True

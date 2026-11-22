@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,1,data,,Bengal,2,Decennial Average.,1882–3 to 1891–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,1,data,,Bengal,3,Imports (lakhs of rupees).,"23,38",2338.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,1,data,,Bengal,4,Exports (lakhs of rupees).,"36,36",3636.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,2,data,,Row 2,2,Decennial Average.,1892–3 „ 1901–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,2,data,,Row 2,3,Imports (lakhs of rupees).,"28,70",2870.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,2,data,,Row 2,4,Exports (lakhs of rupees).,"47,36",4736.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,3,data,,Bombay,2,Decennial Average.,1882–3 „ 1891–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,3,data,,Bombay,3,Imports (lakhs of rupees).,"23,89",2389.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,3,data,,Bombay,4,Exports (lakhs of rupees).,"35,34",3534.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,4,data,,Row 4,2,Decennial Average.,1892–3 „ 1901–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,4,data,,Row 4,3,Imports (lakhs of rupees).,"26,94",2694.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,4,data,,Row 4,4,Exports (lakhs of rupees).,"34,22",3422.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,5,data,,Madras,2,Decennial Average.,1882–3 „ 1891–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,5,data,,Madras,3,Imports (lakhs of rupees).,"5,29",529.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,5,data,,Madras,4,Exports (lakhs of rupees).,"9,55",955.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,6,data,,Row 6,2,Decennial Average.,1892–3 „ 1901–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,6,data,,Row 6,3,Imports (lakhs of rupees).,"6,11",611.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,6,data,,Row 6,4,Exports (lakhs of rupees).,"11,81",1181.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,7,data,,Burma,2,Decennial Average.,1882–3 „ 1891–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,7,data,,Burma,3,Imports (lakhs of rupees).,"4,55",455.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,7,data,,Burma,4,Exports (lakhs of rupees).,"7,25",725.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,8,data,,Row 8,2,Decennial Average.,1892–3 „ 1901–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,8,data,,Row 8,3,Imports (lakhs of rupees).,"5,26",526.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,8,data,,Row 8,4,Exports (lakhs of rupees).,"9,76",976.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,9,data,,Sind,2,Decennial Average.,1882–3 „ 1891–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,9,data,,Sind,3,Imports (lakhs of rupees).,"2,64",264.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,9,data,,Sind,4,Exports (lakhs of rupees).,"4,10",410.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,10,data,,Row 10,2,Decennial Average.,1892–3 „ 1901–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,10,data,,Row 10,3,Imports (lakhs of rupees).,"4,42",442.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-029,Trade in Merchandise.,314,272,10,data,,Row 10,4,Exports (lakhs of rupees).,"5,95",595.0,Rs,False,False

@@ -115,12 +115,6 @@ CHAP. — PAGE
 - <span class="sc">The Maurya Dynasty: Chronological Table</span> . . . . . 206
 
 <!-- page: 18 | folio: x -->
-
-##### <span class="sc">CHAP.</span>
-
-
-##### <span class="sc">PAGE</span>
-
 - VIII. <span class="sc">The Sunga, Kanva, and Āndhra Dynasties, from 185 b. c. to *c.* a. d.</span> 225 . . . 208
 - *Appendix I.* <span class="sc">The Invasion of Menander, and the Date of Patañjali</span> . . 227
 - *Appendix J.* <span class="sc">The Āndhras and Connected Dynasties</span> . . . . 229
@@ -221,23 +215,29 @@ Māt in Mathurā District</span> . . . 276
 #### I. INTRODUCTION
 
 > _[Margin: Elphinstone and Cowell on the Hindu period.]_
+
 <span class="sc">The</span> illustrious Elphinstone, writing in 1839, observed that in Indian history ‘ no *date* of a public event can be fixed before the invasion of Alexander ; and no *connected* relation of the national transactions can be attempted until after the Mahometan conquest ’. Professor Cowell, when commenting upon this dictum, twenty-seven years later, begged his readers to bear it in mind during the whole of the Hindu period ; assigning as his reason for this caution the fact that ‘ it is only at those points where other nations came into contact with the Hindus, that we are able to settle any details accurately.’[^sec-04-fn-001]
 
 Although the first clause of Elphinstone’s proposition, if strictly interpreted, still remains true—no date in Indian history prior to Alexander’s invasion being determinable with absolute precision—modern research has much weakened the force of the observation, and has enabled scholars to fix a considerable number of dates in the pre-Alexandrine history of India with approximate accuracy, sufficient for most purposes.
 
 > _[Margin: Results of modern research.]_
+
 But when the statement that a connected narrative of events prior to the Muhammadan conquest cannot be prepared is examined in the light of present knowledge, the immense progress in the recovery of the lost history of India made during the last seventy years becomes apparent. The researches of a multitude of scholars working in various fields have disclosed an unexpected wealth of materials for the reconstruction of ancient Indian history ; and the necessary preliminary studies of a technical kind have been carried so far that the accumulated and ever-growing stores of knowledge can be sorted and arranged with advantage. It now appears to be practicable to exhibit the results of antiquarian [p. 2] studies in the shape of a ‘connected relation’; not less intelligible to the ordinary educated reader than Elphinstone’s narrative of the transactions of the Muhammadan period.
 
 > _[Margin: Political history.]_
+
 The first attempt to present such a narrative of the leading events in Indian political history for eighteen centuries was made in the first edition of this book, which, even in its now much expanded form, is still designedly confined for the most part to the relation of political vicissitudes. A sound framework of dynastic annals must be provided before the story of Indian religion, literature, and art can be told aright. Although religious, literary, and artistic problems are touched on very lightly in this volume, the references made will suffice, perhaps, to convince the reader that the key is often to be found in the accurate chronological presentation of dynastic facts.
 
 > _[Margin: East and West.]_
+
 European students, whose attention has been mainly directed to the Graeco-Roman foundation of modern civilization, may be disposed to agree with the German philosopher in the belief that ‘Chinese, Indian, and Egyptian antiquities are never more than curiosities’;[^sec-04-fn-002] but, however well founded that opinion may have been in Goethe’s day, it can no longer command assent. The researches of orientalists during the last hundred years have established many points of contact between the ancient East and the modern West; and no Hellenist can now afford to profess complete ignorance of the Babylonian and Egyptian culture which forms the bedrock of European institutions. Even China has been brought into touch with Europe; while the languages, literature, art, and philosophy of the West have been proved to be connected by innumerable bonds with those of India. Although the names of even the greatest monarchs of ancient India are at present unfamiliar to the general reader, and awaken few echoes in the minds of any save specialists, it is not unreasonable to hope that an orderly presentation of the ascertained facts of ancient Indian history may be of interest to a larger circle than that of professed orientalists, and that, [p. 3] as the subject becomes more familiar to the reading public, it will be found no less worthy of attention than better known departments of historical study. A recent Indian author justly observes that 'India suffers to-day in the estimation of the world more through that world's ignorance of the achievements of the heroes of Indian history than through the absence or insignificance of such achievements '.[^sec-04-fn-003] The following pages may serve to prove that the men of old time in India did deeds worthy of remembrance, and deserving of rescue from the oblivion in which they have been buried for so many centuries.
 
 > _[Margin: Alexander the Great.]_
+
 The section of this work which deals with the invasion of Alexander the Great may claim to make a special appeal to the interest of readers trained in the ordinary course of classical studies; and the subject has been treated accordingly with much fulness of detail. The existing English accounts of Alexander's marvellous campaign, among which that of Thirlwall, perhaps, is entitled to the highest place, treat the story as an appendix to the history of Greece rather than as part of that of India, and fail to make full use of the results of the labours of modern geographers and archaeologists. In this volume the campaign is discussed as a memorable episode in the history of India, and an endeavour has been made to collect all the rays of light from recent investigation and to focus them upon the narratives of ancient authors.
 
 > _[Margin: The author's aim.]_
+
 The author's aim is to present the story of ancient India, as far as practicable, in the form of a connected narrative, based upon the most authentic evidence available; to relate facts, however established, with impartiality: and to discuss the problems of history in a judicial spirit. He has striven to realize, however imperfectly, the ideal expressed in the words of Goethe :—
 
 > 'The historian's duty is to separate the true from the false, the certain from the uncertain, and the doubtful from that which cannot be accepted. . . . Every investigator must before all things look upon himself as one who is summoned [p. 4] to serve on a jury. He has only to consider how far the statement of the case is complete and clearly set forth by the evidence. Then he draws his conclusion and gives his vote, whether it be that his opinion coincides with that of the foreman or not.'[^sec-04-fn-004]
@@ -245,14 +245,17 @@ The author's aim is to present the story of ancient India, as far as practicable
 The application of these principles necessarily involves the wholesale rejection of mere legend as distinguished from tradition, and the omission of many picturesque anecdotes, mostly folk-lore, which have clustered round the names of the mighty men of old in India.
 
 > _[Margin: Value of tradition.]_
+
 The historian of the remote past of any nation must be content to rely much upon tradition as embodied in literature, and to acknowledge that the results of his researches when based upon traditionary materials, are inferior in certainty to those obtainable for periods of which the facts are attested by contemporary evidence. In India, with very few exceptions, contemporary evidence of any kind is not available before the time of Alexander; but critical examination of records dated much later than the events referred to can extract from them testimony which may be regarded with a high degree of probability as traditionally transmitted from the sixth or, perhaps, the seventh century <span class="sc">B. C.</span>
 
 > _[Margin: Necessity for criticism.]_
+
 Even contemporary evidence, when it is available for later periods, cannot be accepted without criticism. The flattery of courtiers, the vanity of kings, and many other clouds which obscure the absolute truth, must be recognized and allowed for. Nor is it possible for the writer of a history, however great may be his respect for the objective fact, to eliminate altogether his own personality. Every kind of evidence, even the most direct, must reach the reader, when presented in narrative form, as a reflection from the mirror of the writer's mind, with the liability to unconscious distortion. In the following pages the author has endeavoured to exclude the subjective element so far as possible, to make no statement of fact without authority, and to give the authority, that is to say, the evidence, for every fact alleged.
 
 But no obligation to follow authority in the other sense [p. 5] of the word has been accepted, and the narrative often assumes a form apparently justified by the evidence, although opposed to the views stated in well-known books by authors of repute. Indian history has been too much the sport of credulity and hypothesis, inadequately checked by critical judgement of evidence, or verification of fact ; and ‘ the opinion of the foreman ’, to use Goethe’s phrase, cannot be implicitly followed.
 
 > _[Margin: Unity of India.]_
+
 Although this work purports to relate the Early History of India, the title must be understood with certain limitations. India, encircled as she is by seas and mountains, is indisputably a geographical unit, and, as such, is rightly designated by one name. Her type of civilization, too, has many features which differentiate it from that of all other regions of the world, while they are common to the whole country, or rather sub-continent, in a degree sufficient to justify its treatment as a unit in the history of the social, religious, and intellectual development of mankind.[^sec-04-fn-005]
 
 But the complete political unity of India under the control of a paramount power, wielding unquestioned authority, is a thing of yesterday, barely a century old.[^sec-04-fn-006] The most notable of her rulers in the olden time cherished the ambition of universal Indian dominion, and severally attained it in a greater or less degree. Not one of them, however, attained it completely, and this failure involves a lack of unity in political history which renders the task of the historian difficult.
@@ -262,22 +265,27 @@ The same difficulty besets the historian of Greece still more pressingly ; but, 
 
 <!-- page: 28 | folio: 6 -->
 > _[Margin: Predominant dynasties.]_
+
 A political history of India, if it is to be read, must necessarily tell the story of the predominant dynasties, and either ignore, or relegate to a very subordinate position, the annals of the minor states. Elphinstone acted upon this principle in his classic work, practically confining his narrative to the transactions of the Sultans of Delhi and their Moghal successors. The same principle has been applied in this book, attention being concentrated upon the dominant dynasties which, from time to time, have aspired to or attained paramount power.
 
 Twice, in the long series of centuries dealt with in this history, the political unity of all India was nearly attained; first, in the third century <span class="sc">b. c.</span>, when Asoka's empire extended almost to the latitude of Madras; and again, in the fourth century after Christ, when Samudragupta carried his victorious arms from the Ganges to the borders of the Tamil country. Other princes, although their conquests were less extensive, yet succeeded in establishing, and for a time maintaining, empires which might fairly claim to rank as paramount powers. With the history of such princes the following narrative is chiefly concerned, the affairs of the minor states being either slightly noticed, or altogether ignored.
 
 > _[Margin: Supremacy of the north.]_
+
 The paramount power in early times, when it existed, invariably had its seat in Northern India—the region of the Gangetic plain lying to the north of the great barrier of jungle-clad hills which shut off the Deccan from Hindustan. That barrier may be defined conveniently as consisting of the Vindhyan ranges, using that term in a wide sense; or may be identified, still more compendiously, with the river Narmadā, or Nerbudda, which falls into the Gulf of Cambay, and flows between the Vindhyan and Sātpura ranges.[^sec-04-fn-007]
 
 
 <!-- page: 29 | folio: 7 -->
 > _[Margin: Early history of the Deccan.]_
+
 The researches of Dr. Fleet, Professor Kielhorn, and many other patient scholars have revealed in outline much of the history of the kingdoms of the Deccan plateau lying between the Narmadā on the north and the Krishnā and Tungabhadra on the south, from the sixth century after Christ. But the details are mainly of local interest and can never attract the attention of the outer world to the same degree as can the history of the northern empires, constantly in touch with that world.
 
 > _[Margin: Isolation of the far south.]_
+
 The ancient kingdoms of the far south, although rich and populous, inhabited by Dravidian nations not inferior in culture to their Aryan rivals in the north, were ordinarily so secluded from the rest of the civilized world, including Northern India, that their affairs remained hidden from the eyes of other nations; and, native annalists being lacking, their history, previous to the year 800 of the Christian era, has almost wholly perished. Except on the rare occasions when an unusually enterprising sovereign of the north either penetrated or turned the forest barrier, and for a moment lifted the veil of secrecy in which the southern potentates lived enwrapped, very little is known concerning political events in the far south during the long period extending from 600 <span class="sc">b.c.</span> to <span class="sc">a.d.</span> 800. To use the words of Elphinstone, no ‘connected relation of the national transactions’ of Southern India in remote times can be written; and an early history of India must, perforce, be concerned mainly with the north.
 
 > _[Margin: The non-Aryan element.]_
+
 Although it is still as true as it was when the first edition of this book was published, that an exact chronological narrative of the purely political history of the Tamil kingdoms of Southern India previous to <span class="sc">a.d.</span> 800 cannot be written at present, and it is possible that such a history cannot be written at any time, I must not be understood to mean that the early history of the South is either wholly inaccessible or devoid of interest. On the contrary, I believe that, if we can be content to dispense with precise chronology, materials exist for the reconstruction in no small measure of the history of Dravidian institutions, and that a history of that kind, when worked out by scholars [p. 8] adequately skilled in the languages, literatures, and customs of the Dravidian peoples, will be of essential service to the historian of India as a whole, and will enable the student of the development of Indian civilization to see his subject in true perspective.
 
 Attention has been concentrated too long on the North, on Sanskrit books, and on Indo-Aryan notions. It is time that due regard should be paid to the non-Aryan element.
@@ -285,6 +293,7 @@ Attention has been concentrated too long on the North, on Sanskrit books, and on
 This book being deliberately confined almost exclusively to the summary presentation of the political history of India, I am precluded from following out the suggested line of research, but I cannot refrain from quoting certain observations of an eminent Indian scholar, prematurely deceased, which seem to me worthy of serious consideration, and are as follows :—
 
 > _[Margin: India Proper in the South.]_
+
 > ‘ The attempt to find the basic element of Hindu civilization by a study of Sanskrit and the history of Sanskrit in Upper India is to begin the problem at its worst and most complicated point. India, south of the Vindhyas—the Peninsular India—still continues to be India Proper. Here the bulk of the people continue distinctly to retain their pre-Aryan teatures, their pre-Aryan languages, their pre-Aryan social institutions. Even here, the process of Aryanization has gone indeed too far to leave it easy for the historian to distinguish the native warp from the foreign woof. But, if there is anywhere any chance of such successful disentanglement, it is in the South ; and the farther South we go the larger does the chance grow.
 
 > The scientific historian of India, then, ought to begin his study with the basin of the Krishna, of the Cauvery, of the Vaigai, rather than with the Gangetic plain, as it has been now long, too long, the fashion.’[^sec-04-fn-008]
@@ -294,6 +303,7 @@ When the ideal Early History of India, including institutions as well as politic
 
 <!-- page: 31 | folio: 9 -->
 > _[Margin: Scope of this work.]_
+
 An attempt to present in narrative form the history of the ancient dominant dynasties of Northern India is, therefore, the primary purpose of this work. The story of the great southern kingdoms, being known too imperfectly to permit of treatment on the same scale, necessarily occupies less space ; while the annals of the innumerable minor states in every part of the country seldom offer matter of sufficient general interest to warrant narration in detail. In the fourteenth chapter, the reader will find a condensed account of the more salient events in the story of the principal mediaeval kingdoms of the north ; and the two succeeding chapters are devoted to an outline of the fortunes of the kingdoms of the Deccan tableland and the Peninsula, so far as they are known, from the earliest times to the Muhammadan invasion at the beginning of the fourteenth century.
 
 The time dealt with is that extending from the commencement of the historical period in 650 or 600 <span class="sc">b. c.</span> to the Muhammadan conquest, which may be dated in round numbers as having occurred in <span class="sc">a. d.</span> 1200 in the north, and a century later in the south. The earliest political event in India to which an approximately correct date can be assigned is the establishment of the Saisunāga dynasty of Magadha about 642 <span class="sc">b. c.</span>, a few years before the beginning of ‘ the sixth century—that wonderful century—a cardinal epoch in human history, if ever there was one ’.
@@ -302,77 +312,99 @@ The time dealt with is that extending from the commencement of the historical pe
 #### II. SOURCES OF INDIAN HISTORY
 
 > _[Margin: Four sources.]_
+
 The sources of, or original authorities for, the early history of India may be arranged in four classes. The first of these is tradition, chiefly as recorded in native literature ; the second consists of those writings of foreign travellers and historians which contain observations on Indian subjects ; the third is the evidence of archaeology, which may be subdivided into the monumental, the epigraphic, and the numismatic ; and the fourth comprises the few works of native contemporary, or nearly contemporary, literature which deal expressly with historical subjects.
 
 
 <!-- page: 32 | folio: 10 -->
 > _[Margin: Tradition only in earliest period.]_
+
 For the period anterior to Alexander the Great, extending from 600 <span class="sc">b. c.</span> to 326 <span class="sc">b. c.</span>, dependence must be placed almost wholly upon literary tradition, communicated through works composed in many different ages, and frequently recorded in scattered incidental notices. The purely Indian traditions are supplemented by the notes of the Greek authors, Ktēsias, Herodotus, the historians of Alexander, Megasthenes and others.
 
-> _[Margin: The Kashmīr Chron- icle.]_
+> _[Margin: The Kashmīr Chronicle.]_
+
 The Kashmīr Chronicle, composed in the twelfth century, which is in form the nearest approach to a work of regular history in extant Sanskrit literature, contains a large body of confused ancient traditions, which can be used only with much caution. It is also of high value as a trustworthy record of local events for the period contemporary with, or slightly preceding, the author's lifetime.[^sec-04-fn-009]
 
-> _[Margin: The San- skrit epics.]_
+> _[Margin: The Sanskrit epics.]_
+
 The great Sanskrit epics, the Mahābhārata and Rāmāyana, while of value as traditional pictures of social life in the heroic age, do not seem to contain matter illustrating the political relations of states during the historical period.
 
-> _[Margin: Inciden- tal no- tices.]_
+> _[Margin: Incidental notices.]_
+
 Linguistic specialists have extracted from the works of grammarians and other authors many incidental references to ancient tradition, which collectively amount to a considerable addition to historical knowledge. Such passages from Sanskrit and Prākrit literature, so far as they have come to my notice, have been utilized in this work; but some may have escaped attention.
 
 > _[Margin: Jain books.]_
+
 The sacred books of the Jain sect, which are still very imperfectly known, also contain numerous historical statements and allusions of considerable value.[^sec-04-fn-010]
 
 
 <!-- page: 33 | folio: 11 -->
 > _[Margin: Jātaka stories.]_
+
 The Jātaka, or Birth stories, and other books of the Buddhist canon, include many incidental references to the political condition of India in the fifth and sixth centuries <span class="sc">b. c.</span>, which although not exactly contemporary with the events alluded to, certainly transmit genuine historical tradition.[^sec-04-fn-011]
 
 > _[Margin: Pāli chronicles of Ceylon.]_
+
 The chronicles of Ceylon in the Pāli language, of which the *Dīpavaṁsa*, dating probably from the fourth century after Christ, and the *Mahāvaṁsa*, about a century and a half later in date, are the best known, offer several discrepant versions of early Indian traditions, chiefly concerning the Maurya dynasty. These Sinhalese stories, the value of which has been sometimes overestimated, demand cautious criticism at least as much as do other records of popular and ecclesiastical tradition.[^sec-04-fn-012]
 
 > _[Margin: The Purāṇas.]_
+
 The most systematic record of Indian historical tradition is that preserved in the dynastic lists of the Purāṇas. Five out of the eighteen works of this class, namely, the Vāyu, Matsya, Vishṇu, Brahmāṇḍa, and Bhāgavata contain such lists. The Brahmāṇḍa and the Vāyu, as well as the Matsya, which has large later additions, appear to be the earliest and [p. 12] most authoritative. Theory required that a Purāṇa should deal with ‘ the five topics of primary creation, secondary creation, genealogies of gods and patriarchs, reigns of various Manus, and the histories of the old dynasties of kings ’. The last named of the five topics is the only one which concerns the historian.[^sec-04-fn-013] Modern European writers have been inclined to disparage unduly the authority of the Purāṇic lists, but closer study finds in them much genuine and valuable historical tradition.
 
 > _[Margin: Darius, Ktēsias, Herodotus.]_
+
 The earliest foreign notice of India is that in the inscriptions of the Persian king, Darius, son of Hystaspes, at Persepolis and Naksh-i-Rustam, the latter of which may be referred to the year 486 <span class="sc">b. c.</span>[^sec-04-fn-014] Herodotus, who wrote late in the fifth century, contributes valuable information concerning the relation between India and the Persian empire, which supplements the less detailed statements of the inscriptions. The fragments of the works of Ktēsias of Knidos, who was physician to Artaxerxes Mnemon in 401 <span class="sc">b. c.</span>, and amused himself by collecting travellers’ tales about the wonders of the East, are of very slight value.[^sec-04-fn-015]
 
 > _[Margin: Officers of Alexander, and envoys.]_
+
 Europe was practically ignorant of India until the veil was lifted by Alexander’s operations and the reports of his officers. Some twenty years after his death the Greek ambassadors sent by the kings of Syria and Egypt to the court of the Maurya emperors recorded careful observations on the country to which they were accredited, which have been partially preserved in the works of many Greek and [p. 13] Roman authors. The fragments of Megasthenes are especially valuable.[^sec-04-fn-016]
 
 > _[Margin: Arrian, and others.]_
+
 Arrian, a Graeco-Roman official of the second century after Christ, wrote a capital description of India, as well as an admirable critical history of Alexander's invasion. Both these works being based upon the reports of Ptolemy son of Lagos, and other officers of Alexander, and the writings of the Greek ambassadors, are entitled to a large extent to the credit of contemporary documents, so far as the Indian history of the fourth century <span class="sc">B. C.</span> is concerned. The works of Quintus Curtius and other authors, who essayed to tell the story of Alexander's Indian campaign, are far inferior in value; but each has merits of its own.[^sec-04-fn-017]
 
 > _[Margin: Apollonios of Tyana.]_
+
 The philosophical romance, composed in honour of Apollonios of Tyana by Philostratos 'the Athenian' about <span class="sc">A. D.</span> 215–18 at the request of the empress Julia Domna, professes to give minute and interesting details of the observations made by the hero of the book in the course of a tour through north-western India, which according to Professor Petrie took place in the cold season of <span class="sc">A. D.</span> 43–4. If the details recorded could be trusted this account would be invaluable, but so much of the story is obviously fiction that few statements by the author can be accepted with confidence. Although it is not certain that Apollonios visited India at all, he had access to correct information on certain points, which has been confirmed by modern researches.[^sec-04-fn-018]
 
 
 <!-- page: 36 | folio: 14 -->
-> _[Locus: Chinese his- torians.]_
+> _[Margin: Chinese historians.]_
+
 The Chinese ‘Father of history’, Ssŭ-ma-ch’ien, ‘the Herodotus of China’, who completed his work about 100 <span class="sc">b. c.</span>, is the first of a long series of Chinese historians, whose writings throw much light upon the early annals of India. The accurate chronology of the Chinese authors gives their statements peculiar value.[^sec-04-fn-019]
 
 > _[Margin: Fa-hien, Chinese pilgrim.]_
+
 The stream of Chinese Buddhist pilgrims who continued for several centuries to visit India, which they regarded as their Holy Land, begins with Fa-hien (Fa-hsien); who started on his travels in <span class="sc">a. d.</span> 399, and returned to China fifteen years later. The book in which he recorded his journeys has been preserved complete, and translated once into French, and four times into English. It includes a very interesting and valuable description of the government and social condition of the Gangetic provinces during the reign of Chandra-gupta II, Vikramāditya.[^sec-04-fn-020] He visited Ceylon in <span class="sc">a. d.</span> 412 during the reign of Buddhadāsa.[^sec-04-fn-021] Several other pilgrims left behind them works which contribute something to the elucidation of Indian history, and their testimony will be cited in due course.
 
 > _[Margin: Hiuen Tsang.]_
+
 The prince of pilgrims, the illustrious Hiuen Tsang, whose fame as Master of the Law still resounds through all Buddhist lands, deserves more particular notice. His travels, described in a work entitled *Records of the Western World*, which has been translated into French, English, and German, extended from <span class="sc">a. d.</span> 629 to 645, and covered an enormous area, including almost every part of India, except the extreme south. His book is a treasure-house of accurate information, indispensable to every student of Indian antiquity, and has done more than any archaeological discovery to render [p. 15] possible the remarkable resuscitation of lost Indian history which has been recently effected. Although the chief historical value of Hiuen Tsang's work consists in its contemporary description of political, religious, and social institutions, the pilgrim has increased the debt of gratitude due to his memory by recording a considerable mass of ancient tradition, which would have been lost but for his care to preserve it. The *Life of Hiuen Tsang*, composed by his friend Hwui-li, contributes many details supplemental to the narrative in the *Records*,[^sec-04-fn-022] though not quite so trustworthy.
 
 > _[Margin: Albērūnī.]_
+
 The learned mathematician and astronomer, Albērūnī, almost the only Muhammadan scholar who has ever taken the trouble to master Sanskrit, essentially a language of idolatrous unbelievers, when regarded from a Muslim point of view, entered India in the train of Mahmūd of Ghaznī. His work, descriptive of the country, and entitled ‘An Enquiry into India’ (*Taḥḳīḳ-i-Hind*), which was finished in <span class="sc">a. d. 1030</span>, is of high value as an account of Hindu manners, science, and literature ; but contributes comparatively little information which can be utilized for the purposes of political history.[^sec-04-fn-023]
 
 > _[Margin: Marco Polo.]_
+
 The visit of the Venetian traveller, Marco Polo, to Southern India in <span class="sc">a. d. 1294–5</span> just comes within the limits of this volume.[^sec-04-fn-024]
 
 > _[Margin: Muhammadan historians.]_
+
 The Muhammadan historians of India are valuable authorities for the history of the conquest by the armies of Islam ; and the early Muslim travellers throw much light upon the condition of the mediaeval Hindu kingdoms.[^sec-04-fn-025]
 
 
 <!-- page: 38 | folio: 16 -->
 > _[Margin: Monumental evidence.]_
+
 The monumental class of archaeological evidence, considered by itself and apart from the inscriptions on the walls of buildings, while it offers little direct contribution to the materials for political history, is of high illustrative value, and greatly helps the student in realizing the power and magnificence of some of the ancient dynasties. The stratification or orderly succession of the layers of ruined buildings, when systematically observed, as it has been by Sir J. H. Marshall, may be made to yield conclusive testimony concerning the relative dates of dynasties and stages of civilization.
 
 > _[Margin: Inscriptions.]_
+
 Unquestionably the most copious and important source of early Indian history is the epigraphic; and the accurate knowledge of many periods of the long-forgotten past which has now been attained is derived mainly from the patient study of inscriptions during the nineteenth and twentieth centuries. The great majority of inscriptions are commemorative, dedicatory, or donative. The first and second classes comprise a vast variety of records, extending from the mere signature of a pilgrim's name to an elaborate panegyrical poem in the most artificial style of Sanskrit verse; and for the most part are incised on stone. The third class, the donative inscriptions, or grants, on the other hand, are mostly engraved on plates of copper, the favourite material used for permanent record of conveyances.
 
 > _[Margin: Curious inscriptions.]_
+
 Pre-eminent among inscriptions of a special character are Asoka's edicts, or sermons on stone, which form a class by themselves; no other sovereign having imitated his practice of engraving ethical exhortations on the rocks. Equally peculiar is the record on tables of stone of two Sanskrit plays at Ajmēr and of a third at Dhār. Also at Dhār on the pillars of the Bhoja Sāla, an old grammar-school, *c.* <span class="sc">A. D.</span> 1150, are two curious inscriptions—one ‘a chart of the Sanskrit alphabet’, the other a table of verbal terminations from the *Katantra*. They are engraved *Sarpabandha*, ‘in the form of intertwining serpents with their bodies twisted lengthwise and cross-wise, leaving oblong spaces within for letters.’[^sec-04-fn-026]
 
 
@@ -385,15 +417,19 @@ Pre-eminent among inscriptions of a special character are Asoka's edicts, or ser
 A fragmentary inscription at Chitor, on the great tower, is part of a treatise on architecture.[^sec-04-fn-027] At Kuḍimiyāmalai in the Pudukoṭṭai State is a rock inscription, apparently of the seventh century, containing the score of music for the *vīṇā*.[^sec-04-fn-028] One of the oddest of these legacies from the past is a slab in Jain temple No. 1 at Deogarh, containing specimens of 18 dialects (*bhāshā*) and 18 scripts, Maurya, Dravidian, &c.[^sec-04-fn-029]
 
 > _[Margin: Southern inscriptions.]_
+
 The south of India is peculiarly rich in inscriptions of almost all kinds, both on stone and copper, some of which attain extraordinary length. The known southern inscriptions number several thousands, and many must remain for future discovery. But these records, notwithstanding their abundance, are inferior in interest to the rarer northern documents, by reason of their comparatively recent date. No important southern inscription earlier than the Christian era is known, except the Mysore and Maski editions of Asoka's Minor Rock Edicts and the brief dedications of the Bhattiprolu caskets.[^sec-04-fn-030] The records prior to the seventh century after Christ are few.
 
 > _[Margin: Oldest inscriptions.]_
+
 The oldest northern document was supposed at one time to be the dedication of the relics of Buddha at Piprāwā, which was believed to date from about 450 <span class="sc">b. c.</span>, but more recent criticism has thrown doubt upon that theory.[^sec-04-fn-031] At present the oldest extant inscription is the Sohgaura copper plate from the Gorakhpur district, which is tentatively assigned to a date about fifty years prior to Asoka. This document, which is concerned with government storehouses, needs further elucidation.[^sec-04-fn-032] The number of documents prior to the Christian era is much more considerable in the north than in the south. Few records of the third century after Christ [p. 18] have survived, but, if the scheme of Kushān chronology adopted in this work is approximately correct, those of the second century may be described as numerous.
 
 > _[Margin: Work remaining.]_
+
 Although much excellent work has been done, infinitely more remains to be done before the study of Indian inscriptions can be considered as exhausted; and the small body of unselfish workers at the subject is in urgent need of recruits, content to find their reward in the interest of the work itself, the pleasure of discovery, and the satisfaction of adding to the world’s knowledge.[^sec-04-fn-033]
 
 > _[Margin: Numismatics.]_
+
 The numismatic evidence as a whole is more accessible than the epigraphic. Many classes of Indian coins have been discussed in special treatises, and compelled to yield their contributions to history; while a general survey completed by Prof. Rapson enables the student to judge how far the muse of history has been helped by her numismatic handmaid.
 
 From the time of Alexander’s invasion coins afford invaluable aid to the researches of the historian in every period; and for the Bactrian, Indo-Greek, and Indo-Parthian dynasties they constitute almost the sole evidence.[^sec-04-fn-034]
@@ -401,6 +437,7 @@ From the time of Alexander’s invasion coins afford invaluable aid to the resea
 
 <!-- page: 43 | folio: 19 -->
 > _[Margin: Contemporary literature.]_
+
 The fourth class of materials for, or sources of, early Indian history, namely, contemporary, or nearly contemporary, native literature of an historical kind, is of limited extent, comprising, in addition to the Kashmīr chronicle (*ante*, p. 10), and local annals of Nepāl and Assam, a few works in Sanskrit and Prākrit, with certain poems in Tamil. None of these works is pure history; they are all of a romantic character, and present the facts with much embellishment.[^sec-04-fn-035]
 
 The best-known composition of this class is that entitled ‘The Deeds of Harsha’ (*Harsha-Charita*), written by Bāna, about <span class="sc">a.d.</span> 620, in praise of his master and patron, King Harsha of Thānēsar and Kanauj, which is of high value, both as a depository of ancient tradition, and a record of contemporary history, in spite of obvious faults.[^sec-04-fn-036] A similar work called ‘The Deeds of Vikramānka’, by Bilhana, a poet of the twelfth century, is devoted to the eulogy of a powerful king who ruled a large territory in the south and west between <span class="sc">a.d.</span> 1076 and 1126.[^sec-04-fn-037] A valuable poem entitled *Rāmacharita*, dealing with the Pāla kings of Bengal, discovered in 1897, was published in 1910;[^sec-04-fn-038] and several compositions, mostly by Jain authors, besides that of Bilhana, treat of the history of the Chalukya dynasties of the west.[^sec-04-fn-039] The earliest of the Tamil poems alluded to is believed to date from the first or second century of the Christian era. These compositions, which include epics and panegyrics on famous kings of the south, appear to contain a good deal of historical matter.[^sec-04-fn-040]
@@ -408,35 +445,43 @@ The best-known composition of this class is that entitled ‘The Deeds of Harsha
 
 <!-- page: 44 | folio: 20 -->
 > _[Margin: Chronological difficulties.]_
+
 The obstacles which prevented for so many years the construction of a continuous narrative of Early Indian History are due not so much to the deficiency of material as to the lack of definite chronology referred to by Elphinstone and Cowell. The rough material is not so scanty as has been supposed. The data for the reconstruction of the early history of all nations are necessarily meagre, largely consisting of bare lists of names supplemented by vague and often contradictory traditions which pass insensibly into popular mythology. The historian of ancient India is fairly well provided with a supply of such lists, traditions, and mythology ; which, of course, require to be treated on the strict critical principles applied by modern students to the early histories of both western and eastern nations. The application of those principles in the case of India is not more difficult than it is in Babylonia, Egypt, Greece, or Rome. The real difficulty is the determination of fixed chronological points. A body of history must be supported upon a skeleton of chronology, and without chronology history is impossible.
 
 > _[Margin: Numerous eras.]_
+
 The Indian nations, in so far as they maintained a record of political events, kept it by methods of their own, which are difficult to understand, and until recently were not at all understood. The eras used to date events are not only different from those used by other nations, but very numerous and obscure in their origin and application. Cunningham's *Book of Indian Eras* (1883) enumerates more than a score of systems which have been employed at different times and places in India for the computation of dates ; and his list might be considerably extended. The successful efforts of several generations of scholars to recover the forgotten history of ancient India have been largely devoted to a study of the local modes of chronological computation, and have resulted in the attainment of accurate knowledge concerning most of the eras used in inscriptions and other documents.[^sec-04-fn-041]
 
 
 <!-- page: 45 | folio: 21 -->
 Armed with these results, it is now possible for a writer on Indian history to compile a narrative arranged in orderly chronological sequence, which could not have been thought of before the close of the nineteenth century.
 
-> _[Margin: Greek synchron- isms.]_
+> _[Margin: Greek synchronisms.]_
+
 For a long time the only approximately certain date in the early history of India was that of the accession of Chandragupta Maurya, as determined by his identification with Sandrakottos, the contemporary of Seleukos Nikator, according to Greek authors. The synchronism of Chandragupta's grandson, Asoka, with Antiochos Theos, grandson of Seleukos, and four other Hellenistic princes, having been established subsequently in 1838, the chronology of the Maurya dynasty was placed upon a firm basis, and is no longer open to doubt in its main outlines.
 
 With the exception of these two synchronisms, and certain dates in the seventh century after Christ, determined by the testimony of the Chinese pilgrim, Hiuen Tsang, the whole scheme of Indian chronology remained indeterminate and exposed to the caprice of every rash guesser.
 
 > _[Margin: Gupta era.]_
+
 A great step in advance was gained by Fleet's determination of the Gupta era, which had been the subject of much wild conjecture. His demonstration that the year 1 of that era is <span class="sc">a. d.</span> 319–20 fixed the chronological position of a most important dynasty, and reduced chaos to order. Fa-hien's account of the civil administration of the Gangetic provinces at the beginning of the fifth century thus fell into its place as an important historical document illustrating the reign of Chandragupta II, Vikramāditya, one of the greatest of Indian kings. Most of the difficulties which continued to embarrass the chronology of the Gupta period, even after the announcement of Fleet's discovery in 1887, have been removed by M. Sylvain Lévi's publication of the synchronism of Samudragupta with King Meghavarna of Ceylon (*c.* <span class="sc">a. d.</span> 352–79).
 
-> _[Margin: Andhra synchron- ism.]_
+> _[Margin: Andhra synchronism.]_
+
 A connected, although imperfect, history of the Āndhra dynasty has been rendered possible by the establishment of synchronisms between the Āndhra kings and the Western satraps.
 
 
 <!-- page: 46 | folio: 22 -->
 > _[Margin: Northern chronology settled; except Kushān.]_
+
 In short, the labours of many scholars have succeeded in tracing in firm lines the outline of the history of Northern India from the beginning of the historical period to the Muhammadan conquest, with one important exception, that of the Kushān or Indo-Scythian period, the date of which, to the extent of about forty years, is still open to discussion. The system of Kushān chronology adopted in this volume has much to recommend it, and is sufficiently supported to serve as a good working hypothesis. If it should ultimately secure general acceptance, the whole scheme of North Indian chronology may be considered as settled, although many details will remain to be filled in.
 
 > _[Margin: Southern chronology.]_
+
 Much progress has been made in the determination of the chronology of the Southern dynasties, and the dates of the Pallavas, a dynasty the very existence of which was unknown to European students until 1840, have been worked out with special success.
 
 > _[Margin: Feasibility of ‘ connected relation ’.]_
+
 The foregoing review will, I trust, satisfy my readers that the attempt to write ‘ a connected relation of the national transactions ’ of India prior to the Muhammadan conquest is justified by an adequate supply of material facts and sufficient determination of essential chronological data.
 
 
@@ -494,24 +539,31 @@ The foregoing review will, I trust, satisfy my readers that the attempt to write
 #### *The Age of the Purāṇas.*
 
 > _[Margin: Wilson's erroneous date.]_
+
 <span class="sc">H. H. Wilson</span>, misunderstanding certain passages in the Purāṇas as referring to the Muhammadans, enunciated the opinion that the *Vishṇu Purāṇa* was composed in or about <span class="sc">A. D.</span> 1045. The error, excusable in Wilson's time, unfortunately continued to be repeated frequently, although refuted by patent facts many years ago.[^sec-05-fn-001] The persistent repetition of Wilson's mistake renders it desirable to bring together a few easily intelligible and decisive proofs that the Purāṇas are very much older than he supposed.
 
 > _[Margin: Evidence of Albērūnī.]_
+
 Albērūnī, who wrote his scientific account of India in <span class="sc">A. D.</span> 1030, gives a list of the eighteen Purāṇas ‘ composed by the so-called Rishis ’, and had actually seen three of them, namely parts of the *Matsya*, *Āditya*, *and Vāyu*. He also gives a variant list of the [p. 23] eighteen works, as named in the *Vishṇu Purāṇa*.[^sec-05-fn-002] It is, therefore, certain that in <span class="sc">A. D.</span> 1030 the Purāṇas were, as now, eighteen in number, and were regarded as coming down from immemorial antiquity when the mythical Ṛishis lived.
 
 > _[Margin: Bāṇa.]_
+
 Bāṇa, the author of the *Harsha-Charita*, or panegyric on King Harsha, who wrote about <span class="sc">A. D.</span> 620, carries the proof of the antiquity of the Purāṇas four centuries further back. When he went home to his village on the Sōn river, in the country now known as the Shāhābād District, he listened to Sudṛishṭi, who read ‘with a chant’ the *Purāṇa* described as *pavanaprokta* which may be identified with either the *Vāyu* or the *Brahmāṇḍa*.[^sec-05-fn-003] Dr. Führer believed that he could prove the use by Bāṇa of the *Agni*, *Bhāgavata*, and *Mārkaṇḍeya Purāṇas*, as well as the *Vāyu*.[^sec-05-fn-004]
 
 > _[Margin: Ancient Bengal MS.]_
+
 Independent proof of the existence of the *Skanda Purāṇa* at the same period is afforded by a Bengal manuscript of that work, ‘written in Gupta hand, to which as early a date as the middle of the seventh century can be assigned on palaeographical grounds.’[^sec-05-fn-005]
 
 > _[Margin: ‘Questions of Milinda.’]_
+
 The Purāṇas in some form were well known to the author of the ‘Questions of Milinda’ (*Milindapañha*) as ancient sacred writings grouped with the Vēdas and epic poems. Book I of that work, in which the first reference occurs, is undoubtedly part of the original composition, and was almost certainly composed earlier than <span class="sc">A. D.</span> 300.[^sec-05-fn-006]
 
 > _[Margin: Gupta dynasty.]_
+
 Many other early quotations from, or references to, the Purāṇas have been collected by Bühler, who points out that ‘the account of the future kings in the *Vāyupurāṇa*, *Vishṇupurāṇa*, *Matsyapurāṇa*, and *Brahmāṇḍapurāṇa* seems to stop with the imperial Guptas and their contemporaries’.[^sec-05-fn-007] Bühler speaks of ‘future kings’, because all the historical statements of the Purāṇas are given in the form of prophecy, in order to maintain the appearance of great antiquity in the books, which in their oldest forms were undoubtedly very ancient.
 
 > _[Margin: Mr. Pargiter’s results.]_
+
 Mr. F. E. Pargiter in his valuable work, *The Dynasties of the Kali Age* (Clarendon Press, 1913), has succeeded in obtaining more definite results. He suggests that the *Bhavishya Purāṇa* in its early form was the original authority from which the *Matsya*, *Vāyu*, and *Brahmāṇḍa Purāṇas* derived their dynastic lists. The *Vāyu* and *Brahmāṇḍa* were originally one, and have become differentiated. The versions of the lists as now found in the *Matsya*, *Vāyu*, and *Brahmāṇḍa Purāṇas* ‘grew out of one and the same original text.’ But the *Matsya* version is in some respects the best of those three, notwithstanding that it includes additions of later date. The *Vishṇu* and *Bhāgavata Purāṇas* are [p. 24] later condensed redactions, and the *Bhavishya* in its existing form, which has been freely corrupted and interpolated, is worthless for historical purposes. Those purposes are served chiefly by the *Matsya*, *Vāyu*, and *Brahmāṇḍa*. There are clear indications that the Sanskrit account of the dynasties as it now stands in these three works is an adaptation of older Prākrit *ślokas*, or verses; and there is some reason for suspecting that the most ancient text was originally written in the Kharoshṭhī script.
 
 Mr. Pargiter holds that the first compilation of the historical matter may have been made in the reign of the Āndhra king, Yajñaśrī, about the end of the second century after Christ; that the first certain compilation was made in the original *Bhavishya Purāṇa* about <span class="sc">a. d.</span> 260; that the *Bhavishya* account was revised about <span class="sc">a. d.</span> 315–20 and inserted in MS. *e Vāyu*; that the same account was again revised a few years later, about <span class="sc">a. d.</span> 325–30, and inserted in the other *Vāyu* MSS. as well as in the *Brahmāṇḍa*, so that those *Purāṇas* have preserved the contents of the *Bhavishya* at the date last named. The *Matsya* version seems to preserve the *Bhavishya* text in a slightly earlier stage, dating from about the last quarter of the third century.
@@ -521,6 +573,7 @@ Keith traverses all Pargiter's theories, and holds that *bhavishya* simply means
 Mr. Pargiter's treatise is based on the collation of sixty-three MSS., and deserves careful study. It cites other authorities fully.
 
 > _[Margin: Purāṇas in fourth century <span class="sc">b. c.</span>]_
+
 I may add that *Purāṇas* in some shape were already authoritative in the fourth century <span class="sc">b. c.</span> The author of the *Arthaśāstra* ranks the *Atharvaveda* and *Itihāsa* as the fourth and fifth Vedas (Bk. I, ch. 3); and directs the king to spend his afternoons in the study of *Itihāsa*, which is defined as comprising six factors, namely, (1) *Purāṇa*, (2) *Itivṛitta* (history), (3) *Ākhyāyika* (tales), (4) *Udāharaṇa* (illustrative stories), (5) *Dharmaśāstra*, and (6) *Arthaśāstra* (Bk. I, ch. 5).
 
 
@@ -546,43 +599,54 @@ I may add that *Purāṇas* in some shape were already authoritative in the four
 
 #### *The Chinese Pilgrims.*
 
-> _[Locus: Chinese names; Fa-hien.]_
+> _[Margin: Chinese names; Fa-hien.]_
+
 The transliteration of Chinese names presents such difficulties, owing to many reasons, that much variation exists in practice. The name of the first pilgrim is variously spelled as Fâ-Hien (Legge); Fa-hian (Laidlay, Beal); and Fa-Hsien (Giles and Watters). In this volume Legge's spelling has been adopted, [p. 25] omitting the long vowel mark, which is not used by the other scholars named.
 
 Fa-hien’s work, entitled *Fo-kuo-ki* (or ‘Record of Buddhistic Kingdoms’), covers the period from <span class="sc">a. d.</span> 399 to 414.[^sec-06-fn-001]
 
 > _[Margin: French version.]_
+
 The early French version by Messrs. Rémusat, Klaproth, and Landresse (1836) was translated into English by J. W. Laidlay, and published anonymously at Calcutta in 1848, with additional notes and illustrations, which still deserve to be consulted.
 
 > _[Margin: Beal’s versions.]_
+
 Beal issued an independent version in a small volume, entitled *Buddhist Pilgrims*, published in 1869, which was disfigured by many errors. His amended and much improved rendering appeared in the first volume of *Buddhist Records of the Western World* (Trübner’s Oriental Series, Boston, 1885); but the notes to the earlier version were not reprinted in full.
 
 > _[Margin: Giles’s version.]_
+
 The translation by Giles, which appeared at London and Shanghai in 1877, is intermediate in date between Beal’s two versions; and the notes, which are largely devoted to incisive criticisms on the early work of Beal, contain little to help the reader who desires to study the pilgrim’s observations from an Indian point of view. But Giles’s scarce little volume is of value as an independent rendering of the difficult Chinese text by a highly qualified linguist. Certain errors in his work were corrected by Watters in his articles ‘Fa-hsien and his English Translators’, in the *China Review*, vol. viii.
 
 > _[Margin: Legge’s version.]_
+
 The latest translation, that of Legge (Oxford, Clarendon Press, 1886), is on the whole the most serviceable; the author having had the advantage of using his predecessors’ labours. The notes, however, leave much to be desired. The final translation of Fa-hien’s *Travels*, equipped with an up-to-date commentary adequately fulfilling the requirements of both Chinese and Indian scholarship, has not yet appeared; and the production of such a work by a single writer is almost impossible.
 
 > _[Margin: Name of Hiuen Tsang.]_
+
 The proper spelling of Hiuen Tsang’s name has been the subject of considerable discussion; and the variation in practice has been, and still is, very great.[^sec-06-fn-002]
 
 The question may be considered as settled, so far as such matters can be settled, by the ruling of Professor Chavannes that ‘deux orthographes sont admissibles; ou bien l’orthographe scientifique *Hiuen-Tsang*, ou bien l’orthographe conforme à la prononciation pékinoise *Hiuen-tchoang* [=*chwāng* in English]’.[^sec-06-fn-003] It must, of course, be remembered that to a French reader the [p. 26] initial *H* is in practice silent. Professor de Lacouperie also held that Hiuen Tsang was the best mode of spelling the name, and I have therefore adopted it. Beal's spelling, Hiuen Tsiang, which his books have made more or less familiar to English readers, is nearly the same.
 
 > _[Margin: Julien's and Beal's versions.]_
+
 M. Stanislas Julien's great work, which included a French version of both the *Life* and *Travels* of Hiuen Tsang (3 vols., Paris, 1853–8), has never been superseded; but it is now very scarce and difficult to obtain. Beal's English version of the *Travels* appeared in 1885 in the volumes already cited; and was followed in 1888 by a translation of the *Life*. The notes were supplied to a large extent by Burgess. The student of Indian history finds himself compelled sometimes to consult both the French and English versions. The commentary in both is now out of date; but the deficiencies have been supplied in considerable measure by a work compiled by Watters, entitled *On Yuan Chwang's Travels in India* (R. As. Soc., 1904–5, 2 vols.). An adequate annotated translation of the *Life* and *Travels* of Hiuen Tsang would require the co-operation of a syndicate of scholars. The first draft of his book, the *Ta Táng-Hsi-yü-chi*, ‘Records of Western Lands of the Great Tàng Period’, was presented to the Emperor in 646, but the book, as we have it now, was not completed until 648. It was apparently copied and circulated in MS. in its early form during the author's life, and for some time after. There are several editions, which present considerable variations in both the text and the supplementary notes and explanations. The ‘Han-shan’ recension, which seems to be the only one hitherto known to Western scholars, is substantially a modern Soochow reprint of an edition of the Ming period. Three other editions were consulted by Watters, who has noted the more important variant readings (*On Yuan Chwang*, ch. 1). The pilgrim's route can be traced by the help of the Itinerary and maps added by the author of this history to the second volume of Watters's book.
 
 > _[Margin: Inferior authority of Books x–xii.]_
+
 Students should not forget the fact that Bks. (*chuan*) x, xi, and xii of Hiuen Tsang's *Travels* are far inferior in authority to the earlier books. Watters's observations are as follows:— ‘According to the *Records* the pilgrim proceeded from Malakuṭa to Seng-ka-lo or Ceylon, but the *Life* represents him as merely hearing of that country. If we had only the *Records* we should be at liberty to believe that he proceeded to Ceylon, and returned thence to Draviḍa. But it is perhaps better to regard him as writing about Malakoṭṭa and Ceylon from information given to him in Draviḍa, and from books. There seems to be much in *Chuan* x and xi that is not genuine, and it may be observed that in certain old texts like C these two *chuan* are given without mention of Pien-chi as compiler. They are also, together with *Chuan* xii, marked by the character *yi*, meaning *doubtful*. It does [p. 27] not seem, therefore, to be necessary to dwell much on the curious legends and descriptions given in this part of the *Records*' (vol. II, p. 233).
 
 > _[Margin: Song-yun and Ū-k'ong.]_
+
 The small work descriptive of the mission of Song-yun and Hwei-Săng, early in the sixth century, has been translated by Beal in the first volume of *Records*. A revised critical translation in French, fully annotated, has been published by Chavannes.[^sec-06-fn-004]
 
 The itinerary of Ū-k'ong (Ou-k'ong), who travelled in the eighth century, has been translated by Sylvain Lévi and Chavannes.[^sec-06-fn-005]
 
 > _[Margin: Sixty pilgrims in seventh century.]_
+
 The latter scholar has published (Paris, 1894) an admirably edited version of a work by I-tsing (Yi-tsing), entitled *Les Religieux éminents qui allèrent chercher la loi dans les pays d'occident*, which gives an account of no less than sixty Chinese Buddhist pilgrims who visited India in the latter half of the seventh century.
 
 > _[Margin: I-tsing.]_
+
 I-tsing, who died in <span class="sc">A. D.</span> 713, at the age of seventy-nine, was himself a pilgrim of no small distinction. 'This great monk, no less famous in the Buddhist world of China than Hiuen Thsang with whom we are more familiar, was pre-eminently a scholar and the best Sanskritist amongst the Chinese pilgrims whose writings have yet reached us. His stay at the centres of learning in the Hindu colonies of Sumatra, and ten years' study at the university of Nalanda under the greatest professors of the time, gave him an intimate knowledge of the methods of the teaching of Sanskrit and the complete curriculum in vogue in those days, and enabled him to describe them in faithful detail. The unique treatment of the subject forms the thirty-fifth chapter of *The Records of Buddhist Practices in India*.'[^sec-06-fn-006] His interesting work, *A Record of the Buddhist Religion as practised in India and the Malay Archipelago* (<span class="sc">A. D.</span> 671–95), has been skilfully translated by J. Takakusu (Oxford, Clarendon Press, 1896). This book, while invaluable for the history of Buddhism and Sanskrit literature, contributes little to the materials for political history.
 
 
@@ -610,40 +674,51 @@ I-tsing, who died in <span class="sc">A. D.</span> 713, at the age of seventy-ni
 ##### 600 <span class="sc">b. c.</span> TO 326 <span class="sc">b. c.</span>
 
 > _[Margin: History limited by chronology.]_
+
 <span class="sc">The</span> political history of India begins for an orthodox Hindu more than three thousand years before the Christian era with the famous war waged on the banks of the Jumna, between the sons of Kuru and the sons of Pāṇḍu, as related in the vast epic known as the Mahābhārata.[^sec-07-fn-001] But the modern critic fails to find sober history in bardic tales, and is constrained to travel down the stream of time much farther before he comes to an anchorage of solid fact. In order to be available for the purpose of history, events must be susceptible of arrangement in definite chronological order, and capable of being dated approximately, if not exactly. Facts to which dates cannot be assigned, although they may be invaluable for the purposes of ethnology, philology, and other sciences, are of no use to the historian. Modern research has brought to light innumerable facts of the highest scientific value concerning prehistoric India, but the impossibility of assigning dates to the phenomena discovered excludes them from the domain of the historian, whose vision cannot pass the line which separates the dated from the undated.
 
 > _[Margin: Beginning of historical period.]_
+
 That line, in the case of India, may be drawn, at the earliest, through the middle of the seventh century <span class="sc">b. c.</span> ; a period of progress, marked by the development of maritime commerce, and probably by the diffusion of a knowledge of the art of writing. Up to about that time the inhabitants of India, even the most intellectual races, seem to have been [p. 29] generally ignorant of the art of writing, and to have been obliged to trust to highly trained memory for the transmission of knowledge.[^sec-07-fn-002]
 
 > _[Margin: Sixteen states in N. India.]_
+
 In those days vast territories were still covered by forest, the home of countless wild beasts and scanty tribes of savage men ; while regions of great extent in Northern India had been occupied for untold centuries by more or less civilized communities of the higher races who, from time to time, during the unrecorded past, had pierced the mountain barriers of the north-western frontier. Practically nothing is ascertained concerning the immigration of the possibly equally advanced Dravidian races who entered India, we know not how, where, or whence, spread over the plateau of the Deccan, and extended to the extremity of the Peninsula. Our slender stock of knowledge is limited to the fortunes of the vigorous races, speaking an Aryan tongue, who poured down from the mountains of the Hindū Kush and Pāmīrs, filling the plains of the Panjāb and the upper basin of the Ganges with a sturdy and quick-witted population, unquestionably superior to the aboriginal races of those regions. The settled country between the Himalaya mountains and the Narbadā river was divided into a multitude of independent states, some monarchies and some tribal republics, owning no allegiance to any paramount power, secluded from the outer world, and free to fight among themselves. The most ancient literary traditions, compiled probably in the fourth or fifth century <span class="sc">b. c.</span>, but looking back to an older [p. 30] time, enumerate sixteen of such states or powers, extending from Gandhāra, on the extreme north-west of the Panjāb, comprising the modern districts of Peshāwar and Rāwalpindi, to Avanti or Mālwa, with its capital Ujjain, which still retains its ancient name unchanged.[^sec-07-fn-003]
 
 > _[Margin: Religion and history.]_
+
 The works of ancient Indian writers from which our historical data are extracted do not ordinarily profess to be histories, and are mostly religious treatises of various kinds. In such compositions the religious element necessarily takes the foremost place, and the secular affairs of the world occupy a very subordinate position. The particulars of political history incidentally recorded refer in consequence chiefly to the countries most prominent in the development of Indian religion.
 
 > _[Margin: Jainism and Buddhism.]_
+
 The systems which we call Jainism and Buddhism had their roots in the forgotten speculations of the prehistoric past; but, as we know them, were founded respectively by Vardhamāna Mahāvīra and Gautama Buddha. Both these philosophers, who were for many years contemporary, were born, lived, and died in or near the kingdom of Magadha, the modern South Bihār. Mahāvīra, the son of a nobleman of Vaisāli, the famous city north of the Ganges, was nearly related to the royal family of Magadha, and died at Pāwā, in the modern district of Patna, within the territory of that kingdom.
 
 Gautama Buddha, although born farther north, in the Sākya territory at the foot of the Nepāl hills,[^sec-07-fn-004] underwent his most memorable spiritual experiences at Bōdh Gayā in Magadha, and spent many years of his ministry within the limits of that state. The Buddhist and Jain books, therefore, tell us much about the Vrijjian confederacy, of which Vaisāli [p. 31] was the capital,[^sec-07-fn-005] and about Magadha, with its subordinate kingdom of Anga (Bhāgalpur).
 
 > _[Margin: Kosala and Kāsī.]_
+
 The neighbouring realm of Kosala, the modern kingdom of Oudh, was closely connected with Magadha by many ties ; and its capital Srāvastī (Savatthi), situated on the upper course of the Rāpti near the foot of the hills, was the reputed scene of many of Buddha's most striking discourses.[^sec-07-fn-006]
 
 In the sixth century <span class="sc">b. c.</span> Kosala appears to have occupied the rank afterwards attained by Magadha, and to have enjoyed precedence as the premier state of Upper India. It is therefore mentioned as often as the rival power. At the beginning of the historical period, the smaller kingdom of Kāsī, or Benares, apparently had lost its independence, and had been annexed by Kosala, with which its fortunes were indissolubly bound up. The lesser state owes its fame in the ancient books not only to its connexion with its powerful neighbour, but also to its being one of the most sacred spots in Buddhist church history, the scene of Buddha's earliest public preaching, where he first 'turned the wheel of the Law'.
 
 > _[Margin: Kings of Magadha.]_
+
 The reputation for special sanctity enjoyed by both Benares and Gayā in Magadha among orthodox Brahmanical Hindus adds little to the detailed information available, which is mainly derived from the writings of Jains and Buddhists, who were esteemed as heretics by the worshippers of the old gods. But the Brahmanical Purāṇas, compiled [p. 32] centuries later in honour of the orthodox deities,[^sec-07-fn-007] happily include lists of the Buddhist and other kings of Magadha, which had become, before the time of their compilation, the recognized centre both religious and political of India; and so it happens that the Jain, Buddhist, and Brahmanical books combined tell us much about the history of Magadha, Anga, Kosala, Kāsī, and Vaisāli, while they leave us in the dark concerning the fortunes of most other parts of India.
 
 > _[Margin: Śaiśunāga dynasty.]_
+
 In the Purānic lists the earliest dynasty which can claim historical reality is that known as the Saiśunāga, from the name of its founder Śiśunāga, or Śiśunāka.[^sec-07-fn-008]
 
 > _[Margin: *c.* 642 <span class="sc">B. C.</span>]_
+
 He was, apparently, the king, or Rāja, of a petty state, corresponding roughly with the present Patna and Gayā Districts; his capital being Rājagriha (Rājgīr), among the hills near Gayā. Nothing is known about his history, except the statement that he placed his son in Benares, and himself took up his abode at Girivraja near Rājagriha. The second, third, and fourth kings, likewise, are mere names.
 
 > _[Margin: Bimbisāra *c.* 582 <span class="sc">B. C.</span>]_
+
 The first monarch about whom anything substantial is known is Bimbisāra, or Srēnika, the fifth of his line. He is credited with the building of New Rājagriha, the outer town to the north of the ring of hills encircling the ancient fort; and with the annexation of Anga, the small kingdom to the east, corresponding with the modern district of Bhāgalpur, and probably including Monghyr (Mungir).[^sec-07-fn-009] The annexation [p. 33] of Anga was the first step taken by the kingdom of Magadha in its advance to greatness and the position of supremacy which it attained in the following century; so that Bimbisāra may be regarded as the real founder of the Magadhan imperial power. He strengthened his position by matrimonial alliances with the more powerful of the neighbouring states, taking one consort from the royal family of Kosala, and another from the influential Lichchhavi clan at Vaisāli.[^sec-07-fn-010] The latter lady was the mother of Ajātasatru, also called Kūnika, or Kūniya, the son who was selected as heir-apparent and crown prince. If our authorities may be believed, the reign of Bimbisāra lasted for twenty-eight years; and it is said that, towards its close, he resigned the royal power into the hands of his favourite son, and retired into private life.
 
 > _[Margin: Devadatta.]_
+
 Orthodox Buddhist tradition affirms that Ajātasatru, weary of awaiting the slow process of nature, murdered his father by starvation, at the instigation of Devadatta, Buddha's cousin, who figures in the legends as a malignant plotter and wicked schismatic.[^sec-07-fn-011] It is probable, however, that the story is the product of *odium theologicum*, or sectarian rancour, which has done so much to falsify the history of ancient India. Devadatta certainly refused to accept the teaching of Gautama, and, preferring that of 'the former Buddhas', became the founder and head of a rival sect, which still survived in the seventh century after Christ.[^sec-07-fn-012]
 
 
@@ -653,9 +728,11 @@ Schism has always been esteemed by the orthodox a deadly sin, and in all ages th
 There seems to be no doubt that both Vardhamāna Mahāvīra, the founder of the system known as Jainism, and Gautama, the last Buddha, the founder of Buddhism as known to later ages, were preaching in Magadha during the reign of Bimbisāra, although it is difficult to reconcile traditional dates.
 
 > _[Margin: Death of Mahāvīra and Buddha.]_
+
 The Jain saint, who was a near relative of Bimbisāra’s queen, the mother of Ajātasatru, possibly passed away towards the close of Ajātasatru’s reign, while the death of Gautama Buddha occurred in the earlier years of the same reign. There is reason to believe that the latter event took place in or about the year 543 <span class="sc">b. c.</span>[^sec-07-fn-013]
 
 > _[Margin: Interview of Buddha with Ajātaśatru.]_
+
 Gautama Buddha was certainly an old man when Ajātasatru, or Kūnika, as the Jains call him, came to the throne about 554 <span class="sc">b. c.</span>; and he had at least one interview with that king.[^sec-07-fn-014]
 
 One of the most ancient Buddhist documents narrates in detail the story of a visit paid to Buddha by Ajātasatru, who is alleged to have expressed remorse for his supposed crime, [p. 35] and to have professed his faith in Buddha, who accepted his confession of sin. The concluding passage of the tale may be quoted as an illustration of an ancient Buddhist view of the relations between Church and State.
@@ -677,53 +754,69 @@ One of the most ancient Buddhist documents narrates in detail the story of a vis
 ‘Thus spake the Blessed One. The brethren were pleased and delighted at his words.’[^sec-07-fn-015]
 
 > _[Margin: Comment.]_
+
 It is difficult to sympathize with the pleasure and delight of the brethren. The stern and fearless reprobation of a deed of exceptional atrocity which we should expect from a great moral teacher is wholly wanting in Buddha’s words, and is poorly compensated for by the politeness of a courtier. But, as stated above, it is difficult to accept the story of the parricide as historically true; and our doubts are not lessened when the Ceylonese chronicler asks us to believe that Ajātasatru was followed in due course by four other parricide kings, of whom the last was dethroned by his minister, with the approval of a justly indignant people. The fact that the history of Parthia presents a nearly exact parallel in the succession of three parricide monarchs is of little value in establishing the credibility of the Buddhist tradition.[^sec-07-fn-016] Probably Ajātasatru, like many later Indian sovereigns, did not confine his royal favour to any one sect, but at different times patronized the followers of the ‘former Buddhas’ led by Devadatta, the adherents of Gautama’s reformed Buddhism, and the Jains. Later when in consequence of Asoka’s patronage Buddhism became pre-eminent in northern India, [p. 37] leanings towards Jainism became criminal in the eyes of ecclesiastical chroniclers, who were ready to blacken the memory of persons deemed heretical with unfounded accusations of the gravest character.
 
 > _[Margin: War with Kosala.]_
+
 One of the chief events of Ajātasatru's reign was a war with the aged king of Kosala, whose sister was the queen of Bimbisāra. Fortune in the contest inclined, now to one side, and now to another ; and on one occasion, it is said, Ajātasatru was carried away as a prisoner in chains to his opponent's capital. Ultimately peace was concluded, and a princess of Kosala was given in marriage to the king of Magadha. The facts of the struggle are obscure, being wrapped up in legendary matter from which it is impossible to disentangle them ; but the probability is that Ajātasatru won for Magadha a decided preponderance over its neighbour of Kosala. It is certain that the latter kingdom is not again mentioned as an independent power, and that in the fourth century <span class="sc">b. c.</span> it formed an integral part of the Magadhan empire.
 
 > _[Margin: Conquest of Vaisāli.]_
+
 The ambition of Ajātasatru, not satisfied with the humiliation of Kosala, next induced him to undertake the conquest of the country to the north of the Ganges, now known as Tirhūt, in which the Lichchhavi clan, famous in Buddhist legend, and probably of Tibetan origin, then occupied a prominent position. The invasion was successful ; the Lichchhavi capital, Vaisāli, was occupied, and Ajātasatru became master of his maternal grandfather's territory.[^sec-07-fn-017] It may be presumed that the invader carried his victorious arms to their natural limit, the foot of the mountains, and that from this time the whole region between the Ganges and the Himalaya became subject, more or less directly, to the suzerainty of Magadha.
 
 > _[Margin: Foundation of Pāṭaliputra.]_
+
 The victor erected a fortress at the village of Pātali on the northern bank of the Sōn near its confluence with the Ganges [p. 38] to curb his Lichchhavi opponents. The foundations of a city nestling under the shelter of the fortress were laid by his grandson Udaya. The city so founded, including settlements of various ages, not precisely on one site, was known variously as Kusumapura, Pushpapura, or Pātaliputra, and rapidly developed in size and magnificence; until, under the Maurya dynasty, it became the capital, not only of Magadha, but of India.[^sec-07-fn-018]
 
 > _[Margin: Massacre of the Śākyas.]_
+
 Buddha, as has been mentioned above, died in the reign of Ajātasatru, in the eighth year of the reign, according to the *Mahāvaṁśa*, which cannot be relied on for details.[^sec-07-fn-019] Shortly before his death, Kapilavastu, his ancestral home, was captured by Virūdhaka, king of Kosala, who is alleged to have perpetrated a ferocious massacre of the Sākya clan to which Buddha belonged. The story is so thickly encrusted with miraculous legend that the details of the event cannot be ascertained, but the coating of miracle was probably deposited upon a basis of fact, and we may believe that the Sākyas suffered much at the hands of Virūdhaka.[^sec-07-fn-020]
 
 > _[Margin: *cir.* 527 <span class="sc">B. C.</span> Darsaka.]_
+
 When Ajātasatru died (*cir.* 527 <span class="sc">b. c.</span>), he was succeeded, according to the Purāṇas, by a son named Darsaka, who was in turn succeeded by his son Udaya.[^sec-07-fn-021] The Buddhist books [p. 39] erroneously omit the intermediate name, and represent Udaya as the son and immediate successor of Ajātasatru. The reality of the existence of Darsaka, as king of Magadha, with his capital at Rājagriha, is established by the discovery of a play named *Svapnavāsavadatta*, attributed to Bhāsa, perhaps in the third century after Christ, which represents Darsaka as the contemporary of Udayana, king of Vatsa, and Mahāsena (*alias* Pradyota), king of Avanti, or Ujjain.[^sec-07-fn-022]
 
 > _[Margin: Udaya, &c., *cir.* 503 <span class="sc">b. c.</span>]_
+
 The reign of Udaya may be assumed to have begun about 503 <span class="sc">b. c.</span> The tradition that he built Pātaliputra, or more accurately, the adjoining town of Kusumapura, is all that is known about him.
 
 > _[Margin: Persian conquests.]_
+
 If the chronology adopted in this chapter be even approximately correct, Ajātasatru's son, Darsaka, and his grandson, Udaya, must be regarded as the contemporaries of Darius, the son of Hystaspes, autocrat of the Persian Empire from 521 to 485 <span class="sc">b. c.</span> Darius, who was a very capable ruler, employed his officers in the exploration of a great part of Asia by means of various expeditions.
 
 > _[Margin: *cir.* 500 <span class="sc">b. c.</span>]_
+
 One of these expeditions was dispatched at some date later than 516 <span class="sc">b. c.</span> to prove the feasibility of a passage by sea [p. 40] from the mouth of the Indus to Persia. The commander, Skylax of Karyanda in Karia, managed somehow to equip a squadron on the waters of the Panjāb rivers in the Gandhāra country, to make his way down to the ocean, and ultimately, in the thirteenth month, to reach the Red Sea. The particulars of his adventurous voyage have been lost, but we know that the information collected was of such value that, by utilizing it, Darius was enabled to annex the Indus valley, and to send his fleets into the Indian Ocean. The archers from India formed a valuable element in the army of Xerxes, and shared the defeat of Mardonius at Plataea (479 <span class="sc">b. c.</span>).
 
 > _[Margin: The Indian satrapy.]_
+
 The conquered provinces were formed into a separate satrapy, the twentieth, which was considered the richest and most populous province of the empire. It paid the enormous tribute of 360 Euboic talents of gold-dust, or 185 hundredweights, worth fully a million sterling, and constituting about one-third of the total bullion revenue of the Asiatic provinces. Although the exact limits of the Indian satrapy cannot be determined, we know that it was distinct from Arīa (Herāt), Arachosia (Kandahār), and Gandaria (North-western Panjāb). It must have comprised, therefore, the course of the Indus from Kālabāgh to the sea, including the whole of Sind, and perhaps included a considerable portion of the Panjāb east of the Indus. But when Alexander invaded the country, nearly two centuries later, the Indus was the boundary between the Persian empire and India, and both the Panjāb and Sind were governed by numerous native princes.[^sec-07-fn-023] In ancient times the courses of the rivers were [p. 41] quite different from what they now are, and vast tracts in Sind and the Panjāb, now desolate, were then rich and prosperous.[^sec-07-fn-024] This fact largely explains the surprising value of the tribute paid by the twentieth satrapy.
 
 > _[Margin: ?470 <span class="sc">b. c.</span>]_
 > _[Locus: 413 <span class="sc">b. c.</span>]_
+
 According to the Purānic lists Udaya's successors were Nandivardhana and Mahānandin, both of whom are shadowy figures, mere *nominis umbrae*.[^sec-07-fn-025] The long reigns attributed to them, of forty (or forty-two) and forty-three years respectively, total eighty-three or eighty-five years, are not likely to be correct. The names of both kings, *Nandivardhana* and *Mahānandin*, seem to justify the inference that they were Nandas; and Mahānandin, the last of the dynasty, is said to have had by a Sūdra, or low-caste, woman a son named Mahāpadma Nanda, who usurped the throne, and so established the Nanda family or dynasty. This event may be dated in or about 413 <span class="sc">b. c.</span>
 
 > _[Margin: The Nandas.]_
+
 At this point all our authorities become unintelligible and incredible. According to the Purāṇas the last two kings of the Saiśunāga dynasty were followed by the ‘Nine Nandas’, namely king Mahāpadma (eighty-eight years) and his eight sons (twelve years), of whom the first was named Sukalpa, [p. 42] with variants.[^sec-07-fn-026] These two generations are thus supposed to have reigned for a century. It is clear that the history has somehow been falsified and that the chronology cannot be correct. The Jains, doing still greater violence to reason, extend the duration of the dynasty to 155 years, while the Buddhist Mahāvaṁsa, Dīpavaṁsa, and Asokāvadāna deepen the confusion by hopelessly muddled and contradictory stories not worth repeating. Some powerful motive, possibly *odium theologicum*, as in other cases, must have existed for the distortion of the history of the so-called ‘Nine Nandas’ in all forms of the tradition.[^sec-07-fn-027]
 
 > _[Margin: Greek accounts.]_
 > _[Locus: 326 <span class="sc">b. c.</span>]_
+
 The Greek and Roman historians, who derived their information from either Megasthenes or the companions of Alexander, and thus rank as contemporary witnesses reported at second-hand, throw a little light on the real history. When Alexander was stopped in his advance at the Hyphasis in 326 <span class="sc">b. c.</span>, he was informed by a native chieftain named Bhagala or Bhagēla, whose statements were confirmed by Pōros, that the king of the Gangaridae and Prasii nations on the banks of the Ganges was named, as nearly as the Greeks could catch the unfamiliar sounds, Xandrames or Agrammes. This monarch was said to command a force of 20,000 horse, 200,000 foot, 2,000 chariots, and 3,000 or 4,000 elephants. Inasmuch as the capital of the Prasii nation undoubtedly was Pātaliputra, the reports made to Alexander can have referred only to the king of Magadha, who must have been one of the Nandas mentioned in native tradition.[^sec-07-fn-028] The reigning king was alleged to be extremely unpopular, owing to his wickedness and base origin. He was, it is said, the son of a barber, who, having become the paramour of the queen of the last legitimate sovereign, contrived the king’s death, and, under pretence of acting as [p. 43] guardian to his sons, got them into his power, and exterminated the royal family. After their extermination he begat the son who was reigning at the time of Alexander's campaign, and who, ‘more worthy of his father's condition than his own, was odious and contemptible to his subjects.’[^sec-07-fn-029]
 
 > _[Margin: Indian traditions.]_
+
 This story confirms the statements of the Purāṇas that the Nanda dynasty was of ambiguous origin and comprised only two generations. The oldest Purāṇa brands the first Nanda, Mahāpadma, as a prince, ‘urged on by prospective fortune’, whose reign marked the end of the Kshatriya, or high born, kings, and the beginning of the rule of those of low degree, ranking as Sūdras. The Mahāvaṁsa, when it dubs the last Nanda by the name of Dhana or ‘Riches’, seems to hint at an imputation of avariciousness against the first Nanda; and the Chinese pilgrim Hiuen Tsang also refers to the Nanda Rāja as the reputed possessor of great wealth.[^sec-07-fn-030]
 
 > _[Margin: Summary.]_
+
 By putting all the hints together we may conclude with tolerable certainty that the Nanda family really was of base origin, that it acquired power by the assassination of the legitimate king, and retained possession of the throne for two generations only. The great military power of the usurpers, as attested by Greek testimony, was the result of the conquests effected by Bimbisāra and Ajātasatru, and presumably continued by their successors; but the limits of the Nanda dominions cannot be defined, nor can the dates of the dynasty be determined with accuracy. It is quite certain that the two generations did not last for a hundred and fifty-five, and improbable that they lasted for a hundred, years; but it is impossible to determine their actual duration.[^sec-07-fn-031] [p. 44] The period of ninety-one years has been assumed as fitting into a definite chronological scheme.
 
 > _[Margin: Rise of Chandragupta Maurya. <span class="sc">c.</span> 322 <span class="sc">b. c.</span>]_
+
 However mysterious the Nine Nandas may be—if, indeed, they really were nine[^sec-07-fn-032]—there is no doubt that the last of them was deposed and slain by Chandragupta Maurya, who seems to have been an illegitimate scion of the family.[^sec-07-fn-033]
 
 Sir G. Grierson informs me that the Nandas were reputed to be bitter enemies of the Brahmans, and that their reign was therefore excluded from chronological computation by the poet Chand in the twelfth century, who used the *Ananda* ('without Nanda') form of the Vikrama era, less by ninety or ninety-one than the ordinary reckoning. The word 'nanda' seems to be used as equivalent to 'nine' (100–9 = 91). It is very probable that the Nandas were Jains and therefore hateful to the Brahmans, who would naturally regard them as unholy persons unworthy of inclusion in orthodox Hindu annals. It is unquestionable that the Nanda king dethroned by Chandragupta was a heretic in Hindu eyes, for the concluding verse of Kantilya's *Arthasāstra* (transl. by Shāma Sastri) states that 'this *Sāstra* has been made by him who from intolerance (of misrule) quickly rescued the scriptures and the science of weapons and the earth which had passed to the Nanda king'. (The text is quoted by R. K. Mukerji in Introd., p. xiii, to N. N. Law, *Studies in Ancient Hindu Polity.*) The supposition that the last Nanda was either a Jain or a Buddhist is strengthened by the fact that one form of the local tradition attributed to him the erection of the Pānch Pahārī at Patna, a group of ancient *stūpas* which might be either Jain or Buddhist.
@@ -733,6 +826,7 @@ Sir G. Grierson informs me that the Nandas were reputed to be bitter enemies of 
 There is no difficulty in believing the tradition that the revolution involved the extermination of all related to the fallen monarch, for revolutions in the East are not effected without much shedding of blood. Nor is there any reason to discredit the statements that the usurper was attacked by a confederacy of the northern powers, including Kashmīr, and that the attack failed owing to the Machiavellian intrigues of Chandragupta's Brahman adviser, who is variously named Chānakya, Kautilya, or Vishnugupta. But it would not be safe to rely on the details given in our only authority, a play written centuries after the events referred to; nor would there be any use in recounting the wondrous tales, mostly belonging to the world's common stock of folk-lore, which have been recorded in various books, and relate the miracles attendant upon the birth and youth of Chandragupta, the first strictly historical universal monarch of India.[^sec-07-fn-034]
 
 > _[Margin: Accession of Chandragupta.]_
+
 His accession to the throne of Magadha may be dated between 325 and 320 <span class="sc">b. c.</span>, perhaps in 322 <span class="sc">b. c.</span> The dominions of the Magadha crown were then extensive, certainly including the territories of the nations called Prasii and Gangaridae by the Greeks, and probably comprising at least the kingdoms of Kosala, Tirhūt or North Bihār, and Benares, as well as Anga and Magadha proper or South Bihār. Two or three years before the revolution at Pātaliputra, Alexander had swept like a hurricane through the [p. 46] Panjāb and Sind, and it is said that Chandragupta, then a youth, had met the mighty Macedonian.[^sec-07-fn-035] Whether that anecdote be true or not, and I see no reason to doubt its truth, it is certain that the troubles consequent upon the departure of Alexander gave young Chandragupta his opportunity. He assumed the command of the native revolt against the foreigner, and destroyed most of the Macedonian garrisons. The language of our authorities seems to imply that the destruction of the Nanda royal family preceded the attack on the foreign settlements in the basin of the Indus. The revolution was not completed in a moment, it being clear that the various stages occupied at least a year. When all opposition had been crushed by force or circumvented by guile, Chandragupta, in the vigour of his early manhood, stood forth as the unquestioned master of Northern India.[^sec-07-fn-036] But before the story of the deeds of Chandragupta Maurya and the descendants who succeeded him on the throne of Magadha can be told, we must pause to unfold the wondrous tale of the Indian adventure of ‘Philip’s warlike son’.
 
 
@@ -784,7 +878,8 @@ His accession to the throne of Magadha may be dated between 325 and 320 <span cl
 
 #### *Chronology of the Śaiśunāga and Nanda Dynasties.*
 
-> _[Locus: Fixed data.]_
+> _[Margin: Fixed data.]_
+
 Although the discrepant traditionary materials available do not permit the determination with accuracy of the chronology of the Śaiśunāga and Nanda dynasties, it is, I venture to think, possible to attain a tolerably close approximation to the truth,
 
 > ‘Nine months have over us  
@@ -796,14 +891,17 @@ Although the discrepant traditionary materials available do not permit the deter
 and to reconcile some of the traditions. The fixed point from which to reckon backwards is the year 322 <span class="sc">b. c.</span>, the date for the accession of Chandragupta Maurya, which is approximately correct, with a possible error not exceeding three years. The second principal datum is the list of ten kings of the Śaiśunāga dynasty as given in the oldest historical entries in the Purāṇas, namely, those in the *Matsya* and the *Vāyu*, the general correctness of which is confirmed by several lines of evidence; the third is the revised reading (1917) of the Khāravela inscription, referred to in note 2 on p. 44 *supra*; and the fourth is the probable date of the death of Buddha.
 
 > _[Margin: Duration of reigns.]_
+
 Although the fact that the Śaiśunāga dynasty consisted of ten kings may be admitted, neither the duration assigned by the Purāṇas to the dynasty as a whole, nor that allotted to certain reigns, can be accepted. Experience proves that in a long series an average of twenty-five years to a generation is rarely attained, and that this average is still more rarely exceeded in a series of reigns as distinguished from generations.
 
 The English series of ten reigns from Charles II to Victoria inclusive, 1649–1901 (reckoning the accession of Charles II from the death of his father in 1649), occupied 252 years, and included the two exceptionally long reigns of George III and Victoria, aggregating 124 years. The resultant average, 25·2 years per reign, may be taken as the maximum possible, and consequently 252 years are the maximum allowable for the ten Śaiśunāga reigns. The Purāṇic figures of 321 (*Matsya*) and 332 (*Vāyu*) years, obtained by adding together the durations of the several reigns, may be rejected without hesitation as being incredible. The *Matsya* account concludes with the statement, ‘These will be the ten Śaiśunāga kings. The Śaiśunāgas will endure 360 years, being kings with Kshatriya kinsfolk.’[^sec-08-fn-001] Mr. Pargiter suggests that the figures ‘360’ should be interpreted as ‘163’. If that interpretation be accepted the average length of reign would be only 16·3, and it would be difficult to make the death of Buddha (*c.* 543 <span class="sc">b. c.</span>) synchronize with the dates of his contemporaries, Bimbisāra and Ajātaśatru. It is probable that the dynasty lasted for more than two centuries.
 
 > _[Margin: Anterior limit of date.]_
+
 As stated in the text, the traditional periods assigned to the Nanda dynasty of either 100 or 155 years for two generations cannot be accepted. The A-nanda mode of reckoning, used by the poet Chand, suggests 90 or 91 years as the true period. We thus get 342 (252 + 90) as the maximum admissible period for the Śaiśunāga and Nanda dynasties combined; and, reckoning backwards from the fixed point, 322 <span class="sc">b. c.</span>, *the year 664* <span class="sc">b. c.</span> *is found to* [p. 48] be the *earliest possible* date for Śiśunāga, *the first king*. But of course the true date may be, and probably is, somewhat later, because it is extremely unlikely that twelve reigns (ten Śaiśunāga and two Nanda) should have attained an average of 25·16 years.
 
 > _[Margin: Probable actual reigns.]_
+
 The reigns of the fifth and sixth kings, Bimbisāra, or Śrēnika, and Ajātaśatru or Kūṇika, were well remembered owing to the wars and events in religious history which marked them. We may therefore assume that the lengths of those reigns were known more or less accurately, and are justified in accepting the concurrent testimony of the *Vāyu* and *Matsya* Purāṇas, that Bimbisāra reigned for twenty-eight years.
 
 Ajātaśatru is assigned twenty-five, or twenty-seven years by different Purāṇas, and thirty-two years by Tibetan and Ceylonese Buddhist tradition. I assume the correctness of the oldest Purāṇic list, that of the *Matsya*, and take his reign to have been twenty-seven years. The real existence of Darśaka (erroneously called Vaṁśaka by the *Matsya*) having been established by Bhāsa's *Svapna-Vāsavadattā*, his reign may be assigned twenty-four years, as in the *Matsya*. Udaya, who is mentioned in the Buddhist books, and is said to have built Pāṭaliputra, is assigned thirty-three years by the Purāṇas, which may pass.[^sec-08-fn-002]
@@ -813,6 +911,7 @@ The *Vāyu* and *Matsya* Purāṇas respectively assign eighty-five and eighty-t
 The evidence as far as it goes, and at best it does not amount to much, indicates that the average length of the later reigns was in excess of the normal figure. We may assume, therefore, that the first four reigns, about which nothing is known, must have been comparatively short, and did not exceed some sixty years collectively. An assumption that these reigns were longer would unduly prolong the total duration of the dynasty, the beginning of which must be dated about 642 <span class="sc">b. c.</span>
 
 > _[Margin: Traditional dates of Mahāvīra and Gautama.]_
+
 The existence of a great body of detailed traditions, which are not mere mythological legends, sufficiently establishes the facts that both Mahāvīra, the Jain leader, and Gautama Buddha were contemporary to a considerable extent with one another and with the kings Bimbisāra and Ajātaśatru.[^sec-08-fn-003]
 
 
@@ -820,6 +919,7 @@ The existence of a great body of detailed traditions, which are not mere mytholo
 The deaths of these saints form well-marked epochs in the history of Indian religion, and are constantly referred to by ecclesiastical writers for chronological purposes. It might therefore be expected that the traditional dates of the two events would supply at once the desired clue to the dynastic chronology. But close examination of conflicting traditions raises difficulties. According to Pāli tradition Mahāvīra predeceased Buddha. But other reasons support the date 467 <span class="sc">b. c.</span>, as advocated by Charpentier, and this fits in with the traditional date of Bhadrabāhu, who was the contemporary of Chandragupta Maurya.[^sec-08-fn-004] The year 527 (528–7) <span class="sc">b. c.</span>, the most commonly quoted date for the death of Mahāvīra, is merely one of several traditionary dates,[^sec-08-fn-005] but it is supported by the evidence of the Khāravela inscription. It is impossible to reconcile wholly the Jain traditions either among themselves or with the known approximate date of Chandragupta.
 
 > _[Margin: Death of Buddha, 543 <span class="sc">b. c.</span>]_
+
 The variety of dates assigned for the death of Buddha is almost past counting.[^sec-08-fn-006] Diwan Bahadur L. D. Swamikannu Pillai, working from the week-days recorded for events of Buddha's life, as given by Bigaudet, finds that they suit Tuesday, April 1, 478 <span class="sc">b. c.</span>, which, consequently, he regards as the true date of Buddha's death (*Ind. Ant.*, Oct. 1914 (vol. xliii), pp. 197–204). Three other arguments confirm the approximate date as being 487 or 486 <span class="sc">b. c.</span> :—
 
 (1) The ‘dotted record’ kept up at Canton until <span class="sc">a. d.</span> 489 showed 975 dots up to that year; 975 − 489 = 486 (Takakusu, *J. R. A. S.*, 1905, p. 51).
@@ -877,175 +977,217 @@ It is impossible to fix precise dates for the pre-Maurya kings. The following ta
 #### ALEXANDER’S INDIAN CAMPAIGN : THE ADVANCE
 
 > _[Margin: April 327 <span class="sc">b. c.</span> Passage of Hindū Kush.]_
+
 <span class="sc">Alexander the Great</span>,[^sec-09-fn-001] having completed the subjugation of Bactria, resolved to execute his cherished purpose of emulating and surpassing the mythical exploits of Dionysos, Herakles, and Semiramis by effecting the conquest of India. Towards the close of spring in the year 327 <span class="sc">b. c.</span>, when the sun had sufficiently melted the snows, he led his army, including perhaps fifty or sixty thousand Europeans, across the lofty Khāwak and Kaoshān passes of the Hindū Kush, or Indian Caucasus, and after ten days’ toil amidst the mountains emerged in the rich valley now known as the Koh-i-Dāman.[^sec-09-fn-002]
 
 > _[Margin: Alexandria under the Caucasus.]_
+
 Here, two years earlier, before the Bactrian campaign, he had founded a town, named as usual, Alexandria, as a strategical outpost to secure his intended advance. The governor of this town, whose administration had been a failure, was replaced by Nikanor, son of Parmenion, the king’s intimate friend; the population was recruited by fresh settlers from the surrounding districts; and the garrison was strengthened by a reinforcement of veterans discharged from the ranks of the expeditionary force as being unequal to the arduous labours of the coming campaign.[^sec-09-fn-003]
 
 
 <!-- page: 77 | folio: 53 -->
 > _[Margin: Nikaia.]_
+
 The important position of Alexandria, which commanded the roads over three passes, having been thus secured, in accordance with Alexander’s customary caution, the civil administration of the country between the passes and the Kophēn, or Kābul, river was provided for by the appointment of Tyriaspes as satrap. Alexander, when assured that his communications were safe, advanced with his army to a city named Nikaia, situated to the west of the modern Jalālābād, on the road from Kābul to India.[^sec-09-fn-004]
 
 > _[Margin: June or July, 327 <span class="sc">b. c.</span> Hephaistion and Perdikkas.]_
+
 Here the king divided his forces. Generals Hephaistion and Perdikkas were ordered to proceed in advance with three brigades of infantry, half of the horse guards, and the whole of the mercenary cavalry direct to India. They were required to reach the Indus, and occupy Peukelaōtis,[^sec-09-fn-005] situated in the territory now held by the Yusufzī. In all probability they marched along the valley of the Kābul river, and not through the Khyber Pass. Their instructions were couched in the spirit of the Roman maxim—‘*Parcere subiectis et debellare superbos*’.[^sec-09-fn-006]
 
 
 <!-- page: 78 | folio: 54 -->
 > _[Margin: August, 327 <span class="sc">b. c.</span> Attitude of the native chiefs.]_
+
 Most of the tribal chiefs preferred the alternative of submission, but one named Hasti (Astēs) ventured to resist. His stronghold, which held out for thirty days, was taken and destroyed. During this march eastward, Hephaistion and Perdikkas were accompanied by the king of Taxila, a great city beyond the Indus, who had lost no time in obeying Alexander’s summons, and in placing his services at the disposal of the invader. Other chiefs on the western side of the Indus adopted the same course, and, with the help of these native potentates, the Macedonian generals were enabled to make satisfactory progress in the task of bridging the Indus, which had been committed to them by their sovereign.
 
 > _[Margin: August, September, 327 <span class="sc">b. c.</span> Alexander’s flanking march.]_
+
 Alexander in person assumed the command of the second corps or division, consisting of the infantry known as hypaspists, the foot guards, the Agrianian or Thracian light infantry, the archers, the mounted lancers, and the rest of the horse guards. With this force he undertook a flanking movement through the difficult hill country north of the Kābul river, in order to subdue the fierce tribes which inhabited, as they still inhabit, that region ; and thus to secure his communications, and protect his army from attacks on the flank and rear. The difficulties of the operation due to the ruggedness of the country, the fierce heat of summer, the bitter cold of winter, and the martial spirit of the hillmen, were enormous ; but no difficulties could daunt the courage or defeat the skill of Alexander.[^sec-09-fn-007]
 
 > _[Margin: Details of his route unknown.]_
+
 Although it is absolutely impossible to trace his movements with precision, or to identify with even approximate certainty the tribes which he encountered, or the strongholds which he captured and destroyed in the course of some five months’ laborious marching ; it is certain that he ascended the valley of the Kūnar or Chitrāl river for a considerable distance. At a nameless town in the hills, Alexander was [p. 55] wounded in the shoulder by a dart; and the incident so enraged his troops that all the prisoners taken there were massacred, and the town was razed to the ground.[^sec-09-fn-008]
 
 > _[Margin: Second division of field-force.]_
+
 Soon after this tragedy, Alexander again divided his forces, leaving Krateros, ‘the man most faithful to him, and whom he valued equally with himself[^sec-09-fn-009]’, to complete the reduction of the tribesmen of the Kūnar valley; while the king in person led a body of picked troops against the Aspasians, who were defeated with great slaughter.
 
 > _[Margin: Entry into Bājaur.]_
+
 He then crossed the mountains and entered the valley now called Bājaur, where he found a town named Arigaion, which had been burnt and abandoned by the inhabitants. It may have stood at or near the position of Nawagai, the present chief town of Bājaur.[^sec-09-fn-010] Krateros, having completely executed his task in the Kūnar valley, now rejoined his master; and measures were concerted for the reduction of the tribes further east, whose subjugation was indispensable before an advance into India could be made with safety.
 
-> _[Locus: Final defeat of Aspasians.]_
+> _[Margin: Final defeat of Aspasians.]_
+
 The Aspasians were finally routed in a second great battle, losing, it is said, more than 40,000 prisoners, and 230,000 oxen. The perfection of the arrangements by which Alexander maintained communication with his remote European base is strikingly illustrated by the fact that he selected the best and handsomest of the captured cattle, and sent them to Macedonia for use in agriculture.
 
 > _[Margin: Nysa.]_
+
 A fancied connexion with Dionysos and the sacred Mount Nysa of Greek legend gave special interest to the town and [p. 56] hill-state called Nysa, which was among the places next attacked.[^sec-09-fn-011] An attempt to take the town by assault having failed by reason of the depth of the protecting river, Alexander was preparing to reduce it by blockade when the speedy submission of the inhabitants rendered further operations unnecessary. They are alleged to have craved his clemency on the ground that they were akin to Dionysos and the Greeks, because the ivy and vine grew in their country, and the triple-peaked mountain which overshadowed their town was no other than Mount Mēros. Alexander, who found such fancies useful as a stimulant to his home-sick troops, did not examine the evidence for the kinship with Dionysos in too critical a spirit, but was glad to accept the Nysaean appeals and to exercise a gracious clemency.
 
 > _[Margin: Revels.]_
+
 In order to gratify his own curiosity, and to give some of his best troops a pleasant holiday, he paid a visit to the mountain, probably that now known as the Koh-i-Mōr, accompanied by an adequate escort of the companion cavalry and foot guards. The chants and dances of the natives, the ancestors of the Kāfirs of the present day, bore sufficient resemblance to the Bacchanalian rites of Hellas to justify the claims made by the Nysaeans, and to encourage the soldiers in their belief that, although far from home, they had at last found a people who shared their religion and might be regarded as kinsmen. Alexander humoured the convenient delusion and allowed his troops to enjoy, with the help of their native friends, a ten days' revel in the jungles. The Nysaeans, on their part, showed their gratitude for the clemency which they had experienced by contributing a contingent of three hundred horsemen, who remained with Alexander throughout the whole period of his advance and were not sent home until October, 326 <span class="sc">B. C.</span>, when he was about to start on his voyage down the rivers to the sea.[^sec-09-fn-012]
 
 
 <!-- page: 81 | folio: 57 -->
 > _[Margin: The Assakēnoi and Massaga.]_
+
 Alexander now undertook in person the reduction of the formidable nation called the Assakēnoi, who were reported to await him with an army of 20,000 cavalry, more than 30,000 infantry, and thirty elephants. Quitting the Bājaur territory, Alexander crossed the Gouraios (Panjkora) river, with a body of picked regiments, including, as usual, a large proportion of mounted troops, and entered the Assakenian territory, in order to attack Massaga, the greatest city of those parts and the seat of the sovereign power. This formidable fortress, probably situated not very far to the north of the Malakand Pass, but not yet precisely identified, was strongly fortified by both nature and art.[^sec-09-fn-013] On the east, an impetuous mountain stream, flowing between steep banks, barred access; while, on the south and west, gigantic rocks, deep chasms, [p. 58] and treacherous morasses impeded the approach of an assailing force. Where nature failed to give adequate protection, art had stepped in, and had girdled the city with a mighty rampart, built of brick, stone, and timber, about four miles (35 *stadia*) in circumference, and guarded by a deep moat (*Q. Curtius*, viii, 10). While reconnoitring these formidable defences, and considering his plan of attack, Alexander was again wounded by an arrow. The wound was not very serious, and did not prevent him from continuing the active supervision of the siege operations, which were designed and controlled throughout by his master mind.
 
 > _[Margin: Storm of the fortress.]_
+
 Commanded by such a general the meanest soldier becomes a hero. The troops laboured with such zeal that within nine days they had raised a mole level with the ground sufficient to bridge the moat, and to allow the movable towers and other engines to approach the walls. The garrison was disheartened by the death of their chief, who was killed by a blow from a missile discharged by an engine, and the place was taken by storm. Kleophis, the consort of the slain chieftain, and her infant son were captured, and it is said that she subsequently bore a son to Alexander.[^sec-09-fn-014]
 
 > _[Margin: Massacre of mercenaries.]_
+
 The garrison of Massaga had included a body of 7,000 mercenary troops from the plains of India. Alexander, by a special agreement, had granted these men their lives on condition that they should change sides and take service in his ranks. In pursuance of this agreement, they were allowed to retire and encamp on a small hill facing, and about nine miles (80 *stadia*) distant from, the Macedonian camp. The mercenaries, being unwilling to aid the foreigner in the subjugation of their countrymen, desired to evade the unwelcome obligation which they had incurred, and proposed to slip away by night and return to their homes. Alexander, [p. 59] having received information of their design, suddenly attacked the Indians while they reposed in fancied security and inflicted severe loss upon them. Recovering from their surprise, the mercenaries formed themselves into a hollow circle, with the women and children in the centre, and offered a desperate resistance, in which the women took an active part. At last, the gallant defenders were overpowered by superior numbers, and, in the words of an ancient historian, ‘met a glorious death which they would have disdained to exchange for a life with dishonour.’ The unarmed camp followers and the women were spared.[^sec-09-fn-015]
 
 > _[Margin: Comment.]_
+
 This incident, which has been severely condemned by various writers, ancient and modern, as a disgraceful breach of faith by Alexander, does not seem to have been, as supposed by Diodorus, the outcome of implacable enmity felt by the king against the mercenaries. The slaughter of the contingent was rather, as represented by Arrian, the tremendous penalty for a meditated breach of faith on the part of the Indians, and, if this explanation be true, the penalty cannot be regarded as altogether undeserved. While the accession of seven thousand brave and disciplined troops would have been a welcome addition to Alexander’s small army, the addition of such a force to the enemy in the plains would have been a serious impediment to his advance; and he was, I think, justified in protecting himself against such a formidable increase of the enemy’s strength.
 
 > _[Margin: Retirement of tribes to Aornos.]_
+
 Alexander next captured a town called Ora or Nora, and occupied an important place named Bazira, the inhabitants of which, with those of other towns, had retired to the stronghold of Aornos near the Indus.[^sec-09-fn-016] The desire of Alexander to capture this position, believed to be impregnable, was based upon military exigencies, and fired by a legend that the demi-god, Herakles, whom he claimed as an ancestor, had been baffled by the defences.
 
 > _[Margin: Descrip tion of Aornos.]_
+
 The mountain, according to Diodorus, was washed on the [p. 60] southern face by the Indus, the greatest of Indian rivers, which at this point was very deep, and enclosed by rugged and precipitous rocks, forbidding approach from that side. On the other sides, as at Massaga, ravines, cliffs, and swamps presented obstacles sufficient to daunt the bravest assailant. Arrian states that a single path gave access to the summit, which was well supplied with water, and comprised arable land requiring the labour of a thousand men for its cultivation. The summit was crowned by a steeply scarped mass of rock, which formed a natural citadel, and, doubtless, was further protected by art.[^sec-09-fn-017]
 
 > _[Margin: Preliminary operations.]_
+
 Before undertaking the siege of this formidable stronghold, Alexander with his habitual foresight, secured his rear by placing garrisons in the towns of Ora, Massaga, Bazira, and Orobatis, in the hills of Suwāt and Bunēr.
 
 He further isolated the fortress by personally marching [p. 61] down into the plains, probably through the Shāhkōt Pass,[^sec-09-fn-018] and receiving the submission of the important city of Peukelaōtis (Chārsadda), and the surrounding territory, now known as the Yusufzī country. During this operation he was assisted by two local chiefs. He then made his way somehow to Embolima, a small town on the Indus, at the foot of Aornos, and there established a dépôt under the command of Krateros. In case the assault should fail, and the siege be converted into a blockade, this dépôt was intended to serve as a base for protracted operations should such prove to be necessary.
 
-> _[Margin: Reconnais- sance.]_
+> _[Margin: Reconnaissance.]_
+
 Having thus deliberately made his dispositions for the siege, Alexander spent two days in careful personal reconnaissance of the position with the aid of a small force, chiefly consisting of light-armed troops. Assisted by local guides, whose services were secured by liberal reward, Ptolemy, the son of Lagos, secured a valuable foothold on the eastern spur of the mountain, where he entrenched his men. An attempt made by the king to support him having been frustrated, this failure led to a vigorous attack by the Indians on Ptolemy's entrenchments, which was repulsed after a hard fight.
 
 > _[Margin: Construction of approach.]_
+
 A second effort made by Alexander to effect a junction with his lieutenant, although stoutly opposed by the besieged, was successful; and the Macedonians were now in secure possession of the vantage-ground from which an assault on the natural citadel could be delivered.
 
 The task before the assailants was an arduous one, for the crowning mass of rock did not, like most eminences, slope gradually to the summit, but rose abruptly in the form of a steep cone. Examination of the ground showed that a direct attack was impossible until some of the surrounding ravines should be filled up. Plenty of timber being available in the adjoining forests, Alexander resolved to use this material to form a pathway. He himself threw the first [p. 62] trunk into the ravine, and his act was greeted with a loud cheer signifying the keenness of the troops, who could not shrink from any labour, however severe, to which their king was the first to put his hand.
 
 > _[Margin: Evacuation by garrison.]_
+
 Within the brief space of four days Alexander succeeded in gaining possession of a small hill on a level with the rock, and in thus securing a dominant position. The success of this operation convinced the garrison that the capture of the citadel was merely a question of time, and negotiations for capitulation on terms were begun.
 
 The besieged, being more anxious to gain time for escape than to conclude a treaty, evacuated the rock during the night, and attempted to slip away unobserved in the darkness. But the unsleeping vigilance of Alexander detected the movement, and partially defeated their plans. Placing himself at the head of 700 picked men, he clambered up the cliff the moment the garrison began to retire and slew many.
 
 > _[Margin: Macedonian garrison posted.]_
+
 In this way the virgin fortress, which even Herakles had failed to win, became the prize of Alexander. The king, justly proud of his success, offered sacrifice and worship to the gods, dedicated altars to Athēnē and Nikē, and built a fort for the accommodation of the garrison which he quartered on the mountain. The command of this important post was entrusted to Sisikottos (Sasigupta), a Hindu, who long before had deserted from the Indian contingent attached to the army of Bessus, the rebel satrap of Bactria, and had since proved himself a faithful officer in the Macedonian service.
 
 > _[Margin: Advance to Indus.]_
+
 Alexander then proceeded to complete the subjugation of the Assakenians by another raid into their country, and occupied a town named Dyrta, which probably lay to the north of Aornos. This town and the surrounding district were abandoned by the inhabitants, who had crossed the Indus, and taken refuge in the Abhisāra country, in the hills between the Hydaspes (Jihlam) and Akesinēs (Chināb) rivers.[^sec-09-fn-019] He then slowly forced his way through the forests [p. 63] down to the bridge-head at Ohind. Although the direct distance could not be great, the work of clearing a road passable for an army was so arduous that fifteen or sixteen marches were required to reach Hephaestion's camp.[^sec-09-fn-020]
 
 > _[Margin: Bridge at Ohind.]_
+
 Opinions have differed concerning the location of the bridge over the Indus, and most writers have been inclined to place it at Attock (Atak), where the river is narrowest. But the investigations of M. Foucher have clearly established the fact that the bridge, presumably constructed of boats, must have been at Ohind or Und, 16 miles above Attock.
 
 > _[Margin: January 326 <span class="sc">B. C.</span> February 326 <span class="sc">B. C.</span>]_
+
 Having arrived at the bridge-head, Alexander sacrificed to the gods on a magnificent scale, and gave his army thirty days of much needed rest, amusing them with games and gymnastic contests.[^sec-09-fn-021]
 
 > _[Margin: Embassy from Taxila.]_
+
 At Ohind Alexander was met by an embassy from Ambhi (Omphis),[^sec-09-fn-022] who had then succeeded to the throne of Taxila, the great city three marches beyond the Indus. The lately deceased king had met the invader in the previous year at Nikaia and tendered the submission of his kingdom. This [p. 64] tender was now renewed on behalf of his son by the embassy, and was supported by a contingent of 700 horse and the gift of valuable supplies comprising thirty elephants, 3,000 fat oxen, more than 10,000 sheep, and 200 talents of silver.
 
 The ready submission of the rulers of Taxila is explained by the fact that they desired Alexander’s help against their enemies in the neighbouring states. At that moment Taxila was at war both with the hill kingdom of Abhisāra, and with the more powerful state governed by the king whom the Greeks called Pōros, approximately coincident with the modern districts of Jihlam, Gujarāt, and Shāhpur.[^sec-09-fn-023]
 
 > _[Margin: February or March, 326 <span class="sc">B. C.</span> Passage of Indus.]_
+
 Spring had now begun, and the omens being favourable the refreshed army began the passage of the river one morning at daybreak; and, with the help of the Taxilan king, safely effected entrance on the soil of India, which no European traveller or invader had ever before trodden.[^sec-09-fn-024]
 
 > _[Margin: Curious incident.]_
+
 A curious incident marked the last day’s march to Taxila. When four or five miles from the city Alexander was startled to see a complete army in order of battle advancing to meet him. He supposed that treacherous opposition was about to be offered, and had begun to make arrangements to attack the Indians, when Āmbhi galloped forward with a few attendants and explained that the display of force was intended as an honour, and that his entire army was at Alexander’s disposal. When the misunderstanding had been [p. 65] removed the Macedonian force continued its advance and was entertained at the city with royal magnificence.
 
 > _[Margin: Taxila.]_
+
 Taxila, now represented by more than twelve square miles of ruins to the east and north-east of Sarai-Kala, a railway-junction twenty miles north-west of Rāwalpindī, was then one of the greatest cities of the east, and was famous as the principal seat of Hindu learning in Northern India, to which scholars of all classes flocked for instruction, especially in the medical sciences.[^sec-09-fn-025]
 
 > _[Margin: Submission of Āmbhi.]_
+
 Āmbhi recognized Alexander as his lord, and received from him investiture as lawful successor of his deceased father the king of Taxila. In return for the favour shown to him by the invader, he provided the Macedonian army with liberal supplies, and presented Alexander with two [p. 66] hundred talents of coined silver,[^sec-09-fn-026] ‘three thousand oxen fatted for the shambles’, ten thousand or more sheep, and thirty elephants.[^sec-09-fn-027] Alexander, not to be outdone in generosity, bestowed on the donor a thousand talents from the spoils of war, along with many banqueting vessels of gold and silver, a vast quantity of Persian drapery, and thirty chargers caparisoned as when ridden by himself. This lavish generosity, although displeasing to Alexander’s Macedonian officers, probably was prompted more by policy than by sentiment. It purchased a contingent of 5,000 men, and secured the fidelity of a most useful ally (Q. Curtius, viii, 12; Diodorus, xvii, 86; Arrian, v, 8).
 
 > _[Margin: Rāja of Abhisāra and Pōros.]_
+
 While Alexander was at Taxila, the hill chieftain of Abhisāra, who really intended to join Pōros in repelling the invader (Diodorus, xvii, 87), sent envoys who professed to surrender to Alexander all that their master possessed. This mission was favourably received, and Alexander hoped that Pōros would display complaisance equal to that of his ally. But a summons sent requiring him to do homage and pay tribute was met with the proud answer that he would indeed come to his frontier to meet the invader, but at the head of an army ready for battle.
 
 > _[Margin: Advance to Hydaspes. April, 326 <span class="sc">b. c.</span>]_
 > _[Margin: May, 326 <span class="sc">b. c.</span>]_
+
 Having stayed in his comfortable quarters at Taxila for sufficient time to rest his army (Diodorus, xvii, 87), Alexander led his forces, now strengthened by the Taxilan contingent and a small number of elephants, eastward to [p. 67] meet Pōros, who was known to be awaiting him on the farther bank of the Hydaspes (Jihlam) river. The march from Taxila to Jihlam on the Hydaspes, in a south-easterly direction, a distance of about 100 or 110 miles, according to the route followed, brought the army over difficult ground and probably occupied a fortnight.[^sec-09-fn-028] The hot season was at its height, but to Alexander all seasons were equally fit for campaigning, and he led his soldiers on and on from conquest to conquest, regardless of the snows of the mountains and the scorching heat of the plains. He arrived at Jihlam early in May, and found the river already flooded by the melting of the snow in the hills. The boats which had served for the passage of the Indus, having been cut into sections and transported on wagons to be rebuilt on the banks of the Hydaspes, were again utilized for the crossing of that river (Arrian, v, 8).
 
 > _[Margin: Preparation for passage of river.]_
+
 In spite of the most elaborate preparations, the problem of the passage of the Hydaspes in the face of a superior force could not be solved without minute local knowledge; and Alexander was compelled to defer his decision as to the best feasible solution until he should have acquired the necessary acquaintance with all the local conditions. On his arrival he found the army of Pōros, fifty thousand strong, drawn up on the opposite bank. It was obvious that the horses of the cavalry, the arm upon which the Macedonian commander placed his reliance, could not be induced to clamber up the bank of a flooded river in the face of a host of elephants, and that some device for evading this difficulty must be sought.
 
 > _[Margin: Provision of boats.]_
+
 Alexander, therefore, resolved, in the words of Arrian, to ‘steal a passage’. The easiest plan would have been for the invader to wait patiently in his lines until October or November, when the waters would subside and the river might become fordable. Although such dilatory tactics did [p. 68] not commend themselves to the impetuous spirit of Alexander, he endeavoured to lull the vigilance of the enemy by the public announcement that he intended to await the change of season, and gave a colour of truth to the declaration by employing his troops in foraging expeditions and the collection of a great store of provisions. At the same time his flotilla of boats continually moved up and down the river, and frequent reconnaissances were made in search of a ford. ‘All this,’ as Arrian observes, ‘prevented Pōros from resting and concentrating his preparations at any one point selected in preference to any other as the best for defending the passage’ (v, 9). Rafts, galleys, and smaller boats were secretly prepared and hidden away among the woods and islands in the upper reaches of the river. These preliminaries occupied six or seven weeks, during which time the rains had broken, and the violence of the flood had increased. Careful study of the ground had convinced Alexander that the best chance of crossing in safety was to be found near a sharp bend in the river about 16 miles marching distance above his camp, at a point where his embarkation would be concealed by a bluff and an island covered with forest. Having arrived at this decision, Alexander acted upon it, not only, as Arrian justly remarks, with ‘marvellous audacity’, but with consummate prudence and precaution.
 
 > _[Margin: Beginning of July, 316 <span class="sc">b. c.</span> Reserve force.]_
+
 He left Krateros with a considerable force, including the Taxilan contingent of 5,000 men, to guard the camp near Jihlam, and supplied him with precise instructions as to the manner in which he should use this reserve force to support the main attack. Half-way between the standing camp and the chosen crossing-place three generals were stationed with the mercenary cavalry and infantry, and had orders to cross the river as soon as they should perceive the Indians to be fairly engaged in action. All sections of the army were kept in touch by a chain of sentries posted along the bank.
 
 > _[Margin: Night march.]_
+
 When all these precautionary arrangements had been completed, Alexander in person took command of a picked force of about 11,000 or 12,000 men, including the foot [p. 69] guards, hypaspist infantry, mounted archers, and 5,000 cavalry of various kinds, with which to effect the passage. In order to escape observation, he marched by night at some distance from the bank, and his movements were further concealed by a violent storm of rain and thunder which broke during the march. He arrived unperceived at the appointed place and found the fleet of galleys, boats, and rafts in readiness. The enemy had no suspicion of what was happening until the fleet appeared in the open river beyond the wooded island, and Alexander disembarked his force at daybreak without opposition. But when he had landed, he was disappointed to find that yet another deep channel lay in front, which must be crossed. With much difficulty a ford was found, and the infantry struggled through breast deep in the stream, while the horses swam with only their heads above water. The sole practicable road from the camp of Pōros involved a wide détour, which rendered prompt opposition impossible, and Alexander was able to deploy his dripping troops on the mainland before any attempt could be made to stop him.
 
 > _[Margin: The battle-field.]_
+
 Then, when it was too late, the son of the Indian king came hurrying up with 2,000 horse and 120 chariots. This inadequate force was speedily routed with the loss of 400 killed, and of all the chariots. Fugitives carried the disastrous news to the camp of Pōros, who moved out with the bulk of his army to give battle, leaving a guard to protect his baggage against Krateros, who lay in wait on the opposite bank. The Indian army deployed on the only ground available, the plain now known as Karrī, girdled on the north and east by low hills, and about 5 miles in width at its broadest part. The surface was a firm sandy soil well adapted for military movements even in the rainy season.
 
 > _[Margin: The Indian army.]_
+
 A stately force it was with which the Indian monarch moved forth to defend his country against the audacious invader from the west. Two hundred huge elephants, stationed at intervals of not less than a hundred feet from one another, and probably in eight ranks, formed the front [p. 70] in the centre.[^sec-09-fn-029] The chief reliance of Pōros was on these monsters who would, it was calculated, terrify the foreign soldiers and render the dreaded cavalry unmanageable. Behind the elephants stood a compact force of 30,000 infantry with projections on the wings, and files of the infantry were pushed forward in the intervals between the elephants, so that the Indian army presented ‘very much the appearance of a city—the elephants as they stood resembling its towers, and the men-at-arms placed between them resembling the lines of wall intervening between tower and tower’ (Diodorus, xvii, 87). Both flanks were protected by cavalry with chariots in front. The cavalry numbered 4,000 and the chariots 300. Each chariot was drawn by four horses, and carried six men, of whom two were archers, stationed one on each side of the vehicle, two were shield-bearers, and two were charioteers, who in the stress of battle were wont to drop the reins and ply the enemy with darts (Q. Curtius, viii, 14).
 
 > _[Margin: Indian equipment.]_
+
 The infantry were all armed with a broad and heavy two-handed sword suspended from the left shoulder,[^sec-09-fn-030] and a long buckler of undressed ox-hide. In addition to these arms each man carried either javelins or a bow. The bow is described as being
 
 > ‘made of equal length with the man who bears it. This they rest upon the ground, and pressing against it with their left foot thus discharge the arrow having drawn the string backwards: for the shaft they use is little short of being three yards long, and there is nothing which can resist an Indian archer’s shot—neither shield nor breastplate, nor any stronger defence, if such there be’ (Arrian, *Indika*, ch. xvi).
 
-But great as was the power of the Indian bow, it was too cumbrous to meet the attack of the mobile Macedonian cavalry. The slippery state of the surface prevented the archers from resting the end of their weapons firmly on the
+But great as was the power of the Indian bow, it was too cumbrous to meet the attack of the mobile Macedonian cavalry. The slippery state of the surface prevented the archers from resting the end of their weapons firmly on the [p. 72] ground, and Alexander’s horse were able to deliver their charge before the bowmen had completed their adjustments (Q. Curtius, viii, 14). The Indian horsemen, each of whom carried two javelins and a buckler, were far inferior in personal strength and military discipline to Alexander’s men (Arrian, *Anab.* v, 17).
 
 
 <!-- page: 95 | folio: 71 -->
 
 ![THE BATTLEFIELD OF THE HYDASPES B.C. 326.](../figures/fig-004_p0095.webp)
 
-
-<!-- page: 96 | folio: 72 -->
-ground, and Alexander’s horse were able to deliver their charge before the bowmen had completed their adjustments (Q. Curtius, viii, 14). The Indian horsemen, each of whom carried two javelins and a buckler, were far inferior in personal strength and military discipline to Alexander’s men (Arrian, *Anab.* v, 17).
-
 With such a force and such equipment Pōros awaited the attack of the greatest military genius whom the world has seen.
 
 > _[Margin: Alexander’s tactics.]_
+
 Alexander clearly perceived that his small force would have no chance of success in a direct attack upon the enemy’s centre, and resolved to rely on the effect of a vigorous cavalry charge against the Indian left wing. The generals in command of the 6,000 infantry at his disposal were ordered to play a waiting game, and to take no part in the action until they should see the Indian foot and horse thrown into confusion by the charge of cavalry under Alexander’s personal command.
 
-> _[Locus: First stage of battle.]_
+> _[Margin: First stage of battle.]_
+
 He opened the action by sending his mounted archers, a thousand strong, against the left wing of the Indian army, which must have extended close to the bank of the river. The archers discharged a storm of arrows and made furious charges. They were quickly followed by the Guards led by Alexander himself. The Indian cavalry on the right wing hurried round by the rear to support their hard-pressed comrades on the left. But meantime two regiments of horse commanded by Koinos, which had been detached by Alexander for the purpose, swept past the front of the immobile host of Pōros, galloped round its right wing, and threatened the rear of the Indian cavalry and chariots. While the Indian squadrons were endeavouring to effect a partial change of front to meet the impending onset from the rear, they necessarily fell into a certain amount of confusion. Alexander, seeing his opportunity, seized the very moment when the enemy’s horse were changing front, and pressed home his attack. The Indian ranks on both wings broke and ‘fled for shelter to the elephants as to a friendly wall’. Thus ended the first act in the drama.
 
 
 <!-- page: 97 | folio: 73 -->
 > _[Margin: Second stage of battle.]_
+
 The elephant drivers tried to retrieve the disaster by urging their mounts against the Macedonian horse, but the phalanx, which had now advanced, began to take its deferred share in the conflict. The Macedonian soldiers hurled showers of darts at the elephants and their riders. The maddened beasts charged and crushed through the closed ranks of the phalanx, impenetrable to merely human attack. The Indian horsemen seized the critical moment, and, seeking to revenge the defeat which they had suffered in the first stage of the action, wheeled round and attacked Alexander’s cavalry. But the Indians were not equal to the task which they attempted, and being repulsed, were again cooped up among the elephants. The second act of the drama was now finished.
 
 > _[Margin: Third stage of battle.]_
+
 The third and last began with a charge by the Macedonian massed cavalry which crashed into the broken Indian ranks and effected an awful carnage. The battle ended at the eighth hour of the day (Plutarch, *Life*, ch. 60) in a scene of murderous confusion, which is best described in the words of Arrian, whose account is based on that of men who shared in the fight.
 
 > _[Margin: Rout of Indians.]_
+
 ‘The elephants, he writes, ‘being now cooped up within a narrow space, did no less damage to their friends than to their foes, trampling them under their feet as they wheeled and pushed about. There resulted in consequence a great slaughter of the cavalry, cooped up as it was within a narrow space around the elephants. Many of the elephant drivers, moreover, had been shot down, and of the elephants themselves some had been wounded, while others, both from exhaustion and the loss of their mahouts, no longer kept to their own side of the conflict, but, as if driven frantic by their sufferings, attacked friend and foe quite indiscriminately, pushed them, trampled them down, and killed them in all manner of ways. But the Macedonians, who had a wide and open field, and could therefore operate as they thought best, gave way when the elephants charged, and when they retreated followed at their heels and plied them with darts; whereas the Indians, who were in the midst of the animals, suffered far more from the effects of their rage.
 
 ‘When the elephants, however, became quite exhausted, and their attacks were no longer made with vigour, they [p. 74] fell back like ships backing water, and merely kept trumpeting as they retreated with their faces to the enemy. Then did Alexander surround with his cavalry the whole of the enemy’s line, and signal that the infantry, with their shields linked together so as to give the utmost compactness to their ranks, should advance in phalanx. By this means the cavalry of the Indians was, with a few exceptions, cut to pieces in the action. Such also was the fate of the infantry, since the Macedonians were now pressing them from every side. ‘Upon this all turned to flight wherever a gap could be found in the cordon of Alexander’s cavalry.’
 
 > _[Margin: Capture of Pōros.]_
+
 Meanwhile, Krateros and the other officers left on the opposite bank of the river had crossed over, and with their fresh troops fell upon the fugitives, and wrought terrible slaughter. The Indian army was annihilated; all the elephants being either killed or captured, and the chariots destroyed. Three thousand horsemen, and not less than twelve thousand foot soldiers were killed, and 9,000 taken prisoners. The Macedonian loss, according to the highest estimate, did not exceed a thousand.
 
 Pōros himself, a magnificent giant, six and a half feet in height, fought to the last, but at last succumbed to nine wounds, and was taken prisoner in a fainting condition.
@@ -1053,15 +1195,19 @@ Pōros himself, a magnificent giant, six and a half feet in height, fought to th
 Alexander had the magnanimity to respect his gallant adversary, and willingly responded to his proud request to be ‘treated as a king[^sec-09-fn-031]’. The victor not only confirmed the vanquished prince in the government of his ancestral territory, but added to it other lands of still greater extent; and by this politic generosity secured for the brief period of his stay in the country a grateful and faithful friend.[^sec-09-fn-032]
 
 > _[Margin: Boukephala.]_
+
 The victory was commemorated by the foundation of two towns; one named Nikaia, situated on the battlefield; and [p. 75] the other, named Boukephala, situated at the point whence Alexander had started to cross the Hydaspes. The latter was dedicated to the memory of Alexander’s famous charger, which had carried him safely through so many perils, and had now at last succumbed to weariness and old age. Boukephala, by reason of its position at a ferry on the high road from the west to the Indian interior, became a place of such fame and importance as to be reckoned by Plutarch among the greatest of Alexander’s foundations. It was practically identical with the modern town of Jihlam (Jhelum), and its position is more closely marked by the extensive elevated mound to the west of the existing town.
 
 > _[Margin: Nikaia.]_
+
 The position of Nikaia, which never attained fame, is less certain; but probably should be sought at the village of Sukhchainpur to the south of the Karrī plain, the scene of the battle.[^sec-09-fn-033]
 
 > _[Margin: Medal commemorating the battle.]_
+
 An interesting numismatic memorial of the battle is the famous unique dekadrachm in the British Museum, ‘showing on one side a Macedonian horseman driving before him a retreating elephant with its two riders, and on the other side a standing figure of Alexander holding a thunderbolt, and wearing the *Persian* helmet, and with **A** (᾿Αλεξάνδρου Βασιλέως ?) in the field. Mr. Barclay Head shows good reason for believing that this piece was struck in India as a medal for presentation to Macedonian officers who took part in the battle.[^sec-09-fn-034]
 
 > _[Margin: The Glausai and Pōros II.]_
+
 Alexander, having performed with fitting splendour the obsequies of the slain, offered the customary sacrifices, and celebrated games, left Krateros behind with a portion of the
 
 
@@ -1085,7 +1231,7 @@ Alexander, having performed with fitting splendour the obsequies of the slain, o
 | 11 | Toramāṇa Hūna. | Head of king to l., with date 52. | Fantail peacock. Brahmī legend of name and titles. | *Coins, Med. India*, Pl. ii. 11. |
 | 12 | Aṁśuvarman of Nepāl. | Winged lion. Brahmī legend, *Śry-amśurvarma.* | Cow. Brahmī legend, *Kāmadēhi*, 'incarnation of Kāma'. | *Coins, Anc. India*, Pl. xiii, 6. |
 | 13 | Mihiragula Hūna. | Barbarous bust of king, with name in Brahmī script. | Rude bull, walking l. Legend, *jayatu vṛishah*, 'victory to the bull'. | As *I. M. Catal.*, vol. i, Pl. xxv, 5. |
-| 14 | Bhoja or Mihira, Gurjara-Pratihāra, king of Kanauj. | Boar incarnation of Vishṇu, and solar symbol. | Traces of Sassanian type. Legend, imperfect, *Srīmad Ādi-varāha*, 'the fortunate primaeval boar', a title of both Vishṇu and the king. |  |
+| 14 | Bhoja or Mihira, Gurjara-Pratihāra, king of Kanauj. | Boar incarnation of Vishṇu, and solar symbol. | Traces of Sassanian type. Legend, imperfect, *Srímad Ādi-varāha*, ‘the fortunate primaeval boar’, a title of both Vishṇu and the king. | As *I. M. Catal.*, vol. i, Pl. xxv, 18. |
 
 
 <!-- page: 101 | folio: 77 -->
@@ -1097,15 +1243,19 @@ Alexander, having performed with fitting splendour the obsequies of the slain, o
 army, and orders to fortify posts and maintain communications. The king himself, taking a force of picked troops, largely composed of cavalry, invaded the country of a nation called Glausai or Glaukanikoi, adjacent to the dominions of Pōros. Thirty-seven considerable towns and a multitude of villages, having readily submitted, were added to the extensive territory administered by Pōros. The king of the lower hills, who is called Abisares by the Greek writers, finding resistance hopeless, again tendered his submission. Another Pōros, nephew of the defeated monarch, and ruler of a tract called Gandaris, sent envoys promising allegiance to the invincible invader, and sundry independent tribes (τῶν αὐτονόμων Ἰνδῶν) followed the example of these princes.
 
 > _[Margin: Middle of July, 326 <span class="sc">b.c.</span> Passage of Akesinēs.]_
+
 Alexander, moving in a direction more easterly than before, crossed the Akesinēs (Chināb) at a point not specified, but certainly near the foot of the hills. The passage of the river, although unopposed, was difficult by reason of the rapid current of the flooded stream, which was 3,000 yards (15 *stadia*) in width, and of the large and jagged rocks with which the channel was bestrewn, and on which many of the boats were wrecked.[^sec-09-fn-035]
 
 > _[Margin: Passage of Hydraōtes.]_
+
 The king, having made adequate arrangements for supplies, reinforcements, and the maintenance of communications, continued his advance eastwards, probably passing close to the ancient fortress of Siālkōt. The Hydraōtes (Rāvī) river having been crossed without difficulty, Hephaistion was sent back in order to reduce to obedience the younger Pōros, who had revolted owing to feelings of resentment at the excessive favour shown to his uncle and enemy.
 
 > _[Margin: The independent tribes.]_
+
 Alexander selected as the adversaries worthy of his steel the more important confederacy of independent tribes[^sec-09-fn-036] which was headed by the Kathaioi, who dwelt upon the left or [p. 78] eastern side of the Hydraōtes, and enjoyed the highest reputation for skill in the art of war. Their neighbours, the Oxydrakai, who occupied the basin of the Hyphasis, and the Malloi, who were settled along the lower course of the Hydraōtes below Lahore, and were also famous as brave warriors, intended to join the tribal league, but had not actually done so at this time. The Kathaioi were now supported only by minor clans, their immediate neighbours, and the terrible fate which awaited the Malloi was postponed for a brief space.[^sec-09-fn-037]
 
-> _[Locus: Pimprama and Sangala.]_
+> _[Margin: Pimprama and Sangala.]_
+
 On the second day after the passage of the Hydraōtes, Alexander received the capitulation of a town named Pimprama, belonging to a clan called Adraïstai by Arrian; and, after a day’s rest, proceeded to invest Sangala, which the Kathaioi and the allied tribes had selected as their main stronghold. The tribes protected their camp, lying under the shelter of a low hill, by a triple row of wagons, and offered a determined resistance.
 
 Meanwhile, the elder Pōros arrived with a reinforcement for the besiegers of five thousand troops, elephants, and a siege train; but before any breach in the city wall had been effected, the Macedonians stormed the place by escalade, and routed the allies, who lost many thousands killed. Alexander’s loss in killed was less than a hundred, but twelve hundred of his men were wounded—an unusually large proportion.
@@ -1115,15 +1265,19 @@ Sangala was razed to the ground, as a punishment for the stout resistance of its
 
 <!-- page: 105 | folio: 79 -->
 > _[Margin: Arrival at the Hyphasis.]_
+
 Yet another river, the Hyphasis (Bias), lay in the path of the royal adventurer, who advanced to its bank, and prepared to cross, being determined to subdue the nations beyond. These were reputed to be clans of brave agriculturists, enjoying an admirable system of aristocratic government, and occupying a fertile territory well supplied with elephants of superior size and courage.
 
 > _[Margin: Alexander's address.]_
+
 Alexander, having noticed that his troops no longer followed him with their wonted alacrity, and were indisposed to proceed to more distant adventures, sought to rouse their enthusiasm by an eloquent address, in which he recited the glories of their wondrous conquests from the Hellespont to the Hyphasis, and promised them the dominion and riches of all Asia. But his glowing words fell on unwilling ears, and were received with painful silence, which remained unbroken for a long time.
 
 > _[Margin: Reply of Koinos.]_
+
 At last Koinos, the trusted cavalry general, who had led the charge in the battle with Pōros, summoned up courage to reply, and argued the expediency of fixing some limit to the toils and dangers of the army. He urged his sovereign to remember that out of the Greeks and Macedonians who had crossed the Hellespont eight years earlier, some had been invalided home, some were unwilling exiles in newly founded cities, some were disabled by wounds, and others, the most numerous, had perished by the sword or disease.
 
 > _[Margin: September, 326 <span class="sc">b. c.</span>]_
+
 Few indeed were those left to follow the standards; and they were weary wretches, shattered in health, ragged, ill-armed, and despondent. He concluded his oration by saying :
 
 > ‘ Moderation in the midst of success, O king! is the noblest of virtues, for, although, being at the head of so brave an army, you have naught to dread from mortal foes, yet the visitations of the Deity cannot be foreseen or guarded against by man.’ [^sec-09-fn-039]
@@ -1131,9 +1285,11 @@ Few indeed were those left to follow the standards; and they were weary wretches
 
 <!-- page: 106 | folio: 80 -->
 > _[Margin: Orders for retreat.]_
+
 The words of Koinos were greeted with loud applause, which left no doubt about the temper of the men. Alexander, deeply mortified, and unwilling to yield, retired within his tent ; but emerged on the third day, convinced that further advance was impracticable. The soothsayers judiciously discovered that the omens were unfavourable for the passage of the river, and Alexander, with a heavy heart, gave orders for retreat, in September, 326 <span class="sc">B. C.</span>
 
 > _[Margin: The altars.]_
+
 To mark the farthest point of his advance, he erected twelve huge altars, built of squared stone, and each fifty cubits in height, dedicated to the twelve great gods. Although the army had not passed the river, these massive memorials are alleged by Pliny to have been erected on the farther, i.e. northern, bank, where they long remained to excite the wonder and veneration of both natives and foreigners.[^sec-09-fn-040] They probably stood at the point where the Biās flows from east to west between Indaura in the Kāngrā and Mīrthal in the Gurdāspur district, close to the foot of the hills. The cutting back of the northern bank, which has extended for about five miles, has swept away all traces of the buildings.[^sec-09-fn-041]
 
 The judicious Arrian simply records that :—
@@ -1141,9 +1297,11 @@ The judicious Arrian simply records that :—
 > ‘ Alexander divided the army into brigades, which he ordered to prepare twelve altars equal in height to the loftiest military towers, while exceeding them in breadth ; to serve both as thank-offerings to the gods who had led him so far on the path of conquest, and as a memorial of his achievements. When the altars had been constructed, he [p. 81] offered sacrifice upon them with the customary rites, and celebrated gymnastics and equestrian games.’
 
 > _[Margin: Worship at altars by Chandragupta.]_
+
 The structures thus solemnly dedicated were well designed to serve their double purpose; and constituted a dignified and worthy monument of the piety and labours of the world’s greatest general. Their significance was fully appreciated by the Indian powers which had been compelled to bend before the Macedonian storm. We are told that Chandragupta Maurya, the first emperor of India, who succeeded to the lordship of Alexander’s conquests, and his successors for centuries afterwards, continued to venerate the altars, and were in the habit of crossing the river to offer sacrifice upon them.[^sec-09-fn-042]
 
 > _[Margin: Travellers’ tales.]_
+
 But, if Curtius and Diodorus are to be believed, the noble simplicity of the monumental altars was marred by a ridiculous addition designed to gratify the king’s childish vanity. The tale is given in its fullest form by Diodorus, who gravely informs us that after the completion of the altars, Alexander caused an encampment to be made thrice [p. 82] the size of that actually occupied by his army, encircled by a trench 50 feet wide and 40 feet deep, as well as by a rampart of extraordinary dimensions. ‘He further’, the story continues, ‘ordered quarters to be constructed as for foot-soldiers, each containing two beds 4 cubits in length for each man; and besides this, two stalls of twice the ordinary size for each horseman. Whatever else was to be left behind was directed to be likewise proportionately increased in size.’ We are asked to believe that these silly proceedings were intended to convince the country people that the invaders had been men of more than ordinary strength and stature.[^sec-09-fn-043]
 
 It is incredible that Alexander could have been guilty of such senseless folly, and the legend may be rejected without hesitation as being probably based on distorted versions of tales told by travellers who had seen the altars.
@@ -1205,34 +1363,43 @@ It is incredible that Alexander could have been guilty of such senseless folly, 
 #### *Alexander’s Camp; the Passage of the Hydaspes; and the Site of the Battle with Pōros*
 
 > _[Margin: Problems are soluble.]_
+
 The solution of the problems concerning the sites of Alexander’s camp on the bank of the Hydaspes, the passage of that river, and the battle-field, may be attained, I believe, with sufficient accuracy by careful and impartial examination of the statements made by the ancient historians and of the actual topography.
 
 > _[Margin: Hydaspes river.]_
+
 The Hydaspes (Vitastā, Bihat, or Jihlam, commonly called Jhelum) river has changed its course in a less degree than any of the other rivers of the Panjāb, and in the portion of its stream above Jalālpur, with which alone the present discussion is concerned, little material change has occurred. The solution of the three problems in question is consequently not complicated to any serious extent by doubts as to the ancient course of the river.[^sec-10-fn-001]
 
 
 <!-- page: 109 | folio: 83 -->
 > _[Margin: Taxila.]_
+
 Nor is there any doubt as to the position of Taxila, the great city from which Alexander started on his march to the Hydaspes. Although Cunningham's description of the remains of the city is in many respects inadequate, his identification of the ruins at and near Shāhdhērī with the site of Taxila is certainly correct. The ruins, which are mere mounds scattered through the fields, are situated about 20 miles to the north-west of Rāwalpindi, and about 9 miles to the south-east of Hasan Abdāl village.[^sec-10-fn-002]
 
 > _[Margin: Taxila to Hydaspes.]_
+
 The distance from the site of Taxila to the town of Jihlam (Jhelum) in a direct line, as measured on the map, is about 90 miles, and the direct distance from Taxila to Jalālpur, some 30 miles lower down the river, is a few miles more. The northern or upper road from Shāhdhērī (Taxila) to the town of Jihlam via Rohtās and the Bakrāla Pass is 94 English miles. Roads or paths leading from Shāhdhērī to Jalālpur via Dudhiāl and the Bunhār Pass vary in length from 109 to 114 miles.[^sec-10-fn-003]
 
 Every one is agreed that Alexander must have reached the bank of the Hydaspes either at Jihlam or Jalālpur; no other place can be thought of. Both towns are situated on ancient lines of road commanding ancient ferries.
 
 > _[Margin: Route to Jihlam.]_
+
 The invader's obvious goal unquestionably would have been Jihlam, which is appreciably nearer to Taxila, and has a ferry 'infinitely more convenient, and only one-third the width of the Jalālpur ferry'.[^sec-10-fn-004] The road to either crossing-place is rugged and difficult, but a large force marching to Jalālpur would be more liable to entanglement in the intricate ravines of the Salt Range, and would encounter more formidable obstacles, than those met with on the road to Jihlam. The presumption, therefore, is that Alexander would have adopted the shorter and easier route and formed his camp near the town of Jihlam. The opinion that he followed this natural and obvious course of action has been advocated by Burnes, Court, and Abbott, who were all well qualified to express an authoritative opinion in virtue of their military experience and exact local knowledge.
 
 > _[Margin: Jalālpur theory improbable.]_
+
 The rival theory that Alexander's camp was formed at Jalālpur, and that the passage of the river was effected a few miles above that town has been maintained by authorities of equal personal weight—Elphinstone, Cunningham, and Chesney —and these writers, being better known in Europe than their [p. 84] opponents, have succeeded in winning general assent to the Jalālpur theory in spite of its inherent improbability.
 
 > _[Margin: Cunningham’s view.]_
+
 This theory has been defended at length by Cunningham, whose arguments would have gained additional force if they had been propounded after impartial examination of the site which Abbott, after careful survey, determined to be that of the battle-field. If the battle took place in the Karrī plain, as maintained by Abbott, Alexander’s camp must have been at or close to Jihlam, and the passage of the river must have been effected above that town. But, unfortunately, Cunningham never attempted to meet Abbott’s reasoning, nor did he examine the course of the river above Jihlam. Having formed in 1846 the opinion that Alexander’s camp was at Jalālpur, Cunningham was content in 1863 to examine the Jalālpur position with a determination to make the topography fit in with his preconceived decision. He merely alludes to General Abbott’s paper as ‘an elaborate disquisition’, and there is nothing to show that he ever studied it carefully.[^sec-10-fn-005]
 
 > _[Margin: His riverdistance argument.]_
+
 Cunningham relies on three arguments in favour of the Jalālpur site for Alexander’s camp. The third of these is that, according to Arrian (*Anab.* vi, 2, 4), the fleet when descending the Hydaspes from Nikaia, the town on the battle-field, reached the capital of Sophytes, king of the Salt Range, on the third day. The capital of Sophytes, according to Cunningham, was at Ahmadābād, ‘which is just three days’ distant for a laden boat from Jalālpur, but is six days from Jhelum’,[^sec-10-fn-006] and, consequently, Jalālpur suits the conditions better than Jhelum. This argument, on which Cunningham himself laid little stress, obviously depends on the correct identification of the capital of Sophytes. Inasmuch as the ‘identification’ proposed by Cunningham is a bare guess, quite unsupported by evidence, the argument based upon it does not demand further consideration.
 
 > _[Margin: Argument from Strabo.]_
+
 The second and more important argument is based upon a passage of Strabo (xv, 32), which states that Alexander’s ‘route as far as the Hydaspes was for the most part towards the south, and thenceforward was more easterly as far as the Hypanis [= Hyphasis]; but throughout it kept closer to the foot of the mountains than to the plains’.[^sec-10-fn-007]
 
 Inasmuch as Jalālpur is nearly due south, while Jihlam is approximately south-south-east from Taxila, the Jalālpur position for the camp seems at first sight to suit the first clause of Strabo’s statement better than the Jihlam position.
@@ -1240,9 +1407,11 @@ Inasmuch as Jalālpur is nearly due south, while Jihlam is approximately south-s
 
 <!-- page: 111 | folio: 85 -->
 > _[Margin: Refuted.]_
+
 But in reality either position suits the text equally well. We do not know the points at which Alexander crossed the succeeding rivers, the Akesinēs and the Hydraōtes, nor the point at which he reached the most distant stream, Hyphasis [=Hypanis]. The assumption commonly made that Alexander crossed the Akesinēs (Chināb) at Wazīrābād does not rest on any evidence. Cunningham and the other authors who maintain the Jalālpur position forget the last clause of Strabo's statement to the effect that the whole route kept as close as possible to the foot of the hills. In another passage (xv, 26) Strabo explains that Alexander adopted this line of march because the rivers which traversed it could be crossed with greater facility near their sources than lower down.
 
 > _[Margin: McCrindle.]_
+
 McCrindle, forgetting this most important general statement, which covers the whole route from Taxila to the Hyphasis, has constructed a map which represents Alexander as keeping away from the hills, and marching through the plains of the Panjāb past Jalālpur, Wazīrābād, Lahore, and Amritsar. The real line of march must have lain much farther to the north. The Hydaspes must have been crossed close to the spot where it emerges from the hills above Jihlam, and the army must subsequently have passed close to Siālkōt and Gurdāspur, keeping near the present frontier of the Kashmīr (Jamū) state.
 
 The assumption that Alexander followed this line of march agrees accurately with every part of Strabo's statement. A line drawn from Jihlam to Siālkōt, or to the north of that place, is considerably more easterly in direction than a line drawn from Taxila to Jihlam.
@@ -1250,14 +1419,17 @@ The assumption that Alexander followed this line of march agrees accurately with
 Cunningham's second argument in favour of the Jalālpur position therefore fails, like the third.
 
 > _[Margin: Argument from Pliny.]_
+
 The argument which Cunningham places first, and on which he lays most stress, is based on Pliny's figures for the distance from Peukolaitis (Chārsadda), via Taxila, to the Hydaspes (vi, 21). Pliny gives the distances as (1) from Peukolaitis to Taxila 60 Roman=55 English miles, and (2) from Taxila to the Hydaspes 120 Roman, or 110 English miles; and Cunningham argues that these figures suit Jalālpur better than they suit Jihlam. But it is notorious that the figures in Pliny's text are often erroneous. For example, the very passage referred to gives the distance from the Hydaspes to the Hyphasis as 390 Roman miles, which is wildly wrong. It is rash, therefore, to rely on the figures in Pliny's text as we possess it. Cunningham himself was satisfied that the actual distance from Peukolaitis to Taxila, via Uhand, where Alexander crossed the Indus, is greater than that stated by Pliny, and proposed to correct the text (*Reports*, ii, 112).
 
 > _[Margin: Refuted.]_
+
 But, even if the figure of 120 Roman miles from Taxila to the Hydaspes be accepted as correct, it does not exclude the theory that Alexander's camp was at Jihlam. According to Cunningham [p. 86] (*Reports*, ii, 179) the distance by an old road is 94 miles. Pliny’s distance is 110 English miles, and the difference is only 16 miles, which is insignificant, considering that we have no information concerning the route taken by Alexander in very difficult country, and no knowledge of the changes which have occurred in twenty-two centuries. The argument based on Pliny’s figures is, consequently, worthless, whether the figures be right or wrong.
 
 I have thus shown that all Cunningham’s arguments for the Jalālpur theory fail, and that the Jihlam theory, so far from being opposed to Strabo’s evidence, is actually supported by it.
 
 > _[Margin: Topography.]_
+
 The theory of Elphinstone and Cunningham is still more strongly opposed by the evidence of topographical facts than by that of Strabo.
 
 The statements of Arrian, a critical writer, who had access to the best contemporary authorities and carefully weighed their testimony, are extremely clear.
@@ -1265,6 +1437,7 @@ The statements of Arrian, a critical writer, who had access to the best contempo
 The spot higher up the river to which Alexander marched by night in order to ‘steal a passage’ was situated at ‘a remarkable bend’ in the stream, which helped to conceal his movements.[^sec-10-fn-008] There is no such bend at the spot above Jalālpur, between the villages of Mandiala and Kothera, where Cunningham locates the passage (*Reports*, ii, pl. LXVI). But there is such a bend at Bhūnā above Jihlam, where Abbott rightly locates it.
 
 > _[Margin: Night march.]_
+
 Arrian’s excellent and vivid account (v, 11) clearly implies that Alexander made his night march parallel to the river. Having described the wooded bluff and island near the remarkable bend of the river, he goes on to say :—
 
 > ‘Now the bluff and the island were 150 stadia [=about 17 English miles] distant from the great camp. But along the whole of the bank he had posted running sentries at a proper distance for keeping each other in sight, and readily transmitting along the line any orders that might be received from any quarter.’
@@ -1272,6 +1445,7 @@ Arrian’s excellent and vivid account (v, 11) clearly implies that Alexander ma
 Half-way between the camp and the crossing-place Meleager and other officers were stationed with a considerable force, under orders to cross over in detachments as soon as they should see the Indians fairly engaged in action. The historian then goes on to state that Alexander marched ‘at a considerable distance from the bank so that he might not be seen’. These statements prove that Alexander, when making his night march, kept an approximately straight course, parallel to the river bank, but sufficiently far from it to escape the enemy’s observation.
 
 > _[Margin: Cunningham’s theory erroneous.]_
+
 They are absolutely inconsistent with the theory of Cunningham, as expressed in his map (*Reports*, ii, pl. LXVI), which
 
 
@@ -1311,24 +1485,31 @@ N.
 represents Alexander as going round three sides of a rectangle among the ravines of the Salt Range, marching inland from Jalālpur nearly due north for seven or eight miles, then eastward for seven miles, and finally, two or three miles back to the river. The local facts at Jalālpur cannot be reconciled with the account of the night march as given by Arrian, and Cunningham's map is a desperate attempt to reconcile the irreconcilable, and to bolster up a preconceived theory based on fallacious premisses.
 
 > _[Margin: Description of river.]_
+
 The descriptions of the river itself at the time when Alexander crossed it, as given by the ancient historians, are equally inconsistent with the Jalālpur theory. All authorities agree that the river was then in high flood owing to the melting of the snows in the mountains and incessant rain. But the width of the stream was only four stadia or 809 yards, whereas at Jalālpur at the same season, the end of June or the beginning of July, the river would have been more than double that width. The current was interrupted by numerous islands and sunken rocks. At Jalālpur there are neither rocks nor islands.[^sec-10-fn-009]
 
 > _[Margin: The true theory.]_
+
 If the Jalālpur theory be given up, and Alexander's camp be located at or near Jihlam, all topographical difficulties disappear. Alexander's march by night is then seen to have taken place at a moderate distance from the bank of the river, in a direction nearly parallel to the stream, and to have been directed to a point situated at a 'remarkable bend' of the river, distant from the supposed position of his camp about 13 or 14 miles in a direct line, which distance might well be estimated as 17 miles for marching purposes, if the route actually taken were slightly circuitous. It is, of course, impossible to define either the exact site of Alexander's camp or the precise spot where the army embarked on its perilous passage, and it is quite possible that 2 or 3 miles should be added to the approximate distance indicated by General Abbott's map.
 
 > _[Margin: Alexander on interior line.]_
+
 By marching to the vicinity of Bhūnā near the 'remarkable bend' south-east of Manglā, Alexander gained the advantage of moving along an interior chord line, while his opponent on the opposite side of the river was compelled to go round the [p. 88] outside of a curve. If the quicksands were in the same position in Alexander’s time as they now are, the forces of Pōros must necessarily have covered a long circuit before they could approach the Macedonian landing-place. In any case, the distance which the Indians had to traverse was considerably longer than the chord traversed by Alexander.
 
 > _[Margin: Battle-field.]_
+
 When the Macedonian army of about 11,000 men, after surmounting all the difficulties of the passage, ultimately found itself on the mainland, it entered a considerable plain of firm soil known as ‘Karrī’, girdled by low hills on the north and east. This plain at its widest part is about 5 miles broad, and afforded a sufficient, though not excessive, space for the battle. The river at the crossing-place runs over quartz boulders, and a still existing island, ‘larger than the rest’, corresponds closely with that described by the Greek historians as the place on which Alexander first landed, and may or may not have continued in existence since his time.
 
 > _[Margin: Alexander’s channel.]_
+
 The channel marked ‘Alexander’s channel’, now considerably silted up, seems to be similar to that which the Macedonian army forded, and if not precisely identical, is certainly very close to the position of the channel crossed by Alexander. General Abbott is quite justified by his map in saying that ‘the river is at this moment [1848] so exactly as described by Alexander’s historians that the map might seem to be an ancient rather than a modern production’. General Abbott’s ‘elaborate disquisition’ is based on a careful survey effected by two days’ hard work from sunrise to evening each day, and his observations have never been contradicted or impugned. Cunningham simply took no notice of them.
 
 > _[Margin: Grote’s opinion.]_
+
 Grote, the historian of Greece, is the only author of repute who has shown due appreciation of Abbott’s labours, and he has acknowledged that the general’s memoir supplies ‘highly plausible reasons in support of the hypothesis that the crossing took place near Jelum’. Mr. Grote’s opinion would doubtless have become that of the learned world if General Abbott’s essay had been published in an easily accessible form. Buried as it is in an old volume of the Asiatic Society’s Journal, few people have read it; whereas the official publications of Sir Alexander Cunningham are widely known, and his opinions have been accepted too often without criticism.
 
 > _[Margin: Conclusion.]_
+
 I have not the slightest doubt that Alexander marched to the Hydaspes by the shortest and easiest route open to him; that he struck the river at or near Jihlam, where he pitched his camp; that he crossed the stream where it was rocky and narrow, a little below the point where it emerges from the hills; and that the battle with Pōros was fought in the Karrī plain. The line of march between the Hydaspes and the Hyphasis cannot be precisely delineated, but it was certainly as close as possible [p. 89] to the foot of the hills, and must have passed near Siālkōt. Raverty was of the same opinion. He wrote to me in 1905 : ‘ I quite agree with you as to Alexander’s crossing-place over the Hydaspes . . . I well recollect when we crossed the river after the battle of Guzerāt, in pursuit of the Sikhs and Afghāns, that we crossed just at the place that you have mentioned, and the matter was discussed and Abbott’s theory endorsed. We must give Alexander credit for some military knowledge at least, and that would naturally lead him to keep nearer the sources of the rivers in order to cross the more easily ; and, at the same time, the hills on the north protected his flank.’ [^sec-10-fn-010]
 
 
@@ -1355,27 +1536,35 @@ I have not the slightest doubt that Alexander marched to the Hydaspes by the sho
 #### *The date of the Battle of the Hydaspes*
 
 > _[Margin: Exact date doubtful.]_
+
 The evidence of the ancient historians concerning the flooded state of the river, and the continued wet weather before, during, and after the battle, which has been cited in Appendix D, establishes beyond doubt that the battle was fought towards the end of June, or early in July. But certain positive statements which profess to define the date with greater precision have also been made, and must be briefly examined. Arrian makes two such statements, and a third is added by Diodorus.
 
 > _[Margin: Arrian’s first statement.]_
+
 Arrian’s first statement (*Anab.* v, 9) that the battle was fought after the summer solstice, that is to say later than June 21, is undoubtedly correct, being in accordance with the evidence as to the state of the river and with the remark of Diodorus that when the army reached the Hyphasis it had endured violent showers of rain for seventy days. The MSS. all read μετὰ τροπάς, and the suggestion made by some editors to substitute κατά for μετά is unjustifiable.
 
 > _[Margin: Arrian’s second statement.]_
+
 But the second statement of Arrian (*Anab.* v, 19) that the battle was fought ‘ in the month of Mounychion of the year when Hēgemōn was Archon in Athens ’ seems to be partially inaccurate. The assertion of Diodorus (xvii, 87) that the entry into Taxila, in the spring preceding the battle, occurred during the year ‘ in which Chremēs was archon at Athens, and in which the Romans appointed Publius Cornelius and Aulus Postumius consuls’, is apparently altogether erroneous. Neither the consuls nor the archon named can be accepted as correct.
 
 > _[Margin: Macedonian calendar.]_
+
 The original authorities, the Macedonian officers of Alexander’s army, probably expressed the date in terms of the Macedonian [p. 90] calendar, and the divergent statements made by the historians may be due to errors in the conversion of Macedonian into Attic and Roman dates. As Mr. Hogarth has observed, it is impossible for a modern scholar to check such conversions, because our knowledge of the details of the Macedonian calendar is very imperfect, and little is known of the methods used for converting Macedonian dates into those expressed in terms of other calendars.[^sec-11-fn-001]
 
 > _[Margin: Mounychion.]_
+
 The battle certainly was fought in the year 326 <span class="sc">b. c.</span>, and the corresponding Attic year (=Ol. 113, 2) is supposed to have begun on June 25, 327, and ended on June 15, 326 <span class="sc">b. c.</span>[^sec-11-fn-002] The close of Mounychion, the tenth month, even if the aid of an intercalary month be called in, cannot be brought down later than June 13. If there were no intercalary month, Mounychion should have ended on or about May 14. But, as we have seen, the battle occurred later than June 21, and it seems clear, therefore, that Arrian has wrongly named the Attic month. A rash proposal to substitute ‘Metageitnion’ for ‘Mounychion’, the reading of the MSS., is, as Grote observes, ‘mere conjecture’, and is, moreover, inconsistent with the statement that Hēgemōn was archon.
 
 > _[Margin: The archons.]_
+
 Chremēs certainly succeeded Hēgemōn as archon; and if Unger is right in assigning the end of the Attic year 327–6 <span class="sc">b. c.</span> to June 15, Diodorus, although wrong in ascribing the entry into Taxila to the archonship of Chremēs, would be right if he meant his readers to understand that the battle occurred after Chremēs had become archon. If, as other authorities suppose, the archonship of Chremēs did not begin until July 18, then Arrian will be right in stating that the battle was fought while Hēgemōn was still archon.
 
 > _[Margin: Explanation of error.]_
+
 Arrian’s error in naming the month Mounychion may be explained plausibly by the supposition that Alexander reached the river bank in that month, and that by a slight carelessness the date of his arrival in camp was taken as the date of the great battle. The king’s elaborate secret preparations for crossing the river must have occupied a long time, at least six or seven weeks, and if the camp was formed during Mounychion, early in May, the battle must have been fought at the very end of June, or, more probably, early in July.
 
 > _[Margin: Conclusion.]_
+
 Exact certitude is not attainable, and it is not possible to go much beyond the remark of Grote, that ‘as far as an opinion can be formed, it would seem that the battle was fought about [p. 91] the end of June, or beginning of July 326 <span class="sc">b. c.</span>, after the rainy season had commenced ; towards the close of the archonship of Hēgemōn, and the beginning of that of Chremēs '.[^sec-11-fn-003] I accept the archonship of Hēgemōn on the authority of Arrian, and believe that the battle took place early in July 326 <span class="sc">b. c.</span>, in the last month, Skeirophorion, of the Attic year, a few days before Chremēs became archon.
 
 
@@ -1400,90 +1589,110 @@ Exact certitude is not attainable, and it is not possible to go much beyond the 
 #### THE RETREAT
 
 > _[Margin: Retreat to Akesinēs.]_
+
 <span class="sc">The</span> retreating army retraced its steps, and arrived again without further adventure on the bank of the Akesinēs (Chināb), where Hephaistion had completed the building of a fortified town. Voluntary settlers from the neighbouring country and such of the mercenary troops as seemed unfit for active service were left to occupy and garrison this post, and Alexander began to prepare for his voyage down the rivers to the Great Sea.
 
 > _[Margin: Appointment of satrap.]_
+
 Envoys bearing tribute from the kings of the lower hills, now known as the chieftainships of Rajauri and Bhimbhar and the British district of Hazāra, were received at this time. Alexander, who regarded his Indian conquests as permanent additions to the empire, and evidently cherished hopes of a return to the country, having accepted the tenders of submission, solemnly appointed the king of Abhisāra (Bhimbhar and Rajauri) to the office of satrap, and invested him with authority over the king of Urasā (Hazāra), who is called Arsakes by Arrian.[^sec-12-fn-001]
 
-> _[Margin: Reinforce- ments.]_
+> _[Margin: Reinforcements.]_
+
 About the same time a welcome reinforcement of 5,000 cavalry from Thrace, and 7,000 infantry, sent by the king’s cousin, Harpalos, satrap of Babylon, arrived, bringing no less than 25,000 suits of armour inlaid with gold and silver. The new accoutrements were at once distributed to the ragged troops, and the old suits were burned.[^sec-12-fn-002]
 
 
 <!-- page: 121 | folio: 93 -->
 > _[Margin: Preparations for river voyage.]_
+
 Alexander then advanced to the Hydaspes (Jihlam), and encamped on the bank, probably on the site of the camp formerly occupied by Pōros. Several weeks were now devoted to the final preparations for the voyage down the rivers. All available country boats plying on the river were impressed for the service, and deficiencies were supplied by the construction of new vessels, for which the forests at the base of the hills afforded ample facilities. Crews were provided from the contingents of seafaring nations, Phoenicians, Cyprians, Karians, and Egyptians, who accompanied the army, and by the end of October, 326 <span class="sc">b. c.</span>, all was ready. The fleet, which included eight galleys of thirty oars each, and a multitude of horse transports and small craft of all kinds, probably numbered nearly two thousand vessels.[^sec-12-fn-003]
 
 > _[Margin: Promotion of Pōros.]_
+
 Before the voyage began Alexander convoked an assembly of his officers and the ambassadors of the Indian powers, and in their presence appointed Pōros to be king of all the conquered territories lying between the Hydaspes and the Hyphasis. These territories are said to have been occupied by seven nations, the Glausai, Kathaioi, and others, and to have comprised no less than two thousand towns. The opportunity was seized to effect a reconciliation between Pōros and his old enemy the king of Taxila, and the friendship between the two monarchs was cemented by a matrimonial alliance. The king of Taxila, who had vied with his rival in zealous service to the invader, was formally confirmed in his sovereignty of the country between the Indus and the Hydaspes.
 
 > _[Margin: Kingdom of Saubhūti.]_
+
 Alexander, who never neglected to make provision for the protection of his flank and rear, and for the uninterrupted [p. 94] maintenance of communications with the distant base in Europe, instructed Generals Hephaistion and Krateros to march with all possible speed to secure the capital of King Saubhūti (Sophytes, or Sopeithēs), lord of the fastnesses of the Salt Range stretching from Jihlam to the Indus, who submitted without resistance.[^sec-12-fn-004]
 
 > _[Margin: The generals.]_
+
 The fleet was to be protected by an army of 120,000 men marching along the banks, under the generals above named ; Krateros having the command on the right or western bank of the river, while the larger portion of the army, accompanied by two hundred elephants, was led by Hephaistion along the left or eastern bank. Philippos, satrap of the countries west of the Indus, had orders to follow three days later with the rear-guard.
 
 > _[Margin: Oct. 326 <span class="sc">B. C.</span> Voyage to first confluence.]_
+
 Thus escorted the vast fleet began its memorable voyage. At daybreak one morning towards the end of October, Alexander, having offered libations from a golden bowl to the river gods, his ancestor Herakles, Ammon, and any other god whom he was accustomed to reverence, gave the signal for starting by sound of trumpet. In stately procession, without confusion or disorder, the ships quitted their anchorage, and moved down stream to the astonishment of the crowds of natives lining the banks, who had never before seen horses on board ship. The plash of thousands of oars, the words of command, and the chants of the rowers wakened the echoes, which reverberated from bank to bank, and enhanced the amazement of the gaping throng of spectators. On the third day the fleet reached the place, perhaps Bhīra, where Hephaistion and Krateros had been ordered to pitch their camps facing each other [p. 95] on opposite sides of the river. Here a halt was made for two days to allow the rear-guard under the command of Philippos to come up, and that general, on his arrival, was directed to convert his force into an advance-guard and proceed along the bank of the river.
 
 > _[Margin: Rapids.]_
+
 On the fifth day after leaving the halting-place, the fleet arrived at the first river confluence, where the Hydaspes met the greater stream of the Akesinēs. The channel where the waters of the two rivers then met was so very narrow that dangerous whirlpools were formed, and much disorder was occasioned in the fleet. Two of the warships were sunk with the greater part of their crews, and the vessel which carried Alexander was in imminent danger of sharing the same fate. By dint of great exertion on the part of the king and all concerned the bulk of the fleet was ultimately brought to a safe anchorage under the shelter of a headland, and the necessary steps were taken to repair the damage suffered.
 
 > _[Margin: Position of confluence.]_
+
 It is impossible to determine the spot where these exciting incidents occurred. The confluence of the two rivers at Timmū (N. lat. 31° 10′) now takes place quietly, and presents none of the peculiarities to which Arrian and Curtius devote so much vivid description. All that can be said is that in Alexander's time the confluence must have been situated much farther to the north.
 
 > _[Margin: Courses of the rivers.]_
+
 Our exact knowledge of the courses of the rivers in the Panjāb and Sind begins only from the date of the Arab invasion in 712 <span class="sc">a.d.</span>, more than a thousand years subsequent to the expedition of Alexander. Concerning the changes which happened during that millennium absolutely nothing is known. But during the twelve hundred years that have elapsed since the Arab conquests changes on a stupendous scale are known to have occurred, and it is certain that similar effects must have been produced by the ever operating causes during the thousand years which intervened between Alexander and Muhammad bin Kāsim.[^sec-12-fn-005] During the known [p. 96] period, earthquakes, floods, changes of level, denudation, accretion, and alterations of climate all have contributed to transform the face of the country. The delta of the Indus has advanced more than 50 miles, and has thus lengthened the courses of the rivers, while necessarily diminishing their gradients and velocity. One huge river, the Hakrā or Wahindah, which formerly gave life and wealth to the desert wastes of Bikanīr, Bahāwalpur, and Sind, has ceased to exist ; the Biās (Hyphasis) has forsaken its ancient independent bed, and become a tributary of the Sutlaj ;[^sec-12-fn-006] while the other rivers, the Indus, Jihlam (Hydaspes), Chināb (Akesinēs), and Rāvī (Hydraōtes) have all repeatedly changed their courses and points of junction.
 
-> _[Margin: Futility of ‘identifica- tions’.]_
+> _[Margin: Futility of ‘identifications’.]_
+
 These facts, although indisputably true, have been generally ignored in practice by the historians of Alexander, who have pretended to trace the line of his river voyage on modern maps, and to ‘identify’ town after town on the banks of the several rivers. All such identifications are vain. No man can tell in which of the ancient beds the Chināb or any of the other rivers named flowed in the time of Alexander, and, when the positions of the rivers are not ascertainable, it is clear that we cannot reasonably expect to identify places on their banks. The most that is possible is to give general indications of the course of the voyage and of the location of the principal nations encountered by Alexander. The sites of the towns and the precise positions [p. 97] of the confluences and crossing-places mentioned by the ancient historians cannot be determined. Inasmuch as the courses of all the rivers were then much shorter than they now are, all the confluences must have been situated considerably farther north than at present, and this *a priori* inference appears to be fully supported by observation of the most ancient beds of the streams. The confluence of the Akesinēs and Hydaspes, the first of the four confluences described by Arrian, probably was situated not very far from the modern town of Jhang, and approximately in N. lat. 31°.[^sec-12-fn-007]
 
 > _[Margin: The Siboi and Agalassoi.]_
+
 Alexander here landed his troops in order to subjugate the adjoining tribes, called Siboi[^sec-12-fn-008] and Agalassoi by Curtius, and to prevent them from joining the powerful nation of the Malloi (Sanskrit Mālavā), who dwelt lower down the river, and were known to be preparing for strenuous resistance. The Siboi, who are described as rude folk clad in the skins of wild beasts and armed with clubs, submitted, and were allowed to retain their freedom. Their neighbours, the Agalassoi, who were able to muster a force estimated at 40,000 foot and 3,000 horse, ventured to resist, and met with a terrible fate. Multitudes were put to the sword, and multitudes sold into slavery. Alexander advanced some [p. 98] 30 miles into their country, and captured their principal town. At a second town he met with an obstinate defence, which cost the lives of many Macedonians. The inhabitants, said to number 20,000, despairing of ultimate success, set fire to the town and cast themselves with their wives and children into the flames. The citadel escaped the fire, and was garrisoned by a detachment left behind for the purpose. The lives of 3,000 of its gallant defenders were spared.[^sec-12-fn-009]
 
 > _[Margin: Voyage to second confluence.]_
+
 These events probably took place to the north-east of Jhang, the operations having been undertaken in accordance with Alexander’s invariable practice, in order to secure his flank and rear.
 
 Information having been received that a confederacy of the Malloi, Oxydrakai, and other independent tribes occupying the river valleys was being formed with the intention of offering strenuous resistance to the invasion, Alexander hastened the movements of his fleet and army with the object of attacking the confederates severally in detail, before they could mature their plans and combine their forces. The fleet and the bulk of the army received orders to assemble at the next confluence, that of the Hydraōtes (Rāvī) with the Akesinēs (Chināb, including the Hydaspes or Jihlam).
 
 > _[Margin: The allied tribes.]_
-Alexander in person landed with a picked force, largely composed, as usual, of mounted troops, to operate against the Malloi, the most formidable of the allied tribes, who occupied
+
+Alexander in person landed with a picked force, largely composed, as usual, of mounted troops, to operate against the Malloi, the most formidable of the allied tribes, who occupied [p. 99] the fertile valley of the Hydraōtes, on both banks of the river. Their neighbours, the Oxydrakai (Sanskrit, Kshudrakā), who dwelt on the banks of the upper course of the Hyphasis, although ordinarily at war with the Malloi, had resolved to forget old enmities and to make common cause against the invader. The rival nations cemented the alliance by wholesale intermarriage, each giving and taking ten thousand young women for wives.[^sec-12-fn-010] But personal jealousies, such as in all ages have reduced to futility political combinations in India, prevented the alliance from taking effect. While the allies were discussing the claims of rival generals to command, Alexander acted, and, with masterly strategy, sweeping down upon the Malloi, extinguished their military power before the Oxydrakai could come to their aid. The forces at the command of the confederacy should have sufficed, if properly handled, to annihilate the small flying column at Alexander's disposal; for they are said to have comprised 80,000 or 90,000 fully equipped infantry, 10,000 cavalry, and from 700 to 900 chariots.
 
 
 <!-- page: 127 | folio: 99 -->
 
 ![SKETCH MAP showing position of AUTONOMOUS TRIBES CONQUERED BY ALEXANDER. Scale of Miles 0 50 100](../figures/fig-007_p0127.webp)
 
-
-<!-- page: 129 | folio: 99 -->
-the fertile valley of the Hydraōtes, on both banks of the river. Their neighbours, the Oxydrakai (Sanskrit, Kshudrakā), who dwelt on the banks of the upper course of the Hyphasis, although ordinarily at war with the Malloi, had resolved to forget old enmities and to make common cause against the invader. The rival nations cemented the alliance by wholesale intermarriage, each giving and taking ten thousand young women for wives.[^sec-12-fn-010] But personal jealousies, such as in all ages have reduced to futility political combinations in India, prevented the alliance from taking effect. While the allies were discussing the claims of rival generals to command, Alexander acted, and, with masterly strategy, sweeping down upon the Malloi, extinguished their military power before the Oxydrakai could come to their aid. The forces at the command of the confederacy should have sufficed, if properly handled, to annihilate the small flying column at Alexander's disposal; for they are said to have comprised 80,000 or 90,000 fully equipped infantry, 10,000 cavalry, and from 700 to 900 chariots.
-
 > _[Margin: Alexander's strategy.]_
+
 The exact strength of the Macedonian field force is not stated, but it must have been very small, not exceeding a few thousands.[^sec-12-fn-011] What it lacked in numbers was compensated for by its perfect mobility and the genius of its general. The Macedonians were alarmed at the magnitude of the opposing forces, and a repetition of the mutiny of the Hyphasis was with difficulty prevented by a stirring address delivered by the king. By two forced marches across the waterless uplands, now known as the *Bār*,[^sec-12-fn-012] which separate the valleys of the Akesinēs and Hydraōtes, Alexander completely surprised the Malloi, most of whom were working unarmed in the fields. Many of the helpless wretches were ruthlessly cut down, 'without their even turning to offer [p. 100] resistance’, and those who escaped the sword were shut up in the fortified towns.
 
 > _[Margin: Capture of towns.]_
+
 One of these towns, with a citadel situated on a commanding height, was stormed under Alexander’s personal direction, and 2,000 of the garrison were slain. Another town, against which Perdikkas had been sent, was found to be deserted. The inhabitants fled to the marshes in the river valley, but, even among the reeds and rushes, they could not escape the weapons of the Macedonian cavalry. Alexander then pushed on to the Hydraōtes, and caught up the retreating Malloi at the ford, inflicting severe loss upon them. He pursued them to the east of the river into the country now known as the Montgomery District, and took by mining and escalade a town inhabited by Brahmans. The king, with his customary disregard of danger, was the first man to scale the wall. The place was gallantly defended, but in vain; ‘about 5,000 in all were killed, and as they were men of spirit, very few were taken prisoners’.
 
 > _[Margin: Retreat of the Malloi.]_
+
 The Malloi, being hard pressed, recrossed the Hydraōtes, the passage of which they attempted to defend with 50,000 men; but they were no match for the Europeans, and fled ‘with headlong speed’ to the strongest fortified town in the neighbourhood. This small town, which cannot be identified precisely, and was situated somewhere near the boundary of the Jhang and Montgomery Districts, 80 or 90 miles to the north-east of Multan, was the scene of one of the most memorable incidents in Alexander’s adventurous career, admirably described by Arrian from materials supplied by Ptolemy.[^sec-12-fn-013]
 
 > _[Margin: Alexander’s dan-gerous wound.]_
+
 The Macedonians, already masters of the town, were endeavouring to scale the walls of the citadel, when Alexander, [p. 101] thinking that the men bearing the ladders loitered too long, snatched one from the man carrying it, and mounted the wall, followed by only three companions, Peukestas, Leonnātos, and Abreas. Standing on the wall in his gleaming armour, the king was a mark for every missile, and, feeling that he could effect nothing where he was without support, boldly leaped down into the citadel followed by his three comrades. Abreas soon fell dead. Alexander, standing with his back to a tree that grew near the wall, slew the Indian governor and defended himself against all comers until his breast was pierced by an arrow and he fell. Peukestas bestrode him as he lay, covering him with the sacred shield brought from Ilion, while Leonnātos, although severely wounded like his surviving comrade, protected him from side attacks. The ladders having broken, the maddened Macedonians were for a time powerless to help their king, but at last a few managed to scramble up the earthen wall, while others broke in a gate, and so saved Alexander, who had fainted.
 
 > _[Margin: His recovery.]_
+
 The barbed arrow was withdrawn by a bold operation which involved much bleeding and threatened immediate death, but Alexander's strong constitution eventually triumphed, and the dangerous wound was healed. The infuriated troops fell upon the unfortunate inhabitants, and slew them all—sparing neither man, woman, nor child.
 
 When convalescent, Alexander was carried to the Hydraōtes, and conveyed by boat to the junction with the Akesinēs, where he met his fleet and army, under the command respectively of Nearchos and Hephaistion.
 
 > _[Margin: Submission of Malloi and Oxydrakai.]_
+
 The survivors of the Malloi, whose nation had felt the full weight of Alexander's hand, now tendered their humble submission, and the Oxydrakai, whom fortunate procrastination had saved, feeling that resistance would be hopeless, purchased the conqueror's clemency by offers of tribute and the delivery of valuable gifts. Alexander, stern and even cruel to those who opposed him, but always courteous and generous to the submissive, readily accepted the proposals, presents, and excuses of the tribal envoys, a hundred in [p. 102] number, who are described as dignified men, of uncommon stature, clad in purple and gold, and riding in chariots. The presents are said to have included 1,030 four-horsed chariots, 1,000 bucklers of native manufacture, 100 talents of steel, great store of 'linen' goods, a quantity of tortoise-shells, the skins of large lizards, with tame lions and tigers, in addition to a contingent of 300 horsemen.[^sec-12-fn-014]
 
 > _[Margin: Voyage to confluence with the Indus.]_
+
 Philippos was then appointed satrap of the conquered nations; and the fleet, passing the third confluence, where the Hyphasis contributed its waters to the stream, continued [p. 103] its voyage to the fourth confluence, that of the Akesinēs (Chināb), including the Hydaspes (Jihlam), Hydraōtes (Rāvī), and Hyphasis (Biās), with the river which the ancient writers call the Indus. But it is probable that the ‘lost river of Sind’, the Hakrā or Wahindah, then existed, and that all the Panjāb rivers, including the Indus, joined it, and formed one great stream, afterwards known as the Mihrān of Sind.
 
 > _[Margin: Changes in rivers.]_
+
 It is absolutely impossible to determine the position of any of the confluences in Alexander’s time; but, long afterwards, in the days of the early Arab writers, all the rivers met at a place called Dosh-i-āb, or ‘the Meeting of the Waters’, in territory now belonging to the Bahāwalpur State.[^sec-12-fn-015] Our complete uncertainty as to the courses of the rivers, which have ranged, as the old channels indicate, over a space of 110 miles wide in the region of the final confluence, deprives the remainder of Alexander’s river voyage of much of its interest. His course in Upper Sind cannot be indicated even approximately, and it is impossible to fix accurately the position of either the towns or the nations mentioned by the historians.
 
 > _[Margin: Administrative arrangements.]_
+
 The confluence of the combined Panjāb rivers with the ‘Indus’, wherever it may have been situated, was appointed to be the southern boundary of the satrapy of Philippos, to whom all the Thracians were made over along with an adequate force of infantry to form the garrison of his province. At about the same time the Bactrian nobleman, Oxyartes, father of Alexander’s wife, Roxana, was deputed to the Paropanisadae, or the Kābul province, as satrap in succession to Tyriaspes, whose administration had been unsatisfactory. A city was founded at the confluence of the rivers with the ‘Indus’, which Alexander hoped would become prosperous and famous. Dockyards also were constructed.
 
 
@@ -1491,6 +1700,7 @@ The confluence of the combined Panjāb rivers with the ‘Indus’, wherever it 
 Certain independent tribes, whom Arrian calls Abastanoi, Xathroi or Oxathroi, and Ossadioi, submitted or were subjugated, and it is noted that galleys of thirty oars and transport vessels were built and supplied by the Xathroi.[^sec-12-fn-016] Although it is impossible to determine precisely either the correct names or the true positions of the tribes in Northern Sind mentioned by the various ancient authorities, the region occupied by the tribes referred to seems to be that lying to the north and south of N. lat. 28° and between E. long. 69° and 70° 30′. During this stage of the campaign, Krateros, who hitherto, from the beginning, had always marched on the right, or western, bank of each successive river, was transferred to the left, or eastern bank, which offered greater facilities for movement and was occupied by tribes less hostile than those on the other bank.[^sec-12-fn-017]
 
 > _[Margin: Kingdom of Mousikanos.]_
+
 Alexander now hurried on in order to surprise the powerful monarch called Mousikanos by Arrian, who had proudly abstained from sending envoys or presents to the invader.
 
 
@@ -1498,101 +1708,122 @@ Alexander now hurried on in order to surprise the powerful monarch called Mousik
 The capital of this stiff-necked king may be probably, although not certainly, identified with Alōr or Arōr, the ancient capital of Sind, now included in the Sukkur District, and situated in N. lat. 27° 39′, E. long. 68° 59′. The peculiarities of the people of this kingdom excited the surprise and admiration of the Macedonians. The inhabitants were believed to attain the age of a hundred and thirty years, their longevity being the result of good health secured by temperance in diet. Although their country possessed mines of both gold and silver, they refused to make use of either metal. Unlike the other Indians, they kept no slaves, employing in their stead ‘young men in the flower of their age, as the Cretans employ the Aphamiōtai, and the Lacedaemonians the Helots’. They also resembled the Lacedaemonians in observing the custom of a public meal, at which the food served was the produce of the chase. They decline to study any science save that of medicine, and were reputed to have no system of civil law, the jurisdiction of the courts being confined to cases of murder and other violent crime.[^sec-12-fn-018]
 
 > _[Margin: Submission and revolt of Mousikanos.]_
+
 King Mousikanos, like the Malloi, being completely surprised by the rapidity of the movements of Alexander, who had reached the frontier before his departure from his last camp had been reported, hastened to meet the conqueror, bringing with him all his elephants and the choicest presents which India could offer. Alexander, with his habitual readiness to accept submission, received the king courteously, expressed much admiration of his capital and realm, and confirmed him in his sovereignty. But Mousikanos, acting under the advice of Brahman councillors, quickly repented of his ready submission, and revolted. Peithōn, the son of Agēnōr, who had been appointed satrap of the country to [p. 106] the south of the territory entrusted to Philippos, was sent in pursuit of the rebel ; [^sec-12-fn-019] while Alexander in person operated against the towns, some of which were destroyed, while others were occupied by garrisons. Mousikanos, having been captured by Peithōn, was executed along with the Brahmans who had instigated his defection.[^sec-12-fn-020]
 
 > _[Margin: Oxykanos and Sambos.]_
+
 Alexander next marched with a flying column against a chief named Oxykanos, who was taken prisoner. His two principal cities having been sacked, the other towns in the neighbourhood surrendered without attempting resistance ; ‘so much were the minds of all the Indians paralysed with abject terror by Alexander and the success of his arms.’ [^sec-12-fn-021] Another chieftain, named Sambos, whose capital was Sindimana,[^sec-12-fn-022] and who had fled in terror, surrendered ; and more Brahmans, who had instigated the revolt of an unnamed town, were executed. It is said that during this campaign on the Lower Indus 80,000 of the natives were killed, and multitudes sold as slaves.
 
 After the execution of Mousikanos, the ruler of the Delta, which was known to the Greeks as Patalēnē, from its capital Patala, arrived in camp and proffered the submission of his kingdom, which was accepted. He was sent back to his country to prepare for the reception of the expedition.
 
 > _[Margin: Krateros sent home.]_
+
 About the same time Krateros, one of Alexander’s most trusted lieutenants, was detached with orders to conduct a large portion of the army into Karmania by the route leading through the territories of Arachosia (Kandahār) [p. 107] and Drangiana (Sistān).[^sec-12-fn-023] The troops entrusted to Krateros comprised the brigades (*τάξεις*) of Attalos, Meleager, and Antigenes, besides some of the archers, the ‘companions’ or guards, and other Macedonians unfit for further active service. The elephants also accompanied this force.
 
 > _[Margin: Alexander's advance to Patala.]_
+
 Alexander in person retained the command of the troops serving as marines, while Hephaistion was given supreme command of the rest of the army, which advanced on the right bank of the river. Krateros, who had been transferred to the left bank in Upper Sind, had, of course, been obliged to recross the stream in order to begin his homeward march. His place on the left bank was now taken by Peithōn, son of Agēnōr, who was given a mounted force of lancers and Agrianians, with instructions to place colonists in certain fortified towns, to suppress attempts at insurrection, maintain order, and ultimately rejoin Alexander at Patala. The prince (*ὕπαρχος*) and people of that city fled in terror, but were mostly reassured and induced to return to their homes (Arrian, *Anab.* vi, 17).
 
 > _[Margin: Patala.]_
+
 The position of the city of Patala has been much disputed; but the best opinion is that it was at or near the very ancient site of Bahmanābād, situated in N. lat. 25° 52′ and E. long. 68° 52′, some 6 miles westward from the more modern city of Mansūriya. The apex of the Delta was probably near Kalari, about 40 miles north of Bahmanābād, in approximately N. lat. 26° 40′ and E. long. 68° 30′. For the discussion of Alexander’s movements the identity of Patala and Bahmanābād may be assumed, although it cannot be fully proved.[^sec-12-fn-024]
 
 
 <!-- page: 138 | folio: 108 -->
 > _[Margin: Exploration of Delta.]_
+
 Alexander, considering Patala to be a position of high strategical importance, caused Hephaistion to construct a citadel there and to dig wells in the adjoining region. He proposed to make a great naval station at the point where the river divided, and remained sufficiently long on the spot to see some progress made in the construction of a roadstead and dockyard. He then resolved to explore personally both arms of the river down to the sea, and first sailed down the western or right branch, which probably debouched near or below Dēbal, the ancient port of Sind, distant about 15 miles from Thatha (Tatta). His sailors, accustomed to the tideless waters of the Mediterranean, were thrown into a state of great alarm and confusion by the ebb and flow of the tide, but ultimately Alexander succeeded in pushing on with some of the fastest vessels, and reaching the open sea. He sailed out a few miles into the deep, sacrificed bulls to Poseidon, and followed up the sacrifice by a libation, casting the golden vessels used in the ceremony into the ocean as a thank-offering.[^sec-12-fn-025]
 
 > _[Margin: Preparations for leaving India.]_
+
 He then returned to Patala, where he found the works of the new naval station well advanced, and proceeded to [p. 109] explore the eastern, or left, branch of the river. Near its mouth he passed through a large lake, apparently that now known as the Samārāh lake, to the west of Umarkōt, and again reached the sea-shore in about latitude 25°.[^sec-12-fn-026] Having spent three days in reconnoitring the coast and arranging for the construction of wells, he returned to Patala. Harbours and docks were built on the shores of the lake, and furnished with garrisons. Provisions to supply the forces for four months were collected, and all other necessary preparations were made for the two bold enterprises which he had planned : the voyage of the fleet along the coast to the Persian Gulf, and his own march with the army through Gedrosia in a direction, so far as might be practicable, parallel to the course of the fleet.
 
 > _[Margin: Alexander’s plans.]_
+
 His plans were conceived upon a comprehensive scale. Nearchos, the admiral who had successfully commanded the [p. 110] flotilla during the ten months' voyage from Jihlam to the sea, was instructed to bring the fleet round the coast into the Persian Gulf as far as the mouth of the Euphrates, and to record careful observations of the strange lands and seas which he should visit. Alexander himself proposed to conduct the army back to Persia through the wilds of the country then called Gedrosia, and now known as Makrān, hitherto untrodden save by the legendary hosts of Semiramis and Cyrus, whom he desired to surpass. The king, who was independent of the winds, started on his march about the beginning of October, 325 <span class="sc">b. c.</span> Nearchos, being obliged to watch for the change of the monsoon, did not leave his anchorage in the river until two or three weeks later.[^sec-12-fn-027]
 
 > _[Margin: Gedrosia.]_
+
 Although Gedrosia has usually remained outside the Indian political system, the province, or part of it, has been included from time to time within the dominions of the sovereigns of Hind, and its history cannot be regarded as altogether foreign to the history of India. But the satrapy of Gedrosia undoubtedly lay beyond the limits of India proper, and a summary narrative of the adventures met with by Nearchos on its coast and by his sovereign in its deserts will be sufficient to complete the story of Alexander's Indian campaign.
 
 > _[Margin: Alexander's Haven.]_
+
 Nearchos was detained for several days in the river, and, after much difficulty in making a passage for the ships round a bar, which obstructed the mouth of the western branch, ultimately got out to sea.[^sec-12-fn-028] Contrary winds detained him for twenty-four days in a secure harbour, to which he gave the name of Alexander's Haven. The coast-line has been changed so much by both accretion and denudation that [p. 111] attempts at detailed identifications of places near the mouth of the river are waste of time, but it is safe to affirm that the haven where Nearchos found shelter was not very far from the modern Karāchī (Kurrachee).[^sec-12-fn-029] The admiral then crept cautiously along the inhospitable coast, his crews often suffering severely from lack of provisions and fresh water. After travelling 100 miles or so (850 *stadia*), the fleet reached the mouth of the river Arabis (the Habb), which formed the boundary between the Arabioi, the last people of Indian descent settled in this direction, and the Oreitai, who occupied an extensive territory to the west of the river.[^sec-12-fn-030]
 
 > _[Margin: The Oreitai.]_
+
 Having traversed an estimated distance of 800 *stadia* more, the fleet reached a place called Kokala, where the wearied crews were allowed to disembark and enjoy much needed rest. While the sailors were reposing here in a fortified camp (*Indika*, 23), Nearchos came into touch with Leonnātos, whom Alexander had detached with a field force to subdue the Oreitai (*Anab.* vi, 22). News arrived that a great battle had been fought in which Leonnātos had defeated the natives with terrible slaughter. The Oreitai are said to have lost 6,000 men and all their leaders out of a total force of 8,000 foot and 300 horse.[^sec-12-fn-031] The Macedonian loss, although numerically small, was noteworthy because it included the colleague of Leonnātos, Apollophanes, who had recently been appointed satrap of the country.[^sec-12-fn-032] Communications between Leonnātos and Nearchos having been established, the fleet was repaired and victualled, and sailors who had proved inefficient at sea were drafted into the army, their places being taken by [p. 112] men selected from the troops under the command of Leonnātos.
 
 > _[Margin: The savages.]_
+
 Continuing their voyage westward, the ships passed along the coast near the mouth of the river Tomēros,[^sec-12-fn-033] which was inhabited by a race of savages, ignorant of the use of iron, and armed only with wooden spears charred at the point to harden them. These wild men were covered with shaggy hair all over the body, and had claw-like nails strong enough to rip up fish and to split the softer kinds of wood. Their clothing was made of the skins of wild beasts or those of the larger fishes. After a skirmish with the savages, the fleet delayed for five days to effect repairs, and on the sixth day reached the rocky headland named Malana (now Rās Mālin) the western boundary of the Oreitai, who were not savages, but were dressed and armed like the inhabitants of India, although differing from them in language and customs.[^sec-12-fn-034]
 
 > _[Margin: The Gedrosioi and Ichthyophagoi.]_
+
 When the Malana cape had been passed, the inland people were known as Gedrosioi, and no longer as Oreitai.[^sec-12-fn-035] The inhabitants of the coast continued to astonish the voyagers by their strange manners and customs. ‘These poor wretches’, we are told, ‘had nothing but fish to live on’, and so they were dubbed Ichthyophagoi, or ‘Fish-eaters’, by the Greeks. Whales, which were numerous along this coast, although very alarming to the sailors of the fleet, were extremely useful to the natives on shore, and supplied the materials for the better houses, which were built of whales’ bones, the huge jaws serving as doorways, as they do still.[^sec-12-fn-036]
 
 
 <!-- page: 143 | folio: 113 -->
 > _[Margin: Enchanted isle.]_
+
 The seamen on board the ships of Nearchos, being superstitious like the sailors of all ages and countries, were much frightened at the weird tales told about an uninhabited island, which Arrian calls Nosala (*Indika*, 31), and which is now known as Astola, Astalu, Hashtalu, or Haftala—the Selēra of Philostratus. It lies nearly midway between Urmera and Pasni headlands, and is to this day as much an object of dread to the Med fishermen as it was long ago to the Greek sailors.[^sec-12-fn-037]
 
 > _[Margin: Arrival of fleet at Ormuz.]_
+
 Thus threading their way through all dangers, real or imaginary, the explorers made their way to a port called Badis, near Cape Jask at the entrance to the Straits of Ormuz, and so came into touch with the more civilized province of Karmania. Proceeding through the straits, the delighted mariners found themselves at Harmozeia (Ormuz), a charming place, producing everything that they wanted, except olives. Here the men came ashore and were gratefully enjoying their rest, when some of the more adventurous spirits strolled inland, and were astounded to meet a stranger wearing Greek clothes and speaking Greek. Tears came to their eyes as they heard the familiar sounds of home in that strange and distant land. Explanations having been exchanged, the stranger proved to be a straggler from Alexander's army, and gave the welcome information that the king was only five days' march distant.
 
 > _[Margin: Meeting of Nearchos and Alexander.]_
+
 Nearchos and Archias at once arranged to go inland to meet their sovereign, and, after many difficulties, made their way to his presence, but so ragged and unkempt were they that Alexander at first could not recognize them. When at last he was convinced of his friends' identity, he assumed [p. 114] hastily that they must be the sole miserable survivors from his lost fleet, and was in despair at the imagined disaster. But he was soon reassured by Nearchos, who told him that the ships were safe and sound, hauled up at the mouth of the Anamis river for repairs.
 
 > _[Margin: Voyage to the Tigris.]_
+
 The admiral, having volunteered to conduct the fleet up the Gulf to Sūsa, returned to the coast, to which he was obliged to fight his way, and thence sailed on, with little adventure, to the mouth of the Euphrates. He then heard of Alexander's approach to Sūsa, and turning back, entered the Tigris to meet him, and ' it was thus that the expedition which had started from the mouth of the Indus was brought in safety to Alexander' (Arrian, *Indika*, 42).
 
 > _[Margin: Sufferings of Alexander's army.]_
+
 The difficulties encountered by the army under the command of Alexander were even greater than those met and overcome by the fleet under Nearchos. The king seems to have been ignorant of the existence of the Hala range of mountains, which terminates in Cape Mālin. This great obstacle, which he was obliged to turn, deranged his plans, and compelled him to penetrate far into the interior, and for a time to lose touch with the fleet. The army suffered agonies from thirst, and the unfortunate followers perished by thousands. ' The blazing heat and want of water,' Arrian tells us, 'destroyed a great part of the army, and especially the beasts of burden, which perished from the great depth of the sand, and the heat which scorched like fire, while a great many died of thirst.' Ultimately, the remnant of the force worked its way back to the coast, emerging near the harbour of Pasni, almost on the line where the telegraph wire now runs, and its sufferings were at an end. But the soldiers had been obliged ' to burn the rich spoils taken from their enemies, for the sake of which they had marched to the utmost extremities of the East'. The success of the general was the ruin of the private.
 
 > _[Margin: Revolt in Panjāb.]_
-While the army was still in Karmania, a report was received that Philippos, satrap of the Indian provinces north of the confluence of the Akesinēs with the Indus, had been treacherously murdered by his mercenary troops. Although
+
+While the army was still in Karmania, a report was received that Philippos, satrap of the Indian provinces north of the confluence of the Akesinēs with the Indus, had been treacherously murdered by his mercenary troops. Although [p. 115] this disquieting communication was accompanied by the information that the murderers had been slain by the satrap’s Macedonian body-guard, Alexander was not then in a position to make permanent arrangements, and was obliged to content himself with sending a dispatch to India directing Āmbhi, king of Taxila, and Eudēmos, commandant of a Thracian contingent on the Upper Indus (Curtius, x, 1, 11), to assume the administration of the province until a satrap could be appointed in due course. The death of Alexander at Babylon in the following year (June, 323 <span class="sc">b. c.</span>)[^sec-12-fn-038] effectually prevented any attempt being made to retain effective control over the conquered countries east of the Indus.
 
 
 <!-- page: 145 | folio: 115 -->
 
-![ALEXANDER THE GREAT: THE TIVOLI HERM](../figures/fig-008_p0145.webp)
-
-(See page xi)
-
-
-<!-- page: 147 | folio: 115 -->
-this disquieting communication was accompanied by the information that the murderers had been slain by the satrap’s Macedonian body-guard, Alexander was not then in a position to make permanent arrangements, and was obliged to content himself with sending a dispatch to India directing Āmbhi, king of Taxila, and Eudēmos, commandant of a Thracian contingent on the Upper Indus (Curtius, x, 1, 11), to assume the administration of the province until a satrap could be appointed in due course. The death of Alexander at Babylon in the following year (June, 323 <span class="sc">b. c.</span>)[^sec-12-fn-038] effectually prevented any attempt being made to retain effective control over the conquered countries east of the Indus.
+![ALEXANDER THE GREAT: THE TIVOLI HERM — (See page xi)](../figures/fig-008_p0145.webp)
 
 > _[Margin: India abandoned by Macedonian government.]_
+
 When the second partition of the empire was effected at Triparadeisos in 321 <span class="sc">b. c.</span>, Antipater practically recognized the independence of India by appointing the native kings Pōros and Āmbhi as a matter of form to the charge of the Indus valley and Panjāb. Peithōn, whom Alexander had appointed satrap of the Indus Delta, was transferred to the provinces ‘which bordered on the Paropanisadai’, i. e. to Arachosia, &c., west of the Indus, and India was abandoned by the Macedonian government in reality, though not in name.[^sec-12-fn-039] Eudēmos, alone of the Macedonian officers, retained some authority in the Indus valley until about 317.[^sec-12-fn-040]
 
 > _[Margin: Duration of Alexander’s campaign.]_
+
 The Indian expedition of Alexander may be said to have lasted for three years, from May, 327 <span class="sc">b. c.</span>, when he crossed the Hindū Kush, to May, 324 <span class="sc">b. c.</span>, when he entered Sūsa. Out of this period about nineteen months were spent in India east of the Indus, from February or March, 326 <span class="sc">b. c.</span>, [p. 116] when he crossed the bridge at Ohind, until September or October in the following year, when he entered the territory of the Arabioi.
 
 > _[Margin: The genius of Alexander.]_
+
 Looked at merely from the soldier's point of view, the achievements wrought in that brief space of time are marvellous and incomparable. The strategy, tactics, and organization of the operations give the reader of the story the impression that in all these matters perfection was attained. The professional military critic may justly blame Alexander, as his own officers blamed him, for excessive display of personal heroism, and needless exposure to danger of the precious life upon which the safety of the whole army depended; but criticism is silenced by admiration, and by the reflection that the example set by the king's reckless daring was of incalculable value as a stimulus and encouragement to troops often ready to despair of success.
 
 > _[Margin: Three great enterprises.]_
+
 The descent of the rivers to the ocean through the territories of civilized and well-armed nations, admittedly the best soldiers in the east, and the voyage of Nearchos from the Indus to the Tigris, may fairly be described as unqualified successes. The third great enterprise, the retirement of the army led by Alexander in person through Gedrosia,[^sec-12-fn-041] would have been equally prosperous but for the occurrence of physical difficulties, which could not be foreseen owing to the imperfection of the information at the king's command. But even this operation was not a failure. Notwithstanding the terrible privations endured and the heavy losses suffered, the army emerged from the deserts as an organized and disciplined force, and its commander's purpose was attained.
 
 > _[Margin: Substantial success.]_
+
 On the whole, Alexander's Indian campaign was a success. It was not really marred by the mutiny at the Hyphasis. If his soldiers had permitted him to plunge more deeply into the interior, he would probably have been unable to maintain the communication with his European base on which his safety depended, and his small, isolated force might have been overwhelmed by the mere numbers of his adversaries. Koinos and his fellow remonstrants may be credited with [p. 117] having prevented the annihilation of the Macedonian army.
 
 > _[Margin: Asiatic weakness.]_
+
 The triumphant progress of Alexander from the Himalaya to the sea demonstrated the inherent weakness of the greatest Asiatic armies when confronted with European skill and discipline. The dreaded elephants lost their terrors, and proved to be a poor defence against the Macedonian cavalry. The unopposed march of Krateros from Sind to Persia through Sīstān opened up an alternative land route and solved the problem of easy overland communication with Europe. The circumnavigation of the coast by Nearchos gave Alexander a third line of communication by sea, and, if he had lived, there is no reason to suppose that he would have experienced serious difficulty in retaining his hold upon the Panjāb and Sind.
 
 > _[Margin: Effects of Alexander's death.]_
+
 All his proceedings prove conclusively that he intended the permanent annexation of those provinces to his empire, and the measures which he took for the purpose were apparently adequate to ensure success. But Alexander's premature death destroyed the fruits of his well-planned and successful enterprise. Within three years of his departure, his officers had been ousted, his garrisons destroyed, and almost all trace of his rule had disappeared. The colonies which he founded in India, unlike those established in the other Asiatic provinces, took no root. The campaign, although carefully designed to secure a permanent conquest, was in actual effect no more than a brilliantly successful raid on a gigantic scale, which left upon India no mark save the horrid scars of bloody war.[^sec-12-fn-042]
 
 > _[Margin: India unchanged.]_
+
 India remained unchanged. The wounds of battle were quickly healed; the ravaged fields smiled again as the patient oxen and no less patient husbandmen resumed their interrupted labours; and the places of the slain myriads [p. 118] were filled by the teeming swarms of a population, which knows no limit save those imposed by the cruelty of man, or the still more pitiless operations of nature. India was not hellenized. She continued to live her life of ‘splendid isolation’, and soon forgot the passing of the Macedonian storm.[^sec-12-fn-043] No Indian author, Hindu, Buddhist, or Jain, makes even the faintest allusion to Alexander or his deeds.
 
 > ‘The East bowed low before the  
@@ -1718,9 +1949,11 @@ III. October, 325, to April, 324, inclusive : march to Sūsa, seven months.
 ##### <span class="sc">FROM</span> 322 <span class="sc">B. C. TO</span> 273 <span class="sc">B. C.</span>
 
 > _[Margin: Eudēmos.]_
+
 <span class="sc">When Alexander</span> quitted the Panjāb he posted no Macedonian garrisons in that province, making over the care of his interests to king Pōros, who must have been independent in practice. Āmbhi, king of Taxila, was also entrusted with authority as a colleague of Pōros. After the assassination of Philippos, Alexander had sent orders from Karmania to Eudēmos, commandant of a Thracian garrison on the Indus, to act as Resident pending the appointment of a satrap, and to supervise the native princes. But the officer had no adequate force at his command to enforce his authority, which must have been purely nominal. He managed, however, to remain in India, probably somewhere in the basin of the Indus, until about 317 <span class="sc">b. c.</span>, when he departed to help Eumenes against Antigonos, taking with him a hundred and twenty elephants, and a small force of infantry and cavalry. He had obtained the elephants by treacherously slaying a native prince, perhaps Pōros, with whom he had been associated as a colleague.[^sec-13-fn-001]
 
 > _[Margin: Peithōn, &c.]_
+
 The province of Sind, on the Lower Indus, below the great confluence of the rivers, which had been entrusted by Alexander to Peithōn, son of Agēnōr, remained under Greek influence for a period still shorter. At the time of the second partition of the Macedonian empire in 321 <span class="sc">b. c.</span> at Triparadeisos, Antipater was avowedly unable to exercise any effective control over the Indian Rājas,[^sec-13-fn-002] and Peithōn had been obliged already to retire to the west of the Indus.
 
 
@@ -1728,56 +1961,68 @@ The province of Sind, on the Lower Indus, below the great confluence of the rive
 The Indian provinces to the east of the river were consequently ignored in the partition, and Peithōn was content to accept the government of the regions bordering on the Paropanisadai, or Kābul country. That country probably continued to be administered by Roxana's father Oxyartes, whom Alexander had appointed satrap. Sibyrtios was confirmed in the government of Arachosia and Gedrosia ; Stasandros, the Cyprian, was given Aria and Drangiana, and his countryman Stasanor was appointed governor of Bactria and Sogdiana.[^sec-13-fn-003] These arrangements clearly prove that in 321 <span class="sc">b. c.</span>, within two years of Alexander's death, the Greek power, to the east of the Indus, had been extinguished, with the slight exception of the small territory, wherever it may have been, which Eudēmos managed to hold for some four years longer.
 
 > _[Margin: Native revolt.]_
+
 The insecurity of the Macedonian authority in the newly annexed Indian provinces had been proved by the assassination of Philippos, the report of which was received while Alexander was in Karmania, and might be expected to return some day to the scene of his victories. His death in June, 323 <span class="sc">b. c.</span>, dispelled all fears of his return, and the native princes undoubtedly took the earliest possible opportunity to assert their independence and exterminate the weak foreign garrisons. The news of Alexander's decease was known in India probably as early as August, but no serious fighting would have been undertaken by ordinary commanders until the beginning of the cold season in October ; for Alexander's indifference to climatic conditions was not shared by Indian chiefs, who were accustomed to regulate their military movements strictly in accordance with precedent. We may feel assured that as soon as the news of the conqueror's death had been confirmed beyond doubt, and the season permitted the execution of military operations with facility, a general rising took place, and that Macedonian authority in India was at an end early in [p. 123] 322 <span class="sc">B. C.</span>, except the small remnant to which Eudēmos continued to cling.
 
 > _[Margin: Early life of Chandragupta.]_
+
 The leader of the revolt against the foreigners was an able adventurer, Chandragupta by name, at that time a young man, probably not more than twenty-five years of age. On the father's side he was a scion of the royal house of Magadha—the principal state in Northern India—and it has hitherto been supposed that his mother, or, according to another version, his grandmother, was of lowly origin, and that, in accordance with Hindu law, he belonged to her caste, and had to bear the reproach of inferior social rank. The family name Maurya, assumed by the members of the dynasty founded by Chandragupta, is said to be a derivative from Murā, his mother's or grandmother's name. There are, however, grounds for holding that Chandragupta, so far from being of low caste, was related to the respectable Early Nandas. Whatever be the truth, young Chandragupta in some way incurred the displeasure of his kinsman, Mahāpadma Nanda, the reigning king of Magadha, and was obliged to go into exile.[^sec-13-fn-004] During his banishment he had the good fortune to see Alexander, and is said to have expressed the opinion that the Macedonian king, if he had advanced, would have made an easy conquest of the great kingdom on the Ganges, by reason of the extreme unpopularity of the reigning monarch.[^sec-13-fn-005] Mahāpadma Nanda was reputed to be the son of a barber, who had secured the affections of the late queen. The guilty pair had then murdered the king, whose throne was seized by the barber-paramour. His son, the now reigning monarch, was avaricious and profligate, and naturally possessed few friends.
 
 
 <!-- page: 156 | folio: 124 -->
 > _[Margin: Usurpation of throne of Magadha. 322 <span class="sc">b. c.</span>]_
+
 Chandragupta, having collected, during his exile, a formidable force of the warlike and predatory clans on the north-western frontier, attacked the Macedonian garrisons after Alexander's death, and conquered the Panjāb. It appears probable that before he undertook the expulsion of the foreign garrisons, he had already overthrown his unpopular relation, the Nanda king of Magadha, whom he deposed and slew. The dramatist who tells the story asserts, and no doubt with truth, that Nanda's race perished utterly and was exterminated. The adviser of the youthful and inexperienced Chandragupta in this revolution was a Brahman named Vishnugupta, better known by his patronymic Chānakya, or his surname Kautilya, by whose aid he succeeded in seizing the vacant throne. But the people did not gain much by the change of masters, because Chandragupta, ‘after his victory, forfeited by his tyranny all title to the name of liberator, oppressing with servitude the very people whom he had emancipated from foreign thraldom’. He inherited from his Nanda predecessor a huge army, which he increased until it numbered 30,000 cavalry, 9,000 elephants, 600,000 infantry, and a multitude of chariots. With this irresistible force all the Northern States, probably as far as the Narbadā, or even farther, were overrun and subjugated; so that the dominions of Chandragupta, the first historical paramount sovereign or emperor in India, extended from the Bay of Bengal to the Arabian Sea.
 
 > _[Margin: Invasion of Seleukos Nikator.]_
 > _[Locus: 312 <span class="sc">b. c.</span>]_
 > _[Locus: 305 <span class="sc">b. c.</span>]_
+
 While Chandragupta was engaged in the consolidation of his empire, a rival was laying the foundations of his power in Western and Central Asia, and preparing to attempt the recovery of Alexander's Indian conquests. In the course of the internecine struggle between the generals of Alexander, two had emerged as competitors for supreme power in Asia —Antigonos and Seleukos, who afterwards became known as Nikātor, or the Conqueror. Fortune at first favoured Antigonos, and drove his antagonist into exile; but, in 312 <span class="sc">b. c.</span>, Seleukos recovered possession of Babylon, and six years later felt himself justified in assuming the regal style [p. 125] and title. He is conventionally described as king of Syria, but was in reality the lord of Western and Central Asia.[^sec-13-fn-006] The eastern provinces of his realm extended to the borders of India; and he naturally desired to recover the Macedonian conquests in that country, which had been practically abandoned, although never formally relinquished. In pursuit of this object Seleukos crossed the Indus in or about 305 <span class="sc">b. c.</span>, and attempted to imitate the victorious march of Alexander.[^sec-13-fn-007] The details of the campaign are not known, and it is impossible to determine how far the invading army penetrated into the Gangetic valley, if at all, but the result of the war is certain.
 
 > _[Margin: Treaty between Seleukos and Chandragupta.]_
 > _[Locus: 303 <span class="sc">b. c.</span>]_
 > _[Margin: Ipsos being 301 <span class="sc">b. c.</span>]_
+
 When the shock of battle came, the hosts of Chandragupta were too strong for the invader, and Seleukos was obliged to retire and conclude a humiliating peace. Not only was he compelled to abandon all thought of conquest in India, but he was constrained to surrender a large part of Ariāna to the west of the Indus. In exchange for the comparatively trifling equivalent of five hundred elephants, Chandragupta received the satrapies of the Paropanisadai, Aria, and Arachosia, the capitals of which were respectively the cities now known as Kābul, Herāt, and Kandahār. The satrapy of Gedrosia, or at least the eastern portion of it, seems also to have been included in the cession, and the high contracting powers ratified the peace by ‘a matrimonial alliance’, which phrase probably means that Seleukos gave a daughter to his Indian rival. This treaty may be dated in 303 <span class="sc">b. c.</span> As soon as it was concluded Seleukos started on his long march westward to confront Antigonos, whom he defeated and slew at Ipsos in Phrygia in 301 <span class="sc">b. c.</span>[^sec-13-fn-008] [p. 126] distant at least 2,500 miles from the Indus, the march to it must have occupied a year or more.
 
 > _[Margin: North-western frontier.]_
+
 The range of the Hindū Kush mountains, known to the Greeks as the Paropanisos or Indian Caucasus, in this way became the frontier between Chandragupta's provinces of Herāt and Kābul on the south, and the Seleukidan province of Bactria on the north. The first Indian emperor, more than two thousand years ago, thus entered into possession of that 'scientific frontier' sighed for in vain by his English successors, and never held in its entirety even by the Moghal monarchs of the sixteenth and seventeenth centuries.
 
 > _[Margin: Achievements of Chandragupta.]_
 > _[Locus: 298 <span class="sc">b. c.</span>]_
-In the course of some eighteen years Chandragupta had expelled the Macedonian garrisons from the Panjāb and Sind, repulsed and humbled Seleukos the Conqueror, and established himself as undisputed supreme lord of at least all Northern India and a large part of Ariāna. These achievements fairly entitle him to rank among the greatest and most successful kings known to history. A realm so vast and various as that of Chandragupta was not to be governed by weakness. The strong hand which won the empire was needed to keep it, and the government was administered with stern severity.[^sec-13-fn-008] About six years after the withdrawal of Seleukos, Chandragupta either abdicated or
 
-died (298 <span class="sc">b. c.</span>), and handed on the imperial succession to his son Bindusāra, who is also known by the title of Amitraghāta, 'Slayer of Foes.'
+In the course of some eighteen years Chandragupta had expelled the Macedonian garrisons from the Panjāb and Sind, repulsed and humbled Seleukos the Conqueror, and established himself as undisputed supreme lord of at least all Northern India and a large part of Ariāna. These achievements fairly entitle him to rank among the greatest and most successful kings known to history. A realm so vast and various as that of Chandragupta was not to be governed by weakness. The strong hand which won the empire was needed to keep it, and the government was administered with stern severity.[^sec-13-fn-009] About six years after the withdrawal of Seleukos, Chandragupta either abdicated or died (298 <span class="sc">b. c.</span>), and handed on the imperial succession to his son Bindusāra, who is also known by the title of Amitraghāta, 'Slayer of Foes.'
 
 > _[Margin: Megasthenes, *c.* 302 <span class="sc">b.c.</span>]_
+
 Soon after the conclusion of peace in or about 303 <span class="sc">b. c.</span>, Seleukos had sent as his envoy to the court of Chandragupta an officer named Megasthenes, who had been employed under Sibyrtios, satrap of Arachosia. The envoy resided for a considerable [p. 127] time at Pātaliputra (now Patna), the capital of the Indian empire, and employed his leisure in compiling an excellent account of the geography, products, and institutions of India, which continued to be the principal authority on the subject until modern times. Although often misled by erroneous information received from others, Megasthenes is a veracious and trustworthy witness concerning matters which came under his personal observation, and his vivid account of Chandragupta’s civil and military administration may be accepted without hesitation as true and accurate.[^sec-13-fn-010] That account, although preserved in a fragmentary form, is so full and detailed that a modern reader is more minutely informed in many respects concerning the institutions of Chandragupta than he is about those of any Indian sovereign until the days of Akbar, the contemporary of Queen Elizabeth.
 
 > _[Margin: Păṭaliputra, the capital.]_
+
 Pātaliputra, the imperial capital, which had been founded in the fifth century <span class="sc">b. c.</span>, stood in the tongue of land formed by the confluence of the Sōn with the Ganges, on the northern bank of the former, and a few miles distant from the latter. The site is now occupied by the large native city of Patna and the English civil station of Bankipore, but the rivers changed their courses many centuries ago, and the confluence is at present near the cantonment of Dinapore, about 12 miles above Patna. The ancient city, which lies buried below its modern successor, was, like it, a long, narrow parallelogram, measuring about 9 miles in length and 1½ miles in breadth. It was defended by a massive [p. 128] timber palisade, pierced by sixty-four gates, crowned by five hundred and seventy towers, and protected externally by a broad and deep moat, filled from the waters of the Sōn.[^sec-13-fn-011]
 
 > _[Margin: Palace.]_
+
 The royal palace, although chiefly constructed of timber, was considered to excel in splendour and magnificence the palaces of Sūsa and Ekbatana, its gilded pillars being adorned with golden vines and silver birds. The buildings stood in an extensive park, studded with fish-ponds and furnished with a great variety of ornamental trees and shrubs.
 
 > _[Margin: Court.]_
+
 Here the imperial court was maintained with barbaric and luxurious ostentation. Basins and goblets of gold, some measuring six feet in width, richly carved tables and chairs of state, vessels of Indian copper set with precious stones, and gorgeous embroidered robes were to be seen in profusion, and contributed to the brilliancy of the public ceremonies. When the king condescended to show himself in public on state occasions he was carried in a golden palanquin, adorned with tassels of pearls, and was clothed in fine muslin embroidered with purple and gold. When making short journeys he rode on horseback, but when travelling longer distances he was mounted, like a modern [p. 129] Rāja, on an elephant with golden trappings.[^sec-13-fn-012] Combats of animals were a favourite diversion, as they still are at the courts of native princes, and the king took delight in witnessing the fights of bulls, rams, elephants, rhinoceroses, and other animals. Gladiatorial contests between men were also exhibited. A curious entertainment, which seems not to be known in the present age, was afforded by ox-races, which were made the subject of keen betting, and were watched by the king with the closest interest. The course was one of 30 *stadia*, or 6,000 yards, and the race was run with cars, each of which was drawn by a mixed team of horses and oxen, the horses being in the centre with an ox on each side. Trotting oxen are still largely used for drawing travelling carriages in many parts of India, but the breed of racers seems to be extinct.[^sec-13-fn-013]
 
 > _[Margin: Chase.]_
+
 The principal royal amusement was the chase, which was conducted with great ceremony, the game in an enclosed preserve being driven up to a platform occupied by the king, who shot the animals with arrows; but, if the hunt took place in the open country, he used to ride an elephant. When hunting he was closely attended by armed female guards, who were obtained by purchase from foreign countries, and formed an indispensable element in the courts of the ancient Indian monarchs. The road for the sovereign's procession was marked off with ropes, which it was death to pass.[^sec-13-fn-014] The institution of the Royal Hunt was abolished by Chandragupta's grandson, Asoka, in 259 <span class="sc">b. c.</span>
 
 
 <!-- page: 162 | folio: 130 -->
 > _[Margin: Habits of the king.]_
+
 As a rule, the king remained within the precincts of the inner palace, under the protection of his Amazonian body-guard, and appeared in public only to hear causes, offer sacrifice, and to go on military or hunting expeditions. Probably he was expected to show himself to his subjects at least once a day, and then to receive petitions and decide disputes in person. Like the modern Indians, Chandragupta took pleasure in massage or friction of the limbs, and custom required that he should indulge in this luxury while giving public audience; four attendants used to massage him with ebony rollers during the time that he was engaged in disposing of cases.[^sec-13-fn-015] In accordance with Persian custom, which had much influence upon the Indian court and administration, the king ceremonially washed his hair on his birthday, which was celebrated by a splendid festival, at which the nobles were expected to make rich presents to their sovereign.[^sec-13-fn-016]
 
-> _[Locus: Plots.]_
+> _[Margin: Plots.]_
+
 In the midst of all the gold and glitter, and in spite of the most elaborate precautions, uneasy lay the head that [p. 131] wore the crown. The king’s life was so constantly threatened by plots that he dared not incur the risk either of sleeping in the day-time or occupying the same bedroom two nights in succession.[^sec-13-fn-017] The dramatist brings vividly before us the astuteness of the Brahman counsellor who detected the plots of both the poisoners and
 
 > ‘ The brave men who were concealed  
@@ -1786,30 +2031,39 @@ In the midst of all the gold and glitter, and in spite of the most elaborate pre
 > To steal by night, and kill him as he slept ’.[^sec-13-fn-018]
 
 > _[Margin: Military strength.]_
+
 The army, to which Chandragupta owed his throne and empire, was maintained at enormous numerical strength, and so organized, equipped, and administered as to attain a high degree of efficiency, as measured by an Oriental standard. It was not a militia, but a standing army, drawing liberal and regular pay, and supplied by the government with horses, arms, equipment, and stores.[^sec-13-fn-019] The force at the command of Mahāpadma Nanda is said to have numbered 80,000 horse, 200,000 foot, 8,000 chariots, and 6,000 fighting elephants. This huge force was greatly augmented by Chandragupta, who raised the numbers of the infantry to 600,000, and also had 30,000 horse, and 9,000 elephants, besides chariots, all permanently enrolled in a regularly paid establishment.[^sec-13-fn-020] The elephants were esteemed the most valuable section of the imperial host, because, as Chānakya observes, ‘ it is on elephants that the destruction of an enemy’s army depends ’.[^sec-13-fn-021]
 
 > _[Margin: Arms.]_
+
 Each horseman carried two lances, resembling the kind called *saunia* by the Greeks, and a buckler. All the infantry carried the broadsword as their principal weapon, and as additional arms, either javelins, or bow and arrows. The arrow was discharged with the aid of pressure from the left [p. 132] foot on the extremity of the bow resting upon the ground, and with such force that neither shield nor breastplate could withstand it.[^sec-13-fn-022]
 
 > _[Margin: Chariots and elephants.]_
+
 Each chariot, which might be drawn by either four or two horses, accommodated two fighting-men besides the driver ; and an elephant, in addition to the mahout, or driver, carried three archers.[^sec-13-fn-023] The 9,000 elephants therefore implied a force of 36,000 men, and the 8,000 chariots, supposing them to be no more numerous than those kept by Mahāpadma Nanda, required 24,000 men to work them. The total number of soldiers in the army would thus have been 600,000 infantry, 30,000 horsemen, 36,000 men with the elephants, and 24,000 with the chariots, or 690,000 in all, excluding followers and attendants.
 
 > _[Margin: Size of Indian armies.]_
+
 These high figures, which may seem incredible at first sight, are justified by our knowledge of the unwieldy hosts used in war by Indian kings in later ages. For instance, Nuñez, the Portuguese chronicler, who was contemporary with Krishna Deva, the Rāja of Vijayanagar, in the sixteenth century (1509–29), affirms that that prince led against Raichūr an army consisting of 703,000 foot, 32,600 horse, and 551 elephants, besides camp followers.[^sec-13-fn-024]
 
 > _[Margin: War Office.]_
+
 The formidable force at the disposal of Chandragupta, by far the largest in India,[^sec-13-fn-025] was controlled and administered under the direction of a War Office organized on an elaborate system. A commission of thirty members was divided into six Boards, each with five members, to which departments were severally assigned as follows: Board No. I, in [p. 133] co-operation with the admiral—Admiralty; Board No. II— Transport, Commissariat, and Army service, including the provision of drummers, grooms, mechanics, and grasscutters; Board No. III—Infantry; Board No. IV— Cavalry; Board No. V—War-chariots; Board No. VI— Elephants.
 
 > _[Margin: Efficient organization.]_
+
 All Indian armies had been regarded from time immemorial as normally comprising the four arms, cavalry, infantry, elephants, and chariots; and each of these arms would naturally fall under the control of a distinct authority; but the addition of co-ordinate supply and admiralty departments appears to be an innovation due to the genius of Chandragupta. His organization must have been as efficient in practice as it was systematic on paper, for it enabled him not only, in the words of Plutarch, to 'overrun and subdue all India', but also to expel the Macedonian garrisons, and to repel the invasion of Seleukos.
 
 > _[Margin: Civil administration.]_
+
 The details recorded concerning the civil administration of Chandragupta's empire, if not so copious as we might desire, are yet sufficient to enable us to realize the system of government; which, although, of course, based upon the personal autocracy of the sovereign, was something better than a merely arbitrary tyranny.
 
 > _[Margin: Municipal Commission.]_
+
 The administration of the capital city, Pātaliputra, was provided for by the formation of a Municipal Commission, consisting of thirty members, divided, like the War Office Commission of equal numbers, into six Boards or Committees of five members each. These Boards may be regarded as an official development of the ordinary non-official *panchāyat*, or committee of five members, by which every caste and trade in India has been accustomed to regulate its internal affairs from time immemorial.
 
 > _[Margin: Industrial arts.]_
+
 The first Municipal Board, which was entrusted with the superintendence of everything relating to the industrial arts, was doubtless responsible for fixing the rates of wages, and must have been prepared to enforce the use of pure and sound materials, as well as the performance of a fair day's work for fair wages, as determined by the authorities.
 
 
@@ -1817,21 +2071,27 @@ The first Municipal Board, which was entrusted with the superintendence of every
 Artisans were regarded as being in a special manner devoted to the royal service, and capital punishment was inflicted on any person who impaired the efficiency of a craftsman by causing the loss of a hand or an eye.
 
 > _[Margin: Foreigners.]_
+
 The second Board devoted its energies to the case of foreign residents and visitors, and performed duties which in modern Europe are entrusted to the consuls representing foreign powers. All foreigners were closely watched by officials, who provided suitable lodgings, escorts, and, in case of need, medical attendance. Deceased strangers were decently buried, and their estates were administered by the commissioners, who forwarded the assets to the persons entitled.[^sec-13-fn-026] The existence of these elaborate regulations is conclusive proof that the Maurya empire in the fourth and third centuries <span class="sc">b. c.</span> was in constant intercourse with foreign states, and that large numbers of strangers visited the capital on business.
 
 > _[Margin: Vital statistics.]_
+
 The third Board was responsible for the systematic registration of births and deaths, and we are expressly informed that the system of registration was enforced for the information of the government, as well as for facility in levying the taxes. The taxation referred to probably was a poll-tax, at the rate of so much a head annually. Nothing in the legislation of Chandragupta is more astonishing to the observer familiar with the lax methods of ordinary Oriental governments than this registration of births and deaths. The spontaneous adoption of such a measure by an Indian native state in modern times is unheard of, and it is impossible to imagine an old-fashioned Rāja feeling anxious ‘that births and deaths among both high and low might not be concealed’. Even the Anglo-Indian administration, with its complex organization and European notions of the value of statistical information, did not attempt the collection [p. 135] of vital statistics until very recent times, and always has experienced great difficulty in securing reasonable accuracy in the figures.
 
 > _[Margin: Trade.]_
+
 The important domain of trade and commerce was the province of the fourth Board, which regulated sales, and enforced the use of duly stamped weights and measures. Merchants paid a licence tax, and the trader who dealt in more than one class of commodity paid double.
 
 > _[Margin: Manufactures.]_
+
 The fifth Board was responsible for the supervision of manufacturers on similar lines. A curious regulation prescribed the separation of new from old goods, and imposed a fine for violation of the rule. The reason for this prescription was that traffic in old goods, whether by sale or mortgage, was prohibited, unless official sanction had been obtained, which could be granted only on certain conditions.[^sec-13-fn-027]
 
 > _[Margin: Tithe on sales.]_
+
 The collection of a tithe of the value of the goods sold was the business of the sixth and last Board, and evasion of this tax was punishable with death. Similar taxation on sales always has been common in India, but rarely, if ever, has its collection been enforced by a penalty so formidable as that exacted by Chandragupta.
 
 > _[Margin: General municipal administration.]_
+
 Our detailed information relates only to the municipal administration of Pātaliputra, the capital, but it is reasonable to infer that Taxila, Ujjain, and the other great cities of the empire were governed on the same principles and by similar methods. The ‘Borderers’ Edict’ of Asoka is addressed to the officers in charge of the city of Tosali in Kalinga.[^sec-13-fn-028]
 
 In addition to the special departmental duties above detailed, the Municipal Commissioners in their collective capacity were required to control all the affairs of the city, and to keep in order the markets, temples, harbours, and generally speaking, all public works.[^sec-13-fn-029]
@@ -1839,152 +2099,197 @@ In addition to the special departmental duties above detailed, the Municipal Com
 
 <!-- page: 168 | folio: 136 -->
 > _[Margin: Viceroys.]_
+
 The administration of the distant provinces was entrusted to viceroys, probably, as a rule, members of the royal family. The information concerning the viceroyalties being more complete for Asoka's reign than for that of Chandragupta, the subject will be referred to again when Asoka's system of administration is discussed.
 
 > _[Margin: News-writers.]_
+
 In accordance with the usual practice of Oriental monarchies, the court kept watch over the more remote functionaries by means of special agents or 'news-writers', the *akhbār navīs* of modern times, who are called 'overseers' and 'inspectors' (ἔφοροι, ἐπίσκοποι) by the Greek authors, and are mentioned in the Asoka Edicts as the king's 'men', (*pulisāni*, Pillar Edict VI), or 'reporters' (*pativedakā*, Rock Edict VI). The duty of these officers was to superintend or oversee all that occurred in town or country and to make private reports to the government. Arrian notes that similar officers were employed by the authorities of the independent nations as well as by the monarchical governments of India. They did not disdain to utilize as coadjutors the courtesans of the camp and city, and must have transmitted at times to their masters strange packets of scandalous gossip.[^sec-13-fn-030] Arrian's informants assured him that the reports sent in were always true, and that no Indian could be [p. 137] accused of lying ; but it is permissible to doubt the strict accuracy of this statement, although it is certainly the fact that the people of ancient India enjoyed a widespread and enviable reputation for straightforwardness and honesty.[^sec-13-fn-031]
 
 > _[Margin: Penal code.]_
+
 The general honesty of the people and the efficient administration of the criminal law are both attested by the observation recorded by Megasthenes, that while he resided in Chandragupta's camp, containing 400,000 persons, the total of the thefts reported in any one day did not exceed two hundred *drachmai*, or about eight pounds sterling. When crime did occur it was repressed with terrible severity. Ordinary wounding by mutilation was punished by the corresponding mutilation of the offender, in addition to the amputation of his hand. If the injured person happened to be an artisan devoted to the royal service, the penalty was death. The crime of giving false evidence was visited with mutilation of the extremities ; and in certain unspecified cases, offences were punished by the shaving of the offender's hair, a penalty regarded as specially infamous.[^sec-13-fn-032] Injury to a sacred tree,[^sec-13-fn-033] evasion of the municipal tithe on goods sold, and intrusion on the royal procession going to the hunt were all alike capitally punishable. These recorded instances of severity are sufficient to prove that the code of criminal law, as a whole, must have been characterized by uncompromising sternness and slight regard for human life.
 
 > _[Margin: Land revenue.]_
+
 The native law of India has ordinarily recognized agricultural [p. 138] land as being crown property, and has admitted the undoubted right of the ruling power to levy a crown rent, or ‘land revenue’, amounting to a considerable portion, either of the gross produce or of its cash value.[^sec-13-fn-034] Even the English laws, which, contrary to general ancient custom, recognize private property in cultivable land, insist that the land revenue is the first charge on the soil, and permit the enforcement of the charge by sale of the land free of all incumbrances, in the event of default. The land revenue is still the mainstay of Indian finance. So it must have been in the days of Chandragupta. The details of his system of ‘settlement’, or valuation and assessment of the land, have not been preserved, and it is not known whether a fresh valuation was made annually, or at longer intervals. The normal share of the gross produce taken by the Crown is said to have been one-fourth; but in practice, no doubt, the proportion taken varied largely, as it does to this day, and all provinces could not be treated alike. Certain other unspecified dues were also levied. The army being a professional force, recruited from the fighting castes, the agricultural population was exempt from military service; and Megasthenes noted with surprise and admiration that the husbandmen could pursue their calling in peace, while the professional soldiers of hostile kings engaged in battle.[^sec-13-fn-035]
 
 > _[Margin: Irrigation.]_
+
 The proper regulation of irrigation is a matter of prime [p. 139] importance in India; and it is much to the credit of Chandragupta that he maintained a special Irrigation Department charged with the duty of measuring the lands, and so regulating the sluices that every one should receive his fair share of the life-giving water. The allusion to the measurement of lands as part of the duty of the Irrigation Department indicates that a water-rate must have been levied, and the reference to sluices implies a regular system of canals.[^sec-13-fn-036]
 
 > _[Margin: The Sudarśana lake.]_
+
 The inscription of the Satrap Rudradāman, engraved soon after the year <span class="sc">a. d.</span> 150 on the famous rock at Girnār in Kāthiāwār, on which Asoka, four centuries earlier, had recorded a version of his immortal edicts, bears direct testimony to the care bestowed by the central government upon the question of irrigation, even in the most remote provinces. Although Girnār is situated close to the Arabian Sea, at a distance of at least 1,000 miles from the Maurya capital, the needs of the local farmers did not escape the imperial notice. Pushyagupta, the Vaisya, who was Chandragupta’s governor of the western provinces, saw that by damming up a small stream a reservoir of great value for irrigation could be provided. He accordingly formed a lake called Sudarsana, ‘the Beautiful’, between the citadel on the east side of the hill and the ‘inscription rock’ farther to the east, but failed to complete the necessary supplemental channels. These were constructed in the reign of Chandragupta’s grandson Asoka, under the superintendence of his representative, Rāja Tushāspha, who was then viceroy. These beneficent works constructed under the patronage of the Maurya emperors endured for four hundred years, but in the year <span class="sc">a. d.</span> 150 a storm of exceptional violence destroyed the embankment, and with it the lake.
 
 > _[Margin: Rebuilding of the dam.]_
+
 The embankment was then rebuilt ‘three times stronger’ than before by order of the Saka Satrap Rudradāman, who has recorded the history of the work in an inscription which is the only known epigraphic record containing the names [p. 140] of Chandragupta and Asoka Maurya. Notwithstanding the triple strength of Rudradāman’s masonry, it too failed to withstand the fury of the elements; the dam again burst, and was repaired once more in <span class="sc">a. d.</span> 458 by the local governor serving under Skandagupta. At some time unknown these ancient works fell to ruin, and the lake thus finally disappeared. Its site, buried in deep jungle, was so utterly forgotten that modern local inquirers have experienced difficulty in ascertaining its exact position.
 
 > _[Margin: Imperial care for irrigation.]_
+
 The fact that so much pains and expense were lavished upon this irrigation work in a remote dependency of the empire is conclusive evidence that the provision of water for the fields was recognized as an imperative duty by the great Maurya emperors, and is a striking illustration of the accuracy of Megasthenes’ remark that imperial officers were wont to ‘measure the land, as in Egypt, and inspect the sluices by which water is distributed into the branch canals, so that every one may enjoy his fair share of the benefit’.[^sec-13-fn-037]
 
 > _[Margin: Strict control.]_
+
 The central government, by means of local officers, exercised strict control and maintained close supervision over all classes and castes of the population. Even the Brahman astrologers and soothsayers, and sacrificial priests, whom Megasthenes erroneously described as forming a separate class of ‘philosophers’ or ‘sophists’,[^sec-13-fn-038] received [p. 141] their share of official attention, and were rewarded or punished according as their predictions and observations proved correct or mistaken. Among the artisans, shipbuilders and armour-makers were salaried public servants, and were not permitted, it is said, to work for any private person. The wood-cutters, carpenters, blacksmiths, and miners were subject to special supervision, of which the nature is not defined.
 
 > _[Margin: Riding regulations.]_
+
 According to Strabo, no private person was permitted to keep either a horse or an elephant, the possession of either animal being a royal privilege. But this assertion is undoubtedly inaccurate, if taken as applicable to all parts of the country, and is corrected by the reasonable and detailed observations of Arrian (*Indika*, 17). That author tells us that the mounts used commonly were horses, camels, and asses, elephants being used only by the wealthy, and considered specially appropriate for the service of royalty. Except as regards asses, which are now looked upon with contempt, and restricted to the humblest services as beasts of burden for potters and washermen, the statement of Arrian applies accurately to modern India.[^sec-13-fn-039] To ride an elephant [p. 142] or camel, or in a four-horsed chariot was, he says, a mark of distinction, but anybody might ride or drive a single horse.[^sec-13-fn-040] The *ekka*, or light carriage drawn by a single pony, still so much used in Northern India, is a very ancient conveyance.
 
 > _[Margin: Roads.]_
+
 The roads were maintained in order by the officers of the proper department; and pillars, serving as milestones and sign-posts, were set up at intervals of 10 *stadia*, equivalent to a half *kos* according to the Indian reckoning, or 2,022½ English yards. The provision of these useful marks was made more liberally than it was afterwards by the Moghal emperors, who were content with one pillar to each *kos*. A royal, or grand trunk road, 10,000 *stadia* in length, connected the north western frontier with the capital.[^sec-13-fn-041]
 
 > _[Margin: High degree of civilization.]_
+
 The foregoing review of the civil and military system of government during the reign of Chandragupta proves clearly that Northern India in the time of Alexander the Great had attained to a high degree of civilization, which must have been the product of evolution continued through many centuries. Unfortunately no monuments have been discovered which can be referred with certainty to the period of Chandragupta or his son, and the archaeologist is unable to bring the tangible evidence afforded by excavation to support the statements of the Greek observers. The earliest known examples of Indian art and architecture, with very [p. 143] slight exceptions, still date from the reign of Asoka, when indigenous art had not yet emerged from the primitive stage and when the Emperor himself was employing artists from Bactria or its neighbourhood for the erection of his famous memorials.[^sec-13-fn-042] The exploration hitherto carried out at Taxila has resulted in the discovery of only one relic— an Aramaic inscription of the fourth century <span class="sc">b. c.</span>—which can be ascribed to a period anterior to Asoka. Further exploration at Taxila and of the sites of other cities of high antiquity, like Pātaliputra and Vaisāli, may possibly bring to light remains of the early Maurya period, as well as those of previous ages. It is not likely that the ruins of many recognizable buildings will be found, because the larger edifices of ancient India, like those of modern Burma, probably were constructed of timber for the most part, brick being used merely for foundations and plinths. Unless further exploration discloses an unexpected treasure of early Mauryan sculpture in stone or terra-cotta, materials for the history of art during the early Mauryan period must continue to be scanty. It would be unwise to assert that prior to the reign of Asoka the art of building in stone was absolutely unknown in India, or that all artistic work was executed in perishable material; but the ascertained facts indicate that before his day permanent materials were rarely and sparingly used either for architecture or for ornament.[^sec-13-fn-043] Writing certainly was in common use by certain classes of the population long before the days of Chandragupta; when, according to the Greek authors, the bark of trees and cotton cloth served as writing material,[^sec-13-fn-044] and it is [p. 144] surprising that no inscriptions of his time on more permanent material have yet been found. But some records on either stone or metal probably exist, and may yet come to light.
 
 > _[Margin: Chāṇakya's *Art of Government.*]_
+
 The description of the court and civil and military administration of Chandragupta Maurya, derived mainly from Greek authorities, as given in the preceding pages, was practically uncorroborated when the first edition of this book was published in 1904. But since that time an Indian scholar has made accessible by means of translation, the discourse on the Art of Government traditionally ascribed to Chānakya Vishnugupta, or Kautilya, the Brahman minister of Chandragupta. The researches of German scholars have established beyond doubt the fact that the treatise entitled *Arthaśāstra*, or the Science of Policy, is an authentic composition of the Maurya age. Whether or not it was actually written by Chānakya, as it professes to have been, is immaterial. The book certainly expounds the principles of statecraft current in his age, which must have guided his successful policy. It is of extraordinary value and interest, shedding 'more light upon the realities of ancient India, especially as concerns administration, law, trade, war, and peace, than any text which we possess'. The treatise may be read, from one point of view, as a commentary on and exposition of the notes recorded by the Greek observers. References to a few passages in illustration of certain details from that point of view, have been inserted above in the notes, but a fuller notice of some of [p. 145] the contents is indispensable, and will be found to add largely to the knowledge gained from the writings of the Greek authors.
 
 > _[Margin: *Arthaśāstra* describes pre-Maurya conditions.]_
+
 It is not desirable to amalgamate the rules laid down in the *Arthaśāstra* with the descriptions recorded by the Greeks, because the latter present to us the impression made upon foreign observers of institutions actually existing at a particular date, 300 <span class="sc">b. c.</span> in round numbers, after the foundation of the Maurya empire; whereas the former express the arrangements favoured by Brahman ministers, as suitable for any independent kingdom at any time. The *Arthaśāstra* text-book cites the opinions of many earlier authors of unknown antiquity, and treats of the political state of India prior to the establishment of a paramount power by the Mauryas.[^sec-13-fn-045] We may accept it as an authoritative account of political and social conditions in the Gangetic plain in the age of Alexander the Great, 325 <span class="sc">b. c.</span> The book does not concern itself with the Dravidian kingdoms of the South, which were organized in other fashions.
 
 > _[Margin: Autocracy tempered by reverence for Brahmans.]_
+
 The only form of government described in detail by the author was an absolute autocracy. He makes merely passing allusions to the existence of tribal organizations among the Lichchhavis and other communities.[^sec-13-fn-046] The free will of the [p. 146] autocrat, uncontrolled by any constitutional traditions or machinery, was restricted to a certain extent by the customary reverence for Brahmans, which was well established even at that early date. As a rule, Brahmans were exempt from capital punishment, the only exception being that a Brahman convicted of high treason might be executed by drowning, instead of being burnt alive as a member of another caste should be.[^sec-13-fn-047] Brahmans convicted of certain other offences might be branded in the face, and then either banished or sent to the mines for life. Both Brahmans and ascetics were exempt from liability to judicial torture for the purpose of extracting a confession.[^sec-13-fn-048]
 
 > _[Margin: The treatise applies only to a small kingdom.]_
+
 The author assumes that the principles expounded by him are to be applied in the government of a small kingdom, surrounded by other similar kingdoms, all either actually or potentially hostile. The rules of the text-book do not provide for the needs of an extensive consolidated empire, and it is obvious that the work deals with the state of things as existing before the Mauryas had acquired paramount power.
 
 > _[Margin: Every kingdom actually or potentially hostile.]_
+
 Permanent peace between neighbouring states was regarded as unattainable. We are instructed that ‘whoever is superior in power shall wage war’;[^sec-13-fn-049] ‘whoever is rising in power may break the agreement of peace’;[^sec-13-fn-050] ‘the king who is situated anywhere on the circumference of the conqueror’s territory is termed the enemy’;[^sec-13-fn-051] ‘when a king of equal power does not like peace, then the same amount of vexation as his opponent has received at his hands should be given to him in return; for it is power that brings about peace between any two kings; no piece [p. 147] of iron that is not made red-hot will combine with another piece of iron '.[^sec-13-fn-052]
 
 > _[Margin: No morality in statecraft.]_
+
 The relations between the kingdoms prior to the consolidation of the Maurya empire consequently involved an unceasing struggle for existence. Might was right. No prince pretended to trust any other ruler for a moment, or to keep faith if he felt strong enough to break the pact. No considerations of morality were allowed to influence statecraft, which avowedly preferred the use of insidious and treacherous means, including every form of secret assassination. The maxim that the vices of ordinary people are virtues in kings was plainly enunciated, and, as history shows, was constantly acted on. Skill in intrigue was a better qualification for kingship than either power or enthusiasm.[^sec-13-fn-053]
 
 > _[Margin: Universal suspicion and espionage.]_
+
 The inveterate and universal suspicion which regulated the dealings between every Rāja and his fellow-rulers governed the conduct of the prince to his officials and subjects. Nobody was to be trusted. The government relied on a highly organized system of espionage, pervading every department of the administration and every class of the population. The formal rules concerning spies occupy a prominent place in the treatise, every chapter of which assumes that the working of the machinery of government depends mainly on the successful utilization of secret information.[^sec-13-fn-054]
 
 > _[Margin: Employment of courtesans.]_
+
 The statements of Strabo concerning the employment of courtesans as spies and informers are fully supported by regulations on the subject. The courtesans, indeed, were regarded to a large extent as court officials, women of that class, under the orders of a Superintendent and Deputy Superintendent, being appointed to hold the royal umbrella, golden pitcher, and fan, and to attend on the king when he was seated on his throne, or in his litter or chariot. A long chapter is devoted to the regulations concerning public women.[^sec-13-fn-055] Cipher writing was used by the spies, and carrier [p. 148] pigeons were employed to carry secret intelligence.[^sec-13-fn-056] The Intelligence Department was controlled by five ‘Institutes of Espionage’, in which the reports were checked and verified.
 
 > _[Margin: Princes like crabs.]_
+
 The king lived in continual terror of the members of his family, ‘for on account of the kingdom the father hates his sons, and sons hate their father’.[^sec-13-fn-057] Jahāngīr long afterwards expressed the same sentiment in the maxim that ‘kingship regards neither son nor son-in-law. No one is a relation to a king’.[^sec-13-fn-058] Another similar aphorism is that ‘princes, like crabs, have a notorious tendency towards eating up their begetter’.[^sec-13-fn-059]
 
 > _[Margin: The duty of a king.]_
+
 The autocrat was expected to work hard. In language which recalls that of Asoka’s edicts, the author directs that the king
 
 > ‘shall, therefore, attend personally to the business of gods, of heretics, of Brahmans learned in the Vedas, of cattle, of sacred places, of minors, the aged, the afflicted, and the helpless, and of women; all this in order of enumeration, or according to the urgency or pressure of those works. ‘All urgent calls he shall hear at once, but never put off; for when postponed, they will prove too hard or impossible to accomplish’.[^sec-13-fn-060]
 
 > _[Margin: Privy Council.]_
+
 The king was assisted by a Privy Council, which should consist of either twelve or sixteen members, according to the opinion of certain authors, but should comprise as many councillors as the needs of the state demanded, according to the wiser judgement of Chānakya.[^sec-13-fn-061]
 
 > _[Margin: Departments.]_
+
 Eighteen departments of the administration are mentioned, and long lists of the chief officials are given. They include a Chamberlain, Collector-General, Accountant-General, Superintendent of Agriculture, Superintendent of Manufactures, and many others.[^sec-13-fn-062]
 
 > _[Margin: No Boards.]_
+
 The Boards described by Megasthenes as in charge of the business of the capital and the army are unknown to the [p. 149] author, who contemplated each such charge as the duty of a single officer. The creation of the Boards may have been an innovation effected by Chandragupta personally. The treatise confirms the Greek accounts in many particulars.
 
 > _[Margin: Salaries and coinage.]_
+
 A curious table of rates of salary is given. The pay ranged from 48,000 silver *panas* a year for the heir apparent and certain high officers of state to 60 *panas* for a labourer.[^sec-13-fn-063] No specimen of a silver *pana* is known, but it was presumably of the same weight as a copper *karsha*, namely, about 146 grains, or 9·46 grammes.[^sec-13-fn-064] The ‘punch-marked’ pieces of impure silver (*purāna* or *dharana*), which are known to have been in ordinary use in the author’s time, are struck to a standard of about 56 grains, or 3·628 grammes. Possibly this silver *pana* may have been only a money of account. The value of a silver *pana*, which presumably was much alloyed like the ‘punch-marked’ coins, may be taken as not far from a shilling.
 
-> _[Locus: Finance.]_
+> _[Margin: Finance.]_
+
 The sound doctrine is inculcated that ‘all undertakings depend upon finance. Hence foremost attention shall be paid to the Treasury’.[^sec-13-fn-065] It is impossible for me to go minutely into a description of the financial arrangements, and only a few points can be noted.
 
 > _[Margin: Land-revenue and water-rates.]_
+
 The Superintendent of Agriculture, like a modern settlement officer, was required to assess land at rates varying according to the different methods of irrigation used. The normal share of the produce taken by the State as ‘land-revenue’, or crown rent, being one-fourth, the amount taken as water-rate was approximately equal, varying from one-fifth to one-third. Various other dues also were exacted, so that the cultivator of irrigated land could not retain as much as half of the produce of his fields.[^sec-13-fn-066]
 
 > _[Margin: Benevolences.]_
+
 All subjects were further required to pay occasional ‘benevolences’ on special occasions, levied at the king’s discretion. The suggestions concerning the methods by which a necessitous monarch might extort money are of [p. 150] more than Machiavellian wickedness. The history of Kashmīr supplies painful illustrations of the application of the author’s prescriptions. One way or another the Crown took all it could get.
 
 > _[Margin: Sale of honours.]_
+
 Modern financiers are not always averse from employing the ‘policy of thinning the rich by exacting excessive revenue (*karśanam*), or causing them to vomit their accumulated wealth (*vamanam*)’.[^sec-13-fn-067] Nor is the practice of selling honours strange to European politicians, though they do not usually care to express themselves in language so plain as that used by Chānakya, who says :—
 
 > ‘Wealthy persons may be requested to give as much of their gold as they can. Those who, of their own accord or with the intention of doing good, offer their wealth to the king shall be honoured with a rank in the court, an umbrella, or a turban, or some ornaments in return for their gold.’[^sec-13-fn-068]
 
 > _[Margin: Taxes on sales.]_
+
 In fortified towns the royal revenue was derived largely from taxes on sales, as stated by Megasthenes. In order to facilitate the collection of this important branch of the public income, the cardinal rule was laid down that commodities should not be sold at the place of growth or manufacture.[^sec-13-fn-069] The law required that all articles for sale (excepting grain, cattle, and some others) should be brought to the toll-house near the town gate, there offered for sale, and if sold, taxed. Toll was paid only when actual sale took place. The rates of duty varied widely. Imports from abroad paid, as a rule, seven distinct taxes, aggregating about 20 per cent. ; perishable goods, such as fruit and vegetables, were charged one-sixth of the value, or 16⅔ per cent. ; while on many other classes of wares the rates of duty ranged from 4 to 10 per cent. Highly priced goods, such as precious stones, were assessed on special valuations made by experts. All goods brought for sale had to be marked with an official stamp. The Greek phrase, ἀπὸ συσσήμου, refers to that practice.[^sec-13-fn-070]
 
 
 <!-- page: 183 | folio: 151 -->
 > _[Margin: Statistics.]_
+
 The Greek observations on the subject of vital statistics are illustrated by the regulations which require the Nāgaraka, or Town Prefect, to register every arrival in or departure from his jurisdiction. He was also bound to keep up a census statement giving in detail for each inhabitant the sex, caste, name, family name, occupation, income, expenditure, and possessions in cattle. Breaches of the fiscal regulations were punishable usually by fine or confiscation, but the penalty for wilful false statements was the same as that for theft, which might extend to death.[^sec-13-fn-071]
 
 > _[Margin: Excise.]_
+
 A regular system of excise licences was in force, special duties being levied on foreign liquors, including wines from Kapisa or Afghanistan. Modern temperance reformers may be scandalized by the regulations that
 
 > ‘liquor shops shall consist of many comfortable rooms, furnished with cots and seats. The drinking places shall possess such comforts as changing seasons require, always having garlands of flowers, scent, and perfume’.[^sec-13-fn-072]
 
 > _[Margin: Penal code.]_
+
 The Science of Government, we are told, may be defined as the science of punishment (*daṇḍa nīti*). The penal code, in consequence, was ferociously severe. The details in the treatise amply support the Greek references to the subject. As an illustration of the severity of punishment, it may suffice to note that theft by a government servant to the value of from 8 to 10 *paṇas* was punishable with death, as was theft of a value of from 40 to 50 *paṇas* by a non-official person.[^sec-13-fn-073]
 
 > _[Margin: Judicial torture.]_
+
 Judicial torture for the purpose of extorting a confession was recognized and freely used. Many gruesome regulations on the subject are recorded. The general principle laid down was that ‘those whose guilt is believed to be true shall be subjected to torture’, of which there were eighteen kinds, including seven varieties of whipping. In certain cases the victim might be ‘subjected to one or all of the above kinds of torture’. The torture of women was supposed [p. 152] to be limited to 'half the prescribed standard'.[^sec-13-fn-074] All experienced magistrates know how deeply the tradition of torturing a prisoner in order to extort a confession is engrained in the mind of Indian policemen, and how difficult it is to check the practice even under modern conditions.
 
 Chānakya's code not only authorized judicial torture and the capital penalty for petty offences, but also prescribed mutilation in numerous cases.
 
 > _[Margin: The *Arthaśāstra* a practical manual.]_
+
 Many matters of interest and curiosity have been necessarily passed over, but the foregoing summary will, it is hoped, be sufficient to give the reader a fairly accurate notion of the principles on which the small kingdoms of Northern India were administered in the days of Alexander the Great. Although many of the rules in Chānakya's treatise are puerile, and some merely theoretical, the book on the whole was intended to be a practical manual of statecraft and administration, and as such it is well worth reading. Books like the so-called *Laws of Manu* and *Dharmaśāstras* set forth the Brahman ideal—the treatise of Chandragupta's minister openly discards ideals and presents a plain unvarnished statement of the immoral practice of kings and Brahman ministers in the fourth century before Christ, prior to the realization of the novel idea of a great empire extending over nearly all India.[^sec-13-fn-075]
 
 > _[Margin: Success of Chandragupta.]_
+
 Chandragupta ascended the throne at an early age, and inasmuch as he reigned only twenty-four years, must have abdicated or died before he was fifty years of age.[^sec-13-fn-076] In this brief space of life he did much. The expulsion of the Macedonian garrisons, the decisive repulse of Seleukos the Conqueror, the subjugation of at least all Northern India [p. 153] from sea to sea, the formation of a gigantic army, and the thorough organization of the civil government of a vast empire were no mean achievements. The power of Chandragupta was so firmly established that it passed peacefully into the hands of his son and grandson, and his alliance was courted by the potentates of the Hellenistic world. The Greek princes made no attempt to renew the aggressions of Alexander and Seleukos upon secluded India, and were content to maintain friendly diplomatic and commercial relations with her rulers for three generations.[^sec-13-fn-077]
 
 > _[Margin: Absence of Hellenic influence.]_
+
 The Maurya empire was not, as some writers fancy that it was, in any way the result of Alexander's splendid but transitory raid. The nineteen months which he spent in India were consumed in devastating warfare, and his death rendered fruitless all his grand constructive plans. Chandragupta did not need Alexander's example to teach him what empire meant. He and his countrymen had had before their eyes for two centuries the stately fabric of the Persian Achaemenian monarchy, and it was that empire which impressed their imagination, and served as the model for their institutions, in so far as they were not indigenous. The little touches of foreign manners in the court and institutions of Chandragupta, which chance to have been noted by our fragmentary authorities, are Persian, not Greek; and the Persian title of satrap continued to be used by Indian provincial governors for ages, down to the close of the fourth century of the Christian era.[^sec-13-fn-078]
 
-> _[Margin: Indian military organiza- tion.]_
+> _[Margin: Indian military organization.]_
+
 The military organization of Chandragupta shows no trace of Hellenic influence. It is based upon the ancient Indian model, and his vast host was merely a development of the considerable army maintained by the kingdom of Magadha. [p. 154] The Indian kings relied chiefly upon their elephants, and in a lesser degree upon chariots and huge masses of infantry; the cavalry being few in comparison and inefficient. Alexander, on the contrary, made no use of elephants or chariots, and put his trust in small bodies of highly trained cavalry, handled with consummate skill and calculated audacity. In the art of war he had no successor. The Seleukidan kings were content to follow the Oriental system and put their trust in elephants.[^sec-13-fn-079]
 
 > _[Margin: Alleged abdication of Chandragupta.]_
+
 Jain tradition avers that Chandragupta Maurya was a Jain, and that, when a great twelve years' famine occurred, he abdicated,[^sec-13-fn-080] accompanied Bhadrabāhu, the last of the saints called *śrutakevalins*, to the south, lived as an ascetic at Sravana Belgola in Mysore, and ultimately committed suicide by starvation at that place, where his name is still held in remembrance. In the second edition of this book I rejected that tradition and dismissed the tale as 'imaginary history'. But on reconsideration of the whole evidence and the objections urged against the credibility of the story, I am now disposed to believe that the tradition probably is true in its main outline, and that Chandragupta really abdicated and became a Jain ascetic. The traditional narratives, of course, like all such relations, are open to much criticism, and the epigraphical support is far from conclusive. Nevertheless, my present impression is that the tradition has a solid foundation on fact.[^sec-13-fn-081]
 
 > _[Margin: 298 <span class="sc">b. c.</span> Bindusāra.]_
+
 When Chandragupta either abdicated or died, in the year 298 <span class="sc">b. c.</span>, he was succeeded by his son Bindusāra. The Greek writers, however, do not know his name, and call the successor of Chandragupta by appellations which seem to be [p. 155] attempts to transcribe the Sanskrit epithet Amitraghāta, ‘Slayer of foes,’[^sec-13-fn-082]—a title which indicates that he was a conqueror. The friendly relations between India and the Hellenistic powers, which had been initiated by Chandragupta and Seleukos, continued unbroken throughout the reign of Bindusāra, at whose court Megasthenes was replaced by Deīmachos, as ambassador. The new envoy followed his predecessor’s example by recording notes on the country to which he was accredited, but unfortunately very few of his observations have been preserved. When the aged founder of the Seleukidan monarchy was assassinated in 280 <span class="sc">b. c.</span>, his place was taken by his son and colleague Antiochos Soter, who continued to follow his father’s policy in regard to India.
 
-> _[Margin: Correspond- ence with Antiochos Soter.]_
+> _[Margin: Correspondence with Antiochos Soter.]_
+
 The anecdote concerning the correspondence between Antiochos and Bindusāra, although trivial in itself, is worth quoting as a tangible proof of the familiar intercourse between the sovereign of India and his ally in Western Asia. Nothing, we are told, being sweeter than figs, Bindusāra begged Antiochos to send him some figs and raisin wine, and added that he would like him also to buy and send a professor. Antiochos replied that he had much pleasure in forwarding the figs and raisin wine, but regretted that he could not oblige his correspondent with the last-named article, because it was not lawful for Greeks to sell a professor.[^sec-13-fn-083]
 
 
 <!-- page: 188 | folio: 156 -->
 > _[Margin: Embassy of Dionysios.]_
+
 Ptolemy Philadelphos, who ruled in Egypt from 285 to 247 <span class="sc">B. C.</span>, also dispatched an envoy named Dionysios to the Indian Court, who, like his colleagues, wrote an account of his experiences, which was still available to Pliny in the first century of the Christian era.[^sec-13-fn-084] It is uncertain whether Dionysios presented his credentials to Bindusāra or to his successor, Asoka.
 
 > _[Margin: Conquest of the Deccan.]_
+
 Nothing is recorded concerning the internal policy of Bindusāra, whose reign lasted for twenty-five years, according to the Purāṇas, nor is any monument or inscription of his time known. But there is reason to believe that he continued his father’s career of annexation and conquest within the borders of India, as indicated by his title or secondary name of Amitraghāta. The limits of the empire ruled by Asoka, son and successor of Bindusāra, are known with sufficient accuracy, and it is certain that his dominions, including semi-independent protectorates, extended southwards to about the latitude of Nellore (14° 27′ N.) and included the northern districts of Mysore.[^sec-13-fn-085] The country south of the Narbadā cannot have been conquered by Asoka, whose only known annexation was that of the kingdom of Kalinga, on the coast of the Bay of Bengal, unless the conquest took place in the early years of his reign, about which we possess no information. The twenty-four years of the reign of Chandragupta seem to be fully occupied with the great events known to have been crowded into them. It is difficult to believe that he could have found time to do more than climb from obscurity to power, expel the Macedonian garrisons, repel the attack of Seleukos, effect a revolution and establish a dynasty at Pātaliputra, annex a large part of Ariāna, and extend his dominion from the Bay of Bengal to the Arabian Sea.
 
 
 <!-- page: 189 | folio: 157 -->
 > _[Margin: Probably effected by Bindusāra.]_
+
 The Deccan, or Peninsular India, down to approximately the latitude of Nellore, must therefore, apparently, have been subjugated by either Chandragupta or Bindusāra, because it was inherited from the latter by Asoka, whose only recorded war was the conquest of Kalinga ; and it is more probable that the conquest of the south was the work of Bindusāra than that it was effected by his busy father. In fact, it may be affirmed with confidence that the conquest of the south actually was effected by Bindusāra. Tāranāth, using no doubt ancient authorities, asserts expressly that Bindusāra, who continued to be guided by the counsels of his father's minister, Kautilya or Chānakya, slew the kings and ministers of some sixteen capitals, and thus extended his empire from sea to sea. The sixteen states thus annexed cannot possibly have been in Northern India which was firmly held by Chandragupta. That testimony of the Tibetan historian is confirmed by the evidence of Māmulanār, an ancient Brahman Tamil poet and scholar, who refers frequently to invasions by the Mauryas in early times. The invaders advanced as far south as Madura and the neighbouring parts of the Tinnevelly District with ‘a great army’. Those conquests in the extreme south were not held by the invaders. Asoka's inscriptions prove that in his time the Tamil states were independent neighbours of the northern empire, which included a southern Viceroyalty with its head-quarters at Suvarnagiri, or Golden Town, presumably situated in the ancient gold-field near Maski in the Raichūr District of the Nizam's Dominions, where an Asoka inscription exists. Faint memories of the Maurya conquest of the south lingered for centuries. The early Pallava inscriptions claim Asoka as one of the ancestors of the Pallava dynasty, and as late as the seventh century the Chalukya monarchs subdued Maurya chiefs in the Konkan.[^sec-13-fn-086]
 
 
@@ -2001,8 +2306,8 @@ A tradition recorded in an inscription of the twelfth century states that Kuntal
 [^sec-13-fn-005]: (2) Plutarch, *Alexander*, ch. 62.
 [^sec-13-fn-006]: (1) See Mr. Bevan’s work, *The House of Seleucus*.
 [^sec-13-fn-007]: (2) ‘Transitum deinde in Indiam fecit’, &c. (Justin, xv, 4); καὶ τὸν Ἰνδὸν περάσας ἐπολέμησεν Ἀνδροκόττῳ [Chandragupta], βασιλεῖ τῶν περὶ αὐτὸν Ἰνδῶν, μέχρι φιλίαν αὐτῷ καὶ κῆδος συνέθετο (Appian, *Syr.* 55). Strabo (Bk. ii, ch. ii, 9) substitutes for the last two words, συνθέμενος ἐπιγαμίαν.
-[^sec-13-fn-008]: (3) Niese’s notion that Chandra-     gupta recognized the sovereignty of Seleukos (*die Oberhoheit des Seleukos anerkannte*) has no foundation, except the anecdote that Chandragupta paid honour to the altars set up by Alexander at the Hyphasis. The facts that Seleukos retired from India, giving up valuable provinces in exchange for only 500 elephants out of the 9,000 possessed by Chandragupta, that he entered into a matrimonial [p. 126] alliance, and sent an ambassador, clearly indicate the real nature of the relations between the sovereigns. Megasthenes exhibits the greatest respect for the Indian monarch, and never presumed to regard himself as the Resident at the court of a feudatory. Concerning the extent of the cession of Ariāna see Appendix F.
-[^sec-13-fn-009]: (1) [Unlinked note, p. 126] Justin, xv, 4, and the details given by Megasthenes. The passage in Justin's compilation is one of the most important concerning Chandragupta. The testimonies of the various Greek and Roman authors are collected in McCrindle's books and in Wilson's preface to his translation of the *Mudrā Rākshasa*. That play, probably composed in the fifth century, very likely embodies a kernel of genuine historical tradition, of which I have made cautious use.
+[^sec-13-fn-008]: (3) Niese’s notion that Chandragupta recognized the sovereignty of Seleukos (*die Oberhoheit des Seleukos anerkannte*) has no foundation, except the anecdote that Chandragupta paid honour to the altars set up by Alexander at the Hyphasis. The facts that Seleukos retired from India, giving up valuable provinces in exchange for only 500 elephants out of the 9,000 possessed by Chandragupta, that he entered into a matrimonial [p. 126] alliance, and sent an ambassador, clearly indicate the real nature of the relations between the sovereigns. Megasthenes exhibits the greatest respect for the Indian monarch, and never presumed to regard himself as the Resident at the court of a feudatory. Concerning the extent of the cession of Ariāna see Appendix F.
+[^sec-13-fn-009]: (1) Justin, xv, 4, and the details given by Megasthenes. The passage in Justin's compilation is one of the most important concerning Chandragupta. The testimonies of the various Greek and Roman authors are collected in McCrindle's books and in Wilson's preface to his translation of the *Mudrā Rākshasa*. That play, probably composed in the fifth century, very likely embodies a kernel of genuine historical tradition, of which I have made cautious use.
 [^sec-13-fn-010]: (1) The fragments of Megasthenes have been collected and edited by Schwanbeck under the title of *Megasthenis Indika* (Bonn, 1846) ; and translated by McCrindle in *Ancient India as described by Megasthenes and Arrian* (Trübner, London, 1877). Arrian (*Indika*, 17) rightly brackets Nearchos and Megasthenes as trustworthy persons (δοκίμω ἄνδρε). Strabo, who was disgusted by some of the travellers’ tales repeated by Megasthenes, unjustly stigmatizes him as a liar. The information collected by Megasthenes was supplemented by the works of other writers, of whose books fragments have been preserved by the authors to whom we are indebted for our knowledge of Megasthenes. For a list of these authors see Schwanbeck, op. cit., Index I. McCrindle’s books, six in number, give a nearly complete collection of the passages in Greek and Roman authors treating of ancient India.
 [^sec-13-fn-011]: (1) See Lt.-Col. Waddell's treatise, *Discovery of the Exact Site of Asoka's Classic Capital of Pātaliputra* (Calcutta, 1892, and revised edition, 1903). Some fragments of the timber palisade have been found. The remains of one of the Maurya palaces are buried under the houses and fields of the village of Kumrāhār, on the south side of the railway between Bankipore and Patna. Excavations conducted at Kumrāhār by Dr. Spooner of the Archaeological Survey at the cost of the late Sir Ratan Tata, of Bombay, have revealed remains of a 'Hall of 100 Pillars', apparently copied from the prototype at Persepolis. The work, which is still in progress, has been partially described in *Ann. Rep. Arch. Survey of India, Eastern Circle*, 1912–13, pp. 55–61, and results of profound interest are expected. Sir J. Marshall has found a 'Mauryan *chaitya*-hall' at Sanchi. Another palace, that described by Hiuen Tsang, was in the city, probably in the neighbourhood of the Sadar Gali and Kallū Khan's Bāgh, where an Asoka pillar is hidden in a zenana (P. C. Mukharjī, unpubl. report). The ruins at Kumrāhār represent the town of Ni-li, which Asoka built, as stated by Fa-hien. Cunningham was mistaken in believing that Pātaliputra had been mostly cut away by the rivers. Patna is in N. lat. 25° 37′, E. long. 85° 10′. Chāṇakya (*Arthaśāstra*, Bk. ii, ch. 3, revised English version by R. Shamasastry, Bangalore Government Press, 1915, pp. 56–60) lays down elaborate rules for the fortification of the capital.
 [^sec-13-fn-012]: (1) Curtius, viii, 9; Strabo, xv, 69.
@@ -2092,36 +2397,47 @@ A tradition recorded in an inscription of the twelfth century states that Kuntal
 #### *The Extent of the Cession of Ariāna by Seleukos Nikator to Chandragupta Maurya*
 
 > _[Margin: Extent of Cession.]_
+
 The statement in the text that the cession made in 303 <span class="sc">b. c.</span> by Seleukos Nikator to Chandragupta Maurya included the provinces of the Paropanisadae (Kābul), Aria (Herāt), Arachosia (Kandahār), and probably Gedrosia (Makrān), or a large part of that satrapy, is based upon the original authorities, which are five in number, namely, Strabo (two passages), Appian, Plutarch, Justin, and Pliny. The relevant extracts, being brief, may be quoted in full. All that has been written by modern authors on the subject is based upon these short extracts.
 
 > _[Margin: Strabo, I.]_
+
 (I) The two passages from Strabo are as follows : μάλιστα ἐκ τῆς διαίτης ἐδόκει τῆς τότε πιστότατα εἶναι τὰ ὑπὸ τοῦ Ἐρατοσθένους ἐν τῷ τρίτῳ τῶν γεωγραφικῶν ἐκτεθέντα κεφαλαιωδῶς περὶ τῆς τότε νομιζομένης Ἰνδικῆς, ἡνίκα Ἀλέξανδρος ἐπῆλθε· καὶ ἦν ὁ Ἰνδὸς ὅριον ταύτης τε καὶ τῆς Ἀριανῆς, ἣν ἐφεξῆς πρὸς τῇ ἑσπέρᾳ κειμένην Πέρσαι κατεῖχον· ὕστερον γὰρ δὴ καὶ τῆς Ἀριανῆς πολλὴν ἔσχον οἱ Ἰνδοὶ λαβόντες παρὰ τῶν Μακεδόνων (Bk. xv, ch. i (India), sec. 10 in Müller and Dübner's ed.).
 
 > _[Margin: Strabo, II.]_
+
 (II) ἡ δὲ τάξις τῶν ἐθνῶν τοιαύτη· παρὰ μὲν τὸν Ἰνδὸν οἱ Παροπαμισάδαι, ὧν ὑπέρκειται ὁ Παροπάμισος ὄρος, εἶτ᾽ Ἀραχωτοὶ πρὸς νότον, εἶτ᾽ ἐφεξῆς πρὸς νότον Γεδρωσηνοὶ σὺν τοῖς ἄλλοις πρὸς τὴν παραλίαν ἔχουσιν· ἅπασι δὲ παρὰ τὰ πλάτη τῶν χωρίων παράκειται ὁ Ἰνδός. τούτων δ᾽ [ἐκ μέρους] τῶν παρὰ τὸν Ἰνδὸν ἔχουσί τινα Ἰνδοί, πρότερον ὄντα Περσῶν. ἃ ἀφείλετο μὲν ὁ Ἀλέξανδρος τῶν Ἀριανῶν καὶ κατοικίας ἰδίας συνεστήσατο, ἔδωκε δὲ Σέλευκος ὁ [p. 159] Νικάτωρ Σανδροκόττῳ, συνθέμενος ἐπιγαμίαν καὶ ἀντιλαβὼν ἐλέφαντας πεντακοσίους (ibid., Bk. xv, ch. ii, 9).
 
 > _[Margin: Appian.]_
+
 (III) Appian writes : καὶ τὸν Ἰνδὸν περάσας [Σέλευκος] ἐπολέμησεν Ἀνδροκόττῳ, βασιλεῖ τῶν περὶ αὐτὸν Ἰνδῶν, μέχρι φιλίαν αὐτῷ καὶ κῆδος συνέθετο (*Syr.* 55).
 
-> _[Locus: Plutarch.]_
+> _[Margin: Plutarch.]_
+
 (IV) Plutarch, arguing that the accounts of the military force of the Prasii were not exaggerated, says : καὶ κόσμος οὐκ ἦν περὶ ταῦτα. Ἀνδρόκοττος γὰρ ὕστερον οὐ πολλῷ βασιλεύσας Σελεύκῳ πεντακοσίους ἐλέφαντας ἐδωρήσατο, καὶ στρατοῦ μυριάσιν ἑξήκοντα τὴν Ἰνδικὴν ἐπῆλθεν ἅπασαν καταστρεφόμενος’ (*Alex.* ch. 62).
 
 > _[Margin: Justin.]_
+
 (V) Justin’s testimony is : ‘[Seleucus] transitum deinde in Indiam fecit, quae post mortem Alexandri, veluti cervicibus iugo servitutis excusso, praefectos eius occiderat. Auctor libertatis Sandrocottus fuerat . . . cum quo facta pactione Seleucus, compositisque in oriente rebus, in bellum Antigoni descendit’ (xv, 4).
 
-> _[Locus: Pliny.]_
+> _[Margin: Pliny.]_
+
 (VI) Pliny, when treating of the Indus and the boundary of India, says : ‘Etenim plerique ab occidente non Indo amne determinant, sed adiiciunt quatuor satrapias, Gedrosos, Arachotas, Arios, Paropamissadas’ (Bk. vi, ch. 20, Basle ed., 1554 (*al.* ch. 23) ).
 
 > _[Margin: Interpretation of Strabo.]_
+
 These texts comprise the whole of the direct evidence on the subject. It seems to me self-evident that the two passages of Strabo refer to the same event; and that when he says in the first that the Indians received from the Macedonians ‘a large part of Arianē’, which had been under the rule of the Persians up to the time of Alexander, he briefly alludes to the cession of the countries west of the Indus, formerly in the possession of the Persians, which Seleukos ceded to Chandragupta, as specifically stated in the second extract.
 
 > _[Margin: The other authorities.]_
+
 The statements of Appian, Plutarch, and Justin do not deal in terms with the extent of the cession, but are of value as proving that Seleukos actually crossed the Indus, waged an unsuccessful war, and was obliged to make peace on conditions very favourable to his adversary, and very unfavourable to himself.
 
 > _[Margin: The four satrapies.]_
+
 The observation of Pliny that numerous (*plerique*) authors include in India the four satrapies of Gedrosia, Arachosia, Aria, and the Paropanisadae must have been based on the fact that at some period previous to <span class="sc">a. d.</span> 77, when his book was published, those four provinces were actually reckoned as part of India. At what time other than the period of the Maurya dynasty is it possible that those provinces should have formed part of India ? Pliny’s information about the country was mainly drawn from the writings of Megasthenes and the other contemporaries of Alexander, Chandragupta and Seleukos ; and the natural interpretation of his observation requires us to believe that the four satrapies in question were ‘the large part of Arianē’ ceded by Seleukos. Kābul and Kandahār frequently have been held by [p. 160] the sovereigns of India, and form part of the natural frontier of the country. Herāt (Aria) is undoubtedly more remote, but can be held with ease by the power in possession of Kābul and Kandahār.
 
 > _[Margin: Gedrosia.]_
+
 The satrapy of Gedrosia (or Gadrosia) extended far to the west, and probably only the eastern part of it was annexed by Chandragupta. The Mālin range of mountains, which Alexander experienced such difficulty in crossing, would have furnished a natural boundary. Whether Chandragupta undertook the administration of the whole of Gedrosia or not, I have no doubt that Seleukos abandoned to him all control over the province, and that it was included by numerous authors in India, along with Aria, Arachosia, and the Paropanisadae; because Seleukos, intent upon the urgent business of crushing Antigonos, was constrained to surrender the four outlying satrapies named by Pliny, and to concentrate his strength in Central and Western Asia.
 
 
@@ -2134,17 +2450,21 @@ The satrapy of Gedrosia (or Gadrosia) extended far to the west, and probably onl
 #### *The Arthaśāstra, or Kauṭilīya-Śāstra*
 
 > _[Margin: Discovery of the text.]_
+
 It is more convenient to give the necessary information about the *Arthaśāstra* in an Appendix than in cumbrous footnotes.
 
 A collection of maxims attributed to Chāṇakya, alias Kauṭilya, or Vishṇu-gupta, the Brahman minister of Chandragupta Maurya, has long been known (see Weber, *Hist. Indian Liter.* (Trübner), p. 210). But the *Arthaśāstra*, although mentioned and quoted by many ancient authors, had wholly disappeared from view until Mr. R. Shamasastry (Shama Sastri), the learned Librarian of the Oriental Library maintained by the Maharaja of Mysore, brought to notice a manuscript of the work belonging to a pundit in the Tanjore District.[^sec-15-fn-001] The pundit was good enough to deposit the MS. in the library, along with an imperfect MS. of a commentary on the treatise by Bhaṭṭaswāmi. The translation of certain extracts published by Mr. Shamasastry in the *Indian Antiquary* for 1905 attracted attention, and enabled me to make valuable additions to the second edition of this history, published in 1908. Two other MSS. of the *Śāstra* were then found in the Münich Library, and another seems to exist in Calcutta.
 
 > _[Margin: Translation by Mr. R. Shamasastry.]_
+
 After the publication of the second edition of this history in 1908 several eminent German scholars devoted much attention to the study of Chāṇakya's treatise, and Mr. Shamasastry was encouraged to complete his rough translation, and also to print an edition of the text. This translation has now been superseded by Mr. Shamasastry's revised edition in one bound volume, Bangalore [p. 161] Government Press, 1915, with introductions by Fleet and the translator, and Index—pp. xxxii and 543.
 
 > _[Margin: New Publications.]_
+
 Other scholars have not been slow to avail themselves of Mr. Shamasastry’s valuable pioneer work, and a considerable literature is growing up around the text of the *Arthaœāstra*. Among the most important of these publications are (1) *Studies in Ancient Hindu Polity* (based on the Arthaœāstra of Kautilya) by Narendra Nath Law, M.A.; B.L., vol. i, Longmans, Green & Co., 1914—a valuable analysis of parts of the treatise, especially civil law, from a lawyer’s point of view ; (2) *Public Administration in Ancient India* by Pramathnatha Banerjea (Macmillan, 1916)—a learned and accurate work ; and (3) *The Positive Background of Hindu Sociology*, Book i, by Professor Benoy Kumār Sarkār (Pāṇini Office, Allahabad, 1914). Further discussion is bound to illuminate many parts of the text which still remain obscure.
 
 > _[Margin: German discussions.]_
+
 I have read and utilized the German publications named below, which supply additional references :—
 
 - (1) A. Hillebrandt, ‘ Über das KauṭilĪyaœāstra und Verwandtes ’ (Sonderab. aus d. 86. *Jahresber. d. Schlesischen Gesellsch. f. vaterl. Cultur*, Breslau, 1908).
@@ -2152,6 +2472,7 @@ I have read and utilized the German publications named below, which supply addit
 - (3) Same author, ‘ Arthaœāstra and Dharmaœāstra ’ (*Z.D.M.G.*, 1913, pp. 49–96).
 - (4) Hermann Jacobi, ‘ On the Authority of the Kautiliya,’ translated in *Ind. Ant.*, 1918, from the German in *Sitzungsber. d. königl. preuss. Akademien d. Wissenschaften*, 1912, No. xxxviii. He finds that it is ‘ the work of the famous minister of Chandragupta, as established by both external and internal proofs ’.
 > _[Margin: Maurya age of the work.]_
+
 The researches of the German scholars have clearly established that the Arthaœāstra is a genuine ancient work (*echt und alt*) of Maurya age, and presumably attributed rightly to Chāṇakya or Kauṭilya. Professor Keith throws doubt on the authorship of Kauṭilya (*J. R. A. S.*, 1916, pp. 130–7), and refers to *Z. D. M. G.*, lxviii, 355–9 by Jolly. The German verdict, of course, does not exclude the possibility, or probability, that the existing text may contain minor interpolations of later date, but the bulk of the book certainly dates from the Maurya period. I have pointed out that its contents describe the state of things as existing immediately *before* the establishment of the Maurya empire, while Mr. Shamasastry suggests that it may refer back even to the pre-Buddhistic age (p. xviii). The book seems to be based on much more ancient treatises now lost, and a good deal of it must have been archaic in Maurya times.
 
 The treatise will continue to give occupation to scholars for a long time to come, from many points of view.
@@ -2173,44 +2494,57 @@ The treatise will continue to give occupation to scholars for a long time to com
 #### <span class="sc">ASOKA MAURYA</span>
 
 > _[Margin: Asoka as Crown Prince.]_
+
 <span class="sc">According</span> to credible tradition, Asoka-vardhana,[^sec-16-fn-001] or Asoka, as he is generally called, served his apprenticeship to the art of government during the lifetime of his father, Bindusāra, as viceroy successively of the North-western frontier province and of Western India. He was one of several sons, and was no doubt selected by his father, in accordance with the usual practice, as *Yuvarāja*, or Crown Prince, on account of his ability and fitness for the imperial succession.
 
 > _[Margin: Taxila.]_
+
 Taxila, the capital of the north-western viceroyalty, which probably included Kashmīr, the Panjāb, and the provinces to the west of the Indus, was in those days one of the greatest and most splendid of the cities of the East, and enjoyed a special reputation as the head-quarters of Hindu learning. The sons of people of all the upper classes, chiefs, Brahmans, and merchants, flocked to Taxila, as to a university town, in order to study the circle of Indian arts and sciences, especially medicine. The territory surrounding the capital was rich and populous, and, two generations earlier, had formed a small independent state, weak enough to be in terror of its neighbours, and yet strong enough to render Alexander valuable assistance.
 
 > _[Margin: Taxilan customs.]_
+
 The Greeks, who considered the little state to be well governed, noted with interest, and without disapprobation, the local customs, which included polygamy, the exposure of the dead to be devoured by vultures, and the sale in open markets of maidens who had failed to secure husbands in the ordinary course.[^sec-16-fn-002]
 
 
 <!-- page: 195 | folio: 163 -->
 > _[Margin: Favourable position of the city.]_
+
 The position of the city on the high road from Central Asia to the interior of India fitted it to be the capital of the north-west viceroy; and its strategical advantages are still recognized. Hasan Abdāl, close to its ruins, is a favourite ground for the manœuvres of the Indian army; and at Rāwalpindi, a few miles to the south-east, a huge cantonment guards the road to India against possible Alexanders advancing from the north-west.
 
 > _[Margin: Ujjain.]_
+
 Ujjain, the capital of Western India, was equally famous, and equally suitable as the seat of a viceregal government. Reckoned to be one of the seven sacred cities, viz. Benares (Kāsī), Hardwār (Māyā), Kānchī (Conjeeveram), Ayodhyā (Oudh), Dvāravatī (Dwarka), Mathurā, and Ujjain (Avantikā), and standing on the road leading from the busy ports of the western coast to the markets of the interior, it combined the advantages of a favourite place of pilgrimage with those of a great commercial dépôt. The city was recognized as the head-quarters of Indian astronomy, and longitudes were computed from its meridian.[^sec-16-fn-003]
 
 > _[Margin: Asoka’s peaceful accession.]_
+
 The Ceylonese tradition that Asoka was residing at Ujjain when he was summoned to the capital by the news of his father’s mortal illness may well be believed; although no credence can be given to the tales which relate that Asoka had a hundred brothers, ninety-nine of whom he slew, and so forth. These idle stories seem to have been invented by the monks chiefly in order to place a dark background of early wickedness behind the bright picture of his mature piety. Asoka certainly had brothers and sisters alive in the seventeenth or eighteenth year of his reign,[^sec-16-fn-004] whose households were objects of his anxious care; and there is nothing to indicate that he regarded his relatives with jealousy. His grandfather, Chandragupta, ‘a man of blood and iron’, who had fought his way from poverty and exile to the imperial [p. 164] throne, naturally was beset by jealousies and hatreds, and constrained to live a life of distrustful suspicion. But Asoka, who was born in the purple, and inherited an empire firmly established by half a century of masterful rule for two generations, presumably was free from the ‘black care’ which haunted his ancestor. His edicts display no sense of insecurity or weakness from first to last; and the probability is that he succeeded peaceably in accordance with his predecessor’s nomination. It is, however, possible that the northern tradition which testifies to a contest for the succession between Asoka and Susīma, his eldest brother, may be founded on fact. It has more historical appearance than the stories told by the monks of Ceylon.[^sec-16-fn-005]
 
 > _[Margin: 273 or 272 <span class="sc">B. C.</span> Accession; 269 <span class="sc">B. C.</span> Coronation.]_
+
 Inasmuch as the reign of Asoka lasted for fully forty years, he must have been a young man when, in or about the year 273 <span class="sc">B. C.</span>, he undertook the government of the vast empire which had been won and kept by his grandfather and father. Nothing is recorded concerning the first eleven or twelve years of his rule, which presumably were spent in the current work of administration. His solemn coronation did not take place before the year 269 <span class="sc">B. C.</span>, about four years after his accession, and this fact is almost the only circumstance which supports the notion that his succession was disputed. The anniversary of his coronation was always celebrated with ceremony, and specially marked by the pardon and release of prisoners.[^sec-16-fn-006]
 
 > _[Margin: 261 <span class="sc">B. C.</span> Kaliṅga war.]_
+
 In the thirteenth year of his reign, or in the ninth, as reckoned from the coronation, Asoka embarked upon the one aggressive war of his life of which a record exists, and rounded off his dominions by the conquest of the kingdom of Kalinga, the strip of territory extending along the coast of the Bay of Bengal from the Mahānadī to the Godāvarī. The campaign was wholly successful, and Kalinga became an integral part of the Maurya dominions. Two special [p. 165] edicts published a few years later show that the administration of the newly acquired territory caused much anxiety to the emperor, who, like all sovereigns, sometimes was not well served by his officers. The royal instructions, which enjoined just and paternal government, and specially insisted on sympathetic tactful treatment of the wilder tribes, were disregarded at times by officials, who had to be warned that disobedience of orders was not the way to win the favour of either heaven or their master.
 
 > _[Margin: Misery caused by the war.]_
+
 The kingdom of Kalinga had maintained a considerable military force, which was estimated by Megasthenes as numbering 60,000 infantry, 1,000 cavalry, and 700 war elephants. The opposition offered to the invaders was so stubborn that the conquest involved immeasurable suffering. The victor records with sorrow that 150,000 persons were carried into captivity, 100,000 were slain, and that many times that number perished from famine, pestilence, and the other calamities which follow in the train of armies.
 
 > _[Margin: The remorse of Asoka.]_
+
 The sight of all this misery and the knowledge that he alone had caused it smote the conscience of Asoka, and awakened in his breast feelings of ‘remorse, profound sorrow, and regret’. These feelings crystallized into a steadfast resolve that never again should ambition lead him to inflict such grievous wrongs upon his fellow creatures ; and four years after the conquest he was able to declare that ‘the loss of even the hundredth or the thousandth part of the persons who were then slain, carried away captive, or done to death in Kalinga would now be a matter of deep regret to his Majesty’.
 
 > _[Margin: Asoka forswears war.]_
+
 The king acted up to the principles which he professed, and abstained from aggressive war for the rest of his life. About this time he came under the influence of Buddhist teaching, his devotion to which increased more and more as the years rolled on. The ‘chiefest conquest’, he declares, is that won by the Law of Piety, and he begs his descendants to rid themselves of the popular notion that conquest by arms is the duty of kings ; and, even if they should find themselves engaged in warfare, he reminds them that they [p. 166] might still find pleasure in patience and gentleness, and should regard as the only true conquest that which is effected through the Law of Piety, or Duty.[^sec-16-fn-007]
 
 > _[Margin: Moral propaganda.]_
+
 Asoka from this time forth made it the business of his life to employ his unlimited autocratic power over a vast empire in the teaching, propagation, and enforcement of the ethical system, which he called the Law of Piety or Duty (*dhamma* or *dharma*), and had learned chiefly from his Buddhist instructors.
 
 > _[Margin: 257, 256 <span class="sc">b. c.</span>]_
+
 In the seventeenth and eighteenth years of his reign he decided definitely upon his line of action, and proclaimed the principles of his government to his people in a series of edicts engraved upon the rocks, including Minor Rock Edict I and the Fourteen Rock Edicts, and laying down the general rules which must guide the conduct of the lieges.
 
 These extraordinary documents were followed by others specially concerning the conquered province of Kalinga, the purport of which has been referred to above. The earliest of the whole series seems to be Minor Rock Edict I, a short document, known in seven slightly variant forms. From it, as read with the longer compositions, we learn that Asoka was a lay disciple (*upāsaka*) for more than two and a half years after his conversion to Buddhism, and that during that period he did not exert himself strenuously.[^sec-16-fn-008] But more than a year before the issue of his proclamations he had joined the Monastic Order (*saṁgha*) and had begun to devote earnest effort to promoting the cause of religion. The peculiar edict, known as the Bhābrū or Second Bairāt Rock Edict, in which the king enumerates seven passages of the scriptures as specially meriting the attention of both the clergy and the laity, apparently belongs to the same time.[^sec-16-fn-009]
@@ -2218,29 +2552,37 @@ These extraordinary documents were followed by others specially concerning the c
 
 <!-- page: 199 | folio: 167 -->
 > _[Margin: About 249 <span class="sc">b. c.</span> Pilgrimage.]_
+
 In the year 249 <span class="sc">b. c.</span>, when he had occupied the throne for about twenty-four years, Asoka made a solemn pilgrimage to the most sacred spots in the Buddhist Holy Land. Starting from Pātaliputra, the capital, he advanced northwards along the royal road to Nepāl, the course of which is marked by five great monolithic pillars,[^sec-16-fn-010] through the districts now known as Muzaffarpur and Champāran, until he approached the base of the outer Himalayan range.
 
 > _[Margin: Birth-place of Buddha.]_
+
 Probably he then turned westwards, without crossing the hills, and first visited the famous Lumbinī Garden—the Bethlehem of Buddhism—where, according to the legend, the pains of travail came upon Māyā, and she gave birth to Buddha as she stood under a tree. At this spot his guide and preceptor, Upagupta, addressed Asoka and said: ‘Here, great king! was the Venerable One born.’ A pillar inscribed with these words, still as legible as when they were incised, was set up by Asoka to preserve the memory of his visit, and stands to this day.[^sec-16-fn-011]
 
 > _[Margin: Other holy places.]_
+
 In due course Saint Upagupta led his royal disciple to Kapilavastu, the home of Buddha’s childhood, now in the Tarāi;[^sec-16-fn-012] to Sārnāth, near Benares, the scene of the Master’s first success as a preacher; to Srāvastī, where he lived for many years;[^sec-16-fn-013] to the Bodhi tree of Gayā, where he overcame the powers of darkness; and to Kusinagara, where he died.[^sec-16-fn-014] [p. 168] At all these holy places the king granted liberal endowments, and set up memorials, some of which have come to light in these latter days, after long ages of oblivion.
 
 > _[Margin: Asoka was monk and monarch.]_
+
 Although a modern student may feel difficulty in believing that Asoka could have assumed monastic vows and robe while still exercising autocratic control over a vast empire, there is no doubt about the fact that he did so. Nine centuries later the Chinese pilgrim I-tsing noted that the image of Asoka was clothed in a monk's garment of a particular pattern.[^sec-16-fn-015] The incongruity involved according to our notions in an emperor turning monk, without abdicating, did not strike I-tsing, who was familiar with the exactly similar case in his own country of the Emperor Wu-ti or Hsiao Yen, the first of the Liang dynasty, who was a devout Buddhist, and adopted the monastic garb on two occasions, in <span class="sc">A. D.</span> 527 and 529.[^sec-16-fn-016] A less exact parallel is supplied by the story of a Jain king of Western India in the twelfth century, who assumed the title of ‘Lord of the Order’, and at various periods of his reign bound himself by vows of continence and abstinence.[^sec-16-fn-017] A Buddhist monk is always at liberty to return to lay life, and it is probable that Asoka retired to a monastery from time to time for a short period, making suitable arrangements for carrying on the administration during his retreat. There is some reason to believe that Minor Rock Edict I and the Bhābrū Edict were issued while the emperor was thus in retreat at Bairāt. It is easy to understand that an all-powerful monarch could have arranged the apparent difficulty [p. 169] to his satisfaction in more ways than one. Asoka distinctly adopted the position of ruler of both church and state during the last twenty-five years of his life, just as Charlemagne did long afterwards in Europe.
 
 > _[Margin: Retrospect in the Seven Pillar Edicts.]_
+
 In or about the year 243 <span class="sc">b. c.</span>, when he had been on the throne for some thirty years, Asoka began the composition of a fresh series of documents, the Seven Pillar Edicts, which reiterated his earlier teaching and conclude with a formal retrospect of the measures adopted by him in furtherance of the ethical reforms which he had at heart. They also include a concise code of regulations concerning the slaughter and mutilation of animals, practices which he regarded with abhorrence.
 
 The retrospect, strange to say, takes no notice of the foreign missions. Nor does it mention the Council of Buddhist elders, which was held at the capital at some time in his reign mainly for the purpose of suppressing schism in the church. It seems likely that the Council may have been convoked after the publication of the Pillar Edicts, but I cannot explain the failure to commemorate the foreign missions which occupy a prominent place in the Rock Edicts.
 
 > _[Margin: The Council of Pāṭaliputra.]_
+
 The fact of the convocation of a Council is attested by such a large body of tradition that it may be accepted without hesitation, even though none of the alleged details can be regarded as historical. The Sārnāth Edict (with its variants), which was specially directed against the cardinal sin of schism, was issued, I think, as a result of the Council’s proceedings. I do not accept the Ceylonese date for the Council, namely, 236 <span class="sc">a. b.</span>, equivalent, according to my chronology, to 251 <span class="sc">b. c.</span>, and am of opinion that the Council assembled at some time in the last ten years of the reign.[^sec-16-fn-018]
 
 > _[Margin: Extent of empire.]_
+
 The extent of the enormous empire governed by Asoka can be ascertained with approximate accuracy. On the north-west, it extended to the Hindū Kush mountains, and [p. 170] included most of the territory now under the rule of the King of Afghānistān, as well as the whole, or a large part, of Balūchistān, and all Sind. The secluded valleys of Suwāt (Swat) and Bājaur probably were more or less thoroughly controlled by the imperial officers, and the valleys of Kashmīr and Nepāl certainly were integral parts of the empire. Asoka built a new capital in the vale of Kashmīr, named Srīnagar, at a short distance from the city which now bears that name.[^sec-16-fn-019]
 
 > _[Margin: Asoka in Nepal.]_
+
 In the Nepāl valley, he replaced the older capital Manju Pātan, by a city named Pātan, Lalita Pātan, or Lalitpur, which still exists, 2½ miles to the south-east of Kāthmandū, the modern capital. Lalita Pātan, which subsequently became the seat of a separate principality, retains the special Buddhist stamp impressed upon it by Asoka. His foundation of the city was undertaken as a memorial of the visit which he paid to Nepāl, in 250 or 249 <span class="sc">b. c.</span>, when he undertook the tour of the holy places. He was accompanied by his daughter Chārumatī, who adopted a religious life, and remained in Nepāl when her imperial father returned to the plains. She founded a town called Devapatana, in memory of her husband Devapāla Kshatriya, and settled down to the life of a nun at a convent built by her to the north of Pasupatināth, which bears her name to this day. Asoka treated Lalita Pātan as a place of great sanctity, erecting in it five great *stūpas*; one in the centre of the town, and four others outside the walls at the cardinal points. All these monuments still exist, and differ conspicuously from more recent edifices. Some minor buildings are also attributed to Asoka or his daughter.[^sec-16-fn-020]
 
 
@@ -2253,18 +2595,23 @@ B. V. Darbishire, Oxford, 1907
 
 <!-- page: 205 | folio: 171 -->
 > _[Margin: Extent eastward.]_
+
 Eastwards, the empire comprised the whole of Bengal (Vaṅga) as far as the mouths of the Ganges, where Tāmralipti,[^sec-16-fn-021] the modern Tamlūk, was the principal port. The strip of coast to the north of the Godāvarī river, known as Kaliṅga, was annexed in 261 <span class="sc">b. c.</span> Farther south, the Āndhra kingdom, between the Godāvarī and the Krishnā (Kistna), appears to have been in some measure subordinate to the Emperor, though administered by its own Rājas. On the south-east, the N. Pennār river may be regarded as the limit of the imperial jurisdiction.
 
 > _[Margin: Extent southward.]_
+
 The Tamil states extending to the extremity of the Peninsula, and known as the Chola and Pāṇḍya kingdoms, certainly were independent, as were the Keralaputra and Satiyaputra states on the south-western, or Malabar coast.[^sec-16-fn-022] The southern frontier of the empire may be described approximately as a line drawn from the mouth of the Pennār river near Nellore on the eastern coast through Cuddapah and to the south of Chitaldroog (N. lat. 14° 13′, E. long. 76° 24′) to the river Kalyānapuri on the western coast (about N. lat. 14°), which forms the northern boundary of the Tuluva country.[^sec-16-fn-023]
 
 > _[Margin: Jungle tribes.]_
-The wilder tribes on the north-western frontier and in the jungle tracts of the Vindhya mountains separating Northern from Southern India seem to have enjoyed a limited autonomy under the suzerainty of the paramount power. The [p. 172] empire comprised therefore, in modern terminology, Afghānistān south of the Hindū Kush, Balūchistān, Sind, the valley of Kashmġr, Nepāl, the lower Himalaya, and the whole of India Proper, except the southern extremity.
+
+The wilder tribes on the north-western frontier and in the jungle tracts of the Vindhya mountains separating Northern from Southern India seem to have enjoyed a limited autonomy under the suzerainty of the paramount power. The [p. 172] empire comprised therefore, in modern terminology, Afghānistān south of the Hindū Kush, Balūchistān, Sind, the valley of Kashmīr, Nepāl, the lower Himalaya, and the whole of India Proper, except the southern extremity.
 
 > _[Margin: Viceroys.]_
-The central regions seem to have been governed directly from Pātaliputra under the king's personal supervision. The outlying provinces were administered by viceroys, of whom, apparently, there were at least four. The ruler of the north-west was stationed at Taxila, and his jurisdiction may be assumed to have included the Panjāb, Sind, the countries beyond the Indus, and Kashmġr. The eastern territories, including the conquered kingdom of Kalinga, were governed by a viceroy stationed at Tosali, the exact position of which has not been ascertained. The western provinces of Mālwa, Gujarāt, and Kāthiāwār were under the government of a prince, whose head-quarters were at the ancient city of Ujjain; and the southern provinces, beyond the Narbadā, were ruled by the fourth viceroy.[^sec-16-fn-024]
+
+The central regions seem to have been governed directly from Pātaliputra under the king's personal supervision. The outlying provinces were administered by viceroys, of whom, apparently, there were at least four. The ruler of the north-west was stationed at Taxila, and his jurisdiction may be assumed to have included the Panjāb, Sind, the countries beyond the Indus, and Kashmīr. The eastern territories, including the conquered kingdom of Kalinga, were governed by a viceroy stationed at Tosali, the exact position of which has not been ascertained. The western provinces of Mālwa, Gujarāt, and Kāthiāwār were under the government of a prince, whose head-quarters were at the ancient city of Ujjain; and the southern provinces, beyond the Narbadā, were ruled by the fourth viceroy.[^sec-16-fn-024]
 
 > _[Margin: Buildings.]_
+
 Asoka was a great builder; and so deep was the impression made on the popular imagination by the extent and magnificence of his architectural works that legend credited him with the erection of eighty-four thousand *stūpas*, or sacred cupolas, within the space of three years. When Fa-hien, the first Chinese pilgrim, visited Pātaliputra, the capital, at the beginning of the fifth century in the reign of Chandragupta [p. 173] Vikramāditya, the palace of Asoka was still standing, and was deemed to have been wrought by supernatural agency.
 
 > ‘The royal palace and halls in the midst of the city, which exist now as of old, were all made by the spirits which he employed, and which piled up the stones, reared the walls and gates, and executed the elegant carving and inlaid sculpture work, in a way which no human hands of this world could accomplish.’
@@ -2274,27 +2621,35 @@ These stately buildings have all vanished, and their remains lie buried for the 
 The numerous and magnificent monasteries founded by Asoka have shared the fate of his palaces, and are ruined beyond recognition.
 
 > _[Margin: Sāñchi *stūpas*.]_
+
 The only buildings of the Asokan period which have escaped destruction, and remain in a state of tolerable preservation, are those forming the celebrated group of *stūpas*, or cupolas, at and near Sānchi, in Central India, not very far from Ujjain, where Asoka held court as viceroy of the west before his accession to the throne. The elaborately carved gateways of the railing round the principal monument, which have been so often described and figured, may have been constructed to the order of the great Maurya, and certainly are not much later than his time.
 
 > _[Margin: Monolithic pillars.]_
+
 The massive monolithic sandstone pillars, inscribed and uninscribed, which Asoka erected in large numbers throughout the home provinces of the empire, some of which are 50 feet in height, and about 50 tons in weight, are not only worthy monuments of his magnificence, but also of the highest interest as the earliest known examples of the Indian stone-cutter’s art in architectural forms. The design is [p. 174] a highly improved adaptation of a Persian model, and the mechanical execution is perfect.[^sec-16-fn-025]
 
 > _[Margin: Cave-dwellings.]_
+
 The caves with highly polished walls excavated in the intensely hard quartzose gneiss of the Barābar hills near Gayā by order of Asoka, for the use of the Ājīvika ascetics, an extremely ancient penitential order distinct from both the Jains and the Buddhists, recall Egyptian work by the mastery displayed over intractable material.[^sec-16-fn-026]
 
 > _[Margin: Inscriptions.]_
+
 The most interesting monuments of Asoka are his famous inscriptions, more than thirty in number, incised upon rocks, boulders, cave-walls, and pillars, which supply the only safe foundation for the history of his reign, and must be briefly described before I can enter upon the discussion of his doctrine and policy. The more important documents, which expound fully both his principles of government and his system of practical ethics, supply many interesting autobiographical details. The shorter documents include dedications, brief commemorative records, and other matter; but all, even the most concise, have interest and value.[^sec-16-fn-027]
 
-> _[Margin: Area covered by inscrip- tions.]_
+> _[Margin: Area covered by inscriptions.]_
+
 The area covered by the inscriptions comprises nearly the whole of India (see map), extending from the Himalayas to Mysore, and from the Bay of Bengal to the Arabian Sea.
 
 > _[Margin: Language.]_
+
 All the documents are written in various forms of Prākrit, that is to say, vernacular dialects closely allied to both literary Sanskrit and the Pāli of the Ceylonese Buddhist [p. 175] books, but not identical with either.[^sec-16-fn-028] They were therefore obviously intended to be read and understood by the public generally, and their existence presupposes a widely diffused knowledge of the art of writing. The inscriptions designed for public instruction were placed either in suitable positions on high roads or at frequented places of pilgrimage where their contents were ensured the greatest possible publicity.
 
 > _[Margin: Script.]_
+
 Two recensions of the Fourteen Rock Edicts, inscribed on rocks at places near the north-western frontier of India, were executed in the script locally current, now generally known to scholars as the Kharoshṭhī; which is a modified form of an ancient Aramaic alphabet, written from right to left, introduced into the Panjāb during the period of Persian domination in the fifth and fourth centuries <span class="sc">b. c.</span> All the other inscriptions are incised in one or other variety of the early Brāhmī alphabet, from which the Devanāgarī and other forms of the modern script in Northern and Western India have been evolved, and which is read from left to right.[^sec-16-fn-029]
 
 > _[Margin: Eight classes.]_
+
 The inscriptions readily fall into eight classes, which may be arranged in approximate chronological order as follows :—
 
 - I. The Minor Rock Edicts, of which No. I is found in seven recensions, all probably dating from 257 <span class="sc">b. c.</span>, a little before the Fourteen Rock Edicts. No. II may be somewhat later.
@@ -2308,50 +2663,56 @@ The inscriptions readily fall into eight classes, which may be arranged in appro
 - VII. The Seven Pillar Edicts, in six recensions, 243 and 242 <span class="sc">b. c.</span>
 - VIII. The Minor Pillar Edicts, about 240 <span class="sc">b.c.</span>, or later.
 > _[Margin: Minor Rock Edicts.]_
+
 The first Minor Rock Edict presents more difficulties in interpretation than any other Asoka document. These difficulties are being solved gradually, and it is now certain that the edict does not include a date.[^sec-16-fn-030] Its high value for the personal history of Asoka has been referred to above. Edict No. II is merely a short summary of the Law or *Dharma*.
 
 > _[Margin: Bhābrū Edict.]_
+
 The Bhābrū Edict is of the first importance in the history of the Buddhist Canon, because it enumerates seven passages in the scriptures which the emperor judged to merit the special attention of his people. All the passages have now been identified.[^sec-16-fn-031] Asoka may have been residing at one of the Bairāt monasteries when he caused this unique document to be prepared.
 
 > _[Margin: The Fourteen Rock Edicts.]_
+
 The Fourteen Rock Edicts contain an exposition of Asoka's principles of government and ethical system, each edict being devoted to a special subject. The different recensions vary considerably, and some do not include all the fourteen edicts. The whole series, in all its varieties, is confined to remote frontier provinces, which were under the government of viceroys. The emperor evidently was of opinion that in the home provinces, under his immediate control, it was not necessary to engrave his instructions on the rocks, other and more convenient methods of publication being available. But many years later he perpetuated his revised code in the home provinces also by incising it [p. 177] upon several of the monolithic monumental pillars which it was his pleasure to erect in numerous localities.[^sec-16-fn-032] The difficulty of obtaining the fine sandstone needed for the pillars may account for the fact that the area of their distribution is much smaller than that of the rock-inscriptions.
 
 > _[Margin: The Kaliṅga Edicts.]_
+
 The two Kaliṅga Edicts are special supplements to the series of the Fourteen Rock Edicts intended to fix the principles on which the administration of the newly conquered province and the wild tribes dwelling on its borders should be conducted. They were substituted for certain edicts (Nos. XI, XII, XIII) of the regular series, which were omitted from the Kaliṅga recension, as being unsuitable for local promulgation.
 
-> _[Margin: Cave Inscrip- tions.]_
+> _[Margin: Cave Inscriptions.]_
+
 The three Cave Inscriptions at Barābar in the Gayā District, the Goratha-giri of the Mahābhārata,[^sec-16-fn-033] are merely brief dedications of costly cave dwellings for the use of a monastic sect known as Ājīvika, the members of which went about naked, and were noted for ascetic practices of the most rigorous kind. These records are chiefly of interest as a decisive proof that Asoka was sincere in his solemn declaration that he honoured all sects ; for the Ājīvikas were extreme fatalists, having little or nothing in common with the Buddhists.
 
-> _[Margin: Tarāi Pillar Inscrip- tions.]_
+> _[Margin: Tarāi Pillar Inscriptions.]_
+
 The two Tarāi Pillar Inscriptions, although extremely brief, are of much interest for many reasons, one of which is that they prove beyond question the truth of the literary tradition that Asoka performed a solemn pilgrimage to the sacred spots of the Buddhist Holy Land. The Rummindēī, or Padaria, inscription, which is in absolutely perfect preservation, [p. 178] has the great merit of determining, beyond the possibility of doubt, the exact position of the famous Lumbinī Garden, where, according to the legend, Gautama Buddha first saw the light. This determination either solves, or supplies the key to, a multitude of problems. The companion record at Niglīva, which is less perfectly preserved, gives the unexpected and interesting information that Asoka's devotion was not confined to Gautama Buddha, but included in its catholic embrace his predecessors, the ‘former Buddhas’.[^sec-16-fn-034]
 
 > _[Margin: The Pillar Edicts.]_
+
 The Seven Pillar Edicts, issued in their complete form in or about the year 242 <span class="sc">b. c.</span>, when Asoka had reigned for some thirty years, and was nearing the close of his career of activity in worldly affairs, must be read along with the Fourteen Rock Edicts, to which they refer, and of which they may be considered an appendix. The principles enunciated in the earlier instructions are reiterated and emphasized in the later; the regulations enforcing the sanctity of animal life are amplified and codified; and the series closes with the most valuable of all the documents, Pillar Edict No. VII, preserved on one monument only, which recounts in orderly fashion the measures to promote ‘the growth of piety’ adopted by the emperor within his dominions during the course of his long reign.[^sec-16-fn-035]
 
 > _[Margin: Minor Pillar Inscriptions.]_
-The historical interest of the Minor Pillar Inscriptions was not recognized until after the discovery of the Sārnāth Edict in 1905, when it appeared that the Sānchī and Kausāmbī Edicts, which had been known for many years, were merely variants of the better preserved Sārnāth text. Inasmuch as all the three documents deal with the penalties for schism
+
+The historical interest of the Minor Pillar Inscriptions was not recognized until after the discovery of the Sārnāth Edict in 1905, when it appeared that the Sānchī and Kausāmbī Edicts, which had been known for many years, were merely variants of the better preserved Sārnāth text. Inasmuch as all the three documents deal with the penalties for schism [p. 179] in the Church, it is reasonable to assume that they represent the decision of the Council convened to suppress schism. The Queen's Edict is concerned with the Almoner's Department.[^sec-16-fn-036]
 
 
 <!-- page: 213 | folio: 179 -->
 
-![THE BIRTH-PLACE OF BUDDHA](../figures/fig-010_p0213.webp)
-
-(<span class="sc">RUMMINDĒĪ PILLAR AND TEMPLE</span>)
-
-
-<!-- page: 215 | folio: 179 -->
-in the Church, it is reasonable to assume that they represent the decision of the Council convened to suppress schism. The Queen's Edict is concerned with the Almoner's Department.[^sec-16-fn-036]
+![THE BIRTH-PLACE OF BUDDHA — (RUMMINDĒĪ PILLAR AND TEMPLE)](../figures/fig-010_p0213.webp)
 
 > _[Margin: Relation of epigraphic and traditional evidence.]_
+
 The foregoing summary exposition will perhaps suffice to enable the reader to form some notion of the extraordinary interest attaching to the unique series of inscriptions issued by Asoka between the years 257 and 232 <span class="sc">b. c.</span>, which is the only safe foundation on which to build a history of his momentous reign. But tradition has its value as a secondary source of information, and a few words in explanation of the character of the traditional evidence for the Asokan history are indispensable.
 
 > _[Margin: The Asokan legend.]_
+
 The rank growth of legend which has clustered round the name of Asoka bears eloquent testimony to the commanding influence of his personality. In the Buddhist world his fame is as great as that of Charlemagne in mediaeval Europe, and the tangle of mythological legend which obscures the genuine history of Asoka may be compared in mass with that which drapes the figures of Alexander, Arthur, and Charlemagne. The Asokan legend is not all either fiction or myth, and includes some genuine historical tradition; but is no better suited to serve as the foundation of sober history than the stories of the Morte d'Arthur or Pseudo-Kallisthenes are adapted to form the bases of chronicles of the doings of the British champion or the Macedonian conqueror. This obvious canon of criticism has been forgotten by most writers upon the Maurya period, who have begun at the wrong end with the late legends, instead of at the right end with the contemporary inscriptions.
 
 > _[Margin: Two streams of legend.]_
+
 The legends have reached us in two main streams, the Ceylonese and the North-Indian. The accident that the Ceylonese varieties of the stories happen to be recorded in books which assume the form of chronicles with a detailed chronology, and have been known to European readers for many years, has given to the southern tales an illusory [p. 180] air of special authenticity. The earliest of the Ceylonese chronicles, the *Dīpavaṁśa*, which probably was compiled late in the fourth century after Christ, is some six centuries posterior to the death of Asoka, and has little claim to be regarded as a first-rate authority, although deserving respectful consideration.
 
 > _[Margin: Higher authority of the northern legends.]_
+
 The North-Indian legends are at least as old ; but being recorded in fragments scattered through many books, Indian, Nepalese, Chinese, and Tibetan, have received scant attention. All legendary material, of course, must be used with extreme caution, and only as a supplement to authentic data ; but a moment's thought will show that legends preserved in Northern India, the seat of Asoka's imperial power, are more likely to transmit genuine tradition than those which reached the distant island of Ceylon in translations brought nobody knows how, when, or whence, and subsequently largely modified by local and sectarian influences. This presumption is verified when the two groups of legends are compared ; and then it clearly appears that in certain matters of importance where they differ, the Northern version is distinctly the more credible.
 
 
@@ -2519,86 +2880,111 @@ All ed. and transl. by <span class="sc">Bühler</span>, with facs. in *Ind. Ant.
 #### ASOKA MAURYA (CONTINUED); AND HIS SUCCESSORS
 
 > _[Margin: *Dhamma*, or Law of Piety.]_
+
 <span class="sc">The</span> edicts are devoted mainly to the exposition, inculcation, and enforcement of a scheme of practical ethics, or rule of conduct, which Asoka called *Dhamma*. No English word or phrase is exactly equivalent to the Prākrit *dhamma* (Sanskrit *dharma*), but the expression Law of Piety, or simply Piety, comes tolerably close to the meaning of the Indian term. The rendering Law of Duty may be used if preferred. The validity of this Law of Piety or Duty is assumed in the edicts, and no attempt is made to found it upon any theological or metaphysical basis. Theological ideas are simply ignored by Asoka, as they were by his master, Gautama; and the current Hindu philosophy of rebirth, inaccurately called metempsychosis, is taken for granted, and forms the background of the ethical teaching.
 
 > _[Margin: Sanctity of animal life.]_
+
 The leading tenet of Asoka's Buddhism, as of the cognate Jain system, and some varieties of Brahmanical Hinduism, was a passionate, uncompromising belief in the sanctity of animal life. The doctrine of the absolute, unconditional right of the meanest animal to retain the breath of life until the latest moment permitted by nature, is that of the edicts; and was based upon the belief that all living creatures, including men, animals, gods, and demons, form links in an endless chain of existence, or rather of 'becoming'.[^sec-18-fn-001]
 
 > _[Margin: Doctrines of rebirth and *Karma*.]_
+
 The being that is now a god in heaven may be reborn in the course of aeons as an insect; and the insect, in its turn, may work up to the rank of a god. This belief, associated with the faith that the mode of rebirth is conditioned by [p. 185] the *karma*, the net ethical result, or balance of good or evil of the life of each creature at the moment of its termination, lies deep down at the roots of Indian thought, and is inseparably bound up with almost every form of Indian religion. Sometimes it is combined with theories which recognize the existence of a personal soul, but it is also firmly held by persons who utterly deny all forms of the soul theory.
 
 > _[Margin: Comparative disregard of human life.]_
+
 It is easy to understand that believers in ideas of this kind may be led logically to regard the life of an insect as entitled to no less respect than that of a man. In practice, indeed, the sanctity of animal was placed above that of human life; and the absurd spectacle was sometimes witnessed of a man being put to death for killing an animal, or even for eating meat. The most pious Buddhist and Jain kings had no hesitation about inflicting capital punishment upon their subjects, and Asoka himself continued to sanction the death penalty throughout his reign. He was content to satisfy his humanitarian feelings by a slight mitigation of the sanguinary penal code inherited from his stern grandfather in conceding to condemned prisoners three days' grace to prepare for death.[^sec-18-fn-002]
 
 > _[Margin: Early practice of Asoka.]_
+
 In early life Asoka is believed to have been a Brahmanical Hindu, specially devoted to Siva, a god whose consort delights in bloody sacrifices; and he appears to have had no scruple about the shedding of blood. Thousands of living creatures used to be slain on the occasion of a banquet (*samāja*) to supply the kitchens of the overgrown royal household with curries for a single day. As he became gradually imbued with the spirit of Buddhist teaching, this wholesale daily slaughter became abominable in his eyes, and was stopped; only three living creatures at the most, namely, two peacocks and one deer, being killed each day; and in 257 <span class="sc">b. c.</span> even this limited butchery was put an end to.[^sec-18-fn-003]
 
 
 <!-- page: 222 | folio: 186 -->
 > _[Margin: Abolition of the royal hunt.]_
+
 Two years earlier, in 259 <span class="sc">b. c.</span>, Asoka had abolished the royal hunt, which formed such an important element in the amusements of his grandfather's court. 'In times past,' he observes, 'their Majesties were wont to go out on pleasure tours, during which hunting and other similar amusements used to be practised.' But His Sacred and Gracious Majesty no longer cared for such frivolous outings, and had substituted for them solemn progresses devoted to inspection of the country and people, visits and largess to holy men, and preaching and discussion of the Law of Piety.[^sec-18-fn-004]
 
 > _[Margin: Code of 243 <span class="sc">b. c.</span>]_
+
 As time went on Asoka's passionate devotion to the doctrine of the sanctity of animal life grew in intensity; and, in 243 <span class="sc">b. c.</span>, resulted in the production of a stringent code of regulations applicable to all classes of the population throughout the empire, without distinction of creed. Many kinds of animals were absolutely protected from slaughter in any circumstances; and the slaying of animals commonly used for food by the flesh-eating population, although not totally prohibited, was hedged round by severe restrictions. On fifty-six specified days in the year, killing under any pretext was categorically forbidden; and in many ways the liberty of the subject was very seriously contracted.[^sec-18-fn-005] While Asoka lived, these regulations were, no doubt, strictly enforced by the special officers appointed for the purpose; and it is not unlikely that deliberate breach of the more important regulations was visited with the capital penalty, as it was later in the days of Harsha.
 
 > _[Margin: Reverence.]_
+
 The second cardinal doctrine inculcated and insisted on by Asoka was that of the obligation of reverence to parents, elders, and preceptors. Conversely, superiors, while receiving [p. 187] their due of reverence, were required to treat their inferiors, including servants, slaves, and all living creatures, with kindness and consideration.[^sec-18-fn-006] As a corollary to these obligations, men were taught that the spirit which inspires reverence on the one side, and kindness on the other, should further induce them to behave with courteous decorum to relatives, ascetics, and Brahmans, and likewise to practise liberality to the same classes, as well as to friends and acquaintances.
 
 > _[Margin: Truthfulness.]_
+
 The third primary duty laid upon men was that of truthfulness. These three guiding principles are most concisely formulated in the Second Minor Rock Edict, which may be quoted in full :—
 
 > ‘ Thus saith His Majesty : “ Father and mother must be obeyed ; similarly, respect for living creatures must be enforced ; truth must be spoken. These are the virtues of the Law of Piety which must be practised. Similarly, the teacher must be reverenced by the pupil, and proper courtesy must be shown to relations. This is the ancient standard of piety—this leads to length of days, and according to this men must act ” .’
 
 > _[Margin: Toleration.]_
+
 Among secondary duties, a high place was given to that of showing toleration for and sympathy with the beliefs and practices of others ; and a special edict, No. XII of the Rock series, was devoted to the exposition of this topic, The subjects of the imperial moralist were solemnly warned to abstain from speaking evil of their neighbours’ faith ; remembering that all forms of religion alike aim at the attainment of self-control and purity of mind, and are thus in agreement about essentials, however much they may differ in externals.
 
 > _[Margin: Asoka’s practice.]_
+
 Asoka openly avowed his readiness to act upon these latitudinarian principles by doing reverence to men of all sects, whether ascetics or householders, by means of donations and in other ways. The Cave Inscriptions, which [p. 188] record costly gifts bestowed upon the Ājīvikas, an independent sect of self-mortifying ascetics, testify that Asoka, like many other ancient kings of India, really adopted the policy of universal toleration and concurrent endowment.[^sec-18-fn-007]
 
-> _[Locus: Limitations.]_
+> _[Margin: Limitations.]_
+
 But his toleration, although perfectly genuine, must be understood with two limitations. In the first place, all Indian religions, with which alone Asoka was concerned, had much in common, and were all alike merely variant expressions of Hindu modes of thought and feeling. There was no such gap dividing them as that which yawns between Islam and Purānic Brahmanism. In the second place, the royal toleration, although perfect as regarding beliefs, did not necessarily extend to all overt practices. Sacrifices involving the death of a victim, which are absolutely indispensable for the correct worship of some of the gods, were categorically prohibited, at least at the capital, from an early period in the reign ;[^sec-18-fn-008] and were further restricted, in all parts of the empire, by the code promulgated later in the Pillar Edicts. The conscientious objector was not permitted to allege his conscience as a justification for acts disapproved on principle by the government. Men might believe what they liked, but must do as they were told.
 
 > _[Margin: True charity.]_
+
 While almsgiving was commended, the higher doctrine was taught that ‘ there is no such charity as the charitable gift of the Law of Piety; no such distribution as the distribution of piety ’.[^sec-18-fn-009] The sentiment recurs in curiously similar language in Cromwell’s earliest extant letter. He wrote from St. Ives : ‘ Building of hospitals provides for men’s bodies ; to build material temples is judged a work of piety ; but they that procure spiritual food, they that build up spiritual temples, they are the men truly charitable, truly pious.’[^sec-18-fn-010]
 
 
 <!-- page: 225 | folio: 189 -->
 > _[Margin: True ceremonial.]_
+
 Asoka cared little for ritual, and was inclined to look with some scorn upon ordinary ceremonies, which, as he observes, ‘bear little fruit, and are of doubtful efficacy’. Just as true charity consists in a man’s efforts to diffuse a knowledge of the Law of Piety among his fellow creatures, so true ceremonial consists in the fulfilment of that law, which ‘bears great fruit’; and includes kind treatment of slaves and servants, honour to teachers, respect for life, and liberality to ascetics and Brahmans. These things, with others of the same kind, are called ‘the ceremonial of piety’.[^sec-18-fn-011]
 
 > _[Margin: Virtues inculcated.]_
+
 The preacher looked to men’s hearts rather than to their outward acts, and besought his congregation, the inhabitants of a vast empire, to cultivate the virtues of ‘compassion, liberality, truth, purity, gentleness, and saintliness’. He hoped that the growth of piety would be promoted by the imperial regulations devised for that purpose; but, while enforcing those regulations with all the power of an autocrat, he relied more upon the meditations of individuals, stimulated by his teaching. ‘Of these two means,’ he says, ‘pious regulations are of small account, whereas meditation is of greater value.’[^sec-18-fn-012]
 
 > _[Margin: Official propaganda.]_
+
 Notwithstanding his avowal of the comparative powerlessness of regulations, the emperor did not neglect to provide official machinery for the promulgation of his doctrine, and the enforcement of his orders. All the officers of State, whom, in modern phraseology, we may call Lieutenant-Governors, Commissioners, and District Magistrates, were commanded to make use of opportunities during their periodical tours for convoking assemblies of the lieges, and instructing them in the whole duty of man. Certain days in the year were particularly set apart for this duty, and the officials were directed to perform it in addition to their ordinary work.[^sec-18-fn-013]
 
 > _[Margin: Censors.]_
+
 A special agency of Censors was also organized for the purpose of enforcing the regulations concerning the sanctity of animal life, and the observance of filial piety, in the [p. 190] most extended sense. These officers were expressly enjoined to concern themselves with all sects, and with every class of society, not excluding the royal family ; while separate officials were charged with the delicate duty of supervising female morals.[^sec-18-fn-014] In practice, this system must have led to much espionage and tyranny ; and, if we may judge from the proceedings of kings in later ages, who undertook a similar task, the punishments inflicted for breach of the imperial regulations must have been terribly severe.
 
 > _[Margin: Similar action of Harsha,]_
+
 It is recorded by contemporary testimony that in the seventh century King Harsha, who obviously aimed at copying closely the institutions of Asoka, did not shrink from inflicting capital punishment without hope of pardon on any person who dared to infringe his commands by slaying any living thing, or using flesh as food in any part of his dominions.[^sec-18-fn-015]
 
 > _[Margin: and of Kumārapāla.]_
+
 In the twelfth century, Kumārapāla, king of Gujarāt in Western India, after his conversion to Jainism in <span class="sc">a. d.</span> 1159, took up the doctrine of the sanctity of animal life with the most inordinate zeal, and imposed savage penalties upon violators of his rules. An unlucky merchant, who had committed the atrocious crime of cracking a louse, was brought before the special court at Anhilwāra and punished by the confiscation of his whole property, the proceeds of which were devoted to the building of a temple. Another wretch, who had outraged the sanctity of the capital by bringing in a dish of raw meat, was put to death. The special court constituted by Kumārapāla had functions similar to those of Asoka's Censors, and the working of the later institution sheds much light upon the unrecorded proceedings of the earlier one.[^sec-18-fn-016]
 
 > _[Margin: Censors in Kashmīr,]_
+
 More modern parallels to Asoka's Censors are not lacking. In 1876, when a pious Mahārāja was in power in Kashmīr, [p. 191] breaches of the commandments of the Hindu scriptures were treated by the State as offences, and investigated by a special court composed of five eminent pundits, belonging to families in which the office was hereditary, who determined appropriate penalties.[^sec-18-fn-017]
 
 > _[Margin: and in the Deccan.]_
+
 Up to the middle of the nineteenth century, and possibly until a later date, similar hereditary Brahman officers exercised jurisdiction over offenders charged with breaches of caste rules in Khandesh, the Deccan, and some parts of the Konkan, and imposed suitable expiations in the shape of fine, penance, or excommunication.[^sec-18-fn-018]
 
 These cases, ancient and modern, are sufficient to prove that when Asoka made an innovation by appointing Censors, officers who ‘had never been appointed in all the long ages past’, the new departure was in accordance with Hindu notions, and was consequently readily imitated in later times by rulers of various religions.
 
-> _[Margin: Almoner’s depart- ment.]_
+> _[Margin: Almoner’s department.]_
+
 The practical piety of Asoka was exhibited in many works of benevolence, on which he dwells with evident pleasure and satisfaction. His theory of true charity did not hinder him from bestowing liberal alms. The distribution of the charitable grants made by the sovereign and members of the royal family was carefully supervised both by the Censors and other officials, who seem to have been organized in a Royal Almoner’s Department.[^sec-18-fn-019]
 
 > _[Margin: Provision for travellers.]_
+
 Special attention was devoted to the needs of travellers, who have at all times evoked the sympathy of pious Indians. The provision made for wayfarers, including the dumb animals, which were never forgotten by Asoka, is best described in the monarch’s own words: ‘On the roads,’ he says, ‘I have had banyan-trees planted to give shade to man and beast; I have had groves of mango-trees planted; and at every half *kōs* I have had wells dug; rest-houses have been erected; and numerous watering-places have been prepared here and there for the enjoyment of man and [p. 192] beast.’[^sec-18-fn-020] Distances were carefully marked by pillars erected at convenient intervals, ever since Chandragupta’s time.
 
 > _[Margin: Relief of sick.]_
+
 The lively sympathy of Asoka with his suffering fellow creatures, human and animal, also found expression in the extensive provision of relief for the sick. Arrangements for the healing of man and beast were provided not only throughout all provinces of the empire, but also in the friendly independent kingdoms of Southern India and Hellenistic Asia; medicinal herbs and drugs, wherever lacking, being planted, imported, and supplied as needed.[^sec-18-fn-021]
 
 > _[Margin: Animal hospital at Sūrat.]_
+
 The animal hospitals, which still exist at Ahmadābād, Sūrat, and many other towns in Western India, may be regarded as either survivals or copies of the institutions founded by the Maurya monarch. The following account of the Sūrat hospital, as it was maintained late in the eighteenth century, probably would have been applicable with little change to the prototype at Pātaliputra :—
 
 ‘The most remarkable institution in Sūrat is the Banyan Hospital, of which we have no description more recent than 1780. It then consisted of a large piece of ground enclosed by high walls, and subdivided into several courts or wards for the accommodation of animals. In sickness they were attended with the greatest care, and here found a peaceful asylum for the infirmities of old age.
@@ -2606,33 +2992,43 @@ The animal hospitals, which still exist at Ahmadābād, Sūrat, and many other t
 ‘When an animal broke a limb, or was otherwise disabled, his owner brought him to the hospital, where he was received without regard to the caste or nation of his master. In 1772, this hospital contained horses, mules, oxen, sheep, goats, monkeys, poultry, pigeons, and a variety of birds; also an aged tortoise, which was known to have been there seventy-five years. The most extraordinary ward was that appropriated for rats, mice, bugs, and other noxious vermin, for whom suitable food was provided.’[^sec-18-fn-022] [p. 193] These hospitals usually are so administered as to cause, perhaps, more suffering than they prevent.
 
 > _[Margin: Foreign propaganda.]_
+
 The active official propaganda carried on by various agencies throughout the empire and dependent states did not satisfy the zeal of Asoka; who burned with a desire to diffuse the blessings of both his ethical system and distinctive Buddhist teaching in all the independent kingdoms with which he was in touch; and with this purpose organized an efficient system of foreign missions worked under his personal supervision, the results of which are visible to this day. His conception of the idea of foreign missions on a grand scale was absolutely original, and produced a well-considered and successful scheme, carried out with method and thoroughness in conjunction and harmony with his measures of domestic propaganda.
 
 > _[Margin: Extent of missions.]_
+
 Before the year 256 <span class="sc">b. c.</span>, when the Rock Edicts were published collectively, the royal missionaries had been dispatched to all the more or less dependent states and tribes on the frontiers of the empire, and in the wilder regions within its borders, to the independent kingdoms of Southern India, and to the Hellenistic monarchies of Syria, Egypt, Cyrene, Macedonia, and Epirus, then governed respectively by Antiochos Theos, Ptolemy Philadelphos, Magas, Antigonos Gonatas, and Alexander. The missionary organization thus embraced three continents, Asia, Africa, and Europe. The mission to Ceylon in the reign of Tissa was later in date by a few years.
 
 > _[Margin: Border states and tribes.]_
+
 The Border states and tribes brought in this way within the circle of Buddhist influence included the Kām̄bōjas,[^sec-18-fn-023] who lived among the mountains either of Tibet or of the Hindū Kush; various Himalayan nations; the Gandhāras and Yavanas of the Kābul valley and regions still farther west; the Bhojas, Pulindas, and Pitēnikas dwelling among the hills of the Vindhya range and Western Ghāts;[^sec-18-fn-024] and the [p. 194] Āndhra kingdom between the Krishnā and Godāvarī rivers.
 
 > _[Margin: Southern kingdoms.]_
+
 The Dravidian peoples of the extreme south, below the fourteenth degree of latitude, being protected by their remoteness, had mostly escaped annexation to the northern empire. In Asoka's time their territories formed four independent kingdoms, the Chola, Pāndya, Keralaputra, and Satiyaputra. The capital of the Chola kingdom was Uraiyūr, or Old Trichinopoly, and that of the Pāndya realm was Korkai in the Tinnevelly District. The Keralaputra or Madura state comprised the Malabar coast south of the Tuluva country, and probably also the inland districts usually assigned to the Chera kingdom. The name Chera is a variant form of Kerala. The Satiyaputra country may be identified with the Satyamangalam subdivision of the Coimbatore District and some adjoining territory.[^sec-18-fn-025] With all these kingdoms Asoka was on such friendly terms that he was at liberty to send his missionaries to preach to the people, and even to found monasteries in several places. One such institution was established by his younger brother Mahendra in the Tanjore District, probably then included in the Chola [p. 195] kingdom, where its ruins were still visible nine hundred years later.[^sec-18-fn-026]
 
 > _[Margin: Princes as monks.]_
+
 An ancient Chinese writer assures us that ‘according to the laws of India, when a king dies, he is succeeded by his eldest son (*Kumārarāja*); the other sons leave the family and enter a religious life, and they are no longer allowed to reside in their native kingdom’.[^sec-18-fn-027] This compulsory withdrawal from secular affairs did not necessarily imply the disappearance of the younger brother into obscurity. The church in India, especially Buddhist India, as in Roman Catholic Europe, offered a career to younger sons, and the able ecclesiastic sometimes attained higher fame than his royal relative. Mahendra’s assumption of the yellow robe, in accordance with the rule above stated, was, in the first instance, probably due to political necessity rather than to free choice; but, whatever motive may have led him to adopt the monastic life, he became a devout and zealous monk and a most successful missionary.
 
 > _[Margin: Mahendra in Ceylon.]_
+
 When Asoka determined some years later to extend his propaganda to Ceylon, he selected as head of the mission his monk brother, who presumably was already settled at his monastery in Southern India, and thence crossed over to Ceylon with his four colleagues. The teaching of the preachers, backed as it was by the influence of a monarch so powerful as Asoka, was speedily accepted by King Tissa (Devānampiya Tissa) of Ceylon with the members of his court, and the new religion soon gained a hold on the affections of the people at large.[^sec-18-fn-028] Mahendra spent the rest of his life in Ceylon, and devoted himself to the establishment and organization of the Buddhist church in the island, where he is revered as a saint. His ashes are said to rest under a great cupola or *stūpa*, called Ambustāla, at Mihintalē, one of the [p. 196] most remarkable among the many notable Buddhist monu ments which are the glory of Ceylon.[^sec-18-fn-029]
 
 > _[Margin: Sinhalese legend.]_
+
 The Mahāvamsa chronicle, dating from the beginning of the sixth century after Christ, which gives a list of Asoka's missionaries and the countries to which they were deputed, makes no mention of the missions to the Tamil kingdoms of Southern India. This reticence may be plausibly explained by the fierce hostility between the Sinhalese and the Tamils of the mainland, which had begun long before the Christian era and lasted for many centuries. If Mahendra had migrated from his monastery near Tanjore to the island, the fact would have been most distasteful to the monks of the Great Vihāra, who would have been unwilling to feel indebted to a resident among the hated Tamils for instruction in the rudiments of the faith, and would have preferred that people should believe their religion to have come direct from the Holy Land of Buddhism. Some such motive seems to have originated the Sinhalese form of the legend of Mahendra, who is represented as an illegitimate son of Asoka, and is said to have been followed by a sister named Sanghamitrā (‘Friend of the Order’), who did for the nuns of Ceylon all that her brother did for the monks. This legend, which is overlaid by many marvellous inventions, must be to a large extent fictitious.[^sec-18-fn-030] The presumably true version, representing Mahendra as the younger brother of Asoka, was well remembered at the imperial capital Pātaliputra, where Fa-hien, at the beginning of the fifth century, was shown the hermitage of Asoka's saintly brother; and it was still the only version known to Hiuen Tsang in the seventh century. Even when the latter pilgrim took down the Sinhalese legends from the lips of the [p. 197] island monks whom he met at Kāñchī, he applied the stories to the brother, not to the son, of Asoka.[^sec-18-fn-031]
 
 > _[Margin: Alleged mission to Pegu.]_
+
 The Mahāvamsa may be mistaken in attributing to Asoka the dispatch of missionaries to Pegu (*Sovanabhūmi*).[^sec-18-fn-032] No such mission is mentioned in the inscriptions, and if it really occurred, it seems to have had little result. The Ceylon form of Buddhism appears to have been introduced effectively into Burma and Pegu at a very much later date ; and there is reason to believe that the earliest Burmese Buddhism was of the Tantric Mahāyāna type, imported direct from Northern India many centuries after Asoka's time.[^sec-18-fn-033]
 
 > _[Margin: Missions to Hellenistic kingdoms.]_
+
 Unfortunately no definite record has been preserved of the fortunes of the Buddhist missions in the Hellenistic kingdoms of Asia, Africa, and Europe ; nor are the names of the missionaries known. The influence of Buddhist doctrine on the heretical Gnostic sects appears to be undoubted ; and many writers have suspected that more orthodox forms of Christian teaching owe some debt to the lessons of Gautama ; but the subject is too obscure for discussion in these pages.[^sec-18-fn-034]
 
 > _[Margin: Buddhism became a world religion.]_
+
 It is, however, certain that Asoka, by his comprehensive and well-planned measures of evangelization, succeeded in transforming the doctrine of a local Indian sect into one of the great religions of the world. The personal ministry of Gautama Buddha was confined to a comparatively small area, comprising about four degrees of latitude and as many of longitude, between Gayā, Allāhābād, and the Himalaya. Within these limits he was born, lived, and died. When he died, about 543 <span class="sc">b. c.</span>, Buddhism was merely a sect of Hinduism, unknown beyond very restricted limits, and with no better apparent chance of survival than that enjoyed by many other contemporary sects now long-forgotten.
 
 
@@ -2640,21 +3036,27 @@ It is, however, certain that Asoka, by his comprehensive and well-planned measur
 The effective organization of the monastic system by the Buddhists probably was the means of keeping their system alive and in possession of considerable influence in the Gangetic valley for the centuries which elapsed between the death of Gautama and the conversion of Asoka. His imperial patronage, gradually increasing as his faith grew in intensity, made the fortune of Buddhism, and raised it to the position which enables it still to dispute with Christianity the first place among the religions of the world, so far as the number of believers is concerned.
 
 > _[Margin: The work of Asoka.]_
+
 Asoka did not attempt to destroy either Brahmanical Hinduism or Jainism ; but his prohibition of bloody sacrifices, the preference which he openly avowed for Buddhism, and his active propaganda, undoubtedly brought his favourite doctrine to the front, and established it as the dominant religion in both India and Ceylon. It still retains that position in the southern island, although it has vanished almost completely from the land of its birth, and has failed to retain its grasp upon many of its distant conquests. Still, notwithstanding many failures, fluctuations, developments, and corruptions, Buddhism now commands, and will command for countless centuries to come, the devotion of hundreds of millions of men. This great result is the work of Asoka alone, and entitles him to rank for all time with that small body of men who may be said to have changed the faith of the world.
 
 > _[Margin: Comparison with Constantine.]_
+
 The obvious comparison of Asoka with Constantine, which has become a commonplace, is, like most historical parallels, far from exact. Christianity, when the emperor adopted it as the state creed, was already a power throughout the Roman Empire, and Constantine’s adherence was an act of submission to an irresistible force rather than one of patronage to an obscure sect. Buddhism, on the contrary, when Asoka accorded to it his invaluable support, was but one of many sects struggling for existence and survival, and without any pretension to dictate imperial policy. His personal action, seemingly prompted and directed by his teacher Upagupta, was the direct cause of the spread of the doctrine [p. 199] beyond the limits of India; and, if a Christian parallel must be sought, his work is comparable with that of Saint Paul, rather than with that of Constantine.
 
 > _[Margin: Upagupta.]_
+
 Upagupta, to whom the conversion of Asoka is ascribed, is said to have been the son of Gupta, a perfumer, and to have been born at either Benares or Mathurā. Probably he was a native of the latter city, where the monastery built by him still existed in the seventh century. Tradition also associated his name with Sind, in which country he is said to have made frequent missionary journeys.[^sec-18-fn-035]
 
 > _[Margin: Asoka's energy,]_
+
 The vigorous and effective action taken by Asoka to propagate his creed and system of morals is conclusive proof of his absolute honesty of purpose, and justifies the modern reader in giving full credence to the devout professions made by him in the edicts. ‘Work I must,’ he observed, ‘for the public benefit’; and work he did. The world still enjoys the fruit of his labours; and his words, long lost, but now restored to utterance, ring with the sound of sincerity and truth.
 
 > _[Margin: and industry.]_
+
 Asoka was a hard-working king, as unwearied in business as Philip II of Spain, ready to receive reports ‘at any hour and any place’, and yet dissatisfied with the outcome of his industry. ‘I am never,’ he laments, ‘fully satisfied with my exertions and dispatch of business.’ Probably he worked too hard, and would have effected still more if he had done less. His ideal of duty was high, and, like the Stoic philosopher, he was bound to obey the law of his nature, and to toil on, be the result success or failure.
 
 > _[Margin: Character of Asoka.]_
+
 The character of Asoka must be deduced from his words. The style is of the man, and I firmly believe that the edicts [p. 200] express his thoughts in his own words. They are written in a style far too peculiar and distinctive to be the work of a Secretary of State, and are alive with personal feeling. No secretary would have dared to put in his master's mouth the passionate expressions of remorse for the misery caused by the Kalinga war, leading up to the resolve to eschew aggressive warfare for the rest of his life, and the declaration that 'although a man do him an injury, His Majesty holds that it must be patiently borne, as far as it possibly can be borne'.[^sec-18-fn-036]
 
 The edicts reveal Asoka as a man who sought to combine the piety of the monk with the wisdom of the king, and to make India the kingdom of righteousness as he conceived it, a theocracy without a God; in which the government should act the part of Providence, and guide the people in the right way. Every man, he maintained, must work out his own salvation, and eat the fruit of his deeds. 'The fruit of exertion is not to be obtained by the great man only; because even the small man by exertion can win for himself much heavenly bliss; and for this purpose was given the precept—"Let small and great exert themselves".'[^sec-18-fn-037] The government could only point out the road, which each man must travel for himself.
@@ -2662,30 +3064,39 @@ The edicts reveal Asoka as a man who sought to combine the piety of the monk wit
 Reverence, compassion, truthfulness, and sympathy were the virtues which he inculcated; irreverence, cruelty, falsehood, and intolerance were the vices which he condemned. The preacher was no mere sermon-writer. He was a man of affairs, versed in the arts of peace and war, the capable ruler of an immense empire, a great man, and a great king.
 
 > _[Margin: Asoka's queens.]_
+
 Asoka, like all Oriental monarchs, was a polygamist, and had at least two consorts, who ranked as queens. The name of the second of these ladies, Kāruvākī, is preserved in a brief edict signifying the royal pleasure that her charitable donations should be regarded by all officials concerned as her act and deed, redounding to her accumulation of merit. [p. 201] She is described as the mother of Tīvara, who may be considered as a favourite child of the aged emperor at the time the edict was issued, late in his reign.
 
 > _[Margin: Legend of Kunāla.]_
+
 Tradition avers that his faithful chief queen for many years was named Asandhimitrā, and that when she died, and Asoka was old, he married a dissolute young woman named Tishyarakshitā; concerning whom and her step-son Kunāla, the old folk-lore tale, known to the Greeks as that of Phaedra and Hippolytus, is related with much imaginative embellishment. But folk-lore is not history, and the pathetic story of the blinded Kunāla must not be read or criticized as matter-of-fact narrative. The legend appears in diverse forms with various names.
 
 > _[Margin: Legend of Jalauka.]_
+
 Another son of Asoka, named Jalauka, who plays a large part in Kashmīr tradition, although rather a shadowy personage, has more appearance of reality than Kunāla. He was reputed to have been an active and vigorous king of Kashmīr, who expelled certain intrusive foreigners, and conquered the plains as far as Kanauj. He was hostile to Buddhism and devoted to the worship of Siva and the Divine Mothers, in whose honour he and his queen, Isānadēvī, erected many temples at places which can be identified. The story of Jalauka, notwithstanding the topographical details, is essentially legendary, and no independent corroboration of the Kashmīr tradition has been discovered.[^sec-18-fn-038]
 
 > _[Margin: Daśaratha.]_
+
 Tīvara, the son mentioned in the Queen's Edict, is not heard of again, and may have predeceased his father. Dasaratha, a grandson of Asoka, certainly was a reality, being known from brief dedicatory inscriptions on the walls of cave-dwellings at the Nāgārjuni Hills, which he bestowed upon the Ājīvikas, as his grandfather had done in the neighbouring Barābar Hills. The script, language, and style of Dasaratha's records prove that his date was very close to that of Asoka, whom probably he directly succeeded, at least in the eastern provinces. Assuming this to be the fact, the [p. 202] accession of Dasaratha may be dated in 232 <span class="sc">b. c.</span> His reign appears to have been short, and is allotted (under other names) eight years in two of the Purāṇas.
 
 > _[Margin: Samprati; Buddhist tradition.]_
+
 The existence and succession of Samprati, another grandson of Asoka, although not verified by epigraphic record, are vouched for by a considerable body of tradition. The Buddhist prose romance, named *Asokāvadāna* (being part of the *Divyāvadāna*), tells a long story of Asoka's senile devotion to the church and consequent waste of the resources of the empire, which went so far that the ministers were compelled to remove him from power, and place Samprati, son of the blinded Kunāla, on the throne. We are not told what became of Asoka. According to this tale, the successors of Samprati were Vrihaspati, Vrishasena, Pushyadharman, and Pushyamitra, the last being described as of Maurya descent.[^sec-18-fn-039]
 
 > _[Margin: Jain traditions.]_
+
 The Jain literary tradition of Western India, which also recognizes Samprati as the immediate successor of Asoka, eulogizes him as an eminent patron of Jainism, who founded Jain monasteries even in non-Aryan countries. Almost all ancient Jain temples or monuments of unknown origin are ascribed by the popular voice to Samprati, who is, in fact, regarded as a Jain Asoka. One author describes him as being the sovereign of all India (‘lord of Bharata with its three continents’), holding court at Pātaliputra; but other traditions place the seat of his government at Ujjain. It is [p. 203] obviously impossible to reconcile all these discrepant traditions, or to feel assured that a kernel of fact can be extracted from the husk of legend. The concurrence of Buddhist with Jain tradition may be accepted as good evidence that Samprati had a real existence in the flesh, although nothing certain is known about him. Perhaps the empire was divided immediately after Asoka's death, between his grandsons, Dasaratha taking the eastern, and Samprati the western provinces, but there is no clear evidence to support this hypothesis.[^sec-18-fn-040]
 
 > _[Margin: Khotan legends.]_
+
 The legends of Khotan assert a connexion between that kingdom and Asoka in more ways than one. According to one version of the story he banished certain nobles of Taxila to the north of the Himalaya as a punishment for their complicity in the wrongful blinding of his son Kunāla. These exiles elected one of their number to be king, who reigned in Khotan until he was defeated by a rival prince exiled from China. Another version of the tale asserts that the earliest ancestor of the royal family of Khotan was the prince Kunāla, Asoka's son, who was himself exiled from Taxila. These stories seem to be merely mythological explanations of the fact that the ancient civilization of Khotan was derived from both India and China. It is not likely, although it is not impossible, that Asoka's political jurisdiction should have extended into the basin of the Tārīm.[^sec-18-fn-041]
 
 > _[Margin: Decline and fall of the Maurya dynasty.]_
+
 The whole duration of the Maurya dynasty, according to Purānic authority, was 137 years, and if this period be accepted and reckoned from the accession of Chandragupta in 322 <span class="sc">b. c.</span>, the dynasty must have come to an end in 185 <span class="sc">b. c.</span>, which date certainly is approximately correct. Four princes who, according to the Purānic lists, succeeded Asoka's grandsons, and each reigned for a few years, are [p. 204] mere names[^sec-18-fn-042]; and, if the real existence of Samprati and his successors be assumed, they are equally shadowy personages. The only certainty is that the great empire founded by Chandragupta, and gloriously maintained by his son and grandson, did not long survive the latter. The fall of the Maurya authority probably was due in large measure to a reaction promoted by the Brahmans, whose privileged position must have been seriously affected by the extreme favour which Asoka showed to the Buddhist monks. The prohibition of bloody sacrifices and the irritating proceedings of the Censors must have produced much unrecorded discontent, and we may fairly assume that when the strong hand of the old emperor dropped the sceptre, Brahman influence reasserted itself and produced a revolt against the inquisitorial tyranny of Asoka's system.[^sec-18-fn-043] The descendants of Asoka whose names are recorded in the Purānas probably retained possession of only Magadha and the neighbouring home provinces. In or about 185 <span class="sc">b. c.</span> the last prince of the Maurya dynasty, named Brihadratha, was slain by his commander-in-chief, Pushyamitra (or Pushpamitra), who established a new dynasty known as that of the Sungas. The Āndhra state, between the Krishnā and Godāvarī rivers, was among the earliest defections, and rapidly grew into a powerful kingdom, stretching right across India, as will be narrated in the next chapter.
 
 > _[Margin: Local Maurya Rājas.]_
+
 Descendants of the great Asoka continued as unrecorded local subordinate Rājas in Magadha for many centuries; the last of them, and the only one whose name has been preserved, being Pūrna-varman, who was nearly contemporary with the Chinese pilgrim, Hiuen Tsang, in the seventh century.[^sec-18-fn-044]
 
 
@@ -2815,132 +3226,168 @@ Petty Maurya dynasties, apparently connected in some unknown way with the imperi
 
 ##### *The Sunga Dynasty.*
 
-> _[Margin: *c.* 185 <span class="sc">b.c.</span> Usurpation of Pushyamitra.]_
-> _[Margin: Sunga.]_
+> _[Margin: *c.* 185 <span class="sc">b.c.</span> Usurpation of Pushyamitra. Sunga.]_
+
 <span class="sc">Pushyamitra</span>, the commander-in-chief, having slain his master Brihadratha Maurya, usurped the vacant throne, and established himself as sovereign of the now contracted Maurya dominions;[^sec-19-fn-001] thus founding a dynasty known to history as that of the Sungas.[^sec-19-fn-002]
 
 
 <!-- page: 245 | folio: 209 -->
 > _[Margin: Extent of Sunga dominions.]_
+
 The capital presumably continued to be, as of old, Pātaliputra, and probably all the central or home provinces of the empire recognized the usurper’s authority, which perhaps extended to the south as far as the Narmadā river,[^sec-19-fn-003] and may be assumed to have embraced the territories in the Gangetic basin, corresponding with the modern Bihār, Tirhūt, and the United Provinces of Agra and Oudh. It is unlikely that either the later Mauryas or the Sungas exercised any jurisdiction in the Panjāb. Wilson’s belief that the arms of Pushyamitra reached the Indus was due to a misunderstanding.[^sec-19-fn-004]
 
 > _[Margin: *c.* 165 <span class="sc">b.c.</span> First invasion of Khāravela.]_
+
 Pushyamitra did not enjoy his dominions unchallenged. In or about 165 <span class="sc">b. c.</span> Khāravela, King of Kalinga, who was descended from the Cheta (Chaitra) family, invaded his territory and advanced to within a few miles of Pātaliputra. Pushyamitra made a strategic withdrawal to Mathurā, and Khāravela apparently considered it wise at the moment not to proceed farther than the Barābar Hills (Gorathagiri).
 
 > _[Margin: *c.* 161 <span class="sc">b.c.</span> Second invasion of Khāravela.]_
+
 The second invasion of Khāravela, four years later, was, however, more successful. Entering Northern India and marching at the foot of the Himalayas, he suddenly appeared before the capital of Magadha on the north side of the Ganges, which he crossed with the help of the famous elephants of Kalinga. Pushyamitra was forced to submit, and the treasures of his capital were seized by the victor, among them being a statue of the first Jina (Rishabhadeva), which had been carried away from Kalinga three centuries earlier by King Nanda I.[^sec-19-fn-005]
 
 
 <!-- page: 246 | folio: 210 -->
 > _[Margin: *c.* 155–3 <span class="sc">b. c.</span> Invasion and repulse of Menander.]_
+
 During the latter years of his reign, Pushyamitra was threatened by serious danger. Menander, a relative of the Bactrian monarch Eukratides, and king of Kābul and the Panjāb, having formed the design of emulating the exploits of Alexander, advanced with a formidable force into the interior of India. He annexed the Indus delta, the peninsula of Surāshtra (Kāthiāwār), and some other territories on the western coast; occupied Mathurā on the Jumna; besieged Madhyamikā (now Nagarī near Chitōr) in Rājputāna; invested Sākētam in Southern Oudh; and threatened Pātaliputra, the capital.
 
 The invasion was repelled after a severe struggle, and the Greek king was obliged to retire to his own country, but he may have retained his conquests in Western India for a few years longer.[^sec-19-fn-006]
 
 > _[Margin: India and Europe.]_
+
 Thus ended the second and last attempt by a European general to conquer India by land. All subsequent invaders from the western continent have come in ships, trusting to their command of the sea, and using it as their base. From the repulse of Menander in or about 153 <span class="sc">b. c.</span> until the bombardment of Calicut by Vasco da Gama in <span class="sc">a. d.</span> 1502 India enjoyed immunity from attack under European leadership; and so long as the power in occupation of the country retains command of the sea, no attack made from the land side in the footsteps of the ancient invaders can have any prospect of permanent success.
 
 > _[Margin: Agnimitra's war with Vidarbha.]_
+
 During the progress of the war with Menander, the outlying southern provinces extending to the Narmadā river were administered by the Crown Prince, Agnimitra, as viceroy, who had his capital at Vidisā, the modern Bhīlsā on the Betwā in Sindhia's territory. Agnimitra's youthful son, Vasumitra, was employed on active service under the orders of the king, his grandfather. Pushyamitra, who at this time must have been advanced in years, resolved to crown his military successes by substantiating and proclaiming [p. 211] a formal claim to the rank of Lord Paramount of Northern India. His pretensions received confirmation by the success of Agnimitra in a local war with his southern neighbour, the Rāja of Vidarbha (Berār), which resulted in the complete defeat of the Rāja, who was obliged to cede half of his dominions to a rival cousin; the river Varadā (Warda) being constituted the boundary between the two principalities.
 
+Pushyamitra determined to revive and celebrate with appropriate magnificence the antique Vedic rite of the horse-sacrifice (*aœvamedha*), which, according to immemorial tradition, could only be performed by a paramount sovereign, and involved as a preliminary a formal and successful challenge to all rival claimants to supreme power, delivered after this fashion :—
+
 > _[Margin: *Aœvamedha*, or horse-sacrifice.]_
-Pushyamitra determined to revive and celebrate with appropriate magnificence the antique Vedic rite of the horse-sacrifice (*aœvamedha*), which, according to immemorial tradition, could only be performed by a paramount sovereign, and involved as a preliminary a formal and successful challenge to all rival claimants to supreme power, delivered after this fashion :— ‘A horse of a particular colour was consecrated by the performance of certain ceremonies, and was then turned loose to wander for a year. The king, or his representative, followed the horse with an army, and when the animal entered a foreign country, the ruler of that country was bound either to fight or to submit. If the liberator of the horse succeeded in obtaining or enforcing the submission of all the countries over which it passed, he returned in triumph with all the vanquished Rājas in his train; but, if he failed, he was disgraced, and his pretensions ridiculed. After his successful return, a great festival was held, at which the horse was sacrificed.’[^sec-19-fn-007]
+
+‘A horse of a particular colour was consecrated by the performance of certain ceremonies, and was then turned loose to wander for a year. The king, or his representative, followed the horse with an army, and when the animal entered a foreign country, the ruler of that country was bound either to fight or to submit. If the liberator of the horse succeeded in obtaining or enforcing the submission of all the countries over which it passed, he returned in triumph with all the vanquished Rājas in his train; but, if he failed, he was disgraced, and his pretensions ridiculed. After his successful return, a great festival was held, at which the horse was sacrificed.’[^sec-19-fn-007]
 
 > _[Margin: Yāvanas.]_
+
 The command, at least nominally, of the guard attendant on the consecrated steed liberated by Pushyamitra was entrusted to his young grandson, Vasumitra, who is said to have encountered and routed a band of certain Yavanas, or western foreigners, who took up the challenge on the banks of the river Sindhu, which now forms the boundary between Bundēlkhand and the Rājputāna states.[^sec-19-fn-008] These disputants may have been part of the division of Menander's army which had undertaken the siege of Madhyamikā in Rājputāna.
 
 
 <!-- page: 248 | folio: 212 -->
 > _[Margin: Celebration of the sacrifice.]_
+
 The Yavanas and all other rivals having been disposed of in due course, Pushyamitra was justified in his claim to rank as the paramount power of Northern India, and straightway proceeded to announce his success by a magnificent celebration of the sacrifice at his capital. The dramatist, who has so well preserved the traditions of the time, professes to record the very words of the invitation addressed by the victorious king to his son the Crown Prince, as follows :—
 
 > ‘ May it be well with thee ! From the sacrificial enclosure the commander-in-chief Pushpamitra sends this message to his son Agnimitra, who is in the territory of Vidisā, affectionately embracing him. Be it known unto thee that I, having been consecrated for the *Rājasūya* sacrifice,[^sec-19-fn-009] let loose free from all check or curb a horse which was to be brought back after a year, appointing Vasumitra as its defender, girt with a guard of a hundred Rājpūts. This very horse wandering on the right [or “ south ”] bank of the Sindhu was claimed by a cavalry squadron of the Yavanas. Then there was a fierce struggle between the two forces. Then Vasumitra, the mighty bowman, having overcome his foes, rescued by force my excellent horse, which they were endeavouring to carry off. Accordingly, I will now sacrifice, having had my horse brought back to me by my grandson, even as Ansumat brought back the horse to Sagara. Therefore, you must dismiss anger from your mind, and without delay come with my daughters-in-law to behold the sacrifice.’[^sec-19-fn-010]
 
 > _[Margin: Patañjali.]_
+
 The performance of the solemn rite probably was witnessed by the celebrated grammarian Patañjali, who alludes [p. 213] to the event in terms which imply that it occurred in his time.
 
 > _[Margin: Beginning of Brahmanical reaction.]_
+
 The exaggerated regard for the sanctity of animal life, which was one of the most cherished features of Buddhism, and the motive of Asoka's most characteristic legislation, had necessarily involved the prohibition of bloody sacrifices, which are essential to certain forms of Brahmanical worship, and were believed by the orthodox to possess the highest saving efficacy. The memorable horse-sacrifice of Pushyamitra marked an early stage in the Brahmanical reaction, which was fully developed five centuries later in the time of Samudragupta and his successors.
 
 > _[Margin: Pushyamitra alleged to be a persecutor.]_
+
 If credit may be given to the semi-mythological stories of Buddhist writers, Pushyamitra was not content with the peaceful revival of Hindu rites, but indulged in a savage persecution of Buddhism, burning monasteries and slaying monks from Magadha to Jālandhar, in the Panjāb. Many monks who escaped his sword are said to have fled into the territories of other rulers. It would be rash to reject this tale as wholely baseless, although it may be exaggerated.[^sec-19-fn-011]
 
 > _[Margin: Persecutions in India.]_
+
 Although the alleged proscription of Buddhism by Pushyamitra is supported by some evidence, it is true that the gradual extinction of that religion in India was due in the main to causes other than persecution; while it is also true that from time to time fanatic kings indulged in savage outbursts of cruelty, and committed genuine acts of persecution directed against Jains or Buddhists as such. Well-established instances of such proceedings will be met with in the course of this history, and others, which do not come within its limits, are on record. That such outbreaks of wrath should have occurred is not wonderful, if we consider the extreme oppressiveness of the Jain and Buddhist prohibitions when ruthlessly enforced, as they certainly were by some Rājas, and presumably by Asoka. The wonder rather is that persecutions were so rare, and that as a rule the [p. 214] various sects managed to live together in harmony, and in the enjoyment of fairly impartial official favour.[^sec-19-fn-012]
 
 > _[Margin: *c.* 149 <span class="sc">B.C.</span> The later Śungas.]_
+
 When Pushyamitra, some five years subsequent to the retreat of Menander, died, after a long and eventful reign, he was succeeded by his son the Crown Prince, Agnimitra, who had governed the southern provinces during his father's lifetime. He reigned but a few years, and was succeeded by Vasujyeshtha, or Sujyeshtha, probably a brother, who was followed seven years later by Vasumitra, presumably that son of Agnimitra who as a youth had guarded the sacrificial horse on behalf of his aged grandfather. The next four reigns are said to have been abnormally short, amounting together to only seventeen years. The inference that the extreme brevity of these reigns indicates a period of confusion during which palace revolutions were frequent is confirmed by the one incident of the time which has survived in tradition. Sumitra, another son of Agnimitra, who was, we are told, inordinately devoted to the stage, was surprised when in the midst of his favourite actors by one Mitradeva, who 'severed his head with a scimitar, as a lotus is shorn from its stalk'.[^sec-19-fn-013] The ninth king, Bhāgavata, is credited with a long reign of thirty-two years, but we know little about him.[^sec-19-fn-014] The tenth king, Devabhūti or Devabhūmi, [p. 215] was, we are assured, a man of licentious habits, and lost his life while engaged in a discreditable intrigue. The dynasty thus came to an unhonoured end after having occupied the throne for a hundred and twelve years.[^sec-19-fn-015]
 
 
 #### *The Kāṇva or Kāṇvāyana Dynasty.*
 
 > _[Margin: *c.* 73 <span class="sc">B. C.</span> Vasudeva Kāṇva.]_
+
 The plot which cost the royal debauchee, Devabhūti, his throne and life was contrived by his Brahman minister Vasudeva, who seems to have controlled the state even during the lifetime of his nominal master.[^sec-19-fn-016] Mitradeva, the slayer of Prince Sumitra, probably belonged to the same powerful family, which is known to history as that of the Kāṇvas, or Kāṇvāyanas. The distinct testimony of both the Purāṇas and Bāṇa that Devabhūti, the tenth and last Śuṅga, was the person slain by Vasudeva, the first Kāṇva, forbids the acceptance of Professor Bhandarkar's theory that the Kāṇva dynasty should be regarded as contemporary with the Śuṅga.[^sec-19-fn-017]
 
 
 <!-- page: 252 | folio: 216 -->
 > _[Margin: *c.* 63–28 <span class="sc">b. c.</span> The later Kāṇvas.]_
+
 Vasudeva seized the throne rendered vacant by his crime, and was succeeded by three of his descendants. The whole dynasty, comprising four reigns, covers a period of only forty-five years.[^sec-19-fn-018] The figures indicate, as in the case of the Sungas, that the times were disturbed, and that succession to the throne was often effected by violent means. Nothing whatever is known about the reigns of any of the Kāṇva kings.[^sec-19-fn-019] The last of them was slain about 28 or 27 <span class="sc">b. c.</span> by a king of the Āndhra or Sātavāhana dynasty, which at that time possessed wide dominions stretching across the table-land of the Deccan from sea to sea. Although no coins or monuments connecting the Āndhra kings with Pātaliputra, the ancient imperial capital, have yet been discovered, it is possible that they may have controlled the kingdom of Magadha for a time. The most ancient coins of the dynasty at present known are of northern type, and bear the name of Sāta, probably Sātakarni, the sixth king in the Purānic list, who was reigning about 150 <span class="sc">b. c.</span> The Āndhra coinage from first to last has many obvious affinities with the mintages of the north, which may be explained by the hypothesis that the dynasty really held Magadha as a dependency for a considerable period. But there is little evidence to support such a conjecture.[^sec-19-fn-020]
 
 > _[Margin: Identity of the Āndhra king.]_
+
 The Purānas treat the whole Āndhra dynasty as following the Kānva, and consequently identify the slayer of the last Kānva prince with Simuka or Sipraka, the first of the Āndhra line. But, as a matter of fact, the independent [p. 217] Āndhra dynasty must have begun about 240 or 230 <span class="sc">b. c.</span>,[^sec-19-fn-021] long before the suppression of the Kāṇvas about 28 <span class="sc">b. c.</span>, and the Āndhra king who slew Susarman cannot possibly have been Simuka. It is impossible to affirm with certainty who he was, because the dates of accession of the several Āndhra princes are not known with accuracy. All that can be affirmed at present is that the slayer of Susarman, the last Kāṇva, apparently must have been one or other of three Āndhra kings, namely Nos. 11, 12, or 13. The year 28 <span class="sc">b. c.</span> may be accepted as the approximately true date of the extinction of the Kāṇva dynasty ; because it depends, not on the duration assigned to each several Āndhra reign, but on the periods of 112 and 45 years respectively allotted to the Sunga and Kāṇva dynasties, which seem worthy of credence ; and this date, 28 <span class="sc">b. c.</span>, apparently must fall within the limits of one or other of the three Āndhra reigns named above.[^sec-19-fn-022]
 
 
 #### *The Āndhra or Andhra Dynasty.*
 
 > _[Margin: Earliest mention of the Āndhras.]_
+
 Before proceeding to narrate the history of the Āndhra kings after the extinction of the Kāṇva dynasty we must cast back a glance to the more distant past, and trace the steps by which the Āndhra kingdom became one of the greatest powers in India.
 
 > _[Locus: 300 <span class="sc">b. c.</span>]_
+
 In the days of Chandragupta Maurya and Megasthenes, ths Āndhra nation, a Dravidian people, mentioned in the *Aitareya Brahmana* of very early date, and now represented by the large population speaking the Telugu language, occupied the deltas of the Godāvarī and Krishnā (Kistna) rivers on the eastern side of India, and was reputed to possess a military force second only to that at the command of the king of the Prasii, Chandragupta Maurya. The Andhra territory included thirty walled towns, besides [p. 218] numerous villages, and the army consisted of 100,000 infantry, 2,000 cavalry, and 1,000 elephants.[^sec-19-fn-023] The capital of the state is believed to have been then Srī Kākulam, on the lower course of the Krishnā.[^sec-19-fn-024] The nation thus described evidently was independent.
 
 > _[Margin: 256 <span class="sc">b. c.</span> Āndhras tributary to Asoka.]_
+
 When next mentioned in Asoka's edicts (256 <span class="sc">b. c.</span>) they were reckoned among the tribes and nations resident in or adjoining the outer circle of the empire, and perhaps subject to the imperial command, although doubtless enjoying a considerable degree of autonomy under their own Rāja.[^sec-19-fn-025] The withdrawal of the strong arm of Asoka was the signal for the disruption of his vast empire. While the home provinces continued to obey his feeble successors upon the throne of Pātaliputra, the distant governments, including Kalinga, which he had taken so much trouble to annex, shook off the imperial yoke and reasserted their independence.
 
 > _[Margin: *c.* 240 or 230 <span class="sc">b. c.</span> Kings Simuka and Krishṇa.]_
+
 The Āndhras were not slow to take advantage of the opportunity given by the death of the great emperor, and very soon after the close of his reign, or possibly even before its close, to assert their independent power under the government of a king named Simuka. The new dynasty extended its sway with such extraordinary rapidity that, in the reign of the second king, Krishna (Kanha), the town of Nāsik, near the source of the Godāvarī in the Western [p. 219] Ghāts, was included in the Āndhra dominions, which thus stretched across India.
 
 > _[Margin: *c.* 171 <span class="sc">b.c.</span> Khāravela.]_
+
 The third king, Srī Sātakarṇi, who is described as Lord of the West, was defied by Khāravela, king of Kalinga in the east, which kingdom also had recovered its independence after the death of Asoka.[^sec-19-fn-026]
 
 > _[Margin: *c.* 28 or 27 <span class="sc">b. c.</span> Extinction of Kāṇva dynasty.]_
+
 Nothing more is heard of the Āndhra kings until one of them, as above related, in or about 28 <span class="sc">b. c.</span>, slew the last of the Kāṇvas, and no doubt annexed the territory, whatever it may have been, which still recognized the authority of that dynasty. The Āndhra kings all claimed to belong to the Sātavāhana family, and many of them assumed the title or bore the name of Sātakarṇi. They are consequently often referred to by one or other of these designations, without mention of the personal name of the monarch, and it is thus sometimes impossible to ascertain which king is alluded to. As already observed, the real name of the slayer of Susarman Kāṇva is not known.
 
 
 <!-- page: 256 | folio: 220 -->
 > _[Margin: King Hāla and Prākrit literature.]_
+
 The name of Hāla, the seventeenth king, by virtue of its association with literary tradition, possesses special interest. The anthology of erotic verses, written in the ancient dialect of Mahārāshtra, and entitled *Saptaśataka*, or ‘Seven Centuries’, professes to be the composition of Hāla, and is ascribed by tradition to Sālivāhana, another form of Sātavāhana. Prof. Sir R. G. Bhandarkar therefore has suggested that probably either king Hāla may have been the author of the work, or it may have been dedicated to him.[^sec-19-fn-027] Other traditions also associate literature written in Prākrit with kings of the Āndhra dynasty. In their time and territory Sanskrit, apparently, was not in ordinary use as the language of polite literature.
 
 > _[Margin: Wars between Āndhras and foreigners.]_
+
 During the reigns of kings No. 23, Rāja Gautamīputra Srī Sātakarni, and No. 24, Rāja Vāsishtīputra Srī Pulumāyi, the Āndhras engaged in conflicts with the foreign tribes which had formed settlements and carved out kingdoms in Western India, subordinate apparently at first to the Indo-Parthian and subsequently to the Kushān sovereigns. Such conflicts between indigenous Rājas and alien chiefs frequently recur in the history of ancient India.
 
 > _[Margin: Satrap Bhūmaka Kshaharāta.]_
+
 The story of the foreign settlements in the regions now mostly included in the Bombay Presidency is fragmentary and obscure, but can be made out to some extent from study of coins and inscriptions. The earliest foreign ruler in the west whose name has been preserved was the Satrap Bhūmaka Kshaharāta, who struck coins with Parthian affinities, and may be presumed to have been subordinate to one or other of the Indo-Parthian kings, perhaps Gondophares. His exact date is not known, but he may be assigned approximately to the early years of the first century after Christ, and may have had predecessors. The Kshaharātas were connected with the Sakas, and may have immigrated from Sakastēnē, the modern Sīstān.
 
 
 <!-- page: 257 | folio: 221 -->
 > _[Margin: Great Satrap Nahapāna Kshaharāta.]_
+
 The next recorded Kshaharāta chief is Nahapāna, who may or may not have been the immediate successor of Bhūmaka, and may be assigned approximately to the middle of the first century after Christ, or possibly earlier. His name indicates Persian origin. At first he held the rank of Satrap, like Bhūmaka, but subsequently assumed the higher style of Great Satrap (*mahākshatrapa*), and was also known by the Indian title of Rāja. His dominions comprised a large area, extending from Southern Rājputāna as far northward as Ajmēr and Pushkar, to the Nāsik and Poona Districts in the Western Ghāts, and including the peninsula of Surāshtra or Kāthiāwār. His titles of Satrap and Great Satrap indicate subordination to a northern power, which can only have been that of the Kushāns.[^sec-19-fn-028]
 
 > _[Margin: Extirpation of Kshaharātas by Gautamīputra Śātakarṇi.]_
+
 The Āndhra king, No. 23, Rāja Gautamīputra Srī Sātakarṇi, who may be assumed to have come to the throne about the beginning of the second century <span class="sc">a. d.</span>, succeeded in extirpating the Kshaharāta dynasty and annexing their dominions about <span class="sc">a. d.</span> 119. He signalized his victory by calling in the money issued by the vanquished princes during many years, restamping it in a crude fashion with his own insignia. At the height of his power he was master of the whole country watered by the Godāvarī, Berar, Mālwā, Kāthiāwār, Gujarāt, and the north Konkan.[^sec-19-fn-029] He posed as the champion of the Hindu religions, including both Brahmanical Hinduism and Buddhism, as against the creeds of casteless foreigners, Sakas, Pahlavas, and others, and prided himself on having re-established the practice of caste rules. He thus ‘restored the glory of the Sātavāhana race’, and was in a position to gratify his Hindu sentiment [p. 222] by liberal donations to both Brahmans and Buddhists. It is a curious fact that, although the Āndhra kings clearly were officially Brahmanical Hindus, most of their recorded donations were made to Buddhist institutions.
 
 > _[Margin: Conquest of Pulumāyi by Rudradāman I.]_
+
 About <span class="sc">A. D.</span> 128 Rāja Gautamīputra Srī Sātakarṇi was succeeded by his son, Rāja Vāsishṭhīputra Srī Pulumāyi, who had been his colleague,[^sec-19-fn-030] and reigned for some thirty years. He was married to a daughter of Rudradāman I, the Saka Great Satrap of Ujjain, but the matrimonial connexion did not prevent the Great Satrap from twice defeating his son-in-law and taking from him most of the territory which Gautamīputra Sātakarṇi had won from the Kshaharātas. The relationship, however, so far influenced the victor that he did not proceed to extremities, as he would have done to a stranger. The aggrandizement of Rudradāman I must have been largely completed before <span class="sc">A. D.</span> 130, by which date he was in possession of Cutch, and certainly before <span class="sc">A. D.</span> 150, because we know that shortly after that date he placed on record a list of the numerous regions in Western India which owned his sway.
 
 > _[Margin: Careers of Rudradāman and Chashtana.]_
+
 Rudradāman I, a learned and accomplished prince, who thus raised his house to the position of the leading power in the West, was the grandson of the great Satrap Chashtana, whose coins in silver and copper, inscribed with Greek, Brahmī, and Kharoshṭhī legends, are found in Gujarāt. The events of Chashtana's reign are not on record, but his approximate date is easily ascertained from the facts that his grandson is known to have been reigning in <span class="sc">A. D.</span> 130 and 150. Chashtana, therefore, may be placed in the period from about <span class="sc">A. D.</span> 80 to 110. These dates imply that Chashtana held his office as Great Satrap under the Kushān dynasty, that is to say, under Kadphises II, according to my chronology.[^sec-19-fn-031] The Saka satraps of Surāshtra and Mālwa [p. 223] naturally followed the examples of their Kushān sovereigns by using the Saka era, then newly established. The abundance of dated coins and inscriptions permits of no doubt as to the outlines of the chronology of the dynasty founded by Chashtana, the history of which will be further noticed in connexion with the Gupta kings.
 
 > _[Margin: Yajña Srī, <span class="sc">c. A.D.</span> 166 to 196.]_
+
 After the death of Vāsishtīputra Pulumāyi about <span class="sc">A. D.</span> 156, the only notable Āndhra monarch was Gautamīputra Yajna Srī, who reigned for twenty-nine years, from about <span class="sc">A. D.</span> 166. His rare silver coins, imitating the satrap coinage, certainly prove a renewal of relations with the western satraps, and probably point to unrecorded conquests. It would seem that Yajna Srī must have renewed the struggle in which Pulumāyi II had been worsted, and that he recovered some of the provinces lost by that prince. The silver coins would then have been struck for circulation in the conquered western districts, just as similar coins were minted by Chandra-gupta Vikramāditya when he finally shattered the power of the Saka satraps. The numerous and varied, although rude, bronze and leaden coins of Yajna Srī, which formed the currency of the eastern provinces, confirm the testimony of inscriptions by which the prolonged duration of his reign is attested.[^sec-19-fn-032] Some pieces bearing the figure of a ship probably should be referred to this reign, and suggest the inference that Yajna Srī's power was not confined to the land.
 
 > _[Margin: The last three kings.]_
+
 His successors, apparently, in the eastern provinces, named Vijaya, Chandra Srī, and Pulumāyi IV, with whom [p. 224] the long series of Āndhra kings came to an end about <span class="sc">a. d.</span> 225, are mere names ; but the real existence of Chandra Srī is attested by the discovery of a few leaden coins bearing his name.[^sec-19-fn-033] Research probably will detect coins struck by both his next predecessor and immediate successor.
 
 > _[Margin: Duration of the dynasty.]_
+
 The testimony of the Purānas that the dynasty endured for either 456 or 460 years, or, in round numbers, four centuries and a half, appears to be substantially accurate. The number of the kings also appears to be correctly stated as having been thirty. The following dynastic list has been constructed on the assumption that the best texts of the Purānas are right in fixing the number of kings as thirty, and therefore omits an extra king, No. 24 *a*, who appears only in a single manuscript of the *Vāyu Purāṇa*.[^sec-19-fn-034]
 
 > _[Margin: Western India under the Āndhras.]_
+
 Professor D. R. Bhandarkar has given a description, based upon the rock and cave inscriptions of Western India, of the social and economic features of the Deccan during the sway of the Āndhras.[^sec-19-fn-035] Both Buddhism and Brahmanic Hinduism flourished at that period. Almost all the Buddhist caves in the Deccan were excavated under the rule of this dynasty, villages and lands being granted to defray the cost of their maintenance and to provide also for the sustenance of the *Bhikshus* who inhabited the caves during the rainy season. The provision of new robes for these mendicants was secured by the investment of funds in one of the craft-guilds (*sreni*), established in the neighbouring towns. The popularity of Brahmanism is apparent from the fact that Royalty performed many sacrifices, including the *Aśvamedha* and *Gavāmayana*, and paid heavy *dakshina* to Brahmans. The worship of Siva was popular, [p. 225] and also the cult of Krishna under the names Samkarshana and Vāsudeva, while Indra and Dharma were widely revered. There seems to have been little or no antagonism between the two faiths, for the followers of Brahmanism excavated several caves for Buddhist monks, while foreigners like the Sakas and Ābhiras freely embraced either religion and assumed Hindu names.
 
 Society was officially divided into at least four classes, the highest class being composed of the Mahārathis, the Mahābhojas, and the Mahāsenāpatīs, who were feudatory chieftains in charge of *rashtras* or districts, the Mahābhojas being located in the north Konkan, and the Mahārathis in the country above the Western Ghāts. The second class comprised both officials and non-officials, among the former being the Amātyas and Mahāmātras, and the Bhāndāgārikas, who were in charge of the treasuries; while the latter included the *Naigama* (merchant), the *Sārthavāha* (head of a caravan of traders), and the *Sresthin* (head of a tradeguild). In the third class were the *Lekhaka* (scribe), *Vaidya* (physician), *Hālakīya* (cultivator), *Suvarnakāra* (goldsmith) and *Gāndhika* (druggist). The fourth class included the *Vardhaki* (carpenter), *Mālākāra* (gardener), *Lohavanija* (blacksmith), and *Dāsaka* (fisherman). The mercantile and cultivating classes were apparently subdivided into various *grihas* (homesteads) or *kutumbas* or *kulas* (families), the head of each of which was considered of sufficient importance to be designated respectively *Grihapati* or *Kutumbin*.
@@ -2952,6 +3399,7 @@ Craft-guilds were a feature of the age. At Govardhan, near Nāsik, there were gu
 The country profited from a flourishing foreign trade. Ships from the West sailed down the Red Sea to Broach and the Malabar coast, which supplied the two great inland marts of Paithan and Tagara, and probably visited the two harbours of Sopārā and Kalyān. The latter port was raised to the rank of a regular mart in the time of the elder Sarganes (probably Sātākarni, the third ruler of the dynasty); but its trade was subsequently restricted to narrow limits by Sandanes, who may have been a Saka official. The Saka Satraps certainly endeavoured to divert the trade from Broach direct through their own dominions in the northern Deccan. Other seaports supplying the Āndhra dominions were Semulla (Chaul), Mandagora (? Mandangad to the south of Bānkot), Palaipatmai, Melizeigara (? Jaygad or Janjira) and Buzantion.
 
 > _[Margin: The last of the Āndhras.]_
+
 At present nothing is known concerning the causes which brought about the downfall of this dynasty, which had succeeded in retaining power for a period so unusually prolonged. It would seem that Yajna Srī was the last king to retain control of both the eastern and western provinces.[^sec-19-fn-036] Scions of the Sātavāhana race appear to have established minor kingdoms in different parts of the Deccan. But the third century after Christ is one of the dark spaces in the spectrum of Indian history, and almost every event of that time is concealed from view by an impenetrable veil of oblivion. Vague speculation, unchecked by the salutary limitations of verified fact, is, at the best, unprofitable; and so we must be content to let the Āndhras pass away in the darkness. The Purānas present confused and corrupt [p. 227] lists of numerous local dynasties, including Yavanas and Sakas, obviously foreigners, as having succeeded the Āndhras, which it is impossible to arrange in any intelligible fashion.[^sec-19-fn-037]
 
 
@@ -3005,26 +3453,35 @@ At present nothing is known concerning the causes which brought about the downfa
 #### *The Invasion of Menander, and the Date of Patañjali*
 
 > _[Margin: Authorities.]_
+
 The authorities for the invasion of Menander are Strabo, who alone gives the Greek king's name (Bk. xi, sec. xi, 1; xv, sec. ii, 3); Patañjali, the contemporary Hindu grammarian; the Sanskrit astronomical work, the *Gārgī Saṁhitā*, of uncertain date; and Tāranāth, the Tibetan historian of Buddhism.
 
 > _[Margin: Strabo.]_
+
 Strabo's informant, Apollodoros of Artemita, testifies that Menander crossed the Hypanis (Hyphasis, Biās) river, at which Alexander's advance had been arrested; penetrated to the Isamus (τοῦ Ἰσάμου), which has not been identified; and ultimately subjugated Patalēnē, or the Indus delta, the kingdom of Saraostos (Surāshtra, or Kāthiāwāṛ), and a territory on the western coast named Sigerdis. This statement is supported by the observation of the writer of the *Periplus*, who noticed, probably towards the close of the first century after Christ, that Greek coins of Apollodotos and Menander were still current at the port of Barygaza (Broach, Bharōch). This curious observation suggests the inference, that although Menander was compelled to retire quickly from the Gangetic valley, his rule must have continued for a considerable number of years in the territories on the western coast.
 
 > _[Margin: Madhyamikā.]_
+
 The sieges of Sākētam and Madhyamikā by the Yavana, that is to say presumably Menander, are referred to by the grammarian Patañjali in terms which necessarily imply that those events occurred during the writer's lifetime. The proof that Madhyamikā is the correct reading and to be interpreted as the name of a city is due to Prof. Kielhorn (*Ind. Ant.* vii, 266). The identity of Madhyamikā with the ancient town of Nagarī, or Tambavatī Nagarī, one of the oldest sites in India, about 8 miles to the north of Chitōr in Rājputāna, is established by the coins found at Nagarī, and rarely elsewhere, with the legend *Majhimikāya śibijanapadasa*, '[Coin] of the Śibi people in Majhimikā (Madhyamikā) city' (D. R. Bhandarkar in *Prog. Rep. A. S. W. I.*, 1915–16, p. 52. See also Cunningham, *Reports*, vi, 201; xiv, 146, pl. xxxi). The Śibis of Madhyamikā probably emigrated from the Panjāb. Madhyamikā was a place of great importance which the Greek army could not neglect. Prof. D. R. Bhandarkar has [p. 228] found two inscriptions of the second century <span class="sc">b. c.</span> recording the performance of the *Aśvamedha* and *Vājapeya* sacrifices. The coins are rightly assigned to the middle of the second century <span class="sc">b. c.</span> The ruins at Nagarī include a square brick *stūpa* (converted into a Saiva temple) with remarkable tiles and terra cottas, and a *toraṇa* of Gupta date. Chitōr was largely built out of the ruins of Nagarī.
 
 > _[Margin: Sākētam.]_
+
 Sākētam (Sākēta) probably was a town in Southern Oudh, but not identical with Ajodhya, as it is often asserted to be. There seem to have been several places of the name (Weber, in *Ind. Ant.*, ii, 208). The identifications of the Shā-che of Fa-hien with the Viśākhā of Hiuen Tsang and with Sākētam, as made by Cunningham, are equally unsound (*J. R. A. S.*, 1898, p. 522 ; 1900, p. 3). At present the position of Sākētam cannot be determined precisely.
 
 > _[Margin: Date of Patañjali.]_
+
 The words of Patañjali in which he alludes to the horse-sacrifice of Pushyamitra (*iha Pushpamitram yājayāmaḥ*), when read with other relevant passages, permit of no doubt that the grammarian was the contemporary of that king as well as of the Greek invader presumed to be Menander. The question of Patañjali's date was the subject of prolonged controversy between Weber on one side and Goldstücker and Bhandarkar on the other. Ultimately Weber was constrained to admit the substantial validity of his opponents' arguments (*Hist. Ind. Lit.*, 2nd ed., Trübner, 1882, p. 224, note) ; and no doubt now remains that the date of Patañjali is fixed to 150–140 <span class="sc">b. c.</span> in round numbers. References are : Goldstücker, *Pāṇini, His Place in Sanskrit Literature*, pp. 228–38 ; *Ind. Ant.* i, 299–302 ; ii, 57, 69, 94, 206–10, 238, 362 ; xv, 80–4 ; xvi, 156, 172 (the Maurya passage).
 
+The statement in the *Gārgī Saṁhitā*, a work ascribed by Max Müller to the second or third century after Christ, is to the following effect :—
+
 > _[Margin: Gārgī Saṁhitā.]_
-The statement in the *Gārgī Saṁhitā*, a work ascribed by Max Müller to the second or third century after Christ, is to the following effect :— ‘After speaking of the kings of Pāṭaliputra (mentioning Śāliśūka, the fourth successor of Asoka [c. 200 <span class="sc">b. c.</span>] by name), the author adds : “That when the viciously valiant Greeks, after reducing Sāketa (Oude), the Pañchāla country [probably the Doāb between the Jumna and Ganges], and Mathurā, will reach Kusumadhvaja, that is, the royal residence of Pāṭaliputra, and that then all provinces will be in disorder”’ (Max Müller, *India, What can it Teach us ?*, p. 298, ed. 1883 ; and Cunningham, *Num. Chron.*, 1890, p. 224).[^sec-20-fn-001]
+
+‘After speaking of the kings of Pāṭaliputra (mentioning Śāliśūka, the fourth successor of Asoka [c. 200 <span class="sc">b. c.</span>] by name), the author adds : “That when the viciously valiant Greeks, after reducing Sāketa (Oude), the Pañchāla country [probably the Doāb between the Jumna and Ganges], and Mathurā, will reach Kusumadhvaja, that is, the royal residence of Pāṭaliputra, and that then all provinces will be in disorder”’ (Max Müller, *India, What can it Teach us ?*, p. 298, ed. 1883 ; and Cunningham, *Num. Chron.*, 1890, p. 224).[^sec-20-fn-001]
 
 
 <!-- page: 265 | folio: 229 -->
 > _[Margin: Tāranāth.]_
+
 The evidence of Tāranāth (A. D. 1608, resting on old works), as correctly translated by Schiefner, agrees with that of the *Divyāvadāna* (Burnouf, *Introd.*, 2nd ed., p. 384) in stating that Pushyamitra was the ally of unbelievers, and himself burnt monasteries and slew monks :—
 
 > ‘ Es erhob der Brahmanenkönig Puschjamitra sammt den übrigen Tirthja’s Krieg, verbrannte von Madhyadeça bis Dschalamdhara eine Menge von Vihâra’s,’ &c. (p. 81).
@@ -3048,9 +3505,7 @@ Assuming that Pushyamitra died in 149 <span class="sc">b. c.</span>, after a rei
 
 #### *The Āndhras and connected Dynasties*
 
-The inscriptions and coins of both the Āndhras and the connected dynasties are fully discussed in Rapson, *Catalogue of the Coins of the Āndhra Dynasty, &c.*, B. M., 1908, but the inscrip-
-
-the book, which he denounced as ‘ quite late ’ and ‘ worthless ’. But he gave no reason for discrediting Max Müller’s guess that the work might date from the third century after Christ. No doubt some of the statements in the *Yugapurāṇa*, as in all Purāṇas, are absurd or erroneous, and the text probably is corrupt ; e. g. *Kusumadhvaja* seems to be a mistake for *Kusumapura*. But such errors do not justify total rejection. The book correctly names Śāliśūka Maurya, who, according to the early *e* Vāyu MS. (Pargiter), reigned for thirteen years. I do not see any reason for refusing to believe that the *Yugapurāṇa* may date from the third century. Whatever the date of the existing text may be, it is most unlikely that the author should have invented the statement about the *dushṭa vikrāntāḥ* Yavanas. The name of the
+The inscriptions and coins of both the Āndhras and the connected dynasties are fully discussed in Rapson, *Catalogue of the Coins of the Āndhra Dynasty, &c.*, B. M., 1908, but the inscripthe book, which he denounced as ‘ quite late ’ and ‘ worthless ’. But he gave no reason for discrediting Max Müller’s guess that the work might date from the third century after Christ. No doubt some of the statements in the *Yugapurāṇa*, as in all Purāṇas, are absurd or erroneous, and the text probably is corrupt ; e. g. *Kusumadhvaja* seems to be a mistake for *Kusumapura*. But such errors do not justify total rejection. The book correctly names Śāliśūka Maurya, who, according to the early *e* Vāyu MS. (Pargiter), reigned for thirteen years. I do not see any reason for refusing to believe that the *Yugapurāṇa* may date from the third century. Whatever the date of the existing text may be, it is most unlikely that the author should have invented the statement about the *dushṭa vikrāntāḥ* Yavanas. The name of the
 
 Yavana leader appears to have been lost owing to corruption of the text. As to Menander’s date, I have followed Cunningham, in preference to Gardner, on whom Fleet relied. I still think that there is good reason for connecting the statement of the *Yugapurāṇa* with Menander, and for the chronology adopted. D. R. Bhandarkar, who at first supposed that the invader may have been Demetrios, now accepts the identification with Menander. The ruins of the town may date from Menander’s siege. [p. 230] tions are most conveniently cited by the numbers in Prof. H. Lüders’s excellent work, ‘ A List of Brahmī Inscriptions from the earliest times to about <span class="sc">a. d.</span> 400 ’, published as an Appendix to *Epigraphia Indica*, vol. x, 1910. Mr. F. E. Pargiter’s book, entitled *The Purāṇa Text of the Dynasties of the Kali Age*, Oxford, 1913, gives the Purāṇic lists in their most authentic form, with a full apparatus of variants. Mr. R. D. Banerji’s essay, entitled ‘ The Scythian Period of Indian History ’, in *Indian Antiquary*, 1908, includes certain valuable hints on the history of Nahapāna, &c., which have helped to guide my judgement. The paper on the ‘ Nasik Hoard of Nahapāna’s and Satakarni’s Coins ’, with four plates, by the Rev. H. R. Scott, reprinted from the *J. Br. Br. R. A. S.*, 1907, supplies full details of the important Jogaltembhi hoard.
 
@@ -3107,7 +3562,7 @@ My view of the relations between the Āndhras and the two distinct dynasties of 
 | 24. Pulomā[vi II], son of 23 . . . 28 | 123 | Nos. 994, Kaṇhēri; 1122–4, 1147, Nāsik; 1100, 1106, Kārlē, and prob. 1248, Amarāvatī. *Rāja Vāśishṭhīputra Śrī Pulumāyi*; *svāmī* sometimes inserted before *Śrī*. *Vā. Śrī Śātakarṇi* in No. 994. | Eastern coins of *Rāja Vāśishṭhīputra Śrī Pulumāyi* (Rapson, p. 20). | His dynasty was extirpated by Āndhra king No. 23, shortly before year 18 of that king, i.e. about <span class="sc">a.d.</span> 119. The Kshaharāta inscriptions are dated from 41 to 46 [Śaka], = <span class="sc">a.d.</span> 119–124; but Banerji takes these to represent a different era, perhaps the regnal years of Nahapāna. | Rudradāman [I], son of Jayadāman, Great Satrap (known dates <span class="sc">a.d.</span> 130 and 150; twice defeated Āndhra king No. 24, before <span class="sc">a.d.</span> 130). | 128 |  |  |
 | [24*a*. In *e* Vāyu only, 29 Śātakarṇi | —] | . . . . . |  |  |  | Dāmajadaśrī, Satrap and Great Satrap (no known dates), son of Rudradāman I. | 155 |  |
 | 25. Śivaśrī Puloma[vi III] 7 | 156 | See Nos. 22, 26. | Prob. the eastern coins of *Rāja Vāśishṭhīputra Śiva Śrī Śātakarṇi*. But see Nos. 22 and 26. |  |  |  |  |  |
-| 26. Śiva Skandha Śātakarṇi ? 3 | 163 | ? No. 1186, Banavāsi, mentioning prince *Śāta-* or *Śiva-Skandanāga Śrī*. See Nos. 22 and 25. | See Nos. 22 and 25 above. |  |  |  |  |  |
+| 26. Śiva Skandha Śātakarṇi ? 3 | 163 | ? No. 1186, Banavāsi, mentioning prince *Śāta*- or *Śiva-Skandanāga Śrī*. See Nos. 22 and 25. | See Nos. 22 and 25 above. |  |  |  |  |  |
 | 27. Yajñaśrī Śātakarṇika 29 | 166 | Nos. 987, 1024, Kaṇhēri, and 1146, Nāsik, *Rāja Gautamīputra Svāmī Śrī Yajña Śātakarṇi*. No. 1340, China in Krishnā Dist., substituted *aryaka* for *svāmī*. To year 27. | Numerous types, with legend *Rāja Gautamīputra Śrī Yajña Śātakarṇi*, or parts of that legend (Rapson, pp. 34–45). |  |  | Jīvadāman, Great Satrap, son of Dāmajadaśrī. | 178 | Sundry complications in the succession of the Satraps and Great Satraps are omitted. |
 | 28. Vijaya . . . 6 29. Chaṇḍaśrī (Chandra) Śātakarṇi 10 | 195 201 | . . . . . No. 1341, Kodavolu in Godāvarī Dist. *Rāja Vāśishṭhīputra Svāmī Śrī Chaṇḍa (Chandra) Śāta*. | . . . . . Apparently eastern coins of *Rāja Vāśishṭhīputra Śrī Chandra Sāti*, or simply *Śrī Chandra Sāti* (Rapson, pp. 30, 33). |  |  | Rudrasiṁha I, son of Rudradāman I, Satrap and Great Satrap. | 180 |  |
 | 30. Pulomāvi [IV] . 7 | 211 | Probably *nil*. | ? *nil*, but the attribution of some of the Pulomāvi coins is doubtful. |  |  | Rudrasena I, son of Rudrasiṁha I, Satrap and Great Satrap. | 199 |  |
@@ -3133,63 +3588,82 @@ My view of the relations between the Āndhras and the two distinct dynasties of 
 #### THE INDO-GREEK AND INDO-PARTHIAN DYNASTIES, FROM ABOUT 250 <span class="sc">b. c.</span> TO ABOUT <span class="sc">a. d.</span> 60
 
 > _[Margin: Hindū Kush the Maurya frontier.]_
+
 <span class="sc">The</span> story of the native dynasties in the interior must now be interrupted to admit a brief review of the fortunes of the various foreign rulers who established themselves in the Indian territories once conquered by Alexander, after the sun of the Maurya empire had set, and the north-western frontier was left exposed to foreign attack. The daring and destructive raid of the great Macedonian, as we have seen, had effected none of the permanent results intended. The Indian provinces which he had subjugated, and which Seleukos had failed to recover, passed into the iron grip of Chandragupta, who transmitted them to the keeping of his son and grandson. I see no reason to doubt that the territories west of the Indus ceded by Seleukos to his Indian opponent continued in possession of the successors of the latter, and that consequently the Hindū Kush range was the frontier of the Maurya empire up to the close of Asoka's reign.
 
 > _[Margin: Effects of Asoka's death.]_
+
 But it is certain that the unity of the empire did not survive Asoka, and that when the influence of his dominating personality ceased to act, the outlying provinces shook off their allegiance and set up as independent states; of some of which the history has been told in the last preceding chapter. The regions of the north-western frontier, when no longer protected by the arm of a strong paramount native power in the interior, offered a tempting field to the ambition of the Hellenistic princes of Bactria and Parthia, as well as to the cupidity of the warlike races on the border, which was freely exploited by a succession of invaders. This chapter will be devoted, so far as the very imperfect materials available permit, to a sketch of the [p. 234] leading events in the annals of the Panjāb and trans-Indus provinces from the close of Asoka's reign to the establishment of the Indo-Scythian, or Kushān, power. Dates, it will be understood, are uncertain.
 
 > _[Margin: 261 <span class="sc">b. c.</span> Antiochos Theos.]_
+
 The spacious Asiatic dominion consolidated by the genius of Seleukos Nikator passed in the year 262 or 261 <span class="sc">b. c.</span> into the hands of his grandson Antiochos, a drunken sensualist, miscalled even in his lifetime Theos, or 'the god', and, strange to say, worshipped as such.[^sec-22-fn-001] This worthless prince occupied the throne for fifteen or sixteen years; but towards the close of his reign his empire suffered two grievous losses, by the revolt of the Bactrians, under the leadership of Diodotos, and of the Parthians, under that of Arsakes.
 
 > _[Margin: Bactria.]_
+
 The loss of Bactria was especially grievous. This province, the rich plain watered by the Oxus (Amū Daryā) after its issue from the mountains, had been occupied by civilized men from time immemorial. The country, which was said to contain a thousand towns,[^sec-22-fn-002] always had been regarded, during the time of the Achaemenian kings, as the premier satrapy, and reserved as an appanage for a prince of the blood. When Alexander shattered the Persian power and seated himself upon the throne of the Great King, he continued to bestow his royal favour upon the Bactrians, who in return readily assimilated the elements of Hellenic civilization. Two years after his death, at the final partition of the empire in 321 <span class="sc">b. c.</span>, Bactria fell to the share of Seleukos Nikator, and continued to be one of the most valuable possessions of his son and grandson.
 
 > _[Margin: The Parthians.]_
+
 The Parthians, a race of rude and hardy horsemen, with habits similar to those of the modern Turkomans, dwelt beyond the Persian deserts in the comparatively infertile [p. 235] regions to the south-east of the Caspian Sea. Their country, along with the territories of the Chorasmioi, Sogdioi, and Arioi (Khwārizm, Samarkand, and Herāt), had been included in the sixteenth satrapy of Darius; and all the tribes named, armed like the Bactrians, with cane bows and short spears, supplied contingents to the host of Xerxes.[^sec-22-fn-003] In the time of Alexander and the early Seleukidae, Parthia proper and Hyrkania, adjoining the Caspian, were combined to form a satrapy. The Parthians, unlike the Bactrians, had never adopted Greek culture; and, although submissive to their Persian and Macedonian masters, retained unchanged the habits of a horde of mounted shepherds, equally skilled in the management of their steeds and the use of the bow.[^sec-22-fn-004]
 
 > _[Margin: *c.* 250 <span class="sc">b.c.</span> Date of revolt of Bactrians and Parthians.]_
+
 These two nations, so widely different in history and manners—the Bactrians, with a thousand cities, and the Parthians, with myriads of moss-troopers—were moved at almost the same moment, about the middle of the third century <span class="sc">b. c.</span>, to throw off their allegiance to their Seleukidan lord, and assert their independence. The exact dates of these rebellions cannot be determined, but the Bactrian revolt seems to have been the earlier; and there is reason to believe that the Parthian struggle continued for several years, not being ended until after the death of Antiochos Theos in 246 <span class="sc">b. c.</span>, although the declaration of Parthian autonomy seems to have been made in 248 <span class="sc">b. c.</span>[^sec-22-fn-005]
 
 > _[Margin: Diodotos I.]_
+
 The Bactrian revolt was a rebellion of the ordinary [p. 236] Oriental type, headed by Diodotos, the governor of the province, who seized an opportunity to shake off the authority of his sovereign and assume the royal state. The Parthian movement was rather a national rising, led by a chief named Arsakes, who is described as being a man of uncertain origin but undoubted bravery, and inured to a life of rapine. Arsakes declared his independence, and so founded the famous Arsakidan dynasty of Persia, which endured for nearly five centuries (248 <span class="sc">b. c.</span> to <span class="sc">a. d.</span> 226). The success of both the Bactrian and Parthian rebels was facilitated by the war of succession which disturbed the Seleukidan monarchy after the death of Antiochos Theos.
 
 > _[Margin: *c.* 245 <span class="sc">b.c.</span> Diodotos II.]_
+
 The line of Bactrian kings initiated by Diodotos was destined to a briefer and stormier existence than that enjoyed by the dynasty of the Arsakidae. Diodotos himself wore his newly won crown for a brief space only, and after a few years was succeeded (*c.* 245 <span class="sc">b. c.</span>) by his son of the same name, who entered into an alliance with the Parthian king.[^sec-22-fn-006]
 
 > _[Margin: *c.* 230 <span class="sc">b.c.</span> Euthydēmos and Antiochos the Great.]_
 > _[Margin: *c.* 208 <span class="sc">b.c.</span>]_
 > _[Margin: *c.* 206 <span class="sc">b.c.</span>]_
+
 Diodotos II was followed (*c.* 230 <span class="sc">b. c.</span>) by Euthydēmos, a native of Magnesia, who seems to have belonged to a different family, and to have gained the crown by successful rebellion. This monarch became involved in a long-contested war with Antiochos the Great of Syria (223–187 <span class="sc">b. c.</span>), which was terminated (*c.* 208 <span class="sc">b. c.</span>) by a treaty recognizing the independence of the Bactrian kingdom. Shortly afterwards (*c.* 206 <span class="sc">b. c.</span>) Antiochos crossed the Hindū Kush, and compelled an Indian king named Subhāgasena, who [p. 237] probably ruled in the Kābul valley, to surrender a considerable number of elephants and large treasure. Leaving Androsthenes of Cyzicus to collect this war indemnity, Antiochos in person led his main force homeward through Arachosia and Drangiana to Karmania.[^sec-22-fn-007]
 
 > _[Margin: *c.* 200– 190 <span class="sc">b. c.</span> Demetrios king of the Indians.]_
+
 Demetrios, son of Euthydēmos, and son-in-law of Antiochos, who had given him a daughter in marriage when the independence of Bactria was recognized, repeated his father-in-law's exploits with still greater success, and conquered a considerable portion of Northern India, presumably including Kābul, the Panjāb, and Sind (*c.* 190 <span class="sc">b. c.</span>).[^sec-22-fn-008]
 
 > _[Margin: *c.* 175 <span class="sc">b.c.</span> Eukratides.]_
 > _[Margin: *c.* 160– 156 <span class="sc">b. c.</span> His Indian wars.]_
+
 The distant Indian wars of Demetrios necessarily weakened his hold upon Bactria, and afforded the opportunity for successful rebellion to one Eukratides, who made himself master of Bactria about 175 <span class="sc">b. c.</span>, and became involved in many wars with the surrounding states and tribes, which he carried on with varying fortune and unvarying spirit. Demetrios, although he had lost Bactria, long retained his hold upon his eastern conquests, and was known as ‘King of the Indians’; but after a severe struggle the victory rested with Eukratides, who was an opponent not easily beaten and is credited with having ‘reduced India under [p. 238] his power'. It is related that on one occasion, when shut up for five months in a fort with a garrison of only three hundred men, he succeeded in repelling the attack of a host of sixty thousand under the command of Demetrios.[^sec-22-fn-009]
 
 > _[Margin: *c.* 156 <span class="sc">b.c.</span>]_
+
 But the hard-won triumph was short-lived. While Eukratides was on his homeward march from India attended by his son, probably Apollodotos, whom he had made his colleague in power, he was barbarously murdered by the unnatural youth, who is said to have gloried in his monstrous crime, driving his chariot wheels through the blood of his father, to whose corpse he refused even the poor honour of burial.[^sec-22-fn-010]
 
 > _[Margin: Heliokles, &c.]_
+
 The murder of Eukratides shattered to fragments the kingdom for which he had fought so valiantly. Another son, named Heliokles, who assumed the title of 'the Just', perhaps as the avenger of his father's cruel death, enjoyed for a brief space a precarious tenure of power in Bactria. Strato I, who also seems to have belonged to the family of Eukratides, held a principality in the Panjāb for many years, and was perhaps the immediate successor of Apollodotos. Agathokles and Pantaleon (*c.* 190–180 <span class="sc">b. c.</span>), whose coins are specially Indian in character, were earlier in date, and contemporary with Euthydēmos and Demetrios. It is evident from the great variety of the royal names in the coin-legends, nearly forty in number, that both before and after the death of Eukratides, the Indian borderland was parcelled out among a crowd of Greek princelings, for the most part related either to the family of Euthydēmos and Demetrios or to that of their rival Eukratides. Some of these princelings, among whom was Antialkidas (*c.* 140– 130 <span class="sc">b. c.</span>),[^sec-22-fn-011] were subdued by Eukratides, who, if he had [p. 239] lived, might have consolidated a great border kingdom. But his death in the hour of victory increased the existing confusion, and it is quite impossible to make a satisfactory territorial and chronological arrangement of the Indo-Greek frontier kings contemporary with and posterior to Eukratides. Their names, which, with two exceptions, are known from coins only, will be found included in the list appended to this chapter (Appendix J).
 
 > _[Margin: *c.* 155 <span class="sc">b.c.</span> Menander’s invasion of India.]_
+
 One name, that of Menander, stands out conspicuously among the crowd of obscure princes. He seems to have belonged to the family of Eukratides, and to have had his capital at Kābul, whence he issued, in or about 155 <span class="sc">b. c.</span>, to make the bold invasion of India described in the last chapter. About two years later he was obliged to retire and devote his energies to the encounter with dangers which menaced him at home, due to the never-ending quarrels with his neighbours on the frontier.
 
 > _[Margin: Menander’s fame.]_
+
 Menander was celebrated as a just ruler, and when he died was honoured with magnificent obsequies. He is supposed to have been a convert to Buddhism, and has been immortalized under the name of Milinda in a celebrated dialogue, entitled ‘The Questions of Milinda’, which is one of the most notable books in Buddhist literature.[^sec-22-fn-012]
 
 > _[Margin: The last Greek king of Bactria.]_
+
 Heliokles, the son of Eukratides, who had obtained Bactria as his share of his father’s extensive dominion, was the last king of Greek race to rule the territories to the north of the Hindū Kush. While the Greek princes and princelings were struggling one with the other in obscure wars which history [p. 240] has not condescended to record, a deluge was preparing in the steppes of Central Asia, which was destined to sweep them all away into nothingness.
 
 > _[Margin: Expulsion of Śakas by Yüe-chi.]_
+
 A horde of nomads, named the Yüe-chi, whose movements will be more particularly described in the next chapter, were driven out of North-western China about 170 <span class="sc">b. c.</span>, and compelled to migrate westwards by the route to the north of the deserts.[^sec-22-fn-013] Some years later, before 160 <span class="sc">b. c.</span>, they encountered another horde, the Sakas or Se, who occupied the territories lying to the north of the Jaxartes (Syr Daryā) river, as already mentioned.[^sec-22-fn-014]
 
 > _[Margin: Nomad invasion of Bac-tria and India.]_
+
 The Sakas, accompanied by cognate tribes, were forced to move in a southerly direction, and in course of time entered India from the north, possibly by more roads than one. The flood of barbarian invasion spread also to the west, and burst upon the Parthian kingdom and Bactria in the period between 140 and 120 <span class="sc">b. c.</span> The Parthian king, Phraates II, the immediate successor of Mithradates I, was killed in battle with the nomads about 127 <span class="sc">b. c.</span> ; and some four years later, Artabanus I, who followed him on the Parthian throne, met the same fate. The Hellenistic monarchy, which must have been weakened already by the growth of the Parthian or Persian power, was then finally extinguished. The last Graeco-Bactrian king was Heliokles, with whom Greek rule to the north of the Hindū Kush disappeared for ever.[^sec-22-fn-015]
 
 > _[Margin: Śaka oc-cupation of Sīstān, &c.]_
+
 The valley of the Hilmand (Erymandrus) river, the modern Sīstān, known as Sakastēnē, or the Saka country, probably had been occupied by Sakas at an earlier date, but it is possible that part of the influx in the second century <span class="sc">b. c.</span> may have reached that province.[^sec-22-fn-016]
 
 
@@ -3199,96 +3673,123 @@ Branches of the barbarian stream which penetrated the Indian passes deposited se
 Yet another section of the horde, at a later date, perhaps about the middle of the first century after Christ, pushed on southwards and occupied the peninsula of Surāshtra or Kāthiāwār, founding a Saka dynasty which lasted until it was destroyed by Chandragupta II, Vikramāditya, about <span class="sc">a. d.</span> 390.
 
 > _[Margin: Satraps of Taxila and Mathurā.]_
+
 Strato I, Sotēr, a Greek king of Kābul and the Panjāb, who was to some extent contemporary with Heliokles, was succeeded by Strato II, Philopator, his grandson; who again, apparently, was displaced at Taxila by certain foreign satraps, who may or may not have been Sakas. The satraps of Mathurā were closely connected with those of Taxila, and belong to the same period, about 50 <span class="sc">b. c.</span> or later.[^sec-22-fn-017] Their names seem to be Persian.
 
 > _[Margin: Relations with Parthia.]_
+
 The movements of the Sakas and allied nomad tribes were closely connected with the development of the Parthian or Persian power under the Arsakidan kings. Mithradates I, a very able monarch (*c.* 171 to 136 <span class="sc">b. c.</span>), who was for many years the contemporary of Eukratides, king of Bactria, succeeded in extending his dominions so widely that his power was felt as far as the Indus, and probably even to the [p. 242] east of that river. I see no good reason for doubting the truth of the explicit statement of Orosius that, subsequent to the defeat of the general of Demetrios and the occupation of Babylon, Mithradates I annexed to his dominions the territory of all the nations between the Indus and the Hydaspes, or Jihlam river. The chiefs of Taxila and Mathurā would not have assumed the purely Persian title of satrap, if they had not regarded themselves as subordinates of the Persian or Parthian sovereign; and the close relations between the Parthian monarchy and the Indian borderland at this period are demonstrated by the appearance of a long line of princes of Parthian origin, who now enter on the scene.[^sec-22-fn-018]
 
 > _[Margin: Maues.]_
+
 The earliest of these Indo-Parthian kings apparently was Maues or Mauas, who attained power in the Western Panjāb perhaps about 95 <span class="sc">b. c.</span>, and adopted the title of ‘Great King of Kings’ (βασιλέως βασιλέων μεγάλου), which had been used for the first time by either Mithradates I or Mithradates II. His coins are closely related to those of both those monarchs, as well as to those of the unmistakably Parthian border chief, who called himself Arsakes Theos. The king Moga, to whom the Taxilian satrap was immediately subordinate, is usually identified with the personage whose name appears on the coins as *Mauou* in the genitive case.[^sec-22-fn-019]
 
 
 <!-- page: 281 | folio: 243 -->
 > _[Margin: Indo-Parthian kings.]_
+
 The story of the Indo-Parthian dynasties really being that of certain outlying dependencies of the Parthian empire, we should be in a position to understand fully the relations of the Indo-Parthian rulers to the world of their day, if our knowledge of Parthian history were more complete than it is or is likely to be. The material actually available for the reconstruction in outline of Indo-Parthian history is so slight, consisting largely of inferences from numismatic details, that it is impossible to present an ordered narrative of indisputable facts, and the results of investigation necessarily must be in great part speculative. Subject to these cautions, the following sketch expresses my views of the facts—whether ascertained or merely probable—as obtained from special study of the question. The reader will understand that the dates suggested are open to correction.
 
 > _[Margin: Two dynasties.]_
+
 Much obscurity has been caused by the failure of writers on the subject to recognize the plain truth that, besides some subordinate satraps, there were two main lines of Indo-Parthian princes, one of which ruled in Arachosia and Sīstān, while the other governed the Western Panjāb, or kingdom of Taxila. Maues, as has been seen, became king, perhaps, about 95 <span class="sc">b. c.</span>, of the latter province, which, in or about 138 <span class="sc">b. c.</span>, had been annexed to Parthia by Mithradates I. It is probable that the direct administration of the newly conquered province by the government of Ctesiphon lasted only for a few years. The struggle with the nomads, which cost Phraates II and Artabanus their lives, between 130 and 120 <span class="sc">b. c.</span>, must have caused a relaxation in the grip of the central power on remote dependencies like the Indian borderlands; and it is highly probable that Maues, who may have been a Saka, availed himself of the opportunity thus offered to establish himself upon the Panjāb throne in the enjoyment of practical, if not theoretical, independence.
 
 > _[Margin: Vonōnēs &c., in Arachosia.]_
+
 About the same time, or a few years later, Vonōnēs, a Parthian, became king of Arachosia and Sīstān, no doubt [p. 244] as a feudatory of the Great King at Ctesiphon. Those territories were administered by him and his relatives for a brief period—some twenty-five years—the last of his line being his nephew Azes, who occupied the position of viceroy or subordinate colleague of his father Spalirises, brother of Vonōnēs.
 
 > _[Margin: Azes I, Azilises, Azes II.]_
+
 The Parthian power, which had suffered severely from the shock of the nomad attacks, recovered under the vigorous government of Mithradates II, the Great (acc. *c.* 123 <span class="sc">b. c.</span>). Apparently, that strong ruler took over the direct government of the provinces which had been administered by Vonōnēs and his family, and also reasserted his suzerainty over the less accessible Panjāb. Azes, the viceroy of Arachosia and Sīstān, was then transferred to Taxila, where he succeeded Maues about 58 <span class="sc">b. c.</span>, and governed the province as a subordinate king under Mithradates. Azes I was succeeded on the throne of the Panjāb, first by his son Azilises and then by his grandson Azes II. Azes I certainly was a powerful prince, and enjoyed a long reign, extending to nearly forty years. It is known that at the beginning of the Christian era no part of India was included in the Parthian empire, and it is not unlikely that during the course of his long reign Azes I succeeded in establishing his independence. The reigns of Azilises and Azes II seem to have occupied together about forty years. In the time of the latter, the *stratēgos*, or satrap, Aspavarma, and the satrap Zeiōnises assisted their sovereign in the administration of the Panjāb.
 
 > _[Margin: Reign of Gondopharēs.]_
+
 About <span class="sc">a. d.</span> 20 Azes II is supposed to have been succeeded by Gondopharēs, who seems to have conquered Sind and Arachosia, making himself master of a wide dominion free from Parthian control. When he died, about <span class="sc">a. d.</span> 48, his kingdom was divided, the Western Panjāb falling to the share of his brother's son Abdagases, while Arachosia and Sind passed under the rule of Orthagnes, who was followed by Pakorēs. No successor of Abdagases is known. About the middle of the first century the Panjāb was annexed by the Kushān king, Kujula-Kara-Kadphises (Kadphises I). [p. 245] Arachosia and Sind probably shared the fate of the Panjāb.[^sec-22-fn-020]
 
 > _[Margin: Parthian chiefs in Indus delta.]_
+
 But petty Parthian principalities may have continued to exist for some time longer in the delta of the Indus. The author of the *Periplus of the Erythraean Sea*, writing about <span class="sc">a. d.</span> 70, found the valley of the Lower Indus, which he called Scythia, under the rule of Parthian chiefs, engaged in unceasing internecine strife. The Indus at that time had seven mouths, of which only the central one was navigable. The commercial port, known to the traveller as Barbarikon, was situated upon this stream; and the capital, Minnagar, lay inland. The extensive changes which have occurred in the rivers of Sind during the course of eighteen centuries preclude the possibility of satisfactory identifications of either of these towns.[^sec-22-fn-021]
 
 > _[Margin: Gondopharēs and St. Thomas.]_
+
 Special interest attaches to the Indo-Parthian king Gondopharēs because his name is associated in very ancient Christian tradition with that of St. Thomas, the apostle of the Parthians. The belief that the Parthians were allotted as the peculiar sphere of the missionary labours of St. Thomas goes back to the time of Origen, who died in the middle of the third century. The *Acts of St. Thomas*, nearly contemporary [p. 246] with Origen, as well as later tradition, generally associate the Indians, rather than the Parthians, with the name of the apostle, but the terms ‘India’ and ‘Indians’ had such vague signification in ancient times that the discrepancy is not great. The earliest form of the tradition clearly deserves the greater credit, and there is no apparent reason for discrediting the statement handed down by Origen that Thomas received Parthia as his allotted region.
 
 > _[Margin: The legend.]_
+
 The legend connecting St. Thomas with king Gondopharēs appears for the first time in the original Syrian text of the *Acts of St. Thomas*, which was composed at about the same date as the writings of Origen. The substance of the long story may be set forth briefly as follows:—
 
 > ‘When the twelve apostles divided the countries of the world among themselves by lot, India fell to the share of Judas, surnamed Thomas, or the Twin, who showed unwillingness to start on his mission. At that time an Indian merchant named Habbān[^sec-22-fn-022] arrived in the country of the south, charged by his master, Gundaphar,[^sec-22-fn-023] king of India, to bring back with him a cunning artificer able to build a palace meet for the king. In order to overcome the apostle’s reluctance to start for the East, our Lord appeared to the merchant in a vision, sold the apostle to him for twenty pieces of silver, and commanded St. Thomas to serve king Gundaphar and build the palace for him. ‘In obedience to his Lord’s commands, the apostle sailed next day with Habbān the merchant, and during the voyage assured his companion concerning his skill in architecture and all manner of work in wood and stone. Wafted by favouring winds their ship quickly reached the harbour of Sandarūk.[^sec-22-fn-024] Landing there, the voyagers shared in the marriage feast of the king’s daughter, and used their time so well that bride and bridegroom were converted to the true faith. Thence the saint and the merchant proceeded on their voyage, and came to the court of Gundaphar, king of India. St. Thomas promised to build him the palace within the space of six months, but expended the monies given to him for that purpose in almsgiving; and, when [p. 247] called to account, explained that he was building for the king a palace in heaven, not made with hands. He preached with such zeal and grace that the king, his brother Gad,[^sec-22-fn-025] and multitudes of the people embraced the faith. Many signs and wonders were wrought by the holy apostle.
 
 > _[Margin: Martyrdom of St. Thomas.]_
+
 ‘After a time, Sifūr,[^sec-22-fn-026] the general of king Mazdai,[^sec-22-fn-027] arrived, and besought the apostle to come with him and heal his wife and daughter. St. Thomas hearkened to his prayer, and went with Sifūr to the city of king Mazdai, riding in a chariot. He left his converts in the country of king Gundaphar under the care of deacon Xanthippos.[^sec-22-fn-028] King Mazdai waxed wroth when his queen Tertia[^sec-22-fn-029] and a noble lady named Mygdonia[^sec-22-fn-030] were converted by St. Thomas, who was accordingly sentenced to death and executed by four soldiers, who pierced him with spears on a mountain without the city. The apostle was buried in the sepulchre of the ancient kings; but the disciples secretly removed his bones, and carried them away to the West.’[^sec-22-fn-031]
 
 > _[Margin: Criticism of the legend.]_
+
 Writers of later date, subsequent to the seventh century, profess to know the name of the city where the apostle suffered martyrdom, and call it variously Kalamina, Kalamita, Kalamēna, or Karamēna, and much ingenuity has been expended in futile attempts to identify this city. But the scene of the martyrdom is anonymous in the earlier versions of the tale, and Kalamina should be regarded as a place in fairyland which it is vain to try and locate on a map. The same observation applies to the attempts at the identification of the port variously called Sandarūk, Andrapolis, and so [p. 248] forth. The whole story is pure mythology, and the geography is as mythical as the tale itself. Its interest in the eyes of the historian of India is confined to the fact that it proves that the real Indian king, Gondopharēs, was remembered after his death, and was associated in popular belief with the apostolic mission to the Indians, and so, according to Origen, with the Parthians. Inasmuch as Gondopharēs certainly was a Parthian prince, and was too little known to the world in general to be named in a legend unless he really had some connexion with the introduction of Christianity into his dominions, it is permissible to believe that a Christian mission actually visited the Indo-Parthians of the north-western frontier during his reign, whether or not that mission was conducted by St. Thomas in person. The traditional association of the name of the apostle with that of king Gondopharēs is in no way at variance with the generally received chronology of the reign of the latter as deduced from coins and an inscription.[^sec-22-fn-032] On the other hand, it is to be observed that there is no trace of the subsequent existence of a Christian community in the dominions which had been ruled by Gondopharēs, and that if there be any truth in the tradition that the apostle was martyred at St. Thomas's Mount near Madras, he cannot possibly have suffered in the kingdom of Mazdai.[^sec-22-fn-033] After much consideration, I am now [p. 249] of opinion that the story of the personal ministration and the martyrdom of St. Thomas in the realms of Gondopharēs and Mazdai should not be accepted. But unless a Christian mission connected by tradition with the rite of St. Thomas had visited the Indo-Parthian borderland it is difficult to imagine how the obscure name of Gondopharēs can have come into the story. If anybody chooses to believe that St. Thomas personally visited the Indo-Parthian kingdom his belief cannot be considered unreasonable. It is possible that, as Bishop Medlycott suggests, he may have first visited Gondopharēs, and then travelled to Southern India.
 
 > _[Margin: Alleged mission of St. Thomas to S. India.]_
+
 The alleged connexion of the apostle with Southern India and the Mailapur shrine near Madras, reverenced as San Thomé by the Portuguese, may be considered conveniently in this place. The traditions of the ‘Christians of St. Thomas’ on the western, or Malabar coast, assert that the apostle, coming from Socotra in <span class="sc">a. d.</span> 52, landed at Cranganore (Muziris of Pliny and the *Periplus*) on that coast, and laid the foundations of seven Christian centres in the province; that he passed over to the Malabar or Coromandel coast, where he suffered martyrdom near Mailapur; and that subsequent persecution extirpated the Christian churches of Coromandel. Bishop Medlycott, in a treatise full of abstruse learning, has endeavoured to prove the historical truth of this tradition, but, in my judgement, without complete success. Dr. J. H. Ogilvie, on the other hand, finds as ‘the only safe verdict’—‘that St. Thomas preached the Gospel of Christ in India is a certainty; that he laboured in the Punjāb, in the territories of King Gondopharēs, is extremely probable; that South India was a later field of his labours, and the scene of his martyrdom, is a tradition unverified, [p. 250] and now in all likelihood unverifiable, though not beyond the bounds of possibility.’[^sec-22-fn-034] The Mailapur legend of the martyrdom, like that of the *Acta*, may be purely mythical, and the Christians of Malabar may have applied the legend of the *Acta* to their own country. But, although the alleged martyrdom, whether in the kingdom of Mazdai or near Mailapur, may be confidently rejected as unhistorical, it must be admitted that a personal visit of the apostle to Southern India was easily feasible in the conditions of the time, and that there is nothing incredible in the traditional belief that he came by way of Socotra, where an ancient Christian settlement undoubtedly existed. The actual fact of such a personal visit cannot be either proved or disproved. I am now satisfied that the Christian Church of Southern India is extremely ancient, whether it was founded by St. Thomas in person or not, and that its existence may be traced back to the third century with a high degree of probability. Mr. Milne Rae carried his scepticism too far when he attributed the establishment of the Christian congregations to missionaries from the banks of the Tigris in the fifth or sixth century.[^sec-22-fn-035]
 
 > _[Margin: The later Indo-Greek princes.]_
+
 For a period of nearly two centuries after the beginning of the nomad and Parthian invasions, the northern portions of the Indian borderland, comprising probably the valley of the Kābul river, the Suwāt valley, some neighbouring districts to the north and north-west of Peshāwar, and the Eastern Panjāb, remained under the government of local Greek princes; who, whether independent, or subject to the suzerainty of a Parthian overlord, certainly exercised the prerogative of coining silver and bronze money.
 
 > _[Margin: <span class="sc">c. a. d.</span> 20. Hermaios; Kadphises I.]_
+
 The last of these Indo-Greek rulers was Hermaios, who succumbed to the Yüe-chi, or Kushān, chief, Kadphises I, about <span class="sc">a. d.</span> 20, when that enterprising monarch added Kābul to the growing Yüe-chi empire.[^sec-22-fn-036] The Yüe-chi chief at [p. 251] first struck coins jointly in the name of himself and the Greek prince, retaining on the obverse the portrait of Hermaios with his titles in Greek letters. After a time, while still preserving the familiar portrait, he substituted his own name and style in the legend. The next step taken was to replace the bust of Hermaios by the effigy of Augustus, as in his later years, and so to do homage to the expanding fame of that emperor, who, without striking a blow, and by the mere terror of the Roman name, had compelled the Parthians to restore the standards of Crassus (20 <span class="sc">b. c.</span>), which had been captured thirty-three years earlier.[^sec-22-fn-037]
 
 Still later probably are those coins of Kadphises I, which dispense altogether with the royal effigy, and present on the obverse an Indian bull, and on the reverse a Bactrian camel, devices fitly symbolizing the conquest of India by a horde of nomads.[^sec-22-fn-038]
 
 > _[Margin: Meaning of numismatic record.]_
+
 Thus the numismatic record offers a distinctly legible abstract of the political history of the times, and tells in outline the story of the gradual supersession of the last outposts of Greek authority by the irresistible advance of the hosts from the steppes of Central Asia.
 
 > _[Margin: Contact between Greece and India.]_
+
 When the European historian, with his mind steeped in the conviction of the immeasurable debt owed to Hellas by modern civilization, stands by the side of the grave of Greek rule in India, it is inevitable that he should ask what was the result of the contact between Greece and India. Was Alexander to Indian eyes nothing more than the cavalry leader before whose onset the greatest armies were scattered like chaff, or was he recognized, consciously or unconsciously, as the pioneer of western civilization and the parent of model institutions ? Did the long-continued government of Greek rulers in the Panjāb vanish before the assault of rude barbarians without leaving a trace of its existence save coins, or did it impress an Hellenic stamp upon the ancient fabric of Indian polity ?
 
 
 <!-- page: 290 | folio: 252 -->
 > _[Margin: Niese's opinions.]_
+
 Questions such as these have received widely divergent answers ; but undoubtedly the general tendency of European scholars has been to exaggerate the hellenizing effects of Alexander's invasion and of the Indo-Greek rule on the north-western frontier. The most extreme ‘Hellenist’ view is that expressed by Herr Niese, who is convinced that all the later development of India depends indirectly upon the institutions of Alexander, and that Chandragupta Maurya recognized the suzerainty of Seleukos Nikator. Such notions are so plainly opposed to the evidence that they might be supposed to need no refutation, but they have been accepted to a certain extent by English writers of repute ; who are, as already observed, inclined naturally to believe that India, like Europe and a large part of Asia, must have yielded to the subtle action of Hellenic ideas.
 
 > _[Margin: Slight influence of Alexander on India.]_
+
 It is therefore worth while to consider impartially and without prejudice the extent of the Hellenic influence upon India from the invasion of Alexander to the Kushān or Indo-Scythian conquest at the end of the first century of the Christian era, a period of four centuries in round numbers.
 
 The author's opinion that India was not hellenized by the operations of Alexander has been expressed in the chapter of this work dealing with his retreat from India,[^sec-22-fn-039] but it is advisable to remind the reader of the leading facts in connexion with the more general question of hellenic influence upon Indian civilization during four hundred years. In order to form a correct judgement in the matter it is essential to bear dates in mind. Alexander stayed only nineteen months in India, and, however far-reaching his plans may have been, it is manifestly impossible that during those few months of incessant conflict he should have founded Hellenic institutions on a permanent basis, or materially affected the structure of Hindu polity and society. As a matter of fact, he did nothing of the sort, and within two years of his death, with the exception of some small garrisons under Eudēmos in the Indus valley, the whole apparatus of Macedonian rule had been swept away. After the year 316 <span class="sc">b. c.</span> not a trace of it [p. 253] remained. The only mark of Alexander’s direct influence on India is the existence of a few coins modelled in imitation of Greek types which were struck by Saubhūti (Sophytes), the chief of the Salt Range, whom he subdued at the beginning of the voyage down the rivers.
 
 > _[Margin: Failure of Seleukos Nikator.]_
+
 Twenty years after Alexander’s death, Seleukos Nikator attempted to recover the Macedonian conquests east of the Indus, but failed, and more than failed, being obliged, not only to forgo all claims on the provinces temporarily occupied by Alexander, but to surrender a large part of Ariana, west of the Indus, to Chandragupta Maurya. The Indian administration and society so well described by Megasthenes, the ambassador of Seleukos, were Hindu in character, with some features borrowed from Persia, but none from Greece.[^sec-22-fn-040] The assertion that the development of India depended in any way on the institutions of Alexander has no substantial basis of fact.
 
 > _[Margin: Maurya empire.]_
+
 For eighty or ninety years after the death of Alexander the strong arm of the Maurya emperors held India for the Indians against all comers, and those monarchs treated with their Hellenistic neighbours on equal terms. Asoka was much more anxious to communicate the blessings of Buddhist teaching to Antiochos and Ptolemy than to borrow Greek notions from them. Although it certainly appears to be true that Indian plastic and pictorial art drew part of its inspiration from Hellenistic Alexandrian models during the Maurya period, the Greek influence merely touched the fringe of Hindu civilization, and was powerless to modify the structure of Indian institutions in any essential respect.
 
 > _[Margin: Invasion of Antiochos the Great.]_
+
 For almost a hundred years after the failure of Seleukos Nikator no Greek sovereign presumed to attack India. Then Antiochos the Great (*c.* 206 <span class="sc">b. c.</span>) marched through the hills of the country now called Afghanistan, and went home by Kandahār and Sīstān, levying a war indemnity of treasure [p. 254] and elephants from a local chief.[^sec-22-fn-041] This brief campaign can have had no appreciable effect on the institutions of India, and its occurrence probably was unknown to many of the courts east of the Indus.
 
 > _[Margin: Subsequent Greek invasions.]_
+
 The subsequent invasions of Demetrios, Eukratides, and Menander, which extended with intervals over a period of about half a century (*c.* 190–154 <span class="sc">b. c.</span>), penetrated more deeply into the interior of the country; but they too were transient raids, and cannot possibly have affected seriously the ancient and deeply rooted civilization of India. It is noticeable that the work attributed to the Hindu astronomer refers to Greeks as the ‘viciously valiant Yavanas’. The Indians were impressed by both Alexander and Menander as mighty captains, not as missionaries of culture, and no doubt regarded both those sovereigns as impure barbarians, to be feared, not imitated.
 
 The East has seldom shown much readiness to learn from the West; and when Indians have condescended, as in the cases of relief sculpture and the drama, to borrow ideas from European teachers, the thing borrowed has been so cleverly disguised in native trappings that the originality of the Indian imitators is stoutly maintained even by acute and learned critics.[^sec-22-fn-042]
 
 > _[Margin: Greek occupation of Panjāb.]_
+
 The Panjāb, or a considerable part of it, with some of the adjoining regions, remained more or less under Greek rule for more than two centuries, from the time of Demetrios (*c.* 190 <span class="sc">b. c.</span>) to the overthrow of Hermaios by the Kushāns (*c.* <span class="sc">a. d.</span> 20), and we might reasonably expect to find clear signs of hellenization in those countries. But the traces of Hellenic influence even there are surprisingly slight and trivial. Except the coins, which retain Greek legends on the obverse, and are throughout mainly Greek in type, although [p. 255] they begin to be bilingual from the time of Demetrios and Eukratides, scarcely any indication of the prolonged foreign rule can be specified. The coinage undoubtedly goes far to prove that the Greek language was used to some extent in the courts of the frontier princes, but the introduction of native legends on the reverses demonstrates that it was not understood by the people at large. No inscriptions in that tongue have yet been discovered, and few Greek names have yet been found in Indian epigraphic records.[^sec-22-fn-043]
 
 > _[Margin: Absence of Greek architecture.]_
+
 Indications of the influence of Greek example and good taste are discernible in the domain of the fine arts, and a happy blend of Indian, Iranian, and Hellenic factors lent to Maurya sculpture its high quality; but if any buildings on a Greek plan were erected, they were apparently confined to Gandhāra. A temple with Ionic pillars, dating from about 80 <span class="sc">b. c.</span>, has been discovered at Taxila, which was half-foreign and by no means an essentially Indian centre; but the plan of the building is not Greek, and the pillars, of foreign pattern, are merely borrowed ornaments.[^sec-22-fn-044] The earliest known example of Indo-Greek sculpture belongs to the same period, the reign of Azes,[^sec-22-fn-045] and not a single specimen [p. 256] can be referred to the times of Demetrios, Eukratides, and Menander, not to speak of Alexander. The well-known sculptures of Gandhāra, the region round Peshāwar, are much later in date, and are the offspring of cosmopolitan Graeco-Roman art.
 
 > _[Margin: Conclusion.]_
+
 The conclusion of the matter is that the invasions of Alexander, Antiochos the Great, Demetrios, Eukratides, and Menander were in fact, whatever their authors may have intended, merely military incursions, which left no appreciable mark upon the institutions of India. The prolonged occupation of the Panjāb and neighbouring regions by Greek rulers had extremely little effect in hellenizing the country. Greek political institutions and architecture were ordinarily rejected, although to a small extent Hellenic example was accepted in the decorative arts, and the Greek language must have been more or less familiar to the officials at the king's courts. The literature of Greece probably was known slightly to some of the native officers, who were obliged to learn their masters' language for business purposes, but that language was not widely diffused, and the impression made by Greek authors upon Indian literature and science is hardly traceable until after the close of the period under discussion. The later and more important Graeco-Roman influence on the civilization of India will be noticed briefly in the next chapter.[^sec-22-fn-046]
 
 
@@ -3456,6 +3957,7 @@ The conclusion of the matter is that the invasions of Alexander, Antiochos the G
 #### *The Christians of St. Thomas*
 
 > _[Margin: Books cited.]_
+
 In this Appendix I confine myself to the limited task of justifying the propositions in the text. It is out of the question to discuss fully the problems connected with the legend of St. Thomas and the origin of the ancient congregations of the 'Christians of St. Thomas' in Southern India. The following books are cited under the names of their respective authors:—
 
 - (1) <span class="sc">Mackenzie, G. T.</span>—'History of Christianity in Travancore', 3rd ed., *in The Travancore State Manual*, 1906, vol. ii, pp. 114– 219.
@@ -3463,6 +3965,7 @@ In this Appendix I confine myself to the limited task of justifying the proposit
 - (3) <span class="sc">Medlycott, Bishop A. E.</span>—*India and the Apostle Thomas.* (Nutt, 1905.)
 - (4) <span class="sc">Richards, W. J.</span>—*The Indian Christians of St. Thomas.* (Bemrose, 1908.)
 > _[Margin: The Seven Churches.]_
+
 The seven churches founded by St. Thomas are enumerated by Richards (p. 77) as (1) Kotta-kāyalil, (2) Gōkamangalam, (3) Niranam, (4) Chayil, (5) Kurakēni, (6) Quilon, (7) Palūr. Mackenzie gives the same list, with some variation of spelling, except that he substitutes Maliankara for Kurakēni. Rae (p. 361) gives the list as (1) Cranganore, (2) Quilon, (3) Palur, (4) Parur, (5) South Pallipuram[^sec-25-fn-001] or Kokamungalum, (5) Neranum, (7) Nellakkul, called also Chael or Shail. Richards is responsible for the statement that
 
 > 'One of the seven churches founded by St. Thomas was at a place named Chayal in the eastern hills of Travancore. It has long been abandoned, owing to wild animals, but the ruins remain, and would repay antiquarian research' (p. 91).
@@ -3470,20 +3973,27 @@ The seven churches founded by St. Thomas are enumerated by Richards (p. 77) as (
 I cannot explain the discrepancies in the lists, or say anything more about the alleged ruins at Chayal (*alias* Nellakkul, Chael, or Shail).
 
 > _[Margin: Facts supporting the tradition.]_
+
 St. Thomas is believed to have ordained priests from two families: namely, one at Shankarapuri, which died out, and the other at Pakalōnmattam, which survived into the nineteenth century, and supplied archdeacons in the Portuguese and bishops in the Dutch period (Mackenzie, p. 137; Richards, p. 76).
 
+'There is no doubt,' Mr. V. Nagam Aiya observes, 'as to the tradition that St. Thomas came to Malabar and converted a few families of Nambudiris, some of whom were ordained by him as priests, such as [p. 261] those of Sankarapuri and Pakalomattam.[^sec-25-fn-002] For in consonance with this long-standing traditional belief in the minds of the people of the Apostle's mission and labours among high-caste Hindus, we have [it] before us to-day the fact that certain Syrian Christian women, particularly of a Desom called Kunnamkolam, wear clothes as Nambudiri women do, move about screening themselves with huge umbrellas from the gaze of profane eyes as those women do, and will not marry, except perhaps in exceptional cases and that only recently, but from among dignified families of similar aristocratic descent. This is a valuable piece of evidence of the conduct of the community, corroborating the early tradition extant on the coast.' (*Manual*, II, 122.)
+
 > _[Margin: The martyrdoms.]_
-'There is no doubt,' Mr. V. Nagam Aiya observes, 'as to the tradition that St. Thomas came to Malabar and converted a few families of Nambudiris, some of whom were ordained by him as priests, such as [p. 261] those of Sankarapuri and Pakalomattam.[^sec-25-fn-002] For in consonance with this long-standing traditional belief in the minds of the people of the Apostle's mission and labours among high-caste Hindus, we have [it] before us to-day the fact that certain Syrian Christian women, particularly of a Desom called Kunnamkolam, wear clothes as Nambudiri women do, move about screening themselves with huge umbrellas from the gaze of profane eyes as those women do, and will not marry, except perhaps in exceptional cases and that only recently, but from among dignified families of similar aristocratic descent. This is a valuable piece of evidence of the conduct of the community, corroborating the early tradition extant on the coast.' (*Manual*, II, 122.) Mr. Aiya goes on to notice the Malabar version of the Abbanes story of the *Acta*, which is given more fully from a Malayālam manuscript by Richards (p. 72).
+
+Mr. Aiya goes on to notice the Malabar version of the Abbanes story of the *Acta*, which is given more fully from a Malayālam manuscript by Richards (p. 72).
 
 The martyrdom of St. Thomas at any place may be doubted, because an early writer named Heracleon, cited by Clement of Alexandria (*c.* <span class="sc">A. D.</span> 200), states that Thomas was not martyred (Medlycott, p. 120). The Roman Catholic writers, of course, impugn the statement of Heracleon, but anybody is at liberty to believe it if he chooses to do so.
 
 > _[Margin: Christianity in Socotra.]_
+
 The earliest testimony to the existence of a Christian Church in Socotra, derived from Persia, is that of Cosmas Indicopleustes, who wrote in <span class="sc">A. D.</span> 535. About a thousand years later (1542), St. Francis Xavier found nominally Christian congregations in the island, who claimed descent from the converts made by St. Thomas. The belief that Theophilus, the missionary sent out by Constantine about <span class="sc">A. D.</span> 354, visited Socotra appears to be erroneous (Medlycott, pp. 136, 138, 196–201).[^sec-25-fn-003] Bishop Medlycott is, I think, right in holding that Theophilus visited Malabar and found Christians in that region.
 
 > _[Margin: A Ceylonese tradition.]_
+
 Historical traditions of India and Ceylon when read together seem to carry the evidence for the existence of the Church in Malabar back to the third century. We learn from the Ceylonese chronicle, the *Mahāvaṁśa* (ch. xxxvi), composed about the beginning of the sixth century, that in the reign of king Gothakābhaya or Meghavarṇābhaya, whom Geiger places in <span class="sc">A. D.</span> 302 –15, a learned Tamil heretic overcame an orthodox Buddhist theologian in controversy and gained the favour of the king, who placed his son under his tuition. The *Mahāvaṁśa* represents the victor in the disputation as being a monk named Sanghamitra, ‘versed in the teachings concerning the exorcism of spirits and so forth’. Mr. K. G. Seshar Aiyar interprets this statement as meaning really that the successful controversialist was a Hindu, and identifies him with the famous Śaiva saint Māṇikka (or Māṇi) [p. 262] Vāśagar.[^sec-25-fn-004] The Tamil lives of that personage affirm that the saint actually converted the king of Ceylon towards the end of his career. That king may be identified with Gothakābhaya, and it is possible that the author of the *Mahāvaṁśa* may have misrepresented the Śaiva Hindu Māṇikka Vāśagar as Sanghamitra, a Buddhist heretic.
 
 > _[Margin: Māṇikka Vāśagar in Malabar.]_
+
 However little credit we may be disposed to give to the story about the conversion of the king of Ceylon, or to the identification of that king with Gothakābhaya of the *Mahāvaṁśa*, I see no reason for hesitating to believe the Indian tradition that Māṇikka Vāśagar visited Malabar and reconverted two families of Christians to Hinduism. The descendants of those families, who are still known as Manigrāmakars, are not admitted to full privileges as caste Hindus. Some traditions place the reconversion as having occurred about <span class="sc">a.d.</span> 270. If that date be at all nearly correct, the Malabar Church must be considerably older. So far as I can appreciate the value of the arguments from the history of Tamil literature, there seems to be good independent reason for believing that Māṇikka Vāśagar may have lived in the third century. Some authors even place him about the beginning of the second century.[^sec-25-fn-005] If he really lived so early, his relation with the Church in Malabar would confirm the belief in its apostolic origin.
 
 
@@ -3507,152 +4017,174 @@ However little credit we may be disposed to give to the story about the conversi
 #### THE KUSHĀN OR INDO-SCYTHIAN DYNASTY FROM ABOUT <span class="sc">a. d.</span> 20 <span class="sc">to a. d.</span> 225
 
 > _[Margin: Yüe-chi migration.]_
+
 <span class="sc">The</span> migrations of the nomad nations of the Central Asian steppes, briefly noticed in the last preceding chapter, produced on the political fortunes of India effects so momentous that they deserve and demand fuller treatment.
 
 A tribe of Turkī nomads, known to Chinese authors as the Hiung-nū, succeeded in inflicting upon a neighbouring and rival horde of the same stock a decisive defeat before the middle of the second century <span class="sc">b. c.</span> The date of this event is stated as 165 <span class="sc">b. c.</span> by most scholars, while Dr. Franke gives the limiting dates as 174 and 160 <span class="sc">b. c.</span> The Yüe-chi were compelled to quit the lands which they occupied in the province of Kan-suh in North-western China, and to migrate westwards in search of fresh pasture-grounds. The moving horde mustered a force of bowmen, estimated to number from one hundred to two hundred thousand; and the whole multitude must have comprised, at least, from half a million to a million persons of all ages and both sexes.[^sec-26-fn-001]
 
 > _[Margin: Defeat of the Wu-sun.]_
+
 In the course of their westward migration in search of grazing-grounds adequate for the sustenance of their vast numbers of horses, cattle, and sheep, the Yüe-chi, moving along the route past Kuchā (N. lat. 41° 38′, E. long. 83° 25′), to the north of the desert of Taklamakān, the Gobi of old maps, came into conflict with a smaller horde, named Wu-sun, which occupied the basin of the Ili river and its southern [p. 264] tributaries, the Tékès and Kongès.[^sec-26-fn-002] The Wu-sun, although numbering a force of only ten thousand bowmen, could not submit patiently to the devastation of their lands, and sought to defend them. But the superior numbers of the Yüe-chi assured the success of the invaders, who slew the Wu-sun chieftain, and then passed on westwards, beyond Lake Issyk-kūl, the Lake Tsing of Hiuen Tsang, in search of more spacious pastures. A small section of the immigrants, diverging to the south, settled on the Tibetan border, and became known as the Little Yüe-chi; while the main body, which continued the westward march, was designated the Great Yüe-chi.
 
 > _[Margin: Defeat of the Śakas.]_
+
 The next foes encountered by the Yüe-chi were the Śakas, or Se, who doubtless included more than one horde; for, as Herodotus observes, the Persians were accustomed to use the term Sakai to denote all Scythian nomads.[^sec-26-fn-003] The Śakas, who dwelt to the west of the Wu-sun, and to the north of the Jaxartes (Syr Daryā) also attempted to defend their lands; but met with even worse success than the Wu-sun, being compelled to vacate their pasture-grounds in favour of the victorious Yüe-chi, who occupied them. The Śakas were forced to migrate in search of new quarters, and, ultimately, as stated in the last preceding chapter, made their way into India through the northern passes.[^sec-26-fn-004]
 
 
 <!-- page: 303 | folio: 265 -->
 > _[Margin: *c.* 140 <span class="sc">b.c.</span> Defeat of the Yüe-chi.]_
+
 For some fifteen or twenty years the Yüe-chi remained undisturbed in their usurped territory. But meantime their ancient enemies, the Hiung-nū, had protected the infant son of the slain Wu-sun chieftain, who had grown to manhood under their care. This youth, with Hiung-nū help, attacked the Yüe-chi, and avenged his father's death by driving them from the lands which they had wrested from the Sakas. Being thus forced to resume their march, the Yüe-chi moved into the valley of the Oxus, and reduced to subjection its peaceful inhabitants, known to the Chinese as Ta-hia. The political domination of the Yüe-chi probably was extended at once over Bactria, to the south of the Oxus, but the head-quarters of the horde continued for many years to be on the north side of the river, and the pastures on that side sufficed for the wants of the new-comers.
 
 > _[Margin: The Yüe-chi settle down.]_
 > _[Margin: 10 <span class="sc">b. c.</span>]_
+
 In the course of time, which may be estimated at one or two generations, the Yüe-chi lost their nomad habits ; and became a settled, territorial nation, in actual occupation of the Bactrian lands south of the river, as well as of Sogdiana to the north, and were divided into five principalities. As a rough approximation to the truth, this political and social development, with its accompanying growth of population, may be assumed to have been completed about 10 <span class="sc">b. c.</span>
 
 > _[Margin: Unification of Yüe-chi kingdom.]_
 > _[Locus: <span class="sc">a. d.</span> 40.]_
+
 For the next century nothing is known about Yüe-chi history ; but more than a hundred years after the division of the nation into five territorial principalities, situated to the north of the Hindū Kush, the chief of the Kushān section of the horde, who is conventionally known to European writers as Kadphises I, succeeded in imposing his authority on his colleagues, and establishing himself as sole monarch of the Yüe-chi nation. His accession as such may be dated approximately in the year <span class="sc">a. d.</span> 40, which cannot be far wrong.[^sec-26-fn-005]
 
 
 <!-- page: 304 | folio: 266 -->
 > _[Margin: The Yüe-chi cross the Hindū Kush.]_
+
 The pressure of population upon the means of subsistence, which had impelled the Yüe-chi horde to undertake the long and arduous march from the borders of China to the Hindū Kush, now drove it across the barrier, and stimulated Kadphises I to engage in the formidable task of subjugating the provinces to the south of the mountains.
 
 > _[Margin: Empire of Kadphises I.]_
+
 He made himself master of Ki-pin, which may be interpreted as meaning Gandhāra, as well as of the Kābul territory,[^sec-26-fn-006] and, in the course of a long reign, consolidated his [p. 267] power in Bactria, and found time to attack the Parthians. His empire thus extended from the frontiers of Persia to the Indus, or perhaps to the Jihlam, and included Sogdiana, now the Khanate of Bukhāra, with probably all the territories comprised in the existing kingdom of Afghanistan. The complete subjugation of the hardy mountaineers of the Afghan highlands, who have withstood so many invaders with success, must have occupied many years, and cannot be assigned to any particular year, but <span class="sc">A. D.</span> 50 may be taken as a mean date for the conquest of Kābul.
 
 > _[Margin: Extinction of Indo-Greek and Indo-Parthian power.]_
+
 The Yue-chi advance necessarily involved the suppression of the Indo-Greek and Indo-Parthian chiefs of principalities to the west of the Indus; and in the last preceding chapter proof has been given of the manner in which the coinage legibly records the outline of the story of the gradual supersession of Hermaios, the last Greek prince of Kābul, by the barbarian invaders.
 
 The final extinction of the Indo-Parthian power in the Panjāb and the Indus valley probably was reserved for the reign of Kanishka.
 
 > _[Margin: *c.* <span class="sc">A.D.</span> 78. Kadphises II.]_
+
 At the age of eighty Kadphises I closed his victorious reign, and was succeeded, in or about <span class="sc">A. D.</span> 77 or 78, by his son, who is most conveniently designated as Kadphises II.[^sec-26-fn-007] This prince, no less ambitious and enterprising than his father, devoted himself to the further extension of the Yue-chi dominion, and apparently completed the conquest of Northern India, commenced by his predecessor.
 
 There is reason to believe that he conquered the Panjāb and a considerable part of the Gangetic plain, probably as far as Benares. It is probable that he extended his power [p. 268] to the mouths of the Indus and swept away, if they still existed, the petty Parthian princes who still ruled that region in the first century after Christ, but are heard of no more afterwards. The conquered Indian provinces were administered by military viceroys, to whom should be attributed the large issues of coins known to numismatists as those of the Nameless King, which are extremely common all over Northern India from the Kābul Valley to Ghāzīpur and Benares on the Ganges, as well as in Cutch (Kachchh) and Kāthiāwār.[^sec-26-fn-008]
 
 > _[Margin: Relations with China.]_
 > _[Locus: <span class="sc">A. D.</span> 73–102.]_
+
 The embassy of Chang-kien[^sec-26-fn-009] in 125–115 <span class="sc">B. C.</span> to the Yüe-chi, while they still resided in Sogdiana to the north of the Oxus, had brought the western barbarians into touch with the Middle Kingdom, and for a century and a quarter the emperors of China kept up intercourse with the Scythian powers. In the year <span class="sc">A. D.</span> 8 official relations ceased, and when the first Han dynasty came to an end in <span class="sc">A. D.</span> 23, Chinese influence in the western countries had been reduced to nothing. Fifty years later Chinese ambition reasserted itself, and for a period of thirty years, from <span class="sc">A. D.</span> 73 to 102, General Pan-chao led an army from victory to victory, nearly as far as the confines of the Roman empire,[^sec-26-fn-010] and thus effected the greatest westward extension ever attained by the power of China. The king of Khotan, who had first made his submission in <span class="sc">A. D.</span> 73, was followed by several other princes, [p. 269] including the king of Kāshgar, and the route to the west along the southern edge of the desert was thus opened to the arms and commerce of China. The reduction of Kuchā and Kara-shahr in <span class="sc">a. d.</span> 94 similarly threw open the northern road.
 
 > _[Margin: *c.* <span class="sc">a.d.</span> 90. War with China.]_
+
 The steady advance of the victorious Chinese evidently alarmed the Kushān king, presumably Kadphises II, who regarded himself as the equal of the emperor, and had no intention of accepting the position of a vassal. Accordingly, in <span class="sc">a. d.</span> 90,[^sec-26-fn-011] he boldly asserted his equality by demanding a Chinese princess in marriage. General Pan-chao, who considered the proposal an affront to his master, arrested the envoy and sent him home. Kadphises II, unable to brook this treatment, equipped a formidable force of 70,000 cavalry under the command of his viceroy Si, which was dispatched across the Tsung-ling range, or Tāghdumbāsh Pāmīr, to attack the Chinese. The army of Si probably advanced by the Tāshkurghān Pass, some fourteen thousand feet high,[^sec-26-fn-012] and was so shattered by its sufferings during the passage of the mountains, that when it emerged into the plain below, either that of Kāshgar or Yārkand, it fell an easy prey to Pan-chao, and was totally defeated. Kadphises II was compelled to pay tribute to China, and the Chinese annals record the arrival of several missions bearing tribute at this period.[^sec-26-fn-013]
 
 > _[Margin: Relations with Rome.]_
+
 The Indian embassy which offered its congratulations to Trajan at some date after his return to Rome in <span class="sc">a. d.</span> 99 may have been dispatched by Kadphises II to announce his conquests.[^sec-26-fn-014]
 
 
 <!-- page: 308 | folio: 270 -->
 > _[Margin: Roman influence.]_
+
 The Yüe-chi conquests opened up the overland path of commerce between the Roman empire and India. Kadphises I, who struck coins in bronze or copper only, imitated, after his conquest of Kābul, the coinage either of Augustus in his latter years, or the similar coinage of Tiberius (<span class="sc">a. d.</span> 14 to 38). When the Roman gold of the early emperors began to pour into India in payment for the silks, spices, gems, and dyestuffs of the East, Kadphises II perceived the advantage of a gold currency, and struck an abundant issue of orientalized *aurei*, agreeing in weight with their prototypes, and not much inferior in purity. In Southern India, which, during the same period, maintained an active maritime trade with the Roman empire, the local kings did not attempt to copy the imperial *aurei*, which were themselves imported in large quantities, and used for currency purposes, just as English sovereigns now are in many parts of the world.[^sec-26-fn-015]
 
 
 <!-- page: 309 | folio: 271 -->
 > _[Margin: Duration of reign of Kadphises II.]_
+
 The victorious reign of Kadphises II undoubtedly was prolonged, and may be supposed to have lasted for about thirty-two years, from <span class="sc">a. d.</span> 78 to 110.[^sec-26-fn-016]
 
 > _[Margin: *c.* <span class="sc">a.d.</span> 120. Kanishka acc.]_
+
 Kadphises II was succeeded by Kanishka, who alone among the Kushān kings has left a name cherished by tradition, and famous far beyond the limits of India. His name, it is true, is unknown in Europe, save to a few students of unfamiliar lore, although it lives in the legends of Tibet, China, and Mongolia, and is scarcely less significant to the Buddhists of those lands than that of Asoka himself. Notwithstanding the widespread fame of Kanishka, his authentic history is scanty, and his chronological position strangely open to doubt. Unluckily no passage in the works of the accurate Chinese historians has yet been discovered which synchronizes him with any definite name or event in the well-ascertained history of the Middle Kingdom. The Chinese books which mention him are all, so far as is yet known, merely Buddhist works of edification, and not well [p. 272] adapted to serve as mines of historic fact. They are, in truth, as are the books of Tibet and Mongolia, translations or echoes of Indian tradition, and no student needs to be told how baffling are its vagaries. Kanishka and his proximate successors certainly are mentioned in an exceptionally large number of inscriptions, of which considerably more than a score are dated ; and it might be expected that this ample store of epigraphic material would set at rest all doubts, and establish beyond dispute the essential outlines of the Kushān chronology. But, unfortunately, the dates are recorded in such a fashion as to be open to various interpretations.[^sec-26-fn-017]
 
 Excavations at a small town called Māt in the Mathurā district have disclosed the remarkable life-size statue of Kanishka (see Plate) and two other headless statues of kings. The name and titles of Kanishka are inscribed on his skirt in plain script. The details of his dress and equipment are of interest, and differ from those shown on the coins.[^sec-26-fn-018]
 
 > _[Margin: His date.]_
+
 I have no doubt whatever that the numismatic evidence alone—a class of evidence unduly depreciated by some historical students—proves conclusively that Kanishka lived at a time considerably later than the Christian era, subsequent to both Kadphises I and Kadphises II, and was exposed to the influence of the Roman empire. Many other lines of evidence, of great force when brought together, lead to the conclusion that Kanishka came to the throne early in the second century of the Christian era, and most probably in <span class="sc">A. D.</span> 120, directly succeeding Kadphises II.
 
 Kanishka unquestionably belonged to the Kushān section [p. 273] of the Yüe-chi nation, as did the Kadphises kings, and there does not seem to be sufficient reason for believing that he was unconnected with them.[^sec-26-fn-019] The coins of both Kadphises II and Kanishka, found together in many places, frequently display in the field the same four-pronged symbol, and agree accurately in weight and fineness, besides exhibiting a close relationship in the obverse devices.[^sec-26-fn-020] If, as some scholars hold, the group of kings comprising Kanishka, Vāsishka, Huvishka, and Vāsudeva preceded Kadphises I, the coins of the two princes last named should be found together, as they are not, and those of Kadphises II and Kanishka should not be associated, as they are. We must accept the Chinese evidence that Kadphises II (Yen-kao-ching) ‘conquered T’ien-chu (India), and then set up generals, who governed in the name of the Yüe-chi’. Nobody can dispute the fact that Kanishka, Vāsishka, and Huvishka were well established in power at Mathurā on the Jumna as well as in Kashmīr and in the intermediate Panjāb. It is not apparent how they could have attained that position prior to the ‘conquest of India’ by Kadphises II, as attested by the Chinese historian. Without further pursuing in detail a tedious archaeological argument, it will suffice to say here that ample and conclusive [p. 274] reason can be shown for holding that the great majority of Indianists are right in placing the Kanishka group directly after that of the Kadphises kings. Our knowledge is so limited that difficulties remain, whatever theory be adopted, but the ordinary arrangement of the royal names appears to be strictly in accordance with the history of other nations, and with the phenomena of artistic, literary, and religious development.[^sec-26-fn-021]
 
 > _[Margin: <span class="sc">A. D.</span> 120. Extent of his dominion.]_
+
 Kanishka, then, may be assumed to have succeeded Kadphises II, to whom he was closely related, in or about <span class="sc">A. D.</span> 120. Tradition and the monuments and inscriptions of his time prove that his sway extended all over North-Western India, probably as far south as the Vindhyas, as well as over the remote regions beyond the Pāmīr passes.
 
 Hiuen Tsang, who recorded the history or tradition which he learned in Kapisa, expressly states that ‘when Kanishka reigned in Gandhāra his power reached the neighbouring states, and his influence extended to distant regions’. He kept order, we are told, over a wide territory reaching to the east of the Tsung-ling mountains, that is to say, ‘the [p. 275] meridional range or ranges which buttress the Pāmīr region on the east and divide it from the Tārīm Basin.'[^sec-26-fn-022] In India his coins are found constantly associated with those of Kadphises II from Kābul to Ghāzīpur on the Ganges, while their vast number and variety indicate a reign of considerable length.[^sec-26-fn-023]
 
 > _[Margin: Relations with Rome.]_
+
 The temporary annexation of Mesopotamia between the Euphrates and Tigris in <span class="sc">a. d.</span> 116 by Trajan brought the Roman frontier within 600 miles of the western limits of the Yüe-chi empire. Although the province to the east of the Euphrates was given up by Hadrian in the year after its annexation, there can be no doubt that at this period the rulers of Northern and Western India were well acquainted with the fame and power of the great empire in the west.[^sec-26-fn-024]
 
 > _[Margin: Conquest of Kashmīr.]_
+
 Kanishka may be credited with having completed in his earlier years the subjugation and annexation of the secluded vale of Kashmīr. He certainly showed a marked preference for that delightful country, where he erected numerous monuments, and founded a town, which, although now reduced to a petty village, still bears his honoured name.[^sec-26-fn-025]
 
 
 <!-- page: 314 | folio: 276 -->
 > _[Margin: Attack on Pāṭaliputra.]_
+
 Tradition affirms that he penetrated far into the interior of India, and attacked the king residing at the ancient imperial city of Pāṭaliputra. It is said that he carried off from that city a Buddhist saint named Aśvaghosha. Comparison of the different versions of this story gives reasons for accepting as true at least the bare fact that Kanishka and Aśvaghosha were contemporaries.[^sec-26-fn-026] If the chronology adopted in this edition be correct, the Indo-Scythian or Kushān dynasty, during the reign of Kanishka, wielded authority over Western India, through the agency of the Śaka satraps of Ujjain, one of whom, Chastana, was probably related to the Kushān dynasty. There are grounds also for the belief that from the time of Kanishka to the reign of Vāsudeva, Kushān rule extended over Bihār.[^sec-26-fn-027]
 
 > _[Margin: His capital.]_
-Kanishka's capital was Purushapura, the modern Peshāwar, the city which then guarded, as it now does, the main road from the Afghan hills to the Indian plains. There, in his latter days, when he had become a fervent Buddhist,
+
+Kanishka's capital was Purushapura, the modern Peshāwar, the city which then guarded, as it now does, the main road from the Afghan hills to the Indian plains. There, in his latter days, when he had become a fervent Buddhist, [p. 277] he erected a great relic tower, which seems to have deserved to rank among the wonders of the world. The superstructure of carved wood rose in thirteen stories to a height of at least 400 feet, surmounted by a mighty iron pinnacle. When Song-yun, a Chinese pilgrim, visited the spot at the beginning of the sixth century, this structure had been thrice destroyed by fire, and as often rebuilt by pious kings. A monastery of exceptional magnificence which stood by its side,[^sec-26-fn-028] was still flourishing as a place of Buddhist education as late as the ninth century when it was visited by Vīradeva, an eminent Buddhist scholar, who subsequently was appointed abbot of Nālandā in the reign of king Devapāla of Magadha (*c.* <span class="sc">A. D.</span> 844–92).[^sec-26-fn-029]
 
 
 <!-- page: 315 | folio: 277 -->
 
-![inscribed life-size statue of kanishka, from māt in mathurā district](../figures/fig-011_p0315.webp)
-
-(*Photograph by Brajbāsi Friend & Co., Muttra*)
-
-
-<!-- page: 317 | folio: 277 -->
-he erected a great relic tower, which seems to have deserved to rank among the wonders of the world. The superstructure of carved wood rose in thirteen stories to a height of at least 400 feet, surmounted by a mighty iron pinnacle. When Song-yun, a Chinese pilgrim, visited the spot at the beginning of the sixth century, this structure had been thrice destroyed by fire, and as often rebuilt by pious kings. A monastery of exceptional magnificence which stood by its side,[^sec-26-fn-028] was still flourishing as a place of Buddhist education as late as the ninth century when it was visited by Vīradeva, an eminent Buddhist scholar, who subsequently was appointed abbot of Nālandā in the reign of king Devapāla of Magadha (*c.* <span class="sc">A. D.</span> 844–92).[^sec-26-fn-029]
+![inscribed life-size statue of kanishka, from māt in mathurā district — (Photograph by Brajbāsi Friend & Co., Muttra)](../figures/fig-011_p0315.webp)
 
 The final demolition of this celebrated establishment undoubtedly must have been due to the Muhammadan invasions of Mahmūd of Ghaznī and his successors. Muslim zeal against idolatry was always excited to acts of destruction by the spectacle of the innumerable images with which Buddhist holy places were crowded.
 
 > _[Margin: Parthian war.]_
+
 The ambition of Kanishka, as already observed, was not confined by the limits of India. He is alleged to have engaged in successful war with the Parthians, having been attacked by the king of that nation, who is described by the tradition as ‘very stupid and with a violent temper’.[^sec-26-fn-030] [p. 278] The prince referred to may be either Chosroes (Khusrū), or one of the rival kings who disputed the possession of the Parthian throne between <span class="sc">a. d.</span> 108 and 130.[^sec-26-fn-031]
 
 > _[Margin: Conquest of Kāshgar, Yarkand, and Khotan.]_
+
 The most striking military exploit of Kanishka was his conquest of Kāshgar, Yarkand, and Khotan, extensive provinces of Chinese Turkestān lying to the north of Tibet and the east of the Pāmīrs, and at that time, as now, dependencies of China.[^sec-26-fn-032] When Kadphises II had attempted the same arduous adventure in <span class="sc">a. d.</span> 90, he had failed ignominiously, as already related, and had been compelled to pay tribute to China; but, after the death of Pan-chao, Kanishka having secured the peaceful possession of India and Kashmīr, was in a better position to surmount the appalling difficulties of conveying an effective army across the passes of the Tāghdumbāsh Pāmīr, which no modern ruler of India would dare to face. Kanishka succeeded, where his predecessor had failed; and not only freed himself from the obligation of paying tribute to China, but exacted the surrender of hostages from a state tributary to the Chinese empire. The assertion made by one authority that the hostages included a son of the emperor of the Han dynasty does not appear to be worthy of belief. The territory of the ruler to whose family the hostages belonged seems to have been not very distant from Kāshgar.
 
 > _[Margin: The hostages.]_
+
 The hostages were treated, as beseemed their princely rank, with the utmost consideration, and were assigned suitable residences at different Buddhist monasteries for each of the three seasons—the hot, the cold, and the rains. During the time of the summer heats, when the burning plains are not pleasant to live in, they enjoyed the cool breezes at a Hīnayānist monastery named Sha-lo-ka, perhaps meaning ‘the Kāshgar monastery’, situated in the hills of Kapisa, the modern Kāfiristān, beyond Kābul, which was erected specially for their accommodation. During the spring and autumn, including the rainy season, they resided in Gandhāra, [p. 279] no doubt at the capital; while they spent the cold weather at an unidentified place in the Eastern Panjāb, to which the name of Chīnabhukti, or ' the Chinese allotment', was given in consequence. They were reputed to have introduced the pear and peach, previously unknown in that part of India, during their residence at Chīnabhukti. One of their number, before returning home, deposited a rich store of gold and jewels for the endowment of the Kapisa establishment, and they all continued to recognize the generosity with which they had been treated by remitting offerings for the benefit of the brethren. The grateful monks adorned their walls with paintings representing their guests, who are said to have been somewhat like Chinamen in appearance and dress. When Hiuen Tsang resided at the Kapisa monastery, during the rainy season of <span class="sc">A. D.</span> 630, he found that his hosts still cherished the memory of their benefactors, and celebrated services in their honour. He also stayed for fourteen months in <span class="sc">A. D.</span> 633–4 at the hostages' monastery in Chīnabhukti.
 
 > _[Margin: Story of the treasure.]_
+
 The biographer of Hiuen Tsang tells a curious story about the treasure deposited by the hostage as an endowment for the Sha-lo-ka shrine at Kapisa; which was known to be buried under the feet of the image of Vaisravana, otherwise known as Kuvera, or Jambhala, the Great Spirit King, at the south side of the eastern gate of the hall of Buddha. An impious Rāja who had tried to appropriate the hoard was frightened away by portents which seemed to indicate the displeasure of its guardian spirit, and when the monks endeavoured to make use of it for the purpose of repairing the shrine, in accordance with the donor's intention, they, too, were terrified by similar manifestations.
 
 While Hiuen Tsang was lodging at the shrine, the monks besought him to use his influence with the spirit to obtain permission to expend the treasure on urgently needed repairs of the steeple. The pilgrim complied, burned incense, and duly assured the guardian spirit that no waste or misappropriation would be permitted. The workmen who were set to dig up the spot then suffered no molestation, and at a depth [p. 280] of 7 or 8 feet found a great copper vessel containing several hundredweight of gold and a quantity of pearls. The balance of the treasure left after the repairs to the steeple has doubtless been appropriated long since by excavators less scrupulous than the pious Master of the Law.[^sec-26-fn-033]
 
 > _[Margin: Echoes of Asoka legends.]_
+
 The stories told about Kanishka's conversion and his subsequent zeal for Buddhism have so much resemblance to the Asoka legends that it is difficult to decide how far they are traditions of actual fact, and how far merely echoes of an older tradition. The Yüe-chi monarch did not record passages from his autobiography as Asoka did, and when we are informed in the pages of a pious tract that his conversion was due to remorse for the blood shed during his wars, it is impossible to check the statement.[^sec-26-fn-034] Probably it is merely an echo of the story of Asoka, as told by himself.
 
 
 <!-- page: 321 | folio: 281 -->
 > _[Margin: The conversion of Kanishka.]_
+
 Just as the writers of edifying books sought to enhance the glory of Asoka's conversion to the creed of the mild Sākya sage by blood-curdling tales of the king's fiendish cruelty during the days of his unbelief, so Kanishka was alleged to have had no faith either in right or wrong, and to have lightly esteemed the law of Buddha during his earlier life.[^sec-26-fn-035] The most authentic evidence on the subject of his changes of faith is afforded by the long and varied series of his coins, which, like most ancient coinages, reflect the religious ideas both of the monarch in whose name they were struck, and of the peoples whom he subdued. The finest, and presumably the earliest, pieces bear legends, Greek in both script and language, with effigies of the sun and moon personified under their Greek names, Hēlios and Selēnē.[^sec-26-fn-036] On later issues the Greek script is retained, but the language is Khotanese, a form of old Iranian, while the deities depicted are a strange medley of the gods worshipped by Greeks, Persians, and Indians.[^sec-26-fn-037] The rare coins exhibiting images of Buddha Sākyamuni with his name in Greek letters are usually considered to be among the latest of the reign, but they are well executed, and may be earlier in date than is generally supposed.[^sec-26-fn-038] Although it is impossible to fix the exact date of Kanishka's conversion, the event evidently did not occur until he had been for some years on the throne.
 
 > _[Margin: Buddha as a deity.]_
+
 The appearance of the Buddha among a crowd of heterogeneous deities would have appeared strange, in fact would have been inconceivable to Asoka, while it seemed quite natural to Kanishka. The newer Buddhism of his day, which may be traced back to an earlier period and was [p. 282] designated as the Mahāyāna, or Great Vehicle, must have been largely of foreign origin, and its development was the result of the complex interaction of Indian, Zoroastrian, Christian, Gnostic, and Hellenic elements, which had been made possible by the conquests of Alexander, the formation of the Maurya empire in India, and, above all, by the unification of the Roman world under the sway of the earlier emperors.[^sec-26-fn-039] In this newer Buddhism the sage Gautama became in practice, if not in theory, a god, with his ears open to the prayers of the faithful, and served by a hierarchy of Bodhisattvas and other beings acting as mediators between him and sinful men.[^sec-26-fn-040] Such a Buddha rightly took a place among the gods of the nations comprised in Kanishka's widespread empire,[^sec-26-fn-041] and the monarch, even after his 'conversion', probably continued to honour both the old and the new gods, as, in a later age, Harsha did alternate reverence to Siva and Buddha.
 
 > _[Margin: Ghandhāra sculptures.]_
-The celebrated Gandhāra sculptures, found abundantly in the Peshāwar district and neighbouring regions, the ancient Gandhāra, of which many excellent examples date from the time of Kanishka and his proximate successors, give vivid expression in classical forms of considerable artistic merit to this modified Buddhism, a religion with a complicated mythology and well-filled pantheon.[^sec-26-fn-042] The florid Corinthian capitals and many other characteristic features of the style prove that the Gandhāra school was merely a branch of the cosmopolitan Graeco-Roman art of
+
+The celebrated Gandhāra sculptures, found abundantly in the Peshāwar district and neighbouring regions, the ancient Gandhāra, of which many excellent examples date from the time of Kanishka and his proximate successors, give vivid expression in classical forms of considerable artistic merit to this modified Buddhism, a religion with a complicated mythology and well-filled pantheon.[^sec-26-fn-042] The florid Corinthian capitals and many other characteristic features of the style prove that the Gandhāra school was merely a branch of the cosmopolitan Graeco-Roman art of [p. 283] the early empire. The most competent critics are now generally agreed that the school reached its highest point of development early in the second century of the Christian era.[^sec-26-fn-043]
 
 
 <!-- page: 323 | folio: 283 -->
 
 ![INSCRIBED BUDDHIST PEDESTAL FROM HASHTNAGAR, DATED 384](../figures/fig-012_p0323.webp)
 
-
-<!-- page: 325 | folio: 283 -->
-the early empire. The most competent critics are now generally agreed that the school reached its highest point of development early in the second century of the Christian era.[^sec-26-fn-043]
-
 > _[Margin: Buddhist council.]_
+
 In Buddhist ecclesiastical history the reign of Kanishka is specially celebrated for the convocation of a council, organized on the model of that summoned by Asoka. Kanishka's council, which is ignored by the Ceylonese chroniclers, who probably never heard of it, is known only from the traditions of Northern India, as preserved by Tibetan, Chinese, and Mongolian writers. The accounts of this assembly, like those of the earlier councils, are discrepant, and the details are obviously legendary.
 
 Kanishka, we are told, studied the Buddhist scriptures in his leisure hours under the guidance of a monk, who attended daily at the palace to give him instruction. The king, becoming hopelessly puzzled by the conflicting doctrines of the various sects or schools, suggested to his adviser, the Venerable Pārsva, that it would be well to obtain an authoritative exposition of the truth. Pārsva gave his cordial approval to the suggestion, and arrangements were made accordingly for a general assembly of theologians. As a matter of fact, however, all the learned men assembled seem to have belonged to a single school, the Sarvāstivādins of the Hīnayāna, or Little Vehicle, whose practice, if we may judge from the contemporary sculptures, must have differed little from that of the Mahāyānists. The first question demanding settlement was that of the place of meeting. The king proposed his capital in Gandhāra, but objection was taken to the hot damp climate. Somebody then suggested Rājagriha, in Magadha, where the first council was reputed to have met. Ultimately it was decided to convoke the assembly in the pleasant climate of Kashmīr, at a monastery named Kundalavana, near the capital of that country. Vasumitra was elected president, and Aśvaghosha, the famous author, who, according to the story, had been carried [p. 284] off from Pātaliputra, was appointed vice-president. The members, 500 in number, devoted themselves to a thorough examination of theological literature from the most remote antiquity, and elaborated huge commentaries on the three main divisions of the Canon. The works so prepared included the *Mahāvibhāshā*, which still exists in Chinese, and is described as being an encyclopaedia of Buddhist philosophy. Dr. Takakusu, a highly competent authority, is of opinion that until this work shall have been made accessible to scholars it will be vain to argue about the Council of Kashmīr or its works. When the labours of the assembly were completed, the commentaries were copied on sheets of copper, which were deposited in a *stūpa* built for this purpose by order of king Kanishka. It is possible that these precious records may still exist buried under some mound near Srīnagar, and that a lucky chance may reveal them. After the conclusion of the business of the council, Kanishka renewed Asoka's donation of the kingdom of Kashmīr to the Church, and went home through the Bārāmūla Pass.[^sec-26-fn-044] [p. 285] No political importance should be attached to the assembly.
 
 > _[Margin: Legend of Kanishka's death.]_
+
 The legends published by M. Sylvain Lévi include a strange tale professing to relate the end of Kanishka, which possibly may be founded on fact.
 
 ‘The king’, so runs the story, ‘had a minister named Māṭhara, of unusual intelligence. He addressed Kanishka in these words: “Sire, if you wish to follow the advice of your servant, your power will assuredly bring the whole world into subjection. All will submit to you, and the eight regions will take refuge in your merit. Think over what your servant has said, but do not divulge it.” The king replied: “Very well, it shall be as you say.” Then the minister called together the able generals and equipped a force of the four arms. Wherever the king turned, all men bowed before him like herbage under hail. The peoples of three regions came in to make their submission; under the hoofs of the horse ridden by king Kanishka everything either bent or broke. The king said: “I have subjugated three regions; all men have taken refuge with me; the region of the north alone has not come in to make its submission. If I subjugate it, I shall never again take advantage of an opportunity against any one, be he who he may, but I do not yet know the best way to succeed in this undertaking.” The king’s people, having heard these words, took counsel together, and said: “The king is greedy, cruel, and unreasonable; [p. 286] his campaigns and continued conquests have wearied the mass of his servants. He knows not how to be content, but wants to reign over the four quarters. The garrisons are stationed on distant frontiers, and our relatives are far from us. Such being the situation, we must agree among ourselves, and get rid of him. After that we may be happy." As he was ill, they covered him with a quilt, a man sat on top of him, and the king died on the spot.'[^sec-26-fn-045]
@@ -3660,43 +4192,55 @@ The legends published by M. Sylvain Lévi include a strange tale professing to r
 The reign of Kanishka appears to have lasted some forty-five years, and may be assumed to have terminated about <span class="sc">a. d.</span> 160.
 
 > _[Margin: Vāsishka.]_
+
 Very little is known about the successors of Kanishka. Inscriptions prove that Vāsishka was reigning at Mathurā in the year 24, and Huvishka between the years 33 and 60, while a prince of the name of Kanishka was reigning at Āra in the Panjāb[^sec-26-fn-046] in the year 41. The best way to reconcile the apparent contradiction is to assume that Vāsishka and Huvishka were sons of Kanishka, who both acted in succession as Viceroys of Upper India while their father was warring beyond the mountains. Vāsishka, of whom no coins are known, seems to have predeceased his father, who was succeeded in his whole empire by Huvishka.[^sec-26-fn-047] The extensive coinage of Huvishka may have been all issued after his succession to the imperial throne. Vāsishka, presumably, was not empowered to coin in his own name. If he had issued coins, it is hardly possible that some specimens should not have been discovered by this time.
 
 > _[Margin: Huvishka.]_
+
 The dominions of Huvishka certainly included Kābul,[^sec-26-fn-048] Kashmīr, and Mathurā. At the last-named city, a splendid Buddhist monastery bore his name, and no doubt owed its [p. 287] existence to his munificence;[^sec-26-fn-049] for, like Kanishka, he was a liberal patron of Buddhist ecclesiastical institutions. He also resembled his more famous predecessor in an eclectic taste for a strange medley of Greek, Indian, and Persian deities. The types on the coins of Huvishka include Herakles, Sarapis ('Sarapo'), Skanda with his son Visākha, Pharro, the fire-god, and many others, but the figure and name of Buddha are wanting. It would seem that the Buddhist convictions of these old Scythian kings were not very deeply seated, and it is probably justifiable to hold that the royal favour was granted to the powerful monastic organization of the Buddhists as much as to their creed. No prudent monarch in those days could afford to neglect the wealthy and influential order, which had spread its ramifications all over the empire.
 
 > _[Margin: Hushkapura.]_
+
 The town of Hushkapura, founded by Huvishka in Kashmīr, occupied a position of exceptional importance just inside the Bārāmūla Pass, then known as the 'western gate' of the valley, and continued for centuries to be a place of note. When Hiuen Tsang visited Kashmīr about <span class="sc">A. D.</span> 631, he enjoyed the liberal hospitality of the Hushkapura monastery for several days, and was escorted thence with all honour to the capital, where he found numerous religious institutions, attended by some five thousand monks. The town of Hushkapura is now represented by the small village of Ushkür, at which the ruins of an ancient *stūpa* are visible.[^sec-26-fn-050]
 
 > _[Margin: Length of reign.]_
+
 The reign of Huvishka undoubtedly was prolonged, but all memory of its political events has perished. His abundant coinage is even more varied than that of Kanishka, with which it is constantly associated, and, like the contemporary sculpture, testifies to the continuance of Hellenistic influence. A few specimens of the gold coinage present well executed and characteristic portraits of the king, who was a determined-looking man, with strongly marked features, large, deep-set eyes, and aquiline nose.[^sec-26-fn-051] So far as appears, [p. 288] the Kushān power suffered no diminution during his reign, which may be assumed to have ended in or about <span class="sc">a. d.</span> 182.
 
 > _[Margin: Reign of Vāsudeva, ? <span class="sc">a. d.</span> 182–220.]_
+
 Huvishka was succeeded by Vāsudeva, whose thoroughly Indian name, a synonym for Vishnu, is a proof of the rapidity with which the foreign invaders had succumbed to the influence of their environment. Testimony to the same fact is borne by his coins, almost all of which exhibit on the reverse the figure of the Indian god Siva, attended by his bull Nandi, and accompanied by the noose, trident, and other insignia of Hindu iconography. The inscriptions of Vāsudeva, mostly found at Mathurā, certainly range in date from the year 74 to the year 98 of the era used in the Kushān age, and indicate a reign of not less than twenty-five years. We may assume that his reign terminated in or about the year 220.[^sec-26-fn-052]
 
 > _[Margin: Decay of Kushān power.]_
+
 It is evident that the Kushān power must have been decadent during the latter part of the long reign of Vāsudeva, and apparently before its close, or immediately after that event, the vast empire of Kanishka obeyed the usual law governing Oriental monarchies, and broke up into fragments, having enjoyed a brief period of splendid unity. Coins bearing the name of Vāsudeva continued to be struck long after he had passed away, and ultimately present the royal figure clad in the garb of Persia, and manifestly imitated from the effigy of Sapor (Shāhpur) I, the Sassanian monarch who ruled Persia from <span class="sc">a. d.</span> 238 to 269.[^sec-26-fn-053]
 
-> _[Locus: Plague.]_
+> _[Margin: Plague.]_
+
 It seems reasonable to believe that the decay of the Indo-Scythian monarchy must have been hastened by the terrible plague of <span class="sc">a. d.</span> 167, which started in Babylonia, and desolated the Roman and Parthian empires for several years. At Rome, as well as throughout Italy and the provinces, the [p. 289] greater part of the inhabitants, and nearly all the troops, sank under the disease. Niebuhr expressed the opinion that ‘the ancient world never recovered from the blow inflicted upon it by the plague which visited it in the reign of M. Aurelius’. It is not likely that India can have escaped.[^sec-26-fn-054]
 
 > _[Margin: Sassanian influence on India.]_
+
 Absolutely nothing positive is known concerning the means by which the renewed Persian influence, as proved by numismatic facts, made itself felt in the interior of India. Bahrām (Varahrān) II is known to have conducted a campaign in Sīstān, at some time between 277 and 294; but there is no definite record of any Sassanian invasion of India in the third century, during which period all the ordinary sources of historical information dry up. No inscriptions certainly referable to that time have been discovered, and the coinage, issued by merely local rulers, gives hardly any help. The two great dynasties, the Kushān in Northern India, and the Āndhra in the tableland of the Deccan, disappear together almost at the moment (<span class="sc">a. d.</span> 226) when the Arsakidan dynasty of Persia was superseded by the Sassanian.[^sec-26-fn-055] It is impossible to avoid hazarding the conjecture that the three events may have been in some way connected, and that the persianizing of the Kushān coinage of Northern India should be explained by the occurrence of a Persian invasion, such as that mentioned by Firishta as having occurred during the reign of the first Sassanian king.[^sec-26-fn-056]
 
 
 <!-- page: 332 | folio: 290 -->
 > _[Margin: Foreign invasions.]_
+
 So much, however, is clear, that Vāsudeva was the last Kushān king who continued to hold extensive territories in India. After his death there is no indication of the existence of a paramount power in Northern India. Probably numerous Rājas asserted their independence and formed a number of short-lived states, such as commonly arise from the ruins of a great oriental monarchy; but historical material for the third century is so completely lacking that it is impossible to say what or how many those states were. The period evidently was one of extreme confusion associated with foreign invasions from the north-west, which is reflected in the muddled statements of the *Purāṇas* concerning the Ābhīras,[^sec-26-fn-057] Gardabbilas, Śakas, Yavanas, Bāhlīkas, and other outlandish dynasties named as the successors of the Āndhras. The dynasties thus enumerated clearly were to a large extent contemporary with one another, not consecutive, and none of them could claim paramount rank. It seems to be quite hopeless to attempt to reduce to order the Purāṇic accounts of this anarchical period, and nothing would be gained by quoting a long list of names, the very forms of which are uncertain.
 
 > _[Margin: Kushān kings of Kābul and Panjāb.]_
+
 Coins indicate that the Kushāns held their own in the Panjāb and Kābul for a long time. It is certain that the Kushān kings of Kābul continued to be a considerable power until the fifth century, when they were overthrown by the White Huns. At the beginning of the fourth century one of them gave a daughter in marriage to Hormazd II, the Sassanian king of Persia; and when Sapor II besieged Amida in <span class="sc">A.D.</span> 360, his victory over the Roman garrison was won with the aid of Indian elephants and Kushān troops under the command of their aged king Grumbates, who occupied the place of honour, and was supported by the Śakas of Sīstān.[^sec-26-fn-058]
 
 
 <!-- page: 333 | folio: 291 -->
 > _[Margin: Subordinate chiefs.]_
+
 It is difficult to judge how far the foreign chiefs who ruled the Panjāb during the third century, and struck coins similar to those of Vāsudeva, yet with a difference, were Kushāns, and how far they belonged to other Asiatic tribes. The marginal legends of the coins of this class, which are written in a modified Greek script, preserve the name of either Kanishka or Vasu[deva] Kushān,[^sec-26-fn-059] King of Kings, and so recognize the Kushān supremacy; but the name in Indian letters, placed by the side of the spear, is frequently monosyllabic, like a Chinese name, *Bha*, *Ga*, *Vi*, and so forth. These monosyllabic names seem to belong to chiefs of various Central Asian tribes who invaded India and acknowledged the supremacy of the Kushān or Shāhi kings of Kābul. One coin with the modified Kushān obverse, and the names *Pāsana*, *Nu*, *Shilada* in Indian Brāhmī characters in various parts of the field, has on the reverse a fire-altar of the type found on the coins of the earliest Sassanian kings. It is thus clear that in some way or other, during the third century, the Panjāb renewed its ancient connexion with Persia.[^sec-26-fn-060] It is also certain that the later coinage of the Kushāns is clearly connected with that of the Sassanians, a fact which to my mind is fatal to theories which antedate Kanishka and his successors.
 
 > _[Margin: Blank in history of interior India.]_
+
 Nothing definite is recorded concerning the dynasties of Northern India, excluding the Panjāb, during the third century, and the early part of the fourth. The imperial city of Pātaliputra is known to have continued to be a place of importance as late as the fifth century, but there is little indication of the nature of the dynasty which ruled there during the third. Probably, for at any rate the greater portion of the period, the city was under Śaka rule. The [p. 292] high importance attached by the founder of the Gupta era in <span class="sc">a.d.</span> 320 to his alliance with a Lichchhavi princess suggests that during the third century the non-Aryan Lichchhavis of Vaisāli, who appear to have been closely related to the Tibetans, may have held Pātaliputra as tributaries or feudatories of the Kushān dynasty at Peshāwar. The only intelligible dynastic list for the period is that of the Śaka satraps of Western India, whose history will be more conveniently noticed in the next chapter in connexion with that of the Gupta emperors. The period between the extinction of the Kushān and Āndhra dynasties, about <span class="sc">a.d.</span> 220 or 230, and the rise of the imperial Gupta dynasty, nearly a century later, is one of the darkest in the whole range of Indian history.
 
 
@@ -3867,127 +4411,155 @@ Nothing definite is recorded concerning the dynasties of Northern India, excludi
 #### <span class="sc">From A.D.</span> 320 <span class="sc">to</span> 455.
 
 > _[Margin: Origin of the Gupta dynasty.]_
+
 <span class="sc">In</span> the fourth century light again dawns, the veil of oblivion is lifted, and the history of India regains unity and interest.
 
 > _[Locus: <span class="sc">A. D.</span> 308.]_
+
 A local Rāja at or near Pātaliputra, bearing the famous name of Chandra-gupta,[^sec-27-fn-001] wedded, in or about the year 308, a princess named Kumāra Devī, who belonged to the ancient Lichchhavi clan, celebrated ages before in the early annals of Buddhism. During the long period of about eight centuries which intervened between the reign of Ajātasatru and the marriage of Kumāra Devī the history of the Lichchhavis has been lost for the most part, although they are known to have established a dynasty in Nepāl, which used an era believed to run from <span class="sc">A.D.</span> 111.[^sec-27-fn-002] They now come suddenly into notice again in connexion with this marriage, which proved to be an event of the highest political importance, as being the foundation of the fortunes of a dynasty destined to rival the glories of the Mauryas. Kumāra Devī evidently brought to her husband as her dowry valuable influence, which in the course of a few years secured to him a paramount position in Magadha and the neighbouring countries. It seems probable that at the time of this fateful union the Lichchhavis were masters or overlords of the ancient imperial city, and that Chandra-gupta, by means of his matrimonial alliance, succeeded to the power previously held by his wife's relatives. In the olden days the [p. 296] Lichchhavis of Vaisālī had been the rivals of the kings of Pātaliputra, and apparently, during the disturbed times which followed the reign of Pushyamitra, they paid off old scores by taking possession of the city, which had been built and fortified many centuries earlier for the express purpose of curbing their restless spirit.
 
 > _[Margin: <span class="sc">A. D.</span> 320. Lichchhavi alliance ; Chandragupta I. acc.]_
+
 Certain it is that Chandragupta was raised by his Lichchhavi connexion from the rank of a local chief, as enjoyed by his father and grandfather,[^sec-27-fn-003] to such dignity that he felt justified in assuming the lofty title of ‘ Sovereign of Mahārājas ’, usually associated with a claim to the rank of lord paramount. He struck coins in the joint names of himself, his queen, and the Lichchhavis ; and his son and successor habitually described himself with pride as the son of the daughter of the Lichchhavis. Chandra-gupta, designated as the First, to distinguish him from his grandson of the same name, extended his dominion along the Gangetic valley as far as the junction of the Ganges and Jumna, where Allāhābād now stands ; and ruled during his brief tenure of the throne a populous and fertile territory, which included Tirhūt, South Bihār, Oudh, and certain adjoining districts. His political importance was sufficient to warrant him in establishing, after the Oriental manner, a new era dating from his formal consecration or coronation, when he was proclaimed as heir to the imperial power associated by venerable tradition with the possession of Pātaliputra. The first year of the Gupta era, which continued in use for several centuries, and in countries widely separated, ran from February 26, <span class="sc">A.D.</span> 320, to March 13, 321 ; of which dates the former may be taken as that of the coronation of Chandra-gupta I.[^sec-27-fn-004]
 
 
 <!-- page: 339 | folio: 297 -->
 > _[Margin: <span class="sc">A. D.</span> 330 or 335. Samudragupta, acc.]_
+
 Before his death, which occurred perhaps about ten or fifteen years later, Chandra-gupta selected as his successor the Crown Prince, Samudragupta, his son by the Lichchhavi princess.[^sec-27-fn-005] The paternal preference was abundantly justified by the young king, who displayed a degree of skill in the arts of both peace and war which entitles him to high rank among the most illustrious sovereigns of India.
 
 > _[Margin: His aggressive spirit.]_
+
 From the moment of his accession, Samudragupta assumed the part of an aggressively ambitious monarch, resolved to increase his dominions at the expense of his neighbours. Wars of aggression never have been condemned by such public opinion as exists in the East, and no king who cared for his reputation could venture to rest contented within his own borders. Samudragupta had no hesitation in acting on [p. 298] the principle that ‘kingdom-taking’ is the business of kings, and immediately after his succession to the throne plunged into war, which occupied many years of his unusually protracted reign.[^sec-27-fn-006]
 
 > _[Margin: Epigraphic record.]_
+
 When his fighting days were over he employed a learned poet, skilled in the technicalities of Sanskrit verse, to compose a panegyric of his achievements, which he caused to be engraved on one of the stone pillars set up six centuries before by Asoka and incised with his edicts.[^sec-27-fn-007] Samudragupta, an orthodox Hindu, learned in all the wisdom of the Brahmans, and an ambitious soldier full of the joy of battle, although he had been interested as a young man, at his father’s bidding, in the doctrine of Vasubandha, the Buddhist sage, made no scruple about setting his own ruthless boasts of sanguinary wars by the side of the quietest moralizings of him who deemed ‘the chiefest conquest’ to be the conquest of piety.
 
 Samudragupta’s anxiety to provide for the remembrance of his deeds was not in vain. The record composed by his poet-laureate survives to this day practically complete, and furnishes a detailed contemporary account of the events of the reign, probably superior to anything else of the kind in the multitude of Indian inscriptions. Although, unfortunately, the document is not dated, it may be assigned with approximate accuracy to the year <span class="sc">a.d.</span> **360**, or a little later, and is thus, apart from its value as history, of great interest as an important Sanskrit composition, partly in verse and partly in prose, of ascertained age and origin.[^sec-27-fn-008] The value as dated literature of the great historical inscriptions, although emphasized by Bóhler many years ago, is still, perhaps, not fully recognized by scholars who occupy themselves primarily [p. 299] with the books preserved in libraries.[^sec-27-fn-009] But our concern at present in the elaborate composition of Harishena is with its contents as an historical document, rather than with its place in the evolution of Sanskrit, and the exposition of its importance as a linguistic and literary landmark must be left to specialists.
 
 > _[Margin: His various campaigns.]_
+
 The author of the panegyric classifies his lord's campaigns geographically under four heads : as those directed against eleven kings of the south ; nine named kings of Āryāvarta, or the Gangetic plain,[^sec-27-fn-010] besides many others not specified ; the chiefs of the wild forest tribes ; and the rulers of the frontier kingdoms and republics. He also explains Samudragupta's relation with certain foreign powers, too remote to come within the power of his arm. Although it is at present impossible to identify every one of the countries, kings, and peoples enumerated by the poet, and sundry matters of detail remain to be cleared up by future discovery and investigation, enough is known to enable the historian to form a clear idea of the extent of the dominions and the range of the alliances of the most brilliant of the Gupta emperors. The matter of the record being arranged on literary rather than historical principles, it is not possible to narrate the events of the reign in strict chronological order.
 
 > _[Margin: Conquest of Northern India.]_
+
 But we may feel assured that this Indian Napoleon first turned his arms against the powers nearest him, and that he thoroughly subjugated the Rājas of the Gangetic plain, the wide region now known as Hindustan, before he embarked on his perilous adventures in the remote south. His treatment of the Rājas of the north was drastic ; for we are told that they were ' forcibly rooted up ', a process which necessarily involved the incorporation of their territories in the dominions of the victor. Among the nine names mentioned, [p. 300] only one can be recognized with absolute certainty, namely, that of Ganapati Nāga, whose capital was at Padmāvatī, now Padam Pawāyā, 25 miles north-east of the well-known city of Narwar, which is included in the Mahārāja Sindia's dominions.[^sec-27-fn-011]
 
 The greater part of these northern conquests must have been completed, and the subjugated territories absorbed, before Samudragupta ventured to undertake the invasion of the kingdoms of the south; a task which demanded uncommon boldness in design, and masterly powers of organization and execution.
 
 > _[Margin: Conquest of South Kosala and forest tribes.]_
+
 The invader, marching due south from the capital, through Chutiā Nāgpur, directed his first attack against the kingdom of South Kosala in the valley of the Mahānadī, and overthrew its king, Mahendra.[^sec-27-fn-012] Passing on, he subdued all the chiefs of the forest countries, which still retain their ancient wildness, and constitute the tributary states of Orissa and the more backward parts of the Central Provinces. The principal of those chiefs, who bore the appropriate name of Vyāghra Rāja, or the Tiger King, is not otherwise known to history. At this stage of the campaign, the main difficulties must have been those of transport and supply, for the ill-armed forest tribes could not have offered serious military resistance to a well-equipped army.
 
 > _[Margin: Conquests in extreme south.]_
-Still advancing southwards, by the east coast road, Samudragupta vanquished the chieftain who held Pishtapura, the ancient capital of Kalinga, now Pithāpuram in the Godāvarī district, as well as the hill-forts of Mahendragiri and Koṭṭūra in Ganjam; King Mantarāja, whose territory lay on the banks of the Kolleru (Colair) lake; [^sec-27-fn-013] the neighbouring king
+
+Still advancing southwards, by the east coast road, Samudragupta vanquished the chieftain who held Pishtapura, the ancient capital of Kalinga, now Pithāpuram in the Godāvarī district, as well as the hill-forts of Mahendragiri and Koṭṭūra in Ganjam; King Mantarāja, whose territory lay on the banks of the Kolleru (Colair) lake; [^sec-27-fn-013] the neighbouring king [p. 301] of Vengī between the Krishnā and Godāvarī rivers, presumably a Pallava; and Vishnugōpa, the king of Kanchi, or Conjeeveram, to the south-west of Madras, almost certainly a Pallava. Then turning westwards, he subjugated a chieftain, named Ugrasēna, king of Pālakka, a place perhaps situated in the Nellore District.[^sec-27-fn-014]
 
 
 <!-- page: 343 | folio: 301 -->
 
 ![THE CONQUESTS OF SAMUDRAGUPTA, A.D. 340 and the GUPTA EMPIRE, A.D. 400 (TRAVELS OF FA-HIEN.)](../figures/fig-013_p0343.webp)
 
-
-<!-- page: 345 | folio: 301 -->
-of Vengī between the Krishnā and Godāvarī rivers, presumably a Pallava; and Vishnugōpa, the king of Kanchi, or Conjeeveram, to the south-west of Madras, almost certainly a Pallava. Then turning westwards, he subjugated a chieftain, named Ugrasēna, king of Pālakka, a place perhaps situated in the Nellore District.[^sec-27-fn-014]
-
 > _[Margin: Return through Khāndēsh.]_
+
 He returned homewards through the western parts of the Deccan, subduing on his way the kingdom of Devarāshtra, or the modern Mahratta country, and Erandapalla, or Khāndēsh.[^sec-27-fn-015]
 
 This wonderful campaign, which involved two or three thousand miles of marching through difficult country, must have occupied about two years at least, and its conclusion may be dated approximately in <span class="sc">a.d.</span> 350.
 
 > _[Locus: <span class="sc">a. d.</span> 350.]_
 > _[Margin: Rich spoils; parallel of Malik Kāfūr.]_
+
 No attempt was made to effect the permanent annexation of these southern states; the triumphant victor admitting that he only exacted a temporary submission and then withdrew. But beyond doubt he despoiled the rich treasures of the south, and came back laden with golden booty, like the Muhammadan adventurer who performed the same military exploit nearly a thousand years later. Malik Kāfūr, the general of Alā-ud-dīn, Sultan of Delhi, during operations lasting from 1309 to 1311, repeated the performance of Samudragupta, and penetrated even farther south than his Hindu predecessor seems to have done. Malik Kāfūr occupied Madura in April, 1311, and from that base was able to reach Rāmesvarum, or Adam's Bridge, where he built a mosque, which was still standing when Firishta wrote his history in the sixteenth century.[^sec-27-fn-016]
 
 > _[Margin: Tributary frontier states.]_
+
 The enumeration by the courtly panegyrist of the frontier kingdoms and republics whose rulers did homage and paid tribute to the emperor, a title fairly earned by Samudragupta, enables the historian to define the boundaries of his [p. 302] dominions with sufficient accuracy, and to realize the nature of the political divisions of India in the fourth century.
 
 On the eastern side of the continent the tributary kingdoms were Samataṭa, or the delta of the Brahmaputra; Kāmarūpa, or Assam; and Davāka, which seems to have been practically synonymous with Vanga, lying between Karatoya on the west, the Ganges on the south, Meghna on the east, and the Khasi Hills on the north, and including both Dacca and Sunārgāon.[^sec-27-fn-017] Farther west, the mountain kingdom of Nepāl, then, as now, retained its autonomy under the suzerainty of the paramount power, and the direct jurisdiction of the imperial government extended only to the foot of the mountains. The kingdom of Kartripura occupied the lower ranges of the Western Himalayas, including probably Kumāon, Almora, Garhwāl, and Kangra.[^sec-27-fn-018]
 
 > _[Margin: Tribal republics.]_
+
 The Panjāb, Eastern Rājputāna, and Mālwa for the most part were in possession of tribes or clans living under republican, or at any rate oligarchical, institutions.[^sec-27-fn-019] The Yaudhēya tribe occupied both banks of the Sutlaj, while the Mādrakas held the central parts of the Panjāb. The reader may remember that in Alexander's time those regions were similarly occupied by autonomous tribes, then called the Malloi, Kathaioi, and so forth. The Jumna probably formed the north-western frontier of the Gupta empire. The Ārjunāyanas, Mālavas, and Ābhīras were settled in Eastern Rājputāna and Mālwa, and in this direction the river Chambal may be regarded as the imperial boundary. The line next turned in an easterly direction along the territories of minor nations whose position cannot be exactly determined, [p. 303] passing probably through Bhopāl, until it struck the Narmadā river, which formed the southern frontier.
 
-> _[Locus: Limits of empire.]_
+> _[Margin: Limits of empire.]_
+
 The dominion under the direct government of Samudragupta in the middle of the fourth century thus comprised all the most populous and fertile countries of Northern India. It extended from the Brahmaputra on the east to the Jumna and Chambal on the west ; and from the foot of the Himalayas on the north to the Narmadā on the south.
 
 Beyond these wide limits, the frontier kingdoms of Assam and the Gangetic delta, as well as those on the southern slopes of the Himalayas, and the free tribes of Rājputāna and Mālwā, were attached to the empire by bonds of subordinate alliance ; while almost all the kingdoms of the south had been overrun by the emperor's armies and compelled to acknowledge his irresistible might.
 
 > _[Margin: Relations with foreign powers.]_
+
 The empire thus defined was by far the greatest that had been seen in India since the days of Asoka, six centuries before, and its possession naturally entitled Samudragupta to the respect of foreign powers. We are not, therefore, surprised to learn that he maintained diplomatic relations with the foreign Kushān princes of the north-west, whom he grouped together as ‘ Śaka chiefs ’, as well as with Ceylon and other distant islands.
 
 > _[Margin: Embassies from Ceylon.]_
+
 Communication between the king of Ceylon and Samudragupta had been established accidentally about <span class="sc">A.D.</span> 360. Siri Meghavanna (Meghavarṇa), the Buddhist king of Ceylon, whose reign of twenty-seven years is assigned approximately to the period from <span class="sc">A.D.</span> 352 to 379, had sent two monks, one of whom is said to have been his brother, to do homage to the Diamond Throne and visit the monastery built by Asoka to the east of the sacred tree at Bōdh Gayā. The strangers, perhaps by reason of sectarian rancour, met with scant hospitality, and on their return to the island complained to the king that they could not find any place in India where they could stay in comfort. King Meghavarṇa recognized the justice of the complaint, and resolved to remedy the grievance by founding a monastery at which his subjects, when on [p. 304] pilgrimage to the holy places, should find adequate and suitable accommodation. He accordingly dispatched a mission to Samudragupta laden with the gems for which Ceylon has always been renowned, besides other valuable gifts, and requested permission to found a monastery on Indian soil. Samudragupta, flattered at receiving such attentions from a distant power, was pleased to consider the gifts as tribute, and gave the required permission. The envoy returned home, and, after due deliberation, King Meghavarṇa decided to build his monastery near the holy tree. His purpose, solemnly recorded on a copper plate, was carried out by the erection of a splendid convent to the north of the tree. This building, which was three stories in height, included six halls, was adorned with three towers, and surrounded by a strong wall 30 or 40 feet high. The decorations were executed in the richest colours with the highest artistic skill, and the statue of Buddha, cast in gold and silver, was studded with gems. The subsidiary *stūpas*, enshrining relics of Buddha himself, were worthy of the principal edifice. In the seventh century, when Hiuen Tsang visited it, this magnificent establishment was occupied by a thousand monks of the Sthavira school of the Mahāyāna, and afforded ample hospitality to pilgrims from Ceylon. The site is now marked by an extensive mound.[^sec-27-fn-020]
 
 > _[Margin: Horse-sacrifice.]_
+
 It was presumably after his return from the south that Samudragupta determined to celebrate his manifold victories and proclaim the universality of his dominion by reviving the ancient rite of the horse-sacrifice (*aśvamedha*), which had remained long in abeyance, and probably had not been performed in Northern India since the days of Pushyamitra. The ceremony was duly carried out with appropriate [p. 305] splendour, and accompanied by lavish gifts to Brahmans, comprising, it is said, millions of coins and gold pieces. Specimens of the gold medals struck for this purpose, bearing a suitable legend and the effigy of the doomed horse standing before the altar, have been found in small numbers. Another memorial of the event seems to exist in the rudely carved stone figure of a horse which was found in Northern Oudh, and now stands in the Lucknow Museum with traces of a brief dedicatory inscription incised upon it, apparently referring to Samudragupta.[^sec-27-fn-021]
 
-> _[Margin: Personal accomplish- ments of Samudragupta.]_
+> _[Margin: Personal accomplishments of Samudragupta.]_
+
 Although the courtly phrases of the official eulogist cannot be accepted without a certain amount of reservation, it is clear that Samudragupta was a ruler of exceptional capacity and unusually varied gifts. The laureate's commemoration of his hero's proficiency in song and music is curiously confirmed by the existence of a few rare gold coins depicting his majesty comfortably seated on a high-backed couch, engaged in playing the Indian lute.[^sec-27-fn-022] The allied art of poetry was also reckoned among the accomplishments of this versatile monarch, who is said to have been reputed a king of poets, and to have composed numerous metrical works worthy of the reputation of a professional author. We are further informed that the king took much delight in the society of the learned, and loved to employ his acute and polished intellect in the study and defence of the sacred scriptures, as well as in the lighter arts of music and poetry. In his youth he extended his royal favour to Vasubandhu, the celebrated Buddhist author. The picture of Samudragupta as painted by his court poet reminds the reader of that of Akbar as depicted by his no less partial biographer, Abu-l Fazl.
 
 Whatever may have been the exact degree of skill attained [p. 306] by Samudragupta in the practice of the arts which graced his scanty leisure, it is clear that he was endowed with no ordinary powers ; and that he was in fact a man of genius, who may fairly claim the title of the Indian Napoleon. Unfortunately, the portraits on his coins are not sufficiently good to give a clear notion of his personal appearance.
 
 > _[Margin: Recovery of his history.]_
+
 By a strange irony of fate this great king—warrior, poet, and musician—who conquered nearly all India, and whose alliances extended from the Oxus to Ceylon, was unknown even by name to the historians of India until the publication of this work. His lost fame has been slowly recovered by the minute and laborious study of inscriptions and coins during the last eighty years ; and the fact that it is now possible to write a long narrative of the events of his memorable reign is perhaps the most conspicuous illustration of the success gained by patient archaeological research in piecing together the fragments from which alone the chart of the authentic early history of India can be constructed.
 
 > _[Margin: *C.* A. D. 375.]_
+
 The exact year of Samudragupta’s death is not known, but he certainly lived to an advanced age, and enjoyed a reign of uninterrupted prosperity for nearly half a century. Before he passed away, he did his best to secure the peaceful transmission of the crown by nominating as his successor, from among many sons,[^sec-27-fn-023] the offspring of his queen, Datta Devī, whom he rightly deemed worthy to inherit a magnificent empire.
 
 > _[Margin: Chandragupta II, &c.]_
+
 The son thus selected, who probably had been associated as Crown Prince (*yuvarāja*) with his father in the cares of government, assumed the name of his grandfather, in accordance with Hindu custom, and is therefore distinguished in the dynastic list as Chandragupta II. He also took the title of Vikramāditya (‘Sun of Power’), and has a better claim than any other sovereign to be regarded as the original of the mythical king of that name who figures so largely in Indian legends. The precise date of his accession is not recorded, but it cannot be far removed from <span class="sc">A. D.</span> 375 ; and, pending the discovery of some coin or inscription to [p. 307] settle the matter, that date may be assumed as approximately correct. So far as appears, the succession to the throne was accomplished peacefully without contest, and the new emperor, who must have been a man of mature age at the time of his accession, found himself in a position to undertake the extension of the wide dominion bequeathed to him by his ever-victorious father. He did not renew Samudragupta's southern adventures, preferring to seek room for expansion towards the south-west.[^sec-27-fn-024]
 
-> _[Margin: Conquest of Mālwā, Gujarāt, and Kā- thiāwār.]_
-The greatest military achievement of Chandra-gupta Vikramāditya was his advance to the Arabian Sea through Mālwā and Gujarāt, and his subjugation of the peninsula of Surāshtra or Kāthiāwār, which had been ruled for centuries by the Őaka dynasty, of foreign origin, known to European scholars as the Western Satraps.[^sec-27-fn-025] The campaigns which added those remote provinces to the empire must have occupied several years, and are known to have taken place between <span class="sc">a. d.</span> 388 and 401. The year 395 may be assumed as a mean date for the completion of the conquest, which involved the incorporation in the empire of the territory held by the Mālavas and other tribes, who had remained outside the limits of Samudragupta's dominion. The annexation of Surāshtra and Mālwā not only added to the empire provinces of exceptional wealth and fertility, but opened up to the paramount power free access to the ports of the western coast; and thus placed Chandra-gupta II in direct touch with the seaborne commerce with Europe [p. 308] through Egypt, and brought his court and subjects under the influence of the European ideas which travelled with the goods of the Alexandrian merchants. The foreign influence on the literature, art, and science of the Gupta age will be discussed briefly in the next chapter.
+> _[Margin: Conquest of Mālwā, Gujarāt, and Kāthiāwār.]_
+
+The greatest military achievement of Chandra-gupta Vikramāditya was his advance to the Arabian Sea through Mālwā and Gujarāt, and his subjugation of the peninsula of Surāshtra or Kāthiāwār, which had been ruled for centuries by the Śaka dynasty, of foreign origin, known to European scholars as the Western Satraps.[^sec-27-fn-025] The campaigns which added those remote provinces to the empire must have occupied several years, and are known to have taken place between <span class="sc">a. d.</span> 388 and 401. The year 395 may be assumed as a mean date for the completion of the conquest, which involved the incorporation in the empire of the territory held by the Mālavas and other tribes, who had remained outside the limits of Samudragupta's dominion. The annexation of Surāshtra and Mālwā not only added to the empire provinces of exceptional wealth and fertility, but opened up to the paramount power free access to the ports of the western coast; and thus placed Chandra-gupta II in direct touch with the seaborne commerce with Europe [p. 308] through Egypt, and brought his court and subjects under the influence of the European ideas which travelled with the goods of the Alexandrian merchants. The foreign influence on the literature, art, and science of the Gupta age will be discussed briefly in the next chapter.
 
 > _[Margin: The Western Satraps.]_
+
 The so-called 'Western Satraps' comprise two distinct dynasties, ruling in widely separated territories. The Kshaharāta Satraps of Mahārāshtra, with their capital probably at Nāsik in the Western Ghāts, who had established their power at some time in the first century after Christ, were destroyed by Gautamīputra, an Āndhra king, in or about <span class="sc">a. d.</span> 119, their dominions being annexed to the Āndhra monarchy. The second satrapy of the west, founded by the Śaka Chashtana at Ujjain in Mālwa late in the first century after Christ, was immensely extended by Chashtana's grandson, Rudradāman I, who at some date between <span class="sc">a. d.</span> 128 and 150, and probably before <span class="sc">a. d.</span> 130, conquered from Gautamīputra's son, Pulumāyi II, all or nearly all the territory which Gautamīputra had taken from the Kshaharātas a few years earlier. The power of Rudradāman I was thus established not only over the peninsula of Surāshtra, but also over Mālwa, Cutch (Kachchh), Sind, the Konkan, and other districts—in short, over Western India. The capital of Chashtana and his successors was Ujjain, one of the most ancient cities of India, the principal dépôt for the commerce between the ports of the west and the interior, famous as a seat of learning and civilization, and also notable as the Indian Greenwich from which longitudes were reckoned. The place, which is still a considerable town with many relics of its past greatness, retains its ancient name, and was for a time the capital of Mahārāja Sindia.
 
 > _[Margin: Fall of the last satrap.]_
+
 Samudragupta, although not able to undertake the conquest of the west, had received an embassy from the son of another Rudradāman, the satrap Rudrasena, who must have been deeply impressed by the emperor's triumphant march through India. Chandra-gupta II, strong in the possession of the territory and treasure acquired by his father, resolved to crush his western rival, and to annex the valuable provinces [p. 309] which owned the satrap's sway. The motives of an ambitious king in undertaking an aggressive war against a rich neighbour are not far to seek; but we may feel assured that differences of race, creed, and manners supplied the Gupta monarch with special reasons for desiring to suppress the impure foreign rulers of the west. Chandragupta Vikramāditya, although tolerant of Buddhism and Jainism, was himself an orthodox Hindu, specially devoted to the cult of Vishnu, and as such cannot but have experienced peculiar satisfaction in ‘violently uprooting’ foreign chieftains who probably cared little for caste rules. Whatever his motives may have been, he attacked, dethroned, and slew the satrap Rudrasinha, son of Satyasinha, and annexed his dominions. Scandalous tradition affirmed that ‘in his enemy's city the king of the Śakas, while courting another man's wife, was butchered by Chandragupta, concealed in his mistress's dress’;[^sec-27-fn-026] but the tale does not look like genuine history. The last notice of the satraps refers to the year <span class="sc">A. D.</span> 388, and the incorporation of their dominions in the Gupta empire must have been effected soon after that date.
 
 > _[Margin: Character of Chandra-gupta II.]_
+
 The Gupta kings, excepting the founder of the dynasty, all enjoyed long reigns, like the Moghals in later times. Chandra-gupta Vikramāditya occupied the throne for nearly forty years, and survived until <span class="sc">A. D.</span> 413. Little is known concerning his personal character; but the ascertained facts of his career suffice to prove that he was a strong and vigorous ruler, well qualified to govern and augment an extensive empire. He loved sounding titles which proclaimed his martial prowess, and was fond of depicting himself on his coins as engaged in successful personal combat with a lion, after the old Persian fashion.
 
 > _[Margin: The capital.]_
+
 There are indications that Pātaliputra, although it may have been still regarded as the official capital, ceased to be the ordinary residence of the Gupta sovereigns after the completion of the extensive conquests effected by Samudragupta. The Maurya emperors, it is true, had managed to [p. 310] control a dominion very much larger than that of the Guptas from the ancient imperial city, but, even in their time, its remoteness in the extreme east must have caused inconvenience, and a more central position for the court had obvious advantages. Ajodhya, the legendary abode of the hero Rāma, the ruins of which have supplied materials for the building of the modern city of Fyzabād in Southern Oudh, enjoyed a more favourable situation, and appears to have been at times the head-quarters of the government of both Samudragupta and his son, the latter of whom probably had a mint for copper coins there. There is reason to believe that during the fifth century Ajodhya, rather than Pātaliputra, was the premier city of the Gupta empire.
 
 > _[Margin: Kauśāmbī.]_
+
 The Asoka pillar on which Samudragupta recorded the history of his reign is supposed to have been erected originally at the celebrated city of Kausāmbī, which stood on the high road between Ujjain and Northern India, and was no doubt honoured at times by the residence of the monarch.[^sec-27-fn-027] The real capital of an Oriental despotism is the seat of the despot's court for the time being.
 
 > _[Margin: Pāṭaliputra.]_
+
 Pātaliputra, however, although necessarily considerably neglected by warrior kings like Samudragupta and Vikramāditya, continued to be a magnificent and populous city throughout the reign of the latter, and apparently was not ruined until the time of the Hun invasion in the sixth century. When the Chinese pilgrim, Hiuen Tsang, lived in the neighbourhood (640), he found the greater part of the ancient site covered by hundreds of ruins. ‘The city’, he tells us, ‘had long been a wilderness’, save for a small walled town near the Ganges, with about 1,000 inhabitants. Harsha, when he ruled Northern India as paramount sovereign (612–47), made no attempt to restore the old imperial capital, preferring to make Kanauj, situated between the Ganges and Jumna, the seat of his government. Dharmapāla, the second and, perhaps, the most powerful of the Pāla [p. 311] kings of Bengal and Bihar, evidently took some steps to renew the glory of Pātaliputra, because we know that in the thirty-second year of his reign (about <span class="sc">a. d.</span> 811) he held his court there. After that glimpse of the old city, we lose sight of it again until 1541, when it had sunk to the rank of 'a small town, dependent on Bihār, which was the seat of government'. Shēr Shah, being impressed by the strategical advantages of the position, then built a fort at the cost of half a million of rupees. 'Bihār from that date was deserted and fell to ruin, while Patna became one of the largest cities of the province.' The prosperity thus restored by the action of Shēr Shah has never been lost.
 
 In 1912, Patna once more became a capital, as the head-quarters of the newly constituted Province of Bihār and Orissa. The civil station of Bankipore, which forms a suburb of Patna, stands on part of the site of Pātaliputra.[^sec-27-fn-028]
 
 > _[Margin: <span class="sc">a. d.</span> 405–11. Fa-hien.]_
+
 We are fortunate enough to possess in the work of Fa-hien, the earliest Chinese pilgrim, a contemporary account of the administration of Chandra-gupta Vikramāditya, as it appeared to an intelligent foreigner at the beginning of the fifth century. The worthy pilgrim, it is true, was so absorbed in his search for Buddhist books, legends, and miracles that he had little care for the things of this world, and did not trouble even to mention the name of the mighty monarch in whose territories he spent six studious years. But now and then he allowed his pen to note some of the facts of ordinary life, and in more than one passage he has recorded particulars, which, although insufficient to gratify the curiosity of the twentieth century, yet suffice to give a tolerably vivid picture of the state of the country. The picture is a pleasing one on the whole, and proves that Vikramāditya was capable of bestowing on his people the benefits of orderly government in sufficient measure to allow them to grow rich in peace and prosper abundantly.
 
 
 <!-- page: 356 | folio: 312 -->
 > _[Margin: Splendours of Pāṭaliputra.]_
+
 On the occasion of his first visit to Pātaliputra the traveller was deeply impressed by the sight of Asoka's palace, which was at that time still in existence, and so cunningly constructed of stone that the work clearly appeared to be beyond the skill of mortal hands, and was believed to have been executed by spirits in the service of the emperor. Near a great *stūpa*, also ascribed to Asoka, stood two monasteries, one occupied by followers of the Mahāyāna, and the other by those of the Hīnayāna sect. The monks resident in both establishments together numbered six or seven hundred, and were so famous for learning that their lectures were frequented by students and inquirers from all quarters. Fa-hien spent three years here studying Sanskrit, and was made happy by obtaining certain works on monastic discipline as taught by various schools, for which he had sought elsewhere in vain. He describes with great admiration the splendid procession of images, carried on some twenty huge cars richly decorated, which annually paraded through the city on the eighth day of the second month, attended by singers and musicians; and notes that similar processions were common in other parts of the country.[^sec-27-fn-029]
 
 > _[Margin: Free hospital.]_
+
 The towns of Magadha were the largest in the Gangetic plain, which Fa-hien calls by the name of Central India or the Middle Kingdom; the people were rich and prosperous, and seemed to him to emulate each other in the practice of virtue. Charitable institutions were numerous; rest-houses for travellers were provided on the highways, and the capital possessed an excellent free hospital endowed by benevolent and educated citizens.
 
 ‘Hither come’, we are told, ‘all poor or helpless patients suffering from all kinds of infirmities. They are well taken care of, and a doctor attends them; food and medicine being supplied according to their wants. Thus they are made quite comfortable, and when they are well, they may go away.’ [^sec-27-fn-030]
@@ -3995,18 +4567,23 @@ The towns of Magadha were the largest in the Gangetic plain, which Fa-hien calls
 It may be doubted if any equally efficient foundation was [p. 313] to be seen elsewhere in the world at that date; and its existence, anticipating the deeds of modern Christian charity, speaks well both for the character of the citizens who endowed it, and for the genius of the great Asoka, whose teaching still bore such wholesome fruit many centuries after his decease.[^sec-27-fn-031]
 
 > _[Margin: Buddhism.]_
+
 In the course of a journey of some 500 miles from the Indus to Mathurā on the Jumna, Fa-hien passed a succession of Buddhist monasteries tenanted by thousands of monks; and in the neighbourhood of Mathurā found twenty of these buildings occupied by three thousand residents. Buddhism was growing in favour in this part of the country.[^sec-27-fn-032]
 
 > _[Margin: Prosperity of Mālwā.]_
+
 The region to the south of Mathurā, that is to say, Mālwā, specially excited the admiration of the traveller; who was delighted alike with the natural advantages of the country, the disposition of the people, and the moderation of the government. The climate seemed to him very agreeable, being temperate, and free from the discomforts of frost and snow with which he was familiar at home and in the course of his journey. The large population lived happily under a sensible government which did not worry. With a glance at Chinese institutions, Fa-hien congratulates the Indians that ‘they have not to register their households, or attend to any magistrates and rules’. They were not troubled with passport regulations, or, as the pilgrim bluntly puts it: ‘Those who want to go away, may go; those who want to stop, may stop.’ The administration of the criminal law seemed to him mild in comparison with the Chinese system. Most crimes were punished only by fines, varying [p. 314] in amount according to the gravity of the offence, and capital punishment would seem to have been unknown. Persons guilty of repeated rebellion, an expression which probably includes brigandage, suffered amputation of the right hand; but such a penalty was exceptional, and judicial torture was not practised. The revenue was mainly derived from the rents of the crown lands, and the royal officers, being provided with fixed salaries, had no occasion to live on the people.
 
 > _[Margin: Buddhist rule of life.]_
+
 The Buddhist rule of life was generally observed. ‘Throughout the country’, we are told, ‘no one kills any living thing, or drinks wine, or eats onions or garlic[^sec-27-fn-033] . . . they do not keep pigs or fowls, there are no dealings in cattle, no butchers’ shops or distilleries in their market-places.’ The Chaṇḍāla, or outcaste tribes, who dwelt apart like lepers, and were required when entering a city or bazaar to strike a piece of wood as a warning of their approach, in order that other folk might not be polluted by contact with them,[^sec-27-fn-034] were the only offenders against the laws of piety (*dharma*), and the only hunters, fishermen, and butchers. Cowrie shells formed the ordinary currency.[^sec-27-fn-035] The Buddhist monasteries were liberally endowed by royal grants, and the monks received alms without stint—houses, beds, mattresses, food, and clothes were never lacking to them wherever they might go.
 
 > _[Margin: Good government.]_
+
 These particulars, as collected and narrated by the earliest Chinese traveller in India, permit of no doubt that the [p. 315] dominions of Chandra-gupta Vikramāditya were well governed; the authorities interfering as little as possible with the subject, and leaving him free to prosper and grow rich in his own way. The devout pilgrim pursued his Sanskrit studies for three years at Pātaliputra, and for two years at the port of Tāmralipti (Tamlūk), without let or hindrance, and it is clear that the roads were safe for travellers.[^sec-27-fn-036] Fa-hien never has occasion to complain of being stripped by brigands, a misfortune which befell his successor Hiuen Tsang in the seventh century more than once. Probably India has never been governed better, after the Oriental manner, than it was during the reign of Vikramāditya. The government did not attempt to do too much; but let the people alone, and was accordingly popular. The merciful teachings of Buddhism influenced the lives of all classes, except the most degraded; while, inasmuch as the sovereign was a Brahmanical Hindu, the tendency to the harassing kind of persecution, which a Buddhist or Jain government is apt to display, was kept in check, and liberty of conscience was assured. Fa-hien, as a pious devotee, necessarily saw everything through Buddhist spectacles, but it is evident that, with a Brahmanical supreme government, Hinduism of the orthodox kind must have been far more prominent than his account would lead the reader to suppose, and sacrifices must have been permitted. In fact, the Brahmanical reaction against Buddhism had begun at a time considerably earlier than that of Fa-hien's travels; and Indian Buddhism was already upon the downward path, although the pilgrim could not discern the signs of decadence.
 
 > _[Margin: Certain localities unprosperous.]_
+
 While the general prosperity and tranquillity of the empire under the rule of Chandra-gupta Vikramāditya are abundantly proved by the express testimony of Fa-hien, and by his unobstructed movements in all directions during many years, certain districts did not share in the general well-being, and had retrograded in population and wealth.
 
 
@@ -4014,6 +4591,7 @@ While the general prosperity and tranquillity of the empire under the rule of Ch
 The city of Gayā, we are informed, was empty and desolate ; the holy places of Bōdh-Gayā, 6 miles to the south, were surrounded by jungle ; and an extensive tract of country near the foot of the mountains, which had been the seat of a large population in the fifth century <span class="sc">B. C.</span>, was now sparsely inhabited. The great city of Srāvastī, on the upper course of the Rāptī, was occupied by only two hundred families ; and the holy towns of Kapilavastu and Kusinagara were waste and deserted, save for a scanty remnant of monks and their lay attendants, who clung to the sacred spots, and derived a meagre subsistence from the alms of rare pilgrims. The causes of this decay are unknown.[^sec-27-fn-037]
 
 > _[Margin: <span class="sc">A. D.</span> 413. Kumāragupta I, acc.]_
+
 A son of Vikramāditya by one of his queens named Dhruva Devī ascended the throne as a young man in <span class="sc">A. D.</span> 413, and reigned for more than forty years. He is known to history as Kumāragupta I, in order to distinguish him from his great-grandson of the same name. The events of this king's reign are not known in detail, but the distribution of the numerous contemporary inscriptions and coins permits of no doubt that during the greater part of his unusually prolonged rule the empire suffered no diminution.[^sec-27-fn-038] On the contrary, it probably gained certain additions, for Kumāra, like his grandfather, celebrated the horse-sacrifice as an assertion of his paramount sovereignty ; and it is not likely that he would have indulged in this vaunt unless to some extent justified by successful warfare. But the extant records furnish no information concerning specific events, beyond the fact that at the close of his reign, that is to say, in the middle of the fifth century, Kumāra's dominions suffered severely from the irruption of the Hun [p. 317] hordes, who had burst through the north-western passes, and spread in a destructive flood all over Northern India. Before entering upon the discussion of the Hun invasion and the consequent break-up of the Gupta empire, it is desirable to pause, in order to record a few brief observations on the significance of the rule of the great Gupta sovereigns in the evolution of Indian language, literature, art, science, and religion.[^sec-27-fn-039]
 
 
@@ -4074,81 +4652,105 @@ A son of Vikramāditya by one of his queens named Dhruva Devī ascended the thro
 ##### <span class="sc">From A. D.</span> 455 <span class="sc">to</span> 606
 
 > _[Margin: Prevalence of Buddhism from 200 <span class="sc">b.c.</span> to <span class="sc">a. d.</span> 200.]_
+
 <span class="sc">The</span> general prevalence of Buddhism in Northern India, including Kashmīr, Afghanistan, and Suwāt, during the two centuries immediately preceding and the two next following the Christian era, is simply attested by the numerous remains of Buddhist monuments erected during that period, and a multitude of inscriptions, which are almost all either Buddhist or Jain. The Jain cult, which was closely related to the Buddhist, does not appear to have gained very wide popularity, although it was practised with great devotion at certain localities, of which Mathurā was one.
 
 > _[Margin: Hinduism not extinct.]_
+
 But the orthodox Hindu worship, conducted under the guidance of Brahmans, and associated with sacrificial rites abhorrent to Jain and Buddhist sentiment, had never become extinct, and had at all times retained a large share of both popular and royal favour. Kadphises II, the Kushān conqueror, was himself conquered by captive India, and adopted with such zeal the worship of Siva as practised by his new subjects that he constantly placed the image of that Indian god upon his coins, and described himself as his devotee. Many other facts concur to prove the continued worship of the old Hindu gods during the period in which Buddhism unquestionably was the most popular and generally received creed.
 
 > _[Margin: Religion of the foreign kings.]_
+
 In some respects, Buddhism in its Mahāyāna form was better fitted than the Brahmanical system to attract the reverence of casteless foreign chieftains; and it would not be unreasonable to expect that they should have shown [p. 319] a decided tendency to favour Buddhism rather than Brahmanism; but the facts do not indicate any clearly marked general preference for the Buddhist creed on the part of the foreigners. The only distinctively Buddhist coins are the few rare pieces of that kind struck by Kanishka, who undoubtedly, in his later years, liberally patronized the ecclesiastics of the Buddhist church, as did his successor Huvishka; but the next king, Vāsudeva, reverted to the devotion for Siva, as displayed by Kadphises II. So the later Śaka satraps of Surāshtra seem to have inclined personally much more to the Brahmanical than to the Buddhist cult, and they certainly bestowed their patronage upon the Sanskrit of the Brahmans rather than upon the vernacular literature.
 
 > _[Margin: Connexion between Mahāyāna and Hinduism.]_
+
 The development of the Mahāyāna school of Buddhism, which became prominent and fashionable from the time of Kanishka, about the beginning of the second century, was in itself a testimony to the reviving power of Brahmanical Hinduism. The newer form of Buddhism had much in common with the older Hinduism, and the relation is so close that even an expert often feels a difficulty in deciding to which system a particular image should be assigned.
 
 > _[Margin: Revival of Sanskrit.]_
+
 Brahmanical Hinduism was the religion of the pundits, whose sacred language was Sanskrit, a highly artificial literary modification of a vernacular speech of the Panjāb. As the influence of the pundits upon prince and peasant waxed greater in matters of religion and social observance, the use of their special vehicle of expression became more widely diffused, and gradually superseded the vernacular in all documents of a formal or official character. In the third century <span class="sc">b. c.</span> Asoka had been content to address his commands to his people in language easy to be understood by the vulgar; but, in the middle of the second century after Christ, the satrap Rudradāman felt that his achievements could be adequately commemorated only in elaborate Sanskrit. It is impossible to go more deeply into the subject in these pages, and it must suffice to observe that the revival of the Brahmanical religion was accompanied by [p. 320] the diffusion and extension of Sanskrit, the sacred language of the Brahmans.[^sec-28-fn-001]
 
 > _[Margin: The Hindu reaction in Gupta period.]_
+
 Whatever may have been the causes, the fact is abundantly established that the restoration of the Brahmanical religion to popular favour, and the associated revival of the Sanskrit language, became noticeable in the second century, were fostered by the satraps of Gujarāt and Surāshtra during the third, and made a success by the Gupta emperors in the fourth and fifth centuries. These princes, although perfectly tolerant of both Buddhism and Jainism, and in at least three cases personally interested in the former, were themselves beyond question officially orthodox Hindus, usually guided by Brahman advisers, and skilled in Sanskrit, the language of the pundits.[^sec-28-fn-002] An early stage in the reaction against Buddhist condemnation of sacrifice had been marked by Pushyamitra's celebration of the horse-sacrifice towards the close of the second century. In the fourth, Samudragupta revived the same ancient rite with added splendour; and in the fifth, his grandson repeated the solemnity. Without going further into detail, the matter may be summed up in the remark that coins, inscriptions, and monuments agree in furnishing abundant evidence of the recrudescence during the Gupta period of Brahmanical Hinduism at the expense of Buddhism, and of the favour shown by the ruling powers to 'classical' Sanskrit at the expense of the more popular literary dialects, which had enjoyed the patronage of the Āndhra kings.
 
 > _[Margin: Vikramāditya and Kālidāsa.]_
+
 It is probable that the popular legend of Rāja Bikram of Ujjain, the supposed founder of the Vikrama era dating [p. 321] from 58 <span class="sc">b. c.</span>, has been coloured by indistinct memories of the glories of Chandra-gupta II Vikramāditya, who certainly conquered Ujjain towards the close of the fourth century of the Christian era. Tradition associates nine gems of Sanskrit literature with Rāja Bikram, the most resplendent of the nine being Kālidāsa, who is admitted by all critics to be the prince of Sanskrit poets and dramatists. In my judgement it is now established that Kālidāsa lived and wrote in the fifth century, his literary activity extending over a long period, probably not less than thirty years. Although it is difficult to fix the dates of the great poet's career with precision, it appears to be probable that he began to write either late in the reign of Chandra-gupta II or early in the reign of Kumāragupta I. The traditional association of his name with Rāja Bikram of Ujjain is thus justified by sober criticism.[^sec-28-fn-003]
 
 
 <!-- page: 366 | folio: 322 -->
 > _[Margin: Intellectual activity of the Gupta period.]_
+
 The Gupta period, taken in a wide sense as extending from about <span class="sc">A. D.</span> 300 to 650, and meaning more particularly the fourth and fifth centuries, was a time of exceptional intellectual activity in many fields—a time not unworthy of comparison with the Elizabethan and Stuart period in England.[^sec-28-fn-004] In India all the lesser lights are outshone by the brilliancy of Kālidāsa, as in England all the smaller authors are overshadowed by Shakespeare. But, as the Elizabethan literature would still be rich even if Shakespeare had not written, so, in India, if Kālidāsa’s works had not survived, enough of other men’s writings would remain to distinguish his age as extraordinarily fertile in literary achievement.
 
-> _[Locus: Literature.]_
+> _[Margin: Literature.]_
+
 The remarkable drama, entitled *The Little Clay Cart*, one of the most interesting of Indian plays, is now believed to date from the fifth or sixth century, if not from an earlier time. Another equally remarkable play, the *Mudrā-Rākshasa*, which tells the story of the usurpation of the crown by Chandragupta Maurya, probably is at least quite as old. Professor Hillebrandt is inclined to assign its composition to the reign of Chandra-gupta II (*c.* <span class="sc">A. D.</span> 400).
 
 The *Vāyu Purāna*, one of the oldest of the eighteen Purānas, clearly should be attributed in its existing form to the first half of the fourth century, and the Laws of Manu, as we now know the book, may be dated from about the beginning of the Gupta period. Without going further into detail, and so trespassing on the domain of the historian of Sanskrit literature, it may suffice to cite Professor R. G. Bhandarkar’s observation that the period was distinguished by ‘a general literary impulse’, the effects of which were visible in poetry, as well as in law books and many other forms of literature.
 
 > _[Margin: Science.]_
+
 In the field of mathematical and astronomical science the Gupta age is adorned by the illustrious names of Āryabhata (born <span class="sc">A. D.</span> 476) and Varāhamihira (died <span class="sc">A. D.</span> 587). Mr. Kaye, a competent authority, holds that ‘the period when [p. 323] mathematics flourished in India commenced about <span class="sc">a. d.</span> 400 and ended about <span class="sc">a. d.</span> 650, after which deterioration set in.’ [^sec-28-fn-005]
 
 > _[Margin: Art; architecture.]_
+
 We have seen how Samudragupta practised and encouraged music. The other arts, too, shared the favour of the Gupta kings and prospered under their intelligent patronage. The accident that nearly the whole of the Gupta empire was repeatedly overrun and permanently occupied by Muslim armies, which rarely spared a Hindu building, accounts for the destruction of almost all large edifices of the Gupta age. But the researches of recent years have disclosed abundant evidence of the former existence of numerous magnificent buildings, both Buddhist and Brahmanical, which had been erected in the fifth and sixth centuries. A few specimens of architectural compositions on a considerable scale may still be seen in out-of-the-way places, which lay apart from the track of the hosts of Islam, and the surviving miniature shrines of the period are fairly numerous. Enough is known to justify the assertion that the art of architecture was practised on a large scale with eminent success.
 
 > _[Margin: Sculpture, painting, and diecutting.]_
+
 The allied art of sculpture, usually cultivated in India as an accessory to architecture, attained a degree of perfection not recognized until recently. The best examples, indeed, are so good that they may fairly claim the highest rank among the efforts of Indian sculptors. Painting, as exemplified by some of the best frescoes at Ajanṭā and the cognate works at Sīgiriya in Ceylon (<span class="sc">a. d.</span> 479–97), was practised with equal, or, perhaps, greater success. Certain gold Gupta coins are the only pieces issued by Hindu kings entitled to rank as works of art.
 
 > _[Margin: Causes of the activity of the Gupta period.]_
+
 It is apparent, therefore, that the rule of the able and long-lived monarchs of the Gupta dynasty coincided with an extraordinary outburst of intellectual activity of all [p. 324] kinds. The personal patronage of the kings no doubt had much effect, but deeper causes must have been at work to produce such results. Experience proves that the contact or collision of diverse modes of civilization is the most potent stimulus to intellectual and artistic progress, and, in my opinion, the eminent achievements of the Gupta period are mainly due to such contact with foreign civilizations, both on the east and on the west. The evidence as to the constant interchange of communications with China is abundant, and although the external testimony to intercourse with the Roman empire is less copious, the fact of such intercourse is indisputable. The conquest of Mālwā and Surāshtra or Kāthiāwār by Chandra-gupta II Vikramāditya, towards the close of the fourth century, opened up ways of communication between Upper India and western lands which gave facilities for the reception of European ideas. The influence of the Alexandrian schools on the astronomy of Āryabhata is undoubted, and the imitation of Roman coins by Gupta kings is equally obvious. In art and literature the proof of the action of foreign influence is necessarily more difficult, but in my judgement the reality of that action is well established. It is difficult, for instance, to deny the relationship between the sculpture of the Sleeping Vishnu at Deogarh and the class of Graeco-Roman works represented by the Endymion at Stockholm. It is impossible to pursue the subject further in this place, but the references in the note will enable any inquirer interested to follow up the cumulative proofs that the remarkable intellectual and artistic output of the Gupta period was produced in large measure by reason of the contact between the civilization of India and that of the Roman empire. Some critics have thought that Chinese ideas may be traced in the Ajantā frescoes, and they may be right.[^sec-28-fn-006]
 
 
 <!-- page: 369 | folio: 325 -->
 > _[Margin: Religion.]_
+
 Comparison of the notes recorded by Fa-hien, the first Chinese pilgrim, at the beginning of the fifth, and by his great successor, Hiuen Tsang, in the first half of the seventh century, proves beyond question that Buddhism suffered a gradual decay during the Gupta period. But that decay was hardly discernible by people living in those ages, who saw a powerful and wealthy monastic order continuously wielding immense influence and housed in splendid convents. The discovery of the numerous remains of magnificent Buddhist monasteries of Gupta age has been one of the surprises of archaeological research. The Gupta kings, although officially Brahmanical Hindus with a special devotion to Vishnu, followed the usual practice of ancient India in looking with a favourable eye on all varieties of Indian religion. The first Chandra-gupta, who had been a follower of the Sānkhya philosophy, afterwards listened with conviction to the arguments of Vasubandhu, the Buddhist sage, to whose instruction he commended his son and heir, Samudragupta. At a later time, Naragupta Bālāditya, who erected handsome buildings at Nālandā, the [p. 326] ecclesiastical capital of the church, was regarded by Hiuon Tsang as having been a fervent Buddhist.[^sec-28-fn-007]
 
 > _[Margin: The Pushyamitra war.]_
+
 The golden age of the Guptas comprised a period of a century and a quarter (<span class="sc">A. D.</span> 330–455), covered by three reigns of exceptional length. The death of Kumāragupta I, which can be fixed definitely as having occurred early in 455, marks the beginning of the decline and fall of the empire. Even before his death, his kingdom had become involved, about the year 450, in serious distress by a war with a rich and powerful nation named Pushyamitra, otherwise almost unknown to history.[^sec-28-fn-008] The imperial armies were defeated, and the shock of military disaster had endangered the stability of the dynasty, which was ‘tottering’ to its fall, when the energy and ability of Skandagupta, the Crown Prince, restored the fortunes of his family by effecting the overthrow of the enemy. A small detail recorded by the contemporary document indicates the severity of the struggle; for we are told that the heir-apparent, while preparing to retrieve the calamities of his house, was obliged to spend a night sleeping on the bare ground.
 
 > _[Margin: Defeat of the Huns.]_
+
 When Skandagupta came to the throne, in the spring of 455, he encountered a sea of troubles. The Pushyamitra danger had been averted, but one more formidable closely followed it, an irruption of the savage Huns, who had poured down from the steppes of Central Asia through the north-western passes, and carried devastation over the smiling plains and crowded cities of India. Skandagupta, who probably was a man of mature years and ripe experience, proved equal to the need, and inflicted upon the barbarians a defeat so decisive that India was saved for a time. His mother still lived, and to her the hero hastened [p. 327] with the news of his victory, ‘just as Krishna, when he had slain his enemies, betook himself to his mother Dēvakī.’ Having thus paid his duty to his living parent, the king sought to enhance the religious merit of his deceased father by the erection of a pillar of victory, surmounted by a statue of the god Vishnu, and inscribed with an account of the delivery of his country from barbarian tyranny through the protection of the gods.[^sec-28-fn-009]
 
 > _[Margin: The western provinces.]_
+
 It is evident that this great victory over the Huns must have been gained at the very beginning of the new reign; because another inscription, executed in the year 458, recites Skandagupta's defeat of the barbarians, and recognizes his undisputed possession of the peninsula of Surāshtra (Kāthiāwār), at the western extremity of the empire. The king had appointed as viceroy of the west an officer named Parnadatta, the possessor of all the virtues, according to the official poet; and the viceroy gave the responsible post of governor of the capital city, Jūnāgarh, to his own son, who distinguished his tenure of office by rebuilding the ancient embankment of the lake under the Girnār hill, which had again burst with disastrous results in the year of Skandagupta's accession. The benevolent work was completed in the following year, and consecrated a year later by the erection of a costly temple of Vishnu.[^sec-28-fn-010]
 
 > _[Margin: The eastern provinces.]_
+
 The dedication three years afterwards by a private Jain donor of a sculptured column at a village in the east of the Gorakhpur district, distant about 90 miles from Patna, testifies to the fact that Skandagupta's rule at this early period of his reign included the eastern as well as the western provinces.[^sec-28-fn-011]
 
 > _[Margin: The central provinces.]_
+
 Five years later, in the year 465, the dedication of a temple to the Sun, in the country between the Ganges and Jumna [p. 328] now known as the Bulandshahr District, made by a pious Brahman in the reign of Skandagupta, described in the customary language as ‘augmenting and victorious’, indicates that the central portion of the empire also enjoyed a settled government.[^sec-28-fn-012] The conclusion therefore is legitimate that the victory over the barbarian invaders was gained at the beginning of the reign, and was sufficiently decisive to secure the general tranquillity of all parts of the empire for a considerable number of years.
 
 > _[Margin: <span class="sc">c. a. d.</span> 465–70. Renewed Hun invasion.]_
+
 But, about <span class="sc">a. d.</span> 465, a fresh swarm of nomads poured across the frontier, and occupied Gandhāra, or the north-western Panjāb, where a ‘cruel and vindictive’ chieftain usurped the throne of the Kushāns, and ‘practised the most barbarous atrocities’.[^sec-28-fn-013] A little later, about 470, the Huns advanced into the interior, and again attacked Skandagupta in the heart of his dominions. He was unable to continue the successful resistance which he had offered in the earlier days of his rule, and was forced at last to succumb to the repeated attacks of the foreigners; who were, no doubt, constantly recruited by fresh hordes eager for the plunder of India.
 
 > _[Margin: Debasement of the currency.]_
+
 The financial distress of Skandagupta’s administration is plainly indicated by the abrupt debasement of the coinage in his latter years. The gold coins of his early and prosperous days agree in both weight and fineness with those of his ancestors, but the later issues, while increased in gross weight, so as to suit the ancient Hindu standard of the *suvarṇa*, exhibit a decline in the amount of pure gold in each piece from 108 to 73 grains.[^sec-28-fn-014] This marked lowering of the purity of the currency, which was accompanied by a corresponding degradation in the design and execution of [p. 329] the dies, evidently was caused by the difficulty which the treasury experienced in meeting the cost of the Hun war.
 
 > _[Margin: <span class="sc">c. A. D.</span> 467. Puragupta, acc.]_
+
 The death of Skandagupta, who assumed the title Vikramāditya like so many Indian kings, may be assumed to have occurred about the year 467. When he passed away, the empire perished, but the dynasty remained, and was continued in the eastern provinces for several generations. Skanda left no heir male capable of undertaking the cares of government in a time of such stress, and was accordingly succeeded on the throne of Magadha and the adjacent districts by his brother, Puragupta, the son of Kumāragupta I by Queen Ānanda.[^sec-28-fn-015]
 
 > _[Margin: Reform of currency.]_
+
 This prince, whose reign in Magadha possibly synchronized with that of Skandagupta, survived his brother for a very brief period. The only event which can be assigned to his reign is a bold attempt to restore the purity of the coinage. The rare gold coins, bearing on the reverse the title Prakāsāditya, which are generally ascribed to Puragupta, although retaining the gross weight of the heavy *suvarṇa*, contain each 121 grains of pure gold, and are thus equal in value to the *aurei* of Augustus, and superior in intrinsic value to the best Kushān or early Gupta coins.[^sec-28-fn-016]
 
 > _[Margin: <span class="sc">c. A. D.</span> 467 to 473. Narasimhagupta Bālāditya.]_
+
 Puragupta was succeeded, about <span class="sc">A. D.</span> 467, by his son Narasimhagupta, who gave public proof of his partiality for Buddhism by building at Nālandā, in Magadha, the principal seat of Buddhist learning in Northern India, a brick temple more than 300 feet high, according to Hiuen Tsang, which was remarkable for the delicacy of its decorations and the lavish use of gold and gems in its furniture.[^sec-28-fn-017]
 
 
@@ -4156,58 +4758,75 @@ Puragupta was succeeded, about <span class="sc">A. D.</span> 467, by his son Nar
 The vigorous and successful action taken by Bālāditya to resist the tyranny of the Huns will be described presently.
 
 > _[Margin: <span class="sc">c. a. d.</span> 473. Kumāragupta II.]_
+
 Narasimhagupta was succeeded by his son, Kumāragupta II, to whose time the fine seal of alloyed silver found at Bhitarī in the Ghāzīpur District belongs.[^sec-28-fn-018] According to the chronology here followed, Kumāragupta II must have been very young when he came to the throne, and cannot have reigned for more than a year or two, in view of the fact that a prince named Budhagupta is acknowledged in a Sārnāth image inscription as the reigning sovereign in <span class="sc">a. d.</span> 476. The dominions of Kumāragupta II, like those of his father and grandfather, were evidently restricted to the eastern provinces of the empire of his earlier ancestors.
 
 > _[Margin: <span class="sc">c. a. d.</span> 473–500. Budhagupta.]_
+
 The precise identity of Budhagupta is as yet undetermined. He may possibly have been governor of Mālwā under Skandagupta, and after disowning allegiance to Narasimhagupta and Kumāragupta II, whose hold on Mālwā was doubtless precarious, have finally overthrown Kumāragupta II. It seems tolerably certain that his stronghold was in Mālwā, that his sway there lasted till <span class="sc">a. d.</span> 494, if not later, and that by <span class="sc">a. d.</span> 476 he was in possession of Benares.[^sec-28-fn-019]
 
 > _[Margin: The Later Guptas of Magadha; the Maukharis.]_
+
 The imperial line passes by an obscure transition into a dynasty comprising eleven Gupta princes, who appear to have been for the most part merely local rulers in Magadha. These ‘Later Guptas of Magadha’, as they are called by archaeologists, shared the rule of that province with another dynasty of Rājas, who had names ending in *-varman*, and [p. 331] belonged to a clan called Maukhari. The territorial division between the two dynasties cannot be defined precisely, but the Maukhari dominion in the middle of the sixth century included Oudh. Their relations with one another were sometimes friendly and sometimes hostile, but the few details known are of little importance.[^sec-28-fn-020]
 
-> _[Locus: Chinese Buddhist mission.]_
+> _[Margin: Chinese Buddhist mission.]_
+
 The political decadence of Magadha never affected the reputation of the kingdom as the centre and head-quarters of Buddhist learning, which continued to be cultivated sedulously at Nālandā and other places under the Pāla kings up to the time of the Muhammadan conquest at the close of the twelfth century, when the monasteries with their well-stocked libraries were reduced to ashes. A good illustration of the reverence with which the Buddhist Holy Land continued to be regarded in the later Gupta age by foreign students of the doctrine of Gautama is afforded by the fact that, in the year <span class="sc">a. d.</span> 539, Wu-ti, or Hsiao Yen, the first Liang emperor of China and an ardent Buddhist, sent a mission to Magadha for the purpose of collecting original Mahāyānist texts and obtaining the services of a scholar competent to translate them. The local king, probably either Jīvitagupta I or Kumāragupta, gladly complied with the wishes of his imperial correspondent, and placed the learned Paramārtha at the disposal of the mission, which seems to have spent several years in India. Paramārtha then went to China, taking with him a large collection of manuscripts, many of which he translated. He arrived in the neighbourhood of Canton in <span class="sc">a. d.</span> 546, was presented to the emperor in 548, and died in China in 569, at the age of seventy. It was in the reign of the same emperor (502–49) that Bodhidharma, the son of a king in Southern India, and reckoned as the twenty-eighth Indian and first Chinese patriarch, came to China in <span class="sc">a. d.</span> 520, and after a short stay at Canton, settled at Lo Yang. His miracles are a favourite subject of Chinese artists.[^sec-28-fn-021]
 
 
 <!-- page: 376 | folio: 332 -->
 > _[Margin: Ādityasena ; Jīvitagupta II.]_
+
 The most notable member of the Later Gupta dynasty[^sec-28-fn-022] was Ādityasena, who asserted his independence after the death of the paramount sovereign, Harsha, in <span class="sc">a. d.</span> 647, and even presumed to celebrate the horse-sacrifice in token of his claim to supreme rank. The last known Rāja of the dynasty was Jīvitagupta II, who reigned early in the eighth century. About the end of that century, or at the beginning of the ninth, Magadha passed under the sway of the Pāla kings of Bengal, whose history will be noticed in a subsequent chapter.
 
 > _[Margin: <span class="sc">a. d.</span> 510. Bhānugupta.]_
+
 In addition to the records of Budhagupta, who seems to have belonged to the imperial line and to have acquired the sovereignty of the northern provinces, we find in the western province of Mālwā records of a Rāja named Bhānugupta, who at the beginning of the sixth century occupied a dependent position and presumably was subordinate to the Hun chieftains.
 
 > _[Margin: Dynasty of Valabhī. *c.* <span class="sc">a. d.</span> 490–770.]_
+
 Towards the close of the fifth century, a chief named Bhatārka, who belonged to a clan called Maitraka,[^sec-28-fn-023] probably of foreign origin, established himself at Valabhī in the east of the peninsula of Surāshtra (Kāthiāwār), and founded a dynasty which lasted until about <span class="sc">a. d.</span> 770, when it is supposed to have been overthrown by Arab invaders from Sind. The earlier kings of Valabhī do not appear to have been independent, and were doubtless obliged to pay tribute to the Huns; but, after the destruction of the Hun domination, the lords of Valabhī asserted their independence, and made themselves a considerable power in the west of India, both on the mainland and in the peninsula of Surāshtra. The city was a place of great wealth when visited by Hiuen Tsang in the seventh century, and was famous in Buddhist church history as having been the residence of two distinguished teachers, Gunamati and Sthiramati, in the sixth [p. 333] century. I-tsing, a junior contemporary of Hiuen Tsang, tells us that in his time Nālandā in South Bihār and Valabhī were the two places in India which deserved comparison with the most famous centres of learning in China, and were frequented by crowds of eager students, who commonly devoted two or three years to attendance at lectures on Buddhist philosophy. This statement explains the assertion of Hiuen Tsang that Mo-la-p‘o, or Western Mālava, and Magadha were the two countries of India in which learning was prized, because Valabhī and Mo-la-p‘o were then politically one, both territories apparently being under the government of Dhruvabhata, the son-in-law of King Harsha, paramount sovereign of Northern India. After the overthrow of Valabhī, its place as the chief city of Western India was taken by Anhilwāra (Nahrwālah, or Pātan), which retained that honour until the fifteenth century, when it was superseded by Ahmadābād.[^sec-28-fn-024] The above observations will, perhaps, be sufficient to give the reader a notion of the way in which some of the fragments of the Gupta empire were apportioned among various native dynasties.
 
 > _[Margin: Two streams of Hun migration.]_
+
 But the Huns, the foreign savages who shattered that empire, and dominated a large part of it for a short period, merit more explicit notice. The nomad tribes known as Huns, when they moved westwards from the steppes of Asia to seek subsistence for their hungry multitudes in other climes, divided into two main streams, one directed towards the valley of the Oxus, and the other to that of the Volga.
 
 > _[Margin: The Huns in Europe ; Attila.]_
+
 The latter poured into Eastern Europe in <span class="sc">a. d.</span> 375, forcing the Goths to the south of the Danube, and thus [p. 334] indirectly causing the sanguinary Gothic war, which cost the Emperor Valens his life in <span class="sc">a. d.</span> 378. The Huns quickly spread over the lands between the Volga and the Danube ; but, owing to chronic disunion and the lack of a great leader, failed to make full use of their advantageous position until Attila appeared, and for a few years welded the savage mass into an instrument of such power that he was ' able to send equal defiance to the courts of Ravenna and Constantinople '.[^sec-28-fn-025]
 
 > _[Margin: c. <span class="sc">a. d.</span> 470.]_
+
 His death, in <span class="sc">a. d.</span> 453, severed the only bond which held together the jealous factions of the horde, and within a space of twenty years after that event the Hunnic empire in Europe was extinguished by a fresh torrent of barbarians from Northern Asia.
 
 > _[Margin: <span class="sc">a. d.</span> 455-84. White Huns of Oxus valley.]_
+
 The Asiatic domination of the Huns lasted longer. The section of the horde settled in the Oxus valley, and probably different in race, became known as the Ephthalites or White Huns, and gradually overcame the resistance of Persia, which ceased when King Fīrōz was killed in <span class="sc">a. d.</span> 484. Swarms of these White Huns also assailed the Kushān kingdom of Kābul, and thence poured into India. The attack repelled by Skandagupta in <span class="sc">a. d.</span> 455 must have been delivered by a comparatively weak body, which arrived early, and failed to effect a lodgement in the interior.[^sec-28-fn-026]
 
 > _[Margin: <span class="sc">a. d.</span> 500. Toramāṇa.]_
+
 About ten years later the nomads, having appeared in greater force, overwhelmed the kingdom of Gandhāra, or Peshāwar ; and starting from that base, as already related, penetrated into the heart of the Gangetic provinces, and overthrew the Gupta empire.[^sec-28-fn-027] The collapse of Persian opposition in 484 must have greatly facilitated the eastern movement of the horde, and allowed immense multitudes to cross the Indian frontier. The leader in this invasion of India, which, no doubt, continued for years, was a chieftain [p. 335] named Toramāna, who is known to have been established as ruler of Mālwā in Central India prior to <span class="sc">A. D.</span> 500. He assumed the style and titles of an Indian ‘sovereign of *māhārājas*’; and Bhānugupta, as well as the king of Valabhī and many other local princes, must have been his tributaries.[^sec-28-fn-028]
 
 > _[Margin: *c.* <span class="sc">A. D.</span> 502. Mihiragula, acc.]_
+
 When Toramāna died, about <span class="sc">A. D.</span> 502, the Indian dominion which he had acquired was consolidated sufficiently to pass to his son Mihiragula, whose capital in India was Sākala, the modern Siālkot, in the Panjāb.[^sec-28-fn-029]
 
 > _[Margin: Extent of Hun empire in Asia.]_
+
 India at this time was only one province of the Hun empire. The head-quarters of the horde were at Bāmyin in Bādhaghīs near Herāt, and the ancient city of Balkh served as a secondary capital.[^sec-28-fn-030] The Hun king, to whose court, whether at Bāmyin or Herāt cannot be determined, Song-Yun, the Chinese pilgrim-envoy, paid a visit in <span class="sc">A. D.</span> 519, was a powerful monarch levying tribute from forty countries, extending from the frontier of Persia, on the west, to Khotan on the borders of China in the east. This king was either Mihiragula himself, or his contemporary overlord, more probably the latter. The local Hun king of Gandhāra, to whom Song-Yun paid his respects in the following year, <span class="sc">A. D.</span> 520, must be identified with Mihiragula. He was then engaged in a war with the king of Kashmīr (Ki-pin), which had already lasted for three years.[^sec-28-fn-031]
 
 
 <!-- page: 380 | folio: 336 -->
 > _[Margin: Gollas.]_
+
 With reference apparently to the same date approximately, the monk Cosmas Indicopleustes, who wrote a curious book in <span class="sc">A. D.</span> 547, describes a White Hun king, whom he calls Gollas, as being lord of India, from which he exacted tribute by oppression, enforcing his demands with the aid of two thousand war elephants and a great host of cavalry. This king, Gollas, certainly must have been Mihiragula.[^sec-28-fn-032]
 
 > _[Margin: Tyranny of Mihiragula.]_
+
 All Indian traditions agree in representing Mihiragula as a bloodthirsty tyrant, ‘the Attila of India,’ stained to a more than ordinary degree with the ‘implacable cruelty’ noted by historians as characteristic of the Hun temperament.[^sec-28-fn-033] Indian authors having omitted to give any detailed description of the savage invaders who ruthlessly oppressed their country for three-quarters of a century, recourse must be had to European writers to obtain a picture of the devastation wrought and the terror caused to settled communities by the fierce barbarians.
 
 > _[Margin: Description of the Huns.]_
+
 The original accounts are well summarized by Gibbon :—
 
 > ‘The numbers, the strength, the rapid motions, and the implacable cruelty of the Huns were felt, and dreaded, and magnified by the astonished Goths; who beheld their fields and villages consumed with flames, and deluged with indiscriminate slaughter. To these real terrors, they added the surprise and abhorrence which were excited by the shrill voice, the uncouth gestures, and the strange deformity of the Huns. . . . They were distinguished from the rest of the human species by their broad shoulders, flat noses, and small black eyes deeply buried in the head; and, as they were [p. 337] almost destitute of beards, they never enjoyed the manly graces of youth or the venerable aspect of age.’[^sec-28-fn-034]
@@ -4215,48 +4834,63 @@ The original accounts are well summarized by Gibbon :—
 The Indians, like the Goths, experienced to the full the miseries of savage warfare, and suffered an added horror by reason of the special disgust felt by fastidious, castebound Hindus at the repulsive habits of barbarians to whom nothing was sacred.
 
 > _[Margin: <span class="sc">c. a. d.</span> 528. Defeat of Mihiragula.]_
+
 The cruelty practised by Mihiragula became so unbearable that the native princes, under the leadership of Yasodharman, a Rāja of Central India, appear to have formed a confederacy against the foreign tyrant.[^sec-28-fn-035] About the year <span class="sc">a. d.</span> 528, they accomplished the delivery of their country from oppression by inflicting a decisive defeat on Mihiragula.
 
 > _[Margin: Mihiragula in Kashmīr.]_
+
 Meanwhile, according to the testimony of Hiuen Tsang, Mihiragula’s younger brother had taken advantage of the misfortunes of the head of the family to usurp the throne of Sākala, which he was unwilling to surrender. Mihiragula, after spending some time in concealment, took refuge in Kashmīr, where he was kindly received by the king, who placed him in charge of a small territory. The exile submitted to this enforced retirement for a few years, and then took an opportunity to rebel and seize the throne of his benefactor. Having succeeded in this enterprise, he attacked the neighbouring kingdom of Gandhāra. The king, perhaps himself a Hun, was treacherously surprised and slain, the royal family was exterminated, and multitudes of people were slaughtered on the banks of the Indus. The savage invader, who worshipped as his patron deity Siva, the god of destruction, exhibited ferocious hostility against the peaceful Buddhist cult, and remorselessly overthrew the *stūpas* and monasteries, which he plundered of their treasures.
 
 > _[Margin: Death of Mihiragula.]_
+
 But he did not long enjoy his ill-gotten gains. Before the year was out he died ; and ‘ at the time of his death there were thunder and hail and a thick darkness, and the earth shook and a mighty tempest raged. And the holy [p. 338] saints said in pity : “ For having killed countless victims and overthrown the law of Buddha, he has now fallen into the lowest hell, where he shall pass endless ages of revolution ” ’. Thus the tyrant met the just reward of his evil deeds in another world, if not in this. The date of his death is not known exactly, but the event must have occurred in or about the year 542, just a century before Hiuen Tsang was on his travels. The rapidity of the growth of the legend concerning the portents attending the tyrant's death, though perhaps in a measure due to *odium theologicum*, emphasizes the depth of the impression made by his outlandish cruelty ; which is further attested by the Kashmīr tale of the fiendish pleasure which he is believed to have taken in rolling elephants down a precipice.[^sec-28-fn-036]
 
 > _[Margin: Yaśodharman.]_
+
 Yasodharman, the Central Indian Rāja, who has been mentioned as having taken an active part in the supposed confederacy formed to obtain deliverance from the tyranny of Mihiragula, is known from three inscriptions only, and is not mentioned by Hiuen Tsang, who wrongly gives the sole credit for the victory over the Huns to Bālāditya, king of Magadha.[^sec-28-fn-037] Yasodharman erected two columns of victory inscribed with words commemorating the defeat of the foreign invaders. In these records he claims to have brought under his sway lands which even the Guptas and Huns [p. 339] could not subdue, and to have been master of Northern India from the Brahmaputra to the Western Ocean, and from the Himalaya to Mount Mahendra, which probably should be understood to mean the southernmost peak (Mahendragiri) of the Travancore Ghāts. But the indefinite, conventional expression of the boasts suggests that Yasodharman made the most of his achievements, and that his court poet was no stranger to Oriental hyperbole. Nothing whatever is known about either his ancestry, or his successors ; his name stands alone and unrelated. His reign may have covered roughly the first half of the sixth century, but its precise duration is unknown ; and his claim to fame rests solely upon his magniloquent inscriptions.[^sec-28-fn-038]
 
 > _[Margin: *c.* <span class="sc">a. d.</span> 565. Fall of the Hun empire in Asia.]_
+
 The dominion of the White Huns in the Oxus valley did not long survive the defeat and death of Mihiragula in India. The arrival of the Turks in the middle of the sixth century changed the situation completely. The Turkish tribes, having vanquished a rival horde called Joan-joan, made an alliance with Khusrū Anūshīrvān, king of Persia, grandson of Fīrōz, who had been killed by the Huns in <span class="sc">a. d.</span> 484, and the allies at some date between 563 and 567 destroyed the White Huns. For a short time the Persians held Balkh and other portions of the Hun territory ; but the gradual weakening of the Sassanian power soon enabled the Turks to extend their authority towards the south as far as Kapisa, and annex the whole of the countries which had been included in the Hun empire.[^sec-28-fn-039]
 
 > _[Margin: Connotation of Hūna.]_
+
 In later Sanskrit literature the term 'Hun' (*Hūna*) is employed in a very indeterminate sense to denote a foreigner from the north-west, in the same way as the word *Yavana* had been employed in ancient times, and as *Wilāyatī* is now understood. One of the thirty-six so-called 'royal' Rājpūt clans actually was given the name of Hūna.[^sec-28-fn-040] This [p. 340] vagueness of connotation raises some doubt as to the exact meaning of the term Hūna as applied to the clans on the north-western frontier against whom Harsha of Thānēsar and his father waged incessant war at the close of the sixth and the beginning of the seventh century. But it is unlikely that within fifty years of Mihiragula’s defeat the true meaning of Hūna should have been forgotten; and the opponents of Harsha may be regarded as having been outlying colonies of real Huns, who had settled among the hills on the frontier.
 
 > _[Margin: The Gurjaras.]_
+
 The Hūnas are often mentioned in books and inscriptions in connexion with the Gurjaras, whose name survives in the modern Gūjars, a caste widely distributed in North-western India. The early Gurjaras seem to have been foreign immigrants, closely associated with, and possibly allied in blood to the White Huns. They founded a considerable kingdom in Rājputāna, the capital of which was Bhilmāl or Srīmāl, about 50 miles to the north-west of Mount Ābū. In course of time the Gurjara-Pratihāra kings of Bhilmāl conquered Kanauj and became the paramount power in Northern India, as will be related in the fourteenth chapter. The minor Gurjara kingdom of Bharōch (Broach) was an offshoot of the Bhilmāl monarchy.
 
 > _[Margin: Origin of the Rājpūt clans.]_
+
 In this place I desire to draw attention to the fact, long suspected and now established by good evidence, that the foreign immigrants into Rājputāna and the upper Gangetic provinces were not utterly destroyed in the course of their wars with the native powers. Many, of course, perished, but many more survived, and were merged in the general population, of which no inconsiderable part is now formed by their descendants. The foreigners, like their forerunners the Śakas and Yüe-chi, universally yielded to the wonderful assimilative power of Hinduism, and rapidly became Hinduized. Clans or families which succeeded in winning chieftainship were admitted readily into the frame of Hindu polity as Kshatriyas or Rājpūts, and there is no doubt that the Parihārs and many other famous Rājpūt clans of the [p. 341] north were developed out of the barbarian hordes which poured into India during the fifth and sixth centuries. The rank and file of the strangers became Gūjars and other castes, ranking lower than the Rājpūts in the scale of precedence. Farther to the south, various indigenous, or ‘aboriginal’, tribes and clans underwent the same process of Hinduized social promotion, in virtue of which Gonds, Bhars, Kharwārs, and so forth emerged as Chandēls, Rāthōrs, Gaharwārs, and other well-known Rājpūt clans, duly equipped with pedigrees reaching back to the sun and moon. The process will be discussed further and illustrated in some detail when I come to deal with the mediaeval dynasties of the north.
 
 > _[Margin: Exemption of India from foreign attack.]_
+
 The extinction of the Ephthalite power on the Oxus necessarily dried up, or at least greatly contracted, the stream of barbarian immigration into India, which enjoyed, so far as is known, almost complete immunity from foreign attack for nearly five centuries after the defeat of Mihiragula.[^sec-28-fn-041] The following chapters will tell how she made use, or failed to make use, of the opportunity thus afforded for internal development unchecked by foreign aggression.
 
 > _[Margin: Second half of sixth century almost a blank.]_
+
 Very little is known about the history of India during the second half of the sixth century. It is certain that no paramount power existed, and that all the states of the Gangetic plain had suffered severely from the ravages of the Huns and connected tribes; but, excepting bare catalogues of names in certain local dynastic lists, few facts of general interest have been recorded.
 
 > _[Margin: Mo-la-p‘o.]_
+
 One of the many states into which India was divided during those troublous times deserves special notice, because the brief reference to its affairs by Hiuen Tsang has given occasion for much discussion and some misunderstanding. In <span class="sc">a. d.</span> 641, or early in 642, the pilgrim, after leaving [p. 342] Bharōch (Broach), travelled in a north-westerly direction for a considerable distance, apparently overstated in the Chinese text, until he arrived in a country called Mo-la-p'o, a name phonetically equivalent to Mālava. The unnamed capital, which was situated to the south-east of a great river, or, according to another reading, of the Mahi, has not been identified. If the 'great river' means the Sābarmatī, the capital may have stood at or near the site of Ahmadābād.[^sec-28-fn-042] Although it is impossible to reconcile all the data given in the pilgrim's text, and several details are open to controversy, it is clear that the kingdom or country of Mo-la-p'o essentially comprised the basin of the Mahi river, with the region to the east of the Sābarmatī and a portion of the hilly tract of Southern Rājputāna, perhaps extending as far east as Rutlam. Mo-la-p'o was bounded on the north by the Gurjara kingdom of Bhinmāl, on the north-west by the subordinate principality or province of Ānandapura (Varnagar), lying to the west of the Sābarmatī, and on the east by the kingdom (Avanti or Eastern Mālwa), of which Ujjain was the capital. Besides Ānandapura, two other countries, Ki-t'a or Ki-ch'a, and Su-la-ch'a or Su-la-tha were dependencies of Mo-la-p'o. The latter dependency certainly is to be identified with Soratha (Surāshtra), or Southern Kāthiāwār. The identity of the former is disputed—some good authorities holding the Chinese name to mean the Kaira (Kheda, Khetaka) District, while others believe it to mean Kachchh (Cutch).
 
 > _[Margin: Dhruvabhaṭa.]_
+
 The territory of Valabhī (Walā) in Eastern Kāthiāwār, which intervened between Mo-la-p'o and Surāshtra, had a king of its own, Dhruvabhata by name (Dhruvasena Bālāditya of inscriptions), who was the son-in-law of Harsha (Sīlāditya), paramount sovereign of Northern India. Some years before the pilgrim's visit, Dhruvabhata had been defeated by Harsha, and the matrimonial alliance seems to have been one of the arrangements made when peace was declared. In 643, when Harsha held the solemn assemblies at Kanauj and Prayāga (Allahābād), in which Hiuen Tsang [p. 343] took part, the Rāja of Valabhī attended as a vassal prince in the train of his father-in-law. The pilgrim does not say a word about the nature of the government of Mo-la-p'o and its three dependencies, Ānandapura, Surāshtra, and (?) Cutch, the reason apparently being that all these countries were administered on behalf of Harsha, whose father had fought the king of Mālava, perhaps Mo-la-p'o, at the close of the sixth century. The fact that Dhruvabhata is named as the Rāja or king of the Valabhī territory interposed between Mo-la-p o and its dependency, Surāshtra, can be explained by assuming that Harsha (Sīlāditya) purposely allowed his son-in-law to occupy a semi-independent position, governing not only Valabhī, but also Mo-la-p'o and its dependencies.
 
 > _[Margin: Śīlāditya, king of Mo-la-p'o.]_
+
 Study of the local records drew the attention of Hiuen Tsang to the history of Dhruvabhata's uncle, Sīlāditya, who had been king of Mo-la-p'o sixty years before. This prince was famed as having been a man of eminent wisdom and great learning, a zealous Buddhist, and so careful to preserve animal life that he caused the drinking water for his horses and elephants to be strained, lest perchance any creature living in the water should be injured. By the side of his palace he had built a Buddhist temple, remarkable for its artistic design and rich ornament, in which the images of the Seven Buddhas were enshrined. It was his custom to hold a grand assembly every year, at which the canonical dues and gifts were presented to the monks with liberality. This pious practice had been continued for successive generations to the time of Hiuen Tsang's visit.
 
 > _[Margin: Śīlāditya Dharmāditya of Mo-la-p'o.]_
+
 M. Sylvain Lévi seems to be right in identifying this religious monarch with the Buddhist Sīlāditya I, surnamed Dharmāditya, 'the Sun of Piety', of the Valabhī dynasty, who reigned from about <span class="sc">a. d.</span> 595 to 610 or 615;[^sec-28-fn-043] for, although those dates do not agree with all the indications given by Hiuen Tsang, it is certain that Dhruvabhata, the reigning Rāja of Valabhī, was a nephew of Sīlāditya Dharmāditya, [p. 344] while Hiuen Tsang states that he was the nephew of the pious Sīlāditya, the former king of Mo-la-pʻo. The apparently necessary inference is that Sīlāditya Dharmāditya must have been king of Mo-la-pʻo by conquest in addition to his ancestral realm of Valabhī.[^sec-28-fn-044] Both territories subsequently were conquered by Harsha, and became subject to him as their suzerain.
 
 > _[Margin: Mo-la-pʻo distinct from Ujjain.]_
+
 The serious misunderstanding of the story above alluded to consisted in the erroneous belief held by Beal and several other writers that Mo-la-pʻo, or Western Mālava, was identical with the kingdom of Ujjain, otherwise known as Avanti or Eastern Mālava. Beal actually designated Sīlāditya of Mo-la-pʻo as ‘Sīlāditya of Ujjain’, forgetting that Hiuen Tsang described the territory of Ujjain as a separate kingdom equal in size to Mo-la-pʻo, and in his time ruled by a Brahman Rāja. Sīlāditya, the former Rāja of Valabhī and Mo-la-pʻo, was considered to be a Kshatriya, and there is no reason to suppose that he had anything to do with Ujjain.
 
 Harsha (Sīlāditya), of Kanauj, is described by his friend Hiuen Tsang as being of the Vaisya caste, although he seems to have taken rank as a Kshatriya. The erroneous identification of Mo-la-pʻo with the kingdom of Ujjain has given rise to much confusion in the treatment of the history of Harsha’s period, and the main purpose of the observations made in the first edition of this work was the rectification of that embarrassing error. Those observations, which were themselves erroneous in certain respects, have now been corrected in the light of subsequent criticism and discussion.[^sec-28-fn-045]
@@ -4292,9 +4926,7 @@ Harsha (Sīlāditya), of Kanauj, is described by his friend Hiuen Tsang as being
 | 443 | Silver coins | ” 124 |
 | 447 | Silver coins | ” 128 |
 
-senting P‘i-lo-mo-lo, the capital of Kü-che-lo (Gūjara), the Gurjara kingdom of Rājputāna; nor did it include Ujjain, N. lat. 23° 11′, E. long. 75° 47′, which was the capital of a separate kingdom (Avanti). Three texts of Hiuen Tsang give the name or epithet of the river as *Mo-ha*, = *mahā*, ‘great’; only the D text, which Lévi follows, reads *Mo-hi*, = *Mahi* (Watters). The bearings indicate that the river meant was the Sābarmatī rather than the Mahi. The identification of Ānandapura with Vaṛnagar is fully proved. Ki-t‘a or Ki-ch‘a is a good phonetic equivalent for Kheṭa (Kheṭaka, Kheḍa), the modern ‘Kaira’ District, but St. Martin, Julien, and Watters
-
-prefer to identify it with Kachchh (Cutch), and I am disposed to agree with them. The identity of Su-la-ch‘a or Su-la-tha with Soraṭha or Surāshṭra, Southern Kāthiāwār, is established by the mention of the hill Yüh-shan-to, or Yhu-shen-to, = Ujjanta (Ujjayanta, Ujjinta), = Girnār. Dhruvabhaṭa was the son-in-law of Harsha (Śīlāditya), not of his son (Watters, ii, 247). P‘i-lo-mo-lo = Bhilmala (Watters, ii, 250). For dates of Hiuen Tsang’s visits to Mo-la-p‘o, &c., see ‘Itinerary’ in Watters, ii, 335.
+senting P‘i-lo-mo-lo, the capital of Kü-che-lo (Gūjara), the Gurjara kingdom of Rājputāna; nor did it include Ujjain, N. lat. 23° 11′, E. long. 75° 47′, which was the capital of a separate kingdom (Avanti). Three texts of Hiuen Tsang give the name or epithet of the river as *Mo-ha*, = *mahā*, ‘great’; only the D text, which Lévi follows, reads *Mo-hi*, = *Mahi* (Watters). The bearings indicate that the river meant was the Sābarmatī rather than the Mahi. The identification of Ānandapura with Vaṛnagar is fully proved. Ki-t‘a or Ki-ch‘a is a good phonetic equivalent for Kheṭa (Kheṭaka, Kheḍa), the modern ‘Kaira’ District, but St. Martin, Julien, and Watters prefer to identify it with Kachchh (Cutch), and I am disposed to agree with them. The identity of Su-la-ch‘a or Su-la-tha with Soraṭha or Surāshṭra, Southern Kāthiāwār, is established by the mention of the hill Yüh-shan-to, or Yhu-shen-to, = Ujjanta (Ujjayanta, Ujjinta), = Girnār. Dhruvabhaṭa was the son-in-law of Harsha (Śīlāditya), not of his son (Watters, ii, 247). P‘i-lo-mo-lo = Bhilmala (Watters, ii, 250). For dates of Hiuen Tsang’s visits to Mo-la-p‘o, &c., see ‘Itinerary’ in Watters, ii, 335.
 
 
 <!-- page: 390 | folio: 346 -->
@@ -4388,6 +5020,7 @@ prefer to identify it with Kachchh (Cutch), and I am disposed to agree with them
 #### *Vasubandhu and the Guptas*
 
 > _[Margin: Bibliography.]_
+
 The difficult problem of the date of Vasubandhu, the famous Buddhist author, and the connected question of the identity of the Gupta sovereigns with whom he had intimate relations, have given occasion for voluminous discussion and wide divergence of opinion.[^sec-29-fn-001]
 
 
@@ -4420,61 +5053,71 @@ In brief, one must conclude that Samudragupta received Vasubandhu, the Buddhist 
 #### <span class="sc">THE REIGN OF HARSHA FROM A. D. 606 TO 647</span>
 
 > _[Margin: Seventh century : sources of history.]_
+
 <span class="sc">The</span> deficiency of material which embarrasses the historian when dealing with the latter half of the sixth century is no longer experienced when he enters upon the seventh. For this period he is fortunate enough to possess, in addition to the ordinary epigraphic and numismatic sources, two contemporary literary works, which shed much light upon the political condition of India generally, and supply, in particular, abundant and trustworthy information concerning the reign of Harsha, who ruled the North as paramount sovereign for more than forty years. The first of these works is the invaluable book of travels compiled by the Chinese pilgrim, Hiuen Tsang, who visited almost every part of India between <span class="sc">a. d.</span> 630 and 644, and recorded observations more or less minute about each state and province. The narrative in the *Travels* is supplemented by the pilgrim's biography, written by his friend Hwui-li, which supplies many additional details. The second work alluded to is the historical romance entitled 'The Deeds of Harsha' (*Harsha*-*charita*), composed by Bāna, a Brahman author, who lived at the court and enjoyed the patronage of the hero of his tale. Further information of much interest and importance is given by the official Chinese histories; and when all sources are utilized, our knowledge of the events of the reign of Harsha far surpasses in precision that which we possess respecting any other early Indian king, except Chandragupta Maurya and Asoka.
 
-> _[Margin: Rāja Prabhākara- vardhana of Thānēsar.]_
+> _[Margin: Rāja Prabhākara-vardhana of Thānēsar.]_
+
 From remote ages the country surrounding the city of Thānēsar (Sthānvīsvara)[^sec-30-fn-001] has been holy ground, known as [p. 349] the ‘Land of Kuru’, and famous as the battle-field of legendary heroes. In the latter part of the sixth century, the Rāja of Thānēsar, Prabhākara-vardhana by name, had raised himself to considerable eminence by successful wars against his neighbours, including the Mālavas, the Hun settlements in the North-western Panjāb, and the Gurjaras, probably those of Rājputāna, but possibly those of the Gurjara kingdom in the Panjāb, now represented by the Gujarāt and Gujrānwāla Districts. The fact that his mother was a princess of Gupta lineage no doubt both stimulated his ambition and aided its realization.[^sec-30-fn-002]
 
 > _[Margin: His war with the Huns.]_
+
 In the year 604, this energetic Rāja had dispatched his elder son Rājya-vardhana, a youth just entering upon manhood, with a large army to attack the Huns on the north-western frontier; while his younger and favourite son, Harsha, four years junior to the Crown Prince, followed his brother with a cavalry force at a considerable interval. The elder prince having advanced into the hills to seek the enemy, the younger lingered in the forests at the foot of the mountains to enjoy the sport of all kinds which they offered in abundance.
 
 > _[Margin: <span class="sc">A. D.</span> 605. Rājya-vardhana acc.]_
+
 While thus pleasantly employed, Harsha, who was then a lad fifteen years of age, received news that his father lay dangerously ill with a violent fever. He returned to the capital with all speed, where he found the king in a hopeless condition. The disease quickly ran its course, and all was over long before the elder son, who had been victorious in his campaign, could return to claim his birthright. There are indications that a party at court inclined to favour the succession of the younger prince; but all intrigues were frustrated by the return of Rājya-vardhana, who ascended [p. 350] the throne in due course. He had hardly seated himself when news arrived which compelled him again to take the field.
 
 > _[Margin: War with Mālwā.]_
+
 A courier brought the distressing intelligence that king Grahavarman Maukhari, husband of Rājyaśrī, sister of the princes, had been slain by the king of Mālwā,[^sec-30-fn-003] who cruelly misused the princess, ‘confining her like a brigand’s wife, with a pair of iron fetters kissing her feet’, at Kanauj. Rājya-vardhana, resolute to avenge his sister’s wrongs, started at once with a mobile force of 10,000 cavalry; leaving the elephants and heavy troops behind in his brother’s charge. The king of Mālwā was defeated with little effort, but the joy of victory was turned into sorrow by the receipt of intelligence that the victor had been treacherously slain by the vanquished king’s ally, Saśānka, king of Central Bengal,[^sec-30-fn-004] who had inveigled Rājya-vardhana by fair promises to a conference, and had assassinated him when off his guard. Harsha was further informed that his widowed sister had escaped from confinement, and fled to the Vindhyan forests for refuge; but no certain news of her hidingplace could be obtained.
 
 > _[Margin: A. D. 606. Harsha acc.]_
+
 The murdered king was too young to leave a son capable of assuming the cares of government, and the nobles seem to have hesitated before offering the crown to his youthful brother. But the disorder and anarchy from which the country suffered during the interregnum forced the councillors of state to come to a decision concerning the succession. The ministers, acting on the advice of Bhandi, a slightly senior cousin, who had been educated with the young princes, ultimately resolved to invite Harsha to [p. 351] undertake the responsibilities of the royal office. For some reason, which is not apparent on the face of the story, he scrupled to express his consent, and it is said that he consulted a Buddhist oracle before accepting the invitation. Even when his reluctance, whether sincere or pretended, had been overcome by the favourable response of the oracle, he still sought to propitiate Nemesis by abstaining at first from the assumption of the kingly style, modestly designating himself as Prince (*Rājaputra*) Sīlāditya.
 
 > _[Margin: Era of Harsha.]_
+
 These curious details indicate clearly that some unknown obstacle stood in the way of Harsha's accession, and compelled him to rely for his title to the crown upon election by the nobles rather than upon his hereditary claims. The Chinese work entitled *Fang-chih* represents Harsha as ‘administering the government in conjunction with his widowed sister’, a statement which suggests that he at first considered himself to be Regent on behalf of his sister, or possibly, an infant child of his late brother.[^sec-30-fn-005] There is reason to suppose that Harsha did not boldly stand forth as avowed king until <span class="sc">A. D.</span> 612, when he had been five and a half or six years on the throne, and that his formal coronation or consecration took place in that year. The era called after his name, of which the year 1 was <span class="sc">A. D.</span> 606–7, dated from the time of his accession in October, 606.[^sec-30-fn-006]
 
 Whatever may have been the motives which influenced the nobles of Thānēsar in their hesitation to offer their allegiance to young Harsha, the advice of Bhandi was justified abundantly by the ability of his nominee, who quickly proved his right to rule.
 
 > _[Margin: Recovery of Rājyaśrī.]_
+
 The immediate duties incumbent upon him obviously were the pursuit of his brother's murderer, and the recovery [p. 352] of his widowed sister. The latter task, being the more urgent, was undertaken in all haste, even at the cost of permitting the assassin's escape. The haste shown was none too great; for the princess, despairing of rescue, was on the point of burning herself alive with her attendants, when her brother, guided by aboriginal chiefs, succeeded in tracing her in the depths of the Vindhyan jungles. The details of the campaign against Sasāṅka have not been recorded, and it seems clear that he escaped with little loss. He is known to have been still in power as late as the year 619; but his kingdom probably became subject to Harsha at a later date.[^sec-30-fn-007]
 
 > _[Margin: Harsha's scheme of conquest.]_
+
 Harsha, having recovered his sister—a young lady of exceptional attainments, learned in the doctrines of the Sammitīya school of Buddhism—devoted his signal ability and energy to the prosecution of a methodical scheme of conquest, with the deliberate purpose of bringing all India ‘under one umbrella’. He possessed at this stage of his career a force of 5,000 elephants, 20,000 cavalry, and 50,000 infantry. Apparently he discarded as useless the chariots which constituted, according to ancient tradition, the fourth arm of a regularly organized Indian host; although they were still used in some parts of the country.[^sec-30-fn-008]
 
 > _[Margin: Five years' war.]_
+
 With this mobile and formidable force Harsha overran Northern India; and, in the picturesque language of his contemporary the Chinese pilgrim, ‘he went from east to west subduing all who were not obedient; the elephants were not unharnessed, nor the soldiers unhelmeted.’ By the end of five and a half years the conquest of the north-western regions, and probably also of a large portion of Bengal, was completed; and his military resources were so increased that he was able to put in the field 60,000 war elephants and 100,000 cavalry. He then reigned happily for thirty-five years longer, and during that period devoted [p. 353] most of his immense energy to the government of his extensive dominions.[^sec-30-fn-009] His last recorded campaign, an attack on the sturdy inhabitants of Ganjām, on the coast of the Bay of Bengal, took place in <span class="sc">a. d.</span> 643.
 
 > _[Margin: Defeat by Pulakēśin II, Chalukya. <span class="sc">a. d.</span> 620.]_
+
 His long career of victory was broken by one failure. Pulakēsin II, the greatest of the Chalukya dynasty, whose achievements will be noticed more fully in a later chapter, vied with Harsha in the extent of his conquests, and had raised himself to the rank of lord paramount of the South, as Harsha was of the North. The northern king, who could not willingly endure the existence of so powerful a rival, essayed to overthrow him, advancing in person to the attack, with ‘troops from the five Indies[^sec-30-fn-010] and the best generals from all countries’. But the effort failed. The king of the Deccan guarded the passes on the Narmadā so effectually that Harsha was constrained to retire discomfited, and to accept that river as his frontier. This campaign may be dated about the year <span class="sc">a. d.</span> 620.[^sec-30-fn-011]
 
 
 <!-- page: 398 | folio: 354 -->
 > _[Margin: War with Valabhī.]_
+
 The war with Valabhī, which resulted in the complete defeat of Dhruvasena (Dhruvabhata) II, and the flight of that prince into the dominions of the Rāja of Bharōch (Broach), who relied probably on the powerful support of the Chalukya monarch, seems to have occurred later than <span class="sc">a.d.</span> 633 and before Hiuen Tsang’s visit to Western India in 641 or 642. Dhruvabhata, as already related, was compelled to sue for peace, to accept the hand of the victor’s daughter, and to be content with the position of a feudatory vassal. The same campaign may be presumed to have involved the submission of the kingdoms or countries of Ānandapura, Ki-c‘ha, or (?) Cutch, and Soratha, or Southern Kāthiāwār, all of which in <span class="sc">a.d.</span> 641 were still reckoned to be dependencies of Mo-la-p‘o, or Western Mālava, formerly subject to Valabhī.[^sec-30-fn-012]
 
 > _[Margin: Extent of Harsha’s empire.]_
+
 In the latter years of his reign the sway of Harsha over the whole of the basin of the Ganges (including Nepāl),[^sec-30-fn-013] from the Himalaya to the Narmadā, besides Mālwā, Gujarāt, and Surāshtra, was undisputed. Detailed administration of course remained in the hands of the local Rājas, but even the king of distant Assam (Kāmarūpa) in the east obeyed the orders of the suzerain, whose son-in-law, the king of Valabhī in the extreme west, attended in the imperial train.
 
 > _[Margin: His progresses.]_
+
 For the control of his extensive empire, Harsha relied upon his personal supervision, exercised with untiring energy, rather than upon the services of a trained bureaucracy. Except during the rainy season, when travelling with a huge camp was impracticable and opposed to Buddhist rule, he was incessantly on the move, punishing evil-doers, and rewarding the meritorious. Luxurious tents, such as were used by the Moghal emperors, and still form the
 
 
 <!-- page: 399 | folio: 355 -->
 
-![Map titled 'INDIA IN A.D. 640 / EMPIRE OF HARSHA. / (TRAVELS OF HIUEN TSANG)' showing the Empire of Harsha, regional kingdoms, geographical features, and ancient place names of the Indian subcontinent with coordinates and a Scale of Miles.](../figures/fig-014_p0399.webp)
+![INDIA IN A.D. 640](../figures/fig-014_p0399.webp)
 
-
-### INDIA IN A.D. 640
-
-
-#### EMPIRE OF HARSHA.
+EMPIRE OF HARSHA.
 
 (TRAVELS OF HIUEN TSANG)
 
@@ -4487,18 +5130,22 @@ B. V. Darbishire, Oxford, 1907
 <!-- page: 401 | folio: 355 -->
 movable habitations of high Anglo-Indian officials, had not then been invented, and Harsha was obliged to be content with a ‘ travelling palace ’ made of boughs and reeds, which was erected at each halting-place, and burnt at his departure.[^sec-30-fn-014] He was accustomed to move in great state, being accompanied by several hundred drummers, who beat a note on golden drums for each step taken. No other king was allowed to use such ‘ music-pace drums ’.[^sec-30-fn-015]
 
-> _[Margin: Civil administra- tion.]_
+> _[Margin: Civil administration.]_
+
 Hiuen Tsang, like his predecessor Fa-hien, more than two centuries earlier, was favourably impressed by the character of the civil administration, which he considered to be founded on benign principles. The principal source of revenue was the rent of the crown lands, amounting, in theory at all events, to one-sixth of the produce. The officials were remunerated by grants of land; compulsory labour upon public works was paid for; taxes were light; the personal services exacted from the subject were moderate in amount; and liberal provision was made for charity to various religious communities.
 
 > _[Margin: Police and crime.]_
+
 Violent crime was rare, but the roads and river routes evidently were less safe than in Fa-hien’s time, as Hiuen Tsang was stopped and robbed by brigands more than once. Imprisonment was now the ordinary penalty, and it was of the cruel Tibetan type; the prisoners, we are told, ‘ are simply left to live or die, and are not counted among men ’. The other punishments were more sanguinary than in the Gupta period: mutilation of the nose, ears, hands, or feet being inflicted as the penalty of serious offences, and even for failure in filial piety; but this penalty was sometimes commuted for banishment. Minor offences were visited with fines. Ordeals by water, fire, weighment, or poison were much esteemed as efficient instruments for the ascertainment of truth; and are described with approval by the Chinese pilgrim.
 
 
 <!-- page: 402 | folio: 356 -->
 > _[Margin: Official records.]_
+
 Official records of public events were kept in every province by special officers, whose duty it was to register ‘good and evil events, with calamities and fortunate occurrences’. Such records were, no doubt, consulted by the writers of the great historical inscriptions, but no specimen of them has survived.
 
 > _[Margin: Education and literature.]_
+
 Education evidently was diffused widely, especially among the Brahmans and numerous Buddhist monks; and learning was honoured by the government. King Harsha was not only a liberal patron of literary merit, but was himself an accomplished calligraphist and an author of reputation. Besides a grammatical work, three extant Sanskrit plays
 
 
@@ -4507,35 +5154,45 @@ Education evidently was diffused widely, especially among the Brahmans and numer
 and sundry compositions in verse are ascribed to his pen; and there is no reason for hesitating to believe that he had at least a large share in their composition, for royal authors were not uncommon in ancient India. One of these plays, the *Nāgānanda*, which has an edifying Buddhist legend for its subject, is considered to rank among the best works of the Indian theatre; and the other dramas, the *Ratnāvalī*, or ‘Necklace’, and the *Priyadarsikā*, or ‘Gracious Lady’, although lacking in originality, are praised highly for their simplicity of both thought and expression.[^sec-30-fn-016]
 
 > _[Margin: Bāṇa.]_
+
 The greatest ornament of the literary circle at Harsha’s court was the Brahman Bāṇa, author of the historical romance devoted to a panegyrical account of the deeds of [p. 357] his patron, which is an amazingly clever, though irritating, performance; executed in the worst possible taste, and yet containing passages of admirable and vivid description. The man who attributes to the commander-in-chief, Skandagupta, 'a nose as long as his sovereign's pedigree,' may be fairly accused of having perpetrated the most grotesque simile in all literature. But the same man could do better, and shows no lack of power when depicting the deathagony of the king. 'Helplessness had taken him in hand: pain had made him its province, wasting its domain, lassitude its lair. . . . He was on the confines of doom, on the verge of the last gasp, at the outset of the Great Undertaking, at the portal of the Long Sleep, on the tip of death's tongue; broken in utterance, unhinged in mind, tortured in body, waning in life, babbling in speech, ceaseless in sighs; vanquished by yawning, swayed by suffering, in the bondage of wracking pains.' Such writing, although not in perfect good taste, unmistakably bears the stamp of power.[^sec-30-fn-017]
 
 > _[Margin: Harsha's latter days.]_
+
 One campaign had sated Asoka's thirst for blood; thirty-seven years of warfare, continuous for six years, and intermittent for the rest of the time, were needed by Harsha before he could be content to sheathe the sword. His last campaign was fought against the people of Ganjām (Kongōda) in <span class="sc">a. d.</span> 643, and then at last this king of many wars doffed his armour, and devoted himself for his few remaining years to the arts of peace and the practice of piety, as understood by an Indian despot. He obviously set himself to imitate Asoka, so that the narrative of the doings in the latter years of Harsha's reign reads like a copy of the history of the great Maurya.
 
 > _[Margin: His devotion.]_
+
 At this period the king began to show marked favour to the quietist teachings of Buddhism, first in its Hīnayāna, and afterwards in its Mahāyāna form. He led the life of a devotee, enforcing the Buddhist prohibitions against the destruction of animal life with the utmost strictness and [p. 358] scant regard for the sanctity of human life. ‘He sought’, we are told, ‘to plant the tree of religious merit to such an extent that he forgot to sleep and eat’; and forbade the slaughter of any living thing, or the use of flesh as food throughout the ‘Five Indies’ under pain of death without hope of pardon.
 
 > _[Margin: Benevolent and religious institutions.]_
+
 Benevolent institutions on the Asokan model, for the benefit of travellers, the poor, and sick, were established throughout the empire. Rest-houses (*dharmsālā*) were built in both the towns and rural parts, and provided with food and drink, physicians being stationed at them to supply medicines to the necessitous without stint. The king also imitated his prototype in the foundation of numerous religious establishments, devoted to the service of both the Hindu gods and the Buddhist ritual. In his closing years the latter received the chief share of the royal favour; and numerous monasteries were erected, as well as several thousand *stūpas*, each about 100 feet high, built along the banks of the sacred Ganges. These latter structures doubtless were of a flimsy character, built chiefly of timber and bamboos, and so have left no trace; but the mere multiplication of *stūpas*, however perishable the materials might be, was always a work of merit. Although Buddhism was visibly waning in the days of Harsha and Hiuen Tsang, the monks of the order were still numerous, and the occupants of the monasteries enumerated by the pilgrim numbered nearly two hundred thousand.[^sec-30-fn-018] A monastic population of such magnitude offered abundant opportunities for the exercise of princely liberality.
 
 > _[Margin: State of religion.]_
+
 The picture of the state of religious belief and practice in India during the seventh century, as drawn by the contemporary authors, is filled with curious and interesting details. The members of the royal family to which Harsha belonged freely acted on their individual preferences in the matter of religion. His remote ancestor, Pushyabhūti, is recorded to have entertained from boyhood an ardent devotion towards Siva, and to have turned away from all [p. 359] other gods. Harsha’s father was equally devoted to the worship of the Sun, and daily offered to that luminary ‘ a bunch of red lotuses set in a pure vessel of ruby, and tinged, like his own heart, with the same hue ’. The elder brother and sister of Harsha were convinced Buddhists, while Harsha himself distributed his devotions among the three deities of the family, Siva, the Sun, and Buddha ;[^sec-30-fn-019] and erected costly temples for the service of all three. But, in his latter years, the Buddhist doctrines held the chief place in his affections ; and the eloquence of the Chinese Master of the Law induced him to prefer the advanced teaching of the Mahāyāna sect to the more primitive Hīnayāna doctrine of the Sammitīya school with which he had been familiar previously.
 
 > _[Margin: Royal eclecticism.]_
+
 The religious eclecticism of the royal family was the reflection and result of the state of popular religion at the time. Buddhism, although it had certainly lost the dominant position in the Gangetic plain which it had once held, was still a powerful force, and largely influenced the public mind. The Jain system, which had never been very widely spread or aggressive in the North, while retaining its hold on certain localities, especially at Vaisāli and in Eastern Bengal, could not pretend to rival the general popularity of either Buddhism or Purānic Hinduism. The last-named modification of the Hindu system was now firmly established, and the earlier Purānas were already revered as ancient and sacred writings. The bulk of the population in most provinces was then, as now, devoted to the service of the Purānic gods ; each man and woman being, of course, free to select a particular deity, Siva, the Sun, Vishnu, or another, for special adoration according to personal predilection. As a rule, the followers of the various religions lived peaceably together ; and no doubt many people besides the king sought to make certain of some divine support by doing honour to all the principal objects of popular worship in turn.
 
 
 <!-- page: 406 | folio: 360 -->
 > _[Margin: Persecution by Śaśāṅka.]_
+
 But, while toleration and concord were the rule, exceptions occurred. The king of Central Bengal, Śaśāṅka, who has been mentioned as the treacherous murderer of Harsha's brother, and probably was a scion of the Gupta dynasty, was a worshipper of Siva, hating Buddhism, which he did his best to extirpate. He dug up and burnt the holy Bodhi tree at Bōdh Gayā, on which, according to legend, Asoka had lavished inordinate devotion; broke the stone marked with the footprints of Buddha at Pātaliputra; destroyed the convents, and scattered the monks, carrying his persecutions to the foot of the Nepalese hills. These events, which are amply attested by the evidence of Hiuen Tsang, who visited the localities thirty or forty years later, must have happened about <span class="sc">a. d.</span> 600. The Bodhi tree was replanted after a short time by Pūrna-varman, the local Rāja of Magadha, who is described as being the last descendant of Asoka, and as such was specially bound to honour the object venerated by his great ancestor.
 
 > _[Margin: Sectarian animosity.]_
+
 The details given by Hiuen Tsang and his biographer prove that at times bitter animosity marked the relations of the two great sections of the Buddhist church with one another; and that equal ill-feeling was evoked in the breasts of Purānic Hindus, when they beheld the royal favours lavished upon their Buddhist rivals. It is clear, therefore, that general statements concerning the perfect religious toleration enjoyed in ancient India can be accepted only with a certain amount of reservation. Official persecutions and popular ebullitions of sectarian rancour undoubtedly occurred from time to time, although they were not frequent.
 
 > _[Margin: Disputations.]_
+
 Harsha himself sometimes offended against the principle of perfect religious toleration and equality. Like Akbar, and many other Indian sovereigns, he was fond of listening to the expositions of rival doctors, and heard with pleasure the arguments adduced by the learned Chinese traveller in favour of the Mahāyāna form of Buddhism, with the doctrines of which he does not seem to have been familiar. An interesting illustration of the comparative freedom of ancient Hindu society from the trammels of the system of [p. 361] female seclusion favoured by the Muhammadans, is afforded by the fact that his widowed sister sat by the king's side to hear the lecture by the Master of the Law, and frankly expressed the delight which she received from the discourse. One Chinese authority even asserts that Harsha administered the government in conjunction with her, as already noted.[^sec-30-fn-020]
 
 > _[Margin: Harsha's proclamation.]_
+
 The king was determined that his favourite should not be defeated in controversy; and when opponents were invited to dispute the propositions of the Chinese scholar, the terms of the contest were not quite fair. Harsha, having heard a report that Hiuen Tsang's life was in danger at the hands of his theological rivals, issued a proclamation concluding with the announcement that
 
 > ' if any one should touch or hurt the Master of the Law, he shall be forthwith executed; and whoever speaks against him, his tongue shall be cut out; but all those who desire to profit by his instructions, relying on my goodwill, need not fear this manifesto '.
@@ -4547,95 +5204,123 @@ The pilgrim's biographer naïvely adds that
 
 <!-- page: 408 | folio: 362 -->
 > _[Margin: Assembly at Kanauj.]_
+
 King Harsha was so delighted with the discourse of Hiuen Tsang, whom he had met while in camp in Bengal, that he resolved to hold a special assembly at Kanauj, then his capital, for the purpose of giving the utmost publicity to the Master's teaching. The king marched along the southern bank of the Ganges, attended by an enormous multitude; his ally Kumāra, King of Kāmarūpa, with a large but less numerous following, keeping pace with him on the opposite bank. Advancing slowly in this way, Harsha, Kumāra, and the attendant host reached Kanauj in the course of ninety days, and there encamped, in February or March, <span class="sc">a.d.</span> 643.[^sec-30-fn-022] The sovereign was received by Kumāra, the Rāja of Kāmarūpa, who had accompanied him on the march, the Rāja of Valabhī in Western India, who was connected with him by marriage, and eighteen other tributary rājas; as well as by four thousand learned Buddhist monks, including a thousand from the Nālandā monastery in Bihār, and some three thousand Jains and orthodox Brahmans.
 
 > _[Margin: Ceremonies.]_
+
 The centre of attraction was a great monastery and shrine specially erected upon the bank of the Ganges, where a golden image of Buddha, equal to the king in stature, was kept in a tower, 100 feet high. A similar but smaller image, 3 feet in height, was carried daily in solemn procession, escorted by the twenty rājas and a train of three hundred elephants. The canopy was borne by Harsha in person, attired as the god Sakra, while his ally, Rāja Kumāra, the most important of the princes in attendance, was clad as the god Brahmā, and had the honour of waving a white fly-whisk. The sovereign, as he moved along, scattered on every side pearls, golden flowers, and other precious substances, in honour of the 'Three Jewels'—Buddha, the Religion, and the Order; and, having with his own hands washed the image at the altar prepared for the purpose, bore it on his shoulder to the western tower, and there offered to it thousands of silken robes, embroidered with gems. Dinner was succeeded by a public disputation of the one-sided kind already described; and in the evening [p. 363] the monarch returned to his ‘travelling palace’, a mile distant.
 
 > _[Margin: Attempt on Harsha's life.]_
+
 These ceremonies, which lasted for many days, were terminated by startling incidents. The temporary monastery, which had been erected at vast cost, suddenly took fire, and was in great part destroyed; but when the king intervened in person, the flames were stayed, and pious hearts recognized a miracle.
 
 Harsha, attended by his princely train, had ascended the great *stūpa* to survey the scene, and was coming down the steps, when a fanatic, armed with a dagger, rushed upon him and attempted to stab him. The assassin, having been captured instantly, was closely interrogated by the king in person, and confessed that he had been instigated to commit the crime by certain ‘heretics’, who resented the excessive royal favour shown to the Buddhists. Five hundred Brahmans of note were then arrested, and being ‘straitly questioned’, were induced to confess that, in order to gratify their jealousy, they had fired the tower by means of burning arrows, and had hoped to slay the king during the resulting confusion. This confession, no doubt extorted by torture, probably was wholly false; but, whether true or not, it was accepted, and on the strength of it the alleged principals in the plot were executed, and some five hundred Brahmans were sent into exile.
 
 > _[Margin: <span class="sc">a. d.</span> 643. Charitable distribution at Prayāga.]_
+
 After the close of the proceedings at Kanauj, Harsha invited his Chinese guest to accompany him to Prayāga (Allāhābād), at the confluence of the Ganges and Jumna, to witness another imposing ceremonial. The Master of the Law, although anxious to start on his toilsome homeward journey, could not refuse the invitation, and accompanied his royal host to the scene of the intended display. Harsha explained that it had been his practice for thirty years past, in accordance with the custom of his ancestors, to hold a great quinquennial assembly on the sands where the rivers meet, and there to distribute his accumulated treasures to the poor and needy, as well as to the religious of all denominations. The present occasion (<span class="sc">a. d.</span> 643) was the sixth of [p. 364] the series, which evidently had not been begun until Harsha had consolidated his power in the north.
 
 > _[Margin: Proceedings.]_
+
 The assembly was attended by all the vassal kings and a vast concourse of humbler folk estimated to number half a million, including poor, orphans, and destitute persons, besides specially invited Brahmans and ascetics of every sect from all parts of Northern India. The proceedings lasted for seventy-five days, terminating apparently about the end of April, and were opened by an imposing procession of all the rājas with their retinues. The religious services were of the curiously eclectic kind characteristic of the times. On the first day, an image of Buddha was set up in one of the temporary thatched buildings upon the sands, and vast quantities of costly clothing and other articles of value were distributed. On the second and third days respectively the images of the Sun and Siva were similarly honoured, but the accompanying distribution in each case was only half the amount of that consecrated to Buddha. The fourth day was devoted to the bestowal of gifts on ten thousand selected religious persons of the Buddhist order, who each received one hundred gold coins, a pearl, and a cotton garment, besides choice food, drink, flowers, and perfumes. During the next following twenty days, the great multitude of Brahmans were the recipients of the royal bounty. They were succeeded by the people whom the Chinese author calls ‘heretics’, that is to say, Jains and members of sundry sects, who received gifts for the space of ten days. A like period was allotted for the bestowal of alms upon mendicants from distant regions; and a month was occupied in the distribution of charitable aid to poor, orphaned, and destitute persons.
 
 > _[Margin: Extent of gifts.]_
+
 ‘By this time the accumulation of five years was exhausted. Except the horses, elephants, and military accoutrements, which were necessary for maintaining order and protecting the royal estate, nothing remained. Besides these the king freely gave away his gems and goods, his clothing and necklaces, ear-rings, bracelets, chaplets, neck-jewel and bright head-jewel, all these he freely gave without stint. All being [p. 365] given away, he begged from his sister [Rājyaśri] an ordinary second-hand garment, and having put it on, he paid worship to the "Buddhas of the ten regions", and rejoiced that his treasure had been bestowed in the field of religious merit.'
 
 > _[Margin: Departure of Hiuen Tsang.]_
+
 The strange assembly, which in general appearance must have much resembled the crowded fair still held annually on the same ground, then broke up; and, after a further detention of ten days, Hiuen Tsang was permitted to depart. The king and Kumāra Rāja offered him abundance of gold pieces and other precious things, none of which would he accept save a fur-lined cape, the gift of Kumāra. But although the Master of the Law uniformly declined gifts intended to serve his personal use, he did not disdain to accept money for the necessary expenses of his arduous journey overland to China. These were provided on a liberal scale by the grant of three thousand gold and ten thousand silver pieces carried on an elephant. A rāja named Udhita was placed in command of a mounted escort, and charged to conduct the pilgrim in safety to the frontier. In the course of about six months of leisurely progress interrupted by frequent halts, the rāja completed his task, and brought his sovereign's guest in safety to Jālandhar in the east of the Panjāb, where Hiuen Tsang stayed for a month. He then started with a fresh escort, and, penetrating with difficulty the defiles of the Salt Range, crossed the Indus, and ultimately reached his home in distant China by the route over the Pāmīrs and through Khotan, in the spring of <span class="sc">a.d.</span> 645.[^sec-30-fn-023]
 
 > _[Margin: His death.]_
+
 The pilgrim did not come home empty-handed. Notwithstanding losses on more than one occasion, due to accident or robbery, he succeeded in bringing safely a hundred and fifty particles of Buddha's bodily relics; sundry images of the Teacher in gold, silver, and sandal-wood; and no less than 657 distinct volumes of manuscripts, carried upon twenty horses. The rest of his life was mainly devoted to the work of translation, and he had completed the Chinese [p. 366] versions of seventy-four separate works when he brought his literary labours to a close in the year <span class="sc">A. D.</span> 661. He lived in peace and honour for three years longer, and then calmly passed away, leaving behind him a reputation for learning and piety surpassing that of any other Buddhist doctor.
 
 > _[Margin: <span class="sc">A. D.</span> 647. Death of Harsha.]_
+
 The pages of Hiuen Tsang and his biographer give the latest information about King Harsha, who died either at the end of 646 or the beginning of 647, not long after his distinguished guest's departure.
 
 > _[Margin: Intercourse with China.]_
+
 During his lifetime he maintained diplomatic intercourse with the Chinese empire. A Brahman envoy, whom he had sent to the emperor of China in 641, returned in <span class="sc">A. D.</span> 643, accompanied by a Chinese mission bearing a reply to Harsha's dispatch. The mission remained for a considerable time in India, and did not go back to China until <span class="sc">A. D.</span> 645. The next year, Wang-hiuen-tse, who had been the second in command of the earlier embassy, was sent by his sovereign as head of a new Indian mission, with an escort of thirty horsemen. Early in <span class="sc">A. D.</span> 647, or possibly at the close of 646, King Harsha died, leaving no heir, and the withdrawal of his strong arm plunged the country into disorder, which was aggravated by famine.
 
 Arjuna, or Arunāsva, a minister of the late king, usurped the throne, and took the field with 'barbarian' troops against the Chinese mission. The members of the escort were massacred, or taken prisoners, and the property of the mission, including the articles presented by Indian kings, was plundered; but the envoys, Wang-hiuen-tse and his colleague, were fortunate enough to escape into Nepāl by night.
 
 > _[Margin: Defeat of the usurper by the Chinese envoy.]_
+
 The reigning king of Tibet, the famous Srong-tsan Gampo, who was married to a Chinese princess, succoured the fugitives, and supplied them with a force of twelve hundred picked soldiers supported by a Nepalese contingent of seven thousand horsemen, Nepāl at that time being subject to Tibet. With this small army Wang-hiuen-tse descended into the plains, and, after a three days' siege, succeeded in [p. 367] storming the chief city of Tirhūt. Three thousand of the garrison were beheaded, and ten thousand persons were drowned in the neighbouring river, perhaps the Bāgmatī. (?) Arjuna fled, and having collected a fresh force, offered battle. He was again disastrously defeated and taken prisoner. The victor promptly beheaded a thousand prisoners, and in a later action captured the entire royal family, took twelve thousand prisoners, and obtained more than thirty thousand head of horses and cattle. Five hundred and eighty walled towns made their submission during the course of the campaign, and Kumāra, the king of Eastern India, who had attended Harsha’s assemblies a few years earlier, sent in abundant supplies of cattle and accoutrements for the victorious army. Wang-hiuen-tse brought the usurper as a prisoner to China, and was promoted for his services. Afterwards, in <span class="sc">a. d.</span> 650, when the emperor T‘ai Tsung died and his mausoleum was erected, the approach to the building was adorned by statues, which included the effigies of the Tibetan king, Srong-tsan Gampo, and of the usurper, (?) Arjuna. Tirhūt apparently remained subject for some time to Tibet, which was then a powerful state, strong enough to defy the Chinese empire. Thus ended this strange episode, which, although known to antiquaries for many years, has hitherto escaped the notice of the historians of India.
 
 > _[Margin: Third visit of Wang-hiuen-tse.]_
+
 Wang-hiuen-tse once more visited the scene of his adventures, being sent by imperial order in <span class="sc">a. d.</span> 657 to offer robes at the Buddhist holy places. He entered India through Nepāl, by the Lhāsa road, which was then open and used by many Buddhist pilgrims; and, after paying his respects at Vaisāli, Bōdh-Gayā, and other sacred spots, returned home through Kapisa, or Northern Afghanistan, by the Hindū Kush and Pāmīr route.[^sec-30-fn-024]
 
 
 <!-- page: 414 | folio: 368 -->
 > _[Margin: Kashmīr in the seventh century.]_
+
 The observations of Hiuen Tsang throw considerable light upon the political arrangements of India in the regions beyond the limits of Harsha's empire during the seventh century. In the north, Kashmīr had become the predominant power, and had reduced the kingdoms of Taxila and the Salt Range (Simhapura), as well as the minor principalities of the lower hills,[^sec-30-fn-025] to the rank of dependencies.
 
 > _[Margin: The Panjāb.]_
+
 The greater part of the Panjāb between the Indus and the Biās rivers was comprised in the kingdom called Tseh-kia, or Chēh-ka, by the pilgrim, the capital of which was an unnamed city situated close to Sākala (Siālkot), where the tyrant Mihiragula had held his court. The province of Multān, where the Sun-god was held in special honour, and a country called Po-fa-to, probably Jamū, to the north-east of Multān, were dependencies of this kingdom.
 
 > _[Margin: Sind.]_
+
 Sind was remarkable for being under the government of a Buddhist king belonging to the Sūdra caste, and for the large number of Buddhist monks which the country supported, estimated at ten thousand. But the quality was not in proportion to the quantity; most of the ten thousand being denounced as idle fellows given over to self-indulgence and debauchery. The Indus delta, to which the pilgrim gives the name of 'O-tien-p'o-chi-lo, was a province of the kingdom of Sind.[^sec-30-fn-026]
 
 > _[Margin: Alōr, the capital.]_
+
 From other sources of information we learn that the kingdom of Sind, of which Balūchistan was a dependency, in those days was rich and powerful, far more populous and fertile than it is now. It occupied the whole valley of the Indus from the neighbourhood of the Salt Range to the sea, and was separated from India proper by the 'lost river', the Hakrā or Wahindah, the Sin-tu of Hiuen Tsang. The capital, to which the pilgrim gives the name of P'i-shan-p'opu-lo, [p. 369] was Arōr or Alōr, on the west bank of the Hakrā, a large fortified city, the ruins of which are still traceable 5 miles to the south-east of Rohri (Rūrhī) in the Sukkur (Sakhar) District, N. lat. 27° 39′, E. long. 68° 59′. According to a romantic legend, the ruin of the city was effected, about <span class="sc">A. D.</span> 800, by a merchant named Saif-ul-Mulūk, who diverted the waters of the river in order to save a beautiful girl from the clutches of a licentious rāja.
 
 > _[Margin: Kings of Sind.]_
+
 The Buddhist king of the Sūdra caste mentioned by the pilgrim must be Sihras Rāi, son of Dīwajī, who was succeeded by his son Sāhasī. During the reign of Sihras Rāi, the ever-victorious Arabs, then in the first flush of enthusiasm, entered Makrān (Balūchistan), and were met by Sihras Rāi, who was defeated and slain. Makrān was permanently occupied by the invaders late in <span class="sc">A. D.</span> 644, and about two years later, Sāhasī, who continued to oppose the foreign enemy, shared his father's fate. The sceptre then passed into the hands of a Brahman minister named Chach, who ruled for about forty years. Sind was invaded by the Arabs in <span class="sc">A. D.</span> 710–11 (<span class="sc">A. H.</span> 92), under the command of Muhammad, the son of Kāsim, who defeated and killed Dāhir, the son of Chach, in June, <span class="sc">A.D.</span> 712. From that date the ancient Hindu kingdom was extinguished, and the province passed permanently into Muslim hands.[^sec-30-fn-027]
 
 > _[Margin: Central India.]_
+
 The kings of Ujjain and other kingdoms in Central India, which must have been more or less subject to Harsha's control, belonged to the Brahman caste. The Ujjain country supported a dense population, comprising few Buddhists. Most of the monasteries were in ruins, and only three or four, occupied by some three hundred monks, were in use. The early decay of Buddhism in this region, which was sanctified by the traditions of Asoka, and included the magnificent buildings at Sānchī, is a curious fact, at present unexplained.
 
 
 <!-- page: 416 | folio: 370 -->
 > _[Margin: Kāmarūpa.]_
+
 Bhāskara-varman, or Kumāra Rāja, the King of Kāmarūpa, or Assam, who played such a prominent part in Harsha's ceremonials, also was described as being by caste a Brahman, and without faith in Buddha; although well disposed towards learned men of all religions. He was so far subject to the sovereign of Northern India, that he could not afford to disobey Harsha's commands.[^sec-30-fn-028]
 
 > _[Margin: Kaliṅga.]_
+
 Kaliṅga, the conquest of which had cost Asoka such bitter remorse nine hundred years earlier, was depopulated, and mostly covered with jungle. The pilgrim observes in picturesque language that 'in old days the kingdom of Kaliṅga had a very dense population. Their shoulders rubbed one with the other, and the axles of their chariot wheels grided together, and when they raised their arm-sleeves a perfect tent was formed'. Legend sought to explain the change by the curse of an angry saint.
 
 > _[Margin: Other kingdoms.]_
+
 Hiuen Tsang's account of Kashmīr, Nepāl, and the kingdoms of the South and West will be noticed in due course in subsequent chapters.
 
 > _[Margin: Effect of Harsha's death.]_
+
 Harsha's death loosened the bonds which restrained the disruptive forces always ready to operate in India, and allowed them to produce their natural result, a medley of petty states, with ever-varying boundaries, and engaged in unceasing internecine war. Such was India when first disclosed to European observation in the fourth century <span class="sc">B.C.</span>, and such it always has been, except during the comparatively brief periods in which a vigorous central government has compelled the mutually repellent molecules of the body politic to check their gyrations and submit to the grasp of a superior controlling force.
 
 > _[Margin: India's normal condition.]_
+
 The visitation of the Hun invasions had caused such suffering that the wholesome despotism of Harsha was recognized as a necessary remedy. When he died, the [p. 371] wounds inflicted by the fierce foreign savages had long been healed, while the freedom of the country from external attack relieved men's minds from feeling the necessity for a deliverer; and so India instantly reverted to her normal condition of anarchical autonomy.
 
 > _[Margin: Freedom from foreign aggression for five centuries.]_
+
 Excepting the purely local incursions of the Arabs in Sind and Gujarāt during the eighth century, interior India was exempt from serious foreign aggression for nearly five hundred years, from the defeat of Mihiragula in <span class="sc">a. d.</span> 528 until the raids of Mahmūd of Ghazni at the beginning of the eleventh century, and was left free to work out her destiny in her own fashion.
 
 > _[Margin: Polity, literature, and religion.]_
+
 In political institutions no evolution took place. No sovereign arose endowed with commanding abilities and capable of welding together the jarring members of the body politic, as Chandragupta Maurya, Asoka, and in a lesser degree the Gupta kings and Harsha of Kanauj had done. The nearest approach to the position of universal lord of Northern India was made by Mihira Bhoja of Kanauj (*c.* <span class="sc">a. d.</span> 840–90), but unluckily we know next to nothing about his character or administration. Even the heavy pressure of Muslim invasion failed to produce effective cohesion of the numberless Hindu States, which, one by one, fell an easy prey to fierce hordes of Arabs, Turks, and Afghans, bound together by stern fanaticism. Literature, although actively cultivated and liberally patronized at many local courts, sank far below the level attained by Kālidāsa. In mathematics, astronomy, or any other branch of science, little or no advance was made. Religion suffered a grave loss by the gradual extinction of Buddhism, which, in virtue of imperceptible changes, became merged in various Hindu sects. Only in Magadha and the neighbouring countries the religion of Gautama, under new forms, preserved a vigorous existence for four centuries (*c.* <span class="sc">a. d.</span> 780–1193), sustained by the support of Dharmapāla and his successors of the Pāla dynasty.
 
-> _[Locus: Fine art.]_
+> _[Margin: Fine art.]_
+
 The art of sculpture, devoted in most places to the service of the Hindu gods, and in the Pāla dominions to that of [p. 372] modified Buddhism, was developed in diverse styles by many schools of artists. The aesthetic value of that abundant mediaeval sculpture is the subject of keen controversy, admirers seeing in it the highest achievement of Hindu genius, while other critics are repelled by its lack of restraint and its tendency to lapse into ugly grotesqueness. The paintings of mediaeval times, unfortunately, have disappeared utterly, so that it is impossible to judge whether pictorial skill advanced or declined. The art of coinage certainly decayed so decisively that not even one mediaeval coin deserves notice for its aesthetic merits.
 
 > _[Margin: Architecture.]_
+
 But architecture was practised on a magnificent scale. Although most of the innumerable buildings erected were destroyed during the centuries of Muhammadan rule, even the small fraction surviving is enough to prove that the Hindu architects were able to plan with grandeur and to execute with a lavishness of detail which compels admiration while inviting hostile criticism by its excess of cloying ornament.
 
 > _[Margin: Petty states.]_
+
 The three following chapters, which attempt to give an outline of the salient features in the bewildering annals of Indian petty states when left to their own devices for several centuries, may perhaps serve to give the reader a notion of what India always has been when released from the control of a supreme authority, and what she would be again, if the hand of the benevolent power which now safeguards her boundaries should be withdrawn.
 
 
@@ -4739,49 +5424,63 @@ The three following chapters, which attempt to give an outline of the salient fe
 ##### *Relations with China and Tibet*
 
 > _[Margin: Chinese influence on northern frontier of India.]_
+
 <span class="sc">The</span> tenacity of the Chinese government in holding on to the most distant possessions of the empire has been exemplified in recent times by the recovery of Kāshgaria and Yunnan from Muhammadan powers, and of Kulja from the Russians. The history of the seventh and eighth centuries offers many illustrations of the same characteristic, and exhibits China as making the most determined efforts to exercise influence in, and assert suzerainty over, the countries on the northern frontier of India.
 
 > _[Margin: <span class="sc">a. d.</span> 502– 56. Ephthalite empire.]_
+
 In the first half of the sixth century the power of China in the ‘Western countries’ had vanished, and the Ephthalites, or White Huns, ruled a vast empire, which included Kāshgaria—the ‘Four Garrisons’ of Chinese writers— Kashmīr,[^sec-31-fn-001] and Gandhāra, the region near Peshāwar.
 
 > _[Margin: <span class="sc">a. d.</span> 565. Empire of Western Turks.]_
+
 About the year 565 (‘between 563 and 567’) the Ephthalite dominion passed into the hands of the Western Turks and Persians; but the grasp of the latter power on the provinces south of the Oxus soon relaxed, and the Turks became the heirs of the Ephthalites in the whole of their territory as far as the Indus. Accordingly, in <span class="sc">a. d.</span> 630, when Hiuen Tsang was on his way to India, his safety was assured by passports granted by Tong-she-hū, the ‘Kazan’, or supreme chief of the Western Turks, which guaranteed him protection as far as Kapisa.[^sec-31-fn-002]
 
 
 <!-- page: 421 | folio: 375 -->
 > _[Margin: <span class="sc">A. D.</span> 630. Chinese defeat of Northern Turks.]_
+
 In the same year the pilgrim's powerful protector was assassinated, and the Chinese, under the guidance of the emperor T'ai-tsung, the second prince of the Tang dynasty, inflicted upon the Northern or Eastern Turks a defeat so decisive that the vanquished became slaves to the Chinese for fifty years.
 
 > _[Margin: <span class="sc">A. D.</span> 640– 8. Chinese conquest of Kuchā, &c.]_
+
 When relieved from fear of the Northern Turks, the Chinese were able to turn their arms against the western tribes, and in the years 640–8 succeeded in occupying Turfān, Kara-shahr, and Kuchā, thus securing the northern road of communication between the East and West.
 
 > _[Margin: Friendly relations with Tibet.]_
+
 At this time Tibet was under the rule of the famous king, Srong-tsan-Gampo (acc. <span class="sc">A. D.</span> 629), who founded Lhāsa in <span class="sc">A. D.</span> 639, introduced Buddhism into his country, and, with the help of Indian scholars, devised the Tibetan alphabet.[^sec-31-fn-003] While still very young he married Bhrikuti, a daughter of the king of Nepāl, and two years later, in <span class="sc">A. D.</span> 641, he succeeded with much difficulty in winning by his victories the hand of the princess Wen-cheng, daughter of the Chinese emperor, T'ai-tsung. Both these ladies being zealous Buddhists, converted their young husband, and so determined the whole course of Tibetan history. The Church has not been slow to recognize the merit of its patrons. The king has been deified as an incarnation of Buddha, Avalokitesvara, the Saviour, while his Nepalese consort is revered as the 'Green Tārā' and the Chinese princess as the 'White Tārā'. The Chinese marriage secured the maintenance of friendly relations between Tibet and China during the life of Srong-tsan-Gampo, which ended, according to most authorities, in or about <span class="sc">A. D.</span> 698, but may possibly have come to a close several years earlier. In consequence, the Chinese envoys, in the years 643–5, when on their way to the court of Harsha, were able to pass through Tibet and its dependency Nepāl as allied countries, and both those kingdoms willingly sent [p. 376] troops to rescue Wang-Hiuen-tse from the troubles into which he fell after Harsha's death.[^sec-31-fn-004]
 
 > _[Margin: <span class="sc">a. d.</span> 659– 61. China in possession of empire of Western Turks.]_
+
 The work of subduing the Turks, begun by the emperor T'ai-tsung, was continued by his successor Kao-tsung (649–83), and, by the year 659, China was nominally mistress of the entire territory of the Western Turks, which was then formally annexed. In 661–5 China enjoyed unparalleled prestige, and had reached a height of glory never again attained. Kapisa (Ki-pin) was a province of the empire, and the imperial retinue included ambassadors from Udyāna, or the Suwāt valley, and from all the countries extending from Persia to Korea.
 
 > _[Margin: <span class="sc">a. d.</span> 670. Occupation of Kāshgaria by the Tibetans.]_
+
 But this magnificent extension of the empire did not last long. A terrible defeat inflicted by the Tibetans in 670 deprived China of Kāshgaria, or the 'Four Garrisons', which remained in the hands of the victors until <span class="sc">a. d.</span> 692, when the province was recovered by the Chinese.
 
 > _[Margin: <span class="sc">a. d.</span> 744. Final overthrow of the Northern Turks.]_
+
 Between 682 and 691 the Northern Turks had regained a good deal of the power which had been shattered by the defeat of 630, and even exercised a certain amount of control over the western tribes. But internal dissension was at all times the bane of the Central Asian nations, and the Chinese well knew how to take advantage of the national failing. They intervened in the tribal quarrels, with the support of the Uigurs and Karluks, with such effect that in 744 the Uigurs established themselves on the Orkhon in the eastern part of the Turkish territory; while, on the west, the Karluks gradually occupied the country of the Ten Tribes, and took [p. 377] possession of Tokmak and Talas, the former residences of the Turkish chiefs, to the west of Lake Issyk-kūl.
 
 > _[Margin: <span class="sc">a. d.</span> 665– 715. Routes between China and the west closed.]_
+
 Between 665 and 715 the government of China was unable to interfere effectually in the affairs of the countries between the Jaxartes (Syr Daryā) and the Indus; the southern route to the west through Kāshgaria having been closed by the Tibetans, and the roads over the Hindū Kush blocked by the conquests of Kotaiba, the Arab general, who was busily engaged in spreading the religion of the Prophet throughout Central Asia.
 
 > _[Margin: <span class="sc">a. d.</span> 715– 47. Revival of Chinese influence on borders of India.]_
+
 The accession of the emperor Hiuen-tsung, in 713, marks a revival of Chinese activity; and determined efforts were made by means of both diplomacy and arms to keep open the Pāmīr passes, and to check the ambition of the Arabs and Tibetans, who sometimes combined. In 719, Samarkand and other kingdoms invoked the aid of China against the armies of Islam; while the Arab leaders sought to obtain the co-operation of the minor states on the Indian borderland. The chiefs of Udyāna (Suwāt), Khottal (west of Badakshān), and Chitrāl, having refused to listen to Muslim blandishments, were rewarded by the emperor of China with letters patent conferring on each the title of king; and a similar honour was bestowed upon the rulers of Yasin (Little Po-lu), Zabulistan (Ghaznī), Kapisa, and Kashmīr. China made every effort to organize these frontier kingdoms, so as to form an effective barrier against both Arabs and Tibetans. Chandrāpīda, king of Kashmīr, received investiture as king from the emperor in 720, and his brother Muktāpīda-Lalitāditya was similarly honoured in 733.
 
 A few years later—in 744 and 747—Chinese influence had been so far extended that the emperor granted titles to the king of Tabaristān, south of the Caspian. In the latter year a Chinese army crossed the Pāmīrs, in spite of all difficulties, and reduced the king of Yasin to subjection.
 
 > _[Margin: <span class="sc">a. d.</span> 751. Rout of Chinese by Arabs and Karluks.]_
+
 But, as in the seventh century, so in the eighth, the Chinese dominion over the western countries was short-lived, and was shattered by a disastrous defeat inflicted in 751 on the Chinese general Sien-chi by the Arabs, who were aided by [p. 378] the Karluk tribes. Indirectly this disaster had an important consequence for European civilization. The art of making paper, up to that time a monopoly of remote China, was introduced into Samarkand by Chinese prisoners, and so became known to Europe, with results familiar to all.[^sec-31-fn-005]
 
 > _[Margin: Buddhism in Tibet.]_
+
 During the long reign of Thi-(or Khri-)srong-de-tsan (A.D. 743–789)[^sec-31-fn-006] the development of Buddhism in Tibet was encouraged with a zeal which did not shrink from persecution of the adherents of the rival indigenous Bon (or Pon) religion. The Indian sages, Sānta-rakshita and Padma-sambhava, were invited to court, and with their aid a system of clerical government was instituted, which survives to this day as Lamaism. The work of Thi-srong-de-tsan was continued and carried further by King Ralpachan (<span class="sc">a. d.</span> 816–38), but his successor, Langdarma, hated Buddhism, and did his best to extirpate it. A Lama avenged the wrongs of his co-religionists by assassinating the king, <span class="sc">a. d.</span> 842. During the eleventh century (<span class="sc">a.d.</span> 1013 and 1038), Buddhist missionaries from Magadha securely re-established Buddhism as the official and predominant religion of Tibet.[^sec-31-fn-007]
 
 > _[Margin: Contact with China.]_
+
 In the reign of Ralpachan a severe struggle with China took place, which was terminated by a peace recorded (822) in bilingual inscriptions at Lhāsa. In subsequent ages Tibetan relations with the Chinese empire varied much from time to time, but whatever they might be, they did not concern India. The final attainment of supremacy by China over Tibet was deferred until 1751. Since that date the [p. 379] Chinese government has always endeavoured to keep Europeans out of Tibet, and has generally succeeded in doing so. Tibetan affairs, consequently, long remained completely apart from Indian history. Contact between the politics of India and those of China had ceased in the eighth century,[^sec-31-fn-008] owing to the growth of Tibetan power at that time. It was not renewed until the conquest of Upper Burma in 1885, which made the Indian and Chinese empires conterminous. In these latter days, Tibet, which had been a dependency of China in greater or less degree for several centuries, has again come within the purview of the Indian government, and its affairs have been the subject of Anglo-Chinese diplomacy.[^sec-31-fn-009]
 
 
@@ -4791,24 +5490,31 @@ In the reign of Ralpachan a severe struggle with China took place, which was ter
 ##### *Nepāl*
 
 > _[Margin: Extent of Nepāl.]_
+
 The kingdom of Nepāl, as at present constituted, is a considerable self-governed state extending from Sikkim on the east to Kumāon on the west, for a distance of about 500 miles along the northern frontier of Tirhūt, Oudh, and the Agra Province. Except for a narrow strip of lowlands known as the Tarāi, the whole country is a maze of mountains and valleys. Strictly speaking, the name Nepāl should be restricted, and was confined in ancient times to the enclosed valley, about 20 miles in length by 15 in breadth, within which Kāthmandū, the capital, and many other towns and villages are situated. The policy of the existing government rigorously excludes Europeans from almost every part of the state except that valley, and consequently very little is known about the rest.
 
 > _[Margin: In Samudragupta's time.]_
+
 The earliest definite historical information concerning Nepāl, meaning the valley, is the statement in Samudragupta's great Allāhābād inscription of the fourth century [p. 380] after Christ, that, like Kāmarūpa or Assam, it was an autonomous frontier state, paying tribute and yielding obedience to the paramount Gupta power. The tribute probably was little more than nominal and the obedience intermittent. At the present day the Nepālese Government, although practically independent, sends presents or tribute to the Emperor of China, and recognizes in a vague way the suzerainty of that potentate, while receiving a British Resident and subordinating its foreign policy to the direction of the Government of India.
 
 > _[Margin: In Asoka's time.]_
+
 Local tradition affirms that long before the time of Samudragupta, in the days of Asoka, in the third century <span class="sc">b.c.</span>, the valley was under his control, and this tradition is confirmed by the existence at the town of Pātan of monuments attributed to him and his daughter, and by inscriptions which prove that the lowlands at the foot of the hills were an integral part of his empire.[^sec-31-fn-010] The distance from Pātaliputra to the valley of Nepāl not being great, it is probable that that territory formed part of the home provinces and was administered directly from the Maurya capital.
 
 > _[Margin: Local annals.]_
+
 It is impossible to say exactly what happened between the time of Asoka and that of Samudragupta. The local annals, which exist in abundance, do not bear strict criticism, and give little information of value. The ruling dynasty during the sixth and the early part of the seventh century was a Lichchhavi family, but its exact connexion with the Lichchhavis of Vaisāli is not ascertainable. The Nepālese Lichchhavis are described by Hiuen Tsang as being eminent scholars and believing Buddhists, ranking as Kshatriyas.[^sec-31-fn-011]
 
 > _[Margin: Seventh century and later.]_
+
 During the seventh century Nepāl occupied the position of a buffer state between Tibet on the north, then a great power in Asia, and the empire of Harsha of Kanauj on the south. King Amsuvarman, founder of the Thākuri dynasty, who died about <span class="sc">a.d.</span> 642, was in close touch with Tibet by reason [p. 381] of his daughter's marriage to Srong-tsan-Gampo, the monarch of that country, who was strong enough to compel the emperor of China to give him the princess Wen-cheng as second consort in 641.[^sec-31-fn-012] After Harsha's death Tibetan and Nepālese troops acted together in support of Wang-hiuen-tse, the Chinese envoy, and against the usurper of Harsha's throne (*ante*, p. 366). It is also certain that at the beginning of the eighth century Nepāl was still dependent on Tibet, and continued in that position until <span class="sc">a. d.</span> 703, when it, together with Tirhūt, shook off dependence on Tibet. The Tibetan king was killed in the course of the war.[^sec-31-fn-013] The reason for the introduction of a new Nepālese era dating from October, <span class="sc">a. d.</span> 879, is not known. Chinese relations with Nepāl and India had come to an end soon after the middle of the eighth century. In recent times wars between China and Nepāl have resulted in a complimentary recognition by the smaller state of the suzerainty of the greater.
 
 > _[Margin: Gurkha conquest.]_
+
 The confused and bloodstained story of the various petty dynasties which ruled in Nepāl up to <span class="sc">a. d.</span> 1768 possesses no general interest. In that year the Gurkhas conquered the country, and established the dynasty which now rules Nepāl through the agency of powerful ministers who have taken over all the substantial functions of sovereignty, reducing the nominal monarchs to a position of absolute insignificance.
 
 > _[Margin: Nepālese Buddhism.]_
+
 Buddhism, in its early pure form, was introduced into the valley by Asoka, whose daughter is believed to have erected sacred edifices near the capital, which are still pointed out. Little or nothing is known concerning the religious history of the country for many hundred years afterwards. In the seventh century the prevailing religion appears to have been a much modified Tantric variety of the 'Great Vehicle' Buddhist doctrine, allied so closely to the orthodox Hindu cult of Siva as to be distinguishable from it with difficulty.
 
 
@@ -4816,6 +5522,7 @@ Buddhism, in its early pure form, was introduced into the valley by Asoka, whose
 In the course of ages the corruption of the church increased, and Nepāl now presents the strange spectacle of so-called monasteries swarming with the families of married 'monks' engaged in all sorts of secular occupations.[^sec-31-fn-014] The spontaneous progress of the decay of Buddhism, which had been operating in Nepāl for centuries, has been much hastened by the action of the Gurkha Government, to which Buddhist rites are obnoxious; and there is good reason to believe that in the course of a few generations Nepālese Buddhism will be almost extinct.
 
 > _[Margin: Decay of Buddhism in India.]_
+
 The total disappearance of the Buddhist worship from India, the land of its birth, has been the subject of much discussion and some misconception. Until lately the assumption commonly was made that Buddhism had been extinguished by a storm of Brahman persecution. That is not the true explanation. Occasional active persecutions by Hindu kings, like Sasāṅka, which no doubt occurred, though rarely, formed a factor of minor importance in the movement which slowly restored India to the Brahmanical fold. The furious massacres perpetrated in many places by Musalman invaders were more efficacious than orthodox Hindu persecutions, and had a great deal to do with the disappearance of Buddhism in several provinces. But the main cause was the gradual, almost insensible, assimilation of Buddhism to Hinduism, which attained to such a point that often it is nearly impossible to draw a line between the mythology and images of the Buddhists and those of the Hindus. This process of assimilation is going on now before our eyes in Nepāl, and the chief interest which that country offers to some students is the opportunity presented by it for watching the manner in which the octopus of Hinduism is slowly strangling its Buddhist victim. The automatic compression of the dying cult by its elastic rival is aided by the action of the Government, which throws its influence and favour on [p. 383] the side of the Hindus, while abstaining from violent persecution of the Buddhists.[^sec-31-fn-015]
 
 
@@ -4825,24 +5532,31 @@ The total disappearance of the Buddhist worship from India, the land of its birt
 ##### *Kāmarūpa or Assam*
 
 > _[Margin: Extent of kingdom.]_
+
 The ancient kingdom of Kāmarūpa, although roughly equivalent to Assam, generally occupied an area larger than that of the modern province, and extended westward to the Karatōya river,[^sec-31-fn-016] thus including the Kūch Bihār State and the Rangpur District. The earliest notice of the kingdom which is of any use for the purposes of the historian is the statement in Samudragupta's inscription on the Allāhābād pillar, recorded about <span class="sc">A. D.</span> 360 or 370, that Kāmarūpa was then one of the frontier states outside the limits of the Gupta empire, but paying tribute and owing a certain amount of obedience to the paramount power.[^sec-31-fn-017]
 
 > _[Margin: Hiuen Tsang.]_
+
 The next glimpse of this remote region is afforded by the Chinese pilgrim Hiuen Tsang. When he was staying for the second time at the Nālandā monastery, early in <span class="sc">A. D.</span> 643, he was compelled, much against his will, to pay a visit to the king of Kāmarūpa, who insisted on making the acquaintance of the renowned scholar, and would not take a refusal. After a short stay at the capital of Kāmarūpa, Harsha Sīlāditya, the Kanauj sovereign, sent a message commanding that Hiuen Tsang should be sent to him. The king replied that Harsha might take his head if he could, but should not get his Chinese visitor. However, when Harsha sent a peremptory order to the effect that he would trouble the king to send back his head by the messenger, that potentate, [p. 384] on second thoughts, deemed it advisable to comply with the request of his suzerain, and hastened to meet Harsha, bringing the pilgrim with him.
 
-> _[Margin: Bhāskaravar- man or Kumāra.]_
+> _[Margin: Bhāskaravarman or Kumāra.]_
+
 This king was named Bhāskaravarman, and was also known as Kumāra. He belonged to a very ancient dynasty, which claimed to have existed for a thousand generations. Hiuen Tsang describes him as being a Brahman by caste, but the form of his name indicates that he considered himself to be a Kshatriya or Rājpūt, and it would seem that the pilgrim really meant that Bhāskaravarman was a Brahmanical Hindu in religion. He may have been a ‘Brahmakshatrī’, as the Sena kings were in later times. Buddhism was scarcely known in his country, which did not contain a single monastery.[^sec-31-fn-018]
 
 > _[Margin: The Pāla dynasty.]_
+
 Practically nothing more is on record concerning the political history of Kāmarūpa for several centuries. The kingdom was included in the dominions of some of the Pāla kings of Bengal, and Kumārapāla, a member of that dynasty, in the twelfth century appointed his minister Vaidyadeva as ruler of the province with royal powers.[^sec-31-fn-019]
 
 > _[Margin: The Āhōms.]_
+
 Early in the thirteenth century, about <span class="sc">A. D.</span> 1228, the invasions of the Shān tribe named Āhōm began. Gradually the Āhōm chiefs made themselves masters of the country, and established a dynasty which lasted until the British occupation in 1825.[^sec-31-fn-020] The dynastic history of Kāmarūpa, being only of local interest, need not be considered further.
 
 > _[Margin: Religion.]_
+
 The claims which the province can fairly make on the respectful attention of the outer world rest on other grounds. It is a gate through which successive hordes of immigrants from the great hive of the Mongolian race in Western China have poured into the plains of India, and many of the resident tribes still are almost pure Mongolians. The religion of such tribes is of more than local concern, because it supplies the clue to the strange Tantric developments of both Buddhism and Hinduism which are so characteristic of [p. 385] mediaeval and modern Bengal. The temple of Kāmākhyā near Gauhāti is one of the most sacred shrines of the Sākta Hindus, the worshippers of the female forms of deity, while the whole country is renowned in Hindu legend as a land of magic and witchcraft. The old tribal beliefs are being abandoned gradually in favour of extreme, or even fanatical, Hindu orthodoxy, and the history of Assam offers many examples of the process by which Brahman priests have established their influence over non-Aryan chiefs step by step, and drawn them within the roomy fold of Hinduism. All the various methods of conversion and absorption enumerated by Sir Alfred Lyall and Sir H. Risley have been adopted from time to time.[^sec-31-fn-021]
 
 > _[Margin: Muhammadan attacks.]_
+
 Another good claim to notice is based upon the fact that Assam is one of the few Indian provinces the inhabitants of which successfully beat back the flowing tide of Muhammadan conquest, and maintained their independence in spite of repeated attempts to subvert it. The only Musalman invasion of Kāmarūpa which comes within the limits of the period treated in this volume is the expedition rashly undertaken in <span class="sc">a. d.</span> 1204–5 (<span class="sc">a. h.</span> 601) by the son of Bakhtyār, Muhammad, the conqueror of Bengal and Bihār. He advanced northwards along the bank of the Karatōya river, which then formed the western frontier of Kāmarūpa, and succeeded in penetrating into the mountains to the north of Darjeeling, but being unable to obtain any secure foothold, was obliged to retreat. His retirement was disastrous. The people of Kāmarūpa having broken down the great stone bridge of many arches, which was the only means by which he could cross the river in safety, nearly all his men were drowned. The leader of the expedition managed to swim across with about a hundred horsemen, and then fell ill from distress at his failure. Next year, <span class="sc">a. d.</span> 1205–6 (<span class="sc">a. h.</span> 602), he was assassinated.[^sec-31-fn-022] Subsequent Muhammadan incursions [p. 386] were equally unsuccessful. The Muslim historian, who accompanied Mīr Jumla on his invasion of the country in 1662, expresses in striking phrases the horror with which the country and its people were regarded by strangers.[^sec-31-fn-023] The kingdom retained its autonomy until 1816, when the Burmese appeared and occupied the country until 1824. They were expelled by British troops, and early in 1826 Assam became a province of the Indian empire.
 
 
@@ -4852,21 +5566,20 @@ Another good claim to notice is based upon the fact that Assam is one of the few
 ##### *Kashmīr*
 
 > _[Margin: Kashmīr: early history.]_
+
 A detailed account of the history of Kashmīr would fill a volume; in this place a brief notice of some of the leading passages will suffice. The valley had been included in the Maurya empire in the time of Asoka, and again in the Kushān dominion in the days of Kanishka and Huvishka. Harsha, although not strong enough to annex Kashmīr, was yet able to compel the king to surrender a cherished relic, an alleged tooth of Buddha, which was carried off to Kanauj. The authentic chronicles of the kingdom begin with the Karkota dynasty, which was founded by Durlabhavardhana during Harsha's lifetime. Hiuen Tsang spent two years in Kashmīr, from about May 631 to April 633, and was received with distinguished honour by the unnamed reigning king, presumably Durlabhavardhana. That prince and his son Durlabhaka are credited with long reigns.
 
 > _[Margin: <span class="sc">A. D.</span> 720. Chandrāpīḍa; <span class="sc">A. D.</span> 733– 69. Muktāpīḍa.]_
-The latter was succeeded by his three sons in order; the eldest of whom, Chandrāpīḍa, received investiture as king from the Emperor of China in 720; by whom the third son Muktāpīḍa, also known as Lalitāditya, was similarly honoured in 733. This prince, who is said to have reigned for thirty-six years, extended the power of Kashmīr far beyond its normal mountain limits, and about the year 740 inflicted a crushing defeat upon Yasovarman, king of Kanauj.[^sec-31-fn-024] He also vanquished the Tibetans, Bhūtias, and
+
+The latter was succeeded by his three sons in order; the eldest of whom, Chandrāpīḍa, received investiture as king from the Emperor of China in 720; by whom the third son Muktāpīḍa, also known as Lalitāditya, was similarly honoured in 733. This prince, who is said to have reigned for thirty-six years, extended the power of Kashmīr far beyond its normal mountain limits, and about the year 740 inflicted a crushing defeat upon Yasovarman, king of Kanauj.[^sec-31-fn-024] He also vanquished the Tibetans, Bhūtias, and [p. 387] the Turks on the Indus. His memory has been perpetuated by the famous Mārttāṇḍa temple of the Sun, built by him, and still existing. The acts of this king, and all that he did, with something more, are set forth at large in Kalhaṇa's chronicle.
 
 
 <!-- page: 434 | folio: 386 -->
 
 ![THE MĀRTĀṆḌA TEMPLE OF THE SUN, KASHMĪR](../figures/fig-016_p0434.webp)
 
-
-<!-- page: 435 | folio: 387 -->
-the Turks on the Indus. His memory has been perpetuated by the famous Mārttāṇḍa temple of the Sun, built by him, and still existing. The acts of this king, and all that he did, with something more, are set forth at large in Kalhaṇa's chronicle.
-
 > _[Margin: Jayāpīda; close of the eighth century.]_
+
 Jayāpīda, or Vinayāditya, the grandson of Muktāpīda, is credited with even more adventures than those ascribed to his grandfather. Probably it is true that he defeated and dethroned the king of Kanauj, apparently Vajrāyudha. But the romantic tale of his visit *incognito* to the capital of Pauṇḍravardhana in Bengal, the modern Rājshāhi District, then the seat of government of a king named Jayanta, unknown to sober history, seems to be purely imaginary. The legend of his expedition against a king of Nepāl, with the strange name Aramudi, of his capture and imprisonment in a stone castle, and of his marvellous escape, equally belongs to the domain of romance. The details of the acts of cruelty and oppression, due to avarice, which disgraced the later years of his reign, read like matters of fact, and unhappily are quite in accordance with the low moral standard of most of the rulers of Kashmīr. The chronicler closes his narrative with the following quaint comment :
 
 > 'Such was for thirty-one years the reign of this famous king, who could not restrain his will. Princes and fishes, when their thirst is excited by riches and impure water respectively, leave their place and follow evil ways, with such result that they are brought into the strong net of death—the former by changes which fate dictates, and the latter by troops of fishermen.'
@@ -4874,15 +5587,19 @@ Jayāpīda, or Vinayāditya, the grandson of Muktāpīda, is credited with even 
 The substantial existence of Jayāpīda is testified by the survival of multitudes of exceedingly barbarous coins inscribed with his title Vinayāditya.[^sec-31-fn-025]
 
 > _[Margin: A.D. 855– 83. Avantivarman.]_
+
 The reign of Avantivarman, in the latter part of the ninth century, was notable for his enlightened patronage of literature, and for the beneficent schemes of drainage and [p. 388] irrigation carried out by Suyya, his minister of public works.[^sec-31-fn-026]
 
 > _[Margin: <span class="sc">A. D.</span> 883– 902. Śankaravarman.]_
+
 The next king, Sankaravarman, distinguished himself in war ; but is chiefly remembered as the author of an ingenious system of fiscal oppression, and the plunderer of temple treasures. The details of his exactions are worth reading as proving the capacity for unlimited and ruthless extortion of an Oriental despot without a conscience.[^sec-31-fn-027]
 
 > _[Margin: End of the Shāhiya dynasty.]_
+
 During his reign the last of the Turki Shāhiya kings, the descendants of Kanishka, was overthrown by the Brahman Lalliya. The Turkī Shāhiya kings had ruled in Kābul until the capture of that city by the Arab general Yakūb-i-Lāis in <span class="sc">A. D.</span> 870 (<span class="sc">A. H.</span> 256).[^sec-31-fn-028] After that date the capital was shifted to Ohind, on the Indus. The dynasty founded by Lalliya, known as that of the Hindu Shāhiyas, lasted until <span class="sc">A. D.</span> 1021, when it was extirpated by the Muhammadans.[^sec-31-fn-029]
 
 > _[Margin: Famine in <span class="sc">A. D.</span> 917– 18.]_
+
 In the reign of the child-king Pārtha and his father Pangu, the regent, an awful famine occurred in the year <span class="sc">A. D.</span> 917–18, thus described by the Brahman historian of a Hindu government :—
 
 > ‘ One could scarcely see the water in the Vitastā (Jihlam), entirely covered as the river was with corpses soaked and swollen by the water in which they had long been lying. The land became densely covered with bones in all directions, until it was like one great burial-ground, causing terror to all beings. The king’s ministers and the Tantrins (Praetorian guards) became wealthy, as they amassed riches by selling stores of rice at high prices. The king would take that person as minister who raised the sums due on the Tantrins’ bills, by selling the subjects in such a condition. As one might look from his hot bath-room upon all the people outside distressed by the wind and rain of a downpour in the forest, thus for a long time the wretched Pangu, keeping in his palace, praised his own comfort while he saw the people in misery.’ [^sec-31-fn-030]
@@ -4892,18 +5609,23 @@ This gruesome picture may give cause for reflection to some critics of modern me
 
 <!-- page: 437 | folio: 389 -->
 > _[Margin: Unmattāvanti, <span class="sc">A. D.</span> 937– 9.]_
+
 Pārtha chastised his people with whips, but his son Unmattāvanti, ‘who was worse than wicked,’ chastised them with scorpions. ‘With difficulty’, sighs the chronicler, ‘I get my song to proceed, since from fear of touching the evil of this king’s story it keeps back like a frightened mare.’ Parricide was one of his many crimes. The details of his brutalities are too disgusting for quotation. Happily his reign was short, and he died the victim of a painful disease in <span class="sc">A. D.</span> 939.[^sec-31-fn-031]
 
 > _[Margin: <span class="sc">A. D.</span> 950– 1003. Queen Diddā.]_
+
 During the latter half of the tenth century, power was in the hands of an unscrupulous queen, named Diddā, the granddaughter of a Shāhiya king, who, first as a queenconsort, then as regent, and ultimately as sovereign for twenty-three years, misgoverned the unhappy state for half a century.
 
 > _[Margin: <span class="sc">A. D.</span> 1003–28. Saṅgrāma.]_
+
 In the reign of her nephew, Saṅgrāma, the kingdom suffered an attack from Mahmūd of Ghaznī; and, although its troops were defeated by the invader, preserved its independence, which was protected by the inaccessibility of the mountain barriers.
 
 > _[Margin: <span class="sc">A. D.</span> 1063–89. Kalasa. <span class="sc">A. D.</span> 1089– 1101. Harsha.]_
+
 During the second half of the eleventh century, Kashmīr, which has been generally unfortunate in its rulers, endured unspeakable miseries at the hands of the tyrants Kalasa and Harsha. The latter, who was evidently insane, imitated Sankaravarman in the practice of plundering temples, and rightly came to a miserable end. Few countries can rival the long Kashmīr list of kings and queens who gloried in shameless lust, fiendish cruelty, and pitiless misrule.
 
 > _[Margin: <span class="sc">A. D.</span> 1339. Muhammadan local dynasty.]_
+
 A local Muhammadan dynasty obtained power in 1339, and the religion of Islam gradually spread in the valley during the fourteenth century; but the natural defences of the kingdom effectually guarded it against the ambition of the sovereigns of India, until Akbar conquered it in 1587, and incorporated it in the Moghal empire.[^sec-31-fn-032]
 
 
@@ -4915,56 +5637,73 @@ A local Muhammadan dynasty obtained power in 1339, and the religion of Islam gra
 ##### *The kingdoms of Kanauj (Pañchāla), the Panjāb, Ajmēr, Delhi, and Gwālior; Muhammadan conquest of Hindustan.*
 
 > _[Margin: **Kanauj city.**]_
+
 Before proceeding to discuss the history of the kingdom of Kanauj, it will be well to give some account of the famous capital city, which is now represented by a petty Muhammadan country town (N. lat. 27° 3′, E. long. 79° 56′) in the Farrukhābād District of the United Provinces. Kanauj was of high antiquity. It is mentioned in several passages of the *Mahābhārata*, and alluded to by Patanjali in the second century <span class="sc">B.C.</span> as a well-known place. It has been so completely destroyed that nothing beyond rubbish heaps remains to testify to the former existence of its gorgeous temples, monasteries, and palaces. Commentators usually take it for granted that Kanauj is mentioned twice, under the variant names of Kanagora and Kanogiza,[^sec-31-fn-033] in Ptolemy's *Geography*, written about <span class="sc">A.D.</span> 140, but there is little reason to warrant the belief. The first certain mention of the city with any descriptive details is in the *Travels* of the Chinese pilgrim Fa-hien, who visited Kanauj about <span class="sc">A.D.</span> 405, during the reign of Chandra-gupta II, Vikramāditya. His remark that the city possessed only two Buddhist monasteries of the Hīnayāna school and one *stūpa* suggests that it was not of much importance at the beginning of the fifth century.[^sec-31-fn-034] Probably it grew under the patronage of the Gupta kings, but the great development of the city clearly was due to its selection by Harsha for his capital. When Hiuen Tsang stayed there, in 636 and 643, a marked change had occurred since Fa-hien's time. The later pilgrim, instead of two monasteries, found upwards of a hundred such institutions, crowded by more than 10,000 brethren of both the great schools. Hinduism flourished as well as Buddhism, and could show more than two hundred temples, with thousands [p. 391] of worshippers. The city, which was strongly fortified, then extended along the east bank of the Ganges for about 4 miles, and was adorned with lovely gardens and clear tanks. The inhabitants were well-to-do, including some families of great wealth ; they dressed in silk, and were skilled in learning and the arts.[^sec-31-fn-035]
 
 > _[Margin: Captured and destroyed.]_
+
 Although Kanauj had been captured several times by hostile armies during the ninth and tenth centuries, it recovered quickly from its wounds, and when Mahmūd appeared before its walls, at the end of <span class="sc">A. D.</span> 1018, was still a great and stately city, defended by seven distinct forts or fortifications and reputed to contain 10,000 temples. The Sultan destroyed the temples, but seems to have spared the city. The removal of the capital of Panchāla to Bārī must have greatly reduced the population and importance of Kanauj, although it revived to some extent under the rule of the Gaharwār Rājas in the twelfth century. The subjugation of Rāja Jaichand’s territory, including the city, in <span class="sc">A. D.</span> 1194 (<span class="sc">A. H.</span> 590), by Shihāb-ud-dīn, reduced it to insignificance for ever. Its final destruction was the work of Shēr Shah, who built a new town close by, called Shēr Sūr, to commemorate his victory over Humāyūn in 1540. The Muhammadan historian who chronicles the event observes that he could not find any satisfactory reason for the destruction of the old city, and that the act was very unpopular.[^sec-31-fn-036]
 
 > _[Margin: Kingdom of Pañchāla.]_
+
 Kanauj, although it twice attained the dignity of being the capital of Northern India, for the first time under Harsha in the seventh century, and for the second time under Mihira Bhoja and Mahendrapāla in the ninth and tenth centuries, was primarily the capital of the kingdom of Panchāla. According to the story told in the *Mahābhārata*, Northern Panchāla, with its capital Ahichchhatra, fell to the share of Drona, while Southern Panchāla, with its capital Kāmpilya, became the kingdom of Drupada. Ahichchhatra, the modern [p. 392] Rāmnagar in the Barēli (Bareilly) District, was still a considerable town when visited by Hiuen Tsang in the seventh century. Little is known about the history of Kāmpilya, apparently the modern Kampil in the Farrukhābād District.[^sec-31-fn-037] Both the ancient capitals were thrown into obscurity by the rapid development of Kanauj under Harsha's rule, and after his time that city was the undisputed capital of Panchāla.
 
 > _[Margin: Anarchy after Harsha's death.]_
+
 Harsha's death, in <span class="sc">a.d.</span> 647, was followed by a period of disturbance and anarchy throughout his wide dominions. We do not know what happened to the kingdom of Panchāla immediately after the suppression of the usurper, about <span class="sc">a.d.</span> 650, by the Chinese ambassador with the help of his Nepalese and Tibetan allies, as related in the thirteenth chapter.
 
 > _[Margin: Rājas of Kanauj in the eighth century.]_
+
 After Harsha's death the earliest known king of Kanauj was Yasovarman, who sent an embassy to China in <span class="sc">a.d.</span> 731,[^sec-31-fn-038] and nine or ten years later was dethroned and slain by Lalitāditya Muktāpīda of Kashmir.[^sec-31-fn-039] In the history of Sanskrit literature Yasovarman's name holds an honoured place as that of the patron of Bhavabhūti, the famous author of the *Mālatīmādhava*, and of Vākpatirāja, a less renowned author, who wrote in Prākrit. The next occupant of the throne of Kanauj apparently was Vajrāyudha, who, like his predecessor, suffered the fate of defeat and dethronement by Lalitāditya's son, Jayāpīda.[^sec-31-fn-040] Similar ill-luck attended his successor, Indrāyudha, who is known to have been reigning in <span class="sc">a.d.</span> 783, and was dethroned, about <span class="sc">a.d.</span> 810, by Dharmapāla, king of Bengal and Bihār. The eastern monarch, while probably insisting on a right to homage and tribute, did not keep the administration of Panchāla in his own hands, but entrusted it to Chakrāyudha, presumably [p. 393] a relative of the defeated rāja. The new ruler was consecrated with the consent of the kings of all the neighbouring states.[^sec-31-fn-041] His fortune was no better than that of his predecessors. About <span class="sc">a.d.</span> 816 he was deprived of his throne by Nāgabhaṭa, the ambitious king of the Gurjara-Pratihāra kingdom in Rājputāna, the capital of which was at Bhilmāl.[^sec-31-fn-042]
 
 > _[Margin: Nāgabhaṭa and Rāmabhadra.]_
+
 Nāgabhaṭa presumably transferred the head-quarters of his government to Kanauj, which certainly was the capital of his successors for many generations, and so again became for a considerable time the premier city of Northern India. During the reign of Nāgabhaṭa the chronic warfare between the Gurjaras, descendants of foreign invaders, and the Rāshtrakūtas (Rāthōrs) of the Deccan, representing the indigenous ruling races, continued, and the southern king, Govinda III, claims to have won a victory over his northern rival early in the ninth century.[^sec-31-fn-043] Nothing particular is recorded about Nāgabhaṭa's successor, Rāmabhadra (Rāmadeva), who reigned from about <span class="sc">a.d.</span> 834 to 840.
 
 > _[Margin: Mihira Bhoja.]_
+
 The next king, Rāmabhadra's son Mihira, usually known by his title Bhoja, enjoyed a long reign of about half a century (*c.* 840–90), and beyond question was a very powerful monarch, whose dominions may be called an 'empire' without exaggeration. They certainly included the Cis-Sutlaj districts of the Panjāb, most of Rājputāna, the greater part, if not the whole, of the present United Provinces of Agra and Oudh, and the Gwālior territory. The next two kings being known to have held the remote province of Surāshtra, or Kāthiāwār, in the extreme west, the possession of which implies control over Gujarāt and Mālava or Avanti, it is highly probable that these distant regions also were [p. 394] subject to the sway of Bhoja. On the east his dominions abutted on the realm of Devapāla, king of Bengal and Bihār, which he invaded successfully; on the north-west his boundary probably was the Sutlaj river; on the west the lost Hakrā or Wahindah river separated his territories from those of his enemies, the Muhammadan chiefs of Sind; on the south-west his powerful Rāshtrakūta rival, the ally of the Muhammadans, kept his armies continually on the alert; while on the south his next neighbour was the growing Chandēl kingdom of Jejākabhukti, the modern Bundelkhand, which probably acknowledged his suzerainty.[^sec-31-fn-044] Bhoja liked to pose as an incarnation of Vishnu, and therefore assumed the title of *Ādi Varāha*, 'the primaeval boar,' one of the incarnations of the god. Base silver coins inscribed with this title are exceedingly common in Northern India, and by their abundance attest the long duration and wide extension of Bhoja's rule.[^sec-31-fn-045] Unfortunately no Megasthenes or Bāna has left a record of the nature of his internal government, and it is impossible to compare the polity of Bhoja with that of his great forerunners.
 
 > _[Margin: Mahendrapāla.]_
+
 Bhoja's son and successor, Mahendrapāla (Mahendrāyudha) (*c.* <span class="sc">a.d.</span> 890–908) preserved unimpaired the extensive heritage received from his father, and ruled all Northern India, except the Panjāb and Indus valley, from the borders of Bihār (Magadha) to the shore of the Arabian sea. Inscriptions of his eighth and ninth years found at Gayā seem to prove that Magadha was included in the Parihār (Pratihāra) dominions for some time. His teacher (*Guru*) was the celebrated poet Rājasekhara, author of the *Karpūra-mañjarī* play and other works, who continued to reside at the court of Mahendrapāla's younger son.[^sec-31-fn-046]
 
 
 <!-- page: 443 | folio: 395 -->
 > _[Margin: Bhoja II and Mahīpāla.]_
+
 The throne was occupied for two or three years by Bhoja II, elder son of Mahendrapāla, who died early, and was succeeded by his half-brother, Mahīpāla (*c.* <span class="sc">a. d.</span> 910–40).[^sec-31-fn-047] The beginning of the decline and fall of the empire of Kanauj dates from his reign. In <span class="sc">a. d.</span> 916 the armies of the Rāshtrakūta king, Indra III, once more captured Kanauj, and gave a severe blow to the power of the Pratīhāra dynasty.[^sec-31-fn-048] Surāshtra, which was still subject to Mahīpāla in 914,[^sec-31-fn-049] probably was then lost along with other remote provinces, in consequence of the successes gained by the southern monarch. Indra III not being in a position to hold Kanauj, Mahīpāla recovered his capital with the aid of the Chandēl king, and probably other allies.[^sec-31-fn-050]
 
 > _[Margin: Devapāla.]_
+
 The waning power of Kanauj and the waxing strength of Jejākabhukti are shown by the incident that king Devapāla of Kanauj (*c.* 940–55) was obliged to surrender a muchprized image of Vishnu to the Chandēl king, Yasovarman, who enshrined it in one of the finest temples at Khajurāho.[^sec-31-fn-051] Yasovarman had established his power by the occupation of the strong fortress of Kālanjar, and no doubt became absolutely independent of Kanauj. In the reign of Dhanga, the successor of Yasovarman, the Jumna is known to have formed the boundary between the territories of Panchāla and those of Jejākabhukti.
 
 > _[Margin: Vijayapāla.]_
+
 Devapāla was succeeded by his brother, Vijayapāla (*c.* <span class="sc">a. d.</span> 960–90),[^sec-31-fn-052] whose reign is marked by the loss of Gwālior, the ancient possession of his house, which was captured by a Kachchhwāha (Kachchhapaghāta) chief named [p. 396] Vajradāman,[^sec-31-fn-053] the founder of a local dynasty which held the fortress until <span class="sc">a.d.</span> 1128. The establishment of the Solankī (Chaulukya) kingdom of Anhilwāra in Gujarāt by Mūlarāja, about the middle of the tenth century, shows that the king of Kanauj no longer had any concern with Western India.[^sec-31-fn-054] The Gwālior chieftain became a feudatory of the Chandēl monarchy, which, under Dhanga (*c.* 1000–1050), evidently was stronger than its rival of Kanauj.
 
 > _[Margin: Muhammadan invasions.]_
+
 At this period the politics of the Hindu Rājpūt states of Northern India became complicated by the intrusion of Muhammadan invaders. The Arab conquest of Sind, in <span class="sc">a.d.</span> 712, did not seriously affect the kingdoms of the interior. The Arabs maintained friendly relations on the whole with their powerful Rāshtrakūta neighbours on the south, and their attacks on the dominions of the Gurjara kings of Rājputāna and Kanauj do not seem ever to have exceeded the proportions of frontier raids. But now the armies of Islam began to appear in more formidable fashion through the north-western passes, the gates which had so often admitted the enemies of India.
 
 > _[Margin: Sabuktigīn and Jaipāl.]_
+
 In those days a large kingdom comprising the upper valley of the Indus and most of the Panjāb to the north of Sind, extending westward to the mountains and eastward to the Hakrā river, was governed by a Rāja named Jaipāl, whose capital was at Bathindah (Bhatinda), the Tabarhind of Muhammadan histories, now in the Patiālā State, and for many centuries an important fortress on the military road connecting Mūltān with India proper.[^sec-31-fn-055] Sabuktigīn, the Amīr of Ghaznī, made his first raid into Indian territory in [p. 397] <span class="sc">a. d.</span> 986–7 (<span class="sc">a. h.</span> 376). Two years later Jaipāl retaliated by an invasion of the Amīr's territory, but, being defeated, was compelled to accept a treaty binding him to pay a large sum in cash, and to surrender a number of elephants and four fortresses to the west of the Indus. Jaipāl having broken the compact, Sabuktigīn punished him by the devastation of the frontier and the annexation of Lamghān (Jalālābād). Soon afterwards (*c.* <span class="sc">a. d.</span> 991) Jaipāl made a final effort to save his country by organizing a great confederacy of Hindu princes, including Ganda, the Chandēl king, Rājyapāla, then the king of Kanauj, and others. The vast host thus collected was disastrously defeated in or near the Kurram (Kurmah) valley, and Peshāwar was occupied by the Muhammadans. Jaipāl, who was again defeated in November, 1001, by Sultan Mahmūd, committed suicide, and was succeeded by his son, Anandpāl,[^sec-31-fn-056] who, like his father, joined a confederacy of the Hindu powers under the supreme command of Vīsaladeva, the Chauhān Rājā of Ajmēr. In spite of assistance from the powerful Khokhar tribe of the Panjāb, the Hindus again sustained a heavy defeat.
 
 > _[Margin: Rājyapāla ; Sultan Mahmūd.]_
+
 At Kanauj, Vijayapāla had been succeeded by his son Rājyapāla, who took his share in opposing the foreign invader. A few years later (<span class="sc">a. d.</span> 997) the crown of Sabuktigīn descended, after a short interval of dispute, to his son, the famous Sultan Mahmūd, who made it the business of his life to harry the idolaters of India, and carry off their property to Ghaznī. He is computed to have made no less than seventeen expeditions into India. It was his custom to leave his capital in October, and then three months' steady marching brought him into the richest provinces of the interior. Early in January, <span class="sc">a. d.</span> 1019, he appeared before Kanauj. Rājyapāla made no serious attempt to defend his capital, and the seven forts which guarded it all [p. 398] fell into Mahmūd’s hands in a single day. The conqueror plundered the forts but seems to have spared the city, and quickly returned to Ghaznī laden with booty. Rājyapāla made the best terms that he could obtain, abandoned Kanauj, and retired to Bārī on the other side of the Ganges.[^sec-31-fn-057]
 
 > _[Margin: Ganda and Mahmūd.]_
+
 The pusillanimous submission of Rājyapāla incensed his Hindu allies, who felt that he had betrayed their cause. His fault was sternly punished by an army under the command of Vidhyādhara, heir-apparent of the Chandēl king, Ganda, supported by the forces of his feudatory, the chief of Gwālior, which attacked Kanauj in the spring or summer of <span class="sc">a.d.</span> 1019, soon after the departure of Sultan Mahmūd, and slew Rājyapāla, whose diminished dominions passed under the rule of Trilochanapāla. The Sultan was furious when he heard of the punishment inflicted on a prince whom he regarded as a vassal, and in the autumn of the same year (<span class="sc">a.h.</span> 410) started again from Ghaznī to take vengeance on the Hindu chiefs. Early in <span class="sc">a.d.</span> 1020 he captured Bārī, the new Pratihāra capital, without much difficulty, and then advanced into the Chandēl territory, where Ganda had assembled an apparently formidable force to oppose him. But the heart of the Chandēl king failed him, and, like Rājyapāla, he fled from the field without giving battle. His camp, munitions, and elephants were left a prey to the Sultan, who returned as usual to Ghaznī with heaps of spoil.[^sec-31-fn-058]
 
 > _[Margin: Successors of Rājyapāla.]_
+
 Nothing is known about Trilochanapāla except that he ineffectually resisted Mahmūd’s passage of the Jumna at the [p. 399] end of 1019 or the beginning of 1020, and made the grant of a village near Allāhābād in <span class="sc">A. D.</span> 1027.[^sec-31-fn-059] A Rāja named Yasahpāla, who is mentioned in an inscription of <span class="sc">A. D.</span> 1036, may have been his immediate successor.[^sec-31-fn-060] Other obscure chiefs continued to be recognized as Rājas of Kanauj, and governed a considerable territory, no doubt in subordination to Muhammadan kings, even after the reduction of Kanauj in 1194. The names of some of these chiefs have been preserved. They seem to have resided at Zafarābād near Jaunpur. But these later chiefs did not belong to the old Gurjara-Pratihāra dynasty, which disappeared utterly. Kanauj had been conquered and occupied, a little before <span class="sc">A. D.</span> 1090, by a Rāja of the Gaharwār clan, named Chandradeva, who established his authority certainly over Benares and Ajodhyā, and perhaps over the Delhi territory.[^sec-31-fn-061] The city of Delhi had been founded about a century earlier, in <span class="sc">A. D.</span> 993–4.[^sec-31-fn-062]
 
 > _[Margin: Gaharwār dynasty of Kanauj.]_
+
 The Gaharwār dynasty, subsequently known as Rāthōr,[^sec-31-fn-063] thus founded by Chandradeva, lasted until the subjugation of the Kanauj kingdom by Shihāb-ud-dīn, in <span class="sc">A. D.</span> 1194
 
 
@@ -4975,22 +5714,24 @@ The grandson of Govindachandra was Jayachchandra, renowned in the popular Hindī
 
 > _[Margin: Chauhāns of Sāmbhar and]_
 > _[Margin: Ajmēr; Delhi.]_
+
 Inscriptions record the genealogy of a long line of Rājpūt kings belonging to the Chauhān (Chāhumāna) clan who governed the principality of Sāmbhar (Sākambharī) in [p. 401] Rājputāna, to which Ajmēr was attached. Only two of these chiefs demand notice. Vigraha-rāja, in the middle of the twelfth century, extended his ancestral dominions considerably, and is erroneously alleged to have conquered Delhi from a chief of the Tomara clan. That chief was a descendant of Ānangapāla, who, a century earlier, had built the Red Fort, where the Kutb mosque now stands, and thus given permanence to the city, which had been founded in <span class="sc">a. d.</span> 993–4.[^sec-31-fn-067] Europeans are so accustomed to associate the name of Delhi with the sovereignty of India that they do not easily realize the fact that Delhi is among the most modern of the great Indian cities. Vague legends, it is true, irradiate the lands along the bank of the Jumna near the village of Indarpat with the traditional glories of the prehistoric Indraprastha, and these stories may or may not have some substantial basis. But, as an historical city, Delhi dates only from the time of Ānangapāla in the middle of the eleventh century. The celebrated iron pillar, on which the eulogy of a powerful king named Chandra, who lived in the fourth century, is incised, was removed by the Tomara chief from its original position, probably at Mathurā, and set up in <span class="sc">a. d.</span> 1052 as an adjunct to a group of temples, from the materials of which the Muhammadans afterwards constructed the great mosque.[^sec-31-fn-068]
 
 > _[Margin: Vigraha-rāja.]_
+
 Vigraha-rāja (IV) was a man of considerable distinction. Some years ago, during the progress of repairs executed at the principal mosque of Ajmēr, six slabs of polished black marble were discovered bearing inscriptions in Sanskrit and Prākrit, which on examination proved to be large portions [p. 402] of two unknown dramas. One of these, the *Lalita-Vigraha*-*rāja-nāṭaka*, was composed in honour of Vigraha-rāja, while the other, the *Harakali-nāṭaka*, professes to be the composition of that prince himself.[^sec-31-fn-069]
 
 > _[Margin: Prithivī-rāja, or Rāi Pithōra.]_
+
 His nephew was Prithivī-rāja, Prithīrāj, or Rāi Pithōra, lord of Sāmbhar and Ajmēr, famous in song and story as a chivalrous lover and doughty champion. His fame as a bold lover rests upon his daring abduction of the not unwilling daughter of Jaichand, the Gaharwār Rāja of Kanauj, which occurred in or about <span class="sc">a. d.</span> 1175. His reputation as a general is securely founded upon his defeat of the Chandēl Rāja, Parmāl, and the capture of Mahoba in 1182, as well as upon gallant resistance to the flood of Muhammadan invasion. Indeed, Rāi Pithōra may be described with justice as the popular hero of Northern India, and his exploits in love and war are the subject of rude epics and bardic lays to this day.[^sec-31-fn-070]
 
 
 <!-- page: 451 | folio: 403 -->
 > _[Margin: Battle of Tarāin or Talāwarī.]_
+
 The dread inspired by the victorious Musalman army under the command of Shihāb-ud-dīn or Muhammad of Ghōr, who was now undisputed master of the greater part of the Panjāb, constrained the jarring states of Northern India to lay aside their quarrels and combine for a moment against the foreign foe. At first fortune smiled on the Indians; and in <span class="sc">A.D.</span> 1191 (<span class="sc">A. H.</span> 587) Prithivī-rāja succeeded in inflicting a severe defeat upon the invaders at Tarāīn or Talāwarī between Thānēsar and Karnāl, which forced them to retire beyond the Indus. A year later, in <span class="sc">A. D.</span> 1192 (<span class="sc">A. H.</span> 588), the Sultan, having returned with a fresh force, again encountered on the same field Prithivī-rāja, who was at the head of an immense host, swollen by contingents from numerous confederate princes. A vigorous charge by twelve thousand well-armed Musalman horsemen repeated the lesson given by Alexander long ages before, and demonstrated the inability of a mob of Indian militia to stand the onset of trained cavalry. Prithivī-rāja, having been taken prisoner, was executed in cold blood, and the wretched inhabitants of his capital Ajmēr were either put to the sword or sold into slavery.[^sec-31-fn-071]
 
-supported by the inscriptions. The correct lineage of Pṛithivī-
-
-rāja according to the *Pṛithivīrājavijaya* is:—
+supported by the inscriptions. The correct lineage of Pṛithivīrāja according to the *Pṛithivīrājavijaya* is:—
 
 
 ![Genealogical tree of Arṇorāja and descendants (Unnamed son, Vigraha-rāja, Someśvara, Pṛithivī-rāja I, Pṛithivī-rāja II, Hari-rāja)](../figures/fig-017_p0451.webp)
@@ -5001,12 +5742,14 @@ Chand's statement that Rāi Pithōra (Prithirāj) was the son of the daughter of
 
 
 <!-- page: 452 | folio: 404 -->
-> _[Margin: Conquest of Hin- dustan.]_
+> _[Margin: Conquest of Hindustan.]_
+
 In <span class="sc">a. d.</span> 1193 (<span class="sc">a. h.</span> 589), Delhi fell. Kanauj does not seem to have been molested, but must have come under the control of the invaders. Benares, the holy citadel of Hinduism, in <span class="sc">a. d.</span> 1194 became the prize of the victors, who could now feel confident that the final triumph of the arms of Islam over 'the land of the Brahmans' was assured. The surrender of Gwālior in 1196, the capture in 1197 of Anhilwāra the capital of Gujarāt, and the capitulation of Kālanjar in 1203 completed the reduction of Upper India, and when Shihāb-ud-dīn died in <span class="sc">a. d.</span> 1205–6 (<span class="sc">a. h.</span> 602), he—
 
 > 'Held, in different degrees of subjection, the whole of Hindustan Proper, except Mālwā and some contiguous districts. Sind and Bengal were either entirely subdued, or in rapid course of reduction. On Gujarāt he had no hold, except what is implied in the possession of the capital (Anhilwāra or Nahrwāla). Much of Hindustan was immediately under his officers, and the rest under dependent or at least tributary princes. The desert and some of the mountains were left independent from neglect'.[^sec-31-fn-072]
 
-> _[Margin: Migration of Gahar- wārs.]_
+> _[Margin: Migration of Gaharwārs.]_
+
 An important consequence of the Muslim conquest of Kanauj was the migration of the bulk of the Gaharwār clan [p. 405] to the deserts of Mārwār in Rājputāna, where they settled and became known as Rāṭhōrs. The state so founded, now generally designated by the name of its capital, Jodhpur, is one of the most important principalities of Rājputāna.[^sec-31-fn-073] Similar clan movements, necessitated by the pressure of Muhammadan armies, which were frequent at this period, account to a large extent for the existing distribution of the Rājpūt clans.
 
 
@@ -5016,41 +5759,53 @@ An important consequence of the Muslim conquest of Kanauj was the migration of t
 ##### *The Chandēls of Jejākabhukti and the Kalachuris of Chedi*
 
 > _[Margin: Jejākabhukti and Chedi.]_
+
 The ancient name of the province between the Jumna and Narmadā, now known as Bundelkhand, and partly included in the United Provinces of Agra and Oudh, was Jejākabhukti.[^sec-31-fn-074] The extensive region, farther to the south, which is now under the administration of the Chief Commissioner of the Central Provinces, nearly corresponds with the old kingdom of Chedi. In the mediaeval history of these countries two dynasties—the Chandēls of Jejākabhukti and the Kalachuris of Chedi—which occasionally were connected by marriage, and constantly were in contact one with the other, whether as friends or enemies, are conspicuous. From the beginning of the eleventh century the Chedi country was divided into two kingdoms, Western Chedi, or Dāhāla, with its capital at Tripura, near Jabalpur, and Eastern Chedi, or Mahākosala, with its capital at Ratanpur.
 
 > _[Margin: Predecessors of the Chandēls.]_
+
 The Chandēls, like several other dynasties, first come into notice early in the ninth century, when Nannuka Chandēl, about <span class="sc">A. D.</span> 831, overthrew a Parihār chieftain, and became lord of the southern parts of Jejākabhukti. The Parihārs of Bundelkhand, like their brethren of Bhinmāl, must have belonged to the Gurjara or Gūjar group of tribes which had [p. 406] entered India in the sixth century. The Parihār capital had been at Mau-Sahaniya, between Nowgong (Naugāon) and Chhatarpur.[^sec-31-fn-075] The predecessors of the Parihārs were Gaharwār Rājas, members of the clan which afterwards gave Kanauj the line of kings commonly miscalled Rāthōrs.
 
 > _[Margin: Chandēl temples and lakes.]_
+
 The Chandēl princes were great builders, and beautified their chief towns, Mahoba, Kālanjar, and Khajurāho, with many magnificent temples and lovely lakes, formed by throwing massive dams across the openings between the hills. In this practice of building embankments and constructing lakes the Chandēls were imitators of the Gaharwārs, who are credited with the formation of some of the most charming lakes in Bundelkhand.
 
 > _[Margin: Yaśovarman.]_
+
 The Chandēls, who appear to have been Hinduized Gonds, closely connected with another autochthonous tribe, the Bhars, first acquired a petty principality near Chhatarpur, and gradually advanced northwards until the Jumna became the frontier between their dominions and those of Kanauj. The earlier Rājas may have been subject to the suzerainty of Bhoja and Mahendrapāla, the powerful kings of Panchāla, but in the first half of the tenth century the Chandēls certainly had become independent. Harsha Chandēl, aided perhaps by other allies, helped Mahīpāla to recover the throne of Kanauj from which he had been driven by Indra III Rāshtrakūta in <span class="sc">A. D.</span> 916. Harsha's son and successor, Yasovarman, whose power had been greatly enhanced by the occupation of the fortress of Kālanjar, was strong enough to compel Mahīpāla's successor, Devapāla, to surrender a valuable image of Vishnu, which the Chandēl king wanted for a temple built by him at Khajurāho.
 
 > _[Margin: <span class="sc">A. D.</span> 950– 99. Dhanga.]_
+
 King Dhanga, son of Yasovarman (<span class="sc">A. D.</span> 950–99), who lived to an age of more than a hundred years, was the most notable of his family. Some of the grandest temples at Khajurāho are due to his munificence, and he took an active part in the politics of his time. In <span class="sc">A. D.</span> 989 or 990 he joined the league formed by Jaipāl, king of the Panjāb, to resist Sabuktigīn, and shared with the Rājas of Ajmēr and [p. 407] Kanauj in the disastrous defeat which the allies suffered between Bannū and Ghaznī, in or near the Kurram (Kurmah) valley.[^sec-31-fn-076]
 
 > _[Margin: <span class="sc">a. d.</span> 999– 1025. Ganda.]_
+
 When Mahmud of Ghaznī threatened to overrun India, Dhanga's son Ganda (999–1025) joined the new confederacy of Hindu princes organized by Ānand Pāl, son of Jaipāl, king of the Panjāb, in 1008–9 (<span class="sc">a. h.</span> 399), which also failed to stay the hand of the invader. Ten years later, as already narrated, Ganda's son attacked Kanauj and killed the Rāja, Rājyapāla, who had made terms with the Muhammadans; but early in 1023 (<span class="sc">a. h.</span> 413) was himself compelled to surrender the strong fortress of Kālanjar to Mahmūd,[^sec-31-fn-077] who, however, did not retain it or any of his conquests in the interior of India beyond the Panjāb.
 
 > _[Margin: <span class="sc">a. d.</span> 1015–70. Gāngēyadeva and Karṇadeva Kalachuri.]_
+
 Gāngēyadeva Kalachuri of Chedi (*circa* 1015–40), the contemporary of Ganda and his successors, was an able and ambitious prince, who aimed at attaining the position of paramount power in Upper India, and succeeded to a considerable extent. In 1019 his suzerainty was recognized in distant Tirhūt.[^sec-31-fn-078] His projects of aggrandizement were taken up and proceeded with by his son Karnadeva (*circa* 1040– 70), who joined Bhīma, king of Gujarāt, in crushing Bhoja, the learned king of Mālwā, about <span class="sc">a. d.</span> 1060. He had attacked the Pāla king of Magadha at an earlier date, about <span class="sc">a. d.</span> 1035.
 
 > _[Margin: <span class="sc">a. d.</span> 1049– 1100. Kīrtivarman Chandēl.]_
+
 But some years later Karnadeva was taught the lesson of the mutability of fortune by suffering defeats inflicted by several hostile kings, and notably one at the hands of Kīrtivarman Chandēl (1049–1100), who widely extended the dominion of his house. The earliest extant specimens of the Chandēl coinage were struck by this king in imitation of the issues of Gāngēyadeva of Chedi. Kīrtivarman is also memorable in literary history as the patron of the curious [p. 408] allegorical play entitled the *Prabodha-chandrodaya*, or ‘Rise of the Moon of Intellect’, which was performed at his court in or about <span class="sc">a. d.</span> 1065, and gives in dramatic form a clever exposition of the Vedānta system of philosophy.[^sec-31-fn-079]
 
 > _[Margin: <span class="sc">A. D.</span> 1165–1203. Parmāl.]_
+
 The last Chandēl king to play any considerable part upon the stage of history was Paramardi, or Parmāl (1165–1203), whose reign is memorable for his defeat in 1182 by Prithivī-rāja Chauhān, and for the capture of Kālanjar in 1203 (<span class="sc">a. h.</span> 599) by Kutb-ud-dīn Ībak.[^sec-31-fn-080] The Chauhān and Chandēl war occupies a large space in the popular Hindī epic, the *Chand-Rāisā*, which is familiar to the people of Upper India.
 
 > _[Margin: <span class="sc">A. D.</span> 1203 (spring). Capitulation of Kālanjar.]_
+
 The account of the death of Parmāl and the capture of Kālanjar, as told by the contemporary Muhammadan historian, may be quoted as a good illustration of the process by which the Hindu kingdoms passed under the rule of their new Muslim masters :—
 
 > ‘ “ The accursed Parmār,” the Rai of Kālanjar, fled into the fort after a desperate resistance in the field, and afterwards surrendered himself, and placed “the collar of subjection” round his neck; and, on his promise of allegiance, was admitted to the same favours as his ancestor had experienced from Mahmūd Sabuktigīn, and engaged to make a payment of tribute and elephants, but he died a natural death before he could execute any of his engagements. His Dīwān, or Mahtea, by name Aj Deo, was not disposed to surrender so easily as his master, and gave his enemies much trouble, until he was compelled to capitulate in consequence of severe drought having dried up all the reservoirs of water in the forts. “ On Monday, the 20th of Rajab, the garrison, in an extreme state of weakness and distraction, came out of the fort, and by compulsion left their native place empty; ... and the fort of Kālanjar, which was celebrated throughout the world for being as strong as the wall of Alexander,” was taken. “ The temples were converted into mosques and abodes of goodness, and the ejaculations of the bead-counters and the voices of the summoners to prayer ascended to the [p. 409] highest heaven, and the very name of idolatry was annihilated. . . . Fifty thousand men came under the collar of slavery, and the plain became black as pitch with Hindus.” Elephants and cattle, and countless arms also, became the spoil of the victors. ‘The reins of victory were then directed towards Mahobā, and the government of Kālanjar was conferred on Hazabbar-ud-dīn Hasan Arnal. When Kutb-ud-dīn was satisfied with all the arrangements made in that quarter, he went towards Badāūn, “which is one of the mothers of cities, and one of the chiefest of the country of Hind.” ’ [^sec-31-fn-081]
 
 > _[Margin: The last of the Chandēls.]_
+
 Chandēl Rājas lingered on in Bundelkhand as purely local chiefs until the sixteenth century, but their affairs are of no general interest.[^sec-31-fn-082] The Chandēl clan was scattered, and its most notable modern representative is the Rāja of Gidhaur, near Mungir (Monghyr) in Bengal.
 
 > _[Margin: The last of the Kalachuris.]_
+
 The Kalachuri or Haihaya Rājas of Chedi are last mentioned in an inscription of the year <span class="sc">A. D.</span> 1181, and the manner of their disappearance is not exactly known; but there is reason to believe that they were supplanted by the Bāghēls of Rēwā. The Hayobans Rājpūts of the Baliyā district in the east of the United Provinces claim descent from the Rājas of Ratanpur in the Central Provinces, and probably are really an offshoot of the ancient Haihaya race. The later kings of Chedi used an era according to which the year 1 was equivalent to <span class="sc">A. D.</span> 248–9. This era, also called the Traikūtaka, originated in Western India, where its use can be traced back to the fifth century.[^sec-31-fn-083] The reason of its adoption by the kings of Chedi is not apparent.
 
 
@@ -5062,18 +5817,23 @@ The Kalachuri or Haihaya Rājas of Chedi are last mentioned in an inscription of
 ##### *Paramāras (Pawārs) of Mālwa*
 
 > _[Margin: *C.* <span class="sc">A. D.</span> **820.** Paramāra dynasty of Mālwa.]_
+
 The Paramāra dynasty of Mālwa, the region north of the Narmadā, anciently known as Avanti, or the kingdom of Ujjain, is specially memorable by reason of its association with many eminent names in the history of later Sanskrit literature. The dynasty was founded by a chief named Upendra or Krishnarāja, early in the ninth century, when so many ruling families attract notice for the first time, and it lasted for about four centuries. Upendra appears to have come from Chandrāvatī and Achalgarh, near Mount Ābū, where his clan had been settled for a long time.
 
 > _[Margin: <span class="sc">A. D. 974–95.</span> Rāja Muñja.]_
+
 The seventh Rāja, named Munja, who was famous for his learning and eloquence, was not only a patron of poets, but himself a poet of no small reputation, as attested by the anthologies, which include various compositions attributed to his pen. The author Dhanamjaya and his brother Dhanika were among the distinguished scholars who graced his court. His energies were not devoted solely to the peaceful pursuit of literature, much of his time being spent in fighting with his neighbours. Six times the Chalukya king, Taila II, was defeated by him. The seventh attack failed, and Munja, who had crossed the Godāvarī, Taila's northern boundary, was defeated, captured, and executed about <span class="sc">A. D.</span> 995.[^sec-31-fn-084]
 
 > _[Margin: <span class="sc">A. D.</span> **1018–60.** Rāja Bhoja.]_
+
 Munja's nephew, the famous Bhoja, ascended the throne of Dhārā, in those days the capital of Mālwa, about <span class="sc">A.D.</span> 1018, and reigned gloriously for more than forty years. Like his [p. 411] uncle, he cultivated with equal assiduity the arts of peace and war. Although his fights with the neighbouring powers, including one of the Muhammadan armies of Mahmūd of Ghaznī, are now forgotten, his fame as an enlightened patron of learning and a skilled author remains undimmed, and his name has become proverbial as that of the model king according to the Hindu standard. Works on astronomy, architecture, the art of poetry, and other subjects are attributed to him, and there is no doubt that he was a prince, like Samudragupta, of very uncommon ability. A mosque at Dhārā now occupies the site of Bhoja's Sanskrit college, which seems to have been held in a temple dedicated appropriately to Sarasvatī, the goddess of learning.[^sec-31-fn-085]
 
 > _[Margin: Bhōjpur lake.]_
+
 The great Bhōjpur lake, a beautiful sheet of water to the south-east of Bhopāl, covering an area of more than 250 square miles, formed by massive embankments closing the outlet in a circle of hills, was his noblest monument, and continued to testify to the skill of his engineers until the fifteenth century, when the dam was cut by order of a Muhammadan king, and the water drained off. The bed of the lake is now a fertile plain intersected by the Indian Midland Railway.[^sec-31-fn-086]
 
 > _[Margin: Later history of Mālwā.]_
+
 About <span class="sc">a. d.</span> 1060 this accomplished prince succumbed to an attack by the confederate kings of Gujarāt and Chedi; and the glory of his house departed. His dynasty lasted as a purely local power until the beginning of the thirteenth century, when it was superseded by chiefs of the Tomara clan, who were followed in their turn by Chauhān Rājas,[^sec-31-fn-087] [p. 412] from whom the crown passed to Muhammadan kings in 1401. Akbar suppressed the local dynasty in 1562, and incorporated Mālwā in the Moghal empire.
 
 
@@ -5083,27 +5843,33 @@ About <span class="sc">a. d.</span> 1060 this accomplished prince succumbed to a
 ##### *Pāla and Sena Dynasties of Bihār and Bengal*
 
 > _[Margin: <span class="sc">a. d.</span> 650. History of Bengal unknown.]_
+
 Harsha, when at the height of his power, exercised a certain amount of control as suzerain over the whole of Bengal, even as far east as the distant kingdom of Kāmarupa, or Assam, and seems to have possessed full sovereign authority over western and central Bengal. After his death, the local Rājas no doubt asserted their independence; but, except for the strange story of Arjuna and Wang-Hiuen-tse, related in the thirteenth chapter, no particulars are known concerning the history of Bengal for nearly a century. Bengālī tradition traces the origin of many notable families to five Brahmans and five Kāyasths imported from Kanauj by a king named Ādisūra in order to revive orthodox Hindu customs, which had fallen into disuse during the time when Buddhism was predominant. But no authentic record of this monarch has been discovered. There is, however, no reason to doubt the actual existence of Ādisūra, who belonged to a local dynasty of Rājas ruling Gaur and the neighbourhood. He may be dated approximately in <span class="sc">a. d.</span> 700, perhaps a little earlier, or possibly later.[^sec-31-fn-088]
 
 
 <!-- page: 461 | folio: 413 -->
-> _[Margin: *c.* A. D. 730–40.]_
-> _[Margin: Rise of the ‘Pāla dynasty’.]_
+> _[Margin: *c.* A. D. 730–40. Rise of the ‘Pāla dynasty’.]_
+
 Early in the eighth century (*c.* <span class="sc">A. D.</span> 730–40) a chieftain named Gopāla was elected king of Bengal, which had been suffering from anarchy. Towards the close of his life he extended his power westwards over Magadha or South Bihār, and is said to have reigned forty-five years. He suffered defeat at the hands of Vatsarāja, the Gurjara king of Rājputāna.[^sec-31-fn-089] He was a pious Buddhist, and founded a great monastery at Uddandapura, or Otantapuri, the existing town of Bihār, which seems to have been at times the capital of the later Pāla kings. Inasmuch as the word *pāla* was an element in the personal names of the founder of the family and his successors, the dynasty is commonly and conveniently designated as that of the ‘Pāla kings of Bengal’.
 
 > _[Margin: Dharmapāla, *flor.* <span class="sc">A. D.</span> 800.]_
+
 The second king, Dharmapāla, who is credited with a reign of sixty-four years, is known to have reigned for at least thirty-two years. The Tibetan historian Tāranāth expressly states that his rule extended from the Bay of Bengal to Delhi and Jālandhar in the north and to the valleys of the Vindhyan range in the south. This ascription of wide dominion is supported by the certain fact that Dharmapāla dethroned Indrāyudha, or Indrarāja, king of Panchāla, whose capital was Kanauj, and installed in his stead Chakrāyudha, with the assent of the neighbouring northern powers, enumerated as the Bhoja, Matsya, Madra, Kuru, Yadu, Yavana, Avanti, Gandhāra, and Kīra kings. This event took place soon after <span class="sc">A. D.</span> 800, and prior to the thirty-second year of Dharmapāla's reign, as recorded in two grants.[^sec-31-fn-090] It is noticeable that the grant of four villages in the province of Paundravardhana was issued from the [p. 414] royal head-quarters at Pātaliputra.[^sec-31-fn-091] When Hiuen Tsang visited the ancient imperial city in the seventh century he had found the buildings of Asoka in ruins, and the inhabitants limited to about a thousand persons occupying a small walled town on the bank of the Ganges in the northern portion of the site.[^sec-31-fn-092] Apparently the city had recovered to some extent when Dharmapāla held his court there about <span class="sc">a. d.</span> 810. The famous monastery of Vikramasīla, which is said to have included 107 temples and six colleges, was founded by Dharmapāla. It stood on a hill overlooking the right bank of the Ganges, but its position has not been conclusively determined.[^sec-31-fn-093]
 
 > _[Margin: Devapāla, ninth century.]_
+
 Devapāla, the third sovereign of the dynasty, is regarded by the oldest writers on Brahman genealogy in Bengal as having been the most powerful of the Pālas.[^sec-31-fn-094] His general, Lāusena or Lavasena, is said to have conquered Assam and Kalinga. A grant dated in the thirty-third year of his reign was issued from the court at Mudgagiri, or Monghyr.[^sec-31-fn-095] Like all the other kings of his house, he was zealous in the cause of Buddhism, and is reputed to have waged war with the unbelievers, destroying forty of their strongholds. He is said to have reigned for forty-eight years.[^sec-31-fn-096]
 
 > _[Margin: The Kāmboja rule.]_
+
 During the latter part of the tenth century the rule of the Pāla kings was interrupted by the intrusion of hillmen, known as Kāmbojas, who set up one of their chiefs as king. His rule is commemorated by an inscribed pillar at Dinājpur, erected apparently in <span class="sc">a. d.</span> 966.[^sec-31-fn-097]
 
 > _[Margin: Mahīpāla I, *c.* <span class="sc">a. d.</span> 978–1030.]_
+
 The Kāmbojas were expelled by Mahīpāla I, the ninth sovereign of the Pāla line, who is known to have been reigning in <span class="sc">a. d.</span> 1026, and may be assumed to have won [p. 415] back his ancestral throne about <span class="sc">A. D.</span> 978 or 980. He is credited with a long reign of 52 years, a statement which cannot be far wrong, as there is epigraphic evidence that his rule endured for 48 years.[^sec-31-fn-098] Of all the Pāla kings he is the best remembered, and songs in his honour, which used to be sung in many parts of Bengal until recent times, are still to be heard in remote corners of Orissa and Kūch Bihār. He was attacked by Rājendra, the Chola king of Kānchī, about <span class="sc">A. D.</span> 1023. His reign is marked by the revival of Buddhism in Tibet, which had been weakened by the persecution of Langdarma a century earlier. Pundit Dharmapāla and other holy men from Magadha accepted an invitation to Tibet in <span class="sc">A. D.</span> 1013, and did much to restore the religion of Gautama to honour in that country. A subsequent mission dispatched in 1038, during the reign of Mahīpāla's successor, Nayapāla, and headed by Atīsa, from the Vikramasīla monastery in Magadha, continued the work and firmly re-established Tibetan Buddhism.[^sec-31-fn-099]
 
 > _[Margin: The Kaivarta rebellion.]_
+
 The son of Nayapāla, king Vigrahapāla III, who defeated Karna, king of Chedi, and died about <span class="sc">A. D.</span> 1080, left three sons, namely Mahīpāla II, Sūrapāla II, and Rāmapāla.
 
 
@@ -5111,59 +5877,76 @@ The son of Nayapāla, king Vigrahapāla III, who defeated Karna, king of Chedi, 
 When Mahīpāla succeeded to the throne he imprisoned his brothers and misgoverned the realm. His evil deeds provoked a rebellion, headed by Divya or Divyoka, chief of the Chāsi-Kaivarta tribe or Māhishya caste, which at that time was powerful in Northern Bengal. Mahīpāla II was killed by the rebels, who took possession of the country. Divyoka's place was taken by his nephew Bhīma, who became king of Varendra. Prince Rāmapāla, having escaped from confinement, travelled over a large part of India in order to obtain help in the recovery of his kingdom. After much effort he collected a strong force, including contingents from the Rāshtrakūtas, to whom he was related by marriage, and many other princes. Bhīma was defeated and killed, and Rāmapāla regained the throne of his fathers.[^sec-31-fn-100]
 
 > _[Margin: Reign of Rāma-pāla, <span class="sc">c. a. d.</span> 1084–1130.]_
+
 Rāmapāla is described by Tāranāth as possessing a vigorous understanding and widely extended power. After defeating the Kaivarta usurper, he conquered Mithilā or North Bihār, the modern Champāran and Darbhanga Districts, and it is clear that his dominions also included Kāmarūpa or Assam, because his son Kumārapāla conferred the government of that country, with kingly powers, upon a valiant minister named Vaidyadeva. Buddhism, although then declining in Hindustan, flourished in the Pāla dominions during the reign of Rāmapāla, the monasteries of Magadha being crowded with thousands of residents. Tāranāth and certain Bengal authors treat Rāmapāla as the last of his dynasty, or at any rate, the last who exercised considerable power, but the inscriptions prove that he was followed by five kings of his family.[^sec-31-fn-101]
 
 
 <!-- page: 465 | folio: 417 -->
 > _[Margin: Latest Pāla kings.]_
+
 King Govindapāla is known to have been on the throne in <span class="sc">a. d.</span> 1175 ; and, according to tradition, the ruler of Magadha at the time of the Muhammadan conquest, in <span class="sc">a. d.</span> 1197, was Indradyumna[-pāla]. Forts attributed to him are still pointed out in the Mungir (Monghyr) District.[^sec-31-fn-102]
 
 > _[Margin: Importance of the Pāla dynasty.]_
+
 The Pāla dynasty deserves remembrance as one of the most remarkable of Indian dynasties. No other royal line in an important kingdom, save that of the Āndhras, endured so long, for four and a half centuries. Dharmapāla and Devapāla succeeded in making Bengal one of the great powers of India, and, although later kings had not the control of realms so wide or possessed influence so extensive, their dominion was far from being contemptible. The Pāla authority was considerably shaken by the Kāmboja usurpation in the latter part of the tenth century, and again by the Chāsi-Kaivarta or Māhishya revolt in the eleventh century, which prepared the way for the encroachments made by the Sena kings. The Pālas seem to have held Magadha or South Bihār, and Mungir in North Bihār, almost throughout to the end, with little interruption, but during the last century of their rule they lost nearly the whole of Bengal to the Senas.[^sec-31-fn-103] The details of the local history need to be worked out.
 
 > _[Margin: Intellectual and artistic activity.]_
+
 The reigns of Dharmapāla and Devapāla, extending over more than a century, from about <span class="sc">a. d.</span> 780 to 892, were a period of marked intellectual and artistic activity. Two artists of that time, Dhīmān and his son Bitpālo (Vitapāla), acquired the highest fame for their skill as painters, sculptors, and bronze-founders. Some works of their school are believed to be extant.[^sec-31-fn-104] No building of Pāla age [p. 418] appears to survive, but the numerous great tanks in the central districts of their territory, especially in Dinājpur, testify to the interest taken by the kings in the execution of undertakings intended for the public benefit.
 
 > _[Margin: Patronage of Buddhism.]_
+
 All the Pāla kings without exception were zealous Buddhists, ready to bestow liberal patronage on learned teachers and the numerous monastic communities. Dharmapāla, clearly a man of exceptional capacity, is credited with the merit of having been an ardent reformer of religion. His successors in the eleventh century, who were devoted to Tantric forms of Buddhism, enjoyed the services of many pious men, among whom Atīsa, already mentioned as a missionary in Tibet, was the most eminent.[^sec-31-fn-105]
 
 > _[Margin: The beginning of the Senas.]_
+
 The Sena dynasty was founded by a chief named Sāmantadeva, who came from the Deccan. About the middle of the eleventh century he, or his son Hemantasena, founded a principality at Kāsīpurī, which has been identified with the modern Kasiārī in the Mayūrabhanja State. Neither of those chiefs seems to have acquired extensive power.
 
 > _[Margin: Vijayasena (*c.* A. D. 1070– 1108).]_
+
 But Sāmantasena's grandson, Vijayasena, certainly raised himself to the rank of an independent sovereign in the latter part of the eleventh or early in the twelfth century, and wrested a large part of the Bengal province from the Pālas, thus firmly establishing the Sena dynasty. He also carried on successful wars with other powers, and enjoyed a long reign of about forty years, more or less. He kept on terms of friendship with Choraganga of Kalinga, who ruled that kingdom for the extraordinary term of seventy-one years, and who about the time of the Chāsi-Kaivarta rebellion (*c.* A. D. 1080) extended his conquests to the extreme north of Orissa.
 
 > _[Margin: Vallālasena or]_
 > _[Margin: Ballāl Sen (*c.* 1108–19).]_
+
 The dominions acquired by Vijayasena were transmitted [p. 419] (*c.* <span class="sc">A. D.</span> 1108) to his son Vallālasena, famous in Bengal tradition as Ballāl Sen, who is credited with having reorganized the caste system and introduced the practice of ‘Kulinism’ among Brahmans, Baidyas, and Kāyasths. Some accounts allege that he founded Gaur or Lakhnautī, but there is reason to believe that the city was in existence at an earlier date. The site of a palace attributed to him is pointed out at Rāmpāl near Bikrampur in the Dacca District.[^sec-31-fn-106] All the Sena kings were Brahmanical Hindus, and so had a special reason for hostility to the Buddhist Pālas, and a keen interest in the maintenance of caste. The Hinduism of Ballāl Sen was of the Tantric kind. The Brahman genealogists assert that he sent numerous missionaries, all Brahmans, to Magadha, Bhotan, Chittagong, Arakan, Orissa, and Nepāl.[^sec-31-fn-107]
 
-> _[Margin: Lakshmaṇa- sena (*c.* 1119).]_
+> _[Margin: Lakshmaṇasena (*c.* 1119).]_
+
 Ballāl Sen was succeeded in <span class="sc">A. D.</span> 1119 by his son Lakshmanasena.
 
 > _[Margin: Muhammadan conquest of Bihār.]_
+
 In Bihār and Bengal both Pālas and Senas were swept away by the torrent of Muhammadan invasion at the end of the twelfth century, when Kutb-ud-dīn’s general, Muhammad the son of Bakhtyār, stormed Bihār in or about <span class="sc">A. D.</span> 1197, and surprised Nūdīah (*vulgo* Nuddea) a year or two later. The Musalman general, who had already made his name a terror by repeated plundering expeditions in Bihār, seized the capital by a daring stroke. The almost contemporary historian met one of the survivors of the attacking party in <span class="sc">A. D.</span> 1243, and learned from him that the fort of Bihār was seized by a party of only two hundred horsemen, who boldly rushed the postern gate and gained possession of the place. Great quantities of plunder were [p. 420] obtained, and the slaughter of the ‘shaven-headed Brahmans’, that is to say the Buddhist monks, was so thoroughly completed, that when the victor sought for some one capable of explaining the contents of the books in the libraries of the monasteries, not a living man could be found who was able to read them. ‘It was discovered’, we are told, ‘that the whole of that fortress and city was a college, and in the Hindī tongue they call a college Bihar.’[^sec-31-fn-108]
 
 > _[Margin: Destruction of Buddhism.]_
+
 This crushing blow, followed up, of course, by similar acts of violence, destroyed the vitality of Buddhism in its ancient home. No doubt, a few devout, though disheartened, adherents of the system lingered round the desecrated shrines for a few years longer; and even to this day traces of the religion once so proudly dominant may be discerned in the practices of obscure sects; but Buddhism as an organized religion in Bihār, its last abode in Upper India south of the Himalaya, was destroyed once and for all by the sword of a single Musalman adventurer.[^sec-31-fn-109] Many monks who escaped death fled to Tibet, Nepāl, and Southern India. Their advent produced an important effect upon the Hindu revival in Southern India. In Tibet the arrival of the learned refugees enabled Buton, the Grand Lama appointed by Kublai Khan, to enrich the Tibetan language by translations from Sanskrit sources, which were included in the *Tangyur* encyclopaedia at the close of the thirteenth century. The preservation of the fruits of the joint labours of the Indian Pundits and the Tibetan Lamas was secured by the practice of the art of block-printing, which had been introduced into Tibet from China in the seventh century.[^sec-31-fn-110]
 
 > _[Margin: <span class="sc">A. D.</span> ? 1199. Overthrow of the Sena dynasty.]_
+
 The overthrow of the Sena dynasty was accomplished with equal or even greater ease. The ruler of eastern Bengal in those days was Lakshmanasena, described by the Muhammadan writer as an aged man and reputed, though erroneously, [p. 421] to have occupied the throne for eighty years. The portents which were said to have attended his birth had been justified by the monarch's exceptional personal qualities. His family, we are told, was respected by all the Rāis or chiefs of Hindustan, and he was considered to hold the rank of hereditary Khalīf (Caliph), or spiritual head of the country. Trustworthy persons affirmed that no one, great or small, ever suffered injustice at his hands, and his generosity was proverbial.
 
 > _[Margin: Nūdīah, the capital.]_
+
 This much-revered sovereign held his court at Nūdīah, situated in the upper delta of the Ganges, on the Bhāgīrathī river, about 60 miles north of the site of Calcutta. The town still gives its name to a British district (Nuddea, Nadiā), and is renowned as the seat of a Hindu college organized after the ancient manner.
 
 > _[Margin: Capture of Nūdīah, <span class="sc">A. D.</span> 1199.]_
+
 Probably in <span class="sc">A. D.</span> 1199, not long after his facile conquest of Bihār, Muhammad the son of Bakhtyār equipped an army for the subjugation of Bengal. Riding in advance of the main body of his troops, he suddenly appeared before Nūdīah with a slender following of eighteen horsemen, and boldly entered the city, the people supposing him to be a horsedealer. But when he reached the gate of the Rāi's palace, he drew his sword and attacked the unsuspecting household. The Rāi, who was at his dinner, was completely taken by surprise,
 
 ‘and fled barefooted by the rear of the palace; and his whole treasure, and all his wives, maidservants, attendants, and women fell into the hands of the invader. Numerous elephants were taken, and such booty was obtained by the Muhammadans as is beyond all compute. When his (Muhammad's) army arrived, the whole city was brought under subjection, and he fixed his head-quarters there.’
 
 > _[Margin: Lakhnautī, the Muhammadan capital.]_
+
 Rāi Lakhmaniya, as the author calls him, fled to Bikrampur in the Dacca district,[^sec-31-fn-111] where he died; and the conqueror presently destroyed the city of Nūdīah, establishing the seat of his government at the ancient Hindu city [p. 422] of Lakhnautī, or Gaur. Mosques, colleges, and Muhammadan monasteries were endowed by him and his officers in all parts of the kingdom, and a great portion of the spoil was judiciously sent to his distant chief, Kutb-ud-dīn.
 
 > _[Margin: Dishonoured end of the Hindu kingdoms.]_
+
 Such was the dishonoured end of the last Hindu kingdoms of Bengal and Bihār, which would have made a better fight for life if they had deserved to exist.[^sec-31-fn-112] The administration must have been hopelessly inefficient to permit a foreign army to march unobserved across Bengal, and to allow of the surprise of the palace by an insignificant party of eighteen horsemen.
 
-> _[Locus: Literature.]_
+> _[Margin: Literature.]_
+
 The reign of the earlier king Lakshmanasena was remarkable for considerable literary activity and for his liberal patronage of Sanskrit literature. An imitation of Kālidāsa's *Meghadūta* by Dhoyi, or Dhoyīka, court-poet of Lakshmanasena, has been published. Jayadeva, the famous author of the *Gītagovinda*, seems to have lived in the reign of Lakshmanasena, who wrote verses himself. His father, Ballāl Sen, also was an author.
 
 
@@ -5173,47 +5956,61 @@ The reign of the earlier king Lakshmanasena was remarkable for considerable lite
 ##### *The Rājpūt Clans*
 
 > _[Margin: Apparent dominance of the clans.]_
+
 Ethnological speculations, or discussions about facial angles, thick or thin noses, long skulls or broad skulls, the mystery of the origin of caste, and so forth, are foreign to the purpose of this work, and cannot be even lightly handled in these pages.[^sec-31-fn-113] But the narrative sections of this chapter [p. 423] dealing with the political fortunes of many Rājpūt clans can hardly fail to suggest to the thoughtful reader inquiries which seem to demand with urgency some sort of answer. Who were these Rājpūts—Parihārs, Pawārs, Chandēls, and the rest—and why do they and their affairs make such a confused stir during the centuries intervening between the death of Harsha and the Muhammadan conquest ? The dominance of the Rājpūt clans is at first sight the conspicuous fact differentiating the mediaeval from the ancient period in the history of Northern India, and the mind craves for an explanation. It is proverbially easier to ask questions than to answer them, and in this case the facts are far too complex and imperfectly known to admit of concise satisfactory explanations. Still it may be worth while to make a few observations on the subject, designed to help the weary reader in his endeavour to find some sort of clue to guide him through the maze of dynasties.
 
 > _[Margin: Kshatriyas.]_
+
 The apparently sudden introduction of Rājpūt states on the stage during the eighth and ninth centuries is in part an illusion. Hardly anything is known about the caste or tribal position of the ancient ruling families. Nobody can tell exactly the rank of Hindu society to which the family of Asoka or Samudragupta belonged, and nothing is on record to indicate how far the kings whose names appear prominently on the scene were merely successful personal adventurers or how far they were the heads of dominant clans. In later times all Rājpūts have considered themselves to be Kshatriyas—members of the second of the four groups of castes according to the familiar Brahman theory.[^sec-31-fn-114] So far back as the time when the *Dialogues of the Buddha* were composed the Kshatriyas were recognized as an important element in society, and in their own estimation stood higher [p. 424] than the Brahmans.[^sec-31-fn-115] The fact probably is that from very remote days ruling clans of Kshatriyas, essentially similar to the Rājpūts of later days, existed and were continually forming new states, just in the same way as in the mediaeval period. But their records have perished, and only a few exceptionally conspicuous dynasties are at all remembered, and so stand out on the page of history in a manner that does not fully represent the truth. The term Kshatriya was, I believe, always one of very vague meaning, simply denoting the Hindu ruling classes which did not claim Brahman descent. Similarly all persons performing priestly functions could be regarded by Hindus only as Brahmans. Occasionally a Rāja might be a Brahman by caste, but the Brahman's natural place at court was that of minister rather than that of king.[^sec-31-fn-116] Chandragupta Maurya presumably was considered to be a Kshatriya—his minister Chānakya or Kautilya certainly was a Brahman.
 
 > _[Margin: Break in tradition.]_
+
 The real difference between the ancient and mediaeval periods is that the living tradition concerning the former has been broken, while that concerning the latter survives. The Mauryas and Guptas belong to a dead and buried past, remembered only through books, inscriptions, and coins, whereas the clans whose ruling families came into notice during the mediaeval period are still very much alive, and in many cases form numerous and influential sections of the existing population.
 
 > _[Margin: The ‘Scythian’ element.]_
+
 Tod and the other older writers perceived long ago that the Rājpūt clans are in large part of foreign, or, as they called it, ‘Scythian’ descent. The more exact researches of recent times have fully confirmed this opinion, and it is now possible to indicate with a considerable degree of precision the source of the foreign blood in several of the [p. 425] principal clans, and at the same time to recognize the closeness of their relationship with castes which occupy a social position lower than that of the Rājpūts.
 
-> _[Margin: The Sakas and Y0e-chi.]_
-The earliest foreign immigration within the limits of the historical period which can be verified is that of the Sakas in the second century <span class="sc">b. c.</span> (*ante*, pp. 240, 265); and the next is that of the Y0e-chi or Kushāns in the first century after Christ (*ante*, p. 267). Probably none of the existing Rājpūt clans can carry back their genuine pedigrees nearly so far. I have no doubt that the ruling families of both the Sakas and the Kushāns when they became Hinduized were admitted to rank as Kshatriyas in the Hindu caste system, but the fact can be inferred only from the analogy of what is ascertained to have happened in later ages—it cannot be proved.
+> _[Margin: The Sakas and Yüe-chi.]_
+
+The earliest foreign immigration within the limits of the historical period which can be verified is that of the Sakas in the second century <span class="sc">b. c.</span> (*ante*, pp. 240, 265); and the next is that of the Yüe-chi or Kushāns in the first century after Christ (*ante*, p. 267). Probably none of the existing Rājpšt clans can carry back their genuine pedigrees nearly so far. I have no doubt that the ruling families of both the Sakas and the Kushāns when they became Hinduized were admitted to rank as Kshatriyas in the Hindu caste system, but the fact can be inferred only from the analogy of what is ascertained to have happened in later ages—it cannot be proved.
 
 > _[Margin: The Hūnas.]_
-The third recorded great irruption of foreign barbarians occurred during the fifth century and the early part of the sixth. There are indications that the immigration from Central Asia had continued during the third century (*ante*, p. 289), but, if it did, no distinct record of the event has been preserved, and, so far as positive knowledge goes, only three certain irruptions of foreigners on a large scale through the northern and north-western passes can be proved to have taken place within the historical period anterior to the Muhammadan invasions of the tenth and eleventh centuries. The first and second, as above observed, were those of the Sakas and Y0e-chi respectively, and the third was that of the Hūnas, or White Huns. These names, Saka, Y0e-chi, and Hūna, merely indicate the predominant elements in the invading swarms, which included many various races. The tradition of descent from the first and second swarms has been lost for ages. The Turkī Shāhiya kings of Kabul, who were displaced by the Hindu Shāhiyas in the ninth century, boasted their descent from the great Kushān king, Kanishka, but I do not know of any later claim on the part of an Indian ruling family to relationship with the Y0e-chi.
+
+The third recorded great irruption of foreign barbarians occurred during the fifth century and the early part of the sixth. There are indications that the immigration from Central Asia had continued during the third century (*ante*, p. 289), but, if it did, no distinct record of the event has been preserved, and, so far as positive knowledge goes, only three certain irruptions of foreigners on a large scale through the northern and north-western passes can be proved to have taken place within the historical period anterior to the Muhammadan invasions of the tenth and eleventh centuries. The first and second, as above observed, were those of the Sakas and Yüe-chi respectively, and the third was that of the Hūnas, or White Huns. These names, Saka, Yüe-chi, and Hūna, merely indicate the predominant elements in the invading swarms, which included many various races. The tradition of descent from the first and second swarms has been lost for ages. The Turkī Shāhiya kings of Kabul, who were displaced by the Hindu Shāhiyas in the ninth century, boasted their descent from the great Kushān king, Kanishka, but I do not know of any later claim on the part of an Indian ruling family to relationship with the Yüe-chi.
 
 > _[Margin: Effects of Hūna invasions.]_
+
 The break in tradition seems to be due in large measure [p. 426] to the far-reaching effects of the third barbarian irruption, to which the name of Hūna is given. The meagre literary record of the Hun invasion is supplemented by so many miscellaneous observations in the domains of ethnology, archaeology, and numismatics, that a strong impression is produced on the mind of the student that the Hun invasions disturbed Hindu institutions and polity much more deeply than would be supposed from perusal of the *Purānas*, and other literary works. The Hindu writers display great unwillingness to dwell upon ‘barbarian’ invasions, uniting in ‘a conspiracy of silence’. They never allude to the existence of Alexander the Great, and the Gujarāt historians similarly ignore the sack of Somnāth by Mahmūd of Ghaznī.[^sec-31-fn-117] If Muhammadan authors had not related in detail the story of that famous raid, no record of it would have been found in Indian literature or inscriptions. There is, therefore, no reason for surprise that the Hindu record of the Hun deluge is meagre, and that recognition of its importance has had to be won laboriously by the patient researches of modern archaeologists. It is impossible to set forth the complicated evidence in this place, and the reader must be asked to accept the assertion that the series of invasions by the Huns and associated foreign tribes in the fifth and sixth centuries shook Indian society in Northern India to its foundations, severed the chain of tradition, and brought about a rearrangement of both castes and ruling families. The effects of the Hun cataclysm are obscured partially by the brilliant achievement of Harsha in establishing for thirty-five years (612–47) a strong paramount power able to control the conflicting interests of the various races, clans, and creeds subject to his temporary sway.[^sec-31-fn-118] When his heavy hand was removed all those elements broke loose, [p. 427] and, after a period of unrecorded anarchy, produced in the domain of politics the new grouping of states described in its leading features in this chapter.
 
 > _[Margin: The Gurjaras.]_
+
 It seems to be clearly established that the Hun group of tribes or hordes made their principal permanent settlements in Rājputāna and the Panjāb. The most important element in the group, after the Huns themselves, was that of the Gurjaras, whose name still survives in the spoken form Gūjar as the designation of a widely diffused middle-class caste in North-Western India. The Gūjars, primarily a pastoral people, are, of course, like almost all Indian castes, largely engaged in agriculture. The Jāts or Jats, more exclusively agricultural, are recognized universally to be akin to the Gūjars, although it is impossible to define the relationship. Neither Jats or Gūjars are accounted to rank as Rājpūts or Kshatriyas, but most of the Panjāb Jats claim Rājpūt descent.[^sec-31-fn-119]
 
 > _[Margin: Gurjara kingdoms.]_
+
 The prominent position occupied by Gurjara kingdoms in early mediaeval times is a recent discovery. The existence of a small Gurjara principality at Bharōch (Broach), and of a larger state in Rājputāna, had been known to archaeologists for many years, but the recognition of the fact that Bhoja, and the other kings of the powerful Kanauj dynasty in the ninth, tenth, and eleventh centuries were Gurjaras is of recent date. Certain misreadings of epigraphic dates had obscured the true history of that dynasty, until the correct readings were established. It is now definitely proved that Bhoja (*c.* <span class="sc">a. d.</span> 840–90), his predecessors and successors, belonged to the Pratihāra (Parihār) clan of the Gurjara tribe or caste, and, consequently, that the well-known clan of Parihār Rājpūts is a branch of the Gurjara or Gūjar stock.[^sec-31-fn-120]
 
 
 <!-- page: 476 | folio: 428 -->
 > _[Margin: The ‘fire-born’ clans.]_
+
 A familiar legend appearing in the *Chand Rāisā* and other late documents in variant forms groups together four Rājpūt clans—the Pawār (Pramāra), Parihār (Pratihāra), Chauhān (Chāhumāna), and Solankī or Chaulukya—as being *Agnikula*, or ‘fire-born’, originating from a sacrificial fire-pit at Mount Ābū in Southern Rājputāna. The myth seems to express the historical truths that the four clans named are related, and all arose in Southern Rājputāna; and further, as Mr. Crooke justly observes, it ‘represents a rite of purgation by fire, the scene of which was in Southern Rājputāna, whereby the impurity of the foreigners was removed and they became fitted to enter the Hindu caste system’.[^sec-31-fn-121]
 
 > _[Margin: The Parihārs.]_
+
 The fact that one of the four clans, namely, the Parihār, undoubtedly is of the Gūjar stock, raises a strong presumption that the three others also are descended from Gurjaras or similar foreign immigrants. In this way the origin of some of the most notable of the Rājpūt clans is accounted for. The Gurjaras are believed to have entered India either along with or soon after the White Huns, and to have settled in large numbers in Rājputāna; but there is nothing to show what part of Asia they came from, or to what race they belonged.[^sec-31-fn-122] The Pawār head-quarters were at Chandrāvatī and Achalgarh, near Mount Ābū, and in the seventh century the Parihārs ruled a large part of Rājputāna from Bhinmāl, some 50 miles to the north-west of Mount Ābū. About <span class="sc">A. D.</span> 800 Nāgabhata, king of the Gurjara country, conquered Kanauj on the Ganges, to which city he shifted his capital, and so founded the long line of Kanauj kings who ruled there until the advent of Mahmūd of Ghaznī at the beginning of <span class="sc">A. D.</span> 1019 (*ante*, p. 404). The discovery that the Rājas of Kanauj [p. 429] from 800 to 1018, some of whom enjoyed the rank of paramount sovereigns of Northern India, really were the descendants of ‘barbarian’ foreign immigrants into Rājputāna in the fifth or sixth century and cousins of the Gūjars, though recognized as high-class Rājpūts, is one of the most notable additions made to Indian historical knowledge for many years past. Although the history of the other Rājpūt clans of the north has not been worked out with equal fullness, a fair presumption arises that many of them were of similar origin. The truth seems to be that when a foreign clan or tribe became Hinduized the ruling families were readily recognized as Kshatriyas or Rājpūts, while the rank and file gradually lost their tribal organization, and developed into an Indian caste not regarded as aristocratic.
 
 > _[Margin: Indigenous origin of the southern clans.]_
+
 Some of the principal clans farther south spring from a different source, and apparently are descended from the so-called aboriginal tribes, Gonds, Bhars, Kols, and the like, whom Sir Herbert Risley designated by the singularly inappropriate generic name of ‘Dravidians’, one of the most misleading terms ever introduced.[^sec-31-fn-123] The evidence of a close connexion between the Chandēls and the Gonds, who, again, were associated with the Bhars, is particularly strong; and the inference is fully justified that the Chandēl Rājpūts were originally Hinduized Bhars or Gonds, or both, who attained recognition as Kshatriyas or Rājpūts, when they acquired power and took up the business of kingship for which the Kshatriya group of castes was appropriated. The Gaharwārs similarly are associated with the Bhars; the Bundēlas and the northern Rāthōrs are offshoots of the Gaharwārs, and so on. The name of the great Rāshtrakūta clan of the Deccan, the political history of which will be treated in the next chapter, is etymologically identical with [p. 430] Rāthōr, but there is not, so far as I am aware, evidence of any racial connexion between the Rāshtrakūtas of the Deccan and the Rāthōrs of Hindustan. The former seem to have originated among some one or other of the indigenous tribes of the Deccan in much the same way as the Chandēls became differentiated from the Gonds of the territory which is now the Chhatarpur State.[^sec-31-fn-124]
 
 > _[Margin: Struggle between northern and southern clans.]_
+
 The unceasing wars of the mediaeval period become a little more intelligible and interesting when they are regarded as being in large part a secular struggle between the foreign Rājpūts of the north and the indigenous Rājpūts of the south. Of course, this arrangement of the sides did not always hold good, and powers normally at feud sometimes made friends and contracted alliances one with the other, or all parties momentarily combined against the Muhammadans. But I think it is true that, as a general rule, the Rājpūts formed by the social promotion of ‘aborigines’ were inimical to the Rājpūts descended from ‘barbarian’ immigrants. In the northern group the clans most conspicuous in the historical field are the Chauhāns, Parihārs, Tomaras, and Pawārs; in the southern group the principal clans are the Chandēls, Kalachuris, or Haihayas, Gaharwārs, and Rāshtrakūtas. The origin of the Solankis or Chalukyas (Chaulukya, &c.) is disputed. They claim to come from Oudh, but it is more probable that they are really of foreign origin, like the three other clans with which they are associated in the ‘fire-pit’ story.[^sec-31-fn-125]
 
 > _[Margin: Summary.]_
+
 The main points to remember are that the Kshatriya or Rājpūt group of castes is essentially an occupational group, composed of all clans following the Hindu ritual who actually [p. 431] undertook the work of government[^sec-31-fn-126]; that, consequently, people of most diverse races were and are lumped together as Rājpūts; and that most of the great clans now in existence are descended either from foreign immigrants of the fifth or sixth century of the Christian era, or from indigenous races such as the Gonds and Bhars. This finding will, I fear, be displeasing to many families of Indian gentry, who naturally prefer to believe in orthodox Brahman-made pedigrees going back to the sun, moon, or fire-pit; but I am convinced that it is substantially true, although the evidence is of a kind difficult to grasp, and incapable of brief presentation. The references in the note will enable the curious reader to pursue the subject further.[^sec-31-fn-127]
 
 
@@ -5290,7 +6087,7 @@ The main points to remember are that the Kshatriya or Rājpūt group of castes i
 [^sec-31-fn-069]: (1) Kielhorn, *Bruchstücke indischer Schauspiele in Inschriften zu Ajmere* (Berlin, 1901).
 [^sec-31-fn-070]: (2) The best-known work dealing with Prithīrāj is the *Chand-Rāisā*, or *Prithīrāj-Rāisā*, a Hindī epic, extremely popular in the United Provinces. The authorship is attributed to Chand Bardāi, who was the court poet of his hero and patron. A descendant of the poet still lives in the Jodhpur State on the income of the lands granted to his ancestor by Prithīrāj. He has the MS. of the original poem, consisting of only 5,000 verses. Additions were made by descendants until Akbar's time, enlarging the work to 125,000 verses. Copies of part of the original have been made, and it is hoped that the whole may be published (*J. & Proc. A. S. B.*, Feb. 1911, *Ann. Rep.*, p. xxx). The supposed chronological errors in the *Rāisā* are explained by the discovery that the author used the Ananda variety of the Vikrama era, equivalent roughly to <span class="sc">a. d.</span> 33, and so 90–1 years later than the ordinary Sananda Vikrama era of 58–57 <span class="sc">b.c.</span> (*J. R. A. S.*, 1906, p. 500). Chand gives the date of Prithīrāj's birth as 1115 of *ananda*, which means ‘*nanda-rahit*’, devoid of nine, ‘nine’ being one of the submeanings of *nanda*. *A-nanda* therefore means (100–9) 91 or 90. Possibly the high-caste Rājpūts declined to recognize the low-caste Nanda kings, to whose dynasty they may have assigned a period of 91 years. Another explanation is that Prithīrāj founded an era of his own on account of his jealousy of Jaichand, who claimed descent from Vikrama, dating the era perhaps from the time of Prithirāj's ancestor Chandra Deva (Syam Sundar Das in his *Annual Report on the Search for Hindi MSS. for 1900*, pp. 5–10). See also Hoernle in *J. R. A. S.*, 1906, p. 500. Both eras were current in Rājputāna in the twelfth century. The Sanskrit work from Kashmīr, entitled *Pṛithivīrāja vijaya*, discovered and made known by Bühler, is of higher authority and great historical value. It was composed between <span class="sc">a. d.</span> 1178 and 1200, probably later than 1191. Its genealogical statements are
 [^sec-31-fn-071]: (1) Raverty, transl. *Ṭabakāt-i*-*Nāṣirī*, pp. 456, 459, 467, 468, 485, 486, and App. A. Most English books give the dates inaccurately and miscall the battle-field Tirauri. <span class="sc">A. H.</span> 587, 588, and 589, are almost exactly equivalent to the years <span class="sc">A. D.</span> 1191–3, extending from 29th [p. 404] January, 1191, to 26th December, 1193. A Hindu tale that Pṛithivi- rāja was taken to Ghazni, where he shot the Sultan, and was then cut to pieces, is false. Sultan Shihāb-ud-dīn was assassinated at the halting-place of 'Damyek', in the year 602 (<span class="sc">a. d.</span> 1205–6), by a fanatic of the Mulāḥidah sect. The exact spot, the scene of the surprise, has been visited by Mr. G. P. Tate and identified at Dhamiāk in the Jhelum District, Panjāb (*J. R. A. S.*, 1909, p. 168). The phrase attributed to Firishtah by his translator that 'this pro- digious army, once shaken, like a great building tottered to its fall, &c.', is not in the Persian.
-[^sec-31-fn-072]: (1) Elphinstone, *Hist. of India*, 5th ed., p. 338. Shihāb-ud-dīn is designated by an inconvenient variety of names and titles, as Muhammad the son of Sām, Muhammad Ghorī, or Muizz-ud-dīn. Similarly, his elder brother and colleague, who was also named Muhammad, is known as both Shams-ud-dīn and Ghiyāṣ-ud-dunyā wa ud-dīn (Raverty, *J. A. S. B.*, vol. xlv, part 1, p. 328). The article cited fully justifies the chronology adopted in the text. Rājā Jaichand was defeated and killed at Chandāwar in the Etāwah District near the Jumna. Mr. Banerji rightly points out that there is no evidence that Kanauj was then sacked. The Musalman army passed on to Benares. But the Kanauj terri- tory, including the city, must have then passed under Muhammadan control. The army probably did not visit Kanauj, which is on the Ganges. The city certainly was taken by Iltutmish (Altamsh) in or about <span class="sc">a. d.</span> 1226 (*J. & Proc. A. S. B.*, 1911, pp. 761, 765, 769). It would seem that in 1194 Kanauj was treated as an unim- portant place which could be left aside without danger.
+[^sec-31-fn-072]: (1) Elphinstone, *Hist. of India*, 5th ed., p. 338. Shihāb-ud-dīn is designated by an inconvenient variety of names and titles, as Muhammad the son of Sām, Muhammad Ghorī, or Muizz-ud-dīn. Similarly, his elder brother and colleague, who was also named Muhammad, is known as both Shams-ud-dīn and Ghiyāṣ-ud-dunyā wa ud-dīn (Raverty, *J. A. S. B.*, vol. xlv, part 1, p. 328). The article cited fully justifies the chronology adopted in the text. Rājā Jaichand was defeated and killed at Chandāwar in the Etāwah District near the Jumna. Mr. Banerji rightly points out that there is no evidence that Kanauj was then sacked. The Musalman army passed on to Benares. But the Kanauj territory, including the city, must have then passed under Muhammadan control. The army probably did not visit Kanauj, which is on the Ganges. The city certainly was taken by Iltutmish (Altamsh) in or about <span class="sc">a. d.</span> 1226 (*J. & Proc. A. S. B.*, 1911, pp. 761, 765, 769). It would seem that in 1194 Kanauj was treated as an unimportant place which could be left aside without danger.
 [^sec-31-fn-073]: (1) *Imp. Gaz.*, xiv, 183. Real Rāṭhōrs had been settled at Bālī in Mārwār as early as the tenth century (*ibid.*, vi, 287).
 [^sec-31-fn-074]: (2) i. e. the province of Jejāka; the name Jejāka or Jejā occurs in the inscriptions (*Ep. Ind.*, i, 121). Compare Tīrabhukti, Tirhūt. The name of the ruling clan is Chandēl in Hindī, Chandella in Sanskrit. It is better to use the Hindī form.
 [^sec-31-fn-075]: (1) *J. A. S. B.*, 1881, part i, p. 6.
@@ -5357,47 +6154,54 @@ The main points to remember are that the Kshatriya or Rājpūt group of castes i
 #### *The Origin and Chronology of the Sena Dynasty*
 
 > _[Margin: Interest in the subject.]_
+
 The strong interest taken by many of my readers in the early history of Bengal induces me to devote considerable space to the justification of the statements in the text concerning the Sena dynasty, which differ widely from those made in the second [p. 432] edition, when much material now available was not at my disposal.
 
 > _[Margin: The succession of the Sena kings.]_
+
 The Sena kings succeeded one another from father to son. The names and order of succession are established by inscriptions beyond dispute as being (1) Sāmantasena, (2) Hemantasena, (3) Vijayasena, (4) Vallālasena or Ballāl Sen, (5) Lakshmaṇasena, (6) Viśvarūpasena. Nos. 1 and 2 were merely local chiefs in Orissa, and No. 6 was a ruler of small power in Eastern Bengal. The general history of India is interested only in Nos. 3, 4, 5, who governed dominions of large extent and took rank among the greater powers.
 
 > _[Margin: Matters no longer in dispute.]_
+
 In supersession of the view adopted in the third edition of this work, it now seems desirable to accept the hypothesis that there were two Lakshmaṇasenas, and that Lakshamaṇasena of the inscriptions is to be distinguished from Rāe Lakhmaneya who was driven out of Nūdīah (Nuddea) by Muhammad the son of Bakhtyār, as described in the *Ṭabaḳāt-i-Nāṣirī*. Another matter definitely settled by the labours of the late Professor Kielhorn, as confirmed by subsequent researches, is the beginning of the era known by the name of *Lakshamaṇasena*. The first day of that era was October 7, <span class="sc">A. D.</span> 1119, and the first current year as reckoned from that era was <span class="sc">A. D.</span> 1119–20. It is also clear that a Sena king who bore the name of Lakshmaṇa, or perhaps the epithet Lakshmaneya, a descendant of Lakshmaṇa, and who was posterior to the three sons of Lakshmaṇasena of the inscriptions, was driven out of Nūdīah by Muhammad the son of Bakhtyār at some date subsequent to the taking of Delhi by the Muhammadans in <span class="sc">A. H.</span> 589, which is practically equivalent to <span class="sc">A. D.</span> 1193, and prior to Muhammad's expedition into the hills of the NE. frontier, called Tibbat (Tibet) by the author of the *Ṭabaḳāt*, which took place in <span class="sc">A. H.</span> 601 (Aug. 1204–Aug. 1205).
 
 > _[Margin: Disputed date of the raid on Nūdīah.]_
+
 But considerable difference of opinion exists as to the exact date of the raid on Nūdīah, which is not stated in the *Ṭabaḳāt*, our only authority for the details. That work, it may be noted, was closed in <span class="sc">A. H.</span> 658, practically equivalent to <span class="sc">A. D.</span> 1260. The author, commonly called Minhāj-i-Sirāj, expressly states that in <span class="sc">A. H.</span> 641 (June, <span class="sc">A. D.</span> 1243–June, 1244) he obtained an account of the operations of Muhammad the son of Bakhtyār against Bihār town from two of his surviving soldiers (Raverty, *transl.*, p. 552). His account, therefore, has almost the authority of a contemporary narrative so far as that event is concerned. But he does not seem to have been so well informed about the raid on Nūdīah.
 
 > _[Margin: Narrative in the *Ṭabaḳāt-i-Nāṣirī*.]_
+
 In the briefest possible summary, the historian's narrative is as follows. Muhammad, son of Bakhtyār, a man of the Turkish Khalj tribe, failed to obtain employment from Kutb-ud-dīn after the capture of Delhi in <span class="sc">A. H.</span> 589. When some time, apparently a considerable interval, had elapsed, he acquired a certain amount [p. 433] of military power and obtained a fief in the Mirzāpur district from which he was ‘in the habit of making incursions into Manēr (in the north-west of Patna District) [^sec-32-fn-001] and Bihār’, until he collected ‘ample resources in the shape of horses, arms, and men’. We are further told that he ‘used to carry his depredations into those parts’ until he organized a final attack upon the fortified city of Bihār. He captured the city, as related in the text, and brought great booty to the presence of Kutb-ud-dīn, who was, perhaps, then at Mahobā in Bundelkhand. The favour with which he was received excited jealousy, which was not allayed until Muhammad justified himself by defeating a furious elephant. After that incident he departed for Bihār. Meantime, many of the inhabitants of Nūdīah became alarmed and deserted their king, Rāe Lakhmaniya, or Lakshmaṇasena. ‘The following year after that, Muhammad-i-Bakhtyār caused a force to be prepared, pressed on from Bihār, and suddenly appeared before the city of Nūdīah’, as described in the text.[^sec-32-fn-002]
 
 > _[Margin: True date must be about <span class="sc">a. h.</span> 595.]_
+
 Now, on reconsideration of the evidence, I agree with Blochmann that it is impossible to date the attack on Nūdīah, as Raverty did, in <span class="sc">a. h.</span> 590. The operations of Muhammad above detailed must have occupied several years after <span class="sc">a. h.</span> 589, when Delhi was taken. On the other hand, Minhāj-i-Sirāj tells us (Raverty, p. 560) that ‘after some years had passed away’, Muhammad organized his expedition to ‘Tibbat’. That disastrous operation took place in <span class="sc">a. h.</span> 601 (Aug. <span class="sc">a. d.</span> 1204–Aug. 1205). The capture of Nūdīah, therefore, must be dated several years after <span class="sc">a. h.</span> 589, and ‘some years’ before <span class="sc">a. h.</span> 601, say in or about <span class="sc">a. h.</span> 595 (Nov. <span class="sc">a. d.</span> 1198 to Oct. 1199).
 
 > _[Margin: Rāe Lakhmaniya’s alleged reign of eighty years.]_
+
 But the story told by Minhāj-i-Sirāj enables us to fix the date with a little more precision. He was informed that Rāe Lakhmaniya had then been on the throne for eighty years, reckoned from his birth. That assertion, which is supported by an anecdote, manifestly legendary, is in itself highly improbable. The longest recorded Indian reign is that of Choṛaganga of Orissa, which extended to seventy-one years complete (<span class="sc">a. d.</span> 1076–1147); and, so far as I know, a reign of eighty years cannot be traced in the history of any country. Raverty supported his belief in the eighty years’ reign by quoting a statement made by Munshi Shiām Parshād in an account of Gauṛ, written for Major Francklin, that Lakshmaṇasena reigned from <span class="sc">a. h.</span> 510–590, eighty lunar [p. 434] years. But it does not appear what authority the Munshi had for his statement. Another argument on the same side is that Muhammad died in <span class="sc">a. h.</span> 602, and according to certain historians had reigned or ruled for twelve years in Lakhnautī or Gaur. Twelve years back from <span class="sc">a. h.</span> 602 bring us to <span class="sc">a. h.</span> 590. It is possible, however, as Bābū Monmohan Chakravarti suggests, that the rule of Muhammad may have been reckoned from a time prior to the attack on Nūdīah. On reconsideration, I agree with Blochmann in rejecting both the alleged eighty years' reign and the date <span class="sc">a. h.</span> 590 for the attack on Nūdīah.
 
-> _[Margin: Attack on Nūdīah in the year 80 of Laksh- maṇa- sena's era.]_
+> _[Margin: Attack on Nūdīah in the year 80 of Lakshmaṇa- sena's era.]_
+
 I now accept the suggestion made long ago by Professor Kielhorn (*Ind. Ant.*, vol. xix (1890), p. 7) that the legend of the eighty years' reign is due to a misunderstanding, the Nūdīah raid having really taken place in the year 80 of the Lakshmaṇasena era. Dates in that era were usually calculated as expired years, but occasionally as current years. On the supposition that the year was 'expired', the year 80 would be <span class="sc">a. d.</span> 1119–20 plus 80 = <span class="sc">a. d.</span> 1199–1200 (October to October). If the current year should be understood, the date would be <span class="sc">a. d.</span> 1198–9 (November to October). Probably the event took place during the cold season of 1199–1200, that is to say, late in <span class="sc">a. d.</span> 1199, early in <span class="sc">a. h.</span> 596. We may be confident that it occurred in either <span class="sc">a. h.</span> 595 or 596, not in <span class="sc">a. h.</span> 590, as I formerly believed.
 
 Kielhorn's view that the conquest of Nūdīah must have taken place in the eightieth year of the Lakshmaṇasena era is supported by the Jānibīghā inscription of the year 83 (<span class="sc">a. d.</span> 1202) of the same era.[^sec-32-fn-003] It is tolerably clear that the era commenced with the reign of the king whose name it bears, and who, as shown in the text (pp. 421, 422 *ante*), was a widely respected king and patron of literature.
 
-> _[Margin: Recorded Sena dates and synchro- nisms.]_
+> _[Margin: Recorded Sena dates and synchronisms.]_
+
 For Vijayasena we have three synchronisms. He is described as 'the friend of Choḍagaṅga (*Choḍagaṅga sakhaḥ*)'. Choḍagaṅga had an exceptionally long reign of more than seventy-one years, from <span class="sc">a. d.</span> 1076 to 1147. The earlier part of it coincides with thirty-eight years of the reign of Vijayasena, according to the chronology followed by R. D. Banerji, which seems to me now to be correct. The other two synchronisms are vague and imperfect. An inscription records that Vijayasena made captive four kings, namely, Nānya, Vīra, Rāghava, and Vardhana. We are also told that he 'impetuously assailed the lord of Gauḍa, put down the prince of Kāmarūpa, and defeated the Kalinga'. Unluckily, the record does not join the names of the kings and the countries. Nānya may mean Nānyadeva of Tirhūt, who, according to tradition, founded Simraun in <span class="sc">a. d.</span> 1097 and afterwards established the Karṇāṭaka dynasty in the valley of Nepāl.[^sec-32-fn-004] I cannot positively [p. 435] identify either Vīra or Vardhana. One of them presumably must have been the Rāja of Kāmarūpa or Assam.
 
 > _[Margin: The Sena kings’ family from the Deccan.]_
+
 I conclude this dissertation by a notice of the origin and rise of the Sena royal family.[^sec-32-fn-005] The ancestors were of southern origin, from the Deccan, and are described both as Karṇāṭa Kshatriyas, and as Brahmakshatras. The meaning of the latter term, misunderstood by Professor Kielhorn, has been elucidated by Mr. D. R. Bhandarkar. His observations, which throw much light on the history of caste, deserve to be quoted textually :—
 
 > _[Margin: Meaning of the term *Brahmakshatra.*]_
+
 > ‘We have already seen that a Chāṭsū inscription speaks of a Guhilot king Bhartṛibhaṭṭa as *Brahma-Kshatr-ānvita*, which I have translated by “possessed of both priestly and martial energy”, but a footnote has been added below saying that what is also implied is that Bhartṛibhaṭṭa was a Brahmakshatrī, i. e. belonged to the Brahmakshatrī caste. Bhartṛibhaṭṭa is not the only ancient king of India who is so called. In the Deopārā inscription of Vijayasena, of the well-known Sena dynasty of Bengal, Sāmantasena is described as *Brahma-kshatriyānāṁ kula-śiro*-*dāma*, which expression was rendered by Prof. Kielhorn by “head-garland of the clans of the Brahmans and Kshatriyas”, but which ought to have been rendered, I think, by “head-garland of the Brahma-kshatrī family”. That the latter is the correct translation is shown by the term *Brahmakshatra* used with reference to the Sena kings in the *Ballāla-charita* [*Bibl. Ind.*].
 
 > Now, there is a caste called Brahmakshatrī, corresponding to this *Brahmakshatra*, the members of which are found all over the Panjāb, Rājputānā, Kāthiāwāṛ, Gujarāt, and even the Dekkan. In my opinion, as already stated, they were originally the Brāhmaṇa classes of new tribes afterwards turned Kshatriyas, before their final mergence into the Hindu society.’
 
-The author then cites the case of the Bandhārā weavers and
-
-eleventh and beginning of the twelfth century, and probably also with Jayachchandra of Ka-
-
-nauj (Monmohan Chakravarti in *J. & Proc. A. S. B.*, 1915, pp. 409–11).
+The author then cites the case of the Bandhārā weavers and eleventh and beginning of the twelfth century, and probably also with Jayachchandra of Kanauj (Monmohan Chakravarti in *J. & Proc. A. S. B.*, 1915, pp. 409–11).
 
 
 ![(J. & Proc. A. S. B., 1914, p. 98).](../figures/fig-018_p0483.webp)
@@ -5406,6 +6210,7 @@ nauj (Monmohan Chakravarti in *J. & Proc. A. S. B.*, 1915, pp. 409–11).
 <!-- page: 484 | folio: 436 -->
 > _[Margin: The Sena royal family originally Brahman.]_
 > _[Margin: Earliest seat of the Sena family.]_
+
 dyers in the Jodhpur State, who originally were Nāgar Brahmans, and proceeds :—
 
 > ‘ Here then we have an instance of a Brahmakshatrī caste, the people of which say that they were originally Nāgar Brāhmaṇas. This clearly explains how the Guhilots, who were also originally Nāgar Brāhmaṇas, became Brahmakshatrīs or Khatrīs, and also strengthens my theory that the various castes of the Brahmakshatrīs were originally the Brāhmaṇa classes of foreign tribes, which after the process of fusion had set in, but before it was complete, exchanged their priestly for martial pursuits.’[^sec-32-fn-006]
@@ -5424,9 +6229,11 @@ In order to save the necessity of a multitude of foot-notes the principal refere
 ##### *References*
 
 > _[Margin: Authorities.]_
+
 The following classified list gives the authorities on which the statements in the text and appendix concerning the Senas are based. Obsolete publications are not cited.
 
 > _[Margin: General.]_
+
 It is difficult to interpret the account of ‘ the four Senas ’ by Tāranāth (Schiefner, pp. 252–7). He gives the names of the kings as (1) Lavasena, (2) Kāśasena, (3) Maṇitasena, (4) Rāthikasena ; observing that although he was unable to fix the duration of each reign, all four together ruled for not more than about eighty years. His account of the Turushka king Chandra, who conquered all Magadha, destroyed Vikramaśīla, and slew many clergy in Otantapurī (Bihār town), seems intended to describe the raid of Muhammad the son of Bakhtyār, but why that personage should be described as Chandra I cannot say. He proceeds (p. 256) to enumerate the later Senas, viz. (1) Lavasena II, (2) Buddhasena, (3) Haritasena, and (4) Pratītasena, princes of small power, subordinate to the Turushkas or Muhammadans.
 
 In the third edition the identity of Lakshmaṇasena of the inscriptions with Rāe Lakhmaniya of the *Ṭabaḳāt-i-Nāṣirī* was assumed. Fresh light has now been thrown on the subject by K. P. Jayaswal in *J. B. & O. Res. Soc.*, vol. iv, pp. 266–72 and by H. Panday (ibid., pp. 273–80, with facs.). It seems reasonable to suppose that Lakshmaṇasena of the era was dead long before Muhammad’s raid, and that Lakshmaṇasena II, the Lavasena of Tāranāth, came to the throne after the three sons of Lakshmaṇasena I, shown in the genealogy on p. 435 *ante*. This thesis is supported by the copper-plates of Viśvarūpa-Sena and Keśava-Sena, whose capital was at Gaur. They must have preceded Muhammad, who made the same place his capital. The dates of the plates are respectively the 14th and 3rd regnal years. Lakshmaṇasena therefore was dead before <span class="sc">A. D.</span> 1182 (1199 less 17), and a good deal before that date, as the elder brother reigned first. The victory over the Muhammadans claimed by the sons of Lakshmaṇasena must have occurred *before* the raid of 1199, i. e. it must have been won against the Ghorī armies, which had advanced as far as Benares.
@@ -5434,23 +6241,29 @@ In the third edition the identity of Lakshmaṇasena of the inscriptions with R�
 
 <!-- page: 486 | folio: 438 -->
 > _[Margin: Date of capture of Nūdīah.]_
+
 Blochmann, *J. A. S. B.*, part i, vol. xliv (1875), p. 275; Raverty, in reply, ibid., vol. xlv (1876), p. 320, and transl. *Ṭabaḳāt*, App. D; Monmohan Chakravarti, 'Appendix on Sena Kings', *J. & Proc. A. S. B.* (N.S.), vol. i, 1905, pp. 45–50; and 'Certain Disputed or Doubtful Events in the History of Bengal, Muhammadan Period', ibid., vol. iv, 1908, p. 151.
 
-> _[Margin: Era of Lakshmaṇa- sena, and chronology.]_
+> _[Margin: Era of Lakshmaṇasena, and chronology.]_
+
 In addition to the above papers—Nagendranāth Vasu, *J.A.S.B.*, part i, vol. lxv (1896), pp. 6–38; Babu Akshay Kumar Mitra, ibid., vol. lxix (1900), p. 61; Kielhorn, *Ind. Ant.*, xix (1890), p. 6; and *Ep. Ind.*, i, 306; Beveridge, *J. A. S. B.*, part i, vol. lvii (1888), pp. 1–7; R. D. Bandyopādhyāya, 'Mādhāinagar Grant of Lakshmaṇasena', *J. & Proc. A. S. B.*, vol. v (N.S.), 1909, p. 467; and Prof. N. K. Bhattasali, 'King Lakshmaṇa Sena of Bengal and his Era' in *Ind. Ant.*, vol. xli (July 1912), pp. 167–9.
 
-> _[Locus: Literature in Sena period.]_
+> _[Margin: Literature in Sena period.]_
+
 Monmohan Chakravarti, '*Pavana-dūtam*, or Wind-Messenger, by Dhoyīka, a court poet of Lakshmaṇa-sena, king of Bengal,' *J. & Proc. A. S. B.* (N.S.), vol. i (1905), p. 41; 'Supplementary Notes on the Bengal Poet Dhoyīka and the Sena Kings,' ibid., vol. ii (1906), p. 15; 'Sanskrit Literature in Bengal during the Sena Rule,' ibid., p. 157.
 
 > _[Margin: Choṛagaṅga and Vijayasena. Synchronisms.]_
+
 Monmohan Chakravarti, 'Chronology of the Eastern Gaṅga Kings of Orissa,' *J. A. S. B.*, part i, vol. lxxii (1903), p. 14, quoting *Vallāla-charitaṁ* of Ānanda Bhaṭṭa.
 
 For Rāghava, Monmohan Chakravarti, *J. & Proc. A. S. B.* (N.S.), vol. i (1905), p. 49. For Nānya, S. Lévi, *Le Népal*, t. ii, p. 198; Kielhorn, *Ep. Ind.*, i, p. 313, note 57. For kings of Assam named Vīra, Gait, *Report on the Progress of Historical Research in Assam*, Shillong, 1897, pp. 11, 19.
 
 > _[Margin: Early seat of the Senas.]_
+
 Nagendranāth Vasu, *Archaeological Survey of Mayūrabhanja*, published by the Mayūrabhanja State, 1911, p. 122.
 
-> _[Margin: Meaning of *Brahmaksha- tra*.]_
+> _[Margin: Meaning of *Brahmakshatra*.]_
+
 D. R. Bhandarkar, 'Guhilots,' *J. & Proc. A. S. B.* (N.S.), vol. v, 1909, pp. 167–87, especially p. 186; an exceptionally valuable and original essay.
 
 
@@ -5476,155 +6289,194 @@ D. R. Bhandarkar, 'Guhilots,' *J. & Proc. A. S. B.* (N.S.), vol. v, 1909, pp. 16
 #### THE KINGDOMS OF THE DECCAN
 
 > _[Margin: The Deccan.]_
+
 <span class="sc">The</span> term Deccan, a convenient and familiar corruption of the Sanskrit word (*dakshina*) meaning the South, may be, and sometimes is, extended so as to cover the whole of India south of the Narmadā; but is usually understood as designating a more limited territory, in which Malabar and the Tamil countries of the extreme south are not included. Thus limited, the term connotes the whole region occupied by the Telugu-speaking populations, as well as Mahārāshtra, or the Marāthā country. Certain dynasties of Mysore, which had more concern with the Deccan than with the extreme south, are noticed in this chapter more conveniently than they could be in connexion with the Tamil powers. With reference to modern political divisions, the greater part of the Deccan in the restricted sense is occupied by the territories of the Nizam of Hyderabad.
 
 Physically, the country is for the most part a dry, hilly table-land, traversed by two great rivers, the Godāvarī[^sec-33-fn-001] and the Krishnā (Kistna), the latter of which receives on the south an important affluent, the Tungabhadrā.
 
 > _[Margin: <span class="sc">a. d.</span> 225– 550. Blank in history.]_
+
 In this region the dominant power for four centuries and a half, up to about <span class="sc">a. d.</span> 225, was the Āndhra, the history of which has been discussed in Chapter VIII of this work.
 
 Sir R. G. Bhandarkar, writing in 1896, observed that for some three centuries after the extinction of the Āndhra dynasty ‘we have no specific information about the dynasties that ruled over the country’. Although since that date some additional knowledge has been acquired concerning the rulers of the southern part of the table-land, especially the Kadambas,[^sec-33-fn-002] who governed Kanara and the [p. 440] northern districts of Mysore between the third and sixth centuries, the particulars gleaned by archaeologists are not of sufficient general interest to justify detailed notice of them in this work. Mahārāshtra, the western portion of the territory, seems to have been under the rule of princes belonging to the Rāshtrakūta or Ratta clan, which, long afterwards, in the middle of the eighth century, became the ruling power in the Deccan for a time.
 
 > _[Margin: Rise of the Chalukyas.]_
+
 It is still true to say that practically the political history of the Deccan begins in the middle of the sixth century with the rise of the Chalukya dynasty. The Chalukyas claimed to be a race of Rājpūts from the north, who imposed their rule upon the Dravidian inhabitants of the Deccan table-land, which had already been largely influenced by the Aryan ideas of the northerners before the appearance of the Chalukyas on the scene.[^sec-33-fn-003] The statements in the later Chalukya inscriptions, which profess to trace back the clan to its origin in Ajodhya, and provide the royal family with an orthodox mythological pedigree, are of no historical value. There is some reason for believing that the Chalukyas or Solankīs were connected with the Chāpas, and so with the foreign Gurjara tribe of which the Chāpas were a branch, and it seems to be probable that they emigrated from Rājputāna to the Deccan.[^sec-33-fn-004]
 
 
 <!-- page: 489 | folio: 441 -->
 > _[Margin: <span class="sc">a. d.</span> 550. Pulakēśin I.]_
+
 The dynasty was founded by a chieftain named Pulakēsin I, who made himself master of the town of Vātāpi, the modern Bādāmi in the Bijāpur District, about <span class="sc">a. d.</span> 550, and established a principality of modest dimensions. He aimed, however, at more extended power, and is said to have asserted his claim to a paramount position by celebrating an *aśvamedha*, or horse-sacrifice.
 
 > _[Margin: Kīrtivarman and Mangalēśa.]_
+
 His sons, Kīrtivarman and Mangalesa, extended the possessions of the family both eastward and westward. The clans more or less completely subjugated by the former include the Mauryas of the Konkan—the strip of coast between the Western Ghāts and the sea—who may have been descended from the ancient imperial Maurya dynasty.
 
 > _[Margin: <span class="sc">a. d.</span> 608. Pulakēśin II.]_
+
 The succession to Mangalēsa was disputed between his son and one of the sons of Kīrtivarman. The latter, having overcome his rival, ascended the throne of Vātāpi as Pulakēsin II in <span class="sc">a. d.</span> 608, and was formally crowned in the following year. For the space of twenty years or more this able prince devoted himself to a career of aggression directed against all the neighbouring states. On the west and north, the kings of Lāta, or Southern Gujarāt; Gurjara, or Northern Gujarāt and Rājputāna; Mālwā, and the Mauryas of the Konkan felt the weight of Pulakēsin's arm.
 
 > _[Margin: <span class="sc">a. d.</span> 611. Conquest of Vengī.]_
+
 In the east he made himself master of Vengī, between the Krishnā and Godāvarī, and established his brother Kubja Vishnuvardhana there as viceroy in <span class="sc">a. d.</span> 611, with his capital at the stronghold of Pishtapura, now Pithāpuram in the Godāvarī District.[^sec-33-fn-005] A few years later, about <span class="sc">a. d.</span> 615, this prince set up as an independent sovereign, and founded the line of the Eastern Chalukyas,[^sec-33-fn-006] which lasted until <span class="sc">a. d.</span> 1070, when it was absorbed into the Chola dynasty.
 
 
 <!-- page: 490 | folio: 442 -->
 > _[Margin: Southern wars.]_
+
 All the southern kingdoms, the Chola, Pāṇḍya, and Kerala, as well as the Pallava, were forced into conflict with the ambitious king of Vātāpi, who undoubtedly was the most powerful monarch to the south of the Narmadā in <span class="sc">A. D.</span> 630.
 
 > _[Margin: <span class="sc">A. D.</span> 620. Repulse of Harsha.]_
+
 About ten years before that date he had successfully repelled the attack on his dominions led in person by Harsha, the lord paramount of the north, who aspired to the sovereignty of all India; but was foiled by the watchfulness and military skill of Pulakēsin, by whom the line of the Narmadā as the frontier between the southern and northern empires was successfully maintained.[^sec-33-fn-007]
 
 > _[Margin: <span class="sc">A. D.</span> 625. Intercourse with Persia.]_
+
 The fame of the king of the Deccan spread beyond the limits of India, and reached the ears of Khusrū II, king of Persia, who, in the thirty-sixth year of his reign, <span class="sc">A. D.</span> 625–6, received a complimentary embassy from Pulakēsin.[^sec-33-fn-008] The courtesy was reciprocated by a return embassy sent from Persia, which was received with due honour at the Indian court. A large fresco painting in Cave No. 1 at Ajaṇṭā, although unhappily mutilated, is still easily recognizable as a vivid representation of the ceremonial attending the presentation of their credentials by the Persian envoys.
 
 > _[Margin: Ajaṇṭā school of painting.]_
+
 This picture, in addition to its interest as a contemporary record of unusual political relations between India and Persia, is of the highest value as a landmark in the history of art. It not only fixes the date of some of the most important paintings at Ajaṇṭā, and so establishes a standard by which the date of others can be judged; but also suggests the possibility that the Ajaṇṭā school of pictorial art may have been derived directly from Persia, and ultimately from Greece.[^sec-33-fn-009]
 
 
 <!-- page: 491 | folio: 443 -->
 > _[Margin: <span class="sc">a. d.</span> 641. Visit of Hiuen Tsang.]_
+
 The wonderful caves in the Ajantā valley were duly admired by Hiuen Tsang, who visited the court of Pulakēsin II in the year <span class="sc">a. d.</span> 641. The king's head-quarters at that time were not at Vātāpi, but at another city, which has been identified for good reasons with Nāsik. The pilgrim was profoundly impressed by the military power of Pulakēsin, who was obeyed by his numerous subjects with ‘perfect submission’.
 
 > _[Margin: <span class="sc">a. d.</span> 642. Defeat of Pulakēśin by the Pallavas.]_
+
 But his prosperity was not destined to last much longer. In <span class="sc">a. d.</span> 642, the long-continued war, which, since the year 609, had been generally disastrous to the Pallavas of Kānchī, took a new turn, and brought ruin and death upon Pulakēsin. The Pallava king, Narasimhavarman, captured and plundered his capital, and presumably put him to death. Then for thirteen years the Chalukya power, which Pulakēsin had laboured so hard to exalt, remained in abeyance; while the Pallavas dominated Southern India.
 
 > _[Margin: <span class="sc">a. d.</span> 655. Vikramāditya I.]_
+
 In <span class="sc">a. d.</span> 655, Vikramāditya I, a son of Pulakēsin, restored the fallen fortunes of his family, inflicting in <span class="sc">a. d.</span> 674 a severe defeat upon the Pallavas, whose strongly fortified capital, Kānchī, was captured. The struggle with the southern power long continued, and victory inclined now to one side and now to the other. During this reign a branch of the Chalukya dynasty succeeded in establishing itself in Gujarāt, where in the next century it offered vigorous opposition to the Arabs.
 
 > _[Margin: <span class="sc">a. d.</span> 740. Vikramāditya II.]_
+
 The main feature of the succeeding reigns was the never-ending conflict with the Pallavas, whose capital was again taken by Vikramāditya II, about <span class="sc">a. d.</span> 740.
 
 > _[Margin: <span class="sc">a. d.</span> 753 (?). Rāshṭrakūṭa conquest.]_
+
 In the middle of the eighth century, Dantidurga, a chieftain of the ancient, and apparently indigenous, Rāshtrakūta clan, fought his way to the front, and overthrew Kīrtivarman II Chalukya, the son and successor of Vikramāditya II. The main branch of the Chalukyas now became extinct, and the sovereignty of the Deccan passed to the Rāshtrakūtas, in whose hands it remained for nearly two centuries and a quarter.
 
 
 <!-- page: 492 | folio: 444 -->
 > _[Margin: <span class="sc">A. D.</span> 550– 750. State of religion.]_
+
 During the two centuries of the rule of the early Chalukya dynasty of Vātāpi, great changes in the religious state of the country were in progress. Buddhism, although still influential, and supported by a considerable section of the population, was slowly declining, and suffering gradual supersession by its competitors, Jainism and Brahmanical Hinduism. The sacrificial form of the Hindu religion received special attention, and was made the subject of a multitude of formal treatises. The Purānic forms of Hinduism also grew in popularity; and everywhere elaborate temples dedicated to Vishnu, Siva, or other members of the Purānic pantheon, were erected; which, even in their ruins, form magnificent memorials of the kings of this period. The orthodox Hindus borrowed from their Buddhist and Jain rivals the practice of excavating cave-temples; and one of the earliest Hindu works of this class is that made at Bādāmi in honour of Vishnu by Mangalesa Chalukya, at the close of the sixth century. Jainism was specially popular in the Southern Marāthā country.[^sec-33-fn-010] The religion of Zoroaster was introduced into India during the eighth century. The first colony of Parsee emigrants from Khurāsān which settled on the Indian mainland was established at Sanjān in the Thāna District, Bombay, in <span class="sc">a. d.</span> 735.[^sec-33-fn-011]
 
 > _[Margin: <span class="sc">c. a. d.</span> 760. Kṛishṇa I.]_
+
 Dantidurga Rāshtrakūta, after his occupation of Vātāpi, effected other conquests. He was succeeded by his uncle, Krishna I, who completed the establishment of Rāshtrakūta supremacy over the dominions formerly held by the Chalukyas. A branch of his family founded a principality in Gujarāt.
 
-The reign of Krishna I is memorable for the execution of
+> _[Margin: Kailāśa temple.]_
+
+The reign of Krishna I is memorable for the execution of [p. 445] the most marvellous architectural freak in India, the Kailāsa monolithic temple at Elūra (Ellora), now in the Nizam's dominions (N. lat. 20° 21′, E. long. 75° 10′), which is by far the most extensive and sumptuous of the rock-cut shrines. It has been fully described and illustrated by many writers, among whom Burgess and Fergusson possess most authority.[^sec-33-fn-012]
 
 
 <!-- page: 494 | folio: 444 -->
 
 ![THE ROCK-CUT KAILĀSA TEMPLE AT ELŪRA (from the north-west)](../figures/fig-019_p0494.webp)
 
-
-<!-- page: 495 | folio: 445 -->
-> _[Margin: Kailāśa temple.]_
-the most marvellous architectural freak in India, the Kailāsa monolithic temple at Elūra (Ellora), now in the Nizam's dominions (N. lat. 20° 21′, E. long. 75° 10′), which is by far the most extensive and sumptuous of the rock-cut shrines. It has been fully described and illustrated by many writers, among whom Burgess and Fergusson possess most authority.[^sec-33-fn-012]
-
 > _[Margin: Govinda II and Dhruva.]_
+
 Krishna I was succeeded by his son Govinda II, who, after a short reign, was followed, and apparently superseded, by his brother Dhruva or Dhora, an able and warlike prince, who continued with success the aggressive wars so dear to the heart of an Indian rāja.[^sec-33-fn-013] He prided himself especially on his defeat of Vatsarāja, the Gurjara king of Bhinmāl, whom he despoiled of two white umbrellas taken by Vatsarāja from the king of Gauda, or Bengal.[^sec-33-fn-014]
 
 > _[Margin: *c.* A. D. 793–815. Govinda III.]_
+
 Govinda III, son of Dhruva, may justly claim to be the most remarkable prince of his vigorous dynasty. He extended his power from the Vindhya mountains and Mālwa on the north to Kānchī on the south; while his direct rule was carried at least as far as the Tungabhadrā. He created his brother Indrarāja viceroy of Lāta, or Southern Gujarāt.
 
 > _[Margin: *c.* A. D. 815–77. Amōghavarsha; Jain progress.]_
+
 The long reign of the next king, Amōghavarsha, who occupied the throne for not less than sixty-two years, was largely spent in constant wars with the Eastern Chalukya Rājas of Vengī. He transferred his capital from Nāsik to Mānyakheta, the Mānkīr of the Arab writers, now Mālkhed in the Nizam's dominions (N. lat. 17° 10′, E. long. 77° 13′).[^sec-33-fn-015] Amōghavarsha was the long-lived Balhāra of the merchant Sulaiman (A. D. 851), who reckoned him to be fourth of the [p. 446] great kings of the world, the other three being the Khalīfa of Baghdad, the emperor of China, and the emperor of Constantinople. In his old age Amōghavarsha abdicated in favour of his son, Krishna II, and devoted the brief remainder of his life to ascetic practices.[^sec-33-fn-016] The Digambara, or naked, sect of the Jains was liberally patronized by Amōghavarsha. The rapid progress made by Digambara Jainism late in the ninth and early in the tenth century, under the guidance of various notable leaders, including Jinasena and Gunabhadra, who enjoyed the favour of more than one monarch, had much to do with the marked decay of Buddhism, which daily lost ground, until it almost wholly disappeared from the Deccan in the twelfth century.
 
 > _[Margin: <span class="sc">A. D.</span> 914– 16. Indra III.]_
+
 The brief reign of Indra III (<span class="sc">A. D.</span> 914–16) is signalized by his successful attack upon distant Kanauj, and the consequent temporary dethronement of Mahīpāla, king of Panchāla, the most considerable prince in Northern India. This war probably deprived Mahīpāla of Surāshtra and the other western provinces which were still under his control at the time of the accession of Indra III.[^sec-33-fn-017]
 
 > _[Margin: <span class="sc">A. D.</span> 949. Choḷa king killed.]_
+
 The war with the Cholas in the reign of Krishna III Rāshtrakūta, was remarkable for the death of Rājāditya, the Chola king, on the field of battle in <span class="sc">A. D.</span> 949. Much bitterness was introduced into the wars of this period by the hostility between the rival religions, Jainism and orthodox Hinduism.
 
 > _[Margin: <span class="sc">A. D.</span> 973. Restoration of the Chalukyas.]_
+
 The last of the Rāshtrakūta kings was Kakka II, overthrown in <span class="sc">A. D.</span> 973 by Taila, or Tailapa II, a scion of the old Chalukya stock, who restored the family of his ancestors to its former glory, and founded the dynasty known as that of the Chalukyas of Kalyāni; which lasted, like that which it superseded, for nearly two centuries and a quarter.
 
 > _[Margin: Pre-eminence of the Rāshtrakūṭas.]_
+
 The conquest of Sind by Muhammad son of Kāsim, early in the eighth century, firmly established the political predominance of Islam in that province, which was separated from India proper by the ‘lost river’, the Hakrā or Wahindah. The Gurjara kingdom of Bhinmāl to the east of that [p. 447] river was united with that of Kanauj from the beginning of the ninth century, and maintained relations of chronic hostility with its Muslim neighbours on the west of the great stream. But the Rāshtrakūta princes found their interest to lie in the pursuit of a different policy, and kept up friendly intercourse with the Arabs, while continually engaged in war with the Gurjaras. In consequence of this policy many Muhammadan merchants and travellers visited the western region of India, of whom some, beginning with the merchant Sulaiman in the middle of the ninth century, have left a record of their observations. All these writers agree in stating that they regarded the Balharā as the greatest sovereign in India. They called the Rāshtrakūta kings ‘Balharā’ because those princes were in the habit of assuming the title Vallabha (‘Beloved,’ *Bien aimé*), which, in combination with the word Rāi (prince), was easily corrupted into the form of Balharā.[^sec-33-fn-018] The tribute of honour paid to the Rāshtrakūta kings by their Muhammadan visitors was justified by the achievements of their period. Although the art displayed at Ellora may not be of the highest kind, the Kailāsa temple is one of the wonders of the world, a work of which any nation might be proud, and an honour to the king under whose patronage it was executed. Many other temples were the outcome of the royal munificence, and Sanskrit literature of the artificial type then in fashion was liberally encouraged.
 
 > _[Margin: <span class="sc">A. D.</span> 995. Execution of Munja.]_
+
 Taila, the restorer of the Chalukya name, reigned for twenty-four years, and during that time succeeded in recovering all the ancient territory of his race, with the possible exception of the Gujarāt province.[^sec-33-fn-019] Much of his time was spent in fighting Munja, the Pawār (Paramāra) Rāja of Dhārā, who claimed the victory in six conflicts. Towards [p. 448] the close of his reign Taila enjoyed the luxury of revenge. His enemy, having crossed the Godāvarī, which then formed the boundary between the two kingdoms, was defeated, taken captive, and for a time treated with the courtesy due to his rank. But an attempt to escape was visited with cruel indignities, the captive Rāja being forced to beg from door to door, and ultimately beheaded. These events may be dated in <span class="sc">a. d.</span> 995.[^sec-33-fn-020]
 
 > _[Margin: c. <span class="sc">a. d.</span> 1000. Invasion by Rājarāja Choḷa.]_
+
 Two years later Taila died, and transmitted the crown to his son Satyāśraya, during whose reign the Chalukya kingdom suffered severely from invasion by the Chola king, Rājarāja the Great, who overran the country with a vast host, said to number nine hundred thousand men, pillaging and slaughtering in a fashion so merciless that even the women, children, and Brahmans were not spared.
 
 > _[Margin: <span class="sc">a. d.</span> 1052. Death of Rājādhirāja Choḷa.]_
+
 In <span class="sc">a. d.</span> 1052, Somesvara I, who was called Āhavamalla, fought a battle at Koppam, on the Krishnā, in which Rājādhirāja, the then reigning Chola king, lost his life.[^sec-33-fn-021] Somesvara also claims the honour of having stormed both Dhārā in Mālwā and Kānchī in the south, and of having defeated Karna, the valiant king of Chedi.
 
 > _[Margin: <span class="sc">a. d.</span> 1068. Suicide of Someśvara Chalukya.]_
+
 In <span class="sc">a. d.</span> 1068, Somesvara, being seized by an incurable fever, put an end to his sufferings by drowning himself in the Tungabhadrā river, while reciting his faith in Siva. Suicide in such circumstances is authorized by Hindu custom, and more than one instance is on record of Rājas having terminated their existence in a similar manner.
 
 > _[Margin: <span class="sc">a. d.</span> 1076 to 1126. Reign of Vikramāṅka.]_
+
 Vikramāditya VI, or Vikramāṅka, the hero of Bilhana's historical poem, who deposed his brother Somesvara II, and was formally crowned or anointed in <span class="sc">a. d.</span> 1076, reigned for [p. 449] half a century in tolerable, though not unbroken, peace. He is recorded to have captured Kānchī, and late in his reign was engaged in a serious struggle with Vishnu, the Hoysala king of Dōrasamudra in Mysore. Vikramānka considered his achievements sufficiently notable to justify him in establishing a new era, running from <span class="sc">a. d.</span> 1076, called after his name, but it never came into general use.[^sec-33-fn-022] His capital Kalyāna, the modern Kalyāni in the Nizam's Dominions, which had been founded by Somesvara I, was the residence of the celebrated jurist Vijnānēsvara, author of the *Mitāksharā*, the chief authority on Hindu law outside of Bengal.[^sec-33-fn-023]
 
 > _[Margin: <span class="sc">a. d.</span> 1156. Usurpation of Bijjala.]_
 > _[Margin: <span class="sc">a. d.</span> 1190. End of Chalukya dynasty.]_
+
 After the death of Vikramānka, the Chalukya power declined; and in the course of the years <span class="sc">a. d.</span> 1156–62, during the reign of Taila III, the commander-in-chief, Bijjala or Vijjana, Kalachurya, revolted and obtained possession of the greater portion of the kingdom, which was held by him and his sons until <span class="sc">a. d.</span> 1183, when the Chalukya prince, Somesvara IV, succeeded in recovering his ancestral dominions from the successors of Bijjala. But he was not strong enough to resist the attacks of encroaching neighbours; and in the course of a few years the greater part of his kingdom had been absorbed by the Yādavas of Devagiri on the west, and the Hoysalas of Dōrasamudra on the south. The end of the Chalukya dynasty of Kalyāna may be dated in <span class="sc">a. d.</span> 1190, after which time the Rājas of the line ranked merely as petty chiefs.
 
 > _[Margin: <span class="sc">a. d.</span> 1167. The Lingāyat sect.]_
+
 The brief reign of Bijjala, the usurping rebel, which terminated by abdication or death in <span class="sc">a. d.</span> 1167, was marked by a religious revolution effected by a revival of the cult of Siva and the foundation of a new sect, the Vīra Saivas, or Lingāyats, which is a power to this day.[^sec-33-fn-024] Bijjala was a Jain, [p. 450] and, according to one version of the legend, he wantonly blinded two holy men of the Lingāyat sect, and was assassinated in consequence in the year <span class="sc">a. d.</span> 1167. The blood of the saints proved, as usual, to be the seed of the church, which had been founded by Basava, the Brahman minister of Bijjala. But in other legends the tale is told quite differently, and the truth of the matter seems to be past finding out. There is, however, no doubt that the rise of the Lingāyats dates from the time of Bijjala. The members of the sect, who are especially numerous in the Kanarese districts, worship Siva in his phallic form, reject the authority of the Vedas, disbelieve in the doctrine of re-birth, object to childmarriage, approve of the re-marriage of widows, and cherish an intense aversion to Brahmans, notwithstanding the fact that the founder of their religion was himself a Brahman.
 
 > _[Margin: Decay of Jainism and Buddhism.]_
+
 The growth of this new sect, which secured numerous adherents among the trading classes, up to that time the main strength of both Buddhism and Jainism, checked the progress of the latter religion, and drove another nail into the coffin of Buddhism, the existence of which in the Deccan is rarely traceable later than the first half of the twelfth century.[^sec-33-fn-025]
 
 > _[Margin: The Hoysala dynasty of Dōrasamudra.]_
+
 During the twelfth and thirteenth centuries, chiefs belonging to a family or clan named Hoysala, or Poysala, attained considerable power in the Mysore country. The first notable prince of this line was Bittideva, or Bittiga (about <span class="sc">a. d.</span> 1111 to 1141), who established his capital at Dōrasamudra, the modern Halebīd, famous for the fine temple which excited Fergusson's enthusiastic admiration. During the early years of his reign the Jain religion enjoyed high favour under the protection of his minister Gangarāja, and the Jain temples, which had been destroyed by the orthodox Chola invaders, were restored; but the king himself was converted to Vishnuism, under the influence of the celebrated [p. 451] reformer, Rāmānuja, and the magnificent buildings at Belūr and Halebīd testify to the zeal and good taste which he devoted to the serving of his new religion.[^sec-33-fn-026] On his conversion he assumed the name of Vishnu-vardhana, or Vishnu, by which he is best known. Vishnu boasts in his records of numerous conquests, and claims to have defeated the Rājas of the Chola, Pāndya, and Chera kingdoms in the south. About the year <span class="sc">a. d.</span> 1223, one of his successors, Narasimha II, who was then in alliance with the Cholas, actually occupied Trichinopoly.[^sec-33-fn-027]
 
 > _[Margin: <span class="sc">a. d.</span> 1173– 1220. Vira-Ballāla.]_
+
 Vishnu's grandson, Vīra-Ballāla, in the course of a long reign extended his dominions widely to the north of Mysore, and was specially proud of having defeated the Yādavas of Devagiri, whose kingdom lay to the north, in <span class="sc">a. d.</span> 1191–2. His conquests made the Hoysalas fully independent and the dominant power in Southern India, including the southern parts of the Deccan table-land.
 
 > _[Margin: <span class="sc">a. d.</span> 1310. End of Hoysala dynasty.]_
+
 The dynasty continued to be powerful until <span class="sc">a. d.</span> 1310, when the Muhammadan generals, Malik Kāfūr and Khwāja Hājī entered the Hoysala kingdom, laid it waste, captured the reigning Rāja, and despoiled his capital, which was finally destroyed by a Muslim force in <span class="sc">a. d.</span> 1326 or 1327. The Rāja's son is mentioned as a local chief in records a few years later in date.
 
 > _[Margin: Yādava dynasty of Devagiri.]_
+
 The Yādava kings of Devagiri were descendants of feudatory nobles of the Chalukya kingdom. The territory which they acquired, lying between Devagiri (Daulatābād) and Nāsik, was known as Sevana or Seuna. The first of the Yādava line to attain a position of importance was Bhillama, who was killed in battle by the Hoysala chief in <span class="sc">a. d.</span> 1191.
 
 > _[Locus: <span class="sc">a. d.</span> 1210.]_
 > _[Margin: Rāja Singhana.]_
+
 The most powerful rāja was Singhana (*acc.* <span class="sc">a. d.</span> 1210), who invaded Gujarāt and other countries, and established [p. 452] a short-lived kingdom almost rivalling in extent the realms of the Chalukyas and Rāshtrakūtas.
 
 > _[Margin: <span class="sc">a. d.</span> 1294. Attack by Sultan Alā-ud-dīn.]_
+
 The Yādava dynasty, like that of the Hoysalas, was destroyed by the Muhammadans. When Alā-ud-dīn, Sultan of Delhi, crossed the Narmadā, the northern frontier of the Yādava kingdom, in 1294, the reigning Rāja, Rāmachandra, was obliged to surrender, and to ransom his life by payment of an enormous amount of treasure, which is said to have included six hundred *maunds* of pearls, two *maunds* of diamonds, rubies, emeralds, and sapphires, and so forth.
 
 > _[Margin: <span class="sc">a. d.</span> 1309. Malik Kāfūr.]_
+
 When the Sultan's incursion was repeated by Malik Kāfūr in <span class="sc">a. d.</span> 1309, Rāmachandra again refrained from opposition, and submitted to the invader. He was the last independent Hindu sovereign of the Deccan. In wide territories to the south of the Krishnā (Kistna), the kingdom of Vijayanagar, founded in <span class="sc">a. d.</span> 1336, maintained the traditions of Hindu polity in unsurpassed splendour until 1565, when it was overwhelmed by a coalition of Muhammadan princes.
 
 > _[Margin: <span class="sc">a. d.</span> 1318. End of Yādava dynasty.]_
+
 After Rāmachandra's death, his son-in-law, Harapāla, stirred up a revolt against the foreigners in 1318, but, being defeated, was flayed alive and decapitated. Thus miserably ended the Yādava line.[^sec-33-fn-028]
 
 > _[Margin: Hemādri, or Hemāḍpant.]_
+
 The celebrated Sanskrit writer, Hemādri, popularly known as Hemādpant, flourished during the reigns of Rāmachandra and his predecessor, Mahādeva. He devoted himself chiefly to the systematic redaction of Hindu religious practices and observances, and with this object compiled important works upon Hindu sacred law. He is alleged, although erroneously, to have introduced a form of current script, the Moḍī, from Ceylon;[^sec-33-fn-029] and has given a valuable historical sketch of his patrons' dynasty in the introduction to one of his books.
 
 
@@ -5774,28 +6626,36 @@ The celebrated Sanskrit writer, Hemādri, popularly known as Hemādpant, flouris
 ##### *The ‘Three Kingdoms’*
 
 > _[Margin: The Tamil country.]_
+
 <span class="sc">Southern</span> India, as distinguished from the plateau of the Deccan, from which it is separated by the Krishnā (Kistna) and Tungabhadrā rivers, has a character of its own, and a history generally independent of that of the rest of India. This extensive region may be described in modern terms as consisting of the Madras Presidency, excluding the ‘Northern Circars’ Districts of Vizagapatam and Ganjām, and with the addition of the native states of Mysore, Cochin, and Travancore. It is essentially the land of the Tamil race and speech, and accordingly the greater portion of it was known in ancient times as Tamilakam, or the Tamil country. The earliest tradition fixed the northern boundary of Tamilakam on the east coast at Pulicat, a little above Madras, and on the west coast at the White Rock near Badagara, to the south of Mahé, the frontier line between those two points passing round the hill of Venkata or Tirupathi, 100 miles to the north-west of Madras, and then inclining southwards to Badagara.[^sec-35-fn-001] Later traditions extended the north-eastern boundary as far as Nellore on the N. Pennār river,[^sec-35-fn-002] and the north-western limit to the Chandragiri river south of Mangalore.[^sec-35-fn-003] This chapter is concerned only with the Tamil states and the Pallava dynasty. The dynasties of Mysore have been treated in Chapter XV, being closely connected with the kingdoms of the Deccan plateau.
 
 > _[Margin: Damirikē of Ptolemy.]_
-The Greek geographer Ptolemy, who wrote his treatise about <span class="sc">a. d.</span> 140, was well acquainted with Southern India, [p. 457] which he called Damirikē, a good transliteration of Tamilakam, *r* and *l* being interchangeable, but unfortunately corrupted in the manuscripts into the unmeaning form Limyrikē, owing to the frequent confusion between Γ and Δ.[^sec-35-fn-004] In his time one language only, the Tamil, was spoken over the whole area ; Malayālam, now the speech of Malabar, not having been developed as a separate tongue until some centuries later. The population comprised various elements, of which the Villavar, or bowmen (Bhġls), and Mġnavar, or fishermen (Mġnas), are supposed to have been the most ancient. The Tamils seem to be later immigrants.
+
+The Greek geographer Ptolemy, who wrote his treatise about <span class="sc">a. d.</span> 140, was well acquainted with Southern India, [p. 457] which he called Damirikē, a good transliteration of Tamilakam, *r* and *l* being interchangeable, but unfortunately corrupted in the manuscripts into the unmeaning form Limyrikē, owing to the frequent confusion between Γ and Δ.[^sec-35-fn-004] In his time one language only, the Tamil, was spoken over the whole area ; Malayālam, now the speech of Malabar, not having been developed as a separate tongue until some centuries later. The population comprised various elements, of which the Villavar, or bowmen (Bhīls), and Mīnavar, or fishermen (Mīnas), are supposed to have been the most ancient. The Tamils seem to be later immigrants.
 
 > _[Margin: Ancient state of society.]_
+
 The early Tamil poetical literature, dating, according to competent expert opinion, from the first three centuries of the Christian era, gives a vivid picture of the state of society at that period. The Tamils had developed an advanced civilization of their own, wholly independent of Northern India.[^sec-35-fn-005] Immigrants from the North, who had settled at Madura and some other cities, sought to introduce Hindu notions of caste and ceremonial, but met with much opposition, and the caste system, which for many centuries past has been observed with special strictness in the South, was then inchoate and imperfect.[^sec-35-fn-006] The prevailing religion was a form of ‘demon-worship’, which still survives under new names. For example, the most powerful demoness of the southern races, Koṭṭaval, ‘the Victorious,’ has now taken her place in the Hindu pantheon as Umā or Durgā, the consort of Siva.[^sec-35-fn-007]
 
 > _[Margin: Internecine warfare.]_
+
 In addition to the three principal kingdoms, which will be described presently, about a hundred and twenty more or [p. 458] less independent chieftains shared the government of the country, and indulged in unceasing internecine wars, waged with exceptional ferocity by the agency of the aboriginal tribesmen, whose representatives, the Maravar, Kallar, and others, still form an important and turbulent element in the population. ‘These desolating wars’, Dr. Pope observes, ‘account for the multitudes of deserted strongholds whose ruins are yet to be seen, and for the comparative sparseness of the population at the period when authentic history begins.’
 
 > _[Margin: Religion.]_
 > _[Margin: Jainism.]_
+
 The aboriginal ‘devil worship’, exposed to the persistent attacks of the three northern religions—Jainism, Buddhism, and Hinduism—was gradually forced into the background, and constrained to veil itself behind the names and forms of the more respectable faiths. The introduction of Jainism into the South was effected, according to Jain tradition, by a body of emigrants who were driven out of the North from their homes by the pressure of a twelve years’ famine, in the reign of Chandragupta Maurya. The event is assigned by some authorities to 309 <span class="sc">B. c.</span> The strangers settled at Sravana Belgola in Mysore, where their sainted leader, Bhadrabāhu, starved himself to death in the approved Jain manner. The present head of the ancient Jain settlement at Sravana Belgola claims to be the successor of Bhadrabāhu and is recognized as the pontiff of all the Jains of Southern India. The story is associated, as we have seen (*ante*, p. 154), with statements concerning the last days of Chandragupta Maurya which are discredited by some and accepted by other critics. Whatever may be the truth concerning the alleged abdication and suicide of the Maurya emperor, no sufficient reason seems to exist for rejecting the tradition of the Jain immigration, which brought the religion of Mahāvīra to the South half a century before Buddhist missionaries appeared. Samprati, a grandson of Asoka, is said to have been converted by Suhastin, and to have sent many missionaries to preach Jainism in the Peninsula, where his creed undoubtedly secured such wide acceptance that Mr. Rice is justified in affirming that during the first millennium of the Christian [p. 459] era Jainism may be regarded as having been the predominant religion of Mysore. Nor was it confined to Mysore; it spread everywhere more or less.[^sec-35-fn-008] In the Pāṇḍya country the decline of Jainism began in the seventh century, but the religion continued to flourish in Mysore and the Deccan for ages after that time.
 
 > _[Margin: Buddhism.]_
+
 The effective importation of Buddhism undoubtedly was the work of Asoka's brother Mahendra and the other missionaries sent out by the great proselytizing emperor in the middle of the third century <span class="sc">b. c.</span> (*ante*, p. 193). The imperial religion does not seem to have become at any time the dominant creed of the South, although it attained a considerable amount of popularity during several centuries. In the seventh century of the Christian era it was dying out, overshadowed by both Jainism and Hinduism. After that date those two faiths almost exclusively disputed the field, often with great bitterness and ferocity. The early southern Buddhism ignored caste, but the mysterious and insidious power of the Brahmanical organization was too much for it, and won the day. The rules of caste are now enforced in the South with far greater rigour than in the North. It is not possible to follow the subject farther in this place, but it is safe to affirm that there is room for a very interesting book on the history of the conflict of religions in the Tamil and Kanarese country.
 
 > _[Margin: No slavery; the five great assemblies.]_
+
 Slavery is said to have been unknown among the ancient Tamils. The statement of Megasthenes that 'it was a great thing that all Indians were free, no slave existing in India' (*ante*, pp. 105 *n.*, 187 *n.*), probably was based on a rash generalization made from information which may have been strictly true for parts of the South.[^sec-35-fn-009] His strange enumeration of the seven classes of the population, usually mistranslated 'castes', as being (1) philosophers, (2) agriculturists, [p. 460] (3) herdsmen, shepherds, and graziers, (4) artisans and traders, (5) the military, (6) the overseers, and (7) the councillors (*ante*, pp. 140, 141 *n.*), may be compared with the list of the 'five great assemblies', which checked the autocracy of Tamil kings, and comprised the people, priests, astrologers, physicians, and ministers.[^sec-35-fn-010]
 
 > _[Margin: War and peace.]_
+
 The frequency and savagery of the internecine wars described in the old literature might seem to justify the opinion that the arts of peace and the amenities of civil life must have been wholly neglected in the ancient Tamil states. But such an inference would be erroneous, for there is no doubt that poetry and other refined arts were carried to a high degree of excellence, and that the dwellers in the cities, at all events, enjoyed all the luxuries which wealth could purchase. In this matter, too, an observation of Megasthenes helps us to understand the apparent contradiction between a state of incessant war and the existence of a rich trading and agricultural community of peaceful citizens.
 
 'The second class', the Greek ambassador noted, 'consists of the husbandmen, who form the bulk of the population, and are in disposition most mild and gentle. They are exempted from military service, and cultivate their lands undisturbed by fear. They never go to town, either to take part in its tumults, or for any other purpose. It therefore not unfrequently happens that at the same time, and in the same part of the country, men may be seen drawn up in array of battle and fighting at the risk of their lives, while other men close at hand are ploughing and digging in perfect security, having these soldiers to protect them.'
@@ -5803,17 +6663,21 @@ The frequency and savagery of the internecine wars described in the old literatu
 This pretty picture may be a little overdrawn, although we may accept as true the statement that in the India known to Megasthenes the fighting ordinarily was done by professional soldiers, who interfered little with the work of the harmless and necessary peasant. The fortified towns too, as a rule, were protected by their gates and walls from the injuries of war, and only on rare occasions suffered the horrors of a sack. Thus it was possible for the Tamils, like the mediaeval Florentines and Pisans, to have their fill of fighting and still [p. 461] pay a close attention to careful farming and lucrative trade.
 
 > _[Margin: Pepper, pearls, and beryls.]_
+
 Tamil Land had the good fortune to possess three precious commodities not procurable elsewhere, namely, pepper, pearls, and beryls. Pepper fetched an enormous price in the markets of Europe, and was so highly prized that when Alaric the Goth levied his war indemnity from Rome, in <span class="sc">a. d.</span> 409, his terms included the delivery of 3,000 pounds of pepper.[^sec-35-fn-011] The pearl fishery of the southern sea, which still is productive and valuable, had been worked for untold ages, and always had attracted a crowd of foreign merchants. The beryl or aquamarine gem, which, as Pliny truly observed, is closely related to the emerald, was highly esteemed by both Indians and Romans, and often furnished material for the choicest achievements of the engraver's art. Its scarcity, except in India, tempted clever Indian forgers to fabricate imitations made from rock-crystal. Three Indian mines are recorded, namely, (1) Punnāta, where Ptolemy noted that beryl was found, close to Kittūr on the Kabbani river, a tributary of the Kāvirī (Cauvery) in the south-west of Mysore; (2) Padiyūr or Pattiāli, 40 miles ESE. from the town of Coimbatore, where a mine was worked successfully as late as 1820; and (3) Vāniyambādi, in the north-eastern corner of the Salem District, not far from the Kolar gold-field. The large and numerous hoards of Roman gold coins found in the districts where the mines were situated, testify to the activity of ancient commerce in the gems of Southern India. The fact that the mineral corundum, a variety of the ruby and sapphire, found abundantly in Salem and Coimbatore, bears a purely Tamil name (*kurrandam*), affords another indication of the familiarity of ancient Europe with the products of the Indian gem mines.[^sec-35-fn-012]
 
 
 <!-- page: 512 | folio: 462 -->
 > _[Margin: Maritime commerce ; foreign settlements.]_
+
 The Tamil states maintained powerful navies, and were visited freely by ships from both east and west, which brought merchants of various races eager to buy the pearls, pepper, beryls, and other choice commodities of India, and to pay for them with the gold, silver, and art ware of Europe. The Roman *aureus* circulated in Southern India as freely as the English sovereign passed on the continent of Europe before 1914, and Roman bronze small change, partly imported and partly minted at Madura, was commonly used in the bazaars.[^sec-35-fn-013] There is good reason to believe that considerable colonies of Roman subjects engaged in trade were settled in Southern India during the first two centuries of our era, and that European soldiers, described as ' powerful Yavanas, dumb Mlechchhas [barbarians], clad in complete armour,' acted as bodyguards to Tamil kings, while ' the beautiful large ships of the Yavanas ' lay off Muziris (Cranganore) to receive the cargoes of pepper paid for by Roman gold. It is even stated, and no doubt truly, that a temple dedicated to Augustus existed at Muziris. Another foreign (Yavana) colony was settled at Kāviripaddanam, or Puhār, a busy port situated on the eastern coast at the mouth of the northern branch of the Kāviri (Cauvery) river. Both town and harbour disappeared long since, and now lie buried under vast mounds of sand.[^sec-35-fn-014] The poems tell of the importation [p. 463] of Yavana wines, lamps, and vases, and their testimony is confirmed by the discovery in the Nīlgiri megalithic tombs of numerous bronze vessels similar to those known to have been produced in Europe during the early centuries of the Christian era, and by the statements of the *Periplus*.[^sec-35-fn-015]
 
 > _[Margin: Early literature and art.]_
+
 So far as I can judge, the scholars who maintain the early date of the best Tamil poems are right, and the ‘Augustan age’ of Tamil literature may be placed in the first three centuries of the Christian era. One authority would assign it to the first century, but the wider limits indicated may be accepted with some confidence.[^sec-35-fn-016] Other arts besides poetry were cultivated with success, including music, the [p. 464] drama, painting, and sculpture ; but the statues and pictures apparently were executed in perishable materials, and have wholly vanished. The plays are said to have been of two kinds—the Tamil or indigenous, in numerous varieties, which permitted the insertion of love scenes ; and the Aryan or northern, which were more formal, and restricted to eleven stock subjects.
 
 > _[Margin: The ‘Three Kingdoms’.]_
+
 Such was the state of civilization in the three Dravidian or Tamil kingdoms of the South during the early centuries of the Christian era, when they are disclosed dimly to view in the pages of the ancient native literature and the scanty notices of Greek and Roman authors, as supplemented by a few archaeological and numismatic observations. With the exception of the Asoka edicts, the Bhattiprolu casket inscriptions, and a small number of other records, epigraphic testimony does not go back so far. General tradition recognized the existence of three important kingdoms, and only three, in the Tamil country—namely, the Pāndya, Chola, and Chera or Kerala. The poet sings :
 
 > The pleasant Tamil lands possess  
@@ -5826,21 +6690,27 @@ Such was the state of civilization in the three Dravidian or Tamil kingdoms of t
 Asoka calls the Chera realm by the name of Keralaputra, ‘son of Kerala’, which appears in corrupt forms in Pliny’s work and the *Periplus*, and he adds a fourth name, Satiyaputra, not recorded elsewhere.[^sec-35-fn-018] Mangalore is the centre of the Tuluva country, in which Tulu, a language allied to Kanarese, is spoken.
 
 > _[Margin: Position of the Pāṇḍya kingdom.]_
+
 The Pāndya kingdom, as defined by tradition, extended north and south from the Southern Vellāru river (Pudukottai) to Cape Comorin, and east and west from the Coromandel coast to the ‘great highway’, the Achchhankōvil Pass leading into Southern Kerala, or Travancore ; and thus [p. 465] was nearly co-extensive with the existing Districts of Madura and Tinnevelly, with part of Travancore in which Cape Comorin is now included.
 
 > _[Margin: Position of the Chola kingdom.]_
+
 According to the most generally received traditions, the Chola country (*Choḷamaṇḍalam*) was bounded on the north by the Pennār, and on the south by the Southern Vellāru river ; or, in other words, it extended along the eastern, or Coromandel, coast from Nellore to Pudukottai, where it abutted on the Pāṇḍya territory. On the west it extended to the borders of Coorg. The limits thus defined include Madras and several other British districts on the east, as well as the greater part of the Mysore State. But the ancient literature does not carry the Tamil Land farther north than Pulicat and the Venkata or Tirupathi Hill, 100 miles to the north-west of Madras. On the other hand, in the seventh century, the Chola country, as known to Hiuen Tsang, was a small territory, nearly coincident with the Cuddapah District, and did not extend to the south. Cholamandalam, or the Coromandel coast, called Dravida by the pilgrim, was then in the hands of the Pallava kings, whose capital was at Kānchī (Conjeeveram) 45 miles WSW. from the city of Madras.
 
 > _[Margin: Position of the Chera or Kerala kingdom.]_
+
 Scholars are now agreed that Chera and Kerala are only variant forms of the one word.[^sec-35-fn-019] The name of Kerala is still well remembered, and there is no doubt that the ancient kingdom so called was equivalent to the Southern Konkans or Malabar coast, comprising the present Malabar District with Travancore and Cochin. The southern portion of Travancore, known as Ven or Venādu, was attached to the Pāṇḍya kingdom in the first century after Christ. In later times the Chera kingdom included the Kongu country, the modern Coimbatore District with the southern part of Salem, but it is doubtful whether or not such was the case in early days. Generally, Kerala means the rugged region [p. 466] of the Western Ghāts south of the Chandragiri river. Of course, the boundaries of the three kingdoms varied much from time to time.
 
 > _[Margin: The Pallavas.]_
+
 From about the fourth to the eighth century the Pallava dynasty plays a great part in the history of Southern India. But there was no Pallava country with traditional limits. The Pallava domination, while it lasted, extended in degrees varying from time to time over all the three ancient kingdoms, the extent of such domination being in proportion to the vigour of the Pallava chiefs and the weakness of their rivals. This fact has been held to indicate that the Pallavas, like the Marāthās, were a predatory clan, tribe, or caste, which rose to power by violence, and superimposed its authority upon the Rājas of the territorial kingdoms. It is, however, possible that the Pallavas were not one distinct tribe or class, but a mixed population, composed partly of foreigners and partly of south Indian tribes or castes, differing in race from the Tamils, and taking their name from the title of an intruding foreign dynasty, which obtained control over them and welded them into an aggressive political power.[^sec-35-fn-020] The tradition of the Pallava rule is faint, and the existence of the dynasty was unknown to European scholars until 1840, when the discovery of a copper-plate inscription drew their attention to the subject.[^sec-35-fn-021] Since then many similar discoveries have been effected, and much progress has been made in the reconstruction of the dynastic framework of Pallava history.
 
 > _[Margin: General view of southern history.]_
+
 In the following sections of this chapter an attempt will be made to give an outline of the political history, so far as it is known, of the three Tamil kingdoms, the position and character of which have been described, and also of the intrusive dynasty of the Pallavas. But the time for writing in brief the history of the southern kingdoms in a satisfactory manner has not yet come, and at present any sketch such as that now offered must be tentative and incomplete. In its revised form it is less imperfect than the account in the earlier editions of this work, but, until [p. 467] specialists intimately acquainted with the languages and local conditions shall have worked out detailed monographs for each dynasty, it will not be possible to compile an adequate early history of the southern kingdoms in a form suitable for inclusion in a volume dealing with India as a whole. Still, notwithstanding the inevitable defects incident to the attempt, it is worth while to make it. I do not know of the existence of any book which professes to give the student or general reader a view of the history of Southern India before the Muhammadan conquest, as it has been partially recovered by the patient labours of modern scholarship.[^sec-35-fn-022] I feel assured, therefore, that my effort to supply the want, however imperfectly executed, will not be wasted, and that expert critics who know the difficulties of the subject will be the most ready to pardon my shortcomings. *Tout connaître c'est tout pardonner.*
 
 > _[Margin: Difficulties.]_
+
 Those difficulties are great. The sources of southern history prior to the ninth century are far scantier than those available in the north. The eighteen *Purāṇas* pay small attention to the south, early inscriptions are extremely rare, the coinage gives little help, the publication of archaeological investigations in a finished form is backward, and the exploration of the ancient literature is incomplete.[^sec-35-fn-023] On the other hand, from the ninth century onwards, the mass of epigraphic material is so enormous as to be unmanageable. The southern princes and peoples have bequeathed to posterity many thousands of inscriptions, which often attain portentous length. Eight volumes of Mr. Rice's *Epigraphia Carnatica*, which are concerned with both the Deccan and the Tamil kingdoms, give notices of 5,800 inscriptions. The staff of the Archaeological Survey in Madras during a single year copied more than 800 inscriptions, none of which, probably, are included in Mr. Rice's work; and every year makes a huge addition to the unwieldy accumulation of [p. 468] historical material. The length of individual documents is illustrated by the fact that one important record is engraved on thirty-one sheets of copper, fastened together on a massive ring. It is obvious that the thorough examination of the epigraphic sources alone of the early history of Southern India must be the work of specialists for many years to come, and that additions to knowledge of the subject must continue to be made from day to day. With these preliminary explanations I proceed to give the best account that I can of the three Tamil kingdoms, and of the intruding Pallava dynasty which for a time overshadowed them all.
 
 
@@ -5850,73 +6720,95 @@ Those difficulties are great. The sources of southern history prior to the ninth
 ##### *The Pāṇḍya, Chera, or Kerala, and Satiyaputra Kingdoms*
 
 > _[Margin: The 'five Pāṇḍyas.']_
+
 The Pāṇḍya kingdom, approximately equivalent to the modern Madura and Tinnevelly Districts, with part of Trichinopoly and sometimes also of Travancore, is supposed to have been divided into five principalities, the chiefs of which were known as the ‘five Pāṇḍyas’. Details as to the jurisdiction of the several chiefs are unknown, and the evidence for the existence of ‘the five kings’ is of doubtful value.[^sec-35-fn-024]
 
 > _[Margin: Korkai, Κόλχοι.]_
+
 As early as the time of Pliny, in the first century after Christ, the capital was Madura or Kūdal; but there is reason to believe that in still more ancient days Korkai was the chief place of the kingdom, and there is some evidence that a place called South Mañalūr on the east side of the Madura District had been the capital of Pāṇḍya chiefs in prehistoric times.[^sec-35-fn-025] All native traditions indicate Korkai or Kolkai, the [p. 469] Greek Κόλχοι, as the cradle of South Indian civilization, and the home of the mythical three brothers who were supposed to have founded the Pāṇḍya, Chera, and Chola kingdoms. The city, now represented by an insignificant village on the bank of the Tāmraparni river[^sec-35-fn-026] in Tinnevelly, was a great seaport in the days of its glory, and the head-quarters of the trade in pearls and conch-shells (*Turbinella rapa*), which constituted the special source of wealth enjoyed by the Pāṇḍya kings. Even when the royal court was established at Madura, the Crown Prince resided at Korkai in order to control the important revenue and commercial interests centred there. In the course of time the slow elevation of the coast[^sec-35-fn-027] rendered Korkai inaccessible to ships, and the city gradually decayed, like the Cinque Ports in England.
 
 > _[Margin: Kāyal.]_
+
 Its commercial business was transferred to the new port, which was founded at Kāyal,[^sec-35-fn-028] 3 miles lower down the river, and continued for many centuries to be one of the greatest marts of the east. Here Marco Polo landed late in the thirteenth century, probably more than once, and was much impressed by the wealth and magnificence of both prince [p. 470] and people.[^sec-35-fn-029] But the same process which had ruined Korkai caused the abandonment of Kāyal, and compelled the Portuguese to remove their trade to Tuticorin, where a sheltered roadstead, free from deposits of silt, offered superior convenience. The site of Kāyal is now occupied by the miserable huts of a few Muhammadan and native Christian fishermen.[^sec-35-fn-030]
 
 > _[Margin: Early notices; Megasthenes.]_
+
 It is impossible to name a date for the abandonment of Korkai as a port, but the coins of that mint are supposed to extend up to about <span class="sc">a. d.</span> 700. The special crest or cognizance of the princes of Korkai was the battle-axe, often associated with the elephant. The kings of Madura adopted a fish, or a pair of fishes, as the family crest.[^sec-35-fn-031]
 
 The capital of the country, as already mentioned, was at Madura in Pliny's time, but the kingdom had existed from much earlier days. The Pāṇḍyas were known to the Sanskrit grammarian Kātyāyana, whose date probably is not later than the fourth century <span class="sc">b. c.</span>;[^sec-35-fn-032] and in the same century, Megasthenes, the ambassador of Seleukos Nikator at the court of Chandragupta Maurya, was told strange tales about the southern realm, which was supposed to be under the regimen of women. He was informed that ‘Herakles begat a daughter in India whom he called Pandaia. To her he assigned that portion of India which lies to the southward and extends to the sea, while he distributed the people subject to her rule into 365 villages, giving orders that one [p. 471] village each day should bring to the treasury the royal tribute, so that the queen might always have the assistance of those men whose turn it was to pay the tribute in coercing those who for the time being were defaulters in their payment.’ This female potentate was credited with having received from her hero father 500 elephants, 4,000 cavalry, and 130,000 infantry. She possessed a great treasure in the fishery for pearls, which, as Arrian observes, had been eagerly sought by the Greeks, and in his time were equally prized by the Romans.[^sec-35-fn-033]
 
 > _[Margin: Relations with Rome.]_
+
 We hear of a mission sent by ‘King Pandion’ to Augustus Caesar in 20 <span class="sc">b. c.</span> ;[^sec-35-fn-034] and both the author of the *Periplus of the Erythraean Sea* (*c.* <span class="sc">a. d.</span> 80) and Ptolemy the geographer (*c.* <span class="sc">a. d.</span> 140) were well informed concerning the names and positions of the marts and ports of the Pāṇḍya country. Caracalla’s massacre at Alexandria in <span class="sc">a. d.</span> 215 checked, or perhaps put an end to, the direct Roman trade between Southern India and Egypt,[^sec-35-fn-035] so that for long ages the history of the Pāṇḍya realm is hidden from our eyes.
 
 > _[Margin: Ancient kings.]_
+
 The ancient Tamil literature, now being vigorously explored by many patriotic students in Southern India, mentions numerous kings by their clumsy names or titles, of whom some may be referred to an extremely early period. But the first Pāṇḍya king who can be placed in a chronological position at all definite is Nedum-cheliyan, who lived in the second century of the Christian era, and was more or less contemporary with Nedumudi Killi, grandson of Karikāla Chola, with Chenkuttuvan, a powerful Chera king, and with Gajabāhu I of Ceylon. As is usually the case in Indian history, the key is obtained by the synchronism with a foreign prince. Although it cannot be said that the chronology of the early kings of Ceylon has been settled definitely, Professor [p. 472] Geiger's dating of the reign of Gajabāhu between <span class="sc">a. d.</span> 173 and 191 may be accepted as a close approximation to the truth.[^sec-35-fn-036]
 
 > _[Margin: The Madura Academy.]_
+
 The most remarkable characteristic of the Pāṇḍya state in those times was the maintenance at Madura of a flourishing literary academy or Sangam, the members of which produced much literature of the highest quality. The famous *Kural* of Tiruvalluva—which lives in the hearts of the Tamil people— may be assigned to a time a little before or after <span class="sc">a. d.</span> 100. The interesting 'Epic of the Anklet' and the 'Jewel-belt' are a century or so later. It is impossible at present to write out a 'connected relation' of the story of the Pāṇḍya kings during the early centuries of the Christian era, and the reader must be content with these few observations.[^sec-35-fn-037]
 
 > _[Margin: Hiuen Tsang's account.]_
+
 When Hiuen Tsang visited Southern India, in <span class="sc">a. d.</span> 640, he spent a considerable time, doubtless including the 'rest' during the rainy season, at Kāñchī (Conjeeveram), then the capital of the Pallava king Narasimhavarman, the most considerable potentate in the South at that period. The pilgrim did not personally visit the Pāṇḍya country farther south, and was content to record notes from descriptions supplied by his Buddhist friends at Kāñchī. He gives the name of Malakūta, or Malakotta, to the country, but fails to indicate the name or position of the capital, which presumably was Madura, and is silent on the subject of the mode of government. It is probable that the Pāṇḍya Rāja at that time was a tributary of the powerful Pallava king of Kāñchī. In Malakūta Buddhism was almost extinct, the ancient monasteries being mostly in ruins. Temples of the Hindu gods were numbered by hundreds, and the nude (Digambara) Jains were present in multitudes. The inhabitants were reputed [p. 473] to care little for learning, and to be wholly immersed in commercial pursuits, especially the pearl trade.[^sec-35-fn-038]
 
 > _[Margin: Eighth to tenth centuries.]_
+
 An inscription furnishes a list of Pāṇḍya kings who reigned from about the middle of the eighth to the beginning of the tenth century, but they are little more than names. Arikesarin, who lived in the eighth century, is said to have defeated the Pallavas, and there is reason to believe that the accession of Varaguṇavarman, who was defeated by the Pallava, Aparājita, at the battle of Srī Purambiya, may be assigned to the definite date <span class="sc">a. d.</span> 862–3.[^sec-35-fn-039] During this period the Chola kingdom, ground between the Pallava and the Pāṇḍya millstones, was weak and unimportant, and the business of resisting Pallava aggression seems to have devolved chiefly on the Pāṇḍyas. The defeat of Nandivarman by Vikramāditya Chalukya, in <span class="sc">a. d.</span> 740, had greatly weakened the Pallava power, which was still further reduced by the victories of Āditya Chola at the close of the ninth century.[^sec-35-fn-040] From the beginning of the tenth century the [p. 474] Pāṇḍya kings were constrained to acknowledge the ever-growing power of the Cholas. Whether independent or tributary, the Pāṇḍya dynasty continued to exist throughout the ages, and its conflicts with neighbouring powers are noticed in inscriptions from time to time, but few of the events recorded are deserving of remembrance.[^sec-35-fn-041]
 
 > _[Margin: Chola ascendancy.]_
+
 The Pāṇḍya state, in common with the other kingdoms of the South, undoubtedly was reduced to a condition of tributary dependence by the Chola king, Rājarāja the Great, about the year 994, and continued to be more or less under Chola control for nearly two centuries ; although, of course, the local administration remained in the hands of the native Rājas, and the relations of the two states varied from time to time. Some revival of the Pāṇḍya power took place in the first half of the thirteenth century.
 
 > _[Margin: Persecution of Jains.]_
+
 When Hiuen Tsang, the Chinese pilgrim, visited Southern India in <span class="sc">A. D.</span> 640, Digambara Jains and Jain temples were numerous in both the Pallava realm (Dravida) and the Pāṇḍya kingdom (Malakoṭṭa).[^sec-35-fn-042] His account does not offer the slightest indication of religious persecution. We must hold, therefore, that the persecution which certainly occurred about that time was subsequent to the pilgrim's visit. It is well established that king Kūna, Sundara, or Nedumāran Pāṇḍya, who had been brought up as a Jain and was married to a Chola princess, was converted about the middle of the seventh century, by his consort and the famous saint Tirujñānasambandar, to the faith of Siva, which was warmly supported by the Chola dynasty. King Sundara displayed even more than the proverbial zeal of a convert, and persecuted his late co-religionists, who refused to apostatize, [p. 475] with the most savage cruelty, inflicting on no less than eight thousand innocent persons a horrible death by impalement. Certain unpublished sculptures on the walls of a temple at Trivatūr (Tiruvattūr) in Arcot record these executions, and are regarded as confirmation of the tradition.[^sec-35-fn-043] The position of the Jain religion in the South was much shaken by the persecution, which evidently was a reality, although possibly exaggerated.
 
 > _[Margin: Wars with Ceylon.]_
+
 Wars between the Pāṇḍya kings and the rulers of Ceylon frequently occurred. The most notable incident in this protracted conflict was the invasion of the Pāṇḍya territory, in or about <span class="sc">A. D.</span> 1166, by a powerful force under the command of two generals in the service of Parākrama-bāhu, the ambitious king of Ceylon. Two detailed accounts of this event, written from different points of view, are extant. The story, as told in the island chronicle, the *Mahāvaṁśa*, naturally represents the victorious career of the invaders as unbroken by defeat; but the rival account, preserved in a long Chola inscription at Arpakkam near Kāñchī, which is the more trustworthy record, proves that the invading army, having gained considerable success at first, ultimately was obliged to retire in consequence of the vigorous resistance of a coalition of the southern princes. The occasion of the Sinhalese intervention was a disputed succession to the Pāṇḍya throne of Madura, contested by claimants bearing the oft-recurring names of Vīra and Sundara.[^sec-35-fn-044] This recurrence of names is [p. 476] one of the difficulties which hinder the reconstruction of the dynastic framework of Pāṇḍya history.
 
 > _[Margin: The later Pāṇḍyas.]_
+
 Prof. Kielhorn has succeeded in working out the dates of seventeen Pāṇḍya rājas who ruled a territory more or less extensive during the long period between <span class="sc">A. D.</span> 1100 and 1567, but the list of names is believed to be incomplete, and most of the princes were merely local chiefs of slight importance.[^sec-35-fn-045] By far the most powerful of the mediaeval Pāṇḍya Rājas was Jaṭāvarman Sundara I, who reigned from <span class="sc">A. D.</span> 1251 to at least 1271, and made himself master of the whole eastern coast from Nellore to Cape Comorin. Some of his coins can be identified.[^sec-35-fn-046] The partial Muhammadan conquest effected by Malik Kāfūr and other leaders in <span class="sc">A. D.</span> 1310 and subsequent years, did not destroy the local dynasties, although it marks a change in political conditions which has been taken as the limit of this history.
 
 > _[Margin: Earliest references to the Chera or Kerala kingdom.]_
+
 The earliest reference to the Kerala or Chera kingdom is that made in the edicts of Asoka under the name of Keralaputra, which was known in slightly corrupted forms to both Pliny and the author of the *Periplus* as still used in their time, the first century after Christ. The ancient Tamil literature, dating approximately from the same period, or a little later, proves that the Chera kingdom comprised five *nādus* or districts, namely : (1) Pooli, ‘ the sandy,’ extending from Agalappula to the mouth of the Ponāni river, about 10° 50′ N. lat. ; (2) Kudam, ‘ the western,’ extending from the Ponāni to the southernmost mouth of the Periyar river near Ernakulam, about 10° N. lat. ; (3) Kuddam, ‘ the land of lakes,’ about Kottayam and Quilon ; (4) Ven,[^sec-35-fn-047] from below Quilon nearly to Cape Comorin ; and (5) Karkā, [p. 477] ' the rocky,' the hill country to the east of No. 2. Pliny's Cottonara or Kottanara, the pepper coast, corresponds with No. 3.
 
 > _[Margin: Ports.]_
+
 In the early centuries of the Christian era, two of the principal ports at which the trade in pepper and other rarities was carried on were Muziris, the modern Cranganore, at the mouth of the Periyar, and Bakarei, or Vaikkarai, the landing-place for Kottayam. With a favourable south-east monsoon, the voyage from Arabia to Muziris occupied forty days during July and August, and traders were able to return in December or January after transacting their business.
 
 These notices, recorded by the Greek and Roman authors, concerning the extent and methods of commerce are no doubt extremely interesting, but they give little help towards the reconstruction of the political history of Kerala. In fact, next to nothing is known on that subject until Kerala was forced into contact with the aggressive Chola power in the tenth century, from which time the Chola inscriptions throw some sidelights on the history of the western kingdom.
 
 > _[Margin: The capital.]_
+
 The most ancient Chera capital is said to have been Vanji, Vanchi, or Karūr, now represented by the deserted village Tiru-Karūr, high up the Periyar, about 28 miles ENE. of Cochin. Tiruvanji-kalam, near the mouth of the Periyar, was a later capital. Some writers have erroneously believed Karūr in Coimbatore to have been the Chera capital, but there is no doubt that that opinion is mistaken.[^sec-35-fn-048]
 
 > _[Margin: The Kongu country.]_
+
 In the earliest times of which we have any knowledge the Kongu country, comprising Coimbatore and the southern part of Salem, is believed to have been distinct from Kerala, whereas in later days both Kerala proper and the Kongu country seem to have been comprised in a single kingdom ; [p. 478] and subsequently again the Kongu country alone was known as the Chera kingdom, while Kerala was separate. Apparently it is not possible at present to assign these changes to definite dates. Kerala itself has not always formed a single kingdom, and it now comprises the British District of Malabar, as well as the native states of Cochin and Travancore.
 
 > _[Margin: An early king.]_
+
 Tamil literature represents, as already observed (*ante*, p. 452), that Chenkuttuvan, an exceptionally powerful Chera king, was contemporary more or less with Nedum-cheliyan, the Pāndya, and Nedumudi Killi Chola, the grandson of Karikāla, as well as with Gajabāhu I of Ceylon. The authentic political history of the Chera or Kerala kingdom, therefore, like that of the other Tamil monarchies, cannot at present be carried back farther than the first two centuries of the Christian era. Even about the events of that period very little is recorded.
 
 > _[Margin: Travancore, or South Keraḷa.]_
+
 A learned writer, the late Mr. P. Sundaram Pillai, who was a native of Travancore, rightly claimed that his country possesses claims to exceptional interest, and may be regarded as an epitome of India. Having never been affected seriously by the Muhammadan conquest, it ‘plays in Indian anthropology the part of a happy and undisturbed fossiliferous stratum’. To vary the metaphor, the state may be regarded as a museum in which are preserved alive survivals of nearly all the ancient Indian peoples, religions, laws, customs, and manners. The old and new can be studied together within that limited area in a way which is not possible elsewhere. I have already invited attention (*ante*, p. 8) to the view that the scientific study of the history of Indian institutions should begin with the South, rather than with the North.
 
 > _[Margin: Rājas of Travancore.]_
+
 The political history of Travancore was seriously investigated for the first time by the scholar named above, who collected over a hundred inscriptions, mostly recorded in the ancient Vatteluttu alphabet,[^sec-35-fn-049] by the aid of which he was able to trace back the royal family to <span class="sc">a. d.</span> 1125, and to compile a nearly complete list of the Rājas for two centuries from [p. 479] that date.[^sec-35-fn-050] The records published show that at the beginning of the twelfth century Travancore, or Southern Kerala, formed part of the Chola empire of Rājendra Chola-Kulottunga,[^sec-35-fn-051] and to all appearance was well governed and administered. The details of the working of the ancient village associations or assemblies are especially interesting, and prove that the government was by no means a mere centralized autocracy. The village assemblies possessed considerable administrative and judicial powers, exercised under the supervision of the Crown officials.
 
 > _[Margin: Chera coins.]_
+
 The crest or cognizance of the Chera kings was a bow. Their coins are very rare, and only two late types, characterized by the bow device, are known. They are found in the Kongu country of Salem and Coimbatore, and I do not know any record of the coinage of Kerala, the Malabar coast.[^sec-35-fn-052]
 
 > _[Margin: Lack of material.]_
+
 The above disjointed notes are all that I am in a position to offer as a contribution to the early history of the Chera or Kerala kingdom. One of the most important of the later Chera kings was Ravivarman, born in <span class="sc">a. d.</span> 1266–7 (Saka era, 1188), who conquered both the Pāṇḍyas and Cholas in 1299 and was crowned at Quilon in 1312. During the first quarter of the fourteenth century he seems to have been the leading power in South India and he played a prominent part in the organized resistance offered to Malik Kāfūr.[^sec-35-fn-053] The story of the Zamorins of Calicut falls outside of the limits of this work. Professor Kielhorn has compiled a list of the inscriptions of the later kings and chiefs of Kerala, being mostly those collected by Mr. Sundaram Pillai,[^sec-35-fn-054] but has not attempted to draw up a dynastic list.
 
 
@@ -5928,95 +6820,117 @@ The above disjointed notes are all that I am in a position to offer as a contrib
 ##### *The Chola Kingdom*
 
 > _[Margin: Traditional limits of the Choḷa country.]_
+
 According to tradition, the Chola country (*Choḷamaṇḍalam*) was bounded on the north by the Pennār, and on the south by the southern Vellāru river ; or, in other words, it extended along the eastern coast from Nellore to Pudukottai, where it abutted on the Pāndya territory. On the west it reached to the borders of Coorg. The limits thus defined include Madras, and several other British districts on the east, as well as the greater part of the Mysore state.[^sec-35-fn-055] The most ancient historical capital was Uraiyūr, or Old Trichinopoly, so far as is known with certainty.[^sec-35-fn-056] A town called North Mañalūr, of which the position is not known, is said to have been the Chola capital in prehistoric times.[^sec-35-fn-057]
 
 > _[Margin: Variation of political boundaries.]_
+
 The existence of well-known traditional boundaries must not be taken to justify the inference that they always agreed with the frontiers of the Chola kingdom, which latter, as a matter of fact, varied enormously. The limits of the Chola country, as determined by tradition, mark ethnic rather than political frontiers on the north and west, where they do not differ widely from the lines of demarcation between the Tamil and the other Dravidian languages—Telugu, Kanarese, Malayālam, and Tulu. Tamil, however, is as much the vernacular of the Pāndya as of the Chola region, and no clear ethnical distinction can be drawn between the peoples residing north and south of the Vellāru, the southern limit of the traditional Chola territory.
 
 > _[Margin: Earliest notices of Choḷa kingdom.]_
+
 The kingdom of the Cholas, which, like that of the Pāndyas, was unknown to Pāṇini, was familiar by name to Kātyāyana, [p. 481] and recognized by Asoka as independent. Inasmuch as the great Maurya's authority unquestionably extended to the south of Chitaldūrg in Mysore, and down to at least the fourteenth degree of latitude, the Pennār river probably was the northern Chola frontier in the Maurya age. In later times that frontier on both north and south was much advanced, while, on the contrary, at an intermediate date, it was greatly contracted during the period of Pallava supremacy.
 
 > _[Margin: Trade in ancient times.]_
+
 Ancient Tamil literature and the Greek and Roman authors prove that in the first two centuries of the Christian era the ports on the Coromandel or Chola coast enjoyed the benefits of active commerce with both West and East.[^sec-35-fn-058] The Chola fleets did not confine themselves to coasting voyages, but boldly crossed the Bay of Bengal to the mouths of the Ganges and Irrawaddy, as well as the Indian Ocean to the islands of the Malay Archipelago. All kinds of goods imported into Kerala or Malabar from Egypt found a ready market in the Chola territory; while, on the other hand, the western ports drew a large part of their supplies of merchandise from the bazaars of the eastern coast, which produced great quantities of cotton goods. The principal Chola port was Kāviripaddinam, situated at the northern mouth of the Kāvērī (Cauvery) river. This once wealthy city, in which the king maintained a magnificent palace, and foreign merchants found residence agreeable and profitable, has vanished, and its site lies buried under deep sand-drifts.[^sec-35-fn-059]
 
 > _[Margin: Karikāla.]_
+
 The first historical, or semi-historical, Chola king is Karikāla (Karikkāl), who is represented by the early poets as having invaded Ceylon and carried off thence thousands of coolies to work on the embankments of the Kāvērī river, a hundred miles in length, which he constructed. He founded Kāviripaddinam, transferring his capital from Uraiyūr to the new port. He enjoyed a long reign, which was much [p. 482] occupied by fighting with his neighbours, the Pāṇḍyas and Cheras. He seems to have lived in the second half of the first century of the Christian era, or perhaps in the second century. Karikāla was succeeded on the throne by his grandson, Nedumudi Killi, in whose reign Kāviripaddinam is supposed to have been destroyed by the sea. Nedumudi Killi was contemporary with Chenkuttuvan Chera and Gajabāhu I of Ceylon. The Chera king appears to have then become the leading power in the South for a short time, while the glory of the Cholas departed, not to be renewed until ages had passed.
 
 > _[Margin: Rise of the Pallavas.]_
+
 Literary references indicate that, in the second or third century after Christ, the power of the Chola and other Tamil kings declined, and was superseded by the rise of the Aruvalar and similar tribes, apparently distinct in race from the Tamils.[^sec-35-fn-060] The earliest known Pallava inscriptions, dating from about the beginning of the fourth century, show that at that time a Pallava prince was reigning at Kānchī in the middle of the traditional Chola country; and it may well be that the opposition of the tribes alluded to was organized and directed by the foreign or semi-foreign dynasty of the Pallavas, who, as hereafter stated, may perhaps have been connected by descent with the rulers of Maṇi-pallavam or the Jaffna peninsula in Ceylon.[^sec-35-fn-061] However that may be, a Pallava king certainly was established at Kānchī when Samudragupta raided the South, about <span class="sc">a. d.</span> 350 (*ante*, p. 300), and the Chola dominions at that time must have been much diminished in consequence.[^sec-35-fn-062] Nothing further is known about Chola history until the seventh century.
 
 > _[Margin: Hiuen Tsang.]_
+
 The observations of Hiuen Tsang give an interesting [p. 483] notice of the Chola kingdom in the first half of that century, the significance of which has not been fully appreciated by commentators on his travels. His visit to the South, when he penetrated as far as Kāñchī, the Pallava capital, may be dated with certainty in the year <span class="sc">a. d.</span> 640. At that time the kingdom of Chola (Chu-li-ya) was a restricted territory estimated to be 400 or 500 miles in circuit, with a small capital town barely 2 miles in circumference. The country was wild and mostly deserted, consisting of a succession of hot marshes and jungles, occupied by a scanty population, of ferocious habits, addicted to open brigandage. The few Buddhist monasteries were ruinous, and the monks dwelling in them as dirty as the buildings. The prevailing religion was Jainism, but there were a few Brahmanical temples. The position of the country is indicated as being some 200 miles or less to the south-west of Amarāvatī. It must, therefore, be identified with a portion of the Ceded Districts, and more especially with the Cuddapah District, which possesses the hot climate and other characteristics noted by the pilgrim, and was still notorious for brigandage when annexed by the British in 1800. The pilgrim speaks merely of the ‘country’ of Chola, and makes no mention of a king; doubtless for the reason that the local Rāja was a person of small importance, subordinate to the reigning Pallava king of Kāñchī, the powerful Narasimhavarman, who two years later destroyed the Chalukya power.[^sec-35-fn-063] The correctness of this interpretation of Hiuen Tsang’s notice of the Chola principality is demonstrated by the discovery in the Cuddapah District of stone inscriptions of local Chola Rājas engraved in characters anterior to the eighth century.[^sec-35-fn-064]
 
 > _[Margin: Decline of the Pallavas.]_
+
 During the early part of that century the struggle for predominance in Southern India was waged between the Chalukyas of the Deccan and the Pallavas of Kāñchī, the Cholas not counting for much. But the severe defeat suffered [p. 484] by the Pallavas at the hands of the Chalukya king, Vikramāditya, in 740, weakened the power of the kingdom of Kānchī, and gave the Cholas, who had been reduced to insignificance by the pressure of the Pallavas on the north and the Pāndyas on the south, an opportunity of recovering their position. We hear of a Chola Rāja named Vijayālaya, who came to the throne about the middle of the ninth century, and reigned for thirty-four years. His son Āditya (*c.* <span class="sc">A. D.</span> 880–907) conquered Aparājita Pallava, and so finally put an end to the Pallava supremacy.
 
 > _[Margin: Parāntaka I.]_
+
 From the date of the accession of Āditya's son and successor, Parāntaka I, in <span class="sc">A. D.</span> 907, the historian stands on firm chronological ground, and is embarrassed by the plethora rather than by the lack of epigraphic material. More than forty stone inscriptions of Parāntaka I were copied during the single season of 1906–7, ranging in date from his third to his forty-first year, i. e. from <span class="sc">A. D.</span> 909–10 to 947–8. This ambitious prince, not content with the overthrow of the Pallava power, pushed on to the extreme south, captured the Pāndya capital, Madura, drove its king into exile, and invaded Ceylon.
 
 > _[Margin: Chola administration.]_
+
 Certain long inscriptions of Parāntaka I are of especial interest to the students of village institutions by reason of the full details which they give of the manner in which local affairs were administered by well-organized local committees, or panchāyats, exercising their extensive administrative and judicial powers under royal sanction. It is a pity that this apparently excellent system of local self-government, really popular in origin, should have died out ages ago. Modern governments would be happier if they could command equally effective local agency. The subject has been studied carefully by several Indian scholars, whose disquisitions are well worth reading. Whenever the mediaeval history of Southern India comes to be treated in detail, a long and interesting chapter must be devoted to the methods of Chola administration.[^sec-35-fn-065]
 
 
 <!-- page: 535 | folio: 485 -->
 > _[Margin: Successors of Parāntaka I.]_
+
 Parāntaka I died about <span class="sc">a. d.</span> 953 or possibly later.[^sec-35-fn-066] His son, Rājāditya, seems to have predeceased him, having been killed in battle at Takkola about <span class="sc">a. d.</span> 947–8 by the Rāshtrakūta king, Krishnarāja III. Parāntaka was followed by five obscure successors, who had short and troubled reigns.
 
 > _[Margin: Rājarāja the Great, acc. <span class="sc">a. d.</span> 985.]_
+
 The accession in 985 <span class="sc">a. d.</span> of a strong ruler, Rājarāja-deva the Great, put an end to dynastic intrigue, and placed at the head of the Chola state a man qualified to make it the leading power in the South. In the course of a busy reign of about twenty-eight years, Rājarāja passed from victory to victory, and, when he died, was beyond dispute the Lord Paramount of Southern India, ruling a realm which included nearly the whole of the Madras Presidency, Ceylon, and a large part of Mysore.
 
 > _[Margin: Conquest of Ceylon, &c.]_
+
 He began his career by the conquest of the Chera country,[^sec-35-fn-067] and in the fourteenth year of his reign his acquisitions on the mainland comprised the Eastern Chalukya kingdom of Vengī, formerly held by the Pallavas, Coorg, the Pāndya country, and extensive regions in the table-land of the Deccan. During the next three years, Quilon (Kollam) on the Malabar coast, and the northern kingdom of Kalinga were added to his dominions. Protracted campaigns in Ceylon next occupied Rājarājā, and resulted in the annexation of the island in the twentieth year of his reign. In or about <span class="sc">a. d.</span> 1005 he sheathed the sword and spent the rest of his life in peace. From 1011 his son Rājendra became his colleague, in accordance with Chola custom.
 
 > _[Margin: War with Chalukyas.]_
+
 The ancient enmity between the Chalukyas and the Pallavas, inherited by the Chola power, which had succeeded to the premier rank formerly enjoyed by the Pallavas, led to [p. 486] a four years' war, ending in the defeat of the Chalukyas, who had not been long freed from subjection to the Rāshtrakūtas.
 
 > _[Margin: Naval operations.]_
+
 Rājarāja possessed a powerful navy, of which he made full use, and his last martial exploit was the acquisition of a large number of unspecified islands, meaning, perhaps, the Laccadives and Maldives, in his twenty-ninth year.
 
 > _[Margin: Temple at Tanjore.]_
+
 The magnificent temple at his capital Tanjore (Tanjūvūr), built by his command, the walls of which are engraved with the story of his victories, as recorded in the twenty-sixth year of his reign, stands to this day as a memorial of Rājarāja's brilliant career.[^sec-35-fn-068]
 
 > _[Margin: Buddhism.]_
+
 Although himself a worshipper of Siva, he was sufficiently liberal-minded to endow a Burmese Buddhist temple at the port of Negapatam, where two such temples continued to be the object of foreign pilgrimages until the fifteenth century. One of them, probably that endowed by Rājarāja, survived in a ruinous condition until 1867, when the remains of it were pulled down by the Jesuit Fathers, and utilized for the construction of Christian buildings.[^sec-35-fn-069]
 
 > _[Margin: Rājendra I, Gaṅgaikoṇḍa, *acc.* A. D. 1018.[^sec-35-fn-070]]_
-Rājendra-Choladeva I, surnamed Gaṅgaikoṇḍa, son and successor of Rājarāja, continued his father's ambitious career, with added vigour and even more conspicuous success. His fleet, crossing the Bay of Bengal, attacked and captured Kaḍāram (Kidāram), the ancient capital of the kingdom of Prome or Pegu, and also the seaports of Takkolam and Matama, or Martaban, on the same coast. The fall of these towns involved the temporary annexation of the whole kingdom of Pegu to the Chola empire.[^sec-35-fn-071] Two granite pillars still
+
+Rājendra-Choladeva I, surnamed Gaṅgaikoṇḍa, son and successor of Rājarāja, continued his father's ambitious career, with added vigour and even more conspicuous success. His fleet, crossing the Bay of Bengal, attacked and captured Kaḍāram (Kidāram), the ancient capital of the kingdom of Prome or Pegu, and also the seaports of Takkolam and Matama, or Martaban, on the same coast. The fall of these towns involved the temporary annexation of the whole kingdom of Pegu to the Chola empire.[^sec-35-fn-071] Two granite pillars still [p. 487] standing at the town of Pegu are believed to have been set up by the Chola king to commemorate his conquest, which was effected in the years <span class="sc">a. d.</span> 1025–7.[^sec-35-fn-072] The annexation of the Nicobar (Nakkavāram) and Andaman islands followed on the conquest of Pegu.
 
 
 <!-- page: 537 | folio: 487 -->
 
 ![THE GREAT TEMPLE AT TANJORE (from outside the fort wall)](../figures/fig-020_p0537.webp)
 
-
-<!-- page: 539 | folio: 487 -->
-standing at the town of Pegu are believed to have been set up by the Chola king to commemorate his conquest, which was effected in the years <span class="sc">a. d.</span> 1025–7.[^sec-35-fn-072] The annexation of the Nicobar (Nakkavāram) and Andaman islands followed on the conquest of Pegu.
-
 > _[Margin: His wars and capital.]_
+
 During the earlier years of his reign Rājendra-Choladeva had occupied himself with a succession of wars against the northern powers. About <span class="sc">a. d.</span> 1023 he came into collision even with Mahīpāla, king of Bihār and Bengal, and brought his army to the banks of the Ganges. In memory of this exploit he assumed the title of Gangaikonda,[^sec-35-fn-073] and built a new capital city, which he called Gangaikonda-Cholapuram. Near the city he constructed a vast artificial lake, with an embankment 16 miles long, fully provided with the necessary sluices and channels for the irrigation of a large area. The city was adorned by a magnificent palace and a gigantic temple, enshrining a *lingam* formed of a black granite monolith 30 feet high. The ruins of these structures, sadly defaced by the ravages of modern utilitarians in search of building material, still stand in lonely grandeur in a desolate region of the Trichinopoly District. The sculptures in the temples are of singular excellence.[^sec-35-fn-074] The Pāndya dominions continued to be subject to the Chola domination during the reign of Rājendra Gangaikonda, and were administered by his son as Viceroy, with the title of Chola-Pāndya.[^sec-35-fn-075]
 
 
 <!-- page: 540 | folio: 488 -->
 > _[Margin: Rājādhirāja; *yuvarāja* <span class="sc">a. d.</span> 1018; king <span class="sc">a. d.</span> 1035.]_
+
 Rājādhirāja, eldest son of Rājendra, who had been his father's colleague since 1018, succeeded him in <span class="sc">a. d.</span> 1035, and continued the never-ending fight with all the neighbouring powers.[^sec-35-fn-076] He fell in the fierce struggle with the Chalukya army at the battle of Koppam (*ante*, p. 448) in <span class="sc">a. d.</span> 1052 or 1053, which determined that the Tungabhadrā river should be the frontier between the rival Chola and Chalukya empires. Notwithstanding the death of Rājādhirāja, the fortunes of the day were retrieved by his brother Rājendra Parakesarivarman, who was crowned on the battle-field as his successor.
 
 > _[Margin: Battle of Kūdal Sangamam.]_
+
 The customary wars went on during the reigns of this king and three kings who succeeded him, but few of the details are worthy of remembrance. A notable incident was the battle of Kūdal Sangamam, fought at the junction of the Krishnā and Panch Ganga rivers,[^sec-35-fn-077] in which the Chalukyas suffered a severe defeat at the hands of Vīrarājendra Chola (acc. <span class="sc">a. d.</span> 1062–3). In the civil war between the brothers and rival claimants to the Chalukya throne—Somesvara II and Vikramāditya—Vīrarājendra took the side of the latter, and gave him his daughter in marriage.
 
 > _[Margin: A revolution : Adhirājendra.]_
+
 The death of Vīrarājendra (<span class="sc">a. d.</span> 1070) was followed by a disputed succession and civil war. Vikramāditya Chalukya, having established himself on the throne of the Deccan, came to the aid of his brother-in-law, Adhirājendra, and succeeded in making him king of the Chola realm (1072). But the new sovereign proved to be unpopular, and was assassinated two years later (1074). With him the direct line in male succession of the great mediaeval Cholas came to an end.
 
 > _[Margin: Chalukya- Chola dynasty;]_
 > _[Margin: Kulottuṅga I, <span class="sc">A. D.</span> 1070– 1118.]_
+
 Adhirājendra appears to have left no issue capable of ruling, and so was succeeded by his relative Rājendra, subsequently known as Kulottunga I. Rājendra, whose mother [p. 489] was a daughter of the famous Gangaikonda Chola, was the son of the Eastern Chalukya prince of Veṅgi who had died in 1062. But Rājendra had preferred to remain at the Chola court, and had allowed his uncle to rule Veṅgi for some years. In 1070[^sec-35-fn-078] Rājendra was crowned as lord of Veṅgi, and four years later, when Adhirājendra was murdered, he assumed the government of the whole Chola territory. He thus founded a new Chalukya-Chola dynasty, taking the title of Kulottuṅga Chola. He was worthy of his position and ruled his extensive dominions successfully for forty-nine years. He reconquered Kalinga, defeating the Eastern Gaṅga king, Anantavarman Chola. His internal administration was distinguished by the execution of an elaborate revision of the revenue survey in <span class="sc">A. D.</span> 1086, the year of the survey for Domesday Book.
 
 > _[Margin: Rāmānuja.]_
+
 The celebrated philosopher, Rāmānuja, the most venerated teacher of the Vaishnava Hindus in the south, received his education at Kāñchī, and resided at Srī-raṅgam near Trichinopoly during the reign of Adhirājendra; but, owing to the hostility of the king, who professed the Saiva faith, was obliged to retire into Mysore territory until Adhirājendra’s death freed him from anxiety. The holy man then returned to Srī-raṅgam, where he remained until his decease.[^sec-35-fn-079]
 
 > _[Margin: Vikrama Choḷa, *acc.* <span class="sc">A. D.</span> 1118.]_
+
 Vikrama Chola, the son and successor of Kulottuṅga, continued to fight with his neighbours according to precedent, and seems to have succeeded in maintaining the predominant position of his dynasty.[^sec-35-fn-080] The next three kings, who had short reigns, were not notable in any way.
 
 > _[Margin: Kulottuṅga III, *acc.* A. D. 1287.]_
+
 The last Chola king of any importance was Kulottuṅga [p. 490] Chola III, who reigned for about forty years from <span class="sc">A. D.</span> 1287. The succession was then disputed, and the Chola princes sank into a position of insignificance. For a time the Pāṇḍyas in the south reasserted themselves and gained the upper hand, until 1310, when the power of all the Hindu states in Southern India was broken by the successes of Malik Kāfūr's Muḥammadan army in that year and following years. The rapid development of the Vijayanagar kingdom during the fourteenth century again restored Hindu authority in the Peninsula. The extreme South passed under the rule of Vijayanagar about <span class="sc">A. D.</span> 1370.[^sec-35-fn-081]
 
 
@@ -6026,6 +6940,7 @@ The last Chola king of any importance was Kulottuṅga [p. 490] Chola III, who r
 ##### *The Pallavas*
 
 > _[Margin: Origin of the Pallavas.]_
+
 Who were the Pallavas? Whence did they come? How did they attain the chief place among the powers of the South? To these questions no complete answer can be given at present, although considerable progress has been made in solving the problem.
 
 The name Pallava resembles Pahlava so closely that some writers have been disposed to favour the hypothesis that Pallavas and Pahlavas were identical, and that consequently the Southern Pallava dynasty of Kānchī should be considered as ultimately of Persian origin. But recent research has failed to adduce any historical facts in support of that notion.
@@ -6033,66 +6948,78 @@ The name Pallava resembles Pahlava so closely that some writers have been dispos
 A close study of ancient Tamil literature has recently led to the suggestion that the Pallavas were originally connected with Ceylon. An examination of the Tamil poems, *Maṇimēkalai* and *Chilappatikāran*, seems to indicate that the destruction by the sea of the Chola capital, Puhār or Kāviripaddinam, must have occurred before the close of the third quarter of the second century <span class="sc">A. D.</span>, when Gajabāhu's reign in Ceylon came to an end, and that Kiḷḷi Vaḷavan [p. 491] or Nedumuḍi Kiḷḷi, the Chola king, then moved his capital to Uraiyūr.[^sec-35-fn-082] Quite recently, Mr. Mudaliyar C. Rasanayagam of Colombo,[^sec-35-fn-083] on the strength of a further study of these Tamil epics, asserts that this Chola king had a *liaison* with a Nāga princess, daughter of Vaḷaivānam, the Nāga king of Maṇipallavam, which can be identified with the Jaffna peninsula, at that early date an island off the coast of Ceylon. Of this union was born a son, known as Toṇḍaimān Iḷantirāyan,[^sec-35-fn-084] who some time in the latter half of the second century <span class="sc">A. D.</span> was created by his father (Kiḷḷi Vaḷavan) king of *Toṇḍaimandalam*, as distinct from *Cholamandalam*, with his capital at Kāñchī. The dynasty, of which Toṇḍaimān Iḷantirāyan thus became the first representative, took its title from the second half of the word Maṇipallavam, the home of his Nāga mother, who was regarded as inferior in rank to his Chola father. According to this view, therefore, the Pallavas, who were a dynasty rather than a tribe or clan, were descended on one side from the Chola family of Uraiyūr and on the other from the Nāga rulers of what is now the Jaffna peninsula in Ceylon.[^sec-35-fn-085] The persistent hostility of the Pallavas to the territorial Tamil states and the fact that tradition does not assign any recognized territorial [p. 492] limits to the Pallava dominion [^sec-35-fn-086] are indications that the Pallavas were distinct in race from the Tamils, and that their rule was superimposed upon that of the Rājas of the Pāndya, Chola, and Chera countries, the three states which together covered the whole area of the south, according to constant tradition. The possible origin of the Pallavas, as suggested by ancient Tamil poetry, does not appear to conflict with known facts and may perhaps offer an additional reason for the enmity which unquestionably existed between the Pallavas and the Tamil kingdoms. Professor S. K. Aiyangar holds that the historical Pallavas were feudatories of the Satavahanas of the Deccan and belonged to the Naga family.
 
 > _[Margin: Castes connected with Pallavas.]_
+
 The rāja of the Pudukottai tributary principality, who is the recognized head of the Kallar tribe, still styles himself Rāja Pallava, and claims descent from the ancient royal family. The Kallars, as Sir Walter Elliot observes, ‘belong to what have been called the predatory classes,’ and their ‘bold, indomitable, and martial habits’ agree well with the characteristics of the ancient Pallavas as known from history. Until recent times the Kallars exercised a formidable control over the peaceable inhabitants of the Carnatic, from whom they levied blackmail in return for protection, just as the Marāthās levied similar contributions under the name of *chauth*. It seems to be highly probable that the political power of the Pallavas was exercised in a similar manner, its extent varying according to the variations in the relative strength of the ancient Tamil states and that of the usurping tribesmen. The Palli caste and certain sections [p. 493] of the Vellāla agricultural caste, which is proverbially associated with the Kallar and Maravar robber tribes, also claim a connexion with the Pallavas.[^sec-35-fn-087] It may well be that the so-called ‘predatory classes’, whom the Pallava dynasty may once have governed and welded into an aggressive force, belong to a section of the population distinct from and more ancient than the Tamils.
 
 > _[Margin: Earliest Pallava kings.]_
+
 The earliest known documents of the dynasty, certain copperplate grants found in the Guntūr District, tell us of a king reigning at Kānchī (Conjeeveram), whose dominions included Amarāvatī, and so extended to the Krishnā (Kistnā) river. Those grants, which date from about the third century or the beginning of the fourth, and are written in Prākrit, give no indication of the manner in which the kingdom was acquired. It seems to be safe to date its origin not later than the beginning of the third century. All authors are agreed in regarding as a Pallava the Rāja Vishnugopa of Kānchī, who was defeated by Samudragupta about <span class="sc">a. d.</span> 350; and Hastivarman, the contemporary Rāja of Vengī, also must have been a Pallava. The names Vishnugopa and Hastivarman both occur in Pallava genealogies. Simhavarman, king of Kānchī (*acc.* <span class="sc">a. d.</span> 437), was a Buddhist.[^sec-35-fn-088]
 
 > _[Margin: Simhavishṇu.]_
+
 From the second half of the sixth century, when Chalukya history begins, until the overthrow of the Chalukya power by the Rāshtrakūtas, in <span class="sc">a. d.</span> 753, the Pallavas and Chalukyas, who regarded each other as ‘enemies by nature’, remained [p. 494] constantly in touch and generally at war, each power striving to acquire for itself the mastery of the South. During this period of about two centuries the Pallava royal genealogy for nine reigns, beginning with Simhavishnu (acc. *c.* <span class="sc">A. D.</span> 575,) is well ascertained.[^sec-35-fn-089] Simhavishnu claims to have inflicted defeats on the kings of Ceylon and the three Tamil states.
 
-> _[Margin: Mahendravar- man I ; his public works.]_
+> _[Margin: Mahendravarman I ; his public works.]_
+
 Mahendravarman I, son and successor of Simhavishnu (*c.* <span class="sc">A. D.</span> 600 to 625), has immortalized his name by the excavation of many rock-cut temples in the Trichinopoly, Chingleput, North Arcot, and South Arcot Districts. His fame is also preserved by the ruins of the city of Mahendravādi, between Arcot and Arkonam, and of a great reservoir, the Mahendra tank, near the same. A cave temple dedicated to Vishnu exists on the bank of the tank.[^sec-35-fn-090]
 
 > _[Margin: His wars.]_
+
 In war Mahendravarman encountered a formidable rival in the person of the ambitious Chalukya monarch, Pulakēsin II, who boasted of having inflicted a severe defeat on the Pallava king about <span class="sc">A. D.</span> 609 or 610. At or about the same time the Chalukya king annexed the province of Vengī, the northern portion of the Pallava dominions, and made it over to the government of his younger brother, the founder of the Eastern Chalukya dynasty. It is probable that the loss of Vengī stimulated the Pallavas to push forward their southern frontier, and it is certain that Mahendravarman held Trichinopoly. He appears to have been a Jain originally, [p. 495] and to have been converted to faith in Siva by a famous Tamil saint. The king, after his conversion, destroyed the large Jain monastery at Pātaliputtiram in South Arcot, replacing it by a Saiva fane. It is interesting to find the name of the old imperial capital brought down to the neighbourhood of Madras, presumably by the Jains.
 
-> _[Margin: Narasimha- varman. <span class="sc">c. a. d.</span> 625–45.]_
+> _[Margin: Narasimhavarman. <span class="sc">c. a. d.</span> 625–45.]_
+
 The Pallava power and art attained their highest point in the reign of Mahendravarman's successor, Narasimha-varman I (*c.* <span class="sc">a. d.</span> 625–45). In <span class="sc">a. d.</span> 642 he enjoyed the satisfaction of taking Vātāpi, the capital of his enemy, Pulakēsin II, who presumably then lost his life. It is certain that the reverse was so crushing that the Chalukya power remained in abeyance for thirteen years, while the Pallava king became beyond dispute the most influential sovereign in the South, and extended his jurisdiction far into Mysore and the Deccan. The Pallava monarch received effective help in his enterprise from a Sinhalese prince named Mānavamma, who was subsequently enabled to seize the island crown by means of an army equipped by the grateful Indian king.[^sec-35-fn-091]
 
 > _[Margin: Hiuen Tsang at Kānchī, <span class="sc">a. d.</span> 640.]_
+
 Hiuen Tsang, who visited Kānchī (Conjeeveram) in <span class="sc">a. d.</span> 640, during the reign of Narasimha-varman I, and stayed there for a considerable time, calls the country of which Kānchī was the capital by the name of Dravida, and describes it as being about 1,000 miles in circuit. It corresponded, therefore, very closely with the traditional ‘Chola country’ between the Northern Pennār and the Southern Vellāru rivers. The soil was fertile and regularly cultivated, producing abundance of grain, flowers, and fruits. The capital was a large city 5 or 6 miles in circumference. In the kingdom the pilgrim found more than a hundred Buddhist monasteries,[^sec-35-fn-092] occupied by a large number of monks, estimated at above ten thousand, all attached, like [p. 496] the majority of the Ceylonese, to the Sthavira school of the Mahāyāna. The Hindu, including the Jain, temples numbered about four-score, and, as in other parts of Southern India, the sect of nude, or Digambara, Jains had many adherents. In the Pāṇḍya country farther south Buddhism was almost extinct. Kāñchī, which is reckoned among the seven Hindu sacred cities, enjoyed special fame among the Buddhists as having been the birthplace of Dharmapāla, a celebrated metaphysician, who was the predecessor of Hiuen Tsang's teacher Sīlabhadra in the headship of the great monastery at Nālandā.[^sec-35-fn-093]
 
 > _[Margin: Monuments.]_
+
 The earliest of the remarkable monolithic temples known as the Seven Pagodas at Māmallapuram, namely that now called the Dharmarāja Ratha, was the work of Narasimha-varman, who bore the title of Mahāmalla, or ‘great champion’, from which the name of the place is derived.[^sec-35-fn-094] The other similar shrines were wrought under the orders of the same king and his successor down to about the time when Kāñchī was taken by its hereditary enemies.[^sec-35-fn-095] That calamity probably explains the fact that some of the shrines were never completed.
 
 The noble temple now called Kailāsanātha at Kāñchī, and the ‘Shore Temple’ at the Seven Pagodas were built by Narasimha-varman II, also named Rājasimha, late in the seventh century.
 
-> _[Margin: Parameśvara- varman.]_
-In or about <span class="sc">A. D.</span> 655 Vikramāditya I Chalukya, a son of Pulakēsin, retrieved the fortunes of his family, and recovered his father's dominions from Paramesvara-varman, who had succeeded to the Pallava throne. During this war Kāñchī,
+> _[Margin: Parameśvara-varman.]_
+
+In or about <span class="sc">A. D.</span> 655 Vikramāditya I Chalukya, a son of Pulakēsin, retrieved the fortunes of his family, and recovered his father's dominions from Paramesvara-varman, who had succeeded to the Pallava throne. During this war Kāñchī, [p. 497] the Pallava capital, was taken and occupied for a time by the Chalukyas. On the other hand, the Pallavas claimed the gain of a victory at Peruvalanallūr.
 
 
 <!-- page: 549 | folio: 497 -->
 
 ![THE GANĒSA RATHA AT MĀMALLAPURAM (one of the 'Seven Pagodas')](../figures/fig-021_p0549.webp)
 
-
-<!-- page: 551 | folio: 497 -->
-the Pallava capital, was taken and occupied for a time by the Chalukyas. On the other hand, the Pallavas claimed the gain of a victory at Peruvalanallūr.
-
 > _[Margin: Nandivarman.]_
+
 The perennial conflict continued during succeeding reigns. In about <span class="sc">A. D.</span> 740 Kāñchī was captured once more by Vikramāditya II Chalukya, who inflicted on Nandivarman Pallava a defeat so decisive that the event may be regarded as the beginning of the end of the Pallava supremacy. Nandivarman, who had succeeded Parameśvara-varman II about <span class="sc">A. D.</span> 720, was a distant relative of that prince, being descended from a brother of King Simhavishnu. The change in the line of succession is stated to have been the result of a popular election; and a curious series of sculptures, accompanied by unfinished labels apparently intended to have been explanatory, still extant in a mutilated form at the Vaikuntha Perumāl temple in Conjeeveram (Kāñchī), seems to have been designed as a contemporary record of the dynastic revolution.[^sec-35-fn-096]
 
 > _[Margin: Aparājita.]_
+
 Nandivarman reigned for about sixty-two years, and was succeeded by several princes ending with Aparājita Pallava, who vanquished the Pāndya king, Varaguna II, at the battle of Srī-Purambiya, but was himself overcome by Āditya Chola about the close of the ninth century.[^sec-35-fn-097] From that time the Pallava supremacy, which had been severely shaken by the Chalukya successes in 740, finally passed away and was transferred to the Cholas, who, as already narrated, brought all the southern kingdoms under their control more or less completely during the tenth and eleventh centuries.
 
 > _[Margin: Wars with Rāshtrakūṭas.]_
+
 During their period of decline the Pallava chiefs managed to do some fighting on their own account. When the Rāshtrakūtas supplemented the Chalukyas in the middle of the eighth century, the traditional hostility between the leading power of the Deccan and its southern enemy was not abated, and the new rulers took up the old quarrel with the Pallavas. King Dhruva, a cousin of Dantidurga, who [p. 498] had overthrown the Chalukya dynasty, inflicted a defeat on the Pallavas about <span class="sc">a. d.</span> 775 ; and his son, Govinda III, levied tribute from Dantiga, Rāja of Kānchī, in <span class="sc">a. d.</span> 803.
 
 > _[Margin: The Gaṅgas.]_
+
 During the tenth century we hear of wars between the Pallavas and the ancient dynasty of the Gaṅga kings of Gaṅgavādi, or Mysore, who are now commonly known as the Western Gaṅgas, in order to distinguish them from the family of the same name which ruled Kalinga in the east, and held court at Kalinganagaram, the modern Mukhalingam in the Ganjām District. Various inscriptions of the Western Gaṅgas, which are certainly genuine, date back to about the close of the fifth century <span class="sc">a. c.</span> ;[^sec-35-fn-098] and the dynasty appears to have reached the zenith of its power during the long reign of Srīpurusha (<span class="sc">a. d.</span> 725–776), whose territory was known as the Fortunate Kingdom.[^sec-35-fn-099] The most notable king of the Eastern Gaṅgas of Kalinga was Anantavarman Chodagaṅga, who reigned for seventy-one years from <span class="sc">a. d.</span> 1076 to 1147, and carved out for himself a considerable kingdom, extending from the Ganges to the Godāvarī. He built the temple of Jagannāth at Puri.[^sec-35-fn-100]
 
 > _[Margin: The last of the Pallavas.]_
+
 The later Pallava chiefs sank into the position of mere feudatory nobles and officials in the service of the territorial kingdoms ; and it is on record that the Pallava Rāja took the first place among the feudatories of King Vikrama Chola early in the twelfth century.[^sec-35-fn-101] The Rājas can be traced as in possession of limited local power down to the thirteenth century, and Pallava nobles are mentioned as late as the close of the seventeenth century. After that time all trace of the Pallavas as a distinct race or clan disappears, and their blood is now merged in that of the Kallar, Palli, and Vellāla castes.[^sec-35-fn-102]
 
 
 <!-- page: 553 | folio: 499 -->
 > _[Margin: Religion.]_
+
 The earliest Pallava king who can be precisely dated, Simhavarman, in the fifth century, presented an image at Amarāvatī and is expressly described as being a lay worshipper of Buddha. Probably other members of the dynasty also were Buddhists.[^sec-35-fn-103] Several princes were specially devoted to the cult of Vishnu.[^sec-35-fn-104] Mahendravarman, who was a Jain in early life, at first persecuted the followers of Siva, but was converted to the Saiva creed and turned against his former co-religionists, whose principal monastery he destroyed.[^sec-35-fn-105]
 
 Usually, however, the adherents of rival creeds seem to have lived together in peace and to have enjoyed the impartial protection of the government. The narrative of Hiuen Tsang implies that such was the case in <span class="sc">a. d.</span> 640.[^sec-35-fn-105] All the later Pallava kings, apparently, were worshippers of Siva, whose emblem, the bull, was adopted as the family crest. Two of the kings were so zealous for religion that they have been included in the list of sixty-three Saiva saints.[^sec-35-fn-106]
 
 > _[Margin: Epilogue.]_
+
 This is the fourth edition of Dr. Vincent A. Smith’s work, the second edition having appeared in 1908, and the third in 1914. In commending the third edition to the public, the author wrote :—‘ My task—a labour of love—is now ended, and this book goes forth once more in its new form which, so far as the author is concerned, is not unlikely to be final. Planned twenty-five years ago, it appeared for the first time sixteen years later in a very imperfect shape. [p. 500] The generous reception accorded to that faulty pioneer attempt encourages the hope that this much improved edition may be of still greater service in guiding and stimulating the study of the early history of India, now pursued with laudable ardour by a multitude of her sons as well as by foreigners.’ The reviser can only re-echo the hope that the present work, based as it is upon the further investigations and discoveries of scholars during the last few years, will prove as acceptable to students of India’s early history as the earlier editions, and that the work of revision will be adjudged to have been performed in a manner worthy of the late author and of the great theme with which his name is so closely and so honourably associated.
 
 The volume deals with the political history of Hindu India, the land of the Brahmans, which is the real India ; a land the fascination of which is largely due to the unique character of its civilization. That quality of strangeness makes the history of Hindu India less attractive to the European or American general reader than the more easily intelligible story of the Muslim and British conquerors, but anybody who desires to understand modern India must be content to spend some labour on the study of ancient India during the long ages of autonomy.
@@ -6108,7 +7035,7 @@ The most important branch of the history of India is the [p. 501] history of her
 [^sec-35-fn-002]: (2) Elliot, *Coins of Southern India* p. 108.
 [^sec-35-fn-003]: (3) The Chandragiri is the boundary between Kerala and the Tuluva country.
 [^sec-35-fn-004]: (1) Ptolemy, bk. vii, ch. 1, 85 ; transl. McCrindle, *Ind. Ant.*, xiii, 367. The Peutingerian Tables correctly give the name as Damirikē (*Ind. Ant.*, viii, 144). Possibly, as S. Krishnaswāmi Aiyangar suggests, Damirikē was the transliteration of a Sanskrit form *Dramidaka*.
-[^sec-35-fn-005]: (2) See M. Srġnivāsa Aiyangar, *Tamil Studies*, Madras, Guardian Press, 1914, which professes to give ‘a complete bird's-eye view of Tamil culture and civilization’.
+[^sec-35-fn-005]: (2) See M. Srīnivāsa Aiyangar, *Tamil Studies*, Madras, Guardian Press, 1914, which professes to give ‘a complete bird's-eye view of Tamil culture and civilization’.
 [^sec-35-fn-006]: (3) *The Tamils Eighteen Hundred Years Ago*, pp. 3, 10, 39.
 [^sec-35-fn-007]: (4) Pope, ‘Extracts from the Tamil *Purra-poruḷ Veṇba-Mālai*, and the *Purra-nānnūrru* (*J. R. A. S.*, 1899, p. 242). Pope was not so decided in opinion concerning the early date of the literature as South Indian scholars are, but subsequent discussion seems to establish the high antiquity of the great classical works in Tamil.
 [^sec-35-fn-008]: (1) For Jain historical traditions, with varying systems of chronology, see Jacobi in *S. B. E.*, vol. xxii, and many articles in the *Indian Antiquary*, vols. ii, ix, xi, xiii, xvii, xx, and xxi, by Hoernle and other writers; also Rice, *Mysore and Coorg from the Inscriptions*.
@@ -6317,10 +7244,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - 90–1 : promoted Pōros (1), 93 :
 - started on voyage, 94 : occupied
 - capital of Sophytes, 94 : reached
-- first confluence, 95 : conquered
-
-<!-- page: 558 | folio: 504 -->
-- the Siboi and Agalassoi, 97 : attacked the Malloi, 98, 99 : dangerously wounded, 101 : continued voyage to fourth confluence,
+- first confluence, 95 : conquered [p. 504] the Siboi and Agalassoi, 97 : attacked the Malloi, 98, 99 : dangerously wounded, 101 : continued voyage to fourth confluence,
 - 102 : appointed satraps, 103 : advanced into Sind, 105 : attacked
 - Oxykanos and Sambos, 106 : advanced to Patala, 107 : reached
 - the sea, 108 : prepared for return
@@ -6539,10 +7463,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - those of, 280: pillar erected at
 - Kauśāmbī by, 310: imitated by
 - Harsha, 357: Pūrṇa-varman last
-- descendant of, 204, 360: caste of,
-
-<!-- page: 560 | folio: 506 -->
-- 423: relations with Southern
+- descendant of, 204, 360: caste of, [p. 506] 423: relations with Southern
 - India of, 464, 465, 476, 481.
 - *Asokāvadāna* legends, 42, 202.
 - Aspasian, tribe, 55.
@@ -6832,8 +7753,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - time, 313: merciful teachings of,
 - 314: gradual decay of, 315, 320,
 - 358: prevalence from 200 <span class="sc">b. c.</span> to
-- <span class="sc">a. d.</span> 200 of, 318: Sammitīya
-- school of, 352, 359: favour of
+- <span class="sc">a. d.</span> 200 of, 318: Sammitīya school of, 352, 359: favour of
 - Gupta kings to, 309, 320, 331:
 - devotion of Harsha to, 357–
 - 65: in Tibet, 378: in Nepāl,
@@ -7441,10 +8361,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - Hiraṇyavatī, river, 167 *n.*
 - Historian, duty of, 3.
 - History of the South, 466. *See* Indian history.
-- Hiuen Tsang, Chinese pilgrim, 14, 21: *Travels* and *Life* of, 25, 26, 348: on Buddhist sects, 360:
-
-<!-- page: 569 | folio: 515 -->
-- favoured by Harsha, 360: at Kanauj and Prayāga, 362–4: return to China and death of, 365, 373: on political arrangements of India, 368: in Kāmarūpa, 383: at Kāñchī, 472, 483.
+- Hiuen Tsang, Chinese pilgrim, 14, 21: *Travels* and *Life* of, 25, 26, 348: on Buddhist sects, 360: [p. 515] favoured by Harsha, 360: at Kanauj and Prayāga, 362–4: return to China and death of, 365, 373: on political arrangements of India, 368: in Kāmarūpa, 383: at Kāñchī, 472, 483.
 - Hiuen Tsung, emperor of China, 377.
 - Hiung-nū, horde, 263, 265.
 - Honours, sale of, 150.
@@ -7482,10 +8399,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - Īltutmish (Altamsh), took Kanauj, 404 *n.*
 - Indaura, town, 80.
 - Independent tribes, *see* Autonomous tribes.
-- India, lost history of, 1: connexion with West of, 2: story of ancient, 3: unity of, 5: paramount power in, 6: earliest foreign notice of, 12: Greek and Chinese accounts of, 12–15: Albērūnī's inquiry into, 15: Marco Polo in, 15: Muhammadan historians of, 15: inscriptions in Southern, 17, 467: coins of, 18: chronology of, 20–2: beginning of political history of, 28: ancient states of Northern, 29: capital of, 38: Indus boundary of, 40: in Persian inscriptions, 41 *n.*; Chandragupta master of, 44: Alexander's plans for conquest of, 52: road from Kābul to, 53: Alexander the first European to enter, 59: futility of political combinations in, 99: slavery in, 105: connexion of Gedrosia with, 110, 159: duration of Alexander's stay in, 115, 120, 252: not Hellenized by Alexander, 117, 153, 252: Megasthenes's account of,
-
-<!-- page: 570 | folio: 516 -->
-- 126, 253: land revenue in, 149:
+- India, lost history of, 1: connexion with West of, 2: story of ancient, 3: unity of, 5: paramount power in, 6: earliest foreign notice of, 12: Greek and Chinese accounts of, 12–15: Albērūnī's inquiry into, 15: Marco Polo in, 15: Muhammadan historians of, 15: inscriptions in Southern, 17, 467: coins of, 18: chronology of, 20–2: beginning of political history of, 28: ancient states of Northern, 29: capital of, 38: Indus boundary of, 40: in Persian inscriptions, 41 *n.*; Chandragupta master of, 44: Alexander's plans for conquest of, 52: road from Kābul to, 53: Alexander the first European to enter, 59: futility of political combinations in, 99: slavery in, 105: connexion of Gedrosia with, 110, 159: duration of Alexander's stay in, 115, 120, 252: not Hellenized by Alexander, 117, 153, 252: Megasthenes's account of, [p. 516] 126, 253: land revenue in, 149:
 - irrigation in, 138: high degree
 - of early civilization in, 142:
 - nearly all included in Asoka's
@@ -7532,8 +8446,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - branch of, 108 *n.*: Kohrāi mouth
 - of, 109 *n.*: confluence with Akesinēs of, 114: provinces to west
 - of, 115, 159, 162, 233: voyage of
-- Nearchos from, 110, 116: extinction of Greek power to east of,
-- 122, 253: Seleukos crossed, 125,
+- Nearchos from, 110, 116: extinction of Greek power to east of, 122, 253: Seleukos crossed, 125,
 - 159: not the Sindhu of the
 - *Mālavikāgnimitra*, 211 *n.*: power
 - of Mithradates I extended beyond, 241: Parthian chiefs on
@@ -7704,8 +8617,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - Kāśasena, 437.
 - Kāshgar, conquered by China, 269 : conquered by Kanishka, 278.
 - Kāshgaria and China, 374–6.
-- Kashmīr, chronicle of, 10 : capital built by Asoka in, 170 : censors
-- in, 190 : = Ki-pin in sixth century, 266 *n.*, 289 *n.*, 336 *n.*, 374 *n.* : Buddhist council in, 283 : predominant power in seventh century, 368 : history of, 386–9.
+- Kashmīr, chronicle of, 10 : capital built by Asoka in, 170 : censors in, 190 : = Ki-pin in sixth century, 266 *n.*, 289 *n.*, 336 *n.*, 374 *n.* : Buddhist council in, 283 : predominant power in seventh century, 368 : history of, 386–9.
 - Kāśī, kingdom, 31.
 - Kasiā, temple near, 168 *n.*
 - Kasiārī (Kāśīpurī), 436.
@@ -7744,10 +8656,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - Khāwak Pass, 52.
 - Khidrāpur, town, 448 *n.*
 - Khokhar tribe of the Panjāb, 397.
-- Khotan, relations of Asoka with, 50, 203 : persecution of Buddhism in, 214 *n.* : submitted to China,
-
-<!-- page: 573 | folio: 519 -->
-- 268; conquered by Kanishka,
+- Khotan, relations of Asoka with, 50, 203 : persecution of Buddhism in, 214 *n.* : submitted to China, [p. 519] 268; conquered by Kanishka,
 - 278: visited by Hiuen Tsang,
 - 365.
 - Khottal, province, 373.
@@ -8874,8 +9783,7 @@ The most important branch of the history of India is the [p. 501] history of her
 - Śiśunāga = Sisunāka, king, 32, 51.
 - Sītā, river, 280 *n.*
 - Śiva, god, worship of in W. India,
-- 224: on Kushān coins, 288:
-- worshipped by Harsha and his
+- 224: on Kushān coins, 288: worshipped by Harsha and his
 - ancestor, 282, 358, 364: Choḷa
 - kings devoted to, 474, 486, 489:
 - Pallava cult of, 499.

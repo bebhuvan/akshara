@@ -1,0 +1,97 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,1,data,,Under 5,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",128.8,128.8,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,1,data,,Under 5,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",112.3,112.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,1,data,,Under 5,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",61.5,61.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,1,data,,Under 5,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",51.9,51.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,2,data,,5—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",18.5,18.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,2,data,,5—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",18.9,18.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,2,data,,5—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",5.3,5.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,2,data,,5—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",5.2,5.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,3,data,,10—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",11.1,11.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,3,data,,10—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",14.0,14.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,3,data,,10—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",2.9,2.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,3,data,,10—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",3.1,3.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,4,data,,15—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",12.3,12.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,4,data,,15—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",16.7,16.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,4,data,,15—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",4.3,4.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,4,data,,15—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",4.4,4.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,5,data,,20—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",15.1,15.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,5,data,,20—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",19.0,19.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,5,data,,20—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",5.7,5.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,5,data,,20—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",5.5,5.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,6,data,,25—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",20.1,20.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,6,data,,25—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",22.1,22.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,6,data,,25—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",7.7,7.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,6,data,,25—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",7.4,7.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,7,data,,35—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",28.4,28.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,7,data,,35—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",27.1,27.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,7,data,,35—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",12.4,12.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,7,data,,35—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",10.6,10.6,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,8,data,,45—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",39.7,39.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,8,data,,45—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",33.9,33.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,8,data,,45—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",19.3,19.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,8,data,,45—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",15.0,15.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,9,data,,55—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",58.7,58.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,9,data,,55—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",50.3,50.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,9,data,,55—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",34.6,34.6,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,9,data,,55—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",28.4,28.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,10,data,,65—,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",100.5,100.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,10,data,,65—,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",91.7,91.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,10,data,,65—,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",70.3,70.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,10,data,,65—,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",60.3,60.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,11,data,,75 and upwards,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",201.8,201.8,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,11,data,,75 and upwards,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",194.5,194.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,11,data,,75 and upwards,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",162.6,162.6,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,11,data,,75 and upwards,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",147.9,147.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,12,total,,All ages,2,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: M.",40·6 39·6,,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,12,total,,All ages,3,"Estimated mortality per 1,000 living at each age-group, 1881-1891. :: India. :: F.",38·6,38.6,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,12,total,,All ages,4,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: M.",20·2 19·1,,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,12,total,,All ages,5,"Mean annual death-rate, 1881-1890, per 1,000 living. :: England and Wales. :: F.",18·0,18.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,13,data,,0—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",24.6,24.6,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,13,data,,0—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",25.5,25.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,13,data,,0—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",43.7,43.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,13,data,,0—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",47.2,47.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,14,data,,5—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",37.1,37.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,14,data,,5—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",36.1,36.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,14,data,,5—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",52.7,52.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,14,data,,5—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",54.9,54.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,15,data,,10—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",35.5,35.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,15,data,,10—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",34.4,34.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,15,data,,10—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",49.0,49.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,15,data,,10—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",51.1,51.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,16,data,,15—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",32.3,32.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,16,data,,15—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",31.7,31.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,16,data,,15—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",44.5,44.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,16,data,,15—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",46.5,46.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,17,data,,20—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",29.2,29.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,17,data,,20—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",29.3,29.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,17,data,,20—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",40.3,40.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,17,data,,20—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",42.4,42.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,18,data,,25—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",26.3,26.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,18,data,,25—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",27.0,27.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,18,data,,25—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",36.3,36.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,18,data,,25—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",38.5,38.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,19,data,,35—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",21.1,21.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,19,data,,35—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",22.4,22.4,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,19,data,,35—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",28.9,28.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,19,data,,35—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",31.2,31.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,20,data,,45—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",16.5,16.5,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,20,data,,45—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",17.9,17.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,20,data,,45—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",22.1,22.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,20,data,,45—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",24.0,24.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,21,data,,55—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",12.2,12.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,21,data,,55—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",13.2,13.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,21,data,,55—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",15.7,15.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,21,data,,55—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",17.2,17.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,22,data,,65—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",8.2,8.2,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,22,data,,65—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",8.7,8.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,22,data,,65—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",10.3,10.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,22,data,,65—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",11.3,11.3,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,23,data,,75—,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",4.9,4.9,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,23,data,,75—,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",5.1,5.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,23,data,,75—,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",6.1,6.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,23,data,,75—,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",6.7,6.7,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,24,total,,Row 24,2,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: M.",,,,True,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,24,total,,Row 24,3,"Expectation of Life at Ages in Col. 6. :: India, 1881–91. :: F.",,,,True,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,24,total,,Row 24,4,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: M.",,,,True,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-064,Table 64,553,515,24,total,,Row 24,5,"Expectation of Life at Ages in Col. 6. :: England, 1881–90. :: F.",.,,,True,True

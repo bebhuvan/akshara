@@ -300,7 +300,7 @@
     "column_index": 9,
     "column_header": "Percentage of average number on relief to population.",
     "raw_text": "5·3",
-    "value_numeric": null,
+    "value_numeric": 5.3,
     "unit": "count",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -462,7 +462,7 @@
     "column_index": 9,
     "column_header": "Percentage of average number on relief to population.",
     "raw_text": "4·6",
-    "value_numeric": null,
+    "value_numeric": 4.6,
     "unit": "count",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -624,7 +624,7 @@
     "column_index": 9,
     "column_header": "Percentage of average number on relief to population.",
     "raw_text": "7·4",
-    "value_numeric": null,
+    "value_numeric": 7.4,
     "unit": "count",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -786,7 +786,7 @@
     "column_index": 9,
     "column_header": "Percentage of average number on relief to population.",
     "raw_text": "7·7",
-    "value_numeric": null,
+    "value_numeric": 7.7,
     "unit": "count",
     "is_null_or_leader": false,
     "arithmetic_verified": false

@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,1,data,,1880–1,2,Total number of money orders issued.,"1,604,174",1604174.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,1,data,,1880–1,3,Total value (in lakhs of rupees).,"4,57",457.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,1,data,,1880–1,4,Commission realized by the Post Office (in lakhs of rupees).,5,5.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,2,data,,1890–1,2,Total number of money orders issued.,"7,326,065",7326065.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,2,data,,1890–1,3,Total value (in lakhs of rupees).,"15,78",1578.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,2,data,,1890–1,4,Commission realized by the Post Office (in lakhs of rupees).,19,19.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,3,data,,1900–1,2,Total number of money orders issued.,"12,922,465",12922465.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,3,data,,1900–1,3,Total value (in lakhs of rupees).,"26,27",2627.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,3,data,,1900–1,4,Commission realized by the Post Office (in lakhs of rupees).,33,33.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,4,data,,1903–4,2,Total number of money orders issued.,"16,470,115",16470115.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,4,data,,1903–4,3,Total value (in lakhs of rupees).,"29,44",2944.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-072,Table 72,464,422,4,data,,1903–4,4,Commission realized by the Post Office (in lakhs of rupees).,34,34.0,Rs,False,False

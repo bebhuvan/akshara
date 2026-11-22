@@ -151,9 +151,29 @@ kind = "device"
 plate = "x-loveday-device"
 inset = "45% 31% 19% 31%"
 
-["imperial-gazetteer-india-v1"]
+["imperial-gazetteer-of-india-vol-01-descriptive"]
+kind = "map"
+plate = "x-ig1-map"
+title = "The Imperial Gazetteer of India"
+line = "Volume I · Descriptive"
+
+["imperial-gazetteer-of-india-vol-02-historical"]
 kind = "type"
-why = "nothing pictorial in the book"
+title = "The Imperial Gazetteer of India"
+line = "Volume II · Historical"
+why = "carries only the general map shown on Vol. I and genealogical trees"
+
+["imperial-gazetteer-of-india-vol-03-economic"]
+kind = "type"
+title = "The Imperial Gazetteer of India"
+line = "Volume III · Economic"
+why = "carries only the general map shown on Vol. I"
+
+["imperial-gazetteer-of-india-vol-04-administrative"]
+kind = "type"
+title = "The Imperial Gazetteer of India"
+line = "Volume IV · Administrative"
+why = "carries only the general map shown on Vol. I"
 
 ["india-at-the-death-of-akbar"]
 kind = "map"

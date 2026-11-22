@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,1,data,,1881,2,Passengers per Mile. :: First Class. :: Pies.,13·01,13.01,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,1,data,,1881,3,Passengers per Mile. :: Second Class. :: Pies.,4·75,4.75,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,1,data,,1881,4,Passengers per Mile. :: Intermediate Class. :: Pies.,4·04,4.04,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,1,data,,1881,5,Passengers per Mile. :: Third Class. :: Pies.,2·55,2.55,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,1,data,,1881,6,Goods (per Ton per Mile). :: Pies.,7·95,7.95,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,2,data,,1891,2,Passengers per Mile. :: First Class. :: Pies.,12·32,12.32,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,2,data,,1891,3,Passengers per Mile. :: Second Class. :: Pies.,4·92,4.92,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,2,data,,1891,4,Passengers per Mile. :: Intermediate Class. :: Pies.,3·11,3.11,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,2,data,,1891,5,Passengers per Mile. :: Third Class. :: Pies.,2·33,2.33,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,2,data,,1891,6,Goods (per Ton per Mile). :: Pies.,6·75,6.75,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,3,data,,1901,2,Passengers per Mile. :: First Class. :: Pies.,12·75,12.75,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,3,data,,1901,3,Passengers per Mile. :: Second Class. :: Pies.,5·49,5.49,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,3,data,,1901,4,Passengers per Mile. :: Intermediate Class. :: Pies.,3·09,3.09,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,3,data,,1901,5,Passengers per Mile. :: Third Class. :: Pies.,2·31,2.31,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,3,data,,1901,6,Goods (per Ton per Mile). :: Pies.,5·77,5.77,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,4,data,,1904,2,Passengers per Mile. :: First Class. :: Pies.,13·41,13.41,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,4,data,,1904,3,Passengers per Mile. :: Second Class. :: Pies.,5·69,5.69,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,4,data,,1904,4,Passengers per Mile. :: Intermediate Class. :: Pies.,3·09,3.09,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,4,data,,1904,5,Passengers per Mile. :: Third Class. :: Pies.,2·34,2.34,pies,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-065,TABLE V Average Rates charged for Passengers and Goods,455,413,4,data,,1904,6,Goods (per Ton per Mile). :: Pies.,5·39,5.39,tons,False,False

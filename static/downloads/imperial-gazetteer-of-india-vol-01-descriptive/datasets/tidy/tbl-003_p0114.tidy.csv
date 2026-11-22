@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-003,Table 3,114,76,1,data,,Umia,2,Column 2,Portlandian to Neocomian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-003,Table 3,114,76,2,data,,Katrol,2,Column 2,U. Oxfordian and Kimmeridgian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-003,Table 3,114,76,3,data,,Chāri,2,Column 2,Callovian and L. Oxfordian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-003,Table 3,114,76,4,data,,Patcham,2,Column 2,Bathonian.,,,False,False

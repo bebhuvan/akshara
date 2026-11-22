@@ -38,7 +38,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,5,data,,JESSOR,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,5,data,,JESSOR,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,5,data,,JESSOR,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,5,data,,JESSOR,9,Proportion of Rent to Produce.,12·3 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,5,data,,JESSOR,9,Proportion of Rent to Produce.,12·3 „,12.3,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,2,District.,(a),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,3,Produce per Acre. :: £,3,3.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,4,Produce per Acre. :: s.,15,15.0,acres,False,False
@@ -46,7 +46,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,9,Proportion of Rent to Produce.,12·0 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,6,data,,MIDNAPUR,9,Proportion of Rent to Produce.,12·0 „,12.0,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,7,data,,HUGLI,2,District.,(a),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,7,data,,HUGLI,3,Produce per Acre. :: £,3,3.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,7,data,,HUGLI,4,Produce per Acre. :: s.,12,12.0,acres,False,False
@@ -118,7 +118,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,15,data,,DACCA,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,15,data,,DACCA,7,Rent per Acre. :: s.,10,10.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,15,data,,DACCA,8,Rent per Acre. :: d.,6,6.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,15,data,,DACCA,9,Proportion of Rent to Produce.,11·2 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,85,61,15,data,,DACCA,9,Proportion of Rent to Produce.,11·2 „,11.2,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,2,District.,(b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,3,Produce per Acre. :: £,1,1.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,4,Produce per Acre. :: s.,16,16.0,acres,False,False
@@ -126,7 +126,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,7,Rent per Acre. :: s.,5,5.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,8,Rent per Acre. :: d.,8,8.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,9,Proportion of Rent to Produce.,15·7 per cent.,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,16,data,,Backerganj,9,Proportion of Rent to Produce.,15·7 per cent.,15.7,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,2,District.,(b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,3,Produce per Acre. :: £,1,1.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,4,Produce per Acre. :: s.,10,10.0,acres,False,False
@@ -134,7 +134,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,7,Rent per Acre. :: s.,3,3.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,8,Rent per Acre. :: d.,9,9.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,9,Proportion of Rent to Produce.,12·5 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,17,data,,Faridpur,9,Proportion of Rent to Produce.,12·5 „,12.5,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,18,data,,Mymensing,2,District.,(a) (b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,18,data,,Mymensing,3,Produce per Acre. :: £,5 2,,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,18,data,,Mymensing,4,Produce per Acre. :: s.,2 14,,acres,False,False
@@ -150,7 +150,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,19,data,,Noakhali,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,19,data,,Noakhali,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,19,data,,Noakhali,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,19,data,,Noakhali,9,Proportion of Rent to Produce.,13·8 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,19,data,,Noakhali,9,Proportion of Rent to Produce.,13·8 „,13.8,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,20,data,,Tipperh,2,District.,(a) (b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,20,data,,Tipperh,3,Produce per Acre. :: £,3 1,,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,20,data,,Tipperh,4,Produce per Acre. :: s.,12 18,,acres,False,False
@@ -166,7 +166,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,21,data,,Dinajpur,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,21,data,,Dinajpur,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,21,data,,Dinajpur,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,21,data,,Dinajpur,9,Proportion of Rent to Produce.,25·0 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,21,data,,Dinajpur,9,Proportion of Rent to Produce.,25·0 „,25.0,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,2,District.,(b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,3,Produce per Acre. :: £,1,1.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,4,Produce per Acre. :: s.,13,13.0,acres,False,False
@@ -174,7 +174,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,9,Proportion of Rent to Produce.,27·2 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,22,data,,Rajshahi,9,Proportion of Rent to Produce.,27·2 „,27.2,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,2,District.,(a),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,3,Produce per Acre. :: £,3,3.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,4,Produce per Acre. :: s.,15,15.0,acres,False,False
@@ -182,7 +182,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,9,Proportion of Rent to Produce.,12·0 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,23,data,,Pabna,9,Proportion of Rent to Produce.,12·0 „,12.0,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,24,data,,Gaya,2,District.,(a) (b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,24,data,,Gaya,3,Produce per Acre. :: £,3 2,,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,24,data,,Gaya,4,Produce per Acre. :: s.,12 10,,acres,False,False
@@ -198,7 +198,7 @@ famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in fig
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,25,data,,Manbhum,6,Rent per Acre. :: £,0,0.0,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,25,data,,Manbhum,7,Rent per Acre. :: s.,9,9.0,acres,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,25,data,,Manbhum,8,Rent per Acre. :: d.,0,0.0,acres,False,False
-famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,25,data,,Manbhum,9,Proportion of Rent to Produce.,28·1 „,,%,False,False
+famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,25,data,,Manbhum,9,Proportion of Rent to Produce.,28·1 „,28.1,%,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,26,data,,Balasor,2,District.,(a) (b),,,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,26,data,,Balasor,3,Produce per Acre. :: £,1 0,,GBP,False,False
 famines-and-land-assessments,tbl-003,10. Produce and Rent in Bengal shown in figures as given in “Statistical Account of Bengal.”,86,61,26,data,,Balasor,4,Produce per Acre. :: s.,0 12,,acres,False,False

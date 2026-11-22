@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-006,Table 6,130,92,1,data,,Manchhar,2,Column 2,Miocene to Pliocene.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-006,Table 6,130,92,2,data,,Gāj,2,Column 2,Miocene.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-006,Table 6,130,92,3,data,,Nāri,2,Column 2,Oligocene.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-006,Table 6,130,92,4,data,,Kīrthar,2,Column 2,Priabonian. Lutetian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-006,Table 6,130,92,5,data,,Rānikot,2,Column 2,Ypresian. Sparnacian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-006,Table 6,130,92,6,data,,Cardita beaumonti beds,2,Column 2,Montian.,,,False,False

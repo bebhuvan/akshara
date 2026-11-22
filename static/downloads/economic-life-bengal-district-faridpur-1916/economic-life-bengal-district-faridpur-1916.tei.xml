@@ -15,7 +15,7 @@
         <edition n="machine_checked">Akshara Machine Checked Edition</edition>
         <respStmt>
           <resp>Provenance accounting</resp>
-          <name>162 extracted leaves · 7 re-read against the scan · 0 verified by a person</name>
+          <name>162 extracted leaves · 8 re-read against the scan · 0 verified by a person</name>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -109,19 +109,16 @@ AT THE OXFORD UNIVERSITY PRESS</p>
         <pb xml:id="page-15" n="11" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n14_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>CONTENTS</head>
-          <div type="subsection" n="h3">
-            <head>PAGE</head>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter I
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter I
 The District and its inhabitants, their homes and manner of life</hi> . . . . . 13</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter II
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter II
 The Domestic Budget</hi> . . . . . 55</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter III
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter III
 Income and economic condition of the people as revealed by the statistics</hi> . . . 72</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter IV
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter IV
 Indebtedness</hi> . . . . . . 96</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter V
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter V
 Taxation</hi> . . . . . . . 113</p>
-          </div>
           <div type="subsection" n="h2">
             <head>APPENDIX</head>
             <p rend="toc-entry"><hi rend="smallcaps">Abstract of the Rules and Instructions in accordance with which the economic information was gathered, recorded and tabulated</hi> . . . . . . 138</p>
@@ -130,18 +127,15 @@ Taxation</hi> . . . . . . . 113</p>
             <p rend="toc-entry">III. <hi rend="smallcaps">Tabulation</hi> . . . . . 148</p>
             <p rend="toc-entry"><hi rend="smallcaps">Table I. Population which came under review</hi> 150</p>
             <pb xml:id="page-16" n="12" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n15_w1400.jpg"/>
-            <div type="subsection" n="h3">
-              <head><hi rend="smallcaps">page</hi></head>
-              <p rend="toc-entry"><hi rend="smallcaps">Table</hi> II. (<hi rend="italic">a</hi>) <hi rend="smallcaps">Classification of Population by Income and Economic Condition</hi> . . 151</p>
-              <p rend="toc-entry">(<hi rend="italic">b</hi>) <hi rend="smallcaps">Percentages of Classification</hi> . . 153</p>
-              <p rend="toc-entry">(<hi rend="italic">c</hi>) <hi rend="smallcaps">Average Annual Income of Different Classes</hi> . . . . . . 154</p>
-              <p rend="toc-entry"><hi rend="smallcaps">Table</hi> III. <hi rend="smallcaps">Debt</hi> . . . . . 155</p>
-              <p rend="toc-entry">(<hi rend="italic">a</hi>) <hi rend="smallcaps">General Summary</hi> . . . . 155</p>
-              <p rend="toc-entry">(<hi rend="italic">b</hi>) <hi rend="smallcaps">Proportion of Families Indebted</hi> . . 156</p>
-              <p rend="toc-entry">(<hi rend="italic">c</hi>) <hi rend="smallcaps">Pitch of Indebtedness</hi> . . . 157</p>
-              <p rend="toc-entry"><hi rend="smallcaps">Table</hi> IV. <hi rend="smallcaps">Village Taxation</hi> . . . . 158</p>
-              <p rend="toc-entry"><hi rend="smallcaps">Plans of some homesteads in Faridpur</hi> . 24–5</p>
-            </div>
+            <p rend="toc-entry"><hi rend="smallcaps">Table</hi> II. (<hi rend="italic">a</hi>) <hi rend="smallcaps">Classification of Population by Income and Economic Condition</hi> . . 151</p>
+            <p rend="toc-entry">(<hi rend="italic">b</hi>) <hi rend="smallcaps">Percentages of Classification</hi> . . 153</p>
+            <p rend="toc-entry">(<hi rend="italic">c</hi>) <hi rend="smallcaps">Average Annual Income of Different Classes</hi> . . . . . . 154</p>
+            <p rend="toc-entry"><hi rend="smallcaps">Table</hi> III. <hi rend="smallcaps">Debt</hi> . . . . . 155</p>
+            <p rend="toc-entry">(<hi rend="italic">a</hi>) <hi rend="smallcaps">General Summary</hi> . . . . 155</p>
+            <p rend="toc-entry">(<hi rend="italic">b</hi>) <hi rend="smallcaps">Proportion of Families Indebted</hi> . . 156</p>
+            <p rend="toc-entry">(<hi rend="italic">c</hi>) <hi rend="smallcaps">Pitch of Indebtedness</hi> . . . 157</p>
+            <p rend="toc-entry"><hi rend="smallcaps">Table</hi> IV. <hi rend="smallcaps">Village Taxation</hi> . . . . 158</p>
+            <p rend="toc-entry"><hi rend="smallcaps">Plans of some homesteads in Faridpur</hi> . 24–5</p>
           </div>
         </div>
       </div>
@@ -179,9 +173,9 @@ Taxation</hi> . . . . . . . 113</p>
             </div>
             <div type="subsection" n="h3">
               <head>(1) non cultivator (north of district) living "in comfort".</head>
-              <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0028.webp"/><head>Comparative ground plans of rural dwellings and compounds of well-off non-cultivators (north of district) for Hindus and Muhammadans, showing house layout insets, orchards, tanks, gardens, and roads with scales.</head><figDesc>Comparative ground plans of rural dwellings and compounds of well-off non-cultivators (north of district) for Hindus and Muhammadans, showing house layout insets, orchards, tanks, gardens, and roads with scales.</figDesc></figure>
+              <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0028.webp"/><figDesc>Comparative ground plans of rural dwellings and compounds of well-off non-cultivators (north of district) for Hindus and Muhammadans, showing house layout insets, orchards, tanks, gardens, and roads with scales.</figDesc></figure>
               <pb xml:id="page-29" n="25" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n28_w1400.jpg"/>
-              <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0029.webp"/><head>Diagrams and plans showing types of dwellings and garden enclosures for non-cultivators and cultivators living in comfort or below comfort across various geographic areas (north of district, south-eastern alluvium, south-western marshes), with insets and sections.</head><figDesc>Diagrams and plans showing types of dwellings and garden enclosures for non-cultivators and cultivators living in comfort or below comfort across various geographic areas (north of district, south-eastern alluvium, south-western marshes), with insets and sections.</figDesc></figure>
+              <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0029.webp"/><figDesc>Diagrams and plans showing types of dwellings and garden enclosures for non-cultivators and cultivators living in comfort or below comfort across various geographic areas (north of district, south-eastern alluvium, south-western marshes), with insets and sections.</figDesc></figure>
               <p rend="imprint"><hi rend="italic">H. S. Hattin</hi></p>
               <pb xml:id="page-30" n="26" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n29_w1400.jpg"/>
               <p>huts besides kitchens and cattle-sheds. The homesteads of the cultivators tend to be larger than the homesteads of those engaged in other occupations. I have appended some sketch-plans of homesteads inhabited by families of different degrees of prosperity in different occupations. It will be seen that in the poorest homes the floor-space is very considerable for a family of five, while in those of prosperous cultivators it is more than ample. It is probable that half the population lives in homesteads with more than 800 square feet of floor-space, built round a courtyard also 800 square feet in area. As the roofs are never very low and the huts are always very airy, it will be seen that the home of a Faridpur cultivator is at least healthy.</p>
@@ -233,9 +227,9 @@ Taxation</hi> . . . . . . . 113</p>
             <p>Very great labour was devoted to the preparation of domestic budgets by over two hundred officers who made a close scrutiny of the habits and expenditure of more than two thousand families for the purpose. It was found that expenditure tended to amount in all families in a similar degree of prosperity to identical totals, thereby making it possible to draw up model budgets with considerable accuracy. These model budgets were of great value in the tabulation of the resources of the agriculturalists, as they permitted the cash equivalent of all food grown on the family fields and consumed by the family to be calculated, and thereby the annual income of each agricultural family to be expressed in cash. It would have been impossible to estimate the cash value of crops retained for consumption by each individual agricultural family, and it was not attempted. Instead, all agricultural families were classified according to their degrees of prosperity and the model budgets used to assess the cash value of the food which the family would require to justify the classification.</p>
             <p>Perhaps the most convenient method of illustrating the standards which were adopted for the classification of families will be to examine in detail the amounts which were finally adopted as equivalent to the expenditure of an ordinary family living in comfort and of an ordinary family living in indigence or just above the margin of starvation. In both cases the basis of the calculation was a family of five, consisting of two <pb xml:id="page-63" n="59" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n62_w1400.jpg"/> adult males, one adult female, one male and one female child. In the classification, as will be explained later, there were two more classes, ‘below comfort’ and ‘above indigence’, which were intermediate between the two selected for examination; but it is unnecessary to reproduce here the details of the normal budgets of these classes, as they were naturally between the two extremes.</p>
             <table xml:id="tbl-001" rows="26" cols="7">
-        <row role="label"><cell role="label">Item of Expenditure.</cell><cell role="label">Amount spent annually by a family in comfort.</cell><cell role="label">Amount spent annually by a family in extreme indigence.</cell></row>
-        <row role="label"><cell role="label"></cell><cell role="label">£</cell><cell role="label">s.</cell><cell role="label">d.</cell><cell role="label">£</cell><cell role="label">s.</cell><cell role="label">d.</cell></row>
-        <row role="label"><cell role="label"><hi rend="italic">Food :</hi></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell></row>
+        <row role="label"><cell role="label" rows="2">Item of Expenditure.</cell><cell role="label" cols="3">Amount spent annually by a family in comfort.</cell><cell role="label" cols="3">Amount spent annually by a family in extreme indigence.</cell></row>
+        <row role="label"><cell role="label">£</cell><cell role="label">s.</cell><cell role="label">d.</cell><cell role="label">£</cell><cell role="label">s.</cell><cell role="label">d.</cell></row>
+        <row role="label" rend="subheader"><cell><hi rend="italic">Food :</hi></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
         <row role="data"><cell>Rice</cell><cell rend="num">8</cell><cell rend="num">0</cell><cell rend="num">0</cell><cell rend="num">4</cell><cell rend="num">0</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Salt</cell><cell></cell><cell rend="num">2</cell><cell rend="num">8</cell><cell></cell><cell rend="num">2</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Oil .</cell><cell></cell><cell rend="num">8</cell><cell rend="num">0</cell><cell></cell><cell rend="num">4</cell><cell rend="num">0</cell></row>
@@ -279,7 +273,7 @@ Taxation</hi> . . . . . . . 113</p>
         <row role="label"><cell role="label">Expenditure.</cell><cell role="label" cols="3">a family in</cell><cell role="label" cols="3">a family in</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label" cols="3">comfort.</cell><cell role="label" cols="3">extreme indigence.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">£</cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell><cell role="label">£</cell><cell role="label"><hi rend="italic">s.</hi></cell><cell role="label"><hi rend="italic">d.</hi></cell></row>
-        <row role="label"><cell role="label"><hi rend="italic">Food:</hi></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell></row>
+        <row role="label" rend="subheader"><cell><hi rend="italic">Food:</hi></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
         <row role="data"><cell>Rice</cell><cell rend="num">8</cell><cell rend="num">0</cell><cell rend="num">0</cell><cell rend="num">4</cell><cell rend="num">0</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Salt</cell><cell></cell><cell rend="num">2</cell><cell rend="num">8</cell><cell></cell><cell rend="num">2</cell><cell rend="num">0</cell></row>
         <row role="data"><cell>Oil</cell><cell></cell><cell rend="num">8</cell><cell rend="num">0</cell><cell></cell><cell rend="num">4</cell><cell rend="num">0</cell></row>
@@ -362,7 +356,7 @@ Taxation</hi> . . . . . . . 113</p>
             <p>All classifications and figures of income for the non-agricultural population as a whole are somewhat fallacious owing to the mixture of such diverse elements ; but a comparison with the agricultural population is not without interest.</p>
             <table xml:id="tbl-004" rows="5" cols="3">
         <head>Percentages of the population classified as—</head>
-        <row role="label"><cell role="label">Agricultural.</cell><cell role="label">Non-agricultural.</cell></row>
+        <row role="label"><cell role="label"></cell><cell role="label">Agricultural.</cell><cell role="label">Non-agricultural.</cell></row>
         <row role="data"><cell>In comfort</cell><cell rend="num">49½</cell><cell rend="num">47</cell></row>
         <row role="data"><cell>Below comfort</cell><cell rend="num">28½</cell><cell rend="num">27</cell></row>
         <row role="data"><cell>Above want</cell><cell rend="num">18</cell><cell rend="num">20</cell></row>
@@ -370,7 +364,7 @@ Taxation</hi> . . . . . . . 113</p>
       </table>
             <p>It will be seen that the condition of the non-cultivator is generally worse than the condition of the cultivator. <pb xml:id="page-98" n="94" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n97_w1400.jpg"/> If the ‘bhadralok’, the moneylenders and the large traders were eliminated, the non-cultivator would come far worse out of the comparison. The average individual income in the several economic groups is substantially the same in the two classes, the excess in the income of the ‘comfortable’ non-cultivator being entirely due to the inclusion of the landlords and successful traders and ‘bhadralok’ in the group. The figures of income per head are :—</p>
             <table xml:id="tbl-005" rows="6" cols="3">
-        <row role="label"><cell role="label">Annual average income of a cultivator.</cell><cell role="label">Annual average income of a non-cultivator.</cell></row>
+        <row role="label"><cell role="label"></cell><cell role="label">Annual average income of a cultivator.</cell><cell role="label">Annual average income of a non-cultivator.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Rs.</cell><cell role="label">Rs.</cell></row>
         <row role="data"><cell>In comfort .</cell><cell rend="num">60</cell><cell rend="num">80</cell></row>
         <row role="data"><cell>Below comfort</cell><cell rend="num">43</cell><cell rend="num">42</cell></row>
@@ -764,7 +758,7 @@ Taxation</hi> . . . . . . . 113</p>
           <pb xml:id="page-157" n="153" facs="https://archive.org/download/economiclifeofbe00jackuoft/page/n156_w1400.jpg"/>
           <table xml:id="tbl-014" rows="7" cols="10">
       <head>OTHERS (chiefly Christian)</head>
-      <row role="label"><cell role="label"></cell><cell role="label">Total.</cell><cell role="label">Agricultural.</cell><cell role="label">Non-agricultural.</cell></row>
+      <row role="label"><cell role="label"></cell><cell role="label" cols="3">Total.</cell><cell role="label" cols="3">Agricultural.</cell><cell role="label" cols="3">Non-agricultural.</cell></row>
       <row role="label"><cell role="label">Classified as living</cell><cell role="label">Families.</cell><cell role="label">Persons.</cell><cell role="label">Income in rupees.</cell><cell role="label">Families.</cell><cell role="label">Persons.</cell><cell role="label">Income in rupees.</cell><cell role="label">Families.</cell><cell role="label">Persons.</cell><cell role="label">Income in rupees.</cell></row>
       <row role="data"><cell>in comfort</cell><cell rend="num">366</cell><cell rend="num">2,404</cell><cell rend="num">133,367</cell><cell rend="num">326</cell><cell rend="num">2,174</cell><cell rend="num">119,641</cell><cell rend="num">40</cell><cell rend="num">230</cell><cell rend="num">13,726</cell></row>
       <row role="data"><cell>below comfort</cell><cell rend="num">176</cell><cell rend="num">1,188</cell><cell rend="num">50,223</cell><cell rend="num">157</cell><cell rend="num">1,067</cell><cell rend="num">45,667</cell><cell rend="num">19</cell><cell rend="num">121</cell><cell rend="num">4,556</cell></row>
@@ -785,7 +779,7 @@ Taxation</hi> . . . . . . . 113</p>
       <row role="data"><cell>in comfort</cell><cell rend="num">49</cell><cell rend="num">49½</cell><cell rend="num">47</cell><cell rend="num">48</cell><cell rend="num">40</cell><cell rend="num">53</cell><cell rend="num">49</cell><cell rend="num">54</cell><cell rend="num">44</cell></row>
       <row role="data"><cell>below comfort</cell><cell rend="num">28</cell><cell rend="num">28½</cell><cell rend="num">27</cell><cell rend="num">29</cell><cell rend="num">27</cell><cell rend="num">28½</cell><cell rend="num">27</cell><cell rend="num">26</cell><cell rend="num">21</cell></row>
       <row role="data"><cell>above want</cell><cell rend="num">18</cell><cell rend="num">18</cell><cell rend="num">20</cell><cell rend="num">19</cell><cell rend="num">25</cell><cell rend="num">16</cell><cell rend="num">19</cell><cell rend="num">17</cell><cell rend="num">34</cell></row>
-      <row role="data"><cell>in want</cell><cell>4·3</cell><cell rend="num">4</cell><cell>5·6</cell><cell rend="num">4</cell><cell rend="num">8</cell><cell rend="num">3</cell><cell rend="num">5</cell><cell rend="num">3</cell><cell rend="num">1</cell></row>
+      <row role="data"><cell>in want</cell><cell rend="num">4·3</cell><cell rend="num">4</cell><cell rend="num">5·6</cell><cell rend="num">4</cell><cell rend="num">8</cell><cell rend="num">3</cell><cell rend="num">5</cell><cell rend="num">3</cell><cell rend="num">1</cell></row>
     </table>
         </div>
       </div>
@@ -820,7 +814,7 @@ Taxation</hi> . . . . . . . 113</p>
         <row role="data"><cell></cell><cell>£</cell><cell rend="num">1,343,148</cell><cell rend="num">943,729</cell><cell rend="num">399,419</cell></row>
         <row role="label" rend="subheader"><cell>Average amount of debt :</cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
         <row role="data"><cell>per family . .</cell><cell>Rs.</cell><cell rend="num">59</cell><cell rend="num">55</cell><cell rend="num">70</cell></row>
-        <row role="data"><cell></cell><cell>£ s.</cell><cell>3·19</cell><cell>3·13</cell><cell>4·13</cell></row>
+        <row role="data"><cell></cell><cell>£ s.</cell><cell rend="num">3·19</cell><cell rend="num">3·13</cell><cell rend="num">4·13</cell></row>
         <row role="data"><cell>per head . .</cell><cell>Rs.</cell><cell rend="num">11</cell><cell rend="num">10</cell><cell rend="num">14</cell></row>
         <row role="data"><cell></cell><cell>Sh.</cell><cell rend="num">15</cell><cell rend="num">13</cell><cell rend="num">19</cell></row>
         <row role="label" rend="subheader"><cell cols="5">Number of families :</cell></row>
@@ -834,7 +828,7 @@ Taxation</hi> . . . . . . . 113</p>
         <row role="data"><cell cols="2">In debt two years' income and more —</cell><cell rend="num">2</cell><cell rend="num">1½</cell><cell rend="num">3</cell></row>
         <row role="label" rend="subheader"><cell cols="5">Average amount of debt amongst indebted families :</cell></row>
         <row role="data"><cell></cell><cell>Rs.</cell><cell rend="num">144</cell><cell rend="num">121</cell><cell rend="num">258</cell></row>
-        <row role="data"><cell></cell><cell>£ s.</cell><cell rend="num">9</cell><cell>8·1</cell><cell>17·4</cell></row>
+        <row role="data"><cell></cell><cell>£ s.</cell><cell rend="num">9</cell><cell rend="num">8·1</cell><cell rend="num">17·4</cell></row>
       </table>
             <p>Amongst Muhammadans the average family debt was Rs. 58 or 21 per cent. of annual income amongst cultivators and Rs. 40 or 18 per cent. of annual income amongst non-cultivators. Amongst Hindus the average family debt was Rs. 47 or 17 per cent. of annual income amongst cultivators and Rs. 80 or 26 per cent. of annual income amongst non-cultivators. Amongst Christians debt was 11 per cent. of income amongst cultivators and 20 per cent. amongst non-cultivators, the average amounts being Rs. 50 and Rs. 74 respectively.</p>
             <p>The total debt amongst cultivators was Rs. 14,155,946 (Muhammadans Rs. 11,252,539 : Hindus Rs. 2,883,201 : others Rs. 20,206) of which Rs. 7,054,092 (50 per cent.) was incurred by families ‘in comfort’, Rs. 4,453,511 (32 per cent.) by families ‘below comfort’, Rs. 2,264,200 (16 per cent.) by families ‘above want’, and Rs. 384,143 (2·7 per cent.) by families ‘in want’.</p>
@@ -849,7 +843,7 @@ Taxation</hi> . . . . . . . 113</p>
     <head>(<hi rend="italic">b</hi>) <hi rend="smallcaps">Proportion per cent. of Families Indebted</hi></head>
     <row role="label"><cell role="label" rows="2">Amongst</cell><cell role="label" cols="5">Number of families free from debt.</cell><cell role="label" cols="5">Number of families indebted.</cell></row>
     <row role="label"><cell role="label">Amongst all families.</cell><cell role="label">in comfort.</cell><cell role="label">below comfort.</cell><cell role="label">above want.</cell><cell role="label">in want.</cell><cell role="label">Amongst all families.</cell><cell role="label">in comfort.</cell><cell role="label">below comfort.</cell><cell role="label">above want.</cell><cell role="label">in want.</cell></row>
-    <row role="label"><cell role="label" cols="11">Cultivators:</cell></row>
+    <row role="label" rend="subheader"><cell cols="11">Cultivators:</cell></row>
     <row role="data"><cell>Hindu</cell><cell rend="num">60</cell><cell rend="num">67</cell><cell rend="num">52</cell><cell rend="num">52</cell><cell rend="num">63</cell><cell rend="num">40</cell><cell rend="num">33</cell><cell rend="num">48</cell><cell rend="num">48</cell><cell rend="num">37</cell></row>
     <row role="data"><cell>Muhammadan</cell><cell rend="num">53</cell><cell rend="num">58</cell><cell rend="num">46</cell><cell rend="num">47</cell><cell rend="num">56</cell><cell rend="num">47</cell><cell rend="num">42</cell><cell rend="num">54</cell><cell rend="num">53</cell><cell rend="num">44</cell></row>
     <row role="label" rend="subheader"><cell cols="11">Non-cultivators:</cell></row>
@@ -866,7 +860,7 @@ Taxation</hi> . . . . . . . 113</p>
       <head>Amongst every hundred indebted families, whose debt amounted to</head>
       <row role="label"><cell role="label" rows="2">Amongst</cell><cell role="label" cols="4">about one-quarter of annual income, the following were classified as living</cell><cell role="label" cols="4">between one-quarter and three-quarters of annual income, the following were classified as living</cell><cell role="label" cols="4">between three-quarters and one and a half times annual income, the following were classified as living</cell><cell role="label" cols="4">twice annual income and upwards, the following were classified as living</cell></row>
       <row role="label"><cell role="label">in comfort.</cell><cell role="label">below comfort.</cell><cell role="label">above want.</cell><cell role="label">in want.</cell><cell role="label">in comfort.</cell><cell role="label">below comfort.</cell><cell role="label">above want.</cell><cell role="label">in want.</cell><cell role="label">in comfort.</cell><cell role="label">below comfort.</cell><cell role="label">above want.</cell><cell role="label">in want.</cell><cell role="label">in comfort.</cell><cell role="label">below comfort.</cell><cell role="label">above want.</cell><cell role="label">in want.</cell></row>
-      <row role="label"><cell role="label">Cultivators :</cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell></row>
+      <row role="label" rend="subheader"><cell>Cultivators :</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
       <row role="data"><cell>Hindu</cell><cell rend="num">60½</cell><cell rend="num">27</cell><cell rend="num">10½</cell><cell rend="num">2</cell><cell rend="num">53</cell><cell rend="num">28</cell><cell rend="num">16</cell><cell rend="num">3</cell><cell rend="num">44½</cell><cell rend="num">30</cell><cell rend="num">20½</cell><cell rend="num">5</cell><cell rend="num">41</cell><cell rend="num">28</cell><cell rend="num">23</cell><cell rend="num">8</cell></row>
       <row role="data"><cell>Muhammadan</cell><cell rend="num">58</cell><cell rend="num">28</cell><cell rend="num">12</cell><cell rend="num">2</cell><cell rend="num">49½</cell><cell rend="num">30</cell><cell rend="num">17</cell><cell rend="num">3½</cell><cell rend="num">44</cell><cell rend="num">29</cell><cell rend="num">22</cell><cell rend="num">6</cell><cell rend="num">38</cell><cell rend="num">28</cell><cell rend="num">26</cell><cell rend="num">7½</cell></row>
       <row role="label" rend="subheader"><cell>Non-cultivators :</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
@@ -882,19 +876,19 @@ Taxation</hi> . . . . . . . 113</p>
     <head>TABLE IV VILLAGE TAXATION (CHOKIDARI TAX)</head>
     <row role="label"><cell role="label">Upon families classified as living</cell><cell role="label">Number of families exempted.</cell><cell role="label">Assess- ment per family on families taxed.</cell><cell role="label">Burden on income of families taxed.</cell><cell role="label">Yield of tax.</cell><cell role="label">In whole class (i. e. including families exempted) yield equivalent to tax per family of</cell><cell role="label">In whole class (i. e. including families exempted) yield equivalent to propor- tion of income.</cell></row>
     <row role="label"><cell role="label"></cell><cell role="label">per cent.</cell><cell role="label">R. A.</cell><cell role="label">per cent.</cell><cell role="label">Rs.</cell><cell role="label">R. A.</cell><cell role="label">per cent.</cell></row>
-    <row role="label"><cell role="label">Cultivators :</cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell></row>
-    <row role="data"><cell>in comfort</cell><cell>6·5</cell><cell rend="num">1</cell><cell>0·3</cell><cell rend="num">118,700</cell><cell>0·15</cell><cell>0·27</cell></row>
-    <row role="data"><cell>below comfort</cell><cell>7·3</cell><cell>0·14</cell><cell>0·4</cell><cell rend="num">59,830</cell><cell>0·13</cell><cell>0·34</cell></row>
-    <row role="data"><cell>above want</cell><cell>13·3</cell><cell>0·12</cell><cell>0·5</cell><cell rend="num">29,715</cell><cell>0·10</cell><cell>0·37</cell></row>
-    <row role="data"><cell>in want</cell><cell>34·2</cell><cell>0·10</cell><cell>0·5</cell><cell rend="num">4,236</cell><cell>0·7</cell><cell>0·35</cell></row>
-    <row role="data" rend="subtotal"><cell>Total</cell><cell rend="num">11</cell><cell>0·14 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell>0·39</cell><cell rend="num">212,481</cell><cell>0·13</cell><cell>0·30</cell></row>
+    <row role="label" rend="subheader"><cell>Cultivators :</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
+    <row role="data"><cell>in comfort</cell><cell rend="num">6·5</cell><cell rend="num">1</cell><cell rend="num">0·3</cell><cell rend="num">118,700</cell><cell rend="num">0·15</cell><cell rend="num">0·27</cell></row>
+    <row role="data"><cell>below comfort</cell><cell rend="num">7·3</cell><cell rend="num">0·14</cell><cell rend="num">0·4</cell><cell rend="num">59,830</cell><cell rend="num">0·13</cell><cell rend="num">0·34</cell></row>
+    <row role="data"><cell>above want</cell><cell rend="num">13·3</cell><cell rend="num">0·12</cell><cell rend="num">0·5</cell><cell rend="num">29,715</cell><cell rend="num">0·10</cell><cell rend="num">0·37</cell></row>
+    <row role="data"><cell>in want</cell><cell rend="num">34·2</cell><cell rend="num">0·10</cell><cell rend="num">0·5</cell><cell rend="num">4,236</cell><cell rend="num">0·7</cell><cell rend="num">0·35</cell></row>
+    <row role="data" rend="subtotal"><cell>Total</cell><cell rend="num">11</cell><cell>0·14 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell rend="num">0·39</cell><cell rend="num">212,481</cell><cell rend="num">0·13</cell><cell rend="num">0·30</cell></row>
     <row role="label" rend="subheader"><cell>Non-cultivators :</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
-    <row role="data"><cell>in comfort</cell><cell>9·6</cell><cell>1·6</cell><cell>0·3</cell><cell rend="num">49,507</cell><cell>1·4</cell><cell>0·29</cell></row>
-    <row role="data"><cell>below comfort</cell><cell>13·2</cell><cell>0·15</cell><cell>0·5</cell><cell rend="num">19,559</cell><cell>0·13 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell>0·40</cell></row>
-    <row role="data"><cell>above want</cell><cell>22·6</cell><cell>0·13</cell><cell>0·6</cell><cell rend="num">10,821</cell><cell>0·10</cell><cell>0·43</cell></row>
-    <row role="data"><cell>in want</cell><cell>42·5</cell><cell>0·12</cell><cell>0·8</cell><cell rend="num">2,029</cell><cell>0·7</cell><cell>0·44</cell></row>
-    <row role="data" rend="subtotal"><cell>Total</cell><cell rend="num">15</cell><cell>1·2</cell><cell>0·4</cell><cell rend="num">81,916</cell><cell>0·15</cell><cell>0·32</cell></row>
-    <row role="data" rend="total"><cell>In the whole population</cell><cell rend="num">12</cell><cell>0·15 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell>0·4</cell><cell rend="num">294,397</cell><cell>0·13 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell>0·30</cell></row>
+    <row role="data"><cell>in comfort</cell><cell rend="num">9·6</cell><cell rend="num">1·6</cell><cell rend="num">0·3</cell><cell rend="num">49,507</cell><cell rend="num">1·4</cell><cell rend="num">0·29</cell></row>
+    <row role="data"><cell>below comfort</cell><cell rend="num">13·2</cell><cell rend="num">0·15</cell><cell rend="num">0·5</cell><cell rend="num">19,559</cell><cell>0·13 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell rend="num">0·40</cell></row>
+    <row role="data"><cell>above want</cell><cell rend="num">22·6</cell><cell rend="num">0·13</cell><cell rend="num">0·6</cell><cell rend="num">10,821</cell><cell rend="num">0·10</cell><cell rend="num">0·43</cell></row>
+    <row role="data"><cell>in want</cell><cell rend="num">42·5</cell><cell rend="num">0·12</cell><cell rend="num">0·8</cell><cell rend="num">2,029</cell><cell rend="num">0·7</cell><cell rend="num">0·44</cell></row>
+    <row role="data" rend="subtotal"><cell>Total</cell><cell rend="num">15</cell><cell rend="num">1·2</cell><cell rend="num">0·4</cell><cell rend="num">81,916</cell><cell rend="num">0·15</cell><cell rend="num">0·32</cell></row>
+    <row role="data" rend="total"><cell>In the whole population</cell><cell rend="num">12</cell><cell>0·15 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell rend="num">0·4</cell><cell rend="num">294,397</cell><cell>0·13 <hi rend="sup">1</hi>⁄<hi rend="sub">2</hi></cell><cell rend="num">0·30</cell></row>
   </table>
       </div>
     </body>

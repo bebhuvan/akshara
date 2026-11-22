@@ -2,17 +2,17 @@ book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,1,data,,1,2,Acres. :: lbs.,"34,881",34881.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,1,data,,1,3,Per Acre. :: lbs.,"1,500",1500.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,1,data,,1,4,Total quantity. :: lbs.,"52,321,500",52321500.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,1,data,,1,5,1st sort Price per Re. 1. :: Rs.,5·49,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,1,data,,1,5,1st sort Price per Re. 1. :: Rs.,5·49,5.49,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,1,data,,1,6,Total value.,"95,30,328",9530328.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,2,data,,2,2,Acres. :: lbs.,"1,125",1125.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,2,data,,2,3,Per Acre. :: lbs.,646,646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,2,data,,2,4,Total quantity. :: lbs.,"726,750",726750.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,2,data,,2,5,1st sort Price per Re. 1. :: Rs.,6·68,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,2,data,,2,5,1st sort Price per Re. 1. :: Rs.,6·68,6.68,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,2,data,,2,6,Total value.,"1,08,795",108795.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,3,data,,3,2,Acres. :: lbs.,"14,309",14309.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,3,data,,3,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,3,data,,3,4,Total quantity. :: lbs.,"9,243,614",9243614.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,3,data,,3,5,1st sort Price per Re. 1. :: Rs.,7·03,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,3,data,,3,5,1st sort Price per Re. 1. :: Rs.,7·03,7.03,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,3,data,,3,6,Total value.,"13,14,881",1314881.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,4,data,,4,2,Acres. :: lbs.,34,34.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,4,data,,4,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
@@ -22,62 +22,62 @@ essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,4,data,,4
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,5,data,,5,2,Acres. :: lbs.,"33,324",33324.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,5,data,,5,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,5,data,,5,4,Total quantity. :: lbs.,"21,527,304",21527304.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,5,data,,5,5,1st sort Price per Re. 1. :: Rs.,8·14,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,5,data,,5,5,1st sort Price per Re. 1. :: Rs.,8·14,8.14,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,5,data,,5,6,Total value.,"26,44,631",2644631.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,6,data,,6,2,Acres. :: lbs.,6,6.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,6,data,,6,3,Per Acre. :: lbs.,389,389.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,6,data,,6,4,Total quantity. :: lbs.,"2,334",2334.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,6,data,,6,5,1st sort Price per Re. 1. :: Rs.,6·34,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,6,data,,6,5,1st sort Price per Re. 1. :: Rs.,6·34,6.34,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,6,data,,6,6,Total value.,368,368.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,7,data,,7,2,Acres. :: lbs.,"25,540",25540.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,7,data,,7,3,Per Acre. :: lbs.,280,280.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,7,data,,7,4,Total quantity. :: lbs.,"7,151,200",7151200.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,7,data,,7,5,1st sort Price per Re. 1. :: Rs.,5·83,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,7,data,,7,5,1st sort Price per Re. 1. :: Rs.,5·83,5.83,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,7,data,,7,6,Total value.,"12,26,620",1226620.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,8,data,,8,2,Acres. :: lbs.,"14,400",14400.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,8,data,,8,3,Per Acre. :: lbs.,661,661.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,8,data,,8,4,Total quantity. :: lbs.,"9,518,400",9518400.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,8,data,,8,5,1st sort Price per Re. 1. :: Rs.,6·86,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,8,data,,8,5,1st sort Price per Re. 1. :: Rs.,6·86,6.86,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,8,data,,8,6,Total value.,"13,87,521",1387521.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,9,data,,10,2,Acres. :: lbs.,"43,963",43963.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,9,data,,10,3,Per Acre. :: lbs.,531,531.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,9,data,,10,4,Total quantity. :: lbs.,"23,344,353",23344353.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,9,data,,10,5,1st sort Price per Re. 1. :: Rs.,6·51,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,9,data,,10,5,1st sort Price per Re. 1. :: Rs.,6·51,6.51,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,9,data,,10,6,Total value.,"35,85,922",3585922.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,10,data,,11,2,Acres. :: lbs.,"42,015",42015.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,10,data,,11,3,Per Acre. :: lbs.,597,597.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,10,data,,11,4,Total quantity. :: lbs.,"25,082,955",25082955.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,10,data,,11,5,1st sort Price per Re. 1. :: Rs.,6·51,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,10,data,,11,5,1st sort Price per Re. 1. :: Rs.,6·51,6.51,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,10,data,,11,6,Total value.,"38,52,988",3852988.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,11,data,,12,2,Acres. :: lbs.,"8,139",8139.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,11,data,,12,3,Per Acre. :: lbs.,494,494.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,11,data,,12,4,Total quantity. :: lbs.,"4,020,666",4020666.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,11,data,,12,5,1st sort Price per Re. 1. :: Rs.,6·43,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,11,data,,12,5,1st sort Price per Re. 1. :: Rs.,6·43,6.43,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,11,data,,12,6,Total value.,"6,25,297",625297.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,12,data,,13,2,Acres. :: lbs.,"36,579",36579.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,12,data,,13,3,Per Acre. :: lbs.,646,646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,12,data,,13,4,Total quantity. :: lbs.,"23,630,034",23630034.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,12,data,,13,5,1st sort Price per Re. 1. :: Rs.,7·11,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,12,data,,13,5,1st sort Price per Re. 1. :: Rs.,7·11,7.11,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,12,data,,13,6,Total value.,"33,23,492",3323492.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,13,data,,14,2,Acres. :: lbs.,"41,375",41375.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,13,data,,14,3,Per Acre. :: lbs.,360,360.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,13,data,,14,4,Total quantity. :: lbs.,"14,895,000",14895000.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,13,data,,14,5,1st sort Price per Re. 1. :: Rs.,5·65,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,13,data,,14,5,1st sort Price per Re. 1. :: Rs.,5·65,5.65,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,13,data,,14,6,Total value.,"26,36,283",2636283.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,14,data,,15,2,Acres. :: lbs.,"29,009",29009.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,14,data,,15,3,Per Acre. :: lbs.,646,646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,14,data,,15,4,Total quantity. :: lbs.,"18,739,814",18739814.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,14,data,,15,5,1st sort Price per Re. 1. :: Rs.,6·51,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,14,data,,15,5,1st sort Price per Re. 1. :: Rs.,6·51,6.51,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,14,data,,15,6,Total value.,"28,78,619",2878619.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,15,data,,16,2,Acres. :: lbs.,"2,527",2527.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,15,data,,16,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,15,data,,16,4,Total quantity. :: lbs.,"1,632,442",1632442.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,15,data,,16,5,1st sort Price per Re. 1. :: Rs.,5·65,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,15,data,,16,5,1st sort Price per Re. 1. :: Rs.,5·65,5.65,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,15,data,,16,6,Total value.,"2,88,927",288927.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,16,data,,17,2,Acres. :: lbs.,"26,625",26625.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,16,data,,17,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,16,data,,17,4,Total quantity. :: lbs.,"17,199,750",17199750.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,16,data,,17,5,1st sort Price per Re. 1. :: Rs.,7·2,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,16,data,,17,5,1st sort Price per Re. 1. :: Rs.,7·2,7.2,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,16,data,,17,6,Total value.,"25,27,743",2527743.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,17,data,,18,2,Acres. :: lbs.,"1,916",1916.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,17,data,,18,3,Per Acre. :: lbs.,410,410.0,acres,False,False
@@ -87,17 +87,17 @@ essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,17,data,,
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,18,data,,19,2,Acres. :: lbs.,"2,381",2381.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,18,data,,19,3,Per Acre. :: lbs.,646,646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,18,data,,19,4,Total quantity. :: lbs.,"1,538,126",1538126.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,18,data,,19,5,1st sort Price per Re. 1. :: Rs.,6·34,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,18,data,,19,5,1st sort Price per Re. 1. :: Rs.,6·34,6.34,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,18,data,,19,6,Total value.,"2,42,606",242606.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,19,data,,20,2,Acres. :: lbs.,414,414.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,19,data,,20,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,19,data,,20,4,Total quantity. :: lbs.,"267,444",267444.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,19,data,,20,5,1st sort Price per Re. 1. :: Rs.,5·83,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,19,data,,20,5,1st sort Price per Re. 1. :: Rs.,5·83,5.83,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,19,data,,20,6,Total value.,"45,873",45873.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,20,data,,21,2,Acres. :: lbs.,"7,221",7221.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,20,data,,21,3,Per Acre. :: lbs.,660,660.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,20,data,,21,4,Total quantity. :: lbs.,"4,765,860",4765860.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,20,data,,21,5,1st sort Price per Re. 1. :: Rs.,6·51,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,20,data,,21,5,1st sort Price per Re. 1. :: Rs.,6·51,6.51,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,20,data,,21,6,Total value.,"7,32,082",732082.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,21,data,,22,2,Acres. :: lbs.,"1,312",1312.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,21,data,,22,3,Per Acre. :: lbs.,646,646.0,acres,False,False
@@ -107,52 +107,52 @@ essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,21,data,,
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,22,data,,23,2,Acres. :: lbs.,"3,726",3726.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,22,data,,23,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,22,data,,23,4,Total quantity. :: lbs.,"2,406,996",2406996.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,22,data,,23,5,1st sort Price per Re. 1. :: Rs.,6·17,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,22,data,,23,5,1st sort Price per Re. 1. :: Rs.,6·17,6.17,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,22,data,,23,6,Total value.,"3,90,112",390112.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,23,data,,24,2,Acres. :: lbs.,260,260.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,23,data,,24,3,Per Acre. :: lbs.,261,261.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,23,data,,24,4,Total quantity. :: lbs.,"67,860",67860.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,23,data,,24,5,1st sort Price per Re. 1. :: Rs.,5·91,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,23,data,,24,5,1st sort Price per Re. 1. :: Rs.,5·91,5.91,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,23,data,,24,6,Total value.,"11,482",11482.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,24,data,,25,2,Acres. :: lbs.,113,113.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,24,data,,25,3,Per Acre. :: lbs.,646,646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,24,data,,25,4,Total quantity. :: lbs.,"72,998",72998.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,24,data,,25,5,1st sort Price per Re. 1. :: Rs.,6·17,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,24,data,,25,5,1st sort Price per Re. 1. :: Rs.,6·17,6.17,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,24,data,,25,6,Total value.,"11,831",11831.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,25,data,,26,2,Acres. :: lbs.,"4,355",4355.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,25,data,,26,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,25,data,,26,4,Total quantity. :: lbs.,"2,813,330",2813330.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,25,data,,26,5,1st sort Price per Re. 1. :: Rs.,5·83,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,25,data,,26,5,1st sort Price per Re. 1. :: Rs.,5·83,5.83,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,25,data,,26,6,Total value.,"4,82,560",482560.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,26,data,,27,2,Acres. :: lbs.,88,88.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,26,data,,27,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,26,data,,27,4,Total quantity. :: lbs.,"56,848",56848.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,26,data,,27,5,1st sort Price per Re. 1. :: Rs.,5·65,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,26,data,,27,5,1st sort Price per Re. 1. :: Rs.,5·65,5.65,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,26,data,,27,6,Total value.,"10,061",10061.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,27,data,,28,2,Acres. :: lbs.,55,55.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,27,data,,28,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,27,data,,28,4,Total quantity. :: lbs.,"35,530",35530.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,27,data,,28,5,1st sort Price per Re. 1. :: Rs.,5·23,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,27,data,,28,5,1st sort Price per Re. 1. :: Rs.,5·23,5.23,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,27,data,,28,6,Total value.,"6,793",6793.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,28,data,,29,2,Acres. :: lbs.,"5,443",5443.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,28,data,,29,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,28,data,,29,4,Total quantity. :: lbs.,"3,516,178",3516178.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,28,data,,29,5,1st sort Price per Re. 1. :: Rs.,5·36,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,28,data,,29,5,1st sort Price per Re. 1. :: Rs.,5·36,5.36,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,28,data,,29,6,Total value.,"6,56,003",656003.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,29,data,,30,2,Acres. :: lbs.,"9,914",9914.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,29,data,,30,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,29,data,,30,4,Total quantity. :: lbs.,"6,404,444",6404444.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,29,data,,30,5,1st sort Price per Re. 1. :: Rs.,6·08,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,29,data,,30,5,1st sort Price per Re. 1. :: Rs.,6·08,6.08,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,29,data,,30,6,Total value.,"10,53,362",1053362.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,30,data,,31,2,Acres. :: lbs.,561,561.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,30,data,,31,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,30,data,,31,4,Total quantity. :: lbs.,"362,406",362406.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,30,data,,31,5,1st sort Price per Re. 1. :: Rs.,5·49,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,30,data,,31,5,1st sort Price per Re. 1. :: Rs.,5·49,5.49,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,30,data,,31,6,Total value.,"66,022",66022.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,31,data,,32,2,Acres. :: lbs.,20,20.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,31,data,,32,3,Per Acre. :: lbs.,"""",646.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,31,data,,32,4,Total quantity. :: lbs.,"12,920",12920.0,lbs,False,False
-essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,31,data,,32,5,1st sort Price per Re. 1. :: Rs.,5·74,,Rs,False,False
+essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,31,data,,32,5,1st sort Price per Re. 1. :: Rs.,5·74,5.74,Rs,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,31,data,,32,6,Total value.,"2,250",2250.0,,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,32,total,,Total,2,Acres. :: lbs.,"391,630",391630.0,acres,False,False
 essays-speeches-addresses-writings-naoroji-1887,tbl-120,Sugar.,451,432,32,total,,Total,3,Per Acre. :: lbs.,Average 646,,acres,False,False

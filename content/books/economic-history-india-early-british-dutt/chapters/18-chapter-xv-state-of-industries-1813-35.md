@@ -6,12 +6,13 @@ weight: 18
 start_page: 298
 end_page: 318
 printed_start_folio: "270"
+printed_end_folio: "290"
 reading_time: 29
 footnotes_count: 26
 tables_count: 0
 book_id: "economic-history-india-early-british-dutt"
 archive_id: "ed2economichisto00dutt"
-edition_tier: "machine_checked"
+edition_tier: "community"
 edition_generation: "v6"
 proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/economic-history-india-early-british-dutt/298"

@@ -15,7 +15,7 @@
         <edition n="community">Akshara Community Edition</edition>
         <respStmt>
           <resp>Provenance accounting</resp>
-          <name>651 extracted leaves · 3 re-read against the scan · 0 verified by a person</name>
+          <name>651 extracted leaves · 4 re-read against the scan · 0 verified by a person</name>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -1124,8 +1124,7 @@ At the Ballantyne Press</p>
             <head><hi rend="smallcaps">Sugar and Coffee Committee.</hi></head>
             <p>A Select Committee of the House of Commons was appointed in 1848, with Lord George Bentinck as the Chairman, to inquire into the condition and prospects of “ Sugar and Coffee Planting in Her Majesty’s East and West Indian Possessions and the Mauritius.” The Committee examined many witnesses, and submitted their evidence with eight reports, covering over two thousand printed folio pages. Lord Palmerston was the first witness examined, but had little to say directly about the trade of India. John Bagshaw, a Member of Parliament, was examined on the same day, and dwelt at length on the many disadvantages under which India suffered in competing with other British Possessions.</p>
             <p>“ <hi rend="italic">First</hi>: Three millions sterling and upward annually taken from the revenue of India towards the payment of the Home Charges of the East India Company, without any return whatever;</p>
-            <p>“ <hi rend="italic">Second</hi>: Fortunes accumulated in India by the Civil and Military Services, seldom if any remaining in that country annually increase the capital of Great Britain from the resources of India; “ <hi rend="italic">Third</hi>: The well-known fact that of the revenue</p>
-            <p>raised in British India, the largest portion of it is from the land, by which its produce is necessarily burdened; this amounts to nearly thirteen and a half millions sterling;</p>
+            <p>“ <hi rend="italic">Second</hi>: Fortunes accumulated in India by the Civil and Military Services, seldom if any remaining in that country annually increase the capital of Great Britain from the resources of India; “ <hi rend="italic">Third</hi>: The well-known fact that of the revenue raised in British India, the largest portion of it is from the land, by which its produce is necessarily burdened; this amounts to nearly thirteen and a half millions sterling;</p>
             <p>“ <hi rend="italic">Fourth</hi>: The difficulties which importers are subject <pb xml:id="page-154" n="126" facs="https://archive.org/download/indiainvictorian00duttuoft/page/n153_w1400.jpg"/> to from the way in which duties are levied at the Custom Houses of England." <ref xml:id="ref-sec-11-fn-001" type="noteref" target="#sec-11-fn-001">1</ref></p>
             <p>John Bagshaw deplored the extinction of the cotton manufactures of India within the preceding thirty years. In 1816–17 "India not only clothed the whole of that vast population, but exported £1,659,438 worth of goods." Thirty years later the whole of this export had disappeared, and India imported four millions sterling of cotton goods. "The people of India might buy British manufactures which were imported into India at a duty of 2½ per cent., but the manufacturers of India were entirely precluded from getting their goods into consumption here by the prohibitory duty which was exacted."</p>
             <p>Sugar was not produced in England, and some healthy change in the tariffs with regard to this article had therefore been permitted. The result was marked and instantaneous. "There has been no instance of such growth," said Bagshaw, quoting from an Indian newspaper, "in any article of commerce at any preceding period. There has been no development of the resources of India to be compared with this sudden increase. Last year we [India] supplied England with one-fourth the sugar she consumed; and there can be no doubt that India would in time be able to supply the whole of the home demand." It is needless to add that this hope was never realised; and sugar manufacture declined during the last half of the nineteenth century with almost every other manufacture.</p>
@@ -3681,7 +3680,7 @@ At the Ballantyne Press</p>
         <row role="data"><cell>A</cell><cell>50 × 32 =</cell><cell rend="num">1600</cell></row>
         <row role="data"><cell>B</cell><cell>75 × 16 =</cell><cell rend="num">1200</cell></row>
         <row role="data"><cell>C</cell><cell>25 ×   4 =</cell><cell rend="num">100</cell></row>
-        <row role="data" rend="total"><cell rend="num">2900</cell></row>
+        <row role="data" rend="total"><cell></cell><cell></cell><cell rend="num">2900</cell></row>
       </table>
             <pb xml:id="page-514" n="486" facs="https://archive.org/download/indiainvictorian00duttuoft/page/n513_w1400.jpg"/>
             <p>and Patwaris, getting three shillings to six shillings a week, are expected to work according to these impossible inductive and deductive rules! As a matter of fact, they vaguely imagine that the Government wants an increase in rental, and they secure one. Two or three Assistant Settlement Officers in a District cannot efficiently check the work of Patels and Patwaris over thousands of square miles. The fixing of the rent is therefore often a poor guess work, and the mistakes are against the cultivator. And the cultivator has no independent Land Court to appeal to against the finding of the official paid three to six shillings a week.</p>
@@ -4826,23 +4825,17 @@ At the Ballantyne Press</p>
       <item>Better Government of India, 229,<lb/>230</item>
       <item>Coinage, 579</item>
       <item>Cotton Duties (1896), 543</item>
-      <item>India Councils, 446</item>
-      <item>—— (Pitt, 1774), 113, 180</item>
-      <item>—— (1833), 188, 192</item>
+      <item>India Councils, 446<lb/>—— (Pitt, 1774), 113, 180<lb/>—— (1833), 188, 192</item>
       <item>Jaigirs Descent, 471</item>
-      <item>Land Alienation, 471</item>
-      <item>—— Revenue, 268, 269, 270, 490,<lb/>494, 495</item>
-      <item>Rent, Bengal, 241, 263, 437, 501</item>
-      <item>—— Oudh, 268, 470, 501</item>
-      <item>—— Punjab, 501</item>
+      <item>Land Alienation, 471<lb/>—— Revenue, 268, 269, 270, 490,<lb/>494, 495</item>
+      <item>Rent, Bengal, 241, 263, 437, 501<lb/>—— Oudh, 268, 470, 501<lb/>—— Punjab, 501</item>
       <item>Revenue Jurisdiction, 490</item>
       <item>Tariff, 337, 402–415, 538, 541</item>
       <item>Tenancy, 270, 471, 476, 478,<lb/>479, 487</item>
       <item>Vernacular Press, 433, 434</item>
       <item>Aden, 558, 559, 560</item>
       <item>Administration (E. I. Co.), 179–209</item>
-      <item>Afghanistan, 6–12, 84, 218, 231, 248–<lb/>261, 375, 412, 420–424, 427–<lb/>432, 433, 441, 445, 555</item>
-      <item>—— <hi rend="italic">History of War in</hi> (Kaye), 9</item>
+      <item>Afghanistan, 6–12, 84, 218, 231, 248–<lb/>261, 375, 412, 420–424, 427–<lb/>432, 433, 441, 445, 555<lb/>—— <hi rend="italic">History of War in</hi> (Kaye), 9</item>
       <item><hi rend="italic">Afghan War, Second</hi> (Hanna), 432</item>
       <item>Afridi War, 454</item>
       <item>Agra, 33, 37, 41, 46, 189, 199, 273,<lb/>470, 471, 485, 610</item>
@@ -4858,15 +4851,13 @@ At the Ballantyne Press</p>
       <item>Arabi Pasha, 441</item>
       <item>Arbitration, Court of, 560–561</item>
       <item>Arbuthnot, Sir Alex., 414</item>
-      <item>Arcot, N., 70, 71, 75, 94, 176</item>
-      <item>—— S., 70, 172, 309, 316</item>
+      <item>Arcot, N., 70, 71, 75, 94, 176<lb/>—— S., 70, 172, 309, 316</item>
       <item>Area, Brit. India, 602; Nat. States,<lb/>603</item>
       <item>Argentine Republic, 547</item>
       <item>Argyll, Duke of, 248, 260, 390, 397,<lb/>405, 497, 499, 502</item>
       <item>Asia, Central, 105, 249, 420, 445,<lb/>456, 558</item>
       <item>Assam, 102, 105, 143, 144, 352, 519,<lb/>521, 522, 526, 527</item>
-      <item>Association, British Indian, 155,<lb/>186</item>
-      <item>—— Indian Reform, 27</item>
+      <item>Association, British Indian, 155,<lb/>186<lb/>—— Indian Reform, 27</item>
       <item>Atta Muhammad, 422, 423, 428</item>
       <item>Auckland, Lord, 3–12, 14, 88, 152,<lb/>167, 181, 202, 212, 217</item>
       <item>Ava, 24, 443, 444</item>
@@ -4874,9 +4865,7 @@ At the Ballantyne Press</p>
       <item>Aylwin, D. C., 145</item>
       <item><hi rend="smallcaps">Backergunj</hi>, 605, 606</item>
       <item>Bagshaw, John, M.P., 125, 126</item>
-      <item>Balfour, Arthur, M.P., 579</item>
-      <item>—— General Sir George, 364</item>
-      <item>—— Lady Betty, 426</item>
+      <item>Balfour, Arthur, M.P., 579<lb/>—— General Sir George, 364<lb/>—— Lady Betty, 426</item>
       <item>Ballantyne, Sergeant, 259</item>
       <item>Banda, 610</item>
       <item>Bandelkhand, 553</item>
@@ -4884,8 +4873,7 @@ At the Ballantyne Press</p>
       <item>Baraka Ores, 526</item>
       <item>Bareili, 39, 41, 46, 611</item>
       <item>Baring, Sir Evelyn, <hi rend="italic">see Cromer</hi></item>
-      <item>Baroda, 32, 177, 556</item>
-      <item>—— Gaekwar of, 258, 556</item>
+      <item>Baroda, 32, 177, 556<lb/>—— Gaekwar of, 258, 556</item>
       <item>Bazley, Thomas, 131, 132</item>
       <item>Beadon, Cecil, 280, 281</item>
       <item>Behar, 279, 460</item>
@@ -4896,19 +4884,11 @@ At the Ballantyne Press</p>
           <pb xml:id="page-647" n="619" facs="https://archive.org/download/indiainvictorian00duttuoft/page/n646_w1400.jpg"/>
           <list type="index">
       <item>Benares, 20, 33, 40, 41, 46, 100, 107,<lb/>    154, 198, 279</item>
-      <item>Bengal, 33, 93-526, <hi rend="italic">passim</hi></item>
-      <item>—— British Indian Association, 186,<lb/>    192</item>
-      <item>—— <hi rend="italic">Journal</hi>, 205</item>
-      <item>—— Land Administration, 460-462</item>
-      <item>—— Land Reform, 263-264</item>
-      <item>—— Permanent Settlement, 33-35.<lb/>    <hi rend="italic">See Land</hi></item>
-      <item>—— Rent Act, <hi rend="italic">see Act</hi></item>
-      <item>Bentinck, Lord George, 125</item>
-      <item>—— Lord William, 3, 4, 27, 30,<lb/>    34, 88, 102, 103, 110, 133, 134,<lb/>    188, 189, 201, 202, 207, 208, 212,<lb/>    216, 241, 242, 245, 378, 395, 434,<lb/>    439, 510</item>
+      <item>Bengal, 33, 93-526, <hi rend="italic">passim</hi><lb/>—— British Indian Association, 186,<lb/>    192<lb/>—— <hi rend="italic">Journal</hi>, 205<lb/>—— Land Administration, 460-462<lb/>—— Land Reform, 263-264<lb/>—— Permanent Settlement, 33-35.<lb/>    <hi rend="italic">See Land</hi><lb/>—— Rent Act, <hi rend="italic">see Act</hi></item>
+      <item>Bentinck, Lord George, 125<lb/>—— Lord William, 3, 4, 27, 30,<lb/>    34, 88, 102, 103, 110, 133, 134,<lb/>    188, 189, 201, 202, 207, 208, 212,<lb/>    216, 241, 242, 245, 378, 395, 434,<lb/>    439, 510</item>
       <item>Berar, 29, 31, 291, 346, 553</item>
       <item>Bernard, Sir Charles, 557</item>
-      <item>Bethune, Drinkwater, 192, 204</item>
-      <item>—— School, 204</item>
+      <item>Bethune, Drinkwater, 192, 204<lb/>—— School, 204</item>
       <item>Bhutan State, 246</item>
       <item>Bhamo, 444</item>
       <item>Bharat Pal, 26</item>
@@ -4917,19 +4897,15 @@ At the Ballantyne Press</p>
       <item>Blaine, Lieut., 167</item>
       <item>Bokhara, 8</item>
       <item>Bolan Pass, 423, 431</item>
-      <item>Bombay, 4, 25, 49, <hi rend="italic">passim</hi></item>
-      <item>—— Land Settlements, <hi rend="italic">see Land</hi></item>
-      <item>—— Native Association, 186</item>
+      <item>Bombay, 4, 25, 49, <hi rend="italic">passim</hi><lb/>—— Land Settlements, <hi rend="italic">see Land</hi><lb/>—— Native Association, 186</item>
       <item>Bonnerjea, W. C., 445</item>
       <item>Bose, Hon. B. K., 482, 483</item>
-      <item>Bourdillon, Mr., 71, 75</item>
-      <item>—— on Madras Ryot, 71-73</item>
+      <item>Bourdillon, Mr., 71, 75<lb/>—— on Madras Ryot, 71-73</item>
       <item>Bowden, Mr., 320</item>
       <item>Brackenbury, Sir Henry: Evidence,<lb/>    Expend. Com., 566-568, 576</item>
       <item>Bradlaugh, Charles, M.P., 449</item>
       <item>Briggs, Major-General, 133, 134</item>
-      <item>Bright, Dr. Frank, 224</item>
-      <item>—— John, M.P., 73, 129, 138,<lb/>    139, 141, 143, 217, 219, 221,<lb/>    346, 363, 364, 370</item>
+      <item>Bright, Dr. Frank, 224<lb/>—— John, M.P., 73, 129, 138,<lb/>    139, 141, 143, 217, 219, 221,<lb/>    346, 363, 364, 370</item>
       <item>Bristol, Chamber of Commerce, 149</item>
       <item>Broach, 132, 134</item>
       <item>Brocklehurst, Mr., 99, 109-113, 119-<lb/>    122</item>
@@ -4943,19 +4919,12 @@ At the Ballantyne Press</p>
       <item>Burma, 24, 31, 181-184, 231, 255,<lb/>    256, 412, 442, 443, 526, 527, 539,<lb/>    550</item>
       <item>Burnes, Sir Alexander, 9, 430</item>
       <item><hi rend="smallcaps">Caine</hi>, W. S., M.P., 557, 559</item>
-      <item>Calcutta, 10, 15, 104-606, <hi rend="italic">passim</hi></item>
-      <item>—— <hi rend="italic">Journal</hi>, 206</item>
-      <item>—— Municipality, 457, 458</item>
-      <item>—— <hi rend="italic">Review</hi>, 167</item>
+      <item>Calcutta, 10, 15, 104-606, <hi rend="italic">passim</hi><lb/>—— <hi rend="italic">Journal</hi>, 206<lb/>—— Municipality, 457, 458<lb/>—— <hi rend="italic">Review</hi>, 167</item>
       <item>Cameron, Hay, 180, 187, 192, 201</item>
-      <item>Campbell, Capt. Walter, 70</item>
-      <item>—— Sir George, 73, 179, 364, 397</item>
+      <item>Campbell, Capt. Walter, 70<lb/>—— Sir George, 73, 179, 364, 397</item>
       <item>Canals, 167, 168, 169, 170, 365, 367,<lb/>    368</item>
       <item>Canara, 75, 318, 319, 495, 496</item>
-      <item>Canning, George, 244</item>
-      <item>—— Lord, x., xi., 13, 88-510,<lb/>    <hi rend="italic">passim</hi></item>
-      <item>—— Administration, 239-244</item>
-      <item>—— Lady, 240, 241</item>
+      <item>Canning, George, 244<lb/>—— Lord, x., xi., 13, 88-510,<lb/>    <hi rend="italic">passim</hi><lb/>—— Administration, 239-244<lb/>—— Lady, 240, 241</item>
       <item>Canora, Colonel, 21, 22</item>
       <item>Cantley, Captain, 167</item>
       <item>Canton, 100</item>
@@ -4966,11 +4935,7 @@ At the Ballantyne Press</p>
       <item>Cay, Mr., 383</item>
       <item>Cawnpur, 36, 41, 46, 240</item>
       <item>Ceded Districts, the, 313</item>
-      <item>Central Provinces, 27, 49-610, <hi rend="italic">passim</hi></item>
-      <item>—— Administration, 472-488</item>
-      <item>—— Land Settlements, <hi rend="italic">see Land</hi></item>
-      <item>—— Settlement Code, 485</item>
-      <item>—— Tenancy Act, <hi rend="italic">see Act</hi></item>
+      <item>Central Provinces, 27, 49-610, <hi rend="italic">passim</hi><lb/>—— Administration, 472-488<lb/>—— Land Settlements, <hi rend="italic">see Land</hi><lb/>—— Settlement Code, 485<lb/>—— Tenancy Act, <hi rend="italic">see Act</hi></item>
       <item>Cesses, local, on land, <hi rend="italic">see Land</hi></item>
       <item>Ceylon, 560</item>
       <item>Chamberlain, Sir Neville, 429</item>
@@ -4981,8 +4946,7 @@ At the Ballantyne Press</p>
       <item>Chatterjea, B. C., 242</item>
       <item>Chesney, Lieutenant-Colonel, 355</item>
       <item>Chilianwalla, 22, 23, 85</item>
-      <item>China, 100, 154, 155, 218, 244, 375,<lb/>    386, 444, 452, 453, 522, 588, 590,<lb/>    608</item>
-      <item>—— Association, 108, 185</item>
+      <item>China, 100, 154, 155, 218, 244, 375,<lb/>    386, 444, 452, 453, 522, 588, 590,<lb/>    608<lb/>—— Association, 108, 185</item>
       <item>Chisholm, Mr., 304</item>
       <item>Chitral, 424, 450, 454</item>
     </list>
@@ -4998,29 +4962,19 @@ At the Ballantyne Press</p>
       <item>Clive, Lord, 224</item>
       <item>Cobden, Richard, 60, 129, 179, 239</item>
       <item>Coconada, 367</item>
-      <item>Code, Civil, 192, 193, 242</item>
-      <item>—— Criminal, 192, 193, 242</item>
-      <item>—— Penal, 192, 193, 242</item>
-      <item>—— Revenue, 334, 335</item>
+      <item>Code, Civil, 192, 193, 242<lb/>—— Criminal, 192, 193, 242<lb/>—— Penal, 192, 193, 242<lb/>—— Revenue, 334, 335</item>
       <item>Coimbatur, 71, 367</item>
       <item>Coleroon, 171, 172</item>
       <item>Colley, Colonel, 423</item>
-      <item>Colvin, Sir Auckland, 329–333, 447,<lb/>489, 490, 557, 574</item>
-      <item>—— Evidence, Expend. Com., 568</item>
-      <item>—— Colonel John, 167</item>
-      <item>Commission, Expenditure (1895),<lb/>555–577</item>
-      <item>—— Famine, 369, 492</item>
-      <item>—— Madras Land, 74–76</item>
-      <item>—— Public Service, 577</item>
+      <item>Colvin, Sir Auckland, 329–333, 447,<lb/>489, 490, 557, 574<lb/>—— Evidence, Expend. Com., 568<lb/>—— Colonel John, 167</item>
+      <item>Commission, Expenditure (1895),<lb/>555–577<lb/>—— Famine, 369, 492<lb/>—— Madras Land, 74–76<lb/>—— Public Service, 577</item>
       <item>Commons, House of, 27, 34–598,<lb/><hi rend="italic">passim</hi><lb/>—— Select Committees, 34, 35, 53,<lb/>59, 61, 78, 79, 99–123, 125–142,<lb/>143, 144, 145, 150, 152, 153, 173,<lb/>177, 179–209, 311, 329, 337, 339,<lb/>340, 342, 353, 360, 365–370,<lb/>376–389, 432, 467, 491, 497,<lb/>555</item>
       <item><hi rend="italic">Condemned Unheard</hi> (Digby), 447,<lb/>448</item>
       <item>Congress, National Indian, 445</item>
       <item>Control, Board of, 4, 5, 10, 100, 180–<lb/>185, 207, 210, 226, 229, 231,<lb/>245, 265</item>
       <item>Cope, Thomas, 119, 120</item>
       <item>Cornwallis, Lord, 38, 89, 190, 198,<lb/>205, 263, 280, 391, 396, 509</item>
-      <item>Cotton, Sir Arthur, 71, 137, 171,<lb/>172, 360–370, 382, 432, 545,<lb/>546, 550</item>
-      <item>—— <hi rend="italic">Life of</hi> (Lady Hope), 172, 173,<lb/>363</item>
-      <item>—— Sir Henry, 480, 522</item>
+      <item>Cotton, Sir Arthur, 71, 137, 171,<lb/>172, 360–370, 382, 432, 545,<lb/>546, 550<lb/>—— <hi rend="italic">Life of</hi> (Lady Hope), 172, 173,<lb/>363<lb/>—— Sir Henry, 480, 522</item>
       <item>Cooper's Hill College, 355</item>
       <item>Courtney, Leonard, 557</item>
       <item>Courts, High, 243</item>
@@ -5028,13 +4982,11 @@ At the Ballantyne Press</p>
       <item>Cranborne, Lord, <hi rend="italic">see</hi> Salisbury</item>
       <item>Cranbrook, Lord, 432, 579</item>
       <item>Crawford, Robert, 132</item>
-      <item>Cromer, Lord (Sir Evelyn Baring),<lb/>258, 537, 538, 557, 603</item>
-      <item>—— Evidence, Expend. Com., 560–<lb/>561</item>
+      <item>Cromer, Lord (Sir Evelyn Baring),<lb/>258, 537, 538, 557, 603<lb/>—— Evidence, Expend. Com., 560–<lb/>561</item>
       <item>Cross, Lord, 449</item>
       <item>Currie, Sir Frederick, 18, 19, 26,<lb/>225, 393</item>
       <item>Currency Committee (1898), 358,<lb/>578–591</item>
-      <item>Curzon, Lord, 456, 457, 464, 465,<lb/>482, 522, 535, 557, 597, 598,<lb/>603</item>
-      <item>—— Land Resolutions, 503–516</item>
+      <item>Curzon, Lord, 456, 457, 464, 465,<lb/>482, 522, 535, 557, 597, 598,<lb/>603<lb/>—— Land Resolutions, 503–516</item>
       <item>DACCA, 105, 112, 114</item>
       <item>Dalhousie, Lord, 12, 14, 18, 19, 32,<lb/>82–90, 146, 168, 169, 175, 212,<lb/>213, 218, 220, 223, 244, 264, 268,<lb/>269, 291, 297, 310, 391, 400, 435,<lb/>597</item>
       <item>Danvers, Sir Juland, 75, 176, 353</item>
@@ -5044,8 +4996,7 @@ At the Ballantyne Press</p>
       <item>Davies, Mr., 132</item>
       <item>Deb, Radha Kant, 201</item>
       <item>Debt, Indian, xv., 210–221, 371–387,<lb/>555</item>
-      <item>Deccan, 25, 50, 52, 55, 58, 170, 329,<lb/>609</item>
-      <item>—— Relief Act, 333, 335</item>
+      <item>Deccan, 25, 50, 52, 55, 58, 170, 329,<lb/>609<lb/>—— Relief Act, 333, 335</item>
       <item>Decentralisation Scheme, 257, 399,<lb/>515</item>
       <item>Delhi, v., 33, 36, 41, 46, 90, 167, 177,<lb/>199, 200, 223, 273, 345, 424, 426,<lb/>427, 459, 605, 606, 609, 615</item>
       <item>Denison, Sir Wm., 310</item>
@@ -5054,8 +5005,7 @@ At the Ballantyne Press</p>
       <item>Dickinson, John, 27</item>
       <item>Digby, Wm., C.I.E., 447, 448, 609</item>
       <item>Disraeli, Benj. (Lord Beaconsfield),<lb/>227, 228, 229, 239, 247, 252, 406,<lb/>410, 420, 424, 425, 428, 431, 442</item>
-      <item>Directors, Court of, 3, 4, 5–489,<lb/><hi rend="italic">passim</hi></item>
-      <item>—— Secret Committee, 7, 8, 17, 229,<lb/>266</item>
+      <item>Directors, Court of, 3, 4, 5–489,<lb/><hi rend="italic">passim</hi><lb/>—— Secret Committee, 7, 8, 17, 229,<lb/>266</item>
       <item>Doars, the, 246</item>
       <item>Dost Muhammad, 6, 7, 8, 9, 249, 430</item>
       <item>Drain, Economic, from India, xvii.,<lb/>126, 127, 140, 213, 348, 349, 528,<lb/>612</item>
@@ -5084,16 +5034,14 @@ At the Ballantyne Press</p>
       <item>Elgin, Lord, 103, 244, 245, 246, 538, 540, 543, 583<lb/>—— Administration, 452-456</item>
       <item>Ellenborough, Lord, 3, 9, 10, 11, 12, 14, 123, 168, 179, 186, 201, 202, 212, 217, 265, 266, 267</item>
       <item>Elliot, Mr., 74</item>
-      <item>Elliott, Sir Charles, 292</item>
-      <item>—— Col., 298, 301</item>
+      <item>Elliott, Sir Charles, 292<lb/>—— Col., 298, 301</item>
       <item>Ellis, Sir Barrow, 253, 409</item>
       <item>Elphinstone, Lord, 4, 50, 51, 88, 133, 179, 186, 197, 200, 203, 439</item>
       <item>“ —— <hi rend="italic">and the Making of South-Western India</hi> (J. S. Cotton), 200</item>
       <item><hi rend="italic">Europe and Asia</hi> (Townsend), 440</item>
       <item>Ewart, Wm., M.P., 315</item>
       <item><hi rend="italic">Expansion of England</hi> (Seeley), 31</item>
-      <item>Expenditure (table), 373</item>
-      <item>—— Royal Commission on, xviii., 555-577</item>
+      <item>Expenditure (table), 373<lb/>—— Royal Commission on, xviii., 555-577</item>
       <item>Exports, 342-352. See <hi rend="italic">Duties, Tariffs</hi></item>
       <item><hi rend="smallcaps">Faiz Muhammad</hi>, 429</item>
       <item>Famine, <hi rend="italic">1833</hi>, 60, 70; <hi rend="italic">1837</hi>, 273, 274, 427; <hi rend="italic">1860</hi>, 273, 274, 427; <hi rend="italic">1866</hi>, 246, 258, 427; <hi rend="italic">1877</hi>, 319, 349, 362, 369, 410, 416, 427, 429, 436, 593; <hi rend="italic">1897-1900</hi>, v., vi., 455, 458, 484, 485, 534, 535, 557<lb/>—— Commission, 1900, 462, 492<lb/>—— Insurance Fund, 412, 413, 416, 592, 593, 597</item>
@@ -5109,8 +5057,7 @@ At the Ballantyne Press</p>
       <item>Forsyth, Douglas, 255</item>
       <item><hi rend="italic">Forty-one Years in India</hi> (Roberts), 222</item>
       <item>Fowler, Sir Henry, 358, 449, 450, 539, 557, 584, 585<lb/>—— Chairman, Currency Committee, 584-591</item>
-      <item>Francis, Col., 330</item>
-      <item>—— John, 121</item>
+      <item>Francis, Col., 330<lb/>—— John, 121</item>
       <item>Frere, Sir Bartle, 246, 249, 256, 259, 260, 280, 337, 338, 382, 397, 420, 431, 491</item>
       <item>Fuller, J. B., 480</item>
       <item>Fyzabad, 605, 611</item>
@@ -5159,8 +5106,7 @@ At the Ballantyne Press</p>
       <item>Hare, David, 198, 199</item>
       <item>Harrowby, Lord, 196</item>
       <item>Hartington, Marquis of, 433, 436</item>
-      <item>Hastings, Marquis of, 25, 38, 50, 166,<lb/>    206, 509</item>
-      <item>——, Warren, 33, 42, 190, 198</item>
+      <item>Hastings, Marquis of, 25, 38, 50, 166,<lb/>    206, 509<lb/>——, Warren, 33, 42, 190, 198</item>
       <item>Hazara, 610</item>
       <item>Heath, J. M., 117</item>
       <item>Henderson, Col., 19</item>
@@ -5168,10 +5114,7 @@ At the Ballantyne Press</p>
       <item>Herschell, Lord, 538, 588</item>
       <item>Heytesbury, Lord, 4</item>
       <item>Hindu College, Calcutta, 199, 200</item>
-      <item><hi rend="italic">History of England</hi> (Dr. F. Bright),<lb/>    224</item>
-      <item>—— <hi rend="italic">Sikhs</hi> (Cunningham), 16</item>
-      <item>—— <hi rend="italic">War in Afghanistan</hi> (Kaye), 9</item>
-      <item>—— <hi rend="italic">Mutiny, Sepoy Troops, and</hi><lb/><hi rend="italic">British Colonies</hi> (Montgomery</item>
+      <item><hi rend="italic">History of England</hi> (Dr. F. Bright),<lb/>    224<lb/>—— <hi rend="italic">Sikhs</hi> (Cunningham), 16<lb/>—— <hi rend="italic">War in Afghanistan</hi> (Kaye), 9<lb/>—— <hi rend="italic">Mutiny, Sepoy Troops, and</hi><lb/><hi rend="italic">British Colonies</hi> (Montgomery</item>
       <item>Martin), 111, 224</item>
       <item>Hobart, Lord, 320</item>
       <item>Hobhouse, Lord, 261, 422, 432</item>
@@ -5179,23 +5122,16 @@ At the Ballantyne Press</p>
       <item>Home Charges, xiv., xv., xvi., 211,<lb/>    212, 213, 214, 215, 220, 372,<lb/>    536, 537, 538, 559, 578, 579,<lb/>    585, 594, 604, 605, 612, 613</item>
       <item>Hong Kong, 560</item>
       <item><hi rend="italic">Hoshangabad, Settlement Report</hi> (Ch.<lb/>    Elliot), 292</item>
-      <item>Hume, A. O., 525</item>
-      <item>——, Joseph, 60, 61</item>
+      <item>Hume, A. O., 525<lb/>——, Joseph, 60, 61</item>
       <item>Hunter, Sir Wm., xviii., 253, 490</item>
-      <item>Hyderabad, 66, 366</item>
-      <item>——, Nizam, 29, 31, 434</item>
+      <item>Hyderabad, 66, 366<lb/>——, Nizam, 29, 31, 434</item>
       <item><hi rend="smallcaps">Iddesleigh</hi>, Earl of, <hi rend="italic">see Northcote</hi></item>
       <item>Imports, 344–346. <hi rend="italic">See Duties, Tariffs</hi></item>
-      <item><hi rend="italic">Improvements Administration, India,</hi><lb/><hi rend="italic">Memorandum of</hi>, 166, 168, 169,</item>
-      <item>170, 172, 173</item>
-      <item>India, <hi rend="italic">passim</hi></item>
-      <item>—— <hi rend="italic">Friend of</hi>, 209</item>
-      <item>—— <hi rend="italic">Modern</hi> (G. Campbell), 73</item>
+      <item><hi rend="italic">Improvements Administration, India,</hi><lb/><hi rend="italic">Memorandum of</hi>, 166, 168, 169, 170, 172, 173</item>
+      <item>India, <hi rend="italic">passim</hi><lb/>—— <hi rend="italic">Friend of</hi>, 209<lb/>—— <hi rend="italic">Modern</hi> (G. Campbell), 73</item>
       <item>Indus, 83, 170, 367, 446</item>
       <item>Innes, Gen. McLeod, 85, 88, 90</item>
-      <item>Irrigation, 166–178, 360–370, 374,</item>
-      <item>499, 545, 546, 550–554</item>
-      <item>—— Commission, 1901, 551–553</item>
+      <item>Irrigation, 166–178, 360–370, 374, 499, 545, 546, 550–554<lb/>—— Commission, 1901, 551–553</item>
       <item>Iyengar, Raghava (<hi rend="italic">Progress, Madras</hi><lb/><hi rend="italic">    Presidency</hi>), 68</item>
       <item>Iyer, Subramania: Evidence, Expend.<lb/>    Com., 574–576</item>
       <item><hi rend="smallcaps">Jabalpur</hi>, 241, 307, 482, 483, 484</item>
@@ -5212,8 +5148,7 @@ At the Ballantyne Press</p>
       <item>Johnstone, Col., 443</item>
       <item>Jumrud, 429</item>
       <item>Jung, Nawab Jahawar, 201</item>
-      <item><hi rend="smallcaps">Kabul</hi>, 6, 8, 9, 10, 11, 250, 253, 260,<lb/>    421, 422, 428, 429, 430, 431, 432,</item>
-      <item>433, 450</item>
+      <item><hi rend="smallcaps">Kabul</hi>, 6, 8, 9, 10, 11, 250, 253, 260,<lb/>    421, 422, 428, 429, 430, 431, 432, 433, 450</item>
       <item>Kafristan, 428, 454</item>
       <item>Kalpi, 27</item>
       <item>Kamran, Prince, 6</item>
@@ -5229,10 +5164,7 @@ At the Ballantyne Press</p>
           <pb xml:id="page-651" n="623" facs="https://archive.org/download/indiainvictorian00duttuoft/page/n650_w1400.jpg"/>
           <list type="index">
       <item>Kaufman, General, 428</item>
-      <item>Kaye, Sir John, <hi rend="italic">Life and Correspondence of Henry St. George Tucker</hi>, 7, 34</item>
-      <item>—— <hi rend="italic">History, War, Afghanistan</hi>, 9</item>
-      <item>—— <hi rend="italic">Administration, East India Company</hi>, 166</item>
-      <item>—— <hi rend="italic">History, Mutiny</hi>, 223</item>
+      <item>Kaye, Sir John, <hi rend="italic">Life and Correspondence of Henry St. George Tucker</hi>, 7, 34<lb/>—— <hi rend="italic">History, War, Afghanistan</hi>, 9<lb/>—— <hi rend="italic">Administration, East India Company</hi>, 166<lb/>—— <hi rend="italic">History, Mutiny</hi>, 223</item>
       <item>Keane, Sir John, 8, 9</item>
       <item>Keatinge, Colonel, 473, 474, 475, 476</item>
       <item>Khaibar Pass, 429, 431</item>
@@ -5253,52 +5185,22 @@ At the Ballantyne Press</p>
       <item>Lal Singh, 15, 16</item>
       <item>Lancashire, 125, 129, 328, 346, 401–541, <hi rend="italic">passim</hi></item>
       <item>Land:</item>
-      <item>Administration, Northern India, 460–471</item>
-      <item>—— Bombay, 489–495</item>
-      <item>—— Central Provinces, 472–488</item>
-      <item>—— Madras, 495–502</item>
+      <item>Administration, Northern India, 460–471<lb/>—— Bombay, 489–495<lb/>—— Central Provinces, 472–488<lb/>—— Madras, 495–502</item>
       <item>Cesses, local, 388–400, 411, 416, 469, 470</item>
       <item>Memorial, Secretary of State, 1900, 506–507</item>
       <item><hi rend="italic">Problems in India</hi> (Parekh), 492, 501</item>
-      <item>Reforms, Northern India, 263–264</item>
-      <item>—— North-West Provinces, 268–269</item>
-      <item>—— Oudh, 264–268</item>
-      <item>—— Punjab, 270–272</item>
+      <item>Reforms, Northern India, 263–264<lb/>—— North-West Provinces, 268–269<lb/>—— Oudh, 264–268<lb/>—— Punjab, 270–272</item>
       <item>Resolutions, Ripon, Curzon, 503–516</item>
       <item>Revenue Act, <hi rend="italic">see Acts</hi></item>
-      <item>Settlements, Northern India, 33–49</item>
-      <item>—— Bombay, 50–66, 323–335</item>
-      <item>—— Central Provinces, 291–307</item>
-      <item>—— Madras, 67–81, 308–322</item>
+      <item>Settlements, Northern India, 33–49<lb/>—— Bombay, 50–66, 323–335<lb/>—— Central Provinces, 291–307<lb/>—— Madras, 67–81, 308–322</item>
       <item>Land, <hi rend="italic">continued</hi>—</item>
       <item>Settlements, Punjab, 82–98</item>
-      <item>Settlement, Permanent, 33, 34, 35, 246, 258, 310, 311, 391, 393, 396, 461, 505, 507, 508, 509</item>
-      <item>—— Bengal Report, 280</item>
-      <item>—— Despatch, Sir Charles Wood, 284–287</item>
-      <item>—— Final Rejection, 288–290</item>
-      <item>—— Minute, Sir John Lawrence, 282–284</item>
-      <item>—— North-West Provinces Report, 277–280</item>
-      <item>—— Opinion, Finance Minister, 280–282</item>
-      <item>—— Proposed for Bombay, 323–328</item>
-      <item>—— Proposed for India, 273–290</item>
-      <item>—— Proposed for Madras, 310–318</item>
-      <item>—— Punjab Report, 276–277</item>
-      <item>—— Sir Stafford Northcote, 288</item>
-      <item>—— Sir Richard Temple, 299–304</item>
-      <item><hi rend="italic">Systems of British India</hi> (Baden-Powell), 264</item>
-      <item>—— J. S. Mill on, 93–97</item>
+      <item>Settlement, Permanent, 33, 34, 35, 246, 258, 310, 311, 391, 393, 396, 461, 505, 507, 508, 509<lb/>—— Bengal Report, 280<lb/>—— Despatch, Sir Charles Wood, 284–287<lb/>—— Final Rejection, 288–290<lb/>—— Minute, Sir John Lawrence, 282–284<lb/>—— North-West Provinces Report, 277–280<lb/>—— Opinion, Finance Minister, 280–282<lb/>—— Proposed for Bombay, 323–328<lb/>—— Proposed for India, 273–290<lb/>—— Proposed for Madras, 310–318<lb/>—— Punjab Report, 276–277<lb/>—— Sir Stafford Northcote, 288<lb/>—— Sir Richard Temple, 299–304</item>
+      <item><hi rend="italic">Systems of British India</hi> (Baden-Powell), 264<lb/>—— J. S. Mill on, 93–97</item>
       <item>Tax, vii., 75, 130, 133, 135, 138, 211</item>
-      <item>Lansdowne, Lord, 450, 482, 537, 555, 575, 583</item>
-      <item>—— Administration, 446–448, 454</item>
-      <item>—— Evidence, Expenditure Commission, 565–566</item>
+      <item>Lansdowne, Lord, 450, 482, 537, 555, 575, 583<lb/>—— Administration, 446–448, 454<lb/>—— Evidence, Expenditure Commission, 565–566</item>
       <item>Larpent, G. G. de H., 108, 109, 110, 111, 123, 127</item>
-      <item>Lawrence, Sir Henry, 17, 18, 23, 84, 85, 86, 87, 88, 89, 91, 190, 223</item>
-      <item>—— the <hi rend="italic">Pacificator</hi> (M'Leod-Innes), 85, 88</item>
-      <item>—— Lord, x., xi., 11, 43, <hi rend="italic">passim</hi></item>
-      <item>—— Administration, 246–251</item>
-      <item>—— Minute on Permanent Settlement, 282–284</item>
-      <item>—— <hi rend="italic">Life of</hi> (Bosworth Smith), 85, 86, 90, 92, 224, 246, 247, 254, 260, 267, 270</item>
-      <item>—— <hi rend="italic">Life of</hi> (Aitcheson), 224</item>
+      <item>Lawrence, Sir Henry, 17, 18, 23, 84, 85, 86, 87, 88, 89, 91, 190, 223<lb/>—— the <hi rend="italic">Pacificator</hi> (M'Leod-Innes), 85, 88<lb/>—— Lord, x., xi., 11, 43, <hi rend="italic">passim</hi><lb/>—— Administration, 246–251<lb/>—— Minute on Permanent Settlement, 282–284<lb/>—— <hi rend="italic">Life of</hi> (Bosworth Smith), 85, 86, 90, 92, 224, 246, 247, 254, 260, 267, 270<lb/>—— <hi rend="italic">Life of</hi> (Aitcheson), 224</item>
       <item>Leith, John Farley, 191</item>
       <item>Lewen, Malcolm, 78</item>
       <item>Lloyd, Sampson, M.P., 36</item>
@@ -5318,11 +5220,8 @@ At the Ballantyne Press</p>
       <item>Lucknow, 223, 224</item>
       <item>Lumsden, Colonel, 423</item>
       <item>Lyall, Sir Alfred, 505</item>
-      <item>Lytton, Lord, 345, 409, 410, 412, 415,<lb/>416, 433, 446, 447, 489, 525, 537,<lb/>579, 580, 581, 592</item>
-      <item>—— Administration, 419–432</item>
-      <item>—— <hi rend="italic">Indian Administration</hi> (Lady<lb/>Betty Balfour), 426</item>
-      <item><hi rend="smallcaps">Macaulay</hi>, Lord, 103, 179, 189, 201,<lb/>207, 242, 245, 378</item>
-      <item>—— <hi rend="italic">Life and Letters of</hi> (Trevelyan),<lb/>103, 207</item>
+      <item>Lytton, Lord, 345, 409, 410, 412, 415,<lb/>416, 433, 446, 447, 489, 525, 537,<lb/>579, 580, 581, 592<lb/>—— Administration, 419–432<lb/>—— <hi rend="italic">Indian Administration</hi> (Lady<lb/>Betty Balfour), 426</item>
+      <item><hi rend="smallcaps">Macaulay</hi>, Lord, 103, 179, 189, 201,<lb/>207, 242, 245, 378<lb/>—— <hi rend="italic">Life and Letters of</hi> (Trevelyan),<lb/>103, 207</item>
       <item>MacDonnell, Sir Antony, 457, 460,<lb/>468, 470, 477, 483, 492, 586</item>
       <item>Mackenzie, Sir Alexander, 458, 478,<lb/>480, 483</item>
       <item>Macnaughton, Mr., 393</item>
@@ -5330,17 +5229,13 @@ At the Ballantyne Press</p>
       <item>Macpherson, Major, 292</item>
       <item>Maddock, Sir T. H., 181</item>
       <item>Madhava Rao, Sir T., 381</item>
-      <item>Madras, 44, 49–542, <hi rend="italic">passim</hi></item>
-      <item>—— Land Administration, Settlements, <hi rend="italic">see Land</hi></item>
-      <item>—— <hi rend="italic">Civil Administration</hi> (Smollett),<lb/>77</item>
-      <item>—— Native Association, 164, 165,<lb/>186</item>
+      <item>Madras, 44, 49–542, <hi rend="italic">passim</hi><lb/>—— Land Administration, Settlements, <hi rend="italic">see Land</hi><lb/>—— <hi rend="italic">Civil Administration</hi> (Smollett),<lb/>77<lb/>—— Native Association, 164, 165,<lb/>186</item>
       <item>Mahratta Rule, 50, 51</item>
       <item>Maine, Sir H., 245, 270</item>
       <item>Maiwand, 433</item>
       <item>Malabar, 75, 136, 318, 319, 495</item>
       <item>Malcolm, Major, 28, 133, 434</item>
-      <item>Mallett, Sir Louis, 320, 406, 579</item>
-      <item>—— Minute, 321–322</item>
+      <item>Mallett, Sir Louis, 320, 406, 579<lb/>—— Minute, 321–322</item>
       <item>Malta, 428, 493, 563</item>
       <item>Malwa, 100, 154</item>
       <item>Manchester, 113, 130, 131, 147, 184,<lb/>227, 339–612, <hi rend="italic">passim</hi></item>
@@ -5353,16 +5248,12 @@ At the Ballantyne Press</p>
       <item>Manufacture and Trade, 336–352,<lb/>517–536</item>
       <item><hi rend="italic">Map of Life</hi> (Lecky), 218</item>
       <item>Marshman, John C., 179, 180, 198,<lb/>204</item>
-      <item>Martin, Montgomery, 111, 113, 114,<lb/>116, 220</item>
-      <item>—— <hi rend="italic">History of the British Colonies</hi>,<lb/>III</item>
-      <item>—— <hi rend="italic">History of the Mutiny</hi>, 224</item>
+      <item>Martin, Montgomery, 111, 113, 114,<lb/>116, 220<lb/>—— <hi rend="italic">History of the British Colonies</hi>,<lb/>III<lb/>—— <hi rend="italic">History of the Mutiny</hi>, 224</item>
       <item>Masalipatam, 77</item>
       <item>Massey, Hon. W. N., 335, 377</item>
       <item>Master, Mr., 320</item>
       <item>Mauritius, 125, 127</item>
-      <item>Mayo, Earl of, 258, 259, 261, 269,<lb/>337, 355, 356, 371, 376, 385,<lb/>389, 390, 429, 432, 497, 503,<lb/>525</item>
-      <item>—— Administration, 252–257</item>
-      <item>—— <hi rend="italic">Earl of</hi> (Hunter), 253, 254,<lb/>255</item>
+      <item>Mayo, Earl of, 258, 259, 261, 269,<lb/>337, 355, 356, 371, 376, 385,<lb/>389, 390, 429, 432, 497, 503,<lb/>525<lb/>—— Administration, 252–257<lb/>—— <hi rend="italic">Earl of</hi> (Hunter), 253, 254,<lb/>255</item>
       <item>Mehta, P., 445</item>
       <item>Melvill, J. C., 99, 101, 123, 179, 181</item>
       <item><hi rend="italic">Memorandum of the Progress of the</hi><lb/><hi rend="italic">Madras Presidency</hi> (Iyangar), 68</item>
@@ -5370,18 +5261,13 @@ At the Ballantyne Press</p>
       <item>Mergui, 527</item>
       <item>Metcalfe, Sir Charles, 3, 4, 189, 197,<lb/>208, 212</item>
       <item>Meyer, Mr., 320</item>
-      <item>Mill, John Stuart, xvii., 93, 140,<lb/>179, 182, 183, 184, 207, 211,<lb/>216, 225, 226, 228, 541, 543</item>
-      <item>—— On Indian Land Systems, 93–<lb/>97, 321</item>
-      <item>—— on East India Company, 225–227</item>
+      <item>Mill, John Stuart, xvii., 93, 140,<lb/>179, 182, 183, 184, 207, 211,<lb/>216, 225, 226, 228, 541, 543<lb/>—— On Indian Land Systems, 93–<lb/>97, 321<lb/>—— on East India Company, 225–227</item>
       <item>Minto, Lord, 4, 38, 166</item>
-      <item>Mitra, Dina Bandhu, 351</item>
-      <item>—— Dwarka Nath, 243</item>
+      <item>Mitra, Dina Bandhu, 351<lb/>—— Dwarka Nath, 243</item>
       <item><hi rend="italic">Modern India</hi> (Campbell), 73</item>
-      <item>Money, R., 277</item>
-      <item>—— Alonzo, 404</item>
+      <item>Money, R., 277<lb/>—— Alonzo, 404</item>
       <item>Monteagle, Lord, 187</item>
-      <item>Montgomery, Sir Henry, 69, 391,<lb/>393, 408</item>
-      <item>—— Sir Robert, 43, 86, 382, 397,<lb/>409, 415</item>
+      <item>Montgomery, Sir Henry, 69, 391,<lb/>393, 408<lb/>—— Sir Robert, 43, 86, 382, 397,<lb/>409, 415</item>
       <item>Moodkee, 15</item>
       <item><hi rend="italic">Moral and Material Progress and</hi><lb/><hi rend="italic">Condition of India</hi>, 359, 471,<lb/>515, 520, 521, 525, 545, 549</item>
       <item>Morris, Mr., 397</item>
@@ -5395,43 +5281,30 @@ At the Ballantyne Press</p>
       <item>Murshedabad, 112</item>
       <item>Mutarfa Tax, 164–165</item>
       <item>Mutiny, Indian, 28, 88, 90, 160, 161, 175, 209, 211, 213, 218–225, 230, 240–247, 264, 289, 336, 343, 375, 376, 383, 394, 396, 401, 411, 430, 435</item>
-      <item>Muzaffarnagar, 466, 467</item>
-      <item>—— <hi rend="italic">Settlement Report</hi>, 466</item>
+      <item>Muzaffarnagar, 466, 467<lb/>—— <hi rend="italic">Settlement Report</hi>, 466</item>
       <item>Muzaffarpur, 464</item>
       <item>Mymensingh, 350</item>
-      <item>Mysore, 32, 133, 367, 381, 383, 526</item>
-      <item>—— Rendition of, 434, 437</item>
-      <item>—— <hi rend="italic">Reversion</hi> (Major Evans Bell), 434</item>
+      <item>Mysore, 32, 133, 367, 381, 383, 526<lb/>—— Rendition of, 434, 437<lb/>—— <hi rend="italic">Reversion</hi> (Major Evans Bell), 434</item>
       <item><hi rend="smallcaps">Nagpur</hi>, 28, 31, 133, 213, 291, 296, 298, 302, 303, 305, 307, 610</item>
-      <item>Napier, Sir Charles, 11, 12, 23, 179</item>
-      <item>—— Lord, of Magdala, 87, 245, 247, 261, 365</item>
-      <item>—— William, 12, 13</item>
+      <item>Napier, Sir Charles, 11, 12, 23, 179<lb/>—— Lord, of Magdala, 87, 245, 247, 261, 365<lb/>—— William, 12, 13</item>
       <item>Naoroji, Dadabhai, 329, 385, 555, 556, 557, 559</item>
       <item>Narbada, 170, 291, 292, 296, 298, 304, 305</item>
       <item>Narsingh Pal, 26</item>
-      <item>Narsinghpur, 293, 302, 303, 307, 482, 483, 484</item>
-      <item>—— <hi rend="italic">Settlement Report</hi> (Russell), 293</item>
+      <item>Narsinghpur, 293, 302, 303, 307, 482, 483, 484<lb/>—— <hi rend="italic">Settlement Report</hi> (Russell), 293</item>
       <item>Nedadavole, 77</item>
       <item>Nellore, 70, 77, 94</item>
       <item>Nepal, 143, 255</item>
       <item>Nicholson, Sir John, 90, 224</item>
       <item>Norman, Sir Henry, 261, 422, 432</item>
-      <item>Northbrook, Earl of, 268, 365, 404–409, 420, 423, 429, 503, 525, 556, 557, 592</item>
-      <item>—— Administration, 257–262</item>
-      <item>—— Evidence on Expenditure Commission, 561–565</item>
-      <item>Northcote, Sir Stafford, x., xi., 32, 85, 248, 299, 390, 434, 435, 509, 579, 582</item>
-      <item>—— On Permanent Settlement, 288, 290</item>
-      <item>North-West Provinces, 56, 60, 256, 268, 287, 292, 304, 309, 325</item>
-      <item>—— Land Reform, 268–269</item>
-      <item>—— Permanent Settlement Report, 277–280</item>
+      <item>Northbrook, Earl of, 268, 365, 404–409, 420, 423, 429, 503, 525, 556, 557, 592<lb/>—— Administration, 257–262<lb/>—— Evidence on Expenditure Commission, 561–565</item>
+      <item>Northcote, Sir Stafford, x., xi., 32, 85, 248, 299, 390, 434, 435, 509, 579, 582<lb/>—— On Permanent Settlement, 288, 290</item>
+      <item>North-West Provinces, 56, 60, 256, 268, 287, 292, 304, 309, 325<lb/>—— Land Reform, 268–269<lb/>—— Permanent Settlement Report, 277–280</item>
       <item>Norton, J. Bruce, 74, 200</item>
       <item><hi rend="italic">Notes on Land Revenue Policy</hi> (Chand), 463, 464</item>
       <item>Nur Muhammad, 427</item>
       <item><hi rend="smallcaps">O'Donnell</hi>, C. J., 506</item>
       <item>Orissa, 246, 258, 280, 448, 498, 550</item>
-      <item>Oudh, 29, 30, 31, 33, 49, 213, 223, 256, 271, 287, 306, 334, 398, 399, 470, 471, 485, 610, 611</item>
-      <item>—— Land Reform, 264–268</item>
-      <item>—— Rent Act, 268, 470, 501</item>
+      <item>Oudh, 29, 30, 31, 33, 49, 213, 223, 256, 271, 287, 306, 334, 398, 399, 470, 471, 485, 610, 611<lb/>—— Land Reform, 264–268<lb/>—— Rent Act, 268, 470, 501</item>
       <item><hi rend="italic">Our Financial Relations with India</hi> (Wingate), xvi., 214, 219</item>
       <item>Outram, Sir James, 11, 13, 29, 267</item>
       <item><hi rend="smallcaps">Pachiapa</hi> College, 200</item>
@@ -5463,8 +5336,7 @@ At the Ballantyne Press</p>
       <item>Pollock, General, 10, 84</item>
       <item>Ponang, 367</item>
       <item>Poona, 455, 489</item>
-      <item>Population, Brit. India, 602</item>
-      <item>—— Native States, 603</item>
+      <item>Population, Brit. India, 602<lb/>—— Native States, 603</item>
       <item>Port Arthur, 453</item>
       <item>Porto Novo, 117</item>
     </list>
@@ -5481,19 +5353,11 @@ At the Ballantyne Press</p>
       <item>“<hi rend="italic">Prosperous</hi>” <hi rend="italic">British India</hi> (Digby),<lb/>    609</item>
       <item>Prout, John, 121</item>
       <item>Puckle, R. K., 467, 506</item>
-      <item>Punjab, 6, 8, 10-524, <hi rend="italic">passim</hi></item>
-      <item>—— Administration Report, 82, 83,<lb/>    91, 92</item>
-      <item>—— Land Settlements, <hi rend="italic">see Land</hi></item>
-      <item>—— Land Reforms, 270-272</item>
-      <item>—— Permanent Settlement Report,<lb/>    276-277</item>
-      <item>—— <hi rend="italic">Year on Frontier</hi> (Edwards), 20</item>
+      <item>Punjab, 6, 8, 10-524, <hi rend="italic">passim</hi><lb/>—— Administration Report, 82, 83,<lb/>    91, 92<lb/>—— Land Settlements, <hi rend="italic">see Land</hi><lb/>—— Land Reforms, 270-272<lb/>—— Permanent Settlement Report,<lb/>    276-277<lb/>—— <hi rend="italic">Year on Frontier</hi> (Edwards), 20</item>
       <item>Purnea, 381, 434</item>
-      <item><hi rend="smallcaps">Queen Victoria</hi>, viii., xiii., 8, 32, 85,<lb/>    116, 179, 184, 191, 203, 204, 205,<lb/>    211, 212, 215, 224, 225, 229, 231,<lb/>    232, 240, 242, 285, 286, 299, 342,<lb/>    371, 375, 378, 394, 401, 420, 421,<lb/>    424, 427, 435, 453, 517</item>
-      <item>—— Diamond Jubilee, v.</item>
-      <item>—— Proclamation, 1858, 231-235</item>
+      <item><hi rend="smallcaps">Queen Victoria</hi>, viii., xiii., 8, 32, 85,<lb/>    116, 179, 184, 191, 203, 204, 205,<lb/>    211, 212, 215, 224, 225, 229, 231,<lb/>    232, 240, 242, 285, 286, 299, 342,<lb/>    371, 375, 378, 394, 401, 420, 421,<lb/>    424, 427, 435, 453, 517<lb/>—— Diamond Jubilee, v.<lb/>—— Proclamation, 1858, 231-235</item>
       <item>Quetta, 423</item>
-      <item><hi rend="smallcaps">Railways</hi>, 166-178, 353-360, 374,<lb/>    545-550</item>
-      <item>—— <hi rend="italic">Report</hi> (Robertson), 547, 548</item>
+      <item><hi rend="smallcaps">Railways</hi>, 166-178, 353-360, 374,<lb/>    545-550<lb/>—— <hi rend="italic">Report</hi> (Robertson), 547, 548</item>
       <item>Rajamundry, 69, 172</item>
       <item>Rajputana, 87, 525, 526</item>
       <item>Ram Mohun Roy, 199</item>
@@ -5507,38 +5371,29 @@ At the Ballantyne Press</p>
       <item>Ratnagiri, 444, 609</item>
       <item>Rawalpindi, 23, 91, 423, 609</item>
       <item>Rawlinson, Sir Henry, 249, 259</item>
-      <item>Read, Hon. Mr., 65</item>
-      <item>—— Col., 67, 312, 313</item>
+      <item>Read, Hon. Mr., 65<lb/>—— Col., 67, 312, 313</item>
       <item><hi rend="italic">Reign of Law</hi> (Argyll), 390</item>
       <item>Remedy: retrenchment, representation, xvii., 612-617</item>
       <item>Revenue (table), 373</item>
       <item>Reynolds, H. J., 506</item>
       <item>Rickett, Hon. Mr., 315</item>
-      <item>Ripon, Marquis of, xi., xii., 245, 286,<lb/>    287, 442, 443, 458, 461, 470,<lb/>    478, 500, 513, 516, 525, 535, 536,<lb/>    537, 557, 575, 581</item>
-      <item>—— Administration, 433-440</item>
-      <item>—— Land Resolutions, 503-516</item>
+      <item>Ripon, Marquis of, xi., xii., 245, 286,<lb/>    287, 442, 443, 458, 461, 470,<lb/>    478, 500, 513, 516, 525, 535, 536,<lb/>    537, 557, 575, 581<lb/>—— Administration, 433-440<lb/>—— Land Resolutions, 503-516</item>
       <item>Roberts, Lord, 222, 432, 433, 557</item>
-      <item>Robertson, Capt., 50, 51</item>
-      <item>—— T. C., 43</item>
-      <item>—— <hi rend="italic">Railway Report</hi>, 547, 548</item>
-      <item>Robinson, Francis, 188</item>
-      <item>—— Lieut.-Col., 206</item>
+      <item>Robertson, Capt., 50, 51<lb/>—— T. C., 43<lb/>—— <hi rend="italic">Railway Report</hi>, 547, 548</item>
+      <item>Robinson, Francis, 188<lb/>—— Lieut.-Col., 206</item>
       <item>Rogers, Alex., 116</item>
       <item>Rosebery, Lord, 450, 452, 454</item>
       <item>Royle, Dr. J. F., C.I.E., 130, 143,<lb/>    144, 180</item>
       <item>Rupee, fluctuations, 578-591</item>
-      <item>Russell, Lord John, 18, 179</item>
-      <item>—— A., 293</item>
+      <item>Russell, Lord John, 18, 179<lb/>—— A., 293</item>
       <item>Russia, 117, 164, 239-608, <hi rend="italic">passim</hi></item>
       <item>Rustomji, Merwanji: Evidence, Currency Committee, 587-588</item>
       <item>Ryan, Sir Edward, 179, 180, 191,<lb/>    192, 193, 201</item>
       <item>Ryotwari Settlement, 54, 56, 59, 60,<lb/>    61, 67, 68, 73, 76, 77, 79, 94, 95,<lb/>    96, 134, 138, 140, 310, 311, 313,<lb/>    314, 315, 316, 317, 319, 473,<lb/>    475, 476</item>
       <item><hi rend="smallcaps">Sadar</hi> Board of Revenue, 54, 59, 76</item>
       <item>Sadulapur, 22, 23</item>
-      <item>Sagor, 291, 292, 294, 296, 298, 302,<lb/>    304, 305, 307, 482, 483, 484, 610</item>
-      <item>—— Settlement Report, 294</item>
-      <item>Saharanpur, 36, 41, 46, 48, 131, 143,<lb/>    464</item>
-      <item>—— Rules, 48, 94, 98, 140, 305, 306,<lb/>    512</item>
+      <item>Sagor, 291, 292, 294, 296, 298, 302,<lb/>    304, 305, 307, 482, 483, 484, 610<lb/>—— Settlement Report, 294</item>
+      <item>Saharanpur, 36, 41, 46, 48, 131, 143,<lb/>    464<lb/>—— Rules, 48, 94, 98, 140, 305, 306,<lb/>    512</item>
       <item>St. John, Major, 421</item>
       <item>Salem, 71, 79, 313, 526, 606</item>
       <item>Salisbury, Lord, xii., xiii., 32, 248-<lb/>    559, <hi rend="italic">passim</hi></item>
@@ -5571,35 +5426,20 @@ At the Ballantyne Press</p>
       <item><hi rend="italic">Sikhs, History of</hi> (Cunningham), 16</item>
       <item>Sikkim, 143</item>
       <item>Simla, 91, 240, 270, 422, 440, 443,<lb/>    446, 615</item>
-      <item>Sind, 8, 11, 12, 13, 154, 170, 177, 182,<lb/>    217, 550</item>
-      <item>—— <hi rend="italic">Conquest of</hi> (W. Napier), 13</item>
-      <item>Singh, Chatra, 21, 22</item>
-      <item>—— Dhalip, 17, 19, 20, 21, 23</item>
-      <item>—— Golab, 17</item>
-      <item>—— Gorman, 39</item>
-      <item>—— Hari, 82</item>
-      <item>—— Lal, 15, 16</item>
-      <item>—— Lehna, 84</item>
-      <item>—— Maharaja Pratap, 447, 448, 449</item>
-      <item>—— Ranjit, 6, 7, 8, 15, 17, 20, 82,<lb/>    83</item>
-      <item>—— Sher, 20, 22</item>
-      <item>—— Tej, 16</item>
+      <item>Sind, 8, 11, 12, 13, 154, 170, 177, 182,<lb/>    217, 550<lb/>—— <hi rend="italic">Conquest of</hi> (W. Napier), 13</item>
+      <item>Singh, Chatra, 21, 22<lb/>—— Dhalip, 17, 19, 20, 21, 23<lb/>—— Golab, 17<lb/>—— Gorman, 39<lb/>—— Hari, 82<lb/>—— Lal, 15, 16<lb/>—— Lehna, 84<lb/>—— Maharaja Pratap, 447, 448, 449<lb/>—— Ranjit, 6, 7, 8, 15, 17, 20, 82,<lb/>    83<lb/>—— Sher, 20, 22<lb/>—— Tej, 16</item>
       <item>Sitabaldi, 291</item>
       <item>Sleeman, Gen. Sir Wm., 29, 194</item>
-      <item>Smith, Baird, 167–172, 273–276, 278,<lb/>    282, 285, 299, 311, 323, 325</item>
-      <item>—— Col. Robert, 167</item>
-      <item>—— Samuel, M.P., 484</item>
+      <item>Smith, Baird, 167–172, 273–276, 278,<lb/>    282, 285, 299, 311, 323, 325<lb/>—— Col. Robert, 167<lb/>—— Samuel, M.P., 484</item>
       <item>Stanhope, H., M.P., 579</item>
       <item>Stanley, Lord, 179, 220, 221, 245,<lb/>    336, 338</item>
       <item><hi rend="italic">Statistical Abstract</hi>, 160, 211, 216, 343,<lb/>    347 362, 372, 528, 549, 594, 599,<lb/>    602</item>
       <item>Stephens, Sir Fitz-James, 253</item>
       <item>Stevens, Sir Charles, 542</item>
       <item>Stewart, Sir Donald, 557</item>
-      <item>Stokes, Mr., 74</item>
-      <item>—— Whitby, 412</item>
+      <item>Stokes, Mr., 74<lb/>—— Whitby, 412</item>
       <item>Stoletoff, General, 428</item>
-      <item>Strachey, Sir John, 253, 410, 415, 416,<lb/>    432, 592, 593</item>
-      <item>—— Gen. Sir Richard, 357, 358, 408</item>
+      <item>Strachey, Sir John, 253, 410, 415, 416,<lb/>    432, 592, 593<lb/>—— Gen. Sir Richard, 357, 358, 408</item>
       <item>Straits Settlements, 506, 608</item>
       <item>Suakim, 564, 565</item>
       <item>Suez, 558, 563, 564</item>
@@ -5617,12 +5457,10 @@ At the Ballantyne Press</p>
       <item>Tavoy, 527</item>
       <item>Teheran, 5, 6</item>
       <item>Temple, Sir Richard, 91, 92, 253,<lb/>    298, 299, 300, 301, 303, 305, 306,<lb/>    473, 474, 475, 476, 482</item>
-      <item>Thomasson, James, 43, 44, 47, 61, 94,<lb/>    268, 298</item>
-      <item>—— <hi rend="italic">Directions for Revenue Officers</hi>,<lb/>    44, 94, 268</item>
+      <item>Thomasson, James, 43, 44, 47, 61, 94,<lb/>    268, 298<lb/>—— <hi rend="italic">Directions for Revenue Officers</hi>,<lb/>    44, 94, 268</item>
       <item>Thompson, George, 138, 139</item>
       <item>Thomson, Rivers, 413</item>
-      <item>Thornton, Edward, 144</item>
-      <item>—— Wm., 353, 354</item>
+      <item>Thornton, Edward, 144<lb/>—— Wm., 353, 354</item>
       <item>Tibet, 459</item>
       <item><hi rend="italic">Times, the</hi>, 430, 535</item>
       <item>Tinnevelly, 77, 95</item>
@@ -5633,9 +5471,7 @@ At the Ballantyne Press</p>
       <item>Townsend, Meredith, 440</item>
       <item>Trade and Manufacture, 336–352,<lb/>    517–536</item>
       <item>Trevelyan, Sir Charles, 103, 104, 106,<lb/>    123, 179, 180, 187, 198, 200, 201,<lb/>    245, 339, 361, 378, 379, 380, 381,<lb/>    383, 385, 592</item>
-      <item>Tucker, Henry St. George, 3, 4, 5, 7,<lb/>    25, 33, 126, 128</item>
-      <item>—— <hi rend="italic">Life of</hi> (Kaye), 7</item>
-      <item>—— Joseph, 118</item>
+      <item>Tucker, Henry St. George, 3, 4, 5, 7,<lb/>    25, 33, 126, 128<lb/>—— <hi rend="italic">Life of</hi> (Kaye), 7<lb/>—— Joseph, 118</item>
       <item><hi rend="smallcaps">Ulangu</hi> land system, 95, 96</item>
       <item>Umballa, 253, 420</item>
       <item>Universities in India, 202, 203, 205,<lb/>    242</item>
@@ -5651,11 +5487,9 @@ At the Ballantyne Press</p>
       <item>Village Communities, 50, 51, 53, 57,<lb/>  58, 60, 67, 68, 74, 82, 89, 96, 97,<lb/>  196-199, 264</item>
       <item>Voeckler, Dr., <hi rend="italic">Rept. Ind. Agriculture</hi>,<lb/>  171, 351</item>
       <item><hi rend="smallcaps">Wacha, D. E.</hi>: Evidence, Expend.<lb/>  Com., 570-572</item>
-      <item>Wages, 605-607</item>
-      <item>—— table of, 606</item>
+      <item>Wages, 605-607<lb/>—— table of, 606</item>
       <item>Warda, 307</item>
-      <item>Waterfield, Sir Henry, <hi rend="italic">Memorandum</hi>,<lb/>  372, 562</item>
-      <item>—— Col., 610</item>
+      <item>Waterfield, Sir Henry, <hi rend="italic">Memorandum</hi>,<lb/>  372, 562<lb/>—— Col., 610</item>
       <item>Waziristan, 450</item>
       <item>Wedderburn, Sir Wm., 506, 557, 559,<lb/>  574</item>
       <item>Wei-Hai-Wei, 453</item>
@@ -5665,10 +5499,8 @@ At the Ballantyne Press</p>
       <item>Westland, Sir James, 543</item>
       <item>Wilberforce, Wm., 198</item>
       <item>Williamson, Thomas, 134</item>
-      <item>Wilson, H. H., vii., 118, 179</item>
-      <item>—— James, 243, 337, 390, 401</item>
-      <item>Wingate, Sir George, 52, 53, 54, 57,<lb/>  58, 61, 65, 66, 76, 214, 219, 220,<lb/>  323, 489, 605</item>
-      <item>—— <hi rend="italic">Our Financial Relations with</hi><lb/><hi rend="italic">  India</hi>, xvi., 214, 219</item>
+      <item>Wilson, H. H., vii., 118, 179<lb/>—— James, 243, 337, 390, 401</item>
+      <item>Wingate, Sir George, 52, 53, 54, 57,<lb/>  58, 61, 65, 66, 76, 214, 219, 220,<lb/>  323, 489, 605<lb/>—— <hi rend="italic">Our Financial Relations with</hi><lb/><hi rend="italic">  India</hi>, xvi., 214, 219</item>
       <item>Wingfield, Sir Charles, 398, 399</item>
       <item>Wolseley, Lord, 557</item>
       <item>Wood, Sir Charles (Lord Halifax), x.,<lb/>  xi., 98, 197, 245, 246, 248, 282,<lb/>  289, 299, 309, 310, 320, 321, 351,<lb/>  388, 389, 400, 489, 509, 512, 597</item>

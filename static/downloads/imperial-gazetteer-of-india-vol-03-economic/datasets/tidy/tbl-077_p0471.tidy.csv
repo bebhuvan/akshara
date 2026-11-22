@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,1,data,,1860–1,2,Length of Postal Lines. :: Railway. :: Miles.,"1,046",1046.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,1,data,,1860–1,3,Length of Postal Lines. :: Steamer service (sea and river). :: Miles.,..,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,1,data,,1860–1,4,"Length of Postal Lines. :: Mail carts, horses, camels, &c. :: Miles.","5,740",5740.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,1,data,,1860–1,5,Length of Postal Lines. :: Runners and boats. :: Miles.,"36,784",36784.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,1,data,,1860–1,6,Length of Postal Lines. :: Total. :: Miles.,"43,570",43570.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,2,data,,1870–1,2,Length of Postal Lines. :: Railway. :: Miles.,"4,993",4993.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,2,data,,1870–1,3,Length of Postal Lines. :: Steamer service (sea and river). :: Miles.,"6,184",6184.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,2,data,,1870–1,4,"Length of Postal Lines. :: Mail carts, horses, camels, &c. :: Miles.","4,175",4175.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,2,data,,1870–1,5,Length of Postal Lines. :: Runners and boats. :: Miles.,"36,911",36911.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,2,data,,1870–1,6,Length of Postal Lines. :: Total. :: Miles.,"52,263",52263.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,3,data,,1880–1,2,Length of Postal Lines. :: Railway. :: Miles.,"9,455",9455.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,3,data,,1880–1,3,Length of Postal Lines. :: Steamer service (sea and river). :: Miles.,"14,308",14308.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,3,data,,1880–1,4,"Length of Postal Lines. :: Mail carts, horses, camels, &c. :: Miles.","2,635",2635.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,3,data,,1880–1,5,Length of Postal Lines. :: Runners and boats. :: Miles.,"63,995",63995.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,3,data,,1880–1,6,Length of Postal Lines. :: Total. :: Miles.,"90,593",90593.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,4,data,,1890–1,2,Length of Postal Lines. :: Railway. :: Miles.,"16,522",16522.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,4,data,,1890–1,3,Length of Postal Lines. :: Steamer service (sea and river). :: Miles.,"13,680",13680.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,4,data,,1890–1,4,"Length of Postal Lines. :: Mail carts, horses, camels, &c. :: Miles.","4,400",4400.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,4,data,,1890–1,5,Length of Postal Lines. :: Runners and boats. :: Miles.,"74,630",74630.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,4,data,,1890–1,6,Length of Postal Lines. :: Total. :: Miles.,"109,232",109232.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,5,data,,1900–1,2,Length of Postal Lines. :: Railway. :: Miles.,"22,839",22839.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,5,data,,1900–1,3,Length of Postal Lines. :: Steamer service (sea and river). :: Miles.,"15,822",15822.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,5,data,,1900–1,4,"Length of Postal Lines. :: Mail carts, horses, camels, &c. :: Miles.","7,937",7937.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,5,data,,1900–1,5,Length of Postal Lines. :: Runners and boats. :: Miles.,"85,023",85023.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,5,data,,1900–1,6,Length of Postal Lines. :: Total. :: Miles.,"131,621",131621.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,6,data,,1903–4,2,Length of Postal Lines. :: Railway. :: Miles.,"26,721",26721.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,6,data,,1903–4,3,Length of Postal Lines. :: Steamer service (sea and river). :: Miles.,"17,457",17457.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,6,data,,1903–4,4,"Length of Postal Lines. :: Mail carts, horses, camels, &c. :: Miles.","8,712",8712.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,6,data,,1903–4,5,Length of Postal Lines. :: Runners and boats. :: Miles.,"92,137",92137.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-077,Table 77,471,429,6,data,,1903–4,6,Length of Postal Lines. :: Total. :: Miles.,"145,027",145027.0,,False,False

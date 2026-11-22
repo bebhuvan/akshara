@@ -13,9 +13,7 @@
 
 <!-- page: 6 | folio: 6 -->
 
-![72° Longitude East 76° of Greenwich 80°](../figures/fig-002_p0006.webp)
-
-Emery Walker sc.
+![72° Longitude East 76° of Greenwich 80° — Emery Walker sc.](../figures/fig-002_p0006.webp)
 
 
 <!-- page: 7 | folio: i -->
@@ -1422,7 +1420,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 [^sec-07-fn-005]: (1) In Johan van Twist’s *Generale Beschrijvinge van Indien* (1648), it is stated that borax was usually packed in a pouch of sheepskin, which was filled with oil for its better preservation (p. 65).
 [^sec-07-fn-006]: (1) Purser of the *Crispiana*. He was probably the late President's second son.
 [^sec-07-fn-007]: (2) This letter is followed by a list (*O.C.* 1906) of the writings sent home in the *Crispiana*, including accounts from Surat, Ahmadābād, Tatta, Fort St. George, and 'Nassapore' [Nasarpur]: copies of consultations and of letters to and from various factories: papers relating to the *Dolphin* and *Hopewell*, &c.
-[^sec-07-fn-008]: (3) These were factors for Courteen's Association. The letter here given and the previous one of December 26 (which was signed also by Thomas Billidge) were printed by John Darell in 1652 in his pamphlet entitled *Mr. Courten's Catastrophe and Adieu to East India*. The demand was for the money saved from the wreck of the *Little William* and paid into the Company's treasury at Madras. No satisfaction having been received, in February, 1645, a protest was drawn up at Goa, alleging that great losses had been caused to their em- ployers by the detention of this money and by the capture of the Cannanore junk, which had led to reprisals being threatened by the Malabars against Courteen's settlements, par- ticularly that at Kārwār. The junk, by the way, is stated to have belonged to 'Mamula Croe, King of Cannanore', a personage who may be identified with Mammāli Koya, the local Māppilla chief (Logan's *Malabar*, vol. i. p. 360). Darell adds that Courteen's ship, [p. 237] the *Loyalty*, was sent after the Company's *Endeavour*, with orders to capture her, but failed to effect this; also that the protest was sent home by the *Thomas and John* in October, 1645, and was pleaded at the bar of the House of Lords in the spring of 1647.
+[^sec-07-fn-008]: (3) These were factors for Courteen's Association. The letter here given and the previous one of December 26 (which was signed also by Thomas Billidge) were printed by John Darell in 1652 in his pamphlet entitled *Mr. Courten's Catastrophe and Adieu to East India*. The demand was for the money saved from the wreck of the *Little William* and paid into the Company's treasury at Madras. No satisfaction having been received, in February, 1645, a protest was drawn up at Goa, alleging that great losses had been caused to their employers by the detention of this money and by the capture of the Cannanore junk, which had led to reprisals being threatened by the Malabars against Courteen's settlements, particularly that at Kārwār. The junk, by the way, is stated to have belonged to 'Mamula Croe, King of Cannanore', a personage who may be identified with Mammāli Koya, the local Māppilla chief (Logan's *Malabar*, vol. i. p. 360). Darell adds that Courteen's ship, [p. 237] the *Loyalty*, was sent after the Company's *Endeavour*, with orders to capture her, but failed to effect this; also that the protest was sent home by the *Thomas and John* in October, 1645, and was pleaded at the bar of the House of Lords in the spring of 1647.
 [^sec-07-fn-009]: (1) The letter is endorsed as received at Surat on the same day as it was written.
 [^sec-07-fn-010]: (2) Now *O.C.* 1890. It contains copies of the narrative of Mucknell's proceedings already given (p. 196), of the letter to the Company (p. 194), of that of September 20 (p. 198), and various connected papers. It has also a copy of the letter given above.
 [^sec-07-fn-011]: (3) Murbāt. In the Dutch records it is styled 'Moerabath' (*Dagh-Register*, 1644–45, p. 244).
@@ -1597,8 +1595,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - 41, 55, 70, 77, 78, 97, 101; dispatched
 - on a voyage of discovery, 97, 118–119;
 - again on Coromandel Coast, 116, 118,
-- 140, 157, 159; returns to Bantam, 119,
-- 120, 128, 164, 168; arrives at Coromandel Coast from Bantam, 293; sails
+- 140, 157, 159; returns to Bantam, 119, 120, 128, 164, 168; arrives at Coromandel Coast from Bantam, 293; sails
 - to Tegnapatam and back to Madras, 281,
 - 282; sails for Bantam, 281, 287 (2), 289,
 - 292, 294.
@@ -1645,10 +1642,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - at, 280, 288.
 - Aleppo, dispatch of letters to and from
 - England via, 27, 57, 59, 98, 122, 143,
-- 169, 171, 299; cost of transmission of
-
-<!-- page: 359 | folio: 315 -->
-- letters to, 59; trade between Basrā and,
+- 169, 171, 299; cost of transmission of [p. 315] letters to, 59; trade between Basrā and,
 - 58; Consul at, 59; depressed state of
 - trade at, 294.
 - *Aleppo Merchant*, the, xix, 29; master
@@ -1705,8 +1699,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - by Srī Ranga Rāyalu, 44, 80; English
 - ship wrecked at, 20; fort at, 47, 48;
 - dismantling of fort at, 51, 52, 53; paintings from, 51; money due to and from
-- Company at, 49, 52, 191; prices compared with those at Madras, 118, 157;
-- abandoned by the Company’s factors,
+- Company at, 49, 52, 191; prices compared with those at Madras, 118, 157; abandoned by the Company’s factors,
 - 305, 306.
 - Armenians, 18, 278, 303, 304.
 - Arrack, 7, 19, 61, 74, 103, 226, 234, 313.
@@ -1813,8 +1806,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - to and from England via, 2, 82, 91, 98,
 - 122, 135, 143, 169, 186, 200, 236, 273;
 - sickness and mortality at, 276, 283;
-- trade at, *passim*; horses from, 2, 19, 20,
-- 147, 148, 284; Company in favour at, 58,
+- trade at, *passim*; horses from, 2, 19, 20, 147, 148, 284; Company in favour at, 58,
 - 186, 273; Courteen’s ships sail for and
 - trade at, 277, 283, 284, 309; dispute between Courteen’s and Company’s factors
 - at, 299; Indian trade to, 2, 21, 168, 186,
@@ -2036,8 +2028,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - Chhatarsāl. *See* Rao Rājā.
 - Chicacole, 206 *n.*
 - China, Dutch trade to and ships from, 22,
-- 32, 99, 134, 150; gold and other com-
-- modities from, 66, 145, 165, 167, 221,
+- 32, 99, 134, 150; gold and other commodities from, 66, 145, 165, 167, 221,
 - 223, 250, 254; loss of Dutch ships in,
 - 167; Portuguese trade to, 81, 134, 149,
 - 150, 165; trade between Manilla and,
@@ -2152,8 +2143,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - Corge, 137, 217, 300.
 - Coromandel Coast, Agents on, *see* Cogan,
 - Day, and Ivy; factors on, Bradgate,
-- Brown, Collet, Greenhill, Gurney, Hudson, Isaacson, Jermyn, Markham, Meth-
-- wold, Minn, Netlam, Olton, Peniston,
+- Brown, Collet, Greenhill, Gurney, Hudson, Isaacson, Jermyn, Markham, Methwold, Minn, Netlam, Olton, Peniston,
 - Perks, Robins, Styles, Travell, Winter
 - (Edward), Winter (Thomas), Yardley;
 - charges and complaints against factors on,
@@ -2211,10 +2201,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - the Dutch on, 288; Dutch trade on, 13,
 - 40, 45, 46, 68, 87, 117, 154, 164; Danes
 - trade on, 40, 45, 113, 155; Danish President, 75; presents for Danes at, 74, 75;
-- declining state of Portuguese affairs on,
-
-<!-- page: 364 | folio: 320 -->
-- 155; execution of a Portuguese at, *see*
+- declining state of Portuguese affairs on, [p. 320] 155; execution of a Portuguese at, *see*
 - De Miranda. *See also* Madras, Masulipatam, Petapoli, Vīravāsaram, etc.
 - Correa, Duarte Fernandez, xv, 16, 25, 142,
 - 159, 168, 171.
@@ -2322,10 +2309,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - disposal of, 125, 175; at Comoro Islands,
 - 183, 188, 189; designed for England, 203,
 - 205, 208, 209, 211, 215, 216; voyage to
-- Sind and back to Swally, 211, 231, 234;
-
-<!-- page: 365 | folio: 321 -->
-- homeward voyage of, 229, 231, 232, 234,
+- Sind and back to Swally, 211, 231, 234; [p. 321] homeward voyage of, 229, 231, 232, 234,
 - 236, 242, 247, 260.
 - Croocq, Paulus, 161, 260.
 - Cross, Joseph, 143, 165, 252.
@@ -2378,8 +2362,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - 132; accusations by and against, 72–77,
 - 102–105, 110, 112, 118; placed in command of the *Hopewell*, 74; sent to Bengal, 38; recommends continuance of trade
 - there, 78; petition from, 111; proposed
-- as Agent for Coromandel Coast, 41, 56,
-- 69, 70, 112, 116; appointed Coast Agent,
+- as Agent for Coromandel Coast, 41, 56, 69, 70, 112, 116; appointed Coast Agent,
 - 117, 126, 127, 189; desires to relinquish
 - the Agency and return home, 118, 121,
 - 157; appeals for more power for Coast
@@ -2436,10 +2419,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - Diarbekir, 58.
 - Dieppe privateers, 8, 9, 176, 232.
 - Digart (*or* Digger), Captain David, 9.
-- *Discovery*, the, xix, 8, 9, 14, 138, 146, 172,
-
-<!-- page: 366 | folio: 322 -->
-- 175, 200, 210, 213, 239, 247, 260; master
+- *Discovery*, the, xix, 8, 9, 14, 138, 146, 172, [p. 322] 175, 200, 210, 213, 239, 247, 260; master
 - of, *see* Allison *and* Minors; outward voyage
 - from England, 2, 10, 19; voyage to Gombroon and Larak and back, 1, 4, 15, 16,
 - 31, 91; designed for Mokha, 1, 23, 91, 92;
@@ -2494,8 +2474,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - commodities, 6, 10, 21, 35, 80, 84, 85,
 - 100, 122, 145, 150, 164, 171, 198, 201,
 - 202, 217, 218, 227, 278, 303, 304; fortify their settlements, 12; complaints
-- against, 16, 208, 215; complaints against
-- the English, 63; hostilities with the Portuguese (*see also* Goa), 21 (2), 100, 114,
+- against, 16, 208, 215; complaints against the English, 63; hostilities with the Portuguese (*see also* Goa), 21 (2), 100, 114,
 - 128, 151, 165; Portuguese peace negotiations with, 21, 99–100, 148, 149, 151,
 - 218; hostilities treacherously recommenced by, 148; Portuguese prisoners in
 - hands of, 129; ship of, captured by Portuguese, *see Pauw*; make peace with
@@ -2542,10 +2521,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - ships, 173, 229; declining state of trade
 - of, 90; monopoly on various commodities withdrawn, 94; Civil War affects
 - trade of, v, 95, 125, 139, 171, 172, 188;
-- dividends paid in kind, 123 (2); threat
-
-<!-- page: 367 | folio: 323 -->
-- against private traders, 123; desired to supply better ships for East Indies, 141; practice of sending out wine for factors discontinued, 145; desire to maintain friendly relations with Portuguese, 230; disapprove of employment of sailors as factors, etc., 231; desire the return of only one ship a year, 231; Courteen's accusations against, 236, 237, 276, 277, 299. *See also* Joint Stock *and* Voyage, General.
+- dividends paid in kind, 123 (2); threat [p. 323] against private traders, 123; desired to supply better ships for East Indies, 141; practice of sending out wine for factors discontinued, 145; desire to maintain friendly relations with Portuguese, 230; disapprove of employment of sailors as factors, etc., 231; desire the return of only one ship a year, 231; Courteen's accusations against, 236, 237, 276, 277, 299. *See also* Joint Stock *and* Voyage, General.
 - Elchi Beg, 46.
 - Elder, Daniel, 132.
 - *Elephant*, the, 150.
@@ -2561,8 +2537,7 @@ After a service of eight years he is now ‘looking hoamewardes’, and begs the
 - *Escrivão*, 267, 270.
 - Exchange, rate of, 207, 302.
 - *Expedition*, the, 2, 11, 147, 158, 159, 161, 172, 200; master of, *see* Gardner; voyage to Sind, Gombroon and back to Swally, 19, 20; voyage to Bantam from Swally, 19, 27; voyage to Macassar, 37, 97; goods missing from, 55; voyage to Swally from Bantam, 54, 97, 127, 138, 139, 142, 147; unfit for further service, 147.
-- Factors, lists of, 26, 289; want of, 26, 90, 142, 143, 247; salaries of, 26, 121, 132, 133, 175, 289; reduction in numbers of, 30; estates of deceased, 97; responsibility of, for unsaleable, etc., goods, 126,
-- 206; detained after expiry of covenant, 133; commended, 143; entertainment of ships' officers as, 143, 174; desire supply of wine, 145; grants to, for sea voyages, 218, 234.
+- Factors, lists of, 26, 289; want of, 26, 90, 142, 143, 247; salaries of, 26, 121, 132, 133, 175, 289; reduction in numbers of, 30; estates of deceased, 97; responsibility of, for unsaleable, etc., goods, 126, 206; detained after expiry of covenant, 133; commended, 143; entertainment of ships' officers as, 143, 174; desire supply of wine, 145; grants to, for sea voyages, 218, 234.
 - *Falcon*, the, outward voyage of, 286, 312; voyage to Sind and back to Swally, 285, 310, 313; designed for Achin, 310, 311.
 - Fanams, 42, 43, 108, 109, 116; value of, 213 *n.*
 - Fardles, 72, 203.
@@ -2655,10 +2630,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - debts due to the English at, 41, 46, 68;
 - trade at and commodities from, 46, 208;
 - 211, 233; factors at, *see* Collet *and*
-- Rogers; Coast Agent desired to reside
-
-<!-- page: 369 | folio: 325 -->
-- at, 48; borrowing of money from officials
+- Rogers; Coast Agent desired to reside [p. 325] at, 48; borrowing of money from officials
 - at, 69; Dutch trade at, 46; Dutch competition affects Company's trade in, 155,
 - 156.
 - Gold, 21, 106, 145, 185, 223, 225, 226, 255;
@@ -2825,8 +2797,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - voyage to Gombroon and back to the
 - Coast, 70, 71, 77, 78, 88, 101, 116, 173;
 - voyage to Tranquebar, etc., and back,
-- 116; voyage to Bantam, 71, 110, 114,
-- 126, 127, 133, 189; Day accused of inciting mutiny on, 74; Trumball superseded by Day in command of, 117;
+- 116; voyage to Bantam, 71, 110, 114, 126, 127, 133, 189; Day accused of inciting mutiny on, 74; Trumball superseded by Day in command of, 117;
 - Trumball reinstated, 112, 116; petition
 - from officers of, 111; Cogan sails for
 - Bantam on, in place of Day, 115, 116,
@@ -2851,7 +2822,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - letters from, 194, 198, 237.
 - Hurt, William, 17.
 - Husband, Richard, 25.
-- Ibrāhġm, 163.
+- Ibrāhīm, 163.
 - Indigo, trade in, *passim*; complaint as to
 - quality of, 4; frauds in connection with,
 - 14, 122, 123, 173, 201; trade in, in Persia,
@@ -2874,15 +2845,12 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - Isaacson, Rev. William, 196, 244, 247, 249,
 - 311.
 - Isaacson, William, 132; death of, 190.
-- Islām Khān Mashadġ, the Wazġr, 160.
+- Islām Khān Mashadī, the Wazīr, 160.
 - Ispahān, the maidān at, 297; factors at and
 - letters from, *see* Persia; necessity for retaining factory at, 4; trade at, 83, 169,
 - 274, 277; factors and merchants retire to,
 - during hot weather, 135, 268, 273; English
-- factors go to the Court at, 257, 266, 276,
-
-<!-- page: 371 | folio: 327 -->
-- 277; the Dutch at, 270; ill-treatment of Dutch chief at, 170; the Shāh invites Dutch commissary to, 272; Dutch mission to Court at, 275, 278; the Dutch ordered to leave, 282.
+- factors go to the Court at, 257, 266, 276, [p. 327] 277; the Dutch at, 270; ill-treatment of Dutch chief at, 170; the Shāh invites Dutch commissary to, 272; Dutch mission to Court at, 275, 278; the Dutch ordered to leave, 282.
 - Itimād-uddaula, the. *See* Taqī Mīrzā *and* Khalīfa Sultān.
 - Ivy, Thomas, 49, 121, 193, 227, 228, 305; letters from, *see* Madras; and private trade, 11, 45; appointed to the Coast Agency, 126, 133, 134, 190, 289; becomes President at Bantam, 291.
 - Jaccal (*or* Jackal)-ground, 305.
@@ -2918,8 +2886,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - Jilaudār Bāshī, 297 *n.*
 - Johanna. *See* Comoro Islands.
 - *John* (1), the, wrecked at Armagon, 20.
-- *John* (2), the, 205, 206, 210, 213, 214, 216,
-- 228, 230, 232, 234, 236; outward voyage of, 122, 125, 172, 175, 177, 178, 188, 189, 194, 200, 235, 238; seized by Mucknell for King Charles I, xiii, 194–197, 238–246, 249, 258, 259, 261–263; subsequent voyage of, 198, 199, 242, 262, 264; loss of, affects the Company's credit, 247, 249; Portuguese claim for money lost in, 240, 241, 263, 298, 305; obtains supplies from Courteen's *Thomas and John*, 264; members of crew, etc., ill-treated and left at St. Helena, 241, 260, 262, 264; ship's company rewarded by the King, 265; recovery of her cargo, xiv.
+- *John* (2), the, 205, 206, 210, 213, 214, 216, 228, 230, 232, 234, 236; outward voyage of, 122, 125, 172, 175, 177, 178, 188, 189, 194, 200, 235, 238; seized by Mucknell for King Charles I, xiii, 194–197, 238–246, 249, 258, 259, 261–263; subsequent voyage of, 198, 199, 242, 262, 264; loss of, affects the Company's credit, 247, 249; Portuguese claim for money lost in, 240, 241, 263, 298, 305; obtains supplies from Courteen's *Thomas and John*, 264; members of crew, etc., ill-treated and left at St. Helena, 241, 260, 262, 264; ship's company rewarded by the King, 265; recovery of her cargo, xiv.
 - Joint Stock, Third, 62, 79; winding up of, 26, 41, 55, 83, 142, 172, 232; shipping and money of General Voyage used for, xxvii, 29, 30, 118, 214; debts of, 33, 96, 117; trade on behalf of, 77, 87, 97, 100; accounts of, 87, 88; remains of, transferred to Fourth Joint Stock, 142; Fourth, accounts of, 236, 311; Fourth, failure of, v.
 - *Jonas*, the, xix, 97, 119; loss of, 40, 86.
 - Jones, Daniel, 225.
@@ -3060,10 +3027,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 -   etc., at, 250; Spanish envoy to, 224; excessive customs duties at, 250; trade between Japan, Manilla and, 250; Captain-General of, 254; letters from Portuguese
 -   at, 254.
 - Macassar, 166; commodities from, 37; trade
--   at, in various commodities, 37, 51, 115
-
-<!-- page: 373 | folio: 329 -->
-- 192, 222, 293; dispatch of ships for, 97;
+-   at, in various commodities, 37, 51, 115 [p. 329] 192, 222, 293; dispatch of ships for, 97;
 -   Danes trade to, 75; trade between Achin,
 -   Manilla and, 131, 192, 222, 223.
 - Mace, 142, 218.
@@ -3116,8 +3080,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 -   and Danish ships at, 33, 156.
 - *Magdalen*, the, 9.
 - Mahmūd Ādil Shāh, King of Bījāpur, 45;
--   Portuguese treaty with, 22; Dutch ex-
-- cluded from his dominions, 22; encourages Company's trade, 108; allies himself with Vijayanagar, 115, 116.
+-   Portuguese treaty with, 22; Dutch excluded from his dominions, 22; encourages Company's trade, 108; allies himself with Vijayanagar, 115, 116.
 - Mahmūd Āghā, Governor of Basrā and
 -   afterwards Shāhbandar, 274, 275, 284.
 - Mahmūd Hussain, 162.
@@ -3165,10 +3128,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 -   ship in, *see Bona Speranza*; Dutch enforce payment of customs from ships
 -   passing through, 131; Dutch ships in,
 -   179.
-- Malaya (Chinnana Chetti), 50, 194, 280, 281;
-
-<!-- page: 374 | folio: 330 -->
-- honoured by Srī Ranga Rāyalu, 81; endeavours to wrest privileges from the English at Madras, 156; hinders Company's trade, 157; regains influence with the King of Vijayanagar and appointed his Treasurer, 154, 290; made Governor of Pulicat district, 154 *n.*; supersedes Damarla Venkatappa, 154; is deprived of his office and imprisoned, 154 *n.*; goods seized and family imprisoned at Pulicat, 288 *n.*; quarrel with the Dutch, 279, 280, 287, 288; proposal to purchase a junk from, 281; commands Vijayanagar troops against the Dutch, 285, 290, 291, 292; assistance of English factors desired by, 285; holds Dutch prisoners to ransom, 288; assists the Company, 290.
+- Malaya (Chinnana Chetti), 50, 194, 280, 281; [p. 330] honoured by Srī Ranga Rāyalu, 81; endeavours to wrest privileges from the English at Madras, 156; hinders Company's trade, 157; regains influence with the King of Vijayanagar and appointed his Treasurer, 154, 290; made Governor of Pulicat district, 154 *n.*; supersedes Damarla Venkatappa, 154; is deprived of his office and imprisoned, 154 *n.*; goods seized and family imprisoned at Pulicat, 288 *n.*; quarrel with the Dutch, 279, 280, 287, 288; proposal to purchase a junk from, 281; commands Vijayanagar troops against the Dutch, 285, 290, 291, 292; assistance of English factors desired by, 285; holds Dutch prisoners to ransom, 288; assists the Company, 290.
 - Maldives, the, 37, 56 *n.*
 - Malha, Shoals of, 109, 153, 187.
 - Mālpur, saltpetre from, 164, 205, 233.
@@ -3257,8 +3217,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 -   195, 239; gold from, 106; dispatch of
 -   Courteen’s ship for, 194, 200; Portuguese at, 239, 249; Portuguese trade to,
 -   and ships at, 21, 57, 145, 149; Portuguese ship wrecked near, *see São Bento*;
--   Portuguese Governor of, 195, 286; Por-
-- tuguese take passages on Company’s ship
+-   Portuguese Governor of, 195, 286; Portuguese take passages on Company’s ship
 -   from, 195, 261, 263; King of Portugal’s
 -   agent at, 195.
 - Mucknell, John, xii, xiii, xiv, 175, 237 *n.*;
@@ -3485,10 +3444,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - 248, 255, 311; dispatch of ships for and
 - from, 147, 161, 211, 216, 311; shipment
 - of passengers and freight goods from, 276,
-- 309; Courteen's ships and factory at and
-
-<!-- page: 378 | folio: 334 -->
-- trade to, 10, 29, 62, 140, 148, 168, 199, 217, 231, 255.
+- 309; Courteen's ships and factory at and [p. 334] trade to, 10, 29, 62, 140, 148, 168, 199, 217, 231, 255.
 - Ramsay, Anthony, 36.
 - Rānder, 202.
 - Rango, 182.
@@ -3734,8 +3690,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - of, *see* Broadbent, Clark, Lee, *and* Stallon;
 - forced to abandon voyage to Bantam, 16;
 - voyage to Gombroon, Aden, and Red
-- Sea, 3, 19; sails for Masulipatam, etc.,
-- 19; voyage to Damān and back, 19;
+- Sea, 3, 19; sails for Masulipatam, etc., 19; voyage to Damān and back, 19;
 - voyage to Persia and back, 19, 31, 91;
 - again sails to Gombroon and back to
 - Swally, 20, 31, 88, 92; voyage to Sind
@@ -3792,10 +3747,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - 230, 236, 247, 249, 250, 311; borrowing
 - of money at, 8, 30, 34, 87, 90, 152, 311;
 - factory accounts, 16, 236 *n.*; bleaching at,
-- 6; trade at, *passim*; supplies for, 17, 61,
-
-<!-- page: 381 | folio: 337 -->
-- 87, 88; money-changing and mint at, 17, 23, 209, 210; customs and customhouse at, 23, 24, 25, 99, 160, 165; customs remitted to the English and Dutch at, 160, 162, 214; tribute to Shāh Jahān for customs, etc., at, 23, 24; trade between Bantam, Manilla, Mokha, Persia, and, 10, 82, 84, 85, 142, 172, 192, 193, 231; shipment of freight goods for and from, 10, 19, 31, 62, 91, 101, 311; the *Discovery's* delayed voyage causes trouble at, vi, 92, 144; effect of the loss of *John* on trade at, xvi, 247, 249; trouble with native brokers at, 300; Jesuits at, 64; Courteen's Association claim right to trade at, 286; junks of, molested by the Dutch and Portuguese, 269, 272; Dutch President at, 26, 38; Dutch trade at, 22, 35, 36, 100, 150.
+- 6; trade at, *passim*; supplies for, 17, 61, [p. 337] 87, 88; money-changing and mint at, 17, 23, 209, 210; customs and customhouse at, 23, 24, 25, 99, 160, 165; customs remitted to the English and Dutch at, 160, 162, 214; tribute to Shāh Jahān for customs, etc., at, 23, 24; trade between Bantam, Manilla, Mokha, Persia, and, 10, 82, 84, 85, 142, 172, 192, 193, 231; shipment of freight goods for and from, 10, 19, 31, 62, 91, 101, 311; the *Discovery's* delayed voyage causes trouble at, vi, 92, 144; effect of the loss of *John* on trade at, xvi, 247, 249; trouble with native brokers at, 300; Jesuits at, 64; Courteen's Association claim right to trade at, 286; junks of, molested by the Dutch and Portuguese, 269, 272; Dutch President at, 26, 38; Dutch trade at, 22, 35, 36, 100, 150.
 - Surgeons. *See* Anthony, Boughton, Hinton, Lee, Pearce, Reynolds, Tindall.
 - Surgical instruments, 173.
 - Swally, 183; best time for ships to arrive at, 14, 28; Shāh Jahān's junk at, 91; dispatch of ships for and from, *passim*; building and repairing of ships at, 148, 214, 248, 311, 313; Courteen's ships at, 286, 309, 312.
@@ -3901,8 +3853,7 @@ Goa, Viceroy of, 21, 22, 61; letter from, 66; negotiations between Company's fac
 - proposal to abandon trade in, 48; wars in,
 - hinder communication between factories,
 - 56; civil war in, 55, 65, 67, 70, 115, 154,
-- 184, 194 *n.*; King of Bījāpur assists in
-- quelling rebels in, 115, 116; King of, *see*
+- 184, 194 *n.*; King of Bījāpur assists in quelling rebels in, 115, 116; King of, *see*
 - Śrī Ranga Rāyalu *and* Venkatapati.
 - Vīravāsaram, factory records, 96, 97; factors at, *see* Coromandel Coast.
 - Vīrjī Vorā, 5, 7, 8, 18, 60, 86, 99, 107, 108,

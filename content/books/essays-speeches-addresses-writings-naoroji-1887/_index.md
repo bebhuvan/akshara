@@ -1,6 +1,6 @@
 ---
 title: "Essays, Speeches, Addresses and Writings (on Indian Politics) of the Hon'ble Dadabhai Naoroji"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Edited by Chunilal Lallubhai Parekh — Including The Wants and Means of India, On the Commerce of India, Financial Administration of India, Indian Exchanges, Bi-Metallism, and Baroda Administration"
 author: "Dadabhai Naoroji, Chunilal Lallubhai Parekh"
 author_slug: "dadabhai-naoroji"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 89.4
+rubric_score: 83.9
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -33,19 +33,19 @@ rubric_pillars:
     max: 25.0
     notes: "-3.0: 1 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
-    score: 20.0
+    score: 14.5
     max: 25.0
-    notes: "-5.0: 1 Blind Totals Strip disagreement(s)"
+    notes: "-5.0: 1 Blind Totals Strip disagreement(s); -4.0: 1 collapsed/jammed table row warning(s); -1.5: 1 ragged table geometry warning(s)"
   - name: "Orthography & Diacritics"
     score: 22.4
     max: 25.0
     notes: "-2.6: 13 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (15 open review items); 41 of 607 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (17 open review items); 41 of 607 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 101 fixes · 41 pp. checked"
+  - "Scan-Triaged: 102 fixes · 41 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 72/73 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -346,7 +346,7 @@ editorial_note_markdown: |-
   - **Source File**: `essays-speeches-addresses-writings-naoroji-1887.originals.pdf`
   - **Source SHA-256**: `e9f99d359f9f6aea61d5f0d7ddb6d0a0c30fb33a00c52648293cafaee0b596d0`
   - **Leaf Accounting**: 615 PDF leaves — **607** content leaves transcribed, **8** blank/tissue leaves (`5, 6, 7, 609, 610, 611, 612, 613`), **0** failed leaves.
-  - **Edition Status**: `community` (**89.4 / 100** Rubric Score)
+  - **Edition Status**: `community` (**83.9 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -357,16 +357,18 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (607 pp.).
   - **Reader**: Read by gemini-3.8-flash on 607 of 607 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 101 replayed correction(s). Automated reading (15 open review items); 41 of 607 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 102 replayed correction(s). Automated reading (17 open review items); 41 of 607 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **44 finding(s) across 23 leaf(s)** (pp. 73, 77, 173, 179, 188, 196, 198, 199, 203, 205 (+13 more)): table compositor arithmetic variant.
+  - **45 finding(s) across 24 leaf(s)** (pp. 73, 77, 173, 179, 188, 196, 198, 199, 203, 205 (+14 more)): table compositor arithmetic variant.
   - **32 finding(s) across 23 leaf(s)** (pp. 73, 74, 76, 173, 179, 184, 189, 193, 200, 206 (+13 more)): table blind total confirmed.
   - **13 finding(s) across 8 leaf(s)** (pp. 167, 175, 177, 254, 301, 361, 413, 511): faded or blotted `<unclear>` passages awaiting human scan inspection.
   - **8 finding(s) across 6 leaf(s)** (pp. 32, 402, 427, 440, 470, 606): rare character.
+  - **1 finding(s) across 1 leaf(s)** (pp. 77): table collapsed rows.
   - **1 finding(s) across 1 leaf(s)** (pp. 237): pages where a footnote marker and note body could not be paired automatically.
   - **1 finding(s) across 1 leaf(s)** (pp. 451): table total rows where the isolated 450-DPI strip check differed from full-page reading.
+  - **1 finding(s) across 1 leaf(s)** (pp. 601): tables where one or more rows have inconsistent column width relative to the header.
   - **1 finding(s) across 1 leaf(s)** (pp. 30): attested compositor spelling variants preserved diplomatically from the scan.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
@@ -374,4 +376,4 @@ editorial_note_markdown: |-
 
 Edited by Chunilal Lallubhai Parekh — Including The Wants and Means of India, On the Commerce of India, Financial Administration of India, Indian Exchanges, Bi-Metallism, and Baroda Administration. Archival scope: spanning 1865-1887; covering All-India, Bombay, Baroda, Punjab, London; focusing on wants and means of india, commerce of india, financial administration, bimetallism, indian exchanges. Original imprint: Bombay: Caxton Printing Works (1887).
 
-Digitized from Internet Archive copy [`essaysspeechesa00paregoog`](https://archive.org/details/essaysspeechesa00paregoog) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **89.4/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (190), and statistical tables (149) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`essaysspeechesa00paregoog`](https://archive.org/details/essaysspeechesa00paregoog) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **83.9/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (190), and statistical tables (149) are preserved faithfully from the source camera scans.

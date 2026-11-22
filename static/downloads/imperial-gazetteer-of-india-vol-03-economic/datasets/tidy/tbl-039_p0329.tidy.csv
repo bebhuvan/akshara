@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,1,summary,,Average,2,Column 2,1882–3 to 1891–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,1,summary,,Average,3,Cwt.,"9,279,565",9279565.0,cwt,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,1,summary,,Average,4,Lakhs of rupees.,"6,15",615.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,2,summary,,Average,2,Column 2,1892–3 to 1901–2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,2,summary,,Average,3,Cwt.,"11,771,835",11771835.0,cwt,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,2,summary,,Average,4,Lakhs of rupees.,"9,54",954.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,3,data,,Year,2,Column 2,1902–3,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,3,data,,Year,3,Cwt.,"13,036,486",13036486.0,cwt,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,3,data,,Year,4,Lakhs of rupees.,"11,13",1113.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,4,data,,Year,2,Column 2,1903–4,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,4,data,,Year,3,Cwt.,"13,721,447",13721447.0,cwt,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,4,data,,Year,4,Lakhs of rupees.,"11,72",1172.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,5,data,,Year,2,Column 2,1904–5,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,5,data,,Year,3,Cwt.,"12,875,312",12875312.0,cwt,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-039,Table 39,329,287,5,data,,Year,4,Lakhs of rupees.,"11,97",1197.0,Rs,False,False

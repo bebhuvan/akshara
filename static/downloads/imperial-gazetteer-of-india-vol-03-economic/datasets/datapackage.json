@@ -1,0 +1,7893 @@
+{
+  "profile": "tabular-data-package",
+  "name": "akshara-imperial-gazetteer-of-india-vol-03-economic",
+  "title": "The Imperial Gazetteer of India: The Indian Empire, Vol. III — Economic — Historical Statistical Tables",
+  "licenses": [
+    {
+      "name": "CC0-1.0",
+      "title": "Public Domain"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Great Britain. India Office",
+      "role": "author"
+    }
+  ],
+  "temporal": "1881-1908",
+  "spatial": "All-India",
+  "resources": [
+    {
+      "name": "tbl-001-diplomatic",
+      "title": "Table 1 (Diplomatic Matrix)",
+      "path": "tables/tbl-001_p0043.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-001-tidy",
+      "title": "Table 1 (Tidy Observations)",
+      "path": "tidy/tbl-001_p0043.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-002-diplomatic",
+      "title": "Table 2 (Diplomatic Matrix)",
+      "path": "tables/tbl-002_p0044.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-002-tidy",
+      "title": "Table 2 (Tidy Observations)",
+      "path": "tidy/tbl-002_p0044.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-003-diplomatic",
+      "title": "Table 3 (Diplomatic Matrix)",
+      "path": "tables/tbl-003_p0045.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-003-tidy",
+      "title": "Table 3 (Tidy Observations)",
+      "path": "tidy/tbl-003_p0045.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-004-diplomatic",
+      "title": "Table 4 (Diplomatic Matrix)",
+      "path": "tables/tbl-004_p0059.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-004-tidy",
+      "title": "Table 4 (Tidy Observations)",
+      "path": "tidy/tbl-004_p0059.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-005-diplomatic",
+      "title": "Table 5 (Diplomatic Matrix)",
+      "path": "tables/tbl-005_p0126.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-005-tidy",
+      "title": "Table 5 (Tidy Observations)",
+      "path": "tidy/tbl-005_p0126.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-006-diplomatic",
+      "title": "Classification of Areas (in Square Miles) in the Principal Provinces, 1903-4 (Diplomatic Matrix)",
+      "path": "tables/tbl-006_p0139.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-006-tidy",
+      "title": "Classification of Areas (in Square Miles) in the Principal Provinces, 1903-4 (Tidy Observations)",
+      "path": "tidy/tbl-006_p0139.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-007-diplomatic",
+      "title": "TABLE II Principal Crops cultivated in India (Diplomatic Matrix)",
+      "path": "tables/tbl-007_p0140.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-007-tidy",
+      "title": "TABLE II Principal Crops cultivated in India (Tidy Observations)",
+      "path": "tidy/tbl-007_p0140.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-008-diplomatic",
+      "title": "TABLE II—(continued) Principal Crops cultivated in India (Diplomatic Matrix)",
+      "path": "tables/tbl-008_p0141.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-008-tidy",
+      "title": "TABLE II—(continued) Principal Crops cultivated in India (Tidy Observations)",
+      "path": "tidy/tbl-008_p0141.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-009-diplomatic",
+      "title": "Areas (in Square Miles) under Principal Crops in Important Provinces, 1903–4 (Diplomatic Matrix)",
+      "path": "tables/tbl-009_p0142.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-009-tidy",
+      "title": "Areas (in Square Miles) under Principal Crops in Important Provinces, 1903–4 (Tidy Observations)",
+      "path": "tidy/tbl-009_p0142.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-010-diplomatic",
+      "title": "Number of Live-Stock, and of Ploughs and Carts, 1903–4 (Diplomatic Matrix)",
+      "path": "tables/tbl-010_p0143.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-010-tidy",
+      "title": "Number of Live-Stock, and of Ploughs and Carts, 1903–4 (Tidy Observations)",
+      "path": "tidy/tbl-010_p0143.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-011-diplomatic",
+      "title": "Table 11 (Diplomatic Matrix)",
+      "path": "tables/tbl-011_p0171.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-011-tidy",
+      "title": "Table 11 (Tidy Observations)",
+      "path": "tidy/tbl-011_p0171.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-012-diplomatic",
+      "title": "Table 12 (Diplomatic Matrix)",
+      "path": "tables/tbl-012_p0172.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-012-tidy",
+      "title": "Table 12 (Tidy Observations)",
+      "path": "tidy/tbl-012_p0172.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-013-diplomatic",
+      "title": "Table 13 (Diplomatic Matrix)",
+      "path": "tables/tbl-013_p0174.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-013-tidy",
+      "title": "Table 13 (Tidy Observations)",
+      "path": "tidy/tbl-013_p0174.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-014-diplomatic",
+      "title": "Table 14 (Diplomatic Matrix)",
+      "path": "tables/tbl-014_p0179.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-014-tidy",
+      "title": "Table 14 (Tidy Observations)",
+      "path": "tidy/tbl-014_p0179.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-015-diplomatic",
+      "title": "Table 15 (Diplomatic Matrix)",
+      "path": "tables/tbl-015_p0182.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-015-tidy",
+      "title": "Table 15 (Tidy Observations)",
+      "path": "tidy/tbl-015_p0182.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-016-diplomatic",
+      "title": "Table 16 (Diplomatic Matrix)",
+      "path": "tables/tbl-016_p0188.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-016-tidy",
+      "title": "Table 16 (Tidy Observations)",
+      "path": "tidy/tbl-016_p0188.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-017-diplomatic",
+      "title": "Table 17 (Diplomatic Matrix)",
+      "path": "tables/tbl-017_p0289.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-017-tidy",
+      "title": "Table 17 (Tidy Observations)",
+      "path": "tidy/tbl-017_p0289.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-018-diplomatic",
+      "title": "Table 18 (Diplomatic Matrix)",
+      "path": "tables/tbl-018_p0292.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-018-tidy",
+      "title": "Table 18 (Tidy Observations)",
+      "path": "tidy/tbl-018_p0292.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-019-diplomatic",
+      "title": "Table 19 (Diplomatic Matrix)",
+      "path": "tables/tbl-019_p0293.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-019-tidy",
+      "title": "Table 19 (Tidy Observations)",
+      "path": "tidy/tbl-019_p0293.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-020-diplomatic",
+      "title": "TABLE I. Trade in Gums, Resins, &c. (Diplomatic Matrix)",
+      "path": "tables/tbl-020_p0295.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-020-tidy",
+      "title": "TABLE I. Trade in Gums, Resins, &c. (Tidy Observations)",
+      "path": "tidy/tbl-020_p0295.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-021-diplomatic",
+      "title": "TABLE II. Trade in Oilseeds, Oils, and Perfumery (Diplomatic Matrix)",
+      "path": "tables/tbl-021_p0295.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-021-tidy",
+      "title": "TABLE II. Trade in Oilseeds, Oils, and Perfumery (Tidy Observations)",
+      "path": "tidy/tbl-021_p0295.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-022-diplomatic",
+      "title": "TABLE III. TRADE IN DYES AND TANS (Diplomatic Matrix)",
+      "path": "tables/tbl-022_p0296.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-022-tidy",
+      "title": "TABLE III. TRADE IN DYES AND TANS (Tidy Observations)",
+      "path": "tidy/tbl-022_p0296.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-023-diplomatic",
+      "title": "TABLE IV. TRADE IN ANIMAL PRODUCTS (Diplomatic Matrix)",
+      "path": "tables/tbl-023_p0296.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-023-tidy",
+      "title": "TABLE IV. TRADE IN ANIMAL PRODUCTS (Tidy Observations)",
+      "path": "tidy/tbl-023_p0296.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-024-diplomatic",
+      "title": "TABLE V. TRADE IN FIBRES, TEXTILES, &C. (Diplomatic Matrix)",
+      "path": "tables/tbl-024_p0297.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-024-tidy",
+      "title": "TABLE V. TRADE IN FIBRES, TEXTILES, &C. (Tidy Observations)",
+      "path": "tidy/tbl-024_p0297.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-025-diplomatic",
+      "title": "TABLE VI. TRADE IN EDIBLE SUBSTANCES (Diplomatic Matrix)",
+      "path": "tables/tbl-025_p0297.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-025-tidy",
+      "title": "TABLE VI. TRADE IN EDIBLE SUBSTANCES (Tidy Observations)",
+      "path": "tidy/tbl-025_p0297.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-026-diplomatic",
+      "title": "TABLE VII Trade in Metals and Minerals (Diplomatic Matrix)",
+      "path": "tables/tbl-026_p0298.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-026-tidy",
+      "title": "TABLE VII Trade in Metals and Minerals (Tidy Observations)",
+      "path": "tidy/tbl-026_p0298.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-027-diplomatic",
+      "title": "Table 27 (Diplomatic Matrix)",
+      "path": "tables/tbl-027_p0302.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-027-tidy",
+      "title": "Table 27 (Tidy Observations)",
+      "path": "tidy/tbl-027_p0302.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-028-diplomatic",
+      "title": "Table 28 (Diplomatic Matrix)",
+      "path": "tables/tbl-028_p0310.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-028-tidy",
+      "title": "Table 28 (Tidy Observations)",
+      "path": "tidy/tbl-028_p0310.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-029-diplomatic",
+      "title": "Trade in Merchandise. (Diplomatic Matrix)",
+      "path": "tables/tbl-029_p0314.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-029-tidy",
+      "title": "Trade in Merchandise. (Tidy Observations)",
+      "path": "tidy/tbl-029_p0314.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-030-diplomatic",
+      "title": "Table 30 (Diplomatic Matrix)",
+      "path": "tables/tbl-030_p0318.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-030-tidy",
+      "title": "Table 30 (Tidy Observations)",
+      "path": "tidy/tbl-030_p0318.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-031-diplomatic",
+      "title": "Table 31 (Diplomatic Matrix)",
+      "path": "tables/tbl-031_p0318.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-031-tidy",
+      "title": "Table 31 (Tidy Observations)",
+      "path": "tidy/tbl-031_p0318.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-032-diplomatic",
+      "title": "Table 32 (Diplomatic Matrix)",
+      "path": "tables/tbl-032_p0319.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-032-tidy",
+      "title": "Table 32 (Tidy Observations)",
+      "path": "tidy/tbl-032_p0319.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-033-diplomatic",
+      "title": "Table 33 (Diplomatic Matrix)",
+      "path": "tables/tbl-033_p0320.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-033-tidy",
+      "title": "Table 33 (Tidy Observations)",
+      "path": "tidy/tbl-033_p0320.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-034-diplomatic",
+      "title": "Table 34 (Diplomatic Matrix)",
+      "path": "tables/tbl-034_p0324.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-034-tidy",
+      "title": "Table 34 (Tidy Observations)",
+      "path": "tidy/tbl-034_p0324.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-035-diplomatic",
+      "title": "Table 35 (Diplomatic Matrix)",
+      "path": "tables/tbl-035_p0324.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-035-tidy",
+      "title": "Table 35 (Tidy Observations)",
+      "path": "tidy/tbl-035_p0324.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-036-diplomatic",
+      "title": "Table 36 (Diplomatic Matrix)",
+      "path": "tables/tbl-036_p0325.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-036-tidy",
+      "title": "Table 36 (Tidy Observations)",
+      "path": "tidy/tbl-036_p0325.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-037-diplomatic",
+      "title": "Table 37 (Diplomatic Matrix)",
+      "path": "tables/tbl-037_p0326.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-037-tidy",
+      "title": "Table 37 (Tidy Observations)",
+      "path": "tidy/tbl-037_p0326.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-038-diplomatic",
+      "title": "Table 38 (Diplomatic Matrix)",
+      "path": "tables/tbl-038_p0328.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-038-tidy",
+      "title": "Table 38 (Tidy Observations)",
+      "path": "tidy/tbl-038_p0328.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-039-diplomatic",
+      "title": "Table 39 (Diplomatic Matrix)",
+      "path": "tables/tbl-039_p0329.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-039-tidy",
+      "title": "Table 39 (Tidy Observations)",
+      "path": "tidy/tbl-039_p0329.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-040-diplomatic",
+      "title": "Table 40 (Diplomatic Matrix)",
+      "path": "tables/tbl-040_p0330.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-040-tidy",
+      "title": "Table 40 (Tidy Observations)",
+      "path": "tidy/tbl-040_p0330.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-041-diplomatic",
+      "title": "Table 41 (Diplomatic Matrix)",
+      "path": "tables/tbl-041_p0331.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-041-tidy",
+      "title": "Table 41 (Tidy Observations)",
+      "path": "tidy/tbl-041_p0331.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-042-diplomatic",
+      "title": "Table 42 (Diplomatic Matrix)",
+      "path": "tables/tbl-042_p0331.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-042-tidy",
+      "title": "Table 42 (Tidy Observations)",
+      "path": "tidy/tbl-042_p0331.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-043-diplomatic",
+      "title": "Table 43 (Diplomatic Matrix)",
+      "path": "tables/tbl-043_p0332.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-043-tidy",
+      "title": "Table 43 (Tidy Observations)",
+      "path": "tidy/tbl-043_p0332.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-044-diplomatic",
+      "title": "Table 44 (Diplomatic Matrix)",
+      "path": "tables/tbl-044_p0336.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-044-tidy",
+      "title": "Table 44 (Tidy Observations)",
+      "path": "tidy/tbl-044_p0336.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-045-diplomatic",
+      "title": "Table 45 (Diplomatic Matrix)",
+      "path": "tables/tbl-045_p0337.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-045-tidy",
+      "title": "Table 45 (Tidy Observations)",
+      "path": "tidy/tbl-045_p0337.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-046-diplomatic",
+      "title": "Table 46 (Diplomatic Matrix)",
+      "path": "tables/tbl-046_p0338.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-046-tidy",
+      "title": "Table 46 (Tidy Observations)",
+      "path": "tidy/tbl-046_p0338.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-047-diplomatic",
+      "title": "Value of Imports and Exports of Merchandise, 1882–3 to 1904–5 (Diplomatic Matrix)",
+      "path": "tables/tbl-047_p0349.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-047-tidy",
+      "title": "Value of Imports and Exports of Merchandise, 1882–3 to 1904–5 (Tidy Observations)",
+      "path": "tidy/tbl-047_p0349.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-048-diplomatic",
+      "title": "Foreign Sea-borne Trade (Imports) of British India, 1904–5 (Diplomatic Matrix)",
+      "path": "tables/tbl-048_p0350.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-048-tidy",
+      "title": "Foreign Sea-borne Trade (Imports) of British India, 1904–5 (Tidy Observations)",
+      "path": "tidy/tbl-048_p0350.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-049-diplomatic",
+      "title": "TABLE II (cont.). Foreign Sea-borne Trade (Imports) of British India, 1904–5 (Diplomatic Matrix)",
+      "path": "tables/tbl-049_p0351.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-049-tidy",
+      "title": "TABLE II (cont.). Foreign Sea-borne Trade (Imports) of British India, 1904–5 (Tidy Observations)",
+      "path": "tidy/tbl-049_p0351.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-050-diplomatic",
+      "title": "TABLE III. Foreign Sea-borne Trade (Exports) of British India, 1904–5 (Diplomatic Matrix)",
+      "path": "tables/tbl-050_p0351.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-050-tidy",
+      "title": "TABLE III. Foreign Sea-borne Trade (Exports) of British India, 1904–5 (Tidy Observations)",
+      "path": "tidy/tbl-050_p0351.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-051-diplomatic",
+      "title": "TABLE IV. DISTRIBUTION OF IMPORTS AND EXPORTS (INCLUDING RE-EXPORTS) BY COUNTRIES IN 1899–1900 AND 1904–5 (Exclusive of Government Stores, and of Government and Private Treasure.) (Diplomatic Matrix)",
+      "path": "tables/tbl-051_p0353.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-051-tidy",
+      "title": "TABLE IV. DISTRIBUTION OF IMPORTS AND EXPORTS (INCLUDING RE-EXPORTS) BY COUNTRIES IN 1899–1900 AND 1904–5 (Exclusive of Government Stores, and of Government and Private Treasure.) (Tidy Observations)",
+      "path": "tidy/tbl-051_p0353.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-052-diplomatic",
+      "title": "TABLE V Distribution of Principal Exports of Raw Produce in 1899–1900 and 1904–5 (in cwts.). (Diplomatic Matrix)",
+      "path": "tables/tbl-052_p0354.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-052-tidy",
+      "title": "TABLE V Distribution of Principal Exports of Raw Produce in 1899–1900 and 1904–5 (in cwts.). (Tidy Observations)",
+      "path": "tidy/tbl-052_p0354.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-053-diplomatic",
+      "title": "LAND-BORNE FOREIGN TRADE FOR FIVE YEARS ENDING 1904–5 (Diplomatic Matrix)",
+      "path": "tables/tbl-053_p0355.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-053-tidy",
+      "title": "LAND-BORNE FOREIGN TRADE FOR FIVE YEARS ENDING 1904–5 (Tidy Observations)",
+      "path": "tidy/tbl-053_p0355.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-054-diplomatic",
+      "title": "Imports of Principal Articles into British Provinces and Native States from British Provinces, Native States, and Chief Seaports in 1899–1900 and 1904–5 (Diplomatic Matrix)",
+      "path": "tables/tbl-054_p0356.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-054-tidy",
+      "title": "Imports of Principal Articles into British Provinces and Native States from British Provinces, Native States, and Chief Seaports in 1899–1900 and 1904–5 (Tidy Observations)",
+      "path": "tidy/tbl-054_p0356.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-055-diplomatic",
+      "title": "(In Lakhs of Rupees) (Diplomatic Matrix)",
+      "path": "tables/tbl-055_p0356.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-055-tidy",
+      "title": "(In Lakhs of Rupees) (Tidy Observations)",
+      "path": "tidy/tbl-055_p0356.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-056-diplomatic",
+      "title": "Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees) (Diplomatic Matrix)",
+      "path": "tables/tbl-056_p0357.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-056-tidy",
+      "title": "Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees) (Tidy Observations)",
+      "path": "tidy/tbl-056_p0357.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-057-diplomatic",
+      "title": "Incidence of the Value of Trade, in Rupees, on each Acre of Cultivation and each Head of Population, 1903–4 (Diplomatic Matrix)",
+      "path": "tables/tbl-057_p0357.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-057-tidy",
+      "title": "Incidence of the Value of Trade, in Rupees, on each Acre of Cultivation and each Head of Population, 1903–4 (Tidy Observations)",
+      "path": "tidy/tbl-057_p0357.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-058-diplomatic",
+      "title": "Table 58 (Diplomatic Matrix)",
+      "path": "tables/tbl-058_p0373.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-058-tidy",
+      "title": "Table 58 (Tidy Observations)",
+      "path": "tidy/tbl-058_p0373.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-059-diplomatic",
+      "title": "Table 59 (Diplomatic Matrix)",
+      "path": "tables/tbl-059_p0387.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-059-tidy",
+      "title": "Table 59 (Tidy Observations)",
+      "path": "tidy/tbl-059_p0387.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-060-diplomatic",
+      "title": "Table 60 (Diplomatic Matrix)",
+      "path": "tables/tbl-060_p0388.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-060-tidy",
+      "title": "Table 60 (Tidy Observations)",
+      "path": "tidy/tbl-060_p0388.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-061-diplomatic",
+      "title": "TABLE I General Results of Working (Diplomatic Matrix)",
+      "path": "tables/tbl-061_p0453.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-061-tidy",
+      "title": "TABLE I General Results of Working (Tidy Observations)",
+      "path": "tidy/tbl-061_p0453.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-062-diplomatic",
+      "title": "TABLE II Mileage open for Traffic at Different Periods, with Total Outlay (Diplomatic Matrix)",
+      "path": "tables/tbl-062_p0453.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-062-tidy",
+      "title": "TABLE II Mileage open for Traffic at Different Periods, with Total Outlay (Tidy Observations)",
+      "path": "tidy/tbl-062_p0453.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-063-diplomatic",
+      "title": "Table III Railway Mileage open for Traffic at the End of June, 1905, showing Gauges and Agencies by which worked (Diplomatic Matrix)",
+      "path": "tables/tbl-063_p0454.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-063-tidy",
+      "title": "Table III Railway Mileage open for Traffic at the End of June, 1905, showing Gauges and Agencies by which worked (Tidy Observations)",
+      "path": "tidy/tbl-063_p0454.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-064-diplomatic",
+      "title": "Table IV. Number of Passengers carried and Earnings (Diplomatic Matrix)",
+      "path": "tables/tbl-064_p0454.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-064-tidy",
+      "title": "Table IV. Number of Passengers carried and Earnings (Tidy Observations)",
+      "path": "tidy/tbl-064_p0454.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-065-diplomatic",
+      "title": "TABLE V Average Rates charged for Passengers and Goods (Diplomatic Matrix)",
+      "path": "tables/tbl-065_p0455.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-065-tidy",
+      "title": "TABLE V Average Rates charged for Passengers and Goods (Tidy Observations)",
+      "path": "tidy/tbl-065_p0455.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-066-diplomatic",
+      "title": "TABLE VI. Tonnage of Goods carried and Earnings (Diplomatic Matrix)",
+      "path": "tables/tbl-066_p0455.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-066-tidy",
+      "title": "TABLE VI. Tonnage of Goods carried and Earnings (Tidy Observations)",
+      "path": "tidy/tbl-066_p0455.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-067-diplomatic",
+      "title": "Dates of Expiration of Contracts with Companies which own or work Principal Railways. (Diplomatic Matrix)",
+      "path": "tables/tbl-067_p0456.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-067-tidy",
+      "title": "Dates of Expiration of Contracts with Companies which own or work Principal Railways. (Tidy Observations)",
+      "path": "tidy/tbl-067_p0456.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-068-diplomatic",
+      "title": "Comparative Statistics of Railway Development in the Principal Countries of Europe, the United States of America, Japan, and India (Diplomatic Matrix)",
+      "path": "tables/tbl-068_p0456.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-068-tidy",
+      "title": "Comparative Statistics of Railway Development in the Principal Countries of Europe, the United States of America, Japan, and India (Tidy Observations)",
+      "path": "tidy/tbl-068_p0456.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-069-diplomatic",
+      "title": "Railways worked by each Railway Administration on June 30, 1905 (Diplomatic Matrix)",
+      "path": "tables/tbl-069_p0457.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-069-tidy",
+      "title": "Railways worked by each Railway Administration on June 30, 1905 (Tidy Observations)",
+      "path": "tidy/tbl-069_p0457.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-070-diplomatic",
+      "title": "Railways worked by each Railway Administration on June 30, 1905 (Diplomatic Matrix)",
+      "path": "tables/tbl-070_p0459.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-070-tidy",
+      "title": "Railways worked by each Railway Administration on June 30, 1905 (Tidy Observations)",
+      "path": "tidy/tbl-070_p0459.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-071-diplomatic",
+      "title": "Table 71 (Diplomatic Matrix)",
+      "path": "tables/tbl-071_p0462.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-071-tidy",
+      "title": "Table 71 (Tidy Observations)",
+      "path": "tidy/tbl-071_p0462.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-072-diplomatic",
+      "title": "Table 72 (Diplomatic Matrix)",
+      "path": "tables/tbl-072_p0464.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-072-tidy",
+      "title": "Table 72 (Tidy Observations)",
+      "path": "tidy/tbl-072_p0464.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-073-diplomatic",
+      "title": "Table 73 (Diplomatic Matrix)",
+      "path": "tables/tbl-073_p0465.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-073-tidy",
+      "title": "Table 73 (Tidy Observations)",
+      "path": "tidy/tbl-073_p0465.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-074-diplomatic",
+      "title": "Table 74 (Diplomatic Matrix)",
+      "path": "tables/tbl-074_p0467.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-074-tidy",
+      "title": "Table 74 (Tidy Observations)",
+      "path": "tidy/tbl-074_p0467.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-075-diplomatic",
+      "title": "Postal Transactions in India as a whole (Diplomatic Matrix)",
+      "path": "tables/tbl-075_p0469.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-075-tidy",
+      "title": "Postal Transactions in India as a whole (Tidy Observations)",
+      "path": "tidy/tbl-075_p0469.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-076-diplomatic",
+      "title": "Postal Transactions in the Various Circles, 1903–4 (Diplomatic Matrix)",
+      "path": "tables/tbl-076_p0470.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-076-tidy",
+      "title": "Postal Transactions in the Various Circles, 1903–4 (Tidy Observations)",
+      "path": "tidy/tbl-076_p0470.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-077-diplomatic",
+      "title": "Table 77 (Diplomatic Matrix)",
+      "path": "tables/tbl-077_p0471.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-077-tidy",
+      "title": "Table 77 (Tidy Observations)",
+      "path": "tidy/tbl-077_p0471.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-078-diplomatic",
+      "title": "Table 78 (Diplomatic Matrix)",
+      "path": "tables/tbl-078_p0473.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-078-tidy",
+      "title": "Table 78 (Tidy Observations)",
+      "path": "tidy/tbl-078_p0473.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-079-diplomatic",
+      "title": "Table 79 (Diplomatic Matrix)",
+      "path": "tables/tbl-079_p0474.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-079-tidy",
+      "title": "Table 79 (Tidy Observations)",
+      "path": "tidy/tbl-079_p0474.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-080-diplomatic",
+      "title": "Table 80 (Diplomatic Matrix)",
+      "path": "tables/tbl-080_p0476.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-080-tidy",
+      "title": "Table 80 (Tidy Observations)",
+      "path": "tidy/tbl-080_p0476.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-081-diplomatic",
+      "title": "Table 81 (Diplomatic Matrix)",
+      "path": "tables/tbl-081_p0477.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-081-tidy",
+      "title": "Table 81 (Tidy Observations)",
+      "path": "tidy/tbl-081_p0477.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-082-diplomatic",
+      "title": "Table 82 (Diplomatic Matrix)",
+      "path": "tables/tbl-082_p0480.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-082-tidy",
+      "title": "Table 82 (Tidy Observations)",
+      "path": "tidy/tbl-082_p0480.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-083-diplomatic",
+      "title": "Table 83 (Diplomatic Matrix)",
+      "path": "tables/tbl-083_p0486.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-083-tidy",
+      "title": "Table 83 (Tidy Observations)",
+      "path": "tidy/tbl-083_p0486.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-084-diplomatic",
+      "title": "Statistics of the Indian Telegraph Department for the Years 1860–1, 1870–1, 1880–1, 1890–1, 1900–1, and 1903–4 (Diplomatic Matrix)",
+      "path": "tables/tbl-084_p0487.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-084-tidy",
+      "title": "Statistics of the Indian Telegraph Department for the Years 1860–1, 1870–1, 1880–1, 1890–1, 1900–1, and 1903–4 (Tidy Observations)",
+      "path": "tidy/tbl-084_p0487.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-085-diplomatic",
+      "title": "Table 85 (Diplomatic Matrix)",
+      "path": "tables/tbl-085_p0495.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-085-tidy",
+      "title": "Table 85 (Tidy Observations)",
+      "path": "tidy/tbl-085_p0495.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-086-diplomatic",
+      "title": "Quantities sold per Rupee in Seers and decimals of a Seer (Diplomatic Matrix)",
+      "path": "tables/tbl-086_p0500.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-086-tidy",
+      "title": "Quantities sold per Rupee in Seers and decimals of a Seer (Tidy Observations)",
+      "path": "tidy/tbl-086_p0500.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-087-diplomatic",
+      "title": "Variations in the Wholesale Prices of Imports at Calcutta (Diplomatic Matrix)",
+      "path": "tables/tbl-087_p0504.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-087-tidy",
+      "title": "Variations in the Wholesale Prices of Imports at Calcutta (Tidy Observations)",
+      "path": "tidy/tbl-087_p0504.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-088-diplomatic",
+      "title": "Table 88 (Diplomatic Matrix)",
+      "path": "tables/tbl-088_p0505.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-088-tidy",
+      "title": "Table 88 (Tidy Observations)",
+      "path": "tidy/tbl-088_p0505.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-089-diplomatic",
+      "title": "Variations in the Wholesale Prices of Exports at Calcutta and Bombay (Diplomatic Matrix)",
+      "path": "tables/tbl-089_p0506.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-089-tidy",
+      "title": "Variations in the Wholesale Prices of Exports at Calcutta and Bombay (Tidy Observations)",
+      "path": "tidy/tbl-089_p0506.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-090-diplomatic",
+      "title": "Table 90 (Diplomatic Matrix)",
+      "path": "tables/tbl-090_p0507.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-090-tidy",
+      "title": "Table 90 (Tidy Observations)",
+      "path": "tidy/tbl-090_p0507.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-091-diplomatic",
+      "title": "TABLE I. An Able-bodied Agricultural Labourer (Diplomatic Matrix)",
+      "path": "tables/tbl-091_p0514.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-091-tidy",
+      "title": "TABLE I. An Able-bodied Agricultural Labourer (Tidy Observations)",
+      "path": "tidy/tbl-091_p0514.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-092-diplomatic",
+      "title": "TABLE II. A SYCE OR HORSE-KEEPER (Diplomatic Matrix)",
+      "path": "tables/tbl-092_p0515.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-092-tidy",
+      "title": "TABLE II. A SYCE OR HORSE-KEEPER (Tidy Observations)",
+      "path": "tidy/tbl-092_p0515.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-093-diplomatic",
+      "title": "TABLE III. A COMMON MASON, CARPENTER, OR BLACKSMITH (Diplomatic Matrix)",
+      "path": "tables/tbl-093_p0516.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-093-tidy",
+      "title": "TABLE III. A COMMON MASON, CARPENTER, OR BLACKSMITH (Tidy Observations)",
+      "path": "tidy/tbl-093_p0516.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-094-diplomatic",
+      "title": "Table 94 (Diplomatic Matrix)",
+      "path": "tables/tbl-094_p0540.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-094-tidy",
+      "title": "Table 94 (Tidy Observations)",
+      "path": "tidy/tbl-094_p0540.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-095-diplomatic",
+      "title": "F. = Famine. S. = Scarcity. (Diplomatic Matrix)",
+      "path": "tables/tbl-095_p0543.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-095-tidy",
+      "title": "F. = Famine. S. = Scarcity. (Tidy Observations)",
+      "path": "tidy/tbl-095_p0543.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    },
+    {
+      "name": "tbl-096-diplomatic",
+      "title": "Table 96 (Diplomatic Matrix)",
+      "path": "tables/tbl-096_p0544.csv",
+      "profile": "tabular-data-resource",
+      "layer": "diplomatic"
+    },
+    {
+      "name": "tbl-096-tidy",
+      "title": "Table 96 (Tidy Observations)",
+      "path": "tidy/tbl-096_p0544.tidy.csv",
+      "profile": "tabular-data-resource",
+      "layer": "tidy",
+      "schema": {
+        "fields": [
+          {
+            "name": "book_id",
+            "type": "string"
+          },
+          {
+            "name": "table_id",
+            "type": "string"
+          },
+          {
+            "name": "caption",
+            "type": "string"
+          },
+          {
+            "name": "page_number",
+            "type": "integer"
+          },
+          {
+            "name": "printed_folio",
+            "type": "string"
+          },
+          {
+            "name": "row_index",
+            "type": "integer"
+          },
+          {
+            "name": "row_role",
+            "type": "string"
+          },
+          {
+            "name": "row_group",
+            "type": "string"
+          },
+          {
+            "name": "row_label",
+            "type": "string"
+          },
+          {
+            "name": "column_index",
+            "type": "integer"
+          },
+          {
+            "name": "column_header",
+            "type": "string"
+          },
+          {
+            "name": "raw_text",
+            "type": "string"
+          },
+          {
+            "name": "value_numeric",
+            "type": "number"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "is_null_or_leader",
+            "type": "boolean"
+          },
+          {
+            "name": "arithmetic_verified",
+            "type": "boolean"
+          }
+        ]
+      }
+    }
+  ]
+}

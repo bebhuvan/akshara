@@ -1,6 +1,6 @@
 # The Periplus of the Erythræan Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century
 *Wilfred H. Schoff* (1912)
-> Akshara Community Edition · Collection: `indian-economic-history`
+> Akshara Machine Checked Edition · Collection: `indian-economic-history`
 
 
 ## Frontmatter
@@ -258,7 +258,7 @@ The text is that of Blancard: ‘‘His edition I was obliged to adopt, because 
 
 <span class="sc">The Voyage of Nearchus and the Periplus of the Erythrean Sea</span> (ascribed to Arrian), translated by W. Vincent, Oxford, 1809.
 
-<span class="sc">Untersuchungen ueber einzelne Gegenstaende der alten Ge- schichte, Geographie, und Chronologie</span>. G. G. Bredow, *Altona, Hammerich, 1802.*
+<span class="sc">Untersuchungen ueber einzelne Gegenstaende der alten Geschichte, Geographie, und Chronologie</span>. G. G. Bredow, *Altona, Hammerich, 1802.*
 
 This includes Vincent’s Periplus, translated into German, pp. 715-797.
 
@@ -276,8 +276,7 @@ This partial translation is based on the texts of Stuck, Hudson and Borheck, and
 
 
 <!-- page: 30 | folio: 20 -->
-
-##### <span class="sc">Geographi Græci Minores</span>. *E codicibus recognovit, prolegomenis, annotatione, indicibusque instruxit, tabulis æri incisis illustravit* Carolus Müllerus. *Parisiis, Didot,* MDCCCLV.
+<span class="sc">Geographi Græci Minores</span>. *E codicibus recognovit, prolegomenis, annotatione, indicibusque instruxit, tabulis æri incisis illustravit* Carolus Müllerus. *Parisiis, Didot,* MDCCCLV.
 
 Vol. I, pp. <span class="sc">xcv–cxi</span> has *Prolegomena Anonymi Periplus Maris Erythræi*, and pp. 257–305 *Anonymi (Arriani, ut fertur) Periplus Maris Erythræi*, being the eighth title included in that volume. Vol. III contains four maps, <span class="sc">xi–xiv</span>, especially drawn to illustrate the Periplus, and four more, <span class="sc">vi–viii</span> and <span class="sc">xv</span>, drawn for other titles but presenting details that further elucidate this work.
 
@@ -492,7 +491,7 @@ In the Indian Ocean navigation depended on the trade-winds, and voyages were tim
 
 Hippalus’ discovery of the periodicity of the trade-winds, described in § 57, carried with it a knowledge of steering the boat somewhat off the wind, to reach a destination farther south than the straight course would make possible. This was done partly by the rudder, but largely by shifting the yard. [p. 54] The lateen sail, as exemplified in the Arab *dhow*, the Bombay *kotia*, and so on, came into use about the 4th century B. C., but was used by Arab and Hindu, rather than Egyptian or Greek.
 
-See Chatterton: *Sailing Ships and their Story*: Torr: *Ancient Ships*; Holmes: *Ancient and Modern Ships*; Pritchett: *Sketches of Shipping and Craft*; Lindsay: *History of Merchant Shipping and Ancient Commerce*; Charnock: *History of Ma- rine Architecture*; Jal: *Archéologie Navale*.
+See Chatterton: *Sailing Ships and their Story*: Torr: *Ancient Ships*; Holmes: *Ancient and Modern Ships*; Pritchett: *Sketches of Shipping and Craft*; Lindsay: *History of Merchant Shipping and Ancient Commerce*; Charnock: *History of Marine Architecture*; Jal: *Archéologie Navale*.
 
 1\. **Stadia.**—Three stadia were in use in the Roman world at this time,—the Phileterian of 525 to the degree, the Olympic of 600, and that of Eratosthenes, of 700. Reduced to English measure this would make the Phileterian stadium equivalent to about 650 feet, the Olympic about 600 feet, and that of Eratosthenes about 520 feet. The stadium of the Periplus seems to be that of Eratosthenes. Generally speaking, ten stadia of the Periplus to the English statute mile would be a fair calculation. But it must not be forgotten that all distances named in this text are approximations, based principally on the length of time consumed in going from place to place, which naturally varied according to direction of the wind and current, of sailing-course, and other factors as well. The distance is generally given in round numbers; and without any means of arriving at an exact calculation, the figures in the text can be considered only as approximations.
 
@@ -607,13 +606,13 @@ King Solomon’s throne was of ivory, overlaid with gold; and his “navy of Tha
 
 4\. **City of the people called Auxumites.**—This is the first known reference to the city of Axum, and serves very nearly to fix the date of its foundation. Pliny and other writers of this period mention the Asachæ living south of Meroe and known as elephanthunters; [p. 62] and their stronghold, *Oppidum Sacæ*, probably the same settlement as Axum. Bion speaks of Asachæ five days from the sea, and Ptolemy locates a ‘‘city of the Sacæ’’ in the Tigre highlands, but has no knowledge of Axum. Pliny (VI, 34) also speaks of the Aschitæ who brought myrrh and frankincense to South Arabia on their rafts supported on inflated skins, and suggests a derivation of the name from *askos*, bladder; but both names reproduce rather the mountainous coast of South Arabia, east of Hadramaut, called Hasik (Asich in § 33 of the Periplus), and there is evidently an ethnic and geographic connection between Hasik, the Asachæ or Ascitæ, and Axum.
 
-Axum, the ancient capital and sacred city of the kingdom we call Abyssinia, is still the place of coronation for its kings. Abyssinia is the Latinized form of Habash, while its people call themselves *Itio- pyavan*, Hellenized into Aethiopians. Habash is translated by modern Arabs as ‘‘mixture,’’ while Herodotus explained Aethiopia as ‘‘land of the sunburned faces;’’ each explanation being, probably, incorrect. The Habashat appear likewise along the eastern terraces of South Arabia (Mahra) where they were the dominant race for several centuries before the Christian era. Pausanias (*de Situ Græciæ*, VI, 26-9), speaks of a ‘‘deep bay of the Erythræan Sea, having islands, Abasa and Sacæa’’ (probably Kuria Muria, Masira, and Socotra); the Roman writers mention an Abissa Polis in this region, and Stephanus of Byzantium says ‘‘beyond the Sabæans are the Chatramotitæ (Hadramaut) and the Abaseni.’’ From the Egyptian inscriptions we learn that one of the Punt-people visited in their trading voyages was called *Hbsti*, and dwelt, apparently, not only in Mahra, but also in Socotra and Eastern Somaliland.
+Axum, the ancient capital and sacred city of the kingdom we call Abyssinia, is still the place of coronation for its kings. Abyssinia is the Latinized form of Habash, while its people call themselves *Itiopyavan*, Hellenized into Aethiopians. Habash is translated by modern Arabs as ‘‘mixture,’’ while Herodotus explained Aethiopia as ‘‘land of the sunburned faces;’’ each explanation being, probably, incorrect. The Habashat appear likewise along the eastern terraces of South Arabia (Mahra) where they were the dominant race for several centuries before the Christian era. Pausanias (*de Situ Græciæ*, VI, 26-9), speaks of a ‘‘deep bay of the Erythræan Sea, having islands, Abasa and Sacæa’’ (probably Kuria Muria, Masira, and Socotra); the Roman writers mention an Abissa Polis in this region, and Stephanus of Byzantium says ‘‘beyond the Sabæans are the Chatramotitæ (Hadramaut) and the Abaseni.’’ From the Egyptian inscriptions we learn that one of the Punt-people visited in their trading voyages was called *Hbsti*, and dwelt, apparently, not only in Mahra, but also in Socotra and Eastern Somaliland.
 
 Glaser derives the name Habash from a Mahri word, meaning ‘‘gatherers.’’ Synonymous with this is Aethiopian or *Itiopyavan*, which he derives from *atyôb*, ‘‘incense;’’ and it is significant that even in the time of the Periplus their ancient home in Mahra was still the ‘‘Frankincense Country.’’ As ‘‘gatherers of incense,’’ then, we have the mission of the Asachæ or Axumites. This people, like their predecessors from the same region, the Cushites who traded with Babylon and Thebes, a branch of whom, ‘‘intermarrying with the natives’’ (Periplus, § 16), helped found the Nubian Kingdom, and like the Punt or Poen-people of the Theban inscriptions, left their settlements in Mahra, Socotra and Somaliland (the true frankincense country) and migrated westward, settling finally in the Tigre highlands, where for the first time they established an enduring power. But their migration was different from the others, in that it was due to warfare and oppression rather than trade.
 
 
 <!-- page: 73 | folio: 63 -->
-In the 3d century B. C. the Habashat or “gatherers” were supreme in their “incense-lands,” and their allies and, perhaps, relatives, the Sabæans, worked with them in the spice and incense trade to Egypt, then at the height of its power under the Ptolemies. The prosperity of the trade is attested by Agatharchides. The Habashat held Socotra and Cape Guardafui, and much of the East African coast. But the succeeding centuries were turbulent. In order along the south Arabian coast, from west to east, were the Homerites (Himyar), the Sabæans, Hadramaut, Kataban, and the Habashat. Beyond were tribes under Persian influence. With the establishment of the Parthian, or Arsacid, empire, came a wave of conquest by the Parthians throughout eastern Arabia. Almost simultaneously came the African campaigns of Ptolemy Euergetes, said to have reached Mosyllum on the Somali coast (Periplus, § 10). The two incense-lands were hard hit. Then came the conquest of Kataban by Hadramaut and a threatening policy by Himyar against the Sabæans. Glaser has edited an inscription telling of an alliance of Djadarot, King of the Habashat, with three successive kings of Saba, for mutual protection against Hadramaut and Himyar. This dates from about 75 B. C. Isidorus of Charax Spasini, writing in the time of Augustus, mentions a chief of the Omanites in the Incense-Country, named Goaisos (*cf.* the language of the Habashat, *Geez*) who was apparently of the same race. But very soon afterward the Parthians renewed their attack from the East; Himyar overthrew Saba and demolished its port, and Hadramaut moved on Habash. Egypt was in a bad way, and the Romans who were taking over its government were encouraging a direct sea-trade from India, receiving Indian embassies, and breaking up the system which had so long closed the Arabian gulf to Indian shipping. Despoiled of their incense-terraces in Arabia and of their commercial activities at Guardafui, the Habashat sought a new home; and in the Tigre highlands built their stronghold, the *Op- pidum Sacæ*, which soon became the city of Axum. It lay across the natural trade-route from India to Egypt; from Adulis, the sea-port, to the Atbara River, was no great journey, and through a fertile country instead of the desert to the north. Here, then, so long as the “Berbers” of the lowlands could be dominated, a state could flourish; and hence the picture of its King Zoscales in § 5, “miserly in his ways and always striving for more.” For six centuries the new kingdom of Abyssinia kept up its alliance with Rome and Constantinople against its ancient enemies the Homerites, and their allies the Parthians and Persians. The kingdom grew apace, and twice it overran southern Arabia; and not until the later Mohammedan conquests [p. 64] was its power broken and its people shut up in their mountains, there to preserve, for hundreds of years unknown to the outside world, their Monophysite Christianity.
+In the 3d century B. C. the Habashat or “gatherers” were supreme in their “incense-lands,” and their allies and, perhaps, relatives, the Sabæans, worked with them in the spice and incense trade to Egypt, then at the height of its power under the Ptolemies. The prosperity of the trade is attested by Agatharchides. The Habashat held Socotra and Cape Guardafui, and much of the East African coast. But the succeeding centuries were turbulent. In order along the south Arabian coast, from west to east, were the Homerites (Himyar), the Sabæans, Hadramaut, Kataban, and the Habashat. Beyond were tribes under Persian influence. With the establishment of the Parthian, or Arsacid, empire, came a wave of conquest by the Parthians throughout eastern Arabia. Almost simultaneously came the African campaigns of Ptolemy Euergetes, said to have reached Mosyllum on the Somali coast (Periplus, § 10). The two incense-lands were hard hit. Then came the conquest of Kataban by Hadramaut and a threatening policy by Himyar against the Sabæans. Glaser has edited an inscription telling of an alliance of Djadarot, King of the Habashat, with three successive kings of Saba, for mutual protection against Hadramaut and Himyar. This dates from about 75 B. C. Isidorus of Charax Spasini, writing in the time of Augustus, mentions a chief of the Omanites in the Incense-Country, named Goaisos (*cf.* the language of the Habashat, *Geez*) who was apparently of the same race. But very soon afterward the Parthians renewed their attack from the East; Himyar overthrew Saba and demolished its port, and Hadramaut moved on Habash. Egypt was in a bad way, and the Romans who were taking over its government were encouraging a direct sea-trade from India, receiving Indian embassies, and breaking up the system which had so long closed the Arabian gulf to Indian shipping. Despoiled of their incense-terraces in Arabia and of their commercial activities at Guardafui, the Habashat sought a new home; and in the Tigre highlands built their stronghold, the *Oppidum Sacæ*, which soon became the city of Axum. It lay across the natural trade-route from India to Egypt; from Adulis, the sea-port, to the Atbara River, was no great journey, and through a fertile country instead of the desert to the north. Here, then, so long as the “Berbers” of the lowlands could be dominated, a state could flourish; and hence the picture of its King Zoscales in § 5, “miserly in his ways and always striving for more.” For six centuries the new kingdom of Abyssinia kept up its alliance with Rome and Constantinople against its ancient enemies the Homerites, and their allies the Parthians and Persians. The kingdom grew apace, and twice it overran southern Arabia; and not until the later Mohammedan conquests [p. 64] was its power broken and its people shut up in their mountains, there to preserve, for hundreds of years unknown to the outside world, their Monophysite Christianity.
 
 The Abyssinian Chronicles make Zoscales at the time of the Periplus, the successor of a long line of kings at Axum. It is probable that Habashat had frequented the country for a century before, as the power of Egypt receded, but as colonists rather than state-builders, until driven from Arabia; and that most of Zoscales’ predecessors were local chiefs and not tribal kings. The final migration Glaser places not far from the Christian era.
 
@@ -834,7 +833,7 @@ By the Greeks the true tin was understood and extensively used, and the establis
 
 According to the Periplus, tin was shipped from Egypt to both Somaliland and India.
 
-Lassen (*Indische Alterthumskunde*, I, 249) and Oppert, arguing from the similarity between the Sanscrit *kasthira* and the Greek *kassi- teros*, would transfer the earliest tin trade to India and Malacca; but it seems probable that the Sanscrit word was a late addition to the [p. 79] language, borrowed from the Greek with the metal itself; which, as stated by the Periplus in §§ 49 and 56, came to India from the west. See also Movers, *Phönizier*, Vol. III; Beckmann, *op. cit.*, II, 206-230.
+Lassen (*Indische Alterthumskunde*, I, 249) and Oppert, arguing from the similarity between the Sanscrit *kasthira* and the Greek *kassiteros*, would transfer the earliest tin trade to India and Malacca; but it seems probable that the Sanscrit word was a late addition to the [p. 79] language, borrowed from the Greek with the metal itself; which, as stated by the Periplus in §§ 49 and 56, came to India from the west. See also Movers, *Phönizier*, Vol. III; Beckmann, *op. cit.*, II, 206-230.
 
 8\. **Malao** is the modern Berbera, 10° 25′ N., 45° 5′ E. It is now the leading port of this coast, the capital of British Somaliland, and the center of the caravan trade to the interior. Glaser (*Skizze*,
 
@@ -946,7 +945,7 @@ Strabo's description is as follows (XVI, IV, 14): “Next is the country which p
 
 Glaser finds a connection between these names, Pano and Opone, the Egyptian “Land of Punt” or *Poen-at*, the island *Pa-anch* of the Egyptians (Socotra), the incense-land *Panchaia* of Virgil (*Georgics*, II, 139; “Totaque turiferis Panchaia pinguis arenis,”) and the Puni or Phœnicians; who, he thinks, divided as they left their home in the Persian Gulf (the islands of King Erythras in the story quoted by Agatharchides); one branch going to the coasts of Syria, the other to those of South Arabia and East Africa.
 
-13\. **Cinnamon produced.**—A letter from Mr. R. E. Drake-Brockman, F. Z. S., F. R. G. S., (author of *The Mammals of So- maliland*, and now at work on *Somali Flora*) dated Berbera, January 7, 1910, says:
+13\. **Cinnamon produced.**—A letter from Mr. R. E. Drake-Brockman, F. Z. S., F. R. G. S., (author of *The Mammals of Somaliland*, and now at work on *Somali Flora*) dated Berbera, January 7, 1910, says:
 
 “The ‘Horn of Africa’ was known to the Romans as the *regio aromatifera* on account of the large quantities of myrrh that were exported. The country abounds in the various species of the acacias, which produce gums of varying commercial value, also certain trees producing resins.
 
@@ -972,8 +971,7 @@ This trading-voyage of the first century by Indian vessels, although less extend
 
 At the time of the Periplus, owing to the conquest of Egypt by the Romans, the establishment of the Axumite Kingdom, and a settled policy in Rome of cultivating direct communication with India, this commercial understanding, or alliance, between Arabia and India (which had existed certainly for 2000 years and probably much longer), is shown to be at the point of extinction; but still to be strong enough for the Romans to know the cinnamon-bark only as a product of the Arabian tributary, Somaliland, while the cinnamon-leaf, a later article of commerce, they knew (§§ 56, 65) under the name of *malabathrum*, as a product of India and Tibet.
 
-
-##### 14. **Clarified butter.**—
+14\. **Clarified butter.**—
 
 14\. **Clarified butter.**—The text is *boutyron*. Some of the commentators object to the word (Lassen and Fabricius especially) and Fabricius, in his notes (p. 130) thinks it would be “very wrong to suppose that butter could have been brought from India, in this hot climate, to the eastern coast of Africa.” Therefore they propose substitutes, as noted under § 41.
 
@@ -1115,7 +1113,7 @@ The policy of the Ptolemies, in seeking to free Egypt from commercial dependence
 
 "Thou shalt call his name *Ishmael*; because *the Lord hath heard* thy affliction. And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren." (Gen. XVI, 11-12.)
 
-20\. **Carnaites.**—These wild tribes are called in the text *Can- raites*, which cannot be identified with any other contemporary record. Some commentators would change the name to *Cassanites*; and Fabricius, following Sprenger, substitutes *Cananites*. Glaser's suggestion is certainly preferable (*Skizze*, 165-6). He thinks that the n and r should be reversed, making *Carnaites*; Karna being one of the northern settlements of the ancient kingdom of the Minæans, to which the neighboring Beduin tribes were nominally subject. Pliny (VI, 32) and Ptolemy both mention this place as a city of the Minæans; whom Pliny describes as the oldest commercial people in Arabia, having a monopoly in the trade in myrrh and frankincense, through their control of the caravan-routes from the producing regions. He refers doubtfully to their legend of the relationship of Minæans and Rhadamæans to Minos of Crete and his brother Rhadamanthus. Pliny need not have doubted, and is to be thanked for preserving this evidence of early Arabian trade in the Mediterranean. Ptolemy adds his testimony to the wide extent of this early Arabian trade, when he describes the "people called Rhamnæ who dwelt in the extreme east near the banks of the Purali, and who planted their capital at a place called Rhambacia." From Crete to the borders of India was no mean sphere of activity. Compare Ezekiel XXVII, 22: "The merchants of Sheba and Raamah, they were thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold."
+20\. **Carnaites.**—These wild tribes are called in the text *Canraites*, which cannot be identified with any other contemporary record. Some commentators would change the name to *Cassanites*; and Fabricius, following Sprenger, substitutes *Cananites*. Glaser's suggestion is certainly preferable (*Skizze*, 165-6). He thinks that the n and r should be reversed, making *Carnaites*; Karna being one of the northern settlements of the ancient kingdom of the Minæans, to which the neighboring Beduin tribes were nominally subject. Pliny (VI, 32) and Ptolemy both mention this place as a city of the Minæans; whom Pliny describes as the oldest commercial people in Arabia, having a monopoly in the trade in myrrh and frankincense, through their control of the caravan-routes from the producing regions. He refers doubtfully to their legend of the relationship of Minæans and Rhadamæans to Minos of Crete and his brother Rhadamanthus. Pliny need not have doubted, and is to be thanked for preserving this evidence of early Arabian trade in the Mediterranean. Ptolemy adds his testimony to the wide extent of this early Arabian trade, when he describes the "people called Rhamnæ who dwelt in the extreme east near the banks of the Purali, and who planted their capital at a place called Rhambacia." From Crete to the borders of India was no mean sphere of activity. Compare Ezekiel XXVII, 22: "The merchants of Sheba and Raamah, they were thy merchants: they occupied in thy fairs with chief of all spices, and with all precious stones, and gold."
 
 Strabo also (XVI, III, 1) describes "the Minæi in the part toward the Red Sea, whose largest city is Carna; next to them are the Sabæans, whose chief city is Mariaba."
 
@@ -1300,7 +1298,7 @@ The name ‘‘Hadramaut,’’ the Hazarmaveth of Genesis X, means ‘‘Enclos
 
 27\. **Sabbatha.**—The native name of this capital of the Chatramotitæ was Shabwa. It lies in the Wadi Rakhiya, some distance above the Wadi Hadramaut, and about 60 miles west of the present capital, Shibam. According to Bent (*Geographical Journal*, IV, 413: 1894) it is now deserted, save for a few Beduins, who work the salt mines in the vicinity; while the natives are now all in the lower Hadramaut valley. [p. 120] This is the Sabota of Pliny (VI, 32) "with sixty temples within its walls."
 
-27\. **Frankincense,** one of the most ancient and precious articles of commerce, is a resin exuded from various species of *Bos- wellia,* order *Burseraceæ,* native in Somaliland and South Arabia. Birdwood (*Trans. Linn. Soc.,* XXVII, 1871), distinguishes particularly *B. Frereana, B. Bhau-Dajiana* (the *mocrotu* of § 9), and *B. Car- terii,* the last-named yielding the best incense. *B. thurifera,* native in India, yields a resin of less fragrance, much used as an adulterant. Frankincense is thus closely allied to myrrh, bdellium, and benzoin.
+27\. **Frankincense,** one of the most ancient and precious articles of commerce, is a resin exuded from various species of *Boswellia,* order *Burseraceæ,* native in Somaliland and South Arabia. Birdwood (*Trans. Linn. Soc.,* XXVII, 1871), distinguishes particularly *B. Frereana, B. Bhau-Dajiana* (the *mocrotu* of § 9), and *B. Car- terii,* the last-named yielding the best incense. *B. thurifera,* native in India, yields a resin of less fragrance, much used as an adulterant. Frankincense is thus closely allied to myrrh, bdellium, and benzoin.
 
 The Greek word is *libanos,* from Hebrew *lebonah,* Arabic *lubân,* meaning "white"; *cf. laben,* the Somali word for cream, and "milkperfume," which is the Chinese term for frankincense. Marco Polo always calls it "white incense."
 
@@ -1424,7 +1422,7 @@ Medicinal waters were guarded by similar powers; a dragon sacred to Ares protect
 
 The faith of the Incense-Land presents many features in common with that of the Greeks. While Frazer is no doubt right in warning against indiscriminate assimilation of deities Greek, Egyptian and Semitic, there is certainly some truth in the words of Euripides' Bacchus (son of Jove and Semele, daughter of the Phœnician Cadmus) who came to Greece "having left the wealthy lands of the Lydians and Phrygians and the sun-parched plains of the Persians, and the Bactrian walls; and having come over the stormy land of the Medes, and *the happy Arabia*, and all Asia which lies along the coast of the Salt Sea, . . . there having established my mysteries"—and "every one of these foreign nations celebrates these orgies."
 
-According to Herodotus (III, 8 and I, 131), the only deities of the Incense-Land were Dionysus and Urania, whom they called Orotal and Alilat; while the Semitic people of Meroe (II, 29) worshipped Zeus (Ammon) and Bacchus (Osiris) whom Glaser assimilates with the Katabanic gods 'Am and Uthirat (*Punt und die Südara- bischen Reiche*, 43). Now the invocations of Dionysus in the mysteries were "Evoe, Sabai, Bacchi, Hues, Attes, Attes, Hues!" and according to Cicero (*De natura deorum*, I, iii, 23) one of the names of Bacchus was *Sabazius*; in whose mysteries at Alexandria, we are told by Clement (*Protrept.* ii, 16) persons initiated had a serpent drawn through the bosom of their robes, and the reptile was identified [p. 133] with the god (Frazer, *Golden Bough*, IV, 76). Here seems to be some basis, at least, for identification of the god of the Incense-Land to whom Pliny gives the name *Sabis*; whom Glaser (*Punt*, etc., p. 46) thinks identical with Shams, the Sabæan sun-god, and whose name appears also in the capital city, Sabota or Sabbatha (Shabwa).
+According to Herodotus (III, 8 and I, 131), the only deities of the Incense-Land were Dionysus and Urania, whom they called Orotal and Alilat; while the Semitic people of Meroe (II, 29) worshipped Zeus (Ammon) and Bacchus (Osiris) whom Glaser assimilates with the Katabanic gods 'Am and Uthirat (*Punt und die Südarabischen Reiche*, 43). Now the invocations of Dionysus in the mysteries were "Evoe, Sabai, Bacchi, Hues, Attes, Attes, Hues!" and according to Cicero (*De natura deorum*, I, iii, 23) one of the names of Bacchus was *Sabazius*; in whose mysteries at Alexandria, we are told by Clement (*Protrept.* ii, 16) persons initiated had a serpent drawn through the bosom of their robes, and the reptile was identified [p. 133] with the god (Frazer, *Golden Bough*, IV, 76). Here seems to be some basis, at least, for identification of the god of the Incense-Land to whom Pliny gives the name *Sabis*; whom Glaser (*Punt*, etc., p. 46) thinks identical with Shams, the Sabæan sun-god, and whose name appears also in the capital city, Sabota or Sabbatha (Shabwa).
 
 There is a suggestive similarity in the legions concerning the crater of Bir Barhut in the Hadramaut, and Aetna, on the top of which an ancient Latin poem describes the people offering incense to the celestial deities. Formerly, Frazer says, victims were sacrificed also, probably to appease the spirits who were supposed to dwell there.
 
@@ -1532,7 +1530,7 @@ The name *Moscha* is another of those place-names that are repeated along the co
 
 —*Paradise Lost*, IV, 156-165.
 
-(See the works already cited of Bent, Wellsted, Glaser, Hommel, Zwemer, and Hogarth; Lenormant and Chevalier, *Manual of Ancient History of the East*, VII, 1-2; also J. B. Haines, in the *Journal of the Royal Geographical Society* for 1839 and 1845; H. J. Carter, in *Trans- actions of the Bombay Asiatic Society*, for 1845, 1847, and 1851; Makrizi *De Valle Hadramaut*, Bonn, 1866; Wellhausen, *Skizzen und Vorarbeiten*, III, 135-146.)
+(See the works already cited of Bent, Wellsted, Glaser, Hommel, Zwemer, and Hogarth; Lenormant and Chevalier, *Manual of Ancient History of the East*, VII, 1-2; also J. B. Haines, in the *Journal of the Royal Geographical Society* for 1839 and 1845; H. J. Carter, in *Transactions of the Bombay Asiatic Society*, for 1845, 1847, and 1851; Makrizi *De Valle Hadramaut*, Bonn, 1866; Wellhausen, *Skizzen und Vorarbeiten*, III, 135-146.)
 
 32\. **The ship could not clear.**—Compare the trading of the Egyptian expeditions with the “chiefs of the land of Punt” over these “heaps of incense,” and again Marco Polo’s description (III, xxxvii): “A great deal of white incense grows in this country, and brings in a great revenue to the Prince; for no one dares sell it to any one else; and whilst he takes it from the people at 10 livres of gold for the [p. 144] hundredweight, he sells it to the merchants at 60 livres, so his profit is immense." And according to the *Marásid-al-Ittila'*, an Arab geographical dictionary of about the same period, "this incense is carefully watched, and can be taken only to Dhafár, where the Sultan keeps the best part for himself; the rest is made over to the people. But any one who should carry it elsewhere than to Dhafár would be put to death."
 
@@ -1570,14 +1568,13 @@ The use of the “Arabian language” (Himyaritic or Hadramitic, represented by 
 
 
 <!-- page: 157 | folio: 147 -->
-
-##### 34. **A barbarous region which now belongs to Persia.**
+34\. **A barbarous region which now belongs to Persia.**
 
 The Arabian coast beyond the Kuria Muria Islands, being now recently conquered by the Parthian Empire, at war with Rome, was inaccessible to the author of the Periplus and is described by him briefly and apparently from hearsay. His own sailing-course carried him "well out at sea" from Kuria Muria to Masira, and thence direct to the mouth of the Indus.
 
 34\. **Calæi Islands.**—These are the Daimaniyat Islands N. W. of Muscat (23° 48′ N., 58° 0′ E.), the distance being calculated from Masira. The name is obviously the same as the modern Kalhat, just north of Sur (22° 35′ N., 59° 29′ E.) an ancient trading port, mentioned by Pliny (VI, 32) as Acila (not to be confused with Ocelis in Yemen), "a city of the Sabæi (Asabi) a nation of tent dwellers, with numerous islands. This is their mart, from which persons embark for India."
 
-On this coast, between Ras el Had and Muscat, are the modern ports of Kuryat and Sur, which, in the words of General Miles (*Jour- nal of an Excursion in Oman*, Geographical Journal, VII, 335-6) "are the Karteia and Tsor, the Carthage and Tyre, of the race whom we know as Phœnicians, and who, earlier than the time of Solomon, had trading-stations along the southern coast of Arabia. Their convenient and important position just opposite India must have led to their early occupation by the merchants of those times who were engaged in exchanging the productions of the East and West."
+On this coast, between Ras el Had and Muscat, are the modern ports of Kuryat and Sur, which, in the words of General Miles (*Journal of an Excursion in Oman*, Geographical Journal, VII, 335-6) "are the Karteia and Tsor, the Carthage and Tyre, of the race whom we know as Phœnicians, and who, earlier than the time of Solomon, had trading-stations along the southern coast of Arabia. Their convenient and important position just opposite India must have led to their early occupation by the merchants of those times who were engaged in exchanging the productions of the East and West."
 
 An eastern migration of this tribe-name is strongly suggested in Kalat, city and district, in eastern Beluchistan.
 
@@ -1607,8 +1604,7 @@ The name seems derived from Obal, son of Joktan (Gen. X, 28).
 
 Pliny's reference to the possession of the lower Tigris by an Arabian chieftain, the name of whose city he extends to the "Characene" district of Elymais, or Elam, indicates how large a part in the affairs of the Parthian Empire may have been played, at the date of the Periplus, by its subjects south of the Persian Gulf. Charax was an important stronghold of the Parthian Empire, protecting its shipping trade; and was the home of that Isidorus whose works, written in the time of the Roman Emperor Augustus, include the *Mansiones Parthicæ*, a detailed account of the overland caravan-route from Antioch in Syria [p. 150] to the borders of India; the same, probably, as the author of the "description of the world" mentioned by Pliny (VI, 31) who was commissioned by Augustus "to gather all necessary information in the east, when his eldest son was about to set out for Armenia to take the command against the Parthians and Arabians."
 
-
-##### 36. **A market-town of Persia called Ommana.**—The
+36\. **A market-town of Persia called Ommana.**—The
 
 Roman geographers were much confused by similar statements concerning this port, and supposed that it was geographically, instead of politically, "of Persia," and that the "six days' sail" from the straits of Hormus mentioned in the Periplus, was eastward along the coast of Makran. But Pliny this time is better informed, and locates it on the Arabian side of the Persian Gulf, between the Peninsula of El Katar and Ras Musandum, then a Persian or Parthian dependency. Beyond the river Cynos (Wadi ed Dawâsir?) he says (VI, 32) "the navigation is impracticable on that side, according to Juba, on account of the rocks; and he has omitted all mention of Batrasave, a town of the Omani, and of the city of Omana, *which former writers have made out to be a famous port of Carmania;* as also of Homna and Attana, towns which at the present day, our merchants say, are by far the most famous ones in the Persian Sea."
 
@@ -1691,8 +1687,7 @@ Zwemer, (*op. cit.*, p. 101), further confirms the Periplus: "Even Sinbad the Sa
 
 "Each boat has a sort of figurehead called the *kubait*, generally covered with the skin of a sheep or goat which was sacrificed when the boat was first launched. This blood-sacrifice Islam has never uprooted. The larger boats used in diving hold from twenty to forty men—less than half of whom are divers, while the others are rope-holders and oarsmen."
 
-
-##### 36. **Pearls inferior to those of India.**—This is said still to be the case, the Bahrein pearls being of a yellower tint than those of the Manaar fisheries, but holding their lustre better, particularly in tropical climates, and therefore always in demand in India.
+36\. **Pearls inferior to those of India.**—This is said still to be the case, the Bahrein pearls being of a yellower tint than those of the Manaar fisheries, but holding their lustre better, particularly in tropical climates, and therefore always in demand in India.
 
 36\. **Purple.**—A dye derived from various species of *Murex*, family *Muricidæ*, and *Purpura*, family *Buccinidæ*. Pliny (IX, 60-63) tells of its use at the time of our author: "The purple has that exquisite juice which is so greatly sought after for the purpose of dyeing cloth. . . . This secretion consists of a tiny drop contained in a white vein, from which the precious liquid used for dyeing is distilled, being of the tint of a rose somewhat inclining to black. The rest of the body is entirely destitute of this juice. It is a great point to take the fish alive; for when it dies it spits out this juice. From the larger ones it is extracted after taking off the shell; but the smaller fish are crushed alive, together with the shells, upon which they eject this secretion.
 
@@ -1784,7 +1779,7 @@ The tribe-name, Rhamnæ, Lassen connects with the Sanscrit *rāmana*, happy; whi
 
 Bdellium was particularly the product of the hills between the Hindu Kush and the Indian Ocean, and found its way westward through the Persian Gulf ports or overland through Babylonia. Arrian (*Anabasis*, VI; 22) tells how the army of Alexander, returning through the country of the Oritæ, came upon "many myrrh trees, larger than usual," from which the Phœnician traders accompanying the army gathered the gum and carried it away. It is probably the *bdolach* of Genesis II, 12, which reached the Hebrews from the "land of Havilah," the south shore of the Persian Gulf, the district of Ommana of § 36. *Bdolach*, however, is thought by some Hebrew authorities to be a crystalline gem; while the same word is used in the *Itinerary* of Benjamin of Tudela (Adler's edition, p. 98) for the *pearls* of the Bahrein fisheries, and with the same meaning in the *Meadows of Gold* of Mas'udi (Sprenger's translation, p. 544). See also Watt, *op. cit.*, p. 400; Lassen, *op. cit.*, I, 290; Glaser, *Skizze*, 324-5, 364-7.
 
-A passage in the Book of Numbers (XI, 7) is perhaps of interest as reflecting the ancient classification of fragrant gums by size and shape of the piece, rather than by distinguishing the tree. The manna of the Israelites is there said (in the R. V.) to have been "like coriander seed," and the "*appearance* thereof as the appearance of bdellium." The A. V. has the "*color* as the color of bdellium," in contradiction to Exodus XVI, 31, where the color was said to be white; bdellium being brown, like myrrh. The marginal note in the Revised Version, "Hebrew, *eye*," points to the true meaning. Glaser has already shown the *anti* incense of the Egyptian Punt Reliefs to be an Arabian word, *a-a-nete*, "tree-eyes" (*Punt und die Südarab- ischen Reiche*, p. 7), and to refer to the large lumps, exuded through cracks in the bark, or through substantial incisions, as distinguished from the small round drops, which were supposed to be tree-tears (§ 29) or the the tree-blood (as shown under § 29). The Hebrews after the Exodus would have had the same classification; so we may conclude that the author of Numbers meant to compare the small [p. 165] crystalline particles of the tamarisk-root syrup, which this manna probably was, to the "coriander seed, white," while the larger and coarser efflorescence was likened to the lumps of bdellium (or myrrh) with which he was familiar in the Levitical ritual.
+A passage in the Book of Numbers (XI, 7) is perhaps of interest as reflecting the ancient classification of fragrant gums by size and shape of the piece, rather than by distinguishing the tree. The manna of the Israelites is there said (in the R. V.) to have been "like coriander seed," and the "*appearance* thereof as the appearance of bdellium." The A. V. has the "*color* as the color of bdellium," in contradiction to Exodus XVI, 31, where the color was said to be white; bdellium being brown, like myrrh. The marginal note in the Revised Version, "Hebrew, *eye*," points to the true meaning. Glaser has already shown the *anti* incense of the Egyptian Punt Reliefs to be an Arabian word, *a-a-nete*, "tree-eyes" (*Punt und die Südarabischen Reiche*, p. 7), and to refer to the large lumps, exuded through cracks in the bark, or through substantial incisions, as distinguished from the small round drops, which were supposed to be tree-tears (§ 29) or the the tree-blood (as shown under § 29). The Hebrews after the Exodus would have had the same classification; so we may conclude that the author of Numbers meant to compare the small [p. 165] crystalline particles of the tamarisk-root syrup, which this manna probably was, to the "coriander seed, white," while the larger and coarser efflorescence was likened to the lumps of bdellium (or myrrh) with which he was familiar in the Levitical ritual.
 
 38\. **River Sinthus.**—The Sanscrit is *Sindhu*, and this form *Sinthus* is unusual in Greek, the river being generally known as *Indus*. Hindu names reaching the West generally drop the *s* and substitute *h* in Persian mouths. Sayce, in his *Hibbert Lectures* (pp. 136-138), argues on that basis for an ancient sea-trade between India and the Euphrates, from the word *sindhu*, or muslin, mentioned in an ancient Babylonian list of clothing. This is the *sadin* of the Old Testament, the *sindôn* of the Greeks.
 
@@ -1864,7 +1859,7 @@ From the roots and stems a yellow dye was prepared; while from the stem, fruit a
 
 
 <!-- page: 180 | folio: 170 -->
-39\. **Nard** (the root, from the lowlands, as distinguished from spikenard, the leaf or flower, from the mountains, a totally different species). This is the root of the ginger-grass, *Cymbopogon schœnan- thus*, order *Gramineæ*, native in the Western Panjab, India, Beluchistan and Persia, and the allied species, *C. jwarancusa*, native more to the east and south. It is closely allied to the Ceylon citronella, *C. nardus*.
+39\. **Nard** (the root, from the lowlands, as distinguished from spikenard, the leaf or flower, from the mountains, a totally different species). This is the root of the ginger-grass, *Cymbopogon schœnanthus*, order *Gramineæ*, native in the Western Panjab, India, Beluchistan and Persia, and the allied species, *C. jwarancusa*, native more to the east and south. It is closely allied to the Ceylon citronella, *C. nardus*.
 
 From the root of this grass was derived an oil which was used in Roman commerce medicinally and as a perfume, and as an astringent in ointments.
 
@@ -2042,8 +2037,7 @@ According to the *Imperial Gazetteer*, XX, 149-150, it is a reef of rock partly 
 <!-- page: 193 | folio: 183 -->
 45\. **Very great tides.**—The vivid description of the tidal bore, in this and the following paragraph, is certainly the result of personal experience. To a merchant familiar with the all but tideless waters of the Red Sea, it must indeed have been a wonder of nature. The same thing occurs in many places where a strong tide is forced into a narrow, shallow and curving estuary, as in Burma, the Bay of Fundy, the Bay of Panama, and elsewhere. According to the *Imperial Gazetteer of India*, IX, 297, high spring tides in the Gulf of Cambay rise and fall as much as 33 feet, and run at a velocity of 6 to 7 knots an hour. Ordinary tides reach 25 feet, at 4½ to 6 knots. The inevitable damage to shipping, under such difficulties, was the cause of the desertion of the Cambay ports for Surat and, more recently, Bombay.
 
-
-##### 46. **The sea rushing in with a hoarse roar.**
+46\. **The sea rushing in with a hoarse roar.**
 
 > ——————"Through hoarse roar never remitting,  
 > Along the midnight edge by those milk-white combs careering."  
@@ -2055,7 +2049,7 @@ According to the *Imperial Gazetteer*, XX, 149-150, it is a reef of rock partly 
 
 47\. **Gandaræi.**—(Sanscrit, *Gāndhāra*.) This people dwelt on both sides of the Cabul River, above its junction with the Indus; the modern Peshāwar district. In earlier times they extended east of the Indus, where their eastern capital was located—*Takshasilā*, a large and prosperous city, called by the Greeks *Taxila*.
 
-(See also Holdich, *Gates of India*, 99, 114, 179, 185; Vincent Smith, *Early History*, 32, 43, 50, 52, 54; Foucher, *Notes sur la géo- graphie ancienne du Gāndhāra*.)
+(See also Holdich, *Gates of India*, 99, 114, 179, 185; Vincent Smith, *Early History*, 32, 43, 50, 52, 54; Foucher, *Notes sur la géographie ancienne du Gāndhāra*.)
 
 The trade-route briefly referred to in the mention of Gāndhāra and Pushkalāvatī was that leading to Bactria, whence it branched westward to the Caspian and the Euphrates, and eastward through Turkestan to China, the "Land of This" of § 64.
 
@@ -2144,7 +2138,7 @@ As an import at Barygaza lead was required largely for the coinage of the Saka d
 
 49\. **Bright-colored girdles.**—These were probably for the Bhīls, a Dravidian hill-tribe, who worked the carnelian mines then as now. The modern Coorgs, a related tribe, still wear a distinctive "girdle-scarf" which is now made at Sirangala. (*Imp. Gaz.*, VIII, 101-4; IX, 36.)
 
-49\. **Sweet clover.**—This is *Trifolium melilotus*, order *Legu- minosæ*, the "melilote" of the Greeks and Romans, used for making chaplets and perfumes, and medicinally. Pliny (XXI, 29) says the best sorts were from Campania in Italy, Cape Sunium in Greece, also from Chalcidice and Crete; native always in rugged and wild localities. "The name *sertula*, garland, which it bears sufficiently proves that this plant was formerly much used in the composition of chaplets. The smell, as well as the flower, closely resembles that of saffron, though the stem itself is white; the shorter and more fleshy the leaves, the more highly it is esteemed." And again (XXI, 87), "the melilote applied with the yolk of an egg, or else linseed, effects the cure of diseases of the eyes. It assuages pains, too, in the jaws and head, [p. 191] applied with rose oil; and employed with raisin wine, it is good for pains in the ears, and all kinds of swellings or eruptions on the hands. A decoction of it in wine, or else the plant itself beaten up raw, is good for pains in the stomach."
+49\. **Sweet clover.**—This is *Trifolium melilotus*, order *Leguminosæ*, the "melilote" of the Greeks and Romans, used for making chaplets and perfumes, and medicinally. Pliny (XXI, 29) says the best sorts were from Campania in Italy, Cape Sunium in Greece, also from Chalcidice and Crete; native always in rugged and wild localities. "The name *sertula*, garland, which it bears sufficiently proves that this plant was formerly much used in the composition of chaplets. The smell, as well as the flower, closely resembles that of saffron, though the stem itself is white; the shorter and more fleshy the leaves, the more highly it is esteemed." And again (XXI, 87), "the melilote applied with the yolk of an egg, or else linseed, effects the cure of diseases of the eyes. It assuages pains, too, in the jaws and head, [p. 191] applied with rose oil; and employed with raisin wine, it is good for pains in the ears, and all kinds of swellings or eruptions on the hands. A decoction of it in wine, or else the plant itself beaten up raw, is good for pains in the stomach."
 
 Concerning the use of chaplets in the Roman world, Pliny gives many details (XXI, 1-10). The chaplet was a crown of honor given the victors in the sacred games. Originally laurel and other tree foliage was used; flowers were added by the painter Pausias, at Sicyon, about 380 B. C. Then came the "Egyptian chaplet" of ivy, narcissus, and pomegranate blossoms, and then a durable article of thin laminæ of horn, and of leaves of gold, silver, or tinsel, plain or embossed.
 
@@ -2269,7 +2263,7 @@ There are other explanations of these three names. Fabricius alters both Mambaru
 
 The explanation based on the Puranic lists and the coinage has inherent probability, and is confirmed by the description of political conditions in § 52 of the Periplus, if that be applied to the reign of the Andhra king Arishta Sātakarṇi (44-69 A. D.), through the medium of his heir-presumptive Sundara, ruling as viceroy at Paithān, and displaying in the Konkans the only show of Andhra authority which would have come under the observation of a Græco-Roman merchant and shipmaster.
 
-(See A.-M. Boyer, *Nahapāna et l'ère Çaka*, in *Journal Asiatique*, July-Aug., 1897, pp. 120-151; an excellent paper, in which the only matter for criticism is that the inscriptions of the Nabatæan Malichas should be thought less trustworthy than the chronology of the Abyssinian Chronicles, compiled much later.—C. R. Wilson, *Proposed identification of the name of an Andhra king in the Periplus*, in *Journal of the Asiatic Society of Bengal*, June, 1904; with which the foregoing suggestions are in accord, except as to their sequel.—Vincent Smith, *Andhra History and Coinage*, in *Zeitschrift der Deutschen Morgenländ- ischen Gesellschaft*, Sept., 1903.—Pandit Bhagvānlāl Indrajī, *The Western Kshatrapas*, in *Journal of the Royal Asiatic Society*, 1890, pp. 639-662. —E. J. Rapson, *The Coinage of the Mahākshatrapas and Kshatrapas*, J. R. A. S., 1899, 357-404; same author, *Ancient India*, in Numismatic Supplement, J. A. S. B., 1904, p. 227. Col. J. Biddulph, in a note to Mr. Rapson's first article, observes that our knowledge of the Satraps is derived solely from their coins, of which the former are undated; that each ruler puts his father's name on his coins as well as his own; that the dates overlap frequently; and that of the two titles, Mahākshatrapa indicates the monarch, and Kshatrapa the heir-apparent.—Vincent Smith, *Catalogue of the Coins in the Indian Museum*, *Calcutta*; also Chronology of Andhra Dynasty, in his *Early History*, p. 190.—E. J. Rapson, *Coins of the Andhra Dynasty, the Western Kshatrapas*, etc., British Museum. See also Cunningham, *Book of Indian Eras*; Duff, *The Chronology of India from the Earliest Times to the Beginning of the 16th Century*.)
+(See A.-M. Boyer, *Nahapāna et l'ère Çaka*, in *Journal Asiatique*, July-Aug., 1897, pp. 120-151; an excellent paper, in which the only matter for criticism is that the inscriptions of the Nabatæan Malichas should be thought less trustworthy than the chronology of the Abyssinian Chronicles, compiled much later.—C. R. Wilson, *Proposed identification of the name of an Andhra king in the Periplus*, in *Journal of the Asiatic Society of Bengal*, June, 1904; with which the foregoing suggestions are in accord, except as to their sequel.—Vincent Smith, *Andhra History and Coinage*, in *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, Sept., 1903.—Pandit Bhagvānlāl Indrajī, *The Western Kshatrapas*, in *Journal of the Royal Asiatic Society*, 1890, pp. 639-662. —E. J. Rapson, *The Coinage of the Mahākshatrapas and Kshatrapas*, J. R. A. S., 1899, 357-404; same author, *Ancient India*, in Numismatic Supplement, J. A. S. B., 1904, p. 227. Col. J. Biddulph, in a note to Mr. Rapson's first article, observes that our knowledge of the Satraps is derived solely from their coins, of which the former are undated; that each ruler puts his father's name on his coins as well as his own; that the dates overlap frequently; and that of the two titles, Mahākshatrapa indicates the monarch, and Kshatrapa the heir-apparent.—Vincent Smith, *Catalogue of the Coins in the Indian Museum*, *Calcutta*; also Chronology of Andhra Dynasty, in his *Early History*, p. 190.—E. J. Rapson, *Coins of the Andhra Dynasty, the Western Kshatrapas*, etc., British Museum. See also Cunningham, *Book of Indian Eras*; Duff, *The Chronology of India from the Earliest Times to the Beginning of the 16th Century*.)
 
 53\. **Semylla.**—This is the *Symulla* of Ptolemy, the *Chimolo* of Yuan Chwang, the *Saimur* of the early Mohammedan travellers; the modern Chaul (18° 34′ N., 72° 55′ E.), about 25 miles south of Bombay. The ancient Hindu name was *Champāvati*, and was connected [p. 201] with the reign of Krīshna in Gujarāt. (See McCrindle, *Ancient India*, 161; *Imp. Gaz.*, X, 184; Müller, I, 295.)
 
@@ -2329,16 +2323,12 @@ Damirica means the "country of the Tamils," that is, the Southern Dravidians as 
 
 Vincent Smith (*Early History* 340-1) is confident that Muziris and Cranganore are the same. He says "The Kingdom of Satiyaputra must have adjoined Keralaputra; and since the Chandragiri river has always been regarded as the northern boundary of that province, the Satiyaputra Kingdom should probably be identified with that portion of the Konkans—or lowlands between the Western Ghāts and the sea— where the Tulu language is spoken, and of which Mangalore is the center. The name of Kerala is still well remembered and there is no doubt that the Kingdom so called was equivalent to the Southern Konkans or Malabar coast. The ancient capital was Vanji, also named Karuvūr, the *Karoura* of Ptolemy, situated close to Cranganore; which represents Muziris, the port for the pepper trade, mentioned by Pliny and the author of the Periplus at the end of the first century A. D." Vanji, according to the *Imperial Roll-call* (XX, 21), must be placed at the modern Parūr or Paravūr (10° 10′ N., 76° 15′ E.), where the Periyār River empties into the Cochin back-waters. Parūr is still a busy trading center, as well as the headquarters of the district. While now in the district of Travancore, it formerly belonged to Cochin,—that is, to Chēra or Kerala. It is said to comprise almost all the Jews in Travancore; and the settlement may date from the end of the first century, when it is known that there was a considerable Jewish migration to Southern India.
 
-The earlier identification of Muziris and Nelcynda placed them at Mangalore and Nīleshwar (12° 52′ N., 74° 51′ E., and 12° 16′
+The earlier identification of Muziris and Nelcynda placed them at Mangalore and Nīleshwar (12° 52′ N., 74° 51′ E., and 12° 16′ [p. 207] N., 75° 8′ E.). This conflicts with nearly all that we know of the geography and politics of the Tamil kingdoms, and is entirely impossible for Nelcynda. This port, according to the Periplus, belonged to the Pāṇḍyan kingdom, which certainly never extended so far north.
 
 
 <!-- page: 216 | folio: 206 -->
 
 ![Portion of the Peutinger Tables, from Justus Perthes, Atlas Antiquus.](../figures/fig-016_p0216.webp)
-
-
-<!-- page: 217 | folio: 207 -->
-N., 75° 8′ E.). This conflicts with nearly all that we know of the geography and politics of the Tamil kingdoms, and is entirely impossible for Nelcynda. This port, according to the Periplus, belonged to the Pāṇḍyan kingdom, which certainly never extended so far north.
 
 
 ![12 Miles.](../figures/fig-017_p0217.webp)
@@ -2371,7 +2361,7 @@ It is quite possible that Chēra is also meant by Pliny's *Seres* of XXXIV, 41, 
 
 The “silent trade,” noted by Fa-Hien in Ceylon itself, is referred to under § 65, and again by Pliny (VI, 20), Pausanias (III, xii, 3), and Cosmas Indicopleustes (book II).
 
-For further references to Chēra and the other Tamil states growing out of the original establishment at Korkai, see Vincent Smith, *Early History*, Chap. xvi;—Caldwell, *Grammar of the Dravidian Languages*, introduction; also *History of Tinnevelly*;—Burnell, *South Indian Palæog- raphy*;—Shanguni Menon, *History of Travancore*;—Francis Day, *The Land of the Permauls*;—J. B. Pandian, *Indian Village Folk*;—Sir Walter Elliot, *Coins of Southern India*;—Foulkes, *The Civilization of the Dakhan down to the 6th century B. C.*, in *Indian Antiquary*, 1879, pp. 1-10;— K. P. Padmanabha Menon, *Notes on Malabar and its place-names*, in *Indian Antiquary*, Aug., 1902;—Wilson, *The Pāndyas*, in *Journal of the Royal Asiatic Society*, iii, 199;—Dawson, *The Chēras*, in J. R. A. S., viii, 1;—Sewell, *Lists of Inscriptions, and Sketch of the Dynasties of Southern India*, in the *Archæological Survey*, Madras, 1884;—F. Kielhorn, *Dates of Chola and Pāndya Kings*, in *Epigraphia Indica*, Vols. IV-VIII, inclusive;—*Imperial Gazetteer*, Vol. II, Chaps. i, iii, iv, v, ix;—Bühler, *Indische Palæographie*, and generally, his *Grundriss der Indo-Arischen Philologie und Altertumskunde*;—Fleet, *The Dynasties of the Kanarese Districts*, and Bhandarkar, *Early History of the Dekkan*, in *Gazetteer of the Bombay Presidency*, I, ii;—Loventhal, *Coins of Tinnevelly*; —Hultzsch, *South Indian Inscriptions*.
+For further references to Chēra and the other Tamil states growing out of the original establishment at Korkai, see Vincent Smith, *Early History*, Chap. xvi;—Caldwell, *Grammar of the Dravidian Languages*, introduction; also *History of Tinnevelly*;—Burnell, *South Indian Palæography*;—Shanguni Menon, *History of Travancore*;—Francis Day, *The Land of the Permauls*;—J. B. Pandian, *Indian Village Folk*;—Sir Walter Elliot, *Coins of Southern India*;—Foulkes, *The Civilization of the Dakhan down to the 6th century B. C.*, in *Indian Antiquary*, 1879, pp. 1-10;— K. P. Padmanabha Menon, *Notes on Malabar and its place-names*, in *Indian Antiquary*, Aug., 1902;—Wilson, *The Pāndyas*, in *Journal of the Royal Asiatic Society*, iii, 199;—Dawson, *The Chēras*, in J. R. A. S., viii, 1;—Sewell, *Lists of Inscriptions, and Sketch of the Dynasties of Southern India*, in the *Archæological Survey*, Madras, 1884;—F. Kielhorn, *Dates of Chola and Pāndya Kings*, in *Epigraphia Indica*, Vols. IV-VIII, inclusive;—*Imperial Gazetteer*, Vol. II, Chaps. i, iii, iv, v, ix;—Bühler, *Indische Palæographie*, and generally, his *Grundriss der Indo-Arischen Philologie und Altertumskunde*;—Fleet, *The Dynasties of the Kanarese Districts*, and Bhandarkar, *Early History of the Dekkan*, in *Gazetteer of the Bombay Presidency*, I, ii;—Loventhal, *Coins of Tinnevelly*; —Hultzsch, *South Indian Inscriptions*.
 
 54\. **Abounds in ships.**—In these protected thoroughfares flourished a sea-trade, largely in native Dravidian craft, which was of early creation and of great influence in the interchange of ideas as well as commodities, not only in South India, but in the Persian Gulf,
 
@@ -2440,7 +2430,7 @@ Tavernier found pepper sold principally at Tuticorin and Calicut. Some, however,
 
 He mentions also (I, xvi) a large storehouse kept by the Portuguese at Cochin, called the ‘‘Pepper House.’’
 
-See also Watt, 896-901;—Flückiger and Hanbury, *Pharmaco- graphia*, p. 579;—*Encyclopædia Britannica*, article ‘‘Pepper;’’—Brandis, *Indian Trees*;—Vignoli, *Liber Pontificalis*, Rome, 1724-55.
+See also Watt, 896-901;—Flückiger and Hanbury, *Pharmacographia*, p. 579;—*Encyclopædia Britannica*, article ‘‘Pepper;’’—Brandis, *Indian Trees*;—Vignoli, *Liber Pontificalis*, Rome, 1724-55.
 
 Odoric also describes a propitiation of the serpents guarding the pepper, similar to those of the frankincense and diamond; the story is better in the version of ‘‘Sir John Mandeville’’ (Chap. xviii): ‘‘In that country be many manner of serpents and of other vermin for the great heat of the country and of the pepper. And some men say, [p. 216] that when they will gather the pepper, they make fire, to burn about to make the serpents and the cockodrills to flee. But save their grace of all that say so. For if they burnt about the trees that bear, the pepper should be burnt, and it would dry up all the virtue, as of any other thing; and then they did themselves much harm, and they should never quench the fire. But thus they do: they anoint their hands and their feet with a juice made of snails and of other things made therefor, of the which the serpents and the venomous beasts hate and dread the savour; and that maketh them flee before them, because of the smell, and then they gather it surely enough.”
 
@@ -2454,7 +2444,7 @@ The frankincense gatherers depended on burning storax; see under § 29, pp. 131-
 
 Watt (p. 891) says this latter is rather derived from a Malay word *vettila* or *vern-ila*, meaning “leaf,” and it is very doubtful if the betel of modern times entered into international commerce in the Roman period.
 
-The word *petros* is rather from the Sanscrit *patra*, “leaf,” of the *tamala* tree which, as explained under §§ 10, 13 and 14, is a variety of cinnamon or laurel. The leaf exported from Southern India was also from *Cinnamomum iners*, and possibly from the *Cinna- momum zeylanicum* which in later times was cultivated in Ceylon and is one of the sources of our cinnamon. (See Tavernier, *Travels*, II, xii). The leaf coming from the Himalaya mountains was principally from the *Cinnamomum tamala*, which was native there. Pliny [p. 217] says that the *malabathrum* which entered so prominently into Roman perfumes should have a smell like nard, and other Roman writers seem to have confused it with the Ganges nard mentioned in § 63. (See also Lassen, I, 279-285; II, 555-561.) Horace, (II, vii, 89), refers to it as follows:
+The word *petros* is rather from the Sanscrit *patra*, “leaf,” of the *tamala* tree which, as explained under §§ 10, 13 and 14, is a variety of cinnamon or laurel. The leaf exported from Southern India was also from *Cinnamomum iners*, and possibly from the *Cinnamomum zeylanicum* which in later times was cultivated in Ceylon and is one of the sources of our cinnamon. (See Tavernier, *Travels*, II, xii). The leaf coming from the Himalaya mountains was principally from the *Cinnamomum tamala*, which was native there. Pliny [p. 217] says that the *malabathrum* which entered so prominently into Roman perfumes should have a smell like nard, and other Roman writers seem to have confused it with the Ganges nard mentioned in § 63. (See also Lassen, I, 279-285; II, 555-561.) Horace, (II, vii, 89), refers to it as follows:
 
 > ————“Coronatus nitentes  
 > Malobathro Syrio capillos.”
@@ -2671,7 +2661,7 @@ The word has led to much unnecessary confusion in the translation of this passag
 
 > "Two miles distant from Alexandria is the town of Juliopolis. The distance thence to Coptos, up the Nile, is three hundred and [p. 233] eight miles; the voyage is performed, when the Etesian winds are blowing, in twelve days. From Coptos the journey is made with the aid of camels, stations being arranged at intervals for the supply of fresh water. The first of these stations is called Hydreuma (watering-place), and is distant twenty-two miles; the second is situate on a mountain, at a distance of one day's journey from the last; the third is at a second Hydreuma distant from Coptos ninety-five miles; the fourth is on a mountain; the next to that is another Hydreuma, that of Apollo, and is distant from Coptos one hundred and eighty-four miles; after which, there is another on a mountain. There is then another station at a place called the New Hydreuma, distant from Coptos two hundred and thirty miles; and next to it there is another, called the Old Hydreuma, or the Troglodytic, where a detachment is always on guard, with a caravansary that affords lodging for two thousand persons. This last is distant from the New Hydreuma seven miles. After leaving it we come to the city of Berenice, situate upon a harbor of the Red Sea and distant from Coptos two hundred and fifty-seven miles. The greater part of this distance is generally travelled by night, on account of the extreme heat, the days being spent at the stations; in consequence of which it takes twelve days to perform the whole journey from Coptos to Berenice.
 
-“Passengers generally set sail at midsummer, before the rising of the Dog-star, or else immediately after, and in about thirty days arrive at Ocelis in Arabia, or else at Cana, in the region which bears frankincense. There is also a third port of Arabia, Muza by name; it is not, however, used by persons on their passage to India, as only those touch at it who deal in incense and the perfumes of Arabia. More in the interior there is a city; the residence of the king there is called Sapphar, and there is another city known by the name of Save. To those who are bound for India, Ocelis is the best place for embarcation. If the wind, called Hippalus, happens to be blowing, it is possible to arrive in forty days at the nearest mart in India, Muziris by name. This, however, is not a very desirable place for disembarcation, on account of the pirates which frequent its vicinity, where they occupy a place called Nitrias; nor, in fact, is it very rich in articles of merchandise. Besides, the roadstead for shipping is a considerable distance from the shore, and the cargoes have to be conveyed in boats, either for loading or discharging. At the moment that I am writing these pages, the name of the king of this place is Cœlobothras. Another port, and a much more convenient one, is that which lies in the territory of the people called Neacyndi, Barace by name. Here king Pandion used to reign, dwelling at a considerable distance from [p. 234] the mart in the interior, at a city known as Modiera. The district from which pepper is carried down to Barace in boats hollowed out of a single tree (see illustration on p. 212), is known as Cottonara. None of these names of nations, ports, and cities are to be found in any of the former writers, from which circumstance it would appear that the localities have since changed their names. Travellers set sail from India on their return to Europe, at the beginning of the Egyptian month of Tybis, which is our December, or at all events before the sixth day of the Egyptian month Mechir, the same as our Ides of January; if they do this they can go and return in the same year. They set sail from India with a south-east wind, and upon entering the Red Sea, catch the south-west or south."
+> “Passengers generally set sail at midsummer, before the rising of the Dog-star, or else immediately after, and in about thirty days arrive at Ocelis in Arabia, or else at Cana, in the region which bears frankincense. There is also a third port of Arabia, Muza by name; it is not, however, used by persons on their passage to India, as only those touch at it who deal in incense and the perfumes of Arabia. More in the interior there is a city; the residence of the king there is called Sapphar, and there is another city known by the name of Save. To those who are bound for India, Ocelis is the best place for embarcation. If the wind, called Hippalus, happens to be blowing, it is possible to arrive in forty days at the nearest mart in India, Muziris by name. This, however, is not a very desirable place for disembarcation, on account of the pirates which frequent its vicinity, where they occupy a place called Nitrias; nor, in fact, is it very rich in articles of merchandise. Besides, the roadstead for shipping is a considerable distance from the shore, and the cargoes have to be conveyed in boats, either for loading or discharging. At the moment that I am writing these pages, the name of the king of this place is Cœlobothras. Another port, and a much more convenient one, is that which lies in the territory of the people called Neacyndi, Barace by name. Here king Pandion used to reign, dwelling at a considerable distance from [p. 234] the mart in the interior, at a city known as Modiera. The district from which pepper is carried down to Barace in boats hollowed out of a single tree (see illustration on p. 212), is known as Cottonara. None of these names of nations, ports, and cities are to be found in any of the former writers, from which circumstance it would appear that the localities have since changed their names. Travellers set sail from India on their return to Europe, at the beginning of the Egyptian month of Tybis, which is our December, or at all events before the sixth day of the Egyptian month Mechir, the same as our Ides of January; if they do this they can go and return in the same year. They set sail from India with a south-east wind, and upon entering the Red Sea, catch the south-west or south."
 
 **58. Dark Red Mountain.**—The text is *Pyrrhon*. There can be no doubt that it refers to the "Red Bluffs," a series of high sandstone and laterite headlands, which abut on the coast at Varkkallai (8° 42′ N.), and again below Anjengo (8° 40′ N., 76° 45′ E.). These are the "Warkalli Beds" of the Indian geologists, and have recently been pierced by a canal to complete the backwater communication between Tirūr and Trivandrum, nearly 200 miles. (*Imperial Gazetteer*, XXIV, 300.)
 
@@ -2721,8 +2711,7 @@ The dynastic succession of these kingdoms forms the longest unbroken chain in In
 <!-- page: 249 | folio: 239 -->
 The Dravidians of Southern India were active traders and colonists in Ceylon, in opposition to the native Sinhalese, with whom they were in frequent conflict, and in spite of whom they had extended their power effectually over the northwestern coast of Ceylon, the region of the pearl-fisheries.
 
-
-##### 59. **Pearl-fisheries.**—These were, as at present, in the shallow waters of the Gulf of Manār. (See under §§ 35, 36, and 56.)
+59\. **Pearl-fisheries.**—These were, as at present, in the shallow waters of the Gulf of Manār. (See under §§ 35, 36, and 56.)
 
 Pliny (IX, 54-8) says that pearls came into general use in Rome after the surrender of Alexandria; but that they first began to be used about the time of Sylla.
 
@@ -2748,7 +2737,7 @@ In the case of frankincense, pepper and diamonds, the guardian spirits took the 
 
 The pearl-fisheries belonging to this kingdom, the product of which was sold only at the capital, Uraiyūr, were those of the Palk Strait, north of Adam's Bridge, as distinguished from those of the Gulf of Manār, which belonged to the Pāndyan kingdom, and were administered from Madura.
 
-59\. **Argaru.**—This is nearly a correct transliteration of *Urai- yūr* ("city of habitation"), the ancient capital of the Chōla kingdom, now part of Trichinopoly (10° 49′ N., 78° 42′ E.). [p. 242] Previous identifications of this name have failed to take into account the fact that it was inland, and in a different country from the Pāṇḍyan kingdom.
+59\. **Argaru.**—This is nearly a correct transliteration of *Uraiyūr* ("city of habitation"), the ancient capital of the Chōla kingdom, now part of Trichinopoly (10° 49′ N., 78° 42′ E.). [p. 242] Previous identifications of this name have failed to take into account the fact that it was inland, and in a different country from the Pāṇḍyan kingdom.
 
 The capital grew up around a fortress built on the summit of the Rock of Trichinopoly, which rises abruptly out of the plain to a height of 340 feet above the old city, which nestles picturesquely at its foot. “The view from the frowning heights of the rock is very grand. Little is now left of the old fortifications but the citadel and a pagoda-like temple. A covered passage hewn out of the rock leads to them.” (Furneaux, *India*, p. 430.)
 
@@ -2832,9 +2821,9 @@ Marco himself (III, xx) calls Chōla ‘‘the kingdom of Maabar called Soli, wh
 
 Friar Odoric (chap. iv) says of this kingdom: ‘‘The king of the said region is most rich in gold, silver and precious stones, and and there be the fairest unions (pearls) in all the world.’’
 
-61\. **Palæsimundu.**—This is the modern Ceylon. According to Lassen (I, 201) this word is the Sanscrit *Pālisġmanta*, ‘‘abode of the law of piety;’’ that is, the *Dharma* of Gautama Buddha. The distinction is of interest; ‘‘by the ancients’’ it was called *Taprobanē*, which is the Sanscrit *Tāmraparnī*, the name given to it in the *Rāmā- yana*. The knowledge concerning Ceylon which reached the west through Onesicritus, Eratosthenes and Strabo, was of the island before its conversion to Buddhism under the missionary zeal of Asoka. Our author speaks of it in the time of its greatest devotion to the new religion, which its neighbors the Dravidian kingdoms of Southern India never fully accepted.
+61\. **Palæsimundu.**—This is the modern Ceylon. According to Lassen (I, 201) this word is the Sanscrit *Pālisīmanta*, ‘‘abode of the law of piety;’’ that is, the *Dharma* of Gautama Buddha. The distinction is of interest; ‘‘by the ancients’’ it was called *Taprobanē*, which is the Sanscrit *Tāmraparnī*, the name given to it in the *Rāmāyana*. The knowledge concerning Ceylon which reached the west through Onesicritus, Eratosthenes and Strabo, was of the island before its conversion to Buddhism under the missionary zeal of Asoka. Our author speaks of it in the time of its greatest devotion to the new religion, which its neighbors the Dravidian kingdoms of Southern India never fully accepted.
 
-According to McCrindle (*Ancient India*, 20, 160), the name *Taprobanē*, or *Tāmraparnī*, was given by Vijaya, who led the first Indian colony into the island, and applied to the place where he first landed. The name means ‘‘copper-colored;’’ compare *Tāmra-lipti*, the sea-port town at the mouth of the Ganges. The Pāli form, *Tambapanni*, appears in the inscription of Asoka at Girnār. Another Brahmanical name, *Dvīpa Rāvana*, ‘‘island of Rāvana,’’ (the demon-king, kidnapper of Sġtā in the *Rāmāyana*), is thought by some to be the origin of *Taprobanē*.
+According to McCrindle (*Ancient India*, 20, 160), the name *Taprobanē*, or *Tāmraparnī*, was given by Vijaya, who led the first Indian colony into the island, and applied to the place where he first landed. The name means ‘‘copper-colored;’’ compare *Tāmra-lipti*, the sea-port town at the mouth of the Ganges. The Pāli form, *Tambapanni*, appears in the inscription of Asoka at Girnār. Another Brahmanical name, *Dvīpa Rāvana*, ‘‘island of Rāvana,’’ (the demon-king, kidnapper of Sītā in the *Rāmāyana*), is thought by some to be the origin of *Taprobanē*.
 
 Ptolemy notes that the ancient name was *Simundu* (mistaking the first two syllables of our author’s word Palæsimundu for the Greek *palai*), but in his own time *Salikê*, the country of the Salæ. Cosmas Indicopleustes called it *Sielediba*; which, as McCrindle notes, is through the Pāli the true Sanscrit name for the island: *Sinhala-dvīpa*, ‘‘island of the lions,’’ or lion-like men-heroes. ‘‘To this source may be traced its other names, Serendib, Sylan, and Ceylon.’’
 
@@ -2848,7 +2837,7 @@ Cosmas Indicopleustes (*Christian Topography*, book XI), tells of Ceylon and its
 
 > "From the inner regions, that is, from Tzinista and from the other market-towns, are brought silk cloth, aloe-wood, cloves, and sandalwood, and other products according to the place; and it [p. 251] forwards them to those of the outside, that is, to Malē, in which pepper grows; to Calliana, where brass is found, and sesamin wood, and various kinds of cloth (for it, too, is a great market-town); and to Sindu, where the castor musk is found, and spikenard; and to Persia, to the country of the Homerites, and Adulis; and in return it receives other things from all these places, which it transmits to the inner regions, with its own products likewise. Now Sindu is the beginning of India; for the river Indus, which empties into the Persian Gulf, separates Persia from India. These are the best-known market-towns of India: Sindu, Orrhotha, Calliana, Sibor, and Malē which has five ports to which pepper is brought; Parti, Mangarouth, Salopatana, Nalopatana, Pudapatana. And then, at a distance of about five days and nights from the mainland, out in the ocean, is Sielediba, that is, Taprobanē. Then again, on the mainland, is a market-town, Marallo, shipping conch-shells; and there is Kaber, shipping alab cold-bandenum, and then the country from which cloves are shipped; and then Tzinista, which sends silk cloth; within which there is no other land, for the ocean encircles it on the east.
 
-“And so this island Sielediba, placed in the midst of India, which produces the hyacinthus, receives goods from all markets and ships to all, being itself a very great market. And there came thither on matters of trade one from our own parts, named Sopater, who died about 35 years ago. And his business took him to the island of Taprobanē, where it happened that a vessel arrived at the same time from Persia, and there landed together those from Adulis, among whom was Sopater, and those from Persia, among whom was an ambassador of the Persians. And so, as the custom was, the captains and tax-collectors receiving them, brought them before the king. And being admitted into the presence of the king, after they had offered the proper homage, he bade them be seated. And then he asked them: “How goes it with your countries, and how with your trade and commerce?” “Excellently well,” they said. Replying, the king asked, “Who, of your kings, is the greatest and most powerful?” Without delay the Persian answered: “Ours is the most powerful, the greatest and the richest; he is the king of kings; and he has power to do whatever he wills.” But Sopater was silent. Then said the king, “You, Roman, have you nothing to say?” And Sopater replied, “What have I to say, when this man says such things? If you wish to learn the truth, you have both kings here; examine them, and you will see which one is the most magnificent and the most powerful.” But the king was amazed at this speech, and said, “How have I both kings here?” And he answered, “You [p. 252] have the money of both; you have the gold coin of the one king, and the drachma of the other, that is, the milliarense; compare the images of both, and you will see the truth." And he, approving and assenting, bade that both be produced. Now the gold coin was fine, bright, and well-shaped; for thus are the best exported thither; and the milliarense was of silver and I need hardly say, not to be compared with the gold coin. The king looked at both obverse and reverse, and then at the other; and held forth the gold coin with admiration, saying, "Truly the Romans are magnificent and powerful and wise." And he commanded that Sopater should be treated with honor; that he should be seated upon an elephant, and led around the whole city with drums, and acclaimed. This Sopater told me, and those also from Adulis, who voyaged with him to that island. And when these things happened, so they say, the Persian was greatly ashamed."
+> “And so this island Sielediba, placed in the midst of India, which produces the hyacinthus, receives goods from all markets and ships to all, being itself a very great market. And there came thither on matters of trade one from our own parts, named Sopater, who died about 35 years ago. And his business took him to the island of Taprobanē, where it happened that a vessel arrived at the same time from Persia, and there landed together those from Adulis, among whom was Sopater, and those from Persia, among whom was an ambassador of the Persians. And so, as the custom was, the captains and tax-collectors receiving them, brought them before the king. And being admitted into the presence of the king, after they had offered the proper homage, he bade them be seated. And then he asked them: “How goes it with your countries, and how with your trade and commerce?” “Excellently well,” they said. Replying, the king asked, “Who, of your kings, is the greatest and most powerful?” Without delay the Persian answered: “Ours is the most powerful, the greatest and the richest; he is the king of kings; and he has power to do whatever he wills.” But Sopater was silent. Then said the king, “You, Roman, have you nothing to say?” And Sopater replied, “What have I to say, when this man says such things? If you wish to learn the truth, you have both kings here; examine them, and you will see which one is the most magnificent and the most powerful.” But the king was amazed at this speech, and said, “How have I both kings here?” And he answered, “You [p. 252] have the money of both; you have the gold coin of the one king, and the drachma of the other, that is, the milliarense; compare the images of both, and you will see the truth." And he, approving and assenting, bade that both be produced. Now the gold coin was fine, bright, and well-shaped; for thus are the best exported thither; and the milliarense was of silver and I need hardly say, not to be compared with the gold coin. The king looked at both obverse and reverse, and then at the other; and held forth the gold coin with admiration, saying, "Truly the Romans are magnificent and powerful and wise." And he commanded that Sopater should be treated with honor; that he should be seated upon an elephant, and led around the whole city with drums, and acclaimed. This Sopater told me, and those also from Adulis, who voyaged with him to that island. And when these things happened, so they say, the Persian was greatly ashamed."
 
 61\. **Almost touches Azania.**—Our author's ideas of the world in general are similar to those of Pomponius Mela, with whom he was nearly contemporary; whose map (reproduced on p. 100) retains the old idea of a balancing southern "continent of the Antichthones," with the eastern end of which he identifies Taprobanē. The Periplus does not indicate quite that extent for Ceylon, but exaggerates its size tenfold. The confusion may have been partly due to the grandiloquent descriptions left by the Ceylonese embassy which visited the Emperor Augustus. (See Bunbury, *History of Ancient Geography*, Vol. II.)
 
@@ -2872,7 +2861,7 @@ The Kirāta were under-sized, and by the Aryan Hindus were called “pigmies.”
 
 Megasthenes relates the story in some detail, and is reproved by Strabo (XV, i, 57): “he then deviates into fables, and says that there are men of five, and even three spans in height, some of whom are without nostrils, with only two breathing orifices above the mouth. Those of three spans in height wage war with the cranes (described by Homer) and with the partridges, which are as large as geese; these people collect and destroy the eggs of the cranes which lay their eggs there; and nowhere else are the eggs or the young cranes to be found; frequently a crane escapes from this country with a brazen point of a weapon in its body, wounded by these people.”
 
-This tribe is especially referred to in one of the *Kāvyas*, called *Kirātārjunīya*, which recounts the combat, first mentioned in the *Ma- hābhārata*, between Siva in the guise of a Kirāta, or mountaineer, and Arjuna.
+This tribe is especially referred to in one of the *Kāvyas*, called *Kirātārjunīya*, which recounts the combat, first mentioned in the *Mahābhārata*, between Siva in the guise of a Kirāta, or mountaineer, and Arjuna.
 
 62\. **Bargysi.**—These are the *Bhargas* of the *Vishnu Purāna*, there mentioned as neighbors of the Kirāta, and doubtless of like race. (Taylor, *Remarks on the Sequel to the Periplus*, in *Journal of the Asiatic Society of Bengal*, Jan. 1847.)
 
@@ -2995,7 +2984,7 @@ It has been supposed that the Greeks learned of silk through Alexander’s exped
 
 
 <!-- page: 275 | folio: 265 -->
-He refers to the same fabric in VI, 20, where he speaks of "the Seres, so famous for the wool that is found in their forests. After steeping it in water, they comb off a soft down that adheres to the leaves; and then to the females of our part of the world they give the twofold task of unraveling their textures, and of weaving the threads afresh. So manifold is the labor, and so distant are the regions which are thus ransacked to supply a dress through which our ladies may in public display their charms." Compare Lucan, *Phar- salia*, X, 141, who describes Cleopatra, "her white breasts resplendent through the Sidonian fabric, which, wrought in close texture by the skill of the Seres, the needle of the workman of the Nile has separated, and has loosened the warp by stretching out the web."
+He refers to the same fabric in VI, 20, where he speaks of "the Seres, so famous for the wool that is found in their forests. After steeping it in water, they comb off a soft down that adheres to the leaves; and then to the females of our part of the world they give the twofold task of unraveling their textures, and of weaving the threads afresh. So manifold is the labor, and so distant are the regions which are thus ransacked to supply a dress through which our ladies may in public display their charms." Compare Lucan, *Pharsalia*, X, 141, who describes Cleopatra, "her white breasts resplendent through the Sidonian fabric, which, wrought in close texture by the skill of the Seres, the needle of the workman of the Nile has separated, and has loosened the warp by stretching out the web."
 
 Silk fabrics of this kind were much affected by men also during the reign of Augustus, but the fashion was considered effeminate, and early in the reign of Tiberius the Roman Senate enacted a law "that men should not defile themselves by wearing garments of silk." (Tacitus, *Annals*, II, 33.) The cost was enormously high; from an account of the Emperor Aurelian we learn that silk was worth its weight in gold, and that he neither used it himself nor allowed his wife to possess a garment of it, thereby setting an example against the luxurious tastes that were draining the empire of its resources.
 
@@ -3111,7 +3100,7 @@ The first detailed account of the Roman empire contained in the Chinese annals: 
 
 64\. **Under the Lesser Bear**—meaning far to the north (of the Himalayas). No part of China is actually so far north as to have Ursa Minor in the zenith; this would require it to be within the Arctic Circle.
 
-64\. **Empty into the Ocean.**—This was the belief of most of the Greek and Roman geographers. See p. 100, where the map according to Pomponius Mela shows the Caspian directly connected with the Arctic Ocean, and Lake Mæotis connected by means of the Tanais, or Don, river. So Strabo (XI, vi, 1): “The Caspian is a bay extending from the ocean to the south. At its commencement it is very narrow; as it advances further inward, and particularly toward the extremity, it widens. . . . Eratosthenes says that the navigation of this sea was known to the Greeks; that the part of the voyage along the coast of the Albanians and the Gadusii comprised 5400 stadia; and the part along the country of the Anariaci, Mardi, and Hyrcani, as far as the mouth of the river Oxus, 4800 stadia, and thence to the Jaxartes, 2400 stadia.” This passage, often ridiculed, is rather an indication of the strong probability that the Caspian and Aral Seas were joined together until after the Christian era, so that the Amu and Syr were in truth accessible to the Greek adventurers [p. 278] from Colchis, crossing from the Euxine Sea. As to Lake Mæotis (the Sea of Azov) Strabo says (XI, i, 5): “Asia has a kind of peninsular form, surrounded on the west by the river Tanais and the Palus Mæotis as far as the Cimmerian Bosphorus, and that part of the coast of the Euxine which terminates at Colchis; on the north by the Ocean, as far as the mouth of the Caspian Sea; on the east by the same sea, as far as the confines of Armenia.” These errors were corrected by Ptolemy, but subsequently revived. See Tozer, *History of Ancient Geography*, 345, 367;—Huntington, *The Pulse of Asia*;—Mackinder, *The Geographical Pivot of History*, in *Geo- graphical Journal*, xxiii, 422-437, April, 1904;—Kropotkin, *The Desic- cation of Eurasia*, *ibid.*, June, 1904.
+64\. **Empty into the Ocean.**—This was the belief of most of the Greek and Roman geographers. See p. 100, where the map according to Pomponius Mela shows the Caspian directly connected with the Arctic Ocean, and Lake Mæotis connected by means of the Tanais, or Don, river. So Strabo (XI, vi, 1): “The Caspian is a bay extending from the ocean to the south. At its commencement it is very narrow; as it advances further inward, and particularly toward the extremity, it widens. . . . Eratosthenes says that the navigation of this sea was known to the Greeks; that the part of the voyage along the coast of the Albanians and the Gadusii comprised 5400 stadia; and the part along the country of the Anariaci, Mardi, and Hyrcani, as far as the mouth of the river Oxus, 4800 stadia, and thence to the Jaxartes, 2400 stadia.” This passage, often ridiculed, is rather an indication of the strong probability that the Caspian and Aral Seas were joined together until after the Christian era, so that the Amu and Syr were in truth accessible to the Greek adventurers [p. 278] from Colchis, crossing from the Euxine Sea. As to Lake Mæotis (the Sea of Azov) Strabo says (XI, i, 5): “Asia has a kind of peninsular form, surrounded on the west by the river Tanais and the Palus Mæotis as far as the Cimmerian Bosphorus, and that part of the coast of the Euxine which terminates at Colchis; on the north by the Ocean, as far as the mouth of the Caspian Sea; on the east by the same sea, as far as the confines of Armenia.” These errors were corrected by Ptolemy, but subsequently revived. See Tozer, *History of Ancient Geography*, 345, 367;—Huntington, *The Pulse of Asia*;—Mackinder, *The Geographical Pivot of History*, in *Geographical Journal*, xxiii, 422-437, April, 1904;—Kropotkin, *The Desic- cation of Eurasia*, *ibid.*, June, 1904.
 
 
 ![In this group of modern Tibetans may be found all the types mentioned in the closing paragraphs of the Periplus: “the men with flattened noses,” the “Horse-faces” and the “Long-faces,” of § 62, and the “men with short, thick bodies and broad, flat faces” of § 65.](../figures/fig-031_p0288.webp)
@@ -3179,7 +3168,7 @@ The region beyond Sikkim, "impassable by reason of its great cold," and includin
 
 ##### **Red Sea Coast.**
 
-<span class="sc">Ptolemais</span>. (*Exports*) Tortoise-shell Ivory. <span class="sc">Adulis</span>. (*Imports*) Undressed cloth from Egypt Robes from Arsinoe Cloaks of poor quality, dyed Double-fringed linen mantles Flint glass, in many forms Murrhine (glass imitation made in Diospolis) Brass (for ornament and in cut pieces as coin) Sheets of soft copper (for cooking-utensils, and bracelets and anklets) Iron (for spears) Axes, adzes and swords Copper drinking-cups, round and large Coin, a little Wine of Laodicea and Italy Olive oil Presents for the king: gold and silver plate, military cloaks, thin coats of skin Indian iron and steel (from Ariaca) Indian cotton cloth (the broad *monachē*), also the *sagma- togēnē*, perhaps raw cotton Girdles Coats of skin Mallow-colored cloth Muslins Lac. (*Exports*) Ivory Tortoise-shell Rhinoceros-horn.
+<span class="sc">Ptolemais</span>. (*Exports*) Tortoise-shell Ivory. <span class="sc">Adulis</span>. (*Imports*) Undressed cloth from Egypt Robes from Arsinoe Cloaks of poor quality, dyed Double-fringed linen mantles Flint glass, in many forms Murrhine (glass imitation made in Diospolis) Brass (for ornament and in cut pieces as coin) Sheets of soft copper (for cooking-utensils, and bracelets and anklets) Iron (for spears) Axes, adzes and swords Copper drinking-cups, round and large Coin, a little Wine of Laodicea and Italy Olive oil Presents for the king: gold and silver plate, military cloaks, thin coats of skin Indian iron and steel (from Ariaca) Indian cotton cloth (the broad *monachē*), also the *sagmatogēnē*, perhaps raw cotton Girdles Coats of skin Mallow-colored cloth Muslins Lac. (*Exports*) Ivory Tortoise-shell Rhinoceros-horn.
 
 
 ##### **Horn of Africa** (The "far-side" coast).
@@ -3505,7 +3494,7 @@ The following belong to the curiosities of criticism, all being based on the “
 - Heeren, *De Inaia Romanis cognita*, in *Commentationes societatis regiæ scientiarum*. Göttingen, 1793, XI, 101.
 
 <!-- page: 303 | folio: 293 -->
-"Apparently of the 1st, or at latest of the 2d century A. D." Heeren, *Ideen über die Politik, den Verkehr und den Handel der vornehmsten Völker der alten Welt.* Göttingen, 1824, I, iii, 316. "A ship's log of the 2d century A. D." Bohlen, *Das alte Indien, mit besonderer Rücksicht auf Aegypten.* Königsberg, 1830, I, 71. "A merchant of Alexandria who lived in the first half of the 2d century A. D." Külb, *Länder- und Völkerkunde in Biographien*, Berlin, 1846, I, 245. "Of the 2d century A. D." Ritter, *Geschichte der Erdkunde und der Entdeckungen*, Berlin, 1861, p. 124; also *Erdkunde Asiens*, IV, 1. "Of the 1st or, rather, the following century." Ritter, *Erdkunde Asiens*, VIII, 1. "Of the 3d century." Letronne, *Christianisme de Nubie*, 47. "200-217 A. D." Letronne, in *Nouveau Recueil de l'Académie des Inscriptions*, IX, 173. Alex. v. Humboldt, *Kritischen Untersuchungen*, I, 315. *Kosmos*, II, 458. Forbiger, *Handbuche der alten Geographie aus den Quellen bearbeitet*, Leipzig, 1842, I, 442. "246-247 A. D., under the emperor Philip and his son." Reinaud, in *Journal Asiatique*, series V, vol. 18, Paris, 1861, p. 226. Reinaud, *Mémoires de l'Académie des Inscriptions et belles lettres*, vol. xxiv, pp. 227-278 (1864). O. Peschel, *Geschichte der Erdkunde*, München, 1865. These views are vigorously combated by O. Blau, in *Zeitschrift der Deutschen Morgenländischen Gesell- schaft*, xxii, 656. A. Weber, *Indische Streife*, II, 266 (1869). Vivien de Saint Martin, *Le Nord de l'Afrique dans l'antiquité grecque et romaine*, 1863, p. 197. Dillmann, *loc. cit.*, pp. 414-428.
+"Apparently of the 1st, or at latest of the 2d century A. D." Heeren, *Ideen über die Politik, den Verkehr und den Handel der vornehmsten Völker der alten Welt.* Göttingen, 1824, I, iii, 316. "A ship's log of the 2d century A. D." Bohlen, *Das alte Indien, mit besonderer Rücksicht auf Aegypten.* Königsberg, 1830, I, 71. "A merchant of Alexandria who lived in the first half of the 2d century A. D." Külb, *Länder- und Völkerkunde in Biographien*, Berlin, 1846, I, 245. "Of the 2d century A. D." Ritter, *Geschichte der Erdkunde und der Entdeckungen*, Berlin, 1861, p. 124; also *Erdkunde Asiens*, IV, 1. "Of the 1st or, rather, the following century." Ritter, *Erdkunde Asiens*, VIII, 1. "Of the 3d century." Letronne, *Christianisme de Nubie*, 47. "200-217 A. D." Letronne, in *Nouveau Recueil de l'Académie des Inscriptions*, IX, 173. Alex. v. Humboldt, *Kritischen Untersuchungen*, I, 315. *Kosmos*, II, 458. Forbiger, *Handbuche der alten Geographie aus den Quellen bearbeitet*, Leipzig, 1842, I, 442. "246-247 A. D., under the emperor Philip and his son." Reinaud, in *Journal Asiatique*, series V, vol. 18, Paris, 1861, p. 226. Reinaud, *Mémoires de l'Académie des Inscriptions et belles lettres*, vol. xxiv, pp. 227-278 (1864). O. Peschel, *Geschichte der Erdkunde*, München, 1865. These views are vigorously combated by O. Blau, in *Zeitschrift der Deutschen Morgenländischen Gesellschaft*, xxii, 656. A. Weber, *Indische Streife*, II, 266 (1869). Vivien de Saint Martin, *Le Nord de l'Afrique dans l'antiquité grecque et romaine*, 1863, p. 197. Dillmann, *loc. cit.*, pp. 414-428.
 
 
 ## RULERS MENTIONED IN THE PERIPLUS
@@ -3551,8 +3540,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Abd-es-Shems, 108
 - Abiria (Abhira), **39**, 175, 257
 - Abissa Polis, 62, 140
-- Abraham, 135, 162
-- absinth, Persian, 157
+- Abraham, 135, 162 absinth, Persian, 157
 - Abu Thabi, 150
 - Abu Thanni, 150
 - Abydos, 158
@@ -3563,20 +3551,16 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 167, 172, 179, 230, 271
 - Abyssinian Chronicle, 9, 64, 66, 67,
 - 133, 200
-- Abyssinian Church, 75
-- acacia, 87, 113, 130, 131
+- Abyssinian Church, 75 acacia, 87, 113, 130, 131
 - Acannæ, **26**, 85
 - Accadian-Dravidian trade, 173, 175
 - Achæa, 71
-- Achæmenidæ, the, 221
-- achates. See agate, 223
+- Achæmenidæ, the, 221 achates. See agate, 223
 - Achenkoil river, 212
 - Acila
 - (in S. W. Arabia), 114
 - (in S. E. Arabia), 147, 237
-- Ad, Adites, 141, 142
-- adamant, 155
-- adamas, 222, 224
+- Ad, Adites, 141, 142 adamant, 155 adamas, 222, 224
 - Adam's Bridge, 234, 241
 - Adams, Brooks, 220
 - Aden, 74, 75, 80, 85, 101, 109, 115,
@@ -3587,8 +3571,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Adonis, 131, 138
 - Adulis, **22**, **23**, **29**, 52, 60, 61, **63**,
 - 65, 67, 96, 114, 141, 209, 228,
-- 251, 252
-- adzes, **24**
+- 251, 252 adzes, **24**
 - Aegean islands, 77
 - Aegidii, island of the, **44**, 202
 - Aelana, 108
@@ -3601,8 +3584,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - language, 146. (See Geez)
 - Aethiopians, 62, 117, 119, 134, 146,
 - 213
-- Asiatic, 162, 163
-- dynasty in Egypt, 162
+- Asiatic, 162, 163 dynasty in Egypt, 162
 - Aetna, 133
 - Afghanistan, 177, 184, 186, 187, 190,
 - 223
@@ -3612,14 +3594,10 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 129, 130, 134, 135, 136, 138,
 - 141, 142, 156, 160, 161, 163,
 - 164, 175, 176, 177, 178, **210**,
-- 217, 218, 226, 228, 271
-- trade from interior of, 75
-- Arab slave trade in, 96, 161
-- circumnavigation of, 101
-- Southern extension of, 101
-- negroes of, 163
-- African rift-valley, 98
-- agate, **42**, 193, 223
+- 217, 218, 226, 228, 271 trade from interior of, 75
+- Arab slave trade in, 96, 161 circumnavigation of, 101
+- Southern extension of, 101 negroes of, 163
+- African rift-valley, 98 agate, **42**, 193, 223
 - Agatharchides, 4, 15, 50, 51, 52, **63**,
 - 87, 102, 115, 118, 133, 160
 - Agisymba, 98
@@ -3630,10 +3608,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Ajanta, 196, 244, 247
 - Akaba, Gulf of, 101, 102
 - Akko, 129
-- Aksu, 268
-- alabandic stone, alabandenum, **223**,
-- 251
-- alabaster, **31**, 114
+- Aksu, 268 alabandic stone, alabandenum, **223**,
+- 251 alabaster, **31**, 114
 - Alalæi islands, **23**, 61, 66
 - Alaric, 214
 - Alashia (Cyprus), 78
@@ -3649,24 +3625,17 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 232, 239
 - Alfragan, 55
 - Algeria, 168, 192
-- Alilat = Urania, 132
-- alkanet, 112
+- Alilat = Urania, 132 alkanet, 112
 
 <!-- page: 306 | folio: 296 -->
 - Allazi, 17
-- Alleppey, 211
-- almonds, oil of, 113
-- aloes, **33**, 129, 139, 141, **145**, **250**
+- Alleppey, 211 almonds, oil of, 113 aloes, **33**, 129, 139, 141, **145**, **250**
 - ʼAm = Amon, 132
 - Amara, country of, 87, 88, **230**
-- Amarāvati, 195
-- amber, 259, 276
-- ambergris, 130, 157
-- Amenemhet I, 121
-- amethyst, 226
+- Amarāvati, 195 amber, 259, 276 ambergris, 130, 157
+- Amenemhet I, 121 amethyst, 226
 - Amhara, 57
-- Ammianus Marcellinus, 102, 267, 281
-- amomum, 112
+- Ammianus Marcellinus, 102, 267, 281 amomum, 112
 - Amon, Amon-Re, 78, 121, 122, 124,
 -   132, 158, 228
 - Amos, Book of, 193, 264
@@ -3676,28 +3645,21 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Amu Daria. (See Oxus), 277
 - Anaimalai Hills, 204
 - Anam, 90, 263, 276
-- Anariaci, 277
-- anchors, anchorage, **25**, **26**, **27**, **30**, **31**,
--   **38**, **40**, **44**, 182
-- *andanic*, 70
+- Anariaci, 277 anchors, anchorage, **25**, **26**, **27**, **30**, **31**,
+-   **38**, **40**, **44**, 182 *andanic*, 70
 - Andhra, 195, 196, 197, 198, 199, 200,
 -   204, 235, 236, 243, 252, 253
 -   coinage, 198, 243, 244, 245
 -   ship-symbol, 243, 244, 245
 - Angkor-Wat, 261
-- An-hsi (see Parthia), 276, 277
-- animism, 131-2, 236-7, 253
-- anise, 213
+- An-hsi (see Parthia), 276, 277 animism, 131-2, 236-7, 253 anise, 213
 - Anjengo, 234
 - Anjidiv (see Aegidii), 202
 - Annesley Bay, 60, 66
-- Annius Plocamus, 8
-- anointing oil, Hebrew, 111, 113, **169**
-- Ansichow, 268
-- antelope horns, 74
+- Annius Plocamus, 8 anointing oil, Hebrew, 111, 113, **169**
+- Ansichow, 268 antelope horns, 74
 - Antichthones, continent of, 252
-- Antigonus, 102
-- antimony, **42**, **45**, 190, 192
+- Antigonus, 102 antimony, **42**, **45**, 190, 192
 - Antioch, 65, 76, 77, 149, 275
 -   Antiochia (Charax), 149
 -   Antiochia Margiana (Merv),
@@ -3707,20 +3669,16 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -   Antiochus Hierax, 123
 -   Antiochus Theos, 184
 - Antiphili Portus (see Amphila), 66
-- Antony, Mark, 103, 240
-- ants, gold-digging (see Tibetan gold),
+- Antony, Mark, 103, 240 ants, gold-digging (see Tibetan gold),
 -   259
 - *An-tun* (Marcus Aurelius Antonius),
 -   586
-- *Aparāntikā*, 175
-- apes, 61, 113, 121, 175
+- *Aparāntikā*, 175 apes, 61, 113, 121, 175
 - Apirus river (see Ophir), 160, **175**
 - Apollo, 123, 132, 138
 - Apollodotus, **42**, 184, **185**
 - Apollo’s Valley, 86
-- Apologus, **36**, 149, 151, 153
-- *apyron* gold (see Ophir), 160
-- aquamarine, 222
+- Apologus, **36**, 149, 151, 153 *apyron* gold (see Ophir), 160 aquamarine, 222
 - Arabia, 4, 14, 16, **25**, **28**, **29**, **30**, **31**,
 -   **36**, **44**, 58, 60, 63, 64, 71, 75,
 -   80, 82, 83, 89, 96, 97, 98, 99,
@@ -3766,8 +3724,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Arattii (Arāshtra), **41**, 183
 - Arctic Circle, 27
 - Arctic Ocean, 277
-- Arcturus, 221
-- *arebo*, **26**, **27**
+- Arcturus, 221 *arebo*, **26**, **27**
 - Ares, 132
 - Aretas (Hareth), 11, 103
 - Argaru (see Uraiyur), **46**, 241
@@ -3785,38 +3742,31 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Arphaxad, 107
 - Arrian, 7, 15, 161, 163, 164, 170,
 - 184, 189, 238, 259
-- Arsacid dynasty, 63, 65, 127, 161
-- arsenic, 151, 191, 192, 221
+- Arsacid dynasty, 63, 65, 127, 161 arsenic, 151, 191, 192, 221
 - Arsinoe, **24**, 52, 69
 - Artemidorus, 66, 114
 - Arun river, 272, 279
 - Arwê, the serpent, 67, 133
 - Aryans, 174, 187, 202, 210, 228,
-- 229, 230, 235, 238, 241, 250,
-- 253, 254, 257, 264
+- 229, 230, 235, 238, 241, 250, 253, 254, 257, 264
 - Aryanism (Brahmanism), 279
 - Asabon, Asabi, **36**, 108, 147, 148
-- Asachæ (*see* Asich), 61, 62
-- asafœtida, 177
-- asbestos cloth, 276
+- Asachæ (*see* Asich), 61, 62 asafœtida, 177 asbestos cloth, 276
 - Ascitæ (*see* Asich), 62, 126, 145
 - Ash-shihr (*see* Es-shehr), 130
 - Ashur, 123
 - Asia, 60, 92, 132, 153, 156, 163, 171,
 - 172, 176, 185, 186, 194, 222,
-- 236, 260, 263, 266, 270, 275,
-- 278
+- 236, 260, 263, 266, 270, 275, 278
 - Asia Minor, 5, 58, 76, 128, 213
 - Asiatics of the desert, 192
 - Asich (*see* Axum), **35**, 62, 118, 126,
 - 146
 - Asmiræa (*see* Tsiemo), 268
 - Asoka, 175, 180, 188, 195, 204, 235,
-- 236, 238, 249
-- aspralathus, 112
+- 236, 238, 249 aspralathus, 112
 - Assam, 84, 194, 254, 255, 259, 264,
-- 267
-- asses, 61
+- 267 asses, 61
 - Asshur, 107
 - Assuan, **57**, 61
 - Assurbanipal, 58
@@ -3827,10 +3777,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Astacampra, **39**, **40**
 - Astaphus river, 59
 - Astola, 162
-- Astomi, 267
-- astrobolus (*see* cat’s eye), 223
-- Asvavadana (*see* Horse-faces), 254
-- *asypha*, **26**
+- Astomi, 267 astrobolus (*see* cat’s eye), 223
+- Asvavadana (*see* Horse-faces), 254 *asypha*, **26**
 - Atbara river (Astabora), 56, 57, 63
 - Athenæus, 15
 - Athenodorus, 102
@@ -3838,8 +3786,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Atramitæ (*see* Chatramotitæ), 124
 - Attacori, 260
 - Attana, 150
-- Attock, 189
-- *atyôb*, 62
+- Attock, 189 *atyôb*, 62
 - Augustus, 5, 63, 131, 140, 149, 150,
 - 157, 187, 219, 220, 264, 265
 - Aulus Hirtius, 103
@@ -3856,20 +3803,15 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 109, 119, 136, 139
 - Auxumites, city of the, **23**, 51, 59, 61
 - Avalites, **24**, **25**, **31**, 65, 73, 74, 114
-- Avanti, 187
-- awls (or bodkins), **28**
-- axes, **24**
+- Avanti, 187 awls (or bodkins), **28** axes, **24**
 - Axum. 5, 9, 10, 59, 61, 62, 63, 64,
 - 65, 67, 89, 119. 126, 133, 141
 - Ayodhya (*see* Oudh), 242
 - Azania, **27**, **28**, **29**, **34**, **47**, 81, 92,
-- 106, 179, 252
-- bluffs of, **27**, 92
-- courses of, **27**, 92
+- 106, 179, 252 bluffs of, **27**, 92 courses of, **27**, 92
 - Azov, Sea of (*see* Mæotis), 278
 - Bab-el-Mandeb, Straits of, 8, 52, 73,
-- 114, 117
-- baboons, **43**
+- 114, 117 baboons, **43**
 - Babylon, 62, 96, 122, 123, 163, 167,
 - 227, 228
 - Babylonia, 3, 107, 142, 145, 159, 164,
@@ -3892,19 +3834,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Bahmanābād, 166
 - Bahrein Islands, 51, 80, 91, 151, **156**,
 - 163, 164, 222
-- Bains, J. A., 208
-- balanus, oil of, 112
+- Bains, J. A., 208 balanus, oil of, 112
 - Balasrī, 235
 - Balearic Islands, 168
 - Bâ-l-Haf, 116
 - Balita (*see* Varkkallai), **46**, 234, 235
 - Ball, Vincent, 84, 168, 171, 172,
-- 212, 215, 224, 225, 258, 259
-- balms, 6, 121
-- balsam, 112, 214
-- balsamum, seed of, 112
-- bamboo, 155
-- bamboos, 263
+- 212, 215, 224, 225, 258, 259 balms, 6, 121 balsam, 112, 214 balsamum, seed of, 112 bamboo, 155 bamboos, 263
 - Bamian, 270
 - Bandar Abbas, 91
 - Bandar Hais (*see* Mundus), **81**
@@ -3917,11 +3853,9 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Baraca, **38**, **39**, 174, 175
 - Barawa, 88, 92
 - *Barbaricum*, **37**, **39**, 128, 165, **270**
-- Barbary States, 56
-- barberry (see lycium), 169
+- Barbary States, 56 barberry (see lycium), 169
 - Barbosa, 194
-- Bargysi, Bhargas, **47**, 254
-- barley, 178
+- Bargysi, Bhargas, **47**, 254 barley, 178
 - Barr el Ajam, Ajjan, 75, 92
 - Barygaza, **27**, **30**, **32**, **34**, **35**, **36**, **38**,
 - **39**, **40**, **41**, **42**, **43**, **45**, **48**, 128,
@@ -3929,21 +3863,17 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 185, 188, 190, 193, 196, 198,
 - 199, 205, 221, 236, 245, 268,
 - 270, 274
-- Basilis, 15
-- baskets, wicker, for fishing, **28**, 94, 95
+- Basilis, 15 baskets, wicker, for fishing, **28**, 94, 95
 - plaited, for shoulder-burdens, **48**,
 - 280, 281
 - Bassora, 80, 91, 179, 247
-- Batavia, 127
-- bathing, 46
+- Batavia, 127 bathing, 46
 - Batineh coast, 151
-- Batrasave, 150
-- bdellium, 3, **37**, **38**, **42**, 120, 163-5
+- Batrasave, 150 bdellium, 3, **37**, **38**, **42**, 120, 163-5
 - Beach, small and great, **27**
 - Beazley, C. R., 267
 - Beckmann, 69, 79, 111, 171
-- Beduins, 104, 105, 119, 141
-- beef, 123
+- Beduins, 104, 105, 119, 141 beef, 123
 - Bel, 123
 - Bell, Col. M. S., 272
 - Bellary, 224
@@ -3963,22 +3893,16 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Benjamin of Tudela, 164, 211
 - Bent, J. Theodore, 60, 97, 117, 119,
 - 127, 129, 130, 138, 139, 140,
-- 141, 142, 145, 156, 168, 237
-- benzoin, 120, 128
+- 141, 142, 145, 156, 168, 237 benzoin, 120, 128
 - Berber, 56, 60
 - Berbera, 56, 66, 74, 75, 79, 80, 81,
-- 87, 89, 116, 217
-- fair of, 80, 91
+- 87, 89, 116, 217 fair of, 80, 91
 - Berbers (Barbari), **22**, **23**, **24**, **25**, **26**,
-- **31**, **56**, 59, 63, **74**, 114
-- meaning of, 56
+- **31**, **56**, 59, 63, **74**, 114 meaning of, 56
 - Berenice, 16, **22**, **29**, **30**, 52, 55, 68,
 - 101, 104, 106, 121, **132**, 167,
-- 168, 228, 233, 260
-- beryllium, 222
-- beryls, 204, 210, 221, 222, **223**
-- Besatæ, Bisadæ, **48**, **278**, **279**
-- betel, 216
+- 168, 228, 233, 260 beryllium, 222 beryls, 204, 210, 221, 222, **223**
+- Besatæ, Bisadæ, **48**, **278**, **279** betel, 216
 - Bethlehem, 123
 - Beypore, 204
 - Bhandarkar, R. G., **209**
@@ -3995,21 +3919,15 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Bilbilis, 70
 - Bion, 62
 - Bir Ali, 116
-- Bir Barhut, 119, 133
-- birds, sacred (see serpents), 226, 241
+- Bir Barhut, 119, 133 birds, sacred (see serpents), 226, 241
 - Birdwood, 120
 - Bit-Yakin, Land of, 149, 160
-- Black Sea, 77
-- blackwood, **36**, 152, 153, 197, 201
+- Black Sea, 77 blackwood, **36**, 152, 153, 197, 201
 - Blancard, 18, 19
-- Blandi, 18
-- blankets, **31**, 257
+- Blandi, 18 blankets, **31**, 257
 - Blest, Island of the, 133, 134, 135,
-- 139, 163, 197
-- mountain of the, 148
-- "blood of two brothers," 138
-- bloodstone, 223
-- boats, small, **22**, **25**, **32**, **41**
+- 139, 163, 197 mountain of the, 148
+- "blood of two brothers," 138 bloodstone, 223 boats, small, **22**, **25**, **32**, **41**
 - sewed, **28**, **36**, 151, 154, 244
 - of osiers covered with hides, 190
 - hollowed from logs, 234, 243
@@ -4024,13 +3942,9 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Bonin, 272
 - *Book of the Dead*, 237
 - Borheck, 18
-- Boroboedor, 174, 244, 245, 261
-- *bosmoros*, 177, 178
-- *Boulger*, D. C., 263
-- *boutyron* (see clarified butter), 89, 177
-- *boutyros* (see asafoetida), 177, 178
-- Boyer, A.-M., 200
-- bracelets, 75
+- Boroboedor, 174, 244, 245, 261 *bosmoros*, 177, 178
+- *Boulger*, D. C., 263 *boutyron* (see clarified butter), 89, 177 *boutyros* (see asafoetida), 177, 178
+- Boyer, A.-M., 200 bracelets, 75
 - Brahma, 138
 - Brahmanism, 138, 139, 188, 236, 237,
 - 241, 253, 257, 281
@@ -4043,21 +3957,17 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 <!-- page: 309 | folio: 299 -->
 - Brahui, 162, 180
 - Brambanan, 174, 261
-- Brandis, 215
-- brass, 12, **24,** 69, 197, 221, 251
+- Brandis, 215 brass, 12, **24,** 69, 197, 221, 251
 - Corinthian, 69
 - Breasted, Prof. J. H., 61, 78, **113,**
 - 122, 124, 158, 218, 228
 - Bredow, 19
 - Britain, British, 190, 203
 - Broach (see Barygaza), **179, 180,**
-- 193, 196
-- brocades, 257
-- bronze, 78, 187, 193
+- 193, 196 brocades, 257 bronze, 78, 187, 193
 - Bruce, 73
 - Bucephalus Alexandria, **41,** 184
-- Buchanan, Dr., 221
-- buckram, (see cotton cloth), 273
+- Buchanan, Dr., 221 buckram, (see cotton cloth), 273
 - Buddhism, 64, 65, 70, 138, 185, **187,**
 - 188, 235, 236, 249, 253, 263,
 - 275, 279
@@ -4068,11 +3978,9 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - pagodas, 64, 65, 274
 - Buddhist pilgrim route, 272
 - Buddhist writings, 197, 210, **228,**
-- 229
-- buffalo's milk, 177
+- 229 buffalo's milk, 177
 - Bühler, 209, 229
-- Bulhar, 80, 81, 270
-- bulls, 58
+- Bulhar, 80, 81, 270 bulls, 58
 - Bulunzir, 270
 - Bunbury, 106, 252, 268
 - Burckhardt, 104
@@ -4086,24 +3994,19 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - off Somali coast, 81
 - Burton, Sir Richard Francis, 72, **74,**
 - 75, 79, 80, 89, 91, 182
-- Buto, 131, 132, 226
-- butter, 177
+- Buto, 131, 132, 226 butter, 177
 - Byzantine emperors, 7, 59, 172
 - Byzantium, **43,** 65, 201, 220
 - Cabolitic, **42,** 190
 - Cabul, 166, 167, 170, 183, **184, 185,**
-- 189, 190, 270
-- cactus, 141
+- 189, 190, 270 cactus, 141
 - Cadmus, 132
 - Cælobothras (see Cerobothra), **233**
 - Cænitæ, island of the, **44,** 202
 - Cæsar, 115, 219, 264
 - Cairo, 127
-- Caius (Caligula), 240
-- cake-dishes, **34**
-- cake, salted, 123
-- Calæi Islands, **36,** 61, 147
-- calamus, 111, 112
+- Caius (Caligula), 240 cake-dishes, **34** cake, salted, 123
+- Calæi Islands, **36,** 61, 147 calamus, 111, 112
 - Calcutta, 152, 169
 - Caldwell, Bishop, 205, 208, 209, **221,**
 - 234, 243
@@ -4111,15 +4014,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 56
 - Calicut, 203, 204, 215, 221, 227
 - Caligula, 11, 103, 220
-- Caliphate, 228
-- callaina, callean stone (see turquoise),
+- Caliphate, 228 callaina, callean stone (see turquoise),
 - **38,** 170, 223
 - Calliena (see Kalyāna, Calliana), **43,**
 - 167, 196, 197, 198, 199, 236,
 - 251
-- Calon mountains, **36,** 61, 147
-- *caltis*, a coin, **48,** 289
-- calves, 58
+- Calon mountains, **36,** 61, 147 *caltis*, a coin, **48,** 289 calves, 58
 - Camanes, 182
 - Camara, **46,** 242
 - Cambay, Gulf of, 68, 70, 85, 88, 89,
@@ -4129,10 +4029,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Cambodia, 259, 261
 - *Cambridge Natural History*, 136, 137,
 - 148, 264
-- Cambyses, 59
-- camels, **30, 32,** 52, 91, 104, 108, 121,
-- 122, 126, 130, 137, 233
-- camel's flesh, 74
+- Cambyses, 59 camels, **30, 32,** 52, 91, 104, 108, 121,
+- 122, 126, 130, 137, 233 camel's flesh, 74
 - Cammoni, **40,** 182
 - Camões, 143
 - Campania, 77, 190
@@ -4140,79 +4038,52 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Cana, **32, 33, 35, 36, 45, 115, 116,**
 - 117, 126, 128, 129, 139, 146,
 - 151, 233
-- Canaan, 160
-- canal between the Nile and Red Sea,
+- Canaan, 160 canal between the Nile and Red Sea,
 - 51
 - connecting South Indian backwaters, 234
 - Candace, 12, 59
 - Candler, 273
 - Cannanore (see Naura), 204, 221
-- Canneh, 117
-- cannibals, 47, 254, 255, 260
-- canoes of single logs, **28, 93, 234,**
+- Canneh, 117 cannibals, 47, 254, 255, 260 canoes of single logs, **28, 93, 234,**
 - 243
 - Cantabria, 190
 - Canton, 84, 228
 - Cape of Good Hope, 143
 - Cape of Spices (Guardafui), **82, 85**
 - Cape route to India, 214
-- Cappadocia, 7
-- caravan routes between the Nile and
+- Cappadocia, 7 caravan routes between the Nile and
 - Red Sea, 51, 57, 121
-- from China to Bactria, 261
-- carbunculus, 222, 227
-- carchedonia (see jasper), 223
-- cardamoms, 99, 112, 202
-- Carey, 273
-- cargo-ships, **35,** 126
+- from China to Bactria, 261 carbunculus, 222, 227 carchedonia (see jasper), 223 cardamoms, 99, 112, 202
+- Carey, 273 cargo-ships, **35,** 126
 - Carmania, 150, 151, 160, 161, **191,**
-- 192, 194, 221
-
-<!-- page: 310 | folio: 300 -->
-- carmesin, 73
-- carmine, 73
+- 192, 194, 221 [p. 300] carmesin, 73 carmine, 73
 - Carna (*see* Karna)
 - Carnaites, **30**, 104, 105, 109
 - Canraites, Cassanites, Cananites,
 - 105
 - Carnatic, **241**, 257
 - Carnegie Institution, Washington,
-- 262
-- carnelian, **42**, **43**, 190, 193, 194, 223
+- 262 carnelian, **42**, **43**, 190, 193, 194, 223
 - Carreri, Gemelli, 155
 - Carter, H. J., 142, 143
 - Carthage, 147, 219
 - Carthaginians, 78, 101, 217, 279, 280
 - Caseri, 260
 - Cashmere, 166, 257
-- Casii (*see* Kashgar), 269
-- caskets, **34**
+- Casii (*see* Kashgar), 269 caskets, **34**
 - Caspapyrene, Caspapyra, **42**, 189
 - Caspian Sea, **48**, 172, 183, 186, 263,
 - 277
-- Pass, 269
-- cassia, 82, 83, 84, 112, 169, 202, 217
-- false, 86
-- caste system, in the Hadramaut, 118,
-- 145, 146
-- in India, 180, 230, 235, 238
-- castor musk, 251
-- castor oil, 264
+- Pass, 269 cassia, 82, 83, 84, 112, 169, 202, 217 false, 86 caste system, in the Hadramaut, 118,
+- 145, 146 in India, 180, 230, 235, 238 castor musk, 251 castor oil, 264
 - Catalonia, 168
-- Catherine de Medici, 199
-- cat's eye, 193, 223
-- Cattigara, 228
-- cattle, **30**, **39**, 121, 139, **149**, **176**,
-- 218, 225, 270, 271
-- humped, 270, 271
-- cave-dwellers, **35**
-- cedar, 78
-- celibacy, **46**
+- Catherine de Medici, 199 cat's eye, 193, 223
+- Cattigara, 228 cattle, **30**, **39**, 121, 139, **149**, **176**,
+- 218, 225, 270, 271 humped, 270, 271 cave-dwellers, **35** cedar, 78 celibacy, **46**
 - Central Arabia, 108
 - Central Asia, 166, 176, 177, 187, 264
 - Central Asian trade-route, 186, 269,
-- 272
-- centurion, **29**, 104
+- 272 centurion, **29**, 104
 - Cerobothra, Kingdom of (*see* Chēra),
 - **44**, 208
 - Ceylon, 8, 52, 84, 148, 152, 163,
@@ -4220,8 +4091,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 220, 222, 226, 227, 229, 230,
 - 235, 237, 239, 241, 243, 248,
 - 249, 250, 251, 252, 255, 261,
-- 279, 281
-- embassy from, to Augustus, 252
+- 279, 281 embassy from, to Augustus, 252
 - Chabēris emporion (*see* Camara), 242
 - Chahbar, Bay of, 151
 - Chakora, 199
@@ -4237,12 +4107,10 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Chandragiri river, 204, 205
 - Chandragupta Maurya, 180, 187, 186
 - Chandragupta Vikramāditya, 255
-- Chandristhan, 230
-- chaplets, 190, 191, 265
+- Chandristhan, 230 chaplets, 190, 191, 265
 - Charax Spasini, **36**, 63, 149, 150
 - Charibael, Kariba-îl, 11, **30**, **32**, 107,
-- 115
-- chariots, 13
+- 115 chariots, 13
 - Chārsadda, 184
 - Chashtana, 188
 - Chatramotitæ, Chatramotitis (*see* Hadramaut), 62, 116, 119, 127,
@@ -4262,22 +4130,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 222, 223, 227, 228, 235, 247,
 - 259, 260, 261, 262, 263, 264,
 - 266, 269, 270, 273, 275, 276,
-- 277, 279. (*See* This.)
-- sea-trade to Persia, 84, 152
-- sea-route to, viâ Malacca, 260
-- great wall of, 261, 263
-- Sea, 273
-- china, Nankin, 97
+- 277, 279. (*See* This.) sea-trade to Persia, 84, 152 sea-route to, viâ Malacca, 260 great wall of, 261, 263
+- Sea, 273 china, Nankin, 97
 - Chin Hills, 255
-- Chindwin river, 246
-- trader, 246
+- Chindwin river, 246 trader, 246
 - Chinese, 76, 227, 247, 263, 266, 268,
-- 276
-- account of Roman Syria, 275-7
-- annals, 128, 185, 246, 247, **259**,
-- 261, 268, 275, 276, 277
-- ships, 227, 228, 259
-- silks, 276
+- 276 account of Roman Syria, 275-7 annals, 128, 185, 246, 247, **259**,
+- 261, 268, 275, 276, 277 ships, 227, 228, 259 silks, 276
 - Chishull, 169
 - Chitōr, 180, 184
 - Chna, 160
@@ -4291,16 +4150,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Chóu-li, 263
 - Christ, 9, 10, 67, 155
 - Christianity, 64, 65, 67, 135, 162
-- Christians, Syrian, 206
-- in Ceylon, 250
+- Christians, Syrian, 206 in Ceylon, 250
 - Chronicles, Book of, 122, 124, 175
 
 <!-- page: 311 | folio: 301 -->
 - Chryse Island, **45**, **46**, **47**, **48**, **227**,
-- 246, 259-61
-- chrysolite, 167
-- chrysolithos, 223
-- chrysoprase, chrysoprasus, **223**
+- 246, 259-61 chrysolite, 167 chrysolithos, 223 chrysoprase, chrysoprasus, **223**
 - Chu river, 185
 - Ch'u, 261
 - Chumbi Vale, 272, 279
@@ -4309,69 +4164,48 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Cicero, 132
 - Cilicia, 71, 123, 269
 - Cimmerian Bosphorus, 278
-- Cimolian chalk, 111
-- cinnabar, 112, 137, 192, 263, 276
-- cinnabar, Indian (see dragon's blood),
-- **34**, 137-9
-- cinnamon, 4, 6, 13, **25**, **26**, **27**, 77,
+- Cimolian chalk, 111 cinnabar, 112, 137, 192, 263, 276 cinnabar, Indian (see dragon's blood),
+- **34**, 137-9 cinnamon, 4, 6, 13, **25**, **26**, **27**, 77,
 - 80, 82-4, 86, 87, 89, 112, 113,
 - 121, 122, 132, 136, 145, 169,
 - 213, 214, 216, 217, 218, 227,
 - 236, 273, 281
-- Cirrhadæ, **47**, 253, 254, 256, 266, 278
-- citronella, 170, 256
-- Cizimba language in E. Africa, **98**
-- clarified butter, *boutyron*, **27**, **39**, 74,
+- Cirrhadæ, **47**, 253, 254, 256, 266, 278 citronella, 170, 256
+- Cizimba language in E. Africa, **98** clarified butter, *boutyron*, **27**, **39**, 74,
 - 89, 99, 139, 177, 178
 - Claudius, 8, 12, 109, 204, 219, 220
 - Clement, 132
 - Cleopatra, 5, 240, 264
-- Clifford, H. C., 260, 261
-- cloaks, **25**, **31**
+- Clifford, H. C., 260, 261 cloaks, **25**, **31**
 - dyed in colors, **24**
-- Clodius, 240
-- cloth, dressed, **25**
+- Clodius, 240 cloth, dressed, **25**
 - asbestos, 276
 - Egyptian, 68
 - gold-colored, 276
 - Indian, **34**, **35**, **39**, **42**, **43**, 172,
 - 202
-- undressed, **24**
-- cloths, 4, 251, 257
+- undressed, **24** cloths, 4, 251, 257
 - purple, **31**
-- scarlet, 214
-- clothing, **31**, **33**, **36**, **37**, **42**, **44**, 72,
+- scarlet, 214 clothing, **31**, **33**, **36**, **37**, **42**, **44**, 72,
 - 121, 123, 127, 197
 - Arabian style, with sleeves, 31
 - embroidered, 275
 - plain, ordinary, embroidered, interwoven with gold, 31
-- striped, 149
-- clover, sweet, **42**, 190, 191
-- cloves, 227, 250, 273
+- striped, 149 clover, sweet, **42**, 190, 191 cloves, 227, 250, 273
 - *Coa vestis*, transparent silk gauze, 264
 - Coast Country (see Chōla), **43**, **46**,
-- 283, 241
-- coats of skin, **24**, 70
-- cobalt, 69, 171
-- cobra, 236
+- 283, 241 coats of skin, **24**, 70 cobalt, 69, 171 cobra, 236
 - Cochin, 204, 208, 212, 215
 - backwaters, 205, 207, 209, 212
-- Cochinchina, 252
-- cochineal, 73
-- cocoanut palm, its products, 99, **154**,
-- 177, 250
-- coffee, 105, 273
-- Coimbatore, 204, 210, 222
-- coin, **24**, **25**, **42**, **44**, **48**, 160, 190,
+- Cochinchina, 252 cochineal, 73 cocoanut palm, its products, 99, **154**,
+- 177, 250 coffee, 105, 273
+- Coimbatore, 204, 210, 222 coin, **24**, **25**, **42**, **44**, **48**, 160, 190,
 - 192, 193, 219, 220, 221, 243,
-- 244, 245, 252, 259, 276
-- *colandia*, **46**, 228, 246
+- 244, 245, 252, 259, 276 *colandia*, **46**, 228, 246
 - Colchi, **46**, 211, 237
-- Colchis, 278
-- collector of customs, **29**
+- Colchis, 278 collector of customs, **29**
 - Coloe, **23**, 60, 141
-- Columbus, 3, 6, 55
-- comacum, 112
+- Columbus, 3, 6, 55 comacum, 112
 - Comari, Cape and Harbor of, **46**, 235
 - Cōmēdi, the, 269
 - Commercial Museum, Philadelphia,
@@ -4379,81 +4213,55 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Commodus, 70, 220
 - Comorin, Cape (see Comari), **208**,
 - 234, 235, 250
-- Comoro Islands, 88
-- compass (in Chinese records), 246-7
-- Comum, 70
-- conch-shells, 251
+- Comoro Islands, 88 compass (in Chinese records), 246-7
+- Comum, 70 conch-shells, 251
 - Congo, 75
 - Constantine, 67, 214, 220
 - Constantinople, 6, 7, 63, 76, 172, 267
 - Constantius, 67, 107, 115
 - Conti, Nicol, 225
-- Coorgs, 190
-- copal, 80
-- Indian, **25**, 80
-- copper, **31**, **33**, **36**, **42**, **45**, 69, 75,
+- Coorgs, 190 copal, 80
+- Indian, **25**, 80 copper, **31**, **33**, **36**, **42**, **45**, 69, 75,
 - 77, 78, 111, 122, 127, 151,
 - 169, 193, 219, 221
 - Cyprian, 69
 - ochre, 171
 - soft, in sheets, **24**, **25**, 70
 - Coptos, 16, 52, 55, 68, 103, 121, 132,
-- 232, 233
-- coral, **33**, **37**, **42**, **45**, 74, 82, 127,
+- 232, 233 coral, **33**, **37**, **42**, **45**, 74, 82, 127,
 - 128, 168, 223, 224, 227, 259,
 - 276, 281
 - Cordier, Henri, 144, 155, 157, 170,
-- 237
-- coriander, 99, 164
+- 237 coriander, 99, 164
 - Corinth, 219
 - Cornelius Nepos, 157
 - Cornwall, 77, 78
 - Coromandel (see Chōla), **155**, **243**,
-- 244
-- corsairs, 135
-- Corsica, 168
-- corundum, 227
+- 244 corsairs, 135
+- Corsica, 168 corundum, 227
 - Cos, 264
 - Cosmas Indicopleustes, author of the
 - *Christian Topography*, 60, 92,
 - 96, 99, 135, 152, 197, 201,
-- 209, 229, 249, 250, 273
-- costus, **38**, **42**, 112, 168
-- cotton, **39**, 71, 72, 76, 179, 196, 215,
+- 209, 229, 249, 250, 273 costus, **38**, **42**, 112, 168 cotton, **39**, 71, 72, 76, 179, 196, 215,
 - 257, 265, 266
-- Cottonara, **45**, **221**, **234**
-
-<!-- page: 312 | folio: 302 -->
-- cotton cloth, **24, 27, 38, 39, 42,** 71,
-- 72, 73, 179, 252, 263
-- painted chintzes, 252
-- spinning, 256
-- thread, 256
-- *cotymba*, **40**, 182, 245
-- Cousens, H., 196
-- cow’s blood, 70
-- milk, 177
-- cramoisi, 73
+- Cottonara, **45**, **221**, **234** [p. 302] cotton cloth, **24, 27, 38, 39, 42,** 71,
+- 72, 73, 179, 252, 263 painted chintzes, 252 spinning, 256 thread, 256 *cotymba*, **40**, 182, 245
+- Cousens, H., 196 cow’s blood, 70 milk, 177 cramoisi, 73
 - Cranganore, Kodungalur (see Muziris), 205, 208
 - Crawley, Ernest, 236
-- Crete, 105, 190
-- crimson, 73
-- crocodiles, **28, 34**
+- Crete, 105, 190 crimson, 73 crocodiles, **28, 34**
 - Crosby, 273
 - Cruttenden, Lieut., 89, 91, 116, 142,
-- 145
-- crystal, 220, 221, 223, 224, 226, 276,
+- 145 crystal, 220, 221, 223, 224, 226, 276,
 - Ctesias, 70
-- Ctesiphon, 127
-- cummin, 99, 213
-- Cunningham, 200
-- cups, **24**
+- Ctesiphon, 127 cummin, 99, 213
+- Cunningham, 200 cups, **24**
 - Curzon, Lord, 147, 162
 - Cush, 5, 58, 61, 159, 160, 162, 175,
 - 211
 - Cusha-dvīpa, 230
-- Cushites, 64, 141, 142, 146, 161, 218
-- language in Africa similar to the
+- Cushites, 64, 141, 142, 146, 161, 218 language in Africa similar to the
 - Ural-altaic, 134
 - Cushite - Elamite migration, theory
 - concerning, 51, 58, 134
@@ -4463,26 +4271,20 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Cyncilim (see Nelcynda), 215
 - Cynocephali, watering-place of, 86
 - Cynos river (Wadi-ed-Dawasir?),
-- 149, 150
-- cypirus, 112
-- cypress, 112
+- 149, 150 cypirus, 112 cypress, 112
 - Cyprus, 61
 - Cyrene, 69
 - Dābhol (see Palæpatmæ), 201
 - Dacca, 256, 258, 259
 - Dachinabades (see Deccan), **43**, 195,
 - 204
-- Dagaan, 85
-- daggers, **28**
+- Dagaan, 85 daggers, **28**
 - Dahalak, 66
 - Daimaniyat Islands, 147
 - Dakshina (see Deccan), 252
-- Damascus, 77
-- blades, 172
-- damask, 264
+- Damascus, 77 blades, 172 damask, 264
 - Damirica, **34, 35, 41, 43, 44, 45, 46,**
-- **47, 48,** 203, 204, 205, 272, 273
-- dammar gum, 80
+- **47, 48,** 203, 204, 205, 272, 273 dammar gum, 80
 - Dana, 224
 - D’Anville, 268
 - Daphnus, 86
@@ -4491,12 +4293,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 213, 264
 - Darror valley, 219
 - Das, Sarat Chandra, 273
-- Dasarna (see Dosarene), 253
-- dates, **36, 37**, 154, 157, 158, 159
-- date-palm, 136, 158
-- fiber, 156
-- *syagri*, 158
-- wine, 157, 158, 159
+- Dasarna (see Dosarene), 253 dates, **36, 37**, 154, 157, 158, 159 date-palm, 136, 158 fiber, 156 *syagri*, 158 wine, 157, 158, 159
 - Daulatābād, 196
 - Davids, Prof. T. W. Rhys, 223
 - Dawson, 209
@@ -4514,16 +4311,14 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Delitzsch, 128
 - Delphi, 138
 - Demetrius, 184
-- Dera Ghazi Khan, 174
-- designated ports, **22**, 51-2
+- Dera Ghazi Khan, 174 designated ports, **22**, 51-2
 - Devgarh (see Togarum), 201
 - Dhamari, 258
 - Dhanavriddhi, 229
 - Dhānyakataka, Dhāranikotta, 195, 199
 - Dhofar, 107, 109, 118, 126, 129, 140,
 - 143, 218, 237, 271, 272
-- Dholbanta, 87
-- diamonds, **45**, 215, 216, 222, 224,
+- Dholbanta, 87 diamonds, **45**, 215, 216, 222, 224,
 - 225, 226, 241
 - Dillmann, 66
 - Dio Cassius, 103
@@ -4542,8 +4337,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Diu, 181
 - Djadarot, 63
 - Djesair, El, 92
-- Dodwell, 18
-- dogs, 113, 121
+- Dodwell, 18 dogs, 113, 121
 - Dog-star, 125, 233
 - Dome Island (Trullas), **32**
 - Domitian, 66, 220
@@ -4552,11 +4346,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Doughty, 104
 
 <!-- page: 313 | folio: 303 -->
-- Douglas, R. K., 263
-- drachmæ, **41**
-- dragon, the, of Ares, 132, 226
--     of Siva, 138
-- dragon's blood, 137, 138, 139, 145
+- Douglas, R. K., 263 drachmæ, **41** dragon, the, of Ares, 132, 226
+-     of Siva, 138 dragon's blood, 137, 138, 139, 145
 -     legend concerning, 138-9
 - Drake-Brockman, R. E., 87, 217, 270
 - Drāvida-dēsam (see Damirica), 205,
@@ -4566,27 +4357,20 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -     213, 228, 230, 235, 236, 237,
 -     238, 239, 241, 249, 279
 - alphabet, 210, 229
-- sea-trade, 209-11, 228-30, 237
-- drill, blue, 73, 194, 202
-- drinking-cups, **25**
-- dromedaries, 123
-- *duaca*, **25**, 80
+- sea-trade, 209-11, 228-30, 237 drill, blue, 73, 194, 202 drinking-cups, **25** dromedaries, 123 *duaca*, **25**, 80
 - Duff, 200
 - Durgā, or Pārvatī, 235, 236, 281
 - Dutch government in Java, 127, 212
 -     Dutch, the, 192, 202, 204, 215
-- Dwarka, 174
-- eagles, 225, 226
+- Dwarka, 174 eagles, 225, 226
 - Eastern Archipelago, 243
-- Eber, 107
-- ebony, 6, **36**, 57, 58, 61, 113, 121,
+- Eber, 107 ebony, 6, **36**, 57, 58, 61, 113, 121,
 -     125, 153
 - Ecbatana, 269
 - Eden, 115
 - Edmunds, Albert J., 66, 235, 268
 - Edom, 102
-- Edrisi, 71
-- egg, 190
+- Edrisi, 71 egg, 190
 - Egypt, 3, 4, 5, 6, 7, 12, **22**, **24**, **27**,
 -     **31**, **32**, **33**, **42**, **45**, **47**, 51, 52,
 -     55, 57, 58, 59, 61, 63, 64, 65,
@@ -4612,24 +4396,18 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Elagabalus, 219
 - Elam, 3, 51, 107, 134, 149
 - Elan, 260
-- Eleazus, 11, **32**, 115, 117
-- electrum, 78
+- Eleazus, 11, **32**, 115, 117 electrum, 78
 - Elephant, Cape and River, **26**, 85, 86
 - Elephanta, 138
-- Elephantine, 57
-- elephants, **23**, **43**, 60, 61, 137, 138,
+- Elephantine, 57 elephants, **23**, **43**, 60, 61, 137, 138,
 -     193, 236, 252
 -     housings for, 257
 - Elis, 71
 - Elisar, 115
 - Elliot, Sir Walter, 209, 221, 242, 244,
--     259
-- ellutu-wood, 123
+-     259 ellutu-wood, 123
 - Ely, 203
-- Elymais (see Elam), 149
-- embalming, 113
-- emeralds, 168, 240
-- emery, 224
+- Elymais (see Elam), 149 embalming, 113 emeralds, 168, 240 emery, 224
 - Emperors, **30**
 - Emu, 113
 - England, English, 66, 96, 127, 144,
@@ -4660,8 +4438,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Ethiopia, (see Aethiopia), 9
 - Etruscan, 193
 - Eucratides, 184, 185
-- Eudæmon Arabia, 12, **32**, **45**, 115
-- euphorbia, 113
+- Eudæmon Arabia, 12, **32**, **45**, 115 euphorbia, 113
 - Euphrates, 3, 4, 5, **36**, 74, 117, 118,
 -     126, 165, 183, 184, 187, 270
 - Euripides, 131, 132
@@ -4672,8 +4449,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Evans, T. C., 195
 - Exodus, Book of, 82, 111, **113**, 122,
 -     164, 169
-- Everest, Mount, 281
-- eye cosmetic, 113, 169, 190, 192
+- Everest, Mount, 281 eye cosmetic, 113, 169, 190, 192
 -     paint, 121, 192
 - Ezekiel, Book of, 70, 77, 78, 82,
 -     105, 115, 117, 153, 161, 264
@@ -4687,32 +4463,21 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 171, 177, 178, 180, 199, 208,
 - 227, 242, 265
 - Fa-Hien, 209, 248, 250, 253, 255,
-- 272, 281
-- fair, annual, of the Besatæ: cf. Gara,
+- 272, 281 fair, annual, of the Besatæ: cf. Gara,
 - 279
 - Farsan Islands, 106
 - “far-side” ports and coast, **24**, **25**,
 - **27**, **30**, **31**, **32**, 75, 80
 - Fartach, kingdom of (see Ras Fartak), 139
-- Fellatah country, 75
-- fennel, 216
-- fenugreek, 112
+- Fellatah country, 75 fennel, 216 fenugreek, 112
 - Fergusson, James, 133, 236, 255, 279
-- Ferrars, 248
-- festival, tribal, 141, 142, 143, 279,
+- Ferrars, 248 festival, tribal, 141, 142, 143, 279,
 - 280, 281
-- Fezzan, 98
-- fig, 80
-- Firgámu, 171
-- fish, 74, 159, 162
-- oil, 154, 155
+- Fezzan, 98 fig, 80
+- Firgámu, 171 fish, 74, 159, 162 oil, 154, 155
 - Fish-Eaters (Ichthyophagi), **22**, **23**,
-- **29**, **32**, **35**, 56, 143, 146, 162
-- fishing, **28**
-- flattened noses, men with, **47**, 278
-- flax, 68, 72, 178
-- Fleet, J. F., 196, 209
-- flour, 13
+- **29**, **32**, **35**, 56, 143, 146, 162 fishing, **28** flattened noses, men with, **47**, 278 flax, 68, 72, 178
+- Fleet, J. F., 196, 209 flour, 13
 - Flückiger and Hanbury, 84, 113, 128,
 - 215
 - Forster, 74, 114, 116, 133, 143
@@ -4721,8 +4486,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Foulke, 229
 - Foulkes, 209, 242
 - Fourth Cataract, 58
-- France, 199
-- frankincense, 4, 13, **25**, **26**, **32**, **33**,
+- France, 199 frankincense, 4, 13, **25**, **26**, **32**, **33**,
 - **35**, **36**, **37**, 57, **60**, 62, 80, 81,
 - 85, 86, 102, 105, 113, 115, 116,
 - 117, 118, 120, 122, 123, 124,
@@ -4730,13 +4494,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 139, 141, 143, 144, 145, 164,
 - 169, 192, 214, 215, 216, 217,
 - 218, 225, 233, 236, 241, 270,
-- 271
-- customs affecting gathering of,
-- 125
-- dangers of gathering, 130-3
-- far-side, 80
-- spirit of the tree, 131-2
-- trade in, 125-6
+- 271 customs affecting gathering of,
+- 125 dangers of gathering, 130-3 far-side, 80 spirit of the tree, 131-2 trade in, 125-6
 - Frankincense Country, 5, 11, 14, 16,
 - **32**, **33**, **34**, 62, 115, 117, 119,
 - 139, 140
@@ -4745,23 +4504,18 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 146, 237
 - Frere, Sir Bartle, 155, 157
 - Freshfield, 279
-- Froben, 17
-- fruit, **34**, 122, 124, 158
+- Froben, 17 fruit, **34**, 122, 124, 158
 - Fryer, 177
 - Fundy, Bay of, 183
 - Fu-hi, 263
-- Furneaux, J. H., 242, 244, 258
-- furs, 171, 257
+- Furneaux, J. H., 242, 244, 258 furs, 171, 257
 - Further India (see Chryse), 260
 - Gadusii, 277
-- Gætulia, 156
-- galangal, 112
-- galbanum, 112, 122, 216
+- Gætulia, 156 galangal, 112 galbanum, 112, 122, 216
 - Galicia, 77, 78, 190
 - Galilee, 11
 - Gallas, 218, 271
-- Gamble, 152
-- games, sacred, 191
+- Gamble, 152 games, sacred, 191
 - Gandaræi (*Gandhāra*), **41**, 183, 184,
 - 189
 - Ganesa, 236
@@ -4771,20 +4525,15 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 188, 195, 217, 222, 242, 249,
 - 255, 256, 257, 258, 259, 260,
 - 267, 272, 279
-- Gangetic spikenard, **47**, 222, 256
-- muslins, 256-8
-- pearls, 256
+- Gangetic spikenard, **47**, 222, 256 muslins, 256-8 pearls, 256
 - Gangtok, 279
 - Ganjam, 257
 - Gara, 140, 141, 142, 218
 - Garamantes, 98
 - Garcia de Orta, 84, 224
-- Garhwal, 151, 188
-- garlands, 190
-- garnet, 223
+- Garhwal, 151, 188 garlands, 190 garnet, 223
 - Garnier, François, 261
-- Garo, 278
-- garrison, **29**
+- Garo, 278 garrison, **29**
 - Gartok, 272
 - Garuda, bird of Vishnu, 253
 - Gaul, 68, 76, 77, 167, 168
@@ -4797,8 +4546,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 183, 189
 - Geez, 63, 146
 - Geil, 272
-- Gelenius, 17, 18
-- gems, 6, 222, 238, 240, 276
+- Gelenius, 17, 18 gems, 6, 222, 238, 240, 276
 - Genaba, Beni Genâb (see Zenobian,)
 - 143, 144, 145, 146, 162
 - Genabti (see Genaba, Zenobian), 122,
@@ -4814,18 +4562,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Ghassanids, 6, 108
 - Ghāts, western, 80, 152, 196, 201,
 - 205, 211, 212
-- Ghazipur, 187
-- *ghi* (see clarified butter), 177, 178
+- Ghazipur, 187 *ghi* (see clarified butter), 177, 178
 - Ghora Bari, 165
 - Gibbon, 214
 - Gilead, 121
 - Gilgamesh, epic of, 134, 135, 139,
-- 163, 237
-- ginger, 211, 213, 227, 273
-- ginger-grass, 170, 256
-- girdles, **24**, **27**, 42, 190
-- Girnār, 249
-- *gizir*, 26
+- 163, 237 ginger, 211, 213, 227, 273 ginger-grass, 170, 256 girdles, **24**, **27**, 42, 190
+- Girnār, 249 *gizir*, 26
 - Glaser, Dr. Eduard, 9, 10, 11, 12,
 - 14, 51, 58, 59, 61, 62, 63, 64,
 - 66, 68, 79, 80, 81, 85, 86, 87,
@@ -4833,42 +4576,30 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 108, 109, 114, 115, 116, 119,
 - 128, 130, 132, 133, 134, 135,
 - 136, 140, 143, 144, 150, 151,
-- 158, 160, 164
-- glass, **26**, **28**, **38**, **45**, 66, 68, 69, 220,
-- 276
-- glass, flint, **24**, **25**, **42**
+- 158, 160, 164 glass, **26**, **28**, **38**, **45**, 66, 68, 69, 220,
+- 276 glass, flint, **24**, **25**, **42**
 - *Gnbti*, 61
 - Goa (see Aegidii), 202, 203, 222
 - Goæsus, 63, 140, 150
-- Goaphat point, 181
-- goats, 121, 130, 156, 224
+- Goaphat point, 181 goats, 121, 130, 156, 224
 - Gobi desert, 261
-- Godāverī river, 195, 197, 224
-- goddess, 46, 235, 236
-- gods, **35**, 49, 133, 191, 281, 282
+- Godāverī river, 195, 197, 224 goddess, 46, 235, 236 gods, **35**, 49, 133, 191, 281, 282
 - God's Land, 61, 113, 120, 132
-- Golconda, 172, 224
-- gold, 3, 4, 13, **24**, **25**, **31**, **33**, **36**, **42**,
+- Golconda, 172, 224 gold, 3, 4, 13, **24**, **25**, **31**, **33**, **36**, **42**,
 - **48**, 57, 58, 61, 69, 75, 77, 78,
 - 99, 105, 113, 121, 122, 123,
 - 143, 149, 153, 160, 161, 175,
 - 191, 214, 219, 221, 223, 224,
 - 227, 238, 249, 252, 258, 259,
-- 265, 273, 276, 279, 280, 281
-- ant-gold, 258
-- embroideries, 242, 257, 273
+- 265, 273, 276, 279, 280, 281 ant-gold, 258 embroideries, 242, 257, 273
 - “golden bough”—mistletoe, 236
 - Golénischef, W., 133
 - Gondophares, 167, 185, 190, 200
 - Goodchild, W., 170, 171, 226
 - Gospels, the, 213
-- Götz, W., 163, 268
-- *grææ*, **37**, 165
+- Götz, W., 163, 268 *grææ*, **37**, 165
 - Græco-Bactrian coins, 184, 185
-- Graen, 91
-- grain, **31**, **34**, 61, 122, 176, 276
-- grape, 75, 76, 157
-- muscatel, 157
+- Graen, 91 grain, **31**, **34**, 61, 122, 176, 276 grape, 75, 76, 157 muscatel, 157
 - Great Bear, the, 221
 - Greece, 131, 132, 172, 190, 267
 - Greek colonies, 4, 8
@@ -4880,27 +4611,18 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Byzantine, 201
 - Egyptian, 106
 - Syrian, 60
-- Greek shipping, 89
-- geographers, 189, 277
-- literature, 238
-- writers, 118
+- Greek shipping, 89 geographers, 189, 277 literature, 238 writers, 118
 - Greenwich, 188
-- Gregentius, St., 107
-- griffins (see Tibetan gold), 259
-- guano, 116
+- Gregentius, St., 107 griffins (see Tibetan gold), 259 guano, 116
 - Guardafui, 4, 6, 16, 63, 85, 86, 87,
 - 89, 101, 118
 - Guillain, A., 97
 - Guignes, de, 272
-- Guinea coast, 75, 101
-- gulf of, 99
+- Guinea coast, 75, 101 gulf of, 99
 - Gujarāt, 70, 135, 167, 174, 175, 176,
 - 177, 179, 196, 197, 201, **245**,
-- 257, 261
-- gum arabic, 80, 217
-- gums, **26**, **33**, 74, 77, 85, 164, 192,
-- 214, 218, 236
-- classification of, 164
+- 257, 261 gum arabic, 80, 217 gums, **26**, **33**, 74, 77, 85, 164, 192,
+- 214, 218, 236 classification of, 164
 - Gundert, 234
 - Gupta Empire, 188, 255
 - Gurdaspur, 180
@@ -4927,22 +4649,17 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Hall and Neal, 97
 - Ham, 141
 - Hami (Khamil), 261, 268
-- *Hammamat*, 121
-- *hammo-nitrum*, 68
+- *Hammamat*, 121 *hammo-nitrum*, 68
 - Hammurabi, 7
 - Handy, R. B., 71
-- Han dynasty, 246, 262, 263
-- annals, 269
-- state, 261
+- Han dynasty, 246, 262, 263 annals, 269 state, 261
 - Hanfilah, Ras, 66
 
 <!-- page: 316 | folio: 306 -->
 - Hanumān, the monkey-god, 230, 237
 - Harkhuf, 61
-- Harrar, 74, 75
-- harvests, 58
-- Hasik, 62
-- hatchets, **28**
+- Harrar, 74, 75 harvests, 58
+- Hasik, 62 hatchets, **28**
 - Hatshepsut, Queen, 73, 82, 113, 118,
 - 153, 158, 228
 - Hauakil Bay, 66
@@ -4955,14 +4672,11 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Hebrews, 76, 122, 163, 164, 193, 260
 - scriptures, 213, 228, 264
 - Hecatæus, 92, 160, 189
-- Hedin, Sven, 273
-- *hedysmata*, 112
+- Hedin, Sven, 273 *hedysmata*, 112
 - Heeren, 216, 243, 257
 - Heidelberg, **7**
 - Hejaz, 106, 129
-- Heliocles, 185
-- heliotropium (see bloodstone), 223
-- hemp, 248, 263
+- Heliocles, 185 heliotropium (see bloodstone), 223 hemp, 248, 263
 - Henry II, 199
 - Heracles, 238
 - Herculaneum, 169
@@ -4979,9 +4693,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Herone, **39**, 182
 - Heroopolite Gulf, 68
 - Hesiod, 253
-- Heyd, W., 170, 268
-- hibiscus, 73
-- hides, 74
+- Heyd, W., 170, 268 hibiscus, 73 hides, 74
 - Hien-yang (see Singanfu), 261, 262
 - Hilprecht, Hermann V., 109, 130
 - Himālayas, 81, 84, 151, 160, 169,
@@ -4990,8 +4702,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Himyar, 63, 94, 105, 106, 107, 109,
 - 114, 119, 142
 - Himyarītic language, 104, 146, 148
-- 210
-- inscriptions, 116
+- 210 inscriptions, 116
 - Hind, Sind and Zinj, 92, 248, 249
 - Hindu Kush mountains, 164, 183,
 - 185, 189
@@ -5011,8 +4722,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 148
 - Holdich, Sir Thomas Hungerford,
 - 151, 160, 161, 163, 171, 183,
-- 189, 273
-- holm-oak, 73
+- 189, 273 holm-oak, 73
 - Homer, 69, 157, 159, 254
 - Homerites (see Himyar), 63, 65, 96,
 - 116, 139, 140, 251
@@ -5023,15 +4733,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 120, 130, 134, 143
 - Homna, 150
 - Ho-nan, 262
-- Honāvar (see Naura), 204
-- honey, 70, 74, 76, 81, 112, 169
+- Honāvar (see Naura), 204 honey, 70, 74, 76, 81, 112, 169
 - Horace, 217
 - Hormus, Straits of, 150, 151, 155,
-- 163, 179, 252
-- horn, 191
+- 163, 179, 252 horn, 191
 - Horn of Africa, 87, 218
-- Horse-faces, **47**, 254, 278
-- horses, 13, **31**, **33**, 176, 191, 196
+- Horse-faces, **47**, 254, 278 horses, 13, **31**, **33**, 176, 191, 196
 - Horus, 136
 - *Hou-han-shu*, Chinese annals contemporary with the Periplus, 275
 - Hsen-wi, 273
@@ -5047,40 +4754,29 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Hu-nan, 263
 - Huns, 9
 - White, 236
-- Huntington, Ellsworth, 278
-- hyacinthus, 222, 226, 250
+- Huntington, Ellsworth, 278 hyacinthus, 222, 226, 250
 - Hyctanis river, 221
-- Hydreuma, 233
-- hyenas, **43**
+- Hydreuma, 233 hyenas, **43**
 - Hyksos dynasty, **58**
-- Hyrcania, 269, 277
-- iaspis (see jasper), 223
-- ibis (protector of Egypt against incense-spirits in serpent form),
+- Hyrcania, 269, 277 iaspis (see jasper), 223 ibis (protector of Egypt against incense-spirits in serpent form),
 - 131, 132
 - Ibn Batuta, 74, 141, 203
 - Ibn Khaldun, 116, 129, 142
 - Ibn Mogāwir, 107
 - Ili river, 268
-- Ilî-azzu Jalît, 117
-
-<!-- page: 317 | folio: 307 -->
-- images, **33**, 127
+- Ilî-azzu Jalît, 117 [p. 307] images, **33**, 127
 - *Imperial Gazetteer of India*, 162, 181,
 -     183, 188, 190, 195, 196, 197,
 -     201, 202, 204, 205, 208, 209,
 -     210, 212, 234, 235, 237, 238,
--     252, 255
-- incense (see frankincense), 3, **26**, 61,
+-     252, 255 incense (see frankincense), 3, **26**, 61,
 -     62, 63, 80, 82, 113, 120, 121,
 -     123, 124, 126, 128, 130, 133,
--     136, 143, 144, 145, 169, 233
-- house, 122
-- *ihmut* (or *anti*), 113, 164
+-     136, 143, 144, 145, 169, 233 house, 122 *ihmut* (or *anti*), 113, 164
 - *sonter*, 113
 - Incense-Land, 63, 117, 118, 119, 121,
 -     122, 132, 133, 140, 142, 145,
--     150, 271
-- terraces, 228
+-     150, 271 terraces, 228
 - India, 3, 4, 5, 6, 8, 9, 10, 11, 13, 14,
 -     **29**, **32**, **36**, **39**, **40**, **41**, **45**, **49**,
 -     52, 63, 66, 70, 71, 75, 76, 77,
@@ -5101,23 +4797,14 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -     242, 248, 249, 250, 251, 253,
 -     254, 256, 257, 258, 259, 260,
 -     261, 264, 265, 267, 270, 272,
--     276, 279, 281
-- sea-trade from, 63, 99
-- southern extension of, 101
-- Indian embassies, 63
-- coinage, 193, 221
-- empire, 189
-- mountaineers, 255
+-     276, 279, 281 sea-trade from, 63, 99 southern extension of, 101
+- Indian embassies, 63 coinage, 193, 221 empire, 189 mountaineers, 255
 - Indian Ocean, 6, 16, 50, 101, 130,
 -     137, 148, 164, 213, 230, 250
 - Indian shipping, 63, **87**, 88, **90**, 115,
--     213, 228
-- nut, 154, 273
-- traders, 228
-- travellers, 115
+-     213, 228 nut, 154, 273 traders, 228 travellers, 115
 - Indians, **34**, 76, 135, 146, 161, 226,
--     250, 254, 265
-- indigo, **38**, 172, 173
+-     250, 254, 265 indigo, **38**, 172, 173
 - Indo-Aryans, 70
 - Indo-China, 235, 260, 261
 - Indo-Parthia, 10, 166, 167, 176, 185,
@@ -5128,19 +4815,15 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -     147, 151, 153, 157, 165, 166,
 -     167, 170, 171, 172, 174, 176,
 -     177, 178, 180, 183, 184, 187,
--     232, 251, 258, 269, 270, 272
-- inflated rafts, 62
-- inflated skins, **143**, **145**
+-     232, 251, 258, 269, 270, 272 inflated rafts, 62 inflated skins, **143**, **145**
 - Intef, 121
 - Ion, 192
 - Irak, 249
 - Irawadi river, **165**
-- Iri, 121
-- iron, 13, **24**, **25**, **26**, 69, 70, 71, 77,
+- Iri, 121 iron, 13, **24**, **25**, **26**, 69, 70, 71, 77,
 -     78, 111, 137, 151, 154, 155,
 -     156, 162, 171, 172, 202, 221,
--     224, 225, 248
-- bright, 70
+-     224, 225, 248 bright, 70
 - Indian, 70
 - Isaiah, Book of, 102, 104, 123, 132,
 -     264
@@ -5161,24 +4844,16 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Italy, **24**, 66, 70, 71, 77, 168, 190
 - *Itiopyavan*, 62
 - I-tsing, 213, 275
-- Iudadan, 159
-- ivory, 4, 13, **22**, **23**, **24**, **25**, **26**, **28**,
+- Iudadan, 159 ivory, 4, 13, **22**, **23**, **24**, **25**, **26**, **28**,
 -     **29**, **42**, **45**, **47**, 57, 58, 61, 74,
 -     88, 113, 121, 125, 153, 175,
--     193, 253, 263, 276
-- articles made of, 61
-- sources of supply, 61
-- Jabbalpur, 193
-- jacinth, 226
-- jade, jadeite, 223, 268, 276
+-     193, 253, 263, 276 articles made of, 61 sources of supply, 61
+- Jabbalpur, 193 jacinth, 226 jade, jadeite, 223, 268, 276
 - Jaigarh (see Melizigara), 201
 - Janārdan, temple of, 235
 - January, Ides of, 234
 - Japan, 178
-- Japhet, 163
-- jars, 122
-- *jase*, stitched ship, 155
-- jasper, 233
+- Japhet, 163 jars, 122 *jase*, stitched ship, 155 jasper, 233
 - Jatāyu, 226
 - Jauf, 117
 - Java, 127, 166, 174, 245, 248, 261
@@ -5199,13 +4874,11 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Jenaba, Genaba, 118
 - Jerah, 107, 108
 - Jerakôn Komê, 107
-- Jerusalem, 11, 67, 102, 103, 122
-- jewelry, 66, 219, 223, 224, 225, 277
+- Jerusalem, 11, 67, 102, 103, 122 jewelry, 66, 219, 223, 224, 225, 277
 - Jews, 205
 - Jezebel, 192
 - Jhelum, Jihlam, 180, 184
-- Jih-nan (see Anam), 276
-- *jinni*, 131, 132, 133, 141, 237
+- Jih-nan (see Anam), 276 *jinni*, 131, 132, 133, 141, 237
 - João I, King of Portugal, 75
 - Job, Book of, 104, 136
 - Jobab, 159
@@ -5222,16 +4895,14 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -   149, 150
 - Judæa, 11, 102, 108
 - Judaism, 107
-- Judges, Book of, 102, 131
-- juice of sour grapes (omphacium),
+- Judges, Book of, 102, 131 juice of sour grapes (omphacium),
 -   **25**, 75
 - Julien, Stanislaus, 176, 269
 - Juliopolis, 232
 - Julius Cæsar, 103
 - Julius Maternus, 98
 - July, **27**
-- Jumna river, 167, 185
-- junks, 214, 246, 247, 248
+- Jumna river, 167, 185 junks, 214, 246, 247, 248
 - Jupiter Ammon, 111
 - Justin, 159, 189
 - Justinian, 172, 267
@@ -5253,8 +4924,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Kanchow, 268
 - Kandahar, 183
 - *Kanê emporion*, 116
-- *Kanishka*, 235, 236
-- *kankamon* (Indian copal), 80
+- *Kanishka*, 235, 236 *kankamon* (Indian copal), 80
 - Kankas, 257
 - Kan Ying, Chinese ambassador to
 -   Roman Empire, 275
@@ -5289,15 +4959,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Kay, 116, 129, 142
 - Kayal, Coil, 237
 - Keane, A. H., 272
-- Kej, 162
-- *kelek*, 126
+- Kej, 162 *kelek*, 126
 - Kemp, 273
 - Kennedy, 227
 - Kenrick, 70
 - Kerala, Keralaputra (see Chēra), 204,
 -   205, 208
-- Kerman, 70
-- kermes-berry, 73
+- Kerman, 70 kermes-berry, 73
 - Kesmacoran, 162
 - Keti, 165
 - *Kevaddha Sutta of Digha*, 229
@@ -5305,8 +4973,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Kharosthī alphabet, 210
 - Khartum, 57, 59
 - Khasia Hills, 194
-- Khenzer, 158
-- khesyt wood, 113
+- Khenzer, 158 khesyt wood, 113
 - Khnumhotep II, 192
 - Khorassan, 170, 249
 - Khor ed Duan, 150
@@ -5328,8 +4995,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Kistnā river, 195, 197, 224, 252
 - Koft, 52
 - Kohaito (Coloe), 60, 61
-- Kôh-i-mubârak, 148
-- kohl, 192
+- Kôh-i-mubârak, 148 kohl, 192
 - Koko-Nor, 272, 279
 - Konkan, 197, 198, 200, 201, 203,
 - 204, 205
@@ -5337,17 +5003,14 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Koreish, 107
 - Korkai (Kolkai), Colchi, 209, 211,
 - 237
-- Kosala, 188
-- *kotias*, 91
+- Kosala, 188 *kotias*, 91
 - Kottayam (see Nelcynda), 208, 211
 - Krapf, 75
-- Krishna, 201
-- the Great (the Nile), 230
+- Krishna, 201 the Great (the Nile), 230
 - Kropotkin, 278
 - Kshaharāta line, 198
 - Kshatrapa dynasty, 188, 197, 198,
-- 200
-- coinage, 192
+- 200 coinage, 192
 - Kuché, 166, 186, 268
 - Kuen-lun mountains, 269
 - Kuki-Chin, 255, 278
@@ -5360,51 +5023,33 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Kurumbar, 244
 - Kuryat, 174
 - Kushan kingdom, 8, 9, 138, 167,
-- 194, 197, 275
-- coinage, 187, 192
-- Kwang Vouti, 263
-- *kyphi*, 113
-- lac, **24**, 73, 80
+- 194, 197, 275 coinage, 187, 192
+- Kwang Vouti, 263 *kyphi*, 113 lac, **24**, 73, 80
 - Laconia, 156
-- Lacouperie, Terrien de, 273
-- ladanum, 112
-- Lamu, 88, 98
-- lances, **28**
+- Lacouperie, Terrien de, 273 ladanum, 112
+- Lamu, 88, 98 lances, **28**
 - Lanchowfu, 268, 272
 - Landon, 273
 - Lansdell, Henry, 170, 270
-- Laodicea, **24**, 77
-- lapis-lazuli, **38**, 122, 170, 221, 223,
+- Laodicea, **24**, 77 lapis-lazuli, **38**, 122, 170, 221, 223,
 - 224
 - Lares, 191
 - La Roque, 139
-- Las Bela, 163
-- *laser*, 178
+- Las Bela, 163 *laser*, 178
 - Lassen, Prof. Chr., 78, 81, 84, 89,
 - 99, 152, 163, 164, 169, 171,
 - 174, 175, 177, 182, 184, 188,
 - 189, 193, 197, 201, 213, 217,
-- 223, 229, 242, 243, 249, 253,
-- 254, 266, 272, 273, 279
+- 223, 229, 242, 243, 249, 253, 254, 266, 272, 273, 279
 - Latakia, 77
-- Latica or Larica, 174, 175
-- laurel-grove, **26**, 85
-- laurel in chaplets, 191, 216, 264
-- laurels (in Somaliland), 87
-- Layard, 127
-- lead, **42**, **45**, 70, 77, 78, 114, 190,
-- 193, 220, 221
-- leadstone, 225
-- red, 151
+- Latica or Larica, 174, 175 laurel-grove, **26**, 85 laurel in chaplets, 191, 216, 264 laurels (in Somaliland), 87
+- Layard, 127 lead, **42**, **45**, 70, 77, 78, 114, 190,
+- 193, 220, 221 leadstone, 225 red, 151
 - Lee, Henry, 258
 - Leghorn, 168
-- Leï-tsu, 263
-- lemons, 179
-- lemon-grass, 265
-- Lenormant, and Chevalier, 143
-- lentil, 256
-- Leonidas, 123
-- leopards, **43**
+- Leï-tsu, 263 lemons, 179 lemon-grass, 265
+- Lenormant, and Chevalier, 143 lentil, 256
+- Leonidas, 123 leopards, **43**
 - Lepsius, 136, 158
 - Lesser Bear, **48**, 277
 - Letourneau, 268
@@ -5413,72 +5058,53 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Leviticus, Book of, 122
 - Lhasa, 272
 - Libya, **29**, 61, 69, 279
-- *Lichien* (see Ta-ts'in), 275
-- licorice, 157
-- *Li-kan* (see Rekam = Petra), 128
-- lilies, 112
-- limes, 141
+- *Lichien* (see Ta-ts'in), 275 licorice, 157
+- *Li-kan* (see Rekam = Petra), 128 lilies, 112 limes, 141
 - Limyrica (see Damirica), 205
-- Lindsay, 217, 268
-- linen, 23, **37**, **45**, 68, 122, 124, 192,
-- 257
-- figured, 167
-- Linschoten, 84
-- linseed, 190
-- lion, 236, 277
+- Lindsay, 217, 268 linen, 23, **37**, **45**, 68, 122, 124, 192,
+- 257 figured, 167
+- Linschoten, 84 linseed, 190 lion, 236, 277
 - Lion, Watchpost of, 86
 - Lisbon, 228
 - Littledale, 273
 - Little Nile River, **26**, 84, 86
-- *Liu-sha*, 277
-- lizards, **34**, 136
-- loadstone, 155
+- *Liu-sha*, 277 lizards, **34**, 136 loadstone, 155
 - Locust-eaters (Acridophagi), 56
 - Lollia Paulina, 240
 - Lollius, Marcus, 240
 - London, 7
 - Long-faces, 47, 254, 278
-- Lop Nor, 268, 270
-- lotus, 112
+- Lop Nor, 268, 270 lotus, 112
 - Louis, 279
 - Loventhal, 209
-- Lo-yang, 262
-- road from, to Singanfu, 262
+- Lo-yang, 262 road from, to Singanfu, 262
 - Lubim, 60
 - Lucan, 111, 265
 - Ludolfus, 133
-- Lusitania, 190
-- lychnis (see tourmaline), 223
-
-<!-- page: 320 | folio: 310 -->
-- lycium, **28**, **42**, 169
+- Lusitania, 190 lychnis (see tourmaline), 223 [p. 310] lycium, **28**, **42**, 169
 - Lydians, 132, 192
 - Lyne, R. N., 92
 - Maabar, 241, 248, 249
 - Maaden, 170
 - Macedonia, 123, 131, 161, 180
-- Máchín, 248
-- *macir*, **25**, 80, 81
+- Máchín, 248 *macir*, **25**, 80, 81
 - Maciver, Dr. David Randall, 97
 - Mackinder, 278
-- Madagascar, 88, 94, 101, 137, 252, 271
-- *madarata*, **36**, 153
+- Madagascar, 88, 94, 101, 137, 252, 271 *madarata*, **36**, 153
 - Madhyamikā, 180, 184
 - Madras, 220, 242, 244
 - Museum, Roman coins in, 220
 - Madurā, Modiera, 211, 234, 238, 241
 - Mæotis, Lake, **48**, 277, 278
 - Maës, a Macedonian silk-merchant,
-- 269, 270
-- *magla*, **26**
+- 269, 270 *magla*, **26**
 - *Mahābhārata*, 174, 197, 236, 238,
 - 253, 254, 257, 264, 281
 - Mahānadī river, **152**, 224, 253
 - *Mahāvagga*, 213
 - Mahendragiri, 237
 - Mahi river, (see Mais)
-- Mahra, 62, 130, 139, 142, 146, 148
-- maidens for the harem, **42**
+- Mahra, 62, 130, 139, 142, 146, 148 maidens for the harem, **42**
 - Mais river, **39**, 182
 - Makalla, 117
 - Makran, 144, 150, 151, 162, 163
@@ -5487,13 +5113,11 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 201, 203, 204, 205, 208, 210,
 - 212, 213, 214, 217, 221, 222,
 - 226, 227, 228, 232, 241, 243,
-- 259, 267
-- malabathrum, 6, **44**, **45**, **47**, 84, 89,
+- 259, 267 malabathrum, 6, **44**, **45**, **47**, 84, 89,
 - 112, 216, 217, 256, 279, 281
 - method of preparation and sale,
 - **48-9**
-- Malacca, 227, 228, 241, 246, 259, 260
-- malachite, 122
+- Malacca, 227, 228, 241, 246, 259, 260 malachite, 122
 - Malacca, 78, 84
 - Malao, **25**, 79, 80, 81, 83
 - Malay Peninsula, 260
@@ -5505,8 +5129,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Malichas, 11, **29**, 103, 200
 - Malik, 109
 - Malindi (Melinde), 88
-- Malli, 70
-- mallow-cloth, **24**, **42**, **43**, 73, 194
+- Malli, 70 mallow-cloth, **24**, **42**, **43**, 73, 194
 - Maltzan, H. von, 119, 127
 - Mālvan, Mahā-lavana (see Aurannoboas), 202
 - Mālwā, 167, 187, 188, 197
@@ -5523,14 +5146,11 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - "Mandeville, Sir John," 155, 163,
 - 215, 226
 - Manes, 166, 191
-- Mangalore, 203, 205
-- manganese, 68
+- Mangalore, 203, 205 manganese, 68
 - Mangarouth (see Mangalore), 251
 - Manîfold, 272
-- Manillas, the, 252
-- manna, 164
-- Mansuriyah, 166
-- mantles, linen, double-fringed, **24**
+- Manillas, the, 252 manna, 164
+- Mansuriyah, 166 mantles, linen, double-fringed, **24**
 - Manu, Laws of, 71, 229, 256, 257,
 - 264
 - Manzi, 227
@@ -5544,15 +5164,11 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Mardi, 277
 - Marduk, 138
 - Mariaba, Marib, 4, 10, 97, 105, 107,
-- 108, 109, 119
-- marigold, 111
-- Marinus of Tyre, 228, 260, 269
-- marjoram, 112
+- 108, 109, 119 marigold, 111
+- Marinus of Tyre, 228, 260, 269 marjoram, 112
 - Mark, Gospel of, 114, 189
-- Mārkinda, 196
-- marten, 257
-- Martial, 167
-- marum, 112
+- Mārkinda, 196 marten, 257
+- Martial, 167 marum, 112
 - Masala, 106, 114, 115
 - Masalia (Maisolia, Mausala), **47**,
 - 252-3
@@ -5562,18 +5178,14 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 126, 146, 147, 154, 163, 267
 - Maspéro, G., 146
 - Massilia, 78
-- Massowa, 60, 99
-- mastich, 112
-- Mas’udi, 66, 164, 247
-- masula boats (see Andhra coinage),
+- Massowa, 60, 99 mastich, 112
+- Mas’udi, 66, 164, 247 masula boats (see Andhra coinage),
 - 244
 - Masulipatam, 196, 252
-- Matarem, 245
-- *mateb* (see *zennār*), (baptismal cord),
+- Matarem, 245 *mateb* (see *zennār*), (baptismal cord),
 - 139
 - Mathurā, 184, 270
-- Matthew, Gospel of, 123
-- matting, 280
+- Matthew, Gospel of, 123 matting, 280
 - Mauch, Carl, 96
 - Maurice, 139
 
@@ -5589,8 +5201,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Mecca, 107, 252
 - Mechir, 234
 - Medes, empire of, 50-1, 132
-- Media, 164, 170, 269
-- medicine, 111, 113, 169, 170, 172,
+- Media, 164, 170, 269 medicine, 111, 113, 169, 170, 172,
 - 173, 178, 190, 192, 195, 213
 - Mediterranean, 3, 4, 5, 77, 84, 101,
 - 105, 112, 115, 126, 127, 128,
@@ -5600,8 +5211,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Megasthenes, 212, 254, 255
 - Meghna, 255
 - Mekong river, 165
-- Melibar (see Malabar), 273
-- melilote, 190
+- Melibar (see Malabar), 273 melilote, 190
 - Melinde, 179
 - Melizigara, Melizēgyris, **43**, 201
 - Memphis, 3
@@ -5612,8 +5222,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Menon, Shanguni, 209
 - K. P. Padmanabha, 209, 212, 221
 - Mentuhotep IV, 121
-- Menuthias, **28**, 94
-- mercury, 77, 78, 137
+- Menuthias, **28**, 94 mercury, 77, 78, 137
 - Mercury, passage of, 136
 - Merka, 88
 - Merneptah, 122
@@ -5627,8 +5236,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Merzbacher, 272
 - Mesopotamia, 6, 58, 70, 157, 172,
 - 176, 177, 269
-- Messalum, 114
-- metopion (oil of bitter almonds), 112
+- Messalum, 114 metopion (oil of bitter almonds), 112
 - Meyer, Dr. Eduard, 60
 - Midian, 123
 - Midnapur, 257
@@ -5636,53 +5244,36 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Miles, Gen. S. B., 145, 147, 148,
 - 151, 230, 237
 - Miletus, 123, 167
-- Milinda, Questions of, 185
-- military cloaks, **24**
-- milk, 123, 130, 192
-- Millburn, 84
-- millets, 178, 179
-- Milton, John, 143
-- mimosa, 141
+- Milinda, Questions of, 185 military cloaks, **24** milk, 123, 130, 192
+- Millburn, 84 millets, 178, 179
+- Milton, John, 143 mimosa, 141
 - Minæa, 58, 107, 109, 115, 119, 125,
 - 128
-- Minæans, 104, 105, 108
-- their language, 104
+- Minæans, 104, 105, 108 their language, 104
 - Jauf, 117
 - Mingti, 263, 275
 - Minibar (see Malabar), 215
 - Minnagara, 8, **37**, **39**, 165, **166**, **180**
-- Minos of Crete, 105
-- mint, 213
-- mirrors, 70, 220, 221
+- Minos of Crete, 105 mint, 213 mirrors, 70, 220, 221
 - Mitra, Rajendralāla, 220, 221, 224,
 - 246, 253, 256
-- Mocha, 85, 106, 107, 147
-- *mocrotu*, **26**, 81
+- Mocha, 85, 106, 107, 147 *mocrotu*, **26**, 81
 - Mogdishu (Makdashu, Magadoxo),
 - 74, 88, 92
 - Mogul monarchs, 189
 - Mohammarah, 149
 - Mohammed, 7, 131
-- Mohammedan conquests, 63, 96, 98
-- travellers, 200
-- Mokwanpur, 253
-- *molochinē* = mallow cloth, 73, 179
-- Mombasa, 94
-- *monachē*, **24**, **27**, 72, 179
+- Mohammedan conquests, 63, 96, 98 travellers, 200
+- Mokwanpur, 253 *molochinē* = mallow cloth, 73, 179
+- Mombasa, 94 *monachē*, **24**, **27**, 72, 179
 - Monfiyeh, 94
-- Mongolia, 253, 267, 272
-- monkeys, 113, 121, 230, 237
+- Mongolia, 253, 267, 272 monkeys, 113, 121, 230, 237
 - Monomotapa, Kingdom of, 97, 98
-- Monophysite Christianity, 57, 64
-- monsoon, 6, 145, 173, 230, 232, 233,
+- Monophysite Christianity, 57, 64 monsoon, 6, 145, 173, 230, 232, 233,
 - 234
 - Montu, 121
 - Monze, Cape, 161
-- Moon, Mountains of, 87, **88**
-- country of, 88, 230
-- lake of, 88
-- men of, 88 (Wanyamuézi)
-- moringa, 113
+- Moon, Mountains of, 87, **88** country of, 88, 230 lake of, 88 men of, 88 (Wanyamuézi) moringa, 113
 - Morocco, 168, 192
 - Morse, H. B., 263
 - Morung, 253
@@ -5690,8 +5281,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Moselle, 77
 - Moses, 59, 171
 - Mosyllum, 10, **26**, 63, 81, 82, 83,
-- 85, 86, 101, 104, 218
-- *moto*, **26**, **27**
+- 85, 86, 101, 104, 218 *moto*, **26**, **27**
 - Mountain Island (*Orinê*), **23**
 - Mount Zion, 118
 - Movers, F. C., 71, 79, 158, 160
@@ -5700,8 +5290,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Mugheir, 152
 - Muhammad Kazim, 259
 - Mukabber, El, 150
-- Mukharji, T. N., 258
-- mulberry, 76, 152, 263, 264
+- Mukharji, T. N., 258 mulberry, 76, 152, 263, 264
 - Mullah, the, 87
 - Müller, C., 19, 67, 70, 81, 84, 86, 106,
 - 107, 114, 115, 116, 143, 147,
@@ -5710,50 +5299,33 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Müller, C.,—continued.
 - 151, 163, 171, 180, 181, 201, 202, 242
 - Müller, D. H., 97, 109
-- Mundus, **25**, **26**, **81**
-- murrhine (glass). (See agate, carnelian), **24**, 68, 193, 194, 223
-- Muscat (Maskat), 80, 88, 91, 96, 139, 142, 143, 147, 151
-- musical instruments, with silk threads, 263
-- muslins, 3, **24**, **31**, **42**, **43**, **47**, 165, 172, 202
+- Mundus, **25**, **26**, **81** murrhine (glass). (See agate, carnelian), **24**, 68, 193, 194, 223
+- Muscat (Maskat), 80, 88, 91, 96, 139, 142, 143, 147, 151 musical instruments, with silk threads, 263 muslins, 3, **24**, **31**, **42**, **43**, **47**, 165, 172, 202
 - Argaritic, **46**, 242
 - Gangetic, **47**, 256-8
 - Mussel Harbor (Myos Hormos), **22**, **29**, 52, 101, 103
 - Muyiri-kotta (see Muziris), 205
 - Muza, **25**, **28**, **30**, **33**, **34**, 94, 104, 106, 109, 114, 115, 116, 233
 - Muziris, **44**, 128, 203, 204, 205, 208, 212, 233
-- Myozæus, 50
-- myrobalanus, 112
-- myrrh, 4, **25**, **26**, **31**, 57, 62, 77, 78, 80, 86, 87, 102, 105, 112, 113, 114, 116, 120, 122, 123, 132, 139, 145, 164, 165, 169, 214, 217, 218, 236
-- aromatic, 113
-- Ausaritic, 113 114
-- collatitia, 113
-- cultivated, 113
+- Myozæus, 50 myrobalanus, 112 myrrh, 4, **25**, **26**, **31**, 57, 62, 77, 78, 80, 86, 87, 102, 105, 112, 113, 114, 116, 120, 122, 123, 132, 139, 145, 164, 165, 169, 214, 217, 218, 236 aromatic, 113
+- Ausaritic, 113 114 collatitia, 113 cultivated, 113
 - Dianitic, 113
 - Erythræan, 113
 - Gebanite, 113
-- Minæan, 113
-- odoraria, 113
+- Minæan, 113 odoraria, 113
 - Sabæan, 113
-- Sambracenian, 113
-- stacte, 113,
-- Troglodytic, 113
-- white, 113
-- myrrh-country, 57
-- myrtle, 112
-- Mysore, 152, 257, 259
-- mysteries, Dionysiac, 132
+- Sambracenian, 113 stacte, 113,
+- Troglodytic, 113 white, 113 myrrh-country, 57 myrtle, 112
+- Mysore, 152, 257, 259 mysteries, Dionysiac, 132
 - Nabatæan Troglodytæ, 80
-- Nabatæans, 11, **29**, 51, 60, 80, 102, 103, 104, 109, 200
-- their import duty, **29**, 104
+- Nabatæans, 11, **29**, 51, 60, 80, 102, 103, 104, 109, 200 their import duty, **29**, 104
 - Nabatu, 60, 102
 - Nabonidus, 152, 227
 - Naga, 278
 - Nagar Parkar, 166, 173
-- Nāgarī, 180, 184
-- *nagas* (see serpents), 250, 281
+- Nāgarī, 180, 184 *nagas* (see serpents), 250, 281
 - Nahapāna (see Nambanus), 175, 198, 199, 200
-- Nahum, 58, 69
-- nails, 155, 156
+- Nahum, 58, 69 nails, 155, 156
 - Nalopatana (Nelcynda), 251
 - Nambanus (see Nahapāna), **39**, 175, 197, 198
 - Nammados river (see Narbada), **30**, 182
@@ -5762,17 +5334,14 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - *Nan-tau*, 269
 - Napata, 12, 58, 59, 78
 - Naples, 77, 168
-- Narbada river (see Nammados), 152, 153, 181, 182, 193
-- nard, **38**, 111, 112, 169, 170, 188, 189, 191, 214, 217, 265
-- nature-worship, 138
+- Narbada river (see Nammados), 152, 153, 181, 182, 193 nard, **38**, 111, 112, 169, 170, 188, 189, 191, 214, 217, 265 nature-worship, 138
 - Naura, **44**, 203, 204
 - Navarrete, 55
 - Naville, 120, 218
 - Nearchus, 162
 - Nebaioth, 60, 102
 - Nebuchadrezzar, 7
-- Necho, Pharaoh, 101
-- negroes, 97, 98, 194
+- Necho, Pharaoh, 101 negroes, 97, 98, 194
 - “negro-land,” 153, 158
 - Nehemiah, Book of, 122
 - Nejran, 117
@@ -5785,8 +5354,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Nicomedia, 220
 - Nicon, **27**, 92
 - Niebuhr, Carsten, 107, 130
-- Nile, 3, 4, 15, 16, **23**, **47**, 51, 52, 56, 57, 58, 59, 60, 68, 75, 98, 99, 103, 117, 118, 120, 146, 153, 158, 213, 228, 230, 232, 265
-- sources, Indian knowledge of, 230
+- Nile, 3, 4, 15, 16, **23**, **47**, 51, 52, 56, 57, 58, 59, 60, 68, 75, 98, 99, 103, 117, 118, 120, 146, 153, 158, 213, 228, 230, 232, 265 sources, Indian knowledge of, 230
 - Nīleshwar, 205
 - Nimrod, 134, 163
 - Nimrud Inscription, 123, 149
@@ -5794,14 +5362,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Nisæa, 170
 - Nishapur, 170
 - Nitocris, Stela of, 158
-- Nitrān, Nitrias, Nitra (see White Island), 203, 233
-- nitre, 68
+- Nitrān, Nitrias, Nitra (see White Island), 203, 233 nitre, 68
 - Nizam’s dominions, 197
 - Noah, 76, 163
 - No-Amon, 69
 - Noël, 268
-- Nogal Valley, 219
-- nomads, **29**, **30**, **32**
+- Nogal Valley, 219 nomads, **29**, **30**, **32**
 - North India, 152, 163, 187, 195, 197, 199, 210, 235, 238, 258, 263, 264
 
 <!-- page: 323 | folio: 313 -->
@@ -5813,21 +5379,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Oannes, 159
 - Obadiah, 102
 - Obal, 74, 149
-- Obollah (Apologus, Ubulu), 4, 74, 149
-- obsidian, 66
-- ocean-stream, 92, 251, 277, 278
-- ocean, unexplored, **29**, 101
-- Ocelis, **25**, **31**, **32**, 65, 83, 89, 107, 114, 115, 147, 233
-- ochre, red, 137
+- Obollah (Apologus, Ubulu), 4, 74, 149 obsidian, 66 ocean-stream, 92, 251, 277, 278 ocean, unexplored, **29**, 101
+- Ocelis, **25**, **31**, **32**, 65, 83, 89, 107, 114, 115, 147, 233 ochre, red, 137
 - O'Connor, 279
 - Odoric, Friar, 155, 208, 215, 249
-- Odras, 253
-- œnanthe, 112
-- oil, 4, 13, 122, 216
-- ointments, 13, **31**, **42**, 82, 110, 111, 112, 113, 114, 130, 169, 170, 189, 191, 192, 217, 239, 265
-- Old Testament, 237
-- olive, 75, 77
-- olive oil, **24**, **34**, 75, 169, 177
+- Odras, 253 œnanthe, 112 oil, 4, 13, 122, 216 ointments, 13, **31**, **42**, 82, 110, 111, 112, 113, 114, 130, 169, 170, 189, 191, 192, 217, 239, 265
+- Old Testament, 237 olive, 75, 77 olive oil, **24**, **34**, 75, 169, 177
 - Olok, 86
 - Olympia, 54
 - Olympus, 282
@@ -5835,76 +5392,55 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Omana, **34**, 129, 139, 140, 150
 - Omanites, 63, 140, 150
 - Ommana, **32**, **36**, 71, 150, 151, 153, 160, 161, 164
-- Ommano, river, 150
-- omphacium, 75, 76, 112
-- Omphale, 192
-- *ondanique*, 70
-- Onesicritus, 115, 161, 178, 249
-- onycha, 122
-- onyx stone, 3, 193, 194, 223, 225
-- opal, 223
+- Ommano, river, 150 omphacium, 75, 76, 112
+- Omphale, 192 *ondanique*, 70
+- Onesicritus, 115, 161, 178, 249 onycha, 122 onyx stone, 3, 193, 194, 223, 225 opal, 223
 - Ophiodes, 167
 - Ophir, 97, 151, 160, 161, 175, 260
-- supposed location in East Africa, 97
-- opium, 215
-- opobalsamum, 112
+- supposed location in East Africa, 97 opium, 215 opobalsamum, 112
 - Opone, **27**, 83, 87, **90**, 135
 - Oppert, 78, 177
-- *Oppidum Sacæ*, 62, 63
-- opsian stone, **23**, 66
+- *Oppidum Sacæ*, 62, 63 opsian stone, **23**, 66
 - Bay of, 66
 - Ora, 161, 162
-- Oræa, **37**, 161
-- oreichalch (aurichalcum), 69, 78
-- Orenburg, 171
-- orgies, Dionysiac, 132-3
+- Oræa, **37**, 161 oreichalch (aurichalcum), 69, 78
+- Orenburg, 171 orgies, Dionysiac, 132-3
 - Orissa, 253
 - Oritæ, Ori, 161, 162, 164, 221
 - Ormes (see Hormus), 155
-- Orotal = Dionysus, 132
-- orpiment, **45**, 191, 221
+- Orotal = Dionysus, 132 orpiment, **45**, 191, 221
 - Orrhotha, 251
 - Osiris, 76, 132, 133, 146
 - Osor-hapi (Serapis), 146
-- Ostia, harbor-works at, 220
-- ostrich feathers, 4, 57
-- Oudh, 242
-- oxen, 58, 158, 196
-- Oxford, 153
-- ox-gall, 169
+- Ostia, harbor-works at, 220 ostrich feathers, 4, 57
+- Oudh, 242 oxen, 58, 158, 196
+- Oxford, 153 ox-gall, 169
 - Oxus river, 186, 268, 269, 277
 - Oxydracæ, 70
 - Oyster Rocks (see Cænitæ), 202
-- Ozene, **42**, 187, 270
-- *ozænitis* (see spikenard), 256
-- Pa-anch, Island of, 87, 133, 135, 162, 271
-- packs, **48**, 281
+- Ozene, **42**, 187, 270 *ozænitis* (see spikenard), 256
+- Pa-anch, Island of, 87, 133, 135, 162, 271 packs, **48**, 281
 - Pacorus, 103
 - Pactyan land, 189
 - Padæans (see Cannibals: Purushada), 254, 255
-- Pæthana, **43**, 195, 196, 199
-- pagoda, Buddhist: Abyssinian, 64
+- Pæthana, **43**, 195, 196, 199 pagoda, Buddhist: Abyssinian, 64
 - Chinese, 274
 - Hindu, 65
 - Pahang, 259
-- Pahlavas, 235
-- paint, 221
+- Pahlavas, 235 paint, 221
 - Paithān, 195, 196, 199, 200
 - Palæpatmæ, **43**, 201
 - Palæsimundu, **47**, 249
 - Palestine, 71, 102, 122, 159
 - Palibothra (see Pātaliputra), 270
 - Palk strait, 241
-- Pallava dynasties, 167, 204, 244
-- palm-leaves, **35**
-- palm-oil, **29**, 99
+- Pallava dynasties, 167, 204, 244 palm-leaves, **35** palm-oil, **29**, 99
 - fiber, 154
 - trees, 130
 - Palmyra, 4, 6, 101, 103
 - Pamirs, 166, 268, 269, 270, 273, 281
 - Pamphile, 264
-- Panama, Bay of, 183
-- panax, 112
+- Panama, Bay of, 183 panax, 112
 - Panchaia, 87, 135, 136, 271
 - Panchao, 9, 11, 166, 186, 263, 268
 - Pandæa (see Pāndya), 238
@@ -5918,12 +5454,9 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Panna, 224
 
 <!-- page: 324 | folio: 314 -->
-- Pano, **27**, 87, 135
-- panthers, 61
-- panther skins, 57, 113, 121
+- Pano, **27**, 87, 135 panthers, 61 panther skins, 57, 113, 121
 - Paphos, 123
-- Papica, **39**, **40**, 181
-- papyrus, 111
+- Papica, **39**, **40**, 181 papyrus, 111
 - Papyrus Harris, 61, 77, 122, 158
 - Paralia, **46**, **47**, 234
 - Pāripatana (*see* Palæpatmæ), 201
@@ -5943,8 +5476,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Parthian kings, chronological list of,
 -     110
 - Parthian princes, **37**, 166, 167, 185,
--     190
-- kings, 112
+-     190 kings, 112
 - Parti, 251
 - Parūr, Paravūr (*see* Karuvūr, Muziris), 205, 208, 215
 - Pasargadæ, 50-1
@@ -5956,13 +5488,10 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Pausanias, 62, 71, 132, 143, 145, 146,
 -     209
 - Pausias, 191
-- Pauthier, 144
-- peacocks, 61, 175
-- pearls, 6, 13, **36**, **45**, **46**, **47**, 74, 123,
+- Pauthier, 144 peacocks, 61, 175 pearls, 6, 13, **36**, **45**, **46**, **47**, 74, 123,
 -     148, 151, 156, 164, 168, 210,
 -     221, 222, 223, 224, 239, 240,
--     241, 249, 256
-- pearl-mussel, 148
+-     241, 249, 256 pearl-mussel, 148
 - -fisheries, 239, 240, 241
 - Pegu, 252
 - *Péi-lu*, 268, 269, 270
@@ -5971,14 +5500,10 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Peking, 272
 - Pemba, 94
 - Penner river, 241
-- Pepi II, 121
-- pepper, 6, **44**, **45**, 169, 192, 195, 202,
+- Pepi II, 121 pepper, 6, **44**, **45**, 169, 192, 195, 202,
 -     204, 205, 210, 211, 213, 214,
 -     215, 216, 225, 227, 234, 241,
--     248, 250, 251, 251, 273
-- long, **42**, 142, 194, 195, 213
-- *peratikos*, 75
-- perfume, 110, 111, 113, 114, 122,
+-     248, 250, 251, 251, 273 long, **42**, 142, 194, 195, 213 *peratikos*, 75 perfume, 110, 111, 113, 114, 122,
 -     124, 143, 169, 170, 190, 217,
 -     233, 270
 - Perim, 114, 115
@@ -6004,23 +5529,15 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -     266, 269, 270, 272, 274, 275,
 -     278, 279, 282
 - Periplus, date and authorship of, 7-36,
--     197-200, 290-3
-- articles of trade mentioned in,
--     284-8
-- bibliography of, 17-21
-- distances in, 54-5
-- meaning of, 50
-- rulers mentioned in, 294
-- text of, 22-49
+-     197-200, 290-3 articles of trade mentioned in,
+-     284-8 bibliography of, 17-21 distances in, 54-5 meaning of, 50 rulers mentioned in, 294 text of, 22-49
 - Periyar river, 205
 - Persia, 14, 16, **32**, **35**, **37**, 59, 70, 84,
 -     96, 118, 123, 127, 147, 150,
 -     153, 160, 161, 170, 172, 176,
 -     183, 189, 191, 192, 223, 250,
 -     251, 256, 264, 267
-- Persian Empire, 123, 213
-- embassy to the Deccan, 248
-- sea-trade from China, 84
+- Persian Empire, 123, 213 embassy to the Deccan, 248 sea-trade from China, 84
 - Persian Gulf, **3**, **4**, 14, 16, **35**, **36**,
 -     50, 58, 71, 74, 77, 87, 101,
 -     107, 136, 140, 148, 149, 150,
@@ -6035,16 +5552,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Peshāwar, 183, 184
 - Petēnikas, 195
 - Petra, 4, 6, **29**, 101, 102, 103, 109,
--     128
-- in Chinese annals, 128
-- Romans at, 102
-- *petri* (“fibers,” should be *patra*, leaf),
+-     128 in Chinese annals, 128
+- Romans at, 102 *petri* (“fibers,” should be *patra*, leaf),
 -     **48**, 281
 - Petrie, Flinders, 102
 - Petronius, 12, 15, 59, 77, 194
 - Peucelaotis (*see* Poclais), 184, 270
-- Peutinger Tables, 204, 206, 208
-- pewter, 78
+- Peutinger Tables, 204, 206, 208 pewter, 78
 
 <!-- page: 325 | folio: 315 -->
 - Pharaohs, 3, 4, 120, 121, 162
@@ -6055,24 +5569,16 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Phœnicians, 3, 4, 68, 71, 77, 78, 83,
 - 87, 97, 131, 132, 135, 147,
 - 158, 159, 160, 164, 170, 210,
-- 229
-- expedition around Africa, 101
-- phœnix, 135-6, 158
-- *phoinix*, 158
+- 229 expedition around Africa, 101 phœnix, 135-6, 158 *phoinix*, 158
 - Phrygians, 132
 - Piankhi, 162
 - *Piers Plowman*, 215
-- Pigeon Island (see White Island), 203
-- pigmies and cranes, 254
-- pine, 80, 111
+- Pigeon Island (see White Island), 203 pigmies and cranes, 254 pine, 80, 111
 - Ping-chóu (see Shan-si), 263
-- Piram island (see Bæones), 181
-- pirates, **44**, 202, 203, 204, 232, 233
+- Piram island (see Bæones), 181 pirates, **44**, 202, 203, 204, 232, 233
 - Pīrmed Hills, 208
-- Pitalkhara caves, 195
-- plate, gold and silver, **24**, **26**, **38**
-- Plates, 264
-- plates, **34**
+- Pitalkhara caves, 195 plate, gold and silver, **24**, **26**, **38**
+- Plates, 264 plates, **34**
 - Pliny, 7, 8, 9, 10, 12, 14, 15, 61, 62,
 - 66, 68, 69, 71, 72, 76, 78, 80,
 - 81, 82, 83, 84, 86, 90, 101,
@@ -6102,8 +5608,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 214, 221, 225, 227, 235, 237,
 - 240, 241, 247, 248, 249, 270,
 - 273, 281
-- Polumbum (see Quilon), 215
-- pomegranate, 112
+- Polumbum (see Quilon), 215 pomegranate, 112
 - Pompeii, 169
 - Pompey the Great, 153, 194
 - Pomponius Mela, his map of the
@@ -6112,8 +5617,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Ponnāni (see Tyndis), 204, 205
 - Pontus, **48**
 - Poppæa (Sabina), 14, 123, 237
-- Porakād (see Bacarē), 211, 212
-- porcelain, 225
+- Porakād (see Bacarē), 211, 212 porcelain, 225
 - Porebandar, 91
 - Port Sudan, 60
 - Porphyry, 139
@@ -6121,8 +5625,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Portuguese, 75, 81, 101, 202, 204,
 - 212, 214, 215, 222, 241
 - Porus, 69, 180
-- Prasum, 94
-- precious stones, 3, 4, 13, 105, 122,
+- Prasum, 94 precious stones, 3, 4, 13, 105, 122,
 - 123, 149, 168, 175, 221, 222,
 - 223, 225, 227, 229, 249, 256,
 - 257, 276
@@ -6155,8 +5658,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 278, 279
 - Pudapatana (Poduca?), 251
 - Pukkalaoti (see Poclais), 184
-- Pulikat, 242
-- pulse, 178
+- Pulikat, 242 pulse, 178
 - Pulumāyi II, 195
 - Puni (Phœnicians), 87, 135
 - Punt Expedition, 52, 80, 143, 159,
@@ -6164,8 +5666,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Punt, Land of, 61, 73, 78, 82, 83,
 - 86, 113, 121, 122, 135, 142,
 - 143, 144, 153
-- Punt-people, 62, 120, 218
-- reliefs, 120, 164, 218, 272
+- Punt-people, 62, 120, 218 reliefs, 120, 164, 218, 272
 - Purali (see Paralia, Travancore), **234**
 - Purali River, 105, 161
 - *Purānas*, 198, 199, 200, 202, 230, 236,
@@ -6174,10 +5675,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - *Vara Sanhita*, 254, 255
 - *Vāyu*, 199
 - *Vishnu*, 174, 253, 254
-- Purindrasena, 199
-
-<!-- page: 326 | folio: 316 -->
-- purple, 13, **36**, 73, 156, 157
+- Purindrasena, 199 [p. 316] purple, 13, **36**, 73, 156, 157
 - Tyrian, 145
 - Pushkala, 238
 - Pushkalāvatī (see Poclais), 183, 184,
@@ -6186,16 +5684,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Pyralaæ Islands and channel, **28**, 94
 - Pyramids, 76, 261
 - Pyrrhon mountain, **46**, 234
-- Pythangelus, 86
-- quartz, quartzose, 223, 224
-- Querimbo Islands, 88
-- quicksilver, 137, 215
+- Pythangelus, 86 quartz, quartzose, 223, 224
+- Querimbo Islands, 88 quicksilver, 137, 215
 - Quilon, 211, 248
-- Raamah, 105, 159, 161, 162
-- *radix Chinæ*, 157
+- Raamah, 105, 159, 161, 162 *radix Chinæ*, 157
 - Raffles, Sir Stamford, 245
-- Rafizah sect, 74
-- rafts, **25**, **32**, 50, 126, 127
+- Rafizah sect, 74 rafts, **25**, **32**, 50, 126, 127
 - Raghu, 242
 - Raidan, 109, 119
 - Rājāpur (see Melizigara), 201, 215
@@ -6238,15 +5732,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Ratnāgiri coast, 201, 215
 - Raven Castle, 116
 - Ravenna, Geographer of, 208
-- Rawlinson, 14
-- realgar, **42**, **45**, 191, 192, 221
+- Rawlinson, 14 realgar, **42**, **45**, 191, 192, 221
 - Rebmann and Ehrhardt, their map of
 - E. Africa, 88
 - Réclus, Elisée, 165, 166, 175, 182,
 - 207
 - Red Bluffs (see Pyrrhon, Varkkallai),
-- 234
-- red lead, 221
+- 234 red lead, 221
 - *Red Men*, 3, 51
 - Red Sea, 3, 5, 7, 8, 50, 51, 52, 57,
 - 59, 60, 66, 75, 88, 89, 99, 104,
@@ -6256,53 +5748,38 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - *Regio Cinnamomifera*, 83
 - Reichard, 19
 - Reinaud, 155, 268
-- Rekem, 102, 128
-- religions of India at the time of the
+- Rekem, 102, 128 religions of India at the time of the
 - Periplus, 235
 - Rémusat, 272
-- Renonsari, 179
-- resin, 112, 192, 236
+- Renonsari, 179 resin, 112, 192, 236
 - Retenu, 61
 - Revelation, Book of, 13, 192
 - Rhadamæans, 105
 - Rhadamanthus, 105
 - Rhambacia, **37**, 105, 162, 163
 - Rhamnæ, 105, 162, 163
-- Rhapta, **28**, 94, 97
-- rhinoceros, **23**, 73, 98
-- rhinoceros-horn, **24**, **29**, 73, 276
+- Rhapta, **28**, 94, 97 rhinoceros, **23**, 73, 98 rhinoceros-horn, **24**, **29**, 73, 276
 - Rhinocolura, 103
 - Rhodes, 111
 - Rhodesia, 96, 97, 98
-- Rhône, 78
-- rhubarb, 157
-- rice, **27**, **34**, **37**, **39**, 76, 104, 176,
+- Rhône, 78 rhubarb, 157 rice, **27**, **34**, **37**, **39**, 76, 104, 176,
 - 178, 221, 256
 - Richard, 263
 - Richthofen, F. von, 268, 269, 270,
-- 272
-- rift-valley, in E. Africa, 98, 99
-- Ritter, 106, 107, 116, 148, 170, 242
-- roads (in India), 196, 253
-- robes, from Arsinoe, **24**
+- 272 rift-valley, in E. Africa, 98, 99
+- Ritter, 106, 107, 116, 148, 170, 242 roads (in India), 196, 253 robes, from Arsinoe, **24**
 - Rocher, 273
 - Rockhill, William Woodville, 273
 - Rogers, J. E. Thorold, 214
 - Rohri Hills, 174
 - Roman Emperors, chronological list
 - of, 110; coins of, 220
-- Chinese account of, 275-7
-- coinage, 192, 193, 204, 276
-- in India, 219, 220, 234
-- in Ceylon, compared with
+- Chinese account of, 275-7 coinage, 192, 193, 204, 276 in India, 219, 220, 234 in Ceylon, compared with
 - Persian, 252
 - “embassy” to China, 276
 - Empire, 12, 76, 77, 108, 151,
 - 168, 169, 185, 187, 191, 214,
-- 217, 228, 275
-- geographers, 150, 277
-- republic, 77
-- senate, 103, 219, 265
+- 217, 228, 275 geographers, 150, 277 republic, 77 senate, 103, 219, 265
 
 <!-- page: 327 | folio: 317 -->
 - Roman shipping, 160, 231
@@ -6319,18 +5796,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 -     164, 167, 168, 169, 172, 177,
 -     187, 189, 191, 198, 209, 213,
 -     214, 215, 216, 219, 220, 222,
--     235, 236, 239, 240, 242, 270
-- roses, oil of, 112, 191
-- rosewood, 153
-- rubies, 222, 223, 224, 226, 227
-- rudders, 231, 248
+-     235, 236, 239, 240, 242, 270 roses, oil of, 112, 191 rosewood, 153 rubies, 222, 223, 224, 226, 227 rudders, 231, 248
 - Rudolf, Lake, 99
 - Rud Shur, 221
-- Rudra (see Siva), 235
-- rugs, gold-embroidered, 276
+- Rudra (see Siva), 235 rugs, gold-embroidered, 276
 - Rukaym, 142
-- Rúm, 249
-- rushes, 86
+- Rúm, 249 rushes, 86
 - Russia, 76, 171
 - Ryder, A. W., 221
 - Saba, 59, 63, 104, 105, 106, 108, 119,
@@ -6348,27 +5819,21 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Sabeans, 104
 - Sabi River, 96
 - Sabis, 126, 133
-- Sabîtu, 135
-- sables, Russian, 171
+- Sabîtu, 135 sables, Russian, 171
 - Sabota (see Sabbatha), 120, 124, 126
 -     133
 - Sabtah, 162
 - Sabteca, 162
 - Sacæ, 62, 269
-- Sacæa, 62, 145, 146
-- *sacchari*, **27**, 90
+- Sacæa, 62, 145, 146 *sacchari*, **27**, 90
 - Sachalites, bay of, **33**, 120, 129, **139**,
 -     160
 - Sachalitic Country, **35**, 272
--     frankincense, 126, 130, 218
-- safflower, 111
-- saffron, **31**, 110, 111, 214
+-     frankincense, 126, 130, 218 safflower, 111 saffron, **31**, 110, 111, 214
 -     oil of, 112
 - Sāgar island, 255
-- Saghar, 133
-- *sagmatogênê*, **24**, **27**, **72**, **179**
-- Sahure, 113, 121
-- sail-boats, **35**
+- Saghar, 133 *sagmatogênê*, **24**, **27**, **72**, **179**
+- Sahure, 113, 121 sail-boats, **35**
 - Saizanas, 67
 - Saka, 10, 165, 166, 167, 175, 176,
 -     180, 185, 188, 195, 196, 197,
@@ -6384,46 +5849,33 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Salmasius, 71
 - Salome, 11
 - Salopatana, 251
-- Salsette island, 155
-- salt, 77, 156
+- Salsette island, 155 salt, 77, 156
 - Salt, Henry, 9, 10, 66, 67, 85, **88**,
--     133
-- salt mines, 119
+-     133 salt mines, 119
 - Samarcand, 268
 - Sambalpur 224
-- Samnium, 66
-- sampsuchum, 112
+- Samnium, 66 sampsuchum, 112
 - Sanaa, 107, 115
-- Sanabares, 200
-- sand, 68
-- sandalwood, 6, **36**, 152, 175, 250
-- Sandanes (see Sandares), 197, 200
-- *sandarakê*, 191, 192
+- Sanabares, 200 sand, 68 sandalwood, 6, **36**, 152, 175, 250
+- Sandanes (see Sandares), 197, 200 *sandarakê*, 191, 192
 - Sandares, 8, **43**, 197, 198, 199, 200
 - Sandberg, 273
-- Sand-Dwellers, 122
-- *sangara*, **46**, 243
+- Sand-Dwellers, 122 *sangara*, **46**, 243
 - Santarensian tin mine, 190
 - Saphar, Zafar, Sapphar, **30**, 107, 109,
--     116, 119, 140, 141, 233
-- sapphires, **45**, 167, 170, 171, 222,
--     223, 226, 227
-- *sapphiros* (see lapis lazuli), **38**, 122,
+-     116, 119, 140, 141, 233 sapphires, **45**, 167, 170, 171, 222,
+-     223, 226, 227 *sapphiros* (see lapis lazuli), **38**, 122,
 -     170, 223
 - Saracens, 59, 76, 94, 101, 149, 163,
 -     241, 242
 - Saraganus, **43**, 197, 198, 199
 - Sarapion, **27**, 92
 - Sarapis, **35**, 146, 153, 160, 163, 209
-- Sarasvati river, 174
-- sarda (see carnelian), 223
-- Sardinia, 168
-- sardonyx (see chalcedony), 223
+- Sarasvati river, 174 sarda (see carnelian), 223
+- Sardinia, 168 sardonyx (see chalcedony), 223
 - Sarikol (see Serica), 269
-- Saris, Capt., 85
-- sasamin wood (blackwood, sesamin),
--     152, 251
-- sashes, **31**
+- Saris, Capt., 85 sasamin wood (blackwood, sesamin),
+-     152, 251 sashes, **31**
 - Sassanids, 7, 172, 267
 - Sātakarni (see Saraganus), 198
 - Satī, 187
@@ -6438,9 +5890,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Saukira Bay, 133
 - Sāvitri river, 201
 - Sawahil, 160
-- Sayce, Prof. A. H., 71, 165
-- scarlet, 13, 73, 214, 227
-- schœni, measure, equivalent of, 125
+- Sayce, Prof. A. H., 71, 165 scarlet, 13, 73, 214, 227 schœni, measure, equivalent of, 125
 - Schwanbeck, 115
 - Scylax of Caryanda, 189
 - Scyrites, Scyritæ (see Cirrhadæ), 253,
@@ -6448,8 +5898,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Scythia, 8, **32**, **37**, **39**, **42**, **45**, 146,
 - 166, 190, 267
 - Scythian Ocean (Arctic), 260
-- Scyths, 165, 166, 257, 260, 267
-- sea-trade, 228, 229, 245-7, 259, 261
+- Scyths, 165, 166, 257, 260, 267 sea-trade, 228, 229, 245-7, 259, 261
 - Seba, 162
 - Sebennytic mouth, 68
 - Sebni, 121
@@ -6463,8 +5912,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Semele, 132
 - Semiramis mountain, **36**, **148**
 - Semites, 107, 176
-- Semylla, **43**, 200
-- sendels, 273
+- Semylla, **43**, 200 sendels, 273
 - Senegal, 89, 157
 - September, **31**
 - Septimius Severus, 219
@@ -6475,30 +5923,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Seres, 70, 76, 146, 171, 172, 179,
 - 209, 265, 266, 267, 269
 - **Seria**, 146
-- Serica (see also Sarikol), 267
-- serichatum, 112
-- Seric skins, **38**, 171
-- tissues, 265
-- serpentine, 223
-- serpents, **37**, **38**, **43**, **44**, 131-3, **138**,
-- 145, 165, 236
-- guardians of cinnamon, 132
-- of diamonds, 225, 226
-- of frankincense, 128, 131-2
-- of medicinal waters, 132
-- of pepper, 215, 216
-- of various gums, 132
-- in the Indian Ocean (see *graæ*),
-- **37**, **44**, 165
-- progenitor of Abyssinian dynasty,
-- 133
-- serpent-worship, 131, 236, 237,
-- 241, 279
-- souls of the dead, 131
-- tree-spirits, 131
-- winged, 131
-- **sesame oil**, **27**, **35**, **39**, 176, 177
-- sesamum, 178
+- Serica (see also Sarikol), 267 serichatum, 112
+- Seric skins, **38**, 171 tissues, 265 serpentine, 223 serpents, **37**, **38**, **43**, **44**, 131-3, **138**,
+- 145, 165, 236 guardians of cinnamon, 132 of diamonds, 225, 226 of frankincense, 128, 131-2 of medicinal waters, 132 of pepper, 215, 216 of various gums, 132 in the Indian Ocean (see *graæ*),
+- **37**, **44**, 165 progenitor of Abyssinian dynasty,
+- 133 serpent-worship, 131, 236, 237,
+- 241, 279 souls of the dead, 131 tree-spirits, 131 winged, 131 **sesame oil**, **27**, **35**, **39**, 176, 177 sesamum, 178
 - Sesecrienæ islands, **44**, 202
 - Sesostris, 51, 192
 - Sewell, R., 209, 210
@@ -6510,28 +5940,21 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Shamash-Napishtim, 135
 - Shams, the Sabæan sun-god, 133
 - Shans, the, 273, 275
-- Shan-si, 263
-- sharks, 145, 241
-- charms against, 241
-- Shatt-el-Arab river, 149, 265
-- shawls, 169, 257
+- Shan-si, 263 sharks, 145, 241 charms against, 241
+- Shatt-el-Arab river, 149, 265 shawls, 169, 257
 - Sheba, 105, 123, 162
-- Sheba, Queen of, 67, 123
-- sheep, 13, **30**, 71, 149, 156, 176, 259,
+- Sheba, Queen of, 67, 123 sheep, 13, **30**, 71, 149, 156, 176, 259,
 - 267
 - Shehr, 129, 160
 - Shehri *luban*, 218
-- Sheikh Sa'id, 115
-- shells, 224, 259
-- shellac, 73
+- Sheikh Sa'id, 115 shells, 224, 259 shellac, 73
 - Shem, 107, 163
 - Shencottah Pass, 212
 - Shen-si, 261, 262
 - Sherring, 272
 - Sheshonk I (or Shishak), 58
 - Shibam, 117, 119
-- Shinar, Chief of, 122
-- ships, **25**, **26**, **27**, **28**, **30**, **35**, **36**, **37**,
+- Shinar, Chief of, 122 ships, **25**, **26**, **27**, **28**, **30**, **35**, **36**, **37**,
 - **40**, **41**, **44**, **45**, **46**, 75, 209,
 - 210, 212, 213, 230
 - Andhra, 243-5
@@ -6539,8 +5962,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Carthaginian, 279, 280
 - Dravidian, **46**, 227
 - Eastern, **46**, 227, 273
-- Egyptian, 51, 52
-- from the north (Bengal), **46**, 242,
+- Egyptian, 51, 52 from the north (Bengal), **46**, 242,
 - 255, 272
 - Greek, **43**
 - Gujarāti, 244-5
@@ -6553,10 +5975,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 246-7
 - Persian, 244
 - Persian Gulf, 154-6, 227
-- Roman, 78, 227
-- ship’s head, 230-1
-- shipwrecks, **29**, **38**, **41**
-- type used by author of Periplus,
+- Roman, 78, 227 ship’s head, 230-1 shipwrecks, **29**, **38**, **41** type used by author of Periplus,
 - 52-3
 - Shoa, 75
 - Siam, 227, 252, 279
@@ -6572,23 +5991,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 249, 250, 251, 252
 - Sigerus (see Melîzigara), 201, 232
 - Sikkim, 151, 188, 253, 272, 279, 280,
-- 281
-- silent trade, 250, 267, 279, 280, 281
-- Si-ling, 263
-- silk, 13, 146, 172, 179, 196, 214,
+- 281 silent trade, 250, 267, 279, 280, 281
+- Si-ling, 263 silk, 13, 146, 172, 179, 196, 214,
 - 259, 263, 264, 265, 266, 267,
-- 274, 281
-- tasar, 264
-- wild, 276
-- silk cloth, **42**, **45**, **48**, 171, 172, 191,
+- 274, 281 tasar, 264 wild, 276 silk cloth, **42**, **45**, **48**, 171, 172, 191,
 - 194, 222, 250, 251, 257, 263,
-- 264, 265, 270, 273, 276
-- silk, raw, **48**, 263, 264
-- silk-route, 172, 263, 268, 269, 275
-- silkworm, 76, 263, 266, 275
-- eggs of, brought to Constantinople, 267
-- silk yarn, **38**, **48**, 172, 264, 270
-- silver, 13, **24**, **25**, **26**, **31**, **33**, **42**, 61,
+- 264, 265, 270, 273, 276 silk, raw, **48**, 263, 264 silk-route, 172, 263, 268, 269, 275 silkworm, 76, 263, 266, 275
+- eggs of, brought to Constantinople, 267 silk yarn, **38**, **48**, 172, 264, 270 silver, 13, **24**, **25**, **26**, **31**, **33**, **42**, 61,
 - 69, 77, 78, 102, 122, 175, 191,
 - 192, 214, 219, 227, 249, 252,
 - 259, 273, 276
@@ -6596,14 +6005,11 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Simpson, William, 159
 - Sinæ, 266, 273
 - Sinbad the Sailor, 156, 225
-- Sind, Sindu, 172, 248, 251
-- *sindôn*, 165, 172
+- Sind, Sindu, 172, 248, 251 *sindôn*, 165, 172
 - Singan-fu, 11, 261, 262, 268, 270,
-- 272, 274, 279
-- road to, from Lo-yang, 262
+- 272, 274, 279 road to, from Lo-yang, 262
 - Singapore, 246
-- Singhala (see Ceylon), 255, 273
-- singing boys, **42**
+- Singhala (see Ceylon), 255, 273 singing boys, **42**
 - Sinhalese, 235, 239, 241, 250, 267
 - Sinim, the, 264, 266
 - Sining-fu, 272, 279
@@ -6616,18 +6022,13 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Siva, 138, 187, 201, 208, 235, 238,
 - 254, 281
 - Siva Sātakarṇi, 199
-- Sivāji, 203
-- skins, **32**, 257, 263
-- seric, **38**
-- slaves, 13, **25**, **27**, **29**, **33**, **34**, **36**, **58**,
+- Sivāji, 203 skins, **32**, 257, 263 seric, **38** slaves, 13, **25**, **27**, **29**, **33**, **34**, **36**, **58**,
 - 74, 88, 91, 96, 161, 191
 - Smith, Vincent A., 166, 180, 183,
 - 184, 189, 198, 200, 204, 205,
 - 209, 210, 235, 238, 242
 - Smith, W. Robertson, 119, 130, 132,
-- 236
-- snails, 216
-- snakes (see serpents), **34**, **44**
+- 236 snails, 216 snakes (see serpents), **34**, **44**
 - Socotra (see Dioscorida), 4, 62, 63,
 - 76, 87, 119, 129, 133, 135,
 - 137, 138, 139, 144, 162, 163,
@@ -6667,79 +6068,53 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 195, 205, 208, 209, 210, 213,
 - 216, 220, 221, 227, 230, 235,
 - 237, 239, 241, 243, 244, 259,
-- 261
-- coinage of, 221, 243-5
-- Spain, 68, 70, 77, 78, 190
-- spartum, 111
+- 261 coinage of, 221, 243-5
+- Spain, 68, 70, 77, 78, 190 spartum, 111
 - Spasinus, 149
 - Speck, 268
-- Speke, Lieut. J. H., 87, 96, 230
-- spices, 3, 4, 6, **25**, **26**, 105, 115, 121,
+- Speke, Lieut. J. H., 87, 96, 230 spices, 3, 4, 6, **25**, **26**, 105, 115, 121,
 - 122, 123, 124, 149, 157, 169,
 - 211, 214, 218, 237, 273
 - Spices, Market and Cape of, **26**, **33**,
-- **45**, 82, 85, 86
-- spikenard, **42**, **45**, 112, 170, 188, 189,
+- **45**, 82, 85, 86 spikenard, **42**, **45**, 112, 170, 188, 189,
 - 217, 251, 273
-- Gangetic, **47**, 222, 256
-- spinel, 222
-- spondylium, 216
-- sponge, 74
+- Gangetic, **47**, 222, 256 spinel, 222 spondylium, 216 sponge, 74
 - Sprenger, Aloys, 105, 107, 114, 116,
 - 148, 164
 - Sramanas, Buddhist missionaries to
 - China, 275
-- Srāvastī, 188
-
-<!-- page: 330 | folio: 320 -->
-- *stacte* (Gebanite-Minæan), **31**, 112,
-- 113, 114, 122
-- stadia, various units in Roman use,
-- and equivalents in modern measurement, 54-5
-- in Persian schœni, 125
-- Stanford, 270
-- statues, 66
-- steel, **24**, 70, 71, 172, 225
-- steering, method of, 230, 231, 232,
+- Srāvastī, 188 [p. 320] *stacte* (Gebanite-Minæan), **31**, 112,
+- 113, 114, 122 stadia, various units in Roman use,
+- and equivalents in modern measurement, 54-5 in Persian schœni, 125
+- Stanford, 270 statues, 66 steel, **24**, 70, 71, 172, 225 steering, method of, 230, 231, 232,
 - 247
 - Stein, M. A., 268, 269, 270, 272
-- Stephanus Byzantius, 62, 140, 145
-- stibnite, *stimmi*, 192
+- Stephanus Byzantius, 62, 140, 145 stibnite, *stimmi*, 192
 - Stieler, 270
-- Stiffe, Capt. A. W., 155
-- stones, transparent, **45**, **47**, 222
+- Stiffe, Capt. A. W., 155 stones, transparent, **45**, **47**, 222
 - Stone Tower, the (see Tashkurghan),
-- 269, 281
-- storax, **33**, **37**, **42**, 112, 127, 128, 214,
+- 269, 281 storax, **33**, **37**, **42**, 112, 127, 128, 214,
 - 216, 276
 - Strabo, 7, 16, 52, 55, 68, 69, 77, 78,
 - 83, 86, 101, 102, 103, 105, 108,
 - 114, 116, 118, 145, 146, 149,
 - 157, 159, 161, 162, 167, 176,
 - 177, 178, 184, 189, 217, 249,
-- 254, 255, 259, 277, 278
-- straits (of Bab-el-Mandeb), 52
-- of Malacca, 127
+- 254, 255, 259, 277, 278 straits (of Bab-el-Mandeb), 52 of Malacca, 127
 - Streubel, 19
-- Stuck, 18, 259
-- *stymmata*, 112
-- *styrax*, 131
+- Stuck, 18, 259 *stymmata*, 112 *styrax*, 131
 - Suakin, 66
 - Sudan, 56, 60, 61, 74, 99
 - *Sudras*, 253
 - Suetonius, 78
 - Suez, 52, 68
-- Gulf of, 273
-- sugar, 90
-- *su-ho* (see storax), 128, 276
+- Gulf of, 273 sugar, 90 *su-ho* (see storax), 128, 276
 - Suklatirtha, 180
-- Sumatra, 127, 138, 252
-- sumpter-mules, **31**
+- Sumatra, 127, 138, 252 sumpter-mules, **31**
 - Sundara Sātakarni (see Sandares), 198,
 - 199, 200
 - Sungaria, 269
-- Sunium, Cape, 190
-- sun-worship, 162, 163, 211
+- Sunium, Cape, 190 sun-worship, 162, 163, 211
 - Suppara (Shurpāraka), **43**, 175, 197
 - Sur, 91, 147
 - Surāshtra, 174, 176, 184, 185, 188,
@@ -6748,11 +6123,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Sutlej river (Satlaj), 174, 180, 272
 - Suwāt river, 184
 - Swahili language, in E. Africa, **98**,
-- 129
-- sweet rush (cyperus), **31**, 111, 112
-- sweet wood, 13
-- Swiss lake-dwellers, 76
-- swords, **24**, 70
+- 129 sweet rush (cyperus), **31**, 111, 112 sweet wood, 13
+- Swiss lake-dwellers, 76 swords, **24**, 70
 - Syagrus (see Ras Fartak), **33**, **34**,
 - 129, 133, 139, 232
 - Syagrus dates, **158**
@@ -6766,8 +6138,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - 138, 149, 158, 184, 213, 264,
 - 270, 275
 - Syrian Christians, 208
-- Tabæ, **26**, **27**, 86
-- *tabu* (on frankincense gatherers), **145**
+- Tabæ, **26**, **27**, 86 *tabu* (on frankincense gatherers), **145**
 - Tacitus, 219, 265
 - Tagara, **43**, 196
 - Taghdumbash valley, 269
@@ -6776,11 +6147,9 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Taka, 140
 - Takakusu, 213, 275
 - Taksha, 238
-- Takshasilā (see Taxila), 183, 238
-- *tamala* (see malabathrum, cinnamon),
+- Takshasilā (see Taxila), 183, 238 *tamala* (see malabathrum, cinnamon),
 - 216, 279, 281
-- Tamalipti (*To-mo-li-ti*) (see Tamralipti), 272
-- tamarisk, 165
+- Tamalipti (*To-mo-li-ti*) (see Tamralipti), 272 tamarisk, 165
 - Tamil (see Damirica), 176, 197, 204,
 - 205, 207, 208, 209, 211
 - Tāmra-lipti (Tamluk), 249, 255
@@ -6789,8 +6158,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Tana River, 98
 - Tanais river (Don), 277, 278
 - Tanganyika, 88, 99
-- Tanjore, 242
-- tannin, 80
+- Tanjore, 242 tannin, 80
 - Tanutamon, stela of, 78
 - Taprobane (Tāmra-parnī, *Dvīpa-Rāvana*), **47**, 239, 249, 250, 251,
 - 252
@@ -6801,27 +6169,21 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Tashkend, 269
 - Tashkurghan, 269, 281
 - *Ta-ts'in* (Chinese name for Roman
-- Syria), 128, 275, 276, 277
-- routes to, 276, 277
+- Syria), 128, 275, 276, 277 routes to, 276, 277
 - Tavernier, 168, 170, 171, 172, 179,
 - 192, 196, 212, 215, 216, 222,
 - 223, 224, 225, 252, 256, 259,
 - 281
 - Taxila, 69, 185, 270
-- Taylor, Dr., 243, 254, 255, 256
-- teakwood, **36**, 152, 201
+- Taylor, Dr., 243, 254, 255, 256 teakwood, **36**, 152, 201
 - Tehama, 107
 - Tehenu, 61
 - Tell-el-Amarna tablets, 78
 - Tellicherry, 221
 - Telugu, 197, 204
-- Tēr (Thair) (see Tagara), 196
-
-<!-- page: 331 | folio: 321 -->
-- terebinth, 112
+- Tēr (Thair) (see Tagara), 196 [p. 321] terebinth, 112
 - Teredon, 149
-- Terek Pass, 268
-- textile industry, 196, 256-8
+- Terek Pass, 268 textile industry, 196, 256-8
 - Thaguri, 269, 270
 - Thames, 6
 - Thana, 155
@@ -6841,10 +6203,8 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Thoth, **31**
 - Thothmes III, 158
 - *Thousand Nights and One Night, The*,
-- 225
-- throw-sticks, 61
-- Thurston, E., 220
-- thyine wood, 192
+- 225 throw-sticks, 61
+- Thurston, E., 220 thyine wood, 192
 - Tiamat, 138
 - Tian-shan mountains, 261, 268, 269
 - T'iao-chih, 277
@@ -6853,59 +6213,36 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Tibet, 82, 84, 89, 172, 222, 258, 263,
 - 269, 272, 273, 279, 281
 - Tibetans, 253, 266, 278, 279
-- Tibeto-Burman, 254, 255, 278
-- gold of, 258-9
-- trade-route across, 272
-- Tibullus, 191, 255
-- tides, **40**, **41**, 183
+- Tibeto-Burman, 254, 255, 278 gold of, 258-9 trade-route across, 272
+- Tibullus, 191, 255 tides, **40**, **41**, 183
 - *Tien* (see Yunnan), 273
-- *Tien-chu* (see India), 276
-- tigers, **43**, 261, 277
+- *Tien-chu* (see India), 276 tigers, **43**, 261, 277
 - Tiglath-pileser III, 102, 118, 123, 149,
 - 160
 - Tigre, 57, 62, 63, 121
-- Tigris, river, 149
-- timber, 4, 149, 156, 205
-- Timna, 107
-- tin, **33**, **42**, **45**, 77-9, 127, 156, 190,
+- Tigris, river, 149 timber, 4, 149, 156, 205
+- Timna, 107 tin, **33**, **42**, **45**, 77-9, 127, 156, 190,
 - 193, 217, 220, 221
-- Tinnevelly, 211, 212, 234
-- tinsel, 191
+- Tinnevelly, 211, 212, 234 tinsel, 191
 - Tipperah, 259
 - Tīrūr, 234
 - Titianus (see Maës), 269
-- Titus, 11, 102, 103, 220
-- tobacco, 105
-- tobe, Somali, 72
-- toga, Roman, 72
+- Titus, 11, 102, 103, 220 tobacco, 105 tobe, Somali, 72 toga, Roman, 72
 - Togarum, **43**, 201
 - Tokar, 60
 - Tokwina, 84, 85
-- Tonkin, 246
-- sea-trade of, 246
-- topaz, **37**, **42**, **44**, 167-8, 222, 223
+- Tonkin, 246 sea-trade of, 246 topaz, **37**, **42**, **44**, 167-8, 222, 223
 - Tordesillas, treaty of, 55
 - Torr, Cecil, 248
 - Torrend, Rev. J., S. J., his theory
-- of the history of E. African
-- dialects, 98
-- tortoise-shell, 22, 23, **24**, **25**, **26**, **27**,
-- **28**, **29**, 31, 35, **45**, 47, 48, 73,
-- 126, 136, 137, 227, 259, 276
-- tourmaline, 223
-- Tozer, 92, 268, 278
-- trade-winds, navigation dependent
+- of the history of E. African dialects, 98 tortoise-shell, 22, 23, **24**, **25**, **26**, **27**,
+- **28**, **29**, 31, 35, **45**, 47, 48, 73, 126, 136, 137, 227, 259, 276 tourmaline, 223
+- Tozer, 92, 268, 278 trade-winds, navigation dependent
 - upon, 53
-- Trajan, 101, 103, 102, 109, 187, 219, 220
-- trappaga, **40**, 182, 245
+- Trajan, 101, 103, 102, 109, 187, 219, 220 trappaga, **40**, 182, 245
 - Travancore, 80, 152, 172, 194, 204,
-- 205, 211, 212, 213, 234
-- tree-blood (frankincense legend), 128,
-- 130-3, 145, 164
-- tree-spirits, in serpent form, 131
-- tears, **33**, 164
-- worship, 236, 279
-- tree-wool, 75, 179, 265, 266
+- 205, 211, 212, 213, 234 tree-blood (frankincense legend), 128,
+- 130-3, 145, 164 tree-spirits, in serpent form, 131 tears, **33**, 164 worship, 236, 279 tree-wool, 75, 179, 265, 266
 - Trichinopoly, 241, 242
 - Trivandrum, 234
 - Troglodytes, 58, 83
@@ -6919,24 +6256,16 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - *Tsung-ling* (see Pamirs), 269
 - Tsybikoff, 273
 - Tubba ibn Hassan, 107
-- Tulu, 204, 205
-- tunics, **25**
+- Tulu, 204, 205 tunics, **25**
 - Tunis, 168
 - Turanian-Hamitic system, 163
-- Turanian trade, 172
-- race, 253
-- turbit, 273
+- Turanian trade, 172 race, 253 turbit, 273
 - Turfan, 268
 - Turiasso, 70
 - Turkestan, 8, 11, 172, 176, 183, **223**,
-- **235**, 257, **263**, *265*, 269, **272**,
-- 273, **274**
-- trade-routes, 269, 272, 274, 275
+- **235**, 257, **263**, *265*, 269, **272**, 273, **274** trade-routes, 269, 272, 274, 275
 - Turks, 172, 184, 185, 266
-- Turkharas, 257
-- turmeric, 112
-- turpentine, 80
-- turquoise, **38**, 170, 223
+- Turkharas, 257 turmeric, 112 turpentine, 80 turquoise, **38**, 170, 223
 - Tuticorin, 215, 237
 - Tybis, 234
 - Tylor, E., 236
@@ -6950,8 +6279,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Ubulu (Obollah, Apologus, Obal), 74, 149
 - Uganda, 57
 - Ujjain, Ujjenī, Ujjayinī (see Ozene), 10, 65, 187, 188, 199, 236
-- Uknu river, 149
-- ultramarine, 170, 171, 223
+- Uknu river, 149 ultramarine, 170, 171, 223
 - U. S. Dept. of Agriculture, 258
 - *Unya-muézi*, 230
 - *Upanishad*,
@@ -6960,8 +6288,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Urania, 132
 - Uru, 162
 - Urumtsi, 268
-- Ushas, 229
-- ushu-wood, 123, 128
+- Ushas, 229 ushu-wood, 123, 128
 - Usúu, 128
 - Uthek, 121
 - Uthīrat = Osiris, 132
@@ -6971,8 +6298,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Valiyar river, 241
 - Van den Berg, L. W. C., 119, 127, 145
 - Vanji, 205
-- Varkkallai (see Balita, Pyrrhon), 234, 235
-- varnish, 263
+- Varkkallai (see Balita, Pyrrhon), 234, 235 varnish, 263
 - Varthema, 212
 - Varuna, 229
 - Vasco da Gama, 227
@@ -6980,11 +6306,9 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - *Vedas*, 229, 235, 257, 281
 - Vengurla Rocks (see Sesecrienæ), 202
 - Venice, Venetians, 70, 214
-- Venus, 123
-- vermilion, 73, 192, 215
+- Venus, 123 vermilion, 73, 192, 215
 - Vespasian, 12, 13, 220
-- Vespucci, 3, 55
-- vessels, 13, 31, 104, 214
+- Vespucci, 3, 55 vessels, 13, 31, 104, 214
 - Victoria Nyanza, 87, 88, 230
 - Vignoli, 215
 - Vijaya, 249
@@ -6994,9 +6318,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Vikramapura, Bikrampur, 255
 - Vilivāyakura II, 197, 235
 - Vincent, 8, 18, 19, 84, 94, 104, 108, 144, 148, 169, 171, 179, 181, 201, 202, 216, 259, 272
-- Vindhya mountains, 188, 197, 201, 224
-- vine, **34**, 75, 76, 77
-- vinegar, 111, 240
+- Vindhya mountains, 188, 197, 201, 224 vine, **34**, 75, 76, 77 vinegar, 111, 240
 - Vinukonda, 196
 - Virgil, 76, 87, 123, 125, 135, 153, 216, 226, 266, 271
 - Vishnu, 138, 235, 238, 253
@@ -7004,9 +6326,7 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Vivien de Saint-Martin, 81
 - Vizadrog, Vijayadurga (see Byzantium), 201
 - Vogüé, Melchior de, 103
-- Volturnus, 68
-- votive offerings, 66
-- vulture, 142
+- Volturnus, 68 votive offerings, 66 vulture, 142
 - Waddell, 273
 - Wadi Dirbat, 140
 - Wadi ed Dawâsir, 149, 150, 160
@@ -7020,21 +6340,17 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Wadi Tyin, 148, 237
 - Wadi Yabrin, 150, 160
 - Wahind canal, 174
-- Wassáf, 248
-- water, 111
+- Wassáf, 248 water, 111
 - Waters of Death, 135
 - Watt, 73, 76, 80, 81, 83, 84, 99, 148, 151, 152, 153, 164, 169, 172, 176, 177, 178, 188, 193, 194, 215, 222, 224, 256, 259, 264
-- Wa-wat, 57, 121
-- weasel, 257
+- Wa-wat, 57, 121 weasel, 257
 - Weber, 108, 109, 119
 - Wei river, 261
 - Weï, 261
 - Wellhausen, 143
 - Wellsted, 119, 137, 139, 143, 145, 148, 162
 - Western Ghāts, 196
-- Western India, 152, 153, 172, 192, 197, 230, 271
-- whale-fishery, 155, 162
-- wheat, 13, **27**, **28**, **31**, **33**, **34**, **35**, **37**, **39**, **45**, 76, 127, 176, 178, 221
+- Western India, 152, 153, 172, 192, 197, 230, 271 whale-fishery, 155, 162 wheat, 13, **27**, **28**, **31**, **33**, **34**, **35**, **37**, **39**, **45**, 76, 127, 176, 178, 221
 - White Island, **44**, 203
 - White Village (*Leukê Komê*), **29**, 101
 - Whitman, Walt, 183
@@ -7044,17 +6360,12 @@ References to the text are in **bold-faced type**; to the notes in light-faced
 - Willis, Bailey, 262
 - Wilmot, A., 97
 - Wilson, 209
-- Wilson, C. R., 200
-- winds,
+- Wilson, C. R., 200 winds,
 - Indian Etesian, **38**, **45**
-- Hippalus, **45**
-- wine, 13, **24**, **28**, **31**, **33**, **36**, **37**, **38**, **42**, **45**, 77, 111, 112, 122, 127, 151, 157, 158, 164, 190, 191, 192
+- Hippalus, **45** wine, 13, **24**, **28**, **31**, **33**, **36**, **37**, **38**, **42**, **45**, 77, 111, 112, 122, 127, 151, 157, 158, 164, 190, 191, 192
 - Arabian, **42**, 77
 - Calenian, 77
-- Falernian, 77
-
-<!-- page: 333 | folio: 323 -->
-- wine—continued
+- Falernian, 77 [p. 323] wine—continued
 - Italian, **24**, 77
 - Laodicean, **24**, **42**, **77**
 - Statanian, 77

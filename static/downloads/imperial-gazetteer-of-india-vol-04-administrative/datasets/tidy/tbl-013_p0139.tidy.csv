@@ -1,0 +1,55 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,2,data,(a) Northern Shan States,Hsīpaw (Thī- baw),2,Area in square miles.,"5,086",5086.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,2,data,(a) Northern Shan States,Hsīpaw (Thī- baw),3,Population in 1901.,"104,700, Buddhists.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,2,data,(a) Northern Shan States,Hsīpaw (Thī- baw),4,Approxi- mate revenue (in lakhs of rupees).,3,3.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,2,data,(a) Northern Shan States,Hsīpaw (Thī- baw),5,"Title, race, and religion of Ruler.","Sawbwa, Shan : Buddhist.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,2,data,(a) Northern Shan States,Hsīpaw (Thī- baw),6,Salute of Ruler in guns.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,2,data,(a) Northern Shan States,Hsīpaw (Thī- baw),7,Designation of local Political Officer.,"Superintendent, Northern Shan States.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,3,data,(a) Northern Shan States,5 Minor States,2,Area in square miles.,"9,508",9508.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,3,data,(a) Northern Shan States,5 Minor States,3,Population in 1901.,"216,390 „",216390.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,3,data,(a) Northern Shan States,5 Minor States,4,Approxi- mate revenue (in lakhs of rupees).,2,2.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,3,data,(a) Northern Shan States,5 Minor States,5,"Title, race, and religion of Ruler.",. . . .,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,3,data,(a) Northern Shan States,5 Minor States,6,Salute of Ruler in guns.,.,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,3,data,(a) Northern Shan States,5 Minor States,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,5,data,(b) Southern Shan States,Kengtung,2,Area in square miles.,"12,000",12000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,5,data,(b) Southern Shan States,Kengtung,3,Population in 1901.,"190,698 „",190698.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,5,data,(b) Southern Shan States,Kengtung,4,Approxi- mate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,5,data,(b) Southern Shan States,Kengtung,5,"Title, race, and religion of Ruler.","Sawbwa, Shan : Buddhist.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,5,data,(b) Southern Shan States,Kengtung,6,Salute of Ruler in guns.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,5,data,(b) Southern Shan States,Kengtung,7,Designation of local Political Officer.,"Superintendent, Southern Shan States.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,6,data,(b) Southern Shan States,Möngnai,2,Area in square miles.,"2,717",2717.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,6,data,(b) Southern Shan States,Möngnai,3,Population in 1901.,"44,252 „",44252.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,6,data,(b) Southern Shan States,Möngnai,4,Approxi- mate revenue (in lakhs of rupees).,1/2,0.5,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,6,data,(b) Southern Shan States,Möngnai,5,"Title, race, and religion of Ruler.","Sawbwa, Shan : Buddhist.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,6,data,(b) Southern Shan States,Möngnai,6,Salute of Ruler in guns.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,6,data,(b) Southern Shan States,Möngnai,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,7,data,(b) Southern Shan States,Yawnghwe,2,Area in square miles.,"2,400",2400.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,7,data,(b) Southern Shan States,Yawnghwe,3,Population in 1901.,"95,339 „",95339.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,7,data,(b) Southern Shan States,Yawnghwe,4,Approxi- mate revenue (in lakhs of rupees).,1 1/2,1.5,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,7,data,(b) Southern Shan States,Yawnghwe,5,"Title, race, and religion of Ruler.","Sawbwa, Shan : Buddhist.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,7,data,(b) Southern Shan States,Yawnghwe,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,7,data,(b) Southern Shan States,Yawnghwe,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,8,data,(b) Southern Shan States,35 Minor States,2,Area in square miles.,"21,374",21374.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,8,data,(b) Southern Shan States,35 Minor States,3,Population in 1901.,"440,270, Buddhists and Animists.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,8,data,(b) Southern Shan States,35 Minor States,4,Approxi- mate revenue (in lakhs of rupees).,4,4.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,8,data,(b) Southern Shan States,35 Minor States,5,"Title, race, and religion of Ruler.",. . . .,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,8,data,(b) Southern Shan States,35 Minor States,6,Salute of Ruler in guns.,.,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,8,data,(b) Southern Shan States,35 Minor States,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,9,data,(b) Southern Shan States,(c) 5 Karen States,2,Area in square miles.,"4,830",4830.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,9,data,(b) Southern Shan States,(c) 5 Karen States,3,Population in 1901.,"45,795 „",45795.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,9,data,(b) Southern Shan States,(c) 5 Karen States,4,Approxi- mate revenue (in lakhs of rupees).,1/2,0.5,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,9,data,(b) Southern Shan States,(c) 5 Karen States,5,"Title, race, and religion of Ruler.",. . . .,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,9,data,(b) Southern Shan States,(c) 5 Karen States,6,Salute of Ruler in guns.,.,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,9,data,(b) Southern Shan States,(c) 5 Karen States,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,10,data,(b) Southern Shan States,(d) 3 Minor States under separate po- litical con- trol,2,Area in square miles.,"9,096",9096.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,10,data,(b) Southern Shan States,(d) 3 Minor States under separate po- litical con- trol,3,Population in 1901.,"40,543",40543.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,10,data,(b) Southern Shan States,(d) 3 Minor States under separate po- litical con- trol,4,Approxi- mate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,10,data,(b) Southern Shan States,(d) 3 Minor States under separate po- litical con- trol,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,10,data,(b) Southern Shan States,(d) 3 Minor States under separate po- litical con- trol,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,10,data,(b) Southern Shan States,(d) 3 Minor States under separate po- litical con- trol,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,11,total,,TOTAL (approximate),2,Area in square miles.,"67,011",67011.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,11,total,,TOTAL (approximate),3,Population in 1901.,"1,177,987",1177987.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,11,total,,TOTAL (approximate),4,Approxi- mate revenue (in lakhs of rupees).,13 1/2,13.5,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,11,total,,TOTAL (approximate),5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,11,total,,TOTAL (approximate),6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-013,(f) Burma (52 States),139,101,11,total,,TOTAL (approximate),7,Designation of local Political Officer.,,,,True,True

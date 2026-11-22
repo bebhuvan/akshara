@@ -1,6 +1,6 @@
 ---
 title: "England's Debt to India"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Historical Narrative of Britain's Fiscal Policy in India"
 author: "Lala Lajpat Rai"
 author_slug: "lala-lajpat-rai"
@@ -272,7 +272,7 @@ tables_list:
   - table_id: "tbl-023"
     caption: "Ships Built at Indian Ports"
     printed_folio: "171"
-    rows: 35
+    rows: 36
     cols: 11
     diplomatic_csv: "/downloads/englands-debt-to-india-lajpat-rai-1917/datasets/tables/tbl-023_p0211.csv"
     tidy_csv: "/downloads/englands-debt-to-india-lajpat-rai-1917/datasets/tidy/tbl-023_p0211.tidy.csv"

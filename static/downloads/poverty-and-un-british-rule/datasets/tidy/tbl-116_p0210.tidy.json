@@ -354,7 +354,7 @@
     "column_index": 6,
     "column_header": "Per Cent.",
     "raw_text": "11·8",
-    "value_numeric": null,
+    "value_numeric": 11.8,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -444,7 +444,7 @@
     "column_index": 6,
     "column_header": "Per Cent.",
     "raw_text": "11·4",
-    "value_numeric": null,
+    "value_numeric": 11.4,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false

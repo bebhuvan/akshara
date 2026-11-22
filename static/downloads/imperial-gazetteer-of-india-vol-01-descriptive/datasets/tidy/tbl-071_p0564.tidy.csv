@@ -1,0 +1,81 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,2,PRESIDENCY ARMY. :: Bengal.,70·6,70.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,3,PRESIDENCY ARMY. :: Bombay.,78·2,78.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,4,PRESIDENCY ARMY. :: Madras.,37·5,37.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,5,ALL INDIA.,54·7,54.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,6,Column 6,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,7,Column 7,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,8,Column 8,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,1,data,,1770–1800,9,Column 9,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,2,PRESIDENCY ARMY. :: Bengal.,80·6,80.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,3,PRESIDENCY ARMY. :: Bombay.,95·4,95.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,4,PRESIDENCY ARMY. :: Madras.,84·3,84.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,5,ALL INDIA.,84·6,84.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,6,Column 6,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,7,Column 7,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,8,Column 8,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,2,data,,1801–30,9,Column 9,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,2,PRESIDENCY ARMY. :: Bengal.,69·6,69.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,3,PRESIDENCY ARMY. :: Bombay.,50·4,50.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,4,PRESIDENCY ARMY. :: Madras.,47·3,47.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,5,ALL INDIA.,57·7,57.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,6,Column 6,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,7,Column 7,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,8,Column 8,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,3,data,,1831–56,9,Column 9,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,2,PRESIDENCY ARMY. :: Bengal.,Period.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,3,PRESIDENCY ARMY. :: Bombay.,Fevers.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,4,PRESIDENCY ARMY. :: Madras.,Dysentery and diarrhoea.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,5,ALL INDIA.,Cholera.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,6,Column 6,Hepatitis.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,7,Column 7,Phthisis pulmonalis.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,8,Column 8,Other diseases.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,4,header,,PRESIDENCY ARMY,9,Column 9,All causes.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,2,PRESIDENCY ARMY. :: Bengal.,1812–31,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,3,PRESIDENCY ARMY. :: Bombay.,29·7,29.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,4,PRESIDENCY ARMY. :: Madras.,19·3,19.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,5,ALL INDIA.,8·5,8.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,6,Column 6,4·3,4.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,7,Column 7,2·6,2.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,8,Column 8,11·5,11.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,5,data,,Bengal,9,Column 9,75·9,75.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,2,PRESIDENCY ARMY. :: Bengal.,1832–52,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,3,PRESIDENCY ARMY. :: Bombay.,13·6,13.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,4,PRESIDENCY ARMY. :: Madras.,14·3,14.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,5,ALL INDIA.,10·4,10.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,6,Column 6,4·0,4.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,7,Column 7,1·8,1.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,8,Column 8,20·0,20.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,6,data,,Row 6,9,Column 9,64·1,64.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,2,PRESIDENCY ARMY. :: Bengal.,1803–27,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,3,PRESIDENCY ARMY. :: Bombay.,10·8,10.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,4,PRESIDENCY ARMY. :: Madras.,19·9,19.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,5,ALL INDIA.,5·4,5.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,6,Column 6,4·2,4.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,7,Column 7,1·6,1.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,8,Column 8,22·7,22.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,7,data,,Bombay,9,Column 9,65·6,65.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,2,PRESIDENCY ARMY. :: Bengal.,1828–53,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,3,PRESIDENCY ARMY. :: Bombay.,10·6,10.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,4,PRESIDENCY ARMY. :: Madras.,12·8,12.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,5,ALL INDIA.,10·0,10.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,6,Column 6,4·1,4.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,7,Column 7,1·4,1.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,8,Column 8,11·7,11.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,8,data,,Row 8,9,Column 9,50·7,50.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,2,PRESIDENCY ARMY. :: Bengal.,1829–38,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,3,PRESIDENCY ARMY. :: Bombay.,4·8,4.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,4,PRESIDENCY ARMY. :: Madras.,13·3,13.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,5,ALL INDIA.,7·4,7.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,6,Column 6,5·2,5.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,7,Column 7,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,8,Column 8,14·3,14.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,9,data,,Madras,9,Column 9,45·0,45.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,2,PRESIDENCY ARMY. :: Bengal.,1841–52,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,3,PRESIDENCY ARMY. :: Bombay.,2·8,2.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,4,PRESIDENCY ARMY. :: Madras.,8·0,8.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,5,ALL INDIA.,6·4,6.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,6,Column 6,2·9,2.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,7,Column 7,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,8,Column 8,11·9,11.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-071,Table 71,564,526,10,data,,Row 10,9,Column 9,32·0,32.0,,False,False

@@ -192,7 +192,7 @@
     "column_index": 3,
     "column_header": "Percentage of cultivated area under usufructuary mortgage. :: 3",
     "raw_text": "13·5",
-    "value_numeric": null,
+    "value_numeric": 13.5,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -354,7 +354,7 @@
     "column_index": 3,
     "column_header": "Percentage of cultivated area under usufructuary mortgage. :: 3",
     "raw_text": "13·3",
-    "value_numeric": null,
+    "value_numeric": 13.3,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -516,7 +516,7 @@
     "column_index": 3,
     "column_header": "Percentage of cultivated area under usufructuary mortgage. :: 3",
     "raw_text": "11·5",
-    "value_numeric": null,
+    "value_numeric": 11.5,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false

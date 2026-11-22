@@ -1,6 +1,6 @@
 ---
 title: "Economics in India"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Inaugural Lecture Delivered at the University of Allahabad"
 author: "H. Stanley Jevons"
 author_slug: "h-stanley-jevons"

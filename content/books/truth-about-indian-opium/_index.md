@@ -1,6 +1,6 @@
 ---
 title: "The Truth About Indian Opium"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "G. Graham Dixon, Great Britain. India Office"
 author_slug: "g-graham-dixon"

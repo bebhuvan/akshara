@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,1,data,,"VII. Food, drink, and stimulants",2,"Persons supported, in thousands.","16,759",16759.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,2,data,,"VIII. Light, firing, and forage",2,"Persons supported, in thousands.","1,461",1461.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,3,data,,IX. Buildings,2,"Persons supported, in thousands.","1,580",1580.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,4,data,,X. Vehicles and vessels,2,"Persons supported, in thousands.",132,132.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,5,data,,XI. Supplementary requirements,2,"Persons supported, in thousands.","1,232",1232.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,6,data,,XII. Textile fabrics and dress,2,"Persons supported, in thousands.","11,214",11214.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,7,data,,XIII. Metals and precious stones,2,"Persons supported, in thousands.","3,711",3711.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,8,data,,"XIV. Glass, earthen and stoneware",2,"Persons supported, in thousands.","2,143",2143.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,9,data,,"XV. Wood, cane, leaves, &c",2,"Persons supported, in thousands.","3,790",3790.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,10,data,,"XVI. Drugs, gums, dyes, &c",2,"Persons supported, in thousands.",456,456.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-019,Table 19,293,251,11,data,,"XVII. Leather, &c",2,"Persons supported, in thousands.","3,242’",,,False,False

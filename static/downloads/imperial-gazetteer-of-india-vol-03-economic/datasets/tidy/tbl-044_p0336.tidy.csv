@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,336,294,1,data,,Twist and yarn,2,Crores of rupees.,2·30,2.3,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,336,294,2,data,,Grey (unbleached) goods,2,Crores of rupees.,16·27,16.27,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,336,294,3,data,,White (bleached) goods,2,Crores of rupees.,8·00,8.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,336,294,4,data,,"Coloured and dyed goods, including prints and chintz",2,Crores of rupees.,8·30,8.3,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,337,294,5,data,,Metals,2,Crores of rupees.,6·09,6.09,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,337,294,6,data,,Machinery,2,Crores of rupees.,3·83,3.83,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,337,294,7,data,,Railway material,2,Crores of rupees.,1·26,1.26,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,337,294,8,data,,Hardware and cutlery,2,Crores of rupees.,1·57,1.57,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,337,294,9,data,,Apparel,2,Crores of rupees.,1·15,1.15,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-044,Table 44,337,294,10,data,,Woollen goods,2,Crores of rupees.,1·73,1.73,Rs,False,False

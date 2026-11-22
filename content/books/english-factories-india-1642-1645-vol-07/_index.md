@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1642–1645"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Calendar of Documents in the India Office, Etc."
 author: "William Foster"
 author_slug: "william-foster"
@@ -45,7 +45,7 @@ provenance_statement: "Machine-checked; 9 of 381 pages had flagged passages re-r
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 8 fixes · 9 pp. checked"
+  - "Scan-Triaged: 10 fixes · 9 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 1 Structured (No Printed Totals)"
 taxonomy_diplomatic:
@@ -124,7 +124,7 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.6-flash` (1 pp.), `gemini-3.8-flash` (380 pp.).
   - **Reader**: Read by gemini-3.8-flash on 380 of 381 pages, gemini-3.6-flash on 1 of 381 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 8 replayed correction(s). Machine-checked; 9 of 381 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 10 replayed correction(s). Machine-checked; 9 of 381 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

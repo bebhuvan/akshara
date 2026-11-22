@@ -1,0 +1,285 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,1,subheader,,Punjab,2,Name of Work.,Major Works.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,1,subheader,,Punjab,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,1,subheader,,Punjab,4,"Area irrigated during 1902-3, in acres.",,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,1,subheader,,Punjab,5,Percentage of net revenue for 1902-3 to capital outlay.,,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,2,data,,Row 2,2,Name of Work.,Western Jumna Canal (including Patiāla section) . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,2,data,,Row 2,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,84",184.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,2,data,,Row 2,4,"Area irrigated during 1902-3, in acres.","595,229",595229.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,2,data,,Row 2,5,Percentage of net revenue for 1902-3 to capital outlay.,7·7,7.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,3,data,,Row 3,2,Name of Work.,Bāri Doāb Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,3,data,,Row 3,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,96",196.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,3,data,,Row 3,4,"Area irrigated during 1902-3, in acres.","893,862",893862.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,3,data,,Row 3,5,Percentage of net revenue for 1902-3 to capital outlay.,12·9,12.9,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,4,data,,Row 4,2,Name of Work.,Sirhind Canal (including Native States) .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,4,data,,Row 4,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","3,87",387.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,4,data,,Row 4,4,"Area irrigated during 1902-3, in acres.","1,112,425",1112425.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,4,data,,Row 4,5,Percentage of net revenue for 1902-3 to capital outlay.,4·4,4.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,5,data,,Row 5,2,Name of Work.,Upper Sutlej (including Lower Sohāg and Pāra Canal) .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,5,data,,Row 5,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",17,17.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,5,data,,Row 5,4,"Area irrigated during 1902-3, in acres.","233,887",233887.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,5,data,,Row 5,5,Percentage of net revenue for 1902-3 to capital outlay.,6·3,6.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,6,data,,Row 6,2,Name of Work.,Chenāb Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,6,data,,Row 6,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,75",275.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,6,data,,Row 6,4,"Area irrigated during 1902-3, in acres.","1,829,169",1829169.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,6,data,,Row 6,5,Percentage of net revenue for 1902-3 to capital outlay.,21·3,21.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,7,data,,Row 7,2,Name of Work.,Sidhnai Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,7,data,,Row 7,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",13,13.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,7,data,,Row 7,4,"Area irrigated during 1902-3, in acres.","60,791",60791.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,7,data,,Row 7,5,Percentage of net revenue for 1902-3 to capital outlay.,3·9,3.9,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,8,data,,Row 8,2,Name of Work.,Jhelum Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,8,data,,Row 8,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,15",115.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,8,data,,Row 8,4,"Area irrigated during 1902-3, in acres.","138,911",138911.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,8,data,,Row 8,5,Percentage of net revenue for 1902-3 to capital outlay.,– 1·0,-1.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,9,subtotal,,Row 9,2,Name of Work.,Total Major Works 3 Minor Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,9,subtotal,,Row 9,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","11,87 13",,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,9,subtotal,,Row 9,4,"Area irrigated during 1902-3, in acres.","4,864,274 235,087",,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,9,subtotal,,Row 9,5,Percentage of net revenue for 1902-3 to capital outlay.,9·7 8·0,,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,10,total,,Row 10,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,10,total,,Row 10,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","12,00",1200.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,10,total,,Row 10,4,"Area irrigated during 1902-3, in acres.","5,099,361",5099361.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,10,total,,Row 10,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,11,data,,North-West Frontier Province,2,Name of Work.,Swāt River Canal (Major Work) .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,11,data,,North-West Frontier Province,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",42,42.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,11,data,,North-West Frontier Province,4,"Area irrigated during 1902-3, in acres.","173,772",173772.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,11,data,,North-West Frontier Province,5,Percentage of net revenue for 1902-3 to capital outlay.,10·6,10.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,12,data,,Row 12,2,Name of Work.,1 Minor Work . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,12,data,,Row 12,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",5,5.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,12,data,,Row 12,4,"Area irrigated during 1902-3, in acres.",..,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,12,data,,Row 12,5,Percentage of net revenue for 1902-3 to capital outlay.,23·0,23.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,13,total,,Row 13,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,13,total,,Row 13,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",47,47.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,13,total,,Row 13,4,"Area irrigated during 1902-3, in acres.","173,772",173772.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,13,total,,Row 13,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,14,subheader,,Sind,2,Name of Work.,Major Works.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,14,subheader,,Sind,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,14,subheader,,Sind,4,"Area irrigated during 1902-3, in acres.",,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,14,subheader,,Sind,5,Percentage of net revenue for 1902-3 to capital outlay.,,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,15,data,,Row 15,2,Name of Work.,Desert Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,15,data,,Row 15,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",26,26.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,15,data,,Row 15,4,"Area irrigated during 1902-3, in acres.","187,061",187061.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,15,data,,Row 15,5,Percentage of net revenue for 1902-3 to capital outlay.,3·7,3.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,16,data,,Row 16,2,Name of Work.,Unar Wah Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,16,data,,Row 16,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",6,6.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,16,data,,Row 16,4,"Area irrigated during 1902-3, in acres.","64,350",64350.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,16,data,,Row 16,5,Percentage of net revenue for 1902-3 to capital outlay.,11·6,11.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,17,data,,Row 17,2,Name of Work.,Begāri Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,17,data,,Row 17,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",17,17.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,17,data,,Row 17,4,"Area irrigated during 1902-3, in acres.","225,612",225612.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,17,data,,Row 17,5,Percentage of net revenue for 1902-3 to capital outlay.,15·8,15.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,18,data,,Row 18,2,Name of Work.,Eastern Nāra Works .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,18,data,,Row 18,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",64,64.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,18,data,,Row 18,4,"Area irrigated during 1902-3, in acres.","256,938",256938.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,18,data,,Row 18,5,Percentage of net revenue for 1902-3 to capital outlay.,6·8,6.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,19,data,,Row 19,2,Name of Work.,Jāmrao Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,19,data,,Row 19,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",83,83.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,19,data,,Row 19,4,"Area irrigated during 1902-3, in acres.","269,358",269358.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,19,data,,Row 19,5,Percentage of net revenue for 1902-3 to capital outlay.,3·8,3.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,20,data,,Row 20,2,Name of Work.,Dad Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,20,data,,Row 20,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",21,21.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,20,data,,Row 20,4,"Area irrigated during 1902-3, in acres.","60,256",60256.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,20,data,,Row 20,5,Percentage of net revenue for 1902-3 to capital outlay.,– 1·2,-1.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,21,data,,Row 21,2,Name of Work.,Mahi Wah Project .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,21,data,,Row 21,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",10,10.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,21,data,,Row 21,4,"Area irrigated during 1902-3, in acres.","8,426",8426.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,21,data,,Row 21,5,Percentage of net revenue for 1902-3 to capital outlay.,– 2·0,-2.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,22,subtotal,,Row 22,2,Name of Work.,Total Major Works 8 Minor Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,22,subtotal,,Row 22,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,27 42",,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,22,subtotal,,Row 22,4,"Area irrigated during 1902-3, in acres.","1,072,001 794,530",,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,22,subtotal,,Row 22,5,Percentage of net revenue for 1902-3 to capital outlay.,5·0 20·5,,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,23,total,,Row 23,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,23,total,,Row 23,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,69",269.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,23,total,,Row 23,4,"Area irrigated during 1902-3, in acres.","1,866,531",1866531.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,23,total,,Row 23,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,24,subheader,,Bombay(Deccan and Gujarāt),2,Name of Work.,Major Works.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,24,subheader,,Bombay(Deccan and Gujarāt),3,"Capital outlay to end of 1902-3, in lakhs of rupees.",,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,24,subheader,,Bombay(Deccan and Gujarāt),4,"Area irrigated during 1902-3, in acres.",,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,24,subheader,,Bombay(Deccan and Gujarāt),5,Percentage of net revenue for 1902-3 to capital outlay.,,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,25,data,,Row 25,2,Name of Work.,Hāthmathi Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,25,data,,Row 25,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",5,5.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,25,data,,Row 25,4,"Area irrigated during 1902-3, in acres.",287,287.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,25,data,,Row 25,5,Percentage of net revenue for 1902-3 to capital outlay.,– 1·2,-1.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,26,data,,Row 26,2,Name of Work.,Lower Pānjhra River Works . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,26,data,,Row 26,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",5,5.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,26,data,,Row 26,4,"Area irrigated during 1902-3, in acres.","2,503",2503.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,26,data,,Row 26,5,Percentage of net revenue for 1902-3 to capital outlay.,1·5,1.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,27,data,,Row 27,2,Name of Work.,Kādva River Works .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,27,data,,Row 27,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",8,8.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,27,data,,Row 27,4,"Area irrigated during 1902-3, in acres.","2,775",2775.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,27,data,,Row 27,5,Percentage of net revenue for 1902-3 to capital outlay.,0·2,0.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,28,data,,Row 28,2,Name of Work.,Lākh Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,28,data,,Row 28,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",4,4.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,28,data,,Row 28,4,"Area irrigated during 1902-3, in acres.","1,206",1206.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,28,data,,Row 28,5,Percentage of net revenue for 1902-3 to capital outlay.,– 0·3,-0.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,29,data,,Row 29,2,Name of Work.,Muthā Canals . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,29,data,,Row 29,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",68,68.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,29,data,,Row 29,4,"Area irrigated during 1902-3, in acres.","8,101",8101.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,29,data,,Row 29,5,Percentage of net revenue for 1902-3 to capital outlay.,2·4,2.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,30,data,,Row 30,2,Name of Work.,Ekrūk Tank . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,30,data,,Row 30,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",13,13.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,30,data,,Row 30,4,"Area irrigated during 1902-3, in acres.","2,030",2030.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,30,data,,Row 30,5,Percentage of net revenue for 1902-3 to capital outlay.,0·5,0.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,31,data,,Row 31,2,Name of Work.,Kistna Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,31,data,,Row 31,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",8,8.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,31,data,,Row 31,4,"Area irrigated during 1902-3, in acres.","5,963",5963.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,31,data,,Row 31,5,Percentage of net revenue for 1902-3 to capital outlay.,3·7,3.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,32,data,,Row 32,2,Name of Work.,Mhasvād Tank .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,32,data,,Row 32,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",21,21.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,32,data,,Row 32,4,"Area irrigated during 1902-3, in acres.","4,075",4075.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,32,data,,Row 32,5,Percentage of net revenue for 1902-3 to capital outlay.,0·02,0.02,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,33,data,,Row 33,2,Name of Work.,Nīra Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,33,data,,Row 33,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",57,57.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,33,data,,Row 33,4,"Area irrigated during 1902-3, in acres.","35,102",35102.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,33,data,,Row 33,5,Percentage of net revenue for 1902-3 to capital outlay.,3·1,3.1,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,34,data,,Row 34,2,Name of Work.,Shetphal Tank .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,34,data,,Row 34,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",7,7.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,34,data,,Row 34,4,"Area irrigated during 1902-3, in acres.",216,216.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,34,data,,Row 34,5,Percentage of net revenue for 1902-3 to capital outlay.,0·02,0.02,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,35,subtotal,,Row 35,2,Name of Work.,Total Major Works 26 Minor Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,35,subtotal,,Row 35,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,96 76",,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,35,subtotal,,Row 35,4,"Area irrigated during 1902-3, in acres.","62,258 38,237",,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,35,subtotal,,Row 35,5,Percentage of net revenue for 1902-3 to capital outlay.,1·9 0·4,,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,36,total,,Row 36,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,36,total,,Row 36,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,72",272.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,36,total,,Row 36,4,"Area irrigated during 1902-3, in acres.","100,495",100495.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,373,331,36,total,,Row 36,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,37,subheader,,Madras,2,Name of Work.,Major Works.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,37,subheader,,Madras,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,37,subheader,,Madras,4,"Area irrigated during 1902-3, in acres.",,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,37,subheader,,Madras,5,Percentage of net revenue for 1902-3 to capital outlay.,,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,38,data,,Row 38,2,Name of Work.,Godāvari Delta System,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,38,data,,Row 38,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,34",134.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,38,data,,Row 38,4,"Area irrigated during 1902-3, in acres.","810,634",810634.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,38,data,,Row 38,5,Percentage of net revenue for 1902-3 to capital outlay.,18.4,18.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,39,data,,Row 39,2,Name of Work.,Kistna Delta System .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,39,data,,Row 39,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,44",144.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,39,data,,Row 39,4,"Area irrigated during 1902-3, in acres.","627,850",627850.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,39,data,,Row 39,5,Percentage of net revenue for 1902-3 to capital outlay.,15.8,15.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,40,data,,Row 40,2,Name of Work.,Penner River Canals .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,40,data,,Row 40,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",63,63.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,40,data,,Row 40,4,"Area irrigated during 1902-3, in acres.","163,641",163641.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,40,data,,Row 40,5,Percentage of net revenue for 1902-3 to capital outlay.,5.0,5.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,41,data,,Row 41,2,Name of Work.,Cauvery Delta System,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,41,data,,Row 41,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",31,31.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,41,data,,Row 41,4,"Area irrigated during 1902-3, in acres.","982,356",982356.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,41,data,,Row 41,5,Percentage of net revenue for 1902-3 to capital outlay.,28.5,28.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,42,data,,Row 42,2,Name of Work.,Srīvaikuntam Anicut System . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,42,data,,Row 42,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",15,15.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,42,data,,Row 42,4,"Area irrigated during 1902-3, in acres.","44,526",44526.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,42,data,,Row 42,5,Percentage of net revenue for 1902-3 to capital outlay.,6.1,6.1,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,43,data,,Row 43,2,Name of Work.,Kurnool-Cuddapah Canal . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,43,data,,Row 43,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,17",217.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,43,data,,Row 43,4,"Area irrigated during 1902-3, in acres.","60,154",60154.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,43,data,,Row 43,5,Percentage of net revenue for 1902-3 to capital outlay.,0.5,0.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,44,data,,Row 44,2,Name of Work.,Barūr Tank . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,44,data,,Row 44,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",4,4.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,44,data,,Row 44,4,"Area irrigated during 1902-3, in acres.","5,325",5325.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,44,data,,Row 44,5,Percentage of net revenue for 1902-3 to capital outlay.,1.4,1.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,45,data,,Row 45,2,Name of Work.,Periyār Project . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,45,data,,Row 45,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",90,90.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,45,data,,Row 45,4,"Area irrigated during 1902-3, in acres.","154,068",154068.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,45,data,,Row 45,5,Percentage of net revenue for 1902-3 to capital outlay.,3.6,3.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,46,data,,Row 46,2,Name of Work.,Rushikulya Project .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,46,data,,Row 46,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",49,49.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,46,data,,Row 46,4,"Area irrigated during 1902-3, in acres.","92,399",92399.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,46,data,,Row 46,5,Percentage of net revenue for 1902-3 to capital outlay.,0.6,0.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,47,subtotal,,Row 47,2,Name of Work.,Total Major Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,47,subtotal,,Row 47,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","7,47",747.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,47,subtotal,,Row 47,4,"Area irrigated during 1902-3, in acres.","2,940,953",2940953.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,47,subtotal,,Row 47,5,Percentage of net revenue for 1902-3 to capital outlay.,8.7,8.7,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,48,data,,Row 48,2,Name of Work.,28 Minor Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,48,data,,Row 48,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","1,05",105.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,48,data,,Row 48,4,"Area irrigated during 1902-3, in acres.","584,081",584081.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,48,data,,Row 48,5,Percentage of net revenue for 1902-3 to capital outlay.,7.0,7.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,49,total,,Row 49,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,49,total,,Row 49,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","8,52",852.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,49,total,,Row 49,4,"Area irrigated during 1902-3, in acres.","3,525,034",3525034.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,49,total,,Row 49,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,50,subheader,,Bengal,2,Name of Work.,Major Works.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,50,subheader,,Bengal,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,50,subheader,,Bengal,4,"Area irrigated during 1902-3, in acres.",,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,50,subheader,,Bengal,5,Percentage of net revenue for 1902-3 to capital outlay.,,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,51,data,,Row 51,2,Name of Work.,Orissa Project . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,51,data,,Row 51,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,65",265.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,51,data,,Row 51,4,"Area irrigated during 1902-3, in acres.","224,779",224779.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,51,data,,Row 51,5,Percentage of net revenue for 1902-3 to capital outlay.,0.05,0.05,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,52,data,,Row 52,2,Name of Work.,Midnapore Canal .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,52,data,,Row 52,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",85,85.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,52,data,,Row 52,4,"Area irrigated during 1902-3, in acres.","87,464",87464.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,52,data,,Row 52,5,Percentage of net revenue for 1902-3 to capital outlay.,0.8,0.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,53,data,,Row 53,2,Name of Work.,Son Project . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,53,data,,Row 53,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","2,67",267.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,53,data,,Row 53,4,"Area irrigated during 1902-3, in acres.","483,567",483567.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,53,data,,Row 53,5,Percentage of net revenue for 1902-3 to capital outlay.,3.3,3.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,54,subtotal,,Row 54,2,Name of Work.,Total Major Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,54,subtotal,,Row 54,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","6,17",617.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,54,subtotal,,Row 54,4,"Area irrigated during 1902-3, in acres.","795,810",795810.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,54,subtotal,,Row 54,5,Percentage of net revenue for 1902-3 to capital outlay.,1.6,1.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,55,data,,Row 55,2,Name of Work.,1 Minor Work,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,55,data,,Row 55,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",7,7.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,55,data,,Row 55,4,"Area irrigated during 1902-3, in acres.",..,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,55,data,,Row 55,5,Percentage of net revenue for 1902-3 to capital outlay.,-0.4,-0.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,56,total,,Row 56,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,56,total,,Row 56,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","6,24",624.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,56,total,,Row 56,4,"Area irrigated during 1902-3, in acres.","795,810",795810.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,56,total,,Row 56,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,57,subheader,,United Pro- vinces,2,Name of Work.,Major Works.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,57,subheader,,United Pro- vinces,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,57,subheader,,United Pro- vinces,4,"Area irrigated during 1902-3, in acres.",,,acres,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,57,subheader,,United Pro- vinces,5,Percentage of net revenue for 1902-3 to capital outlay.,,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,58,data,,Row 58,2,Name of Work.,Ganges Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,58,data,,Row 58,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","3,04",304.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,58,data,,Row 58,4,"Area irrigated during 1902-3, in acres.","871,862",871862.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,58,data,,Row 58,5,Percentage of net revenue for 1902-3 to capital outlay.,10.5,10.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,59,data,,Row 59,2,Name of Work.,Lower Ganges Canal (including Fatehpur Branch) . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,59,data,,Row 59,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","3,98",398.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,59,data,,Row 59,4,"Area irrigated during 1902-3, in acres.","849,061",849061.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,59,data,,Row 59,5,Percentage of net revenue for 1902-3 to capital outlay.,3.8,3.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,60,data,,Row 60,2,Name of Work.,Agra Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,60,data,,Row 60,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",99,99.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,60,data,,Row 60,4,"Area irrigated during 1902-3, in acres.","236,721",236721.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,60,data,,Row 60,5,Percentage of net revenue for 1902-3 to capital outlay.,6.2,6.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,61,data,,Row 61,2,Name of Work.,Eastern Jumna Canal,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,61,data,,Row 61,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",43,43.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,61,data,,Row 61,4,"Area irrigated during 1902-3, in acres.","284,079",284079.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,61,data,,Row 61,5,Percentage of net revenue for 1902-3 to capital outlay.,25.0,25.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,62,data,,Row 62,2,Name of Work.,Betwā Canal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,62,data,,Row 62,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",45,45.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,62,data,,Row 62,4,"Area irrigated during 1902-3, in acres.","64,457",64457.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,62,data,,Row 62,5,Percentage of net revenue for 1902-3 to capital outlay.,-0.5,-0.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,63,subtotal,,Row 63,2,Name of Work.,Total Major Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,63,subtotal,,Row 63,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","8,89",889.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,63,subtotal,,Row 63,4,"Area irrigated during 1902-3, in acres.","2,306,180",2306180.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,63,subtotal,,Row 63,5,Percentage of net revenue for 1902-3 to capital outlay.,7.0,7.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,64,data,,Row 64,2,Name of Work.,4 Minor Works,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,64,data,,Row 64,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",31,31.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,64,data,,Row 64,4,"Area irrigated during 1902-3, in acres.","137,375",137375.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,64,data,,Row 64,5,Percentage of net revenue for 1902-3 to capital outlay.,2.8,2.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,65,total,,Row 65,2,Name of Work.,Total . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,65,total,,Row 65,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","9,20",920.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,65,total,,Row 65,4,"Area irrigated during 1902-3, in acres.","2,443,555",2443555.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,65,total,,Row 65,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,66,data,,Ajmer-Merwāra,2,Name of Work.,Minor Works in 3 sub- divisions . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,66,data,,Ajmer-Merwāra,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",31,31.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,66,data,,Ajmer-Merwāra,4,"Area irrigated during 1902-3, in acres.","26,199",26199.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,66,data,,Ajmer-Merwāra,5,Percentage of net revenue for 1902-3 to capital outlay.,1.2,1.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,67,data,,Baluchistān,2,Name of Work.,2 Minor Works . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,67,data,,Baluchistān,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",17,17.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,67,data,,Baluchistān,4,"Area irrigated during 1902-3, in acres.","2,939",2939.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,67,data,,Baluchistān,5,Percentage of net revenue for 1902-3 to capital outlay.,-0.6,-0.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,68,data,,Burma,2,Name of Work.,Mandalay Canal (Major Work) .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,68,data,,Burma,3,"Capital outlay to end of 1902-3, in lakhs of rupees.",47,47.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,68,data,,Burma,4,"Area irrigated during 1902-3, in acres.","7,223",7223.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,68,data,,Burma,5,Percentage of net revenue for 1902-3 to capital outlay.,-0.2,-0.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,69,subtotal,,Row 69,2,Name of Work.,Grand Total Major Works . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,69,subtotal,,Row 69,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","39,52",3952.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,69,subtotal,,Row 69,4,"Area irrigated during 1902-3, in acres.","12,222,471",12222471.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,69,subtotal,,Row 69,5,Percentage of net revenue for 1902-3 to capital outlay.,6.9,6.9,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,70,subtotal,,Row 70,2,Name of Work.,Grand Total Minor Works (with Capital Accounts) . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,70,subtotal,,Row 70,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","3,27",327.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,70,subtotal,,Row 70,4,"Area irrigated during 1902-3, in acres.","1,818,448",1818448.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,70,subtotal,,Row 70,5,Percentage of net revenue for 1902-3 to capital outlay.,6.0,6.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,71,total,,Row 71,2,Name of Work.,Grand Total Major and Minor Works .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,71,total,,Row 71,3,"Capital outlay to end of 1902-3, in lakhs of rupees.","42,79",4279.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,71,total,,Row 71,4,"Area irrigated during 1902-3, in acres.","14,040,919",14040919.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-058,Table 58,374,331,71,total,,Row 71,5,Percentage of net revenue for 1902-3 to capital outlay.,..,,%,True,False

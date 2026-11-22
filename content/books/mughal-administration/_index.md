@@ -1,6 +1,6 @@
 ---
 title: "The Mughal Administration: Six Lectures"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Patna University Readership Lectures, 1920"
 author: "Jadunath Sarkar"
 author_slug: "jadunath-sarkar"

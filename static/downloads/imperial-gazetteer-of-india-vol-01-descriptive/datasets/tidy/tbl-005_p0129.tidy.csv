@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-005,Table 5,129,91,1,data,,Siwālik series,2,Column 2,{,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-005,Table 5,129,91,1,data,,Siwālik series,3,Column 3,Upper Siwālik. Middle Siwālik. Lower Siwālik or Nāhan stage.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-005,Table 5,129,91,1,data,,Siwālik series,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-005,Table 5,129,91,2,data,,Sirmūr series,2,Column 2,{,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-005,Table 5,129,91,2,data,,Sirmūr series,3,Column 3,Kasauli stage Dagshai stage Sabāthu stage.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-005,Table 5,129,91,2,data,,Sirmūr series,4,Column 4,} Murree beds.,,,False,False

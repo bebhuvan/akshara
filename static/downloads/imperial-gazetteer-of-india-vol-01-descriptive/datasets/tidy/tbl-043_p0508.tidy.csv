@@ -1,0 +1,12 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,1,data,,British Guiana,2,Column 2,"125,875",125875.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,2,data,,Trinidad,2,Column 2,"85,615",85615.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,3,data,,Mauritius,2,Column 2,"265,163",265163.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,4,data,,Natal,2,Column 2,"65,925",65925.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,5,data,,Fiji,2,Column 2,"15,368",15368.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,6,data,,Jamaica,2,Column 2,"15,278",15278.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,7,data,,Surinam,2,Column 2,"18,000",18000.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,8,data,,St. Lucia,2,Column 2,"1,200",1200.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,9,data,,Martinique,2,Column 2,"3,764",3764.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,10,data,,Guadeloupe,2,Column 2,"15,276",15276.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-043,Table 43,508,470,11,total,,Total,2,Column 2,"611,464",611464.0,,False,True

@@ -1,0 +1,43 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,1,data,,Intoxicating liquors,2,1860-1.,91,91.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,1,data,,Intoxicating liquors,3,1870-1.,"1,56",156.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,1,data,,Intoxicating liquors,4,1880-1.,"2,12",212.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,1,data,,Intoxicating liquors,5,1890-1.,"3,49",349.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,1,data,,Intoxicating liquors,6,1900-1.,"4,27",427.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,1,data,,Intoxicating liquors,7,1902-3.,"4,86",486.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,2,data,,Opium and its preparations,2,1860-1.,16,16.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,2,data,,Opium and its preparations,3,1870-1.,36,36.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,2,data,,Opium and its preparations,4,1880-1.,74,74.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,2,data,,Opium and its preparations,5,1890-1.,97,97.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,2,data,,Opium and its preparations,6,1900-1.,"1,03",103.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,2,data,,Opium and its preparations,7,1902-3.,"1,10",110.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,3,data,,Hemp drugs,2,1860-1.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,3,data,,Hemp drugs,3,1870-1.,22,22.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,3,data,,Hemp drugs,4,1880-1.,30,30.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,3,data,,Hemp drugs,5,1890-1.,42,42.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,3,data,,Hemp drugs,6,1900-1.,59,59.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,3,data,,Hemp drugs,7,1902-3.,66,66.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,4,data,,Miscellaneous,2,1860-1.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,4,data,,Miscellaneous,3,1870-1.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,4,data,,Miscellaneous,4,1880-1.,3,3.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,4,data,,Miscellaneous,5,1890-1.,4,4.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,4,data,,Miscellaneous,6,1900-1.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,4,data,,Miscellaneous,7,1902-3.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,5,total,,Total,2,1860-1.,"1,18",118.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,5,total,,Total,3,1870-1.,"2,14",214.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,5,total,,Total,4,1880-1.,"3,19",319.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,5,total,,Total,5,1890-1.,"4,92",492.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,5,total,,Total,6,1900-1.,"5,91",591.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,5,total,,Total,7,1902-3.,"6,64",664.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,6,data,,Charges,2,1860-1.,6,6.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,6,data,,Charges,3,1870-1.,10,10.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,6,data,,Charges,4,1880-1.,10,10.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,6,data,,Charges,5,1890-1.,18,18.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,6,data,,Charges,6,1900-1.,31,31.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,6,data,,Charges,7,1902-3.,35,35.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,7,data,,Net revenue,2,1860-1.,"1,12",112.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,7,data,,Net revenue,3,1870-1.,"2,04",204.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,7,data,,Net revenue,4,1880-1.,"3,09",309.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,7,data,,Net revenue,5,1890-1.,"4,74",474.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,7,data,,Net revenue,6,1900-1.,"5,60",560.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-033,(In lakhs of rupees),314,276,7,data,,Net revenue,7,1902-3.,"6,29",629.0,,False,True

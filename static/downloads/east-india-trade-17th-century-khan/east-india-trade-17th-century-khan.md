@@ -71,9 +71,6 @@ Department of Modern Indian History, University of Allahabad, India.
 
 ### CONTENTS
 
-
-##### <span class="sc">PAGE</span>
-
 - I. THE EAST INDIA TRADE UP TO 1660 . 1
 - II. THE EAST INDIA COMPANY UNDER
 CHARLES II . . . . . 93
@@ -1141,7 +1138,7 @@ The Indian commodities brought home realized, on sale in England, about 860 thou
 | --- | --- |
 | Dead stock was | £216,483 |
 | Quick stock | £1,511,619 |
-| £1,728,102[^sec-05-fn-220] |  |
+|  | £1,728,102[^sec-05-fn-220] |
 
 The Company admitted that it was burdened with a debt of £550,000 'which the East India Company have never concealed, nor disowned'.[^sec-05-fn-221] Their stock was alleged by them to be £1,700,000. The Turkey Company had asserted that their stock in 1681 was small, and they accused them of borrowing money at interest. The Company itself admitted borrowing £550,000, and the Turkey Company's allegations were in this respect true. With regard to the amount of stock in 1681, there is no reason to doubt the statement of the Company that it was £1,700,000. 'We are ready to make the truth of what we have asserted by a stated account verified in such manner as shall be to your lordship's indubitable satisfaction.'[^sec-05-fn-222] There is reason to suppose that the borrowing was deliberately resorted to by the Company, so as to prevent the enlargement of the stock. It is [p. 173] no doubt true that Childe advocated enlargement in 1681. But he did it on condition that the Charter of the Company was sanctioned by Parliament. Without that sanction it may have seemed preferable for the existing shareholders to engross the stock. £1,700,000 in 1681 was not sufficient for the purpose. The Company's trade had developed greatly since 1680, and a stock of about a million and three quarters seems to be totally insufficient for the effective conduct of that trade. Five years before a barrister had made the same charge against the Company. He asserted that the Company had only £600,000 in value. The reply was not convincing. Even if the Company possessed stock of the real value of £900,000, it could hardly be deemed sufficient. If they sent out £450,000 in 1675 the amount of the stock does not seem very large. As the Company possessed, moreover, '3 ships already arrived from Bantam, 5 from Surat, with the 6 or 7 ships expected from the Coast, amounting in all to £800,000', the total value of stock was £1,700,000. This does not include 'all the remaining goods and Debts in India and in England'.[^sec-05-fn-223] If the writer's statement be true, it follows that the Company's stock decreased rather than increased within the five years. This could not have been due to a decline in trade, as the Company paid £10 per cent. dividend in 1679, 50 per cent. in 1680, and 20 per cent. in 1681. 'In seven years, from 1675 to 1681, 150½ per cent. dividend had been paid, or an average of more than 20 per cent.'[^sec-05-fn-224] We are, therefore, forced to the conclusion that the bulk of the stock was engrossed not among twelve or ten persons, as alleged by the Muscovy Company, but among forty or fifty shareholders. It is, no doubt, true that the number of shareholders was 556. This does not, however, exclude the possibility of its being restricted to a few prominent men in the Company. We may well believe that about '40 persons divided the major part'. In the List of Adventurers in the East India Company for April, 1689, we find the following shareholders:
 
@@ -2076,7 +2073,7 @@ The criticisms of Childe and Barbon of the balance of trade theory were skilfull
 <!-- page: 319 | folio: 307 -->
 
 **East India Company in each year from 1689 to 1700, showing the number 302, ff. 297<sup>v</sup> and 298<sup>r</sup>, Bodleian Library, Oxford.**
-| <span class="sc">Coast and Bay.</span> :: No. of Ships | <span class="sc">China.</span> :: Tonnage | <span class="sc">Bencoolen.</span> :: Total value | <span class="sc">St. Helena.</span> :: No. of Ships | Tonnage | Total value | No. of Ships | Tonnage | Total value | No. of Ships | Tonnage | Total value |
+| <span class="sc">Coast and Bay.</span> :: No. of Ships | <span class="sc">Coast and Bay.</span> :: Tonnage | <span class="sc">Coast and Bay.</span> :: Total value | <span class="sc">China.</span> :: No. of Ships | <span class="sc">China.</span> :: Tonnage | <span class="sc">China.</span> :: Total value | <span class="sc">Bencoolen.</span> :: No. of Ships | <span class="sc">Bencoolen.</span> :: Tonnage | <span class="sc">Bencoolen.</span> :: Total value | <span class="sc">St. Helena.</span> :: No. of Ships | <span class="sc">St. Helena.</span> :: Tonnage | <span class="sc">St. Helena.</span> :: Total value |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Blank | £ |  | Blank | £ |  | Blank | £ |  | Blank | £ |
 |  | Blank |  |  | Blank |  | 1 | 350 | 636 |  | Blank |  |
@@ -2579,14 +2576,10 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 - Drugs, 247, 253; Dutch monopoly of, 264.
 - Dutch, the, endeavour to monopolize trade, 8, 20, 21, 24, 29, 31, 43, 48, 51, 57–8, 72, 74, 79, 88, 92, 97, 105, 111, 123, 125, 126, 130, 135, 143, 152, 177, 186, 212, 264; conflict with the Portuguese, 18, 20; their supremacy in the East Indies, 20, 130, 135; commercial rivalry with England, 21–5, 28, 29, 33–4, 55–60, 64–8, 72, 129–30, 185–7, 191, 204, 264, 290, 293, 298; fishing industry of, 25–33, 36–7, 40–1; carrying trade of, 27, 32, 39, 40, 43, 225, 305; naval rivalry with England, 33, 41, 43–4, 114–15; armed conflict with the English, 60–1, 64, 68, 185; make an agreement with the English Government (1619), 62–3; defeated in naval fight, 64; open fresh negotiations (1622), 65; new treaty signed (1623), 67; further quarrels with the English, 103–28; annex Bantam, 132–3; establishment of Dutch rule in the East India islands and decline in India, 135; method of raising revenue, 198–9, 202–3; revival of activity in the East, 202–4. *See also* Dutch Wars, Holland, *and* States-General.
 - Dutch East India Company, vigorous policy of, 2–7, 80, 117; its powers, 6, 55; support received from the States-General, 5–6, 23, 25, 43, 55, 59, 135, 143; claim against the English Company, 91. *See also* Dutch, the.
-- Dutch Wars: First (1652), 32, 34, 40, 41, 81, 91, 92, 97, 98, 101; Second
-- (1665), 93, 99–102, 105, 116–17, 123; Third (1672), 124–31, 142.
+- Dutch Wars: First (1652), 32, 34, 40, 41, 81, 91, 92, 97, 98, 101; Second (1665), 93, 99–102, 105, 116–17, 123; Third (1672), 124–31, 142.
 - East India Company:
 - (1) Up to 1660: charter granted to merchants by Elizabeth, 2, 6; original aim of, 3, 5; financial difficulties, 3–4, 23; profits of the first twelve Voyages, 4; lack of support from the State, 5–6, 23, 43; charter, with enlarged powers, granted by James I (1609), 6–7, 51, 70, 90; chief articles of export and import, 8–14; expansion of trade, 14, 73; extent of shipping, 54, 73, 75, 88, 91; increase of customs, 16–17; establishment of factories, 17–19; trade with Persia, China, and Japan, 19–20; opposition of the Dutch, 21–2, 29; the whale fishery, 29–30; grievances in England against the Company, 44–5; its critics and its defenders, 45–55; disputes between the English and the Dutch Companies, 55–9; union of the two Companies advocated, 59–60, 63–4, 68; armed struggle with the Dutch, 60–1; complaints made to the king, 61; the main points of difference, 62; an agreement concluded (1619), 62–3, 101; renewed disputes and fresh negotiations (1622), 65; new treaty signed (1623), 67; the Company and Charles I, 69–74, 82; competition of a rival Company, 71–2; evil effects of the competition and of the Civil War, 72–4, 77–9; the Company turns to Persia, 75; the Persian voyages, 75, 76; decay of the Company (1624–54) and its causes, 78–9, 82, 87; competition of the Assada Merchants, 82–3; amalgamation of the two companies, 84; the Company appeals for the protection of the State, 85–6; new Charter granted by Cromwell (1657), 90, 98, 151; renewed activity and progress, 91.
-- (2) From 1660 to 1680: charters granted by Charles II, 150; institution of the Council of Trade and the Council for Plantations, 93; utility of their work, 94–5; rapid growth of trade, 94, 98; reorganization of the Councils and the Committees for Trade, 95; their influence on foreign policy, 96–9; the Company and the second Dutch War, 99–101; the grievances of the merchants, 102–5; petitions of the Company, 106, 114, 115, 123; report of the Council of Trade and Plantations, 107–12; the Company’s claim for damages against
-
-<!-- page: 329 | folio: 317 -->
-- the Dutch, 113-16; further causes of
+- (2) From 1660 to 1680: charters granted by Charles II, 150; institution of the Council of Trade and the Council for Plantations, 93; utility of their work, 94–5; rapid growth of trade, 94, 98; reorganization of the Councils and the Committees for Trade, 95; their influence on foreign policy, 96–9; the Company and the second Dutch War, 99–101; the grievances of the merchants, 102–5; petitions of the Company, 106, 114, 115, 123; report of the Council of Trade and Plantations, 107–12; the Company’s claim for damages against [p. 317] the Dutch, 113-16; further causes of
 - quarrel, 117-28, 131-4; fruitlessness
 - of the Company's efforts in the East
 - Indies, 134-5; the Company concentrates its strength on its possessions
@@ -2641,8 +2634,7 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 - (1693) and its obligations, 248, 250,
 - 262, 265, 266, 268 *n.*, 275, 284; shipping losses, 273-5; increase in tonnage, 275; ships and tonnage sent to
 - the East from 1689 to 1700, 306-7;
-- the Company advocates freedom of
-- trade, 298-9, 308-10; united with
+- the Company advocates freedom of trade, 298-9, 308-10; united with
 - the New East India Company (1709),
 - 244.
 - (4) Stock: First Joint Stock, 3-4,
@@ -2933,10 +2925,7 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 - India and the E. I. Company, 135;
 - manufactures of, fostered by the
 - Company, 153–65, 246–8, 252–4,
-- 264, 276–86; effects of the Indian
-
-<!-- page: 332 | folio: 320 -->
-- trade on English industry and opposition to the importation of Indian goods, 159-61, 170-1, 175, 176, 188, 190, 214-27, 233-5, 246, 252, 256, 259, 264, 266, 276-93, 295-8, 308, 310; importation of silk goods and calicoes into England prohibited, 282-5, 289-90, 292, 308; exports to, 165-70, 246, 248, 264-6; neglect of the Coast trade by the Company, 176-7; establishment of fortified settlements, 201, 203, 205, 212-14; trade in opium, 263; export of Indian goods to the colonies, 275-7.
+- 264, 276–86; effects of the Indian [p. 320] trade on English industry and opposition to the importation of Indian goods, 159-61, 170-1, 175, 176, 188, 190, 214-27, 233-5, 246, 252, 256, 259, 264, 266, 276-93, 295-8, 308, 310; importation of silk goods and calicoes into England prohibited, 282-5, 289-90, 292, 308; exports to, 165-70, 246, 248, 264-6; neglect of the Coast trade by the Company, 176-7; establishment of fortified settlements, 201, 203, 205, 212-14; trade in opium, 263; export of Indian goods to the colonies, 275-7.
 - *Indian Manufactures, England's Danger by*, 279, 296.
 - Indigo, sale of, and reference to, 7, 12, 16, 76, 152, 158, 165, 247, 253, 257, 259, 260; price of, 12; Aldcas, *ib.*; Carquez, *ib.*
 - Indrapura, 230.
@@ -3053,8 +3042,7 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 -   53, 79-81, 91, 94, 170, 185-6, 188-
 -   90, 214, 219, 292, 299, 308-10; importance of, in the history of economic
 -   thought, 55, 185; *Discourse of Trade,*
--   *from England unto the East Indies*,
-- 5, 8, 9, 10, 11, 30, 32, 39, 44, 47,
+-   *from England unto the East Indies*, 5, 8, 9, 10, 11, 30, 32, 39, 44, 47,
 -   51; *England's Treasure by Forraign*
 -   *Trade*, 48-51.
 - Muscovy Company, 29, 147, 173, 182.
@@ -3133,8 +3121,7 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 - Pollexfen, John, economic theories of, 87, 160, 169-71, 188 *n.*, 216, 221, 256, 270, 283, 294; *Discourse on Trade*, 147 *n.*, 148.
 - Porcatt, Dutch claims concerning, 119-20; pepper from, 177.
 - Porter, Endymion, 70.
-- Portuguese possessions in the East, 5, 35, 45, 86; treatment by the Mogul Government, 17; barbarity towards the natives, 18; fleet defeated by the English, *ib.*; conflict with the Dutch, 18, 20; defeated by combined forces
-- of English and Persians, 19; conception of sovereignty criticized by Grotius, 35-7; levy vexatious tolls on English ships, 96, 136, 140-1; grievances of merchants against the Dutch, 104; difficulties with the E. I. Company, 136-42.
+- Portuguese possessions in the East, 5, 35, 45, 86; treatment by the Mogul Government, 17; barbarity towards the natives, 18; fleet defeated by the English, *ib.*; conflict with the Dutch, 18, 20; defeated by combined forces of English and Persians, 19; conception of sovereignty criticized by Grotius, 35-7; levy vexatious tolls on English ships, 96, 136, 140-1; grievances of merchants against the Dutch, 104; difficulties with the E. I. Company, 136-42.
 - Poulaway, strife with the Dutch at, 22; captured by the Dutch, 60, 62.
 - Powell, John, *The Case of*, 232, 244 *n.*
 - Powys, Sir Thomas, 220 *n.*
@@ -3168,10 +3155,7 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 - Russian trade, 23.
 - S., T., pamphlets on the East India trade by, 220, 225.
 - Sail-cloth, manufacture of, 153, 165.
-- St. Helena, seizure of, by the Dutch, 128; rebellions at, 134, 151, 200-1,
-
-<!-- page: 335 | folio: 323 -->
-- 236; the E. I. Company's administration of, 200, 236; ships and tonnage
+- St. Helena, seizure of, by the Dutch, 128; rebellions at, 134, 151, 200-1, [p. 323] 236; the E. I. Company's administration of, 200, 236; ships and tonnage
 - sent out to (1689–1700), 307.
 - St. Helena, *Deplorable Case of the Poor*
 - *Distressed Planters in the Island of*,
@@ -3227,8 +3211,7 @@ Its position would really have been greatly weakened if the fervid appeals, pass
 - 171, 175, 210, 218, 220 *n.*, 223, 225,
 - 246, 247, 250–7, 259, 265, 268, 276,
 - 278–82, 284, 285, 287–90; opposition in England to importation of,
-- 159–61, 280–2, 285, 288; importation prohibited, 289–90; price of,
-- 254; varieties of: dolleria, putta,
+- 159–61, 280–2, 285, 288; importation prohibited, 289–90; price of, 254; varieties of: dolleria, putta,
 - and puttany, 254.
 - Silks, *East India, Reasons humbly*
 - *offered for the hindering the Home*

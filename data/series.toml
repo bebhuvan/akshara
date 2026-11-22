@@ -13,7 +13,7 @@
 "while-sewing-sandals" = 8
 "brief-history-indian-peoples" = 9
 "religion-of-the-veda" = 10
-"imperial-gazetteer-india-v1" = 11
+"imperial-gazetteer-india-v1" = 11  # superseded by imperial-gazetteer-of-india-vol-01-descriptive
 "indian-shipping" = 12
 "rig-veda-vedic-religion" = 13
 "modern-religious-movements-india" = 14
@@ -68,3 +68,7 @@
 "english-factories-india-1646-1650-vol-08" = 63
 "english-factories-india-1651-1654-vol-09" = 64
 "english-factories-india-1655-1660-vol-10" = 65
+"imperial-gazetteer-of-india-vol-01-descriptive" = 66
+"imperial-gazetteer-of-india-vol-02-historical" = 67
+"imperial-gazetteer-of-india-vol-03-economic" = 68
+"imperial-gazetteer-of-india-vol-04-administrative" = 69

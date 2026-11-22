@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,1,data,,Assam—Valley,2,Normal Rainfall (inches). :: March.,3·56,3.56,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,1,data,,Assam—Valley,3,Normal Rainfall (inches). :: April.,8·09,8.09,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,1,data,,Assam—Valley,4,Normal Rainfall (inches). :: May.,12·03,12.03,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,2,data,,Assam—Surmā,2,Normal Rainfall (inches). :: March.,7·75,7.75,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,2,data,,Assam—Surmā,3,Normal Rainfall (inches). :: April.,13·42,13.42,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,2,data,,Assam—Surmā,4,Normal Rainfall (inches). :: May.,18·00,18.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,3,data,,North Bengal,2,Normal Rainfall (inches). :: March.,1·26,1.26,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,3,data,,North Bengal,3,Normal Rainfall (inches). :: April.,3·97,3.97,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,3,data,,North Bengal,4,Normal Rainfall (inches). :: May.,10·65,10.65,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,4,data,,East Bengal,2,Normal Rainfall (inches). :: March.,2·31,2.31,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,4,data,,East Bengal,3,Normal Rainfall (inches). :: April.,4·24,4.24,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,4,data,,East Bengal,4,Normal Rainfall (inches). :: May.,10·45,10.45,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,5,data,,Deltaic Bengal,2,Normal Rainfall (inches). :: March.,1·44,1.44,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,5,data,,Deltaic Bengal,3,Normal Rainfall (inches). :: April.,2·31,2.31,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-008,Table 8,156,118,5,data,,Deltaic Bengal,4,Normal Rainfall (inches). :: May.,6·16,6.16,,False,False

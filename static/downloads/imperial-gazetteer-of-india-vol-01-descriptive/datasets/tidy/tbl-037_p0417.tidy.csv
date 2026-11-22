@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,1,data,,Tamiḻ,2,Number of speakers (1901).,"16,525,500",16525500.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,2,data,,Malayāḷam,2,Number of speakers (1901).,"6,029,304",6029304.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,3,data,,Kanarese,2,Number of speakers (1901).,"10,365,047",10365047.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,4,data,,Koḍagu,2,Number of speakers (1901).,"39,191",39191.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,5,data,,Tuḷu,2,Number of speakers (1901).,"535,210",535210.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,6,data,,Toda,2,Number of speakers (1901).,805,805.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,7,data,,Kōta,2,Number of speakers (1901).,"1,300",1300.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,8,data,,Kurukh,2,Number of speakers (1901).,"592,351",592351.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,9,data,,Malto,2,Number of speakers (1901).,"60,777",60777.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,11,data,B. Intermediate languages ,"Goṇḍ, &c",2,Number of speakers (1901).,"1,123,974",1123974.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,13,data,C. Andhra group ,Telugu,2,Number of speakers (1901).,"20,696,872",20696872.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,14,data,C. Andhra group ,Kandh,2,Number of speakers (1901).,"494,099",494099.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,15,data,C. Andhra group ,Kolāmī,2,Number of speakers (1901).,"1,505",1505.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,16,data,C. Andhra group ,D. Brāhūī,2,Number of speakers (1901).,"48,589",48589.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-037,Table 37,417,379,17,total,,Total,2,Number of speakers (1901).,"56,514,524",56514524.0,count,False,True

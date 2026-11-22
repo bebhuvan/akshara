@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,1,data,,Kherwārī,2,Column 2,"2,784,395",2784395.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,2,data,,Kūrkū,2,Column 2,"87,675",87675.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,3,data,,Khaṛiā,2,Column 2,"101,986",101986.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,4,data,,Juāng,2,Column 2,"10,853",10853.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,5,data,,Savara,2,Column 2,"157,136",157136.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,6,data,,Gadaba,2,Column 2,"37,230",37230.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-038,Table 38,421,383,7,total,,Total,2,Column 2,"3,179,275",3179275.0,,False,True

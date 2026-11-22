@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,1,data,,Bengal . Bombay . Madras,2,Period 1833–53. :: Ratios per mille of strength of deaths from :: Cholera.,1·81 2·29 7·34,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,1,data,,Bengal . Bombay . Madras,3,Period 1833–53. :: Ratios per mille of strength of deaths from :: Dysentery and diarrhoea.,1·6 1·9 2·1,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,1,data,,Bengal . Bombay . Madras,4,Period 1833–53. :: Ratios per mille of strength of deaths from :: Phthisis.,0·22 0·45 . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,1,data,,Bengal . Bombay . Madras,5,Period 1833–53. :: Ratios per mille of strength of deaths from :: Fevers.,5·1 5·5 2·8,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,1,data,,Bengal . Bombay . Madras,6,Period 1833–53. :: Ratios per mille of strength of deaths from :: All causes.,14·4 15·8 18·8,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,2,total,,All India,2,Period 1833–53. :: Ratios per mille of strength of deaths from :: Cholera.,2·9,2.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,2,total,,All India,3,Period 1833–53. :: Ratios per mille of strength of deaths from :: Dysentery and diarrhoea.,1·8,1.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,2,total,,All India,4,Period 1833–53. :: Ratios per mille of strength of deaths from :: Phthisis.,0·22,0.22,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,2,total,,All India,5,Period 1833–53. :: Ratios per mille of strength of deaths from :: Fevers.,4·8,4.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-075,Table 75,567,529,2,total,,All India,6,Period 1833–53. :: Ratios per mille of strength of deaths from :: All causes.,15·6,15.6,,False,False

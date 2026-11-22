@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,1,data,,Western Hindī,2,Number of speakers (1901).,"40,714,925",40714925.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,4,data,a. More nearly related to the Midland language,Rājasthānī,2,Number of speakers (1901).,"10,917,712",10917712.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,5,data,a. More nearly related to the Midland language,The Pahāṛī languages,2,Number of speakers (1901).,"3,124,681",3124681.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,6,data,a. More nearly related to the Midland language,Gujarātī,2,Number of speakers (1901).,"9,439,925",9439925.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,7,data,a. More nearly related to the Midland language,Panjābī,2,Number of speakers (1901).,"17,070,961",17070961.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,9,data,b. More nearly related to the Outer languages,Eastern Hindī,2,Number of speakers (1901).,"22,136,358",22136358.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,12,data,a. North-Western group,Kāshmīrī,2,Number of speakers (1901).,"1,007,957",1007957.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,13,data,a. North-Western group,Kohistānī,2,Number of speakers (1901).,36,36.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,14,data,a. North-Western group,Lahndā,2,Number of speakers (1901).,"3,337,917",3337917.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,15,data,a. North-Western group,Sindhī,2,Number of speakers (1901).,"3,494,971",3494971.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,17,data,b. Southern language,Marāṭhī,2,Number of speakers (1901).,"18,237,899",18237899.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,19,data,c. Eastern group,Bihārī,2,Number of speakers (1901).,"34,579,844",34579844.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,20,data,c. Eastern group,Oṛiyā,2,Number of speakers (1901).,"9,687,429",9687429.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,21,data,c. Eastern group,Bengalī,2,Number of speakers (1901).,"44,624,048",44624048.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,22,data,c. Eastern group,Assamese,2,Number of speakers (1901).,"1,350,846",1350846.0,count,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-036,Table 36,402,364,23,total,,Total,2,Number of speakers (1901).,"219,725,509",219725509.0,count,False,True

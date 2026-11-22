@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,1,summary,,Average area held by proprietor (in acres),2,Bengal.,59,59.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,1,summary,,Average area held by proprietor (in acres),3,Agra.,16,16.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,1,summary,,Average area held by proprietor (in acres),4,Oudh.,71,71.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,1,summary,,Average area held by proprietor (in acres),5,Punjab.,16,16.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,1,summary,,Average area held by proprietor (in acres),6,Central Provinces.,335,335.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,2,summary,,Average area of tenant's holding (in acres),2,Bengal.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,2,summary,,Average area of tenant's holding (in acres),3,Agra.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,2,summary,,Average area of tenant's holding (in acres),4,Oudh.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,2,summary,,Average area of tenant's holding (in acres),5,Punjab.,2.8,2.8,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,2,summary,,Average area of tenant's holding (in acres),6,Central Provinces.,11.8,11.8,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,3,data,,Percentage of total cultivated area held by tenants,2,Bengal.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,3,data,,Percentage of total cultivated area held by tenants,3,Agra.,78.9,78.9,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,3,data,,Percentage of total cultivated area held by tenants,4,Oudh.,87.8,87.8,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,3,data,,Percentage of total cultivated area held by tenants,5,Punjab.,54.1,54.1,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,3,data,,Percentage of total cultivated area held by tenants,6,Central Provinces.,77.1,77.1,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,4,data,,Percentage of rented area held by tenants enjoying occupancy or equivalent rights,2,Bengal.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,4,data,,Percentage of rented area held by tenants enjoying occupancy or equivalent rights,3,Agra.,45.4,45.4,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,4,data,,Percentage of rented area held by tenants enjoying occupancy or equivalent rights,4,Oudh.,6.3,6.3,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,4,data,,Percentage of rented area held by tenants enjoying occupancy or equivalent rights,5,Punjab.,19.9,19.9,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,4,data,,Percentage of rented area held by tenants enjoying occupancy or equivalent rights,6,Central Provinces.,59.5,59.5,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,5,data,,Percentage of grain-rented area to total rented area,2,Bengal.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,5,data,,Percentage of grain-rented area to total rented area,3,Agra.,6.2,6.2,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,5,data,,Percentage of grain-rented area to total rented area,4,Oudh.,19.8,19.8,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,5,data,,Percentage of grain-rented area to total rented area,5,Punjab.,56.6,56.6,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,5,data,,Percentage of grain-rented area to total rented area,6,Central Provinces.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,6,data,,Incidence of cash rents per cultivated acre (in rupees),2,Bengal.,3.5,3.5,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,6,data,,Incidence of cash rents per cultivated acre (in rupees),3,Agra.,4.2,4.2,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,6,data,,Incidence of cash rents per cultivated acre (in rupees),4,Oudh.,5.2,5.2,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,6,data,,Incidence of cash rents per cultivated acre (in rupees),5,Punjab.,3.7,3.7,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-085,Table 85,495,453,6,data,,Incidence of cash rents per cultivated acre (in rupees),6,Central Provinces.,0.7,0.7,,False,False

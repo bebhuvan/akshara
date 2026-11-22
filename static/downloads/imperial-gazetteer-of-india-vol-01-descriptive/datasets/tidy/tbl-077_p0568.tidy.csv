@@ -1,0 +1,29 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,2,Period.,1833–54,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,3,Admissions to hospital (all causes).,"1,235",1235.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,4,Deaths from :: Fevers.,10·9,10.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,5,Deaths from :: Dysentery and diarrhoea.,21·7,21.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,6,Deaths from :: Cholera.,8·7,8.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,7,Deaths from :: Pulmonary phthisis.,1·3,1.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,1,data,,Bengal,8,Deaths from :: All causes.,72·5,72.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,2,Period.,1831–53,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,3,Admissions to hospital (all causes).,"1,281",1281.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,4,Deaths from :: Fevers.,13·1,13.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,5,Deaths from :: Dysentery and diarrhoea.,15·0,15.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,6,Deaths from :: Cholera.,10·9,10.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,7,Deaths from :: Pulmonary phthisis.,0·7,0.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,2,data,,Bombay,8,Deaths from :: All causes.,61·5,61.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,2,Period.,1844–53,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,3,Admissions to hospital (all causes).,"1,050",1050.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,4,Deaths from :: Fevers.,4·4,4.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,5,Deaths from :: Dysentery and diarrhoea.,17·0,17.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,6,Deaths from :: Cholera.,15·1,15.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,7,Deaths from :: Pulmonary phthisis.,2·6,2.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,3,data,,Madras,8,Deaths from :: All causes.,61·3,61.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,2,Period.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,3,Admissions to hospital (all causes).,"1,230",1230.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,4,Deaths from :: Fevers.,10·8,10.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,5,Deaths from :: Dysentery and diarrhoea.,20·7,20.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,6,Deaths from :: Cholera.,9·3,9.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,7,Deaths from :: Pulmonary phthisis.,1·3,1.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-077,Table 77,568,530,4,total,,India,8,Deaths from :: All causes.,70·7,70.7,,False,False

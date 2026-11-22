@@ -1,0 +1,105 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,2,Deposits per 100 of population. :: Rs.,53,53.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,3,Classification of Depositors. :: Professional with fixed income.,"55,654",55654.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,4,Classification of Depositors. :: Professional with variable income.,"12,103",12103.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,5,Classification of Depositors. :: Domestic.,"24,431",24431.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,6,Classification of Depositors. :: Commercial.,"8,537",8537.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,7,Classification of Depositors. :: Agricultural.,"3,453",3453.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,8,Classification of Depositors. :: Industrial.,"4,761",4761.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,1,data,,Bengal,9,Classification of Depositors. :: Indefinite.,"98,571",98571.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,2,Deposits per 100 of population. :: Rs.,47,47.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,3,Classification of Depositors. :: Professional with fixed income.,"10,630",10630.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,4,Classification of Depositors. :: Professional with variable income.,"4,088",4088.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,5,Classification of Depositors. :: Domestic.,"5,040",5040.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,6,Classification of Depositors. :: Commercial.,"1,114",1114.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,7,Classification of Depositors. :: Agricultural.,308,308.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,8,Classification of Depositors. :: Industrial.,816,816.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,2,data,,Eastern Bengal,9,Classification of Depositors. :: Indefinite.,"23,856",23856.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,2,Deposits per 100 of population. :: Rs.,21,21.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,3,Classification of Depositors. :: Professional with fixed income.,"14,009",14009.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,4,Classification of Depositors. :: Professional with variable income.,"2,364",2364.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,5,Classification of Depositors. :: Domestic.,"5,041",5041.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,6,Classification of Depositors. :: Commercial.,856,856.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,7,Classification of Depositors. :: Agricultural.,"1,261",1261.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,8,Classification of Depositors. :: Industrial.,915,915.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,3,data,,Bihār,9,Classification of Depositors. :: Indefinite.,"17,429",17429.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,2,Deposits per 100 of population. :: Rs.,141,141.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,3,Classification of Depositors. :: Professional with fixed income.,"50,171",50171.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,4,Classification of Depositors. :: Professional with variable income.,"8,713",8713.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,5,Classification of Depositors. :: Domestic.,"22,327",22327.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,6,Classification of Depositors. :: Commercial.,"8,189",8189.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,7,Classification of Depositors. :: Agricultural.,"1,713",1713.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,8,Classification of Depositors. :: Industrial.,"6,960",6960.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,4,data,,Bombay,9,Classification of Depositors. :: Indefinite.,"92,072",92072.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,2,Deposits per 100 of population. :: Rs.,20,20.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,3,Classification of Depositors. :: Professional with fixed income.,"45,634",45634.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,4,Classification of Depositors. :: Professional with variable income.,"9,445",9445.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,5,Classification of Depositors. :: Domestic.,"21,638",21638.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,6,Classification of Depositors. :: Commercial.,"8,863",8863.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,7,Classification of Depositors. :: Agricultural.,"4,610",4610.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,8,Classification of Depositors. :: Industrial.,"7,230",7230.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,5,data,,Madras,9,Classification of Depositors. :: Indefinite.,"55,702",55702.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,2,Deposits per 100 of population. :: Rs.,27,27.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,3,Classification of Depositors. :: Professional with fixed income.,"29,536",29536.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,4,Classification of Depositors. :: Professional with variable income.,"8,355",8355.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,5,Classification of Depositors. :: Domestic.,"32,079",32079.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,6,Classification of Depositors. :: Commercial.,"3,302",3302.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,7,Classification of Depositors. :: Agricultural.,"2,799",2799.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,8,Classification of Depositors. :: Industrial.,"2,482",2482.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,6,data,,United Provinces,9,Classification of Depositors. :: Indefinite.,"39,176",39176.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,2,Deposits per 100 of population. :: Rs.,48,48.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,3,Classification of Depositors. :: Professional with fixed income.,"25,055",25055.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,4,Classification of Depositors. :: Professional with variable income.,"8,363",8363.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,5,Classification of Depositors. :: Domestic.,"29,179",29179.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,6,Classification of Depositors. :: Commercial.,"3,226",3226.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,7,Classification of Depositors. :: Agricultural.,"1,142",1142.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,8,Classification of Depositors. :: Industrial.,"3,529",3529.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,7,data,,Punjab and Frontier Province,9,Classification of Depositors. :: Indefinite.,"29,539",29539.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,2,Deposits per 100 of population. :: Rs.,39,39.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,3,Classification of Depositors. :: Professional with fixed income.,"4,491",4491.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,4,Classification of Depositors. :: Professional with variable income.,"2,043",2043.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,5,Classification of Depositors. :: Domestic.,"3,372",3372.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,6,Classification of Depositors. :: Commercial.,911,911.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,7,Classification of Depositors. :: Agricultural.,533,533.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,8,Classification of Depositors. :: Industrial.,491,491.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,8,data,,Assam,9,Classification of Depositors. :: Indefinite.,"6,482",6482.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,2,Deposits per 100 of population. :: Rs.,36,36.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,3,Classification of Depositors. :: Professional with fixed income.,"7,840",7840.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,4,Classification of Depositors. :: Professional with variable income.,"1,371",1371.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,5,Classification of Depositors. :: Domestic.,"17,435",17435.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,6,Classification of Depositors. :: Commercial.,"1,152",1152.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,7,Classification of Depositors. :: Agricultural.,186,186.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,8,Classification of Depositors. :: Industrial.,"2,864",2864.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,9,data,,Burma,9,Classification of Depositors. :: Indefinite.,"11,082",11082.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,2,Deposits per 100 of population. :: Rs.,27,27.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,3,Classification of Depositors. :: Professional with fixed income.,"9,166",9166.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,4,Classification of Depositors. :: Professional with variable income.,"1,458",1458.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,5,Classification of Depositors. :: Domestic.,"5,807",5807.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,6,Classification of Depositors. :: Commercial.,853,853.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,7,Classification of Depositors. :: Agricultural.,267,267.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,8,Classification of Depositors. :: Industrial.,"1,253",1253.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,10,data,,Central Provinces,9,Classification of Depositors. :: Indefinite.,"11,367",11367.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,2,Deposits per 100 of population. :: Rs.,21,21.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,3,Classification of Depositors. :: Professional with fixed income.,"5,308",5308.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,4,Classification of Depositors. :: Professional with variable income.,"1,042",1042.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,5,Classification of Depositors. :: Domestic.,"3,307",3307.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,6,Classification of Depositors. :: Commercial.,355,355.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,7,Classification of Depositors. :: Agricultural.,49,49.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,8,Classification of Depositors. :: Industrial.,431,431.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,11,data,,Rājputāna,9,Classification of Depositors. :: Indefinite.,"6,198",6198.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,2,Deposits per 100 of population. :: Rs.,96,96.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,3,Classification of Depositors. :: Professional with fixed income.,"6,482",6482.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,4,Classification of Depositors. :: Professional with variable income.,"1,262",1262.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,5,Classification of Depositors. :: Domestic.,"5,946",5946.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,6,Classification of Depositors. :: Commercial.,572,572.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,7,Classification of Depositors. :: Agricultural.,110,110.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,8,Classification of Depositors. :: Industrial.,870,870.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,12,data,,Sind and Baluchistān,9,Classification of Depositors. :: Indefinite.,"9,013",9013.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,2,Deposits per 100 of population. :: Rs.,44,44.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,3,Classification of Depositors. :: Professional with fixed income.,"263,976",263976.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,4,Classification of Depositors. :: Professional with variable income.,"60,607",60607.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,5,Classification of Depositors. :: Domestic.,"175,602",175602.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,6,Classification of Depositors. :: Commercial.,"37,930",37930.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,7,Classification of Depositors. :: Agricultural.,"16,431",16431.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,8,Classification of Depositors. :: Industrial.,"32,602",32602.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-081,Table 81,477,435,13,total,,Total,9,Classification of Depositors. :: Indefinite.,"400,487",400487.0,,False,False

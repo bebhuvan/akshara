@@ -2840,8 +2840,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 -   174, 246; warehouse at, 240; factory
 -   accounts, 306, 327; trade at: in indigo,
 -   94, 153, 214, 228, 326; in other commodities, xxx, 62, 63, 90, 150, 153, 176,
--   208, 228, 239, 270; state of trade at, 61,
-- 62, 189, 228; supplies for, 270, 273, 275,
+-   208, 228, 239, 270; state of trade at, 61, 62, 189, 228; supplies for, 270, 273, 275,
 - 299; caravans from, xxiv, xxx, 176, 228,
 - 234, 247, 269–73, 275, 307; troubles
 - with the authorities at, xxx, 270; proposed dissolution of the factory at, 307;
@@ -2947,8 +2946,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - at, 128; minting of coins at, xliv, xlviii,
 - 128, 129, 135, 136, 200, 343; customs
 - duties at, xliii, 129, 133; threatened
-- attack on, by a rebel chief, 132, 136;
-- ordnance for, xliv, 132; fortification of,
+- attack on, by a rebel chief, 132, 136; ordnance for, xliv, 132; fortification of,
 - xxi, xlv, xlvii, xlviii, 135, 342–4, 359;
 - soldiers for, 145, 147, 359; the removal
 - from Masulipatam to, xlvi, 280–4, 312,
@@ -3472,10 +3470,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - Coromandel Coast, dispatch of ships for,
 - 11, 13, 18, 41, 290; goods from: decline in value of, 6; complaint as to
 - condition of, 12; withdrawal of English
-- trade from, 280; Dutch trade on, 18,
-
-<!-- page: 423 | folio: 369 -->
-- 67, 346, 358; their troubles with the
+- trade from, 280; Dutch trade on, 18, [p. 369] 67, 346, 358; their troubles with the
 - natives, 67; Danes trade on, 342; they
 - claim monopoly of trade on, 14. *See*
 - *also* Armagon, Kārikāl, Masulipatam,
@@ -3765,8 +3760,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - Batavia, 178; voyage to Surat, xxii, 178,
 - 179, 216; and to Persia, xxiii, 179, 186,
 - 187, 216, 220; designed for England,
-- 227, 285, 291, 303; at Swally, 263-9,
-- 285; voyage to the Red Sea, xxx, 249,
+- 227, 285, 291, 303; at Swally, 263-9, 285; voyage to the Red Sea, xxx, 249,
 - 250, 275; visits Aden, xxx, 278, 279,
 - 288, 292, 305, 354; consultation aboard,
 - 289; second voyage to England, 312-4,
@@ -4177,10 +4171,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - 97; refitting at Swally, 98; designed for
 - England, 101 (2), 103; second voyage
 - to Persia and back, 105, 107, 108 (2),
-- 115, 116, 117; voyage to England, 123,
-
-<!-- page: 429 | folio: 375 -->
-- 125, 126, 137, 140, 150; again at Swally, xxix, 263-9, 285, 303; third voyage to Persia, 285, 300, 301, 312-14; voyage to Bantam, xxxii, 323, 329-34, 357; returns to Swally, xxxiii, 356, 357; fourth voyage to Persia and back, xxxiv, 361, 362.
+- 115, 116, 117; voyage to England, 123, [p. 375] 125, 126, 137, 140, 150; again at Swally, xxix, 263-9, 285, 303; third voyage to Persia, 285, 300, 301, 312-14; voyage to Bantam, xxxii, 323, 329-34, 357; returns to Swally, xxxiii, 356, 357; fourth voyage to Persia and back, xxxiv, 361, 362.
 - Joyce, Thomas, 125, 311, 314.
 - Juan de Nova, 104.
 - *Jude*, the, 290.
@@ -4638,8 +4629,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - fleet at, 48, 166, 167; proposed English
 - factory at, 64; Persian fortifications at,
 - 37, 40, 80; their defence of, 84; Portuguese at, 118; their designs on, 65, 83;
-- their offer to purchase, refused, 84; their
-- fleet sails for, 88; they blockade the
+- their offer to purchase, refused, 84; their fleet sails for, 88; they blockade the
 - island, ix, 39, 40, 80, 84; and destroy
 - shipping, 2; suggested Anglo-Dutch attack on, 289.
 - Paddy, 316. *See also* Rice.
@@ -4752,8 +4742,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - the Turks (*see also* Basrā), 37, 237, 312;
 - desires English assistance, x, 36, 37, 38,
 - 43, 80, 107, 169, 198, 237; favours the
-- Dutch, 37; but refuses to cede Ormus to
-- them, 84; declines to allow the English
+- Dutch, 37; but refuses to cede Ormus to them, 84; declines to allow the English
 - to fortify, 198, 238; trade at Bantam on
 - his behalf, 212, 223; his ambassadors to
 - England, *see* Naqd Alī Beg *and* Sherley;
@@ -4929,10 +4918,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - and back, xxxiv, 361, 362.
 - *Refuge*, the, xxii, xxvi, 184, 185, 186, 219,
 - 220, 221, 223, 250, 262; at Swally, 178,
-- 187, 222; voyage to Bantam, xxvii,
-
-<!-- page: 436 | folio: 382 -->
-- xxviii, 251, 255, 264, 267, 268, 274;
+- 187, 222; voyage to Bantam, xxvii, [p. 382] xxviii, 251, 255, 264, 267, 268, 274;
 - wrecked there, 278, 291.
 - Réunion (Mascarenhas *or* England's Forest),
 - English ships at, 263–7, 332, 333.
@@ -5048,13 +5034,10 @@ These relate either to the state of the ship, its course, or the punishment of m
 - designs on their shipping, 280.
 - Sana, 193; Dutch prisoners at, 63, 158,
 - 351; Pāshā of, 158; grants *farmāns* for
-- English trade, 158, 159; and the settle-
-
-<!-- page: 437 | folio: 383 -->
-- ment of a factory at Mokha, 347–55;
+- English trade, 158, 159; and the settlement of a factory at Mokha, 347–55;
 - purchases from the English, 349; Dutch
 - negotiations with, 351; a new Pāshā
-- appointed, 353.
+- appointed, 353. [p. 383]
 - Sandal-wood, 31, 97, 118, 120, 131, 133,
 - 144, 181, 223, 281, 284, 291, 315, 330,
 - 339, 340, 341, 342, 346, 351, 357.
@@ -5334,8 +5317,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 -  men's property, 29; restrictions on the
 -  sale of coral at, viii, 27, 59, 63, 67; and
 -  on the importation of munitions, 293;
--  state of trade at, 138, 156, 157, 192–6,
-- 291, 335; debts at, xxvi, xxx, 61, 63, 89,
+-  state of trade at, 138, 156, 157, 192–6, 291, 335; debts at, xxvi, xxx, 61, 63, 89,
 -  100, 103, 154, 163, 194, 201, 285, 295,
 -  296, 299, 300, 306, 326, 329–31, 334;
 -  goods provided and saleable at, 61–4, 92,
@@ -5511,10 +5493,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - Lahore, 33; their complaint to Jahāngīr
 - against the English, vii, 33, 58, 59, 102;
 - loss of Mokha trade owing to troubles
-- with, 36, 63; the Arabs rebel against,
-
-<!-- page: 441 | folio: 387 -->
-- xxx, 351; Shah of Persia at war with
+- with, 36, 63; the Arabs rebel against, [p. 387] xxx, 351; Shah of Persia at war with
 - (*see also* Basrā), 37, 237, 312. *See also*
 - Grand Signor.
 - Turmeric, 258.
@@ -5664,8 +5643,7 @@ These relate either to the state of the ship, its course, or the punishment of m
 - Woolhouse, Rev. John, 103, 114.
 - Woolley, Nicholas, 108, 210, 314.
 - *Wuqiyyah*, 355.
-- Wyche, Nathaniel, 211; letters from, 229,
-- 231, 235, 238, 241, 242, 244, 245, 270,
+- Wyche, Nathaniel, 211; letters from, 229, 231, 235, 238, 241, 242, 244, 245, 270,
 - 273, 275; his salary, 314.
 - Wylde, Richard, 74 *n.*, 325; letters from,
 - *passim*; sails for India, 24 *n.*; at Surat,

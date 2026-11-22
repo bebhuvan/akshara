@@ -1,11 +1,11 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,1,data,,Central Provinces,2,Min.,14·50,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,1,data,,Central Provinces,3,Max,22·28,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,2,data,,Berar,2,Min.,6·5,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,2,data,,Berar,3,Max,15·7,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,3,data,,Bombay,2,Min.,5·25,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,3,data,,Bombay,3,Max,16·4,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,4,data,,Ajmer,2,Min.,10·1,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,4,data,,Ajmer,3,Max,26·6,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,5,data,,Punjab,2,Min.,2·4,,,False,False
-economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,5,data,,Punjab,3,Max,13·20,,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,1,data,,Central Provinces,2,Min.,14·50,14.5,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,1,data,,Central Provinces,3,Max,22·28,22.28,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,2,data,,Berar,2,Min.,6·5,6.5,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,2,data,,Berar,3,Max,15·7,15.7,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,3,data,,Bombay,2,Min.,5·25,5.25,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,3,data,,Bombay,3,Max,16·4,16.4,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,4,data,,Ajmer,2,Min.,10·1,10.1,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,4,data,,Ajmer,3,Max,26·6,26.6,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,5,data,,Punjab,2,Min.,2·4,2.4,,False,False
+economic-causes-of-famines-in-india-ray-1909,tbl-002,Table 2,13,7,5,data,,Punjab,3,Max,13·20,13.2,,False,False

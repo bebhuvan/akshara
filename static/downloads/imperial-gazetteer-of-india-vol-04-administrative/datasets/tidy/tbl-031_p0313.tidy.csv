@@ -1,0 +1,71 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,2,1850-1.,"3,09",309.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,3,1860-1.,"4,20",420.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,4,1870-1.,"5,64",564.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,5,1880-1.,"7,95",795.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,6,1890-1.,"6,13",613.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,7,1900-1.,"6,40",640.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,2,data,Bengal Provision Opium,Receipts,8,1902-3.,"5,75",575.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,2,1850-1.,"1,03",103.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,3,1860-1.,88,88.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,4,1870-1.,"2,01",201.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,5,1880-1.,"2,03",203.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,6,1890-1.,"2,18",218.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,7,1900-1.,"2,68",268.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,3,data,Bengal Provision Opium,Charges,8,1902-3.,"2,47",247.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,2,1850-1.,"2,06",206.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,3,1860-1.,"3,32",332.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,4,1870-1.,"3,63",363.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,5,1880-1.,"5,92",592.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,6,1890-1.,"3,95",395.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,7,1900-1.,"3,72",372.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,4,subtotal,,Net Receipts,8,1902-3.,"3,28",328.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,2,1850-1.,70,70.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,3,1860-1.,"2,48",248.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,4,1870-1.,"2,40",240.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,5,1880-1.,"2,53",253.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,6,1890-1.,"1,75",175.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,7,1900-1.,"1,25",125.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,6,data,Mālwā Export Opium,Receipts,8,1902-3.,"1,00",100.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,2,1850-1.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,3,1860-1.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,4,1870-1.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,5,1880-1.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,6,1890-1.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,7,1900-1.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,7,data,Mālwā Export Opium,Charges,8,1902-3.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,2,1850-1.,69,69.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,3,1860-1.,"2,44",244.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,4,1870-1.,"2,40",240.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,5,1880-1.,"2,53",253.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,6,1890-1.,"1,75",175.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,7,1900-1.,"1,25",125.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,8,subtotal,,Net Receipts,8,1902-3.,99,99.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,2,1850-1.,"3,79",379.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,3,1860-1.,"6,68",668.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,4,1870-1.,"8,04",804.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,5,1880-1.,"10,48",1048.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,6,1890-1.,"7,88",788.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,7,1900-1.,"7,65",765.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,10,data,Total—Bengal and Mālwā,Revenue,8,1902-3.,"6,75",675.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,2,1850-1.,"1,04",104.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,3,1860-1.,92,92.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,4,1870-1.,"2,01",201.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,5,1880-1.,"2,03",203.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,6,1890-1.,"2,18",218.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,7,1900-1.,"2,68",268.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,11,data,Total—Bengal and Mālwā,Expenditure,8,1902-3.,"2,48",248.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,2,1850-1.,"2,75",275.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,3,1860-1.,"5,76",576.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,4,1870-1.,"6,03",603.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,5,1880-1.,"8,45",845.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,6,1890-1.,"5,70",570.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,7,1900-1.,"4,97",497.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,12,subtotal,,Net Revenue,8,1902-3.,"4,27",427.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,2,1850-1.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,3,1860-1.,16,16.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,4,1870-1.,36,36.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,5,1880-1.,74,74.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,6,1890-1.,97,97.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,7,1900-1.,"1,03",103.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-031,TABLE I. Opium (In lakhs of rupees),313,275,13,data,Total—Bengal and Mālwā,Revenue from opium credited under Excise,8,1902-3.,"1,10",110.0,,False,False

@@ -660,7 +660,7 @@
     "column_index": 6,
     "column_header": "Seed. :: For One Acre. :: Value. :: Pence.",
     "raw_text": "11/100",
-    "value_numeric": null,
+    "value_numeric": 0.11,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -804,7 +804,7 @@
     "column_index": 6,
     "column_header": "Seed. :: For One Acre. :: Value. :: Pence.",
     "raw_text": "17/100",
-    "value_numeric": null,
+    "value_numeric": 0.17,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -948,7 +948,7 @@
     "column_index": 6,
     "column_header": "Seed. :: For One Acre. :: Value. :: Pence.",
     "raw_text": "11/100",
-    "value_numeric": null,
+    "value_numeric": 0.11,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1668,7 +1668,7 @@
     "column_index": 6,
     "column_header": "Seed. :: For One Acre. :: Value. :: Pence.",
     "raw_text": "18 18/100",
-    "value_numeric": null,
+    "value_numeric": 18.18,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false

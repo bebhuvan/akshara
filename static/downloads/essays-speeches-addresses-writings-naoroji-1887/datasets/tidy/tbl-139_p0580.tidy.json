@@ -66,7 +66,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "35·2",
-    "value_numeric": null,
+    "value_numeric": 35.2,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -84,7 +84,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "25·7",
-    "value_numeric": null,
+    "value_numeric": 25.7,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -102,7 +102,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "18·7",
-    "value_numeric": null,
+    "value_numeric": 18.7,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "9·9",
-    "value_numeric": null,
+    "value_numeric": 9.9,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -138,7 +138,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "16·3",
-    "value_numeric": null,
+    "value_numeric": 16.3,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "13·8",
-    "value_numeric": null,
+    "value_numeric": 13.8,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -192,7 +192,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "13·6",
-    "value_numeric": null,
+    "value_numeric": 13.6,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -210,7 +210,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "£22·1",
-    "value_numeric": null,
+    "value_numeric": 22.1,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -246,7 +246,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "23·2",
-    "value_numeric": null,
+    "value_numeric": 23.2,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -264,7 +264,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "16·2",
-    "value_numeric": null,
+    "value_numeric": 16.2,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -300,7 +300,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "11·8",
-    "value_numeric": null,
+    "value_numeric": 11.8,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -336,7 +336,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "27·2",
-    "value_numeric": null,
+    "value_numeric": 27.2,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -354,7 +354,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "26·9",
-    "value_numeric": null,
+    "value_numeric": 26.9,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -372,7 +372,7 @@
     "column_index": 2,
     "column_header": "Gross earnings per inhabitant.",
     "raw_text": "43·4",
-    "value_numeric": null,
+    "value_numeric": 43.4,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

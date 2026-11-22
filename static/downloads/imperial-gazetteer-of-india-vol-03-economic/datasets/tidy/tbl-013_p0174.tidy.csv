@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,1,data,,Daling,2,1899. :: Tons.,"2,098",2098.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,1,data,,Daling,3,1900. :: Tons.,"1,490",1490.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,1,data,,Daling,4,1901. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,1,data,,Daling,5,1902. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,1,data,,Daling,6,1903. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,2,data,,Daltonganj,2,1899. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,2,data,,Daltonganj,3,1900. :: Tons.,707,707.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,2,data,,Daltonganj,4,1901. :: Tons.,"3,881",3881.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,2,data,,Daltonganj,5,1902. :: Tons.,"19,352",19352.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,2,data,,Daltonganj,6,1903. :: Tons.,"33,557",33557.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,3,data,,Girīdīh,2,1899. :: Tons.,"628,777",628777.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,3,data,,Girīdīh,3,1900. :: Tons.,"712,727",712727.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,3,data,,Girīdīh,4,1901. :: Tons.,"694,806",694806.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,3,data,,Girīdīh,5,1902. :: Tons.,"776,656",776656.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,3,data,,Girīdīh,6,1903. :: Tons.,"766,871",766871.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,4,data,,Jherriā,2,1899. :: Tons.,"1,007,236",1007236.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,4,data,,Jherriā,3,1900. :: Tons.,"1,710,757",1710757.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,4,data,,Jherriā,4,1901. :: Tons.,"1,946,763",1946763.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,4,data,,Jherriā,5,1902. :: Tons.,"2,420,786",2420786.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,4,data,,Jherriā,6,1903. :: Tons.,"2,493,729",2493729.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,5,data,,Rājmahāl,2,1899. :: Tons.,412,412.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,5,data,,Rājmahāl,3,1900. :: Tons.,397,397.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,5,data,,Rājmahāl,4,1901. :: Tons.,436,436.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,5,data,,Rājmahāl,5,1902. :: Tons.,219,219.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,5,data,,Rājmahāl,6,1903. :: Tons.,335,335.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,6,data,,Rānīganj,2,1899. :: Tons.,"2,396,742",2396742.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,6,data,,Rānīganj,3,1900. :: Tons.,"2,552,414",2552414.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,6,data,,Rānīganj,4,1901. :: Tons.,"2,841,699",2841699.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,6,data,,Rānīganj,5,1902. :: Tons.,"3,042,223",3042223.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,6,data,,Rānīganj,6,1903. :: Tons.,"3,066,720",3066720.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,8,data,Central India,Umariā,2,1899. :: Tons.,"164,569",164569.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,8,data,Central India,Umariā,3,1900. :: Tons.,"164,489",164489.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,8,data,Central India,Umariā,4,1901. :: Tons.,"164,362",164362.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,8,data,Central India,Umariā,5,1902. :: Tons.,"171,538",171538.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,8,data,Central India,Umariā,6,1903. :: Tons.,"193,277",193277.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,10,data,Central Provinces,Mohpāni,2,1899. :: Tons.,"23,596",23596.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,10,data,Central Provinces,Mohpāni,3,1900. :: Tons.,"39,612",39612.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,10,data,Central Provinces,Mohpāni,4,1901. :: Tons.,"43,046",43046.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,10,data,Central Provinces,Mohpāni,5,1902. :: Tons.,"43,645",43645.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,10,data,Central Provinces,Mohpāni,6,1903. :: Tons.,"31,443",31443.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,11,data,Central Provinces,Pench valley,2,1899. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,11,data,Central Provinces,Pench valley,3,1900. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,11,data,Central Provinces,Pench valley,4,1901. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,11,data,Central Provinces,Pench valley,5,1902. :: Tons.,.,,tons,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,11,data,Central Provinces,Pench valley,6,1903. :: Tons.,88,88.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,12,data,Central Provinces,Warorā,2,1899. :: Tons.,"132,980",132980.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,12,data,Central Provinces,Warorā,3,1900. :: Tons.,"133,230",133230.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,12,data,Central Provinces,Warorā,4,1901. :: Tons.,"148,470",148470.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,12,data,Central Provinces,Warorā,5,1902. :: Tons.,"153,336",153336.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,12,data,Central Provinces,Warorā,6,1903. :: Tons.,"127,623",127623.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,14,data,Hyderābād,Singareni,2,1899. :: Tons.,"401,216",401216.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,14,data,Hyderābād,Singareni,3,1900. :: Tons.,"469,291",469291.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,14,data,Hyderābād,Singareni,4,1901. :: Tons.,"421,218",421218.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,14,data,Hyderābād,Singareni,5,1902. :: Tons.,"455,424",455424.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,14,data,Hyderābād,Singareni,6,1903. :: Tons.,"362,733",362733.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,15,total,,Total,2,1899. :: Tons.,"4,757,626",4757626.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,15,total,,Total,3,1900. :: Tons.,"5,785,114",5785114.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,15,total,,Total,4,1901. :: Tons.,"6,264,681",6264681.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,15,total,,Total,5,1902. :: Tons.,"7,083,179",7083179.0,tons,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-013,Table 13,174,132,15,total,,Total,6,1903. :: Tons.,"7,076,376",7076376.0,tons,False,True

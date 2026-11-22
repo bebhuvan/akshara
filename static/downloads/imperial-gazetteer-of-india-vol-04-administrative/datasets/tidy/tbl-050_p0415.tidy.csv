@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-050,Table 50,415,377,1,subtotal,,"Total net expenditure, in crores of rupees",2,1881-2.,17·9,17.9,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-050,Table 50,415,377,1,subtotal,,"Total net expenditure, in crores of rupees",3,1891-2.,22·6,22.6,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-050,Table 50,415,377,1,subtotal,,"Total net expenditure, in crores of rupees",4,1901-2.,23·6,23.6,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-050,Table 50,415,377,1,subtotal,,"Total net expenditure, in crores of rupees",5,1902-3.,25·9,25.9,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-050,Table 50,415,377,1,subtotal,,"Total net expenditure, in crores of rupees",6,1904-5.,30·2,30.2,,False,False

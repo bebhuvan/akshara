@@ -1,9 +1,9 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,1,data,,In comfort,2,Annual average income of a non-cultivator. :: Rs.,60,60.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,1,data,,In comfort,3,Rs.,80,80.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,2,data,,Below comfort,2,Annual average income of a non-cultivator. :: Rs.,43,43.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,2,data,,Below comfort,3,Rs.,42,42.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,3,data,,Above want,2,Annual average income of a non-cultivator. :: Rs.,34,34.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,3,data,,Above want,3,Rs.,31,31.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,4,data,,In want,2,Annual average income of a non-cultivator. :: Rs.,27,27.0,Rs,False,False
-economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,4,data,,In want,3,Rs.,24,24.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,1,data,,In comfort,2,Annual average income of a cultivator. :: Rs.,60,60.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,1,data,,In comfort,3,Annual average income of a non-cultivator. :: Rs.,80,80.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,2,data,,Below comfort,2,Annual average income of a cultivator. :: Rs.,43,43.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,2,data,,Below comfort,3,Annual average income of a non-cultivator. :: Rs.,42,42.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,3,data,,Above want,2,Annual average income of a cultivator. :: Rs.,34,34.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,3,data,,Above want,3,Annual average income of a non-cultivator. :: Rs.,31,31.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,4,data,,In want,2,Annual average income of a cultivator. :: Rs.,27,27.0,Rs,False,False
+economic-life-bengal-district-faridpur-1916,tbl-005,Table 5,98,94,4,data,,In want,3,Annual average income of a non-cultivator. :: Rs.,24,24.0,Rs,False,False

@@ -498,7 +498,7 @@
     "column_index": 2,
     "column_header": "in the population as a whole.",
     "raw_text": "4·3",
-    "value_numeric": null,
+    "value_numeric": 4.3,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -534,7 +534,7 @@
     "column_index": 4,
     "column_header": "amongst Muhammadans. :: amongst non-cultivators only.",
     "raw_text": "5·6",
-    "value_numeric": null,
+    "value_numeric": 5.6,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

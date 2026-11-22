@@ -2,7 +2,7 @@ book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,
 journey-from-madras-vol-ii,tbl-032,Table 32,428,404,1,data,,Fanams,2,Column 2,47,47.0,,False,False
 journey-from-madras-vol-ii,tbl-032,Table 32,428,404,1,data,,Fanams,3,Column 3,10,10.0,,False,False
 journey-from-madras-vol-ii,tbl-032,Table 32,428,404,2,data,,Deduct revenue,2,Column 2,13,13.0,,False,False
-journey-from-madras-vol-ii,tbl-032,Table 32,428,404,2,data,,Deduct revenue,3,Column 3,13 1/3,13.333333,,False,False
+journey-from-madras-vol-ii,tbl-032,Table 32,428,404,2,data,,Deduct revenue,3,Column 3,13⅓,13.333333,,False,False
 journey-from-madras-vol-ii,tbl-032,Table 32,428,404,3,data,,Annual charges,2,Column 2,8,8.0,,False,False
 journey-from-madras-vol-ii,tbl-032,Table 32,428,404,3,data,,Annual charges,3,Column 3,0,0.0,,False,False
 journey-from-madras-vol-ii,tbl-032,Table 32,428,404,4,subtotal,,Row 4,2,Column 2,21,21.0,,False,False

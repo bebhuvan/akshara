@@ -1,7 +1,7 @@
 ---
 title: "Famines, Surveys & District Handbooks"
 type: "collections"
-book_count: 15
+book_count: 18
 author_count: 12
 earliest_year: 1807
 latest_year: 1918
@@ -13,7 +13,10 @@ books:
   - "economic-life-bengal-district-faridpur-1916"
   - "famines-and-land-assessments"
   - "history-and-economics-indian-famines-loveday-1914"
-  - "imperial-gazetteer-india-v1"
+  - "imperial-gazetteer-of-india-vol-01-descriptive"
+  - "imperial-gazetteer-of-india-vol-02-historical"
+  - "imperial-gazetteer-of-india-vol-03-economic"
+  - "imperial-gazetteer-of-india-vol-04-administrative"
   - "indian-famines-causes-prevention-dutt-1901"
   - "journey-from-madras-vol-i"
   - "journey-from-madras-vol-ii"
@@ -27,4 +30,4 @@ books:
 
 Empirical field surveys, famine commission histories, village household accounts, and provincial agricultural monographs.
 
-This curated shelf brings together 15 public-domain editions across Akshara.
+This curated shelf brings together 18 public-domain editions across Akshara.

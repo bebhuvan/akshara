@@ -457,10 +457,10 @@
       "end_page": 261,
       "printed_folio": "220",
       "column_count": 13,
-      "row_count": 35,
-      "tidy_observation_count": 336,
+      "row_count": 37,
+      "tidy_observation_count": 348,
       "arithmetic_verified": false,
-      "arithmetic_status": "flagged_for_review"
+      "arithmetic_status": "no_total_row"
     },
     {
       "table_id": "tbl-025",

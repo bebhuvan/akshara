@@ -1,6 +1,6 @@
 ---
 title: "Indian Famines, Their Causes and Prevention"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -45,6 +45,7 @@ provenance_statement: "Automated reading (25 open review items); 0 of 23 pages h
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
+  - "Scan-Triaged: 2 fixes"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 2/2 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -130,7 +131,7 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (23 pp.).
   - **Reader**: Read by gemini-3.8-flash on 23 of 23 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 0 replayed correction(s). Automated reading (25 open review items); 0 of 23 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 2 replayed correction(s). Automated reading (25 open review items); 0 of 23 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

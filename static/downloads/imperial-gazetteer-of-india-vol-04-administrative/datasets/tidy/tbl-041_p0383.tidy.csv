@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,1,data,,Bengal army,2,Cavalry regiments.,19,19.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,1,data,,Bengal army,3,Artillery batteries.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,1,data,,Bengal army,4,Infantry battalions.,49,49.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,2,data,,Madras army,2,Cavalry regiments.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,2,data,,Madras army,3,Artillery batteries.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,2,data,,Madras army,4,Infantry battalions.,40,40.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,3,data,,Bombay army,2,Cavalry regiments.,7,7.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,3,data,,Bombay army,3,Artillery batteries.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,3,data,,Bombay army,4,Infantry battalions.,30,30.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,4,data,,Punjab Frontier Force,2,Cavalry regiments.,6,6.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,4,data,,Punjab Frontier Force,3,Artillery batteries.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,4,data,,Punjab Frontier Force,4,Infantry battalions.,12,12.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,5,data,,Local corps,2,Cavalry regiments.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,5,data,,Local corps,3,Artillery batteries.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,5,data,,Local corps,4,Infantry battalions.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,6,data,,Hyderābād Contingent,2,Cavalry regiments.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,6,data,,Hyderābād Contingent,3,Artillery batteries.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-041,Table 41,383,345,6,data,,Hyderābād Contingent,4,Infantry battalions.,6,6.0,,False,False

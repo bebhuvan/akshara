@@ -33,10 +33,25 @@ author = "Dadabhai Naoroji"
 ["guide-to-india-office-records-1919"]
 cover_title = "A Guide to the India Office Records"
 
-["imperial-gazetteer-india-v1"]
+["imperial-gazetteer-of-india-vol-01-descriptive"]
 cover_title = "The Imperial Gazetteer of India, Vol. I"
-author = "Various authors"
-sort_name = "Imperial Gazetteer, various authors"
+author = "The India Office"
+sort_name = "India Office, The"
+
+["imperial-gazetteer-of-india-vol-02-historical"]
+cover_title = "The Imperial Gazetteer of India, Vol. II"
+author = "The India Office"
+sort_name = "India Office, The"
+
+["imperial-gazetteer-of-india-vol-03-economic"]
+cover_title = "The Imperial Gazetteer of India, Vol. III"
+author = "The India Office"
+sort_name = "India Office, The"
+
+["imperial-gazetteer-of-india-vol-04-administrative"]
+cover_title = "The Imperial Gazetteer of India, Vol. IV"
+author = "The India Office"
+sort_name = "India Office, The"
 
 ["journey-from-madras-vol-i"]
 cover_title = "A Journey from Madras, Vol. I"

@@ -6,12 +6,13 @@ weight: 1
 start_page: 5
 end_page: 8
 printed_start_folio: "i"
+printed_end_folio: "iv"
 reading_time: 1
 footnotes_count: 0
 tables_count: 0
 book_id: "economic-history-india-early-british-dutt"
 archive_id: "ed2economichisto00dutt"
-edition_tier: "machine_checked"
+edition_tier: "community"
 edition_generation: "v6"
 proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/economic-history-india-early-british-dutt/5"

@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-057,Statistics of other Hospitals and Dispensaries in 1902,518,480,1,data,,Private independent institutions,2,Institutions.,480,480.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-057,Statistics of other Hospitals and Dispensaries in 1902,518,480,1,data,,Private independent institutions,3,Patients.,"3,007,000",3007000.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-057,Statistics of other Hospitals and Dispensaries in 1902,518,480,2,data,,"Railway, Police, &c., hospitals",2,Institutions.,506,506.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-057,Statistics of other Hospitals and Dispensaries in 1902,518,480,2,data,,"Railway, Police, &c., hospitals",3,Patients.,"1,111,000",1111000.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-057,Statistics of other Hospitals and Dispensaries in 1902,518,480,3,total,,Total,2,Institutions.,986,986.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-057,Statistics of other Hospitals and Dispensaries in 1902,518,480,3,total,,Total,3,Patients.,"4,118,000",4118000.0,,False,False

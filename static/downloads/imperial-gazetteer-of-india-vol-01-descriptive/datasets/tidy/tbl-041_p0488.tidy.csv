@@ -1,0 +1,81 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,1,data,,British Territory,2,Column 2,♢ ♢ ♢ ♢ ♢ ♦ ♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,1,data,,British Territory,3,Column 3,♢ ♢ ♢ ♢ ♢ ♦ ♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,1,data,,British Territory,4,Column 4,♢ ♢ ♢ ♢ < ♦ ♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,1,data,,British Territory,5,Column 5,♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,1,data,,British Territory,6,Percentage of area or population of India as a whole.,61·5 78·8,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,2,data,,Native States,2,Column 2,♢ ♢ ♢ ♢ ♢ ♦ ♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,2,data,,Native States,3,Column 3,♢ ♢ ♢ ♢ ♢ ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,2,data,,Native States,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,2,data,,Native States,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,2,data,,Native States,6,Percentage of area or population of India as a whole.,38·5 21·2,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,3,data,,Bengal,2,Column 2,♢ ♢ ♢ ♦ ♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,3,data,,Bengal,3,Column 3,♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,3,data,,Bengal,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,3,data,,Bengal,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,3,data,,Bengal,6,Percentage of area or population of India as a whole.,10·7 26·6,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,4,data,,United Provinces,2,Column 2,♢ < ♦ ♦ ♦ ♦ ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,4,data,,United Provinces,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,4,data,,United Provinces,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,4,data,,United Provinces,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,4,data,,United Provinces,6,Percentage of area or population of India as a whole.,6·3 16·5,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,5,data,,Madras,2,Column 2,♢ ♢ ♦ ♦ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,5,data,,Madras,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,5,data,,Madras,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,5,data,,Madras,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,5,data,,Madras,6,Percentage of area or population of India as a whole.,8·1 13·1,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,6,data,,Punjab and North-west Frontier Province,2,Column 2,♢ ♢ ♦ ♦ ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,6,data,,Punjab and North-west Frontier Province,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,6,data,,Punjab and North-west Frontier Province,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,6,data,,Punjab and North-west Frontier Province,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,6,data,,Punjab and North-west Frontier Province,6,Percentage of area or population of India as a whole.,8·5 9·1,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,7,data,,Bombay,2,Column 2,♢ ♢ ♢ ♦ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,7,data,,Bombay,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,7,data,,Bombay,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,7,data,,Bombay,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,7,data,,Bombay,6,Percentage of area or population of India as a whole.,10·6 8·6,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,8,data,,Central Provinces,2,Column 2,♢ ♢ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,8,data,,Central Provinces,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,8,data,,Central Provinces,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,8,data,,Central Provinces,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,8,data,,Central Provinces,6,Percentage of area or population of India as a whole.,6·5 4·0,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,9,data,,Hyderābād,2,Column 2,♢ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,9,data,,Hyderābād,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,9,data,,Hyderābād,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,9,data,,Hyderābād,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,9,data,,Hyderābād,6,Percentage of area or population of India as a whole.,4·6 3·8,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,10,data,,Burma,2,Column 2,♢ ♢ ♢ < ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,10,data,,Burma,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,10,data,,Burma,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,10,data,,Burma,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,10,data,,Burma,6,Percentage of area or population of India as a whole.,13·4 3·5,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,11,data,,Rājputāna States,2,Column 2,♢ ♢ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,11,data,,Rājputāna States,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,11,data,,Rājputāna States,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,11,data,,Rājputāna States,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,11,data,,Rājputāna States,6,Percentage of area or population of India as a whole.,7·2 3·3,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,12,data,,Central India States,2,Column 2,♢ ♦,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,12,data,,Central India States,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,12,data,,Central India States,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,12,data,,Central India States,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,12,data,,Central India States,6,Percentage of area or population of India as a whole.,4·4 2·9,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,13,data,,Assam,2,Column 2,♢ ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,13,data,,Assam,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,13,data,,Assam,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,13,data,,Assam,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,13,data,,Assam,6,Percentage of area or population of India as a whole.,3·2 2·1,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,14,data,,Mysore,2,Column 2,< ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,14,data,,Mysore,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,14,data,,Mysore,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,14,data,,Mysore,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,14,data,,Mysore,6,Percentage of area or population of India as a whole.,1·6 1·9,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,15,data,,Kashmīr,2,Column 2,♢ < ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,15,data,,Kashmīr,3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,15,data,,Kashmīr,4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,15,data,,Kashmīr,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,15,data,,Kashmīr,6,Percentage of area or population of India as a whole.,4·5 0·9,,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,16,data,,Baluchistān (with Agency tracts),2,Column 2,♢ ♢ ◖,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,16,data,,Baluchistān (with Agency tracts),3,Column 3,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,16,data,,Baluchistān (with Agency tracts),4,Column 4,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,16,data,,Baluchistān (with Agency tracts),5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-041,Table 41,488,450,16,data,,Baluchistān (with Agency tracts),6,Percentage of area or population of India as a whole.,7·5 0·3,,%,False,False

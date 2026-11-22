@@ -1,0 +1,67 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,1,data,,Oryza sativa,2,English Name.,Rice,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,1,data,,Oryza sativa,3,Vernacular Name in Hindustāni.,Dhān.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,2,data,,Triticum sativum,2,English Name.,Wheat,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,2,data,,Triticum sativum,3,Vernacular Name in Hindustāni.,Gehūn.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,3,data,,"Andropogon sorghum, or Sorghum vulgare",2,English Name.,Great millet },,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,3,data,,"Andropogon sorghum, or Sorghum vulgare",3,Vernacular Name in Hindustāni.,"Juār (jowār). [Tamil, Cholam.]",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,4,data,,Pennisetum typhoideum,2,English Name.,Bulrush or spiked millet.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,4,data,,Pennisetum typhoideum,3,Vernacular Name in Hindustāni.,"Bājra. [Tamil, Cambu.]",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,5,data,,Hordeum vulgare,2,English Name.,Barley,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,5,data,,Hordeum vulgare,3,Vernacular Name in Hindustāni.,Jau.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,6,data,,Avena sativa,2,English Name.,Oats,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,6,data,,Avena sativa,3,Vernacular Name in Hindustāni.,Jai.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,7,data,,Zea Mays,2,English Name.,Maize,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,7,data,,Zea Mays,3,Vernacular Name in Hindustāni.,Makka or Makai.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,8,data,,Eleusine coracana,2,English Name.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,8,data,,Eleusine coracana,3,Vernacular Name in Hindustāni.,"Manduā or Maruā. [In Bombay, Nāgli; in Mysore and Madras, Rāgi.]",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,9,data,,Panicum crusgalli,2,English Name.,Small millets },,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,9,data,,Panicum crusgalli,3,Vernacular Name in Hindustāni.,Banti (Bombay).,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,10,data,,Panicum miliaceum,2,English Name.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,10,data,,Panicum miliaceum,3,Vernacular Name in Hindustāni.,"Chenā, Vari (Bombay)",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,11,data,,Panicum frumentaceum,2,English Name.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,11,data,,Panicum frumentaceum,3,Vernacular Name in Hindustāni.,Sāwān.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,12,data,,Paspalum scrobiculatum,2,English Name.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,12,data,,Paspalum scrobiculatum,3,Vernacular Name in Hindustāni.,Kodon.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,13,data,,Setaria glauca,2,English Name.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,13,data,,Setaria glauca,3,Vernacular Name in Hindustāni.,Barti (Bombay).,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,14,data,,Setaria italica,2,English Name.,Italian millet,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,14,data,,Setaria italica,3,Vernacular Name in Hindustāni.,Kakun.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,16,data,Pulses,Cicer arietinum,2,English Name.,Gram,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,16,data,Pulses,Cicer arietinum,3,Vernacular Name in Hindustāni.,Chana.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,17,data,Pulses,Dolichos biflorus,2,English Name.,Horse gram,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,17,data,Pulses,Dolichos biflorus,3,Vernacular Name in Hindustāni.,Khulāt.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,18,data,Pulses,Cajanus indicus,2,English Name.,Pigeon-pea,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,18,data,Pulses,Cajanus indicus,3,Vernacular Name in Hindustāni.,"Arhar. [In Bombay, Tur.]",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,19,data,Pulses,Lathyrus sativus,2,English Name.,Chickling vetch,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,19,data,Pulses,Lathyrus sativus,3,Vernacular Name in Hindustāni.,Kisāri.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,20,data,Pulses,Dolichos Lablab,2,English Name.,Indian bean,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,20,data,Pulses,Dolichos Lablab,3,Vernacular Name in Hindustāni.,Sem.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,21,data,Pulses,Cyamopsis psoralioides,2,English Name.,Cluster bean,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,21,data,Pulses,Cyamopsis psoralioides,3,Vernacular Name in Hindustāni.,Guār.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,22,data,Pulses,Phaseolus aconitifolius,2,English Name.,Kidney bean,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,22,data,Pulses,Phaseolus aconitifolius,3,Vernacular Name in Hindustāni.,Moth.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,23,data,Pulses,Phaseolus Mungo,2,English Name.,Black gram,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,23,data,Pulses,Phaseolus Mungo,3,Vernacular Name in Hindustāni.,Urd or Māsh.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,24,data,Pulses,Phaseolus radiatus,2,English Name.,Green gram,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,24,data,Pulses,Phaseolus radiatus,3,Vernacular Name in Hindustāni.,Mūng.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,25,data,Pulses,Vigna Catiang,2,English Name.,Cow-pea,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,25,data,Pulses,Vigna Catiang,3,Vernacular Name in Hindustāni.,Lobia.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,26,data,Pulses,Ervum Lens,2,English Name.,Lentil,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,26,data,Pulses,Ervum Lens,3,Vernacular Name in Hindustāni.,Masūr.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,27,data,Pulses,Pisum arvense Pisum sativum,2,English Name.,{ Peas,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,27,data,Pulses,Pisum arvense Pisum sativum,3,Vernacular Name in Hindustāni.,Matar.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,29,data,Oilseeds,Linum usitatissimum,2,English Name.,Linseed,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,29,data,Oilseeds,Linum usitatissimum,3,Vernacular Name in Hindustāni.,Alsi.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,30,data,Oilseeds,Sesamum indicum,2,English Name.,Sesamum or gingelly.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,30,data,Oilseeds,Sesamum indicum,3,Vernacular Name in Hindustāni.,Til.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,31,data,Oilseeds,Carthamus tinctorius,2,English Name.,Safflower,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,31,data,Oilseeds,Carthamus tinctorius,3,Vernacular Name in Hindustāni.,"Kusum, Barre.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,32,data,Oilseeds,Guizotia abyssinica,2,English Name.,Niger-seed,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,32,data,Oilseeds,Guizotia abyssinica,3,Vernacular Name in Hindustāni.,Kālā til.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,33,data,Oilseeds,Arachis hypogaea,2,English Name.,Ground-nut,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,33,data,Oilseeds,Arachis hypogaea,3,Vernacular Name in Hindustāni.,Mūngphali.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,34,data,Oilseeds,Ricinus communis,2,English Name.,Castor-oil plant,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,34,data,Oilseeds,Ricinus communis,3,Vernacular Name in Hindustāni.,Arind or Rendi.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,35,data,Oilseeds,Brassica campestris,2,English Name.,Rape or mustard,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-007,TABLE II Principal Crops cultivated in India,140,98,35,data,Oilseeds,Brassica campestris,3,Vernacular Name in Hindustāni.,"Sarson, Lāhi.",,,False,False

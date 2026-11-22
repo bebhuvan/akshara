@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-017,Table 17,187,149,1,data,,Jacobābād,2,Column 2,Jodhpur.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-017,Table 17,187,149,2,data,,Pachbhadrā,2,Column 2,Sirsa.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-017,Table 17,187,149,3,data,,Hyderābād,2,Column 2,Multān.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-017,Table 17,187,149,4,data,,Montgomery,2,Column 2,Khushāb.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-017,Table 17,187,149,5,data,,Dera Ismail Khān,2,Column 2,Lahore.,,,False,False

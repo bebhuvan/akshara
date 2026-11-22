@@ -1752,7 +1752,7 @@
       "row_count": 34,
       "tidy_observation_count": 170,
       "arithmetic_verified": false,
-      "arithmetic_status": "compositor_variant"
+      "arithmetic_status": "flagged_for_review"
     },
     {
       "table_id": "tbl-093",

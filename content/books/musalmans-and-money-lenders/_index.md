@@ -1,6 +1,6 @@
 ---
 title: "Musalmans and Money-Lenders in the Punjab"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Septimus Smet Thorburn"
 author_slug: "septimus-smet-thorburn"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (3 open review items); 2 of 207 pages h
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 19 fixes · 2 pp. checked"
+  - "Scan-Triaged: 22 fixes · 2 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 10/10 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -215,7 +215,7 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (207 pp.).
   - **Reader**: Read by gemini-3.8-flash on 207 of 207 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 19 replayed correction(s). Automated reading (3 open review items); 2 of 207 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 22 replayed correction(s). Automated reading (3 open review items); 2 of 207 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

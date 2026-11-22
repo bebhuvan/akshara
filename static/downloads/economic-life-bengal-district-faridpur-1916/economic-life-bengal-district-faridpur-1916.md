@@ -73,9 +73,6 @@ J. C. JACK.
 
 ### CONTENTS
 
-
-##### PAGE
-
 - <span class="sc">Chapter I
 The District and its inhabitants, their homes and manner of life</span> . . . . . 13
 - <span class="sc">Chapter II
@@ -96,9 +93,6 @@ Taxation</span> . . . . . . . 113
 - <span class="sc">Table I. Population which came under review</span> 150
 
 <!-- page: 16 | folio: 12 -->
-
-##### <span class="sc">page</span>
-
 - <span class="sc">Table</span> II. (*a*) <span class="sc">Classification of Population by Income and Economic Condition</span> . . 151
 - (*b*) <span class="sc">Percentages of Classification</span> . . 153
 - (*c*) <span class="sc">Average Annual Income of Different Classes</span> . . . . . . 154
@@ -256,8 +250,9 @@ Very great labour was devoted to the preparation of domestic budgets by over two
 Perhaps the most convenient method of illustrating the standards which were adopted for the classification of families will be to examine in detail the amounts which were finally adopted as equivalent to the expenditure of an ordinary family living in comfort and of an ordinary family living in indigence or just above the margin of starvation. In both cases the basis of the calculation was a family of five, consisting of two [p. 59] adult males, one adult female, one male and one female child. In the classification, as will be explained later, there were two more classes, ‘below comfort’ and ‘above indigence’, which were intermediate between the two selected for examination; but it is unnecessary to reproduce here the details of the normal budgets of these classes, as they were naturally between the two extremes.
 
 
-| Item of Expenditure. :: *Food :* | Amount spent annually by a family in comfort. :: £ | Amount spent annually by a family in extreme indigence. :: s. | d. | £ | s. | d. |
+| Item of Expenditure. | Amount spent annually by a family in comfort. :: £ | Amount spent annually by a family in comfort. :: s. | Amount spent annually by a family in comfort. :: d. | Amount spent annually by a family in extreme indigence. :: £ | Amount spent annually by a family in extreme indigence. :: s. | Amount spent annually by a family in extreme indigence. :: d. |
 | --- | --- | --- | --- | --- | --- | --- |
+| *Food :* |  |  |  |  |  |  |
 | Rice | 8 | 0 | 0 | 4 | 0 | 0 |
 | Salt |  | 2 | 8 |  | 2 | 0 |
 | Oil . |  | 8 | 0 |  | 4 | 0 |
@@ -309,8 +304,9 @@ These classes were never sufficiently numerous to [p. 70] make it worth while to
 For comparison with the budgets of the cultivators I append domestic budgets drawn up for an ordinary non-agricultural family of the working class. A family of the same size is adopted and the average income per head works out at the same figure. These budgets must, however, only be taken as rough guides. It is really impossible to average the expenditure of fishermen, weavers, coolies and small traders; but the number of each group was so small in comparison with the total population of the district that it did not seem worth while to select sufficient families from each to enable budgets to be drawn up for each separately. In comparison with cultivators a larger proportion of the expenditure is upon food; but it is probable that this does not represent greater quantity or better quality. The bulk of the food is bought, but non-cultivators fish as cultivators do, although they probably buy more fish in the year than the cultivator. Some rent land and grow food crops upon them by hiring [p. 71] labour; most grow tobacco and vegetables on homestead lands, many keep a cow to give them milk and butter and grow thatching grass and a bamboo clump in their gardens to supply materials for the repair of their huts. The budgets are as follows:
 
 
-| Item of :: Expenditure. :: *Food:* | Amount spent :: annually by :: a family in :: comfort. :: £ | Amount spent :: annually by :: a family in :: comfort. :: *s.* | Amount spent :: annually by :: a family in :: comfort. :: *d.* | Amount spent :: annually by :: a family in :: extreme indigence. :: £ | Amount spent :: annually by :: a family in :: extreme indigence. :: *s.* | Amount spent :: annually by :: a family in :: extreme indigence. :: *d.* |
+| Item of :: Expenditure. | Amount spent :: annually by :: a family in :: comfort. :: £ | Amount spent :: annually by :: a family in :: comfort. :: *s.* | Amount spent :: annually by :: a family in :: comfort. :: *d.* | Amount spent :: annually by :: a family in :: extreme indigence. :: £ | Amount spent :: annually by :: a family in :: extreme indigence. :: *s.* | Amount spent :: annually by :: a family in :: extreme indigence. :: *d.* |
 | --- | --- | --- | --- | --- | --- | --- |
+| *Food:* |  |  |  |  |  |  |
 | Rice | 8 | 0 | 0 | 4 | 0 | 0 |
 | Salt |  | 2 | 8 |  | 2 | 0 |
 | Oil |  | 8 | 0 |  | 4 | 0 |
@@ -428,7 +424,7 @@ All classifications and figures of income for the non-agricultural population as
 
 
 **Percentages of the population classified as—**
-| Agricultural. | Non-agricultural. | Column 3 |
+| Item | Agricultural. | Non-agricultural. |
 | --- | --- | --- |
 | In comfort | 49½ | 47 |
 | Below comfort | 28½ | 27 |
@@ -438,7 +434,7 @@ All classifications and figures of income for the non-agricultural population as
 It will be seen that the condition of the non-cultivator is generally worse than the condition of the cultivator. [p. 94] If the ‘bhadralok’, the moneylenders and the large traders were eliminated, the non-cultivator would come far worse out of the comparison. The average individual income in the several economic groups is substantially the same in the two classes, the excess in the income of the ‘comfortable’ non-cultivator being entirely due to the inclusion of the landlords and successful traders and ‘bhadralok’ in the group. The figures of income per head are :—
 
 
-| Annual average income of a cultivator. | Annual average income of a non-cultivator. :: Rs. | Rs. |
+| Item | Annual average income of a cultivator. :: Rs. | Annual average income of a non-cultivator. :: Rs. |
 | --- | --- | --- |
 | In comfort . | 60 | 80 |
 | Below comfort | 43 | 42 |
@@ -951,7 +947,7 @@ Proportion of children to adults in total population 64 per cent.: amongst Hindu
 <!-- page: 157 | folio: 153 -->
 
 **OTHERS (chiefly Christian)**
-| Classified as living | Total. :: Families. | Agricultural. :: Persons. | Non-agricultural. :: Income in rupees. | Families. | Persons. | Income in rupees. | Families. | Persons. | Income in rupees. |
+| Classified as living | Total. :: Families. | Total. :: Persons. | Total. :: Income in rupees. | Agricultural. :: Families. | Agricultural. :: Persons. | Agricultural. :: Income in rupees. | Non-agricultural. :: Families. | Non-agricultural. :: Persons. | Non-agricultural. :: Income in rupees. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | in comfort | 366 | 2,404 | 133,367 | 326 | 2,174 | 119,641 | 40 | 230 | 13,726 |
 | below comfort | 176 | 1,188 | 50,223 | 157 | 1,067 | 45,667 | 19 | 121 | 4,556 |
@@ -1039,8 +1035,9 @@ The total debt amongst non-cultivators was Rs. 5,991,286 (Muhammadans Rs. 848,11
 <!-- page: 160 | folio: 156 -->
 
 **(*b*) <span class="sc">Proportion per cent. of Families Indebted</span>**
-| Amongst :: Cultivators: | Number of families free from debt. :: Amongst all families. :: Cultivators: | Number of families free from debt. :: in comfort. :: Cultivators: | Number of families free from debt. :: below comfort. :: Cultivators: | Number of families free from debt. :: above want. :: Cultivators: | Number of families free from debt. :: in want. :: Cultivators: | Number of families indebted. :: Amongst all families. :: Cultivators: | Number of families indebted. :: in comfort. :: Cultivators: | Number of families indebted. :: below comfort. :: Cultivators: | Number of families indebted. :: above want. :: Cultivators: | Number of families indebted. :: in want. :: Cultivators: |
+| Amongst | Number of families free from debt. :: Amongst all families. | Number of families free from debt. :: in comfort. | Number of families free from debt. :: below comfort. | Number of families free from debt. :: above want. | Number of families free from debt. :: in want. | Number of families indebted. :: Amongst all families. | Number of families indebted. :: in comfort. | Number of families indebted. :: below comfort. | Number of families indebted. :: above want. | Number of families indebted. :: in want. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cultivators: |  |  |  |  |  |  |  |  |  |  |
 | Hindu | 60 | 67 | 52 | 52 | 63 | 40 | 33 | 48 | 48 | 37 |
 | Muhammadan | 53 | 58 | 46 | 47 | 56 | 47 | 42 | 54 | 53 | 44 |
 | Non-cultivators: |  |  |  |  |  |  |  |  |  |  |
@@ -1057,8 +1054,9 @@ The total debt amongst non-cultivators was Rs. 5,991,286 (Muhammadans Rs. 848,11
 
 
 **Amongst every hundred indebted families, whose debt amounted to**
-| Amongst :: Cultivators : | about one-quarter of annual income, the following were classified as living :: in comfort. | about one-quarter of annual income, the following were classified as living :: below comfort. | about one-quarter of annual income, the following were classified as living :: above want. | about one-quarter of annual income, the following were classified as living :: in want. | between one-quarter and three-quarters of annual income, the following were classified as living :: in comfort. | between one-quarter and three-quarters of annual income, the following were classified as living :: below comfort. | between one-quarter and three-quarters of annual income, the following were classified as living :: above want. | between one-quarter and three-quarters of annual income, the following were classified as living :: in want. | between three-quarters and one and a half times annual income, the following were classified as living :: in comfort. | between three-quarters and one and a half times annual income, the following were classified as living :: below comfort. | between three-quarters and one and a half times annual income, the following were classified as living :: above want. | between three-quarters and one and a half times annual income, the following were classified as living :: in want. | twice annual income and upwards, the following were classified as living :: in comfort. | twice annual income and upwards, the following were classified as living :: below comfort. | twice annual income and upwards, the following were classified as living :: above want. | twice annual income and upwards, the following were classified as living :: in want. |
+| Amongst | about one-quarter of annual income, the following were classified as living :: in comfort. | about one-quarter of annual income, the following were classified as living :: below comfort. | about one-quarter of annual income, the following were classified as living :: above want. | about one-quarter of annual income, the following were classified as living :: in want. | between one-quarter and three-quarters of annual income, the following were classified as living :: in comfort. | between one-quarter and three-quarters of annual income, the following were classified as living :: below comfort. | between one-quarter and three-quarters of annual income, the following were classified as living :: above want. | between one-quarter and three-quarters of annual income, the following were classified as living :: in want. | between three-quarters and one and a half times annual income, the following were classified as living :: in comfort. | between three-quarters and one and a half times annual income, the following were classified as living :: below comfort. | between three-quarters and one and a half times annual income, the following were classified as living :: above want. | between three-quarters and one and a half times annual income, the following were classified as living :: in want. | twice annual income and upwards, the following were classified as living :: in comfort. | twice annual income and upwards, the following were classified as living :: below comfort. | twice annual income and upwards, the following were classified as living :: above want. | twice annual income and upwards, the following were classified as living :: in want. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Cultivators : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Hindu | 60½ | 27 | 10½ | 2 | 53 | 28 | 16 | 3 | 44½ | 30 | 20½ | 5 | 41 | 28 | 23 | 8 |
 | Muhammadan | 58 | 28 | 12 | 2 | 49½ | 30 | 17 | 3½ | 44 | 29 | 22 | 6 | 38 | 28 | 26 | 7½ |
 | Non-cultivators : |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1072,8 +1070,9 @@ The total debt amongst non-cultivators was Rs. 5,991,286 (Muhammadans Rs. 848,11
 <!-- page: 162 | folio: 158 -->
 
 **TABLE IV VILLAGE TAXATION (CHOKIDARI TAX)**
-| Upon families classified as living :: Cultivators : | Number of families exempted. :: per cent. | Assess- ment per family on families taxed. :: R. A. | Burden on income of families taxed. :: per cent. | Yield of tax. :: Rs. | In whole class (i. e. including families exempted) yield equivalent to tax per family of :: R. A. | In whole class (i. e. including families exempted) yield equivalent to propor- tion of income. :: per cent. |
+| Upon families classified as living | Number of families exempted. :: per cent. | Assess- ment per family on families taxed. :: R. A. | Burden on income of families taxed. :: per cent. | Yield of tax. :: Rs. | In whole class (i. e. including families exempted) yield equivalent to tax per family of :: R. A. | In whole class (i. e. including families exempted) yield equivalent to propor- tion of income. :: per cent. |
 | --- | --- | --- | --- | --- | --- | --- |
+| Cultivators : |  |  |  |  |  |  |
 | in comfort | 6·5 | 1 | 0·3 | 118,700 | 0·15 | 0·27 |
 | below comfort | 7·3 | 0·14 | 0·4 | 59,830 | 0·13 | 0·34 |
 | above want | 13·3 | 0·12 | 0·5 | 29,715 | 0·10 | 0·37 |

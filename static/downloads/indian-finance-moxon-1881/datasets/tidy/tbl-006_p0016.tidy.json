@@ -1146,7 +1146,7 @@
     "column_index": 3,
     "column_header": "Net Revenue. :: £",
     "raw_text": "– 64,575",
-    "value_numeric": null,
+    "value_numeric": -64575.0,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true

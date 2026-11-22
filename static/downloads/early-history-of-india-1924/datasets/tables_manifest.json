@@ -61,7 +61,7 @@
       "row_count": 14,
       "tidy_observation_count": 56,
       "arithmetic_verified": false,
-      "arithmetic_status": "flagged_for_review"
+      "arithmetic_status": "no_total_row"
     },
     {
       "table_id": "tbl-004",

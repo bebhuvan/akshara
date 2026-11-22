@@ -84,7 +84,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "20·42",
-    "value_numeric": null,
+    "value_numeric": 20.42,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -138,7 +138,7 @@
     "column_index": 4,
     "column_header": "Average per Acre. lbs.",
     "raw_text": "840·4",
-    "value_numeric": null,
+    "value_numeric": 840.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -174,7 +174,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "53·48",
-    "value_numeric": null,
+    "value_numeric": 53.48,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -264,7 +264,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "68·4",
-    "value_numeric": null,
+    "value_numeric": 68.4,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -354,7 +354,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "82·76",
-    "value_numeric": null,
+    "value_numeric": 82.76,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -444,7 +444,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "75·89",
-    "value_numeric": null,
+    "value_numeric": 75.89,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -498,7 +498,7 @@
     "column_index": 4,
     "column_header": "Average per Acre. lbs.",
     "raw_text": "510·5",
-    "value_numeric": null,
+    "value_numeric": 510.5,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -534,7 +534,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "69·78",
-    "value_numeric": null,
+    "value_numeric": 69.78,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -588,7 +588,7 @@
     "column_index": 4,
     "column_header": "Average per Acre. lbs.",
     "raw_text": "12·51",
-    "value_numeric": null,
+    "value_numeric": 12.51,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -714,7 +714,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "12·58",
-    "value_numeric": null,
+    "value_numeric": 12.58,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1344,7 +1344,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "5·66",
-    "value_numeric": null,
+    "value_numeric": 5.66,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1524,7 +1524,7 @@
     "column_index": 6,
     "column_header": "Average Price per Re. 1. lbs.",
     "raw_text": "2·5",
-    "value_numeric": null,
+    "value_numeric": 2.5,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1578,7 +1578,7 @@
     "column_index": 4,
     "column_header": "Average per Acre. lbs.",
     "raw_text": "31·44",
-    "value_numeric": null,
+    "value_numeric": 31.44,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": true

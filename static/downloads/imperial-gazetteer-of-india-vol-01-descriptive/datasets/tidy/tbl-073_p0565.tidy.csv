@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,2,Constantly sick.,A,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,3,Cholera.,0·9,0.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,4,Enteric fever.,26·5,26.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,5,Other fevers.,368·0,368.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,6,Tubercle of lungs.,3·9,3.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,7,Other respiratory diseases.,29·0,29.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,8,Hepatic inflammation and abscess.,20·4,20.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,9,Dysentery and diarrhoea.,55·0,55.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,10,Venereal diseases.,419·0,419.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,1,data,,87,11,All causes.,"1,360·0",1360.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,2,Constantly sick.,D,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,3,Cholera.,0·6,0.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,4,Enteric fever.,7·0,7.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,5,Other fevers.,0·7,0.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,6,Tubercle of lungs.,0·5,0.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,7,Other respiratory diseases.,0·6,0.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,8,Hepatic inflammation and abscess.,1·3,1.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,9,Dysentery and diarrhoea.,1·1,1.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,10,Venereal diseases.,0·2,0.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-073,"Sickness and Mortality per 1,000 among the European Troops in India, 1895–1900.",565,527,2,data,,Row 2,11,All causes.,16·7,16.7,,False,False

@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,1,data,,North-West Frontier Province,2,Thousands of square miles.,16,16.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,1,data,,North-West Frontier Province,3,Thousands of inhabitants.,"2,125",2125.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,2,data,,British Baluchistān (British and Administered territory),2,Thousands of square miles.,46,46.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,2,data,,British Baluchistān (British and Administered territory),3,Thousands of inhabitants.,308,308.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,3,data,,Coorg,2,Thousands of square miles.,1.6,1.6,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,3,data,,Coorg,3,Thousands of inhabitants.,181,181.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,4,data,,Ajmer-Merwāra,2,Thousands of square miles.,2.7,2.7,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,4,data,,Ajmer-Merwāra,3,Thousands of inhabitants.,477,477.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,5,data,,The Andaman and Nicobar Islands,2,Thousands of square miles.,3,3.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-002,Table 2,94,56,5,data,,The Andaman and Nicobar Islands,3,Thousands of inhabitants.,25,25.0,,False,False

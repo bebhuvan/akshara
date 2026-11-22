@@ -983,7 +983,7 @@
     "row_label": "14",
     "column_index": 4,
     "column_header": "Reverse.",
-    "raw_text": "Traces of Sassanian type. Legend, imperfect, Srīmad Ādi-varāha, 'the fortunate primaeval boar', a title of both Vishṇu and the king.",
+    "raw_text": "Traces of Sassanian type. Legend, imperfect, Srímad Ādi-varāha, ‘the fortunate primaeval boar’, a title of both Vishṇu and the king.",
     "value_numeric": null,
     "unit": "",
     "is_null_or_leader": false,
@@ -1001,10 +1001,10 @@
     "row_label": "14",
     "column_index": 5,
     "column_header": "References and Remarks.",
-    "raw_text": "",
+    "raw_text": "As I. M. Catal., vol. i, Pl. xxv, 18.",
     "value_numeric": null,
     "unit": "",
-    "is_null_or_leader": true,
+    "is_null_or_leader": false,
     "arithmetic_verified": false
   }
 ]

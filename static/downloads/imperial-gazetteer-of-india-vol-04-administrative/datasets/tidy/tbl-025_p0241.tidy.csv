@@ -1,0 +1,199 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,2,1876-7.,"5,45",545.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,3,1881-2.,"3,95",395.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,4,1886-7.,"3,72",372.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,5,1891-2.,"3,07",307.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,6,1896-7.,"3,60",360.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,7,1901-2.,"1,52",152.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,8,1902-3.,"1,55",155.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,9,1903-4.,"1,57",157.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,1,data,,Interest,10,1904-5.,"1,60",160.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",2,1876-7.,"4,77",477.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",3,1881-2.,"3,21",321.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",4,1886-7.,"3,05",305.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",5,1891-2.,"2,73",273.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",6,1896-7.,"2,16",216.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",7,1901-2.,"1,15",115.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",8,1902-3.,"1,30",130.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",9,1903-4.,"1,26",126.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,2,data,,"Net receipts less surplus profits, land, and supervision",10,1904-5.,"1,43",143.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,2,1876-7.,68,68.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,3,1881-2.,74,74.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,4,1886-7.,67,67.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,5,1891-2.,34,34.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,6,1896-7.,"1,44",144.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,7,1901-2.,37,37.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,8,1902-3.,25,25.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,9,1903-4.,31,31.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,3,data,,Net charges,10,1904-5.,17,17.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,2,1876-7.,38,38.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,3,1881-2.,"7,27",727.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,4,1886-7.,"10,83",1083.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,5,1891-2.,"16,41",1641.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,6,1896-7.,"17,64",1764.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,7,1901-2.,"28,92",2892.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,8,1902-3.,"28,70",2870.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,9,1903-4.,"30,86",3086.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,5,data,State Railways,Gross receipts,10,1904-5.,"34,35",3435.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,2,1876-7.,29,29.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,3,1881-2.,"3,37",337.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,4,1886-7.,"5,22",522.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,5,1891-2.,"8,21",821.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,6,1896-7.,"8,82",882.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,7,1901-2.,"14,24",1424.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,8,1902-3.,"14,74",1474.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,9,1903-4.,"15,56",1556.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,6,data,State Railways,Working expenses,10,1904-5.,"16,94",1694.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,2,1876-7.,9,9.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,3,1881-2.,"3,90",390.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,4,1886-7.,"5,61",561.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,5,1891-2.,"8,20",820.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,6,1896-7.,"8,82",882.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,7,1901-2.,"14,68",1468.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,8,1902-3.,"13,96",1396.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,9,1903-4.,"15,30",1530.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,7,data,State Railways,Net receipts,10,1904-5.,"17,41",1741.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,2,1876-7.,56,56.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,3,1881-2.,"1,89",189.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,4,1886-7.,"3,68",368.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,5,1891-2.,"5,66",566.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,6,1896-7.,"7,07",707.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,7,1901-2.,"8,45",845.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,8,1902-3.,"8,79",879.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,9,1903-4.,"9,12",912.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,8,data,State Railways,Interest on capital,10,1904-5.,"9,50",950.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",2,1876-7.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",3,1881-2.,"1,49",149.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",4,1886-7.,"2,31",231.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",5,1891-2.,"2,43",243.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",6,1896-7.,"2,85",285.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",7,1901-2.,"4,50",450.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",8,1902-3.,"4,50",450.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",9,1903-4.,"4,51",451.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,9,data,State Railways,"Annuities, &c., for purchase of railways",10,1904-5.,"4,51",451.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,2,1876-7.,47,47.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,3,1881-2.,52,52.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,4,1886-7.,38,38.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,5,1891-2.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,6,1896-7.,"1,10",110.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,7,1901-2.,"1,73",173.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,8,1902-3.,67,67.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,9,1903-4.,"1,67",167.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,10,data,State Railways,Net charges or receipts,10,1904-5.,"3,40",340.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,2,1876-7.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,3,1881-2.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,4,1886-7.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,5,1891-2.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,6,1896-7.,6,6.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,7,1901-2.,3,3.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,8,1902-3.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,9,1903-4.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,11,data,State Railways,Net charge for assisted railways,10,1904-5.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,2,1876-7.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,3,1881-2.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,4,1886-7.,10,10.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,5,1891-2.,9,9.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,6,1896-7.,6,6.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,7,1901-2.,12,12.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,8,1902-3.,9,9.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,9,1903-4.,8,8.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,12,data,State Railways,Miscellaneous railway expenditure,10,1904-5.,7,7.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,2,1876-7.,"1,15",115.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,3,1881-2.,29,29.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,4,1886-7.,"1,19",119.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,5,1891-2.,32,32.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,6,1896-7.,"2,66",266.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,7,1901-2.,"1,27",127.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,8,1902-3.,34,34.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,9,1903-4.,"1,29",129.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,13,data,State Railways,Net charge or receipts for railways,10,1904-5.,"3,16",316.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,2,1876-7.,42,42.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,3,1881-2.,86,86.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,4,1886-7.,91,91.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,5,1891-2.,"1,41",141.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,6,1896-7.,"2,07",207.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,7,1901-2.,"2,34",234.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,8,1902-3.,"2,72",272.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,9,1903-4.,"2,88",288.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,15,data,Irrigation— Major Works,Gross direct receipts,10,1904-5.,"2,99",299.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,2,1876-7.,40,40.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,3,1881-2.,49,49.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,4,1886-7.,60,60.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,5,1891-2.,67,67.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,6,1896-7.,87,87.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,7,1901-2.,"1,22",122.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,8,1902-3.,"1,22",122.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,9,1903-4.,"1,26",126.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,16,data,Irrigation— Major Works,Share of land revenue,10,1904-5.,"1,34",134.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,2,1876-7.,36,36.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,3,1881-2.,46,46.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,4,1886-7.,63,63.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,5,1891-2.,76,76.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,6,1896-7.,87,87.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,7,1901-2.,"1,05",105.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,8,1902-3.,"1,13",113.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,9,1903-4.,"1,22",122.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,17,data,Irrigation— Major Works,Working expenses,10,1904-5.,"1,31",131.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,2,1876-7.,46,46.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,3,1881-2.,89,89.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,4,1886-7.,88,88.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,5,1891-2.,"1,32",132.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,6,1896-7.,"2,07",207.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,7,1901-2.,"2,51",251.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,8,1902-3.,"2,81",281.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,9,1903-4.,"2,92",292.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,18,data,Irrigation— Major Works,Net receipts,10,1904-5.,"3,02",302.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,2,1876-7.,64,64.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,3,1881-2.,80,80.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,4,1886-7.,99,99.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,5,1891-2.,"1,11",111.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,6,1896-7.,"1,25",125.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,7,1901-2.,"1,42",142.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,8,1902-3.,"1,45",145.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,9,1903-4.,"1,49",149.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,19,data,Irrigation— Major Works,Interest,10,1904-5.,"1,52",152.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,2,1876-7.,18,18.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,3,1881-2.,9,9.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,4,1886-7.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,5,1891-2.,21,21.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,6,1896-7.,82,82.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,7,1901-2.,"1,09",109.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,8,1902-3.,"1,36",136.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,9,1903-4.,"1,43",143.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,20,data,Irrigation— Major Works,Net charges or receipts,10,1904-5.,"1,50",150.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,2,1876-7.,"1,33",133.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,3,1881-2.,20,20.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,4,1886-7.,"1,30",130.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,5,1891-2.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,6,1896-7.,"1,84",184.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,7,1901-2.,"2,36",236.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,8,1902-3.,"1,70",170.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,9,1903-4.,"2,72",272.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,22,data,Total Railways and Major Irrigation,Net charges or receipts,10,1904-5.,"4,66",466.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,2,1876-7.,44,44.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,3,1881-2.,66,66.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,4,1886-7.,54,54.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,5,1891-2.,88,88.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,6,1896-7.,92,92.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,7,1901-2.,83,83.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,8,1902-3.,"1,07",107.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,9,1903-4.,"1,08",108.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,23,data,Total Railways and Major Irrigation,Minor Works and Navigation,10,1904-5.,"1,07",107.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,2,1876-7.,"2,84",284.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,3,1881-2.,"3,43",343.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,4,1886-7.,"3,60",360.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,5,1891-2.,"4,42",442.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,6,1896-7.,"3,99",399.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,7,1901-2.,"4,85",485.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,8,1902-3.,"5,55",555.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,9,1903-4.,"6,14",614.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,24,data,Total Railways and Major Irrigation,Civil Works,10,1904-5.,"6,43",643.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,2,1876-7.,"4,61",461.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,3,1881-2.,"4,29",429.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,4,1886-7.,"5,44",544.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,5,1891-2.,"5,41",541.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,6,1896-7.,"6,75",675.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,7,1901-2.,"3,32",332.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,8,1902-3.,"4,92",492.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,9,1903-4.,"4,50",450.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-025,(In lakhs of rupees),241,203,25,total,,Grand total of charges,10,1904-5.,"2,84",284.0,,False,False

@@ -1,0 +1,53 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,2,Grain and Seeds. :: Tons (in thousands).,Information not available.,,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,3,Grain and Seeds. :: Rs. (in lakhs).,,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,4,Coal. :: Tons (in thousands).,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,5,Coal. :: Rs. (in lakhs).,,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,6,Cotton. :: Tons (in thousands).,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,7,Cotton. :: Rs. (in lakhs).,,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,8,Salt. :: Tons (in thousands).,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,9,Salt. :: Rs. (in lakhs).,,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,10,Sugar. :: Tons (in thousands).,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,11,Sugar. :: Rs. (in lakhs).,,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,12,Total (including all other goods). :: Tons (in thousands).,"13,214",13214.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,13,Total (including all other goods). :: Rs. (in lakhs).,"9,56",956.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,1,data,,1881,14,Total Freight. :: Ton-mileage (in thousands).,"2,309,169",2309169.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,2,Grain and Seeds. :: Tons (in thousands).,"7,895",7895.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,3,Grain and Seeds. :: Rs. (in lakhs).,"5,73",573.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,4,Coal. :: Tons (in thousands).,"2,703",2703.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,5,Coal. :: Rs. (in lakhs).,"1,01",101.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,6,Cotton. :: Tons (in thousands).,958,958.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,7,Cotton. :: Rs. (in lakhs).,"1,75",175.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,8,Salt. :: Tons (in thousands).,"1,326",1326.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,9,Salt. :: Rs. (in lakhs).,82,82.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,10,Sugar. :: Tons (in thousands).,929,929.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,11,Sugar. :: Rs. (in lakhs).,72,72.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,12,Total (including all other goods). :: Tons (in thousands).,"26,159",26159.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,13,Total (including all other goods). :: Rs. (in lakhs).,"15,61",1561.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,2,data,,1891,14,Total Freight. :: Ton-mileage (in thousands).,"4,438,992",4438992.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,2,Grain and Seeds. :: Tons (in thousands).,"10,591",10591.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,3,Grain and Seeds. :: Rs. (in lakhs).,"7,03",703.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,4,Coal. :: Tons (in thousands).,"8,016",8016.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,5,Coal. :: Rs. (in lakhs).,"2,35",235.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,6,Cotton. :: Tons (in thousands).,"1,371",1371.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,7,Cotton. :: Rs. (in lakhs).,"2,21",221.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,8,Salt. :: Tons (in thousands).,"1,627",1627.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,9,Salt. :: Rs. (in lakhs).,93,93.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,10,Sugar. :: Tons (in thousands).,"1,483",1483.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,11,Sugar. :: Rs. (in lakhs).,"1,13",113.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,12,Total (including all other goods). :: Tons (in thousands).,"43,392",43392.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,13,Total (including all other goods). :: Rs. (in lakhs).,"21,24",2124.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,3,data,,1901,14,Total Freight. :: Ton-mileage (in thousands).,"7,061,865",7061865.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,2,Grain and Seeds. :: Tons (in thousands).,"12,361",12361.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,3,Grain and Seeds. :: Rs. (in lakhs).,"8,97",897.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,4,Coal. :: Tons (in thousands).,"9,397",9397.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,5,Coal. :: Rs. (in lakhs).,"2,56",256.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,6,Cotton. :: Tons (in thousands).,"1,584",1584.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,7,Cotton. :: Rs. (in lakhs).,"2,30",230.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,8,Salt. :: Tons (in thousands).,"1,647",1647.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,9,Salt. :: Rs. (in lakhs).,"1,02",102.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,10,Sugar. :: Tons (in thousands).,"1,447",1447.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,11,Sugar. :: Rs. (in lakhs).,"1,15",115.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,12,Total (including all other goods). :: Tons (in thousands).,"52,051",52051.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,13,Total (including all other goods). :: Rs. (in lakhs).,"25,19",2519.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-066,TABLE VI. Tonnage of Goods carried and Earnings,455,413,4,data,,1904,14,Total Freight. :: Ton-mileage (in thousands).,"8,974,477",8974477.0,tons,False,False

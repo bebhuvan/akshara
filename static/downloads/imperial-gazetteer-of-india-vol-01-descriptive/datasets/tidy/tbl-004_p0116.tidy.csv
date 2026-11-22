@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,1,data,,Ninniyūr stage,2,Column 2,"Large specimens of Nerinea, Nautilus, &c., with many Foraminifera, especially Orbitoides, filling the hard matrix of large shells. Nautilus danicus, Schloth.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,1,data,,Ninniyūr stage,3,Column 3,Danian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,2,data,,Ariyalūr stage,2,Column 2,"Trigonoarca galdrina, d’Orb., very abundant. Other common forms are Nerita divaricata, d’Orb., Rostellaria palliata, Forb., Exogyra, and Alectryonia.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,2,data,,Ariyalūr stage,3,Column 3,Upper Senonian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,3,data,,Trichinopoly stage,2,Column 2,"(b) Zone of Placenticeras tamulicum, Blanf. (a) Zone of Pachydiscus aff. peramplus, Mant.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,3,data,,Trichinopoly stage,3,Column 3,Lower Senonian. Turonian.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,4,data,,Utatūr stage,2,Column 2,"(c) Zone of Mammites conciliatus, Stol. (b) Zone of Acanthoceras mantelli, Sow. (a) Zone of Schloenbachia inflata, Sow.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-004,Table 4,116,78,4,data,,Utatūr stage,3,Column 3,Cenomanian.,,,False,False

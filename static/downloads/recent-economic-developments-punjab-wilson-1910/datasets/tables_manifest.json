@@ -193,8 +193,8 @@
       "column_count": 5,
       "row_count": 43,
       "tidy_observation_count": 168,
-      "arithmetic_verified": true,
-      "arithmetic_status": "verified_total"
+      "arithmetic_verified": false,
+      "arithmetic_status": "flagged_for_review"
     },
     {
       "table_id": "tbl-011",

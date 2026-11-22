@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,1,data,,Railways (open line),2,Persons supported.,"503,993",503993.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,2,data,,Post Office,2,Persons supported.,"133,933",133933.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,3,data,,Telegraphs,2,Persons supported.,"20,490",20490.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,4,data,,Tea gardens,2,Persons supported.,"874,975",874975.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,5,data,,Coffee plantations,2,Persons supported.,"106,154",106154.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,6,data,,Cinchona plantations,2,Persons supported.,"1,007",1007.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,7,data,,Indigo factories,2,Persons supported.,"15,783",15783.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-018,Table 18,292,250,8,total,,Total,2,Persons supported.,"1,656,335",1656335.0,,False,True

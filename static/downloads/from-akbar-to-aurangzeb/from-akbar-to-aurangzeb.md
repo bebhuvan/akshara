@@ -78,9 +78,6 @@ It remains only to acknowledge the generous assistance which I have received fro
 
 #### CHAPTER I
 
-
-##### <span class="sc">page</span>
-
 - <span class="sc">The Asiatic Environment</span> . . . . . 1
 - 1. The Political Situation . . . . . 1
 - 2. The Portuguese Maritime Empire . . . . 5
@@ -119,9 +116,6 @@ Century . . . . . . . 91
 <!-- page: 18 | folio: xii -->
 
 ##### CHAPTER V
-
-
-##### <span class="sc">page</span>
 
 - <span class="sc">The Course of Indian Markets</span> . . . . 145
 - 1. General Features of the Markets . . . . 145
@@ -166,9 +160,6 @@ Century . . . . . . . 91
 <!-- page: 19 | folio: xiii -->
 
 #### APPENDICES
-
-
-##### <span class="sc">page</span>
 
 - <span class="sc">A. The Dutch and English Companies</span> . . . 307
 - <span class="sc">B. Early Dutch Exports to Europe</span> . . . 317
@@ -253,16 +244,12 @@ Their earliest ventures were strictly commercial : it is true that from about 16
 
 Experience quickly showed that the difficulties of the African route were not insuperable. For the first part of the voyage there was indeed a risk of meeting hostile ships, but the Dutch fleets were equipped for such casual encounters, and, once past the Cape of Good Hope, it was possible to find a safe course, provided that the objective was rightly chosen. India had no attractions for the promoters of the earliest voyages. Of the goods most in demand, India furnished nothing but pepper, and to sail to the Malabar coast for pepper would have been to challenge the Portuguese at the chief centre of their power. The information available at the outset indicated that the most suitable objectives were western Java, and Achin in Sumatra, and both these localities possessed great attractions for the Dutch adventurers.[^sec-04-fn-006] Achin controlled the large supply of pepper on the west coast of Sumatra ; it was within reach of the east coast of Ceylon, whence a supply of cinnamon might be anticipated ; and it was a commercial centre where a variety of other Eastern goods could be procured. The king was notoriously faithless, but the dominant feature of his policy was hostility to the Portuguese, and there were thus grounds for the hope, which was not entirely realised, that he would welcome their declared enemies. The attractions of Bantam and Jakatra in western Java were still greater. The Portuguese were represented only by a few merchants ; pepper and various Eastern goods were available ; and, assuming that trade could be established in one of these harbours, the road onwards to the Spice Islands lay open. The route to Bantam by way of the Straits of Malacca was of [p. 16] course to be avoided owing to the existence of the Portuguese naval station in the narrow waters, but this obstacle could be turned by sailing outside Sumatra, and passing through the Strait of Sunda, the navigability of which had by this time become known. The course marked out for the earliest voyages after rounding the Cape was thus to avoid Mozambique, to refresh if necessary at the south end of Madagascar, or preferably at Mauritius,[^sec-04-fn-007] and then strike across the open sea in the direction of Sumatra.
 
-The early voyages directed on these lines were, on the whole, profitable. Particular ventures had disastrous endings, but others, notably that conducted by van Neck in 1598, were highly successful; the great possibilities of the enterprise were generally recognised; and by the year 1602 Dutch merchants were known not only in Bantam and Achin, but also on the east coast of Ceylon, in the Spice Islands, and at the important Siamese mart of Patani. Success, however, brought fresh anxieties. The various expeditions, sent out independently from nearly every port in Holland, came into competition in the East, and quickly raised prices against each other, while the large supplies of spices brought to Europe threatened to glut the consuming markets. The national importance of the new trade was too great to allow of the continuance of such injurious competition, and through the intervention of the States General, the supreme political authority in Holland, the competitors were eventually united in a single powerful Company, with exclusive privileges for the Eastern trade, an exceedingly wide charter, and a constitution which may almost be described as national. The first fleet of the new chartered Company, which sailed in June, 1602, consisted of 15 ships, aggregating nearly 7000 tuns’ burden,[^sec-04-fn-008] and the rapidity of the Dutch progress may be
+The early voyages directed on these lines were, on the whole, profitable. Particular ventures had disastrous endings, but others, notably that conducted by van Neck in 1598, were highly successful; the great possibilities of the enterprise were generally recognised; and by the year 1602 Dutch merchants were known not only in Bantam and Achin, but also on the east coast of Ceylon, in the Spice Islands, and at the important Siamese mart of Patani. Success, however, brought fresh anxieties. The various expeditions, sent out independently from nearly every port in Holland, came into competition in the East, and quickly raised prices against each other, while the large supplies of spices brought to Europe threatened to glut the consuming markets. The national importance of the new trade was too great to allow of the continuance of such injurious competition, and through the intervention of the States General, the supreme political authority in Holland, the competitors were eventually united in a single powerful Company, with exclusive privileges for the Eastern trade, an exceedingly wide charter, and a constitution which may almost be described as national. The first fleet of the new chartered Company, which sailed in June, 1602, consisted of 15 ships, aggregating nearly 7000 tuns’ burden,[^sec-04-fn-008] and the rapidity of the Dutch progress may be [p. 18] gauged by comparing this fleet with the four vessels, of about 1000 tuns in all, which had started in the year 1595.[^sec-04-fn-009]
 
 
 <!-- page: 39 | folio: 17 -->
 
 ![The ASIATIC SEAS](../figures/fig-002_p0039.webp)
-
-
-<!-- page: 40 | folio: 18 -->
-gauged by comparing this fleet with the four vessels, of about 1000 tuns in all, which had started in the year 1595.[^sec-04-fn-009]
 
 Internal competition was not the sole danger threatening the Dutch enterprise, for other European nations were realising the possibilities of Eastern trade, and, stimulated by the high prices charged at first by the Dutch, were preparing to follow their example, and fetch for themselves the spices which they needed. From England a second attempt to reach the East was made in 1596, but the fleet was wholly lost. Three years later the project was revived, and “divers merchants, induced by the success of the voyage performed by the Dutch nation, were stirred up with no less affection to advance the trade of their native country.” The result was the establishment of the English Company.
 
@@ -841,7 +828,7 @@ The drop about 1646 is attributable to the disturbance of the market caused by t
 A few figures extracted from the English invoices of this period may be given to illustrate the effect of variations in prices on the sources from which indigo was obtained :[^sec-07-fn-014]
 
 
-| Source. | Exports in cwt. :: 1638–9. | Average Price in Rupees per cwt. paid on the spot. :: 1639–40. | 1640–41. | 1638–9. | 1639–40. | 1640–41. |
+| Source. | Exports in cwt. :: 1638–9. | Exports in cwt. :: 1639–40. | Exports in cwt. :: 1640–41. | Average Price in Rupees per cwt. paid on the spot. :: 1638–9. | Average Price in Rupees per cwt. paid on the spot. :: 1639–40. | Average Price in Rupees per cwt. paid on the spot. :: 1640–41. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Biana | 385 | 70 | 927 | 106·3 | 93·3 | 76·4 |
 | Sarkhej | 1060 | 661 | 75 | 90·6 | 58·1 | 56·6 |
@@ -1269,7 +1256,7 @@ This change can be traced in the collections of Mogul coins in Indian museums, w
 
 
 **<span class="sc">Numbers of Specimens of Silver Coins in Indian Museums</span>**
-| Reign. | Ahmadabad Mint. :: Lucknow. | Surat Mint. :: Lahore. | Calcutta. | Total. | Lucknow. | Lahore. | Calcutta. | Total. |
+| Reign. | Ahmadabad Mint. :: Lucknow. | Ahmadabad Mint. :: Lahore. | Ahmadabad Mint. :: Calcutta. | Ahmadabad Mint. :: Total. | Surat Mint. :: Lucknow. | Surat Mint. :: Lahore. | Surat Mint. :: Calcutta. | Surat Mint. :: Total. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Akbar . . | 153 | 51 | 53 | 257 | 0 | 1 | 0 | 1 |
 | Jahangir | 79 | 27 | 32 | 138 | 14 | 4 | 5 | 23 |
@@ -2944,10 +2931,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - Dress-goods, 54, 123
 - Droughts, Indian, 207, 208, 209, 210-211, 217
 - “ Dungarees,” 131
-- Dutch, the, in the East, 5, 14-16, 27, 36, 297, 298 ; Asiatic trade of, 20-21, 62-67, 72-74, 75, 76, 79, 80, 81-87 ; Batavia headquarters of, 4, 23, 25, 76, 79, 82, 106, 152, 313 ; Bengal trade of, 181 ; the Chartered Company, 16, 18, 19, 22-23, 61, 66, 123, 298, 308, 310-313, 315 ; commercial policy of, 14-16, 20, 21-24, 30-31 ; commercial supremacy of, 104-107, 298, 312 ; communication routes of, 150 ; copper trade of, 184, 185 ; cotton cloth trade of, 30, 31-34, 40, 56, 58, 65, 66, 72-74, 82, 96-97, 123-124, 132-133, 134, 135, 140, 192-193 ; English competition with, 20, 21, 22, 23,
-
-<!-- page: 377 | folio: 355 -->
-- 104-105; European trade of, 96-97, 100, 104-107, 124, 132-133, 193, 317; farming of trade with, 243; grain trade of, 79-80, 170-171; Indian settlements of, 27, 32-33, 34, 37-41, 42, 43-44, 45, 47-49, 223-225, 226, 228-231, 283; Indian trade considered subsidiary by, 20, 30-31; indigo trade of, 109, 110, 111-112, 113 (*note* 2), 114, 115, 116, 117, 118, 140, 148, 162, 163, 164, 191; investments of, in India, 106-107; iron and steel exports of, 192; Japanese trade of, 75-76; monopoly of spice trade, the policy of, 20, 21-24, 26, 29, 106, 174, 183, 313; motives of early ventures of, 14-16, 18, 30; pepper trade of, 20, 24-25, 83, 92, 95, 96; Portuguese competition with, 5, 11, 19-20, 21-22, 27, 32, 36, 37, 43, 225, 229; Portuguese trade with, 12-13, 28; purchasing power difficulties of, 58-62, 64, 66; quicksilver trade of, 165, 166; regulation of supplies by, 152, 168; reprisals by, 228; saltpetre trade of, 119-122, 140; sea-power of, 5, 11, 12, 19; shipping industry won by, 81, 82, 83, 84, 86, 87-88; silk trade of, 40, 139, 191; slave trade of, 76, 77-79; Spice Islands and trade controlled by, 4, 5, 15, 19-21, 25, 26, 42, 76-79, 311, 312, 313; "toys" provided by, 68, 69, 70-71; treasure export difficulties of, 61, 66; transit dues and, 287; yarn trade of, 137-138, 190
+- Dutch, the, in the East, 5, 14-16, 27, 36, 297, 298 ; Asiatic trade of, 20-21, 62-67, 72-74, 75, 76, 79, 80, 81-87 ; Batavia headquarters of, 4, 23, 25, 76, 79, 82, 106, 152, 313 ; Bengal trade of, 181 ; the Chartered Company, 16, 18, 19, 22-23, 61, 66, 123, 298, 308, 310-313, 315 ; commercial policy of, 14-16, 20, 21-24, 30-31 ; commercial supremacy of, 104-107, 298, 312 ; communication routes of, 150 ; copper trade of, 184, 185 ; cotton cloth trade of, 30, 31-34, 40, 56, 58, 65, 66, 72-74, 82, 96-97, 123-124, 132-133, 134, 135, 140, 192-193 ; English competition with, 20, 21, 22, 23, [p. 355] 104-105; European trade of, 96-97, 100, 104-107, 124, 132-133, 193, 317; farming of trade with, 243; grain trade of, 79-80, 170-171; Indian settlements of, 27, 32-33, 34, 37-41, 42, 43-44, 45, 47-49, 223-225, 226, 228-231, 283; Indian trade considered subsidiary by, 20, 30-31; indigo trade of, 109, 110, 111-112, 113 (*note* 2), 114, 115, 116, 117, 118, 140, 148, 162, 163, 164, 191; investments of, in India, 106-107; iron and steel exports of, 192; Japanese trade of, 75-76; monopoly of spice trade, the policy of, 20, 21-24, 26, 29, 106, 174, 183, 313; motives of early ventures of, 14-16, 18, 30; pepper trade of, 20, 24-25, 83, 92, 95, 96; Portuguese competition with, 5, 11, 19-20, 21-22, 27, 32, 36, 37, 43, 225, 229; Portuguese trade with, 12-13, 28; purchasing power difficulties of, 58-62, 64, 66; quicksilver trade of, 165, 166; regulation of supplies by, 152, 168; reprisals by, 228; saltpetre trade of, 119-122, 140; sea-power of, 5, 11, 12, 19; shipping industry won by, 81, 82, 83, 84, 86, 87-88; silk trade of, 40, 139, 191; slave trade of, 76, 77-79; Spice Islands and trade controlled by, 4, 5, 15, 19-21, 25, 26, 42, 76-79, 311, 312, 313; "toys" provided by, 68, 69, 70-71; treasure export difficulties of, 61, 66; transit dues and, 287; yarn trade of, 137-138, 190
 - Dutch pound (weight), 333
 - "Duties," 55, 124, 125, 338
 - East Coast of India: calico trade of, 99, 128, 129, 131-133; customs farming on, 238; famine on, 206, 209, 210, 211, 213; measures of length on, 338, 339; monopolies on, 147, 148, 149; prices on, after famine, 216; trade of, 98-99, 128-129, 131-133, 140; wages on, 195
@@ -2960,10 +2944,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - Engrossing, practice of, 146-149, 163, 166, 167, 216
 - "Eramies," 126
 - Etheridge, A. T., 207, 346
-- Europe, Western, export trade with, 91-104, 107, 140-141, 300, 317-321: in cotton goods, 92-94, 99, 100, 101, 102, 123-136; in indigo, 107-118; in saltpetre, 118-122; import trade with, 52-53, 59-60, 140-141,
-
-<!-- page: 378 | folio: 356 -->
-- 164-170, 298; treasure export
+- Europe, Western, export trade with, 91-104, 107, 140-141, 300, 317-321: in cotton goods, 92-94, 99, 100, 101, 102, 123-136; in indigo, 107-118; in saltpetre, 118-122; import trade with, 52-53, 59-60, 140-141, [p. 356] 164-170, 298; treasure export
 - from, restrictions on, 60-61
 - Excise system, 292, 293
 - Export trade: to Asia, 65-66, 72-81;
@@ -3063,10 +3044,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - gaz of, 337; gold prices in, 182;
 - indigo of, 113, 114, 116 (*note*), 117,
 - 140, 193, 215, 216; indigo prices
-- in, 160-164, 170, 172, 190; maund
-
-<!-- page: 379 | folio: 357 -->
-- of, 335-336; mints of, 176-177, 178, 277; monopoly in, 147; revenue statistics for, 263, 264, 265, 323; salt tax in, 294; saltpetre of, 120; shipping industry of, 81-85, 87; tobacco of, 80-81; trade with: Dutch, 31-32, 37-38, 40, 73; English, 34-36, 38, 40; Portuguese control of, 27, 35, 37; wages in, 195; yarn of, 137, 138
+- in, 160-164, 170, 172, 190; maund [p. 357] of, 335-336; mints of, 176-177, 178, 277; monopoly in, 147; revenue statistics for, 263, 264, 265, 323; salt tax in, 294; saltpetre of, 120; shipping industry of, 81-85, 87; tobacco of, 80-81; trade with: Dutch, 31-32, 37-38, 40, 73; English, 34-36, 38, 40; Portuguese control of, 27, 35, 37; wages in, 195; yarn of, 137, 138
 - Gujarat Report, the, 289 (*note*), 294
 - "Gur," 138 (*note*)
 - "Guzzees," 55, 339
@@ -3094,8 +3072,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - Import trade, Indian, 52-53, 59-60, 67-71, 140-141, 164-170, 298, 301
 - Imposts, cesses and, 283-292, 295
 - Indemnities, 268
-- India: absorption of precious metals in, 53, 305; cane sugar supply of, 138; consumption in, 197-203, 298, 301-305; import trade of, 52-53, 59-60, 67-71, 140-141, 164-170, 298, 301; political situation in, 1-27, 28; population of, 302; ship-
-- building in, 87; shipping industry of, 81-88; trade development of, gains and losses from, 140-141, 297-305
+- India: absorption of precious metals in, 53, 305; cane sugar supply of, 138; consumption in, 197-203, 298, 301-305; import trade of, 52-53, 59-60, 67-71, 140-141, 164-170, 298, 301; political situation in, 1-27, 28; population of, 302; shipbuilding in, 87; shipping industry of, 81-88; trade development of, gains and losses from, 140-141, 297-305
 - India Office Records, 101, 347
 - Indian markets, the course of, 145-185; general features of, 145-152; food grains and silver, 170-182; gold and copper, 182-185; imported goods, 164-170; indigo, 159-164; personnel and organisation, 152-159
 - Indian merchants, outstanding, 153-158
@@ -3118,10 +3095,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - "Jaggery" (sugar), 138
 - *Jāgīr* (revenue assignment), 235, 238
 - *Jāgīrdārs* (assignees), 290, 291
-- Jahangir, 35, 38, 234, 246 (*note*); alcohol prohibition under, 293;
-
-<!-- page: 380 | folio: 358 -->
-- assignment system of, 249; buildings of, 196, 197; cesses condemned by, 284, 286; coinage,
+- Jahangir, 35, 38, 234, 246 (*note*); alcohol prohibition under, 293; [p. 358] assignment system of, 249; buildings of, 196, 197; cesses condemned by, 284, 286; coinage,
 - 177; *gaz* of, 337, 338; inheritance under, 278; maund of, 335;
 - memoirs of (*Tuzuk*), 246 (*note*),
 - 349; pestilence recorded by, 207;
@@ -3314,8 +3288,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - Parker, John, 289
 - Patani, 16
 - Patna, 41, 47, 48 ; calico trade of, 127 ; covad of, 338 ; gaz of, 337 ; maund of, 335 ; saltpetre factories of, 48, 121, 122 ; Viceroy of, 250-251
-- Peasants, Indian : land deserted by, 202, 203, 256, 257 ; position of,
-- 188, 201, 202, 203, 233, 236, 302, 303, 304 ; production by, 188, 190, 191, 201, 233, 248, 249, 304 ; revenue obtained from, 191, 201, 237-239, 241, 248, 249, 252, 253, 254, 255, 256, 260, 261, 265, 266
+- Peasants, Indian : land deserted by, 202, 203, 256, 257 ; position of, 188, 201, 202, 203, 233, 236, 302, 303, 304 ; production by, 188, 190, 191, 201, 233, 248, 249, 304 ; revenue obtained from, 191, 201, 237-239, 241, 248, 249, 252, 253, 254, 255, 256, 260, 261, 265, 266
 - Pegu, 3, 4, 44-45, 54, 74
 - Pelsart, Francisco, 82, 117, 152 (*note*), 168 (*note*), 183, 194, 198-201, 246 (*note*), 278, 294, 348
 - Peons, wages of, 173, 194, 195, 199-200
@@ -3468,8 +3441,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - Shipping industry, Indian, 81-88
 - “ Shroffs ” (money-changers), 158, 159, 182
 - Siam, 3 ; grain from, 80 ; skins and hides from, 65
-- Silk, raw, 53, 54, 189 ; from Bengal, 40, 48, 66, 75, 139, 190, 191, 194 (*note*) ; European trade in, 40, 48, 59, 100, 101, 102, 139 ; from Indo-China, 65 ; Japanese trade in, 65-
-- 66, 75, 190 ; from Persia, 39-40, 42, 59, 66, 100, 101, 102 ; a royal monopoly, 40 ; tolls on, 287
+- Silk, raw, 53, 54, 189 ; from Bengal, 40, 48, 66, 75, 139, 190, 191, 194 (*note*) ; European trade in, 40, 48, 59, 100, 101, 102, 139 ; from Indo-China, 65 ; Japanese trade in, 65- 66, 75, 190 ; from Persia, 39-40, 42, 59, 66, 100, 101, 102 ; a royal monopoly, 40 ; tolls on, 287
 - Silk bales, size of, 340
 - Silver : absorption of, in India, 53, 299, 305 ; Asiatic trade supplies, 64-65, 66-67 ; commercial payments in, 30, 39, 174 ; European export of, restricted, 60-61 ; standard of value of, 174-182, 260, 261 ; revenue payments in, 304 (*note*)
 - Sind : calico trade of, 41, 57, 102, 128, 129, 133 ; covad of, 338 ; customs farming in, 238 ; famine in, 209, 213 ; indigo trade of, 109, 110, 111, 114, 116, 190 ; inheritance system in, 279, 280 ; interest charged in, 62 ; revenue system in, 247, 262, 263, 322
@@ -3538,8 +3510,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - Tavernier, J. B., 158, 164, 202, 203,
 -  315, 332, 340, 349
 - Taxation, Mogul system of, 268-295;
--  Imperial resources, 273-283; provincial and local resources, 283-
--  295. *See* Customs, Inheritance,
+-  Imperial resources, 273-283; provincial and local resources, 283- 295. *See* Customs, Inheritance,
 -  Mints, Presents, Revenue
 - Taylor, J., 349
 - Tegnapatam, 33, 44, 225, 229
@@ -3610,8 +3581,7 @@ For sacks of pepper, see *Purchas*, I. iii. 161, and *Dagh Register*, August 21,
 - in cotton goods, 92-94, 99, 100,
 - 101, 102, 123-136; in indigo, 107-
 - 118; in saltpetre, 118-122; import
-- trade with, 52-53, 59-60, 140-141,
-- 164-170, 298; treasure export
+- trade with, 52-53, 59-60, 140-141, 164-170, 298; treasure export
 - from, restricted, 60-61
 - Wheat, prices of, 151, 171, 172, 173,
 - 174

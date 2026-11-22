@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,1,data,,Gross circulation,2,In crores of rupees. :: 1888–9.,16·43,16.43,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,1,data,,Gross circulation,3,In crores of rupees. :: 1893–4.,28·29,28.29,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,1,data,,Gross circulation,4,In crores of rupees. :: 1898–9.,25·63,25.63,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,1,data,,Gross circulation,5,In crores of rupees. :: 1903–4.,36·41,36.41,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,2,data,,Net,2,In crores of rupees. :: 1888–9.,Not available,,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,2,data,,Net,3,In crores of rupees. :: 1893–4.,20·83,20.83,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,2,data,,Net,4,In crores of rupees. :: 1898–9.,21·82,21.82,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-060,Table 60,560,522,2,data,,Net,5,In crores of rupees. :: 1903–4.,30·39,30.39,Rs,False,False

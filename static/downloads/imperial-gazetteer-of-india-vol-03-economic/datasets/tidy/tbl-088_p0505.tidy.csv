@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,1,data,,Sugar (Mauritius),2,1871-80.,98,98.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,1,data,,Sugar (Mauritius),3,1881-90.,80,80.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,1,data,,Sugar (Mauritius),4,1891-1900.,70,70.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,1,data,,Sugar (Mauritius),5,1901-3.,59,59.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,2,data,,Coal (Welsh),2,1871-80.,80,80.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,2,data,,Coal (Welsh),3,1881-90.,61,61.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,2,data,,Coal (Welsh),4,1891-1900.,67,67.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,2,data,,Coal (Welsh),5,1901-3.,77,77.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,3,data,,Kerosene (American Chester),2,1871-80.,...,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,3,data,,Kerosene (American Chester),3,1881-90.,...,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,3,data,,Kerosene (American Chester),4,1891-1900.,101,101.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-088,Table 88,505,463,3,data,,Kerosene (American Chester),5,1901-3.,115,115.0,,False,False

@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,1,data,,1769–70,2,British territory.,"F. Bihār, Northern and Central Bengal. S. Eastern Bengal.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,1,data,,1769–70,3,Native territory.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,2,data,,1782–3,2,British territory.,F. Madras city and its environs. S. Bombay and its environs .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,2,data,,1782–3,3,Native territory.,F. Haidar Alī's country. S. Cutch and neighbouring country.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,3,data,,1783–4,2,British territory.,S. Bihār and adjoining British Districts in United Provinces.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,3,data,,1783–4,3,Native territory.,"F. Present United Provinces, Eastern Punjab, Kashmīr, and Rājputāna.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,4,data,,1791–2,2,British territory.,S. Northern Madras . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,4,data,,1791–2,3,Native territory.,"F. Hyderābād, Southern Marāthā country, Deccan, Gujarāt, and Mārwār.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,5,data,,1802–3,2,British territory.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,5,data,,1802–3,3,Native territory.,F. Deccan and Hyderābād.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,6,data,,1803–4,2,British territory.,F. Province of Agra . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,6,data,,1803–4,3,Native territory.,F. Central India and Rājputāna.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,7,data,,1806–7,2,British territory.,F. Central Madras.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,7,data,,1806–7,3,Native territory.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,8,data,,1812–13,2,British territory.,"S. Part of the Provinces of Agra and Madras, and Gujarāt.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,8,data,,1812–13,3,Native territory.,"F. Cutch, Kāthiāwār, and Rājputāna. S. Baroda, and parts of Gujarāt.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,9,data,,1823–4,2,British territory.,F. Northern Madras. S. Gujarāt and Northern Deccan.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,9,data,,1823–4,3,Native territory.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,10,data,,1832–3,2,British territory.,F. Northern Madras . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,10,data,,1832–3,3,Native territory.,S. Hyderābād and Southern Marāthā country.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,11,data,,1833–4,2,British territory.,"S. Northern Deccan, Gujarāt, and trans-Jumna Districts of the Province of Agra, including Delhi and Hissār.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,11,data,,1833–4,3,Native territory.,"S. Rājputāna, Jhānsi, and Central India.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,12,data,,1837–8,2,British territory.,"F. Central and trans-Jumna Districts of the Province of Agra, including Delhi and Hissār.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,12,data,,1837–8,3,Native territory.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,13,data,,1838–9,2,British territory.,S. Gujarāt . . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,13,data,,1838–9,3,Native territory.,S. Cutch and Kāthiāwār.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,14,data,,1844–5,2,British territory.,S. Deccan.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,14,data,,1844–5,3,Native territory.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,15,data,,1853–5,2,British territory.,F. Bellary District of Madras . S. Adjoining Districts of Madras and the Southern Deccan.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,15,data,,1853–5,3,Native territory.,S. Hyderābād.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,16,data,,1860–1,2,British territory.,F. Upper Doāb of the Province of Agra; Delhi and Hissār Divisions of the Punjab.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,16,data,,1860–1,3,Native territory.,F. Eastern Rājputāna. S. Cutch.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,17,data,,1865–6,2,British territory.,F. Orissa (also 1867) and Bihār; Bellary and Ganjām Districts of Madras. S. The rest of the east coast; the Southern Deccan in Bombay; Western and Central Bengal.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,17,data,,1865–6,3,Native territory.,S. Mysore and Hyderābād.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,18,data,,1868–70,2,British territory.,F. Ajmer; trans-Jumna Districts of the Province of Agra; Delhi and Hissār Divisions of the Punjab.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-095,F. = Famine. S. = Scarcity.,543,501,18,data,,1868–70,3,Native territory.,F. Rājputāna. S. Cutch.,,,False,False

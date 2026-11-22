@@ -1,0 +1,131 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,2,Calcutta. :: Exports.,"40,14",4014.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,3,Calcutta. :: Imports.,"23,91",2391.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,4,Bombay Port. :: Exports.,6,6.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,5,Bombay Port. :: Imports.,10,10.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,6,Madras Ports. :: Exports.,6,6.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,7,Madras Ports. :: Imports.,4,4.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,10,Total. :: Exports.,"40,26",4026.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,1,data,,Bengal,11,Total. :: Imports.,"24,05",2405.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,2,Calcutta. :: Exports.,"10,66",1066.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,3,Calcutta. :: Imports.,"6,28",628.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,4,Bombay Port. :: Exports.,"3,50",350.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,5,Bombay Port. :: Imports.,"2,80",280.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,6,Madras Ports. :: Exports.,8,8.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,7,Madras Ports. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,8,Karachi. :: Exports.,71,71.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,9,Karachi. :: Imports.,20,20.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,10,Total. :: Exports.,"14,95",1495.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,2,data,,United Provinces,11,Total. :: Imports.,"9,28",928.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,2,Calcutta. :: Exports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,3,Calcutta. :: Imports.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,4,Bombay Port. :: Exports.,"14,99",1499.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,5,Bombay Port. :: Imports.,"8,91",891.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,6,Madras Ports. :: Exports.,25,25.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,7,Madras Ports. :: Imports.,6,6.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,8,Karachi. :: Exports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,10,Total. :: Exports.,"15,26",1526.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,3,data,,Bombay,11,Total. :: Imports.,"8,99",899.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,2,Calcutta. :: Exports.,15,15.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,3,Calcutta. :: Imports.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,4,Bombay Port. :: Exports.,34,34.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,5,Bombay Port. :: Imports.,50,50.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,6,Madras Ports. :: Exports.,"13,80",1380.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,7,Madras Ports. :: Imports.,"9,89",989.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,10,Total. :: Exports.,"14,29",1429.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,4,data,,Madras,11,Total. :: Imports.,"10,48",1048.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,2,Calcutta. :: Exports.,73,73.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,3,Calcutta. :: Imports.,"1,73",173.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,4,Bombay Port. :: Exports.,"1,28",128.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,5,Bombay Port. :: Imports.,"2,37",237.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,6,Madras Ports. :: Exports.,10,10.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,7,Madras Ports. :: Imports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,8,Karachi. :: Exports.,"8,01",801.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,9,Karachi. :: Imports.,"5,66",566.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,10,Total. :: Exports.,"10,12",1012.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,5,data,,Punjab,11,Total. :: Imports.,"9,77",977.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,2,Calcutta. :: Exports.,48,48.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,3,Calcutta. :: Imports.,19,19.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,4,Bombay Port. :: Exports.,"5,41",541.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,5,Bombay Port. :: Imports.,"2,35",235.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,6,Madras Ports. :: Exports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,7,Madras Ports. :: Imports.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,8,Karachi. :: Exports.,17,17.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,9,Karachi. :: Imports.,4,4.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,10,Total. :: Exports.,"6,07",607.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,6,data,,Rājputāna and Central India,11,Total. :: Imports.,"2,60",260.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,2,Calcutta. :: Exports.,41,41.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,3,Calcutta. :: Imports.,33,33.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,4,Bombay Port. :: Exports.,"5,08",508.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,5,Bombay Port. :: Imports.,"2,51",251.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,6,Madras Ports. :: Exports.,5,5.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,7,Madras Ports. :: Imports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,10,Total. :: Exports.,"5,54",554.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,7,data,,Central Provinces,11,Total. :: Imports.,"2,85",285.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,2,Calcutta. :: Exports.,"5,15",515.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,3,Calcutta. :: Imports.,"2,39",239.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,4,Bombay Port. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,5,Bombay Port. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,6,Madras Ports. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,7,Madras Ports. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,10,Total. :: Exports.,"5,15",515.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,8,data,,Assam,11,Total. :: Imports.,"2,39",239.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,2,Calcutta. :: Exports.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,3,Calcutta. :: Imports.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,4,Bombay Port. :: Exports.,"5,38",538.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,5,Bombay Port. :: Imports.,"1,58",158.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,6,Madras Ports. :: Exports.,3,3.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,7,Madras Ports. :: Imports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,10,Total. :: Exports.,"5,43",543.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,9,data,,Berār,11,Total. :: Imports.,"1,61",161.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,2,Calcutta. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,3,Calcutta. :: Imports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,4,Bombay Port. :: Exports.,"2,36",236.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,5,Bombay Port. :: Imports.,"1,19",119.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,6,Madras Ports. :: Exports.,"1,03",103.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,7,Madras Ports. :: Imports.,26,26.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,10,Total. :: Exports.,"3,39",339.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,10,data,,Hyderābād,11,Total. :: Imports.,"1,46",146.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,2,Calcutta. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,3,Calcutta. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,4,Bombay Port. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,5,Bombay Port. :: Imports.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,6,Madras Ports. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,7,Madras Ports. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,8,Karachi. :: Exports.,"3,16",316.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,9,Karachi. :: Imports.,"2,50",250.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,10,Total. :: Exports.,"3,16",316.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,11,data,,Sind,11,Total. :: Imports.,"2,51",251.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,2,Calcutta. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,3,Calcutta. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,4,Bombay Port. :: Exports.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,5,Bombay Port. :: Imports.,42,42.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,6,Madras Ports. :: Exports.,"1,22",122.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,7,Madras Ports. :: Imports.,"1,46",146.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,8,Karachi. :: Exports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,9,Karachi. :: Imports.,…,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,10,Total. :: Exports.,"1,33",133.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,12,data,,Mysore,11,Total. :: Imports.,"1,88",188.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,2,Calcutta. :: Exports.,"57,75",5775.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,3,Calcutta. :: Imports.,"34,97",3497.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,4,Bombay Port. :: Exports.,"38,51",3851.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,5,Bombay Port. :: Imports.,"22,74",2274.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,6,Madras Ports. :: Exports.,"16,63",1663.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,7,Madras Ports. :: Imports.,"11,76",1176.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,8,Karachi. :: Exports.,"12,06",1206.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,9,Karachi. :: Imports.,"8,40",840.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,10,Total. :: Exports.,"1,24,95",12495.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-056,"Trade of Ports with the Provincial Blocks, 1903–4 (In Lakhs of Rupees)",357,315,13,total,,Total,11,Total. :: Imports.,"77,87",7787.0,,False,True

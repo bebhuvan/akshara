@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,1,data,,Raw,2,1900-1.,"6,99",699.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,1,data,,Raw,3,1901-2.,"5,58",558.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,1,data,,Raw,4,1902-3.,"5,54",554.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,1,data,,Raw,5,1903-4.,"5,84",584.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,1,data,,Raw,6,1904-5.,"7,05",705.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,2,data,,Tanned,2,1900-1.,"4,49",449.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,2,data,,Tanned,3,1901-2.,"2,65",265.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,2,data,,Tanned,4,1902-3.,"2,90",290.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,2,data,,Tanned,5,1903-4.,"3,10",310.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,2,data,,Tanned,6,1904-5.,"2,85",285.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,3,total,,Total,2,1900-1.,"11,48",1148.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,3,total,,Total,3,1901-2.,"8,23",823.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,3,total,,Total,4,1902-3.,"8,44",844.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,3,total,,Total,5,1903-4.,"8,94",894.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-036,Table 36,325,283,3,total,,Total,6,1904-5.,"9,90",990.0,,False,True

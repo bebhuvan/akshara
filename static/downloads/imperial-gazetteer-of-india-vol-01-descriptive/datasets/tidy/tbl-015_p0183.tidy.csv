@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,1,data,,Gujarāt,2,Percentage variability of annual rainfall.,161,161.0,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,1,data,,Gujarāt,3,Annual rainfall in inches.,27·64,27.64,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,2,data,,North-western Dry Area,2,Percentage variability of annual rainfall.,150,150.0,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,2,data,,North-western Dry Area,3,Annual rainfall in inches.,10·24,10.24,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,3,data,,Baluchistān,2,Percentage variability of annual rainfall.,133,133.0,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,3,data,,Baluchistān,3,Annual rainfall in inches.,8·66,8.66,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,4,data,,"Indo-Gangetic Plain, West",2,Percentage variability of annual rainfall.,100,100.0,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,4,data,,"Indo-Gangetic Plain, West",3,Annual rainfall in inches.,30·89,30.89,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,5,data,,Deccan,2,Percentage variability of annual rainfall.,93,93.0,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,5,data,,Deccan,3,Annual rainfall in inches.,29·68,29.68,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,6,data,,"East Coast, south",2,Percentage variability of annual rainfall.,90,90.0,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-015,Table 15,183,145,6,data,,"East Coast, south",3,Annual rainfall in inches.,51·59,51.59,,False,False

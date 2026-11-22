@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,1,data,,May,2,Inches.,2·60,2.6,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,2,data,,June,2,Inches.,7·10,7.1,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,3,data,,July,2,Inches.,11·25,11.25,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,4,data,,August,2,Inches.,9·52,9.52,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,5,data,,September,2,Inches.,6·78,6.78,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,6,data,,October,2,Inches.,3·15,3.15,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-010,Table 10,164,126,7,total,,Total,2,Inches.,40·40,40.4,,False,True

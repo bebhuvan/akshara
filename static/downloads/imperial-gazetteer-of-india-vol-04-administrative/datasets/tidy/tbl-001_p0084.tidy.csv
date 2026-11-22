@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,1,data,,Burma,2,Thousands of square miles.,170,170.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,1,data,,Burma,3,Millions of inhabitants.,9,9.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,2,data,,Bengal,2,Thousands of square miles.,151,151.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,2,data,,Bengal,3,Millions of inhabitants.,75,75.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,3,data,,Madras,2,Thousands of square miles.,142,142.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,3,data,,Madras,3,Millions of inhabitants.,38,38.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,4,data,,Bombay,2,Thousands of square miles.,123,123.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,4,data,,Bombay,3,Millions of inhabitants.,19,19.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,5,data,,United Provinces,2,Thousands of square miles.,107,107.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,5,data,,United Provinces,3,Millions of inhabitants.,48,48.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,6,data,,Central Provinces (including Berār),2,Thousands of square miles.,104,104.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,6,data,,Central Provinces (including Berār),3,Millions of inhabitants.,13,13.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,7,data,,Punjab,2,Thousands of square miles.,97,97.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,7,data,,Punjab,3,Millions of inhabitants.,20,20.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,8,data,,Assam,2,Thousands of square miles.,49,49.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-001,Table 1,84,46,8,data,,Assam,3,Millions of inhabitants.,6,6.0,,False,False

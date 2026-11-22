@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,1,data,,Mammals,2,Genera.,115,115.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,1,data,,Mammals,3,Species.,401,401.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,2,data,,Birds,2,Genera.,593,593.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,2,data,,Birds,3,Species.,"1,617",1617.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,3,data,,Reptiles,2,Genera.,146,146.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,3,data,,Reptiles,3,Species.,534,534.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,4,data,,Batrachians,2,Genera.,24,24.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,4,data,,Batrachians,3,Species.,130,130.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,5,data,,Fishes,2,Genera.,351,351.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-033,Table 33,251,213,5,data,,Fishes,3,Species.,"1,418",1418.0,,False,False

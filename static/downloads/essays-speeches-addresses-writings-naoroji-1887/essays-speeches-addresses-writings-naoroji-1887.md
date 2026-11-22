@@ -186,9 +186,6 @@ It is often said by those who criticise the intellectual faults of the educated 
 #### ESSAYS.
 
 
-##### Page.
-
-
 #### CHAPTER I.
 
 - I.—The European and Asiatic
@@ -206,9 +203,6 @@ It is often said by those who criticise the intellectual faults of the educated 
 - V.—Admission of Educated
 														Natives into the Indian
 														Civil Service ... ... 75
-
-##### Page.
-
 - VI.—The Wants and Means of
 														India ... ... ... 97
 - VII.—On the Commerce of India . 112
@@ -881,6 +875,8 @@ Lastly, if aught in this paper appear to be as appealing to the fears of the Bri
 <!-- page: 74 | folio: 47 -->
 
 ### <span class="sc">APPENDIX B</span>.
+
+> _[Margin: I have not been able to get these returns.]_
 
 
 | Years. | Charges of India.[^sec-06-fn-020] | Column 3 |
@@ -1990,7 +1986,7 @@ The total area of cultivated land (table 2, Fiscal of Report, 1867-8— an avera
 I have lately met with an unexpected confirmation of my views. The *Times of India* Summary of 6th June 1873 takes from the *Englishman* some particulars from Mr. Pedder's reply to the Viceroy's circular on local funds. Mr. Pedder makes out, as the value of produce in the Nagpore district, about Rs. 8 per acre, and my estimate of the whole of the Central Provinces is Rs. 12 per acre. I do not know whether
 
 
-| Acres. | Rs. | Column 3 |
+| Item | Acres. | Rs. |
 | --- | --- | --- |
 | Rice | 2,938,328 | 4,18,43,575 |
 | Wheat | 3,313,677 | 3,51,77,956 |
@@ -2064,7 +2060,7 @@ In the administration report of 1868-9 there is a table given of prices of wheat
 The prices given in the report of 1868-9, pages 29, 30, are as follow :— “The following table gives the prices at the close of each month for the year in the chief markets of the provinces. The figures denote seers and chittacks. . . . . .
 
 
-| Districts. :: April. :: S. | WHEAT. :: May. :: C. | My Remarks. :: June. :: S. | Average. :: C. | S. | C. | S. | C. | lb. | oz. | Column 11 | Column 12 |
+| Districts. :: April. :: S. | Districts. :: April. :: C. | Districts. :: April. :: S. | Districts. :: May. :: C. | WHEAT. :: May. :: S. | WHEAT. :: May. :: C. | WHEAT. :: June. :: S. | WHEAT. :: June. :: C. | My Remarks. :: June. :: lb. | My Remarks. :: Average. :: oz. | My Remarks. :: Average. | My Remarks. :: Average. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Saharunpore... ... | 22 | 6 | 25 | 14 | 25 | 14 | 24 | 11 | 49 | 6 | The report does not say which seer this is. |
 | Meerut ... ... | 26 | 0 | 27 | 0 | 27 | 8 | 26 | 13 | 53 | 10 | Formerly 1 seer is given |
@@ -2207,7 +2203,7 @@ Deducting 5 per cent. for ridges, &c., 30 — 1½ = 28½ H. C. For second grade 
 For dry land for cumboo (page 150), Mr. Newill gives the produce per acre as follows :—
 
 
-| Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. |
+| Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. | Descriptions of :: Soils. :: H.C. | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 21 | 6 | 17 | 11 | 12 |
 | 2 | 18 | 7 | 15 | 12 | 10 |
@@ -2666,9 +2662,7 @@ From taking the cost of adults per head to be *a*, and cost of the mass per head
 
 66*a* + 17*<sup>a</sup>*<sub>2</sub> + 17 × 0 = 100*x*
 
-*x* = <sup>74½*a*</sup><sub>100</sub>, or say <sup>75*a*</sup><sub>100</sub> or ¾*a*,
-
-*i. e.*, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of 3 persons in the jail, or of 3 adults, to 4 persons outside, or of the mass, it comes to this :—
+*x* = <sup>74½*a*</sup><sub>100</sub>, or say <sup>75*a*</sup><sub>100</sub> or ¾*a*, *i. e.*, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of 3 persons in the jail, or of 3 adults, to 4 persons outside, or of the mass, it comes to this :—
 
 
 | Production per Head. | Three-fourths of Jail Cost of Living, or Cost per head outside Jail. |
@@ -2915,9 +2909,7 @@ Beyond the positions of deputy-collectors or extra-commissioners, or similar sub
 
 The result, in Sir T. Munro’s words, is this :—“The consequence of the conquest of India by British arms would be, in place of raising, to debase the whole people.”—(Life of Sir T. Munro, page 466, quoted in Mr. Torrens’ “Empire in Asia.”) For every European employed beyond absolute necessity, each native capable of filling the [p. 213] same position is displaced in his own country. All the talent and nobility of intellect and soul, which nature gives to every country, is to India a lost treasure. There is, thus, a triple evil—loss of wealth, wisdom, and work to India—under the present system of administration. Whether the power of education which the British rulers are raising with the glorious object of raising the people of India, and which is day by day increasing, shall be a bulwark or weakness hereafter to the British rule, is a question of great importance. As matters stand at present, in the words of Sir Bartle Frere—"And now, wherever I go, I find the best exponents of the policy of the English Government, and the most able coadjutors in adjusting that policy to the peculiarities of the natives of India, among the ranks of the educated natives." Of the future who can say? It lies in the hands of our rulers whether this power they are raising shall continue to be their "coadjutor," or become their opponent. The merit or fault will be entirely their own.
 
-Sir J. Malcolm says :—"We are not warranted by the History of India, nor indeed by that of any other nation in the world, in reckoning upon the possibility of preserving an empire of such a magnitude by a system which excludes, as ours does, the natives from every station of high rank and honorable ambition. Least of all would such a system be compatible with the plans now in progress for spreading instruction. . . . . . If we do not use the knowledge
-
-which we impart, it will be employed against us. . . We find in all communities, bold, able and ambitious individuals who exercise an influence and power over the class to which they belong, and these must continue enemies to a Government, however just and humane in its general principles, under which they are neither trusted nor employed.
+Sir J. Malcolm says :—"We are not warranted by the History of India, nor indeed by that of any other nation in the world, in reckoning upon the possibility of preserving an empire of such a magnitude by a system which excludes, as ours does, the natives from every station of high rank and honorable ambition. Least of all would such a system be compatible with the plans now in progress for spreading instruction. . . . . . If we do not use the knowledge which we impart, it will be employed against us. . . We find in all communities, bold, able and ambitious individuals who exercise an influence and power over the class to which they belong, and these must continue enemies to a Government, however just and humane in its general principles, under which they are neither trusted nor employed.
 
 . . High and aspiring men can find no spot beyond the limits of our authorities, and such must either be systematically watched and repressed as enemies of our power, or cherished and encouraged as the instruments of its exercise ; there is no medium. In the first case, the more decidedly we proceed to our object, the better for our safety ; but I should, I confess, have little confidence in the success of such a proceeding. As one head of the hydra was lopped off another would arise; and as well might we strive to stem the stream of the Ganges, as to depress to the level of our ordinary rule the energies and hopes which must continually arise in so vast and various a population as that of India."[^sec-13-fn-021]
 
@@ -3048,7 +3040,7 @@ This does not show any rise.
 Take *Indigo.*—
 
 
-| Years. :: £ | Average Price per cwt. :: *s.* | Average Price per cwt. :: *d.* | Average Price per cwt. :: £ | Years. :: *s.* | Average Price per cwt. :: *d.* | Average Price per cwt. | Average Price per cwt. |
+| Years. | Average Price per cwt. :: £ | Average Price per cwt. :: *s.* | Average Price per cwt. :: *d.* | Years. | Average Price per cwt. :: £ | Average Price per cwt. :: *s.* | Average Price per cwt. :: *d.* |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1855 | 27 | 8 | 0 | 1863 | 28 | 4 | 7 |
 | 1856 | 30 | 11 | 4 | 1864 | 30 | 10 | 0 |
@@ -3268,7 +3260,7 @@ All the very high prices in the Bombay Presidency in the year 1863 (the year of 
 
 
 ***Seers of 80 tolas or 2 lbs. per Rupee.***
-| 14th Nov. | 21st Nov. :: Seers. | Seers. |
+| Item | 14th Nov. :: Seers. | 21st Nov. :: Seers. |
 | --- | --- | --- |
 | Coarse Rice | 8 | 6 |
 | Bajri | 10 | 7 |
@@ -3277,7 +3269,7 @@ All the very high prices in the Bombay Presidency in the year 1863 (the year of 
 Contrast these with the prices in 1867-68 :—
 
 
-| Nov. 1867. | Nov. 1868. :: Seers. | Seers. |
+| Item | Nov. 1867. :: Seers. | Nov. 1868. :: Seers. |
 | --- | --- | --- |
 | 2nd Sort Rice | 14·40 | 13·9 |
 | Bajri | 24 | 26 |
@@ -3505,7 +3497,7 @@ The comparative high prices of 1865 to 1867 were owing to bad season; 1867-68, a
 Now, the prices in the above places in January and June 1868 were—
 
 
-| January. | June. | Column 3 |
+| Item | January. | June. |
 | --- | --- | --- |
 | Delhi | 25 seers. | 26 seers. |
 | Umballa | 20½ ” | 24 ” |
@@ -3544,7 +3536,7 @@ With regard to *Bengal*, there is the same difficulty as in the case of prices�
 Now, in the year 1866-67, the daily wage of unskilled labour in several districts of Bengal, where even public works were going on, were as follows :—
 
 
-| a. | p. | Column 3 |
+| Item | a. | p. |
 | --- | --- | --- |
 | 1st Division Grand Trunk-road Division | 2 | 6 |
 | 2nd " " " | 2 | 0 |
@@ -3833,7 +3825,7 @@ The following is the cry from Madras. In the Report on Public Instruction for th
 In its first institution in 1848, the natives were not admitted in the upper subordinate class at all—till the year 1862. In the Engineering Department I work out from the College Calendar of 1871-72 the natives passed, and their present appointment, as follows :
 
 
-| Item | Year. | Year. | Names of Natives passed. | Names of Natives passed. | Their present Appointments. | Their present Appointments. |
+| Item | Year. | Names of Natives passed. | Their present Appointments. | Column 5 | Column 6 | Column 7 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1. | 1851 | Ameerkhan. |  |  |  |  |
 | 2. | 1852 | Huree Charan. |  |  |  |  |
@@ -4712,9 +4704,7 @@ There is, however, just one point to which I ought perhaps to refer more particu
 
 ##### **1**
 
-In proposing for your adoption this memorial,[^sec-16-fn-007] I am glad that I have a very easy task before me, unless I create some giants of my own imagination to knock them down, for on the principle of the memorial I see on all hands there is but one opinion. Beginning with our gracious Sovereign, she has emphatically declared with regard to the natives of India (in a proclamation dated the 1st of November, 1858), “We hold ourselves bound to the natives of our Indian territories by the same [p. 346] obligations of duty which bind us to all our other subjects, and those obligations, by the blessing of Almighty God, we shall faithfully and conscientiously fulfil." Then, referring to this particular point, the proclamation goes on, "It is our further will, that so far as may be, our subjects, of whatever race or creed, be freely and impartially admitted to offices in our service, the duties of which may be qualified by their education, ability, and integrity duly to discharge." That being the gracious declaration of the will and pleasure of our Sovereign, let us pass next to the opinion of Parliament upon the subject. The opinion of Parliament has been all long decisive upon this matter. As far back as 1833, in the Act of that year, it was distinctly declared, "That no native of the said territories, nor any natural born subject of his Majesty, resident therein, shall, by reason only of his religion, place of birth, descent, colour, or any of them, be disabled from holding any place, office, or employment under the said Company;" and on every occasion when Parliament has had the matter before it, there has scarcely been any
-
-possible with the people of the country. He thought that they ought to take a lesson from such a circumstance, and if they were to do their duty towards India they could only discharge that duty by obtaining the assistance and counsel of all who were great and good in that country. It would be absurd in them to say that there was not a large fund of statesmanship and ability in the Indian character.' —(*Times*, 25th May, 1867.) With these friendly and just sentiments towards the people of India we fully concur, and therefore, instead of trespassing any more upon your time, we beg to lay before you our views as to the best mode of accomplishing the object.
+In proposing for your adoption this memorial,[^sec-16-fn-007] I am glad that I have a very easy task before me, unless I create some giants of my own imagination to knock them down, for on the principle of the memorial I see on all hands there is but one opinion. Beginning with our gracious Sovereign, she has emphatically declared with regard to the natives of India (in a proclamation dated the 1st of November, 1858), “We hold ourselves bound to the natives of our Indian territories by the same [p. 346] obligations of duty which bind us to all our other subjects, and those obligations, by the blessing of Almighty God, we shall faithfully and conscientiously fulfil." Then, referring to this particular point, the proclamation goes on, "It is our further will, that so far as may be, our subjects, of whatever race or creed, be freely and impartially admitted to offices in our service, the duties of which may be qualified by their education, ability, and integrity duly to discharge." That being the gracious declaration of the will and pleasure of our Sovereign, let us pass next to the opinion of Parliament upon the subject. The opinion of Parliament has been all long decisive upon this matter. As far back as 1833, in the Act of that year, it was distinctly declared, "That no native of the said territories, nor any natural born subject of his Majesty, resident therein, shall, by reason only of his religion, place of birth, descent, colour, or any of them, be disabled from holding any place, office, or employment under the said Company;" and on every occasion when Parliament has had the matter before it, there has scarcely been any possible with the people of the country. He thought that they ought to take a lesson from such a circumstance, and if they were to do their duty towards India they could only discharge that duty by obtaining the assistance and counsel of all who were great and good in that country. It would be absurd in them to say that there was not a large fund of statesmanship and ability in the Indian character.' —(*Times*, 25th May, 1867.) With these friendly and just sentiments towards the people of India we fully concur, and therefore, instead of trespassing any more upon your time, we beg to lay before you our views as to the best mode of accomplishing the object.
 
 "We think that the competitive examinations for a portion of the appointments to the Indian civil service should be held in India, under such rules and arrangements as you may think proper. What portion of the appointments should be thus competed for in India we cannot do better than leave to your own judgment. After the selection is made in India, by the first examination, we think it essential that the selected candidates be required to come to England to pass their further examinations with the selected candidates of this country.
 
@@ -5466,7 +5456,7 @@ So that out of the total acreage of grains of all the above kinds, viz.
 | Jow | 1,874,217 × ¾ |  |
 | Moth | 982,208 × ¾ |  |
 | Mash | 213,465 × ⅓ |  |
-| 9,903,457 |  |  |
+|  |  | 9,903,457 |
 
 And out of the whole acreage of *all* kinds of grains, *i.e.* 19,083,971 acres, about 30 per cent. is used for producing food for animals.
 
@@ -5967,7 +5957,7 @@ I am unable to make any estimate of the annual addition to stock during the year
 | Agricultural Produce | Rs. 27,72,56,263 |
 | Manufactures | " 4,08,40,058 |
 | Mines | " 3,00,000 |
-| Rs. 31,83,96,321 |  |
+|  | Rs. 31,83,96,321 |
 
 
 <!-- page: 456 | folio: 437 -->
@@ -6025,7 +6015,7 @@ Total quantity 78,966,000 lbs. gives 4·48 lbs. per annum or ·2 oz. per day per
 
 
 **LAND REVENUE OF THE PRINCIPAL PROVINCES OF INDIA FOR 1875-6.[^sec-17-fn-031]**
-| Revenue. :: Rs. | Revenue. :: Rs. | Population. | Population. | Revenue per head. :: Rs. a. p. | Revenue per head. :: Rs. a. p. |
+| Revenue. :: Rs. | Population. | Revenue per head. :: Rs. a. p. | Column 4 | Column 5 | Column 6 |
 | --- | --- | --- | --- | --- | --- |
 | Bengal | 3,77,65,067 | 60,502,897 | 0 | 10 | 0 |
 | Punjab | 2,00,15,260 | 17,611,498 | 1 | 2 | 2 |
@@ -7589,9 +7579,7 @@ I begin with the question of the trade of British India. What is the true trade 
 - 6. Private remittances of Europeans and other foreigners to their own countries for their families, and on account of their savings and profits. This remittance, together with item four, and what the foreigners enjoy in the country itself, is so much deprivation of the people and causes the exhausting annual drain out of the very poor produce or, income of British India. This is India's chief evil.
 
 <!-- page: 585 | folio: 566 -->
-
-##### 7. The remainder are the only *true* trade exports of the produce belonging to the people of British India.
-
+- 7. The remainder are the only *true* trade exports of the produce belonging to the people of British India.
 Let us now examine the actual figures of the so-called exports of British India, say for 1885. For easier understanding I give the figures in sterling, taking the conventional £1 = Rs. 10. The amount of merchandise exported is £83,200,528. This, however, consists of not only domestic produce and manufactures of all India, but also foreign merchandise re-exported. I do not include treasure in these exports, for the simple reason that the gold or silver is not produced in India, but is simply a re-exportation out of what is imported from foreign parts. I take all my figures from the statistical abstracts published among parliamentary returns, except when I mention any other source. I take, then, exports of merchandise to be £83,200,528. We must first know how much of this belongs to the native States. The official trade returns give us no information on this important point, as they should. I shall therefore make a rough estimate for the present. The population of all India is nearly 254,000,000, out of which that of the Native States is 55,000,000, or about 21·5 per cent.; or say, roundly, one-fifth. But the proportion of their exports will, I think, be found to be larger than one-fifth. All the opium exported from Bombay comes from the Native States. A large portion of the cotton exported from Bombay comes from the Native States. According to Hunter's "Imperial Indian Gazetteer," one-sixth of such cotton comes from Kathiawad alone. To be on the safe side, I take the total of exports of the Native States to be one-fifth only—*i.e.*, £16,600,000. Next, the export of merchandise from the frontier countries is about £5,300,000. I may roughly take only one quarter of this as exported out of India. That will be £1,300,000.
 
 The exports of coffee, indigo, jute manufactures, silk, tea, &c., which are mostly those belonging to foreign planters and manufacturers, amount to about £11,500,000. I cannot say how much of this belongs to native planters, and not to foreigners. I may take these exports as £10,000,000.
@@ -7809,7 +7797,7 @@ I claim no prophecy, but the statesmen of 1833 have prophesied, and the Proclama
 Now let us see a few more facts. Because a country increases in population it does not necessarily follow that it must become poorer; nor because a country is densely populated, that therefore it must be poor. Says Macaulay: "England is a hundredfold more wealthy while it is tenfold denser." The following figures speak for themselves:
 
 
-| Countries. | Inhabitants per sq. mile about 1880. | Inhabitants per sq. mile about 1880. | Income per inhabitant (Mulhall's Dictionary of Statistics, 1886). | Income per inhabitant (Mulhall's Dictionary of Statistics, 1886). |
+| Countries. | Inhabitants per sq. mile about 1880. | Income per inhabitant (Mulhall's Dictionary of Statistics, 1886). | Column 4 | Column 5 |
 | --- | --- | --- | --- | --- |
 | Belgium... | ... | 487 | ... | £22·1 |
 | England... | ... | 478 (1886) | ... | 41 (1882) |
@@ -7979,14 +7967,12 @@ Page
 - Engineering service, India, non-fulfilment of pledges in 259–269
 - Essays of the Hon'ble Dadabhoy
 - Naoroji ... ... ... 1–291
-- Examinations, competitive, 38;
-- simultaneous in India, 76, 77, 324,
+- Examinations, competitive, 38; simultaneous in India, 76, 77, 324,
 - 350, 375, 503, 538, 547
 - Exchanges, letters on Indian 505–517
 - Excise Revenue of India ... ... 103
 - Expenditure, Indian ... ... 107
-- Exports to India, 48, 49, 113;
-- of British India... ... 566, 567
+- Exports to India, 48, 49, 113; of British India... ... 566, 567
 - Exports and imports of India ... 191
 
 ##### F
@@ -8002,9 +7988,7 @@ Page
 - Ferguson, Sir James ... 299, 300
 - Firdusi ... ... ... 3
 - Fiction, Sanscrit literature on ... 6
-- Financial administration of India,
-- the elements of, materials, design
-- and execution, details of 137–159
+- Financial administration of India, the elements of, materials, design and execution, details of 137–159
 - Foreign invaders, Indian ... ... 30
 - Foreign rule in India ... ... 98
 - Free Trade for India ... ... 217
@@ -8013,17 +7997,14 @@ Page
 
 ##### G
 
-- General Election, 1886, India s in-
-- terest in ... ... ... 292, 302
+- General Election, 1886, India s interest in ... ... ... 292, 302
 - Ghose, Mr. Lalmohun 292, 297, 317
 - Gladstone, Mr. ... ... 304, 312
 - Goldsticker, Dr. T. ... ... 6, 11
-- Government representative, 42;
-- cost of Indian... ... 573–579
+- Government representative, 42; cost of Indian... ... 573–579
 - Grants, perpetual ... ... ... 61
 - Grant, Sir A. ... ... ... 83
-- Grant Duff, Mr., 102, 103, 207, 214,
-- 259; Reply to Papers of... 548–584
+- Grant Duff, Mr., 102, 103, 207, 214, 259; Reply to Papers of... 548–584
 - Granville, Earl ... ... ... 526
 - Gujerati Hindus, mercantile turn of. 87
 
@@ -8034,10 +8015,7 @@ Page
 
 - Hay, Lord William... ... 60, 70
 - Herodotus on the Persians ... 8, 23
-- Hindus, Gujerati speaking, 24, 25;
-- chivalry amongst, 16; habits of
-- study, 2; morals of, 8; polyga-
-- my amongst ... ... ... 15
+- Hindus, Gujerati speaking, 24, 25; chivalry amongst, 16; habits of study, 2; morals of, 8; polygamy amongst ... ... ... 15
 - Hindu Patriot, the ... ... ... 38
 - Holborn, election speeches in, 302–315
 - Home charges, the Indian... 29, 97
@@ -8046,56 +8024,25 @@ Page
 
 ##### I
 
-- Income, estimated average, of India,
-- 156, 157, 538
+- Income, estimated average, of India, 156, 157, 538
 - Ilbert Bill, the ... ... ...294, 299
 - Imports, Indian ...48, 49, 114, 116
-- India, commerce of, 112–136;
-- debtor and creditor account of,
-- 131–136; England's duties to,
-- 26–50; English capital in, 488;
-- income of, 481; impoverishment
-- of, 138, notes; moral drain of, 119;
-- old invaders of, 472, 473, 485;
-- our responsibilities in, 373–375;
-- political condition of, 26, 369—
-- 372; produce of, 102; wants
-- and means of ... ... ...97—111
-- Indian Civil Service, 378–381; ad-
-- dress on, 345–354; admission of
-- educated natives into, 75–96;
-- competition in England for, 536,
-- in India for, 537–540; memoran-
-- dum on admission of educated
-- natives into (1868), 490–500; ob-
-- jections to admission of natives
-- into, 75, 79; revised memoran-
-- dum on (1884) ... ...500–505
-- Indian Candidates, character of ... 78
-- (1) Indian Exchanges, letters to
-- the *Times* on, 505–509; to the
+- India, commerce of, 112–136; debtor and creditor account of, 131–136; England's duties to, 26–50; English capital in, 488; income of, 481; impoverishment of, 138, notes; moral drain of, 119; old invaders of, 472, 473, 485; our responsibilities in, 373–375; political condition of, 26, 369— 372; produce of, 102; wants and means of ... ... ...97—111
+- Indian Civil Service, 378–381; address on, 345–354; admission of educated natives into, 75–96; competition in England for, 536, in India for, 537–540; memorandum on admission of educated natives into (1868), 490–500; objections to admission of natives into, 75, 79; revised memorandum on (1884) ... ...500–505
+- Indian Candidates, character of ... 78 (1) Indian Exchanges, letters to the *Times* on, 505–509; to the
 - *Daily News* ... ... ...509–517
 - Indian Government Act (1858) ... 54
 - Indian Legislative Council ... 371
 - India Office Committee, report on
-- Civil Service examination (1860),
-- 503; report ... ... ... 530, 531
+- Civil Service examination (1860), 503; report ... ... ... 530, 531
 - India Office Council, the ... 143, 323
 - India and the Opium question 363–366
-- Indian National Congress, the first,
-- (1885), speeches at, 318–331; the
-- second (1886), inaugural address
-- at ... ... ... 331–348
-- Indian matters, indifference of Bri-
-- tish public towards ... ... 40
+- Indian National Congress, the first, (1885), speeches at, 318–331; the second (1886), inaugural address at ... ... ... 331–348
+- Indian matters, indifference of British public towards ... ... 40
 - Indian purse, guardian of ... 54
-- Indian public debt, English gua-
-- rantee for ... ... ... 108
+- Indian public debt, English guarantee for ... ... ... 108
 
 <!-- page: 606 | folio: 587 -->
-
-##### Page
-
 - India Reform Society, the ... 128
 - Indian Services, the, memorandum
 -  on (1880) ... ... 521—536
@@ -8151,9 +8098,6 @@ Page
 - Mayo, Lord... ... 151, 207, 214—217
 - Macaulay, Mr. (1833), 245, 248;
 -  Lord ... 372, 539
-
-##### Page
-
 - Medical Service, Indian, non-fulfilment of pledges in ... 269, 270
 - Medicine, Hindu ... 6
 - Merchants, native ... ... 12
@@ -8210,12 +8154,6 @@ Page
 - Offences in Bombay... ... 9
 
 <!-- page: 607 | folio: 588 -->
-
-##### Page
-
-
-##### Page
-
 - Opinions, official, on the drain
 - from India ... ... 196—212
 - Opium Trade, Indian ... 475, 476

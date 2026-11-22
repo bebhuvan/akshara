@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,1,data,,Bengal army,2,Native cavalry.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,1,data,,Bengal army,3,Native infantry.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,2,data,,Madras „,2,Native cavalry.,...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,2,data,,Madras „,3,Native infantry.,8,8.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,3,data,,Bombay „,2,Native cavalry.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,3,data,,Bombay „,3,Native infantry.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,4,data,,Punjab Frontier Force,2,Native cavalry.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-042,Table 42,385,347,4,data,,Punjab Frontier Force,3,Native infantry.,1,1.0,,False,False

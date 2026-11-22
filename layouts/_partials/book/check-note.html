@@ -10,6 +10,8 @@ checker wrote it, without its deduction. Takes the notes string; returns a slice
   (slice `Blind Totals Strip disagreement\(s\)` "printed total that the figures do not reach" "printed totals that the figures do not reach")
   (slice `column total arithmetic mismatch\(es\)` "column that does not add up to its total" "columns that do not add up to their totals")
   (slice `intra-book diacritic drift cluster\(s\)` "name spelt with different accents in different places" "names spelt with different accents in different places")
+  (slice `collapsed/jammed table row warning\(s\)` "table with rows run together" "tables with rows run together")
+  (slice `suspected text omission page\(s\) vs\. OCR witness` "page where text may have been missed" "pages where text may have been missed")
 -}}
 {{- $out := slice -}}
 {{- $s := . | default "" -}}

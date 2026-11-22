@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-059,Table 59,527,489,1,data,,At Attock,2,Column 2,3 ft. 2 inches.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-059,Table 59,527,489,2,data,,„ Dehra,2,Column 2,5 ft. 1 inch.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-059,Table 59,527,489,3,data,,„ Sironj,2,Column 2,2 ft. 1 inch.,,,False,False

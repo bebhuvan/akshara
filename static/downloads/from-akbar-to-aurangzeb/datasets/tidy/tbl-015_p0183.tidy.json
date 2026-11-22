@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "18·00",
-    "value_numeric": null,
+    "value_numeric": 18.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "14·00",
-    "value_numeric": null,
+    "value_numeric": 14.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "14·00",
-    "value_numeric": null,
+    "value_numeric": 14.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -444,7 +444,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "15·00",
-    "value_numeric": null,
+    "value_numeric": 15.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -498,7 +498,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "10·00",
-    "value_numeric": null,
+    "value_numeric": 10.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -606,7 +606,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "9·25",
-    "value_numeric": null,
+    "value_numeric": 9.25,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -660,7 +660,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "7·00",
-    "value_numeric": null,
+    "value_numeric": 7.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -876,7 +876,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "12·00",
-    "value_numeric": null,
+    "value_numeric": 12.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -930,7 +930,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "10·25",
-    "value_numeric": null,
+    "value_numeric": 10.25,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -984,7 +984,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "12·00",
-    "value_numeric": null,
+    "value_numeric": 12.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1038,7 +1038,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "11·00",
-    "value_numeric": null,
+    "value_numeric": 11.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1200,7 +1200,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "16·00",
-    "value_numeric": null,
+    "value_numeric": 16.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1416,7 +1416,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "27·00",
-    "value_numeric": null,
+    "value_numeric": 27.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1524,7 +1524,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "25·20",
-    "value_numeric": null,
+    "value_numeric": 25.2,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1632,7 +1632,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "26·90",
-    "value_numeric": null,
+    "value_numeric": 26.9,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1686,7 +1686,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "17·30",
-    "value_numeric": null,
+    "value_numeric": 17.3,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1740,7 +1740,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "20·00",
-    "value_numeric": null,
+    "value_numeric": 20.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1794,7 +1794,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "16·70",
-    "value_numeric": null,
+    "value_numeric": 16.7,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2010,7 +2010,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "17·00",
-    "value_numeric": null,
+    "value_numeric": 17.0,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2388,7 +2388,7 @@
     "column_index": 2,
     "column_header": "Price, Rs. and Decimals.",
     "raw_text": "14·22",
-    "value_numeric": null,
+    "value_numeric": 14.22,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false

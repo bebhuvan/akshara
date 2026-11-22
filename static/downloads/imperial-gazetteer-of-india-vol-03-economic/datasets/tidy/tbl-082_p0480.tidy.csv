@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-082,Table 82,480,438,1,data,,"Chief Officers of the Offices of Direction, Accounts, and Superintendence",2,Column 2,34,34.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-082,Table 82,480,438,2,data,,"Assistant Superintendents, Sub-Assistant Superintendents, and Foremen of Workshops",2,Column 2,146,146.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-082,Table 82,480,438,3,data,,"Traffic Sub-Assistant Superintendents, Telegraph Masters, and Signallers",2,Column 2,"2,361",2361.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-082,Table 82,480,438,4,data,,Clerks and Subordinates,2,Column 2,"8,000",8000.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-082,Table 82,480,438,5,total,,Total,2,Column 2,"10,541",10541.0,,False,True

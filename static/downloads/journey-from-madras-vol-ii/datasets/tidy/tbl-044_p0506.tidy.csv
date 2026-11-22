@@ -1,33 +1,33 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",2,Produce. Bushels. :: s.,"6,619",6619.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",4,Value. :: d,12,12.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",5,Value. :: d,9½,9.5,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",4,Column 4,12,12.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,1,data,,"Negadi, or land-tax",5,Column 5,9½,9.5,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,2,Produce. Bushels. :: s.,"0,6619",6619.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,4,Value. :: d,1,1.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,5,Value. :: d,3¼,3.25,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,4,Column 4,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,2,data,,Charges of collection,5,Column 5,3¼,3.25,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,2,Produce. Bushels. :: s.,"4,8639",48639.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,4,Value. :: d,9,9.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,5,Value. :: d,4½,4.5,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,4,Column 4,9,9.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,3,data,,Seed,5,Column 5,4½,4.5,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,2,Produce. Bushels. :: s.,"4,8639",48639.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,4,Value. :: d,9,9.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,5,Value. :: d,4½,4.5,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,4,Column 4,9,9.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,4,data,,Expense of cultivation,5,Column 5,4½,4.5,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,2,Produce. Bushels. :: s.,"0,9928",9928.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,4,Value. :: d,1,1.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,5,Value. :: d,11,11.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,4,Column 4,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,5,data,,Landlord,5,Column 5,11,11.0,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,2,Produce. Bushels. :: s.,"0,5516",5516.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,4,Value. :: d,1,1.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,5,Value. :: d,0¾,0.75,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,4,Column 4,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,6,data,,Interest for money advanced to ditto,5,Column 5,0¾,0.75,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,2,Produce. Bushels. :: s.,"3,9713",39713.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,3,Produce. Bushels. :: s.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,4,Value. :: d,7,7.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,5,Value. :: d,8,8.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,3,Value. :: d,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,4,Column 4,7,7.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,7,data,,Cultivator's profit,5,Column 5,8,8.0,,False,False
 journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,2,Produce. Bushels. :: s.,Bushels 22½,,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,3,Produce. Bushels. :: s.,£. 2,,GBP,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,4,Value. :: d,3,3.0,,False,False
-journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,5,Value. :: d,5½,5.5,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,3,Value. :: d,£. 2,,GBP,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,4,Column 4,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-044,Table 44,506,478,8,total,,Total of two crops,5,Column 5,5½,5.5,,False,False

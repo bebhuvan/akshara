@@ -1,6 +1,6 @@
 ---
 title: "Indian Finance"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Read Before the Manchester Statistical Society, March 9th, 1881"
 author: "Thomas Bouchier Moxon"
 author_slug: "thomas-bouchier-moxon"

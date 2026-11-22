@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,1,data,,1st. Peshāwar,2,Brigades.,Naushahra (infantry) Naushahra (cavalry),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,1,data,,1st. Peshāwar,3,Former military Districts comprised in new Division.,Peshāwar.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,2,data,,2nd. Rāwalpindi,2,Brigades.,Abbottābād Jhelum Siālkot (cavalry),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,2,data,,2nd. Rāwalpindi,3,Former military Districts comprised in new Division.,Rāwalpindi.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,3,data,,3rd. Lahore,2,Brigades.,Jullundur Sirhind Ambāla (cavalry) Ferozepore,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,3,data,,3rd. Lahore,3,Former military Districts comprised in new Division.,Lahore and Sirhind.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,4,data,,4th. Quetta,2,Brigades.,Karāchi,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,4,data,,4th. Quetta,3,Former military Districts comprised in new Division.,Quetta and Sind.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,5,data,,5th. Mhow,2,Brigades.,Nasīrābād Jubbulpore Jhānsi,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,5,data,,5th. Mhow,3,Former military Districts comprised in new Division.,"Mhow, Deesa, Nāgpur, Nerbudda, and Bundelkhand.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,6,data,,6th. Poona,2,Brigades.,Bombay Ahmadnagar Belgaum,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,6,data,,6th. Poona,3,Former military Districts comprised in new Division.,"Poona, Bombay, and Belgaum.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,7,data,,7th. Meerut,2,Brigades.,Bareilly Garhwāl Meerut (cavalry),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,7,data,,7th. Meerut,3,Former military Districts comprised in new Division.,Meerut and Rohilkhand.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,8,data,,8th. Lucknow,2,Brigades.,Allahābād Fyzābād Presidency (Calcutta) Assam,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,8,data,,8th. Lucknow,3,Former military Districts comprised in new Division.,"Oudh, Allahābād, Presidency, and Assam.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,9,data,,9th. Secunderābād,2,Brigades.,Bangalore (cavalry) „ (infantry) Secunderābād (cavalry) „ (infantry) Madras Southern,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,404,366,9,data,,9th. Secunderābād,3,Former military Districts comprised in new Division.,"Secunderābād, Bangalore, Madras, and Southern.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,405,366,10,data,,Burma,2,Brigades.,{ Mandalay . . Rangoon . .,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,405,366,10,data,,Burma,3,Former military Districts comprised in new Division.,} Mandalay.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,405,366,11,data,,Independent brigades — Northern command,2,Brigades.,{ Kohāt. . . Derajāt . . Bannu . .,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,405,366,11,data,,Independent brigades — Northern command,3,Former military Districts comprised in new Division.,Kohāt. } Derajāt.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,405,366,12,data,,""" Western command",2,Brigades.,} Aden . . .,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-046,Table 46,405,366,12,data,,""" Western command",3,Former military Districts comprised in new Division.,Aden.,,,False,False

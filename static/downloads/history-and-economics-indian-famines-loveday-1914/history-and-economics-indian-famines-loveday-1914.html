@@ -7,6 +7,7 @@
     @page { size: 6in 9in; margin: 0.8in 0.7in 0.85in 0.7in; @bottom-center { content: counter(page); font-size: 8.5pt; color: #555; } }
     @page :first { @bottom-center { content: none; } }
     @page wide-ledger { size: 9in 6in; margin: 0.5in 0.55in 0.6in 0.55in; @bottom-center { content: counter(page); font-size: 8pt; color: #555; } }
+    @page broadside-ledger { size: 14in 8.5in; margin: 0.35in 0.35in 0.45in 0.35in; @bottom-center { content: counter(page); font-size: 7.5pt; color: #555; } }
     body { font-family: "EB Garamond", "Liberation Serif", "Noto Serif", "Noto Serif Devanagari", "Noto Serif Bengali", "Noto Naskh Arabic", "Noto Serif Hebrew", "Noto Serif CJK SC", "DejaVu Serif", Georgia, serif; font-size: 10.8pt; line-height: 1.48; color: #111; }
     .archival-title-page { min-height: 7.1in; display: flex; flex-direction: column; justify-content: space-between; text-align: center; padding: 0.8in 0.25in 0.3in; border: 0.6pt solid #444; box-sizing: border-box; }
     .tp-kicker { font-size: 8.5pt; letter-spacing: 0.16em; text-transform: uppercase; color: #555; }
@@ -16,12 +17,14 @@
     .tp-colophon { font-size: 8.5pt; color: #444; border-top: 0.5pt solid #aaa; padding-top: 0.18in; line-height: 1.4; }
     .print-chapter { break-before: page; }
     .wide-table-wrap { page: wide-ledger; }
-    .wide-plate { page: wide-ledger; break-inside: avoid; text-align: center; margin: 0.2in 0; }
-    .wide-plate img { max-width: 100%; max-height: 4.35in; width: auto; height: auto; object-fit: contain; }
+    .broadside-table-wrap { page: broadside-ledger; }
+    .wide-plate { page: wide-ledger; break-inside: avoid; text-align: center; margin: 0.05in 0; }
+    .wide-plate img { max-width: 100%; max-height: 3.75in; width: auto; height: auto; object-fit: contain; }
     .portrait-plate { break-inside: avoid; text-align: center; margin: 0.9em 0; }
     .portrait-plate img { max-width: 100%; max-height: 6.2in; width: auto; height: auto; object-fit: contain; }
     figcaption { font-size: 8.8pt; color: #333; margin-top: 4pt; text-align: left; }
     p { margin: 0 0 0.6em; text-align: justify; orphans: 2; widows: 2; }
+    .verse p, .epigraph p, .toc-line { text-align: left; }
     h2, h3, h4 { break-after: avoid; }
     .sc { font-variant: small-caps; }
     .page-turn-rail { margin: 0.35em 0 0.15em; }
@@ -37,10 +40,13 @@
     table.compact-table { font-size: 7.8pt; }
     table.dense-wide-table { font-size: 7.2pt; }
     table.ultra-wide-table { font-size: 6.0pt; }
+    table.broadside-table { font-size: 4.8pt; }
     th { border-bottom: 1.1pt solid #111; padding: 2.5pt 3pt; text-align: left; vertical-align: bottom; }
     td { border-bottom: 0.4pt solid #bbb; padding: 2pt 3pt; vertical-align: top; }
     table.ultra-wide-table th, table.ultra-wide-table td { padding: 1.5pt 2pt; }
+    table.broadside-table th, table.broadside-table td { padding: 1pt 1.5pt; }
     td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    td.num[colspan]:not([colspan="1"]) { text-align: center; }
     tr.row-total td, tr.row-subtotal td { font-weight: bold; border-top: 0.8pt solid #111; }
     .print-footnotes { margin-top: 1.4em; border-top: 0.6pt solid #aaa; padding-top: 0.55em; font-size: 8.9pt; }
     a.fn-ref, a.fn-backref, a.fn-page-link { color: inherit; text-decoration: none; }
@@ -53,7 +59,7 @@
     <div><div class="tp-kicker">Indian Economic History</div><h1 class="tp-title">The History &amp; Economics of Indian Famines</h1><p class="tp-author">Alexander Loveday</p></div>
     <div class="tp-colophon"><div>Originally published: 1914 · London: G. Bell and Sons</div><div>Akshara Digital Library · Community Edition · Public Domain (CC0 1.0)</div></div>
   </section>
-  <section id='sec-01' class='print-chapter'><h2>Frontmatter</h2><div id='page-5' class='page-turn-rail'><span class='folio-turn'>[p. i]</span></div><h2>THE HISTORY AND ECONOMICS OF INDIAN FAMINES</h2><div id='page-7' class='page-turn-rail'><span class='folio-turn'>[p. iii]</span></div><p class='paragraph'>BY A. LOVEDAY, B.A. <span class="sc">Late Scholar of Peterhouse, Cambridge</span></p><figure id='fig-001' class='portrait-plate'><img src='/figures/history-and-economics-indian-famines-loveday-1914/fig-001_p0007.webp' alt='Publisher&#x27;s printer mark: a bell tied to an anchor with decorative foliage.'><figcaption>Publisher's printer mark: a bell tied to an anchor with decorative foliage.</figcaption></figure><p class='imprint'>LONDON
+  <section id='sec-01' class='print-chapter'><h2>Frontmatter</h2><div id='page-5' class='page-turn-rail'><span class='folio-turn'>[p. i]</span></div><h2>THE HISTORY AND ECONOMICS OF INDIAN FAMINES</h2><div id='page-7' class='page-turn-rail'><span class='folio-turn'>[p. iii]</span></div><p class='paragraph'>BY A. LOVEDAY, B.A. <span class="sc">Late Scholar of Peterhouse, Cambridge</span></p><figure id='fig-001' class='portrait-plate'><img src='/figures/history-and-economics-indian-famines-loveday-1914/fig-001_p0007.webp' alt='Publisher&#x27;s printer mark: a bell tied to an anchor with decorative foliage.'></figure><p class='imprint'>LONDON
 G. BELL AND SONS LTD.
 1914</p><div id='page-9' class='page-turn-rail'><span class='folio-turn'>[p. v]</span></div><h2>ESSAY</h2><h3><span class="sc">The Le Bas Prize, 1913</span></h3><blockquote class='epigraph'><p>“Omnis hominis ratio ex eo maxime pendet, quod<br>
 nudus fragilisque nascitur, quod alieno praesidio<br>

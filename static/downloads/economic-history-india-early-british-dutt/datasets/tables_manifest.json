@@ -289,7 +289,7 @@
       "row_count": 1,
       "tidy_observation_count": 3,
       "arithmetic_verified": false,
-      "arithmetic_status": "no_total_row"
+      "arithmetic_status": "flagged_for_review"
     },
     {
       "table_id": "tbl-016",
@@ -495,7 +495,7 @@
       "end_page": 419,
       "printed_folio": "391",
       "column_count": 6,
-      "row_count": 30,
+      "row_count": 31,
       "tidy_observation_count": 125,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"
@@ -517,7 +517,7 @@
       "row_count": 217,
       "tidy_observation_count": 522,
       "arithmetic_verified": false,
-      "arithmetic_status": "compositor_variant"
+      "arithmetic_status": "flagged_for_review"
     }
   ]
 }

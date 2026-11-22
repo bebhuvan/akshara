@@ -1,6 +1,6 @@
 ---
 title: "A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Volume I — Agriculture, Arts, Commerce, Tenures, and Coinage"
 author: "Francis Buchanan"
 author_slug: "francis-buchanan"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 79.9
+rubric_score: 81.8
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -33,19 +33,19 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Tabular & Numeric Accuracy"
-    score: 6.5
+    score: 8.0
     max: 25.0
-    notes: "-5.0: 1 Blind Totals Strip disagreement(s); -12.0: 12 column total arithmetic mismatch(es); -1.5: 1 ragged table geometry warning(s)"
+    notes: "-5.0: 1 Blind Totals Strip disagreement(s); -12.0: 12 column total arithmetic mismatch(es)"
   - name: "Orthography & Diacritics"
-    score: 23.4
+    score: 23.8
     max: 25.0
-    notes: "-1.6: 8 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-1.2: 6 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 4 Hydrogen"
-provenance_statement: "Automated reading (22 open review items); 22 of 457 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (19 open review items); 22 of 457 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 3 fixes · 22 pp. checked"
+  - "Scan-Triaged: 9 fixes · 22 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 5/16 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -275,7 +275,7 @@ tables_list:
   - table_id: "tbl-024"
     caption: "Average price current of the cloths manufactured for common sale at Bangalore."
     printed_folio: "220"
-    rows: 35
+    rows: 37
     cols: 13
     diplomatic_csv: "/downloads/journey-from-madras-vol-i/datasets/tables/tbl-024_p0260.csv"
     tidy_csv: "/downloads/journey-from-madras-vol-i/datasets/tidy/tbl-024_p0260.tidy.csv"
@@ -344,26 +344,25 @@ editorial_note_markdown: |-
   - **Source File**: `journey-from-madras-vol-i.originals.pdf`
   - **Source SHA-256**: `d082a3115166c9bd5535dfcd546dc844359405344402d2f492385a224712eeef`
   - **Leaf Accounting**: 476 PDF leaves — **457** content leaves transcribed, **19** blank/tissue leaves (`3, 4, 18, 22, 28, 63, 93, 104, 131, 154, 184, 195, 209, 270, 305, 327 (+3 more)`), **0** failed leaves.
-  - **Edition Status**: `community` (**79.9 / 100** Rubric Score)
+  - **Edition Status**: `community` (**81.8 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (98 flyleaf/stamp block(s)) are excluded from reading prose; **316** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **5** multi-page tables were stitched; and **1622** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (98 flyleaf/stamp block(s)) are excluded from reading prose; **325** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **5** multi-page tables were stitched; and **1622** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (21 distinct non-ASCII characters across 295 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-4-hydrogen` (457 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 457 of 457 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 3 replayed correction(s). Automated reading (22 open review items); 22 of 457 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 9 replayed correction(s). Automated reading (19 open review items); 22 of 457 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **26 finding(s) across 22 leaf(s)** (pp. 47, 49, 82, 103, 107, 117, 158, 274, 286, 290 (+12 more)): attested compositor spelling variants preserved diplomatically from the scan.
   - **12 finding(s) across 8 leaf(s)** (pp. 182, 185, 216, 217, 310, 424, 425, 430): statistical table columns whose printed total disagrees with the sum of extracted cells above.
-  - **8 finding(s) across 6 leaf(s)** (pp. 21, 94, 126, 162, 280, 290): faded or blotted `<unclear>` passages awaiting human scan inspection.
+  - **6 finding(s) across 4 leaf(s)** (pp. 21, 94, 162, 280): faded or blotted `<unclear>` passages awaiting human scan inspection.
   - **4 finding(s) across 3 leaf(s)** (pp. 167, 178, 350): rare character.
-  - **1 finding(s) across 1 leaf(s)** (pp. 261): tables where one or more rows have inconsistent column width relative to the header.
   - **1 finding(s) across 1 leaf(s)** (pp. 345): table total rows where the isolated 450-DPI strip check differed from full-page reading.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
@@ -371,4 +370,4 @@ editorial_note_markdown: |-
 
 Volume I — Agriculture, Arts, Commerce, Tenures, and Coinage. Archival scope: spanning 1800-1801; covering Madras, Mysore, Canara, Malabar; focusing on agrarian survey, weights and measures, coinage, irrigation, artisans. Original imprint: London: T. Cadell and W. Davies (By Authority of the East India Company) (1807).
 
-Digitized from Internet Archive copy [`journeyfrommadra01hami_2`](https://archive.org/details/journeyfrommadra01hami_2) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **79.9/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (1), and statistical tables (43) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`journeyfrommadra01hami_2`](https://archive.org/details/journeyfrommadra01hami_2) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **81.8/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (1), and statistical tables (43) are preserved faithfully from the source camera scans.

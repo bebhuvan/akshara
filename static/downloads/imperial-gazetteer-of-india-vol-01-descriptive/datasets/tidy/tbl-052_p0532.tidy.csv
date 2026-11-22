@@ -1,0 +1,153 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,1,total,,India (Grand Total),2,India. :: Males.,"149,951,824",149951824.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,1,total,,India (Grand Total),3,India. :: Females.,"144,409,232",144409232.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,1,total,,India (Grand Total),4,British Territory only. :: Males.,"117,804,942",117804942.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,1,total,,India (Grand Total),5,British Territory only. :: Females.,"114,094,565",114094565.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,3,data,All ages,Unmarried,2,India. :: Males.,"73,506,661",73506661.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,3,data,All ages,Unmarried,3,India. :: Females.,"49,516,381",49516381.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,3,data,All ages,Unmarried,4,British Territory only. :: Males.,"57,984,516",57984516.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,3,data,All ages,Unmarried,5,British Territory only. :: Females.,"39,222,427",39222427.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,4,data,All ages,Married,2,India. :: Males.,"67,804,108",67804108.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,4,data,All ages,Married,3,India. :: Females.,"68,548,130",68548130.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,4,data,All ages,Married,4,British Territory only. :: Males.,"53,558,338",53558338.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,4,data,All ages,Married,5,British Territory only. :: Females.,"54,171,410",54171410.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,5,data,All ages,Widowed,2,India. :: Males.,"8,110,084",8110084.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,5,data,All ages,Widowed,3,India. :: Females.,"25,891,936",25891936.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,5,data,All ages,Widowed,4,British Territory only. :: Males.,"5,998,111",5998111.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,5,data,All ages,Widowed,5,British Territory only. :: Females.,"20,483,449",20483449.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,6,subtotal,,Total,2,India. :: Males.,"149,420,853",149420853.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,6,subtotal,,Total,3,India. :: Females.,"143,956,447",143956447.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,6,subtotal,,Total,4,British Territory only. :: Males.,"117,540,965",117540965.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,6,subtotal,,Total,5,British Territory only. :: Females.,"113,877,286",113877286.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,8,data,Under 5,Unmarried,2,India. :: Males.,"18,608,288",18608288.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,8,data,Under 5,Unmarried,3,India. :: Females.,"19,006,007",19006007.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,8,data,Under 5,Unmarried,4,British Territory only. :: Males.,"15,039,894",15039894.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,8,data,Under 5,Unmarried,5,British Territory only. :: Females.,"15,390,579",15390579.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,9,data,Under 5,Married,2,India. :: Males.,"121,500",121500.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,9,data,Under 5,Married,3,India. :: Females.,"243,503",243503.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,9,data,Under 5,Married,4,British Territory only. :: Males.,"92,521",92521.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,9,data,Under 5,Married,5,British Territory only. :: Females.,"192,983",192983.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,10,data,Under 5,Widowed,2,India. :: Males.,"5,986",5986.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,10,data,Under 5,Widowed,3,India. :: Females.,"19,487",19487.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,10,data,Under 5,Widowed,4,British Territory only. :: Males.,"3,791",3791.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,10,data,Under 5,Widowed,5,British Territory only. :: Females.,"14,319",14319.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,11,subtotal,,Total,2,India. :: Males.,"18,735,774",18735774.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,11,subtotal,,Total,3,India. :: Females.,"19,268,997",19268997.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,11,subtotal,,Total,4,British Territory only. :: Males.,"15,136,206",15136206.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,11,subtotal,,Total,5,British Territory only. :: Females.,"15,597,881",15597881.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,13,data,5—10,Unmarried,2,India. :: Males.,"20,035,071",20035071.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,13,data,5—10,Unmarried,3,India. :: Females.,"17,769,922",17769922.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,13,data,5—10,Unmarried,4,British Territory only. :: Males.,"15,948,531",15948531.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,13,data,5—10,Unmarried,5,British Territory only. :: Females.,"14,182,597",14182597.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,14,data,5—10,Married,2,India. :: Males.,"759,051",759051.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,14,data,5—10,Married,3,India. :: Females.,"2,029,742",2029742.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,14,data,5—10,Married,4,British Territory only. :: Males.,"621,844",621844.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,14,data,5—10,Married,5,British Territory only. :: Females.,"1,656,125",1656125.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,15,data,5—10,Widowed,2,India. :: Males.,"36,963",36963.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,15,data,5—10,Widowed,3,India. :: Females.,"95,798",95798.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,15,data,5—10,Widowed,4,British Territory only. :: Males.,"25,471",25471.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,15,data,5—10,Widowed,5,British Territory only. :: Females.,"73,884",73884.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,16,subtotal,,Total,2,India. :: Males.,"20,831,085",20831085.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,16,subtotal,,Total,3,India. :: Females.,"19,895,462",19895462.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,16,subtotal,,Total,4,British Territory only. :: Males.,"16,595,846",16595846.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,16,subtotal,,Total,5,British Territory only. :: Females.,"15,912,606",15912606.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,18,data,10—15,Unmarried,2,India. :: Males.,"16,228,657",16228657.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,18,data,10—15,Unmarried,3,India. :: Females.,"8,706,088",8706088.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,18,data,10—15,Unmarried,4,British Territory only. :: Males.,"12,629,546",12629546.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,18,data,10—15,Unmarried,5,British Territory only. :: Females.,"6,689,728",6689728.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,19,data,10—15,Married,2,India. :: Males.,"2,539,279",2539279.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,19,data,10—15,Married,3,India. :: Females.,"6,584,768",6584768.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,19,data,10—15,Married,4,British Territory only. :: Males.,"2,016,205",2016205.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,19,data,10—15,Married,5,British Territory only. :: Females.,"5,270,983",5270983.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,20,data,10—15,Widowed,2,India. :: Males.,"112,722",112722.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,20,data,10—15,Widowed,3,India. :: Females.,"275,862",275862.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,20,data,10—15,Widowed,4,British Territory only. :: Males.,"71,221",71221.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,20,data,10—15,Widowed,5,British Territory only. :: Females.,"203,214",203214.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,21,subtotal,,Total,2,India. :: Males.,"18,880,658",18880658.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,21,subtotal,,Total,3,India. :: Females.,"15,566,718",15566718.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,21,subtotal,,Total,4,British Territory only. :: Males.,"14,716,972",14716972.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,21,subtotal,,Total,5,British Territory only. :: Females.,"12,163,925",12163925.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,23,data,15—20,Unmarried,2,India. :: Males.,"8,409,470",8409470.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,23,data,15—20,Unmarried,3,India. :: Females.,"2,152,248",2152248.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,23,data,15—20,Unmarried,4,British Territory only. :: Males.,"6,507,623",6507623.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,23,data,15—20,Unmarried,5,British Territory only. :: Females.,"1,638,703",1638703.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,24,data,15—20,Married,2,India. :: Males.,"4,326,388",4326388.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,24,data,15—20,Married,3,India. :: Females.,"9,342,718",9342718.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,24,data,15—20,Married,4,British Territory only. :: Males.,"3,362,897",3362897.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,24,data,15—20,Married,5,British Territory only. :: Females.,"7,386,018",7386018.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,25,data,15—20,Widowed,2,India. :: Males.,"206,464",206464.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,25,data,15—20,Widowed,3,India. :: Females.,"522,867",522867.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,25,data,15—20,Widowed,4,British Territory only. :: Males.,"127,957",127957.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,25,data,15—20,Widowed,5,British Territory only. :: Females.,"388,576",388576.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,26,subtotal,,Total,2,India. :: Males.,"12,942,322",12942322.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,26,subtotal,,Total,3,India. :: Females.,"12,017,833",12017833.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,26,subtotal,,Total,4,British Territory only. :: Males.,"9,998,477",9998477.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,26,subtotal,,Total,5,British Territory only. :: Females.,"9,413,297",9413297.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,28,data,20—40,Unmarried,2,India. :: Males.,"8,740,894",8740894.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,28,data,20—40,Unmarried,3,India. :: Females.,"1,474,367",1474367.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,28,data,20—40,Unmarried,4,British Territory only. :: Males.,"6,749,284",6749284.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,28,data,20—40,Unmarried,5,British Territory only. :: Females.,"1,007,814",1007814.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,29,data,20—40,Married,2,India. :: Males.,"35,501,681",35501681.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,29,data,20—40,Married,3,India. :: Females.,"37,800,880",37800880.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,29,data,20—40,Married,4,British Territory only. :: Males.,"27,977,024",27977024.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,29,data,20—40,Married,5,British Territory only. :: Females.,"29,895,215",29895215.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,30,data,20—40,Widowed,2,India. :: Males.,"2,414,482",2414482.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,30,data,20—40,Widowed,3,India. :: Females.,"6,707,185",6707185.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,30,data,20—40,Widowed,4,British Territory only. :: Males.,"1,705,657",1705657.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,30,data,20—40,Widowed,5,British Territory only. :: Females.,"5,190,802",5190802.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,31,subtotal,,Total,2,India. :: Males.,"46,657,057",46657057.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,31,subtotal,,Total,3,India. :: Females.,"45,982,432",45982432.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,31,subtotal,,Total,4,British Territory only. :: Males.,"36,431,965",36431965.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,31,subtotal,,Total,5,British Territory only. :: Females.,"36,093,831",36093831.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,33,data,40—60,Unmarried,2,India. :: Males.,"1,200,767",1200767.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,33,data,40—60,Unmarried,3,India. :: Females.,"305,100",305100.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,33,data,40—60,Unmarried,4,British Territory only. :: Males.,"889,700",889700.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,33,data,40—60,Unmarried,5,British Territory only. :: Females.,"229,107",229107.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,34,data,40—60,Married,2,India. :: Males.,"19,894,708",19894708.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,34,data,40—60,Married,3,India. :: Females.,"11,229,436",11229436.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,34,data,40—60,Married,4,British Territory only. :: Males.,"15,692,203",15692203.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,34,data,40—60,Married,5,British Territory only. :: Females.,"8,747,262",8747262.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,35,data,40—60,Widowed,2,India. :: Males.,"3,299,054",3299054.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,35,data,40—60,Widowed,3,India. :: Females.,"11,668,619",11668619.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,35,data,40—60,Widowed,4,British Territory only. :: Males.,"2,444,931",2444931.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,35,data,40—60,Widowed,5,British Territory only. :: Females.,"9,191,124",9191124.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,36,subtotal,,Total,2,India. :: Males.,"24,394,529",24394529.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,36,subtotal,,Total,3,India. :: Females.,"23,203,155",23203155.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,36,subtotal,,Total,4,British Territory only. :: Males.,"19,026,834",19026834.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,36,subtotal,,Total,5,British Territory only. :: Females.,"18,167,493",18167493.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,38,data,60 and over,Unmarried,2,India. :: Males.,"273,660",273660.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,38,data,60 and over,Unmarried,3,India. :: Females.,"93,386",93386.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,38,data,60 and over,Unmarried,4,British Territory only. :: Males.,"210,609",210609.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,38,data,60 and over,Unmarried,5,British Territory only. :: Females.,"75,050",75050.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,39,data,60 and over,Married,2,India. :: Males.,"4,650,915",4650915.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,39,data,60 and over,Married,3,India. :: Females.,"1,304,725",1304725.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,39,data,60 and over,Married,4,British Territory only. :: Males.,"3,787,758",3787758.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,39,data,60 and over,Married,5,British Territory only. :: Females.,"1,013,245",1013245.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,40,data,60 and over,Widowed,2,India. :: Males.,"2,031,736",2031736.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,40,data,60 and over,Widowed,3,India. :: Females.,"6,596,839",6596839.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,40,data,60 and over,Widowed,4,British Territory only. :: Males.,"1,616,483",1616483.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,40,data,60 and over,Widowed,5,British Territory only. :: Females.,"5,416,414",5416414.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,41,subtotal,,Total,2,India. :: Males.,"6,956,311",6956311.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,41,subtotal,,Total,3,India. :: Females.,"7,994,950",7994950.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,41,subtotal,,Total,4,British Territory only. :: Males.,"5,614,850",5614850.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,41,subtotal,,Total,5,British Territory only. :: Females.,"6,504,709",6504709.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,43,data,Age not returned,Unmarried,2,India. :: Males.,"9,854",9854.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,43,data,Age not returned,Unmarried,3,India. :: Females.,"9,263",9263.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,43,data,Age not returned,Unmarried,4,British Territory only. :: Males.,"9,329",9329.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,43,data,Age not returned,Unmarried,5,British Territory only. :: Females.,"8,849",8849.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,44,data,Age not returned,Married,2,India. :: Males.,"10,586",10586.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,44,data,Age not returned,Married,3,India. :: Females.,"12,358",12358.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,44,data,Age not returned,Married,4,British Territory only. :: Males.,"7,886",7886.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,44,data,Age not returned,Married,5,British Territory only. :: Females.,"9,579",9579.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,45,data,Age not returned,Widowed,2,India. :: Males.,"2,677",2677.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,45,data,Age not returned,Widowed,3,India. :: Females.,"5,279",5279.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,45,data,Age not returned,Widowed,4,British Territory only. :: Males.,"2,600",2600.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,45,data,Age not returned,Widowed,5,British Territory only. :: Females.,"5,116",5116.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,46,subtotal,,Total,2,India. :: Males.,"23,117",23117.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,46,subtotal,,Total,3,India. :: Females.,"26,900",26900.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,46,subtotal,,Total,4,British Territory only. :: Males.,"19,815",19815.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,46,subtotal,,Total,5,British Territory only. :: Females.,"23,544",23544.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,47,data,Age not returned,Not enumerated by civil condition,2,India. :: Males.,"530,971",530971.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,47,data,Age not returned,Not enumerated by civil condition,3,India. :: Females.,"452,785",452785.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,47,data,Age not returned,Not enumerated by civil condition,4,British Territory only. :: Males.,"263,977",263977.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-052,TABLE VIII. CIVIL CONDITION,532,494,47,data,Age not returned,Not enumerated by civil condition,5,British Territory only. :: Females.,"217,279",217279.0,,False,False

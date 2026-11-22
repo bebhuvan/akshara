@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,1,data,,1867 to 1872,2,Population.,"206,162,360",206162360.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,1,data,,1867 to 1872,3,Variation per cent. since previous Census.,· ·,,%,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,2,data,,1881,2,Population.,"253,896,330",253896330.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,2,data,,1881,3,Variation per cent. since previous Census.,+ 23·1,23.1,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,3,data,,1891,2,Population.,"287,314,671",287314671.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,3,data,,1891,3,Variation per cent. since previous Census.,+ 13·1,13.1,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,4,data,,1901,2,Population.,"294,361,056",294361056.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-042,Table 42,497,459,4,data,,1901,3,Variation per cent. since previous Census.,+ 2·4,2.4,%,False,False

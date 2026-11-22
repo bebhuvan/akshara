@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,1,data,,Cold weather (January–February),2,Column 2,0·99,0.99,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,1,data,,Cold weather (January–February),3,Column 3,inches.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,2,data,,Hot weather (March–May),2,Column 2,4·58,4.58,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,2,data,,Hot weather (March–May),3,Column 3,„,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,3,data,,South-west monsoon (June–September),2,Column 2,34·65,34.65,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,3,data,,South-west monsoon (June–September),3,Column 3,„,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,4,data,,Retreating south-west monsoon (October–December),2,Column 2,4·95,4.95,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-013,Table 13,178,140,4,data,,Retreating south-west monsoon (October–December),3,Column 3,„,,,False,False

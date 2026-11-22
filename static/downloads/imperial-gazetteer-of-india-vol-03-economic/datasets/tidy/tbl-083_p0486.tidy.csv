@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,1,data,,1882,2,No. of exchanges.,8,8.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,1,data,,1882,3,No. of exchange connexions.,56,56.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,1,data,,1882,4,No. of private line offices.,147,147.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,1,data,,1882,5,Amount of yearly subscriptions. :: Rs.,"40,069",40069.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,2,data,,1890,2,No. of exchanges.,13,13.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,2,data,,1890,3,No. of exchange connexions.,93,93.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,2,data,,1890,4,No. of private line offices.,224,224.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,2,data,,1890,5,Amount of yearly subscriptions. :: Rs.,"53,794",53794.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,3,data,,1900,2,No. of exchanges.,46,46.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,3,data,,1900,3,No. of exchange connexions.,401,401.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,3,data,,1900,4,No. of private line offices.,555,555.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,3,data,,1900,5,Amount of yearly subscriptions. :: Rs.,"1,61,127",161127.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,4,data,,1903,2,No. of exchanges.,71,71.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,4,data,,1903,3,No. of exchange connexions.,838,838.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,4,data,,1903,4,No. of private line offices.,708,708.0,count,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-083,Table 83,486,444,4,data,,1903,5,Amount of yearly subscriptions. :: Rs.,"1,95,692",195692.0,Rs,False,False

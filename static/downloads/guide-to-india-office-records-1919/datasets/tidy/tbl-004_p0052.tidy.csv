@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,1,data,,628,2,Column 2,1602–1789,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,1,data,,628,3,Column 3,A collection of farmans and treaties (compiled by Thomas Wilks).,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,2,data,,629,2,Column 2,1643–1800,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,2,data,,629,3,Column 3,"Treaties and grants, with correspondence.",,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,3,data,,630,2,Column 2,1672–1717,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,3,data,,630,3,Column 3,"Copies of farmans, &c.",,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,4,data,,631,2,Column 2,1690–1751,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,4,data,,631,3,Column 3,"Translations of farmans, &c. at Fort St. David.",,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,5,data,,632,2,Column 2,1716–17,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,5,data,,632,3,Column 3,Ditto at Fort St. George (including one relating to Calcutta).,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,6,data,,633,2,Column 2,1773–80,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,6,data,,633,3,Column 3,Treaties concluded by the Bengal Presidency.,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,7,data,,634-6,2,Column 2,1781–1806,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,7,data,,634-6,3,Column 3,Treaties and Agreements with Indian Princes.,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,8,data,,637,2,Column 2,1781–1806,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,8,data,,637,3,Column 3,Ditto.,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,9,data,,"638, 639",2,Column 2,1792–1829,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,9,data,,"638, 639",3,Column 3,Ditto.,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,10,data,,640,2,Column 2,1800,1800.0,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,10,data,,640,3,Column 3,Negotiations and treaty with the Nizam.,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,11,data,,641,2,Column 2,1817–34,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,11,data,,641,3,Column 3,Treaties with Indian Princes.,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,12,data,,642,2,Column 2,1763–1801,,,False,False
+guide-to-india-office-records-1919,tbl-004,Table 4,52,32,12,data,,642,3,Column 3,"Treaties, &c. with the Nawabs of Arcot.",,,False,False

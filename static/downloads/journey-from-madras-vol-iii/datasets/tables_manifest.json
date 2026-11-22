@@ -191,7 +191,7 @@
       "end_page": 121,
       "printed_folio": "103",
       "column_count": 22,
-      "row_count": 9,
+      "row_count": 10,
       "tidy_observation_count": 168,
       "arithmetic_verified": false,
       "arithmetic_status": "flagged_for_review"
@@ -1065,7 +1065,7 @@
       "end_page": 540,
       "printed_folio": "487",
       "column_count": 4,
-      "row_count": 250,
+      "row_count": 253,
       "tidy_observation_count": 633,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"

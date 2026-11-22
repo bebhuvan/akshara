@@ -1,0 +1,33 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,1,data,,Cavalry regiment,2,Officers.,29,29.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,1,data,,Cavalry regiment,3,Warrant N.-C. officers and men.,599,599.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,1,data,,Cavalry regiment,4,Total.,628,628.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,1,data,,Cavalry regiment,5,"Native N.-C. officers and men, additional.",...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,2,data,,Horse or field battery,2,Officers.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,2,data,,Horse or field battery,3,Warrant N.-C. officers and men.,157,157.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,2,data,,Horse or field battery,4,Total.,162,162.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,2,data,,Horse or field battery,5,"Native N.-C. officers and men, additional.",7–9,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,3,data,,Howitzer field battery,2,Officers.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,3,data,,Howitzer field battery,3,Warrant N.-C. officers and men.,180,180.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,3,data,,Howitzer field battery,4,Total.,185,185.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,3,data,,Howitzer field battery,5,"Native N.-C. officers and men, additional.",11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,4,data,,Heavy battery (half horsed),2,Officers.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,4,data,,Heavy battery (half horsed),3,Warrant N.-C. officers and men.,91,91.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,4,data,,Heavy battery (half horsed),4,Total.,96,96.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,4,data,,Heavy battery (half horsed),5,"Native N.-C. officers and men, additional.",104,104.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,5,data,,” ” (bullock draught),2,Officers.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,5,data,,” ” (bullock draught),3,Warrant N.-C. officers and men.,89,89.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,5,data,,” ” (bullock draught),4,Total.,94,94.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,5,data,,” ” (bullock draught),5,"Native N.-C. officers and men, additional.",110,110.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,6,data,,Mountain battery,2,Officers.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,6,data,,Mountain battery,3,Warrant N.-C. officers and men.,129,129.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,6,data,,Mountain battery,4,Total.,134,134.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,6,data,,Mountain battery,5,"Native N.-C. officers and men, additional.",197,197.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,7,data,,Garrison company,2,Officers.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,7,data,,Garrison company,3,Warrant N.-C. officers and men.,140,140.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,7,data,,Garrison company,4,Total.,145,145.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,7,data,,Garrison company,5,"Native N.-C. officers and men, additional.",...,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,8,data,,Infantry battalion,2,Officers.,29,29.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,8,data,,Infantry battalion,3,Warrant N.-C. officers and men.,"1,005",1005.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,8,data,,Infantry battalion,4,Total.,"1,034",1034.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-047,Table 47,406,368,8,data,,Infantry battalion,5,"Native N.-C. officers and men, additional.",...,,,True,False

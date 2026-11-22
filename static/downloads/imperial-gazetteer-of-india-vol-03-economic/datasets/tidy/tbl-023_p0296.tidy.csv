@@ -1,0 +1,45 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,1,data,,"1. Bristles, brush-fibres, and brush-making",2,Imports for 1903-4. In lakhs of rupees.,0.9,0.9,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,1,data,,"1. Bristles, brush-fibres, and brush-making",3,Exports for 1903-4. In lakhs of rupees.,20.76,20.76,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,2,data,,2. Coral,2,Imports for 1903-4. In lakhs of rupees.,4.10,4.1,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,2,data,,2. Coral,3,Exports for 1903-4. In lakhs of rupees.,Nil.,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,3,data,,3. Feathers,2,Imports for 1903-4. In lakhs of rupees.,0.02,0.02,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,3,data,,3. Feathers,3,Exports for 1903-4. In lakhs of rupees.,0.5,0.5,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,5,data,4. Hides and skins—,Raw,2,Imports for 1903-4. In lakhs of rupees.,9.37,9.37,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,5,data,4. Hides and skins—,Raw,3,Exports for 1903-4. In lakhs of rupees.,"5,83.62",583.62,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,6,data,4. Hides and skins—,Dressed,2,Imports for 1903-4. In lakhs of rupees.,8.91,8.91,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,6,data,4. Hides and skins—,Dressed,3,Exports for 1903-4. In lakhs of rupees.,"3,09.89",309.89,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,7,data,4. Hides and skins—,Manufactures,2,Imports for 1903-4. In lakhs of rupees.,26.20,26.2,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,7,data,4. Hides and skins—,Manufactures,3,Exports for 1903-4. In lakhs of rupees.,2.99,2.99,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,8,data,4. Hides and skins—,Boots and shoes,2,Imports for 1903-4. In lakhs of rupees.,27.93,27.93,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,8,data,4. Hides and skins—,Boots and shoes,3,Exports for 1903-4. In lakhs of rupees.,6.14,6.14,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,9,subtotal,,Total,2,Imports for 1903-4. In lakhs of rupees.,72.41,72.41,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,9,subtotal,,Total,3,Exports for 1903-4. In lakhs of rupees.,"9,02.64",902.64,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,10,data,4. Hides and skins—,5. Horn,2,Imports for 1903-4. In lakhs of rupees.,0.75,0.75,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,10,data,4. Hides and skins—,5. Horn,3,Exports for 1903-4. In lakhs of rupees.,12.06,12.06,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,12,data,6. Ivory—,Raw,2,Imports for 1903-4. In lakhs of rupees.,18.21,18.21,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,12,data,6. Ivory—,Raw,3,Exports for 1903-4. In lakhs of rupees.,0.25,0.25,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,13,data,6. Ivory—,Manufactures,2,Imports for 1903-4. In lakhs of rupees.,2.36,2.36,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,13,data,6. Ivory—,Manufactures,3,Exports for 1903-4. In lakhs of rupees.,0.02,0.02,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,14,subtotal,,Total,2,Imports for 1903-4. In lakhs of rupees.,20.57,20.57,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,14,subtotal,,Total,3,Exports for 1903-4. In lakhs of rupees.,0.27,0.27,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,16,data,"7. Shells, &c.—","Shells, all kinds",2,Imports for 1903-4. In lakhs of rupees.,1.85,1.85,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,16,data,"7. Shells, &c.—","Shells, all kinds",3,Exports for 1903-4. In lakhs of rupees.,1.60,1.6,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,17,data,"7. Shells, &c.—",Tortoise-shell,2,Imports for 1903-4. In lakhs of rupees.,0.36,0.36,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,17,data,"7. Shells, &c.—",Tortoise-shell,3,Exports for 1903-4. In lakhs of rupees.,0.02,0.02,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,18,subtotal,,Total,2,Imports for 1903-4. In lakhs of rupees.,2.21,2.21,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,18,subtotal,,Total,3,Exports for 1903-4. In lakhs of rupees.,1.62,1.62,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,19,total,,Grand Total,2,Imports for 1903-4. In lakhs of rupees.,"1,00·15",100.15,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,19,total,,Grand Total,3,Exports for 1903-4. In lakhs of rupees.,"9,37·40",937.4,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,20,header,"7. Shells, &c.—",Row 20,2,Imports for 1903-4. In lakhs of rupees.,Imports.,,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,20,header,"7. Shells, &c.—",Row 20,3,Exports for 1903-4. In lakhs of rupees.,Exports.,,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,21,subtotal,,Grand Total for 1876-7,2,Imports for 1903-4. In lakhs of rupees.,47.95,47.95,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,21,subtotal,,Grand Total for 1876-7,3,Exports for 1903-4. In lakhs of rupees.,"3,16.87",316.87,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,22,data,"7. Shells, &c.—",„ „ 1886-7,2,Imports for 1903-4. In lakhs of rupees.,85.07,85.07,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,22,data,"7. Shells, &c.—",„ „ 1886-7,3,Exports for 1903-4. In lakhs of rupees.,"5,33.28",533.28,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,23,data,"7. Shells, &c.—",„ „ 1896-7,2,Imports for 1903-4. In lakhs of rupees.,84.16,84.16,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,23,data,"7. Shells, &c.—",„ „ 1896-7,3,Exports for 1903-4. In lakhs of rupees.,"7,15.18",715.18,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,24,data,"7. Shells, &c.—",„ „ 1901-2,2,Imports for 1903-4. In lakhs of rupees.,86.42,86.42,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,24,data,"7. Shells, &c.—",„ „ 1901-2,3,Exports for 1903-4. In lakhs of rupees.,"8,60.12",860.12,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,25,data,"7. Shells, &c.—",„ „ 1902-3,2,Imports for 1903-4. In lakhs of rupees.,98.48,98.48,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-023,TABLE IV. TRADE IN ANIMAL PRODUCTS,296,254,25,data,"7. Shells, &c.—",„ „ 1902-3,3,Exports for 1903-4. In lakhs of rupees.,"8,93.30",893.3,Rs,False,False

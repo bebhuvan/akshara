@@ -2334,7 +2334,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 [^sec-07-fn-008]: (2) ‘A toule of gould is 7 dwt. and 16 graines’ (*marginal note, made in London*).
 [^sec-07-fn-009]: (1) ‘Att his departure hence [Petapoli ?] for Mesulapatam.’
 [^sec-07-fn-010]: (1) Really his brother-in-law, Bell Potter.
-[^sec-07-fn-011]: (1) The only signature appended is that of Captain Weddell, and the date is given as January 23. The consultation is, however, again entered (by error) at p. 206 of the same volume, under what appears to be the correct date, and with the names of Hopkin- son, Mountney, Giffard, and Joyce attached.
+[^sec-07-fn-011]: (1) The only signature appended is that of Captain Weddell, and the date is given as January 23. The consultation is, however, again entered (by error) at p. 206 of the same volume, under what appears to be the correct date, and with the names of Hopkinson, Mountney, Giffard, and Joyce attached.
 [^sec-07-fn-012]: (1) The Viceroy of Goa, in a letter to King Philip dated Feb. 3, 1633 (N.S.), mentioned three French ships as having been in the 'Straits of Mecca' (*Lisbon Transcripts: Doc. Remett.*, bk. 30, f. 263).
 [^sec-07-fn-013]: (2) A marginal note made in London points out that the copies of the journals might have been sent, especially those of Persia, which had been forwarded to Surat two years before.
 [^sec-07-fn-014]: (3) Cowries are no doubt intended (see p. 287). Crispe was engaged in the Guinea trade, for which they would be very useful. Nicholas Ufflett (who was with Hawkins) says 'for your pice in Agra [you may have] 30 caures, a kinde of fish shell come out of Bengala' (*Factory Records, Miscell.*, vol. xxv).
@@ -2625,10 +2625,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - 164; customs duties at, 80; Indian
 - merchants at, 128; passages for, to be
 - refused, 175; Indians dismissed the
-- Company's service at, 175; disposal of
-
-<!-- page: 380 | folio: 334 -->
-- ordnance at, 92; want of shipping and
+- Company's service at, 175; disposal of [p. 334] ordnance at, 92; want of shipping and
 - stores at, 86, 127, 128, 253; English
 - ships at, 106, 175, 188, 190, 202, 249,
 - 312, 313; dispatch of ships to England,
@@ -2801,8 +2798,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - 142, 143; Shāh Jahān at, 22, 136, 138,
 - 165, 197; caravan detained at, 213, 215,
 - 216; difficulty in carting goods from,
-- 136; customs duties at, 143; trade at,
-- 28, 214, 215; recovery of a debt at, 83,
+- 136; customs duties at, 143; trade at, 28, 214, 215; recovery of a debt at, 83,
 - 90, 285, 287; currency at, 287; factors
 - sent to, 323.
 - Burley, John, master of the *Intelligence*,
@@ -3086,11 +3082,8 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Damask, 176.
 - Damka, 102.
 - Danes, 79, 113, 118, 202, 235; carry letters
-- for the English, 183; passages on Eng-
-
-<!-- page: 384 | folio: 338 -->
-- lish ships for, 118, 171, 183, 184,
-- 202.
+- for the English, 183; passages on English ships for, 118, 171, 183, 184,
+- 202. [p. 338]
 - *Darbār*, 28.
 - Darejan, 320 *n.*
 - Dāsarī, 242.
@@ -3219,9 +3212,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - *Exchange*, the, 24, 25, 163, 186, 239, 274, 296; master of, *see* Pynn; letter from, 283; voyage to India, 177; at Swally, 148, 149 (2); voyage to Persia and back, 198, 199, 217; voyage to Coromandel Coast, 197, 199, 215, 218, 236; and thence to Persia, 236, 239, 245; returns to Swally, 255; voyage to Sumatra and Bantam, 200, 235 *n.*, 247, 257, 258, 264, 270, 273, 276, 283; designed for England, 247.
 - Exchange, rate of, 96, 104, 154, 302.
 - *Expedition*, the, 3, 16.
-- Factors, lists of, 10, 11, 25, 131, 132; dissensions among, 5, 46, 47, 150-5 (*see also* Bantam *and* Coromandel Coast); want of, 35, 79, 126, 139, 173, 175, 206; and private trade, 126, 128, 151-5, 311; complaint as to salaries, 290, 295, 296; complaint of the want of ability of newcomers, 256, 296; relations between,
-- employed by various Stocks, etc., 37, 53,
-- 55, 77, 81, 87, 109, 110, 128, 167-73, 250.
+- Factors, lists of, 10, 11, 25, 131, 132; dissensions among, 5, 46, 47, 150-5 (*see also* Bantam *and* Coromandel Coast); want of, 35, 79, 126, 139, 173, 175, 206; and private trade, 126, 128, 151-5, 311; complaint as to salaries, 290, 295, 296; complaint of the want of ability of newcomers, 256, 296; relations between, employed by various Stocks, etc., 37, 53, 55, 77, 81, 87, 109, 110, 128, 167-73, 250.
 - *Falcon*, the, 86, 118 (2), 170, 313; master of, *see* Norbury; voyage from Bantam to Coromandel Coast, 111, 309; at Masulipatam, 77, 113, 117, 270; voyage to Gingelly, 81, 168, 260; returns to Bantam, 84, 162, 171; private trade on, 147, 174, 260-2, 269.
 - Fall, William, 161, 194, 196, 202, 258; letters from, *see* Persia.
 - ‘Falso,’ Cape, 143.
@@ -3430,8 +3421,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Hopkinson, Joseph, 31, 39, 57 *n.*, 150,
 - 250 *n.*, 257 *n.*, 274 *n.* ; letters to and from,
 - 176, 222, 225, 226, 239, 245 (2), 246, 281,
-- 317 (*see also* Surat) ; returns to India, 11,
-- 45 ; becomes President at Surat, 185,
+- 317 (*see also* Surat) ; returns to India, 11, 45 ; becomes President at Surat, 185,
 - 199 ; criticism of, 258, 316 ; illness and
 - death of, 179, 270, 318.
 - Hopkinson, Martin, death of, 236.
@@ -3713,10 +3703,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - *Masīhī*, the, 284.
 - Mascarenhas. *See* Réunion.
 - Masīh-al-Zamān, 90 *n.*
-- Masulipatam, letters to, 50, 54, 73, 92, 98,
-
-<!-- page: 390 | folio: 344 -->
-- 106, 109, 232, 233, 241, 243, 263, 266; letters from, 76, 84, 225, 227, 228, 235 (2), 237, 238 (2), 244, 255, 277, 281, 282, 285, 291, 292; Governor of, 78, 99, 117, 167, 300; factors at and for, 86, 93 (*see also* Coromandel Coast); housing of factors at, 77, 128, 170, 269; factory accounts and charges, 84, 85; factory subordinate to Surat, 6, 124; question of dissolution of the factory at, 55 (2), 98, 108, 113, 128, 163, 170; necessity for continuance of factory at, 82, 85; customs duties at, 78, 99; currency at, 87, 109, 300; supplies for, 40, 93 (2), 291; trade at, 51, 77, 80, 84, 92, 93, 113, 159, 171, 204, 301; negotiations for removal of restrictions on trade at, 78, 79, 99, 107; losses sustained at, 73; borrowing of money at, 277, 278, 283; cotton goods from, 98, 168, 309; chintz from, 289; gum-lac from. 125, 323; advantages of, as a port compared with Petapoli, 171; English ships at, 188, 190, 203, 236, 260, 307, 320; shipment of freight goods to Persia, etc., from, 197, 200, 208, 211, 215, 236, 237, 239, 240, 241, 257, 267, 276, 279, 286, 288, 294, 298, 301, 320; proposed trade between Persia and, 237, 296, 304; effects of war and famine at, 203, 204, 268; punishment of natives at, 171; native porter tortured to death at, 167, 171, 260, 261, 265, 269, 309; proposal to seize shipping at, 265, 269, 309; expedition to Bengal from, 238; junks from, sail under Dutch protection, 286, 296; Dutch at, 21, 77, 87, 98, 107, 128, 235, 305; Dutch chief at (*see also* Isbrandszoon, Gardenijs, *and* Pieterszoon), 167, 268, 310; Dutch establish their chief residence at, 301; Danes at, 184, 235.
+- Masulipatam, letters to, 50, 54, 73, 92, 98, [p. 344] 106, 109, 232, 233, 241, 243, 263, 266; letters from, 76, 84, 225, 227, 228, 235 (2), 237, 238 (2), 244, 255, 277, 281, 282, 285, 291, 292; Governor of, 78, 99, 117, 167, 300; factors at and for, 86, 93 (*see also* Coromandel Coast); housing of factors at, 77, 128, 170, 269; factory accounts and charges, 84, 85; factory subordinate to Surat, 6, 124; question of dissolution of the factory at, 55 (2), 98, 108, 113, 128, 163, 170; necessity for continuance of factory at, 82, 85; customs duties at, 78, 99; currency at, 87, 109, 300; supplies for, 40, 93 (2), 291; trade at, 51, 77, 80, 84, 92, 93, 113, 159, 171, 204, 301; negotiations for removal of restrictions on trade at, 78, 79, 99, 107; losses sustained at, 73; borrowing of money at, 277, 278, 283; cotton goods from, 98, 168, 309; chintz from, 289; gum-lac from. 125, 323; advantages of, as a port compared with Petapoli, 171; English ships at, 188, 190, 203, 236, 260, 307, 320; shipment of freight goods to Persia, etc., from, 197, 200, 208, 211, 215, 236, 237, 239, 240, 241, 257, 267, 276, 279, 286, 288, 294, 298, 301, 320; proposed trade between Persia and, 237, 296, 304; effects of war and famine at, 203, 204, 268; punishment of natives at, 171; native porter tortured to death at, 167, 171, 260, 261, 265, 269, 309; proposal to seize shipping at, 265, 269, 309; expedition to Bengal from, 238; junks from, sail under Dutch protection, 286, 296; Dutch at, 21, 77, 87, 98, 107, 128, 235, 305; Dutch chief at (*see also* Isbrandszoon, Gardenijs, *and* Pieterszoon), 167, 268, 310; Dutch establish their chief residence at, 301; Danes at, 184, 235.
 - Mataram, Sultan of, 162.
 - Matthew, William, 77, 81, 166, 168, 169, 218 *n.*, 253, 254 *n.*, 261, 263, 269; letters from (*see also* Masulipatam), 15, 283; arrest of, 145, 172 (2), 174; reinstated and sent to Sumatra, 264 (2), 276, 316.
 - Maund, *passim*; Akbarī, 328.
@@ -3725,8 +3712,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Mayotta. *See* Comoro Islands.
 - ‘Merryman,’ 103.
 - *Mestiço*, 300.
-- Methwold, William, letters to and from, 317, 331 (2); succeeds Rastell as President at Surat, xxxii. 286, 317, 318, 321,
-- 322; arrival of, at Surat, 322; negotiations between the Portuguese and, 220 *n.*, 331; his character, etc., xxxiii.
+- Methwold, William, letters to and from, 317, 331 (2); succeeds Rastell as President at Surat, xxxii. 286, 317, 318, 321, 322; arrival of, at Surat, 322; negotiations between the Portuguese and, 220 *n.*, 331; his character, etc., xxxiii.
 - *Milho* (‘melio’), 178, 198; price of, 202.
 - Mills, Thomas, 54.
 - Milward, Captain John, 222.
@@ -4038,8 +4024,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - 120 (*see also Musāī*); prisoners in the
 - hands of the English, 69, 93, 101, 102,
 - 131; exchange of prisoners with, 39;
-- trade in indigo, 20; new Company pro-
-- moted by, for Eastern trade, 36; make
+- trade in indigo, 20; new Company promoted by, for Eastern trade, 36; make
 - peace with the natives, 102, 106, 109,
 - 130; mortality among, 200; peace negotiations in Europe, *see* Spain; in India,
 - xxxvi, 216, 220 *n.*, 331 (2). *See also*
@@ -4094,10 +4079,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Quicksilver, 70, 73, 74, 179, 214, 216;
 - importation of, 6, 76, 194, 286, 298;
 - method of storing, 64; trade in, 80, 81,
-- 84, 89, 104, 129, 248, 256; price of, 32,
-
-<!-- page: 394 | folio: 348 -->
-- 89, 102, 129, 180, 194, 204, 206, 213,
+- 84, 89, 104, 129, 248, 256; price of, 32, [p. 348] 89, 102, 129, 180, 194, 204, 206, 213,
 - 275; private trade in, 24, 32; Dutch
 - trade in, 32.
 - Quilts, 9, 126, 229, 244, 255.
@@ -4207,10 +4189,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - *Royal James*, the, 10 (2), 50, 77, 80, 87,
 - 113, 126, 144, 145, 159, 160, 164, 174,
 - 177, 178, 179, 216, 254, 257; master of,
-- *see* Roberts, Morton, and White; consultations aboard, 46, 49, 104, 144;
-
-<!-- page: 395 | folio: 349 -->
-- letters from, 48, 63, 142, 143, 166, 172,
+- *see* Roberts, Morton, and White; consultations aboard, 46, 49, 104, 144; [p. 349] letters from, 48, 63, 142, 143, 166, 172,
 - 173, 176, 182, 218, 245, 254, 309;
 - private trade on, 175, 176, 182, 283, 313;
 - trouble with the crew of, 104, 116; voyage to India, 6, 44, 48, 120; designed
@@ -4379,8 +4358,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Skibbow, John, 13 *n.*, 45, 46, 57 *n.*, 126,
 - 134, 154, 275, 276; letters to and from,
 - 162, 163, 172, 174, 182, 218, 220 (*see*
-- *also* Surat); ordered home, 10, 12; be-
-- comes President at Surat, 40, 41; his
+- *also* Surat); ordered home, 10, 12; becomes President at Surat, 40, 41; his
 - mission to Agra, 154, 155, 185; and
 - another to Bantam, 145, 146, 162, 169,
 - 172, 173, 193, 311, 312; complaint
@@ -4436,10 +4414,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Stammell, 26, 27, 81, 84, 129, 204, 281.
 - Stampford, Richard, 132.
 - *Star*, the, 80, 84, 85, 86, 87 (3), 147; master
-- of, *see* Barnes; letters from, 15, 46; voyage
-
-<!-- page: 397 | folio: 351 -->
-- to Masulipatam, 50, 77, 113, 202 *n.*, 252,
+- of, *see* Barnes; letters from, 15, 46; voyage [p. 351] to Masulipatam, 50, 77, 113, 202 *n.*, 252,
 - 309; at Armagon, 251, 252, 259; delayed on the Coast, 128, 168, 261, 262,
 - 265, 310; voyage to Bantam, 53 (3), 54,
 - 87, 166, 312; at that port, 172, 195;
@@ -4487,8 +4462,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - and for reforming abuses, 302 (2), 303;
 - want of factors at, 35, 139, 256; quarrels
 - among the factors at, 150–155; appointments at, 185, 246, 298, 302, 305, 317,
-- 323, 325, 326; release of a suspected spy
-- at, 83, 84; Christmas celebrations at,
+- 323, 325, 326; release of a suspected spy at, 83, 84; Christmas celebrations at,
 - 117; distracted state of affairs at, 122,
 - 139, 317; a diary to be kept at, 323;
 - minting of coins at, 103; currency at,
@@ -4541,10 +4515,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - English and Dutch shipping at, *passim*;
 - effect of famine at, 180; Portuguese
 - menace and attack shipping off, 1, 29,
-- 44–46, 48, 52, 57, 67–70, 100, 103, 104,
-
-<!-- page: 398 | folio: 352 -->
-- 105, 109, 121, 128, 136, 148, 318, 322;
+- 44–46, 48, 52, 57, 67–70, 100, 103, 104, [p. 352] 105, 109, 121, 128, 136, 148, 318, 322;
 - fireships used against the English fleet at,
 - 38, 44, 58, 60, 64, 122, 137 (2); failure
 - of the attack, 67–70, 72, 122, 134, 137
@@ -4655,10 +4626,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - Vīravāsaram, 77, 85, 260; factors for, 86,
 - 229; trade at, 81, 205, 228, 268; cotton
 - goods from, 168, 170, 265, 309.
-- Vīrjī Vōra, 31, 56, 116, 154, 157, 175, 193,
-
-<!-- page: 399 | folio: 353 -->
-- 194, 216, 262, 301; his *wakīl*, *see* Kāsī
+- Vīrjī Vōra, 31, 56, 116, 154, 157, 175, 193, [p. 353] 194, 216, 262, 301; his *wakīl*, *see* Kāsī
 -   Dās.
 - Vlack, Pieter, 112, 113.
 - Voyages, Persia (*or* General), 3, 10, 217;
@@ -4785,8 +4753,7 @@ Has received the President’s letter from the Fathers residing in Surat. Is ver
 - 302, 303.
 - Wylde, Philip, 248, 274, 290.
 - Wylde, Richard, 194, 195, 317; letter from,
-- 19; ordered home, 10, 12; commenda-
-- tion of, 41; disputes with Boothby, etc.,
+- 19; ordered home, 10, 12; commendation of, 41; disputes with Boothby, etc.,
 - 13–15, 47, 59, 150–153; allegations
 - against, 3, 153–155, 185–187; accusations
 - against Persia factors by, 48, 212; returns

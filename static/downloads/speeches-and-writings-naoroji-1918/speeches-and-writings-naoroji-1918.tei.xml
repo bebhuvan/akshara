@@ -93,9 +93,6 @@ MADRAS</p>
         <pb xml:id="page-11" n="v" facs="https://archive.org/download/speecheswritings00naor/page/n10_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>CONTENTS</head>
-          <div type="subsection" n="h3">
-            <head><hi rend="smallcaps">PAGE</hi></head>
-          </div>
           <div type="subsection" n="h2">
             <head>PART I: SPEECHES.</head>
             <p rend="toc-entry">Congress Speeches.</p>
@@ -1528,9 +1525,9 @@ MADRAS</p>
           <row role="label"><cell role="label">Countries.</cell><cell role="label">Imports (in- cluding Gold and Silver.)</cell><cell role="label">Exports (in- cluding Gold and Silver).</cell><cell role="label">Excess of Im- ports over Exports.</cell><cell role="label">Per- cent- age of Trade Profits</cell></row>
           <row role="label"><cell role="label"></cell><cell role="label">£</cell><cell role="label">£</cell><cell role="label">£</cell><cell role="label"></cell></row>
           <row role="data"><cell>United Kingdom... (Par. Ret. [C. 7,143] 1893.)</cell><cell rend="num">4,247,954,247</cell><cell rend="num">3,203,603,246</cell><cell rend="num">1,044,351,001</cell><cell rend="num">32</cell></row>
-          <row role="data"><cell>Australasia ...</cell><cell rend="num">643,462,379</cell><cell rend="num">582,264,839</cell><cell rend="num">61,197,540</cell><cell>10·5<ref xml:id="ref-sec-28-fn-038" type="noteref" target="#sec-28-fn-038">*</ref></cell></row>
-          <row role="data"><cell>North American Colonies ...</cell><cell rend="num">254,963,473</cell><cell rend="num">205,063,294</cell><cell rend="num">49,900,179</cell><cell>24·4</cell></row>
-          <row role="data"><cell>Straits Settlements (Par. Ret. [C. 7,144] 1893.)</cell><cell rend="num">204,613,643</cell><cell rend="num">181,781,667</cell><cell rend="num">22,831,976</cell><cell>12·5</cell></row>
+          <row role="data"><cell>Australasia ...</cell><cell rend="num">643,462,379</cell><cell rend="num">582,264,839</cell><cell rend="num">61,197,540</cell><cell rend="num">10·5<ref xml:id="ref-sec-28-fn-038" type="noteref" target="#sec-28-fn-038">*</ref></cell></row>
+          <row role="data"><cell>North American Colonies ...</cell><cell rend="num">254,963,473</cell><cell rend="num">205,063,294</cell><cell rend="num">49,900,179</cell><cell rend="num">24·4</cell></row>
+          <row role="data"><cell>Straits Settlements (Par. Ret. [C. 7,144] 1893.)</cell><cell rend="num">204,613,643</cell><cell rend="num">181,781,667</cell><cell rend="num">22,831,976</cell><cell rend="num">12·5</cell></row>
         </table>
               <pb xml:id="page-328" n="314" facs="https://archive.org/download/speecheswritings00naor/page/n327_w1400.jpg"/>
               <p><hi rend="smallcaps">Cape of Good Hope and Natal.</hi> I cannot give figures as the gold brought into the Colonies from Transvaal is not included in the imports; while exports include gold and silver.</p>
@@ -1593,8 +1590,8 @@ MADRAS</p>
             <p>Increase from 1881 to 1891 :—</p>
             <table xml:id="tbl-015" rows="3" cols="3">
         <row role="label"><cell role="label"></cell><cell role="label">Increase.</cell><cell role="label">Population per Square Mile.</cell></row>
-        <row role="data"><cell>England and Wales . .</cell><cell>11·6 per cent.</cell><cell>. 500</cell></row>
-        <row role="data"><cell>British India . . .</cell><cell>9·7 „</cell><cell>. 230</cell></row>
+        <row role="data"><cell>England and Wales . .</cell><cell rend="num">11·6 per cent.</cell><cell>. 500</cell></row>
+        <row role="data"><cell>British India . . .</cell><cell rend="num">9·7 „</cell><cell>. 230</cell></row>
       </table>
             <pb xml:id="page-335" n="321" facs="https://archive.org/download/speecheswritings00naor/page/n334_w1400.jpg"/>
             <p>In 1801, the population of England and Wales (Mulhall's Dictionary, p. 444) was 8,893,000, say 9,000,000.</p>
@@ -2849,17 +2846,17 @@ MADRAS</p>
             <p>I give a statement of the income of the different countries from Mulhall's "Dictionary of Statistics":—</p>
             <table xml:id="tbl-018" rows="12" cols="4">
         <row role="label"><cell role="label">Countries.</cell><cell role="label">Gross earnings per inhabitant.</cell><cell role="label">Countries</cell><cell role="label">Gross earnings per inhabitant.</cell></row>
-        <row role="data"><cell>England</cell><cell rend="num">£41</cell><cell>Belgium</cell><cell>£22·1</cell></row>
+        <row role="data"><cell>England</cell><cell rend="num">£41</cell><cell>Belgium</cell><cell rend="num">£22·1</cell></row>
         <row role="data"><cell>Scotland</cell><cell rend="num">32</cell><cell>Holland</cell><cell rend="num">26</cell></row>
-        <row role="data"><cell>Ireland</cell><cell rend="num">16</cell><cell>Denmark</cell><cell>23·2</cell></row>
-        <row role="data"><cell>United Kingdom</cell><cell>35·2</cell><cell>Sweden and Norway</cell><cell>16·2</cell></row>
-        <row role="data"><cell>France</cell><cell>25·7</cell><cell>Switzerland</cell><cell rend="num">16</cell></row>
-        <row role="data"><cell>Germany</cell><cell>18·7</cell><cell>Greece</cell><cell>11·8</cell></row>
-        <row role="data"><cell>Russia</cell><cell>9·9</cell><cell>Europe</cell><cell rend="num">18</cell></row>
-        <row role="data"><cell>Austria</cell><cell>16·3</cell><cell>United States</cell><cell>27·2</cell></row>
-        <row role="data"><cell>Italy</cell><cell rend="num">12</cell><cell>Canada</cell><cell>26·9</cell></row>
-        <row role="data"><cell>Spain</cell><cell>13·8</cell><cell>Australia</cell><cell>43·4</cell></row>
-        <row role="data"><cell>Portugal</cell><cell>13·6</cell><cell></cell><cell></cell></row>
+        <row role="data"><cell>Ireland</cell><cell rend="num">16</cell><cell>Denmark</cell><cell rend="num">23·2</cell></row>
+        <row role="data"><cell>United Kingdom</cell><cell rend="num">35·2</cell><cell>Sweden and Norway</cell><cell rend="num">16·2</cell></row>
+        <row role="data"><cell>France</cell><cell rend="num">25·7</cell><cell>Switzerland</cell><cell rend="num">16</cell></row>
+        <row role="data"><cell>Germany</cell><cell rend="num">18·7</cell><cell>Greece</cell><cell rend="num">11·8</cell></row>
+        <row role="data"><cell>Russia</cell><cell rend="num">9·9</cell><cell>Europe</cell><cell rend="num">18</cell></row>
+        <row role="data"><cell>Austria</cell><cell rend="num">16·3</cell><cell>United States</cell><cell rend="num">27·2</cell></row>
+        <row role="data"><cell>Italy</cell><cell rend="num">12</cell><cell>Canada</cell><cell rend="num">26·9</cell></row>
+        <row role="data"><cell>Spain</cell><cell rend="num">13·8</cell><cell>Australia</cell><cell rend="num">43·4</cell></row>
+        <row role="data"><cell>Portugal</cell><cell rend="num">13·6</cell><cell></cell><cell></cell></row>
       </table>
             <p>The table is not official. In his "Progress of the World" (1880), Mulhall gives—Scandinavia, £17; South <pb xml:id="page-591" n="577" facs="https://archive.org/download/speecheswritings00naor/page/n590_w1400.jpg"/> America, £6; India, £2. What is then poor India's whole income per head? Not as even much as the United Kingdom pays to its revenue only per head. The United Kingdom pays to revenue nearly 50<hi rend="italic">s.</hi> per head, when wretched India's whole income is 40<hi rend="italic">s.</hi> per head, or rather, at the present exchange nearer 30<hi rend="italic">s.</hi> than 40<hi rend="italic">s.</hi> Is this a result for an Englishman to boast about or to be satisfied with, after a century of British administration? The income of British India only a third of that of even the countries of South America! Every other part of the British Empire is flourishing except wretched India.</p>
             <p>Sir Grant Duff knows well that any poverty in the countries of Western Europe is not from want of wealth or income, but from unequal distribution. But British India has her whole production or income itself most wretched. There is no wealth, and therefore the question of its right distribution, or of any comparison with the countries of Western Europe or with England is very far off indeed. Certainly a gentleman like Sir Grant Duff ought to understand the immense difference between the character of the conditions of the poor masses of British India and of the poor cf Western Europe; the one starving from scantiness, the other having plenty, but suffering from some defect in its distribution. Let the British Indian Administration fulfil its sacred pledges and allow plenty to be produced in British India, and then will be the proper time and occasion to compare the phenomena of the conditions of Western Europe and British India. The question at present is, why, under the management of the most highly paid services in the world, India cannot produce as much even as the worst governed countries of Europe. I do not mean to blame the individuals of the Indian services. It is the policy, the perversion of the <pb xml:id="page-592" n="578" facs="https://archive.org/download/speecheswritings00naor/page/n591_w1400.jpg"/> pledges, that is at the bottom of our misfortunes. Let the Government of India only give us every year properly made up statistical tables of the whole production or the income of the country, and we shall then know truly how India fares year after year, and we shall then see how the present system of administration is an obstacle to any material advancement of India. Let us have actual facts about the real income of India, instead of careless opinions like those in Sir Grant Duff's two articles.</p>
@@ -3043,24 +3040,24 @@ MADRAS</p>
             <p>Now, let us see a few more facts. Because a country increases in population it does not necessarily follow that it must become poorer; nor because a country is densely populated that therefore it must be poor. Says Macaulay: "England is a hundredfold more wealthy while it is tenfold denser." The following figures speak for themselves :—</p>
             <table xml:id="tbl-028" rows="20" cols="3">
         <row role="label"><cell role="label">Countries.</cell><cell role="label">Inhabitants per sq. mile about 1880.</cell><cell role="label">Income per inhabitant (Mulhall's Dictionary of Statistics, 1886).</cell></row>
-        <row role="data"><cell>Belgium</cell><cell rend="num">487</cell><cell>£22·1</cell></row>
+        <row role="data"><cell>Belgium</cell><cell rend="num">487</cell><cell rend="num">£22·1</cell></row>
         <row role="data"><cell>England</cell><cell>478 (1886)</cell><cell>41 (1882)</cell></row>
         <row role="data"><cell>Holland</cell><cell rend="num">315</cell><cell rend="num">26</cell></row>
         <row role="data"><cell>Italy</cell><cell rend="num">257</cell><cell rend="num">12</cell></row>
         <row role="data"><cell><hi rend="italic">British India</hi></cell><cell rend="num">229</cell><cell rend="num">2</cell></row>
-        <row role="data"><cell>Germany</cell><cell rend="num">217</cell><cell>18·7</cell></row>
-        <row role="data"><cell>Austria</cell><cell rend="num">191</cell><cell>16·3</cell></row>
-        <row role="data"><cell>France</cell><cell rend="num">184</cell><cell>25·7</cell></row>
+        <row role="data"><cell>Germany</cell><cell rend="num">217</cell><cell rend="num">18·7</cell></row>
+        <row role="data"><cell>Austria</cell><cell rend="num">191</cell><cell rend="num">16·3</cell></row>
+        <row role="data"><cell>France</cell><cell rend="num">184</cell><cell rend="num">25·7</cell></row>
         <row role="data"><cell><pb xml:id="page-621" n="607" facs="https://archive.org/download/speecheswritings00naor/page/n620_w1400.jpg"/> Switzerland</cell><cell rend="num">184</cell><cell rend="num">16</cell></row>
         <row role="data"><cell>Ireland</cell><cell>153 (1886)</cell><cell>16 (1882)</cell></row>
-        <row role="data"><cell>Denmark</cell><cell rend="num">132</cell><cell>23·2</cell></row>
+        <row role="data"><cell>Denmark</cell><cell rend="num">132</cell><cell rend="num">23·2</cell></row>
         <row role="data"><cell>Scotland</cell><cell>128 (1886)</cell><cell>32 (1882)</cell></row>
-        <row role="data"><cell>Portugal</cell><cell rend="num">126</cell><cell>13·6</cell></row>
+        <row role="data"><cell>Portugal</cell><cell rend="num">126</cell><cell rend="num">13·6</cell></row>
         <row role="data"><cell>Turkey</cell><cell>120 (Mulhall)</cell><cell>4 (Sir E. Baring)</cell></row>
-        <row role="data"><cell>Spain</cell><cell rend="num">85</cell><cell>13·8</cell></row>
-        <row role="data"><cell>Greece</cell><cell rend="num">69</cell><cell>11·8</cell></row>
-        <row role="data"><cell>Russia in Europe</cell><cell rend="num">41</cell><cell>9·9</cell></row>
-        <row role="data"><cell>Sweden</cell><cell>27 }</cell><cell rows="2">16·2</cell></row>
+        <row role="data"><cell>Spain</cell><cell rend="num">85</cell><cell rend="num">13·8</cell></row>
+        <row role="data"><cell>Greece</cell><cell rend="num">69</cell><cell rend="num">11·8</cell></row>
+        <row role="data"><cell>Russia in Europe</cell><cell rend="num">41</cell><cell rend="num">9·9</cell></row>
+        <row role="data"><cell>Sweden</cell><cell>27 }</cell><cell rend="num" rows="2">16·2</cell></row>
         <row role="data"><cell>Norway</cell><cell>15 }</cell></row>
       </table>
             <p>The densest Province of British India is Bengal (443).</p>
@@ -4895,7 +4892,7 @@ MADRAS</p>
         <pb xml:id="page-891" n="209" facs="https://archive.org/download/speecheswritings00naor/page/n890_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>ALL ABOUT THE WAR.</head>
-          <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0891.webp"/><head>Allied flags of World War I arranged in a fan around a laurel wreath, including flags of Italy, Belgium, France, Great Britain, Russia, and Japan.</head><figDesc>Allied flags of World War I arranged in a fan around a laurel wreath, including flags of Italy, Belgium, France, Great Britain, Russia, and Japan.</figDesc></figure>
+          <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0891.webp"/><figDesc>Allied flags of World War I arranged in a fan around a laurel wreath, including flags of Italy, Belgium, France, Great Britain, Russia, and Japan.</figDesc></figure>
           <div type="subsection" n="h2">
             <head>The Indian Review War Book</head>
             <p>A COMPREHENSIVE AND AUTHENTIC ACCOUNT OF THE WAR WITH NUMEROUS ILLUSTRATIONS, PORTRAITS, CARTOONS, MAPS AND DIAGRAMS</p>
@@ -5611,7 +5608,7 @@ Madras.</p>
         </div>
         <div type="subsection" n="h1">
           <head>ALL ABOUT THE WAR</head>
-          <figure xml:id="fig-003"><graphic url="../figures/fig-003_p0926.webp"/><head>Allied flags of World War I arranged in a fan-like array with a central laurel wreath, including the Union Jack, French Tricolour, Russian, Belgian, and Japanese naval ensign.</head><figDesc>Allied flags of World War I arranged in a fan-like array with a central laurel wreath, including the Union Jack, French Tricolour, Russian, Belgian, and Japanese naval ensign.</figDesc></figure>
+          <figure xml:id="fig-003"><graphic url="../figures/fig-003_p0926.webp"/><figDesc>Allied flags of World War I arranged in a fan-like array with a central laurel wreath, including the Union Jack, French Tricolour, Russian, Belgian, and Japanese naval ensign.</figDesc></figure>
           <div type="subsection" n="h2">
             <head><hi rend="bold">The Indian Review War Book.</hi></head>
             <p><hi rend="smallcaps">A Comprehensive and Authentic Account of the War with Numerous Illustrations, Portraits, Cartoons, Maps and Diagrams</hi></p>

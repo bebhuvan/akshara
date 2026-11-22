@@ -1,0 +1,65 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,1,total,,INDIA (Total),2,India. :: Males.,"149,951,824",149951824.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,1,total,,INDIA (Total),3,India. :: Females.,"144,409,232",144409232.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,1,total,,INDIA (Total),4,British Territory only. :: Males.,"117,804,942",117804942.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,1,total,,INDIA (Total),5,British Territory only. :: Females.,"114,094,565",114094565.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,2,data,,Under 5,2,India. :: Males.,"18,735,774",18735774.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,2,data,,Under 5,3,India. :: Females.,"19,268,997",19268997.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,2,data,,Under 5,4,British Territory only. :: Males.,"15,136,206",15136206.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,2,data,,Under 5,5,British Territory only. :: Females.,"15,597,881",15597881.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,3,data,,5—10,2,India. :: Males.,"20,831,085",20831085.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,3,data,,5—10,3,India. :: Females.,"19,895,462",19895462.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,3,data,,5—10,4,British Territory only. :: Males.,"16,595,846",16595846.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,3,data,,5—10,5,British Territory only. :: Females.,"15,912,606",15912606.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,4,data,,10—15,2,India. :: Males.,"18,880,658",18880658.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,4,data,,10—15,3,India. :: Females.,"15,566,718",15566718.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,4,data,,10—15,4,British Territory only. :: Males.,"14,716,972",14716972.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,4,data,,10—15,5,British Territory only. :: Females.,"12,163,925",12163925.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,5,data,,15—20,2,India. :: Males.,"12,942,322",12942322.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,5,data,,15—20,3,India. :: Females.,"12,017,833",12017833.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,5,data,,15—20,4,British Territory only. :: Males.,"9,998,477",9998477.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,5,data,,15—20,5,British Territory only. :: Females.,"9,413,297",9413297.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,6,data,,20—25,2,India. :: Males.,"11,757,643",11757643.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,6,data,,20—25,3,India. :: Females.,"12,834,857",12834857.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,6,data,,20—25,4,British Territory only. :: Males.,"9,149,227",9149227.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,6,data,,20—25,5,British Territory only. :: Females.,"10,063,670",10063670.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,7,data,,25—30,2,India. :: Males.,"13,133,437",13133437.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,7,data,,25—30,3,India. :: Females.,"12,875,024",12875024.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,7,data,,25—30,4,British Territory only. :: Males.,"10,286,530",10286530.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,7,data,,25—30,5,British Territory only. :: Females.,"10,147,272",10147272.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,8,data,,30—35,2,India. :: Males.,"12,672,440",12672440.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,8,data,,30—35,3,India. :: Females.,"12,249,131",12249131.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,8,data,,30—35,4,British Territory only. :: Males.,"9,864,614",9864614.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,8,data,,30—35,5,British Territory only. :: Females.,"9,591,516",9591516.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,9,data,,35—40,2,India. :: Males.,"9,093,537",9093537.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,9,data,,35—40,3,India. :: Females.,"8,023,420",8023420.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,9,data,,35—40,4,British Territory only. :: Males.,"7,131,594",7131594.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,9,data,,35—40,5,British Territory only. :: Females.,"6,291,373",6291373.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,10,data,,40—45,2,India. :: Males.,"9,686,923",9686923.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,10,data,,40—45,3,India. :: Females.,"9,383,634",9383634.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,10,data,,40—45,4,British Territory only. :: Males.,"7,505,233",7505233.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,10,data,,40—45,5,British Territory only. :: Females.,"7,303,908",7303908.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,11,data,,45—50,2,India. :: Males.,"5,532,217",5532217.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,11,data,,45—50,3,India. :: Females.,"4,879,297",4879297.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,11,data,,45—50,4,British Territory only. :: Males.,"4,362,197",4362197.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,11,data,,45—50,5,British Territory only. :: Females.,"3,844,710",3844710.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,12,data,,50—55,2,India. :: Males.,"6,530,923",6530923.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,12,data,,50—55,3,India. :: Females.,"6,510,257",6510257.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,12,data,,50—55,4,British Territory only. :: Males.,"5,087,959",5087959.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,12,data,,50—55,5,British Territory only. :: Females.,"5,103,205",5103205.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,13,data,,55—60,2,India. :: Males.,"2,644,466",2644466.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,13,data,,55—60,3,India. :: Females.,"2,429,967",2429967.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,13,data,,55—60,4,British Territory only. :: Males.,"2,071,445",2071445.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,13,data,,55—60,5,British Territory only. :: Females.,"1,915,670",1915670.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,14,data,,60 and over,2,India. :: Males.,"6,956,311",6956311.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,14,data,,60 and over,3,India. :: Females.,"7,944,950",7944950.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,14,data,,60 and over,4,British Territory only. :: Males.,"5,614,850",5614850.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,14,data,,60 and over,5,British Territory only. :: Females.,"6,504,709",6504709.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,15,data,,Age not returned,2,India. :: Males.,"23,117",23117.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,15,data,,Age not returned,3,India. :: Females.,"26,900",26900.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,15,data,,Age not returned,4,British Territory only. :: Males.,"19,815",19815.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,15,data,,Age not returned,5,British Territory only. :: Females.,"23,544",23544.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,16,data,,Not enumerated by age,2,India. :: Males.,"530,971",530971.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,16,data,,Not enumerated by age,3,India. :: Females.,"452,785",452785.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,16,data,,Not enumerated by age,4,British Territory only. :: Males.,"263,977",263977.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-051,Table VII. Age,531,493,16,data,,Not enumerated by age,5,British Territory only. :: Females.,"217,279",217279.0,,False,True

@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,1,data,,Wells,2,State works. :: Acres.,...,,acres,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,1,data,,Wells,3,Private works. :: Acres.,"12,895,000",12895000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,1,data,,Wells,4,Total. :: Acres.,"12,895,000",12895000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,2,data,,Canals,2,State works. :: Acres.,"15,644,000",15644000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,2,data,,Canals,3,Private works. :: Acres.,"1,235,000",1235000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,2,data,,Canals,4,Total. :: Acres.,"16,879,000",16879000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,3,data,,Tanks,2,State works. :: Acres.,"2,944,000",2944000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,3,data,,Tanks,3,Private works. :: Acres.,"5,194,000",5194000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,3,data,,Tanks,4,Total. :: Acres.,"8,138,000",8138000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,4,data,,Other sources,2,State works. :: Acres.,...,,acres,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,4,data,,Other sources,3,Private works. :: Acres.,"6,186,000",6186000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,4,data,,Other sources,4,Total. :: Acres.,"6,186,000",6186000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,5,total,,Grand Total,2,State works. :: Acres.,"18,588,000",18588000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,5,total,,Grand Total,3,Private works. :: Acres.,"25,510,000",25510000.0,acres,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-059,Table 59,387,345,5,total,,Grand Total,4,Total. :: Acres.,"44,098,000",44098000.0,acres,False,True

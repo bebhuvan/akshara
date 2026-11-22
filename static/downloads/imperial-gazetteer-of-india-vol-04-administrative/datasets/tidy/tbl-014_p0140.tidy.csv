@@ -1,0 +1,49 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,1,data,,Kālāhandi (or Karond),2,Area in square miles.,"3,745",3745.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,1,data,,Kālāhandi (or Karond),3,Population in 1901.,"350,529, chiefly Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,1,data,,Kālāhandi (or Karond),4,Approximate revenue (in lakhs of rupees).,2,2.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,1,data,,Kālāhandi (or Karond),5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,1,data,,Kālāhandi (or Karond),6,Salute of Ruler in guns.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,1,data,,Kālāhandi (or Karond),7,Designation of local Political Officer.,Political Agent for the Chhattīs-garh Feudatories.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,2,data,,Bastar,2,Area in square miles.,"13,062",13062.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,2,data,,Bastar,3,Population in 1901.,"306,501, chiefly Animists.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,2,data,,Bastar,4,Approximate revenue (in lakhs of rupees).,3,3.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,2,data,,Bastar,5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,2,data,,Bastar,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,2,data,,Bastar,7,Designation of local Political Officer.,’’,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,3,data,,Patnā,2,Area in square miles.,"2,399",2399.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,3,data,,Patnā,3,Population in 1901.,"277,748, chiefly Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,3,data,,Patnā,4,Approximate revenue (in lakhs of rupees).,2,2.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,3,data,,Patnā,5,"Title, race, and religion of Ruler.","Mahārājā, Chauhān Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,3,data,,Patnā,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,3,data,,Patnā,7,Designation of local Political Officer.,’’,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,4,data,,Raigarh,2,Area in square miles.,"1,486",1486.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,4,data,,Raigarh,3,Population in 1901.,"174,929 ’’",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,4,data,,Raigarh,4,Approximate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,4,data,,Raigarh,5,"Title, race, and religion of Ruler.","Rājā, Gond (Aboriginal).",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,4,data,,Raigarh,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,4,data,,Raigarh,7,Designation of local Political Officer.,’’,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,5,data,,Sonpur,2,Area in square miles.,906,906.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,5,data,,Sonpur,3,Population in 1901.,"169,877 ’’",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,5,data,,Sonpur,4,Approximate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,5,data,,Sonpur,5,"Title, race, and religion of Ruler.","Rājā, Chauhān Rājput: Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,5,data,,Sonpur,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,5,data,,Sonpur,7,Designation of local Political Officer.,’’,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,6,data,,Bāmra,2,Area in square miles.,"1,988",1988.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,6,data,,Bāmra,3,Population in 1901.,"123,378 ’’",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,6,data,,Bāmra,4,Approximate revenue (in lakhs of rupees).,1,1.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,6,data,,Bāmra,5,"Title, race, and religion of Ruler.","Rājā, Gangābansi Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,6,data,,Bāmra,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,6,data,,Bāmra,7,Designation of local Political Officer.,’’,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,7,data,,9 Minor States,2,Area in square miles.,"5,849",5849.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,7,data,,9 Minor States,3,Population in 1901.,"593,421 ’’",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,7,data,,9 Minor States,4,Approximate revenue (in lakhs of rupees).,11,11.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,7,data,,9 Minor States,5,"Title, race, and religion of Ruler.",...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,7,data,,9 Minor States,6,Salute of Ruler in guns.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,7,data,,9 Minor States,7,Designation of local Political Officer.,...,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,8,total,,TOTAL,2,Area in square miles.,"29,435",29435.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,8,total,,TOTAL,3,Population in 1901.,"1,996,383",1996383.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,8,total,,TOTAL,4,Approximate revenue (in lakhs of rupees).,21,21.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,8,total,,TOTAL,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,8,total,,TOTAL,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-014,(g) Central Provinces (15 States),140,102,8,total,,TOTAL,7,Designation of local Political Officer.,,,,True,True

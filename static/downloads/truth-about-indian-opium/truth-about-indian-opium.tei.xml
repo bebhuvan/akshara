@@ -68,7 +68,7 @@
       <div xml:id="sec-01" type="frontmatter" n="01-frontmatter">
         <head>Frontmatter</head>
         <pb xml:id="page-3" n="3" facs="https://archive.org/download/truthaboutindian00grearich/page/n2_w1400.jpg"/>
-        <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0003.webp"/><head>Royal Coat of Arms of the United Kingdom with the mottoes 'Honi soit qui mal y pense' and 'Dieu et mon droit'.</head><figDesc>Royal Coat of Arms of the United Kingdom with the mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
+        <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0003.webp"/><figDesc>Royal Coat of Arms of the United Kingdom with the mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
         <div type="subsection" n="h1">
           <head>THE TRUTH ABOUT INDIAN OPIUM</head>
           <div type="subsection" n="h3">
@@ -92,18 +92,15 @@
         <head>CONTENTS</head>
         <div type="subsection" n="h2">
           <head>CONTENTS.</head>
-          <div type="subsection" n="h3">
-            <head><hi rend="smallcaps">Page</hi></head>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> I.—The Royal Commission on Opium in India . 1</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> II.—The Production of Opium in India - - - 4</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> III.—The Consumption of Opium in India - - 8</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> IV.—Opium Smoking in India proper and Burma - 13</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> V.—The Export of Opium from India - - - 16</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> VI.—The Hague Convention - - - - 29</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> VII.—The Position of India in relation to the World's
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> I.—The Royal Commission on Opium in India . 1</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> II.—The Production of Opium in India - - - 4</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> III.—The Consumption of Opium in India - - 8</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> IV.—Opium Smoking in India proper and Burma - 13</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> V.—The Export of Opium from India - - - 16</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> VI.—The Hague Convention - - - - 29</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Chapter</hi> VII.—The Position of India in relation to the World's
 Opium Problem - - - - 38</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Bibliography</hi> - - - - - - 42</p>
-          </div>
+          <p rend="toc-entry"><hi rend="smallcaps">Bibliography</hi> - - - - - - 42</p>
           <div type="subsection" n="h3">
             <head><hi rend="smallcaps">Tables.</hi></head>
             <p rend="toc-entry">Acreage under poppy in British India and Indian States, with statistics

@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,1,data,,Manipur,2,Area in square miles.,"8,456",8456.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,1,data,,Manipur,3,Population in 1901.,"284,465, Hindus and Animists.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,1,data,,Manipur,4,Approxi- mate revenue (in lakhs of rupees).,4,4.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,1,data,,Manipur,5,"Title, race, and religion of Ruler.","Rājā, Kshattriya : Hindu .",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,1,data,,Manipur,6,Salute of Ruler in guns.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,1,data,,Manipur,7,Designation of local Political Officer.,Political Agent in Manipur.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,2,data,,The Khāsi States (25),2,Area in square miles.,"3,900",3900.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,2,data,,The Khāsi States (25),3,Population in 1901.,"110,519, Khāsis and Christians.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,2,data,,The Khāsi States (25),4,Approxi- mate revenue (in lakhs of rupees).,1/2,0.5,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,2,data,,The Khāsi States (25),5,"Title, race, and religion of Ruler.",. . . . . .,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,2,data,,The Khāsi States (25),6,Salute of Ruler in guns.,. . .,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,2,data,,The Khāsi States (25),7,Designation of local Political Officer.,"Deputy Commissioner, Khāsi and Jaintiā Hills.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,3,subtotal,,Total,2,Area in square miles.,"12,356",12356.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,3,subtotal,,Total,3,Population in 1901.,"394,984",394984.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,3,subtotal,,Total,4,Approxi- mate revenue (in lakhs of rupees).,4 1/2,4.5,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,3,subtotal,,Total,5,"Title, race, and religion of Ruler.",,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,3,subtotal,,Total,6,Salute of Ruler in guns.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,3,subtotal,,Total,7,Designation of local Political Officer.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,4,total,,Grand Total (approximate),2,Area in square miles.,"824,283",824283.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,4,total,,Grand Total (approximate),3,Population in 1901.,"68,210,660",68210660.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,4,total,,Grand Total (approximate),4,Approxi- mate revenue (in lakhs of rupees).,"25,29",2529.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,4,total,,Grand Total (approximate),5,"Title, race, and religion of Ruler.",,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,4,total,,Grand Total (approximate),6,Salute of Ruler in guns.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-015,(h) Assam (26 States),141,103,4,total,,Grand Total (approximate),7,Designation of local Political Officer.,,,,True,False

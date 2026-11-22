@@ -1,13 +1,13 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,1,data,,Circle I,2,Marriage Expenses,"Rs. 142,737",142737.0,Rs,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,1,data,,Circle I,3,Percentage,"Rs. 9,491",9491.0,%,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,1,data,,Circle I,4,Column 4,6½,6.5,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,2,data,,Circle II,2,Marriage Expenses,"“ 179,853",,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,2,data,,Circle II,3,Percentage,"“ 12,418",,%,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,2,data,,Circle II,4,Column 4,7,7.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,3,data,,Circle III,2,Marriage Expenses,"“ 88,234",,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,3,data,,Circle III,3,Percentage,"“ 9,687",,%,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,3,data,,Circle III,4,Column 4,11,11.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,4,data,,Circle IV,2,Marriage Expenses,"“ 188,145",,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,4,data,,Circle IV,3,Percentage,"“ 15,161",,%,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,4,data,,Circle IV,4,Column 4,8,8.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,1,data,,Circle I,2,Full Indebtedness,"Rs. 142,737",142737.0,Rs,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,1,data,,Circle I,3,Marriage Expenses,"Rs. 9,491",9491.0,Rs,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,1,data,,Circle I,4,Percentage,6½,6.5,%,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,2,data,,Circle II,2,Full Indebtedness,"“ 179,853",,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,2,data,,Circle II,3,Marriage Expenses,"“ 12,418",,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,2,data,,Circle II,4,Percentage,7,7.0,%,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,3,data,,Circle III,2,Full Indebtedness,"“ 88,234",,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,3,data,,Circle III,3,Marriage Expenses,"“ 9,687",,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,3,data,,Circle III,4,Percentage,11,11.0,%,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,4,data,,Circle IV,2,Full Indebtedness,"“ 188,145",,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,4,data,,Circle IV,3,Marriage Expenses,"“ 15,161",,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-044,Table 44,315,275,4,data,,Circle IV,4,Percentage,8,8.0,%,False,True

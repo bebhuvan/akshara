@@ -969,9 +969,7 @@ The total adults, that is, above 12 years, are 65·5 per cent., and infants or c
 
 From taking the cost of adults per head to be *a*, and cost of the mass per head to be *x*, and supposing that, out of 34 per cent. of children under 12, only 17 per cent. cost anything, say one-half of the adult (though the Bengal provision is half for children from two to ten years), while the other 17 cost nothing at all, the problem will be—
 
-66*a* + 17 *<sup>a</sup>*/<sub>2</sub> + 17 × 0 = 100*x x* = <sup>74½*a*</sup>/<sub>100</sub>, or say <sup>75*a*</sup>/<sub>100</sub> or ¾*a*;
-
-*i.e.*, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of three persons in the jail, or of three adults to four persons outside, or of the mass, it comes to this :—
+66*a* + 17 *<sup>a</sup>*/<sub>2</sub> + 17 × 0 = 100*x x* = <sup>74½*a*</sup>/<sub>100</sub>, or say <sup>75*a*</sup>/<sub>100</sub> or ¾*a*; *i.e.*, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of three persons in the jail, or of three adults to four persons outside, or of the mass, it comes to this :—
 
 
 | Production per Head. | Three-fourths of Jail Cost of Living, or Cost per head outside Jail. |
@@ -1673,6 +1671,7 @@ So far I have shown that any rise that has taken place has been only local and t
 Take *Madras.*—Return 362 of 1853 gives "the average price per cwt. of Munghi, 2nd sort, in the month of January, 1813," as 7s. 6½d. to 9s. 8d., and Bengal table-rice 14s. 0½d. After his, Madras kept sinking, till, in 1852, there is 3s. to 3s. 6¾d. per cwt., and the Board of Revenue felt it necessary to inquire into "the general decline of prices, and to find out any general measures of relief" to meet falling prices.— (Madras Selections, No. XXXI. of 1856, page 1.) This selection gives prices from almost all districts of Madras, and the general result is that there is a continuous fall in prices (excepting scarcity years) from the commencement of the century to 1852, the year of the reports. Then further on, what are the prices now in the first half of March, 1873?
 
 > _[Margin: So that best sort is about 8s. 2½d. per cwt.; common sort 6s. 6½d. to 7s. 4d. per cwt. (*Indian Gazette*, 5th April, 1873). 1 seer = 2·2 lbs.]_
+
 > *Rice, 1st sort.* Present fortnight ... Seers 12·4 or lbs. 27·28 Past " ... " 12·4 *Rice, Common.* Present fortnight ... Seers 15·6 or lbs. 34·32 Past " ... " 13·9 " 30·8
 
 This is the only number of the *Indian Gazette* I have come [p. 73] across. Again, the average price of Madras rice for the year 1868 in the United Kingdom, after paying for freight, insurance, commission, profits, and all other charges from Madras to arrival in that country, was 9s. 8d. per cwt. (Trade Returns, 1868), while the price for January, 1813, given above, is 8s. 2¾d. in Madras itself. Or, let us take the export price in the ports of the Madras Presidency. The export price of cargo rice in the ports of the Madras Presidency, according to the price currents of the Madras Chamber of Commerce, in the year 1867, is put down uniformly in the price tables at Rs. 6 per bag of 164 lbs., or two Indian maunds; but in the remarks in which precise quotations are given, the price ranges from Rs. 3-15 to Rs. 6-2. Rs. 6, though a higher price than the average for a bag of 164 lbs., is equal to 8s. 2d. per cwt. ; and even this price, though not higher than that of 1813, was owing to bad season and short crop; and certainly prices consequent upon bad seasons are not an indication of prosperity. In the year 1868, the season being average good, the price quoted for cargo rice is Rs. 3-15 per bag. Now and then, in the remarks, higher prices are quoted, but Rs. 4 will be quite an approximate average. Rs. 4 per bag is nearly 5s. 6d. per cwt. During 1869, the same Rs. 3-15 is the general quotation; but the season of 1869 not being good, prices went up in 1870 to Rs. 5-8, with an average of about Rs. 5, or about 6s. 10d. per cwt. Thus, then, there is no material rise in price in the Madras Presidency compared with the commencement of this century. The subsequent fall made the poor people wretched. Government inquired and reduced the assessment, which, with the expenditure on railways, &c., gave some little relief. But the depression is not yet got over. On the contrary, the Material and Moral Progress (Report for 1869, Parliamentary Return [c. 213 of 1870], page 71) tells us that “prices in Madras have been falling continuously,” and my impression is that they so still continue.
@@ -2253,9 +2252,7 @@ N.B.—In the last two paras. it [p. 118] two corresponding examinations, then c
 | *2nd Class* Sub-Assistant Surgeon between 7 and 14 years’ service | ,, 150 | ,, 150 | ,, 300 |
 | *1st Class* Sub-Assistant Surgeon after 14 years’ service till the end of his service | ,, 200 | ,, 150 | ,, 350 |
 
-(5) A sub-assistant surgeon cannot become an honorary assistant surgeon. During the course of the last 23 years, during which the class of sub-assistant surgeons is in existence, no
-
-is stated that the apprentices attend the same class-lectures for three years as the students proper. This arrangement is adopted in the College as the Professors cannot give separate course to the students and to the apprentices. But the amount of knowledge required at the final examination of the apprentices at the end of three years is much smaller than the knowledge required at the final examination of the students proper at the end of five years.
+(5) A sub-assistant surgeon cannot become an honorary assistant surgeon. During the course of the last 23 years, during which the class of sub-assistant surgeons is in existence, no is stated that the apprentices attend the same class-lectures for three years as the students proper. This arrangement is adopted in the College as the Professors cannot give separate course to the students and to the apprentices. But the amount of knowledge required at the final examination of the apprentices at the end of three years is much smaller than the knowledge required at the final examination of the students proper at the end of five years.
 
 (4) The “passed hospital apprentices” then go on with their regimental duties, and are promoted in the following order, till they reach the grade of senior apothecary :—
 
@@ -3148,8 +3145,11 @@ As above.
 
 ##### <span class="sc">Chillies.</span>
 
+Produce per acre given for four districts only, viz.:—
+
 > _[Margin: The average of 808 lbs. is applied to the rest. The total quantity then is 19,003,502 lbs. of green crop. Dry quantity will be one fifth, or 3,800,700 lbs., and at 8 lbs. per Re. the value will be Rs. 4,75,100.]_
-Produce per acre given for four districts only, viz.:— No. 2 acres 774 × 600 lbs. = 464,400 lbs. 13 611 × 410 „ = 250,510 „ 18 3,604 × 924 „ = 3,330,096 „ 30 77 × 640 „ = 49,280 „ Average Total.. 5,066 808 „ 4,094,286 „ Add for 18,452 at „ „ 14,909,216 „ 23,518 19,003,502 „
+
+No. 2 acres 774 × 600 lbs. = 464,400 lbs. 13 611 × 410 „ = 250,510 „ 18 3,604 × 924 „ = 3,330,096 „ 30 77 × 640 „ = 49,280 „ Average Total.. 5,066 808 „ 4,094,286 „ Add for 18,452 at „ „ 14,909,216 „ 23,518 19,003,502 „
 
 
 ##### <span class="sc">Other Kinds of Drugs and Spices.</span>
@@ -3377,7 +3377,7 @@ Total acres, 8,884 × 96 lbs. 852,864 lbs.; at 3 lbs. per Re. 1 will give Rs. 2,
 **<span class="sc">Sugar.</span>**
 | Districts. | Acres. | Per Acre. :: lbs. | Total Quantity. :: lbs. | 1st sort. Price per Re. 1. :: lbs. | Total Value. :: Rs. |
 | --- | --- | --- | --- | --- | --- |
-| 1 Delhi | 34,881 | <sup>1,2</sup>1,500 | 52,321,500 | 5·49 | 95,30,328 |
+| 1 Delhi | 34,881 | [^sec-06-fn-014]<sup>,</sup> [^sec-06-fn-015]1,500 | 52,321,500 | 5·49 | 95,30,328 |
 | 2 Gurgaon | 1,125 | 646 | 726,750 | 6·68 | 1,08,795 |
 | 3 Kárnal | 14,309 | ,, | 9,243,614 | 7·03 | 13,14,881 |
 | 4 Hissar | 34 | ,, | <sup>3</sup>21,964 | .. | .. |
@@ -3517,7 +3517,7 @@ At all events, unless any error of importance is pointed out, it seems clearly e
 
 
 **GRAIN.**
-| Item | Total Quantity. lbs. | Total Quantity. lbs. | Total Quantity. lbs. |
+| Item | Total Quantity. lbs. | Column 3 | Column 4 |
 | --- | --- | --- | --- |
 | Rice | 541,492,369 |  |  |
 | Wheat | 5,332,813,517 |  |  |
@@ -3585,7 +3585,7 @@ Total quantity, 78,966,000 lbs., gives 4·48 lbs. per annum, or 2 oz. per day pe
 [^sec-06-fn-012]: (1) For these (2,311 acres) produce per acre is taken of the average for the others—viz., 31·44.
 [^sec-06-fn-013]: (1) Produce per acre is given for vegetables for these two districts only, and the average of these—viz., 4,753—is applied to all others.
 [^sec-06-fn-014]: (1) For these districts only is the produce per acre given in the Report. I have applied the average of these to others.
-[^sec-06-fn-015]: (2) [Unlinked note, p. 164] This is evidently a mistake. Though other districts, such as [p. 165] Ludhiána, are better than Delhi, and while 661 lbs. is considered a fair average for Ludhiána, 1,500 for Delhi cannot be correct. It is more likely 500 than 1,500. If 500 be adopted, the average will become 487 instead of 646 lbs. And it is also considered that an average of about 489 lbs. will be near the mark. I have allowed the figure 1,500 to remain, though this increases the average above 487 lbs. nearly 32 per cent.
+[^sec-06-fn-015]: (2) This is evidently a mistake. Though other districts, such as [p. 165] Ludhiána, are better than Delhi, and while 661 lbs. is considered a fair average for Ludhiána, 1,500 for Delhi cannot be correct. It is more likely 500 than 1,500. If 500 be adopted, the average will become 487 instead of 646 lbs. And it is also considered that an average of about 489 lbs. will be near the mark. I have allowed the figure 1,500 to remain, though this increases the average above 487 lbs. nearly 32 per cent.
 [^sec-06-fn-016]: (1) I have taken 1875-6, for, on account of the famines in the Bombay and Madras Presidencies in the year 1876-7, a comparison for the year 1876-7 will be an unfair one.
 
 
@@ -9185,25 +9185,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Brass : Statistics 325, in Punjab 167
 - Brazil : Exports of British produce per head 257 ; Revenue per head 258
 - Bright, Mr. John : 267, 268, 302, 304, 578, 620 ; on admission of natives to covenanted C. S. 409-10, 413 ; on British policy in India 279, 308-9, 630 ; on the Poverty of India 315-6, 339 ; on Salaries, etc. 222
-- British Empire : Exports 254, 256
-- ,, Guiana : Revenue per head 258
-- ,, Honduras : Exports per head 256
-- ,, India : Condition 280 *sqq.*, 636-42
-- ,, ,, Earning per head 246, 248
-- ,, ,, Exports—*v.* Exports
-- ,, ,, Imports from United Kingdom 35, 36
-- ,, ,, Income 24-5
-- ,, ,, Indebtedness 565-8
-- ,, ,, Land - revenue 298 ; Land-tax 2
-- ,, ,, Population 339, per sq. mile 270
-- ,, ,, Produce 2 *sqq.*, 23, 24
-- ,, ,, Production 126
-- ,, ,, Public Debt 335-6
-- ,, ,, Reform 577-624 ; Reform Society 577-8
-- ,, ,, Revenue 221, 275-93, 298, per head 258 ; Sources of 288-9
-- ,, ,, Wealth 24-5
-- ,, Indian Association of Bengal 364
-- ,, Policy and Duties towards India : 235 *sqq.*
+- British Empire : Exports 254, 256 ,, Guiana : Revenue per head 258 ,, Honduras : Exports per head 256 ,, India : Condition 280 *sqq.*, 636-42 ,, ,, Earning per head 246, 248 ,, ,, Exports—*v.* Exports ,, ,, Imports from United Kingdom 35, 36 ,, ,, Income 24-5 ,, ,, Indebtedness 565-8 ,, ,, Land - revenue 298 ; Land-tax 2 ,, ,, Population 339, per sq. mile 270 ,, ,, Produce 2 *sqq.*, 23, 24 ,, ,, Production 126 ,, ,, Public Debt 335-6 ,, ,, Reform 577-624 ; Reform Society 577-8 ,, ,, Revenue 221, 275-93, 298, per head 258 ; Sources of 288-9 ,, ,, Wealth 24-5 ,, Indian Association of Bengal 364 ,, Policy and Duties towards India : 235 *sqq.*
 - ,, Rule in India : 1, 211, 212, 294, 614-24 ; its Effects 345-6, on prices 72-9, 82
 - Broach : Prices 71
 - Brown, Mr. F. C. : 578
@@ -9222,8 +9204,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Camel-labour : 324
 - Camels : Rearing, in Punjab 190-1 ; Value 193
 - Cameron, Mr. : 410
-- Campbell, Mr. G. : 323
-- ,, Sir George : 47-8, 243
+- Campbell, Mr. G. : 323 ,, Sir George : 47-8, 243
 - Canada : Earning per head 246 ; Expenditure per head and income 249 ; Exports of British produce 628
 - Canara, South : 16, 17 ; Price of rice 70
 - Candahar : 590
@@ -9238,9 +9219,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Chamberlain, Rt. Hon. J. : 362
 - Chandabhoy, Mr. Naservanji : 110
 - Chapman, Mr. Wallis : 636
-- Chatterji, Mr. : 395-7
-- ,, Mr. Khetternath : 111
-- ,, Mr. Madhosadan : 111, 112
+- Chatterji, Mr. : 395-7 ,, Mr. Khetternath : 111 ,, Mr. Madhosadan : 111, 112
 - Charan, Mr. Huree : 111
 - Chetham, Mr. J. : 578
 - Children in Bengal : Proportion to adults 30
@@ -9256,12 +9235,9 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Churchill, Lord Randolph : 309, 543, 558, 559 ; on Taxation of India 620-1
 - Cinchona : in Bengal 328
 - Civil Service, Indian : 95 *sqq.*
-- ,, Covenanted : Admission of natives to 398-465
-- ,, Uncovenanted : 103-5, 210
+- ,, Covenanted : Admission of natives to 398-465 ,, Uncovenanted : 103-5, 210
 - Clark, Dr. : 267
-- Clarke, Mr. J. : 483
-- ,, Col. T. G. : 483
-- ,, Mr. W. H. : 578
+- Clarke, Mr. J. : 483 ,, Col. T. G. : 483 ,, Mr. W. H. : 578
 - Clerk, Sir George : 370, 619
 - Clive, Lord : 276, 392, 596, 600 ; on British rule in India 614-5
 - Cloth : 126
@@ -9311,8 +9287,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - D. I. Khan : Barley 152 ; Cotton 160 ; Gram 153 : Inferior grains 154 ; Mahai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150
 - Dacca : 597 ; Prices 71 ; Wages 82-5
 - Dal : Daily requirement of a labourer, 171
-- Danvers, Mr. F. C. : 176 *sqq.*, 199, 203, 223
-- ,, Mr. J. : 195
+- Danvers, Mr. F. C. : 176 *sqq.*, 199, 203, 223 ,, Mr. J. : 195
 - Deb, Mr. Kumar Nil K. : 470
 - Deccan Riots Commission : 268
 
@@ -9819,22 +9794,19 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Miall, Mr. E. : 578
 - Military : Examinations 487-504; Expenditure 307 *sqq.*
 - Milk : in Punjab 192
-- Mill, James : 601, 616
-- ,, John Stuart : 55-6, 217
+- Mill, James : 601, 616 ,, John Stuart : 55-6, 217
 - Mills : Statistics 325
 - Milnes, Mr. Monckton : 411, 413-4
 - Mines : Statistics 324; in Punjab 168
 - Mints, Closing of the : 529, 531-4
 - Mirzapore : Statistics 12; Wheat 9, 11, price of 70
 - Misri — *v.* Sugar
-- Mitra, Mr. Romesh Chandra : 449
-- ,, Mr. Nilmoner : 111
+- Mitra, Mr. Romesh Chandra : 449 ,, Mr. Nilmoner : 111
 - Mond, Mr. Alfred : 627, 635
 - Monteagle, Lord : 96, 409
 - Monteath, Mr. J. : 483
 - Montgomery : Barley 152; Cotton 160; Gram 153; Hemp 161; Indigo 162; Inferior grains 154; Makai 151; Oil seeds 159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat 150
-- Mooltan : Produce 7-8; Barley 152; Cotton 160; Gram 153; Indigo 162; Inferior grains 154; Makai
-- 151; Oil seeds 159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat 150
+- Mooltan : Produce 7-8; Barley 152; Cotton 160; Gram 153; Indigo 162; Inferior grains 154; Makai 151; Oil seeds 159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat 150
 - Moong : 27 (*n.*)
 - Moore, Mr. G. H. : 578
 - Moradabad : 11, 12; Wheat 9, 11, price of 70, 80
@@ -9842,8 +9814,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Moro, Gulf of : Early trade 39
 - Moth : Consumption of 155; Yield in Punjab 154, 169
 - Mudliar, Mr. : 449
-- Mukerji, Babu Joykissen : 470
-- ,, Mr. : 654, 658
+- Mukerji, Babu Joykissen : 470 ,, Mr. : 654, 658
 - Mulik Amber : 590-1
 - Multan : Price of wheat 70, 81; Wages 84
 - Múng : Yield in Punjab 154
@@ -9909,8 +9880,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Wages 85
 - Nutt, Major : 259, 621
 - O'Connor, Roderick : 452
-- Oil : in Punjab 167
-- ,,   Seeds : 323-4; in Bengal 327;
+- Oil : in Punjab 167 ,,   Seeds : 323-4; in Bengal 327;
 - in Central Provinces 5 (and
 - *n.*); in Punjab 159-66 *passim*
 - Oldenburg : Revenue per head 258
@@ -9955,8 +9925,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Pellatt, Mr. Apsley : 578
 - Pendjeh Incident, the : 357
 - Pensions and Salaries : 183, 222
-- Perry, Mr. : 208
-- ,,   Sir Erskine : 209-10, 317 (*n.*),
+- Perry, Mr. : 208 ,,   Sir Erskine : 209-10, 317 (*n.*),
 - 418, 423, 432, 433, 442,
 - 466 (*n.*)
 - Persia : Revenue per head 258
@@ -9984,8 +9953,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Ponies : 323; Rearing, in Punjab
 - 190-1; Value 193
 - Poonah : Cost of living 29; Population 214; Price of jowari
-- 76; Produce 20-1
-- ,,   College : 107
+- 76; Produce 20-1 ,,   College : 107
 
 <!-- page: 692 | folio: 672 -->
 - Poorneah, the Dewan : 603
@@ -10046,8 +10014,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Robertson, Mr. W. R. : 243-4
 
 <!-- page: 693 | folio: 673 -->
-- Roddy, Mr. Edwin : 452
-- ,, Mr. Herbert : 452
+- Roddy, Mr. Edwin : 452 ,, Mr. Herbert : 452
 - Roe, Sir Thomas : 590
 - Rogers, Capt. : 110
 - Rohilcund : 611 ; Revenue 609
@@ -10068,8 +10035,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - St. George College, Massoori : 452
 - Salaries and Pensions : 183, 222
 - Salisbury, Lord (formerly Lord Cranborne) : 372 ; on Abolition of cotton-duties 61-2 ; on Admission of natives to covenanted C.S. 433, 443-4, 461 ; on the "Bleeding" of India 280, 283-4, 297, 304, 315, 330, 341, 346, 363, 543, 643 ; on British policy in India 619-20 ; on British supremacy of the sea 352 ; on the Employment of natives 367-8, 390-1, 617-8 ; on the Frontier question 356 ; on Misgovernment 341-2 ; on Political hypocrisy 318 ; on the Powers of Council of Sec. of State for India 364
-- Salt : Cost 27 ; Daily cost to a labourer 27, 29 ; as Diet for coolies 27 ; Daily requirement of a labourer 171 ; Mines of Punjab
-- 168 ; Price 27 (*n.*) ; Revenue 2, 24, 245 ; Statistics 324 ; Tax 215-6, 288
+- Salt : Cost 27 ; Daily cost to a labourer 27, 29 ; as Diet for coolies 27 ; Daily requirement of a labourer 171 ; Mines of Punjab 168 ; Price 27 (*n.*) ; Revenue 2, 24, 245 ; Statistics 324 ; Tax 215-6, 288
 - Salvador : Revenue per head 258
 - Sandee : 610
 - Sandracotus : 584
@@ -10091,8 +10057,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Serohi : Revenue per head 262
 - Servia : Revenue per head 258
 - Sevajee : 591-2
-- Seymour, Mr. H. D. : 577, 578
-- ,, Mr. W. D. : 578
+- Seymour, Mr. H. D. : 577, 578 ,, Mr. W. D. : 578
 - Shahab-ûd-Deen : 585
 - Shahabu-din, Mr. Kazee : 27, 29, 449
 - Shahpur : Barley 152 ; Cotton 160 ; Gram 153 ; Hemp 161 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150
@@ -10103,8 +10068,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - Sheoprasad, Mr. : 111
 - Shir Shah : 588
 - Sholapore : Population 214
-- Shore, Sir John (Lord Teignmouth) : 38-9, 89, 280, 298, 309, 317, 544, 575, 578, 602
-- ,, Mr. F. J. : 40-3, 278-9, 617
+- Shore, Sir John (Lord Teignmouth) : 38-9, 89, 280, 298, 309, 317, 544, 575, 578, 602 ,, Mr. F. J. : 40-3, 278-9, 617
 - Siálkot : Barley 152 ; Cotton 160 ; Gram 153 ; Hemp 161 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 63 ; Wheat 150
 - Silk : Exports 253 ; Price 67 ; Statistics 325, in Punjab 167
 
@@ -10193,8 +10157,7 @@ A vote of thanks to the Rev. chairman brought the pro ceedings to a close.
 - head 258; Taxation 59
 - Turmeric: in Punjab 158
 - Turner, Sir Charles: 448, 485
-- „ Mr. C. S.: 483
-- 24-Pergunnahs: Wages 82, 83
+- „ Mr. C. S.: 483 24-Pergunnahs: Wages 82, 83
 - Umballa: Produce 7-8; Barley
 - 152; Cotton 160; Gram 153;
 - Hemp 161; Indigo 162; Inferior

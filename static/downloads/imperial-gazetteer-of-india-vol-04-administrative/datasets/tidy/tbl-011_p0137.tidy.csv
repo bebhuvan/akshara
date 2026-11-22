@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,1,data,,Rāmpur,2,Area in square miles.,899,899.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,1,data,,Rāmpur,3,Population in 1901.,"533,212, chiefly Hindus and Muham- madans.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,1,data,,Rāmpur,4,Approxi- mate revenue (in lakhs of rupees).,33,33.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,1,data,,Rāmpur,5,"Title, race, and religion of Ruler.","Nawāb, Pathān: Muham- madan.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,1,data,,Rāmpur,6,Salute of Ruler in guns.,13,13.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,1,data,,Rāmpur,7,Designation of local Political Officer.,Commissioner of Bareilly (ex- officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,2,data,,Tehrī (Garh- wāl),2,Area in square miles.,"4,180",4180.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,2,data,,Tehrī (Garh- wāl),3,Population in 1901.,"268,885, chiefly Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,2,data,,Tehrī (Garh- wāl),4,Approxi- mate revenue (in lakhs of rupees).,3,3.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,2,data,,Tehrī (Garh- wāl),5,"Title, race, and religion of Ruler.","Rājā, Kshattriya: Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,2,data,,Tehrī (Garh- wāl),6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,2,data,,Tehrī (Garh- wāl),7,Designation of local Political Officer.,Commissioner of Kumaun (ex- officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,3,total,,TOTAL,2,Area in square miles.,"5,079",5079.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,3,total,,TOTAL,3,Population in 1901.,"802,097",802097.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,3,total,,TOTAL,4,Approxi- mate revenue (in lakhs of rupees).,36,36.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,3,total,,TOTAL,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,3,total,,TOTAL,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-011,(d) United Provinces (2 States),137,99,3,total,,TOTAL,7,Designation of local Political Officer.,,,,True,True

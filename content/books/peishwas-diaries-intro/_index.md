@@ -1,6 +1,6 @@
 ---
 title: "Introduction to the Peishwa's Diaries"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Paper Read Before the Bombay Branch of the Royal Asiatic Society"
 author: "Mahadev Govind Ranade"
 author_slug: "mahadev-govind-ranade"

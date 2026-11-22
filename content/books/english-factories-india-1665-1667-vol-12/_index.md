@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1665–1667"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Published under the Patronage of His Majesty's Secretary of State for India in Council"
 author: "Sir William Foster"
 author_slug: "william-foster"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (1 open review item); 6 of 368 pages ha
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 19 fixes · 6 pp. checked"
+  - "Scan-Triaged: 20 fixes · 6 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 2/2 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -132,11 +132,11 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.6-flash` (1 pp.), `gemini-3.8-flash` (367 pp.).
   - **Reader**: Read by gemini-3.8-flash on 367 of 368 pages, gemini-3.6-flash on 1 of 368 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 19 replayed correction(s). Automated reading (1 open review item); 6 of 368 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 20 replayed correction(s). Automated reading (1 open review item); 6 of 368 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **10 finding(s) across 10 leaf(s)** (pp. 63, 96, 146, 227, 289, 351, 356, 360, 362, 364): rare character.
+  - **11 finding(s) across 11 leaf(s)** (pp. 63, 96, 146, 163, 227, 289, 351, 356, 360, 362 (+1 more)): rare character.
   - **6 finding(s) across 6 leaf(s)** (pp. 186, 274, 316, 320, 321, 361): attested compositor spelling variants preserved diplomatically from the scan.
   - **1 finding(s) across 1 leaf(s)** (pp. 246): control characters removed.
 

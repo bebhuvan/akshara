@@ -624,7 +624,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "12·3 „",
-    "value_numeric": null,
+    "value_numeric": 12.3,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -750,7 +750,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "12·0 „",
-    "value_numeric": null,
+    "value_numeric": 12.0,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1884,7 +1884,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "11·2 „",
-    "value_numeric": null,
+    "value_numeric": 11.2,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2010,7 +2010,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "15·7 „",
-    "value_numeric": null,
+    "value_numeric": 15.7,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2136,7 +2136,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "12·5 „",
-    "value_numeric": null,
+    "value_numeric": 12.5,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2514,7 +2514,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "13·8 „",
-    "value_numeric": null,
+    "value_numeric": 13.8,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2892,7 +2892,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "25·0 „",
-    "value_numeric": null,
+    "value_numeric": 25.0,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3018,7 +3018,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "27·2 „",
-    "value_numeric": null,
+    "value_numeric": 27.2,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3144,7 +3144,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "12·0 „",
-    "value_numeric": null,
+    "value_numeric": 12.0,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -3522,7 +3522,7 @@
     "column_index": 8,
     "column_header": "Proportion of Rent to Produce.",
     "raw_text": "28·1 „",
-    "value_numeric": null,
+    "value_numeric": 28.1,
     "unit": "%",
     "is_null_or_leader": false,
     "arithmetic_verified": false

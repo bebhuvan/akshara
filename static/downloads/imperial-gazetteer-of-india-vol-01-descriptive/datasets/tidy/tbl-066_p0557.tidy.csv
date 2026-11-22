@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,1,data,,Bengal,2,Urban.,33·0,33.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,1,data,,Bengal,3,Rural.,30·7,30.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,2,data,,United Provinces,2,Urban.,40·6,40.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,2,data,,United Provinces,3,Rural.,32·5,32.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,3,data,,Punjab,2,Urban.,35·6,35.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,3,data,,Punjab,3,Rural.,32·0,32.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,4,data,,Central Provinces,2,Urban.,50·3,50.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,4,data,,Central Provinces,3,Rural.,45·2,45.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,5,data,,Berār,2,Urban.,51·4,51.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,5,data,,Berār,3,Rural.,48·1,48.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,6,data,,Madras,2,Urban.,30·5,30.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,6,data,,Madras,3,Rural.,21·4,21.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,7,data,,Bombay,2,Urban.,61·6,61.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-066,"Mean Death-rate per 1,000 of Population (1896–1900).",557,519,7,data,,Bombay,3,Rural.,38·4,38.4,,False,False

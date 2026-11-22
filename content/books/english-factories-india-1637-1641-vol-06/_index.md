@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1637–1641"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Calendar of Documents in the India Office, Etc."
 author: "William Foster"
 author_slug: "william-foster"
@@ -108,7 +108,7 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (79 flyleaf/stamp block(s)) are excluded from reading prose; **164** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **0** multi-page tables were stitched; and **648** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (79 flyleaf/stamp block(s)) are excluded from reading prose; **163** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **0** multi-page tables were stitched; and **648** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (26 distinct non-ASCII characters across 270 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks

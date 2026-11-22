@@ -1680,7 +1680,7 @@ These bounties were continued for more than thirty years, when they were repeale
 The following charges on cotton manufactures in 1813 are significant:—
 
 
-| £ | s. | d. | Column 4 |
+| Item | £ | s. | d. |
 | --- | --- | --- | --- |
 | Flowered or stitched muslins of white calicoes (for every £100 of value) | 32 | 9 | 2 |
 | And further (for every £100 of value) | 11 | 17 | 6 |
@@ -1955,9 +1955,7 @@ In conclusion it is well to recall the testimony of such competent witnesses as 
 
 That the number of those who depend on textile industries for their living is still declining is made clear by the results of the census of 1911. See Mr. Gait’s report, chapter on occupations, wherein he says that “As compared with 1901, there has been a decrease of 6.1 per cent. in the number of persons supported by textile industries. This is due mainly to the almost complete extinction of cotton spinning by hand. Weaving by hand has also suffered severely.”
 
-*Cotton duties—1917 developments.* Since the above was written, the duty on cotton goods imported into India has been raised to 7½ per cent. *ad valorem* while the countervailing excise duty has been maintained at the old figure. The action of the Government of India, taken with the sanction and approval of the Secretary of State for India, as a part of the plan whereby the Government of India was to contribute £100,000,000 to the British war fund as a “free gift,” from India has furnished occasion for a very interesting discussion on the point, between Lancashire and the Free Traders on one hand and the Tory Secretary of State for India and *The Times* on the other. In the course of the controversy certain admissions have been made in high quarters which corroborate [p. 160] and support the statements made in this chapter. In the course of a letter addressed to the *West-*
-
-*minster Gazette*, Lord Curzon says: “I have always regarded the attitude of Lancashire toward India in respect to the Import duties on cotton and still more of the countervailing excise *as an injustice and a wrong.* . . . When in India, as Viceroy, I more than once expressed myself in the same sense. On my return to England I made a speech in the House of Lords on May 21, 1908, in the course of which I said that *the fiscal policy of India during the last thirty or forty years has been shaped far more in Manchester than in Calcutta.* In the speech at Manchester in 1910, I alluded to the same facts, namely, to *the subordination of Indian fiscal policy to the Secretary of State and a House of Commons powerfully affected by Lancashire influence.”* [The italics are ours.]
+*Cotton duties—1917 developments.* Since the above was written, the duty on cotton goods imported into India has been raised to 7½ per cent. *ad valorem* while the countervailing excise duty has been maintained at the old figure. The action of the Government of India, taken with the sanction and approval of the Secretary of State for India, as a part of the plan whereby the Government of India was to contribute £100,000,000 to the British war fund as a “free gift,” from India has furnished occasion for a very interesting discussion on the point, between Lancashire and the Free Traders on one hand and the Tory Secretary of State for India and *The Times* on the other. In the course of the controversy certain admissions have been made in high quarters which corroborate [p. 160] and support the statements made in this chapter. In the course of a letter addressed to the *Westminster Gazette*, Lord Curzon says: “I have always regarded the attitude of Lancashire toward India in respect to the Import duties on cotton and still more of the countervailing excise *as an injustice and a wrong.* . . . When in India, as Viceroy, I more than once expressed myself in the same sense. On my return to England I made a speech in the House of Lords on May 21, 1908, in the course of which I said that *the fiscal policy of India during the last thirty or forty years has been shaped far more in Manchester than in Calcutta.* In the speech at Manchester in 1910, I alluded to the same facts, namely, to *the subordination of Indian fiscal policy to the Secretary of State and a House of Commons powerfully affected by Lancashire influence.”* [The italics are ours.]
 
 Mr. Charles Roberts, M. P., said in the House of Commons: “Long ago we forgave ourselves for the selfish commercial policy of the eighteenth century which crushed out the beautiful fabrics of India by fiscal prohibition.”
 
@@ -2096,8 +2094,9 @@ But even of greater interest are the figures of ships built at Indian ports.
 <!-- page: 211 | folio: 171 -->
 
 ***Ships Built at Indian Ports***
-| Bengal | 1904–5 :: *No.* | 1904–5 :: *Tonnage* | 1905–6 :: *No.* | 1905–6 :: *Tonnage* | 1906–7 :: *No.* | 1906–7 :: *Tonnage* | 1907–8 :: *No.* | 1907–8 :: *Tonnage* | 1908–9 :: *No.* | 1908–9 :: *Tonnage* |
+| Item | 1904–5 :: *No.* | 1904–5 :: *Tonnage* | 1905–6 :: *No.* | 1905–6 :: *Tonnage* | 1906–7 :: *No.* | 1906–7 :: *Tonnage* | 1907–8 :: *No.* | 1907–8 :: *Tonnage* | 1908–9 :: *No.* | 1908–9 :: *Tonnage* |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bengal |  |  |  |  |  |  |  |  |  |  |
 | Calcutta: Steam | .. | ..... | .. | ..... | 2 | 335 | 1 | 73 | 1 | 160 |
 | Chittagong: Sailing | .. | ..... | 1 | 26 | .. | ..... | 1 | 71 | 1 | 67 |
 | Bombay and Sind: |  |  |  |  |  |  |  |  |  |  |
@@ -2309,7 +2308,7 @@ The export figures of wheat and wheat flour are subject to great fluctuations. I
 The following are the export figures of tea, jute, cotton, and oilseeds for 1913–14 and 1914–15:
 
 
-| 1913-14 | 1914-15 | Column 3 |
+| Item | 1913-14 | 1914-15 |
 | --- | --- | --- |
 | Tea | 289.5 millions of lbs. | 300.8 millions of lbs. |
 | Jute | 768,000 tons of the value[^sec-11-fn-001] of £39,400,000 | 3,046,000 bales |
@@ -3096,7 +3095,7 @@ This question also may best be answered in the language of Dr. Sunderland:
 The following figures support Mr. Sunderland’s conclusion:
 
 
-| Item | Column 2 | Column 3 | *Average Increase of Population per year per million* | *Average Increase of Population per year per million* |
+| Item | Column 2 | *Average Increase of Population per year per million* | Column 4 | Column 5 |
 | --- | --- | --- | --- | --- |
 | Germany, 1837 31,589,547 | Germany, 1911 64,925,993 | 14,528 |  |  |
 | Belgium, 1866 4,827,833 | Belgium, 1912 7,571,387 | 11,919 |  |  |
@@ -3111,7 +3110,7 @@ The following table (Hazells “ Annual ” for 1917) supports Dr. Sunderland’
 
 
 ***Increase of Population***
-| 1881–1891 | 1891–1901 | 1901–1911 | Total | Column 5 |
+| Item | 1881–1891 | 1891–1901 | 1901–1911 | Total |
 | --- | --- | --- | --- | --- |
 | England and Wales | 11.7 | 12.2 | 10.9 | 34.8 |
 | Australian Commonwealth | 41.1 | 18.9 | 18.1 | 78.1 |
@@ -3136,7 +3135,7 @@ Says Mr. J. Ramsay MacDonald, M.P., in “The Awakening of India,” page 163: �
 “Taking the first twenty cases exactly as they appear in the record of the Government enquiry in which reference is made to indebtedness, they do not sustain the assertion of the Lieutenant-Governor. In only two of these cases are marriage and family expenses put down as the occasion of indebtedness. In one case, the amount was the trifle of Rs. 10, half already repaid in monthly instalments of one rupee. That is to say, 10 per cent. of borrowings only, are specifically for marriage purposes. In the Punjab, Mr. Thorburn’s particulars compare not unfavourably: ‘Of seven hundred and forty-two families, only in three cases was marriage extravagance the cause of their serious indebtedness.’ The common idea about the extravagance of marriage is not supported by evidence. Unnecessary marriage expenses show a tendency year by year to decrease. This is susceptible of statistical proof:
 
 
-| Full Indebtedness | Marriage Expenses | Percentage | Column 4 |
+| Item | Full Indebtedness | Marriage Expenses | Percentage |
 | --- | --- | --- | --- |
 | Circle I. | Rs. 142,737 | Rs. 9,491 | 6½ |
 | Circle II. | “ 179,853 | “ 12,418 | 7 |
@@ -4276,11 +4275,8 @@ Says Mr. A. J. Wilson (“An Empire in Pawn”), p. 26: “The Indian people pay
 - Connell, A. K., on Indian
 - railways, 243-6, 297
 - Copper, 177
-- Cornwallis, Lord, on increas-
-
-<!-- page: 400 | folio: 360 -->
-- ing misery of India, 37; on
-- land settlement, 188
+- Cornwallis, Lord, on increasing misery of India, 37; on
+- land settlement, 188 [p. 360]
 - Cotton, J. S., on the "Drain,"
 - 86, 100; on trade, 100; on
 - iron, 175-6; on agriculture,
@@ -4322,8 +4318,7 @@ Says Mr. A. J. Wilson (“An Empire in Pawn”), p. 26: “The Indian people pay
 - H. H., 78; Lord Salisbury,
 - 78; Wilson, A. J., 78, 96;
 - Dr. Sunderland, 78; Wingate, 76; Cotton, J. S., 86,
-- 100; Martin, 77, 92; esti-
-- mates, 102; **Tucker, Henry**
+- 100; Martin, 77, 92; estimates, 102; **Tucker, Henry**
 - **St. G.**, 77
 - Dutt, Romesh, on Governor
 - Verelst, 53; on Warren
@@ -4360,11 +4355,7 @@ Says Mr. A. J. Wilson (“An Empire in Pawn”), p. 26: “The Indian people pay
 - 114; Isle of France, 115;
 - Muluccas, 115; Ceylon, 115;
 - Eastern Archipelago, 115;
-- Siam and Cochin-China
-
-<!-- page: 401 | folio: 361 -->
-- 116; Burmah, 116; Malacca,
-- 116; Aden, 117; wars outside India, 109–13; the
+- Siam and Cochin-China [p. 361] 116; Burmah, 116; Malacca, 116; Aden, 117; wars outside India, 109–13; the
 - Persian mission, 105; foreign wars paid by India,
 - 105–6; the Zanzibar and
 - Mauritius cable, 117; Red
@@ -4442,10 +4433,7 @@ Says Mr. A. J. Wilson (“An Empire in Pawn”), p. 26: “The Indian people pay
 - 24, 216; early political divisions, 16; poverty, 245 ff;
 - pre-British period, 16; prosperity fallacies, 308; railways and canals, 283 ff;
 - remedy for the Indian problem, 334 ff; trade, early, 43;
-- trade after Plassey, 49 ff;
-
-<!-- page: 402 | folio: 362 -->
-- trade ruin, 64; taxes, 314; tribute or "Drain," 69 ff
+- trade after Plassey, 49 ff; [p. 362] trade ruin, 64; taxes, 314; tribute or "Drain," 69 ff
 - Indian Year Book, on recent industrial situation, 152 ff; on iron, etc., 177
 - Industries, 173; indigo, 173; jute, 174; woollen mills, 174; paper mills, 175; breweries, 175; rice and saw mills, 175; manganese, 177; copper, 177; tea and coffee, 179; *see also*, *Agriculture*, *Cotton*, *Shipping*
 - Industrial revolution in England, India's part in, 49, 125 ff

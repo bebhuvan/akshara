@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,1,data,,Imports,2,Quantity (lb.). :: Butter.,"277,112",277112.0,lbs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,1,data,,Imports,3,Quantity (lb.). :: Ghī.,"127,868",127868.0,lbs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,1,data,,Imports,4,Quantity (lb.). :: Condensed milk.,"4,137,066",4137066.0,lbs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,1,data,,Imports,5,Value (Rs.). :: Butter.,"3,16,536",316536.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,1,data,,Imports,6,Value (Rs.). :: Ghī.,"50,722",50722.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,1,data,,Imports,7,Value (Rs.). :: Condensed milk.,"11,34,187",1134187.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,2,data,,Exports,2,Quantity (lb.). :: Butter.,"289,425",289425.0,lbs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,2,data,,Exports,3,Quantity (lb.). :: Ghī.,"5,390,865",5390865.0,lbs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,2,data,,Exports,4,Quantity (lb.). :: Condensed milk.,..,,lbs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,2,data,,Exports,5,Value (Rs.). :: Butter.,"1,97,949",197949.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,2,data,,Exports,6,Value (Rs.). :: Ghī.,"22,90,825",2290825.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-005,Table 5,126,84,2,data,,Exports,7,Value (Rs.). :: Condensed milk.,..,,Rs,True,False

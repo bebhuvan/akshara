@@ -62,6 +62,6 @@ indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16
 indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,31,data,,Row 31,2,£,,,GBP,True,True
 indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,31,data,,Row 31,3,Net Revenue. :: £,"285,580",285580.0,GBP,False,True
 indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,32,data,,Miscellaneous Refunds,2,£,,,GBP,True,True
-indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,32,data,,Miscellaneous Refunds,3,Net Revenue. :: £,"– 64,575",,GBP,False,True
+indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,32,data,,Miscellaneous Refunds,3,Net Revenue. :: £,"– 64,575",-64575.0,GBP,False,True
 indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,33,total,,Net Revenue,2,£,,,GBP,True,True
 indian-finance-moxon-1881,tbl-006,"REVISED STATEMENT OF NET REVENUE, 1878-9.",16,12,33,total,,Net Revenue,3,Net Revenue. :: £,"£42,365,027",42365027.0,GBP,False,True

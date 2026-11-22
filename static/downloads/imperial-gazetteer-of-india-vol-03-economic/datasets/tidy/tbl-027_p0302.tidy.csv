@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-027,Table 27,302,260,1,data,,Imports of merchandise,2,Rs.,"4,26,11,060",42611060.0,Rs,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-027,Table 27,302,260,2,data,,Exports       „       „,2,Rs.,"7,99,34,200",79934200.0,Rs,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-027,Table 27,302,260,3,data,,Imports of gold and silver,2,Rs.,"1,89,30,230",18930230.0,Rs,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-027,Table 27,302,260,4,data,,Exports       „       „,2,Rs.,"19,47,410",1947410.0,Rs,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-027,Table 27,302,260,5,total,,Total,2,Rs.,"14,34,22,900",143422900.0,Rs,False,True

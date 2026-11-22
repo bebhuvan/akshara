@@ -1,6 +1,6 @@
 ---
 title: "A Journey from Madras through the Countries of Mysore, Canara, and Malabar"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Volume II — Southern Mysore, Coimbatore, Malabar, Agriculture, Commerce, and Tenures"
 author: "Francis Buchanan"
 author_slug: "francis-buchanan"
@@ -9,7 +9,7 @@ imprint: "London: T. Cadell and W. Davies (By Authority of the East India Compan
 language: "English"
 pages: 598
 extracted_pages: 584
-reread_pages: 22
+reread_pages: 24
 human_verified_pages: 0
 chapters: 9
 footnotes_count: 0
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 75.0
+rubric_score: 75.6
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -35,19 +35,19 @@ rubric_pillars:
   - name: "Tabular & Numeric Accuracy"
     score: 8.0
     max: 25.0
-    notes: "-5.0: 1 Blind Totals Strip disagreement(s); -12.0: 26 column total arithmetic mismatch(es)"
+    notes: "-5.0: 1 Blind Totals Strip disagreement(s); -12.0: 23 column total arithmetic mismatch(es)"
   - name: "Orthography & Diacritics"
-    score: 17.0
+    score: 17.6
     max: 25.0
-    notes: "-6.0: 2 script/codepoint anomaly(ies); -2.0: 10 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-6.0: 2 script/codepoint anomaly(ies); -1.4: 7 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 4 Hydrogen"
-provenance_statement: "Automated reading (39 open review items); 22 of 584 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (33 open review items); 24 of 584 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 3 fixes · 22 pp. checked"
+  - "Scan-Triaged: 17 fixes · 24 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
-  - "Tables: 18/33 Arithmetic-Checked"
+  - "Tables: 21/33 Arithmetic-Checked"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
   - "Script: Latin"
@@ -214,7 +214,7 @@ tables_list:
   - table_id: "tbl-016"
     caption: "Table 16"
     printed_folio: "262"
-    rows: 25
+    rows: 26
     cols: 7
     diplomatic_csv: "/downloads/journey-from-madras-vol-ii/datasets/tables/tbl-016_p0278.csv"
     tidy_csv: "/downloads/journey-from-madras-vol-ii/datasets/tidy/tbl-016_p0278.tidy.csv"
@@ -294,7 +294,7 @@ tables_list:
   - table_id: "tbl-026"
     caption: "Table explaining the cultivation of Rice at Ani-malaya, in Coimbetore."
     printed_folio: "334"
-    rows: 9
+    rows: 10
     cols: 14
     diplomatic_csv: "/downloads/journey-from-madras-vol-ii/datasets/tables/tbl-026_p0354.csv"
     tidy_csv: "/downloads/journey-from-madras-vol-ii/datasets/tidy/tbl-026_p0354.tidy.csv"
@@ -347,25 +347,26 @@ editorial_note_markdown: |-
   - **Source File**: `journey-from-madras-vol-ii.originals.pdf`
   - **Source SHA-256**: `9c5d230d6349d990c144233d735e6a5c7c0f44408b115c247ea7d778b524865f`
   - **Leaf Accounting**: 598 PDF leaves — **584** content leaves transcribed, **14** blank/tissue leaves (`3, 4, 18, 20, 22, 33, 293, 295, 396, 400, 461, 595, 596, 597`), **0** failed leaves.
-  - **Edition Status**: `community` (**75.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**75.6 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (137 flyleaf/stamp block(s)) are excluded from reading prose; **407** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **4** multi-page tables were stitched; and **2316** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (137 flyleaf/stamp block(s)) are excluded from reading prose; **410** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **0** cross-page split footnotes and **4** multi-page tables were stitched; and **2316** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (47 distinct non-ASCII characters across 418 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-4-hydrogen` (584 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 584 of 584 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 3 replayed correction(s). Automated reading (39 open review items); 22 of 584 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 17 replayed correction(s). Automated reading (33 open review items); 24 of 584 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **26 finding(s) across 13 leaf(s)** (pp. 53, 156, 334, 344, 345, 381, 428, 466, 468, 504 (+3 more)): statistical table columns whose printed total disagrees with the sum of extracted cells above.
+  - **23 finding(s) across 11 leaf(s)** (pp. 156, 334, 344, 345, 381, 428, 466, 468, 504, 506 (+1 more)): statistical table columns whose printed total disagrees with the sum of extracted cells above.
   - **23 finding(s) across 10 leaf(s)** (pp. 68, 202, 286, 289, 326, 339, 345, 398, 413, 552): rare character.
   - **15 finding(s) across 14 leaf(s)** (pp. 7, 8, 41, 42, 61, 129, 201, 226, 230, 325 (+4 more)): attested compositor spelling variants preserved diplomatically from the scan.
-  - **10 finding(s) across 8 leaf(s)** (pp. 371, 393, 405, 443, 474, 524, 588, 589): faded or blotted `<unclear>` passages awaiting human scan inspection.
+  - **7 finding(s) across 6 leaf(s)** (pp. 371, 405, 443, 474, 524, 589): faded or blotted `<unclear>` passages awaiting human scan inspection.
+  - **3 finding(s) across 2 leaf(s)** (pp. 53, 510): table compositor arithmetic variant.
   - **2 finding(s) across 2 leaf(s)** (pp. 339, 345): script anomaly.
   - **1 finding(s) across 1 leaf(s)** (pp. 454): table total rows where the isolated 450-DPI strip check differed from full-page reading.
 
@@ -374,4 +375,4 @@ editorial_note_markdown: |-
 
 Volume II — Southern Mysore, Coimbatore, Malabar, Agriculture, Commerce, and Tenures. Archival scope: spanning 1800-1801; covering Mysore, Coimbatore, Malabar, Palghat, Tellicherry; focusing on agrarian survey, weights and measures, coinage, irrigation, artisans. Original imprint: London: T. Cadell and W. Davies (By Authority of the East India Company) (1807).
 
-Digitized from Internet Archive copy [`journeyfrommadra02hami_2`](https://archive.org/details/journeyfrommadra02hami_2) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **75.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (0), and statistical tables (64) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`journeyfrommadra02hami_2`](https://archive.org/details/journeyfrommadra02hami_2) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **75.6/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (0), and statistical tables (64) are preserved faithfully from the source camera scans.

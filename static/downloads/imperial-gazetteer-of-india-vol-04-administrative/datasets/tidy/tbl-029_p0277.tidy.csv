@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-029,Table 29,277,239,1,data,,Land revenue receipts in lakhs of rupees,2,1856-7.,"17,30",1730.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-029,Table 29,277,239,1,data,,Land revenue receipts in lakhs of rupees,3,1870-1.,"19,96",1996.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-029,Table 29,277,239,1,data,,Land revenue receipts in lakhs of rupees,4,1880-1.,"21,91",2191.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-029,Table 29,277,239,1,data,,Land revenue receipts in lakhs of rupees,5,1890-1.,"24,05",2405.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-029,Table 29,277,239,1,data,,Land revenue receipts in lakhs of rupees,6,1900-1.,"26,25",2625.0,,False,False

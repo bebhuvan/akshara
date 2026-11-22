@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,1,data,,"Hides, raw",2,1871–80.,93,93.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,1,data,,"Hides, raw",3,1881–90.,121,121.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,1,data,,"Hides, raw",4,1891–1900.,166,166.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,1,data,,"Hides, raw",5,1901–3.,193,193.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,2,data,,"Skins, tanned",2,1871–80.,105,105.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,2,data,,"Skins, tanned",3,1881–90.,125,125.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,2,data,,"Skins, tanned",4,1891–1900.,139,139.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-090,Table 90,507,465,2,data,,"Skins, tanned",5,1901–3.,138,138.0,,False,False

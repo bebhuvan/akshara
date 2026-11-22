@@ -1,0 +1,106 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,2,1898. :: £,"1,608,504",1608504.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,3,1899. :: £,"1,724,906",1724906.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,4,1900. :: £,"1,891,767",1891767.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,5,1901. :: £,"1,930,411",1930411.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,6,1902. :: £,"1,970,230",1970230.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,7,1903. :: £,"2,302,493",2302493.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,1,data,,Gold,8,Average. :: £,"1,904,719",1904719.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,2,1898. :: £,"957,162",957162.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,3,1899. :: £,"1,063,820",1063820.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,4,1900. :: £,"1,343,081",1343081.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,5,1901. :: £,"1,323,372",1323372.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,6,1902. :: £,"1,366,909",1366909.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,7,1903. :: £,"1,299,716",1299716.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,2,data,,Coal,8,Average. :: £,"1,225,677",1225677.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,2,1898. :: £,"358,933",358933.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,3,1899. :: £,"312,682",312682.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,4,1900. :: £,"325,970",325970.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,5,1901. :: £,"409,019",409019.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,6,1902. :: £,"344,633",344633.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,7,1903. :: £,"336,147",336147.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,3,data,,Salt,8,Average. :: £,"347,897",347897.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,2,1898. :: £,"265,895",265895.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,3,1899. :: £,"232,896",232896.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,4,1900. :: £,"256,210",256210.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,5,1901. :: £,"294,249",294249.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,6,1902. :: £,"237,880",237880.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,7,1903. :: £,"288,487",288487.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,4,data,,Saltpetre,8,Average. :: £,"262,603",262603.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,2,1898. :: £,"67,897",67897.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,3,1899. :: £,"125,684",125684.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,4,1900. :: £,"148,755",148755.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,5,1901. :: £,"200,342",200342.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,6,1902. :: £,"217,816",217816.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,7,1903. :: £,"354,365",354365.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,5,data,,Petroleum,8,Average. :: £,"185,810",185810.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,2,1898. :: £,"57,950",57950.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,3,1899. :: £,"90,848",90848.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,4,1900. :: £,"97,326",97326.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,5,1901. :: £,"104,476",104476.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,6,1902. :: £,"86,895",86895.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,7,1903. :: £,"98,575",98575.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,6,data,,Rubies,8,Average. :: £,"89,345",89345.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,2,1898. :: £,"53,890",53890.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,3,1899. :: £,"73,372",73372.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,4,1900. :: £,"109,554",109554.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,5,1901. :: £,"70,034",70034.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,6,1902. :: £,"87,594",87594.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,7,1903. :: £,"86,277",86277.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,7,data,,Mica,8,Average. :: £,"80,120",80120.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,2,1898. :: £,"27,426",27426.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,3,1899. :: £,"39,529",39529.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,4,1900. :: £,"77,304",77304.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,5,1901. :: £,"79,119",79119.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,6,1902. :: £,"120,538",120538.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,7,1903. :: £,"132,741",132741.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,8,data,,Manganese ore,8,Average. :: £,"79,443",79443.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,2,1898. :: £,"41,780",41780.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,3,1899. :: £,"42,120",42120.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,4,1900. :: £,"58,955",58955.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,5,1901. :: £,"46,377",46377.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,6,1902. :: £,"31,713",31713.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,7,1903. :: £,"47,676",47676.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,9,data,,Jadestone,8,Average. :: £,"44,770",44770.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,2,1898. :: £,"12,403",12403.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,3,1899. :: £,"12,836",12836.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,4,1900. :: £,"11,171",11171.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,5,1901. :: £,"13,598",13598.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,6,1902. :: £,"16,533",16533.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,7,1903. :: £,"14,963",14963.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,10,data,,Iron ore,8,Average. :: £,"13,584",13584.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,2,1898. :: £,110,110.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,3,1899. :: £,"7,620",7620.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,4,1900. :: £,"9,145",9145.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,5,1901. :: £,"13,635",13635.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,6,1902. :: £,"24,410",24410.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,7,1903. :: £,"16,970",16970.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,11,data,,Graphite,8,Average. :: £,"11,981",11981.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,2,1898. :: £,"2,553",2553.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,3,1899. :: £,"7,900",7900.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,4,1900. :: £,"8,534",8534.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,5,1901. :: £,"7,773",7773.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,6,1902. :: £,"5,340",5340.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,7,1903. :: £,"9,153",9153.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,12,data,,Tin,8,Average. :: £,"6,875",6875.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,2,1898. :: £,...,,GBP,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,3,1899. :: £,56,56.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,4,1900. :: £,150,150.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,5,1901. :: £,...,,GBP,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,6,1902. :: £,"2,360",2360.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,7,1903. :: £,550,550.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,13,data,,Magnesite,8,Average. :: £,519,519.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,2,1898. :: £,"1,061",1061.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,3,1899. :: £,151,151.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,4,1900. :: £,103,103.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,5,1901. :: £,11,11.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,6,1902. :: £,432,432.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,7,1903. :: £,414,414.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,14,data,,Amber,8,Average. :: £,362,362.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,2,1898. :: £,"3,455,565",3455565.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,3,1899. :: £,"3,734,420",3734420.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,4,1900. :: £,"4,338,025",4338025.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,5,1901. :: £,"4,492,416",4492416.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,6,1902. :: £,"4,513,283",4513283.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,7,1903. :: £,"4,988,527",4988527.0,GBP,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-012,Table 12,172,130,15,total,,Total,8,Average. :: £,"4,253,705",4253705.0,GBP,False,False

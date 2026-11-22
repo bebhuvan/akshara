@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-018,Table 18,218,180,1,data,,"1. From Imperial funds, either by state agency or by the agency of working companies",2,Column 2,12·0 crores.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-018,Table 18,218,180,2,data,,2. From the capital accounts of the old guaranteed railway companies,2,Column 2,"0·3 """,0.3,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-018,Table 18,218,180,3,data,,"3. From the capital accounts of other railway companies, including branch-line companies in the receipt of a firm guarantee",2,Column 2,"2·7 """,2.7,,False,False

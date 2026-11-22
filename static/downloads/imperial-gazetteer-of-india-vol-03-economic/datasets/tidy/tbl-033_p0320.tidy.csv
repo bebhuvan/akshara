@@ -1,0 +1,4 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-033,Table 33,320,278,1,data,,Grey (unbleached),2,Column 2,"1,210,000,000 yards.",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-033,Table 33,320,278,2,data,,White (bleached),2,Column 2,"584,000,000 „",584000000.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-033,Table 33,320,278,3,data,,"Coloured, printed, or dyed",2,Column 2,"494,000,000 „",494000000.0,,False,False

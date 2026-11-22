@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1655–1660"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Calendar of Documents in the India Office, British Museum and Public Record Office"
 author: "William Foster"
 author_slug: "william-foster"
@@ -12,7 +12,7 @@ extracted_pages: 450
 reread_pages: 12
 human_verified_pages: 0
 chapters: 33
-footnotes_count: 384
+footnotes_count: 385
 tables_count: 0
 figures_count: 2
 reading_time: "~16 hrs"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (1 open review item); 12 of 450 pages h
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 9 fixes · 12 pp. checked"
+  - "Scan-Triaged: 44 fixes · 12 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -108,20 +108,20 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (92 flyleaf/stamp block(s)) are excluded from reading prose; **311** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **10** cross-page split footnotes and **0** multi-page tables were stitched; and **664** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (92 flyleaf/stamp block(s)) are excluded from reading prose; **311** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **9** cross-page split footnotes and **0** multi-page tables were stitched; and **664** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (27 distinct non-ASCII characters across 347 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (450 pp.).
   - **Reader**: Read by gemini-3.8-flash on 450 of 450 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 9 replayed correction(s). Automated reading (1 open review item); 12 of 450 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 44 replayed correction(s). Automated reading (1 open review item); 12 of 450 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **11 finding(s) across 11 leaf(s)** (pp. 74, 82, 84, 93, 133, 248, 313, 358, 381, 437 (+1 more)): attested compositor spelling variants preserved diplomatically from the scan.
-  - **2 finding(s) across 2 leaf(s)** (pp. 78, 136): rare character.
   - **1 finding(s) across 1 leaf(s)** (pp. 269): control characters removed.
+  - **1 finding(s) across 1 leaf(s)** (pp. 136): rare character.
   - **1 finding(s) across 1 leaf(s)** (pp. 366): attested compositor footnote callout/note variants preserved diplomatically from the scan.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
@@ -129,4 +129,4 @@ editorial_note_markdown: |-
 
 A Calendar of Documents in the India Office, British Museum and Public Record Office. Archival scope: spanning 1655-1660; covering Surat, Madras, Hugli, Kasimbazar, Patna, Balasore; focusing on factory records, kasimbazar silk, patna saltpetre, mughal war of succession, mir jumla. Original imprint: Oxford: Clarendon Press (1921).
 
-Digitized from Internet Archive copy [`englishfactories10fost`](https://archive.org/details/englishfactories10fost) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (384), and statistical tables (0) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`englishfactories10fost`](https://archive.org/details/englishfactories10fost) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (385), and statistical tables (0) are preserved faithfully from the source camera scans.

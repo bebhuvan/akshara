@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-002,Table 2,44,2,1,data,,Cattle-breeders and attendants,2,Column 2,"331,000",331000.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-002,Table 2,44,2,2,data,,Landowners and tenants,2,Column 2,"2,753,000",2753000.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-002,Table 2,44,2,3,data,,Labourers,2,Column 2,"16,736,000",16736000.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-002,Table 2,44,2,4,data,,Growers of special products,2,Column 2,"367,000",367000.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-002,Table 2,44,2,5,data,,"Supervisors of estates, &c",2,Column 2,"100,000",100000.0,,False,False

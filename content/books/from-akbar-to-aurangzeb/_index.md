@@ -1,6 +1,6 @@
 ---
 title: "From Akbar to Aurangzeb"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Study in Indian Economic History"
 author: "W. H. Moreland"
 author_slug: "william-harrison-moreland"
@@ -15,7 +15,7 @@ chapters: 20
 footnotes_count: 195
 tables_count: 27
 figures_count: 2
-reading_time: "~11 hrs"
+reading_time: "~12 hrs"
 type: "books"
 layout: "book"
 collection_slug: "indian-economic-history"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (1 open review item); 30 of 386 pages h
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 24 fixes · 30 pp. checked"
+  - "Scan-Triaged: 26 fixes · 30 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 10/11 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -325,14 +325,14 @@ editorial_note_markdown: |-
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (49 flyleaf/stamp block(s)) are excluded from reading prose; **259** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **11** cross-page split footnotes and **0** multi-page tables were stitched; and **646** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (49 flyleaf/stamp block(s)) are excluded from reading prose; **260** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **11** cross-page split footnotes and **0** multi-page tables were stitched; and **646** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (27 distinct non-ASCII characters across 104 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.6-flash` (1 pp.), `gemini-3.8-flash` (385 pp.).
   - **Reader**: Read by gemini-3.8-flash on 385 of 386 pages, gemini-3.6-flash on 1 of 386 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 24 replayed correction(s). Automated reading (1 open review item); 30 of 386 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 26 replayed correction(s). Automated reading (1 open review item); 30 of 386 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 

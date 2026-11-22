@@ -1,6 +1,6 @@
 ---
 title: "The Early History of India"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "From 600 B.C. to the Muhammadan Conquest, Including the Invasion of Alexander the Great. Fourth edition, revised by S. M. Edwardes"
 author: "Vincent A. Smith"
 author_slug: "vincent-a-smith"
@@ -22,7 +22,7 @@ collection_slug: "general-heritage"
 collection_title: "Akshara General Heritage Library"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 88.8
+rubric_score: 86.3
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -33,19 +33,19 @@ rubric_pillars:
     max: 25.0
     notes: "-6.0: 2 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
-    score: 20.0
+    score: 20.5
     max: 25.0
-    notes: "-5.0: 4 ragged table geometry warning(s)"
+    notes: "-4.5: 3 ragged table geometry warning(s)"
   - name: "Orthography & Diacritics"
-    score: 24.8
+    score: 21.8
     max: 25.0
-    notes: "-0.2: 1 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-3.0: 1 script/codepoint anomaly(ies); -0.2: 1 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
 provenance_statement: "Automated reading (8 open review items); 138 of 575 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 52 fixes · 138 pp. checked"
+  - "Scan-Triaged: 65 fixes · 138 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 1/1 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -222,26 +222,27 @@ editorial_note_markdown: |-
   - **Source File**: `early-history-of-india-1924.originals.pdf`
   - **Source SHA-256**: `37e979023c14fc203aecd341707c1538f6ef6111d4d634591b2ca01bfadac12c`
   - **Leaf Accounting**: 596 PDF leaves — **575** content leaves transcribed, **21** blank/tissue leaves (`2, 3, 6, 8, 9, 39, 102, 128, 204, 270, 316, 400, 433, 493, 538, 550 (+5 more)`), **0** failed leaves.
-  - **Edition Status**: `community` (**88.8 / 100** Rubric Score)
+  - **Edition Status**: `community` (**86.3 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (117 flyleaf/stamp block(s)) are excluded from reading prose; **342** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **67** cross-page split footnotes and **4** multi-page tables were stitched; and **3101** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (117 flyleaf/stamp block(s)) are excluded from reading prose; **353** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **67** cross-page split footnotes and **4** multi-page tables were stitched; and **3101** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (196 distinct non-ASCII characters across 533 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.6-flash` (16 pp.), `gemini-3.8-flash` (559 pp.).
   - **Reader**: Read by gemini-3.8-flash on 559 of 575 pages, gemini-3.6-flash on 16 of 575 pages. Declared reader profile: transliteration (new readings use gemini-3.8-flash).
-  - **Human Proofing**: 52 replayed correction(s). Automated reading (8 open review items); 138 of 575 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 65 replayed correction(s). Automated reading (8 open review items); 138 of 575 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **98 finding(s) across 80 leaf(s)** (pp. 14, 18, 20, 29, 41, 45, 51, 58, 69, 73 (+70 more)): attested compositor spelling variants preserved diplomatically from the scan.
-  - **48 finding(s) across 32 leaf(s)** (pp. 20, 32, 50, 60, 64, 76, 98, 107, 110, 112 (+22 more)): rare character.
-  - **4 finding(s) across 4 leaf(s)** (pp. 100, 269, 297, 505): tables where one or more rows have inconsistent column width relative to the header.
+  - **49 finding(s) across 33 leaf(s)** (pp. 20, 32, 50, 60, 64, 76, 98, 100, 107, 110 (+23 more)): rare character.
+  - **3 finding(s) across 3 leaf(s)** (pp. 269, 297, 505): tables where one or more rows have inconsistent column width relative to the header.
   - **2 finding(s) across 2 leaf(s)** (pp. 150, 483): footnote blocks without an explicit printed marker.
   - **1 finding(s) across 1 leaf(s)** (pp. 305): control characters removed.
+  - **1 finding(s) across 1 leaf(s)** (pp. 473): script anomaly.
   - **1 finding(s) across 1 leaf(s)** (pp. 527): faded or blotted `<unclear>` passages awaiting human scan inspection.
   - **1 finding(s) across 1 leaf(s)** (pp. 75): table blind total confirmed.
 
@@ -250,4 +251,4 @@ editorial_note_markdown: |-
 
 From 600 B.C. to the Muhammadan Conquest, Including the Invasion of Alexander the Great. Fourth edition, revised by S. M. Edwardes. Archival scope: spanning 600 BCE-1200 CE; covering North India, Deccan, South India; focusing on ancient history, dynasties, alexander, maurya, gupta. Original imprint: Oxford: Clarendon Press (1924).
 
-Digitized from Internet Archive copy [`earlyhistoryofin0000smit_e6k6`](https://archive.org/details/earlyhistoryofin0000smit_e6k6) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **88.8/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (919), and statistical tables (15) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`earlyhistoryofin0000smit_e6k6`](https://archive.org/details/earlyhistoryofin0000smit_e6k6) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **86.3/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (919), and statistical tables (15) are preserved faithfully from the source camera scans.

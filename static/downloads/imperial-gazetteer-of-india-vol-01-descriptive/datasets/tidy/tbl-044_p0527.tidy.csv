@@ -1,0 +1,49 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,1,data,,Area in square miles,2,INDIA.,"1,766,597",1766597.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,1,data,,Area in square miles,3,Provinces.,"1,087,204",1087204.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,1,data,,Area in square miles,4,States.,"679,393",679393.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,2,data,,Number of Towns and Villages,2,INDIA.,"730,753",730753.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,2,data,,Number of Towns and Villages,3,Provinces.,"551,481",551481.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,2,data,,Number of Towns and Villages,4,States.,"179,272",179272.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,3,data,,(a) Towns,2,INDIA.,"2,148",2148.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,3,data,,(a) Towns,3,Provinces.,"1,451",1451.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,3,data,,(a) Towns,4,States.,697,697.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,4,data,,(b) Villages,2,INDIA.,"728,605",728605.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,4,data,,(b) Villages,3,Provinces.,"550,030",550030.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,4,data,,(b) Villages,4,States.,"178,575",178575.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,5,data,,Number of Occupied Houses,2,INDIA.,"55,841,315",55841315.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,5,data,,Number of Occupied Houses,3,Provinces.,"43,444,070",43444070.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,5,data,,Number of Occupied Houses,4,States.,"12,397,245",12397245.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,6,data,,(a) In Towns,2,INDIA.,"5,590,859",5590859.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,6,data,,(a) In Towns,3,Provinces.,"4,080,936",4080936.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,6,data,,(a) In Towns,4,States.,"1,509,923",1509923.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,7,data,,(b) In Villages,2,INDIA.,"50,250,456",50250456.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,7,data,,(b) In Villages,3,Provinces.,"39,363,134",39363134.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,7,data,,(b) In Villages,4,States.,"10,887,322",10887322.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,8,subtotal,,Total population,2,INDIA.,"294,361,056",294361056.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,8,subtotal,,Total population,3,Provinces.,"231,899,507",231899507.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,8,subtotal,,Total population,4,States.,"62,461,549",62461549.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,9,data,,(a) In Towns,2,INDIA.,"29,244,221",29244221.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,9,data,,(a) In Towns,3,Provinces.,"22,142,257",22142257.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,9,data,,(a) In Towns,4,States.,"7,101,964",7101964.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,10,data,,(b) In Villages,2,INDIA.,"265,116,835",265116835.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,10,data,,(b) In Villages,3,Provinces.,"209,757,250",209757250.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,10,data,,(b) In Villages,4,States.,"55,359,585",55359585.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,11,data,,Males,2,INDIA.,"149,951,824",149951824.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,11,data,,Males,3,Provinces.,"117,804,942",117804942.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,11,data,,Males,4,States.,"32,146,882",32146882.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,12,data,,(a) In Towns,2,INDIA.,"15,499,786",15499786.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,12,data,,(a) In Towns,3,Provinces.,"11,840,791",11840791.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,12,data,,(a) In Towns,4,States.,"3,658,995",3658995.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,13,data,,(b) In Villages,2,INDIA.,"134,452,038",134452038.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,13,data,,(b) In Villages,3,Provinces.,"105,964,151",105964151.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,13,data,,(b) In Villages,4,States.,"28,487,887",28487887.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,14,data,,Females,2,INDIA.,"144,409,232",144409232.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,14,data,,Females,3,Provinces.,"114,094,565",114094565.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,14,data,,Females,4,States.,"30,314,667",30314667.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,15,data,,(a) In Towns,2,INDIA.,"13,744,435",13744435.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,15,data,,(a) In Towns,3,Provinces.,"10,301,466",10301466.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,15,data,,(a) In Towns,4,States.,"3,442,969",3442969.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,16,data,,(b) In Villages,2,INDIA.,"130,664,797",130664797.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,16,data,,(b) In Villages,3,Provinces.,"103,793,099",103793099.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-044,General Statement,527,489,16,data,,(b) In Villages,4,States.,"26,871,698",26871698.0,,False,False

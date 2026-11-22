@@ -70,9 +70,6 @@ Other topics of interest are the appearance of the French as competitors for the
 
 ### CONTENTS
 
-
-##### <span class="sc">PAGE</span>
-
 - 1665. <span class="sc">Events at Surat</span> . . . . . 1
 - <span class="sc">The Occupation of Bombay</span> . . . . 37
 - <span class="sc">The Malabar Coast</span> . . . . . 75
@@ -1513,7 +1510,7 @@ The altered tone in reference to the war is noteworthy. In fact both nations wer
 ### Notes
 
 [^sec-09-fn-001]: (1) Huibert de Laress (see *Dagh-Register, Batavia, 1665*, pp. 190, 270, &c.).
-[^sec-09-fn-002]: (1) The French envoys to Persia and India were the Sieur de Lalain and the Sieur de la Boullaye le Go4t, on the part of the King, with Messieurs Béber, Du Pont, and Mariage, on behalf of the new Company. Of these the first and the last were designated for the negotiations in Persia, while the other three were to proceed to India. The party arrived at Ispahān early in July, 1665. Du Pont died near Shirāz later in the year. The two here mentioned as coming on to Surat were De La Boullaye and Béber. They started for Agra about a fortnight later. For the privileges obtained from the Persian court, see a letter from Flower and Swinglehurst to the Company dated 26 October. The fullest account of the embassy is to be found in Tavernier’s *Recueil de plusieurs Relations*, 1679, part ii. Some details are added by Jean de Thevenot and in the Report of the Historical MSS. Commission on the Finch Papers, vol. i.
+[^sec-09-fn-002]: (1) The French envoys to Persia and India were the Sieur de Lalain and the Sieur de la Boullaye le Goût, on the part of the King, with Messieurs Béber, Du Pont, and Mariage, on behalf of the new Company. Of these the first and the last were designated for the negotiations in Persia, while the other three were to proceed to India. The party arrived at Ispahān early in July, 1665. Du Pont died near Shirāz later in the year. The two here mentioned as coming on to Surat were De La Boullaye and Béber. They started for Agra about a fortnight later. For the privileges obtained from the Persian court, see a letter from Flower and Swinglehurst to the Company dated 26 October. The fullest account of the embassy is to be found in Tavernier’s *Recueil de plusieurs Relations*, 1679, part ii. Some details are added by Jean de Thevenot and in the Report of the Historical MSS. Commission on the Finch Papers, vol. i.
 [^sec-09-fn-003]: (1) The Bantam factors had written (28 July, 1665) that Capt. Blackman and Capt. Richard Minors were reported to have been engaged by the French. There seems to have been no foundation for the rumour.
 [^sec-09-fn-004]: (1) The Bantam factors wrote to Surat on 28 July, 1665 : ‘ The plague hath not only ranged in Holland, but these parts, as the coasts of Sumatra, Java, Bally, and Macasser. Batavia hath been allso sensible, in the losse of many inhabitants.’
 [^sec-09-fn-005]: (1) Left blank; in the corresponding letter to Madras the number of the deaths in that week was stated as '7,200 persons'.
@@ -2766,8 +2763,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - 283 *n.*; character of, 3, 4, 82, 200; his
 - relations with Sivājī, 4, 36, 76, 80, 192,
 - 203, 269, 282; Jai Singh's campaign
-- against him, 76, 79, 81, 83, 87, 88, 152,
-- 201-4; makes peace with Aurangzeb, 37,
+- against him, 76, 79, 81, 83, 87, 88, 152, 201-4; makes peace with Aurangzeb, 37,
 - 64, 83, 85, 165, 202; rumours of renewed
 - war, 176, 177, 281, 287; relations with
 - his nobles, 81, 82, 87; and with Rustam
@@ -2962,8 +2958,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - Blake, William, 107, 111; his administration in Bengal, 134–47, 256–62, 330; letters from, 138, 141, 146, 232, 233; his attitude towards Winter’s rebellion, 146, 147, 232–4, 246, 247, 256; charges against, 108, 137, 140, 261, 262; his outlay on building, 136, 262; his private trade, 261, 262; his wife, 262; his father, 261.
 - Blue, an unpopular colour, 5.
 - Bocholt, 245.
-- Bombay, made over to the English, 37–40, 44; conditions of the surrender, 38, 40, 52; map of, 40; plan sent home, 67; descriptions of, 43, 45, 46, 198, 290, 294; population of, 45, 290, 309, 311; revenues of, 44, 49, 66, 70, 71, 289, 292–4, 296, 309; in 1665, 72; in 1667, 289, 301, 306–8, 311; excise duties at, 71, 73, 301; anchorage dues at, 74; customs at, 45, 50, 307; steps taken to fortify the island, 41, 45, 58, 59, 66–8, 71, 187, 190, 191, 292, 300 (2), 305, 309; garrison of, 42, 43, 47, 48, 59, 65, 66, 68, 71, 187 (2), 187 *n.*, 188–92, 192 *n.*, 273, 292, 296, 300 (2), 305, 306, 312; military stores wanted, 48, 68, 292, 300; medicines required, 68, 196; local shipping needed, 47, 51, 52, 70; Dutch expected to attack, 56–60, 63, 68 (2), 69, 88, 100, 151, 152, 187, 187 *n.*, 190, 192, 290, 293, 297, 300, 303, 305 (2); chaplains for, 48, 68, 190; currency rates, 48; endeavours to attract settlers, 51, 55, 61, 63, 65, 66, 70, 74, 286, 301; consequent
-- dispute at Surat, 30, 61–3, 70; the Company’s servants desert to, 4, 13, 14; private trade of the officials, 4; Arab attack on, 69; English headquarters at, 38, 39, 44, 67 *n.*, 68, 69; fishing rights at, 200; judicial arrangements at, 66, 70, 74, 290, 291, 309, 313; tyranny of the landowners at, 288, 290, 291, 308, 309; new Governor expected, 186, 187; Jesuits and, 45, 49, 50, 70, 289–91, 296, 297, 301, 303 (2), 304 (2), 309; freedom of worship at, 46, 51, 53, 63, 66, 191; shrine near, 53; Portuguese at, 191, 282, 283, 286, 289, 298, 300; disputes with the Portuguese over, 191, 293, 306, 308; they propose to repurchase the island, 56–8, 198, 310, 311; disorder at, 63; suggested factory at, for the Company, 64–6, 70; body of horsemen raised, 292, 305; the island transferred to the Company, 310–13; charter for, 312. *See also* Cooke, Gary, *and* Lucas.
+- Bombay, made over to the English, 37–40, 44; conditions of the surrender, 38, 40, 52; map of, 40; plan sent home, 67; descriptions of, 43, 45, 46, 198, 290, 294; population of, 45, 290, 309, 311; revenues of, 44, 49, 66, 70, 71, 289, 292–4, 296, 309; in 1665, 72; in 1667, 289, 301, 306–8, 311; excise duties at, 71, 73, 301; anchorage dues at, 74; customs at, 45, 50, 307; steps taken to fortify the island, 41, 45, 58, 59, 66–8, 71, 187, 190, 191, 292, 300 (2), 305, 309; garrison of, 42, 43, 47, 48, 59, 65, 66, 68, 71, 187 (2), 187 *n.*, 188–92, 192 *n.*, 273, 292, 296, 300 (2), 305, 306, 312; military stores wanted, 48, 68, 292, 300; medicines required, 68, 196; local shipping needed, 47, 51, 52, 70; Dutch expected to attack, 56–60, 63, 68 (2), 69, 88, 100, 151, 152, 187, 187 *n.*, 190, 192, 290, 293, 297, 300, 303, 305 (2); chaplains for, 48, 68, 190; currency rates, 48; endeavours to attract settlers, 51, 55, 61, 63, 65, 66, 70, 74, 286, 301; consequent dispute at Surat, 30, 61–3, 70; the Company’s servants desert to, 4, 13, 14; private trade of the officials, 4; Arab attack on, 69; English headquarters at, 38, 39, 44, 67 *n.*, 68, 69; fishing rights at, 200; judicial arrangements at, 66, 70, 74, 290, 291, 309, 313; tyranny of the landowners at, 288, 290, 291, 308, 309; new Governor expected, 186, 187; Jesuits and, 45, 49, 50, 70, 289–91, 296, 297, 301, 303 (2), 304 (2), 309; freedom of worship at, 46, 51, 53, 63, 66, 191; shrine near, 53; Portuguese at, 191, 282, 283, 286, 289, 298, 300; disputes with the Portuguese over, 191, 293, 306, 308; they propose to repurchase the island, 56–8, 198, 310, 311; disorder at, 63; suggested factory at, for the Company, 64–6, 70; body of horsemen raised, 292, 305; the island transferred to the Company, 310–13; charter for, 312. *See also* Cooke, Gary, *and* Lucas.
 - Books wanted for Surat, 162.
 - Borax, 170, 270, 279.
 - Bossill, John, 237.
@@ -3400,12 +3395,8 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - France, King of. *See* Louis XIV
 - Francis, Richard, 14, 36.
 - French, the, join in Anglo-Dutch War, 153,
-- 154, 170, 211, 240, 241, 245, 251, 276,
-- 278, 314 (2); negotiations for peace, 276.
-- French East India Company established, 17,
-
-<!-- page: 358 | folio: 344 -->
-- 29, 149; its ships expected at Surat, 29, 158, 268; none arrives, 282; negotiations with the Mogul, *see* Béber *and* De La Boullaye.
+- 154, 170, 211, 240, 241, 245, 251, 276, 278, 314 (2); negotiations for peace, 276.
+- French East India Company established, 17, [p. 344] 29, 149; its ships expected at Surat, 29, 158, 268; none arrives, 282; negotiations with the Mogul, *see* Béber *and* De La Boullaye.
 - Frenchmen in the East, 1, 66, 300; disliked, 158. *See also* Bernier, Madras, Persia, Surat, *and* Tavernier.
 - Fryer, John, 171 *n.*, 301 *n.*, 307 *n.*
 - Fuddle, Jacob, 239.
@@ -3446,10 +3437,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - Gray, Matthew, 93, 173; Secretary at Surat, 14, 36, 275.
 - Greenhill, Henry, 241; his house, 237.
 - *Gregorii Magni Opera*, 162.
-- *Greyhound*, the, 19; sent to Madras, 105; cargo of, 107, 108; arrives, 107, 114; goes to the northwards, 114, 127; relading of, 108, 114, 135, 138, 259; the Dutch
-
-<!-- page: 359 | folio: 345 -->
-- attempt to capture, 115, 127, 134, 137, 138, 141-6, 257; at Balasore, 126, 127, 134, 135, 137, 138, 141-3, 145, 146, 219-22, 233, 256, 257, 259, 319, 325.
+- *Greyhound*, the, 19; sent to Madras, 105; cargo of, 107, 108; arrives, 107, 114; goes to the northwards, 114, 127; relading of, 108, 114, 135, 138, 259; the Dutch [p. 345] attempt to capture, 115, 127, 134, 137, 138, 141-6, 257; at Balasore, 126, 127, 134, 135, 137, 138, 141-3, 145, 146, 219-22, 233, 256, 257, 259, 319, 325.
 - ‘Grezio’ coral, 31 (2).
 - Griffin, Jeremy, 61, 167 *n.*
 - Grigby, Alexander, at Porakād, 14, 75, 89-91; complains of Harrington, 89; ill, 89, 92 (2), 93; captured by the Dutch, 36, 91, 98, 100, 102, 150; at Cochin, 91-3, 210, 214, 217, 285; his wages, 92.
@@ -3523,10 +3511,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - ‘Item’, 220.
 - Itimād-uddaula, the, 264.
 - Ivory. *See* Elephants’ teeth.
-- Jafar Khān, Aurangzeb’s *dīwān*, 274; assists the English, 28, 29, 266 (3), 272
-
-<!-- page: 360 | folio: 346 -->
-- his great influence, 158; Shāista Khān
+- Jafar Khān, Aurangzeb’s *dīwān*, 274; assists the English, 28, 29, 266 (3), 272 [p. 346] his great influence, 158; Shāista Khān
 - allied to, 260; and the French envoys,
 - 158, 281.
 - *Jāgīr*, 259.
@@ -3579,8 +3564,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - Master (Robert), Chamberlain, *and* Giffard; grant of privileges (1659), 208;
 - reduction of customs granted, 81; English house at, 81, 86, 201, 203, 207, 209;
 - factory not worth maintaining, 84, 88,
-- 208; to be continued, 168; abandoned,
-- 171, 206–8, 279; to be resettled, 279;
+- 208; to be continued, 168; abandoned, 171, 206–8, 279; to be resettled, 279;
 - Dutch aggressions at, 2, 86; Sivāji at,
 - 78, 79; Governor of (*see also* Mahmūd
 - Khān), 79, 208, 209.
@@ -3637,10 +3621,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - ‘Larwa’ indigo, 164, 279.
 - Lascars, 202.
 - Lashkar Khān, 134.
-- Lead, from England, 23 *n.*, 108, 169, 239,
-
-<!-- page: 361 | folio: 347 -->
-- 260, 280, 314; overrated, 2; trade in, 83, 85 (2), 135, 137, 145, 201, 203, 255.
+- Lead, from England, 23 *n.*, 108, 169, 239, [p. 347] 260, 280, 314; overrated, 2; trade in, 83, 85 (2), 135, 137, 145, 201, 203, 255.
 - Leghorn, 31.
 - *Leopard*, the, 2.
 - L'Escaliot, George, 175, 269.
@@ -3663,8 +3644,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - Lowestoft, battle off, 125, 149, 150, 151.
 - *Loyal Merchant*, the, 7.
 - *Loyal Welcome*, the, 8.
-- Lucas, Sir Gervase, his antecedents, 189; appointed Governor of Bombay, 189, 190; his pay, 190, 191, 302; his commission, 191, 302; the Company and, 193, 288, 289; goes out in the *Return*, 167, 191, 193 (4); arrives, 171, 193, 198, 279; draws money from Surat, 193, 269, 273, 291; his intended visit to Surat, 194; his administration, 197–200, 287–95, 300–2; his dealings with Cooke, 198–200, 289, 294; and the Portuguese, 287–92, 296, 301, 303, 306–8; his relations with Oxenden, 194–7, 288, 289, 294–6; desires fuller powers, 292; claims sole right of issuing passes, 295; starts a mounted force, 292, 305; letters to and from the King, 196–8, 273, 288; letters to and from Lord Arlington, 198 (2), 199, 270, 289, 293 (2), 294, 306; Winter and, 323; his death, 272, 295, 296, 300, 302;
-- his accounts, 302; his estate, 303, 306; his secretary, 310.
+- Lucas, Sir Gervase, his antecedents, 189; appointed Governor of Bombay, 189, 190; his pay, 190, 191, 302; his commission, 191, 302; the Company and, 193, 288, 289; goes out in the *Return*, 167, 191, 193 (4); arrives, 171, 193, 198, 279; draws money from Surat, 193, 269, 273, 291; his intended visit to Surat, 194; his administration, 197–200, 287–95, 300–2; his dealings with Cooke, 198–200, 289, 294; and the Portuguese, 287–92, 296, 301, 303, 306–8; his relations with Oxenden, 194–7, 288, 289, 294–6; desires fuller powers, 292; claims sole right of issuing passes, 295; starts a mounted force, 292, 305; letters to and from the King, 196–8, 273, 288; letters to and from Lord Arlington, 198 (2), 199, 270, 289, 293 (2), 294, 306; Winter and, 323; his death, 272, 295, 296, 300, 302; his accounts, 302; his estate, 303, 306; his secretary, 310.
 - Lucknow, goods from, 2, 5.
 - ‘Luggs’, 167.
 - Macassar, 152 *n.*, 269, 285, 293; ship sent to, 22.
@@ -3806,10 +3786,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - 318; appointed a member of Foxcroft’s
 - Council, 107; his attitude towards
 - Winter’s rebellion, 123, 124, 219, 222,
-- 227, 232, 246; sent to seize Winter’s ship,
-
-<!-- page: 363 | folio: 349 -->
-- 232, 233; sent to Golconda, 253-5, 319,
+- 227, 232, 246; sent to seize Winter’s ship, [p. 349] 232, 233; sent to Golconda, 253-5, 319,
 - 320 (2); charges against, 108, 113, 241.
 - Noel, Sir Martin, 32, 32 *n.*, 206.
 - Nurse, Valentine, at Surat, 14, 36; goes
@@ -4117,10 +4094,7 @@ May 22. Consultation at Surat. E, 273 June 25. Aurangzeb's *farmān*. D, 3218; J
 - *Shibār*, 302.
 - Shipman, Sir Abraham, 3, 42, 47 (2), 48 (3),
 - 54, 190, 290; his private trade, 181 (2),
-- 184 (3), 199 *n.*, 200; his death, 42, 58,
-
-<!-- page: 366 | folio: 352 -->
-- 181, 189; his estate, 199; his daughter,
+- 184 (3), 199 *n.*, 200; his death, 42, 58, [p. 352] 181, 189; his estate, 199; his daughter,
 - 199, 200.
 - Shipman, Elizabeth, 199, 200.
 - Ships, desired for use at Surat, 10, 29; and

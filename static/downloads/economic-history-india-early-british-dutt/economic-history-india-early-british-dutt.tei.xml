@@ -12,7 +12,7 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition n="machine_checked">Akshara Machine Checked Edition</edition>
+        <edition n="community">Akshara Community Edition</edition>
         <respStmt>
           <resp>Provenance accounting</resp>
           <name>466 extracted leaves · 8 re-read against the scan · 0 verified by a person</name>
@@ -171,21 +171,15 @@ I. <hi rend="smallcaps">Growth of the Empire</hi> . . . . . 1</p>
           <p rend="toc-entry">XV. <hi rend="smallcaps">State of Industries, 1813–35</hi> . . . . 270</p>
           <p rend="toc-entry">XVI. <hi rend="smallcaps">External Trade, 1813–35</hi> . . . . 291</p>
           <pb xml:id="page-28" n="xxiv" facs="https://archive.org/download/ed2economichisto00dutt/page/n27_w1400.jpg"/>
-          <div type="subsection" n="h3">
-            <head>CHAP.</head>
-          </div>
-          <div type="subsection" n="h3">
-            <head>PAGE</head>
-            <p rend="toc-entry">XVII. INTERNAL TRADE, CANALS AND RAILROADS, 1813–35 . . . . . . . 303</p>
-            <p rend="toc-entry">XVIII. ADMINISTRATIVE FAILURES, 1793–1815 . . 313</p>
-            <p rend="toc-entry">XIX. ADMINISTRATIVE REFORMS AND LORD WILLIAM BENTINCK, 1815–35 . . . . . 326</p>
-            <p rend="toc-entry">XX. ELPHINSTONE IN BOMBAY, 1817–27 . . . 344</p>
-            <p rend="toc-entry">XXI. WINGATE AND THE RYOTWARI SETTLEMENT IN BOMBAY, 1827–35 . . . . 368</p>
-            <p rend="toc-entry">XXII. BIRD AND THE NEW SETTLEMENT IN NORTHERN INDIA, 1822–35 . . . . . 384</p>
-            <p rend="toc-entry">XXIII. FINANCE AND THE ECONOMIC DRAIN, 1793–1837 . 398</p>
-            <p rend="toc-entry">XXIV. ACCESSION OF QUEEN VICTORIA—FAMINE OF 1837 421</p>
-            <p rend="toc-entry">INDEX . . . . . . . . 433</p>
-          </div>
+          <p rend="toc-entry">XVII. INTERNAL TRADE, CANALS AND RAILROADS, 1813–35 . . . . . . . 303</p>
+          <p rend="toc-entry">XVIII. ADMINISTRATIVE FAILURES, 1793–1815 . . 313</p>
+          <p rend="toc-entry">XIX. ADMINISTRATIVE REFORMS AND LORD WILLIAM BENTINCK, 1815–35 . . . . . 326</p>
+          <p rend="toc-entry">XX. ELPHINSTONE IN BOMBAY, 1817–27 . . . 344</p>
+          <p rend="toc-entry">XXI. WINGATE AND THE RYOTWARI SETTLEMENT IN BOMBAY, 1827–35 . . . . 368</p>
+          <p rend="toc-entry">XXII. BIRD AND THE NEW SETTLEMENT IN NORTHERN INDIA, 1822–35 . . . . . 384</p>
+          <p rend="toc-entry">XXIII. FINANCE AND THE ECONOMIC DRAIN, 1793–1837 . 398</p>
+          <p rend="toc-entry">XXIV. ACCESSION OF QUEEN VICTORIA—FAMINE OF 1837 421</p>
+          <p rend="toc-entry">INDEX . . . . . . . . 433</p>
         </div>
       </div>
     </front>
@@ -2497,7 +2491,7 @@ I. <hi rend="smallcaps">Growth of the Empire</hi> . . . . . 1</p>
             <table xml:id="tbl-026" rows="33" cols="6">
         <row role="label"><cell role="label">Name of Division and District.</cell><cell role="label">Total Area in Acres.</cell><cell role="label">Cultivated Area in Acres.</cell><cell role="label" cols="3">Rate of Government Revenue per Acre of the Land in Cultivation.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label">Rupees.</cell><cell role="label">Annas</cell><cell role="label">Pies.</cell></row>
-        <row role="label"><cell role="label"><hi rend="italic">Delhi Division</hi>—</cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell></row>
+        <row role="label" rend="subheader"><cell><hi rend="italic">Delhi Division</hi>—</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
         <row role="data"><cell>District Hariana . . .</cell><cell rend="num">1,657,975</cell><cell rend="num">696,147</cell><cell rend="num">0</cell><cell rend="num">14</cell><cell rend="num">4</cell></row>
         <row role="data"><cell>„ Delhi . . .</cell><cell rend="num">364,534</cell><cell rend="num">174,605</cell><cell rend="num">2</cell><cell rend="num">1</cell><cell rend="num">3</cell></row>
         <row role="data"><cell>„ Rohtuck . .</cell><cell rend="num">844,666</cell><cell rend="num">474,465</cell><cell rend="num">1</cell><cell rend="num">5</cell><cell rend="num">2</cell></row>

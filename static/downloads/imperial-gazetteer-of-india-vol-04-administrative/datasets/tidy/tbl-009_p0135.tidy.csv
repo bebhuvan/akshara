@@ -1,0 +1,85 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,1,data,,Kolhāpur,2,Area in square miles.,"2,855",2855.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,1,data,,Kolhāpur,3,Population in 1901.,"910,011, chiefly Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,1,data,,Kolhāpur,4,Approximate revenue (in lakhs of rupees).,48,48.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,1,data,,Kolhāpur,5,"Title, race, and religion of Ruler.","Mahārājā, Kshattriya : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,1,data,,Kolhāpur,6,Salute of Ruler in guns.,19,19.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,1,data,,Kolhāpur,7,Designation of local Political Officer.,Political Agent for Kolhāpur.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,2,data,,Cutch,2,Area in square miles.,"7,616",7616.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,2,data,,Cutch,3,Population in 1901.,"488,022 „",488022.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,2,data,,Cutch,4,Approximate revenue (in lakhs of rupees).,20,20.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,2,data,,Cutch,5,"Title, race, and religion of Ruler.","Mahārao, Jādeja Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,2,data,,Cutch,6,Salute of Ruler in guns.,17,17.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,2,data,,Cutch,7,Designation of local Political Officer.,Political Agent in Cutch.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,3,data,,Khairpur,2,Area in square miles.,"6,050",6050.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,3,data,,Khairpur,3,Population in 1901.,"199,313, chiefly Muhammadans.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,3,data,,Khairpur,4,Approximate revenue (in lakhs of rupees).,13,13.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,3,data,,Khairpur,5,"Title, race, and religion of Ruler.","Mīr, Tālpur Baloch : Muhammadan.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,3,data,,Khairpur,6,Salute of Ruler in guns.,15,15.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,3,data,,Khairpur,7,Designation of local Political Officer.,Political Agent for Khairpur.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,4,data,,Idar,2,Area in square miles.,"1,900",1900.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,4,data,,Idar,3,Population in 1901.,"168,557, chiefly Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,4,data,,Idar,4,Approximate revenue (in lakhs of rupees).,5,5.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,4,data,,Idar,5,"Title, race, and religion of Ruler.","Mahārājā, Rāthor Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,4,data,,Idar,6,Salute of Ruler in guns.,15,15.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,4,data,,Idar,7,Designation of local Political Officer.,Political Agent for Mahi Kāntha.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,5,data,,Bhaunagar,2,Area in square miles.,"2,860",2860.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,5,data,,Bhaunagar,3,Population in 1901.,"412,664 „",412664.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,5,data,,Bhaunagar,4,Approximate revenue (in lakhs of rupees).,30,30.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,5,data,,Bhaunagar,5,"Title, race, and religion of Ruler.","Thākur Sāhib, Gohel Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,5,data,,Bhaunagar,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,5,data,,Bhaunagar,7,Designation of local Political Officer.,Agent to the Governor in Kāthiāwār.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,6,data,,Junāgarh,2,Area in square miles.,"3,284",3284.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,6,data,,Junāgarh,3,Population in 1901.,"395,428 „",395428.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,6,data,,Junāgarh,4,Approximate revenue (in lakhs of rupees).,27,27.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,6,data,,Junāgarh,5,"Title, race, and religion of Ruler.","Nawāb, Pathān : Muhammadan.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,6,data,,Junāgarh,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,6,data,,Junāgarh,7,Designation of local Political Officer.,„ „,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,7,data,,Navānagar,2,Area in square miles.,"3,791",3791.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,7,data,,Navānagar,3,Population in 1901.,"336,779 „",336779.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,7,data,,Navānagar,4,Approximate revenue (in lakhs of rupees).,31,31.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,7,data,,Navānagar,5,"Title, race, and religion of Ruler.","Jām, Jādeja Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,7,data,,Navānagar,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,7,data,,Navānagar,7,Designation of local Political Officer.,„ „,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,8,data,,Pālanpur,2,Area in square miles.,"3,177",3177.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,8,data,,Pālanpur,3,Population in 1901.,"222,627 „",222627.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,8,data,,Pālanpur,4,Approximate revenue (in lakhs of rupees).,7,7.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,8,data,,Pālanpur,5,"Title, race, and religion of Ruler.","Dīwān, Pathān : Muhammadan.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,8,data,,Pālanpur,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,8,data,,Pālanpur,7,Designation of local Political Officer.,Political Agent for Pālanpur.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,9,data,,Gondal,2,Area in square miles.,"1,024",1024.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,9,data,,Gondal,3,Population in 1901.,"162,859 „",162859.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,9,data,,Gondal,4,Approximate revenue (in lakhs of rupees).,19,19.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,9,data,,Gondal,5,"Title, race, and religion of Ruler.","Thākur Sāhib, Jādeja Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,9,data,,Gondal,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,9,data,,Gondal,7,Designation of local Political Officer.,Agent to the Governor in Kāthiāwār.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,10,data,,Rājpīpla,2,Area in square miles.,"1,514",1514.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,10,data,,Rājpīpla,3,Population in 1901.,"117,175 „",117175.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,10,data,,Rājpīpla,4,Approximate revenue (in lakhs of rupees).,7,7.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,10,data,,Rājpīpla,5,"Title, race, and religion of Ruler.","Mahārānā, Gohel Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,10,data,,Rājpīpla,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,10,data,,Rājpīpla,7,Designation of local Political Officer.,"Political Agent, Rewā Kāntha.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,11,data,,Bhor,2,Area in square miles.,"1,491",1491.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,11,data,,Bhor,3,Population in 1901.,"137,268 „",137268.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,11,data,,Bhor,4,Approximate revenue (in lakhs of rupees).,5,5.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,11,data,,Bhor,5,"Title, race, and religion of Ruler.","Pant Sachiv, Brāhman : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,11,data,,Bhor,6,Salute of Ruler in guns.,9 (personal to the present chief),,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,11,data,,Bhor,7,Designation of local Political Officer.,Collector of Poona (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,12,data,,Sāngli,2,Area in square miles.,"1,112",1112.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,12,data,,Sāngli,3,Population in 1901.,"226,128 „",226128.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,12,data,,Sāngli,4,Approximate revenue (in lakhs of rupees).,9,9.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,12,data,,Sāngli,5,"Title, race, and religion of Ruler.","Thākur, Brāhman : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,12,data,,Sāngli,6,Salute of Ruler in guns.,Nil,0.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,12,data,,Sāngli,7,Designation of local Political Officer.,Political Agent for the Southern Marāthā Country.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,13,data,,342 Minor States,2,Area in square miles.,"29,087",29087.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,13,data,,342 Minor States,3,Population in 1901.,"3,131,817",3131817.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,13,data,,342 Minor States,4,Approximate revenue (in lakhs of rupees).,"1,99",199.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,13,data,,342 Minor States,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,13,data,,342 Minor States,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,13,data,,342 Minor States,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,14,total,,TOTAL,2,Area in square miles.,"65,761",65761.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,14,total,,TOTAL,3,Population in 1901.,"6,908,648",6908648.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,14,total,,TOTAL,4,Approximate revenue (in lakhs of rupees).,"4,20",420.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,14,total,,TOTAL,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,14,total,,TOTAL,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-009,(b) Bombay (354 States),135,97,14,total,,TOTAL,7,Designation of local Political Officer.,,,,True,True

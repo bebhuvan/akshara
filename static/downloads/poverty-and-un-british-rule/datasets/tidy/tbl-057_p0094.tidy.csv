@@ -1,7 +1,7 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,1,data,,Present fortnight,2,Seers.,7·4,,seers,False,False
+poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,1,data,,Present fortnight,2,Seers.,7·4,7.4,seers,False,False
 poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,1,data,,Present fortnight,3,Column 3,= 16·28 lbs. less than 14s. per cwt.,,lbs,False,False
-poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,2,data,,Previous „,2,Seers.,6·8,,seers,False,False
+poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,2,data,,Previous „,2,Seers.,6·8,6.8,seers,False,False
 poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,2,data,,Previous „,3,Column 3,= 15 „ „ 15s. „,,lbs,False,False
 poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,3,data,,"Rice, Common",2,Seers.,10,10.0,seers,False,False
 poverty-and-un-british-rule,tbl-057,"Rice, best sort.",94,74,3,data,,"Rice, Common",3,Column 3,= 22 „ „ 10s. „,,lbs,False,False

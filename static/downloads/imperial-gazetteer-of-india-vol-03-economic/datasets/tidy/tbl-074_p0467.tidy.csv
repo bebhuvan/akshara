@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,1,data,,"Chief Officers of the Offices of Direction and Account, and Heads of Circles",2,Column 2,25,25.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,2,data,,"Superintendents, Assistant Superintendents, and Inspectors of Post Offices",2,Column 2,536,536.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,3,data,,"Departmental Postmasters, including Deputies and Assistants",2,Column 2,"6,229",6229.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,4,data,,"Extraneous Agents, such as Schoolmasters and Stationmasters, holding the appointment of Postmaster",2,Column 2,"9,371",9371.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,5,data,,Clerks,2,Column 2,"10,222",10222.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,6,data,,Postmen and other Servants,2,Column 2,"19,831",19831.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,7,data,,Road Establishment,2,Column 2,"20,419",20419.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,8,data,,Village Postmen,2,Column 2,"8,242",8242.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,9,data,,Signallers and other Servants employed for telegraph work in combined Offices,2,Column 2,"2,715",2715.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-074,Table 74,467,425,10,total,,Total,2,Column 2,"77,590",77590.0,,False,True

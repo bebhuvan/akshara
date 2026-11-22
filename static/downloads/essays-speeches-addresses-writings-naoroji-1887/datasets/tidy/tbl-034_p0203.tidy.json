@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "20·0",
-    "value_numeric": null,
+    "value_numeric": 20.0,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -48,7 +48,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "16·0",
-    "value_numeric": null,
+    "value_numeric": 16.0,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -66,7 +66,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "6·0",
-    "value_numeric": null,
+    "value_numeric": 6.0,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -102,7 +102,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "4·6",
-    "value_numeric": null,
+    "value_numeric": 4.6,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "2·5",
-    "value_numeric": null,
+    "value_numeric": 2.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -156,7 +156,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "2·5",
-    "value_numeric": null,
+    "value_numeric": 2.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "4·27",
-    "value_numeric": null,
+    "value_numeric": 4.27,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -210,7 +210,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "4·27",
-    "value_numeric": null,
+    "value_numeric": 4.27,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -228,7 +228,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "1·0",
-    "value_numeric": null,
+    "value_numeric": 1.0,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -264,7 +264,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "1·5",
-    "value_numeric": null,
+    "value_numeric": 1.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -282,7 +282,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "0·5",
-    "value_numeric": null,
+    "value_numeric": 0.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -318,7 +318,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "0·5",
-    "value_numeric": null,
+    "value_numeric": 0.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -336,7 +336,7 @@
     "column_index": 2,
     "column_header": "Rice Diet for One Man. :: ozs.",
     "raw_text": "1·0",
-    "value_numeric": null,
+    "value_numeric": 1.0,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -372,7 +372,7 @@
     "column_index": 4,
     "column_header": "For Flour Diet. :: ozs.",
     "raw_text": "1·0",
-    "value_numeric": null,
+    "value_numeric": 1.0,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

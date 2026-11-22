@@ -1,9 +1,9 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,1,data,,In comfort,2,Non-agricultural.,49½,49.5,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,1,data,,In comfort,3,Column 3,47,47.0,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,2,data,,Below comfort,2,Non-agricultural.,28½,28.5,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,2,data,,Below comfort,3,Column 3,27,27.0,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,3,data,,Above want,2,Non-agricultural.,18,18.0,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,3,data,,Above want,3,Column 3,20,20.0,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,4,data,,In want,2,Non-agricultural.,4,4.0,,False,False
-economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,4,data,,In want,3,Column 3,5½,5.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,1,data,,In comfort,2,Agricultural.,49½,49.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,1,data,,In comfort,3,Non-agricultural.,47,47.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,2,data,,Below comfort,2,Agricultural.,28½,28.5,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,2,data,,Below comfort,3,Non-agricultural.,27,27.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,3,data,,Above want,2,Agricultural.,18,18.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,3,data,,Above want,3,Non-agricultural.,20,20.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,4,data,,In want,2,Agricultural.,4,4.0,,False,False
+economic-life-bengal-district-faridpur-1916,tbl-004,Percentages of the population classified as—,97,93,4,data,,In want,3,Non-agricultural.,5½,5.5,,False,False

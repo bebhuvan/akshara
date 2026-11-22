@@ -1,0 +1,97 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,1,data,,Apparel,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,1,data,,Apparel,3,Value. :: Rs.,"2,23,99,627",22399627.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,2,data,,"Arms, Ammunition, &c",2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,2,data,,"Arms, Ammunition, &c",3,Value. :: Rs.,"28,17,214",2817214.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,3,data,,"Books, Paper, and Stationery",2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,3,data,,"Books, Paper, and Stationery",3,Value. :: Rs.,"1,30,32,023",13032023.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,4,data,,"Coal, Coke, &c. . . . tons",2,Quantity.,"259,393",259393.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,4,data,,"Coal, Coke, &c. . . . tons",3,Value. :: Rs.,"44,46,447",4446447.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,5,data,,Cotton (Raw) . . . cwt,2,Quantity.,"192,554",192554.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,5,data,,Cotton (Raw) . . . cwt,3,Value. :: Rs.,"63,85,391",6385391.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,6,data,,Cotton Twist and Yarn . lb,2,Quantity.,"30,575,855",30575855.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,6,data,,Cotton Twist and Yarn . lb,3,Value. :: Rs.,"2,48,76,477",24876477.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,7,data,,Cotton Piece-goods and Manufactures . . . . yds,2,Quantity.,"2,290,111,360",2290111360.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,7,data,,Cotton Piece-goods and Manufactures . . . . yds,3,Value. :: Rs.,"33,78,40,827",337840827.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,8,subtotal,,Total Cotton and Cotton Goods,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,8,subtotal,,Total Cotton and Cotton Goods,3,Value. :: Rs.,"38,68,53,502",386853502.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,9,data,,Drugs and Medicines,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,9,data,,Drugs and Medicines,3,Value. :: Rs.,"70,73,921",7073921.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,10,data,,Dyes,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,10,data,,Dyes,3,Value. :: Rs.,"92,68,005",9268005.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,11,data,,Fruits and Vegetables,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,11,data,,Fruits and Vegetables,3,Value. :: Rs.,"8,42,954",842954.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,12,data,,"Glass, and Manufactures of",2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,12,data,,"Glass, and Manufactures of",3,Value. :: Rs.,"1,12,57,101",11257101.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,13,data,,Gums and Resins . . cwt,2,Quantity.,"132,766",132766.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,13,data,,Gums and Resins . . cwt,3,Value. :: Rs.,"16,39,712",1639712.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,14,data,,"Hardware, Cutlery, and Plate",2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,14,data,,"Hardware, Cutlery, and Plate",3,Value. :: Rs.,"2,39,59,612",23959612.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,15,data,,Hides and Leather,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,15,data,,Hides and Leather,3,Value. :: Rs.,"46,60,669",4660669.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,16,data,,Horses . . . No,2,Quantity.,"14,389",14389.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,16,data,,Horses . . . No,3,Value. :: Rs.,"55,47,939",5547939.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,17,data,,Instruments and Appliances,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,17,data,,Instruments and Appliances,3,Value. :: Rs.,"74,39,671",7439671.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,18,data,,Ivory,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,18,data,,Ivory,3,Value. :: Rs.,"18,60,242",1860242.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,19,data,,Jewellery and Precious Stones,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,19,data,,Jewellery and Precious Stones,3,Value. :: Rs.,"1,05,24,233",10524233.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,21,data,Liquors—,"Ale, Beer, and Porter . gals",2,Quantity.,"4,607,530",4607530.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,21,data,Liquors—,"Ale, Beer, and Porter . gals",3,Value. :: Rs.,"60,41,973",6041973.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,22,data,Liquors—,"Spirits . . . """,2,Quantity.,"1,459,329",1459329.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,22,data,Liquors—,"Spirits . . . """,3,Value. :: Rs.,"98,80,154",9880154.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,23,data,Liquors—,"Wines and Liquors . """,2,Quantity.,"333,678",333678.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,23,data,Liquors—,"Wines and Liquors . """,3,Value. :: Rs.,"27,98,113",2798113.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,24,subtotal,,"Total Liquors . """,2,Quantity.,"6,406,556",6406556.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,24,subtotal,,"Total Liquors . """,3,Value. :: Rs.,"1,87,39,733",18739733.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,25,data,Liquors—,Machinery and Millwork,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,25,data,Liquors—,Machinery and Millwork,3,Value. :: Rs.,"4,02,72,419",40272419.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,26,data,Liquors—,Matches,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,26,data,Liquors—,Matches,3,Value. :: Rs.,"48,95,283",4895283.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,28,data,Metals—,Iron . tons,2,Quantity.,"257,580",257580.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,28,data,Metals—,Iron . tons,3,Value. :: Rs.,"3,81,38,342",38138342.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,29,data,Metals—,"Steel . """,2,Quantity.,"211,581",211581.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,29,data,Metals—,"Steel . """,3,Value. :: Rs.,"2,34,03,379",23403379.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,30,data,Metals—,Brass . cwt,2,Quantity.,"9,810",9810.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,30,data,Metals—,Brass . cwt,3,Value. :: Rs.,"5,76,181",576181.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,31,data,Metals—,"Copper . """,2,Quantity.,"427,233",427233.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,31,data,Metals—,"Copper . """,3,Value. :: Rs.,"2,10,89,527",21089527.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,32,data,Metals—,"Spelter . """,2,Quantity.,"82,903",82903.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,32,data,Metals—,"Spelter . """,3,Value. :: Rs.,"14,62,450",1462450.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,33,data,Metals—,"Tin . """,2,Quantity.,"39,323",39323.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,33,data,Metals—,"Tin . """,3,Value. :: Rs.,"39,36,023",3936023.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,34,data,Metals—,"German Silver . """,2,Quantity.,"22,735",22735.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,34,data,Metals—,"German Silver . """,3,Value. :: Rs.,"19,17,623",1917623.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,35,data,Metals—,"Lead . """,2,Quantity.,"134,057",134057.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,35,data,Metals—,"Lead . """,3,Value. :: Rs.,"18,40,581",1840581.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,36,data,Metals—,Quicksilver . lb,2,Quantity.,"238,562",238562.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,36,data,Metals—,Quicksilver . lb,3,Value. :: Rs.,"3,90,757",390757.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,37,data,Metals—,Unenumerated . cwt,2,Quantity.,"15,975",15975.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,37,data,Metals—,Unenumerated . cwt,3,Value. :: Rs.,"7,20,744",720744.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,38,subtotal,,Total Metals . tons,2,Quantity.,"505,869",505869.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,38,subtotal,,Total Metals . tons,3,Value. :: Rs.,"9,34,75,607",93475607.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,39,data,Metals—,Kerosene . gals,2,Quantity.,"76,190,067",76190067.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,39,data,Metals—,Kerosene . gals,3,Value. :: Rs.,"2,92,99,466",29299466.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,40,data,Metals—,"Other Oils . """,2,Quantity.,"8,505,135",8505135.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,40,data,Metals—,"Other Oils . """,3,Value. :: Rs.,"51,75,603",5175603.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,41,data,Metals—,Paints and Colours,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,41,data,Metals—,Paints and Colours,3,Value. :: Rs.,"46,91,972",4691972.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,42,data,Metals—,Perfumery,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,42,data,Metals—,Perfumery,3,Value. :: Rs.,"2,82,401",282401.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,43,data,Metals—,Porcelain and Earthenware,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,43,data,Metals—,Porcelain and Earthenware,3,Value. :: Rs.,"29,31,813",2931813.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,44,data,Metals—,Provisions,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,44,data,Metals—,Provisions,3,Value. :: Rs.,"2,16,57,985",21657985.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,45,data,Metals—,Railway Plant and Rolling-stock,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,45,data,Metals—,Railway Plant and Rolling-stock,3,Value. :: Rs.,"1,40,96,585",14096585.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,46,data,Metals—,Salt . tons,2,Quantity.,"486,980",486980.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,46,data,Metals—,Salt . tons,3,Value. :: Rs.,"71,12,979",7112979.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,47,data,Metals—,"Ships, parts of",2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,47,data,Metals—,"Ships, parts of",3,Value. :: Rs.,"24,98,000",2498000.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,48,data,Metals—,Silk (Raw) . . lb,2,Quantity.,"1,858,709",1858709.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,48,data,Metals—,Silk (Raw) . . lb,3,Value. :: Rs.,"73,41,121",7341121.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,49,data,Metals—,Silk Manufactures . yds,2,Quantity.,"24,857,200",24857200.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,49,data,Metals—,Silk Manufactures . yds,3,Value. :: Rs.,"1,68,59,676",16859676.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,50,subtotal,,Total Silk and Silk Goods,2,Quantity.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-048,"Foreign Sea-borne Trade (Imports) of British India, 1904–5",350,308,50,subtotal,,Total Silk and Silk Goods,3,Value. :: Rs.,"2,85,22,623",28522623.0,Rs,False,False

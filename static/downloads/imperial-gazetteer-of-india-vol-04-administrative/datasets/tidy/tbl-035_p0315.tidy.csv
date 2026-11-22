@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,1,data,,Collections,2,1886-7.,"1,36",136.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,1,data,,Collections,3,1890-1.,"1,62",162.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,1,data,,Collections,4,1895-6.,"1,83",183.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,1,data,,Collections,5,1900-1.,"1,98",198.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,1,data,,Collections,6,1902-3.,"2,12",212.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,2,data,,Charges,2,1886-7.,8,8.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,2,data,,Charges,3,1890-1.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,2,data,,Charges,4,1895-6.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,2,data,,Charges,5,1900-1.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,2,data,,Charges,6,1902-3.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,3,data,,Net collections,2,1886-7.,"1,28",128.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,3,data,,Net collections,3,1890-1.,"1,57",157.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,3,data,,Net collections,4,1895-6.,"1,79",179.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,3,data,,Net collections,5,1900-1.,"1,94",194.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-035,Table V. Assessed Taxes. (Income Tax) (In lakhs of rupees),315,277,3,data,,Net collections,6,1902-3.,"2,07",207.0,,False,False

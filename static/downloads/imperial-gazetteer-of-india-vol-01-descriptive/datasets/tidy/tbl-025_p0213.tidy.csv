@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-025,Table 25,213,175,1,data,,"Astragalus E. 6/W. 22,",2,Column 2,"Caragana E. 1/W. 6,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-025,Table 25,213,175,1,data,,"Astragalus E. 6/W. 22,",3,Column 3,"Tanacetum E. 2/W. 11,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-025,Table 25,213,175,2,data,,"Artemisia E. 4/W. 11,",2,Column 2,"Saussurea E. 13/W. 20,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-025,Table 25,213,175,2,data,,"Artemisia E. 4/W. 11,",3,Column 3,"Nepeta E. 2/W. 7,",,,False,False

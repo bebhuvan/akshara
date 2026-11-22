@@ -1,0 +1,66 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,2,data,Primary Schools,Institutions,2,1860-1.,"5,450",5450.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,2,data,Primary Schools,Institutions,3,1870-1.,"15,921",15921.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,2,data,Primary Schools,Institutions,4,1881-2.,"86,269",86269.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,2,data,Primary Schools,Institutions,5,1891-2.,"97,109",97109.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,2,data,Primary Schools,Institutions,6,1901-2.,"97,854",97854.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,3,data,Primary Schools,Scholars,2,1860-1.,"201,245",201245.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,3,data,Primary Schools,Scholars,3,1870-1.,"517,574",517574.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,3,data,Primary Schools,Scholars,4,1881-2.,"2,156,242",2156242.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,3,data,Primary Schools,Scholars,5,1891-2.,"2,837,607",2837607.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,3,data,Primary Schools,Scholars,6,1901-2.,"3,204,336",3204336.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,5,data,Secondary Schools,Institutions,2,1860-1.,142,142.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,5,data,Secondary Schools,Institutions,3,1870-1.,"3,146",3146.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,5,data,Secondary Schools,Institutions,4,1881-2.,"4,122",4122.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,5,data,Secondary Schools,Institutions,5,1891-2.,"4,872",4872.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,5,data,Secondary Schools,Institutions,6,1901-2.,"5,493",5493.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,6,data,Secondary Schools,Scholars,2,1860-1.,"23,165",23165.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,6,data,Secondary Schools,Scholars,3,1870-1.,"206,300",206300.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,6,data,Secondary Schools,Scholars,4,1881-2.,"222,097",222097.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,6,data,Secondary Schools,Scholars,5,1891-2.,"473,294",473294.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,6,data,Secondary Schools,Scholars,6,1901-2.,"622,768",622768.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,8,data,Arts Colleges (including Oriental Colleges),Institutions,2,1860-1.,17,17.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,8,data,Arts Colleges (including Oriental Colleges),Institutions,3,1870-1.,44,44.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,8,data,Arts Colleges (including Oriental Colleges),Institutions,4,1881-2.,67,67.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,8,data,Arts Colleges (including Oriental Colleges),Institutions,5,1891-2.,104,104.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,8,data,Arts Colleges (including Oriental Colleges),Institutions,6,1901-2.,145,145.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,9,data,Arts Colleges (including Oriental Colleges),Scholars,2,1860-1.,"3,182",3182.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,9,data,Arts Colleges (including Oriental Colleges),Scholars,3,1870-1.,"3,994",3994.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,9,data,Arts Colleges (including Oriental Colleges),Scholars,4,1881-2.,"6,037",6037.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,9,data,Arts Colleges (including Oriental Colleges),Scholars,5,1891-2.,"12,985",12985.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,9,data,Arts Colleges (including Oriental Colleges),Scholars,6,1901-2.,"17,651",17651.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,11,data,Schools for Special Instruction,Institutions,2,1860-1.,26,26.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,11,data,Schools for Special Instruction,Institutions,3,1870-1.,104,104.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,11,data,Schools for Special Instruction,Institutions,4,1881-2.,238,238.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,11,data,Schools for Special Instruction,Institutions,5,1891-2.,554,554.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,11,data,Schools for Special Instruction,Institutions,6,1901-2.,"1,084",1084.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,12,data,Schools for Special Instruction,Scholars,2,1860-1.,"1,937",1937.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,12,data,Schools for Special Instruction,Scholars,3,1870-1.,"4,346",4346.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,12,data,Schools for Special Instruction,Scholars,4,1881-2.,"9,150",9150.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,12,data,Schools for Special Instruction,Scholars,5,1891-2.,"21,7 2",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,12,data,Schools for Special Instruction,Scholars,6,1901-2.,"36,380",36380.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,14,data,Colleges for Professional Training,Institutions,2,1860-1.,8,8.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,14,data,Colleges for Professional Training,Institutions,3,1870-1.,19,19.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,14,data,Colleges for Professional Training,Institutions,4,1881-2.,18,18.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,14,data,Colleges for Professional Training,Institutions,5,1891-2.,37,37.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,14,data,Colleges for Professional Training,Institutions,6,1901-2.,46,46.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,15,data,Colleges for Professional Training,Scholars,2,1860-1.,679,679.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,15,data,Colleges for Professional Training,Scholars,3,1870-1.,"2,126",2126.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,15,data,Colleges for Professional Training,Scholars,4,1881-2.,"1,545",1545.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,15,data,Colleges for Professional Training,Scholars,5,1891-2.,"3,292",3292.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,15,data,Colleges for Professional Training,Scholars,6,1901-2.,"5,358",5358.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,17,subtotal,,Institutions,2,1860-1.,"5,643",5643.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,17,subtotal,,Institutions,3,1870-1.,"19,234",19234.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,17,subtotal,,Institutions,4,1881-2.,"90,714",90714.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,17,subtotal,,Institutions,5,1891-2.,"102,676",102676.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,17,subtotal,,Institutions,6,1901-2.,"104,622",104622.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,18,subtotal,,Scholars,2,1860-1.,"230,208",230208.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,18,subtotal,,Scholars,3,1870-1.,"734,340",734340.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,18,subtotal,,Scholars,4,1881-2.,"2,395,071",2395071.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,18,subtotal,,Scholars,5,1891-2.,"3,348,910",3348910.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,18,subtotal,,Scholars,6,1901-2.,"3,886,493",3886493.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,19,data,Total,Expenditure on Education (in thousands of rupees),2,1860-1.,"35,94",3594.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,19,data,Total,Expenditure on Education (in thousands of rupees),3,1870-1.,"1,21,15",12115.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,19,data,Total,Expenditure on Education (in thousands of rupees),4,1881-2.,"1,87,50",18750.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,19,data,Total,Expenditure on Education (in thousands of rupees),5,1891-2.,"3,05,20",30520.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-055,STATISTICS OF PUBLIC INSTRUCTION,494,456,19,data,Total,Expenditure on Education (in thousands of rupees),6,1901-2.,"4,01,21",40121.0,,False,False

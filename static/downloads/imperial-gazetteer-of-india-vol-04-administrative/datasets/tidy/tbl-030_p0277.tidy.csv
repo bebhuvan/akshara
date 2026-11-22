@@ -1,0 +1,127 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,2,Land revenue assessed per head of population. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,8,8.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,6,6.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,2,2.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,5,5.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,9,a.,14,14.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,1,data,,Upper Burma,10,p.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,2,Land revenue assessed per head of population. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,12,12.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,0,0.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,0,0.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,4,4.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,9,a.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,2,data,,Lower Burma,10,p.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,2,Land revenue assessed per head of population. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,1,1.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,3,3.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,13,13.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,3,3.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,9,a.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,3,data,,Assam,10,p.,6,6.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,2,Land revenue assessed per head of population. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,8,8.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,11,11.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,7,7.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,4,4.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,9,a.,12,12.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,4,data,,Bengal,10,p.,7,7.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,2,Land revenue assessed per head of population. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,5,5.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,5,5.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,2,2.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,1,1.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,9,a.,0,0.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,5,data,,Agra,10,p.,2,2.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,2,Land revenue assessed per head of population. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,3,3.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,6,6.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,1,1.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,8,8.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,9,a.,15,15.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,6,data,,Oudh,10,p.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,2,Land revenue assessed per head of population. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,13,13.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,1,1.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,7,7.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,1,1.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,9,a.,3,3.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,7,data,,Ajmer,10,p.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,2,Land revenue assessed per head of population. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,4,4.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,6,6.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,8,8.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,9,9.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,9,a.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,8,data,,Punjab,10,p.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,2,Land revenue assessed per head of population. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,14,14.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,2,2.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,5,5.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,3,3.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,9,a.,8,8.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,9,data,,Sind,10,p.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,2,Land revenue assessed per head of population. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,0,0.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,4,4.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,0,0.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,7,7.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,9,a.,9,9.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,10,data,,Bombay,10,p.,10,10.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,2,Land revenue assessed per head of population. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,12,12.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,11,11.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,4,4.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,6,6.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,0,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,9,a.,10,10.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,11,data,,Central Provinces,10,p.,1,1.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,2,Land revenue assessed per head of population. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,9,9.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,10,10.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,0,0.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,3,3.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,9,a.,3,3.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,12,data,,Berār,10,p.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,2,Land revenue assessed per head of population. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,9,9.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,5,5.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,2,2.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,2,2.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,9,a.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,13,data,,Madras,10,p.,11,11.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,2,Land revenue assessed per head of population. :: Rs.,2,2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,3,Incidence per acre of revenue in fully assessed area . :: For total area. :: a.,0,0.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,4,Incidence per acre of revenue in fully assessed area . :: For total area. :: p.,8,8.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,5,Incidence per acre of revenue in fully assessed area . :: For total area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,6,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: a.,2,2.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,7,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: p.,11,11.0,acres,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,8,Incidence per acre of revenue in fully assessed area . :: For cultivated area. :: Rs.,1,1.0,Rs,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,9,a.,4,4.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-030,Table 30,277,239,14,data,,Coorg,10,p.,11,11.0,,False,False

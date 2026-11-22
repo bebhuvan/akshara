@@ -79,7 +79,7 @@
             <p><hi rend="smallcaps">by</hi></p>
             <p>WILLIAM FOSTER, C.I.E.,</p>
             <p><hi rend="italic">Registrar and Superintendent of Records</hi>.</p>
-            <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0003.webp"/><head>Royal coat of arms of the United Kingdom featuring the lion and unicorn supporting the shield, surmounted by a crown and crest, with mottoes 'Honi soit qui mal y pense' and 'Dieu et mon droit'.</head><figDesc>Royal coat of arms of the United Kingdom featuring the lion and unicorn supporting the shield, surmounted by a crown and crest, with mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
+            <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0003.webp"/><figDesc>Royal coat of arms of the United Kingdom featuring the lion and unicorn supporting the shield, surmounted by a crown and crest, with mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">London</hi>:</head>
               <p rend="imprint">PRINTED FOR THE INDIA OFFICE,
@@ -102,7 +102,7 @@
           <div type="subsection" n="h2">
             <head>1600–1858.</head>
             <p><hi rend="smallcaps">BY</hi> WILLIAM FOSTER, C.I.E., <hi rend="italic">Registrar and Superintendent of Records.</hi></p>
-            <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0007.webp"/><head>Royal coat of arms of the United Kingdom with the mottoes 'Honi soit qui mal y pense' and 'Dieu et mon droit'.</head><figDesc>Royal coat of arms of the United Kingdom with the mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
+            <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0007.webp"/><figDesc>Royal coat of arms of the United Kingdom with the mottoes &#x27;Honi soit qui mal y pense&#x27; and &#x27;Dieu et mon droit&#x27;.</figDesc></figure>
             <p rend="imprint">LONDON:
 PRINTED FOR THE INDIA OFFICE,
 <hi rend="smallcaps">BY EYRE AND SPOTTISWOODE, LTD.,
@@ -239,7 +239,28 @@ Service, 121.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">court minutes.</hi></head>
             <p>The following is a synopsis of the series, which includes, it will be seen, various volumes not strictly conforming to its title, though sufficiently related to justify the arrangement. There are several gaps in the earlier part of the series:—</p>
-            <p>1. — 22 Sept. 1599–10 Aug. 1603.</p>
+            <table xml:id="tbl-001" rows="20" cols="2">
+        <row role="data"><cell rend="num">1.</cell><cell>22 Sept. 1599–10 Aug. 1603.</cell></row>
+        <row role="data"><cell>1<hi rend="smallcaps">a</hi>.</cell><cell>1600–19. “Miscellaneous Court Book.”<ref xml:id="ref-sec-04-fn-001" type="noteref" target="#sec-04-fn-001">*</ref></cell></row>
+        <row role="data"><cell rend="num">2.</cell><cell>31 Dec. 1606–26 Jan. 1610.</cell></row>
+        <row role="data"><cell>2<hi rend="smallcaps">a</hi>.</cell><cell>1 March 1611–4 May 1620. Fourth Voyage only.</cell></row>
+        <row role="data"><cell rend="num">3.</cell><cell>— Dec. 1613–10 Nov. 1615.</cell></row>
+        <row role="data"><cell rend="num">4.</cell><cell>19 Sept. 1617–4 April 1620.</cell></row>
+        <row role="data"><cell rend="num">5.</cell><cell>4 July 1621–2 July 1622.</cell></row>
+        <row role="data"><cell>6–11.</cell><cell>2 July 1623–3 July 1629.</cell></row>
+        <row role="data"><cell rend="num">12.</cell><cell>2 July 1630–16 July 1631.</cell></row>
+        <row role="data"><cell>13–16.</cell><cell>4 July 1632–5 July 1637.</cell></row>
+        <row role="data"><cell>17–19.</cell><cell>5 July 1639–30 June 1646.</cell></row>
+        <row role="data"><cell rend="num">20.</cell><cell>1 July 1646–2 July 1650. First General Voyage and Fourth Joint Stock.</cell></row>
+        <row role="data"><cell rend="num">21.</cell><cell>3 July 1650–23 May 1663. Fourth Joint Stock.</cell></row>
+        <row role="data"><cell rend="num">22.</cell><cell>18 Aug. 1647–4 Jan. 1650. Second General Voyage.</cell></row>
+        <row role="data"><cell rend="num">23.</cell><cell>3 July 1650–7 April 1669. United Joint Stock.</cell></row>
+        <row role="data"><cell rend="num">24.</cell><cell>19 Oct. 1657–14 April 1665. New General Stock.</cell></row>
+        <row role="data"><cell>24<hi rend="smallcaps">a</hi>.</cell><cell>Index to vol. 24.</cell></row>
+        <row role="data"><cell>25–40.</cell><cell>14 April 1665–22 March 1709. Old Company.</cell></row>
+        <row role="data"><cell>25<hi rend="smallcaps">a</hi>.</cell><cell>1666–1680. Committee Minutes, Accounts, &amp;c.</cell></row>
+        <row role="data"><cell>37<hi rend="smallcaps">a</hi>.</cell><cell>7 Sept. 1698–20 June 1699. New Company.</cell></row>
+      </table>
             <pb xml:id="page-23" n="3" facs="https://archive.org/download/guidetoindiaoffi00greauoft/page/n22_w1400.jpg"/>
             <p>39<hi rend="smallcaps">A</hi>. 21 July 1704–8 Jan. 1708. New Company. 41, 42. 31 July 1702–23 April 1708. Court of Managers.<ref xml:id="ref-sec-04-fn-002" type="noteref" target="#sec-04-fn-002">*</ref> 43. { 1 May 1708–18 March 1709. Court of Managers. 43. { 23 March 1709–17 April 1710. United Company. 43<hi rend="smallcaps">A</hi>. 1706–1708. Papers relating to the Union. 44–191. 18 April 1710–1 Sept. 1858. United Company.</p>
             <p>With these should be mentioned a broken series of <hi rend="italic">Court Minutes: Rough Notes</hi>, containing copies and extracts (a few from volumes missing in the general series). They are in six volumes, viz. :—17 Oct. 1621–23 Dec. 1657, 25 April 1690– 25 April 1694, 8 Nov. 1700–30 Nov. 1705 (Old Company), 17 Nov. 1702 to 25 May 1709 (Court of Managers, two vols.), and 19 April 1709–5 April 1715.</p>
@@ -347,7 +368,7 @@ Service, 121.</p>
             </div>
             <div type="subsection" n="h3">
               <head>REPORTS.</head>
-              <table xml:id="tbl-001" rows="7" cols="2">
+              <table xml:id="tbl-002" rows="7" cols="2">
           <head>REPORTS.</head>
           <row role="data"><cell>1–10.</cell><cell>1819–35 (indexed).</cell></row>
           <row role="data"><cell>11–16.</cell><cell>Missing.</cell></row>
@@ -1209,7 +1230,7 @@ Service, 121.</p>
           <div type="subsection" n="h2">
             <head>HOME MISCELLANEOUS.</head>
             <p>A very heterogeneous series, ranging over the whole history of the Company, and including many papers originating in the East. Notable sections are:—a series of transcripts from records relating to Bombay, 1662–98 (vols. 48–56); the <hi rend="italic">East Indies</hi> series, comprising original letters from India, 1748–85, with a general index (vols. 93–190<hi rend="smallcaps">A</hi>); the administration of Warren Hastings (vols. 212–221); his impeachment (vols. 228– 234); collections relating to Mysore (vols. 248–256), Madras (vols. 257–270), Tanjore (vols. 271–284), and Arcot (vols. 285– 331); letters to Lord Wellesley from the Governors of Madras and Bombay, 1799–1805 (vols. 457–479); papers about the Nepal War, 1814–16 (vols. 643–656), and the First Burmese War (vols. 660–680); Sir John Malcolm's correspondence (vols. 733–738). A detailed list of most of the volumes will be found at page 92 of the <hi rend="italic">List of General Records</hi>, which also contains a special index to the series. The following have been added since the publication of that list:---</p>
-            <table xml:id="tbl-002" rows="44" cols="3">
+            <table xml:id="tbl-003" rows="44" cols="3">
         <row role="data"><cell>315<hi rend="smallcaps">A</hi></cell><cell>—</cell><cell>Arcot and the Carnatic: Bonds.</cell></row>
         <row role="data"><cell>516<hi rend="smallcaps">A</hi></cell><cell>1811–18</cell><cell>The Administration of the Marquess of Hastings: Pindari and Maratha Wars, Treaties, &amp;c. (printed).</cell></row>
         <row role="data"><cell rend="num">723</cell><cell rend="num">1836</cell><cell>Draft despatch (withdrawn) on the education of Indians.</cell></row>
@@ -1256,7 +1277,7 @@ Service, 121.</p>
         <row role="data"><cell rend="num">788</cell><cell rend="num">1744</cell><cell>Transcripts of certain letters sent from and received at Fort St. George.</cell></row>
       </table>
             <p>In addition, vols. 628–642 have been removed from the collection as duplicates, and replaced by the following, which previously formed part of a series called <hi rend="italic">Treaties</hi> (see <hi rend="italic">List of General Records</hi>, p. 77) :—</p>
-            <table xml:id="tbl-003" rows="12" cols="3">
+            <table xml:id="tbl-004" rows="12" cols="3">
         <row role="data"><cell rend="num">628</cell><cell>1602–1789</cell><cell>A collection of farmans and treaties (compiled by Thomas Wilks).</cell></row>
         <row role="data"><cell rend="num">629</cell><cell>1643–1800</cell><cell>Treaties and grants, with correspondence.</cell></row>
         <row role="data"><cell rend="num">630</cell><cell>1672–1717</cell><cell>Copies of farmans, &amp;c.</cell></row>
@@ -1313,7 +1334,7 @@ Service, 121.</p>
         </div>
         <div type="notes">
     <list type="footnotes">
-      <item><note xml:id="sec-04-fn-001" place="foot" n="*" type="unlinked">This is a collection of copies of commissions, letters, and other documents of importance referred to in the Court Minutes. It was printed verbatim in 1893 under the title of <hi rend="italic">The First Letter Book of the East Indi Company</hi>, edited by Sir George Birdwood, assisted by Mr. William Foster.</note></item>
+      <item><note xml:id="sec-04-fn-001" place="foot" n="*" target="#ref-sec-04-fn-001">This is a collection of copies of commissions, letters, and other documents of importance referred to in the Court Minutes. It was printed verbatim in 1893 under the title of <hi rend="italic">The First Letter Book of the East Indi Company</hi>, edited by Sir George Birdwood, assisted by Mr. William Foster.</note></item>
       <item><note xml:id="sec-04-fn-002" place="foot" n="*" target="#ref-sec-04-fn-002">Duplicates of the Minutes of the Court of Managers from 31 July 1702 to 19 March 1708 are preserved in a separate series. <hi rend="italic">See also</hi> the series of “Court Minutes: Rough Notes,” vols. 4 and 5, as mentioned above.</note></item>
       <item><note xml:id="sec-04-fn-003" place="foot" n="*" target="#ref-sec-04-fn-003">Accounts of the proceedings of Committees are sometimes found in the early <hi rend="italic">Court Minutes</hi>. (<hi rend="italic">See also</hi> vol. 25<hi rend="smallcaps">a</hi> of that series.)</note></item>
       <item><note xml:id="sec-04-fn-004" place="foot" n="†" target="#ref-sec-04-fn-004">The regular appointment of a Committee of Secrecy began with a resolution of the Court of Directors of 27 March 1778; though, according to Auber, several Secret Committees had been nominated from time to time from 1748 onwards.</note></item>
@@ -1691,7 +1712,7 @@ Service, 121.</p>
             <head>CALCUTTA MAYOR'S COURT.</head>
             <p>A Mayor's Court was established at Calcutta in 1727 under a royal charter of the preceding year, and reconstituted by a fresh charter in 1753, which excluded from the cognizance of the court all suits and actions between Indians, unless both parties submitted them to its determination. The court was empowered to grant probates and to exercise testamentary jurisdiction. It was superseded in 1774 by the Supreme Court.</p>
             <p>The following records are preserved at the India Office (<hi rend="italic">see press list</hi>, p. 513) :—</p>
-            <table xml:id="tbl-004" rows="22" cols="2">
+            <table xml:id="tbl-005" rows="22" cols="2">
         <row role="data"><cell>Dec. 1727–Dec. 1738.</cell><cell>Court's Proceedings (Range 155, vols. 10–20).</cell></row>
         <row role="data"><cell>Jan. 1728–Dec. 1742.</cell><cell>Copies of wills proved (Range 154, vol. 40, and Range 155, vol. 9).</cell></row>
         <row role="data"><cell>Dec. 1739–Dec. 1741.</cell><cell>Court's Proceedings and copies of wills (Range 154, vols. 41, 42).</cell></row>
@@ -1838,7 +1859,7 @@ Service, 121.</p>
         <head>Consultations, 67 ; Accounts</head>
         <div type="subsection" n="h3">
           <head><hi rend="smallcaps">CONSULTATIONS.</hi></head>
-          <table xml:id="tbl-005" rows="9" cols="2">
+          <table xml:id="tbl-006" rows="9" cols="2">
       <head><hi rend="smallcaps">CONSULTATIONS.</hi></head>
       <row role="data"><cell>General.</cell><cell>Dec. 1834 to March 1836.</cell></row>
       <row role="data"><cell>Judicial (Civil).</cell><cell>Nov. 1834 to March 1836.</cell></row>
@@ -1853,7 +1874,7 @@ Service, 121.</p>
         </div>
         <div type="subsection" n="h3">
           <head><hi rend="smallcaps">ACCOUNTS.</hi></head>
-          <table xml:id="tbl-006" rows="2" cols="2">
+          <table xml:id="tbl-007" rows="2" cols="2">
       <head><hi rend="smallcaps">ACCOUNTS.</hi></head>
       <row role="data"><cell>Treasury Accounts.</cell><cell>1834–36.</cell></row>
       <row role="data"><cell>General Journals and Ledgers.</cell><cell>1834–36.</cell></row>
@@ -1942,7 +1963,7 @@ Service, 121.</p>
           </div>
           <div type="subsection" n="h3">
             <head><hi rend="smallcaps">Miscellaneous</hi>.</head>
-            <table xml:id="tbl-007" rows="10" cols="2">
+            <table xml:id="tbl-008" rows="10" cols="2">
         <head><hi rend="smallcaps">Miscellaneous</hi>.</head>
         <row role="data"><cell>Vol. 1.</cell><cell>Abstracts of letters received from Masulipatam, &amp;c., 1617–32.</cell></row>
         <row role="data"><cell>Vol. 3.</cell><cell>Extracts from letters and consultations, Coast and Bay, 1664–73 and 1680–81.</cell></row>
@@ -2438,7 +2459,7 @@ Service, 121.</p>
         <item>15. Letters from Richard Wickham in Japan, 1614–16.</item>
       </list>
             <pb xml:id="page-114" n="94" facs="https://archive.org/download/guidetoindiaoffi00greauoft/page/n113_w1400.jpg"/>
-            <table xml:id="tbl-008" rows="21" cols="2">
+            <table xml:id="tbl-009" rows="21" cols="2">
         <row role="data"><cell rend="num">16.</cell><cell>Consultations, letters, &amp;c., China and Japan, 1614–1703 (including Weddell's China voyage of 1637).</cell></row>
         <row role="data"><cell rend="num">17.</cell><cell>Tonquin and Cochin China, 1672–97.</cell></row>
         <row role="data"><cell rend="num">18.</cell><cell>China and Cochin China : Miscellaneous papers, 1753–78.</cell></row>
@@ -2588,7 +2609,7 @@ Service, 121.</p>
         <item>27. Ditto to the Secret Committee, 1808–11, and miscellaneous papers, 1791–1809.</item>
       </list>
             <pb xml:id="page-120" n="100" facs="https://archive.org/download/guidetoindiaoffi00greauoft/page/n119_w1400.jpg"/>
-            <table xml:id="tbl-009" rows="8" cols="2">
+            <table xml:id="tbl-010" rows="8" cols="2">
         <row role="data"><cell>28, 29, 29<hi rend="smallcaps">a</hi>, 30, 30<hi rend="smallcaps">a</hi>.</cell><cell>Enclosures to Bengal Secret Letters, 1808–10.</cell></row>
         <row role="data"><cell rend="num">31.</cell><cell>Miscellaneous, 1806–22, including reports on the missions of Jones and Malcolm, and letters from Sir Gore Ouseley to the Secret Committee, 1811–13.</cell></row>
         <row role="data"><cell rend="num">32.</cell><cell>Despatches relative to the expedition to the Persian Gulf, 1815–21.</cell></row>
@@ -2656,7 +2677,7 @@ Service, 121.</p>
           <div type="subsection" n="h2">
             <head><hi rend="bold">ST. HELENA.</hi></head>
             <p>This well-known island was first occupied by the East India Company in 1659, and it was held by them until it was handed over to the Crown on 31 March 1836, under the India Act of 1833.</p>
-            <table xml:id="tbl-010" rows="19" cols="2">
+            <table xml:id="tbl-011" rows="19" cols="2">
         <row role="data"><cell rend="num">1.</cell><cell>Laws and Ordinances, 1677–1714.</cell></row>
         <row role="data"><cell>2–82.</cell><cell>Consultations, 1676; 1682–83; 1684–85; 1694–96; 1699–1817.</cell></row>
         <row role="data"><cell>83–96.</cell><cell>Ditto (Public), 1817–36.</cell></row>
@@ -2689,7 +2710,7 @@ Service, 121.</p>
           <p>Under this title are grouped the records relating to Penang (Prince of Wales Island), Singapore and Malacca.</p>
           <p>The island of Penang was acquired in 1786, and fourteen years later a tract of land (Province Wellesley) on the neighbouring coast was added to the colony. Malacca was taken from the Dutch in 1795, restored in 1818, and finally ceded by Holland to Great Britain in 1824 (<hi rend="italic">see</hi> p. 104). A settlement was established at Singapore by Sir Stamford Raffles in 1819. It was for some time subordinate to Bencoolen (Fort Marlborough) in Sumatra, but in 1823 it was placed under the Government of Bengal.</p>
           <p>In 1805 Penang was constituted a separate Presidency, with a Governor and Council. Singapore and Malacca were added in 1826, the seat of government remaining at Penang until ten years later, when it was transferred to Singapore. The Straits Settlements were finally made over to the Colonial Office on 1 April 1867.</p>
-          <table xml:id="tbl-011" rows="19" cols="2">
+          <table xml:id="tbl-012" rows="19" cols="2">
       <row role="data"><cell rend="num">1.</cell><cell>Miscellaneous papers, 1769–95.</cell></row>
       <row role="data"><cell>2–7.</cell><cell>Bengal Consultations relative to Prince of Wales Island, 1786–95.</cell></row>
       <row role="data"><cell rend="num">8.</cell><cell>Establishment of a Court of Justice there, 1805–12.</cell></row>
@@ -2715,7 +2736,7 @@ Service, 121.</p>
           <div type="subsection" n="h2">
             <head>SUMATRA.</head>
             <p>Achin, Tiku, Jambi, and other ports were visited from time to time by the Company's vessels, and factories were maintained for varying periods at several of these points. The history of these relations is chiefly to be found in the <hi rend="italic">Original Correspondence</hi>, and the <hi rend="italic">Surat</hi> and other sections of the <hi rend="italic">Factory</hi> series. Most of the extant records, however, relate to the English settlement at Bencoolen, established in 1684, under the name of York Fort. This was removed in 1714 to a more healthy site in the same neighbourhood, the name of Fort Marlborough being given to the new building. The agency there, which had previously been subordinate to Madras, was in February 1703 raised to the rank of a Presidency, under a Governor and Council. This arrangement lasted until 1785, when the settlement was reduced to a Residency, and placed under the Government of Bengal (<hi rend="italic">see</hi> p. 47). In 1825 all the British possessions in Sumatra were made over to the Dutch in exchange for Malacca and the Dutch settlements in India, by virtue of a treaty concluded on 17 March 1824.</p>
-            <table xml:id="tbl-012" rows="34" cols="2">
+            <table xml:id="tbl-013" rows="34" cols="2">
         <row role="data"><cell rend="num">1.</cell><cell>Early papers, 1615–16. Letters from York Fort, 1685–86.</cell></row>
         <row role="data"><cell>2–4.</cell><cell>Letters and Consultations, York Fort, &amp;c., 1685–92 ; 1695–96 ; 1699–1703.</cell></row>
         <row role="data"><cell rend="num">5.</cell><cell>Letters from and to York Fort, 1701–3. Diary, 1703–4.</cell></row>
@@ -2827,7 +2848,7 @@ Service, 121.</p>
         <item>651. Register of commanders, 1737–1832.</item>
       </list>
             <pb xml:id="page-129" n="109" facs="https://archive.org/download/guidetoindiaoffi00greauoft/page/n128_w1400.jpg"/>
-            <table xml:id="tbl-013" rows="39" cols="2">
+            <table xml:id="tbl-014" rows="39" cols="2">
         <row role="data"><cell>652–66.</cell><cell>Commanders and mates: descriptions, &amp;c., 1771–1833.</cell></row>
         <row role="data"><cell rend="num">667.</cell><cell>List of officers and petty officers, 1828–34.</cell></row>
         <row role="data"><cell rend="num">668.</cell><cell>Masters and mates of extra ships, 1796–1825.</cell></row>

@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-021,Table 21,225,187,1,data,,Military operations,2,Column 2,22·2 crores.,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-021,Table 21,225,187,2,data,,Special defences,2,Column 2,4·5 „,4.5,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-021,Table 21,225,187,3,data,,Famine relief,2,Column 2,26·3 „,26.3,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-021,Table 21,225,187,4,data,,Construction of railways from revenue,2,Column 2,7·3 „,7.3,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-021,Table 21,225,187,5,data,,Construction of railways and irrigation works from the famine insurance grant,2,Column 2,9·8 „,9.8,,False,False

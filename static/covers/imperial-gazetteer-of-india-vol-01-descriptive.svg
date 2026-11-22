@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1800" width="1200" height="1800">
+  <defs>
+    <linearGradient id="bgShade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#203328" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#17261D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1800" fill="#17261D"/>
+  <rect width="1200" height="1800" fill="url(#bgShade)"/>
+
+  <rect x="80" y="80" width="1040" height="1640" fill="none" stroke="#3C5446" stroke-width="1.6"/><line x1="80" y1="220" x2="1120" y2="220" stroke="#3C5446" stroke-width="1.2"/><line x1="80" y1="1540" x2="1120" y2="1540" stroke="#3C5446" stroke-width="1.2"/><rect x="96" y="1140" width="1008" height="380" fill="#203328" stroke="#3C5446" stroke-width="1"/><line x1="204" y1="1180" x2="236" y2="1180" stroke="#D4A352" stroke-width="1.4"/><line x1="220" y1="1164" x2="220" y2="1196" stroke="#D4A352" stroke-width="1.4"/><line x1="584" y1="1180" x2="616" y2="1180" stroke="#D4A352" stroke-width="1.4"/><line x1="600" y1="1164" x2="600" y2="1196" stroke="#D4A352" stroke-width="1.4"/><line x1="964" y1="1180" x2="996" y2="1180" stroke="#D4A352" stroke-width="1.4"/><line x1="980" y1="1164" x2="980" y2="1196" stroke="#D4A352" stroke-width="1.4"/><path d="M 96 1230 C 340 1208, 580 1252, 840 1219 S 1020 1241, 1104 1222" fill="none" stroke="#D4A352" stroke-width="1.4" stroke-opacity="0.55"/><path d="M 96 1272 C 340 1232, 580 1312, 840 1252 S 1020 1292, 1104 1264" fill="none" stroke="#3C5446" stroke-width="1.4" stroke-opacity="0.7"/><path d="M 96 1314 C 340 1256, 580 1372, 840 1285 S 1020 1343, 1104 1306" fill="none" stroke="#D4A352" stroke-width="1.4" stroke-opacity="0.55"/><path d="M 96 1356 C 340 1334, 580 1378, 840 1345 S 1020 1367, 1104 1348" fill="none" stroke="#3C5446" stroke-width="1.4" stroke-opacity="0.7"/><path d="M 96 1398 C 340 1358, 580 1438, 840 1378 S 1020 1418, 1104 1390" fill="none" stroke="#D4A352" stroke-width="1.4" stroke-opacity="0.55"/><path d="M 96 1440 C 340 1382, 580 1498, 840 1411 S 1020 1469, 1104 1432" fill="none" stroke="#3C5446" stroke-width="1.4" stroke-opacity="0.7"/><path d="M 96 1482 C 340 1460, 580 1504, 840 1471 S 1020 1493, 1104 1474" fill="none" stroke="#D4A352" stroke-width="1.4" stroke-opacity="0.55"/>
+
+  <text x="112" y="168" fill="#D4A352" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
+    SURVEYS &amp; TOPOGRAPHIC ARCHIVE
+  </text>
+  <text x="1088" y="168" text-anchor="end" fill="#BAC9BF" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
+    1907
+  </text>
+
+  <text x="112" y="355" fill="#F6F3EA" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="52" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">The Imperial Gazetteer of</tspan><tspan x="112" dy="62">India: The Indian Empire,</tspan><tspan x="112" dy="62">Vol. I — Descriptive</tspan>
+  </text>
+
+  <text x="112" y="541" fill="#BAC9BF" font-family="Noto Serif, Georgia, serif" font-style="italic" font-size="30"><tspan x="112" dy="0">New Edition, Published under the Authority</tspan><tspan x="112" dy="40">of His Majesty&#x27;s Secretary of State for…</tspan></text>
+
+  <line x1="112" y1="665" x2="290" y2="665" stroke="#D4A352" stroke-width="4"/>
+
+  <text x="112" y="729" fill="#F6F3EA" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+    <tspan x="112" dy="0">Great Britain. India Office</tspan>
+  </text>
+  <text x="112" y="783" fill="#BAC9BF" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1907
+  </text>
+
+  <text x="112" y="1605" fill="#F6F3EA" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
+    AKSHARA
+  </text>
+  <text x="112" y="1652" fill="#BAC9BF" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
+    COMMUNITY EDITION  ·  AKSHARA.INK
+  </text>
+  <text x="1088" y="1628" text-anchor="end" fill="#D4A352" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
+    ಅಕ್ಷರ
+  </text>
+</svg>

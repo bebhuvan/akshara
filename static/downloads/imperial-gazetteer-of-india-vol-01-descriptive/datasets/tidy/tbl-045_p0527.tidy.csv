@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,1,subtotal,,Total population in,2,Column 2,1872,1872.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,1,subtotal,,Total population in,3,INDIA.,"206,162,360",206162360.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,1,subtotal,,Total population in,4,Provinces.,"185,163,353",185163353.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,1,subtotal,,Total population in,5,States.,"20,999,007",20999007.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,2,subtotal,,Total population in,2,Column 2,1881,1881.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,2,subtotal,,Total population in,3,INDIA.,"253,896,330",253896330.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,2,subtotal,,Total population in,4,Provinces.,"199,103,821",199103821.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,2,subtotal,,Total population in,5,States.,"54,792,509",54792509.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,3,subtotal,,Total population in,2,Column 2,1891,1891.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,3,subtotal,,Total population in,3,INDIA.,"287,314,671",287314671.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,3,subtotal,,Total population in,4,Provinces.,"221,239,515",221239515.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,3,subtotal,,Total population in,5,States.,"66,075,156",66075156.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,4,subtotal,,Total population in,2,Column 2,1901,1901.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,4,subtotal,,Total population in,3,INDIA.,"294,361,056",294361056.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,4,subtotal,,Total population in,4,Provinces.,"231,899,507",231899507.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,4,subtotal,,Total population in,5,States.,"62,461,549",62461549.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,5,data,,Males,2,Column 2,1872,1872.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,5,data,,Males,3,INDIA.,"106,055,545",106055545.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,5,data,,Males,4,Provinces.,"95,297,694",95297694.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,5,data,,Males,5,States.,"10,757,851",10757851.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,6,data,,Males,2,Column 2,1881,1881.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,6,data,,Males,3,INDIA.,"129,949,290",129949290.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,6,data,,Males,4,Provinces.,"101,448,747",101448747.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,6,data,,Males,5,States.,"28,500,543",28500543.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,7,data,,Males,2,Column 2,1891,1891.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,7,data,,Males,3,INDIA.,"146,769,629",146769629.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,7,data,,Males,4,Provinces.,"112,573,612",112573612.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,7,data,,Males,5,States.,"34,196,017",34196017.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,8,data,,Males,2,Column 2,1901,1901.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,8,data,,Males,3,INDIA.,"149,951,824",149951824.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,8,data,,Males,4,Provinces.,"117,804,942",117804942.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,8,data,,Males,5,States.,"32,146,882",32146882.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,9,data,,Females,2,Column 2,1872,1872.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,9,data,,Females,3,INDIA.,"100,106,815",100106815.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,9,data,,Females,4,Provinces.,"89,865,659",89865659.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,9,data,,Females,5,States.,"10,241,156",10241156.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,10,data,,Females,2,Column 2,1881,1881.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,10,data,,Females,3,INDIA.,"123,947,040",123947040.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,10,data,,Females,4,Provinces.,"97,655,074",97655074.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,10,data,,Females,5,States.,"26,291,966",26291966.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,11,data,,Females,2,Column 2,1891,1891.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,11,data,,Females,3,INDIA.,"140,545,042",140545042.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,11,data,,Females,4,Provinces.,"108,665,903",108665903.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,11,data,,Females,5,States.,"31,879,139",31879139.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,12,data,,Females,2,Column 2,1901,1901.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,12,data,,Females,3,INDIA.,"144,409,232",144409232.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,12,data,,Females,4,Provinces.,"114,094,565",114094565.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,12,data,,Females,5,States.,"30,314,667",30314667.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,14,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,2,Column 2,1881,1881.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,14,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,3,INDIA.,"33,139,081",33139081.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,14,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,4,Provinces.,"235,698",235698.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,14,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,5,States.,"32,903,383",32903383.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,15,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,2,Column 2,1891,1891.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,15,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,3,INDIA.,"5,681,470",5681470.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,15,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,4,Provinces.,"3,107,060",3107060.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,15,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,5,States.,"2,574,410",2574410.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,16,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,2,Column 2,1901,1901.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,16,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,3,INDIA.,"2,416,109",2416109.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,16,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,4,Provinces.,"1,913,609",1913609.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-045,Variation in Population,527,489,16,data,The above figures are inclusive of new areas as follows:—,Enumerated for the first time in,5,States.,"502,500",502500.0,,False,False

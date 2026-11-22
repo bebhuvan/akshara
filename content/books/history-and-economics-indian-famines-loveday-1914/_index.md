@@ -1,6 +1,6 @@
 ---
 title: "The History & Economics of Indian Famines"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Alexander Loveday"
 author_slug: "alexander-loveday"
@@ -9,7 +9,7 @@ imprint: "London: G. Bell and Sons"
 language: "English"
 pages: 184
 extracted_pages: 177
-reread_pages: 15
+reread_pages: 35
 human_verified_pages: 0
 chapters: 13
 footnotes_count: 284
@@ -31,7 +31,7 @@ rubric_pillars:
   - name: "Apparatus & Footnotes"
     score: 10.0
     max: 25.0
-    notes: "-15.0: 57 unresolved footnote callout/body mismatch(es)"
+    notes: "-15.0: 37 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
     score: 25.0
     max: 25.0
@@ -41,11 +41,11 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (57 open review items); 15 of 177 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (37 open review items); 35 of 177 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 31 fixes · 15 pp. checked"
+  - "Scan-Triaged: 31 fixes · 35 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 9 Structured (No Printed Totals)"
 taxonomy_diplomatic:
@@ -181,13 +181,13 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (177 pp.).
   - **Reader**: Read by gemini-3.8-flash on 177 of 177 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 31 replayed correction(s). Automated reading (57 open review items); 15 of 177 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 31 replayed correction(s). Automated reading (37 open review items); 35 of 177 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **57 finding(s) across 57 leaf(s)** (pp. 26, 28, 29, 32, 33, 36, 37, 42, 43, 47 (+47 more)): pages where a footnote marker and note body could not be paired automatically.
+  - **37 finding(s) across 37 leaf(s)** (pp. 26, 28, 29, 33, 37, 42, 49, 57, 61, 70 (+27 more)): pages where a footnote marker and note body could not be paired automatically.
+  - **26 finding(s) across 26 leaf(s)** (pp. 32, 36, 43, 47, 51, 52, 53, 54, 55, 66 (+16 more)): attested compositor footnote callout/note variants preserved diplomatically from the scan.
   - **7 finding(s) across 5 leaf(s)** (pp. 92, 115, 148, 158, 165): rare character.
-  - **6 finding(s) across 6 leaf(s)** (pp. 51, 52, 54, 115, 148, 158): attested compositor footnote callout/note variants preserved diplomatically from the scan.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---

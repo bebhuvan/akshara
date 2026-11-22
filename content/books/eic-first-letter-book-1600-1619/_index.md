@@ -1,6 +1,6 @@
 ---
 title: "The Register of Letters &c. of the Governour and Company of Merchants of London Trading into the East Indies, 1600–1619"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "The First Letter Book of the East India Company"
 author: "George Birdwood, William Foster"
 author_slug: "george-birdwood"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 97.8
+rubric_score: 96.8
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -37,15 +37,15 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Orthography & Diacritics"
-    score: 22.8
+    score: 21.8
     max: 25.0
-    notes: "-2.0: 1 intra-book diacritic drift cluster(s); -0.2: 1 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-3.0: 1 script/codepoint anomaly(ies); -0.2: 1 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
 provenance_statement: "Automated reading (3 open review items); 15 of 622 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 151 fixes · 15 pp. checked"
+  - "Scan-Triaged: 161 fixes · 15 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 4/4 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -274,28 +274,28 @@ editorial_note_markdown: |-
   - **Source File**: `eic-first-letter-book-1600-1619.originals.pdf`
   - **Source SHA-256**: `755dab08313e73d20149012f42bf019dba9c1f643326a29f2b4a3c93f2c6b109`
   - **Leaf Accounting**: 626 PDF leaves — **622** content leaves transcribed, **4** blank/tissue leaves (`6, 10, 92, 624`), **0** failed leaves.
-  - **Edition Status**: `community` (**97.8 / 100** Rubric Score)
+  - **Edition Status**: `community` (**96.8 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (168 flyleaf/stamp block(s)) are excluded from reading prose; **313** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **22** cross-page split footnotes and **2** multi-page tables were stitched; and **780** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (168 flyleaf/stamp block(s)) are excluded from reading prose; **309** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **22** cross-page split footnotes and **2** multi-page tables were stitched; and **780** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (187 distinct non-ASCII characters across 488 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.8-flash` (622 pp.).
   - **Reader**: Read by gemini-3.8-flash on 622 of 622 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 151 replayed correction(s). Automated reading (3 open review items); 15 of 622 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 161 replayed correction(s). Automated reading (3 open review items); 15 of 622 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **47 finding(s) across 41 leaf(s)** (pp. 7, 35, 36, 37, 39, 41, 42, 45, 46, 52 (+31 more)): rare character.
+  - **46 finding(s) across 40 leaf(s)** (pp. 7, 35, 36, 37, 39, 41, 42, 45, 46, 52 (+30 more)): rare character.
   - **5 finding(s) across 5 leaf(s)** (pp. 172, 208, 411, 447, 569): attested compositor spelling variants preserved diplomatically from the scan.
-  - **5 finding(s) across 5 leaf(s)** (pp. 184, 206, 237, 345, 471): attested compositor footnote callout/note variants preserved diplomatically from the scan.
+  - **4 finding(s) across 4 leaf(s)** (pp. 184, 206, 237, 345): attested compositor footnote callout/note variants preserved diplomatically from the scan.
   - **2 finding(s) across 1 leaf(s)** (pp. 187): table compositor arithmetic variant.
   - **1 finding(s) across 1 leaf(s)** (pp. 75): control characters removed.
+  - **1 finding(s) across 1 leaf(s)** (pp. 94): script anomaly.
   - **1 finding(s) across 1 leaf(s)** (pp. 290): faded or blotted `<unclear>` passages awaiting human scan inspection.
-  - **1 finding(s) across 1 leaf(s)** (pp. 534): proper nouns or transliterated terms whose diacritics vary across pages.
   - **1 finding(s) across 1 leaf(s)** (pp. 188): table blind total confirmed.
   - **1 finding(s) across 1 leaf(s)** (pp. 194): long multi-sentence heading blocks normalized or flagged for structural review.
 
@@ -304,4 +304,4 @@ editorial_note_markdown: |-
 
 The First Letter Book of the East India Company. Archival scope: spanning 1600-1619; covering London, Surat, Bantam, Masulipatam, Agra, Red Sea; focusing on east india company, bullion exports, voyage commissions, spice and cloth trade, royal charters. Original imprint: London: Bernard Quaritch (1893).
 
-Digitized from Internet Archive copy [`registerofletter00eastuoft`](https://archive.org/details/registerofletter00eastuoft) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **97.8/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (868), and statistical tables (21) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`registerofletter00eastuoft`](https://archive.org/details/registerofletter00eastuoft) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **96.8/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (868), and statistical tables (21) are preserved faithfully from the source camera scans.

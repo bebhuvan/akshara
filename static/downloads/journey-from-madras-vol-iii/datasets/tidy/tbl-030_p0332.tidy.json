@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Pence.",
     "raw_text": "12 83/100",
-    "value_numeric": null,
+    "value_numeric": 12.83,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -30,7 +30,7 @@
     "column_index": 2,
     "column_header": "Pence.",
     "raw_text": "20 54/100",
-    "value_numeric": null,
+    "value_numeric": 20.54,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -48,7 +48,7 @@
     "column_index": 2,
     "column_header": "Pence.",
     "raw_text": "20 54/100",
-    "value_numeric": null,
+    "value_numeric": 20.54,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": false

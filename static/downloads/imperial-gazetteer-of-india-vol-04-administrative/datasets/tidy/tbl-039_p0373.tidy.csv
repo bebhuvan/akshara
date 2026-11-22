@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,1,data,,Bengal,2,British.,"7,000",7000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,1,data,,Bengal,3,Native.,"57,000",57000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,1,data,,Bengal,4,Total.,"64,000",64000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,2,data,,Madras,2,British.,"11,000",11000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,2,data,,Madras,3,Native.,"53,000",53000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,2,data,,Madras,4,Total.,"64,000",64000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,3,data,,Bombay,2,British.,"6,500",6500.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,3,data,,Bombay,3,Native.,"20,000",20000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,3,data,,Bombay,4,Total.,"26,500",26500.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,4,total,,Total,2,British.,"24,500",24500.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,4,total,,Total,3,Native.,"130,000",130000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-039,Table 39,373,335,4,total,,Total,4,Total.,"154,500",154500.0,,False,True

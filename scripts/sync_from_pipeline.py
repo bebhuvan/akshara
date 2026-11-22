@@ -22,6 +22,7 @@ LEGACY_SUPERSEDED_DIRS = {
     "economic-history-of-india",
     "economic-history-india-victorian-age",
     "englands-debt-to-india",
+    "imperial-gazetteer-india-v1",
 }
 
 AUTHOR_SLUG_ALIASES: dict[str, str] = {

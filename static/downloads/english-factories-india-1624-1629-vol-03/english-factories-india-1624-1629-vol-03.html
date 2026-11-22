@@ -7,6 +7,7 @@
     @page { size: 6in 9in; margin: 0.8in 0.7in 0.85in 0.7in; @bottom-center { content: counter(page); font-size: 8.5pt; color: #555; } }
     @page :first { @bottom-center { content: none; } }
     @page wide-ledger { size: 9in 6in; margin: 0.5in 0.55in 0.6in 0.55in; @bottom-center { content: counter(page); font-size: 8pt; color: #555; } }
+    @page broadside-ledger { size: 14in 8.5in; margin: 0.35in 0.35in 0.45in 0.35in; @bottom-center { content: counter(page); font-size: 7.5pt; color: #555; } }
     body { font-family: "EB Garamond", "Liberation Serif", "Noto Serif", "Noto Serif Devanagari", "Noto Serif Bengali", "Noto Naskh Arabic", "Noto Serif Hebrew", "Noto Serif CJK SC", "DejaVu Serif", Georgia, serif; font-size: 10.8pt; line-height: 1.48; color: #111; }
     .archival-title-page { min-height: 7.1in; display: flex; flex-direction: column; justify-content: space-between; text-align: center; padding: 0.8in 0.25in 0.3in; border: 0.6pt solid #444; box-sizing: border-box; }
     .tp-kicker { font-size: 8.5pt; letter-spacing: 0.16em; text-transform: uppercase; color: #555; }
@@ -16,12 +17,14 @@
     .tp-colophon { font-size: 8.5pt; color: #444; border-top: 0.5pt solid #aaa; padding-top: 0.18in; line-height: 1.4; }
     .print-chapter { break-before: page; }
     .wide-table-wrap { page: wide-ledger; }
-    .wide-plate { page: wide-ledger; break-inside: avoid; text-align: center; margin: 0.2in 0; }
-    .wide-plate img { max-width: 100%; max-height: 4.35in; width: auto; height: auto; object-fit: contain; }
+    .broadside-table-wrap { page: broadside-ledger; }
+    .wide-plate { page: wide-ledger; break-inside: avoid; text-align: center; margin: 0.05in 0; }
+    .wide-plate img { max-width: 100%; max-height: 3.75in; width: auto; height: auto; object-fit: contain; }
     .portrait-plate { break-inside: avoid; text-align: center; margin: 0.9em 0; }
     .portrait-plate img { max-width: 100%; max-height: 6.2in; width: auto; height: auto; object-fit: contain; }
     figcaption { font-size: 8.8pt; color: #333; margin-top: 4pt; text-align: left; }
     p { margin: 0 0 0.6em; text-align: justify; orphans: 2; widows: 2; }
+    .verse p, .epigraph p, .toc-line { text-align: left; }
     h2, h3, h4 { break-after: avoid; }
     .sc { font-variant: small-caps; }
     .page-turn-rail { margin: 0.35em 0 0.15em; }
@@ -37,10 +40,13 @@
     table.compact-table { font-size: 7.8pt; }
     table.dense-wide-table { font-size: 7.2pt; }
     table.ultra-wide-table { font-size: 6.0pt; }
+    table.broadside-table { font-size: 4.8pt; }
     th { border-bottom: 1.1pt solid #111; padding: 2.5pt 3pt; text-align: left; vertical-align: bottom; }
     td { border-bottom: 0.4pt solid #bbb; padding: 2pt 3pt; vertical-align: top; }
     table.ultra-wide-table th, table.ultra-wide-table td { padding: 1.5pt 2pt; }
+    table.broadside-table th, table.broadside-table td { padding: 1pt 1.5pt; }
     td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+    td.num[colspan]:not([colspan="1"]) { text-align: center; }
     tr.row-total td, tr.row-subtotal td { font-weight: bold; border-top: 0.8pt solid #111; }
     .print-footnotes { margin-top: 1.4em; border-top: 0.6pt solid #aaa; padding-top: 0.55em; font-size: 8.9pt; }
     a.fn-ref, a.fn-backref, a.fn-page-link { color: inherit; text-decoration: none; }
@@ -53,7 +59,7 @@
     <div><div class="tp-kicker">Indian Economic History</div><h1 class="tp-title">The English Factories in India, 1624–1629</h1><p class='tp-subtitle'>A Calendar of Documents in the India Office, Etc.</p><p class="tp-author">William Foster</p></div>
     <div class="tp-colophon"><div>Originally published: 1909 · Oxford: Clarendon Press</div><div>Akshara Digital Library · Community Edition · Public Domain (CC0 1.0)</div></div>
   </section>
-  <section id='sec-01' class='print-chapter'><h2>Frontmatter</h2><div id='page-1' class='page-turn-rail'><span class='folio-turn'>[p. 1]</span></div><figure id='fig-001' class='wide-plate'><img src='/figures/english-factories-india-1624-1629-vol-03/fig-001_p0001.webp' alt='Gilt-embossed coat of arms of the East India Company featuring two sea-lion supporters, a shield with ships and emblems, a crest with a terrestrial globe between two flags, and the motto ribbon reading &#x27;DEO DUCENTE NIL NOCET&#x27;.'><figcaption>Gilt-embossed coat of arms of the East India Company featuring two sea-lion supporters, a shield with ships and emblems, a crest with a terrestrial globe between two flags, and the motto ribbon reading 'DEO DUCENTE NIL NOCET'.</figcaption></figure><div id='page-6' class='page-turn-rail'><span class='folio-turn'>[p. 6]</span></div><figure id='fig-002' class='wide-plate'><img src='/figures/english-factories-india-1624-1629-vol-03/fig-002_p0006.webp' alt='DAVIS’S SKETCH MAP OF BOMBAY HARBOUR'><figcaption>DAVIS’S SKETCH MAP OF BOMBAY HARBOUR</figcaption></figure><div id='page-7' class='page-turn-rail'><span class='folio-turn'>[p. i]</span></div><h3>1624–1629</h3><h4><span class="sc">A Calendar of Documents in the India Office, etc.</span></h4><p class='paragraph'>BY WILLIAM FOSTER <span class="sc">Editor of 'Letters Received by the East India Company, 1615–17' 'The Embassy of Sir Thomas Roe to the Great Mogul,' etc.</span></p><p class='paragraph'><span class="sc">Published under the Patronage of His Majesty's Secretary of State for India in Council</span></p><p class='imprint'>OXFORD
+  <section id='sec-01' class='print-chapter'><h2>Frontmatter</h2><div id='page-1' class='page-turn-rail'><span class='folio-turn'>[p. 1]</span></div><figure id='fig-001' class='wide-plate'><img src='/figures/english-factories-india-1624-1629-vol-03/fig-001_p0001.webp' alt='Gilt-embossed coat of arms of the East India Company featuring two sea-lion supporters, a shield with ships and emblems, a crest with a terrestrial globe between two flags, and the motto ribbon reading &#x27;DEO DUCENTE NIL NOCET&#x27;.'></figure><div id='page-6' class='page-turn-rail'><span class='folio-turn'>[p. 6]</span></div><figure id='fig-002' class='portrait-plate'><img src='/figures/english-factories-india-1624-1629-vol-03/fig-002_p0006.webp' alt='DAVIS’S SKETCH MAP OF BOMBAY HARBOUR'><figcaption>DAVIS’S SKETCH MAP OF BOMBAY HARBOUR</figcaption></figure><div id='page-7' class='page-turn-rail'><span class='folio-turn'>[p. i]</span></div><h3>1624–1629</h3><h4><span class="sc">A Calendar of Documents in the India Office, etc.</span></h4><p class='paragraph'>BY WILLIAM FOSTER <span class="sc">Editor of 'Letters Received by the East India Company, 1615–17' 'The Embassy of Sir Thomas Roe to the Great Mogul,' etc.</span></p><p class='paragraph'><span class="sc">Published under the Patronage of His Majesty's Secretary of State for India in Council</span></p><p class='imprint'>OXFORD
 AT THE CLARENDON PRESS
 1909</p><div id='page-8' class='page-turn-rail'><span class='folio-turn'>[p. ii]</span></div><p class='imprint'>HENRY FROWDE, M.A.
 PUBLISHER TO THE UNIVERSITY OF OXFORD
@@ -87,7 +93,7 @@ TORONTO AND MELBOURNE</p></section><section id='sec-02' class='print-chapter'><h
   174, 246; warehouse at, 240; factory<br>
   accounts, 306, 327; trade at: in indigo,<br>
   94, 153, 214, 228, 326; in other commodities, xxx, 62, 63, 90, 150, 153, 176,<br>
-  208, 228, 239, 270; state of trade at, 61,</p><p class='index-entry'>62, 189, 228; supplies for, 270, 273, 275,<br>
+  208, 228, 239, 270; state of trade at, 61, 62, 189, 228; supplies for, 270, 273, 275,<br>
 299; caravans from, xxiv, xxx, 176, 228,<br>
 234, 247, 269–73, 275, 307; troubles<br>
 with the authorities at, xxx, 270; proposed dissolution of the factory at, 307;<br>
@@ -151,7 +157,7 @@ goods from, 129, 146, 342, 346; currency<br>
 at, 128; minting of coins at, xliv, xlviii,<br>
 128, 129, 135, 136, 200, 343; customs<br>
 duties at, xliii, 129, 133; threatened<br>
-attack on, by a rebel chief, 132, 136;</p><p class='index-entry'>ordnance for, xliv, 132; fortification of,<br>
+attack on, by a rebel chief, 132, 136; ordnance for, xliv, 132; fortification of,<br>
 xxi, xlv, xlvii, xlviii, 135, 342–4, 359;<br>
 soldiers for, 145, 147, 359; the removal<br>
 from Masulipatam to, xlvi, 280–4, 312,<br>
@@ -445,7 +451,7 @@ ring to seal passes, 104.</p><p class='index-entry'>Coney (Dassen) Island, 25, 1
 210. <em>See also</em> Surat.</p><p class='index-entry'>Corge, 92.</p><p class='index-entry'>Coromandel Coast, dispatch of ships for,<br>
 11, 13, 18, 41, 290; goods from: decline in value of, 6; complaint as to<br>
 condition of, 12; withdrawal of English<br>
-trade from, 280; Dutch trade on, 18,</p><div id='page-423' class='page-turn-rail'><span class='folio-turn'>[p. 369]</span></div><p class='index-entry'>67, 346, 358; their troubles with the<br>
+trade from, 280; Dutch trade on, 18, <span id="page-423" class="folio-turn">[p. 369]</span> 67, 346, 358; their troubles with the<br>
 natives, 67; Danes trade on, 342; they<br>
 claim monopoly of trade on, 14. <em>See</em><br>
 <em>also</em> Armagon, Kārikāl, Masulipatam,<br>
@@ -615,7 +621,7 @@ Batavia, 125, 126, 144, 150, 155; at<br>
 Batavia, 178; voyage to Surat, xxii, 178,<br>
 179, 216; and to Persia, xxiii, 179, 186,<br>
 187, 216, 220; designed for England,<br>
-227, 285, 291, 303; at Swally, 263-9,</p><p class='index-entry'>285; voyage to the Red Sea, xxx, 249,<br>
+227, 285, 291, 303; at Swally, 263-9, 285; voyage to the Red Sea, xxx, 249,<br>
 250, 275; visits Aden, xxx, 278, 279,<br>
 288, 292, 305, 354; consultation aboard,<br>
 289; second voyage to England, 312-4,<br>
@@ -842,7 +848,7 @@ cruise to assist the ships from England,<br>
 97; refitting at Swally, 98; designed for<br>
 England, 101 (2), 103; second voyage<br>
 to Persia and back, 105, 107, 108 (2),<br>
-115, 116, 117; voyage to England, 123,</p><div id='page-429' class='page-turn-rail'><span class='folio-turn'>[p. 375]</span></div><p class='index-entry'>125, 126, 137, 140, 150; again at Swally, xxix, 263-9, 285, 303; third voyage to Persia, 285, 300, 301, 312-14; voyage to Bantam, xxxii, 323, 329-34, 357; returns to Swally, xxxiii, 356, 357; fourth voyage to Persia and back, xxxiv, 361, 362.</p><p class='index-entry'>Joyce, Thomas, 125, 311, 314.</p><p class='index-entry'>Juan de Nova, 104.</p><p class='index-entry'><em>Jude</em>, the, 290.</p><p class='index-entry'>Junkan. <em>See Chungam</em>.</p><p class='index-entry'>Kābul, 151; massacre of troops at, xix, 152.</p><p class='index-entry'><em>Kachchā saudāgar</em>, 150.</p><p class='index-entry'><em>Kail</em>, 354.</p><p class='index-entry'>Kajan, xxi <em>n.</em></p><p class='index-entry'>Kalhāt, 55, 199.</p><p class='index-entry'>Kāli talao, 89, 90.</p><p class='index-entry'><em>Kalsī</em>, 360.</p><p class='index-entry'><em>Kameel</em>, the, 339.</p><p class='index-entry'><em>Kanāt</em>, 361.</p><p class='index-entry'>Karan, Rānā of Udaipur, 242.</p><p class='index-entry'>Karedu, 342 <em>n.</em></p><p class='index-entry'>Kārikāl, 8 (2), 10; the <em>Hart's</em> visit to, 13-18; customs duties demanded at, xl, 15, 19; pepper from, 10; Governor of, xl, 8, 14, 15.</p><p class='index-entry'>Kashmīr, xiii, 78, 95 (2), 96, 173, 204.</p><p class='index-entry'><em>Katorā</em>, 360.</p><p class='index-entry'>Keightley, Thomas, letter to, 3.</p><p class='index-entry'>Kennicott, Gabriel, 225, 287, 289, 291, 292, 304.</p><p class='index-entry'>Kerridge, Thomas, references to, and letters to and from, <em>passim</em>; sails for India, 24 <em>n.</em>; goes to Persia, ix, 36, 42 <em>n.</em>; opposes the proposal to assist the Persians, 80; to go to Surat, 42, 67; President at Surat (<em>q.v.</em>), ix, xii, 65, 68, 73, 78; his private trade, 86, 87, 127, 130, 138, 167, 169, 170; takes steps to restrict private trade, 43, 73; at consultations aboard ship, 40 <em>n.</em>, 75, 96, 98, 101, 111; extends his period of service, 211; his return to England, xxviii, 249-50, 277, 289, 295; his subsequent career, xxviii <em>n.</em>; his popularity at Surat, 325.</p><p class='index-entry'>Kerseys, 156, 325, 335.</p><p class='index-entry'>Khairāt Khān, 167, 283, 300, 302, 321.</p><p class='index-entry'><em>Khānazād</em>, 242. <em>See also</em> Zamān Bahādur.</p><p class='index-entry'>Khān-i-Azam, 242.</p><p class='index-entry'>Khān Jahān, 153, 191, 206; espouses the cause of Dāwar Bakhsh, 233; in rebellion against Shāh Jahān, xxv, 240.</p><p class='index-entry'>Khānkhānān (Mīrzā Khān), the, 95; <em>see also</em> Mahābat Khān.</p><p class='index-entry'>Khārepātān (<em>or</em> Viziadrūg), Hall's fleet visits, xxviii, 254-68; description of, 258, 259; suggested settlement at, 275; Governor of, 254, 262.</p><p class='index-entry'><em>Khaskhasī</em>, 63.</p><p class='index-entry'><em>Khazāna</em>, 33, 149, 221; term explained, 33 <em>n.</em>, 149 <em>n.</em></p><p class='index-entry'><em>Khichrī</em>, 48.</p><p class='index-entry'>Khirkā (‘Quirka’), 28, 176, 177.</p><p class='index-entry'>Khor Jarāma (‘the London's Hope’), suggested fortification of, xxvii, 159-60, 197, 199, 216.</p><p class='index-entry'>Khurd Mahmūd, 72, 193, 305, 352, 353; his junk's encounter with the <em>Scout</em>, 72.</p><p class='index-entry'>Khurram, Prince. <em>See</em> Shāh Jahān.</p><p class='index-entry'>Khusrū, Prince, his sons. <em>See</em> Dāwar Bakhsh <em>and</em> Garshāsp.</p><p class='index-entry'><em>Khutba</em>, 233, 240.</p><p class='index-entry'>Khwāja Murād Beg. <em>See (as also in similar cases)</em> Murād Beg, Khwāja.</p><p class='index-entry'>Kifāyat Khān, 232.</p><p class='index-entry'>King, Richard, death of, 186, 209.</p><p class='index-entry'>Kirk, Captain, 356, 357.</p><p class='index-entry'>Kishin, 63.</p><p class='index-entry'>Kishm, 43, 198; Persian fortifications at, 22; castle at, 45; English and Dutch fleets at, 48; captain of the Persian castle at, 48.</p><p class='index-entry'>Kistgens, Frederick, 124 <em>n.</em></p><p class='index-entry'>Kistnapatam, 338 <em>n.</em></p><p class='index-entry'>Knightley, William, 291, 304, 311; at Surat, 285; account of his experiences at Mokha, &amp;c., 347-55.</p><p class='index-entry'>Kolīs, the, 90.</p><p class='index-entry'>Kollūr, diamond mine at, 25, 211.</p><p class='index-entry'>Kōmatis, 9, 10, 11, 131, 282.</p><p class='index-entry'><em>Korī</em>, 247.</p><p class='index-entry'><em>Kos, passim.</em></p><p class='index-entry'>Kottapatnam, xliv <em>n.</em></p><p class='index-entry'><em>Kotwāl</em>, 282.</p><p class='index-entry'>Kūch, 170.</p><p class='index-entry'>Kudryan (<em>or</em> Kudrian), Elias, 225, 276.</p><p class='index-entry'>Kuh-i-Mubārak, 49 <em>n.</em></p><p class='index-entry'>Kung, 84.</p><p class='index-entry'>Lac (gum-lac), 62, 63, 93, 209, 235, 241, 246, 258, 326; <em>chapra</em> lac, 230; <em>ras</em> lac, 230; shellac, 309; price of, 175, 230, 247; exported to Persia, 301.</p><p class='index-entry'>Lagundy, 251; consultations at, 40, 41; failure of the settlement at, xxi, xxxviii, 101, 112, 114; the Dutch assist the survivors from, xxxix, 114; their return to Batavia, 118; President at, <em>see</em> Hawley; factor at, <em>see</em> Goning.</p><p class='index-entry'>Lahore, xxiv; letter from, 32; letters to, <em>passim</em>; factors at, <em>see</em> Bangham, Willoughby, <em>and</em> Young; factors go to, 90; broker at, <em>see</em> Dhanjī; Governor of, 33; calicoes from, 62; carpets from, 93; shellac from, 309; trade at, 63, 96, 151, 311; Armenians at, 63.</p><p class='index-entry'>Lancaster, Richard, 21, 79; letters from, 6, 55; goes to England, 66.</p><div id='page-430' class='page-turn-rail'><span class='folio-turn'>[p. 376]</span></div><p class='index-entry'>Langford, Richard, 34, 288.</p><p class='index-entry'>Langford, William, 309; instructions for<br>
+115, 116, 117; voyage to England, 123, <span id="page-429" class="folio-turn">[p. 375]</span> 125, 126, 137, 140, 150; again at Swally, xxix, 263-9, 285, 303; third voyage to Persia, 285, 300, 301, 312-14; voyage to Bantam, xxxii, 323, 329-34, 357; returns to Swally, xxxiii, 356, 357; fourth voyage to Persia and back, xxxiv, 361, 362.</p><p class='index-entry'>Joyce, Thomas, 125, 311, 314.</p><p class='index-entry'>Juan de Nova, 104.</p><p class='index-entry'><em>Jude</em>, the, 290.</p><p class='index-entry'>Junkan. <em>See Chungam</em>.</p><p class='index-entry'>Kābul, 151; massacre of troops at, xix, 152.</p><p class='index-entry'><em>Kachchā saudāgar</em>, 150.</p><p class='index-entry'><em>Kail</em>, 354.</p><p class='index-entry'>Kajan, xxi <em>n.</em></p><p class='index-entry'>Kalhāt, 55, 199.</p><p class='index-entry'>Kāli talao, 89, 90.</p><p class='index-entry'><em>Kalsī</em>, 360.</p><p class='index-entry'><em>Kameel</em>, the, 339.</p><p class='index-entry'><em>Kanāt</em>, 361.</p><p class='index-entry'>Karan, Rānā of Udaipur, 242.</p><p class='index-entry'>Karedu, 342 <em>n.</em></p><p class='index-entry'>Kārikāl, 8 (2), 10; the <em>Hart's</em> visit to, 13-18; customs duties demanded at, xl, 15, 19; pepper from, 10; Governor of, xl, 8, 14, 15.</p><p class='index-entry'>Kashmīr, xiii, 78, 95 (2), 96, 173, 204.</p><p class='index-entry'><em>Katorā</em>, 360.</p><p class='index-entry'>Keightley, Thomas, letter to, 3.</p><p class='index-entry'>Kennicott, Gabriel, 225, 287, 289, 291, 292, 304.</p><p class='index-entry'>Kerridge, Thomas, references to, and letters to and from, <em>passim</em>; sails for India, 24 <em>n.</em>; goes to Persia, ix, 36, 42 <em>n.</em>; opposes the proposal to assist the Persians, 80; to go to Surat, 42, 67; President at Surat (<em>q.v.</em>), ix, xii, 65, 68, 73, 78; his private trade, 86, 87, 127, 130, 138, 167, 169, 170; takes steps to restrict private trade, 43, 73; at consultations aboard ship, 40 <em>n.</em>, 75, 96, 98, 101, 111; extends his period of service, 211; his return to England, xxviii, 249-50, 277, 289, 295; his subsequent career, xxviii <em>n.</em>; his popularity at Surat, 325.</p><p class='index-entry'>Kerseys, 156, 325, 335.</p><p class='index-entry'>Khairāt Khān, 167, 283, 300, 302, 321.</p><p class='index-entry'><em>Khānazād</em>, 242. <em>See also</em> Zamān Bahādur.</p><p class='index-entry'>Khān-i-Azam, 242.</p><p class='index-entry'>Khān Jahān, 153, 191, 206; espouses the cause of Dāwar Bakhsh, 233; in rebellion against Shāh Jahān, xxv, 240.</p><p class='index-entry'>Khānkhānān (Mīrzā Khān), the, 95; <em>see also</em> Mahābat Khān.</p><p class='index-entry'>Khārepātān (<em>or</em> Viziadrūg), Hall's fleet visits, xxviii, 254-68; description of, 258, 259; suggested settlement at, 275; Governor of, 254, 262.</p><p class='index-entry'><em>Khaskhasī</em>, 63.</p><p class='index-entry'><em>Khazāna</em>, 33, 149, 221; term explained, 33 <em>n.</em>, 149 <em>n.</em></p><p class='index-entry'><em>Khichrī</em>, 48.</p><p class='index-entry'>Khirkā (‘Quirka’), 28, 176, 177.</p><p class='index-entry'>Khor Jarāma (‘the London's Hope’), suggested fortification of, xxvii, 159-60, 197, 199, 216.</p><p class='index-entry'>Khurd Mahmūd, 72, 193, 305, 352, 353; his junk's encounter with the <em>Scout</em>, 72.</p><p class='index-entry'>Khurram, Prince. <em>See</em> Shāh Jahān.</p><p class='index-entry'>Khusrū, Prince, his sons. <em>See</em> Dāwar Bakhsh <em>and</em> Garshāsp.</p><p class='index-entry'><em>Khutba</em>, 233, 240.</p><p class='index-entry'>Khwāja Murād Beg. <em>See (as also in similar cases)</em> Murād Beg, Khwāja.</p><p class='index-entry'>Kifāyat Khān, 232.</p><p class='index-entry'>King, Richard, death of, 186, 209.</p><p class='index-entry'>Kirk, Captain, 356, 357.</p><p class='index-entry'>Kishin, 63.</p><p class='index-entry'>Kishm, 43, 198; Persian fortifications at, 22; castle at, 45; English and Dutch fleets at, 48; captain of the Persian castle at, 48.</p><p class='index-entry'>Kistgens, Frederick, 124 <em>n.</em></p><p class='index-entry'>Kistnapatam, 338 <em>n.</em></p><p class='index-entry'>Knightley, William, 291, 304, 311; at Surat, 285; account of his experiences at Mokha, &amp;c., 347-55.</p><p class='index-entry'>Kolīs, the, 90.</p><p class='index-entry'>Kollūr, diamond mine at, 25, 211.</p><p class='index-entry'>Kōmatis, 9, 10, 11, 131, 282.</p><p class='index-entry'><em>Korī</em>, 247.</p><p class='index-entry'><em>Kos, passim.</em></p><p class='index-entry'>Kottapatnam, xliv <em>n.</em></p><p class='index-entry'><em>Kotwāl</em>, 282.</p><p class='index-entry'>Kūch, 170.</p><p class='index-entry'>Kudryan (<em>or</em> Kudrian), Elias, 225, 276.</p><p class='index-entry'>Kuh-i-Mubārak, 49 <em>n.</em></p><p class='index-entry'>Kung, 84.</p><p class='index-entry'>Lac (gum-lac), 62, 63, 93, 209, 235, 241, 246, 258, 326; <em>chapra</em> lac, 230; <em>ras</em> lac, 230; shellac, 309; price of, 175, 230, 247; exported to Persia, 301.</p><p class='index-entry'>Lagundy, 251; consultations at, 40, 41; failure of the settlement at, xxi, xxxviii, 101, 112, 114; the Dutch assist the survivors from, xxxix, 114; their return to Batavia, 118; President at, <em>see</em> Hawley; factor at, <em>see</em> Goning.</p><p class='index-entry'>Lahore, xxiv; letter from, 32; letters to, <em>passim</em>; factors at, <em>see</em> Bangham, Willoughby, <em>and</em> Young; factors go to, 90; broker at, <em>see</em> Dhanjī; Governor of, 33; calicoes from, 62; carpets from, 93; shellac from, 309; trade at, 63, 96, 151, 311; Armenians at, 63.</p><p class='index-entry'>Lancaster, Richard, 21, 79; letters from, 6, 55; goes to England, 66.</p><div id='page-430' class='page-turn-rail'><span class='folio-turn'>[p. 376]</span></div><p class='index-entry'>Langford, Richard, 34, 288.</p><p class='index-entry'>Langford, William, 309; instructions for<br>
 his voyage to the Coromandel Coast, 8.</p><p class='index-entry'>Larak, Portuguese fleet at, xii, 46, 48, 52,<br>
 54, 81, 84, 86; pearl fishing off, 84;<br>
 Portuguese fort at, 84.</p><p class='index-entry'>Lārībandar. <em>See</em> Diul-Sind.</p><p class='index-entry'><em>Lārīs</em>, 74, 254, 258, 275, 322.</p><p class='index-entry'><em>Lashkar</em>, 241, 271.</p><p class='index-entry'>Latch [Robert?], 252.</p><p class='index-entry'>Lawrence, John, 120 (2).</p><p class='index-entry'>Leachland, John, 1, 119–20; letter from,<br>
@@ -1064,7 +1070,7 @@ refused, 84; English ships at, 40, 80, 85,<br>
 fleet at, 48, 166, 167; proposed English<br>
 factory at, 64; Persian fortifications at,<br>
 37, 40, 80; their defence of, 84; Portuguese at, 118; their designs on, 65, 83;<br>
-their offer to purchase, refused, 84; their</p><p class='index-entry'>fleet sails for, 88; they blockade the<br>
+their offer to purchase, refused, 84; their fleet sails for, 88; they blockade the<br>
 island, ix, 39, 40, 80, 84; and destroy<br>
 shipping, 2; suggested Anglo-Dutch attack on, 289.</p><p class='index-entry'>Paddy, 316. <em>See also</em> Rice.</p><p class='index-entry'>Padre, 114, 127, 170. <em>See also</em> Ministers.</p><p class='index-entry'>Page, George, 24 <em>n.</em>, 90, 168, 277, 285,<br>
 299, 303; letters from, 150, 171, 191,<br>
@@ -1138,7 +1144,7 @@ and the English trade in, 22, 42. <em>See</em><br>
 the Turks (<em>see also</em> Basrā), 37, 237, 312;<br>
 desires English assistance, x, 36, 37, 38,<br>
 43, 80, 107, 169, 198, 237; favours the<br>
-Dutch, 37; but refuses to cede Ormus to</p><p class='index-entry'>them, 84; declines to allow the English<br>
+Dutch, 37; but refuses to cede Ormus to them, 84; declines to allow the English<br>
 to fortify, 198, 238; trade at Bantam on<br>
 his behalf, 212, 223; his ambassadors to<br>
 England, <em>see</em> Naqd Alī Beg <em>and</em> Sherley;<br>
@@ -1241,7 +1247,7 @@ in England, 308; voyage to India, xxxiii,<br>
 355–7; and from Surat to Gombroon<br>
 and back, xxxiv, 361, 362.</p><p class='index-entry'><em>Refuge</em>, the, xxii, xxvi, 184, 185, 186, 219,<br>
 220, 221, 223, 250, 262; at Swally, 178,<br>
-187, 222; voyage to Bantam, xxvii,</p><div id='page-436' class='page-turn-rail'><span class='folio-turn'>[p. 382]</span></div><p class='index-entry'>xxviii, 251, 255, 264, 267, 268, 274;<br>
+187, 222; voyage to Bantam, xxvii, <span id="page-436" class="folio-turn">[p. 382]</span> xxviii, 251, 255, 264, 267, 268, 274;<br>
 wrecked there, 278, 291.</p><p class='index-entry'>Réunion (Mascarenhas <em>or</em> England's Forest),<br>
 English ships at, 263–7, 332, 333.</p><p class='index-entry'>Rials of eight, references to, <em>passim</em>; importation of, xxxv; chests of, 25, 102;<br>
 gold to take the place of, 66, 147, 162,<br>
@@ -1300,10 +1306,10 @@ destroyed by the Portuguese, xxxiii, 356,<br>
 10; Portuguese at, xlviii, 343; English<br>
 designs on their shipping, 280.</p><p class='index-entry'>Sana, 193; Dutch prisoners at, 63, 158,<br>
 351; Pāshā of, 158; grants <em>farmāns</em> for<br>
-English trade, 158, 159; and the settle-</p><div id='page-437' class='page-turn-rail'><span class='folio-turn'>[p. 383]</span></div><p class='index-entry'>ment of a factory at Mokha, 347–55;<br>
+English trade, 158, 159; and the settlement of a factory at Mokha, 347–55;<br>
 purchases from the English, 349; Dutch<br>
 negotiations with, 351; a new Pāshā<br>
-appointed, 353.</p><p class='index-entry'>Sandal-wood, 31, 97, 118, 120, 131, 133,<br>
+appointed, 353. <span id="page-437" class="folio-turn">[p. 383]</span></p><p class='index-entry'>Sandal-wood, 31, 97, 118, 120, 131, 133,<br>
 144, 181, 223, 281, 284, 291, 315, 330,<br>
 339, 340, 341, 342, 346, 351, 357.</p><p class='index-entry'>Sandūk Sultān, Governor of Gombroon,<br>
 42, 81, 83; negotiates for English assistance against the Portuguese, 43–5;<br>
@@ -1473,7 +1479,7 @@ from, 181; dispatch of ships for, 11, 18,<br>
  men's property, 29; restrictions on the<br>
  sale of coral at, viii, 27, 59, 63, 67; and<br>
  on the importation of munitions, 293;<br>
- state of trade at, 138, 156, 157, 192–6,</p><p class='index-entry'>291, 335; debts at, xxvi, xxx, 61, 63, 89,<br>
+ state of trade at, 138, 156, 157, 192–6, 291, 335; debts at, xxvi, xxx, 61, 63, 89,<br>
  100, 103, 154, 163, 194, 201, 285, 295,<br>
  296, 299, 300, 306, 326, 329–31, 334;<br>
  goods provided and saleable at, 61–4, 92,<br>
@@ -1588,7 +1594,7 @@ fort, 14, 16; offer of, to the Dutch, 359.</p><p class='index-entry'>'Tremeldane
 Lahore, 33; their complaint to Jahāngīr<br>
 against the English, vii, 33, 58, 59, 102;<br>
 loss of Mokha trade owing to troubles<br>
-with, 36, 63; the Arabs rebel against,</p><div id='page-441' class='page-turn-rail'><span class='folio-turn'>[p. 387]</span></div><p class='index-entry'>xxx, 351; Shah of Persia at war with<br>
+with, 36, 63; the Arabs rebel against, <span id="page-441" class="folio-turn">[p. 387]</span> xxx, 351; Shah of Persia at war with<br>
 (<em>see also</em> Basrā), 37, 237, 312. <em>See also</em><br>
 Grand Signor.</p><p class='index-entry'>Turmeric, 258.</p><p class='index-entry'>Turner, George, 164, 210, 238, 244, 255,<br>
 314.</p><p class='index-entry'>Turner, Thomas, 302.</p><p class='index-entry'>Turpentine, 349.</p><p class='index-entry'>Turtle-shells, 144, 181, 291, 315, 330, 339,<br>
@@ -1663,7 +1669,7 @@ Surat, 285; his salary, 314.</p><p class='index-entry'>Wills, Joseph (master of 
 a voyage to Masulipatam, 124; death of,<br>
 145.</p><p class='index-entry'>Wills, Matthew, 103 <em>n.</em>, 186.</p><p class='index-entry'>Wine, 32, 66, 83, 344; of Shīrāz, 89, 107,<br>
 164.</p><p class='index-entry'>Winterborne, Thomas, 140.</p><p class='index-entry'>Wodder, Robert, 210, 236, 319; letters<br>
-from, 236, 288, 319.</p><p class='index-entry'>Woolhouse, Rev. John, 103, 114.</p><p class='index-entry'>Woolley, Nicholas, 108, 210, 314.</p><p class='index-entry'><em>Wuqiyyah</em>, 355.</p><p class='index-entry'>Wyche, Nathaniel, 211; letters from, 229,</p><p class='index-entry'>231, 235, 238, 241, 242, 244, 245, 270,<br>
+from, 236, 288, 319.</p><p class='index-entry'>Woolhouse, Rev. John, 103, 114.</p><p class='index-entry'>Woolley, Nicholas, 108, 210, 314.</p><p class='index-entry'><em>Wuqiyyah</em>, 355.</p><p class='index-entry'>Wyche, Nathaniel, 211; letters from, 229, 231, 235, 238, 241, 242, 244, 245, 270,<br>
 273, 275; his salary, 314.</p><p class='index-entry'>Wylde, Richard, 74 <em>n.</em>, 325; letters from,<br>
 <em>passim</em>; sails for India, 24 <em>n.</em>; at Surat,<br>
 68, 129; his salary, 74 <em>n.</em>, 314; and<br>

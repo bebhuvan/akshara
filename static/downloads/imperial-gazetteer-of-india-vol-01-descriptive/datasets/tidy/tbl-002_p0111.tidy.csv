@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-002,Table 2,111,73,1,data,,5. Upper Ceratite limestones,2,Column 2,Zone of Stephanites superbus.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-002,Table 2,111,73,2,data,,4. Ceratite sandstones,2,Column 2,Zone of Flemingites flemingianus.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-002,Table 2,111,73,3,data,,3. } Ceratite marls . . . 2,2,Column 2,{ Zone of Koninckites volutus. {  „   „  Prionolobus rotundatus.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-002,Table 2,111,73,4,data,,1. Lower Ceratite limestones,2,Column 2,Zone of Celtites sp.,,,False,False

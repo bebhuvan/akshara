@@ -3378,7 +3378,7 @@
     "column_index": 4,
     "column_header": "Average rate of exchange in pence per rupee.",
     "raw_text": "19·4",
-    "value_numeric": null,
+    "value_numeric": 19.4,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -3396,7 +3396,7 @@
     "column_index": 5,
     "column_header": "Gold price of wheat in Punjab in shillings per quarter.",
     "raw_text": "20·0",
-    "value_numeric": null,
+    "value_numeric": 20.0,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -3414,7 +3414,7 @@
     "column_index": 6,
     "column_header": "Average price in London of British wheat per quarter in shillings.",
     "raw_text": "41·9",
-    "value_numeric": null,
+    "value_numeric": 41.9,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -3468,7 +3468,7 @@
     "column_index": 4,
     "column_header": "Average rate of exchange in pence per rupee.",
     "raw_text": "15·5",
-    "value_numeric": null,
+    "value_numeric": 15.5,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -3486,7 +3486,7 @@
     "column_index": 5,
     "column_header": "Gold price of wheat in Punjab in shillings per quarter.",
     "raw_text": "21·9",
-    "value_numeric": null,
+    "value_numeric": 21.9,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -3504,7 +3504,7 @@
     "column_index": 6,
     "column_header": "Average price in London of British wheat per quarter in shillings.",
     "raw_text": "29·0",
-    "value_numeric": null,
+    "value_numeric": 29.0,
     "unit": "GBP",
     "is_null_or_leader": false,
     "arithmetic_verified": true

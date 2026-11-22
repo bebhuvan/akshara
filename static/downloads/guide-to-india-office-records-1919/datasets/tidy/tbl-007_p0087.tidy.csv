@@ -1,0 +1,3 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+guide-to-india-office-records-1919,tbl-007,ACCOUNTS.,87,67,1,data,,Treasury Accounts,2,Column 2,1834–36.,,,False,False
+guide-to-india-office-records-1919,tbl-007,ACCOUNTS.,87,67,2,data,,General Journals and Ledgers,2,Column 2,1834–36.,,,False,False

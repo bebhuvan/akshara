@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1661–1664"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Calendar of Documents in the India Office, Etc."
 author: "William Foster"
 author_slug: "william-foster"
@@ -21,8 +21,8 @@ layout: "book"
 collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
-edition_tier: "machine_checked"
-rubric_score: 100.0
+edition_tier: "community"
+rubric_score: 94.0
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -37,15 +37,15 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Orthography & Diacritics"
-    score: 25.0
+    score: 19.0
     max: 25.0
-    notes: "Clean (0 deductions)"
+    notes: "-6.0: 2 script/codepoint anomaly(ies)"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Machine-checked; 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (2 open review items); 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 11 fixes · 10 pp. checked"
+  - "Scan-Triaged: 18 fixes · 10 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -104,7 +104,7 @@ editorial_note_markdown: |-
   - **Source File**: `english-factories-india-1661-1664-vol-11.originals.pdf`
   - **Source SHA-256**: `12a73f10fcbe3ad591f93fa6b3be3c0614ec777c2b8da49d5c90a682cfd8935e`
   - **Leaf Accounting**: 446 PDF leaves — **438** content leaves transcribed, **8** blank/tissue leaves (`2, 3, 4, 5, 6, 14, 443, 444`), **0** failed leaves.
-  - **Edition Status**: `machine_checked` (**100.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**94.0 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -115,16 +115,17 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (438 pp.).
   - **Reader**: Read by gemini-3.8-flash on 438 of 438 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 11 replayed correction(s). Machine-checked; 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 18 replayed correction(s). Automated reading (2 open review items); 10 of 438 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **15 finding(s) across 10 leaf(s)** (pp. 13, 23, 69, 79, 101, 244, 354, 411, 424, 442): attested compositor spelling variants preserved diplomatically from the scan.
-  - **7 finding(s) across 7 leaf(s)** (pp. 150, 161, 203, 241, 276, 426, 441): rare character.
+  - **8 finding(s) across 8 leaf(s)** (pp. 84, 150, 161, 203, 241, 276, 426, 441): rare character.
+  - **2 finding(s) across 2 leaf(s)** (pp. 84, 311): script anomaly.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 A Calendar of Documents in the India Office, Etc. Archival scope: spanning 1661-1664; covering Surat, Bombay, Malabar, Madras, Hugli, Patna; focusing on factory records, cession of bombay, shivaji sack of surat, bengal trade, pepper and cloth. Original imprint: Oxford: Clarendon Press (1923).
 
-Digitized from Internet Archive copy [`englishfactories11fost`](https://archive.org/details/englishfactories11fost) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (398), and statistical tables (0) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`englishfactories11fost`](https://archive.org/details/englishfactories11fost) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **94.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (398), and statistical tables (0) are preserved faithfully from the source camera scans.

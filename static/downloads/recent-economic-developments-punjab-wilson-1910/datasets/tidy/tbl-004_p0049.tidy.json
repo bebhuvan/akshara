@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "29·9",
-    "value_numeric": null,
+    "value_numeric": 29.9,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -30,7 +30,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "24·5",
-    "value_numeric": null,
+    "value_numeric": 24.5,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -48,7 +48,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "29·3",
-    "value_numeric": null,
+    "value_numeric": 29.3,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -66,7 +66,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "27·9",
-    "value_numeric": null,
+    "value_numeric": 27.9,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -84,7 +84,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "10·8",
-    "value_numeric": null,
+    "value_numeric": 10.8,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -102,7 +102,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "10·8",
-    "value_numeric": null,
+    "value_numeric": 10.8,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "10·4",
-    "value_numeric": null,
+    "value_numeric": 10.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -138,7 +138,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "10·7",
-    "value_numeric": null,
+    "value_numeric": 10.7,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -156,7 +156,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "3·1",
-    "value_numeric": null,
+    "value_numeric": 3.1,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "4·0",
-    "value_numeric": null,
+    "value_numeric": 4.0,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -192,7 +192,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "3·1",
-    "value_numeric": null,
+    "value_numeric": 3.1,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -210,7 +210,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "3·4",
-    "value_numeric": null,
+    "value_numeric": 3.4,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -228,7 +228,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "7·4",
-    "value_numeric": null,
+    "value_numeric": 7.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -246,7 +246,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "6·3",
-    "value_numeric": null,
+    "value_numeric": 6.3,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -264,7 +264,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "6·9",
-    "value_numeric": null,
+    "value_numeric": 6.9,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -282,7 +282,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "6·9",
-    "value_numeric": null,
+    "value_numeric": 6.9,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -372,7 +372,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "4·0",
-    "value_numeric": null,
+    "value_numeric": 4.0,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -390,7 +390,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "8·1",
-    "value_numeric": null,
+    "value_numeric": 8.1,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -408,7 +408,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "5·1",
-    "value_numeric": null,
+    "value_numeric": 5.1,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -444,7 +444,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "25·9",
-    "value_numeric": null,
+    "value_numeric": 25.9,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -462,7 +462,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "16·4",
-    "value_numeric": null,
+    "value_numeric": 16.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -480,7 +480,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "24·2",
-    "value_numeric": null,
+    "value_numeric": 24.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -498,7 +498,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "22·2",
-    "value_numeric": null,
+    "value_numeric": 22.2,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -516,7 +516,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "9·6",
-    "value_numeric": null,
+    "value_numeric": 9.6,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -534,7 +534,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "7·4",
-    "value_numeric": null,
+    "value_numeric": 7.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -552,7 +552,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "8·4",
-    "value_numeric": null,
+    "value_numeric": 8.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -570,7 +570,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "8·5",
-    "value_numeric": null,
+    "value_numeric": 8.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -588,7 +588,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "4·5",
-    "value_numeric": null,
+    "value_numeric": 4.5,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -606,7 +606,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·8",
-    "value_numeric": null,
+    "value_numeric": 1.8,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -624,7 +624,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "4·2",
-    "value_numeric": null,
+    "value_numeric": 4.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -642,7 +642,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "3·5",
-    "value_numeric": null,
+    "value_numeric": 3.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -660,7 +660,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "2·5",
-    "value_numeric": null,
+    "value_numeric": 2.5,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -678,7 +678,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "2·6",
-    "value_numeric": null,
+    "value_numeric": 2.6,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -696,7 +696,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "3·2",
-    "value_numeric": null,
+    "value_numeric": 3.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -714,7 +714,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "2·8",
-    "value_numeric": null,
+    "value_numeric": 2.8,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -732,7 +732,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "1·6",
-    "value_numeric": null,
+    "value_numeric": 1.6,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -750,7 +750,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·4",
-    "value_numeric": null,
+    "value_numeric": 1.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -768,7 +768,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "1·6",
-    "value_numeric": null,
+    "value_numeric": 1.6,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -786,7 +786,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "1·5",
-    "value_numeric": null,
+    "value_numeric": 1.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -804,7 +804,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "1·3",
-    "value_numeric": null,
+    "value_numeric": 1.3,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -822,7 +822,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·4",
-    "value_numeric": null,
+    "value_numeric": 1.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -840,7 +840,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "1·2",
-    "value_numeric": null,
+    "value_numeric": 1.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -858,7 +858,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "1·3",
-    "value_numeric": null,
+    "value_numeric": 1.3,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -876,7 +876,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "1·2",
-    "value_numeric": null,
+    "value_numeric": 1.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -894,7 +894,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·2",
-    "value_numeric": null,
+    "value_numeric": 1.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -912,7 +912,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "1·2",
-    "value_numeric": null,
+    "value_numeric": 1.2,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -930,7 +930,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "1·2",
-    "value_numeric": null,
+    "value_numeric": 1.2,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -948,7 +948,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "1·7",
-    "value_numeric": null,
+    "value_numeric": 1.7,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -966,7 +966,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·6",
-    "value_numeric": null,
+    "value_numeric": 1.6,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -984,7 +984,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "1·7",
-    "value_numeric": null,
+    "value_numeric": 1.7,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1002,7 +1002,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "1·7",
-    "value_numeric": null,
+    "value_numeric": 1.7,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1020,7 +1020,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "1·6",
-    "value_numeric": null,
+    "value_numeric": 1.6,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1038,7 +1038,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·0",
-    "value_numeric": null,
+    "value_numeric": 1.0,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1056,7 +1056,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "1·4",
-    "value_numeric": null,
+    "value_numeric": 1.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1074,7 +1074,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "1·3",
-    "value_numeric": null,
+    "value_numeric": 1.3,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1092,7 +1092,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "1·3",
-    "value_numeric": null,
+    "value_numeric": 1.3,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1110,7 +1110,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "1·3",
-    "value_numeric": null,
+    "value_numeric": 1.3,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1128,7 +1128,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "1·4",
-    "value_numeric": null,
+    "value_numeric": 1.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1146,7 +1146,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "1·3",
-    "value_numeric": null,
+    "value_numeric": 1.3,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1164,7 +1164,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "0·3",
-    "value_numeric": null,
+    "value_numeric": 0.3,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1182,7 +1182,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "0·4",
-    "value_numeric": null,
+    "value_numeric": 0.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1200,7 +1200,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "0·4",
-    "value_numeric": null,
+    "value_numeric": 0.4,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1218,7 +1218,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "0·4",
-    "value_numeric": null,
+    "value_numeric": 0.4,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1236,7 +1236,7 @@
     "column_index": 2,
     "column_header": "1906–7.",
     "raw_text": "2·5",
-    "value_numeric": null,
+    "value_numeric": 2.5,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1254,7 +1254,7 @@
     "column_index": 3,
     "column_header": "1907–8.",
     "raw_text": "2·9",
-    "value_numeric": null,
+    "value_numeric": 2.9,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1272,7 +1272,7 @@
     "column_index": 4,
     "column_header": "1908–9.",
     "raw_text": "2·7",
-    "value_numeric": null,
+    "value_numeric": 2.7,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1290,7 +1290,7 @@
     "column_index": 5,
     "column_header": "Average of the three years.",
     "raw_text": "2·8",
-    "value_numeric": null,
+    "value_numeric": 2.8,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

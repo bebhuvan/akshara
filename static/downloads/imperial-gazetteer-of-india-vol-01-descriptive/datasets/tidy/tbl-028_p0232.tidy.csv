@@ -1,0 +1,6 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-028,Table 28,232,194,1,data,,1. Gramineae (1),2,Column 2,6. Euphorbiaceae (6).,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-028,Table 28,232,194,2,data,,2. Leguminosae (2),2,Column 2,7. Acanthaceae (3).,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-028,Table 28,232,194,3,data,,3. Orchideae (4),2,Column 2,8. Compositae (8).,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-028,Table 28,232,194,4,data,,4. Cyperaceae (5),2,Column 2,9. Urticaceae.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-028,Table 28,232,194,5,data,,5. Rubiaceae (7),2,Column 2,10. Melastomaceae.,,,False,False

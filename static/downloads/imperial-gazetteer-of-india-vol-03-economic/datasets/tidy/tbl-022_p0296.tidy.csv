@@ -1,0 +1,23 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,1,data,,1. Vegetable dyes and tans,2,Imports for 1903-4. In lakhs of rupees.,12.75,12.75,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,1,data,,1. Vegetable dyes and tans,3,Exports for 1903-4. In lakhs of rupees.,"1,74.66",174.66,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,2,data,,2. Animal dyes,2,Imports for 1903-4. In lakhs of rupees.,1.19,1.19,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,2,data,,2. Animal dyes,3,Exports for 1903-4. In lakhs of rupees.,Nil.,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,3,data,,3. Mineral dyes,2,Imports for 1903-4. In lakhs of rupees.,82.67,82.67,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,3,data,,3. Mineral dyes,3,Exports for 1903-4. In lakhs of rupees.,Nil.,0.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,4,data,,4. Others not specified,2,Imports for 1903-4. In lakhs of rupees.,1.60,1.6,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,4,data,,4. Others not specified,3,Exports for 1903-4. In lakhs of rupees.,0.96,0.96,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,5,total,,Grand Total,2,Imports for 1903-4. In lakhs of rupees.,98.21,98.21,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,5,total,,Grand Total,3,Exports for 1903-4. In lakhs of rupees.,"1,75.62",175.62,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,6,header,,Row 6,2,Imports for 1903-4. In lakhs of rupees.,Imports.,,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,6,header,,Row 6,3,Exports for 1903-4. In lakhs of rupees.,Exports.,,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,7,subtotal,,Grand Total for 1876-7,2,Imports for 1903-4. In lakhs of rupees.,12.66,12.66,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,7,subtotal,,Grand Total for 1876-7,3,Exports for 1903-4. In lakhs of rupees.,"3,53.11",353.11,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,8,data,,„ „ 1886-7,2,Imports for 1903-4. In lakhs of rupees.,26.13,26.13,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,8,data,,„ „ 1886-7,3,Exports for 1903-4. In lakhs of rupees.,"4,33.56",433.56,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,9,data,,„ „ 1896-7,2,Imports for 1903-4. In lakhs of rupees.,73.13,73.13,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,9,data,,„ „ 1896-7,3,Exports for 1903-4. In lakhs of rupees.,"5,00.97",500.97,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,10,data,,„ „ 1901-2,2,Imports for 1903-4. In lakhs of rupees.,79.05,79.05,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,10,data,,„ „ 1901-2,3,Exports for 1903-4. In lakhs of rupees.,"2,43.85",243.85,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,11,data,,„ „ 1902-3,2,Imports for 1903-4. In lakhs of rupees.,81.06,81.06,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-022,TABLE III. TRADE IN DYES AND TANS,296,254,11,data,,„ „ 1902-3,3,Exports for 1903-4. In lakhs of rupees.,"1,83.02",183.02,Rs,False,False

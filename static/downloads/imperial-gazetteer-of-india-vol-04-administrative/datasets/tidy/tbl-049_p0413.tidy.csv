@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-049,Table 49,413,375,1,data,,Frontier Province and Punjab,2,Column 2,"3,000",3000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-049,Table 49,413,375,2,data,,Assam,2,Column 2,"3,000",3000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-049,Table 49,413,375,3,data,,Burma,2,Column 2,"15,500",15500.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-049,Table 49,413,375,4,total,,Total,2,Column 2,"21,500",21500.0,,False,True

@@ -14,7 +14,7 @@
         <edition n="community">Akshara Community Edition</edition>
         <respStmt>
           <resp>Provenance accounting</resp>
-          <name>177 extracted leaves · 15 re-read against the scan · 0 verified by a person</name>
+          <name>177 extracted leaves · 35 re-read against the scan · 0 verified by a person</name>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -65,7 +65,7 @@
           <head>THE HISTORY AND ECONOMICS OF INDIAN FAMINES</head>
           <pb xml:id="page-7" n="iii" facs="https://archive.org/download/historyeconomics00loveuoft/page/n6_w1400.jpg"/>
           <p>BY A. LOVEDAY, B.A. <hi rend="smallcaps">Late Scholar of Peterhouse, Cambridge</hi></p>
-          <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0007.webp"/><head>Publisher's printer mark: a bell tied to an anchor with decorative foliage.</head><figDesc>Publisher&#x27;s printer mark: a bell tied to an anchor with decorative foliage.</figDesc></figure>
+          <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0007.webp"/><figDesc>Publisher&#x27;s printer mark: a bell tied to an anchor with decorative foliage.</figDesc></figure>
           <p rend="imprint">LONDON
 G. BELL AND SONS LTD.
 1914</p>

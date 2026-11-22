@@ -12,7 +12,7 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition n="machine_checked">Akshara Machine Checked Edition</edition>
+        <edition n="community">Akshara Community Edition</edition>
         <respStmt>
           <resp>Provenance accounting</resp>
           <name>60 extracted leaves · 3 re-read against the scan · 0 verified by a person</name>
@@ -97,9 +97,9 @@ BUNGAY SUFFOLK.</hi></p>
         <row role="label"><cell role="label"></cell><cell role="label">1886–7.</cell><cell role="label">1908–9.</cell></row>
         <row role="data"><cell>Average area under cultivation (millions of acres)</cell><cell rend="num">22</cell><cell rend="num">28</cell></row>
         <row role="data"><cell>Average area irrigated (millions of acres)</cell><cell rend="num">6</cell><cell rend="num">11</cell></row>
-        <row role="data"><cell>Average area sown (millions of acres)</cell><cell>20·5</cell><cell rend="num">28</cell></row>
-        <row role="data"><cell>Total population (millions)</cell><cell>18·5</cell><cell rend="num">20</cell></row>
-        <row role="data"><cell>Average area sown per head of population (acres)</cell><cell>1·1</cell><cell>1·4</cell></row>
+        <row role="data"><cell>Average area sown (millions of acres)</cell><cell rend="num">20·5</cell><cell rend="num">28</cell></row>
+        <row role="data"><cell>Total population (millions)</cell><cell rend="num">18·5</cell><cell rend="num">20</cell></row>
+        <row role="data"><cell>Average area sown per head of population (acres)</cell><cell rend="num">1·1</cell><cell rend="num">1·4</cell></row>
       </table>
             <p>In the last 22 years the average area sown per head of population has increased from 1·1 to 1·4 of an acre, an increase of 27 per cent. It is necessary to allow for the great increase in the average yield due to the extension of irrigation ; for an irrigated acre produces on the average about double the produce per sown acre given by unirrigated land. If we allow for this by multiplying the irrigated area by two, we find that the increase in the total <pb xml:id="page-9" n="9" facs="https://archive.org/download/recenteconomicde00wilsrich/page/n8_w1400.jpg"/> produce since 1887 must be, not in the proportion of 20·5 to 28, but in the proportion of 26·5 to 39, that is, it must have increased by nearly 50 per cent. ; and the average produce per head of population must have increased in the proportion of 143 to 195, that is, by 36 per cent. These figures are necessarily only approximate, but there can be no doubt that the agricultural land of the Punjab now produces far more per head of population than it did a quarter of a century ago. As I shall show, all classes of the people have shared in the increase of prosperity indicated by these figures. We have no millionaires in the Punjab, and comparatively few rich landowners and merchants.<ref xml:id="ref-sec-02-fn-001" type="noteref" target="#sec-02-fn-001">1</ref></p>
           </div>
@@ -111,14 +111,14 @@ BUNGAY SUFFOLK.</hi></p>
             <table xml:id="tbl-002" rows="10" cols="6">
         <row role="label"><cell role="label" cols="3"><hi rend="smallcaps">Imports.</hi></cell><cell role="label" cols="3"><hi rend="smallcaps">Exports.</hi></cell></row>
         <row role="label"><cell role="label">Articles.</cell><cell role="label">Value in millions of pounds.</cell><cell role="label">Per cent. of total.</cell><cell role="label">Articles.</cell><cell role="label">Value in millions of pounds.</cell><cell role="label">Per cent. of total.</cell></row>
-        <row role="data" rend="total"><cell>Total articles</cell><cell>15·73</cell><cell rend="num">100</cell><cell>Total articles</cell><cell>14·00</cell><cell rend="num">100</cell></row>
-        <row role="data"><cell>Cotton piece-goods</cell><cell>4·35</cell><cell rend="num">28</cell><cell>Total grain and pulse</cell><cell>7·75</cell><cell rend="num">55</cell></row>
-        <row role="data"><cell>Sugar</cell><cell>2·01</cell><cell rend="num">13</cell><cell>Wheat and wheat-flour</cell><cell>4·74</cell><cell rend="num">33</cell></row>
-        <row role="data"><cell>Metals</cell><cell>1·40</cell><cell rend="num">9</cell><cell>Raw cotton</cell><cell>1·51</cell><cell rend="num">11</cell></row>
-        <row role="data"><cell>Railway plant</cell><cell>0·88</cell><cell rend="num">6</cell><cell>Oilseeds</cell><cell>0·91</cell><cell rend="num">6</cell></row>
-        <row role="data"><cell>Oils and oilseeds</cell><cell>0·91</cell><cell rend="num">6</cell><cell>Hides and skins</cell><cell>0·73</cell><cell rend="num">5</cell></row>
-        <row role="data"><cell>Coal and coke</cell><cell>0·48</cell><cell rend="num">3</cell><cell>Wool</cell><cell>0 31</cell><cell rend="num">2</cell></row>
-        <row role="data"><cell>Jute goods</cell><cell>0·57</cell><cell rend="num">4</cell><cell></cell><cell></cell><cell></cell></row>
+        <row role="data" rend="total"><cell>Total articles</cell><cell rend="num">15·73</cell><cell rend="num">100</cell><cell>Total articles</cell><cell rend="num">14·00</cell><cell rend="num">100</cell></row>
+        <row role="data"><cell>Cotton piece-goods</cell><cell rend="num">4·35</cell><cell rend="num">28</cell><cell>Total grain and pulse</cell><cell rend="num">7·75</cell><cell rend="num">55</cell></row>
+        <row role="data"><cell>Sugar</cell><cell rend="num">2·01</cell><cell rend="num">13</cell><cell>Wheat and wheat-flour</cell><cell rend="num">4·74</cell><cell rend="num">33</cell></row>
+        <row role="data"><cell>Metals</cell><cell rend="num">1·40</cell><cell rend="num">9</cell><cell>Raw cotton</cell><cell rend="num">1·51</cell><cell rend="num">11</cell></row>
+        <row role="data"><cell>Railway plant</cell><cell rend="num">0·88</cell><cell rend="num">6</cell><cell>Oilseeds</cell><cell rend="num">0·91</cell><cell rend="num">6</cell></row>
+        <row role="data"><cell>Oils and oilseeds</cell><cell rend="num">0·91</cell><cell rend="num">6</cell><cell>Hides and skins</cell><cell rend="num">0·73</cell><cell rend="num">5</cell></row>
+        <row role="data"><cell>Coal and coke</cell><cell rend="num">0·48</cell><cell rend="num">3</cell><cell>Wool</cell><cell>0 31</cell><cell rend="num">2</cell></row>
+        <row role="data"><cell>Jute goods</cell><cell rend="num">0·57</cell><cell rend="num">4</cell><cell></cell><cell></cell><cell></cell></row>
       </table>
             <p>Of the import trade 28 per cent. is cotton piece-goods of the annual value of 4⅓ million sterling, about two-thirds of this total coming from Lancashire ; 13 per cent. is sugar of the annual value of £2,000,000. There are large and growing imports of metals and railway plant of the average value of over £2,000,000. The import of coal from Bengal is small, but increasing ; and there is a considerable import of jute goods, also from Bengal, chiefly used as grain sacks. The exports consist almost entirely of raw agricultural and pastoral produce. Wheat and wheat flour of the value of £4,740,000 sterling (a third of the value of the total exports) are annually exported, and the exports of grain and pulse of all kinds, including wheat, amount to £7,750,000 sterling annually ; raw cotton accounts for £1,500,000, oilseeds for £1,000,000, and hides, skins, and wool for another £1,000,000 annually.</p>
             <p>In order to eliminate the effect of rising prices on these statistics, I have given in the appendix the weights of imports and exports of grain and pulse. It will be seen that with the exception of the last very dry year there has been a rapid increase in these eight years in the net exports of these articles, and that on the average of the last four years of the series (including the bad year) the net export amounted to 34 million maunds (or 1¼ million tons), of which 23 million maunds (or 800,000 tons) were wheat. In ordinary years the greater part of the wheat, oilseeds and cotton exported from the Punjab goes through Karachi to Europe, and in the summer of 1907 there was, as usual, a large export in that direction ; but in the end of that year the serious failure of rain in the United Provinces led to a very <pb xml:id="page-12" n="12" facs="https://archive.org/download/recenteconomicde00wilsrich/page/n11_w1400.jpg"/> rapid rise of prices there, which attracted great quantities of grain from the Punjab. During the summer of 1908, the scarcity in the United Provinces continued, and as there was also widespread drought in the Punjab, the surplus available for export was much less than usual, and stocks had been depleted by the large export of the previous winter. In the year ending March, 1909, the net exports of grain and pulse from the Punjab area were only 12 million maunds, as compared with 50 million in the year before, and the net exports of wheat fell off from 32 to 9 million maunds. The available surplus still went mainly to the United Provinces, in answer to the high prices there, and the exports of wheat from Karachi, in the busy season, April to August, which had averaged 514,000 tons for the previous four years, fell off to only 44,000 tons. In 1909 the harvests in the United Provinces were good, and high prices in Europe again attracted the Punjab surplus, which was large owing to a favourable year, and during the seven months, April to October last year, the exports of wheat from Karachi amounted to 627,000 tons, most of which must have come from the Punjab. There is also a considerable export of Punjab wheat towards Calcutta and Bombay; and during the present financial year the agriculturists of the Punjab must have received something like £6,000,000 sterling for their surplus wheat alone.</p>
@@ -227,25 +227,25 @@ BUNGAY SUFFOLK.</hi></p>
           <table xml:id="tbl-004" rows="20" cols="5">
       <head><hi rend="smallcaps">Cultivated, Irrigated, and Cropped Area of the 29 British Districts of the Punjab (Millions of Acres).</hi></head>
       <row role="label"><cell role="label">Year ending 31st May.</cell><cell role="label">1906–7.</cell><cell role="label">1907–8.</cell><cell role="label">1908–9.</cell><cell role="label">Average of the three years.</cell></row>
-      <row role="data"><cell>Area sown</cell><cell>29·9</cell><cell>24·5</cell><cell>29·3</cell><cell>27·9</cell></row>
-      <row role="data"><cell>Area irrigated—total</cell><cell>10·8</cell><cell>10·8</cell><cell>10·4</cell><cell>10·7</cell></row>
-      <row role="data"><cell>,, —by wells</cell><cell>3·1</cell><cell>4·0</cell><cell>3·1</cell><cell>3·4</cell></row>
-      <row role="data"><cell>,, —by canals</cell><cell>7·4</cell><cell>6·3</cell><cell>6·9</cell><cell>6·9</cell></row>
+      <row role="data"><cell>Area sown</cell><cell rend="num">29·9</cell><cell rend="num">24·5</cell><cell rend="num">29·3</cell><cell rend="num">27·9</cell></row>
+      <row role="data"><cell>Area irrigated—total</cell><cell rend="num">10·8</cell><cell rend="num">10·8</cell><cell rend="num">10·4</cell><cell rend="num">10·7</cell></row>
+      <row role="data"><cell>,, —by wells</cell><cell rend="num">3·1</cell><cell rend="num">4·0</cell><cell rend="num">3·1</cell><cell rend="num">3·4</cell></row>
+      <row role="data"><cell>,, —by canals</cell><cell rend="num">7·4</cell><cell rend="num">6·3</cell><cell rend="num">6·9</cell><cell rend="num">6·9</cell></row>
       <row role="data"><cell>Number of wells in use (thousands)</cell><cell rend="num">279</cell><cell rend="num">294</cell><cell rend="num">285</cell><cell rend="num">286</cell></row>
-      <row role="data"><cell>Crops that failed to mature</cell><cell>4·0</cell><cell>8·1</cell><cell>5·1</cell><cell>5 7</cell></row>
-      <row role="data"><cell>Crops that matured</cell><cell>25·9</cell><cell>16·4</cell><cell>24·2</cell><cell>22·2</cell></row>
+      <row role="data"><cell>Crops that failed to mature</cell><cell rend="num">4·0</cell><cell rend="num">8·1</cell><cell rend="num">5·1</cell><cell>5 7</cell></row>
+      <row role="data"><cell>Crops that matured</cell><cell rend="num">25·9</cell><cell rend="num">16·4</cell><cell rend="num">24·2</cell><cell rend="num">22·2</cell></row>
       <row role="label" rend="subheader"><cell>Principal crops—sown area—</cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
-      <row role="data"><cell>Wheat</cell><cell>9·6</cell><cell>7·4</cell><cell>8·4</cell><cell>8·5</cell></row>
-      <row role="data"><cell>Gram</cell><cell>4·5</cell><cell>1·8</cell><cell>4·2</cell><cell>3·5</cell></row>
-      <row role="data"><cell>Bajra</cell><cell>2·5</cell><cell>2·6</cell><cell>3·2</cell><cell>2·8</cell></row>
-      <row role="data"><cell>Jawar</cell><cell>1·6</cell><cell>1·4</cell><cell>1·6</cell><cell>1·5</cell></row>
-      <row role="data"><cell>Barley</cell><cell>1·3</cell><cell>1·4</cell><cell>1·2</cell><cell>1·3</cell></row>
-      <row role="data"><cell>Maize</cell><cell>1·2</cell><cell>1·2</cell><cell>1·2</cell><cell>1·2</cell></row>
-      <row role="data"><cell>Pulses</cell><cell>1·7</cell><cell>1·6</cell><cell>1·7</cell><cell>1·7</cell></row>
-      <row role="data"><cell>Oilseeds</cell><cell>1·6</cell><cell>1·0</cell><cell>1·4</cell><cell>1·3</cell></row>
-      <row role="data"><cell>Cotton</cell><cell>1·3</cell><cell>1·3</cell><cell>1·4</cell><cell>1·3</cell></row>
-      <row role="data"><cell>Sugar-cane</cell><cell>0·3</cell><cell>0·4</cell><cell>0·4</cell><cell>0·4</cell></row>
-      <row role="data"><cell>Fodder crops</cell><cell>2·5</cell><cell>2·9</cell><cell>2·7</cell><cell>2·8</cell></row>
+      <row role="data"><cell>Wheat</cell><cell rend="num">9·6</cell><cell rend="num">7·4</cell><cell rend="num">8·4</cell><cell rend="num">8·5</cell></row>
+      <row role="data"><cell>Gram</cell><cell rend="num">4·5</cell><cell rend="num">1·8</cell><cell rend="num">4·2</cell><cell rend="num">3·5</cell></row>
+      <row role="data"><cell>Bajra</cell><cell rend="num">2·5</cell><cell rend="num">2·6</cell><cell rend="num">3·2</cell><cell rend="num">2·8</cell></row>
+      <row role="data"><cell>Jawar</cell><cell rend="num">1·6</cell><cell rend="num">1·4</cell><cell rend="num">1·6</cell><cell rend="num">1·5</cell></row>
+      <row role="data"><cell>Barley</cell><cell rend="num">1·3</cell><cell rend="num">1·4</cell><cell rend="num">1·2</cell><cell rend="num">1·3</cell></row>
+      <row role="data"><cell>Maize</cell><cell rend="num">1·2</cell><cell rend="num">1·2</cell><cell rend="num">1·2</cell><cell rend="num">1·2</cell></row>
+      <row role="data"><cell>Pulses</cell><cell rend="num">1·7</cell><cell rend="num">1·6</cell><cell rend="num">1·7</cell><cell rend="num">1·7</cell></row>
+      <row role="data"><cell>Oilseeds</cell><cell rend="num">1·6</cell><cell rend="num">1·0</cell><cell rend="num">1·4</cell><cell rend="num">1·3</cell></row>
+      <row role="data"><cell>Cotton</cell><cell rend="num">1·3</cell><cell rend="num">1·3</cell><cell rend="num">1·4</cell><cell rend="num">1·3</cell></row>
+      <row role="data"><cell>Sugar-cane</cell><cell rend="num">0·3</cell><cell rend="num">0·4</cell><cell rend="num">0·4</cell><cell rend="num">0·4</cell></row>
+      <row role="data"><cell>Fodder crops</cell><cell rend="num">2·5</cell><cell rend="num">2·9</cell><cell rend="num">2·7</cell><cell rend="num">2·8</cell></row>
     </table>
         </div>
       </div>
@@ -257,20 +257,20 @@ BUNGAY SUFFOLK.</hi></p>
           <table xml:id="tbl-005" rows="17" cols="7">
       <head><hi rend="smallcaps">Estimated Outturn and Value of the Crops in the 29 British Districts in the Agricultural Year 1908–9 (Ending 31st May).</hi></head>
       <row role="label"><cell role="label"><hi rend="smallcaps">Crop.</hi></cell><cell role="label">Area sown in millions of acres.</cell><cell role="label">Estimated weight of produce in thousands of tons.</cell><cell role="label">Average harvest prices in rupees in 1908–9.</cell><cell role="label">Gross value at Punjab prices of the year.</cell></row>
-      <row role="label"><cell role="label">Per maund.</cell><cell role="label" cols="2">Per ton.</cell><cell role="label" cols="2">In thousands of rupees.</cell><cell role="label" cols="2">In thousands of pounds sterling.</cell></row>
-      <row role="data"><cell>Rice (unhusked)</cell><cell>0·7</cell><cell rend="num">347</cell><cell>2·7</cell><cell rend="num">74</cell><cell rend="num">25,678</cell><cell rend="num">1,712</cell></row>
-      <row role="data"><cell>Wheat</cell><cell>8·4</cell><cell rend="num">2,895</cell><cell>3·6</cell><cell rend="num">98</cell><cell rend="num">283,710</cell><cell rend="num">18,914</cell></row>
-      <row role="data"><cell>Barley</cell><cell>1·2</cell><cell rend="num">379</cell><cell>2·4</cell><cell rend="num">66</cell><cell rend="num">25,014</cell><cell rend="num">1,668</cell></row>
-      <row role="data"><cell>Jawar</cell><cell>1·6</cell><cell rend="num">311</cell><cell>2·6</cell><cell rend="num">71</cell><cell rend="num">22,081</cell><cell rend="num">1,472</cell></row>
-      <row role="data"><cell>Bajra</cell><cell>3·2</cell><cell rend="num">646</cell><cell>3·1</cell><cell rend="num">85</cell><cell rend="num">54,910</cell><cell rend="num">3,661</cell></row>
-      <row role="data"><cell>Maize</cell><cell>1·2</cell><cell rend="num">394</cell><cell>2·9</cell><cell rend="num">79</cell><cell rend="num">31,126</cell><cell rend="num">2,075</cell></row>
-      <row role="data"><cell>Gram</cell><cell>4·2</cell><cell rend="num">1,157</cell><cell>2·7</cell><cell rend="num">74</cell><cell rend="num">85,618</cell><cell rend="num">5,708</cell></row>
-      <row role="data"><cell>Spring oilseeds</cell><cell>1·3</cell><cell rend="num">189</cell><cell>4·3</cell><cell rend="num">117</cell><cell rend="num">22,113</cell><cell rend="num">1,474</cell></row>
-      <row role="data"><cell>Sugar-cane</cell><cell>0·4</cell><cell rend="num">278</cell><cell>4·6</cell><cell rend="num">126</cell><cell rend="num">35,028</cell><cell rend="num">2,335</cell></row>
-      <row role="data"><cell>Cotton</cell><cell>1·4</cell><cell rend="num">298</cell><cell>5·6</cell><cell rend="num">153</cell><cell rend="num">45,594</cell><cell rend="num">3,040</cell></row>
-      <row role="data"><cell>Other food crops</cell><cell>2·6</cell><cell rend="num">370</cell><cell>3·0</cell><cell rend="num">82</cell><cell rend="num">30,340</cell><cell rend="num">2,023</cell></row>
-      <row role="data"><cell>Fodder and other non-food crops</cell><cell>3·1</cell><cell>Omitted.</cell><cell>Omitted.</cell><cell>Omitted.</cell><cell rend="num">31,000</cell><cell rend="num">2,066</cell></row>
-      <row role="data" rend="total"><cell>Total</cell><cell>29·3</cell><cell rend="num">7,264</cell><cell>—</cell><cell>—</cell><cell rend="num">692,212</cell><cell rend="num">46,148</cell></row>
+      <row role="label"><cell role="label">Per maund.</cell><cell role="label">Per ton.</cell><cell role="label">In thousands of rupees.</cell><cell role="label">In thousands of pounds sterling.</cell></row>
+      <row role="data"><cell>Rice (unhusked)</cell><cell rend="num">0·7</cell><cell rend="num">347</cell><cell rend="num">2·7</cell><cell rend="num">74</cell><cell rend="num">25,678</cell><cell rend="num">1,712</cell></row>
+      <row role="data"><cell>Wheat</cell><cell rend="num">8·4</cell><cell rend="num">2,895</cell><cell rend="num">3·6</cell><cell rend="num">98</cell><cell rend="num">283,710</cell><cell rend="num">18,914</cell></row>
+      <row role="data"><cell>Barley</cell><cell rend="num">1·2</cell><cell rend="num">379</cell><cell rend="num">2·4</cell><cell rend="num">66</cell><cell rend="num">25,014</cell><cell rend="num">1,668</cell></row>
+      <row role="data"><cell>Jawar</cell><cell rend="num">1·6</cell><cell rend="num">311</cell><cell rend="num">2·6</cell><cell rend="num">71</cell><cell rend="num">22,081</cell><cell rend="num">1,472</cell></row>
+      <row role="data"><cell>Bajra</cell><cell rend="num">3·2</cell><cell rend="num">646</cell><cell rend="num">3·1</cell><cell rend="num">85</cell><cell rend="num">54,910</cell><cell rend="num">3,661</cell></row>
+      <row role="data"><cell>Maize</cell><cell rend="num">1·2</cell><cell rend="num">394</cell><cell rend="num">2·9</cell><cell rend="num">79</cell><cell rend="num">31,126</cell><cell rend="num">2,075</cell></row>
+      <row role="data"><cell>Gram</cell><cell rend="num">4·2</cell><cell rend="num">1,157</cell><cell rend="num">2·7</cell><cell rend="num">74</cell><cell rend="num">85,618</cell><cell rend="num">5,708</cell></row>
+      <row role="data"><cell>Spring oilseeds</cell><cell rend="num">1·3</cell><cell rend="num">189</cell><cell rend="num">4·3</cell><cell rend="num">117</cell><cell rend="num">22,113</cell><cell rend="num">1,474</cell></row>
+      <row role="data"><cell>Sugar-cane</cell><cell rend="num">0·4</cell><cell rend="num">278</cell><cell rend="num">4·6</cell><cell rend="num">126</cell><cell rend="num">35,028</cell><cell rend="num">2,335</cell></row>
+      <row role="data"><cell>Cotton</cell><cell rend="num">1·4</cell><cell rend="num">298</cell><cell rend="num">5·6</cell><cell rend="num">153</cell><cell rend="num">45,594</cell><cell rend="num">3,040</cell></row>
+      <row role="data"><cell>Other food crops</cell><cell rend="num">2·6</cell><cell rend="num">370</cell><cell rend="num">3·0</cell><cell rend="num">82</cell><cell rend="num">30,340</cell><cell rend="num">2,023</cell></row>
+      <row role="data"><cell>Fodder and other non-food crops</cell><cell rend="num">3·1</cell><cell>Omitted.</cell><cell>Omitted.</cell><cell>Omitted.</cell><cell rend="num">31,000</cell><cell rend="num">2,066</cell></row>
+      <row role="data" rend="total"><cell>Total</cell><cell rend="num">29·3</cell><cell rend="num">7,264</cell><cell>—</cell><cell>—</cell><cell rend="num">692,212</cell><cell rend="num">46,148</cell></row>
       <row role="data"><cell>Food</cell><cell>—</cell><cell rend="num">6,777</cell><cell>—</cell><cell>—</cell><cell>—</cell><cell>—</cell></row>
       <row role="data"><cell>Non - food besides fodder</cell><cell>—</cell><cell rend="num">487</cell><cell>—</cell><cell>—</cell><cell>—</cell><cell>—</cell></row>
     </table>
@@ -288,17 +288,17 @@ BUNGAY SUFFOLK.</hi></p>
         <row role="label"><cell role="label" rows="3">Year ending 31st March.</cell><cell role="label" cols="3"><hi rend="smallcaps">Total Imports.</hi></cell><cell role="label" cols="3"><hi rend="smallcaps">Total Exports.</hi></cell></row>
         <row role="label"><cell role="label" cols="2">Goods.</cell><cell role="label" rows="2">Treasure-value in millions of rupees.</cell><cell role="label" cols="2">Goods.</cell><cell role="label" rows="2">Treasure-value in millions of rupees.</cell></row>
         <row role="label"><cell role="label">Weight in millions of maunds.</cell><cell role="label">Value in millions of rupees.</cell><cell role="label">Weight in millions of maunds.</cell><cell role="label">Value in millions of rupees.</cell></row>
-        <row role="data"><cell>Average of three years ending 1889</cell><cell>10·3</cell><cell rend="num">92</cell><cell>Not known</cell><cell>13·8</cell><cell rend="num">72</cell><cell>Not known</cell></row>
-        <row role="data"><cell>1901–2</cell><cell>20·3</cell><cell rend="num">155</cell><cell rend="num">31</cell><cell>38·4</cell><cell rend="num">155</cell><cell rend="num">7</cell></row>
-        <row role="data"><cell>1902–3</cell><cell>25·3</cell><cell rend="num">156</cell><cell rend="num">22</cell><cell>26·3</cell><cell rend="num">119</cell><cell rend="num">12</cell></row>
-        <row role="data"><cell>1903–4</cell><cell>21·9</cell><cell rend="num">151</cell><cell rend="num">30</cell><cell>36·1</cell><cell rend="num">147</cell><cell rend="num">11</cell></row>
-        <row role="data"><cell>1904–5</cell><cell>24·4</cell><cell rend="num">175</cell><cell rend="num">55</cell><cell>52·6</cell><cell rend="num">187</cell><cell rend="num">11</cell></row>
-        <row role="data"><cell>1905–6</cell><cell>34·2</cell><cell rend="num">221</cell><cell rend="num">39</cell><cell>43·2</cell><cell rend="num">184</cell><cell rend="num">18</cell></row>
-        <row role="data"><cell>1906–7</cell><cell>28·7</cell><cell rend="num">224</cell><cell rend="num">34</cell><cell>54·8</cell><cell rend="num">219</cell><cell rend="num">14</cell></row>
-        <row role="data"><cell>1907–8</cell><cell>40·3</cell><cell rend="num">259</cell><cell rend="num">55</cell><cell>62·9</cell><cell rend="num">286</cell><cell rend="num">6</cell></row>
-        <row role="data"><cell>1908–9</cell><cell>42·2</cell><cell rend="num">242</cell><cell rend="num">21</cell><cell>24·4</cell><cell rend="num">153</cell><cell rend="num">15</cell></row>
-        <row role="data"><cell>Average of four years ending 1904–5</cell><cell>23·0</cell><cell rend="num">159</cell><cell rend="num">34</cell><cell>38 4</cell><cell rend="num">152</cell><cell rend="num">10</cell></row>
-        <row role="data"><cell>Average of four years ending 1908–9</cell><cell>36·4</cell><cell rend="num">236</cell><cell rend="num">37</cell><cell>46·3</cell><cell rend="num">210</cell><cell rend="num">13</cell></row>
+        <row role="data"><cell>Average of three years ending 1889</cell><cell rend="num">10·3</cell><cell rend="num">92</cell><cell>Not known</cell><cell rend="num">13·8</cell><cell rend="num">72</cell><cell>Not known</cell></row>
+        <row role="data"><cell>1901–2</cell><cell rend="num">20·3</cell><cell rend="num">155</cell><cell rend="num">31</cell><cell rend="num">38·4</cell><cell rend="num">155</cell><cell rend="num">7</cell></row>
+        <row role="data"><cell>1902–3</cell><cell rend="num">25·3</cell><cell rend="num">156</cell><cell rend="num">22</cell><cell rend="num">26·3</cell><cell rend="num">119</cell><cell rend="num">12</cell></row>
+        <row role="data"><cell>1903–4</cell><cell rend="num">21·9</cell><cell rend="num">151</cell><cell rend="num">30</cell><cell rend="num">36·1</cell><cell rend="num">147</cell><cell rend="num">11</cell></row>
+        <row role="data"><cell>1904–5</cell><cell rend="num">24·4</cell><cell rend="num">175</cell><cell rend="num">55</cell><cell rend="num">52·6</cell><cell rend="num">187</cell><cell rend="num">11</cell></row>
+        <row role="data"><cell>1905–6</cell><cell rend="num">34·2</cell><cell rend="num">221</cell><cell rend="num">39</cell><cell rend="num">43·2</cell><cell rend="num">184</cell><cell rend="num">18</cell></row>
+        <row role="data"><cell>1906–7</cell><cell rend="num">28·7</cell><cell rend="num">224</cell><cell rend="num">34</cell><cell rend="num">54·8</cell><cell rend="num">219</cell><cell rend="num">14</cell></row>
+        <row role="data"><cell>1907–8</cell><cell rend="num">40·3</cell><cell rend="num">259</cell><cell rend="num">55</cell><cell rend="num">62·9</cell><cell rend="num">286</cell><cell rend="num">6</cell></row>
+        <row role="data"><cell>1908–9</cell><cell rend="num">42·2</cell><cell rend="num">242</cell><cell rend="num">21</cell><cell rend="num">24·4</cell><cell rend="num">153</cell><cell rend="num">15</cell></row>
+        <row role="data"><cell>Average of four years ending 1904–5</cell><cell rend="num">23·0</cell><cell rend="num">159</cell><cell rend="num">34</cell><cell>38 4</cell><cell rend="num">152</cell><cell rend="num">10</cell></row>
+        <row role="data"><cell>Average of four years ending 1908–9</cell><cell rend="num">36·4</cell><cell rend="num">236</cell><cell rend="num">37</cell><cell rend="num">46·3</cell><cell rend="num">210</cell><cell rend="num">13</cell></row>
       </table>
             <table xml:id="tbl-007" rows="11" cols="9">
         <head>B.—<hi rend="italic">Value of Principal Imports into the Punjab and North-west Frontier Province (hundreds of thousands of rupees).</hi></head>
@@ -356,49 +356,49 @@ BUNGAY SUFFOLK.</hi></p>
           <table xml:id="tbl-010" rows="44" cols="5">
       <head><hi rend="smallcaps">Rupee Prices of Principal Food-grains—Annual Average of 23 Markets in the Punjab and North-west Frontier Province—Retail Prices—Rupees per Maund of</hi> 82 <hi rend="sup">2</hi>/<hi rend="sub">7</hi> <hi rend="smallcaps">lbs. Avoirdupois.</hi></head>
       <row role="label"><cell role="label">Year ending 31st Dec.</cell><cell role="label">Wheat.</cell><cell role="label">Bajra.</cell><cell role="label">Gram.</cell><cell role="label">Jawar.</cell></row>
-      <row role="data"><cell rend="num">1873</cell><cell>1·80</cell><cell>1·42</cell><cell>1·45</cell><cell>1·32</cell></row>
-      <row role="data"><cell rend="num">1874</cell><cell>1·73</cell><cell>1·61</cell><cell>1·25</cell><cell>1·45</cell></row>
-      <row role="data"><cell rend="num">1875</cell><cell>1·61</cell><cell>1·37</cell><cell>1·25</cell><cell>1·30</cell></row>
-      <row role="data"><cell rend="num">1876</cell><cell>1·54</cell><cell>1·29</cell><cell>1·09</cell><cell>1·20</cell></row>
-      <row role="data"><cell rend="num">1877</cell><cell>1·72</cell><cell>1·40</cell><cell>1·26</cell><cell>1·31</cell></row>
-      <row role="data"><cell rend="num">1878</cell><cell>2·48</cell><cell>2·61</cell><cell>2·47</cell><cell>2·40</cell></row>
-      <row role="data"><cell rend="num">1879</cell><cell>3·10</cell><cell>2·61</cell><cell>2·76</cell><cell>2·55</cell></row>
-      <row role="data"><cell rend="num">1880</cell><cell>2·74</cell><cell>2·24</cell><cell>2·20</cell><cell>2·34</cell></row>
-      <row role="data"><cell rend="num">1881</cell><cell>2·31</cell><cell>2·12</cell><cell>1·90</cell><cell>1·80</cell></row>
-      <row role="data"><cell rend="num">1882</cell><cell>1·87</cell><cell>1·64</cell><cell>1·50</cell><cell>1·39</cell></row>
-      <row role="data"><cell rend="num">1883</cell><cell>1·80</cell><cell>1·34</cell><cell>1·30</cell><cell>1·15</cell></row>
-      <row role="data"><cell rend="num">1884</cell><cell>1·68</cell><cell>1·47</cell><cell>1·27</cell><cell>1·26</cell></row>
-      <row role="data"><cell rend="num">1885</cell><cell>1·62</cell><cell>1·34</cell><cell>1·25</cell><cell>1·21</cell></row>
-      <row role="data"><cell rend="num">1886</cell><cell>2·07</cell><cell>1·86</cell><cell>1·41</cell><cell>1·62</cell></row>
-      <row role="data"><cell rend="num">1887</cell><cell>2·74</cell><cell>2·53</cell><cell>1·93</cell><cell>2·31</cell></row>
-      <row role="data"><cell rend="num">1888</cell><cell>2·58</cell><cell>2·42</cell><cell>1·98</cell><cell>2·07</cell></row>
-      <row role="data"><cell rend="num">1889</cell><cell>2·05</cell><cell>2·00</cell><cell>1·58</cell><cell>1·58</cell></row>
-      <row role="data"><cell rend="num">1890</cell><cell>2·21</cell><cell>1·90</cell><cell>1·80</cell><cell>1·69</cell></row>
-      <row role="data"><cell rend="num">1891</cell><cell>2·69</cell><cell>2·47</cell><cell>2·03</cell><cell>2·28</cell></row>
-      <row role="data"><cell rend="num">1892</cell><cell>2·96</cell><cell>2·55</cell><cell>2·00</cell><cell>2·09</cell></row>
-      <row role="data"><cell rend="num">1893</cell><cell>2·46</cell><cell>2·06</cell><cell>1·58</cell><cell>1·68</cell></row>
-      <row role="data"><cell rend="num">1894</cell><cell>1·67</cell><cell>1·73</cell><cell>1·18</cell><cell>1·28</cell></row>
-      <row role="data"><cell rend="num">1895</cell><cell>2·11</cell><cell>1·98</cell><cell>1·60</cell><cell>1·65</cell></row>
-      <row role="data"><cell rend="num">1896</cell><cell>3·18</cell><cell>3·17</cell><cell>2·57</cell><cell>2·72</cell></row>
-      <row role="data"><cell rend="num">1897</cell><cell>3·85</cell><cell>3·88</cell><cell>3·83</cell><cell>3·42</cell></row>
-      <row role="data"><cell rend="num">1898</cell><cell>2·46</cell><cell>2·05</cell><cell>2·11</cell><cell>1·83</cell></row>
-      <row role="data"><cell rend="num">1899</cell><cell>2·55</cell><cell>2·36</cell><cell>2·32</cell><cell>2·06</cell></row>
-      <row role="data"><cell rend="num">1900</cell><cell>3·55</cell><cell>3·38</cell><cell>3·46</cell><cell>3·24</cell></row>
-      <row role="data"><cell rend="num">1901</cell><cell>2·65</cell><cell>2·00</cell><cell>2·21</cell><cell>1·85</cell></row>
-      <row role="data"><cell rend="num">1902</cell><cell>2·52</cell><cell>2·26</cell><cell>2·42</cell><cell>1·87</cell></row>
-      <row role="data"><cell rend="num">1903</cell><cell>2·45</cell><cell>2·14</cell><cell>1·91</cell><cell>1·84</cell></row>
-      <row role="data"><cell rend="num">1904</cell><cell>2·26</cell><cell>1·73</cell><cell>1·54</cell><cell>1·40</cell></row>
-      <row role="data"><cell rend="num">1905</cell><cell>2·67</cell><cell>2·18</cell><cell>1·95</cell><cell>1·87</cell></row>
-      <row role="data"><cell rend="num">1906</cell><cell>2·73</cell><cell>2·85</cell><cell>2·36</cell><cell>2·51</cell></row>
-      <row role="data"><cell rend="num">1907</cell><cell>2·90</cell><cell>2·33</cell><cell>2·45</cell><cell>2·14</cell></row>
-      <row role="data"><cell rend="num">1908</cell><cell>4·19</cell><cell>3·79</cell><cell>3·89</cell><cell>3·52</cell></row>
-      <row role="data"><cell rend="num">1909<ref xml:id="ref-sec-06-fn-001" type="noteref" target="#sec-06-fn-001">1</ref></cell><cell>3·67</cell><cell>2·52</cell><cell>2·59</cell><cell>2·35</cell></row>
+      <row role="data"><cell rend="num">1873</cell><cell rend="num">1·80</cell><cell rend="num">1·42</cell><cell rend="num">1·45</cell><cell rend="num">1·32</cell></row>
+      <row role="data"><cell rend="num">1874</cell><cell rend="num">1·73</cell><cell rend="num">1·61</cell><cell rend="num">1·25</cell><cell rend="num">1·45</cell></row>
+      <row role="data"><cell rend="num">1875</cell><cell rend="num">1·61</cell><cell rend="num">1·37</cell><cell rend="num">1·25</cell><cell rend="num">1·30</cell></row>
+      <row role="data"><cell rend="num">1876</cell><cell rend="num">1·54</cell><cell rend="num">1·29</cell><cell rend="num">1·09</cell><cell rend="num">1·20</cell></row>
+      <row role="data"><cell rend="num">1877</cell><cell rend="num">1·72</cell><cell rend="num">1·40</cell><cell rend="num">1·26</cell><cell rend="num">1·31</cell></row>
+      <row role="data"><cell rend="num">1878</cell><cell rend="num">2·48</cell><cell rend="num">2·61</cell><cell rend="num">2·47</cell><cell rend="num">2·40</cell></row>
+      <row role="data"><cell rend="num">1879</cell><cell rend="num">3·10</cell><cell rend="num">2·61</cell><cell rend="num">2·76</cell><cell rend="num">2·55</cell></row>
+      <row role="data"><cell rend="num">1880</cell><cell rend="num">2·74</cell><cell rend="num">2·24</cell><cell rend="num">2·20</cell><cell rend="num">2·34</cell></row>
+      <row role="data"><cell rend="num">1881</cell><cell rend="num">2·31</cell><cell rend="num">2·12</cell><cell rend="num">1·90</cell><cell rend="num">1·80</cell></row>
+      <row role="data"><cell rend="num">1882</cell><cell rend="num">1·87</cell><cell rend="num">1·64</cell><cell rend="num">1·50</cell><cell rend="num">1·39</cell></row>
+      <row role="data"><cell rend="num">1883</cell><cell rend="num">1·80</cell><cell rend="num">1·34</cell><cell rend="num">1·30</cell><cell rend="num">1·15</cell></row>
+      <row role="data"><cell rend="num">1884</cell><cell rend="num">1·68</cell><cell rend="num">1·47</cell><cell rend="num">1·27</cell><cell rend="num">1·26</cell></row>
+      <row role="data"><cell rend="num">1885</cell><cell rend="num">1·62</cell><cell rend="num">1·34</cell><cell rend="num">1·25</cell><cell rend="num">1·21</cell></row>
+      <row role="data"><cell rend="num">1886</cell><cell rend="num">2·07</cell><cell rend="num">1·86</cell><cell rend="num">1·41</cell><cell rend="num">1·62</cell></row>
+      <row role="data"><cell rend="num">1887</cell><cell rend="num">2·74</cell><cell rend="num">2·53</cell><cell rend="num">1·93</cell><cell rend="num">2·31</cell></row>
+      <row role="data"><cell rend="num">1888</cell><cell rend="num">2·58</cell><cell rend="num">2·42</cell><cell rend="num">1·98</cell><cell rend="num">2·07</cell></row>
+      <row role="data"><cell rend="num">1889</cell><cell rend="num">2·05</cell><cell rend="num">2·00</cell><cell rend="num">1·58</cell><cell rend="num">1·58</cell></row>
+      <row role="data"><cell rend="num">1890</cell><cell rend="num">2·21</cell><cell rend="num">1·90</cell><cell rend="num">1·80</cell><cell rend="num">1·69</cell></row>
+      <row role="data"><cell rend="num">1891</cell><cell rend="num">2·69</cell><cell rend="num">2·47</cell><cell rend="num">2·03</cell><cell rend="num">2·28</cell></row>
+      <row role="data"><cell rend="num">1892</cell><cell rend="num">2·96</cell><cell rend="num">2·55</cell><cell rend="num">2·00</cell><cell rend="num">2·09</cell></row>
+      <row role="data"><cell rend="num">1893</cell><cell rend="num">2·46</cell><cell rend="num">2·06</cell><cell rend="num">1·58</cell><cell rend="num">1·68</cell></row>
+      <row role="data"><cell rend="num">1894</cell><cell rend="num">1·67</cell><cell rend="num">1·73</cell><cell rend="num">1·18</cell><cell rend="num">1·28</cell></row>
+      <row role="data"><cell rend="num">1895</cell><cell rend="num">2·11</cell><cell rend="num">1·98</cell><cell rend="num">1·60</cell><cell rend="num">1·65</cell></row>
+      <row role="data"><cell rend="num">1896</cell><cell rend="num">3·18</cell><cell rend="num">3·17</cell><cell rend="num">2·57</cell><cell rend="num">2·72</cell></row>
+      <row role="data"><cell rend="num">1897</cell><cell rend="num">3·85</cell><cell rend="num">3·88</cell><cell rend="num">3·83</cell><cell rend="num">3·42</cell></row>
+      <row role="data"><cell rend="num">1898</cell><cell rend="num">2·46</cell><cell rend="num">2·05</cell><cell rend="num">2·11</cell><cell rend="num">1·83</cell></row>
+      <row role="data"><cell rend="num">1899</cell><cell rend="num">2·55</cell><cell rend="num">2·36</cell><cell rend="num">2·32</cell><cell rend="num">2·06</cell></row>
+      <row role="data"><cell rend="num">1900</cell><cell rend="num">3·55</cell><cell rend="num">3·38</cell><cell rend="num">3·46</cell><cell rend="num">3·24</cell></row>
+      <row role="data"><cell rend="num">1901</cell><cell rend="num">2·65</cell><cell rend="num">2·00</cell><cell rend="num">2·21</cell><cell rend="num">1·85</cell></row>
+      <row role="data"><cell rend="num">1902</cell><cell rend="num">2·52</cell><cell rend="num">2·26</cell><cell rend="num">2·42</cell><cell rend="num">1·87</cell></row>
+      <row role="data"><cell rend="num">1903</cell><cell rend="num">2·45</cell><cell rend="num">2·14</cell><cell rend="num">1·91</cell><cell rend="num">1·84</cell></row>
+      <row role="data"><cell rend="num">1904</cell><cell rend="num">2·26</cell><cell rend="num">1·73</cell><cell rend="num">1·54</cell><cell rend="num">1·40</cell></row>
+      <row role="data"><cell rend="num">1905</cell><cell rend="num">2·67</cell><cell rend="num">2·18</cell><cell rend="num">1·95</cell><cell rend="num">1·87</cell></row>
+      <row role="data"><cell rend="num">1906</cell><cell rend="num">2·73</cell><cell rend="num">2·85</cell><cell rend="num">2·36</cell><cell rend="num">2·51</cell></row>
+      <row role="data"><cell rend="num">1907</cell><cell rend="num">2·90</cell><cell rend="num">2·33</cell><cell rend="num">2·45</cell><cell rend="num">2·14</cell></row>
+      <row role="data"><cell rend="num">1908</cell><cell rend="num">4·19</cell><cell rend="num">3·79</cell><cell rend="num">3·89</cell><cell rend="num">3·52</cell></row>
+      <row role="data"><cell rend="num">1909<ref xml:id="ref-sec-06-fn-001" type="noteref" target="#sec-06-fn-001">1</ref></cell><cell rend="num">3·67</cell><cell rend="num">2·52</cell><cell rend="num">2·59</cell><cell rend="num">2·35</cell></row>
       <row role="label" rend="subheader"><cell>Averages.</cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
-      <row role="data"><cell>Eight years ending 1880</cell><cell>2·09</cell><cell>1·82</cell><cell>1·72</cell><cell>1·73</cell></row>
-      <row role="data"><cell>Ten years ending 1890</cell><cell>2·09</cell><cell>1·86</cell><cell>1·59</cell><cell>1·61</cell></row>
-      <row role="data"><cell>Ten years ending 1900</cell><cell>2·73</cell><cell>2·56</cell><cell>2·27</cell><cell>2·25</cell></row>
-      <row role="data"><cell>Nine years ending 1909</cell><cell>2·89</cell><cell>2·42</cell><cell>2·37</cell><cell>2·15</cell></row>
-      <row role="data" rend="total"><cell>Thirty-seven years ending 1909</cell><cell>2·46</cell><cell>2·18</cell><cell>1·99</cell><cell>1·93</cell></row>
+      <row role="data"><cell>Eight years ending 1880</cell><cell rend="num">2·09</cell><cell rend="num">1·82</cell><cell rend="num">1·72</cell><cell rend="num">1·73</cell></row>
+      <row role="data"><cell>Ten years ending 1890</cell><cell rend="num">2·09</cell><cell rend="num">1·86</cell><cell rend="num">1·59</cell><cell rend="num">1·61</cell></row>
+      <row role="data"><cell>Ten years ending 1900</cell><cell rend="num">2·73</cell><cell rend="num">2·56</cell><cell rend="num">2·27</cell><cell rend="num">2·25</cell></row>
+      <row role="data"><cell>Nine years ending 1909</cell><cell rend="num">2·89</cell><cell rend="num">2·42</cell><cell rend="num">2·37</cell><cell rend="num">2·15</cell></row>
+      <row role="data" rend="total"><cell>Thirty-seven years ending 1909</cell><cell rend="num">2·46</cell><cell rend="num">2·18</cell><cell rend="num">1·99</cell><cell rend="num">1·93</cell></row>
     </table>
         </div>
         <div type="notes">
@@ -453,8 +453,8 @@ BUNGAY SUFFOLK.</hi></p>
       <row role="data"><cell rend="num">1907</cell><cell rend="num">31</cell><cell rend="num">12.4</cell><cell rend="num">16.0</cell><cell rend="num">23.2</cell><cell rend="num">30.5</cell></row>
       <row role="data"><cell rend="num">1908</cell><cell rend="num">25</cell><cell rend="num">10.0</cell><cell rend="num">16.0</cell><cell rend="num">33.5</cell><cell rend="num">32.1</cell></row>
       <row role="data"><cell rend="num">1909</cell><cell rend="num">24</cell><cell rend="num">9.6</cell><cell rend="num">16.0</cell><cell rend="num">29.4</cell><cell rend="num">36.9</cell></row>
-      <row role="data" rend="total"><cell>Average of eighteen years ending 1890</cell><cell>—</cell><cell>—</cell><cell>19·4</cell><cell>20·0</cell><cell>41·9</cell></row>
-      <row role="data" rend="total"><cell>Average of nineteen years ending 1909</cell><cell>—</cell><cell>—</cell><cell>15·5</cell><cell>21·9</cell><cell>29·0</cell></row>
+      <row role="data" rend="total"><cell>Average of eighteen years ending 1890</cell><cell>—</cell><cell>—</cell><cell rend="num">19·4</cell><cell rend="num">20·0</cell><cell rend="num">41·9</cell></row>
+      <row role="data" rend="total"><cell>Average of nineteen years ending 1909</cell><cell>—</cell><cell>—</cell><cell rend="num">15·5</cell><cell rend="num">21·9</cell><cell rend="num">29·0</cell></row>
     </table>
         </div>
       </div>
@@ -467,47 +467,47 @@ BUNGAY SUFFOLK.</hi></p>
       <head><hi rend="smallcaps">Wages of Labour.</hi></head>
       <row role="label"><cell role="label" rows="2">Year.</cell><cell role="label" rows="2">Average monthly wages in rupees of agricultural labourer.</cell><cell role="label" rows="2">Price in rupees of two maunds of jawar at the average price of the year.</cell><cell role="label" rows="2">Margin of comfort in rupees.</cell><cell role="label" rows="2">Average monthly wages in rupees of common mason, carpenter, or blacksmith.</cell><cell role="label" cols="2">Average wages paid in rupees for unskilled labour at the Railway Locomotive workshops at Lahore.</cell></row>
       <row role="label"><cell role="label">Daily.</cell><cell role="label">Monthly.</cell></row>
-      <row role="data"><cell rend="num">1873</cell><cell>5·2</cell><cell>2·6</cell><cell>2·6</cell><cell>12·8</cell><cell>0·19</cell><cell>5·1</cell></row>
-      <row role="data"><cell rend="num">1874</cell><cell>5·4</cell><cell>2·9</cell><cell>2·5</cell><cell>11·9</cell><cell>0·19</cell><cell>5·1</cell></row>
-      <row role="data"><cell rend="num">1875</cell><cell>5·4</cell><cell>2·6</cell><cell>2·8</cell><cell>13·5</cell><cell>0·19</cell><cell>5·0</cell></row>
-      <row role="data"><cell rend="num">1876</cell><cell>5·7</cell><cell>2·4</cell><cell>3·3</cell><cell>13·6</cell><cell>0·20</cell><cell>5·1</cell></row>
-      <row role="data"><cell rend="num">1877</cell><cell>5·5</cell><cell>2·6</cell><cell>2·9</cell><cell>13·7</cell><cell>0·19</cell><cell>5·1</cell></row>
-      <row role="data"><cell rend="num">1878</cell><cell>5·4</cell><cell>4·8</cell><cell>0·6</cell><cell>13·2</cell><cell>0·19</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1879</cell><cell>6·2</cell><cell>5·1</cell><cell>1·1</cell><cell>15·0</cell><cell>0·19</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1880</cell><cell>6·2</cell><cell>4·7</cell><cell>1·5</cell><cell>15·1</cell><cell>0·19</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1881</cell><cell>6·3</cell><cell>3·6</cell><cell>2·7</cell><cell>14·7</cell><cell>0·20</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1882</cell><cell>6·3</cell><cell>2·8</cell><cell>3·5</cell><cell>13·8</cell><cell>0·20</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1883</cell><cell>6·3</cell><cell>2·3</cell><cell>4·0</cell><cell>14·6</cell><cell>0·20</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1884</cell><cell>6·1</cell><cell>2·5</cell><cell>3·6</cell><cell>14·8</cell><cell>0·20</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1885</cell><cell>6·2</cell><cell>2·4</cell><cell>3·8</cell><cell>15·9</cell><cell>0·20</cell><cell>5·2</cell></row>
-      <row role="data"><cell rend="num">1886</cell><cell>6·9</cell><cell>3·2</cell><cell>3·7</cell><cell>15 4</cell><cell>0·20</cell><cell>5·3</cell></row>
-      <row role="data"><cell rend="num">1887</cell><cell>6·8</cell><cell>4·6</cell><cell>2·2</cell><cell>15·9</cell><cell>0·22</cell><cell>5·9</cell></row>
-      <row role="data"><cell rend="num">1888</cell><cell>6·6</cell><cell>4·1</cell><cell>2·5</cell><cell>15·7</cell><cell>0·23</cell><cell>6·1</cell></row>
-      <row role="data"><cell rend="num">1889</cell><cell>6·4</cell><cell>3·2</cell><cell>3·2</cell><cell>16·4</cell><cell>0·25</cell><cell>6·5</cell></row>
-      <row role="data"><cell rend="num">1890</cell><cell>6·4</cell><cell>3·4</cell><cell>3·0</cell><cell>17·3</cell><cell>0·23</cell><cell>6·3</cell></row>
-      <row role="data"><cell rend="num">1891</cell><cell>6·4</cell><cell>4·6</cell><cell>1·8</cell><cell>15·4</cell><cell>0·24</cell><cell>6·6</cell></row>
-      <row role="data"><cell rend="num">1892</cell><cell>6·8</cell><cell>4·2</cell><cell>2·6</cell><cell>17·1</cell><cell>0·27</cell><cell>6·9</cell></row>
-      <row role="data"><cell rend="num">1893</cell><cell>6·6</cell><cell>3·4</cell><cell>3·2</cell><cell>16·5</cell><cell>0·27</cell><cell>6·9</cell></row>
-      <row role="data"><cell rend="num">1894</cell><cell>6·8</cell><cell>2·6</cell><cell>4·2</cell><cell>16·2</cell><cell>0·26</cell><cell>7·0</cell></row>
-      <row role="data"><cell rend="num">1895</cell><cell>6·7</cell><cell>3·3</cell><cell>3·4</cell><cell>16·8</cell><cell>0·28</cell><cell>7·5</cell></row>
-      <row role="data"><cell rend="num">1896</cell><cell>7·0</cell><cell>5·4</cell><cell>1·6</cell><cell>17·0</cell><cell>0·21</cell><cell>5·6</cell></row>
-      <row role="data"><cell rend="num">1897</cell><cell>6·9</cell><cell>6·8</cell><cell>0·1</cell><cell>18·2</cell><cell>0·21</cell><cell>5·6</cell></row>
-      <row role="data"><cell rend="num">1898</cell><cell>6·8</cell><cell>3·7</cell><cell>3·1</cell><cell>18·9</cell><cell>0·25</cell><cell>6·6</cell></row>
-      <row role="data"><cell rend="num">1899</cell><cell>6·8</cell><cell>4·1</cell><cell>2·7</cell><cell>19·4</cell><cell>0·23</cell><cell>6·0</cell></row>
-      <row role="data"><cell rend="num">1900</cell><cell>7·3</cell><cell>6·5</cell><cell>0·8</cell><cell>19·2</cell><cell>0·25</cell><cell>6·8</cell></row>
-      <row role="data"><cell rend="num">1901</cell><cell>7·2</cell><cell>3·7</cell><cell>3·5</cell><cell>18·9</cell><cell>0·22</cell><cell>5·9</cell></row>
-      <row role="data"><cell rend="num">1902</cell><cell>7·5</cell><cell>3·7</cell><cell>3·8</cell><cell>21·2</cell><cell>0·23</cell><cell>6·2</cell></row>
-      <row role="data"><cell rend="num">1903</cell><cell>7·0</cell><cell>3·7</cell><cell>3·3</cell><cell>20·4</cell><cell>0·22</cell><cell>6·0</cell></row>
-      <row role="data"><cell rend="num">1904</cell><cell>7·4</cell><cell>2·8</cell><cell>4·6</cell><cell>20·3</cell><cell>0·25</cell><cell>6·6</cell></row>
-      <row role="data"><cell rend="num">1905</cell><cell>7·1</cell><cell>3·7</cell><cell>3·4</cell><cell>22·7</cell><cell>0·23</cell><cell>6·1</cell></row>
-      <row role="data"><cell rend="num">1906</cell><cell>8·0</cell><cell>5·0</cell><cell>3·0</cell><cell>23·6</cell><cell>0·26</cell><cell>7·1</cell></row>
-      <row role="data"><cell rend="num">1907</cell><cell>10·8</cell><cell>4·3</cell><cell>6·5</cell><cell>25·1</cell><cell>0·30</cell><cell>8·1</cell></row>
-      <row role="data"><cell rend="num">1908</cell><cell>10·9</cell><cell>7·0</cell><cell>3·9</cell><cell>30·7</cell><cell>0·35</cell><cell>9·4</cell></row>
-      <row role="data"><cell rend="num">1909</cell><cell>10·0</cell><cell>4·7</cell><cell>5·3</cell><cell>30·0</cell><cell>0·33</cell><cell>8·6</cell></row>
+      <row role="data"><cell rend="num">1873</cell><cell rend="num">5·2</cell><cell rend="num">2·6</cell><cell rend="num">2·6</cell><cell rend="num">12·8</cell><cell rend="num">0·19</cell><cell rend="num">5·1</cell></row>
+      <row role="data"><cell rend="num">1874</cell><cell rend="num">5·4</cell><cell rend="num">2·9</cell><cell rend="num">2·5</cell><cell rend="num">11·9</cell><cell rend="num">0·19</cell><cell rend="num">5·1</cell></row>
+      <row role="data"><cell rend="num">1875</cell><cell rend="num">5·4</cell><cell rend="num">2·6</cell><cell rend="num">2·8</cell><cell rend="num">13·5</cell><cell rend="num">0·19</cell><cell rend="num">5·0</cell></row>
+      <row role="data"><cell rend="num">1876</cell><cell rend="num">5·7</cell><cell rend="num">2·4</cell><cell rend="num">3·3</cell><cell rend="num">13·6</cell><cell rend="num">0·20</cell><cell rend="num">5·1</cell></row>
+      <row role="data"><cell rend="num">1877</cell><cell rend="num">5·5</cell><cell rend="num">2·6</cell><cell rend="num">2·9</cell><cell rend="num">13·7</cell><cell rend="num">0·19</cell><cell rend="num">5·1</cell></row>
+      <row role="data"><cell rend="num">1878</cell><cell rend="num">5·4</cell><cell rend="num">4·8</cell><cell rend="num">0·6</cell><cell rend="num">13·2</cell><cell rend="num">0·19</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1879</cell><cell rend="num">6·2</cell><cell rend="num">5·1</cell><cell rend="num">1·1</cell><cell rend="num">15·0</cell><cell rend="num">0·19</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1880</cell><cell rend="num">6·2</cell><cell rend="num">4·7</cell><cell rend="num">1·5</cell><cell rend="num">15·1</cell><cell rend="num">0·19</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1881</cell><cell rend="num">6·3</cell><cell rend="num">3·6</cell><cell rend="num">2·7</cell><cell rend="num">14·7</cell><cell rend="num">0·20</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1882</cell><cell rend="num">6·3</cell><cell rend="num">2·8</cell><cell rend="num">3·5</cell><cell rend="num">13·8</cell><cell rend="num">0·20</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1883</cell><cell rend="num">6·3</cell><cell rend="num">2·3</cell><cell rend="num">4·0</cell><cell rend="num">14·6</cell><cell rend="num">0·20</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1884</cell><cell rend="num">6·1</cell><cell rend="num">2·5</cell><cell rend="num">3·6</cell><cell rend="num">14·8</cell><cell rend="num">0·20</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1885</cell><cell rend="num">6·2</cell><cell rend="num">2·4</cell><cell rend="num">3·8</cell><cell rend="num">15·9</cell><cell rend="num">0·20</cell><cell rend="num">5·2</cell></row>
+      <row role="data"><cell rend="num">1886</cell><cell rend="num">6·9</cell><cell rend="num">3·2</cell><cell rend="num">3·7</cell><cell>15 4</cell><cell rend="num">0·20</cell><cell rend="num">5·3</cell></row>
+      <row role="data"><cell rend="num">1887</cell><cell rend="num">6·8</cell><cell rend="num">4·6</cell><cell rend="num">2·2</cell><cell rend="num">15·9</cell><cell rend="num">0·22</cell><cell rend="num">5·9</cell></row>
+      <row role="data"><cell rend="num">1888</cell><cell rend="num">6·6</cell><cell rend="num">4·1</cell><cell rend="num">2·5</cell><cell rend="num">15·7</cell><cell rend="num">0·23</cell><cell rend="num">6·1</cell></row>
+      <row role="data"><cell rend="num">1889</cell><cell rend="num">6·4</cell><cell rend="num">3·2</cell><cell rend="num">3·2</cell><cell rend="num">16·4</cell><cell rend="num">0·25</cell><cell rend="num">6·5</cell></row>
+      <row role="data"><cell rend="num">1890</cell><cell rend="num">6·4</cell><cell rend="num">3·4</cell><cell rend="num">3·0</cell><cell rend="num">17·3</cell><cell rend="num">0·23</cell><cell rend="num">6·3</cell></row>
+      <row role="data"><cell rend="num">1891</cell><cell rend="num">6·4</cell><cell rend="num">4·6</cell><cell rend="num">1·8</cell><cell rend="num">15·4</cell><cell rend="num">0·24</cell><cell rend="num">6·6</cell></row>
+      <row role="data"><cell rend="num">1892</cell><cell rend="num">6·8</cell><cell rend="num">4·2</cell><cell rend="num">2·6</cell><cell rend="num">17·1</cell><cell rend="num">0·27</cell><cell rend="num">6·9</cell></row>
+      <row role="data"><cell rend="num">1893</cell><cell rend="num">6·6</cell><cell rend="num">3·4</cell><cell rend="num">3·2</cell><cell rend="num">16·5</cell><cell rend="num">0·27</cell><cell rend="num">6·9</cell></row>
+      <row role="data"><cell rend="num">1894</cell><cell rend="num">6·8</cell><cell rend="num">2·6</cell><cell rend="num">4·2</cell><cell rend="num">16·2</cell><cell rend="num">0·26</cell><cell rend="num">7·0</cell></row>
+      <row role="data"><cell rend="num">1895</cell><cell rend="num">6·7</cell><cell rend="num">3·3</cell><cell rend="num">3·4</cell><cell rend="num">16·8</cell><cell rend="num">0·28</cell><cell rend="num">7·5</cell></row>
+      <row role="data"><cell rend="num">1896</cell><cell rend="num">7·0</cell><cell rend="num">5·4</cell><cell rend="num">1·6</cell><cell rend="num">17·0</cell><cell rend="num">0·21</cell><cell rend="num">5·6</cell></row>
+      <row role="data"><cell rend="num">1897</cell><cell rend="num">6·9</cell><cell rend="num">6·8</cell><cell rend="num">0·1</cell><cell rend="num">18·2</cell><cell rend="num">0·21</cell><cell rend="num">5·6</cell></row>
+      <row role="data"><cell rend="num">1898</cell><cell rend="num">6·8</cell><cell rend="num">3·7</cell><cell rend="num">3·1</cell><cell rend="num">18·9</cell><cell rend="num">0·25</cell><cell rend="num">6·6</cell></row>
+      <row role="data"><cell rend="num">1899</cell><cell rend="num">6·8</cell><cell rend="num">4·1</cell><cell rend="num">2·7</cell><cell rend="num">19·4</cell><cell rend="num">0·23</cell><cell rend="num">6·0</cell></row>
+      <row role="data"><cell rend="num">1900</cell><cell rend="num">7·3</cell><cell rend="num">6·5</cell><cell rend="num">0·8</cell><cell rend="num">19·2</cell><cell rend="num">0·25</cell><cell rend="num">6·8</cell></row>
+      <row role="data"><cell rend="num">1901</cell><cell rend="num">7·2</cell><cell rend="num">3·7</cell><cell rend="num">3·5</cell><cell rend="num">18·9</cell><cell rend="num">0·22</cell><cell rend="num">5·9</cell></row>
+      <row role="data"><cell rend="num">1902</cell><cell rend="num">7·5</cell><cell rend="num">3·7</cell><cell rend="num">3·8</cell><cell rend="num">21·2</cell><cell rend="num">0·23</cell><cell rend="num">6·2</cell></row>
+      <row role="data"><cell rend="num">1903</cell><cell rend="num">7·0</cell><cell rend="num">3·7</cell><cell rend="num">3·3</cell><cell rend="num">20·4</cell><cell rend="num">0·22</cell><cell rend="num">6·0</cell></row>
+      <row role="data"><cell rend="num">1904</cell><cell rend="num">7·4</cell><cell rend="num">2·8</cell><cell rend="num">4·6</cell><cell rend="num">20·3</cell><cell rend="num">0·25</cell><cell rend="num">6·6</cell></row>
+      <row role="data"><cell rend="num">1905</cell><cell rend="num">7·1</cell><cell rend="num">3·7</cell><cell rend="num">3·4</cell><cell rend="num">22·7</cell><cell rend="num">0·23</cell><cell rend="num">6·1</cell></row>
+      <row role="data"><cell rend="num">1906</cell><cell rend="num">8·0</cell><cell rend="num">5·0</cell><cell rend="num">3·0</cell><cell rend="num">23·6</cell><cell rend="num">0·26</cell><cell rend="num">7·1</cell></row>
+      <row role="data"><cell rend="num">1907</cell><cell rend="num">10·8</cell><cell rend="num">4·3</cell><cell rend="num">6·5</cell><cell rend="num">25·1</cell><cell rend="num">0·30</cell><cell rend="num">8·1</cell></row>
+      <row role="data"><cell rend="num">1908</cell><cell rend="num">10·9</cell><cell rend="num">7·0</cell><cell rend="num">3·9</cell><cell rend="num">30·7</cell><cell rend="num">0·35</cell><cell rend="num">9·4</cell></row>
+      <row role="data"><cell rend="num">1909</cell><cell rend="num">10·0</cell><cell rend="num">4·7</cell><cell rend="num">5·3</cell><cell rend="num">30·0</cell><cell rend="num">0·33</cell><cell rend="num">8·6</cell></row>
       <row role="label" rend="subheader"><cell>Average of</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
-      <row role="data" rend="subtotal"><cell>Eighteen years ending 1890</cell><cell>6·1</cell><cell>3·3</cell><cell>2·8</cell><cell>14·6</cell><cell>0·20</cell><cell>5·4</cell></row>
-      <row role="data" rend="subtotal"><cell>Nineteen years ending 1909</cell><cell>7·6</cell><cell>4·4</cell><cell>3·2</cell><cell>20·4</cell><cell>0·26</cell><cell>6·8</cell></row>
-      <row role="data" rend="subtotal"><cell>Four years ending 1909</cell><cell>9·9</cell><cell>5·2</cell><cell>4·7</cell><cell>27·4</cell><cell>0·31</cell><cell>8·3</cell></row>
+      <row role="data" rend="subtotal"><cell>Eighteen years ending 1890</cell><cell rend="num">6·1</cell><cell rend="num">3·3</cell><cell rend="num">2·8</cell><cell rend="num">14·6</cell><cell rend="num">0·20</cell><cell rend="num">5·4</cell></row>
+      <row role="data" rend="subtotal"><cell>Nineteen years ending 1909</cell><cell rend="num">7·6</cell><cell rend="num">4·4</cell><cell rend="num">3·2</cell><cell rend="num">20·4</cell><cell rend="num">0·26</cell><cell rend="num">6·8</cell></row>
+      <row role="data" rend="subtotal"><cell>Four years ending 1909</cell><cell rend="num">9·9</cell><cell rend="num">5·2</cell><cell rend="num">4·7</cell><cell rend="num">27·4</cell><cell rend="num">0·31</cell><cell rend="num">8·3</cell></row>
     </table>
         </div>
       </div>
@@ -568,9 +568,9 @@ BUNGAY SUFFOLK.</hi></p>
       <row role="label"><cell role="label">1</cell><cell role="label">2</cell><cell role="label">3</cell><cell role="label">4</cell><cell role="label">5</cell><cell role="label">6</cell><cell role="label">7</cell><cell role="label">8</cell><cell role="label">9</cell><cell role="label">10</cell></row>
       <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">Acres.</cell><cell role="label">Rupees.</cell><cell role="label">Acres.</cell><cell role="label">Acres.</cell><cell role="label">Acres.</cell><cell role="label">Acres.</cell></row>
       <row role="data"><cell>Average of five years ending 1901 ...</cell><cell>—</cell><cell>—</cell><cell rend="num">235,395</cell><cell rend="num">327,065</cell><cell>—</cell><cell>—</cell><cell>—</cell><cell>—</cell><cell>—</cell></row>
-      <row role="data"><cell>Average of five years ending 1906 ...</cell><cell rend="num">3,695,244</cell><cell>13·5</cell><cell rend="num">197,118</cell><cell rend="num">203,527</cell><cell rend="num">59</cell><cell rend="num"><ref xml:id="ref-sec-11-fn-001" type="noteref" target="#sec-11-fn-001">1</ref>177,951</cell><cell rend="num">189,810</cell><cell rend="num">162,142</cell><cell rend="num">68,743</cell></row>
-      <row role="data"><cell>1906-7 ... ... ...</cell><cell rend="num">3,749,905</cell><cell>13·3</cell><cell rend="num">319,044</cell><cell rend="num">227,737</cell><cell rend="num">74</cell><cell rend="num">301,073</cell><cell rend="num">216,954</cell><cell rend="num">206,629</cell><cell rend="num">59,047</cell></row>
-      <row role="data"><cell>1907-8 ... ... ...</cell><cell rend="num">3,584,299</cell><cell>11·5</cell><cell rend="num">325,173</cell><cell rend="num">249,573</cell><cell rend="num">78</cell><cell rend="num">293,256</cell><cell rend="num">232,065</cell><cell rend="num">213,178</cell><cell rend="num">68,615</cell></row>
+      <row role="data"><cell>Average of five years ending 1906 ...</cell><cell rend="num">3,695,244</cell><cell rend="num">13·5</cell><cell rend="num">197,118</cell><cell rend="num">203,527</cell><cell rend="num">59</cell><cell rend="num"><ref xml:id="ref-sec-11-fn-001" type="noteref" target="#sec-11-fn-001">1</ref>177,951</cell><cell rend="num">189,810</cell><cell rend="num">162,142</cell><cell rend="num">68,743</cell></row>
+      <row role="data"><cell>1906-7 ... ... ...</cell><cell rend="num">3,749,905</cell><cell rend="num">13·3</cell><cell rend="num">319,044</cell><cell rend="num">227,737</cell><cell rend="num">74</cell><cell rend="num">301,073</cell><cell rend="num">216,954</cell><cell rend="num">206,629</cell><cell rend="num">59,047</cell></row>
+      <row role="data"><cell>1907-8 ... ... ...</cell><cell rend="num">3,584,299</cell><cell rend="num">11·5</cell><cell rend="num">325,173</cell><cell rend="num">249,573</cell><cell rend="num">78</cell><cell rend="num">293,256</cell><cell rend="num">232,065</cell><cell rend="num">213,178</cell><cell rend="num">68,615</cell></row>
     </table>
         </div>
         <div type="notes">

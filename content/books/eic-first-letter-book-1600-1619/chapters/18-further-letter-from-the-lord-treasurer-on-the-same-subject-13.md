@@ -6,6 +6,7 @@ weight: 18
 start_page: 122
 end_page: 123
 printed_start_folio: "30"
+printed_end_folio: "31"
 reading_time: 4
 footnotes_count: 3
 tables_count: 0

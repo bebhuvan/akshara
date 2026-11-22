@@ -1,0 +1,9 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,1,data,,"28, 29, 29a, 30, 30a",2,Column 2,"Enclosures to Bengal Secret Letters, 1808–10.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,2,data,,31,2,Column 2,"Miscellaneous, 1806–22, including reports on the missions of Jones and Malcolm, and letters from Sir Gore Ouseley to the Secret Committee, 1811–13.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,3,data,,32,2,Column 2,"Despatches relative to the expedition to the Persian Gulf, 1815–21.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,4,data,,33–47,2,Column 2,"Letters from Persia, Turkey, Egypt, &c., to the Secret Committee, 1817–32.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,5,data,,48,2,Column 2,"Memoranda by Sir H. Willock, Sir Gore Ouseley, Mr. Ellis, &c., 1832–33.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,6,data,,49–52,2,Column 2,"Letters from Persia, Turkey, Egypt, &c., to the Secret Committee, 1833–35.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,7,data,,53–113,2,Column 2,"Ditto to the Secret Committee and the Foreign Office, 1836–58.",,,False,False
+guide-to-india-office-records-1919,tbl-010,Table 10,120,100,8,data,,114–130,2,Column 2,"Ditto to the India and Foreign Offices, 1859–74.",,,False,False

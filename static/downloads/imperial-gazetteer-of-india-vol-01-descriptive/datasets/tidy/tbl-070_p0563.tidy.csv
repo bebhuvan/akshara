@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,1,data,,1871–80,2,Small-pox Mortality in British India. :: Annual average number of deaths.,"168,964",168964.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,1,data,,1871–80,3,"Small-pox Mortality in British India. :: Ratio per 1,000 of population.",0·93,0.93,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,1,data,,1871–80,4,Vaccination. :: Annual average number of persons successfully vaccinated.,"3,951,709",3951709.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,2,data,,1881–90,2,Small-pox Mortality in British India. :: Annual average number of deaths.,"121,680",121680.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,2,data,,1881–90,3,"Small-pox Mortality in British India. :: Ratio per 1,000 of population.",0·63,0.63,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,2,data,,1881–90,4,Vaccination. :: Annual average number of persons successfully vaccinated.,"5,024,352",5024352.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,3,data,,1891–1900,2,Small-pox Mortality in British India. :: Annual average number of deaths.,"81,233",81233.0,count,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,3,data,,1891–1900,3,"Small-pox Mortality in British India. :: Ratio per 1,000 of population.",0·38,0.38,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-070,Table 70,563,525,3,data,,1891–1900,4,Vaccination. :: Annual average number of persons successfully vaccinated.,"6,778,624",6778624.0,count,False,False

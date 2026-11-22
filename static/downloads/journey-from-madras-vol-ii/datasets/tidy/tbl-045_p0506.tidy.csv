@@ -1,36 +1,36 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",2,Value. :: .,19¾,19.75,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",3,On the field. :: s.,"8,715",8715.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",4,On the field. :: d.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",5,By the Acre.,16,16.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",6,By the Acre.,10,10.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,2,Value. :: .,11,11.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,3,On the field. :: s.,"4,8639",48639.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,4,On the field. :: d.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,5,By the Acre.,9,9.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,6,By the Acre.,4½,4.5,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,2,Value. :: .,11,11.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,3,On the field. :: s.,"4,8639",48639.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,4,On the field. :: d.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,5,By the Acre.,9,9.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,6,By the Acre.,4½,4.5,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,2,Value. :: .,1¼,1.25,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,3,On the field. :: s.,"0,5516",5516.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,4,On the field. :: d.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,5,By the Acre.,1,1.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,6,By the Acre.,0¾,0.75,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,2,Value. :: .,10,10.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,3,On the field. :: s.,"4,4126",44126.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,4,On the field. :: d.,0,0.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,5,By the Acre.,8,8.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,6,By the Acre.,6¼,6.25,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,2,Value. :: .,30,30.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,3,On the field. :: s.,"13,2378",132378.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,4,On the field. :: d.,1,1.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,5,By the Acre.,5,5.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,6,By the Acre.,6¾,6.75,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,2,Value. :: .,83,83.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,3,On the field. :: s.,"39,6448",396448.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,4,On the field. :: d.,3,3.0,,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,5,By the Acre.,10,10.0,acres,False,False
-journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,6,By the Acre.,8¾,8.75,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",2,Bushels and dec. parts. :: .,19¾,19.75,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",3,On the field. :: Bushels and dec. parts. :: s.,"8,715",8715.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",4,On the field. :: Value. :: d.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",5,By the Acre. :: Value.,16,16.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,1,data,,"Tax, and charges of collection",6,By the Acre. :: Value.,10,10.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,2,Bushels and dec. parts. :: .,11,11.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,3,On the field. :: Bushels and dec. parts. :: s.,"4,8639",48639.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,4,On the field. :: Value. :: d.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,5,By the Acre. :: Value.,9,9.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,2,data,,Seed,6,By the Acre. :: Value.,4½,4.5,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,2,Bushels and dec. parts. :: .,11,11.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,3,On the field. :: Bushels and dec. parts. :: s.,"4,8639",48639.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,4,On the field. :: Value. :: d.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,5,By the Acre. :: Value.,9,9.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,3,data,,Charges of cultivation,6,By the Acre. :: Value.,4½,4.5,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,2,Bushels and dec. parts. :: .,1¼,1.25,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,3,On the field. :: Bushels and dec. parts. :: s.,"0,5516",5516.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,4,On the field. :: Value. :: d.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,5,By the Acre. :: Value.,1,1.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,4,data,,Interest of mortgage,6,By the Acre. :: Value.,0¾,0.75,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,2,Bushels and dec. parts. :: .,10,10.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,3,On the field. :: Bushels and dec. parts. :: s.,"4,4126",44126.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,4,On the field. :: Value. :: d.,0,0.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,5,By the Acre. :: Value.,8,8.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,5,data,,Landlord,6,By the Acre. :: Value.,6¼,6.25,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,2,Bushels and dec. parts. :: .,30,30.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,3,On the field. :: Bushels and dec. parts. :: s.,"13,2378",132378.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,4,On the field. :: Value. :: d.,1,1.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,5,By the Acre. :: Value.,5,5.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,6,data,,Cultivator's gain,6,By the Acre. :: Value.,6¾,6.75,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,2,Bushels and dec. parts. :: .,83,83.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,3,On the field. :: Bushels and dec. parts. :: s.,"39,6448",396448.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,4,On the field. :: Value. :: d.,3,3.0,,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,5,By the Acre. :: Value.,10,10.0,acres,False,False
+journey-from-madras-vol-ii,tbl-045,Table 45,506,478,7,total,,Total,6,By the Acre. :: Value.,8¾,8.75,acres,False,False

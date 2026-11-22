@@ -1,6 +1,6 @@
 # Recent Economic Developments in the Punjab
 *James Wilson* (1910)
-> Akshara Machine Checked Edition · Collection: `indian-economic-history`
+> Akshara Community Edition · Collection: `indian-economic-history`
 
 
 ## RECENT ECONOMIC DEVELOPMENTS IN THE PUNJAB
@@ -268,7 +268,7 @@ On a survey of the economic history of the Punjab during the last quarter of a c
 
 
 **<span class="sc">Estimated Outturn and Value of the Crops in the 29 British Districts in the Agricultural Year 1908–9 (Ending 31st May).</span>**
-| <span class="sc">Crop.</span> :: Per maund. | Area sown in millions of acres. :: Per ton. | Estimated weight of produce in thousands of tons. :: Per ton. | Average harvest prices in rupees in 1908–9. :: In thousands of rupees. | Gross value at Punjab prices of the year. :: In thousands of rupees. | In thousands of pounds sterling. | In thousands of pounds sterling. |
+| <span class="sc">Crop.</span> :: Per maund. | Area sown in millions of acres. :: Per ton. | Estimated weight of produce in thousands of tons. :: In thousands of rupees. | Average harvest prices in rupees in 1908–9. :: In thousands of pounds sterling. | Gross value at Punjab prices of the year. | Column 6 | Column 7 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Rice (unhusked) | 0·7 | 347 | 2·7 | 74 | 25,678 | 1,712 |
 | Wheat | 8·4 | 2,895 | 3·6 | 98 | 283,710 | 18,914 |

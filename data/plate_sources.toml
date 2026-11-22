@@ -191,6 +191,15 @@ channel = "blue"
 blank = [[0.93, 0.9, 1.0, 1.0]]
 what = "G. Bell and Sons' bell-and-anchor device on the title page; read in blue to drop a library stamp"
 
+[[plate]]
+key = "x-ig1-map"
+book = "imperial-gazetteer-of-india-vol-01-descriptive"
+source = "static/figures/imperial-gazetteer-of-india-vol-01-descriptive/fig-001_p0006.webp"
+crop = [0.0, 0.0, 1.0, 1.0]
+mode = "line"
+levels = [45, 175]
+what = "Folding map of The Indian Empire by J. G. Bartholomew (frontispiece)"
+
 # Made by hand in the 2026-11 design mock (recipe not recorded). Each was matched back to its
 # source by comparing the plate with the book's figures or scan; the script leaves these files alone.
 

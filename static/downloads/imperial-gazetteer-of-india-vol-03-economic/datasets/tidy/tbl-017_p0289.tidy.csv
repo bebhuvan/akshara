@@ -1,0 +1,78 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,2,Number of factories working and liable to be inspected. :: 1893.,67,67.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,3,Number of factories working and liable to be inspected. :: 1903.,81,81.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"30,353",30353.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"2,842",2842.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"2,007",2007.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"28,467",28467.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,1,data,,Madras,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"35,202",35202.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,2,Number of factories working and liable to be inspected. :: 1893.,267,267.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,3,Number of factories working and liable to be inspected. :: 1903.,416,416.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"136,995",136995.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"38,752",38752.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"7,163",7163.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"126,145",126145.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,2,data,,Bombay,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"182,910",182910.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,2,Number of factories working and liable to be inspected. :: 1893.,158,158.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,3,Number of factories working and liable to be inspected. :: 1903.,258,258.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"168,360",168360.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"25,813",25813.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"18,841",18841.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"139,973",139973.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,3,data,,Bengal,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"213,014",213014.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,2,Number of factories working and liable to be inspected. :: 1893.,46,46.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,3,Number of factories working and liable to be inspected. :: 1903.,122,122.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"33,476",33476.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"3,649",3649.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"1,843",1843.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"20,065",20065.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,4,data,,United Provinces,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"38,968",38968.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,2,Number of factories working and liable to be inspected. :: 1893.,34,34.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,3,Number of factories working and liable to be inspected. :: 1903.,188,188.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"19,095",19095.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"2,996",2996.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"1,037",1037.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"6,324",6324.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,5,data,,Punjab,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"23,128",23128.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,2,Number of factories working and liable to be inspected. :: 1893.,111,111.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,3,Number of factories working and liable to be inspected. :: 1903.,188,188.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"31,327",31327.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,861,861.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,157,157.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"17,288",17288.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,6,data,,Burma,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"32,345",32345.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),2,Number of factories working and liable to be inspected. :: 1893.,22,22.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),3,Number of factories working and liable to be inspected. :: 1903.,391,391.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"25,905",25905.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"14,957",14957.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"1,919",1919.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"8,355",8355.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,7,data,,Central Provinces (including Berār),8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"42,781",42781.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,2,Number of factories working and liable to be inspected. :: 1893.,9,9.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,3,Number of factories working and liable to be inspected. :: 1903.,13,13.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"1,597",1597.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,486,486.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,138,138.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"1,282",1282.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,8,data,,Assam,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"2,221",2221.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,2,Number of factories working and liable to be inspected. :: 1893.,1,1.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,3,Number of factories working and liable to be inspected. :: 1903.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,669,669.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,320,320.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,17,17.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,539,539.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,9,data,,Ajmer-Merwāra,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"1,006",1006.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,2,Number of factories working and liable to be inspected. :: 1893.,..,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,3,Number of factories working and liable to be inspected. :: 1903.,2,2.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,40,40.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,24,24.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,..,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,..,,,True,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,10,data,,North-west Frontier Province,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,64,64.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,2,Number of factories working and liable to be inspected. :: 1893.,715,715.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,3,Number of factories working and liable to be inspected. :: 1903.,"1,661",1661.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,4,Average Number of Hands Employed Daily. :: Men. :: 1903.,"447,817",447817.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,5,Average Number of Hands Employed Daily. :: Women. :: 1903.,"90,700",90700.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,6,Average Number of Hands Employed Daily. :: Children. :: 1903.,"33,122",33122.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,7,Average Number of Hands Employed Daily. :: Total. :: 1893.,"348,438",348438.0,,False,True
+imperial-gazetteer-of-india-vol-03-economic,tbl-017,Table 17,289,247,11,total,,Total,8,Average Number of Hands Employed Daily. :: Total. :: 1903.,"571,639",571639.0,,False,True

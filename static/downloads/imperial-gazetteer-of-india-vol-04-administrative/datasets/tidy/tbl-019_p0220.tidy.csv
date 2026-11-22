@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,1,data,,1876-7 to 1880-1,2,Column 2,average net loss,,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,1,data,,1876-7 to 1880-1,3,Column 3,"1,20 lakhs.",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,2,data,,1881-2 to 1885-6,2,Column 2,""",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,2,data,,1881-2 to 1885-6,3,Column 3,"74 "",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,3,data,,1886-7 to 1890-1,2,Column 2,""",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,3,data,,1886-7 to 1890-1,3,Column 3,"1,62 "",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,4,data,,1891-2 to 1895-6,2,Column 2,""",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,4,data,,1891-2 to 1895-6,3,Column 3,"1,53 "",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,5,data,,1896-7 to 1898-9,2,Column 2,""",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,5,data,,1896-7 to 1898-9,3,Column 3,"1,68 "",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,6,data,,1899-1900 to 1904-5,2,Column 2,""",""",,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-019,Table 19,220,182,6,data,,1899-1900 to 1904-5,3,Column 3,"gain 1,11 "",""",,,False,False

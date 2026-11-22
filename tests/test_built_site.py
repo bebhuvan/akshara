@@ -1,5 +1,6 @@
 """Tests of the built site in public/ (./verify builds it before running the tests). Skipped if it is not built.
 Run: python3 -m unittest discover -s tests"""
+from decimal import Decimal, ROUND_HALF_UP
 import re
 import tomllib
 import unittest
@@ -56,7 +57,9 @@ class HowTheTextWasRead(unittest.TestCase):
             if not m or 'edition_tier: "v1_archive"' in record.read_text(encoding="utf-8"):
                 continue
             html = (PUBLIC / "books" / record.parent.name / "index.html").read_text(encoding="utf-8")
-            self.assertRegex(html, r'class="?rd-n"?><b>%d</b>' % round(float(m.group(1))), record)
+            # Hugo's math.Round rounds half away from zero, unlike Python's round-half-to-even.
+            shown = int(Decimal(m.group(1)).to_integral_value(rounding=ROUND_HALF_UP))
+            self.assertRegex(html, r'class="?rd-n"?><b>%d</b>' % shown, record)
 
     def test_checker_findings_are_put_in_plain_words(self):
         # The checker writes "-3.0: 1 unresolved footnote callout/body mismatch(es)"; a reader should never see that.

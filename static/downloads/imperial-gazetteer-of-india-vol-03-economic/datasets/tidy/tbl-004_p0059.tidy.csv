@@ -1,0 +1,25 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,1,data,,Alluvial tract,2,"Area annually cropped, in millions of acres.",135,135.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,1,data,,Alluvial tract,3,Percentage of Cropped Area Irrigated from :: Canals.,12·4,12.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,1,data,,Alluvial tract,4,Percentage of Cropped Area Irrigated from :: Tanks.,1·8,1.8,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,1,data,,Alluvial tract,5,Percentage of Cropped Area Irrigated from :: Wells.,7·3,7.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,1,data,,Alluvial tract,6,Percentage of Cropped Area Irrigated from :: Other sources.,3·6,3.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,1,data,,Alluvial tract,7,Percentage of Cropped Area Irrigated from :: Total.,25·1,25.1,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,2,data,,Crystalline tract,2,"Area annually cropped, in millions of acres.",100,100.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,2,data,,Crystalline tract,3,Percentage of Cropped Area Irrigated from :: Canals.,1·5,1.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,2,data,,Crystalline tract,4,Percentage of Cropped Area Irrigated from :: Tanks.,7·3,7.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,2,data,,Crystalline tract,5,Percentage of Cropped Area Irrigated from :: Wells.,4·2,4.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,2,data,,Crystalline tract,6,Percentage of Cropped Area Irrigated from :: Other sources.,2·5,2.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,2,data,,Crystalline tract,7,Percentage of Cropped Area Irrigated from :: Total.,15·5,15.5,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,3,data,,Deccan trap,2,"Area annually cropped, in millions of acres.",58,58.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,3,data,,Deccan trap,3,Percentage of Cropped Area Irrigated from :: Canals.,0·2,0.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,3,data,,Deccan trap,4,Percentage of Cropped Area Irrigated from :: Tanks.,0·3,0.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,3,data,,Deccan trap,5,Percentage of Cropped Area Irrigated from :: Wells.,2·4,2.4,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,3,data,,Deccan trap,6,Percentage of Cropped Area Irrigated from :: Other sources.,0·3,0.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,3,data,,Deccan trap,7,Percentage of Cropped Area Irrigated from :: Total.,3·2,3.2,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,4,total,,Total,2,"Area annually cropped, in millions of acres.",293,293.0,acres,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,4,total,,Total,3,Percentage of Cropped Area Irrigated from :: Canals.,6·3,6.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,4,total,,Total,4,Percentage of Cropped Area Irrigated from :: Tanks.,3·3,3.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,4,total,,Total,5,Percentage of Cropped Area Irrigated from :: Wells.,5·3,5.3,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,4,total,,Total,6,Percentage of Cropped Area Irrigated from :: Other sources.,2·6,2.6,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-004,Table 4,59,17,4,total,,Total,7,Percentage of Cropped Area Irrigated from :: Total.,17·5,17.5,%,False,False

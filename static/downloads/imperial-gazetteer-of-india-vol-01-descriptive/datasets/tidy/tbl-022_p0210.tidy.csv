@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,1,data,,Cruciferae,2,Column 2,"W. 40 / E. 18 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,1,data,,Cruciferae,3,Column 3,Caryophylleae,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,1,data,,Cruciferae,4,Column 4,"W. 19 / E. 11 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,1,data,,Cruciferae,5,Column 5,Umbelliferae,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,1,data,,Cruciferae,6,Column 6,"W. 23 / E. 15 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,2,data,,Compositae,2,Column 2,"W. 104 / E. 57 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,2,data,,Compositae,3,Column 3,Boragineae,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,2,data,,Compositae,4,Column 4,"W. 76 / E. 25 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,2,data,,Compositae,5,Column 5,Labiatae,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,2,data,,Compositae,6,Column 6,W. 48 / E. 35 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,3,data,,Chenopodiaceae,2,Column 2,"W. 18 / E. 3 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,3,data,,Chenopodiaceae,3,Column 3,Gramineae,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,3,data,,Chenopodiaceae,4,Column 4,"W. 100 / E. 72 ,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,3,data,,Chenopodiaceae,5,Column 5,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-022,Table 22,210,172,3,data,,Chenopodiaceae,6,Column 6,,,,True,False

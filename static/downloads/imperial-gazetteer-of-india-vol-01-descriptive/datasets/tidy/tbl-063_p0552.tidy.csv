@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,1,data,,India (1891),2,Under 5. :: Male.,159,159.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,1,data,,India (1891),3,Under 5. :: Female.,162,162.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,1,data,,India (1891),4,5–55. :: Male.,780,780.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,1,data,,India (1891),5,5–55. :: Female.,771,771.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,1,data,,India (1891),6,55 and upwards. :: Male.,61,61.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,1,data,,India (1891),7,55 and upwards. :: Female.,67,67.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,2,data,,„ (1901),2,Under 5. :: Male.,126,126.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,2,data,,„ (1901),3,Under 5. :: Female.,134,134.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,2,data,,„ (1901),4,5–55. :: Male.,810,810.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,2,data,,„ (1901),5,5–55. :: Female.,794,794.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,2,data,,„ (1901),6,55 and upwards. :: Male.,64,64.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,2,data,,„ (1901),7,55 and upwards. :: Female.,72,72.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,3,data,,England and Wales,2,Under 5. :: Male.,126,126.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,3,data,,England and Wales,3,Under 5. :: Female.,120,120.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,3,data,,England and Wales,4,5–55. :: Male.,777,777.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,3,data,,England and Wales,5,5–55. :: Female.,769,769.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,3,data,,England and Wales,6,55 and upwards. :: Male.,97,97.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-063,"Age-distribution of the Population, per 1,000 living.",552,514,3,data,,England and Wales,7,55 and upwards. :: Female.,111,111.0,,False,False

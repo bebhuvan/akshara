@@ -2,107 +2,107 @@ book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,1,data,,1 Delhi,2,Acres.,"11,700",11700.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,1,data,,1 Delhi,3,Per Acre. :: lbs.,"4,753",4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"55,610,100",55610100.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,1,data,,1 Delhi,5,Price per Re. 1. :: lbs.,43·88,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,1,data,,1 Delhi,5,Price per Re. 1. :: lbs.,43·88,43.88,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,1,data,,1 Delhi,6,Total Value. :: Rs.,"12,67,322",1267322.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,2,data,,2 Gurgaon,2,Acres.,"9,387",9387.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,"6,000",6000.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"56,322,000",56322000.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,2,data,,2 Gurgaon,5,Price per Re. 1. :: lbs.,28·8,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,2,data,,2 Gurgaon,5,Price per Re. 1. :: lbs.,28·8,28.8,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,2,data,,2 Gurgaon,6,Total Value. :: Rs.,"19,55,625",1955625.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,3,data,,3 Kárnal,2,Acres.,846,846.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,3,data,,3 Kárnal,3,Per Acre. :: lbs.,"4,753",4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,3,data,,3 Kárnal,4,Total Quantity. :: lbs.,"4,021,038",4021038.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,3,data,,3 Kárnal,5,Price per Re. 1. :: lbs.,39·77,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,3,data,,3 Kárnal,5,Price per Re. 1. :: lbs.,39·77,39.77,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,3,data,,3 Kárnal,6,Total Value. :: Rs.,"1,01,107",101107.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,4,data,,4 Hissar,2,Acres.,"3,485",3485.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,4,data,,4 Hissar,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,4,data,,4 Hissar,4,Total Quantity. :: lbs.,"16,564,205",16564205.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,4,data,,4 Hissar,5,Price per Re. 1. :: lbs.,28·8,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,4,data,,4 Hissar,5,Price per Re. 1. :: lbs.,28·8,28.8,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,4,data,,4 Hissar,6,Total Value. :: Rs.,"5,75,146",575146.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,5,data,,5 Rohtak,2,Acres.,920,920.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,5,data,,5 Rohtak,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,"4,372,760",4372760.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,5,data,,5 Rohtak,5,Price per Re. 1. :: lbs.,35·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,5,data,,5 Rohtak,5,Price per Re. 1. :: lbs.,35·65,35.65,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,5,data,,5 Rohtak,6,Total Value. :: Rs.,"1,22,658",122658.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,6,data,,6 Sirsa,2,Acres.,677,677.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,6,data,,6 Sirsa,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,6,data,,6 Sirsa,4,Total Quantity. :: lbs.,"3,217,781",3217781.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,6,data,,6 Sirsa,5,Price per Re. 1. :: lbs.,27·43,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,6,data,,6 Sirsa,5,Price per Re. 1. :: lbs.,27·43,27.43,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,6,data,,6 Sirsa,6,Total Value. :: Rs.,"1,17,308",117308.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,7,data,,7 Umballa,2,Acres.,"3,495",3495.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,7,data,,7 Umballa,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,7,data,,7 Umballa,4,Total Quantity. :: lbs.,"16,611,735",16611735.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,7,data,,7 Umballa,5,Price per Re. 1. :: lbs.,35·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,7,data,,7 Umballa,5,Price per Re. 1. :: lbs.,35·65,35.65,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,7,data,,7 Umballa,6,Total Value. :: Rs.,"4,65,967",465967.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,8,data,,8 Ludhiána,2,Acres.,"7,560",7560.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,8,data,,8 Ludhiána,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,8,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"35,932,680",35932680.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,8,data,,8 Ludhiána,5,Price per Re. 1. :: lbs.,30·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,8,data,,8 Ludhiána,5,Price per Re. 1. :: lbs.,30·17,30.17,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,8,data,,8 Ludhiána,6,Total Value. :: Rs.,"11,91,006",1191006.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,9,data,,9 Simla,2,Acres.,7,7.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,9,data,,9 Simla,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,9,data,,9 Simla,4,Total Quantity. :: lbs.,"33,271",33271.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,9,data,,9 Simla,5,Price per Re. 1. :: lbs.,60·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,9,data,,9 Simla,5,Price per Re. 1. :: lbs.,60·34,60.34,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,9,data,,9 Simla,6,Total Value. :: Rs.,551,551.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,10,data,,10 Jullundar,2,Acres.,"7,731",7731.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,10,data,,10 Jullundar,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,10,data,,10 Jullundar,4,Total Quantity. :: lbs.,"36,745,443",36745443.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,10,data,,10 Jullundar,5,Price per Re. 1. :: lbs.,27·43,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,10,data,,10 Jullundar,5,Price per Re. 1. :: lbs.,27·43,27.43,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,10,data,,10 Jullundar,6,Total Value. :: Rs.,"13,39,607",1339607.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,11,data,,11 Hoshiarpur,2,Acres.,"3,586",3586.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,11,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,11,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"17,044,258",17044258.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,11,data,,11 Hoshiarpur,5,Price per Re. 1. :: lbs.,32·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,11,data,,11 Hoshiarpur,5,Price per Re. 1. :: lbs.,32·91,32.91,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,11,data,,11 Hoshiarpur,6,Total Value. :: Rs.,"5,17,905",517905.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,12,data,,12 Kángra,2,Acres.,"6,551",6551.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,12,data,,12 Kángra,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,12,data,,12 Kángra,4,Total Quantity. :: lbs.,"31,136,903",31136903.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,12,data,,12 Kángra,5,Price per Re. 1. :: lbs.,49·37,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,12,data,,12 Kángra,5,Price per Re. 1. :: lbs.,49·37,49.37,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,12,data,,12 Kángra,6,Total Value. :: Rs.,"6,30,684",630684.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,13,data,,13 Amritsar,2,Acres.,"15,175",15175.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,13,data,,13 Amritsar,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,13,data,,13 Amritsar,4,Total Quantity. :: lbs.,"72,126,775",72126775.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,13,data,,13 Amritsar,5,Price per Re. 1. :: lbs.,36·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,13,data,,13 Amritsar,5,Price per Re. 1. :: lbs.,36·34,36.34,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,13,data,,13 Amritsar,6,Total Value. :: Rs.,"19,84,776",1984776.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,14,data,,14 Gurdáspur,2,Acres.,"6,790",6790.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,14,data,,14 Gurdáspur,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,14,data,,14 Gurdáspur,4,Total Quantity. :: lbs.,"32,272,870",32272870.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,14,data,,14 Gurdáspur,5,Price per Re. 1. :: lbs.,27·43,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,14,data,,14 Gurdáspur,5,Price per Re. 1. :: lbs.,27·43,27.43,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,14,data,,14 Gurdáspur,6,Total Value. :: Rs.,"11,76,553",1176553.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,15,data,,15 Siálkot,2,Acres.,"3,000",3000.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,15,data,,15 Siálkot,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,15,data,,15 Siálkot,4,Total Quantity. :: lbs.,"14,259,000",14259000.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,15,data,,15 Siálkot,5,Price per Re. 1. :: lbs.,32·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,15,data,,15 Siálkot,5,Price per Re. 1. :: lbs.,32·91,32.91,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,15,data,,15 Siálkot,6,Total Value. :: Rs.,"4,33,272",433272.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,16,data,,16 Lahore,2,Acres.,"5,746",5746.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,16,data,,16 Lahore,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,16,data,,16 Lahore,4,Total Quantity. :: lbs.,"27,310,738",27310738.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,16,data,,16 Lahore,5,Price per Re. 1. :: lbs.,24·68,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,16,data,,16 Lahore,5,Price per Re. 1. :: lbs.,24·68,24.68,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,16,data,,16 Lahore,6,Total Value. :: Rs.,"11,06,593",1106593.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,17,data,,17 Gujránwála,2,Acres.,"56,988",56988.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,17,data,,17 Gujránwála,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,17,data,,17 Gujránwála,4,Total Quantity. :: lbs.,"270,863,964",270863964.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,17,data,,17 Gujránwála,5,Price per Re. 1. :: lbs.,39·77,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,17,data,,17 Gujránwála,5,Price per Re. 1. :: lbs.,39·77,39.77,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,17,data,,17 Gujránwála,6,Total Value. :: Rs.,"68,10,761",6810761.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,18,data,,18 Firozepore,2,Acres.,"4,274",4274.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,18,data,,18 Firozepore,3,Per Acre. :: lbs.,"2,015",2015.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,18,data,,18 Firozepore,4,Total Quantity. :: lbs.,"8,612,110",8612110.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,18,data,,18 Firozepore,5,Price per Re. 1. :: lbs.,32·91,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,18,data,,18 Firozepore,5,Price per Re. 1. :: lbs.,32·91,32.91,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,18,data,,18 Firozepore,6,Total Value. :: Rs.,"2,61,686",261686.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,19,data,,19 Ráwalpindi,2,Acres.,"4,660",4660.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,19,data,,19 Ráwalpindi,3,Per Acre. :: lbs.,"4,753",4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,19,data,,19 Ráwalpindi,4,Total Quantity. :: lbs.,"22,148,980",22148980.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,19,data,,19 Ráwalpindi,5,Price per Re. 1. :: lbs.,40·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,19,data,,19 Ráwalpindi,5,Price per Re. 1. :: lbs.,40·45,40.45,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,19,data,,19 Ráwalpindi,6,Total Value. :: Rs.,"5,47,564",547564.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,20,data,,20 Jhelum,2,Acres.,"3,709",3709.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,20,data,,20 Jhelum,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,20,data,,20 Jhelum,4,Total Quantity. :: lbs.,"17,628,877",17628877.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,20,data,,20 Jhelum,5,Price per Re. 1. :: lbs.,31·54,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,20,data,,20 Jhelum,5,Price per Re. 1. :: lbs.,31·54,31.54,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,20,data,,20 Jhelum,6,Total Value. :: Rs.,"5,58,937",558937.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,21,data,,21 Gujrát,2,Acres.,"21,904",21904.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,21,data,,21 Gujrát,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,21,data,,21 Gujrát,4,Total Quantity. :: lbs.,"104,109,712",104109712.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,21,data,,21 Gujrát,5,Price per Re. 1. :: lbs.,28·8,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,21,data,,21 Gujrát,5,Price per Re. 1. :: lbs.,28·8,28.8,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,21,data,,21 Gujrát,6,Total Value. :: Rs.,"36,14,920",3614920.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,22,data,,22 Shahpur,2,Acres.,"11,072",11072.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,22,data,,22 Shahpur,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
@@ -112,52 +112,52 @@ poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,22,data,,22 Shahpur,6,To
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,23,data,,23 Mooltan,2,Acres.,"29,239",29239.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,23,data,,23 Mooltan,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,23,data,,23 Mooltan,4,Total Quantity. :: lbs.,"138,972,967",138972967.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,23,data,,23 Mooltan,5,Price per Re. 1. :: lbs.,26·74,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,23,data,,23 Mooltan,5,Price per Re. 1. :: lbs.,26·74,26.74,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,23,data,,23 Mooltan,6,Total Value. :: Rs.,"51,97,194",5197194.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,24,data,,24 Jhang,2,Acres.,"23,203",23203.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,24,data,,24 Jhang,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,24,data,,24 Jhang,4,Total Quantity. :: lbs.,"110,283,859",110283859.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,24,data,,24 Jhang,5,Price per Re. 1. :: lbs.,20·57,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,24,data,,24 Jhang,5,Price per Re. 1. :: lbs.,20·57,20.57,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,24,data,,24 Jhang,6,Total Value. :: Rs.,"53,61,393",5361393.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,25,data,,25 Montgomery,2,Acres.,"1,423",1423.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,25,data,,25 Montgomery,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,25,data,,25 Montgomery,4,Total Quantity. :: lbs.,"6,763,519",6763519.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,25,data,,25 Montgomery,5,Price per Re. 1. :: lbs.,27·43,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,25,data,,25 Montgomery,5,Price per Re. 1. :: lbs.,27·43,27.43,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,25,data,,25 Montgomery,6,Total Value. :: Rs.,"2,46,574",246574.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,26,data,,26 Mazaffargarh,2,Acres.,"3,095",3095.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,26,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,26,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"14,710,535",14710535.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,26,data,,26 Mazaffargarh,5,Price per Re. 1. :: lbs.,21·25,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,26,data,,26 Mazaffargarh,5,Price per Re. 1. :: lbs.,21·25,21.25,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,26,data,,26 Mazaffargarh,6,Total Value. :: Rs.,"6,92,260",692260.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,27,data,,27 D. I. Khan,2,Acres.,803,803.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,27,data,,27 D. I. Khan,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,27,data,,27 D. I. Khan,4,Total Quantity. :: lbs.,"3,816,659",3816659.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,27,data,,27 D. I. Khan,5,Price per Re. 1. :: lbs.,33·42,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,27,data,,27 D. I. Khan,5,Price per Re. 1. :: lbs.,33·42,33.42,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,27,data,,27 D. I. Khan,6,Total Value. :: Rs.,"1,14,202",114202.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,28,data,,28 D. G. Khan,2,Acres.,794,794.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,28,data,,28 D. G. Khan,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,28,data,,28 D. G. Khan,4,Total Quantity. :: lbs.,"3,773,882",3773882.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,28,data,,28 D. G. Khan,5,Price per Re. 1. :: lbs.,20·57,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,28,data,,28 D. G. Khan,5,Price per Re. 1. :: lbs.,20·57,20.57,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,28,data,,28 D. G. Khan,6,Total Value. :: Rs.,"1,83,465",183465.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,29,data,,29 Bannu,2,Acres.,"4,152",4152.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,29,data,,29 Bannu,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,29,data,,29 Bannu,4,Total Quantity. :: lbs.,"19,734,456",19734456.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,29,data,,29 Bannu,5,Price per Re. 1. :: lbs.,45·25,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,29,data,,29 Bannu,5,Price per Re. 1. :: lbs.,45·25,45.25,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,29,data,,29 Bannu,6,Total Value. :: Rs.,"4,36,120",436120.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,30,data,,30 Pesháwar,2,Acres.,"3,631",3631.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,30,data,,30 Pesháwar,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,30,data,,30 Pesháwar,4,Total Quantity. :: lbs.,"17,258,143",17258143.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,30,data,,30 Pesháwar,5,Price per Re. 1. :: lbs.,32·05,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,30,data,,30 Pesháwar,5,Price per Re. 1. :: lbs.,32·05,32.05,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,30,data,,30 Pesháwar,6,Total Value. :: Rs.,"5,38,475",538475.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,31,data,,31 Hazára,2,Acres.,598,598.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,31,data,,31 Hazára,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,31,data,,31 Hazára,4,Total Quantity. :: lbs.,"2,842,294",2842294.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,31,data,,31 Hazára,5,Price per Re. 1. :: lbs.,45·25,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,31,data,,31 Hazára,5,Price per Re. 1. :: lbs.,45·25,45.25,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,31,data,,31 Hazára,6,Total Value. :: Rs.,"62,813",62813.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,32,data,,32 Kohát,2,Acres.,599,599.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,32,data,,32 Kohát,3,Per Acre. :: lbs.,„,4753.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,32,data,,32 Kohát,4,Total Quantity. :: lbs.,"2,847,047",2847047.0,lbs,False,True
-poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,32,data,,32 Kohát,5,Price per Re. 1. :: lbs.,31·45,,lbs,False,True
+poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,32,data,,32 Kohát,5,Price per Re. 1. :: lbs.,31·45,31.45,lbs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,32,data,,32 Kohát,6,Total Value. :: Rs.,"90,526",90526.0,Rs,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,33,total,,Total,2,Acres.,"256,800",256800.0,acres,False,True
 poverty-and-un-british-rule,tbl-104,Vegetables.,183,163,33,total,,Total,3,Per Acre. :: lbs.,"Average 4,753",,acres,False,True

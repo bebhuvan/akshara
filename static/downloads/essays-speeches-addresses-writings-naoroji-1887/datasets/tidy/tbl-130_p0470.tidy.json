@@ -462,7 +462,7 @@
     "column_index": 3,
     "column_header": "Correct average. :: Incorrect average. :: Correct average.",
     "raw_text": "12·5",
-    "value_numeric": null,
+    "value_numeric": 12.5,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

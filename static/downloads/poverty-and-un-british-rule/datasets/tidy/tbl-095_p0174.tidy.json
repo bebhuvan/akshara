@@ -66,7 +66,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "66·85",
-    "value_numeric": null,
+    "value_numeric": 66.85,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -156,7 +156,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "66·",
-    "value_numeric": null,
+    "value_numeric": 66.0,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -246,7 +246,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "64·79",
-    "value_numeric": null,
+    "value_numeric": 64.79,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -336,7 +336,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "76·79",
-    "value_numeric": null,
+    "value_numeric": 76.79,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -426,7 +426,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "64·79",
-    "value_numeric": null,
+    "value_numeric": 64.79,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -516,7 +516,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "104·39",
-    "value_numeric": null,
+    "value_numeric": 104.39,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -606,7 +606,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "66·16",
-    "value_numeric": null,
+    "value_numeric": 66.16,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -696,7 +696,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "68·91",
-    "value_numeric": null,
+    "value_numeric": 68.91,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -786,7 +786,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "40·11",
-    "value_numeric": null,
+    "value_numeric": 40.11,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -876,7 +876,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "62·05",
-    "value_numeric": null,
+    "value_numeric": 62.05,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -966,7 +966,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "58·41",
-    "value_numeric": null,
+    "value_numeric": 58.41,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1146,7 +1146,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "67·88",
-    "value_numeric": null,
+    "value_numeric": 67.88,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1236,7 +1236,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "48·",
-    "value_numeric": null,
+    "value_numeric": 48.0,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1326,7 +1326,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "65·14",
-    "value_numeric": null,
+    "value_numeric": 65.14,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1416,7 +1416,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "69·94",
-    "value_numeric": null,
+    "value_numeric": 69.94,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1506,7 +1506,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "64·45",
-    "value_numeric": null,
+    "value_numeric": 64.45,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1596,7 +1596,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "82·11",
-    "value_numeric": null,
+    "value_numeric": 82.11,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1686,7 +1686,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "92·91",
-    "value_numeric": null,
+    "value_numeric": 92.91,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1776,7 +1776,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "70·28",
-    "value_numeric": null,
+    "value_numeric": 70.28,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1866,7 +1866,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "80·91",
-    "value_numeric": null,
+    "value_numeric": 80.91,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -1956,7 +1956,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "66·16",
-    "value_numeric": null,
+    "value_numeric": 66.16,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2046,7 +2046,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "51·08",
-    "value_numeric": null,
+    "value_numeric": 51.08,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2136,7 +2136,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "60·17",
-    "value_numeric": null,
+    "value_numeric": 60.17,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2226,7 +2226,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "55·54",
-    "value_numeric": null,
+    "value_numeric": 55.54,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2316,7 +2316,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "49·37",
-    "value_numeric": null,
+    "value_numeric": 49.37,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2406,7 +2406,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "89·13",
-    "value_numeric": null,
+    "value_numeric": 89.13,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2496,7 +2496,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "54·17",
-    "value_numeric": null,
+    "value_numeric": 54.17,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2586,7 +2586,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "111·42",
-    "value_numeric": null,
+    "value_numeric": 111.42,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2676,7 +2676,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "59·48",
-    "value_numeric": null,
+    "value_numeric": 59.48,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2766,7 +2766,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "74·05",
-    "value_numeric": null,
+    "value_numeric": 74.05,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true
@@ -2856,7 +2856,7 @@
     "column_index": 5,
     "column_header": "Price per Re. 1. :: lbs.",
     "raw_text": "112·28",
-    "value_numeric": null,
+    "value_numeric": 112.28,
     "unit": "lbs",
     "is_null_or_leader": false,
     "arithmetic_verified": true

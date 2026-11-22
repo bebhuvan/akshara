@@ -835,9 +835,7 @@ They agree that no further attempt should be made to trade at Calicut. Captain B
 
 They wrote at length by the *Anne* [p. 50], but as that letter may miscarry and they have now an opportunity of sending by a different route, they will run over again the most material points. Arrival of Bonner's fleet, and distribution of its cargo. A glut of broadcloth in India, though 'the price is not much stood on (when wanted), beeing used by the King and nobillity'. Supply should be intermitted for a year. Reds, greens and yellows are most in favour, in that order. Kerseys are in fair demand, but 'bayes is of little use'. Dispute with the 'Customer' over the ivory, two thousand maunds of which will sell yearly. The 'Customer' has detained all their lead, 'with intente or pretence to buy itt'; but he will not give the price they ask. Of the tin half was sent to Persia, and the rest landed. Supply of coral, hides, beads, quicksilver, and vermilion. Sword-blades, guns, knives, strong waters, &c., should be sent only for use as presents. Cochineal, pearls, bonelace, gloves, &c., are unprofitable; also 'chamletts mohares' and other Turkey goods, which come more cheaply from Mokha. Satins will sell, but tapestry, pictures, gold lace and so on yield more vexation than [p. 79] gain. ‘The conditions concluded by Sir Thomas Roe with these chefes concerning them is that such parte as they shall like for their masters use bee pactt upp together, sealed with their seale, and delivered the appointed agent to carrie upp unto the court, there to make sale of what the Prince shall like, as they can agree, pretending itt to reserve them only for his first sight; which how injuste you will soone perceave; and yett to this day wee cannot procure their cleereing, alleageing this protraccion to their much buisnesse for dispatch of this junck, which when departed they will perhapps bee att better leasure. This detention, as itt is an unsupportable wrong, soe itt inthralleth us to many other inconveniences and hath detaind Mr. Biddulph heere to the hindrance of the courte affairs, sale of the goods, and investing the proceede (wee feare) for the next retorne; which, if His Lordship had pleased, might long ere this have bine remedied by stopping their laste yeares junck at barr for a gennerall reformacion of all our greevances and satisfaction of all your debts abroade; which oppertunity soe omitted through the Kings departure for Agra will never againe bee obtained; the distance from hence thether soe greate will cause much expence of tyme, and that againe harte burning to both our prejudices before the King can have the heareing and determine itt; which in Amadavas (besides the reparacion, our nacions honnor, and His Lordships repute) had bine performed in fifteen or twenty daees att moste.’ Disposal of the bullion brought. A reasonable quantity may be sent yearly in lieu of rials. The *Expedition*, returning from Persia, brought two Portuguese prizes, worth (irrespective of their cargoes) some two or three thousand pounds sterling. State of the Persian trade. Some English commodities will sell there, but in their opinion the large supply demanded by the factors should not be sent until further conditions be obtained. The *Anne* sold only part of her cargo at Mokha, and that at low rates. Salbank thinks, however, that a hundred broadcloths will sell there yearly. They consider that Indian and ‘Southerne’ commodities will do better there than English goods. As regards the situation at Surat, the papers sent by the *Anne* will show ‘the poore remedie wee have receaved, not only of our former injuries, butt many others since, and thereby alsoe be ascertained of the meane grace His Lordship stood in with this King and Prince, that, [p. 80] after three yeares attendance, att his departure by earnest intercession could not procure the guifte of a house nor ground, nor lycence to build us a habitation, nor soe much as continue us in this, from whence (our tyme neerely expired) wee shortly expect to bee remooved. Wee have already sought oute and obeyned from the ownner another, but these cheefes will nott consente wee shall have any nere the waterside; and elcewhere, in the inner parte of the towne, there is not any strong nor for us conveniente, excepte such as belonge to bannyanes[^sec-05-fn-076], who will nott lett them; soe where to be accomodated, as yett wee know nott. The debts remayning att courte, and manner of His Lordships lycence, you have no doubt receaved relacion from them presente. What hee heather brought for the establishing of your trade (his capitulacions refused, as per our laste advised) was only a firmaen from the King, and another from the Prince; the first gennerall, for our recepcion and continuance in his domynnyons, as many others (more ample) heeretofore receaved; the latter particuler, for this porte of Suratt. The fruicts which both have produced you may please to perceave by your goods detencion these six months in customehouse, and yett unreleaced, and our dwelling uppon every triviall humor subject to change, wherof att his coming to Suratt discerning the discomodeties, hee endeavored by letters and presents to the King, Prince and nobillity to releeve us, and receaved another firmaen from the Prince to as little purpose as the former; wherby itt is evident they have commaunds of sundrie kindes and know which to obay, otherwise the Princes severitye could not be jested with by his servants; the consideracion and laste tryall wherof caused a cleerer sight of the omission paste, and himselfe to propose the juncks detencion next yeare, wherin by reason of the many difficulties beeing opposed, hee lefte itt to the discrecion off Councell (if not releeved in the premises), whoe will not easilie bee induced to attempt itt without expresse order from Your Worships to warrant itt, as well for the affiance you had in His Lordships wisedome (who though hee had authoritie could not bee induced therto himselfe), as the Kings present remote residence[^sec-05-fn-077], which perhapps, through the stoping of your buisnesse err the questions decyded, might [p. 81] cause many inconveniences, and expose the actors to more then is convenient for them to hasard. Itt may please you therfore well to consider this pointe; the debts are unlikely to be soone recovered, and these are a people that curbd wilbe brought to any reason, and if suffered in their owne wayes grow insolente and insupportable, which they excersise not on the Portingalls, that incroacheth as much on them, permitt none of their shipps to sayle without lysence, and even now since the *Anns* departure have forced the Goga junck, appertaineing to the beloved queene, to pay them 65,000 mamoodes for custome to the porte of Dieu (an antient dutie), which striveing to infringe loste her voyage the laste yeare, and made greate shew off warrs; yett after much contention have submitted againe to the yoake.’ Robbery of the Agra caravan.
 
-The Kāzi, ‘whoe serves as a notarye publicke,’ refuses to take the testimony of the camelmen, pretending that they are interested parties; ‘butt the truth is they feare to informe gainst the lord of that place, whoe is of the cheefe nobillitie.’ Complaint has been made to the Governor, but no relief is yet forthcoming. During his stay at Surat Roe gave away presents to the value of 135*l*. 13*s*. 7*d*., including some to persons who had not received any before, and will expect them in future. They are making investments for next
-
-year’s ship. Cargo of the *Anne*. Their letters, registers, &c., sent by her in ‘a box sealed, maled[^sec-05-fn-078], and covered’, entrusted to Roe for delivery to the Company. Goods dispatched to Achin in the
+The Kāzi, ‘whoe serves as a notarye publicke,’ refuses to take the testimony of the camelmen, pretending that they are interested parties; ‘butt the truth is they feare to informe gainst the lord of that place, whoe is of the cheefe nobillitie.’ Complaint has been made to the Governor, but no relief is yet forthcoming. During his stay at Surat Roe gave away presents to the value of 135*l*. 13*s*. 7*d*., including some to persons who had not received any before, and will expect them in future. They are making investments for next year’s ship. Cargo of the *Anne*. Their letters, registers, &c., sent by her in ‘a box sealed, maled[^sec-05-fn-078], and covered’, entrusted to Roe for delivery to the Company. Goods dispatched to Achin in the
 
 *Dragon*. The *Lion* has taken to Mokha Indian goods to the value of over 55,000 mahmūdīs, with broadcloth, sword-blades, &c., that bring up the total to 66,463 mahmūdīs 5⅝ pice. ‘Upon occasion (as wee are informed) of breach of peace twixt the Portingalls and a people their neighbours some twenty leagues to the southward of Goa that are Mallabar gentiles[^sec-05-fn-079], theire countrie called Ekaria and the porte Batacala,’ a frigate from thence invited the English to come thither and buy their pepper and other spices [*see* p. 56]. The *Lion* is to accompany the fleet thither (calling at Dābhol on the way) to strengthen her consorts in case of treachery, and bring [p. 82] news of the result. If the venture prove futile, she will take in the goods sent for barter on the *Expedition*. She is also to call at Socotra on her way to the Red Sea. The Portuguese have lately visited Swally, and are loud in their threats of what they will do next year. ‘You may nott therfore bee secure, for though itt bee their custome to threaten long, they come att laste.’ Rumoured expulsion of the English from Tiku. The Dutch at Surat have received no supplies, but seem to expect some soon. No further news. ‘Your factories stand all in health; the plauge increaseth in Agra; the King att Fettipoore[^sec-05-fn-080] within twelve course[^sec-05-fn-081] therof.’ The Masulipatam factors have received nothing from Bantam this year. This letter is sent via Mokha and Alexandria. They advise the Company to make arrangements with some one at the latter place to receive and forward correspondence.
 
@@ -3612,8 +3610,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - *Ahadīs*, 111, 188, 349.
 - Ahmadābād, letters from, 2 (2), 7, 18, 20,
 -  23, 190, 281, 282, 291, 301, 306, 308,
--  309, 314, 318, 329, 334 (2), 339, 345,
-- 347, 350, 353; letters to, 50, 75, 85, 91,
+-  309, 314, 318, 329, 334 (2), 339, 345, 347, 350, 353; letters to, 50, 75, 85, 91,
 -  100, 105, 109, 113, 114, 117, 119, 121,
 -  123, 125, 129, 130, 133, 148, 155, 166,
 -  179, 182, 189; the English factors at
@@ -3778,10 +3775,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Barbary, 162, 169, 206, 209.
 - Barbast, 248, 268.
 - Barber, Richard, letters from, 107, 108,
-- 279, 291, 308, 338, 345, 349, 352; goes
-
-<!-- page: 413 | folio: 359 -->
-- to Mokha, 35 (2); sent to Baroda, 189;
+- 279, 291, 308, 338, 345, 349, 352; goes [p. 359] to Mokha, 35 (2); sent to Baroda, 189;
 - desires to return to England, 234.
 - Barges, 338.
 - Barker, Thomas, agent in Persia, xxvi, 2,
@@ -3840,8 +3834,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Masulipatam and, 50, 264; silk from,
 - xxiii, 46, 52, 58, 77, 112, 116, 127, 153,
 - 155, 161, 193, 197, 205, 212, 235, 250,
-- 253, 260, 264, 327; *tasar* and grass-
-- cloth from, 112, 197; sahans from, 197;
+- 253, 260, 264, 327; *tasar* and grasscloth from, 112, 197; sahans from, 197;
 - stuffs from, 178, 303; quilts from, 84,
 - 103, 195, 198, 206, 235; carpets from,
 - 254 *n.*; Portuguese in, 14, 195, 197,
@@ -3951,10 +3944,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Calicut, Pepwell’s fleet visits, 1; Bonner at, 65, 71–3, 76, 156; no further attempt to be made to trade at, 55, 76; Samorin of, 20, 55, 58, 71, 76, 276, 290.
 - Callian Shagger. *See* Kalyān Shāgird.
 - Calvert, Mr. Secretary, 219 *n.*
-- Cambay, 1; letters from, 293, 306, 307, 309, 312, 313, 329, 339, 344, 351, 352; letter to, 50; Duke and Bickford sent to, 28; Heynes at, 50; factory made independent of Ahmadābād, 234; Halstead made chief at, 234; Lancaster sent to, 278; Salbank proceeds to, 309 (2), 311; goods provided at, 52, 75, 93, 94, 102, 105, 178, 282, 293, 301; cost of
-
-<!-- page: 415 | folio: 361 -->
-- carriage, 51; tolls at, 51; proposed
+- Cambay, 1; letters from, 293, 306, 307, 309, 312, 313, 329, 339, 344, 351, 352; letter to, 50; Duke and Bickford sent to, 28; Heynes at, 50; factory made independent of Ahmadābād, 234; Halstead made chief at, 234; Lancaster sent to, 278; Salbank proceeds to, 309 (2), 311; goods provided at, 52, 75, 93, 94, 102, 105, 178, 282, 293, 301; cost of [p. 361] carriage, 51; tolls at, 51; proposed
 - dispatch of goods by water from, 119;
 - rate of exchange, 330; Safī Khān
 - threatens to stop goods at, 349; Dutch
@@ -4068,10 +4058,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Cirne. *See* Mauritius.
 - Cittringes, 354.
 - Civet, 47, 52, 57, 235.
-- Clark, John, at Masulipatam, 43; arrives
-
-<!-- page: 416 | folio: 362 -->
-- at Surat as a factor, 214; sent to Ahmadābād, 234, 252; signs letters, 278, 281,
+- Clark, John, at Masulipatam, 43; arrives [p. 362] at Surat as a factor, 214; sent to Ahmadābād, 234, 252; signs letters, 278, 281,
 - 282, 291, 306, 308, 318, 329, 334 (2),
 - 339, 343, 345, 347, 350, 353.
 - Clarke, W., 111.
@@ -4621,10 +4608,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Is-hāq Beg, Governor of Surat, obstructs
 - English trade, 89, 94, 97, 101, 106, 109,
 - 126, 135; writes on behalf of the factors,
-- 111, 112; the Prince orders him to be
-
-<!-- page: 421 | folio: 367 -->
-- punished, 112; Kerridge writes to, 114,
+- 111, 112; the Prince orders him to be [p. 367] punished, 112; Kerridge writes to, 114,
 - 120; licenses purchase of provisions,
 - 121; prohibits sale of coral, 131; quarrel with, 144–51; he is superseded, 148;
 - goes to Burhānpur, 270; complains
@@ -4678,8 +4662,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - note on, 64 *n.*
 - James I, and the Dutch, 126; letter to
 - Roe from, vi, 16; Roe's letter to, 21;
-- letters to and from Jahāngīr, 21, 22 (2),
-- 38, 219; letter to the King of Achin,
+- letters to and from Jahāngīr, 21, 22 (2), 38, 219; letter to the King of Achin,
 - 58, 64, 66; to the Samorin of Calicut, 58,
 - 71; to the King of Socotra, 66; to the
 - Shāh of Persia, 328.
@@ -4731,10 +4714,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - others, 144, 241, 242; at Surat, 243,
 - 333; sent in Blyth's fleet, 287, 313;
 - deputed to Malik Ambar, xxxii, 287,
-- 290, 310 *n.*, 324, 328; his account of
-
-<!-- page: 422 | folio: 368 -->
-- his mission, 296, 315, 333; ordered to
+- 290, 310 *n.*, 324, 328; his account of [p. 368] his mission, 296, 315, 333; ordered to
 - Persia, 317, 318, 326, 328, 347, 348;
 - notice of, 241 *n.*
 - Jemison. *See* Jamieson.
@@ -4789,8 +4769,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - 105, 107 (2), 108 (2), 109, 111, 118,
 - 170–3; petition to, 90, 170; he releases
 - it, 120–2 (2); orders compensation for
-- the lost indigo, 121, 154; operations
-- against Malik Ambar, 211, 333; promise
+- the lost indigo, 121, 154; operations against Malik Ambar, 211, 333; promise
 - to Ramprasād, 322; notice of, 59 *n.*
 - *Khāsnāma*, 248, 253.
 - *Khatrīs*, 352 *n.*
@@ -5119,8 +5098,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - *Peppercorn*, the, 110, 156, 157, 165.
 - Pepwell, Matthew, 1, 49, 52, 183.
 - Percallas (piece-goods), 42, 266.
-- Persia (*see also* Ispahān *and* Jask), English
-- trade with, xxv, 12, 16, 52, 79, 129, 142,
+- Persia (*see also* Ispahān *and* Jask), English trade with, xxv, 12, 16, 52, 79, 129, 142,
 - 185, 201, 333; factors, &c., in (*see also*
 - Barker, Connock, Jeffries, Monnox), 11,
 - 143, 144, 237, 252; letters to, 140, 200;
@@ -5177,10 +5155,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Ponānī, 71 *n.*
 - Popillees, 94, 235.
 - Popinjays (cloths), 47.
-- Porcelain, sale of, in India (*see also* Soares),
-
-<!-- page: 427 | folio: 373 -->
-- 18, 42, 47, 208, 263, 306; in Persia, 16;
+- Porcelain, sale of, in India (*see also* Soares), [p. 373] 18, 42, 47, 208, 263, 306; in Persia, 16;
 - taken in a prize, 75.
 - Pore, 147.
 - Portuguese, the, trade in India, 10, 21, 31,
@@ -5410,10 +5385,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - Salmon, Nathaniel, death of, 51, 86.
 - Saltpetre, 251.
 - Samaleh, 206.
-- Samāna, town of, xxi, 168; goods to be
-
-<!-- page: 429 | folio: 375 -->
-- provided at, 178, 257; factors sent to, 181-3, 234 (2), 267; letters from, 257, 267; funds at, 235; goods from, 257, 336, 346; the factors return, 336; dispatched again, 337, 346; permanent factory unnecessary, 258.
+- Samāna, town of, xxi, 168; goods to be [p. 375] provided at, 178, 257; factors sent to, 181-3, 234 (2), 267; letters from, 257, 267; funds at, 235; goods from, 257, 336, 346; the factors return, 336; dispatched again, 337, 346; permanent factory unnecessary, 258.
 - Samānas or Semianoes (piece-goods), xxi, 236; purchase of, 46, 47, 51, 58, 73, 93, 102, 178, 183, 188, 201, 234, 235, 323, 326; price of, 61, 161; packing of, 161; the Company dissatisfied with, 126, 160, 169; suitable for England, 84, 168; the Portuguese buy, 214.
 - Samaritan, the, 67 *n.*, 333.
 - Sambelott, 308, 309 *n.*
@@ -5474,10 +5446,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - *Shilling*, the, 339.
 - Shilling, Captain Andrew, letter from, 28; goes to Mokha (*see also Anne*, the), 28, 33, 35 (2), 37; his second voyage to India, 202, 203, 214, 227; goes to Jask, 203, 204, 206, 207, 215; his fight with the Portuguese, xxix, 220-8, 241; death and burial of, xxix, 225, 226, 228, 242; notice of, 28 *n.*
 - Shipbuilding in India, 113.
-- Ships, should be commanded by merchants, 1; excessive expenditure on fresh meat, 133; to be sent out earlier, 206; to
-
-<!-- page: 430 | folio: 376 -->
-- reach home before the end of August,
+- Ships, should be commanded by merchants, 1; excessive expenditure on fresh meat, 133; to be sent out earlier, 206; to [p. 376] reach home before the end of August,
 - 235, 244; to be fitted with sherehooks,
 - &c., 68; disposal of, left to the Surat
 - Council, 250.
@@ -5589,10 +5558,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - 238, 319; mint established at, 36, 40,
 - 218, 293; in consequence, the English
 - are forbidden to export their rials, 218,
-- 238, 240, 251, 260, 292, 323; prohibition withdrawn, 325, 331; mosque
-
-<!-- page: 431 | folio: 377 -->
-- at, 40; bazaar of, 106; custom-house
+- 238, 240, 251, 260, 292, 323; prohibition withdrawn, 325, 331; mosque [p. 377] at, 40; bazaar of, 106; custom-house
 - at, 106; shipbuilding at, 314; dyes
 - used at, 85; goods to be provided at,
 - 235; English goods suitable for, 18;
@@ -5842,8 +5808,7 @@ Acknowledge the receipt of their letter and of the present for Rustam Khān. He 
 - ‘Yolke,’ 303.
 - Young, John, 189; letter to, 151; letters
 - signed by, 260, 266; sent to Surat, 161;
-- his caravan plundered, 59, 74, 81, 84,
-- 102, 210; steps taken to procure compensation, 89, 118, 120, 121, 154, 170,
+- his caravan plundered, 59, 74, 81, 84, 102, 210; steps taken to procure compensation, 89, 118, 120, 121, 154, 170,
 - 173 (2), 250, 269, 273, 322; dispatched
 - to Agra, 88, 89, 170; ordered to Patna,
 - 182, 261; sent to Burhānpur, 346 (2).

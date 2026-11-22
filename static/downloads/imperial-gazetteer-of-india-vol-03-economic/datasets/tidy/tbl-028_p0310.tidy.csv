@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,1,summary,,Average 1834-5 to 1838-9,2,Imports.,"7,32",732.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,1,summary,,Average 1834-5 to 1838-9,3,Exports.,"11,32",1132.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,2,data,,„ 1839-40 „ 1843-4,2,Imports.,"10,45",1045.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,2,data,,„ 1839-40 „ 1843-4,3,Exports.,"14,25",1425.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,3,data,,„ 1844-5 „ 1848-9,2,Imports.,"12,21",1221.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,3,data,,„ 1844-5 „ 1848-9,3,Exports.,"16,99",1699.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,4,data,,„ 1849-50 „ 1853-4,2,Imports.,"15,85",1585.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,4,data,,„ 1849-50 „ 1853-4,3,Exports.,"20,02",2002.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,5,data,,„ 1854-5 „ 1858-9,2,Imports.,"26,85",2685.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,5,data,,„ 1854-5 „ 1858-9,3,Exports.,"25,85",2585.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,6,data,,„ 1859-60 „ 1863-4,2,Imports.,"41,06",4106.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,6,data,,„ 1859-60 „ 1863-4,3,Exports.,"43,17",4317.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,7,data,,„ 1864-5 „ 1868-9,2,Imports.,"49,31",4931.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,7,data,,„ 1864-5 „ 1868-9,3,Exports.,"57,66",5766.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,8,data,,„ 1869-70 „ 1873-4,2,Imports.,"41,30",4130.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,8,data,,„ 1869-70 „ 1873-4,3,Exports.,"57,84",5784.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,9,data,,„ 1874-5 „ 1878-9,2,Imports.,"48,22",4822.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,9,data,,„ 1874-5 „ 1878-9,3,Exports.,"63,13",6313.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,10,data,,„ 1879-80 „ 1883-4,2,Imports.,"61,81",6181.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,10,data,,„ 1879-80 „ 1883-4,3,Exports.,"80,41",8041.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,11,data,,„ 1884-5 „ 1888-9,2,Imports.,"75,13",7513.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,11,data,,„ 1884-5 „ 1888-9,3,Exports.,"90,28",9028.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,12,data,,„ 1889-90 „ 1893-4,2,Imports.,"88,70",8870.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,12,data,,„ 1889-90 „ 1893-4,3,Exports.,"108,67",10867.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,13,data,,„ 1894-5 „ 1898-9,2,Imports.,"88,56",8856.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,13,data,,„ 1894-5 „ 1898-9,3,Exports.,"113,93",11393.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,14,data,,„ 1899-1900 „ 1903-4,2,Imports.,"110,69",11069.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,14,data,,„ 1899-1900 „ 1903-4,3,Exports.,"136,59",13659.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,15,data,,Year 1904-5,2,Imports.,"143,92",14392.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-028,Table 28,310,268,15,data,,Year 1904-5,3,Exports.,"174,14",17414.0,,False,False

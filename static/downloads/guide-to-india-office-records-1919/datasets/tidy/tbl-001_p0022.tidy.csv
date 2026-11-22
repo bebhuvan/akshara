@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,1,data,,1,2,Column 2,22 Sept. 1599–10 Aug. 1603.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,2,data,,1a,2,Column 2,1600–19. “Miscellaneous Court Book.”,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,3,data,,2,2,Column 2,31 Dec. 1606–26 Jan. 1610.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,4,data,,2a,2,Column 2,1 March 1611–4 May 1620. Fourth Voyage only.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,5,data,,3,2,Column 2,— Dec. 1613–10 Nov. 1615.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,6,data,,4,2,Column 2,19 Sept. 1617–4 April 1620.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,7,data,,5,2,Column 2,4 July 1621–2 July 1622.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,8,data,,6–11,2,Column 2,2 July 1623–3 July 1629.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,9,data,,12,2,Column 2,2 July 1630–16 July 1631.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,10,data,,13–16,2,Column 2,4 July 1632–5 July 1637.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,11,data,,17–19,2,Column 2,5 July 1639–30 June 1646.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,12,data,,20,2,Column 2,1 July 1646–2 July 1650. First General Voyage and Fourth Joint Stock.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,13,data,,21,2,Column 2,3 July 1650–23 May 1663. Fourth Joint Stock.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,14,data,,22,2,Column 2,18 Aug. 1647–4 Jan. 1650. Second General Voyage.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,15,data,,23,2,Column 2,3 July 1650–7 April 1669. United Joint Stock.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,16,data,,24,2,Column 2,19 Oct. 1657–14 April 1665. New General Stock.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,17,data,,24a,2,Column 2,Index to vol. 24.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,18,data,,25–40,2,Column 2,14 April 1665–22 March 1709. Old Company.,,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,19,data,,25a,2,Column 2,"1666–1680. Committee Minutes, Accounts, &c.",,,False,False
+guide-to-india-office-records-1919,tbl-001,Table 1,22,2,20,data,,37a,2,Column 2,7 Sept. 1698–20 June 1699. New Company.,,,False,False

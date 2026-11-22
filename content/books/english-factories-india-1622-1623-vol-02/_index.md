@@ -1,6 +1,6 @@
 ---
 title: "The English Factories in India, 1622–1623"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Calendar of Documents in the India Office and British Museum"
 author: "William Foster"
 author_slug: "william-foster"
@@ -9,7 +9,7 @@ imprint: "Oxford: Clarendon Press"
 language: "English"
 pages: 430
 extracted_pages: 430
-reread_pages: 7
+reread_pages: 9
 human_verified_pages: 0
 chapters: 7
 footnotes_count: 296
@@ -22,30 +22,30 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 87.0
+rubric_score: 85.0
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Apparatus & Footnotes"
-    score: 19.0
+    score: 25.0
     max: 25.0
-    notes: "-6.0: 2 unresolved footnote callout/body mismatch(es)"
+    notes: "Clean (0 deductions)"
   - name: "Tabular & Numeric Accuracy"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Orthography & Diacritics"
-    score: 18.0
+    score: 10.0
     max: 25.0
-    notes: "-2.0: 1 intra-book diacritic drift cluster(s); -5.0: 384 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-6.0: 2 script/codepoint anomaly(ies); -4.0: 2 intra-book diacritic drift cluster(s); -5.0: 363 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (388 open review items); 7 of 430 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (368 open review items); 9 of 430 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 18 fixes · 7 pp. checked"
+  - "Scan-Triaged: 41 fixes · 9 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 1/1 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -121,31 +121,32 @@ editorial_note_markdown: |-
   - **Source File**: `english-factories-india-1622-1623-vol-02.originals.pdf`
   - **Source SHA-256**: `4abe331a932239c545fea4eb62b3ea9664bbdf37cd5387056a4857875bacdf26`
   - **Leaf Accounting**: 430 PDF leaves — **430** content leaves transcribed, **0** blank/tissue leaves (`none`), **0** failed leaves.
-  - **Edition Status**: `community` (**87.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**85.0 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
-  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (129 flyleaf/stamp block(s)) are excluded from reading prose; **225** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **0** multi-page tables were stitched; and **568** end-of-line hyphens were resolved against intra-book attestation.
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (129 flyleaf/stamp block(s)) are excluded from reading prose; **224** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **4** cross-page split footnotes and **0** multi-page tables were stitched; and **568** end-of-line hyphens were resolved against intra-book attestation.
   - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (28 distinct non-ASCII characters across 341 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
 
   ## 3. Transcription Provenance & Remaining Open Checks
 
   - **Models**: `gemini-3.6-flash` (1 pp.), `gemini-3.8-flash` (429 pp.).
   - **Reader**: Read by gemini-3.8-flash on 429 of 430 pages, gemini-3.6-flash on 1 of 430 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 18 replayed correction(s). Automated reading (388 open review items); 7 of 430 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 41 replayed correction(s). Automated reading (368 open review items); 9 of 430 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **384 finding(s) across 29 leaf(s)** (pp. 9, 83, 103, 109, 113, 121, 140, 141, 153, 176 (+19 more)): faded or blotted `<unclear>` passages awaiting human scan inspection.
+  - **363 finding(s) across 15 leaf(s)** (pp. 83, 121, 140, 141, 153, 181, 195, 257, 258, 259 (+5 more)): faded or blotted `<unclear>` passages awaiting human scan inspection.
   - **12 finding(s) across 12 leaf(s)** (pp. 54, 102, 161, 172, 234, 239, 256, 261, 270, 411 (+2 more)): rare character.
   - **7 finding(s) across 7 leaf(s)** (pp. 28, 48, 112, 150, 164, 220, 323): attested compositor spelling variants preserved diplomatically from the scan.
-  - **2 finding(s) across 2 leaf(s)** (pp. 181, 195): pages where a footnote marker and note body could not be paired automatically.
+  - **2 finding(s) across 2 leaf(s)** (pp. 102, 239): script anomaly.
+  - **2 finding(s) across 2 leaf(s)** (pp. 251, 284): proper nouns or transliterated terms whose diacritics vary across pages.
+  - **2 finding(s) across 2 leaf(s)** (pp. 181, 195): attested compositor footnote callout/note variants preserved diplomatically from the scan.
   - **1 finding(s) across 1 leaf(s)** (pp. 67): control characters removed.
-  - **1 finding(s) across 1 leaf(s)** (pp. 284): proper nouns or transliterated terms whose diacritics vary across pages.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 A Calendar of Documents in the India Office and British Museum. Archival scope: spanning 1622-1623; covering Surat, Agra, Ahmadabad, Broach, Masulipatam, Pulicat; focusing on factory records, ormuz capture, textile prices, coral and bullion, mughal customs. Original imprint: Oxford: Clarendon Press (1908).
 
-Digitized from Internet Archive copy [`tdl.46404-the-english-factories-in-india-1622-1623-a-calendar-of-documents-in-th`](https://archive.org/details/tdl.46404-the-english-factories-in-india-1622-1623-a-calendar-of-documents-in-th) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **87.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (296), and statistical tables (2) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`tdl.46404-the-english-factories-in-india-1622-1623-a-calendar-of-documents-in-th`](https://archive.org/details/tdl.46404-the-english-factories-in-india-1622-1623-a-calendar-of-documents-in-th) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **85.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (296), and statistical tables (2) are preserved faithfully from the source camera scans.

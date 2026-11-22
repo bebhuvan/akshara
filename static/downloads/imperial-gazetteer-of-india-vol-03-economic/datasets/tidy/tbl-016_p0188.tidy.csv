@@ -1,0 +1,21 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,1,data,,1899,2,Madras. :: Tons.,"87,126",87126.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,1,data,,1899,3,Central Provinces. :: Tons.,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,1,data,,1899,4,Central India. :: Tons.,..,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,1,data,,1899,5,Total. :: Tons.,"87,126",87126.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,2,data,,1900,2,Madras. :: Tons.,"92,458",92458.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,2,data,,1900,3,Central Provinces. :: Tons.,"35,356",35356.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,2,data,,1900,4,Central India. :: Tons.,..,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,2,data,,1900,5,Total. :: Tons.,"127,814",127814.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,3,data,,1901,2,Madras. :: Tons.,"76,463",76463.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,3,data,,1901,3,Central Provinces. :: Tons.,"44,428",44428.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,3,data,,1901,4,Central India. :: Tons.,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,3,data,,1901,5,Total. :: Tons.,"120,891",120891.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,4,data,,1902,2,Madras. :: Tons.,"68,171",68171.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,4,data,,1902,3,Central Provinces. :: Tons.,"89,608",89608.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,4,data,,1902,4,Central India. :: Tons.,,,tons,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,4,data,,1902,5,Total. :: Tons.,"157,779",157779.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,5,data,,1903,2,Madras. :: Tons.,"63,452",63452.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,5,data,,1903,3,Central Provinces. :: Tons.,"101,554",101554.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,5,data,,1903,4,Central India. :: Tons.,"6,800",6800.0,tons,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-016,Table 16,188,146,5,data,,1903,5,Total. :: Tons.,"171,806",171806.0,tons,False,False

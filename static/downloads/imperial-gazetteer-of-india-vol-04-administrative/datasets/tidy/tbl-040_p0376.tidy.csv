@@ -1,0 +1,73 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,2,British. :: Cavalry.,"1,366",1366.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,3,British. :: Artillery.,"3,063",3063.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,4,British. :: Infantry.,"17,003",17003.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,5,British. :: Total.,"21,432",21432.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,6,Native. :: Cavalry.,"19,288",19288.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,7,Native. :: Artillery.,"4,734",4734.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,8,Native. :: Sappers and Miners.,"1,497",1497.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,9,Native. :: Infantry.,"112,052",112052.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,1,data,,Bengal,10,Native. :: Total.,"137,571",137571.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,2,British. :: Cavalry.,639,639.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,3,British. :: Artillery.,"2,128",2128.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,4,British. :: Infantry.,"5,941",5941.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,5,British. :: Total.,"8,708",8708.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,6,Native. :: Cavalry.,"3,202",3202.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,7,Native. :: Artillery.,"2,407",2407.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,8,Native. :: Sappers and Miners.,"1,270",1270.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,9,Native. :: Infantry.,"42,373",42373.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,2,data,,Madras,10,Native. :: Total.,"49,252",49252.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,2,British. :: Cavalry.,681,681.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,3,British. :: Artillery.,"1,578",1578.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,4,British. :: Infantry.,"7,101",7101.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,5,British. :: Total.,"9,360",9360.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,6,Native. :: Cavalry.,"8,433",8433.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,7,Native. :: Artillery.,"1,997",1997.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,8,Native. :: Sappers and Miners.,637,637.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,9,Native. :: Infantry.,"33,861",33861.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,3,data,,Bombay,10,Native. :: Total.,"44,928",44928.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,2,British. :: Cavalry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,3,British. :: Artillery.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,4,British. :: Infantry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,5,British. :: Total.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,6,Native. :: Cavalry.,"6,796",6796.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,7,Native. :: Artillery.,"2,118",2118.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,8,Native. :: Sappers and Miners.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,9,Native. :: Infantry.,"23,640",23640.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,4,data,,Local forces and contingents,10,Native. :: Total.,"32,554",32554.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,2,British. :: Cavalry.,„,681.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,3,British. :: Artillery.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,4,British. :: Infantry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,5,British. :: Total.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,6,Native. :: Cavalry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,7,Native. :: Artillery.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,8,Native. :: Sappers and Miners.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,9,Native. :: Infantry.,(Unclassified),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,5,data,,„ „,10,Native. :: Total.,"7,756",7756.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,2,British. :: Cavalry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,3,British. :: Artillery.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,4,British. :: Infantry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,5,British. :: Total.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,6,Native. :: Cavalry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,7,Native. :: Artillery.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,8,Native. :: Sappers and Miners.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,9,Native. :: Infantry.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,6,data,,Military police,10,Native. :: Total.,"38,977",38977.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,2,British. :: Cavalry.,"2,686",2686.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,3,British. :: Artillery.,"6,769",6769.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,4,British. :: Infantry.,"30,045",30045.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,5,British. :: Total.,"39,500",39500.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,6,Native. :: Cavalry.,"37,719",37719.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,7,Native. :: Artillery.,"11,256",11256.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,8,Native. :: Sappers and Miners.,"3,404",3404.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,9,Native. :: Infantry.,"211,926",211926.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,7,total,,Total,10,Native. :: Total.,"311,038",311038.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",2,British. :: Cavalry.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",3,British. :: Artillery.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",4,British. :: Infantry.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",5,British. :: Total.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",6,Native. :: Cavalry.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",7,Native. :: Artillery.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",8,Native. :: Sappers and Miners.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",9,Native. :: Infantry.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-040,Table 40,376,338,8,total,,"Grand Total, British and native troops",10,Native. :: Total.,"350,538",350538.0,,False,False

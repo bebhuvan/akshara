@@ -1,6 +1,6 @@
 ---
 title: "Poverty and Un-British Rule in India"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Dadabhai Naoroji"
 author_slug: "dadabhai-naoroji"
@@ -9,7 +9,7 @@ imprint: "London: Swan Sonnenschein & Co."
 language: "English"
 pages: 700
 extracted_pages: 691
-reread_pages: 36
+reread_pages: 38
 human_verified_pages: 0
 chapters: 16
 footnotes_count: 191
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 75.6
+rubric_score: 71.6
 rubric_pillars:
   - name: "Structural Completeness"
     score: 20.0
@@ -31,21 +31,21 @@ rubric_pillars:
   - name: "Apparatus & Footnotes"
     score: 10.0
     max: 25.0
-    notes: "-15.0: 8 unresolved footnote callout/body mismatch(es)"
+    notes: "-15.0: 5 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
-    score: 22.0
+    score: 18.0
     max: 25.0
-    notes: "-3.0: 2 ragged table geometry warning(s)"
+    notes: "-4.0: 1 collapsed/jammed table row warning(s); -3.0: 2 ragged table geometry warning(s)"
   - name: "Orthography & Diacritics"
     score: 23.6
     max: 25.0
     notes: "-1.4: 7 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 4 Hydrogen"
-provenance_statement: "Automated reading (20 open review items); 36 of 691 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (18 open review items); 38 of 691 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 4 Hydrogen"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 22 fixes · 36 pp. checked"
+  - "Scan-Triaged: 22 fixes · 38 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 83/86 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -344,7 +344,7 @@ editorial_note_markdown: |-
   - **Source File**: `poverty-and-un-british-rule.originals.pdf`
   - **Source SHA-256**: `14cc414475c6d794d1c13d57ddd95f51cefce17335e9628841510d255765e9a1`
   - **Leaf Accounting**: 700 PDF leaves — **691** content leaves transcribed, **9** blank/tissue leaves (`2, 4, 20, 164, 252, 294, 646, 697, 698`), **0** failed leaves.
-  - **Edition Status**: `community` (**75.6 / 100** Rubric Score)
+  - **Edition Status**: `community` (**71.6 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -355,22 +355,24 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-4-hydrogen` (691 pp.).
   - **Reader**: Read by gemini-4-hydrogen on 691 of 691 pages. Declared reader profile: tables (new readings use gemini-4-hydrogen).
-  - **Human Proofing**: 22 replayed correction(s). Automated reading (20 open review items); 36 of 691 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 22 replayed correction(s). Automated reading (18 open review items); 38 of 691 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **47 finding(s) across 22 leaf(s)** (pp. 40, 41, 47, 48, 49, 85, 88, 148, 150, 157 (+12 more)): table compositor arithmetic variant.
   - **15 finding(s) across 15 leaf(s)** (pp. 27, 32, 169, 170, 172, 174, 176, 177, 181, 183 (+5 more)): table blind total confirmed.
-  - **8 finding(s) across 8 leaf(s)** (pp. 180, 184, 275, 333, 542, 543, 544, 545): pages where a footnote marker and note body could not be paired automatically.
   - **7 finding(s) across 5 leaf(s)** (pp. 55, 359, 581, 588, 607): faded or blotted `<unclear>` passages awaiting human scan inspection.
   - **6 finding(s) across 5 leaf(s)** (pp. 185, 413, 455, 548, 588): rare character.
+  - **5 finding(s) across 5 leaf(s)** (pp. 180, 275, 542, 544, 545): pages where a footnote marker and note body could not be paired automatically.
   - **3 finding(s) across 3 leaf(s)** (pp. 137, 139, 142): multi-column pages flagged for reading-order verification.
+  - **3 finding(s) across 3 leaf(s)** (pp. 184, 333, 543): attested compositor footnote callout/note variants preserved diplomatically from the scan.
   - **2 finding(s) across 2 leaf(s)** (pp. 189, 344): tables where one or more rows have inconsistent column width relative to the header.
   - **2 finding(s) across 1 leaf(s)** (pp. 687): attested compositor spelling variants preserved diplomatically from the scan.
+  - **1 finding(s) across 1 leaf(s)** (pp. 171): table collapsed rows.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 A primary historical edition by Dadabhai Naoroji (1901). Archival scope: spanning 1835-1901; covering All-India, Bengal, Bombay, Madras, Punjab; focusing on drain of wealth, national income, taxation, trade balance, public expenditure. Original imprint: London: Swan Sonnenschein & Co. (1901).
 
-Digitized from Internet Archive copy [`povertyunbritish00naoruoft`](https://archive.org/details/povertyunbritish00naoruoft) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **75.6/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (191), and statistical tables (169) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`povertyunbritish00naoruoft`](https://archive.org/details/povertyunbritish00naoruoft) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **71.6/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (191), and statistical tables (169) are preserved faithfully from the source camera scans.

@@ -67,7 +67,7 @@
       <div xml:id="sec-01" type="frontmatter" n="01-frontmatter">
         <head>Frontmatter</head>
         <pb xml:id="page-1" n="1" facs="https://archive.org/download/b29352678_0002/page/n0_w1400.jpg"/>
-        <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0001.webp"/><head>Gilt-embossed coat of arms of the Honourable East India Company featuring lions as supporters, a shield depicting ships and heraldic emblems, a terrestrial globe crest flanked by flags bearing the motto 'DEUS INDICAT', and a lower banner inscribed 'DEO DUCENTE NIL NOCET'.</head><figDesc>Gilt-embossed coat of arms of the Honourable East India Company featuring lions as supporters, a shield depicting ships and heraldic emblems, a terrestrial globe crest flanked by flags bearing the motto &#x27;DEUS INDICAT&#x27;, and a lower banner inscribed &#x27;DEO DUCENTE NIL NOCET&#x27;.</figDesc></figure>
+        <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0001.webp"/><figDesc>Gilt-embossed coat of arms of the Honourable East India Company featuring lions as supporters, a shield depicting ships and heraldic emblems, a terrestrial globe crest flanked by flags bearing the motto &#x27;DEUS INDICAT&#x27;, and a lower banner inscribed &#x27;DEO DUCENTE NIL NOCET&#x27;.</figDesc></figure>
         <pb xml:id="page-6" n="6" facs="https://archive.org/download/b29352678_0002/page/n5_w1400.jpg"/>
         <figure xml:id="fig-002"><graphic url="../figures/fig-002_p0006.webp"/><head><hi rend="smallcaps">BOMBAY FORT IN 1665</hi></head><figDesc>BOMBAY FORT IN 1665</figDesc></figure>
         <pb xml:id="page-7" n="i" facs="https://archive.org/download/b29352678_0002/page/n6_w1400.jpg"/>
@@ -110,24 +110,21 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
         <pb xml:id="page-13" n="vii" facs="https://archive.org/download/b29352678_0002/page/n12_w1400.jpg"/>
         <div type="subsection" n="h1">
           <head>CONTENTS</head>
-          <div type="subsection" n="h3">
-            <head><hi rend="smallcaps">PAGE</hi></head>
-            <p rend="toc-entry">1665. <hi rend="smallcaps">Events at Surat</hi> . . . . . 1</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Occupation of Bombay</hi> . . . . 37</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Malabar Coast</hi> . . . . . 75</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Madras Agency</hi> . . . . . 103</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Factories in Bengal</hi> . . . . 134</p>
-            <p rend="toc-entry">1666. <hi rend="smallcaps">The Surat Presidency</hi> . . . . . 147</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Events at Bombay</hi> . . . . . 180</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Malabar Coast</hi> . . . . . 200</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Coromandel Coast</hi> . . . . 218</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The English in Bengal</hi> . . . . 256</p>
-            <p rend="toc-entry">1667. <hi rend="smallcaps">The Surat Presidency</hi> . . . . . 263</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Events at Bombay</hi> . . . . . 287</p>
-            <p rend="toc-entry"><hi rend="smallcaps">The Coast and Bay</hi> . . . . . 313</p>
-            <p rend="toc-entry"><hi rend="smallcaps">References to India Office Documents Quoted</hi> . 333</p>
-            <p rend="toc-entry"><hi rend="smallcaps">Index</hi> . . . . . . . . 337</p>
-          </div>
+          <p rend="toc-entry">1665. <hi rend="smallcaps">Events at Surat</hi> . . . . . 1</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Occupation of Bombay</hi> . . . . 37</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Malabar Coast</hi> . . . . . 75</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Madras Agency</hi> . . . . . 103</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Factories in Bengal</hi> . . . . 134</p>
+          <p rend="toc-entry">1666. <hi rend="smallcaps">The Surat Presidency</hi> . . . . . 147</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Events at Bombay</hi> . . . . . 180</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Malabar Coast</hi> . . . . . 200</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Coromandel Coast</hi> . . . . 218</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The English in Bengal</hi> . . . . 256</p>
+          <p rend="toc-entry">1667. <hi rend="smallcaps">The Surat Presidency</hi> . . . . . 263</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Events at Bombay</hi> . . . . . 287</p>
+          <p rend="toc-entry"><hi rend="smallcaps">The Coast and Bay</hi> . . . . . 313</p>
+          <p rend="toc-entry"><hi rend="smallcaps">References to India Office Documents Quoted</hi> . 333</p>
+          <p rend="toc-entry"><hi rend="smallcaps">Index</hi> . . . . . . . . 337</p>
         </div>
       </div>
     </front>
@@ -322,7 +319,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
           <quote><p>They [i. e. Cooke and his men] were promised a quick dispatch hence, and were very confident thereof ... but since they have found the contrary, as wee allwayes suspected they would; being now dispatched. The Viadore da Fazenda and Chancellour of the citty are sent to deliver possession of the island of Bombay; before receipt whereof the Lieutenant Governour is to signe to some articles, drawn up by the Vice Roy, too ridiculous to be long kept (if they are any wayes obligatory). The Vice Roy hath violated one himselfe; for the Lieutenant Governour [i. e. Cooke] meeting with two souldiers that ranne away at Anjedeva, seized upon them; which being discovered to the Vice Roy by Dom Francisco de Lima, who had shipped them aboard his vessell for Portugall and was very earnest to have them againe, the Vice Roy, to gratifie a person to whom he is so much obliged, immediately ordered the Captain of Aguada Castle to seize upon any English he could meet with belonging to His Majestie; and he quickly found an oppertunity to secure one Capt. Jowles and Mr. Ball, which were kept prisoners in said fort untill the other two rogues were delivered back, and then released. Five of the <hi rend="italic">Londons</hi> men and four of the <hi rend="italic">Royal Charles</hi> are runne away; and allthough wee have severall times demanded restoration of them, yet cannot hitherto obtaine the same.</p></quote>
           <p>The letter added that, in accordance with instructions from Surat, 4,000 dollars had been paid over to Cooke.</p>
           <p>Bombay was reached at the beginning of February, and then a further delay occurred, for some of the authorities at Bassein had to be summoned to the scene; and it was not until 8 February<ref xml:id="ref-sec-05-fn-005" type="noteref" target="#sec-05-fn-005">3</ref> that the formal transfer took place, 'in the great house<ref xml:id="ref-sec-05-fn-006" type="noteref" target="#sec-05-fn-006">4</ref> of Donna <pb xml:id="page-54" n="40" facs="https://archive.org/download/b29352678_0002/page/n53_w1400.jpg"/> Ignes de Miranda, widow of the late Dom Rodrigo de Monssanto’. The Portuguese commissioners, probably under local pressure, took advantage of Cooke's pliancy to narrow to the utmost the territory to be ceded, defining it as simply Bombay proper, Mazagaon, Parel, and Warli, thus excluding not only the island of</p>
-          <figure xml:id="fig-003"><graphic url="../figures/fig-003_p0054.webp"/><head>Sketch map of Bombay Island and Salsette, showing locations including Bassein, Bhiwandi, Kalyan, Kanheri, Thana, Versova, Bandra, Mahim, Sion, Trombay, Warli, Vadala, Parel, Mazagaon, Kolaba, Pataca, Elephanta, and Karanja.</head><figDesc>Sketch map of Bombay Island and Salsette, showing locations including Bassein, Bhiwandi, Kalyan, Kanheri, Thana, Versova, Bandra, Mahim, Sion, Trombay, Warli, Vadala, Parel, Mazagaon, Kolaba, Pataca, Elephanta, and Karanja.</figDesc></figure>
+          <figure xml:id="fig-003"><graphic url="../figures/fig-003_p0054.webp"/><figDesc>Sketch map of Bombay Island and Salsette, showing locations including Bassein, Bhiwandi, Kalyan, Kanheri, Thana, Versova, Bandra, Mahim, Sion, Trombay, Warli, Vadala, Parel, Mazagaon, Kolaba, Pataca, Elephanta, and Karanja.</figDesc></figure>
           <p>Kolāba on the south, but also Māhīm, Sion, and Vadāla, which were separated from the rest of the island by a shallow channel.<ref xml:id="ref-sec-05-fn-007" type="noteref" target="#sec-05-fn-007">1</ref> Mr. Edwardes (<hi rend="italic">Rise of Bombay</hi>, p. 92) has pointed out that the Portuguese had some grounds, from a legal point of view, for fixing these limits; but it can hardly be doubted that the treaty between the two crowns contemplated the surrender of the whole island, while even the Viceroy's instructions to the commissioners appear to have accepted the strait between Bombay and Salsette as the proper dividing line. However, Cooke made no demur, and <pb xml:id="page-55" n="41" facs="https://archive.org/download/b29352678_0002/page/n54_w1400.jpg"/> he further agreed to the demand that the conditions laid down by the Viceroy should be accepted by the English as binding. The documents relating to the cession having been solemnly read and Cooke’s credentials produced and examined,</p>
           <quote><p>He personally tooke possession and delivery of the said port and island of Bombaim; goeing therein, takeing earth and stones in his hands, entering and passing into the forts thereof, and puting the rest<ref xml:id="ref-sec-05-fn-008" type="noteref" target="#sec-05-fn-008">1</ref> on the walls thereof, and goeing allso in the said island, takeing the earth and stones thereof in his hands, and doeing like things required by law, without that in such time he was any way hindered or contradicted in the said possession and delivery. And so he effectually tooke it, peacably and quietly, with liberty and in peace, without any question or contradiction, for the Most Excellent King of Great Britaine, his heires and successors, to have, possess, and be lords of the said island of Bombaim and of the port thereof, according to the capitulations aforesaid made between both Crownes and instructions of the Vice King.<ref xml:id="ref-sec-05-fn-009" type="noteref" target="#sec-05-fn-009">2</ref></p></quote>
           <p>Directions were then given for the proceedings to be formally recorded. The witnesses on the English side included Ensign Thorne, John Stevens (captain of the <hi rend="italic">Chestnut</hi>), Henry Gary, and Richard Ball.</p>
@@ -981,7 +978,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
         <div type="notes">
     <list type="footnotes">
       <item><note xml:id="sec-09-fn-001" place="foot" n="1" target="#ref-sec-09-fn-001">Huibert de Laress (see <hi rend="italic">Dagh-Register, Batavia, 1665</hi>, pp. 190, 270, &amp;c.).</note></item>
-      <item><note xml:id="sec-09-fn-002" place="foot" n="1" target="#ref-sec-09-fn-002">The French envoys to Persia and India were the Sieur de Lalain and the Sieur de la Boullaye le Go4t, on the part of the King, with Messieurs Béber, Du Pont, and Mariage, on behalf of the new Company. Of these the first and the last were designated for the negotiations in Persia, while the other three were to proceed to India. The party arrived at Ispahān early in July, 1665. Du Pont died near Shirāz later in the year. The two here mentioned as coming on to Surat were De La Boullaye and Béber. They started for Agra about a fortnight later. For the privileges obtained from the Persian court, see a letter from Flower and Swinglehurst to the Company dated 26 October. The fullest account of the embassy is to be found in Tavernier’s <hi rend="italic">Recueil de plusieurs Relations</hi>, 1679, part ii. Some details are added by Jean de Thevenot and in the Report of the Historical MSS. Commission on the Finch Papers, vol. i.</note></item>
+      <item><note xml:id="sec-09-fn-002" place="foot" n="1" target="#ref-sec-09-fn-002">The French envoys to Persia and India were the Sieur de Lalain and the Sieur de la Boullaye le Goût, on the part of the King, with Messieurs Béber, Du Pont, and Mariage, on behalf of the new Company. Of these the first and the last were designated for the negotiations in Persia, while the other three were to proceed to India. The party arrived at Ispahān early in July, 1665. Du Pont died near Shirāz later in the year. The two here mentioned as coming on to Surat were De La Boullaye and Béber. They started for Agra about a fortnight later. For the privileges obtained from the Persian court, see a letter from Flower and Swinglehurst to the Company dated 26 October. The fullest account of the embassy is to be found in Tavernier’s <hi rend="italic">Recueil de plusieurs Relations</hi>, 1679, part ii. Some details are added by Jean de Thevenot and in the Report of the Historical MSS. Commission on the Finch Papers, vol. i.</note></item>
       <item><note xml:id="sec-09-fn-003" place="foot" n="1" target="#ref-sec-09-fn-003">The Bantam factors had written (28 July, 1665) that Capt. Blackman and Capt. Richard Minors were reported to have been engaged by the French. There seems to have been no foundation for the rumour.</note></item>
       <item><note xml:id="sec-09-fn-004" place="foot" n="1" target="#ref-sec-09-fn-004">The Bantam factors wrote to Surat on 28 July, 1665 : ‘ The plague hath not only ranged in Holland, but these parts, as the coasts of Sumatra, Java, Bally, and Macasser. Batavia hath been allso sensible, in the losse of many inhabitants.’</note></item>
       <item><note xml:id="sec-09-fn-005" place="foot" n="1" target="#ref-sec-09-fn-005">Left blank; in the corresponding letter to Madras the number of the deaths in that week was stated as '7,200 persons'.</note></item>
@@ -1799,8 +1796,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Albemarle, Duke of, 177, 178, 190, 211, 300.</item>
       <item><hi rend="italic">Aldea</hi>, 72, 283 <hi rend="italic">n.</hi></item>
       <item>Aleppo, 55, 127, 151, 282, 284 <hi rend="italic">n.</hi> (2); consul<lb/>at, 16, 36, 96, 152, 159, 177 (2), 187 <hi rend="italic">n.</hi>,<lb/>202, 265, 268 <hi rend="italic">n.</hi>, 286 <hi rend="italic">n.</hi>, 296 <hi rend="italic">n.</hi>, 331;<lb/>letters via, 12, 15, 16, 36, 147, 178, 197,<lb/>198 <hi rend="italic">n.</hi>, 222, 288.</item>
-      <item>Ali Ādil Shāh II, King of Bījāpur, 208,<lb/>283 <hi rend="italic">n.</hi>; character of, 3, 4, 82, 200; his<lb/>relations with Sivājī, 4, 36, 76, 80, 192,<lb/>203, 269, 282; Jai Singh's campaign<lb/>against him, 76, 79, 81, 83, 87, 88, 152,</item>
-      <item>201-4; makes peace with Aurangzeb, 37,<lb/>64, 83, 85, 165, 202; rumours of renewed<lb/>war, 176, 177, 281, 287; relations with<lb/>his nobles, 81, 82, 87; and with Rustam<lb/>Zamān, 85, 86 (2), 201, 205.</item>
+      <item>Ali Ādil Shāh II, King of Bījāpur, 208,<lb/>283 <hi rend="italic">n.</hi>; character of, 3, 4, 82, 200; his<lb/>relations with Sivājī, 4, 36, 76, 80, 192,<lb/>203, 269, 282; Jai Singh's campaign<lb/>against him, 76, 79, 81, 83, 87, 88, 152, 201-4; makes peace with Aurangzeb, 37,<lb/>64, 83, 85, 165, 202; rumours of renewed<lb/>war, 176, 177, 281, 287; relations with<lb/>his nobles, 81, 82, 87; and with Rustam<lb/>Zamān, 85, 86 (2), 201, 205.</item>
       <item>Ali Rāja, 76.</item>
       <item>Aloes, 21, 170, 174, 270.</item>
       <item>Alum sent to India, 169, 239, 260; price of,<lb/>116, 133, 255.</item>
@@ -1907,8 +1903,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Blake, William, 107, 111; his administration in Bengal, 134–47, 256–62, 330; letters from, 138, 141, 146, 232, 233; his attitude towards Winter’s rebellion, 146, 147, 232–4, 246, 247, 256; charges against, 108, 137, 140, 261, 262; his outlay on building, 136, 262; his private trade, 261, 262; his wife, 262; his father, 261.</item>
       <item>Blue, an unpopular colour, 5.</item>
       <item>Bocholt, 245.</item>
-      <item>Bombay, made over to the English, 37–40, 44; conditions of the surrender, 38, 40, 52; map of, 40; plan sent home, 67; descriptions of, 43, 45, 46, 198, 290, 294; population of, 45, 290, 309, 311; revenues of, 44, 49, 66, 70, 71, 289, 292–4, 296, 309; in 1665, 72; in 1667, 289, 301, 306–8, 311; excise duties at, 71, 73, 301; anchorage dues at, 74; customs at, 45, 50, 307; steps taken to fortify the island, 41, 45, 58, 59, 66–8, 71, 187, 190, 191, 292, 300 (2), 305, 309; garrison of, 42, 43, 47, 48, 59, 65, 66, 68, 71, 187 (2), 187 <hi rend="italic">n.</hi>, 188–92, 192 <hi rend="italic">n.</hi>, 273, 292, 296, 300 (2), 305, 306, 312; military stores wanted, 48, 68, 292, 300; medicines required, 68, 196; local shipping needed, 47, 51, 52, 70; Dutch expected to attack, 56–60, 63, 68 (2), 69, 88, 100, 151, 152, 187, 187 <hi rend="italic">n.</hi>, 190, 192, 290, 293, 297, 300, 303, 305 (2); chaplains for, 48, 68, 190; currency rates, 48; endeavours to attract settlers, 51, 55, 61, 63, 65, 66, 70, 74, 286, 301; consequent</item>
-      <item>dispute at Surat, 30, 61–3, 70; the Company’s servants desert to, 4, 13, 14; private trade of the officials, 4; Arab attack on, 69; English headquarters at, 38, 39, 44, 67 <hi rend="italic">n.</hi>, 68, 69; fishing rights at, 200; judicial arrangements at, 66, 70, 74, 290, 291, 309, 313; tyranny of the landowners at, 288, 290, 291, 308, 309; new Governor expected, 186, 187; Jesuits and, 45, 49, 50, 70, 289–91, 296, 297, 301, 303 (2), 304 (2), 309; freedom of worship at, 46, 51, 53, 63, 66, 191; shrine near, 53; Portuguese at, 191, 282, 283, 286, 289, 298, 300; disputes with the Portuguese over, 191, 293, 306, 308; they propose to repurchase the island, 56–8, 198, 310, 311; disorder at, 63; suggested factory at, for the Company, 64–6, 70; body of horsemen raised, 292, 305; the island transferred to the Company, 310–13; charter for, 312. <hi rend="italic">See also</hi> Cooke, Gary, <hi rend="italic">and</hi> Lucas.</item>
+      <item>Bombay, made over to the English, 37–40, 44; conditions of the surrender, 38, 40, 52; map of, 40; plan sent home, 67; descriptions of, 43, 45, 46, 198, 290, 294; population of, 45, 290, 309, 311; revenues of, 44, 49, 66, 70, 71, 289, 292–4, 296, 309; in 1665, 72; in 1667, 289, 301, 306–8, 311; excise duties at, 71, 73, 301; anchorage dues at, 74; customs at, 45, 50, 307; steps taken to fortify the island, 41, 45, 58, 59, 66–8, 71, 187, 190, 191, 292, 300 (2), 305, 309; garrison of, 42, 43, 47, 48, 59, 65, 66, 68, 71, 187 (2), 187 <hi rend="italic">n.</hi>, 188–92, 192 <hi rend="italic">n.</hi>, 273, 292, 296, 300 (2), 305, 306, 312; military stores wanted, 48, 68, 292, 300; medicines required, 68, 196; local shipping needed, 47, 51, 52, 70; Dutch expected to attack, 56–60, 63, 68 (2), 69, 88, 100, 151, 152, 187, 187 <hi rend="italic">n.</hi>, 190, 192, 290, 293, 297, 300, 303, 305 (2); chaplains for, 48, 68, 190; currency rates, 48; endeavours to attract settlers, 51, 55, 61, 63, 65, 66, 70, 74, 286, 301; consequent dispute at Surat, 30, 61–3, 70; the Company’s servants desert to, 4, 13, 14; private trade of the officials, 4; Arab attack on, 69; English headquarters at, 38, 39, 44, 67 <hi rend="italic">n.</hi>, 68, 69; fishing rights at, 200; judicial arrangements at, 66, 70, 74, 290, 291, 309, 313; tyranny of the landowners at, 288, 290, 291, 308, 309; new Governor expected, 186, 187; Jesuits and, 45, 49, 50, 70, 289–91, 296, 297, 301, 303 (2), 304 (2), 309; freedom of worship at, 46, 51, 53, 63, 66, 191; shrine near, 53; Portuguese at, 191, 282, 283, 286, 289, 298, 300; disputes with the Portuguese over, 191, 293, 306, 308; they propose to repurchase the island, 56–8, 198, 310, 311; disorder at, 63; suggested factory at, for the Company, 64–6, 70; body of horsemen raised, 292, 305; the island transferred to the Company, 310–13; charter for, 312. <hi rend="italic">See also</hi> Cooke, Gary, <hi rend="italic">and</hi> Lucas.</item>
       <item>Books wanted for Surat, 162.</item>
       <item>Borax, 170, 270, 279.</item>
       <item>Bossill, John, 237.</item>
@@ -2190,12 +2185,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Foxcroft, Nathaniel, 116, 120, 236; sent<lb/>out, 107, 111; accused of treason, 121;<lb/>wounded and imprisoned, 122, 124, 218;<lb/>his imprisonment made more rigorous,<lb/>230 (2), 251.</item>
       <item>France, King of. <hi rend="italic">See</hi> Louis XIV</item>
       <item>Francis, Richard, 14, 36.</item>
-      <item>French, the, join in Anglo-Dutch War, 153,<lb/>154, 170, 211, 240, 241, 245, 251, 276,</item>
-      <item>278, 314 (2); negotiations for peace, 276.<lb/>French East India Company established, 17,</item>
-    </list>
-          <pb xml:id="page-358" n="344" facs="https://archive.org/download/b29352678_0002/page/n357_w1400.jpg"/>
-          <list type="index">
-      <item>29, 149; its ships expected at Surat, 29, 158, 268; none arrives, 282; negotiations with the Mogul, <hi rend="italic">see</hi> Béber <hi rend="italic">and</hi> De La Boullaye.</item>
+      <item>French, the, join in Anglo-Dutch War, 153,<lb/>154, 170, 211, 240, 241, 245, 251, 276, 278, 314 (2); negotiations for peace, 276.<lb/>French East India Company established, 17, <pb xml:id="page-358" n="344" facs="https://archive.org/download/b29352678_0002/page/n357_w1400.jpg"/> 29, 149; its ships expected at Surat, 29, 158, 268; none arrives, 282; negotiations with the Mogul, <hi rend="italic">see</hi> Béber <hi rend="italic">and</hi> De La Boullaye.</item>
       <item>Frenchmen in the East, 1, 66, 300; disliked, 158. <hi rend="italic">See also</hi> Bernier, Madras, Persia, Surat, <hi rend="italic">and</hi> Tavernier.</item>
       <item>Fryer, John, 171 <hi rend="italic">n.</hi>, 301 <hi rend="italic">n.</hi>, 307 <hi rend="italic">n.</hi></item>
       <item>Fuddle, Jacob, 239.</item>
@@ -2236,11 +2226,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Gray, Matthew, 93, 173; Secretary at Surat, 14, 36, 275.</item>
       <item>Greenhill, Henry, 241; his house, 237.</item>
       <item><hi rend="italic">Gregorii Magni Opera</hi>, 162.</item>
-      <item><hi rend="italic">Greyhound</hi>, the, 19; sent to Madras, 105; cargo of, 107, 108; arrives, 107, 114; goes to the northwards, 114, 127; relading of, 108, 114, 135, 138, 259; the Dutch</item>
-    </list>
-          <pb xml:id="page-359" n="345" facs="https://archive.org/download/b29352678_0002/page/n358_w1400.jpg"/>
-          <list type="index">
-      <item>attempt to capture, 115, 127, 134, 137, 138, 141-6, 257; at Balasore, 126, 127, 134, 135, 137, 138, 141-3, 145, 146, 219-22, 233, 256, 257, 259, 319, 325.</item>
+      <item><hi rend="italic">Greyhound</hi>, the, 19; sent to Madras, 105; cargo of, 107, 108; arrives, 107, 114; goes to the northwards, 114, 127; relading of, 108, 114, 135, 138, 259; the Dutch <pb xml:id="page-359" n="345" facs="https://archive.org/download/b29352678_0002/page/n358_w1400.jpg"/> attempt to capture, 115, 127, 134, 137, 138, 141-6, 257; at Balasore, 126, 127, 134, 135, 137, 138, 141-3, 145, 146, 219-22, 233, 256, 257, 259, 319, 325.</item>
       <item>‘Grezio’ coral, 31 (2).</item>
       <item>Griffin, Jeremy, 61, 167 <hi rend="italic">n.</hi></item>
       <item>Grigby, Alexander, at Porakād, 14, 75, 89-91; complains of Harrington, 89; ill, 89, 92 (2), 93; captured by the Dutch, 36, 91, 98, 100, 102, 150; at Cochin, 91-3, 210, 214, 217, 285; his wages, 92.</item>
@@ -2314,11 +2300,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>‘Item’, 220.</item>
       <item>Itimād-uddaula, the, 264.</item>
       <item>Ivory. <hi rend="italic">See</hi> Elephants’ teeth.</item>
-      <item>Jafar Khān, Aurangzeb’s <hi rend="italic">dīwān</hi>, 274; assists the English, 28, 29, 266 (3), 272</item>
-    </list>
-          <pb xml:id="page-360" n="346" facs="https://archive.org/download/b29352678_0002/page/n359_w1400.jpg"/>
-          <list type="index">
-      <item>his great influence, 158; Shāista Khān<lb/>allied to, 260; and the French envoys,<lb/>158, 281.<lb/><hi rend="italic">Jāgīr</hi>, 259.</item>
+      <item>Jafar Khān, Aurangzeb’s <hi rend="italic">dīwān</hi>, 274; assists the English, 28, 29, 266 (3), 272 <pb xml:id="page-360" n="346" facs="https://archive.org/download/b29352678_0002/page/n359_w1400.jpg"/> his great influence, 158; Shāista Khān<lb/>allied to, 260; and the French envoys,<lb/>158, 281.<lb/><hi rend="italic">Jāgīr</hi>, 259.</item>
       <item>Jai Singh, 74; his campaign against Sivāji,<lb/>69, 76, 77, 80, 82, 83, 85, 86, 88, 161;<lb/>and against Bījāpur, 76, 77, 79–81, 83, 84,<lb/>87, 88, 151, 201–4; his alleged interference on Sivāji's behalf, 175; Aurangzeb and, 175, 176; death of, 287; his<lb/>son, <hi rend="italic">see</hi> Rām Singh.</item>
       <item>Jambi, 170, 319 (2).</item>
       <item>James, Charles, 14, 36, 175.</item>
@@ -2342,8 +2324,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item><hi rend="italic">Kanji</hi>, 89.</item>
       <item>Karanja, 38.</item>
       <item>Karmān wool, supply of, 6, 170, 175, 264,<lb/>270, 278.</item>
-      <item>Kārwār, 286; English at, 3, 75–88, 92,<lb/>159 <hi rend="italic">n.</hi>, 161 <hi rend="italic">n.</hi>, 200–8; factors at, <hi rend="italic">see</hi><lb/>Master (Robert), Chamberlain, <hi rend="italic">and</hi> Giffard; grant of privileges (1659), 208;<lb/>reduction of customs granted, 81; English house at, 81, 86, 201, 203, 207, 209;<lb/>factory not worth maintaining, 84, 88,<lb/>208; to be continued, 168; abandoned,</item>
-      <item>171, 206–8, 279; to be resettled, 279;<lb/>Dutch aggressions at, 2, 86; Sivāji at,<lb/>78, 79; Governor of (<hi rend="italic">see also</hi> Mahmūd<lb/>Khān), 79, 208, 209.</item>
+      <item>Kārwār, 286; English at, 3, 75–88, 92,<lb/>159 <hi rend="italic">n.</hi>, 161 <hi rend="italic">n.</hi>, 200–8; factors at, <hi rend="italic">see</hi><lb/>Master (Robert), Chamberlain, <hi rend="italic">and</hi> Giffard; grant of privileges (1659), 208;<lb/>reduction of customs granted, 81; English house at, 81, 86, 201, 203, 207, 209;<lb/>factory not worth maintaining, 84, 88,<lb/>208; to be continued, 168; abandoned, 171, 206–8, 279; to be resettled, 279;<lb/>Dutch aggressions at, 2, 86; Sivāji at,<lb/>78, 79; Governor of (<hi rend="italic">see also</hi> Mahmūd<lb/>Khān), 79, 208, 209.</item>
       <item><hi rend="italic">Kasaba</hi>, 49, 70, 72 (2), 74.</item>
       <item><hi rend="italic">Kāsid</hi>, 83, 216.</item>
       <item>Kāsimbāzār, 145 (2), 257, 331; factors at,<lb/>134, 135, 137, 139, 262; buildings at,<lb/>136; factory indispensable, 139.</item>
@@ -2388,11 +2369,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>‘Larwa’ indigo, 164, 279.</item>
       <item>Lascars, 202.</item>
       <item>Lashkar Khān, 134.</item>
-      <item>Lead, from England, 23 <hi rend="italic">n.</hi>, 108, 169, 239,</item>
-    </list>
-          <pb xml:id="page-361" n="347" facs="https://archive.org/download/b29352678_0002/page/n360_w1400.jpg"/>
-          <list type="index">
-      <item>260, 280, 314; overrated, 2; trade in, 83, 85 (2), 135, 137, 145, 201, 203, 255.</item>
+      <item>Lead, from England, 23 <hi rend="italic">n.</hi>, 108, 169, 239, <pb xml:id="page-361" n="347" facs="https://archive.org/download/b29352678_0002/page/n360_w1400.jpg"/> 260, 280, 314; overrated, 2; trade in, 83, 85 (2), 135, 137, 145, 201, 203, 255.</item>
       <item>Leghorn, 31.</item>
       <item><hi rend="italic">Leopard</hi>, the, 2.</item>
       <item>L'Escaliot, George, 175, 269.</item>
@@ -2415,8 +2392,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Lowestoft, battle off, 125, 149, 150, 151.</item>
       <item><hi rend="italic">Loyal Merchant</hi>, the, 7.</item>
       <item><hi rend="italic">Loyal Welcome</hi>, the, 8.</item>
-      <item>Lucas, Sir Gervase, his antecedents, 189; appointed Governor of Bombay, 189, 190; his pay, 190, 191, 302; his commission, 191, 302; the Company and, 193, 288, 289; goes out in the <hi rend="italic">Return</hi>, 167, 191, 193 (4); arrives, 171, 193, 198, 279; draws money from Surat, 193, 269, 273, 291; his intended visit to Surat, 194; his administration, 197–200, 287–95, 300–2; his dealings with Cooke, 198–200, 289, 294; and the Portuguese, 287–92, 296, 301, 303, 306–8; his relations with Oxenden, 194–7, 288, 289, 294–6; desires fuller powers, 292; claims sole right of issuing passes, 295; starts a mounted force, 292, 305; letters to and from the King, 196–8, 273, 288; letters to and from Lord Arlington, 198 (2), 199, 270, 289, 293 (2), 294, 306; Winter and, 323; his death, 272, 295, 296, 300, 302;</item>
-      <item>his accounts, 302; his estate, 303, 306; his secretary, 310.</item>
+      <item>Lucas, Sir Gervase, his antecedents, 189; appointed Governor of Bombay, 189, 190; his pay, 190, 191, 302; his commission, 191, 302; the Company and, 193, 288, 289; goes out in the <hi rend="italic">Return</hi>, 167, 191, 193 (4); arrives, 171, 193, 198, 279; draws money from Surat, 193, 269, 273, 291; his intended visit to Surat, 194; his administration, 197–200, 287–95, 300–2; his dealings with Cooke, 198–200, 289, 294; and the Portuguese, 287–92, 296, 301, 303, 306–8; his relations with Oxenden, 194–7, 288, 289, 294–6; desires fuller powers, 292; claims sole right of issuing passes, 295; starts a mounted force, 292, 305; letters to and from the King, 196–8, 273, 288; letters to and from Lord Arlington, 198 (2), 199, 270, 289, 293 (2), 294, 306; Winter and, 323; his death, 272, 295, 296, 300, 302; his accounts, 302; his estate, 303, 306; his secretary, 310.</item>
       <item>Lucknow, goods from, 2, 5.</item>
       <item>‘Luggs’, 167.</item>
       <item>Macassar, 152 <hi rend="italic">n.</hi>, 269, 285, 293; ship sent to, 22.</item>
@@ -2521,11 +2497,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Newfoundland, 152.</item>
       <item>New Jersey, 278 <hi rend="italic">n.</hi></item>
       <item>New York, 278 <hi rend="italic">n.</hi></item>
-      <item>Niclaes, John, at Masulipatam, 232, 248,<lb/>318; appointed a member of Foxcroft’s<lb/>Council, 107; his attitude towards<lb/>Winter’s rebellion, 123, 124, 219, 222,<lb/>227, 232, 246; sent to seize Winter’s ship,</item>
-    </list>
-          <pb xml:id="page-363" n="349" facs="https://archive.org/download/b29352678_0002/page/n362_w1400.jpg"/>
-          <list type="index">
-      <item>232, 233; sent to Golconda, 253-5, 319,<lb/>320 (2); charges against, 108, 113, 241.</item>
+      <item>Niclaes, John, at Masulipatam, 232, 248,<lb/>318; appointed a member of Foxcroft’s<lb/>Council, 107; his attitude towards<lb/>Winter’s rebellion, 123, 124, 219, 222,<lb/>227, 232, 246; sent to seize Winter’s ship, <pb xml:id="page-363" n="349" facs="https://archive.org/download/b29352678_0002/page/n362_w1400.jpg"/> 232, 233; sent to Golconda, 253-5, 319,<lb/>320 (2); charges against, 108, 113, 241.</item>
       <item>Noel, Sir Martin, 32, 32 <hi rend="italic">n.</hi>, 206.</item>
       <item>Nurse, Valentine, at Surat, 14, 36; goes<lb/>home, 150, 162.</item>
       <item>Nutmegs, 279.</item>
@@ -2730,11 +2702,7 @@ Humphrey Milford Publisher to the <hi rend="smallcaps">University</hi></p>
       <item>Sheppard, James, 131.</item>
       <item>Sher Khān, 78, 79 (5), 80; poisoned, 81, 82.</item>
       <item><hi rend="italic">Shibār</hi>, 302.</item>
-      <item>Shipman, Sir Abraham, 3, 42, 47 (2), 48 (3),<lb/>54, 190, 290; his private trade, 181 (2),<lb/>184 (3), 199 <hi rend="italic">n.</hi>, 200; his death, 42, 58,</item>
-    </list>
-          <pb xml:id="page-366" n="352" facs="https://archive.org/download/b29352678_0002/page/n365_w1400.jpg"/>
-          <list type="index">
-      <item>181, 189; his estate, 199; his daughter,<lb/>199, 200.</item>
+      <item>Shipman, Sir Abraham, 3, 42, 47 (2), 48 (3),<lb/>54, 190, 290; his private trade, 181 (2),<lb/>184 (3), 199 <hi rend="italic">n.</hi>, 200; his death, 42, 58, <pb xml:id="page-366" n="352" facs="https://archive.org/download/b29352678_0002/page/n365_w1400.jpg"/> 181, 189; his estate, 199; his daughter,<lb/>199, 200.</item>
       <item>Shipman, Elizabeth, 199, 200.</item>
       <item>Ships, desired for use at Surat, 10, 29; and<lb/>at Madras, 128; all local vessels to be<lb/>sold, 18, 110; no more to be built, 136;<lb/>date of departure of trading, 8, 133; not<lb/>to be retained on demurrage, 110; stores<lb/>bad, 175.</item>
       <item>Shīrāz, 149 <hi rend="italic">n.</hi>, 172.</item>

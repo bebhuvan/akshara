@@ -1,6 +1,6 @@
 ---
 title: "East India (Exchange and Currency): Announcements Concerning the Recommendations of the Committee on Indian Exchange and Currency (Cmd. 626)"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Great Britain. India Office"
 author_slug: "great-britain-india-office"

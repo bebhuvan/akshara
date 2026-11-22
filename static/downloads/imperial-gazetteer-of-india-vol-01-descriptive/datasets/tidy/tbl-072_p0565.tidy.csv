@@ -1,0 +1,17 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,2,Admissions to hospital (all causes).,"1,475",1475.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,3,Deaths from :: Cholera.,3·2,3.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,4,Deaths from :: Enteric fever.,2·0,2.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,5,Deaths from :: Other fevers.,1·4,1.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,6,Deaths from :: Hepatitis.,2·1,2.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,7,Deaths from :: Dysentery and diarrhoea.,1·6,1.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,8,All causes.,19·3,19.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,1,data,,1870–9,9,Invalid- ing.,43,43.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,2,Admissions to hospital (all causes).,"1,493",1493.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,3,Deaths from :: Cholera.,1·7,1.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,4,Deaths from :: Enteric fever.,3·7,3.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,5,Deaths from :: Other fevers.,0·9,0.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,6,Deaths from :: Hepatitis.,1·4,1.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,7,Deaths from :: Dysentery and diarrhoea.,1·2,1.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,8,All causes.,15·7,15.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-072,"Sickness and Mortality per 1,000 among the European Troops in India, 1870–89.",565,527,2,data,,1880–9,9,Invalid- ing.,27,27.0,,False,False

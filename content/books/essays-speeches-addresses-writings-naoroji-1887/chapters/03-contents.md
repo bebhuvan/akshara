@@ -6,6 +6,7 @@ weight: 3
 start_page: 15
 end_page: 19
 printed_start_folio: "i"
+printed_end_folio: "v"
 reading_time: 10
 footnotes_count: 0
 tables_count: 0
@@ -19,11 +20,11 @@ prev: "/books/essays-speeches-addresses-writings-naoroji-1887/chapters/02-prefac
 next: "/books/essays-speeches-addresses-writings-naoroji-1887/chapters/04-biographical-sketch/"
 ---
 
-<div class="page-rail-marker" id="page-15"><button type="button" class="folio-trigger" data-page="15" data-folio="i" data-scan="https://archive.org/download/essaysspeechesa00paregoog/page/n14_w1400.jpg" aria-label="Inspect scan for page i">[p. i]</button></div><h2 class="sec-h1">CONTENTS.</h2><h2 class="sec-h1">PART I.</h2><h3 class="sec-h2">ESSAYS.</h3><h4 class="sec-h3">Page.</h4><h3 class="sec-h2">CHAPTER I.</h3><p class="printed-toc-line">I.—The European and Asiatic
+<div class="page-rail-marker" id="page-15"><button type="button" class="folio-trigger" data-page="15" data-folio="i" data-scan="https://archive.org/download/essaysspeechesa00paregoog/page/n14_w1400.jpg" aria-label="Inspect scan for page i">[p. i]</button></div><h2 class="sec-h1">CONTENTS.</h2><h2 class="sec-h1">PART I.</h2><h3 class="sec-h2">ESSAYS.</h3><h3 class="sec-h2">CHAPTER I.</h3><p class="printed-toc-line">I.—The European and Asiatic
 														Races ... ... ... 1</p><p class="printed-toc-line">II.—England's Duties to India . 26</p><p class="printed-toc-line">III.—Expenses of the Abyssinian
 														War ... ... ... 51</p><p class="printed-toc-line">IV.—Mysore ... ... ... 60</p><h3 class="sec-h2">CHAPTER II.</h3><h4 class="sec-h3"><span class="sc">Essays</span>—(<em>continued</em>).</h4><p class="printed-toc-line">V.—Admission of Educated
 														Natives into the Indian
-														Civil Service ... ... 75</p><h4 class="sec-h3">Page.</h4><p class="printed-toc-line">VI.—The Wants and Means of
+														Civil Service ... ... 75</p><p class="printed-toc-line">VI.—The Wants and Means of
 														India ... ... ... 97</p><p class="printed-toc-line">VII.—On the Commerce of India . 112</p><p class="printed-toc-line">VIII.—Financial Administration of
 														India ... ... ... 137</p><h3 class="sec-h2">CHAPTER III.</h3><h4 class="sec-h3"><span class="sc">Essays</span>—(<em>continued</em>).</h4><p class="printed-toc-line">IX.—Poverty of India, Part I ... 160</p><p class="printed-toc-line">Poverty of India, Part II.. 218</p><p class="printed-toc-line">Reply to Criticisms.. .:. 276</p><h2 class="sec-h1">PART II.</h2><h3 class="sec-h2">SPEECHES AND ADDRESSES.</h3><h3 class="sec-h2">CHAPTER IV.</h3><p class="printed-toc-line">I.—India's Interest in the Genenal Election (1886) ... 292</p><p class="printed-toc-line">II.—Election Speeches in England ... ... ...</p><p class="printed-toc-line">1. Town Hall Speech (1) ... 302</p><p class="printed-toc-line">2. Store Street Hall Speech 310</p><p class="printed-toc-line">3. Old Friends Hall Speech 311</p><p class="printed-toc-line">4. Phœnix Hall Speech ... 312</p><p class="printed-toc-line">5. Town Hall Speech (2) ... 313
 														Great Reception Meeting

@@ -1,0 +1,154 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,2,1876-7.,"58,65",5865.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,3,1881-2.,"72,55",7255.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,4,1886-7.,"77,34",7734.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,5,1891-2.,"89,14",8914.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,6,1896-7.,"94,13",9413.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,7,1901-2.,"1,14,52",11452.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,8,1902-3.,"1,16,15",11615.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,9,1903-4.,"1,25,63",12563.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,2,data,Revenue and Expenditure,Gross Revenue,10,1904-5.,"1,27,22",12722.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,2,1876-7.,"59,05",5905.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,3,1881-2.,"68,36",6836.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,4,1886-7.,"76,34",7634.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,5,1891-2.,"86,54",8654.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,6,1896-7.,"93,59",9359.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,7,1901-2.,"1,05,87",10587.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,8,1902-3.,"1,10,00",11000.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,9,1903-4.,"1,19,70",11970.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,3,data,Revenue and Expenditure,Gross ordinary expenditure,10,1904-5.,"1,20,33",12033.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,2,1876-7.,"2,18",218.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,3,1881-2.,— 12,-12.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,4,1886-7.,82,82.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,5,1891-2.,"1,45",145.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,6,1896-7.,"2,25",225.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,7,1901-2.,80,80.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,8,1902-3.,70,70.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,9,1903-4.,47,47.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,4,data,Revenue and Expenditure,Extraordinary expenditure,10,1904-5.,70,70.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,2,1876-7.,"61,23",6123.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,3,1881-2.,"68,24",6824.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,4,1886-7.,"77,16",7716.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,5,1891-2.,"87,99",8799.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,6,1896-7.,"95,84",9584.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,7,1901-2.,"1,06,67",10667.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,8,1902-3.,"1,10,70",11070.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,9,1903-4.,"1,20,17",12017.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,5,total,,Total Outlay,10,1904-5.,"1,21,03",12103.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,2,1876-7.,"— 2,58",-258.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,3,1881-2.,"+ 4,31",431.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,4,1886-7.,+ 18,18.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,5,1891-2.,"+ 1,15",115.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,6,1896-7.,"— 1,71",-171.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,7,1901-2.,"+ 7,85",785.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,8,1902-3.,"+ 5,45",545.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,9,1903-4.,"+ 5,46",546.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,6,data,Revenue and Expenditure,Surplus or deficit,10,1904-5.,"+ 6,19",619.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,2,1876-7.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,3,1881-2.,72,72.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,4,1886-7.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,5,1891-2.,68,68.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,6,1896-7.,,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,7,1901-2.,43,43.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,8,1902-3.,85,85.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,9,1903-4.,97,97.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,7,data,Revenue and Expenditure,Reduction or avoidance of debt,10,1904-5.,"1,00",100.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,2,1876-7.,"— 2,58",-258.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,3,1881-2.,"+ 3,59",359.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,4,1886-7.,+ 18,18.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,5,1891-2.,+ 47,47.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,6,1896-7.,"— 1,71",-171.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,7,1901-2.,"+ 7,42",742.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,8,1902-3.,"+ 4,60",460.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,9,1903-4.,"+ 4,49",449.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,8,data,Revenue and Expenditure,Surplus or deficit as in published accounts,10,1904-5.,"+ 5,19",519.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,2,1876-7.,"83,07",8307.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,3,1881-2.,"1,02,04",10204.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,4,1886-7.,"1,26,29",12629.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,5,1891-2.,"1,61,02",16102.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,6,1896-7.,"1,72,26",17226.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,7,1901-2.,"2,01,40",20140.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,8,1902-3.,"2,00,64",20064.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,9,1903-4.,"1,99,51",19951.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,10,data,Debt,Sterling debt converted into rupees at Rs. 15 to the pound,10,1904-5.,"1,99,27",19927.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,2,1876-7.,"71,86",7186.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,3,1881-2.,"88,53",8853.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,4,1886-7.,"92,60",9260.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,5,1891-2.,"1,02,65",10265.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,6,1896-7.,"1,08,21",10821.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,7,1901-2.,"1,15,94",11594.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,8,1902-3.,"1,17,32",11732.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,9,1903-4.,"1,19,20",11920.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,11,data,Debt,Rupee debt,10,1904-5.,"1,22,08",12208.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,2,1876-7.,"1,54,93",15493.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,3,1881-2.,"1,90,57",19057.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,4,1886-7.,"2,18,89",21889.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,5,1891-2.,"2,63,67",26367.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,6,1896-7.,"2,80,47",28047.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,7,1901-2.,"3,17,34",31734.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,8,1902-3.,"3,17,96",31796.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,9,1903-4.,"3,18,71",31871.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,12,total,,Total,10,1904-5.,"3,21,35",32135.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,2,1876-7.,"1,18,31",11831.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,3,1881-2.,"1,11,51",11151.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,4,1886-7.,"99,30",9930.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,5,1891-2.,"1,02,15",10215.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,6,1896-7.,"91,95",9195.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,7,1901-2.,"90,43",9043.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,8,1902-3.,"84,99",8499.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,9,1903-4.,"78,17",7817.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,14,data,Distribution of Debt,Ordinary debt proper,10,1904-5.,"72,57",7257.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,2,1876-7.,"6,15",615.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,3,1881-2.,"8,06",806.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,4,1886-7.,"7,39",739.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,5,1891-2.,"11,00",1100.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,6,1896-7.,"12,23",1223.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,7,1901-2.,"19,00",1900.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,8,1902-3.,"18,90",1890.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,9,1903-4.,"18,36",1836.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,15,data,Distribution of Debt,Loans at interest,10,1904-5.,"18,03",1803.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,2,1876-7.,"15,37",1537.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,3,1881-2.,"36,86",3686.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,4,1886-7.,"59,14",5914.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,5,1891-2.,"71,87",7187.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,6,1896-7.,"94,07",9407.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,7,1901-2.,"1,12,54",11254.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,8,1902-3.,"1,17,61",11761.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,9,1903-4.,"1,24,64",12464.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,16,data,Distribution of Debt,Construction of railways,10,1904-5.,"1,32,33",13233.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,2,1876-7.,..,,,True,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,3,1881-2.,"15,24",1524.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,4,1886-7.,"27,78",2778.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,5,1891-2.,"50,33",5033.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,6,1896-7.,"50,32",5032.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,7,1901-2.,"59,21",5921.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,8,1902-3.,"59,21",5921.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,9,1903-4.,"59,21",5921.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,17,data,Distribution of Debt,Purchase of railways,10,1904-5.,"59,21",5921.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,2,1876-7.,"15,10",1510.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,3,1881-2.,"18,90",1890.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,4,1886-7.,"25,28",2528.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,5,1891-2.,"28,32",2832.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,6,1896-7.,"31,90",3190.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,7,1901-2.,"36,16",3616.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,8,1902-3.,"37,25",3725.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,9,1903-4.,"38,33",3833.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,18,data,Distribution of Debt,Irrigation,10,1904-5.,"39,21",3921.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,2,1876-7.,"61,01",6101.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,3,1881-2.,"81,97",8197.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,4,1886-7.,"88,47",8847.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,5,1891-2.,"1,08,17",10817.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,6,1896-7.,"1,03,98",10398.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,7,1901-2.,"1,24,90",12490.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,8,1902-3.,"1,29,40",12940.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,9,1903-4.,"1,53,52",15352.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,20,data,Foreign Trade,Value of commodities exported,10,1904-5.,"1,57,71",15771.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,2,1876-7.,"37,44",3744.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,3,1881-2.,"49,11",4911.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,4,1886-7.,"61,78",6178.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,5,1891-2.,"69,43",6943.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,6,1896-7.,"76,12",7612.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,7,1901-2.,"88,73",8873.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,8,1902-3.,"85,82",8582.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,9,1903-4.,"92,59",9259.0,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-022,(In lakhs of rupees),238,200,21,data,Foreign Trade,Value of commodities imported,10,1904-5.,"1,04,41",10441.0,,False,False

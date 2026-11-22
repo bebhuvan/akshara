@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,1,data,,"Metals (mainly iron, steel, and copper)",2,Column 2,11·74,11.74,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,2,data,,Sugar,2,Column 2,6·90,6.9,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,3,data,,Machinery and millwork,2,Column 2,4·03,4.03,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,4,data,,Mineral oil,2,Column 2,3·28,3.28,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,5,data,,Woollen goods,2,Column 2,3·08,3.08,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,6,data,,Apparel,2,Column 2,2·24,2.24,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,7,data,,Provisions,2,Column 2,2·17,2.17,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,8,data,,Silk manufactures,2,Column 2,2·12,2.12,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,9,data,,"Chemicals, drugs, tobacco, &c",2,Column 2,1·88,1.88,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-032,Table 32,319,277,10,data,,Liquors,2,Column 2,1·87,1.87,,False,False

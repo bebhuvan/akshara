@@ -20,7 +20,7 @@
       "end_page": 63,
       "printed_folio": "59",
       "column_count": 7,
-      "row_count": 23,
+      "row_count": 24,
       "tidy_observation_count": 126,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"
@@ -39,7 +39,7 @@
       "end_page": 75,
       "printed_folio": "71",
       "column_count": 7,
-      "row_count": 21,
+      "row_count": 22,
       "tidy_observation_count": 120,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"
@@ -343,7 +343,7 @@
       "end_page": 160,
       "printed_folio": "156",
       "column_count": 11,
-      "row_count": 5,
+      "row_count": 6,
       "tidy_observation_count": 40,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"
@@ -362,7 +362,7 @@
       "end_page": 161,
       "printed_folio": "157",
       "column_count": 17,
-      "row_count": 5,
+      "row_count": 6,
       "tidy_observation_count": 64,
       "arithmetic_verified": false,
       "arithmetic_status": "no_total_row"
@@ -381,10 +381,10 @@
       "end_page": 162,
       "printed_folio": "158",
       "column_count": 7,
-      "row_count": 12,
+      "row_count": 13,
       "tidy_observation_count": 66,
-      "arithmetic_verified": true,
-      "arithmetic_status": "verified_total"
+      "arithmetic_verified": false,
+      "arithmetic_status": "compositor_variant"
     }
   ]
 }

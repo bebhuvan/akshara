@@ -239,7 +239,29 @@ Valuable information about the system of administration is contained in *An Anal
 
 The following is a synopsis of the series, which includes, it will be seen, various volumes not strictly conforming to its title, though sufficiently related to justify the arrangement. There are several gaps in the earlier part of the series:—
 
-1\. — 22 Sept. 1599–10 Aug. 1603.
+
+| Col 1 | Col 2 |
+| --- | --- |
+| 1. | 22 Sept. 1599–10 Aug. 1603. |
+| 1<span class="sc">a</span>. | 1600–19. “Miscellaneous Court Book.”[^sec-04-fn-001] |
+| 2. | 31 Dec. 1606–26 Jan. 1610. |
+| 2<span class="sc">a</span>. | 1 March 1611–4 May 1620. Fourth Voyage only. |
+| 3. | — Dec. 1613–10 Nov. 1615. |
+| 4. | 19 Sept. 1617–4 April 1620. |
+| 5. | 4 July 1621–2 July 1622. |
+| 6–11. | 2 July 1623–3 July 1629. |
+| 12. | 2 July 1630–16 July 1631. |
+| 13–16. | 4 July 1632–5 July 1637. |
+| 17–19. | 5 July 1639–30 June 1646. |
+| 20. | 1 July 1646–2 July 1650. First General Voyage and Fourth Joint Stock. |
+| 21. | 3 July 1650–23 May 1663. Fourth Joint Stock. |
+| 22. | 18 Aug. 1647–4 Jan. 1650. Second General Voyage. |
+| 23. | 3 July 1650–7 April 1669. United Joint Stock. |
+| 24. | 19 Oct. 1657–14 April 1665. New General Stock. |
+| 24<span class="sc">a</span>. | Index to vol. 24. |
+| 25–40. | 14 April 1665–22 March 1709. Old Company. |
+| 25<span class="sc">a</span>. | 1666–1680. Committee Minutes, Accounts, &c. |
+| 37<span class="sc">a</span>. | 7 Sept. 1698–20 June 1699. New Company. |
 
 
 <!-- page: 23 | folio: 3 -->
@@ -1564,7 +1586,7 @@ Annual accounts of the Company's receipts and expenditure. were printed as Parli
 
 ### Notes
 
-[^sec-04-fn-001]: (*) [Unlinked note, p. 2] This is a collection of copies of commissions, letters, and other documents of importance referred to in the Court Minutes. It was printed verbatim in 1893 under the title of *The First Letter Book of the East Indi Company*, edited by Sir George Birdwood, assisted by Mr. William Foster.
+[^sec-04-fn-001]: (*) This is a collection of copies of commissions, letters, and other documents of importance referred to in the Court Minutes. It was printed verbatim in 1893 under the title of *The First Letter Book of the East Indi Company*, edited by Sir George Birdwood, assisted by Mr. William Foster.
 [^sec-04-fn-002]: (*) Duplicates of the Minutes of the Court of Managers from 31 July 1702 to 19 March 1708 are preserved in a separate series. *See also* the series of “Court Minutes: Rough Notes,” vols. 4 and 5, as mentioned above.
 [^sec-04-fn-003]: (*) Accounts of the proceedings of Committees are sometimes found in the early *Court Minutes*. (*See also* vol. 25<span class="sc">a</span> of that series.)
 [^sec-04-fn-004]: (†) The regular appointment of a Committee of Secrecy began with a resolution of the Court of Directors of 27 March 1778; though, according to Auber, several Secret Committees had been nominated from time to time from 1748 onwards.

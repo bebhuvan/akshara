@@ -1910,7 +1910,7 @@ Left Baroda on the 2nd, and arrived here next day. Has bought a quantity of cali
 
 #### <span class="sc">John Drake at Māndū to the Same, September</span> 7, 1636 (*Ibid.*, p. 650).
 
-The parwānas to Tatta and Ahmadābād were only to command the release of the Company’s goods. ‘The Kings beeing heere in Mandoa was caused by reason of the abundance of tygers, which have had constantly their habitation in the citty, which is a wonderfull great and ruinous place, fitt for those cretures to live in it, who have ravenously killed infinits of people; which the Kings dayly exercise is in their destroying.’ Has been waiting in expectation of the royal farmān; ‘but the Naboab hath since told mee the Kings lasker was to goe thorough the Rajahs country, where hee would seaze on his Vaquyle theare, which shall satisfie the debt before hee release him. The Kings firmaen would bee to little effect, as Your Worships may perceave by Martins estate, which cannot bee procured [p. 288] though they [i. e. the Dutch] have the Kings firmaen; which they againe a second tyme have sent to complaine.' Drake will follow the King in the hope of recovering the debt; but he would be glad if 'Donjee' could come to his assistance. The Portuguese Padre cannot render any help, and there is no one else to give him any advice. Has recalled half of what he gave to Khusrū Beg, but has promised to recommend a good present to him when the debt is recovered. Encloses a letter from Mīr Mūsā, who yesterday 'bid mee to write you to stay your investments or send any goods or monyes to Amadavad, Baraoch, etc., for the Hackeeme hath received letters from Dio that those people which have lost their shippe will give the King 50,000 rupees of that which is taken to make the English pay for their sustained losse'. Encloses letters which the Padre wishes to be forwarded to Damān; he is about to depart for Agra temporarily. The King is to leave in 25 days. *PS. (9th)*—The chain and money had not been handed over to Khusrū Beg, but deposited in the hands of a third party. 'The King, heareing of Monuvassee [Mana Vaisya] and the rest of the Desyds[^sec-06-fn-146] imprisonment at Suratt by the Hackeeme, is much displeased, and Meir Moza contented, who hath still hopes of that place; and likewise tells mee hee hath on our behalfe procured the like firmaen as the Dutch have required for their good usage in Bengala.' *PPS. (12th)*—After waiting in vain for a 'cossett' to Surat, he sends this letter to Burhānpur for transmission. 'From Meir Moza I was enjoyned to give you notice of one that is coming to Suratt sent from the King, but Jaffur Ckauns[^sec-06-fn-146] servant; who is sent to see howe businesse passeth with the Hackeeme, merchants as commons, but very secret, in such a manner as the Hackeeme doeth not knowe of it, in the way of buying of English cloth, Europe toyes, millickes [*see* p. 254], etc., for his master; unto whome Your Worships may converse, as declare your grevances; who is to give an account heere, and, yf the King find all true as is reported of him, Meir Mooza, as hee saith, is to bee sent imediately. The Hackeeme likewise have desired a firmaen, and is granted, that [p. 289] no English and Dutch shall bring into the towne of Suratt any armes, yea, soe farre as a knife; which was answered by Meir Mooza unto Avezell Ckaune that what they b[r]ought was to secure their caphilaes to and againe; yett his answer prevailed not. Asaph Ckaune tould mee two dayes since hee was procureing for us a firmaen to confirme all priviledges, which was graunted in the Kings first; which when it comes to my hands I shall better knowe thereof. . . . The Nabaob hath sent his perwanna for Bandur Laree, to the Shabunder, that for the tyme of monsoones the English may come and trade, but not to settle a factory.’ Drake doubts whether Āsaf Khān will fulfil his promises regarding Chhatarsāl’s debt. ‘They are all Moores and heathens, and no trust to be given to their words.’ ‘The Dutches firmaen[^sec-06-fn-147] is gotten; wherein is as much mencioned in the behalfe of the English as the Dutch.’ The King is likely to remain at Māndū for a month and a half, or more. (*Copy.* 2½ *pp. Received September* 16.)
+The parwānas to Tatta and Ahmadābād were only to command the release of the Company’s goods. ‘The Kings beeing heere in Mandoa was caused by reason of the abundance of tygers, which have had constantly their habitation in the citty, which is a wonderfull great and ruinous place, fitt for those cretures to live in it, who have ravenously killed infinits of people; which the Kings dayly exercise is in their destroying.’ Has been waiting in expectation of the royal farmān; ‘but the Naboab hath since told mee the Kings lasker was to goe thorough the Rajahs country, where hee would seaze on his Vaquyle theare, which shall satisfie the debt before hee release him. The Kings firmaen would bee to little effect, as Your Worships may perceave by Martins estate, which cannot bee procured [p. 288] though they [i. e. the Dutch] have the Kings firmaen; which they againe a second tyme have sent to complaine.' Drake will follow the King in the hope of recovering the debt; but he would be glad if 'Donjee' could come to his assistance. The Portuguese Padre cannot render any help, and there is no one else to give him any advice. Has recalled half of what he gave to Khusrū Beg, but has promised to recommend a good present to him when the debt is recovered. Encloses a letter from Mīr Mūsā, who yesterday 'bid mee to write you to stay your investments or send any goods or monyes to Amadavad, Baraoch, etc., for the Hackeeme hath received letters from Dio that those people which have lost their shippe will give the King 50,000 rupees of that which is taken to make the English pay for their sustained losse'. Encloses letters which the Padre wishes to be forwarded to Damān; he is about to depart for Agra temporarily. The King is to leave in 25 days. *PS. (9th)*—The chain and money had not been handed over to Khusrū Beg, but deposited in the hands of a third party. 'The King, heareing of Monuvassee [Mana Vaisya] and the rest of the Desyds[^sec-06-fn-145] imprisonment at Suratt by the Hackeeme, is much displeased, and Meir Moza contented, who hath still hopes of that place; and likewise tells mee hee hath on our behalfe procured the like firmaen as the Dutch have required for their good usage in Bengala.' *PPS. (12th)*—After waiting in vain for a 'cossett' to Surat, he sends this letter to Burhānpur for transmission. 'From Meir Moza I was enjoyned to give you notice of one that is coming to Suratt sent from the King, but Jaffur Ckauns[^sec-06-fn-145] servant; who is sent to see howe businesse passeth with the Hackeeme, merchants as commons, but very secret, in such a manner as the Hackeeme doeth not knowe of it, in the way of buying of English cloth, Europe toyes, millickes [*see* p. 254], etc., for his master; unto whome Your Worships may converse, as declare your grevances; who is to give an account heere, and, yf the King find all true as is reported of him, Meir Mooza, as hee saith, is to bee sent imediately. The Hackeeme likewise have desired a firmaen, and is granted, that [p. 289] no English and Dutch shall bring into the towne of Suratt any armes, yea, soe farre as a knife; which was answered by Meir Mooza unto Avezell Ckaune that what they b[r]ought was to secure their caphilaes to and againe; yett his answer prevailed not. Asaph Ckaune tould mee two dayes since hee was procureing for us a firmaen to confirme all priviledges, which was graunted in the Kings first; which when it comes to my hands I shall better knowe thereof. . . . The Nabaob hath sent his perwanna for Bandur Laree, to the Shabunder, that for the tyme of monsoones the English may come and trade, but not to settle a factory.’ Drake doubts whether Āsaf Khān will fulfil his promises regarding Chhatarsāl’s debt. ‘They are all Moores and heathens, and no trust to be given to their words.’ ‘The Dutches firmaen[^sec-06-fn-147] is gotten; wherein is as much mencioned in the behalfe of the English as the Dutch.’ The King is likely to remain at Māndū for a month and a half, or more. (*Copy.* 2½ *pp. Received September* 16.)
 
 
 #### JOHN WYLDE AT DAMĀN TO THE PRESIDENT AND COUNCIL AT SURAT, SEPTEMBER 8, 1636 (*Factory Records, Surat*, vol. cii. p. 653).
@@ -2272,8 +2272,8 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 [^sec-06-fn-142]: (2) Bālāghāt, the country ‘above the passes’.
 [^sec-06-fn-143]: (3) Possibly Agharī, about four miles north-west of Dābhol.
 [^sec-06-fn-144]: (1) Chiplūn, which is about 25 miles up the Vāshishtī River, near the head of the Kumbhārlī pass, one of the easiest routes from the Deccan to the seaboard.
-[^sec-06-fn-145]: (1) [Unlinked note, p. 288] Mahr. *desāī*, an official in charge of a district. For the discontent excited by Masīh-uz-Zamān's administration see a Dutch letter from Surat summarized in the *Dagh-Register*, 1636, p. 271.
-[^sec-06-fn-146]: (2) Jāfar Khān, nephew and son-in-law of Āsaf Khān. He was one of the chief men at court, and later on became Wazīr to Aurangzīb.
+[^sec-06-fn-145]: (1) Mahr. *desāī*, an official in charge of a district. For the discontent excited by Masīh-uz-Zamān's administration see a Dutch letter from Surat summarized in the *Dagh-Register*, 1636, p. 271.
+[^sec-06-fn-146]: (2) [Unlinked note, p. 288] Jāfar Khān, nephew and son-in-law of Āsaf Khān. He was one of the chief men at court, and later on became Wazīr to Aurangzīb.
 [^sec-06-fn-147]: (1) For trade in Bengal. A translation is given in the *Hague Transcripts*, series i. vol. x. no. 328, and in the *Dagh-Register* for 1637, p. 105 (reprinted in Heeres’s *Corpus Diplomaticum*, p. 280). If the translation is correct, Drake was misinformed, as no mention is made of the English.
 [^sec-06-fn-148]: (1) Java galangal, a rhizome much used in Indian medicine. Linschoten terms it ‘ lanquas ’.
 [^sec-06-fn-149]: (1) This seems to be the Mahratti *sajganī*, the strict meaning of which is ‘a couple of pice’. Probably in this connexion ordinary pice are intended.
@@ -2366,8 +2366,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - 130, 174, 183, 244; detention of, 192;
 - expenses of, 70, 113, 192; new route to
 - coast from, 152, 219; overland trade
-- between Tatta and, 192, 244; dissolution
-- of factory at, 13, 79, 203; priests at, 169,
+- between Tatta and, 192, 244; dissolution of factory at, 13, 79, 203; priests at, 169,
 - 170, 301; trouble at, owing to English
 - piracies, xxiv, 262, 271, 272, 278; Shāh
 - Jahān to winter at, 263; *parwāna* for,
@@ -2410,10 +2409,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - imprisonment of English and Dutch factors at, 194; dissolution of Dutch factory
 - at, 141; Dutch trade at, 142, 189, 205,
 - 220, 281, 292; their caravans to and
-- from, 169 (2), 170, 183, 188; robbery
-
-<!-- page: 380 | folio: 334 -->
-- of, 26; extortions from the Dutch at, 183.
+- from, 169 (2), 170, 183, 188; robbery [p. 334] of, 26; extortions from the Dutch at, 183.
 - Ahmadjī, Nākhudā, 198, 199.
 - Ajmer, 320.
 - Akbarīs. *See* Cotton goods.
@@ -2446,8 +2442,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Arabia, Indian trade to, 65; books and MSS. from, 74, 75, 97; horses from, xxxiv *n.*, 81, 186; commodities vendible in, 204, 292; junk of, plundered by English pirates, 200. *See also* Aden, etc.
 - Arabs at war with the Turks, 279, 300, 327.
 - Arakan, gumlac from, 66, 146; King of, endeavours to hinder English trade, 43; encounter with his shipping, 50; English prisoners in the hands of, 50.
-- Armagon, Nāyak of, 47, 48; extortions from the English by, 319, 320; Joyce’s mission to, xxxvii, 318; Chief at, to be Second on the Coast, 110; factors at, *see* Coromandel Coast; want of factors at, 56; factory expenses at, 41; question of the continuance of a factory and fort at, xxxvii, 47, 140, 161, 162, 320, 328; forti-
-- fication of, 47, 48; English ships at, 40, 112, 328; dispatch of ships to, 27, 28, 324; state of trade at, 48, 110; supplies for, 100, 111; ‘paintings’ from, 161, 326.
+- Armagon, Nāyak of, 47, 48; extortions from the English by, 319, 320; Joyce’s mission to, xxxvii, 318; Chief at, to be Second on the Coast, 110; factors at, *see* Coromandel Coast; want of factors at, 56; factory expenses at, 41; question of the continuance of a factory and fort at, xxxvii, 47, 140, 161, 162, 320, 328; fortification of, 47, 48; English ships at, 40, 112, 328; dispatch of ships to, 27, 28, 324; state of trade at, 48, 110; supplies for, 100, 111; ‘paintings’ from, 161, 326.
 - Armagon Hill, 30.
 - Armenians, 138.
 - Arrack, 30, 44, 51, 103, 111, 136, 137, 147, 187, 223, 231, 327; price of, 285.
@@ -2647,10 +2642,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Byam, Thomas, 214, 311; instructions to, 135, 186; letters from, 187, 195, 259.
 - ‘Cairo’. *See* Coir.
 - Calicoes. *See* Cotton goods.
-- Cambay, Governor of, *see* Mīr Mūsā; frigates detained by the English, 3, 4; shipment of English goods at, xvi, 26, 94, 116, 153, 170, 172, 183, 217, 219; attack on a caravan near, 60; beads from, 62, 188;
-
-<!-- page: 383 | folio: 337 -->
-- mortality at, 66; dispatch of English
+- Cambay, Governor of, *see* Mīr Mūsā; frigates detained by the English, 3, 4; shipment of English goods at, xvi, 26, 94, 116, 153, 170, 172, 183, 217, 219; attack on a caravan near, 60; beads from, 62, 188; [p. 337] mortality at, 66; dispatch of English
 - ships for and from, 95, 182, 184 (2);
 - ships required for English trade to, 103;
 - customs duties at, 116; trade to Persia
@@ -2786,8 +2778,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Coral, 13 *n.*, 24, 28, 40, 49, 69, 82, 106, 131, 144, 201 *n.*, 211 *n.*, 215, 218, 228, 300, 327 ; price of, 23, 24, 49, 69, 297.
 - Corge (*Korī*), 64, 275, 285, 292, 297, 300.
 - Cornelian beads, 62.
-- Coromandel Coast, Mogul ambassador at, 276 ; Agent on (*see also* Hudson, Joyce, *and* Pinson), 67 ; factors at, *see* Cartwright, Clark (Thos.), Day, Grove, Hudson, Metcalfe, Morris, Phipps, Turner, Weston, Winter, Wyche ; factors for, 57, 328, 329 ; want of factors at, 50, 327 ; complaint against Agent and factors at, 320, 327 ; factories subordinate to Bantam, xxxii, 317, 318, 325 ; factory expenses, 56 ; customs duties at, 46 ; debts on, 283, 319, 326 ; borrowing of money at, 318 ; trade at, in cotton and other goods, 49, 57, 109, 111, 161, 162, 164, 204, 319, 324 ; value of stock on, 100, 160, 328 ; supplies for, 109, 111 (2), 173, 318 ; want of supplies on, 283 ; complaint of poor returns from, 317, 318, 328 ; trade between Persia and (*see also* Masulipatam), 14, 17, 173 ; Persian mer-
-- chants at, 16 ; want of ships at, 42, 43, 48 ; dispatch of ships to and from, 56, 160, 162 ; control of shipping on, 162 ; shipment of freight goods to Persia from, *see* Masulipatam ; provisioning of ships at, 328 ; trouble at, owing to English piracies, 276–278 ; Dutch trade on, 43, 161, 162 ; Dutch Governor on, *see* Renierszoon ; Danish chief on, *see* Pessaert. *See also* Armagon, Golconda, Masulipatam, etc.
+- Coromandel Coast, Mogul ambassador at, 276 ; Agent on (*see also* Hudson, Joyce, *and* Pinson), 67 ; factors at, *see* Cartwright, Clark (Thos.), Day, Grove, Hudson, Metcalfe, Morris, Phipps, Turner, Weston, Winter, Wyche ; factors for, 57, 328, 329 ; want of factors at, 50, 327 ; complaint against Agent and factors at, 320, 327 ; factories subordinate to Bantam, xxxii, 317, 318, 325 ; factory expenses, 56 ; customs duties at, 46 ; debts on, 283, 319, 326 ; borrowing of money at, 318 ; trade at, in cotton and other goods, 49, 57, 109, 111, 161, 162, 164, 204, 319, 324 ; value of stock on, 100, 160, 328 ; supplies for, 109, 111 (2), 173, 318 ; want of supplies on, 283 ; complaint of poor returns from, 317, 318, 328 ; trade between Persia and (*see also* Masulipatam), 14, 17, 173 ; Persian merchants at, 16 ; want of ships at, 42, 43, 48 ; dispatch of ships to and from, 56, 160, 162 ; control of shipping on, 162 ; shipment of freight goods to Persia from, *see* Masulipatam ; provisioning of ships at, 328 ; trouble at, owing to English piracies, 276–278 ; Dutch trade on, 43, 161, 162 ; Dutch Governor on, *see* Renierszoon ; Danish chief on, *see* Pessaert. *See also* Armagon, Golconda, Masulipatam, etc.
 - ‘Corwaur’, 133.
 - Costus root. *See* Pachak.
 - Cotton goods and calicoes (including piecegoods), trade in and references to, *passim* ; akbarīs, 146 ; ‘alaboolaes’, 133 ; baftas, 146, 170, 172, 208, 300 ; ‘burtungeers’, 133 ; ‘cannikeens’, 131, 133, 164 ; ‘capparees’, 65 ; ‘carolees’, 164 ; ‘chucharees’, 65 ; ‘cudburgees’, 133 ; ‘cudds’, 133 ; diapers, 130 ; ‘dustars’, 133 ; dutties, 36, 37, 133, 134, 151, 167, 206 ; ‘Fettipoores’, 133 ; ‘hussanees’, 65 ; ‘jamawars’, 133 ; Jodhpurs, 164 ; jurries, 129, 133, 164 ; kambaīī, 133 ; lungīs, 133 ; ‘neccanees’, 65, 132, 164 ; perpetuanoes, 99 ; ‘populees’, 65, 164 ; salampores, 324 ; ‘semianoes’, 188, 298 ; seryas, 66, 130, 171 ; ‘taffseeles’, 133 ; complaint as to price, quality, etc. of, 35, 40, 41, 64, 327, 328 ; price of, 66, 275 ; theft of, 68 ; instructions for packing, 68 ; freight rate on, 133 ; competition in England owing to scarcity of, 319. *See also* Ahmadābād, Armagon, Baroda, Bengal, Broach, Coromandel Coast, Petapoli, etc.
@@ -2854,8 +2845,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - 252, 253, 256, 259, 282, 291, 295, 306,
 - 307; provisioning of ships at, 193; shipment of freight goods between Persia
 - and, 166, 168, 175, 178, 212, 260; the
-- English invited to trade to, 178; trade
-- at, in various commodities, 153, 158, 206,
+- English invited to trade to, 178; trade at, in various commodities, 153, 158, 206,
 - 209, 220, 231, 282, 285, 291, 292; state
 - of trade at, 160, 166, 195; supplies for,
 - 212, 224, 231, 270, 279, 286; currency
@@ -3139,8 +3129,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - defrauding customs, 100; payment of fixed
 - sum in lieu of customs, xxxiv, 16, 45, 325,
 - 326; English residence in, xxxiv *n.*, xxxv,
-- 46; commodities from, 46, 140, 294;
-- supplies for, 212, 276, 294; criticism of
+- 46; commodities from, 46, 140, 294; supplies for, 212, 276, 294; criticism of
 - state of affairs in, 319; ill-treatment of
 - English in, 326; Dutch compound the
 - customs in, 45; Danes’ ships and trade
@@ -3374,10 +3363,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Shāhbandar at, 244, 245, 289; English
 - factor at, *see* Fremlen; Customer at, 244,
 - 245; customhouse at, 124; customs duties at, 244; dispatch of ships to, 126,
-- 155, 164, 177, 312; English and Portu-
-
-<!-- page: 391 | folio: 345 -->
-- guese ships at, 123, 126 (3), 127, 152,
+- 155, 164, 177, 312; English and Portuguese ships at, 123, 126 (3), 127, 152,
 - 181, 243; provisioning of ships, etc., at,
 - 124, 125, 192; English invited to trade
 - at, 139, 289, 299; permission withdrawn,
@@ -3387,7 +3373,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - 138, 152, 210; Portuguese object to the
 - English shipping freight-goods from, 124,
 - 225; Portuguese factors, etc. at, 124, 127,
-- 244. *See also* Sind.
+- 244. *See also* Sind. [p. 345]
 - *Lārīs*, 133, 138, 146, 155, 158, 165, 175,
 - 176, 177, 178, 185, 186, 212, 279, 280,
 - 282, 285, 286, 290, 291, 292.
@@ -3489,10 +3475,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Martin, Malachi, 39, 74, 86, 90; visits Goa,
 - 58, 80, 88, 89; at Macassar, 180; estate
 - of, 287, 299.
-- *Mary*, the, 6, 11, 13, 23, 42, 59, 62, 97,
-
-<!-- page: 392 | folio: 346 -->
-- 206, 310, 314, 318; master of, *see* Bayley
+- *Mary*, the, 6, 11, 13, 23, 42, 59, 62, 97, [p. 346] 206, 310, 314, 318; master of, *see* Bayley
 - and Slade; homeward voyage of, 2, 4, 5,
 - 9, 144; outward voyage of, 173, 260, 301,
 - 305-306; at the Comoros, 330; voyage
@@ -3547,8 +3530,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - 204, 251, 255, 270, 276, 282, 283, 295,
 - 296, 324, 328; dispatch of ships to, 24,
 - 25, 26, 27, 28, 110, 140, 173, 174, 178,
-- 179, 196, 212, 246, 249, 250, 251, 252,
-- 319, 328; want of ships at, 296, 325;
+- 179, 196, 212, 246, 249, 250, 251, 252, 319, 328; want of ships at, 296, 325;
 - dispatch of ships direct to England from,
 - 50; coinage and weights at, 270; trouble
 - at, with Mogul ambassador's servants,
@@ -3821,8 +3803,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - shipping in India, 98, 221; reinforcements
 - for, 52; interchange of supplies, etc., between the English and, 87, 90, 94, 101,
 - 102, 122, 137, 149, 167, 177, 189; exchange presents with the English, 98; the
-- English agree to assist, against common
-- enemies, 88, 92; but decline to co-operate
+- English agree to assist, against common enemies, 88, 92; but decline to co-operate
 - against Persians, 261; carry letters for
 - the English, 93, 94, 176; send letters to
 - Madrid via Basrā, 179; English ship
@@ -3932,8 +3913,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Rewā Dās, 275.
 - Reynolds, Thomas, 223.
 - Rhubarb, 155, 165, 177.
-- Rials, value of, 4, 55, 68, 134, 282; chests
-- of, 68, 69, 101, 205, 283, 296; difference
+- Rials, value of, 4, 55, 68, 134, 282; chests of, 68, 69, 101, 205, 283, 296; difference
 - between ‘old’ and ‘new’, etc., 225.
 - Rice, trade in and references to, *passim*;
 - price of, 133; bags, price of, 189. *See*
@@ -4050,8 +4030,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - the indigo monopoly, 70, 72, 89, 173;
 - journey towards Kashmīr, 71; trade on
 - behalf of, 144; to winter at Ahmadābād,
-- 172; concludes peace with King of Bījāpur, 195, 260; and the English piracies,
-- 215, 216, 240, 241, 251, 256, 262, 278,
+- 172; concludes peace with King of Bījāpur, 195, 260; and the English piracies, 215, 216, 240, 241, 251, 256, 262, 278,
 - 313, 316; at Daulatābād, 212; his enmity
 - to Christianity, xxxix, 241; junks belonging to (*see also Shāhī*), 255; gift to,
 - secures the withdrawal of his army from
@@ -4220,10 +4199,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - pirates, 9, 251, 311, 312, 313; English
 - convoy junks of, 312, 320; troubles at,
 - owing to *Roebuck’s* (*q.v.*) piracies, xxii,
-- xxiii, xxiv, 159 *n.*, 190–192, 195–197,
-
-<!-- page: 399 | folio: 353 -->
-- 203, 213, 216, 235–242, 247–249, 251,
+- xxiii, xxiv, 159 *n.*, 190–192, 195–197, [p. 353] 203, 213, 216, 235–242, 247–249, 251,
 - 252, 254–255; dispatch of ship in search
 - of pirates, *see Blessing*; minting of coins
 - at, xxxix, 68, 148, 164, 217, 218, 225;
@@ -4457,10 +4433,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 -   designed again for Persia and thence for
 
 <!-- page: 401 | folio: 355 -->
-- England, 179; at Dābhol, 193, 195, 249,
-- 252, 256; at Masulipatam, 251, 255,
-- 270, 283, 295; second voyage to Persia,
-- 276, 279, 284, 320.
+- England, 179; at Dābhol, 193, 195, 249, 252, 256; at Masulipatam, 251, 255, 270, 283, 295; second voyage to Persia, 276, 279, 284, 320.
 - Williamson, Thomas, 87, 104, 188, 194,
 - 223.
 - Willoughby, George, President at Bantam,
@@ -4481,8 +4454,7 @@ Regrets to find Weddell so angered by his letter. Is still of opinion that Mr. E
 - Winter, Thomas, 329.
 - Wolstenholme, Sir John, 62.
 - Woollen goods, 133; dyeing of, 82, 83.
-- Wyche, Nathaniel, at Ahmadābād, 11; sails
-- for Masulipatam, Bantam, and England,
+- Wyche, Nathaniel, at Ahmadābād, 11; sails for Masulipatam, Bantam, and England,
 - 25; letters from, 40, 276; at Masulipatam, 50, 110, 143, 277; private trade of,
 - 76, 212; desires to return to England,
 - 180; sails for England, 296, 327, 329;

@@ -1,6 +1,6 @@
 ---
 title: "The Economic Life of a Bengal District"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "A Study"
 author: "J. C. Jack"
 author_slug: "j-c-jack"
@@ -9,7 +9,7 @@ imprint: "Oxford: Clarendon Press"
 language: "English"
 pages: 168
 extracted_pages: 162
-reread_pages: 7
+reread_pages: 8
 human_verified_pages: 0
 chapters: 18
 footnotes_count: 2
@@ -41,11 +41,11 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Machine-checked; 7 of 162 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Machine-checked; 8 of 162 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 32 fixes · 7 pp. checked"
+  - "Scan-Triaged: 32 fixes · 8 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 9/9 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -86,7 +86,7 @@ tables_list:
   - table_id: "tbl-001"
     caption: "Table 1"
     printed_folio: "59"
-    rows: 23
+    rows: 24
     cols: 7
     diplomatic_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tables/tbl-001_p0063.csv"
     tidy_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tidy/tbl-001_p0063.tidy.csv"
@@ -94,7 +94,7 @@ tables_list:
   - table_id: "tbl-002"
     caption: "Table 2"
     printed_folio: "71"
-    rows: 21
+    rows: 22
     cols: 7
     diplomatic_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tables/tbl-002_p0075.csv"
     tidy_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tidy/tbl-002_p0075.tidy.csv"
@@ -222,7 +222,7 @@ tables_list:
   - table_id: "tbl-018"
     caption: "(b) Proportion per cent. of Families Indebted"
     printed_folio: "156"
-    rows: 5
+    rows: 6
     cols: 11
     diplomatic_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tables/tbl-018_p0160.csv"
     tidy_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tidy/tbl-018_p0160.tidy.csv"
@@ -230,7 +230,7 @@ tables_list:
   - table_id: "tbl-019"
     caption: "Amongst every hundred indebted families, whose debt amounted to"
     printed_folio: "157"
-    rows: 5
+    rows: 6
     cols: 17
     diplomatic_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tables/tbl-019_p0161.csv"
     tidy_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tidy/tbl-019_p0161.tidy.csv"
@@ -238,7 +238,7 @@ tables_list:
   - table_id: "tbl-020"
     caption: "TABLE IV VILLAGE TAXATION (CHOKIDARI TAX)"
     printed_folio: "158"
-    rows: 12
+    rows: 13
     cols: 7
     diplomatic_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tables/tbl-020_p0162.csv"
     tidy_csv: "/downloads/economic-life-bengal-district-faridpur-1916/datasets/tidy/tbl-020_p0162.tidy.csv"
@@ -270,12 +270,12 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (162 pp.).
   - **Reader**: Read by gemini-3.8-flash on 162 of 162 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 32 replayed correction(s). Machine-checked; 7 of 162 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 32 replayed correction(s). Machine-checked; 8 of 162 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
+  - **5 finding(s) across 3 leaf(s)** (pp. 92, 121, 162): table compositor arithmetic variant.
   - **5 finding(s) across 5 leaf(s)** (pp. 123, 155, 156, 157, 158): table blind total confirmed.
-  - **3 finding(s) across 2 leaf(s)** (pp. 92, 121): table compositor arithmetic variant.
   - **1 finding(s) across 1 leaf(s)** (pp. 40): rare character.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.

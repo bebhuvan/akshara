@@ -67,9 +67,6 @@ SUPERINTENDENT, GOVERNMENT PRINTING, BIHAR AND ORISSA.
 
 ### LECTURE V.
 
-
-##### <span class="sc">Pages</span>
-
 - <span class="sc">Taxation of Land</span> ... ... ... ... 52—65
 Indian peasants reluctant to pay revenue, 52—reasons, 52— the ryot how treated, 53—*abwabs* or exactions condemned by Emperors, 54—but levied by lower officials, 54—anecdote of Shah Jahan, 55—doings of an extortionate diwan, 56—Sadullah's censure of revenue collectors, 56—why revenue officials levied perquisites, 57—*kroris* duties, 58— *amin*, 59—*qanungo*, 60—*abwabs* classified, 60—described in detail, 61.
 
@@ -835,7 +832,7 @@ There was a platform (*chabutra*) in front of the Kotwal’s office and borderin
 
 ##### § 6. *News-reporters.*
 
-The agency by which the Central Government learnt the news of the country consisted of (1) the *waqai-navis*, (2) the *sawanih- nigar*, (3) the *khufia-navis*,—all three of whom sent written reports,—and (4) the *harkarah*, literally meaning a courier, but really a spy, who brought oral news, though we have a few mentions of letters having been received from the last-named.
+The agency by which the Central Government learnt the news of the country consisted of (1) the *waqai-navis*, (2) the *sawanih-nigar*, (3) the *khufia-navis*,—all three of whom sent written reports,—and (4) the *harkarah*, literally meaning a courier, but really a spy, who brought oral news, though we have a few mentions of letters having been received from the last-named.
 
 The terms *waqai-navis* (sometimes written as *waqai-nigar* also) and *sawanih-nigar* mean the same thing, *viz.*, a writer or surveyor of occurrences. The only difference that I can suggest between them is that the *waqai-navis* was the more regular and public reporter of the two, while the *sawanih-nigar* was of the nature of a special commissioner or reporter on important cases only. But this explanation does not agree well with the Persian MS. that I have named the Manual of Officers’ Duties. This much, however, is known that there was a *waqai-navis*-attached to every field-army, province and large town, and a *sawanih-nigar* at special places and times only. The latter was most probably a spy and check on the former !
 
@@ -970,7 +967,7 @@ The *Manual of the Duties of Officers* (61—63) gives us the following informat
 <!-- page: 69 | folio: 59 -->
 “The amin’s work is to cause the kingdom to be cultivated, before the commencement of the season of cultivation, he should take from the *qanungoes* the preceding ten years’ papers of the revenue assessment and area of the villages, ride to the villages in company with the kroris, chaudhuris, qanungoes and zamindars, inquire into the condition of the villages, as regards their [culturable] area and the actual number of ploughs, compare the area given in the papers of the qanungo with the real area, and if the two do not agree call upon the qanungo to explain the excess (in the case of excess), and censure the headmen (in the case of shortage), saying ‘Why did the qanungo give a false return and why did the headman tell lies?’
 
-“Then inquire whether the existing ploughs are sufficient for the cultivators of the village. If not, then grant *taqavi* (agricultural loans), proportioned to the area of the culturable soil of the village, for the purchase of oxen and seeds, taking bonds[^sec-07-fn-002] from the headmen for the recovery of the loan with the first instalment of the [next] year, and indemnity-bonds (*much- ilka*) from the kroris that they would realize the loan with the first instalment of the [next] year.”
+“Then inquire whether the existing ploughs are sufficient for the cultivators of the village. If not, then grant *taqavi* (agricultural loans), proportioned to the area of the culturable soil of the village, for the purchase of oxen and seeds, taking bonds[^sec-07-fn-002] from the headmen for the recovery of the loan with the first instalment of the [next] year, and indemnity-bonds (*muchilka*) from the kroris that they would realize the loan with the first instalment of the [next] year.”
 
 The sanad appointing an *amin* runs thus: “Do your work with honesty and truthfulness. Exert yourself to prepetuate the cultivation and increase the habitation. You will be held responsible for the portion of the collected revenue deposited with the *fotahdar* which he keeps in his hands in arrear (i.e., without paying it into the treasury.) Urge the krori to collect the revenue according to his own assessment and deposit it with the fotahdar. Give temporary receipts (*chitha*) for the money that the ryots pay to the fotahdar, under your seal and the fotahdar’s signature, and at the time of payment of revenue in full (*bebáqi*) make up the account according to this *chitha*. Do not collect any *abwab* like *bálá dasti* and *tahsildari*, as all these have been forbidden by the Emperor. Warn the chaudhuris and qanungoes not to exact any such cess.”
 

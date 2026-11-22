@@ -76,7 +76,7 @@
           <head>ENGLAND'S DEBT TO INDIA</head>
           <div type="subsection" n="h2">
             <head>LAJPAT RAI</head>
-            <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0001.webp"/><head>Blind-stamped map of the Indian subcontinent on cloth cover</head><figDesc>Blind-stamped map of the Indian subcontinent on cloth cover</figDesc></figure>
+            <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0001.webp"/><figDesc>Blind-stamped map of the Indian subcontinent on cloth cover</figDesc></figure>
             <pb xml:id="page-5" n="5" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n4_w1400.jpg"/>
           </div>
         </div>
@@ -1215,7 +1215,7 @@ Further Notes . . . . . . . . . 357</p>
               <quote><p>“The duties of many articles of East India produce are also enormously high, apparently rated on no fixed principle, and without regard to market price. . . . The rates of duty imposed on Indian imports into Britain when compared with the exemption from duty of British staples into India (cotton goods being subject to a duty of only 2½ per cent), constitute an important feature in the present question. Indians within the Company’s jurisdiction, like English, Scotch, or Irish, are equally subjects of the British Government. To make invidious distinctions, favouring one class but oppressing another, all being subjects of the same empire, cannot be reconciled with the principles of justice; and whilst British imports into India are thus so highly favoured, I know that Indo-British subjects feel it a great grievance that their commodities when imported into England should be so enormously taxed.”</p></quote>
               <p>The following charges on cotton manufactures in 1813 are significant:—</p>
               <table xml:id="tbl-016" rows="8" cols="4">
-          <row role="label"><cell role="label">£</cell><cell role="label">s.</cell><cell role="label">d.</cell></row>
+          <row role="label"><cell role="label"></cell><cell role="label">£</cell><cell role="label">s.</cell><cell role="label">d.</cell></row>
           <row role="data"><cell>Flowered or stitched muslins of white calicoes (for every £100 of value)</cell><cell rend="num">32</cell><cell rend="num">9</cell><cell rend="num">2</cell></row>
           <row role="data"><cell>And further (for every £100 of value)</cell><cell rend="num">11</cell><cell rend="num">17</cell><cell rend="num">6</cell></row>
           <row role="data"><cell>Calicoes and dimities (for every £100 of value)</cell><cell rend="num">81</cell><cell rend="num">2</cell><cell rend="num">11</cell></row>
@@ -1382,8 +1382,7 @@ Further Notes . . . . . . . . . 357</p>
               <p>Nor was there anything remarkable in the “fact” that in forty years, 1770–1810, the East India Company should <pb xml:id="page-199" n="159" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n198_w1400.jpg"/> have sold goods to the value of 659 millions of pounds,— where and to whom is not stated. An industry like that of the piece goods industry of India could not have been destroyed in a day.</p>
               <p>In conclusion it is well to recall the testimony of such competent witnesses as Henry St. John Tucker, Larpent, Montgomery Martin, and others.</p>
               <p>That the number of those who depend on textile industries for their living is still declining is made clear by the results of the census of 1911. See Mr. Gait’s report, chapter on occupations, wherein he says that “As compared with 1901, there has been a decrease of 6.1 per cent. in the number of persons supported by textile industries. This is due mainly to the almost complete extinction of cotton spinning by hand. Weaving by hand has also suffered severely.”</p>
-              <p><hi rend="italic">Cotton duties—1917 developments.</hi> Since the above was written, the duty on cotton goods imported into India has been raised to 7½ per cent. <hi rend="italic">ad valorem</hi> while the countervailing excise duty has been maintained at the old figure. The action of the Government of India, taken with the sanction and approval of the Secretary of State for India, as a part of the plan whereby the Government of India was to contribute £100,000,000 to the British war fund as a “free gift,” from India has furnished occasion for a very interesting discussion on the point, between Lancashire and the Free Traders on one hand and the Tory Secretary of State for India and <hi rend="italic">The Times</hi> on the other. In the course of the controversy certain admissions have been made in high quarters which corroborate <pb xml:id="page-200" n="160" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n199_w1400.jpg"/> and support the statements made in this chapter. In the course of a letter addressed to the <hi rend="italic">West-</hi></p>
-              <p><hi rend="italic">minster Gazette</hi>, Lord Curzon says: “I have always regarded the attitude of Lancashire toward India in respect to the Import duties on cotton and still more of the countervailing excise <hi rend="italic">as an injustice and a wrong.</hi> . . . When in India, as Viceroy, I more than once expressed myself in the same sense. On my return to England I made a speech in the House of Lords on May 21, 1908, in the course of which I said that <hi rend="italic">the fiscal policy of India during the last thirty or forty years has been shaped far more in Manchester than in Calcutta.</hi> In the speech at Manchester in 1910, I alluded to the same facts, namely, to <hi rend="italic">the subordination of Indian fiscal policy to the Secretary of State and a House of Commons powerfully affected by Lancashire influence.”</hi> [The italics are ours.]</p>
+              <p><hi rend="italic">Cotton duties—1917 developments.</hi> Since the above was written, the duty on cotton goods imported into India has been raised to 7½ per cent. <hi rend="italic">ad valorem</hi> while the countervailing excise duty has been maintained at the old figure. The action of the Government of India, taken with the sanction and approval of the Secretary of State for India, as a part of the plan whereby the Government of India was to contribute £100,000,000 to the British war fund as a “free gift,” from India has furnished occasion for a very interesting discussion on the point, between Lancashire and the Free Traders on one hand and the Tory Secretary of State for India and <hi rend="italic">The Times</hi> on the other. In the course of the controversy certain admissions have been made in high quarters which corroborate <pb xml:id="page-200" n="160" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n199_w1400.jpg"/> and support the statements made in this chapter. In the course of a letter addressed to the <hi rend="italic">Westminster Gazette</hi>, Lord Curzon says: “I have always regarded the attitude of Lancashire toward India in respect to the Import duties on cotton and still more of the countervailing excise <hi rend="italic">as an injustice and a wrong.</hi> . . . When in India, as Viceroy, I more than once expressed myself in the same sense. On my return to England I made a speech in the House of Lords on May 21, 1908, in the course of which I said that <hi rend="italic">the fiscal policy of India during the last thirty or forty years has been shaped far more in Manchester than in Calcutta.</hi> In the speech at Manchester in 1910, I alluded to the same facts, namely, to <hi rend="italic">the subordination of Indian fiscal policy to the Secretary of State and a House of Commons powerfully affected by Lancashire influence.”</hi> [The italics are ours.]</p>
               <p>Mr. Charles Roberts, M. P., said in the House of Commons: “Long ago we forgave ourselves for the selfish commercial policy of the eighteenth century which crushed out the beautiful fabrics of India by fiscal prohibition.”</p>
               <p>Mr. G. W. Forrest, writing to <hi rend="italic">The Times</hi>, London, (March 14, 1917), said: “The tale of England’s dealing with Indian industry was one of littleness and injustice. . . . By positive prohibition and by heavy duties, the Indian textile trade in England was destroyed and our own trade was fostered.”</p>
               <p>Mr. Harold Smith, M. P., also condemns “the uneconomic and indefensible protection which” the British cotton trade “has received at the expense and the <pb xml:id="page-201" n="161" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n200_w1400.jpg"/> exploitation of India. . . . It is impossible that India can forever remain satisfied with this throttling hold on her own natural development." (<hi rend="italic">Times</hi>, London, March 14, 1917.)</p>
@@ -1489,7 +1488,7 @@ Further Notes . . . . . . . . . 357</p>
         <head><hi rend="italic">Ships Built at Indian Ports</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label" cols="2">1904–5</cell><cell role="label" cols="2">1905–6</cell><cell role="label" cols="2">1906–7</cell><cell role="label" cols="2">1907–8</cell><cell role="label" cols="2">1908–9</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"><hi rend="italic">No.</hi></cell><cell role="label"><hi rend="italic">Tonnage</hi></cell><cell role="label"><hi rend="italic">No.</hi></cell><cell role="label"><hi rend="italic">Tonnage</hi></cell><cell role="label"><hi rend="italic">No.</hi></cell><cell role="label"><hi rend="italic">Tonnage</hi></cell><cell role="label"><hi rend="italic">No.</hi></cell><cell role="label"><hi rend="italic">Tonnage</hi></cell><cell role="label"><hi rend="italic">No.</hi></cell><cell role="label"><hi rend="italic">Tonnage</hi></cell></row>
-        <row role="label"><cell role="label">Bengal</cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell><cell role="label"></cell></row>
+        <row role="label" rend="subheader"><cell>Bengal</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
         <row role="data"><cell>Calcutta: Steam</cell><cell>..</cell><cell>.....</cell><cell>..</cell><cell>.....</cell><cell rend="num">2</cell><cell rend="num">335</cell><cell rend="num">1</cell><cell rend="num">73</cell><cell rend="num">1</cell><cell rend="num">160</cell></row>
         <row role="data"><cell>Chittagong: Sailing</cell><cell>..</cell><cell>.....</cell><cell rend="num">1</cell><cell rend="num">26</cell><cell>..</cell><cell>.....</cell><cell rend="num">1</cell><cell rend="num">71</cell><cell rend="num">1</cell><cell rend="num">67</cell></row>
         <row role="label" rend="subheader"><cell>Bombay and Sind:</cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell></row>
@@ -1652,7 +1651,7 @@ Further Notes . . . . . . . . . 357</p>
             <pb xml:id="page-225" n="185" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n224_w1400.jpg"/>
             <p>The following are the export figures of tea, jute, cotton, and oilseeds for 1913–14 and 1914–15:</p>
             <table xml:id="tbl-027" rows="5" cols="3">
-        <row role="label"><cell role="label">1913-14</cell><cell role="label">1914-15</cell></row>
+        <row role="label"><cell role="label"></cell><cell role="label">1913-14</cell><cell role="label">1914-15</cell></row>
         <row role="data"><cell>Tea</cell><cell>289.5 millions of lbs.</cell><cell>300.8 millions of lbs.</cell></row>
         <row role="data"><cell>Jute</cell><cell>768,000 tons of the value<ref xml:id="ref-sec-11-fn-001" type="noteref" target="#sec-11-fn-001">1</ref> of £39,400,000</cell><cell>3,046,000 bales</cell></row>
         <row role="data"><cell>Cotton</cell><cell rend="num">10,626,000 cwts.</cell><cell>10,349,000 cwts. valued at £22,326,000</cell></row>
@@ -2090,7 +2089,7 @@ Further Notes . . . . . . . . . 357</p>
         <row role="data"><cell>16th century</cell><cell>Three famines, all local</cell></row>
         <row role="data"><cell>17th century</cell><cell>Three famines, area not defined</cell></row>
         <row role="data"><cell>18th century (to 1745)</cell><cell>Four famines, all local</cell></row>
-        <row role="label" rend="subheader"><cell>The last thirty years of the 18th century.</cell></row>
+        <row role="label" rend="subheader"><cell cols="2">The last thirty years of the 18th century.</cell></row>
         <row role="data"><cell>1769–1800</cell><cell>Four famines, Bengal, Madras, Bombay and southern India.</cell></row>
       </table>
             <p>Famines of the 19th century and loss of life thereby; divided into four periods of 25 years:</p>
@@ -2153,7 +2152,7 @@ Further Notes . . . . . . . . . 357</p>
               <p>“But beyond these is another resource still greater. Long ago, Sir James Caird urged upon the Indian Government the necessity for better agricultural methods, calling attention to the fact that a single additional bushel per acre raised by the ryot would mean food for another 22,000,000 people. But the addition of a bushel per acre is only a beginning of what might be done. Here is a resource practically inexhaustible, which, added to the others, makes the suggestion that population outstrips agricultural possibilities, and that therefore, famines are inevitable, positively ludicrous.”</p>
               <p>The following figures support Mr. Sunderland’s conclusion:</p>
               <table xml:id="tbl-042" rows="9" cols="5">
-          <row role="label"><cell role="label"></cell><cell role="label" cols="2"></cell><cell role="label" cols="2"><hi rend="italic">Average Increase of Population per year per million</hi></cell></row>
+          <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label"><hi rend="italic">Average Increase of Population per year per million</hi></cell></row>
           <row role="data"><cell>Germany, 1837 31,589,547</cell><cell>Germany, 1911 64,925,993</cell><cell rend="num">14,528</cell></row>
           <row role="data"><cell>Belgium, 1866 4,827,833</cell><cell>Belgium, 1912 7,571,387</cell><cell rend="num">11,919</cell></row>
           <row role="data"><cell>England, 1871 21,495,131</cell><cell>England, 1911 31,045,270</cell><cell rend="num">11,726</cell></row>
@@ -2166,7 +2165,7 @@ Further Notes . . . . . . . . . 357</p>
               <p>The following table (Hazells “ Annual ” for 1917) supports Dr. Sunderland’s statement:</p>
               <table xml:id="tbl-043" rows="8" cols="5">
           <head><hi rend="italic">Increase of Population</hi></head>
-          <row role="label"><cell role="label">1881–1891</cell><cell role="label">1891–1901</cell><cell role="label">1901–1911</cell><cell role="label">Total</cell></row>
+          <row role="label"><cell role="label"></cell><cell role="label">1881–1891</cell><cell role="label">1891–1901</cell><cell role="label">1901–1911</cell><cell role="label">Total</cell></row>
           <row role="data"><cell>England and Wales</cell><cell rend="num">11.7</cell><cell rend="num">12.2</cell><cell rend="num">10.9</cell><cell rend="num">34.8</cell></row>
           <row role="data"><cell>Australian Commonwealth</cell><cell rend="num">41.1</cell><cell rend="num">18.9</cell><cell rend="num">18.1</cell><cell rend="num">78.1</cell></row>
           <row role="data"><cell>German Empire</cell><cell rend="num">9.3</cell><cell rend="num">14.0</cell><cell rend="num">15.2</cell><cell rend="num">38.5</cell></row>
@@ -2183,7 +2182,7 @@ Further Notes . . . . . . . . . 357</p>
               <p><hi rend="italic">Is the Distress Due to the Extravagance of the Ryot on Occasions of Marriages and Funerals?</hi> The reports of the government enquiry in 1887–88 repudiate this theory. Says Mr. Digby:</p>
               <p>“Taking the first twenty cases exactly as they appear in the record of the Government enquiry in which reference is made to indebtedness, they do not sustain the assertion of the Lieutenant-Governor. In only two of these cases are marriage and family expenses put down as the occasion of indebtedness. In one case, the amount was the trifle of Rs. 10, half already repaid in monthly instalments of one rupee. That is to say, 10 per cent. of borrowings only, are specifically for marriage purposes. In the Punjab, Mr. Thorburn’s particulars compare not unfavourably: ‘Of seven hundred and forty-two families, only in three cases was marriage extravagance the cause of their serious indebtedness.’ The common idea about the extravagance of marriage is not supported by evidence. Unnecessary marriage expenses show a tendency year by year to decrease. This is susceptible of statistical proof:</p>
               <table xml:id="tbl-044" rows="6" cols="4">
-          <row role="label"><cell role="label">Full Indebtedness</cell><cell role="label">Marriage Expenses</cell><cell role="label">Percentage</cell></row>
+          <row role="label"><cell role="label"></cell><cell role="label">Full Indebtedness</cell><cell role="label">Marriage Expenses</cell><cell role="label">Percentage</cell></row>
           <row role="data"><cell>Circle I.</cell><cell rend="num">Rs. 142,737</cell><cell rend="num">Rs. 9,491</cell><cell rend="num">6½</cell></row>
           <row role="data"><cell>Circle II.</cell><cell>“ 179,853</cell><cell>“ 12,418</cell><cell rend="num">7</cell></row>
           <row role="data"><cell>Circle III.</cell><cell>“ 88,234</cell><cell>“ 9,687</cell><cell rend="num">11</cell></row>
@@ -2856,20 +2855,20 @@ Further Notes . . . . . . . . . 357</p>
           <row role="data"><cell>Card cleaner</cell><cell rend="num">1.33</cell></row>
           <row role="data"><cell>Spare hands</cell><cell>.80</cell></row>
           <row role="data"><cell>Mixer</cell><cell>.80</cell></row>
-          <row role="label" rend="subheader"><cell><pb xml:id="page-390" n="350" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n389_w1400.jpg"/> <hi rend="italic">Mule room:</hi></cell></row>
+          <row role="label" rend="subheader"><cell cols="2"><pb xml:id="page-390" n="350" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n389_w1400.jpg"/> <hi rend="italic">Mule room:</hi></cell></row>
           <row role="data"><cell>Head mistri</cell><cell rend="num">$4.16</cell></row>
           <row role="data"><cell>Minder</cell><cell rend="num">1.33</cell></row>
           <row role="data"><cell>Piecer</cell><cell>.66</cell></row>
           <row role="data"><cell>Spare hands</cell><cell>.84</cell></row>
-          <row role="label" rend="subheader"><cell><hi rend="italic">Finishing department:</hi></cell></row>
+          <row role="label" rend="subheader"><cell cols="2"><hi rend="italic">Finishing department:</hi></cell></row>
           <row role="data"><cell>Washing and bleaching</cell><cell rend="num">$1.50</cell></row>
           <row role="data"><cell>Dyeing</cell><cell rend="num">1.60</cell></row>
           <row role="data"><cell>Dyer</cell><cell>.84</cell></row>
-          <row role="label" rend="subheader"><cell><hi rend="italic">Weaving department:</hi></cell></row>
+          <row role="label" rend="subheader"><cell cols="2"><hi rend="italic">Weaving department:</hi></cell></row>
           <row role="data"><cell>Mistry</cell><cell>a little over $2.00</cell></row>
           <row role="data"><cell>Healder</cell><cell>a little over .84</cell></row>
           <row role="data"><cell>Weaver</cell><cell>a little over 1.10</cell></row>
-          <row role="label" rend="subheader"><cell><hi rend="italic">Engineering department:</hi></cell></row>
+          <row role="label" rend="subheader"><cell cols="2"><hi rend="italic">Engineering department:</hi></cell></row>
           <row role="data"><cell>Boiler mistri</cell><cell rend="num">$1.35</cell></row>
           <row role="data"><cell>Engine man</cell><cell>.70</cell></row>
           <row role="data"><cell>Oil man</cell><cell>.70</cell></row>
@@ -3034,11 +3033,7 @@ Further Notes . . . . . . . . . 357</p>
         <item>Commercial schools, 305</item>
         <item>Connell, A. K., on Indian<lb/>railways, 243-6, 297</item>
         <item>Copper, 177</item>
-        <item>Cornwallis, Lord, on increas-</item>
-      </list>
-            <pb xml:id="page-400" n="360" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n399_w1400.jpg"/>
-            <list type="index">
-        <item>ing misery of India, 37; on<lb/>land settlement, 188</item>
+        <item>Cornwallis, Lord, on increasing misery of India, 37; on<lb/>land settlement, 188 <pb xml:id="page-400" n="360" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n399_w1400.jpg"/></item>
         <item>Cotton, J. S., on the "Drain,"<lb/>86, 100; on trade, 100; on<lb/>iron, 175-6; on agriculture,<lb/>181; on economic condition of the people, 249</item>
         <item>Cotton industry in India, 46,<lb/>121; case for and against<lb/>England, 157-8; Lord Curzon on duties, 160; decline<lb/>of, 128; Defoe on Indian<lb/>fabrics, 126; early mention<lb/>of, 121; English legislation,<lb/>141 ff; excellence of, 123;<lb/>extent, 124; duties, 141 ff;<lb/>present duties, 159; Larpent<lb/>and others on the decline,<lb/>134 ff; machinery and the<lb/>industrial revolution in<lb/>England, 49; Montgomery<lb/>Martin, 138; 1917 developments, 159; the renascent<lb/>industry, 152, 154-5, 156</item>
         <item>Crops, area in India, 183-4</item>
@@ -3050,8 +3045,7 @@ Further Notes . . . . . . . . . 357</p>
             <list type="index">
         <item>Debt, Indian, 90; increase, 91;<lb/>division of, 99; R. Dutt on,<lb/>88</item>
         <item>Digby, on the "Drain," 71, 92,<lb/>96; on decline of India's<lb/>shipping, 168; on famines,<lb/>264; on gold supply, 309</item>
-        <item>"Drain" or Tribute, 69 ff;<lb/>meaning of, 84; extent, 91;<lb/>mutiny expenditures, 89;<lb/>English profit, 102; Hyndman on, 70, 94, 96; Digby,<lb/>71, 92; Francis, 71; Shore,<lb/>72; Sullivan, 73-5; Wilson,<lb/>H. H., 78; Lord Salisbury,<lb/>78; Wilson, A. J., 78, 96;<lb/>Dr. Sunderland, 78; Wingate, 76; Cotton, J. S., 86,<lb/>100; Martin, 77, 92; esti-</item>
-        <item>mates, 102; <hi rend="bold">Tucker, Henry</hi><lb/><hi rend="bold">St. G.</hi>, 77</item>
+        <item>"Drain" or Tribute, 69 ff;<lb/>meaning of, 84; extent, 91;<lb/>mutiny expenditures, 89;<lb/>English profit, 102; Hyndman on, 70, 94, 96; Digby,<lb/>71, 92; Francis, 71; Shore,<lb/>72; Sullivan, 73-5; Wilson,<lb/>H. H., 78; Lord Salisbury,<lb/>78; Wilson, A. J., 78, 96;<lb/>Dr. Sunderland, 78; Wingate, 76; Cotton, J. S., 86,<lb/>100; Martin, 77, 92; estimates, 102; <hi rend="bold">Tucker, Henry</hi><lb/><hi rend="bold">St. G.</hi>, 77</item>
         <item>Dutt, Romesh, on Governor<lb/>Verelst, 53; on Warren<lb/>Hastings, 53-54; Sergt.<lb/>Brago, 55; quotes British<lb/>merchants, 58; Clive, 61; on<lb/>"Drain," 77; on India's<lb/>debt, 88; on cotton industry, 132, 144; decay of village communities, 205; on<lb/>land evils, 208, 238</item>
         <item>Dutch, in trade, 44</item>
       </list>
@@ -3063,12 +3057,7 @@ Further Notes . . . . . . . . . 357</p>
         <item>Economic condition of people,<lb/>156; Loveday on, 245; Hunter on, 248, 252; Chintamini,<lb/>330-36. See also <hi rend="italic">Poverty,</hi><lb/><hi rend="italic">Famines</hi></item>
         <item>Education in India, 297; early<lb/>conditions, 299; of Europeans, 305; facts and figures, 300; tables, 301-2; of<lb/>girls, 306; agricultural, 302;<lb/>technical and industrial,<lb/>303; commercial, 305; expenditures, 317; art schools,<lb/>305</item>
         <item>Elphinstone, on mediæval India, 11-15; on British settlement of conquered territory, 225-8</item>
-        <item>Empire, India and the, 103;<lb/>and other nations of Asia,<lb/>114; Isle of France, 115;<lb/>Muluccas, 115; Ceylon, 115;<lb/>Eastern Archipelago, 115;<lb/>Siam and Cochin-China</item>
-      </list>
-            <pb xml:id="page-401" n="361" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n400_w1400.jpg"/>
-            <list type="index">
-        <item>116; Burmah, 116; Malacca,</item>
-        <item>116; Aden, 117; wars outside India, 109–13; the<lb/>Persian mission, 105; foreign wars paid by India,<lb/>105–6; the Zanzibar and<lb/>Mauritius cable, 117; Red<lb/>Sea telegraph, 117</item>
+        <item>Empire, India and the, 103;<lb/>and other nations of Asia,<lb/>114; Isle of France, 115;<lb/>Muluccas, 115; Ceylon, 115;<lb/>Eastern Archipelago, 115;<lb/>Siam and Cochin-China <pb xml:id="page-401" n="361" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n400_w1400.jpg"/> 116; Burmah, 116; Malacca, 116; Aden, 117; wars outside India, 109–13; the<lb/>Persian mission, 105; foreign wars paid by India,<lb/>105–6; the Zanzibar and<lb/>Mauritius cable, 117; Red<lb/>Sea telegraph, 117</item>
       </list>
             <div type="subsection" n="h3">
               <head>F</head>
@@ -3103,11 +3092,7 @@ Further Notes . . . . . . . . . 357</p>
               <list type="index">
           <item>Ibn Batuta, 12</item>
           <item>Income, average of people, 3,<lb/>250 ff; appendix B; appendix D</item>
-          <item>India, agricultural condition,<lb/>181; as army training<lb/>ground, 108; army, 104–7;<lb/>British occupation, 17–39,<lb/>319; and the “Empire,”<lb/>103; early prosperity, 5, 10–<lb/>13, 24, 44; cotton in, 121;<lb/>decline of cotton industry,<lb/>128; decline of shipping industry, 167; economic condition, 245; education,<lb/>299 ff; export tables, 105,<lb/>184–8; famines, 263 ff; “golden age,” 4; industries,<lb/>173 ff; land problem and<lb/>taxes, 188 ff; British land<lb/>policy, 245; the “milchcow” of the “Empire,”<lb/>103; Moghul emperors, 6;<lb/>Mohammedan rule, 10;<lb/>Northern India, conditions,<lb/>24, 216; early political divisions, 16; poverty, 245 ff;<lb/>pre-British period, 16; prosperity fallacies, 308; railways and canals, 283 ff;<lb/>remedy for the Indian problem, 334 ff; trade, early, 43;<lb/>trade after Plassey, 49 ff;</item>
-        </list>
-              <pb xml:id="page-402" n="362" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n401_w1400.jpg"/>
-              <list type="index">
-          <item>trade ruin, 64; taxes, 314; tribute or "Drain," 69 ff</item>
+          <item>India, agricultural condition,<lb/>181; as army training<lb/>ground, 108; army, 104–7;<lb/>British occupation, 17–39,<lb/>319; and the “Empire,”<lb/>103; early prosperity, 5, 10–<lb/>13, 24, 44; cotton in, 121;<lb/>decline of cotton industry,<lb/>128; decline of shipping industry, 167; economic condition, 245; education,<lb/>299 ff; export tables, 105,<lb/>184–8; famines, 263 ff; “golden age,” 4; industries,<lb/>173 ff; land problem and<lb/>taxes, 188 ff; British land<lb/>policy, 245; the “milchcow” of the “Empire,”<lb/>103; Moghul emperors, 6;<lb/>Mohammedan rule, 10;<lb/>Northern India, conditions,<lb/>24, 216; early political divisions, 16; poverty, 245 ff;<lb/>pre-British period, 16; prosperity fallacies, 308; railways and canals, 283 ff;<lb/>remedy for the Indian problem, 334 ff; trade, early, 43;<lb/>trade after Plassey, 49 ff; <pb xml:id="page-402" n="362" facs="https://archive.org/download/englandsdebttoin00lajpuoft/page/n401_w1400.jpg"/> trade ruin, 64; taxes, 314; tribute or "Drain," 69 ff</item>
           <item>Indian Year Book, on recent industrial situation, 152 ff; on iron, etc., 177</item>
           <item>Industries, 173; indigo, 173; jute, 174; woollen mills, 174; paper mills, 175; breweries, 175; rice and saw mills, 175; manganese, 177; copper, 177; tea and coffee, 179; <hi rend="italic">see also</hi>, <hi rend="italic">Agriculture</hi>, <hi rend="italic">Cotton</hi>, <hi rend="italic">Shipping</hi></item>
           <item>Industrial revolution in England, India's part in, 49, 125 ff</item>

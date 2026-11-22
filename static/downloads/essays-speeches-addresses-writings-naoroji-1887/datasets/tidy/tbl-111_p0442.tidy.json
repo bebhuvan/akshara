@@ -1434,7 +1434,7 @@
     "column_index": 3,
     "column_header": "Per Acre. :: lbs.",
     "raw_text": "12·51",
-    "value_numeric": null,
+    "value_numeric": 12.51,
     "unit": "acres",
     "is_null_or_leader": false,
     "arithmetic_verified": false

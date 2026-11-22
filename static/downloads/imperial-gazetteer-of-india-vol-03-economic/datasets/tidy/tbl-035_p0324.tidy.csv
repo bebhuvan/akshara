@@ -1,0 +1,11 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,1,summary,,Average,2,Column 2,1882-3 to 1891-2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,1,summary,,Average,3,Column 3,"1,87",187.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,2,summary,,Average,2,Column 2,1892-3 to 1901-2,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,2,summary,,Average,3,Column 3,"5,54",554.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,3,data,,Year,2,Column 2,1902-3,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,3,data,,Year,3,Column 3,"9,02",902.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,4,data,,Year,2,Column 2,1903-4,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,4,data,,Year,3,Column 3,"9,47",947.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,5,data,,Year,2,Column 2,1904-5,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-035,Table 35,324,282,5,data,,Year,3,Column 3,"9,94",994.0,,False,False

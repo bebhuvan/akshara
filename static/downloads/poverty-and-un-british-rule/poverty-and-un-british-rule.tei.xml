@@ -14,7 +14,7 @@
         <edition n="community">Akshara Community Edition</edition>
         <respStmt>
           <resp>Provenance accounting</resp>
-          <name>691 extracted leaves · 36 re-read against the scan · 0 verified by a person</name>
+          <name>691 extracted leaves · 38 re-read against the scan · 0 verified by a person</name>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -68,7 +68,7 @@
         <div type="subsection" n="h1">
           <head>POVERTY AND UN-BRITISH RULE IN INDIA</head>
           <p>BY DADABHAI NAOROJI</p>
-          <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0005.webp"/><head>Publisher's decorative emblem featuring two rampant horses supporting a shield with monogram and motto 'ARDVA QVAE PVLCRA'</head><figDesc>Publisher&#x27;s decorative emblem featuring two rampant horses supporting a shield with monogram and motto &#x27;ARDVA QVAE PVLCRA&#x27;</figDesc></figure>
+          <figure xml:id="fig-001"><graphic url="../figures/fig-001_p0005.webp"/><figDesc>Publisher&#x27;s decorative emblem featuring two rampant horses supporting a shield with monogram and motto &#x27;ARDVA QVAE PVLCRA&#x27;</figDesc></figure>
           <p rend="imprint">LONDON
 SWAN SONNENSCHEIN &amp; CO., <hi rend="smallcaps">Lim.</hi>
 PATERNOSTER SQUARE
@@ -524,40 +524,40 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="italic">Bajri.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Total Produce (at 900 lbs. per Acre).</cell><cell role="label">Price per 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>Ahmedabad</cell><cell rend="num">129,365<ref xml:id="ref-sec-04-fn-007" type="noteref" target="#sec-04-fn-007">1</ref></cell><cell rend="num">116,428,500</cell><cell>33·6</cell><cell rend="num">34,65,134</cell></row>
-        <row role="data"><cell>Kaira</cell><cell rend="num">150,841</cell><cell rend="num">135,756,900</cell><cell>30·0</cell><cell rend="num">45,25,230</cell></row>
-        <row role="data"><cell>Surat</cell><cell rend="num">27,217</cell><cell rend="num">24,495,300</cell><cell>25·5</cell><cell rend="num">9,60,600</cell></row>
-        <row role="data"><cell>Khandeish</cell><cell rend="num">711,447</cell><cell rend="num">640,302,300</cell><cell>27·6</cell><cell rend="num">2,31,99,359</cell></row>
+        <row role="data"><cell>Ahmedabad</cell><cell rend="num">129,365<ref xml:id="ref-sec-04-fn-007" type="noteref" target="#sec-04-fn-007">1</ref></cell><cell rend="num">116,428,500</cell><cell rend="num">33·6</cell><cell rend="num">34,65,134</cell></row>
+        <row role="data"><cell>Kaira</cell><cell rend="num">150,841</cell><cell rend="num">135,756,900</cell><cell rend="num">30·0</cell><cell rend="num">45,25,230</cell></row>
+        <row role="data"><cell>Surat</cell><cell rend="num">27,217</cell><cell rend="num">24,495,300</cell><cell rend="num">25·5</cell><cell rend="num">9,60,600</cell></row>
+        <row role="data"><cell>Khandeish</cell><cell rend="num">711,447</cell><cell rend="num">640,302,300</cell><cell rend="num">27·6</cell><cell rend="num">2,31,99,359</cell></row>
         <row role="data"><cell>Tanna</cell><cell>......</cell><cell>......</cell><cell>....</cell><cell>........</cell></row>
         <row role="data" rend="subtotal"><cell>Total</cell><cell rend="num">1,018,870</cell><cell>......</cell><cell>....</cell><cell rend="num">3,21,50,323</cell></row>
         <row role="data" rend="header"><cell></cell><cell></cell><cell>(850 lbs. per Acre.)</cell><cell></cell><cell></cell></row>
-        <row role="data"><cell>Poona</cell><cell rend="num">834,325</cell><cell rend="num">709,176,250</cell><cell>34·7</cell><cell rend="num">2,04,37,356</cell></row>
-        <row role="data"><cell>Admednuggur</cell><cell rend="num">1,152,316</cell><cell rend="num">979,468,600</cell><cell>34·3</cell><cell rend="num">2,85,55,936</cell></row>
-        <row role="data"><cell>Kulladghee</cell><cell rend="num">240,165</cell><cell rend="num">204,140,250</cell><cell>64·4<ref xml:id="ref-sec-04-fn-008" type="noteref" target="#sec-04-fn-008">2</ref></cell><cell rend="num">31,69,880</cell></row>
+        <row role="data"><cell>Poona</cell><cell rend="num">834,325</cell><cell rend="num">709,176,250</cell><cell rend="num">34·7</cell><cell rend="num">2,04,37,356</cell></row>
+        <row role="data"><cell>Admednuggur</cell><cell rend="num">1,152,316</cell><cell rend="num">979,468,600</cell><cell rend="num">34·3</cell><cell rend="num">2,85,55,936</cell></row>
+        <row role="data"><cell>Kulladghee</cell><cell rend="num">240,165</cell><cell rend="num">204,140,250</cell><cell rend="num">64·4<ref xml:id="ref-sec-04-fn-008" type="noteref" target="#sec-04-fn-008">2</ref></cell><cell rend="num">31,69,880</cell></row>
         <row role="data"><cell>Rutnagherry</cell><cell>......</cell><cell>......</cell><cell>....</cell><cell>........</cell></row>
-        <row role="data"><cell>Belgaum</cell><cell rend="num">76,228</cell><cell rend="num">64,793,800</cell><cell>59·2</cell><cell rend="num">10,94,489</cell></row>
-        <row role="data"><cell>Dharwar</cell><cell rend="num">14,108</cell><cell rend="num">11,991,800</cell><cell>69·0</cell><cell rend="num">1,73,795</cell></row>
-        <row role="data"><cell>Sattara</cell><cell rend="num">398,573</cell><cell rend="num">338,787,050</cell><cell>52·9</cell><cell rend="num">64,04,292</cell></row>
+        <row role="data"><cell>Belgaum</cell><cell rend="num">76,228</cell><cell rend="num">64,793,800</cell><cell rend="num">59·2</cell><cell rend="num">10,94,489</cell></row>
+        <row role="data"><cell>Dharwar</cell><cell rend="num">14,108</cell><cell rend="num">11,991,800</cell><cell rend="num">69·0</cell><cell rend="num">1,73,795</cell></row>
+        <row role="data"><cell>Sattara</cell><cell rend="num">398,573</cell><cell rend="num">338,787,050</cell><cell rend="num">52·9</cell><cell rend="num">64,04,292</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">2,715,715</cell><cell>......</cell><cell>....</cell><cell rend="num">5,98,35,748</cell></row>
       </table>
             <table xml:id="tbl-016" rows="17" cols="5">
         <head><hi rend="italic">Jowari.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Total Produce (at 900 lbs. per Acre).</cell><cell role="label">Price per 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>Ahmedabad</cell><cell rend="num">119,679</cell><cell rend="num">107,711,100</cell><cell>42·4</cell><cell rend="num">25,40,356</cell></row>
-        <row role="data"><cell>Kaira</cell><cell rend="num">44,536</cell><cell rend="num">40,082,400</cell><cell>42·4</cell><cell rend="num">9,45,339</cell></row>
-        <row role="data"><cell>Surat</cell><cell rend="num">178,839</cell><cell rend="num">160,955,100</cell><cell>27·1</cell><cell rend="num">59,39,302</cell></row>
-        <row role="data"><cell>Khandeish</cell><cell rend="num">465,198</cell><cell rend="num">418,678,200</cell><cell>40·4</cell><cell rend="num">1,03,63,322</cell></row>
-        <row role="data"><cell>Tanna</cell><cell rend="num">10</cell><cell rend="num">9,000</cell><cell>26·8</cell><cell rend="num">336</cell></row>
+        <row role="data"><cell>Ahmedabad</cell><cell rend="num">119,679</cell><cell rend="num">107,711,100</cell><cell rend="num">42·4</cell><cell rend="num">25,40,356</cell></row>
+        <row role="data"><cell>Kaira</cell><cell rend="num">44,536</cell><cell rend="num">40,082,400</cell><cell rend="num">42·4</cell><cell rend="num">9,45,339</cell></row>
+        <row role="data"><cell>Surat</cell><cell rend="num">178,839</cell><cell rend="num">160,955,100</cell><cell rend="num">27·1</cell><cell rend="num">59,39,302</cell></row>
+        <row role="data"><cell>Khandeish</cell><cell rend="num">465,198</cell><cell rend="num">418,678,200</cell><cell rend="num">40·4</cell><cell rend="num">1,03,63,322</cell></row>
+        <row role="data"><cell>Tanna</cell><cell rend="num">10</cell><cell rend="num">9,000</cell><cell rend="num">26·8</cell><cell rend="num">336</cell></row>
         <row role="data" rend="subtotal"><cell>Total</cell><cell rend="num">808,262</cell><cell>......</cell><cell>....</cell><cell rend="num">1,97,88,655</cell></row>
         <row role="data" rend="header"><cell></cell><cell></cell><cell>(850 lbs. per Acre.)</cell><cell></cell><cell></cell></row>
-        <row role="data"><cell>Poona</cell><cell rend="num">1,487,816</cell><cell rend="num">1,264,643,600</cell><cell>49·5</cell><cell rend="num">2,55,48,355</cell></row>
-        <row role="data"><cell>Ahmednuggur</cell><cell rend="num">852,232</cell><cell rend="num">724,397,200</cell><cell>45·6</cell><cell rend="num">1,58,85,903</cell></row>
-        <row role="data"><cell>Kulladghee</cell><cell rend="num">1,162,582</cell><cell rend="num">988,194,700</cell><cell>70·0</cell><cell rend="num">1,41,17,060</cell></row>
+        <row role="data"><cell>Poona</cell><cell rend="num">1,487,816</cell><cell rend="num">1,264,643,600</cell><cell rend="num">49·5</cell><cell rend="num">2,55,48,355</cell></row>
+        <row role="data"><cell>Ahmednuggur</cell><cell rend="num">852,232</cell><cell rend="num">724,397,200</cell><cell rend="num">45·6</cell><cell rend="num">1,58,85,903</cell></row>
+        <row role="data"><cell>Kulladghee</cell><cell rend="num">1,162,582</cell><cell rend="num">988,194,700</cell><cell rend="num">70·0</cell><cell rend="num">1,41,17,060</cell></row>
         <row role="data"><cell>Rutnagherry</cell><cell>......</cell><cell>......</cell><cell>....</cell><cell>........</cell></row>
-        <row role="data"><cell>Belgaum</cell><cell rend="num">426,542</cell><cell rend="num">362,560,700</cell><cell>66·0</cell><cell rend="num">54,93,344</cell></row>
-        <row role="data"><cell>Dharwar</cell><cell rend="num">511,389</cell><cell rend="num">434,680,650</cell><cell>83·8</cell><cell rend="num">51,87,120</cell></row>
-        <row role="data"><cell>Sattara</cell><cell rend="num">465,509</cell><cell rend="num">395,682,650</cell><cell>52·6</cell><cell rend="num">75,22,487</cell></row>
+        <row role="data"><cell>Belgaum</cell><cell rend="num">426,542</cell><cell rend="num">362,560,700</cell><cell rend="num">66·0</cell><cell rend="num">54,93,344</cell></row>
+        <row role="data"><cell>Dharwar</cell><cell rend="num">511,389</cell><cell rend="num">434,680,650</cell><cell rend="num">83·8</cell><cell rend="num">51,87,120</cell></row>
+        <row role="data"><cell>Sattara</cell><cell rend="num">465,509</cell><cell rend="num">395,682,650</cell><cell rend="num">52·6</cell><cell rend="num">75,22,487</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">4,906,070</cell><cell>......</cell><cell>....</cell><cell rend="num">7,37,54,269</cell></row>
       </table>
             <pb xml:id="page-41" n="21" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n40_w1400.jpg"/>
@@ -565,20 +565,20 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="italic">Rice.</hi></head>
         <row role="label"><cell role="label">Collectorates.</cell><cell role="label">Cultivated Area.</cell><cell role="label">Total Produce (at 900 lbs. per Acre.)</cell><cell role="label">2nd Sort, price per 1 Re.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">Acres.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>Ahmedabad</cell><cell rend="num">31,902</cell><cell rend="num">28,711,800</cell><cell>14·0</cell><cell rend="num">20,50,843</cell></row>
-        <row role="data"><cell>Kaira.</cell><cell rend="num">51,443</cell><cell rend="num">46,298,700</cell><cell>12·2</cell><cell rend="num">37,94,975</cell></row>
-        <row role="data"><cell>Surat.</cell><cell rend="num">108,348</cell><cell rend="num">97,513,200</cell><cell>11·27</cell><cell rend="num">86,52,458</cell></row>
-        <row role="data"><cell>Khandeish.</cell><cell rend="num">12,081</cell><cell rend="num">10,872,900</cell><cell>20·1</cell><cell rend="num">5,40,940<ref xml:id="ref-sec-04-fn-009" type="noteref" target="#sec-04-fn-009">1</ref></cell></row>
-        <row role="data"><cell>Tanna</cell><cell rend="num">468,499</cell><cell rend="num">421,649,100</cell><cell>20·1<ref xml:id="ref-sec-04-fn-010" type="noteref" target="#sec-04-fn-010">2</ref></cell><cell rend="num">2,09,77,567</cell></row>
+        <row role="data"><cell>Ahmedabad</cell><cell rend="num">31,902</cell><cell rend="num">28,711,800</cell><cell rend="num">14·0</cell><cell rend="num">20,50,843</cell></row>
+        <row role="data"><cell>Kaira.</cell><cell rend="num">51,443</cell><cell rend="num">46,298,700</cell><cell rend="num">12·2</cell><cell rend="num">37,94,975</cell></row>
+        <row role="data"><cell>Surat.</cell><cell rend="num">108,348</cell><cell rend="num">97,513,200</cell><cell rend="num">11·27</cell><cell rend="num">86,52,458</cell></row>
+        <row role="data"><cell>Khandeish.</cell><cell rend="num">12,081</cell><cell rend="num">10,872,900</cell><cell rend="num">20·1</cell><cell rend="num">5,40,940<ref xml:id="ref-sec-04-fn-009" type="noteref" target="#sec-04-fn-009">1</ref></cell></row>
+        <row role="data"><cell>Tanna</cell><cell rend="num">468,499</cell><cell rend="num">421,649,100</cell><cell rend="num">20·1<ref xml:id="ref-sec-04-fn-010" type="noteref" target="#sec-04-fn-010">2</ref></cell><cell rend="num">2,09,77,567</cell></row>
         <row role="data" rend="subtotal"><cell>Total.</cell><cell rend="num">672,273</cell><cell rend="num">605,045,700</cell><cell>...</cell><cell rend="num">3,60,16,783</cell></row>
         <row role="label" rend="subheader"><cell></cell><cell></cell><cell>(850 lbs. per Acre.)</cell><cell></cell><cell></cell></row>
-        <row role="data"><cell>Poona</cell><cell rend="num">108,643</cell><cell rend="num">92,346,550</cell><cell>22·2</cell><cell rend="num">41,59,754</cell></row>
-        <row role="data"><cell>Ahmednuggur.</cell><cell rend="num">28,922</cell><cell rend="num">24,583,700</cell><cell>12·3</cell><cell rend="num">19,98,674</cell></row>
-        <row role="data"><cell>Kulladghee.</cell><cell rend="num">5,496</cell><cell rend="num">4,671,600</cell><cell>20·9</cell><cell rend="num">2,23,521</cell></row>
-        <row role="data"><cell>Rutnagherry</cell><cell rend="num">130,403</cell><cell>221,685,100 (1,700 lbs. per Acre.)</cell><cell>27·0</cell><cell rend="num">82,10,559</cell></row>
-        <row role="data"><cell>Belgaum</cell><cell rend="num">70,889</cell><cell rend="num">60,255,650</cell><cell>29·0</cell><cell rend="num">20,77,781</cell></row>
-        <row role="data"><cell>Dharwar</cell><cell rend="num">91,840</cell><cell rend="num">78,064,000</cell><cell>27·1</cell><cell rend="num">28,80,590</cell></row>
-        <row role="data"><cell>Sattara</cell><cell rend="num">67,820</cell><cell rend="num">57,647,000</cell><cell>22·4</cell><cell rend="num">25,73,527</cell></row>
+        <row role="data"><cell>Poona</cell><cell rend="num">108,643</cell><cell rend="num">92,346,550</cell><cell rend="num">22·2</cell><cell rend="num">41,59,754</cell></row>
+        <row role="data"><cell>Ahmednuggur.</cell><cell rend="num">28,922</cell><cell rend="num">24,583,700</cell><cell rend="num">12·3</cell><cell rend="num">19,98,674</cell></row>
+        <row role="data"><cell>Kulladghee.</cell><cell rend="num">5,496</cell><cell rend="num">4,671,600</cell><cell rend="num">20·9</cell><cell rend="num">2,23,521</cell></row>
+        <row role="data"><cell>Rutnagherry</cell><cell rend="num">130,403</cell><cell>221,685,100 (1,700 lbs. per Acre.)</cell><cell rend="num">27·0</cell><cell rend="num">82,10,559</cell></row>
+        <row role="data"><cell>Belgaum</cell><cell rend="num">70,889</cell><cell rend="num">60,255,650</cell><cell rend="num">29·0</cell><cell rend="num">20,77,781</cell></row>
+        <row role="data"><cell>Dharwar</cell><cell rend="num">91,840</cell><cell rend="num">78,064,000</cell><cell rend="num">27·1</cell><cell rend="num">28,80,590</cell></row>
+        <row role="data"><cell>Sattara</cell><cell rend="num">67,820</cell><cell rend="num">57,647,000</cell><cell rend="num">22·4</cell><cell rend="num">25,73,527</cell></row>
         <row role="data" rend="total"><cell>Total.</cell><cell rend="num">504,013</cell><cell rend="num">539,253,600</cell><cell>...</cell><cell rend="num">2,21,24,406</cell></row>
       </table>
             <table xml:id="tbl-018" rows="4" cols="6">
@@ -659,14 +659,14 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <table xml:id="tbl-023" rows="10" cols="4">
         <row role="label"><cell role="label" cols="2">Rice Diet for One Man.</cell><cell role="label" cols="2">For Flour Diet</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label">ozs.</cell><cell role="label"></cell><cell role="label">ozs.</cell></row>
-        <row role="data"><cell>Rice</cell><cell>20·0</cell><cell>Flour</cell><cell>16·0</cell></row>
-        <row role="data"><cell>Dhal</cell><cell>6·0</cell><cell>Dhal.</cell><cell>4·0</cell></row>
-        <row role="data"><cell>Preserved Mutton</cell><cell>2·5</cell><cell>Preserved Mutton</cell><cell>2·5</cell></row>
-        <row role="data"><cell>Vegetables</cell><cell>4·27</cell><cell>Vegetables</cell><cell>4·27</cell></row>
-        <row role="data"><cell>Ghee</cell><cell>1·0</cell><cell>Ghee</cell><cell>1·5</cell></row>
-        <row role="data"><cell>Mustard Oil</cell><cell>0·5</cell><cell>Mustard Oil</cell><cell>0·5</cell></row>
-        <row role="data"><cell>Salt</cell><cell>1·0</cell><cell>Salt</cell><cell>1·0</cell></row>
-        <row role="data" rend="total"><cell>Total</cell><cell>35·27</cell><cell>Total</cell><cell>29·77</cell></row>
+        <row role="data"><cell>Rice</cell><cell rend="num">20·0</cell><cell>Flour</cell><cell rend="num">16·0</cell></row>
+        <row role="data"><cell>Dhal</cell><cell rend="num">6·0</cell><cell>Dhal.</cell><cell rend="num">4·0</cell></row>
+        <row role="data"><cell>Preserved Mutton</cell><cell rend="num">2·5</cell><cell>Preserved Mutton</cell><cell rend="num">2·5</cell></row>
+        <row role="data"><cell>Vegetables</cell><cell rend="num">4·27</cell><cell>Vegetables</cell><cell rend="num">4·27</cell></row>
+        <row role="data"><cell>Ghee</cell><cell rend="num">1·0</cell><cell>Ghee</cell><cell rend="num">1·5</cell></row>
+        <row role="data"><cell>Mustard Oil</cell><cell rend="num">0·5</cell><cell>Mustard Oil</cell><cell rend="num">0·5</cell></row>
+        <row role="data"><cell>Salt</cell><cell rend="num">1·0</cell><cell>Salt</cell><cell rend="num">1·0</cell></row>
+        <row role="data" rend="total"><cell>Total</cell><cell rend="num">35·27</cell><cell>Total</cell><cell rend="num">29·77</cell></row>
       </table>
             <pb xml:id="page-46" n="26" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n45_w1400.jpg"/>
             <p>The administration report of Bengal for 1870-1 gives in appendix II D<hi rend="sub">2</hi>, the following “scale of provision for ships carrying Indian emigrants to British and foreign colonies west of the Cape of Good Hope.”</p>
@@ -815,7 +815,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <table xml:id="tbl-033" rows="3" cols="5">
         <row role="label"><cell role="label" cols="2">Males.</cell><cell role="label" cols="2">Females.</cell><cell role="label" rows="2"></cell></row>
         <row role="label"><cell role="label">Not exceeding 12 Years.</cell><cell role="label">Above 12 Years.</cell><cell role="label">Not exceeding 12 Years.</cell><cell role="label">Above 12 Years.</cell></row>
-        <row role="data"><cell>18·8</cell><cell>31·3</cell><cell>15·7</cell><cell>34·2</cell><cell>The Census of the N.W. Provinces gives nearly the same result. Above 12 years, adults, 64·4 per cent.; under 12, 35·6 per cent. (See Administration Report for 1871—72, page 55; Census Report, vol. 1, page 31.)</cell></row>
+        <row role="data"><cell rend="num">18·8</cell><cell rend="num">31·3</cell><cell rend="num">15·7</cell><cell rend="num">34·2</cell><cell>The Census of the N.W. Provinces gives nearly the same result. Above 12 years, adults, 64·4 per cent.; under 12, 35·6 per cent. (See Administration Report for 1871—72, page 55; Census Report, vol. 1, page 31.)</cell></row>
       </table>
             <pb xml:id="page-51" n="31" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n50_w1400.jpg"/>
             <p>The total adults, that is, above 12 years, are 65·5 per cent., and infants or children under 12 years, 34·5 per cent., which gives the proportion of two adults to each child, or one child to every three persons.</p>
@@ -823,8 +823,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <div type="subsection" n="h2">
             <head><hi rend="smallcaps">Production Compared with Cost of Living.</hi></head>
             <p>From taking the cost of adults per head to be <hi rend="italic">a</hi>, and cost of the mass per head to be <hi rend="italic">x</hi>, and supposing that, out of 34 per cent. of children under 12, only 17 per cent. cost anything, say one-half of the adult (though the Bengal provision is half for children from two to ten years), while the other 17 cost nothing at all, the problem will be—</p>
-            <p>66<hi rend="italic">a</hi> + 17 <hi rend="italic"><hi rend="sup">a</hi></hi>/<hi rend="sub">2</hi> + 17 × 0 = 100<hi rend="italic">x x</hi> = <hi rend="sup">74½<hi rend="italic">a</hi></hi>/<hi rend="sub">100</hi>, or say <hi rend="sup">75<hi rend="italic">a</hi></hi>/<hi rend="sub">100</hi> or ¾<hi rend="italic">a</hi>;</p>
-            <p><hi rend="italic">i.e.</hi>, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of three persons in the jail, or of three adults to four persons outside, or of the mass, it comes to this :—</p>
+            <p>66<hi rend="italic">a</hi> + 17 <hi rend="italic"><hi rend="sup">a</hi></hi>/<hi rend="sub">2</hi> + 17 × 0 = 100<hi rend="italic">x x</hi> = <hi rend="sup">74½<hi rend="italic">a</hi></hi>/<hi rend="sub">100</hi>, or say <hi rend="sup">75<hi rend="italic">a</hi></hi>/<hi rend="sub">100</hi> or ¾<hi rend="italic">a</hi>; <hi rend="italic">i.e.</hi>, the cost outside jail, or for the whole mass per head, will be about three-fourths of inside the jail, allowing the jail for adults only. Thus, taking the cost of three persons in the jail, or of three adults to four persons outside, or of the mass, it comes to this :—</p>
             <table xml:id="tbl-034" rows="8" cols="2">
         <row role="label"><cell role="label">Production per Head.</cell><cell role="label">Three-fourths of Jail Cost of Living, or Cost per head outside Jail.</cell></row>
         <row role="data"><cell>Central Provinces Rs. 21¾ or say Rs. 22</cell><cell rend="num">Rs. 23</cell></row>
@@ -1322,7 +1321,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Contrast these with the prices in 1867-68 :—</p>
             <table xml:id="tbl-056" rows="4" cols="3">
         <row role="label"><cell role="label"></cell><cell role="label">Nov. 1867. Seers.</cell><cell role="label">Nov. 1868. Seers.</cell></row>
-        <row role="data"><cell>2nd Sort Rice</cell><cell>14·40</cell><cell>13·9</cell></row>
+        <row role="data"><cell>2nd Sort Rice</cell><cell rend="num">14·40</cell><cell rend="num">13·9</cell></row>
         <row role="data"><cell>Bajri.</cell><cell rend="num">24</cell><cell rend="num">26</cell></row>
         <row role="data"><cell>Jowari</cell><cell rend="num">28</cell><cell rend="num">35</cell></row>
       </table>
@@ -1340,8 +1339,8 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <table xml:id="tbl-057" rows="4" cols="3">
         <head><hi rend="italic">Rice, best sort.</hi></head>
         <row role="label"><cell role="label"></cell><cell role="label">Seers.</cell><cell role="label"></cell></row>
-        <row role="data"><cell>Present fortnight</cell><cell>7·4</cell><cell>= 16·28 lbs. less than 14s. per cwt.</cell></row>
-        <row role="data"><cell>Previous „</cell><cell>6·8</cell><cell>= 15 „ „ 15s. „</cell></row>
+        <row role="data"><cell>Present fortnight</cell><cell rend="num">7·4</cell><cell>= 16·28 lbs. less than 14s. per cwt.</cell></row>
+        <row role="data"><cell>Previous „</cell><cell rend="num">6·8</cell><cell>= 15 „ „ 15s. „</cell></row>
         <row role="data"><cell>Rice, Common</cell><cell rend="num">10</cell><cell>= 22 „ „ 10s. „</cell></row>
       </table>
             <p>The average between the highest and lowest prices will be about 12s. 6d. per cwt., when in 1812-13 this is 15s. 4½d.</p>
@@ -1749,8 +1748,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell><hi rend="italic">2nd Class</hi> Sub-Assistant Surgeon between 7 and 14 years’ service</cell><cell rend="num">,, 150</cell><cell rend="num">,, 150</cell><cell rend="num">,, 300</cell></row>
         <row role="data"><cell><hi rend="italic">1st Class</hi> Sub-Assistant Surgeon after 14 years’ service till the end of his service</cell><cell rend="num">,, 200</cell><cell rend="num">,, 150</cell><cell rend="num">,, 350</cell></row>
       </table>
-            <p>(5) A sub-assistant surgeon cannot become an honorary assistant surgeon. During the course of the last 23 years, during which the class of sub-assistant surgeons is in existence, no</p>
-            <p>is stated that the apprentices attend the same class-lectures for three years as the students proper. This arrangement is adopted in the College as the Professors cannot give separate course to the students and to the apprentices. But the amount of knowledge required at the final examination of the apprentices at the end of three years is much smaller than the knowledge required at the final examination of the students proper at the end of five years.</p>
+            <p>(5) A sub-assistant surgeon cannot become an honorary assistant surgeon. During the course of the last 23 years, during which the class of sub-assistant surgeons is in existence, no is stated that the apprentices attend the same class-lectures for three years as the students proper. This arrangement is adopted in the College as the Professors cannot give separate course to the students and to the apprentices. But the amount of knowledge required at the final examination of the apprentices at the end of three years is much smaller than the knowledge required at the final examination of the students proper at the end of five years.</p>
             <p>(4) The “passed hospital apprentices” then go on with their regimental duties, and are promoted in the following order, till they reach the grade of senior apothecary :—</p>
             <table xml:id="tbl-076" rows="7" cols="2">
         <row role="label"><cell role="label"></cell><cell role="label">Rs.</cell></row>
@@ -2114,38 +2112,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="smallcaps">Rice.</hi></head>
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>1 Delhi</cell><cell rend="num">27,900</cell><cell rend="num">920</cell><cell rend="num">25,668,000</cell><cell>13·71</cell><cell rend="num">18,72,210</cell></row>
-        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">1,591</cell><cell rend="num">720</cell><cell rend="num">1,145,520</cell><cell>19·2</cell><cell rend="num">59,662</cell></row>
-        <row role="data"><cell>3 Karnál</cell><cell rend="num">53,113</cell><cell rend="num">1,152</cell><cell rend="num">61,186,176</cell><cell>21·94</cell><cell rend="num">27,88,795</cell></row>
-        <row role="data"><cell>4 Hissar</cell><cell rend="num">10,506</cell><cell rend="num">745</cell><cell rend="num">7,826,970</cell><cell>23·31</cell><cell rend="num">3,35,777</cell></row>
-        <row role="data"><cell>5 Rohtak</cell><cell rend="num">5,326</cell><cell rend="num">670</cell><cell rend="num">3,568,420</cell><cell>25·37</cell><cell rend="num">1,40,655</cell></row>
-        <row role="data"><cell>6 Sirsa</cell><cell rend="num">8,285</cell><cell rend="num">869</cell><cell rend="num">7,199,665</cell><cell>21·94</cell><cell rend="num">3,28,152</cell></row>
-        <row role="data"><cell>7 Umballa</cell><cell rend="num">117,941</cell><cell rend="num">880</cell><cell rend="num">103,788,080</cell><cell>19·88</cell><cell rend="num">52,20,728</cell></row>
-        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">3,963</cell><cell rend="num">1,096</cell><cell rend="num">4,343,448</cell><cell>16·45</cell><cell rend="num">2,64,039</cell></row>
-        <row role="data"><cell>9 Simla</cell><cell rend="num">1,875</cell><cell rend="num">620</cell><cell rend="num">1,162,500</cell><cell>18·51</cell><cell rend="num">62,804</cell></row>
-        <row role="data"><cell>10 Jullundar</cell><cell rend="num">9,192</cell><cell rend="num">1,085</cell><cell rend="num">9,973,320</cell><cell>16·45</cell><cell rend="num">6,06,281</cell></row>
-        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">28,835</cell><cell rend="num">752</cell><cell rend="num">21,683,920</cell><cell>17·82</cell><cell rend="num">12,16,830</cell></row>
-        <row role="data"><cell>12 Kángra</cell><cell rend="num">147,766</cell><cell rend="num">415</cell><cell rend="num">61,322,890</cell><cell>29·48</cell><cell rend="num">20,80,152</cell></row>
-        <row role="data"><cell>13 Amritsar</cell><cell rend="num">20,128</cell><cell rend="num">974</cell><cell rend="num">19,604,672</cell><cell>18·51</cell><cell rend="num">10,59,139</cell></row>
-        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">81,583</cell><cell rend="num">755</cell><cell rend="num">61,595,165</cell><cell>15·77</cell><cell rend="num">39,05,844</cell></row>
-        <row role="data"><cell>15 Siálkot</cell><cell rend="num">74,100</cell><cell rend="num">1,029</cell><cell rend="num">76,248,900</cell><cell>30·85</cell><cell rend="num">24,71,601</cell></row>
-        <row role="data"><cell>16 Lahore</cell><cell rend="num">22,415</cell><cell rend="num">861</cell><cell rend="num">19,299,315</cell><cell>30·17</cell><cell rend="num">6,39,685</cell></row>
-        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">9,925</cell><cell rend="num">759</cell><cell rend="num">7,533,075</cell><cell>19·88</cell><cell rend="num">3,78,927</cell></row>
-        <row role="data"><cell>18 Firozepore</cell><cell rend="num">6,543</cell><cell rend="num">795</cell><cell rend="num">5,201,685</cell><cell>20·91</cell><cell rend="num">2,48,765</cell></row>
-        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">1,093</cell><cell rend="num">970</cell><cell rend="num">1,060,210</cell><cell>12·34</cell><cell rend="num">85,916</cell></row>
-        <row role="data"><cell>20 Jhelum</cell><cell rend="num">233</cell><cell rend="num">943</cell><cell rend="num">219,719</cell><cell>11·65</cell><cell rend="num">18,860</cell></row>
-        <row role="data"><cell>21 Gujrát</cell><cell rend="num">6,969</cell><cell rend="num">586</cell><cell rend="num">4,083,834</cell><cell>17·82</cell><cell rend="num">2,29,171</cell></row>
-        <row role="data"><cell>22 Shahpur</cell><cell rend="num">990</cell><cell rend="num">790</cell><cell rend="num">782,100</cell><cell>22·63</cell><cell rend="num">34,560</cell></row>
-        <row role="data"><cell>23 Mooltan</cell><cell rend="num">9,800</cell><cell rend="num">750</cell><cell rend="num">7,350,000</cell><cell>13·71</cell><cell rend="num">5,36,105</cell></row>
-        <row role="data"><cell>24 Jhang</cell><cell rend="num">127</cell><cell rend="num">281</cell><cell rend="num">35,687</cell><cell>13·71</cell><cell rend="num">2,603</cell></row>
-        <row role="data"><cell>25 Montgomery</cell><cell rend="num">7,870</cell><cell rend="num">1,145</cell><cell rend="num">9,011,150</cell><cell>13·71</cell><cell rend="num">6,57,268</cell></row>
-        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">10,178</cell><cell rend="num">852</cell><cell rend="num">8,671,656</cell><cell>16·45</cell><cell rend="num">5,27,152</cell></row>
-        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">1,366</cell><cell rend="num">196</cell><cell rend="num">267,736</cell><cell>12·85</cell><cell rend="num">20,835</cell></row>
-        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">14,001</cell><cell rend="num">513</cell><cell rend="num">7,182,513</cell><cell>18·</cell><cell rend="num">3,99,028</cell></row>
-        <row role="data"><cell>29 Bannu</cell><cell rend="num">125</cell><cell rend="num">880</cell><cell rend="num">110,000</cell><cell>12·85</cell><cell rend="num">8,560</cell></row>
-        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">10,325</cell><cell rend="num">894</cell><cell rend="num">9,230,550</cell><cell>13·45</cell><cell rend="num">6,86,286</cell></row>
-        <row role="data"><cell>31 Hazára</cell><cell rend="num">12,274</cell><cell rend="num">1,152</cell><cell rend="num">14,139,648</cell><cell>28·8</cell><cell rend="num">4,90,960</cell></row>
-        <row role="data"><cell>32 Kohát</cell><cell rend="num">2,361</cell><cell rend="num">1,507</cell><cell rend="num">3,558,027</cell><cell>14·83</cell><cell rend="num">2,39,920</cell></row>
+        <row role="data"><cell>1 Delhi</cell><cell rend="num">27,900</cell><cell rend="num">920</cell><cell rend="num">25,668,000</cell><cell rend="num">13·71</cell><cell rend="num">18,72,210</cell></row>
+        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">1,591</cell><cell rend="num">720</cell><cell rend="num">1,145,520</cell><cell rend="num">19·2</cell><cell rend="num">59,662</cell></row>
+        <row role="data"><cell>3 Karnál</cell><cell rend="num">53,113</cell><cell rend="num">1,152</cell><cell rend="num">61,186,176</cell><cell rend="num">21·94</cell><cell rend="num">27,88,795</cell></row>
+        <row role="data"><cell>4 Hissar</cell><cell rend="num">10,506</cell><cell rend="num">745</cell><cell rend="num">7,826,970</cell><cell rend="num">23·31</cell><cell rend="num">3,35,777</cell></row>
+        <row role="data"><cell>5 Rohtak</cell><cell rend="num">5,326</cell><cell rend="num">670</cell><cell rend="num">3,568,420</cell><cell rend="num">25·37</cell><cell rend="num">1,40,655</cell></row>
+        <row role="data"><cell>6 Sirsa</cell><cell rend="num">8,285</cell><cell rend="num">869</cell><cell rend="num">7,199,665</cell><cell rend="num">21·94</cell><cell rend="num">3,28,152</cell></row>
+        <row role="data"><cell>7 Umballa</cell><cell rend="num">117,941</cell><cell rend="num">880</cell><cell rend="num">103,788,080</cell><cell rend="num">19·88</cell><cell rend="num">52,20,728</cell></row>
+        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">3,963</cell><cell rend="num">1,096</cell><cell rend="num">4,343,448</cell><cell rend="num">16·45</cell><cell rend="num">2,64,039</cell></row>
+        <row role="data"><cell>9 Simla</cell><cell rend="num">1,875</cell><cell rend="num">620</cell><cell rend="num">1,162,500</cell><cell rend="num">18·51</cell><cell rend="num">62,804</cell></row>
+        <row role="data"><cell>10 Jullundar</cell><cell rend="num">9,192</cell><cell rend="num">1,085</cell><cell rend="num">9,973,320</cell><cell rend="num">16·45</cell><cell rend="num">6,06,281</cell></row>
+        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">28,835</cell><cell rend="num">752</cell><cell rend="num">21,683,920</cell><cell rend="num">17·82</cell><cell rend="num">12,16,830</cell></row>
+        <row role="data"><cell>12 Kángra</cell><cell rend="num">147,766</cell><cell rend="num">415</cell><cell rend="num">61,322,890</cell><cell rend="num">29·48</cell><cell rend="num">20,80,152</cell></row>
+        <row role="data"><cell>13 Amritsar</cell><cell rend="num">20,128</cell><cell rend="num">974</cell><cell rend="num">19,604,672</cell><cell rend="num">18·51</cell><cell rend="num">10,59,139</cell></row>
+        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">81,583</cell><cell rend="num">755</cell><cell rend="num">61,595,165</cell><cell rend="num">15·77</cell><cell rend="num">39,05,844</cell></row>
+        <row role="data"><cell>15 Siálkot</cell><cell rend="num">74,100</cell><cell rend="num">1,029</cell><cell rend="num">76,248,900</cell><cell rend="num">30·85</cell><cell rend="num">24,71,601</cell></row>
+        <row role="data"><cell>16 Lahore</cell><cell rend="num">22,415</cell><cell rend="num">861</cell><cell rend="num">19,299,315</cell><cell rend="num">30·17</cell><cell rend="num">6,39,685</cell></row>
+        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">9,925</cell><cell rend="num">759</cell><cell rend="num">7,533,075</cell><cell rend="num">19·88</cell><cell rend="num">3,78,927</cell></row>
+        <row role="data"><cell>18 Firozepore</cell><cell rend="num">6,543</cell><cell rend="num">795</cell><cell rend="num">5,201,685</cell><cell rend="num">20·91</cell><cell rend="num">2,48,765</cell></row>
+        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">1,093</cell><cell rend="num">970</cell><cell rend="num">1,060,210</cell><cell rend="num">12·34</cell><cell rend="num">85,916</cell></row>
+        <row role="data"><cell>20 Jhelum</cell><cell rend="num">233</cell><cell rend="num">943</cell><cell rend="num">219,719</cell><cell rend="num">11·65</cell><cell rend="num">18,860</cell></row>
+        <row role="data"><cell>21 Gujrát</cell><cell rend="num">6,969</cell><cell rend="num">586</cell><cell rend="num">4,083,834</cell><cell rend="num">17·82</cell><cell rend="num">2,29,171</cell></row>
+        <row role="data"><cell>22 Shahpur</cell><cell rend="num">990</cell><cell rend="num">790</cell><cell rend="num">782,100</cell><cell rend="num">22·63</cell><cell rend="num">34,560</cell></row>
+        <row role="data"><cell>23 Mooltan</cell><cell rend="num">9,800</cell><cell rend="num">750</cell><cell rend="num">7,350,000</cell><cell rend="num">13·71</cell><cell rend="num">5,36,105</cell></row>
+        <row role="data"><cell>24 Jhang</cell><cell rend="num">127</cell><cell rend="num">281</cell><cell rend="num">35,687</cell><cell rend="num">13·71</cell><cell rend="num">2,603</cell></row>
+        <row role="data"><cell>25 Montgomery</cell><cell rend="num">7,870</cell><cell rend="num">1,145</cell><cell rend="num">9,011,150</cell><cell rend="num">13·71</cell><cell rend="num">6,57,268</cell></row>
+        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">10,178</cell><cell rend="num">852</cell><cell rend="num">8,671,656</cell><cell rend="num">16·45</cell><cell rend="num">5,27,152</cell></row>
+        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">1,366</cell><cell rend="num">196</cell><cell rend="num">267,736</cell><cell rend="num">12·85</cell><cell rend="num">20,835</cell></row>
+        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">14,001</cell><cell rend="num">513</cell><cell rend="num">7,182,513</cell><cell rend="num">18·</cell><cell rend="num">3,99,028</cell></row>
+        <row role="data"><cell>29 Bannu</cell><cell rend="num">125</cell><cell rend="num">880</cell><cell rend="num">110,000</cell><cell rend="num">12·85</cell><cell rend="num">8,560</cell></row>
+        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">10,325</cell><cell rend="num">894</cell><cell rend="num">9,230,550</cell><cell rend="num">13·45</cell><cell rend="num">6,86,286</cell></row>
+        <row role="data"><cell>31 Hazára</cell><cell rend="num">12,274</cell><cell rend="num">1,152</cell><cell rend="num">14,139,648</cell><cell rend="num">28·8</cell><cell rend="num">4,90,960</cell></row>
+        <row role="data"><cell>32 Kohát</cell><cell rend="num">2,361</cell><cell rend="num">1,507</cell><cell rend="num">3,558,027</cell><cell rend="num">14·83</cell><cell rend="num">2,39,920</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">708,699</cell><cell>Average 796</cell><cell rend="num">564,054,551</cell><cell>Average 20·42</cell><cell rend="num">2,76,17,270</cell></row>
       </table>
             <p>I take produce of rice as 25-fold, and deduct 4 per cent. for seed. The quantity will then become 541,492,369 lbs., and value Rs. 2,65,12,580. Again, the price of rice given in the Report is for “first sort” only. The medium or second sort forms the bulk, and there is a lower sort still. The second sort is generally about 75 per cent. of the first sort. I take upon the whole 85 per cent. The value, then, for the whole bulk will be Rs. 2,25,35,693.</p>
@@ -2195,38 +2193,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="smallcaps">Makai (Indian Corn).</hi></head>
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>1 Delhi</cell><cell rend="num">13,900</cell><cell rend="num">1,500</cell><cell rend="num">20,850,000</cell><cell>72·</cell><cell rend="num">2,89,583</cell></row>
-        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">1,344</cell><cell>„</cell><cell rend="num">2,016,000</cell><cell>75·42</cell><cell rend="num">26,730</cell></row>
-        <row role="data"><cell>3 Karnál</cell><cell rend="num">6,215</cell><cell>„</cell><cell rend="num">9,322,500</cell><cell>67·19</cell><cell rend="num">1,38,748</cell></row>
-        <row role="data"><cell>4 Hissar</cell><cell rend="num">89</cell><cell>„</cell><cell rend="num">133,500</cell><cell>51·42</cell><cell rend="num">2,596</cell></row>
+        <row role="data"><cell>1 Delhi</cell><cell rend="num">13,900</cell><cell rend="num">1,500</cell><cell rend="num">20,850,000</cell><cell rend="num">72·</cell><cell rend="num">2,89,583</cell></row>
+        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">1,344</cell><cell>„</cell><cell rend="num">2,016,000</cell><cell rend="num">75·42</cell><cell rend="num">26,730</cell></row>
+        <row role="data"><cell>3 Karnál</cell><cell rend="num">6,215</cell><cell>„</cell><cell rend="num">9,322,500</cell><cell rend="num">67·19</cell><cell rend="num">1,38,748</cell></row>
+        <row role="data"><cell>4 Hissar</cell><cell rend="num">89</cell><cell>„</cell><cell rend="num">133,500</cell><cell rend="num">51·42</cell><cell rend="num">2,596</cell></row>
         <row role="data"><cell>5 Rohtak</cell><cell rend="num">73</cell><cell>„</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-002" type="noteref" target="#sec-06-fn-002">2</ref>109,500</cell><cell>..</cell><cell>..</cell></row>
         <row role="data"><cell>6 Sirsa</cell><cell rend="num">466</cell><cell>„</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-002-2" type="noteref" target="#sec-06-fn-002">2</ref>699,000</cell><cell>..</cell><cell>..</cell></row>
-        <row role="data"><cell>7 Umballa</cell><cell rend="num">100,736</cell><cell>„</cell><cell rend="num">151,104,000</cell><cell>62·4</cell><cell rend="num">24,21,538</cell></row>
-        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">62,802</cell><cell>„</cell><cell rend="num">94,203,000</cell><cell>66·51</cell><cell rend="num">14,16,373</cell></row>
-        <row role="data"><cell>9 Simla</cell><cell rend="num">1,282</cell><cell>„</cell><cell rend="num">1,923,000</cell><cell>45·94</cell><cell rend="num">41,859</cell></row>
-        <row role="data"><cell><ref xml:id="ref-sec-06-fn-001" type="noteref" target="#sec-06-fn-001">1</ref>10 Jullundar</cell><cell rend="num">86,392</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-001-2" type="noteref" target="#sec-06-fn-001">1</ref>1,544</cell><cell rend="num">133,389,248</cell><cell>63·08</cell><cell rend="num">21,14,604</cell></row>
-        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">105,651</cell><cell rend="num">1,500</cell><cell rend="num">158,476,500</cell><cell>55·54</cell><cell rend="num">28,53,375</cell></row>
-        <row role="data"><cell>12 Kángra</cell><cell rend="num">65,093</cell><cell>„</cell><cell rend="num">97,639,500</cell><cell>39·77</cell><cell rend="num">24,55,104</cell></row>
-        <row role="data"><cell><ref xml:id="ref-sec-06-fn-001-3" type="noteref" target="#sec-06-fn-001">1</ref>13 Amritsar</cell><cell rend="num">44,426</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-001-4" type="noteref" target="#sec-06-fn-001">1</ref>1,412</cell><cell rend="num">62,729,512</cell><cell>65·14</cell><cell rend="num">9,62,995</cell></row>
-        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">49,977</cell><cell rend="num">1,500</cell><cell rend="num">74,965,500</cell><cell>53·48</cell><cell rend="num">14,01,748</cell></row>
-        <row role="data"><cell>15 Siálkot</cell><cell rend="num">33,000</cell><cell>„</cell><cell rend="num">49,500,000</cell><cell>58·28</cell><cell rend="num">8,49,450</cell></row>
-        <row role="data"><cell>16 Lahore</cell><cell rend="num">34,150</cell><cell>„</cell><cell rend="num">51,225,000</cell><cell>65·82</cell><cell rend="num">7,78,258</cell></row>
-        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">16,535</cell><cell>„</cell><cell rend="num">24,802,500</cell><cell>61·02</cell><cell rend="num">4,06,465</cell></row>
-        <row role="data"><cell>18 Firozepore</cell><cell rend="num">42,428</cell><cell>„</cell><cell rend="num">63,642,000</cell><cell>81·59</cell><cell rend="num">7,80,022</cell></row>
-        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">66,392</cell><cell>„</cell><cell rend="num">99,588,000</cell><cell>94·62</cell><cell rend="num">10,52,504</cell></row>
-        <row role="data"><cell>20 Jhelum</cell><cell rend="num">2,423</cell><cell>„</cell><cell rend="num">3,634,500</cell><cell>64·45</cell><cell rend="num">56,392</cell></row>
-        <row role="data"><cell>21 Gujrát</cell><cell rend="num">16,507</cell><cell>„</cell><cell rend="num">24,760,500</cell><cell>68·57</cell><cell rend="num">3,61,098</cell></row>
-        <row role="data"><cell>22 Shahpur</cell><cell rend="num">884</cell><cell>„</cell><cell rend="num">1,326,000</cell><cell>63·08</cell><cell rend="num">21,020</cell></row>
-        <row role="data"><cell>23 Mooltan</cell><cell rend="num">142</cell><cell>„</cell><cell rend="num">213,000</cell><cell>50·05</cell><cell rend="num">4,255</cell></row>
-        <row role="data"><cell>24 Jhang</cell><cell rend="num">2,317</cell><cell>„</cell><cell rend="num">3,475,500</cell><cell>65·82</cell><cell rend="num">52,803</cell></row>
-        <row role="data"><cell>25 Montgomery.</cell><cell rend="num">2,512</cell><cell>„</cell><cell rend="num">3,768,000</cell><cell>49·37</cell><cell rend="num">76,321</cell></row>
+        <row role="data"><cell>7 Umballa</cell><cell rend="num">100,736</cell><cell>„</cell><cell rend="num">151,104,000</cell><cell rend="num">62·4</cell><cell rend="num">24,21,538</cell></row>
+        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">62,802</cell><cell>„</cell><cell rend="num">94,203,000</cell><cell rend="num">66·51</cell><cell rend="num">14,16,373</cell></row>
+        <row role="data"><cell>9 Simla</cell><cell rend="num">1,282</cell><cell>„</cell><cell rend="num">1,923,000</cell><cell rend="num">45·94</cell><cell rend="num">41,859</cell></row>
+        <row role="data"><cell><ref xml:id="ref-sec-06-fn-001" type="noteref" target="#sec-06-fn-001">1</ref>10 Jullundar</cell><cell rend="num">86,392</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-001-2" type="noteref" target="#sec-06-fn-001">1</ref>1,544</cell><cell rend="num">133,389,248</cell><cell rend="num">63·08</cell><cell rend="num">21,14,604</cell></row>
+        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">105,651</cell><cell rend="num">1,500</cell><cell rend="num">158,476,500</cell><cell rend="num">55·54</cell><cell rend="num">28,53,375</cell></row>
+        <row role="data"><cell>12 Kángra</cell><cell rend="num">65,093</cell><cell>„</cell><cell rend="num">97,639,500</cell><cell rend="num">39·77</cell><cell rend="num">24,55,104</cell></row>
+        <row role="data"><cell><ref xml:id="ref-sec-06-fn-001-3" type="noteref" target="#sec-06-fn-001">1</ref>13 Amritsar</cell><cell rend="num">44,426</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-001-4" type="noteref" target="#sec-06-fn-001">1</ref>1,412</cell><cell rend="num">62,729,512</cell><cell rend="num">65·14</cell><cell rend="num">9,62,995</cell></row>
+        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">49,977</cell><cell rend="num">1,500</cell><cell rend="num">74,965,500</cell><cell rend="num">53·48</cell><cell rend="num">14,01,748</cell></row>
+        <row role="data"><cell>15 Siálkot</cell><cell rend="num">33,000</cell><cell>„</cell><cell rend="num">49,500,000</cell><cell rend="num">58·28</cell><cell rend="num">8,49,450</cell></row>
+        <row role="data"><cell>16 Lahore</cell><cell rend="num">34,150</cell><cell>„</cell><cell rend="num">51,225,000</cell><cell rend="num">65·82</cell><cell rend="num">7,78,258</cell></row>
+        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">16,535</cell><cell>„</cell><cell rend="num">24,802,500</cell><cell rend="num">61·02</cell><cell rend="num">4,06,465</cell></row>
+        <row role="data"><cell>18 Firozepore</cell><cell rend="num">42,428</cell><cell>„</cell><cell rend="num">63,642,000</cell><cell rend="num">81·59</cell><cell rend="num">7,80,022</cell></row>
+        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">66,392</cell><cell>„</cell><cell rend="num">99,588,000</cell><cell rend="num">94·62</cell><cell rend="num">10,52,504</cell></row>
+        <row role="data"><cell>20 Jhelum</cell><cell rend="num">2,423</cell><cell>„</cell><cell rend="num">3,634,500</cell><cell rend="num">64·45</cell><cell rend="num">56,392</cell></row>
+        <row role="data"><cell>21 Gujrát</cell><cell rend="num">16,507</cell><cell>„</cell><cell rend="num">24,760,500</cell><cell rend="num">68·57</cell><cell rend="num">3,61,098</cell></row>
+        <row role="data"><cell>22 Shahpur</cell><cell rend="num">884</cell><cell>„</cell><cell rend="num">1,326,000</cell><cell rend="num">63·08</cell><cell rend="num">21,020</cell></row>
+        <row role="data"><cell>23 Mooltan</cell><cell rend="num">142</cell><cell>„</cell><cell rend="num">213,000</cell><cell rend="num">50·05</cell><cell rend="num">4,255</cell></row>
+        <row role="data"><cell>24 Jhang</cell><cell rend="num">2,317</cell><cell>„</cell><cell rend="num">3,475,500</cell><cell rend="num">65·82</cell><cell rend="num">52,803</cell></row>
+        <row role="data"><cell>25 Montgomery.</cell><cell rend="num">2,512</cell><cell>„</cell><cell rend="num">3,768,000</cell><cell rend="num">49·37</cell><cell rend="num">76,321</cell></row>
         <row role="data"><cell>26 Mazaffargarh</cell><cell>..</cell><cell>..</cell><cell>..</cell><cell>..</cell><cell>..</cell></row>
-        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">17</cell><cell rend="num">1,500</cell><cell rend="num">25,500</cell><cell>90·85</cell><cell rend="num">280</cell></row>
+        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">17</cell><cell rend="num">1,500</cell><cell rend="num">25,500</cell><cell rend="num">90·85</cell><cell rend="num">280</cell></row>
         <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">30</cell><cell>„</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-002-3" type="noteref" target="#sec-06-fn-002">2</ref>45,000</cell><cell>..</cell><cell>..</cell></row>
-        <row role="data"><cell>29 Bannu</cell><cell rend="num">37,069</cell><cell>„</cell><cell rend="num">55,603,500</cell><cell>124·27</cell><cell rend="num">4,47,441</cell></row>
-        <row role="data"><cell>30 Pesháwar.</cell><cell rend="num">80,542</cell><cell>„</cell><cell rend="num">120,813,000</cell><cell>84·42</cell><cell rend="num">14,31,094</cell></row>
-        <row role="data"><cell>31 Hazára</cell><cell rend="num">198,025</cell><cell>„</cell><cell rend="num">297,037,500</cell><cell>95·09</cell><cell rend="num">31,23,751</cell></row>
-        <row role="data"><cell>32 Kohát</cell><cell rend="num">12,920</cell><cell>„</cell><cell rend="num">19,380,000</cell><cell>97·92</cell><cell rend="num">1,97,916</cell></row>
+        <row role="data"><cell>29 Bannu</cell><cell rend="num">37,069</cell><cell>„</cell><cell rend="num">55,603,500</cell><cell rend="num">124·27</cell><cell rend="num">4,47,441</cell></row>
+        <row role="data"><cell>30 Pesháwar.</cell><cell rend="num">80,542</cell><cell>„</cell><cell rend="num">120,813,000</cell><cell rend="num">84·42</cell><cell rend="num">14,31,094</cell></row>
+        <row role="data"><cell>31 Hazára</cell><cell rend="num">198,025</cell><cell>„</cell><cell rend="num">297,037,500</cell><cell rend="num">95·09</cell><cell rend="num">31,23,751</cell></row>
+        <row role="data"><cell>32 Kohát</cell><cell rend="num">12,920</cell><cell>„</cell><cell rend="num">19,380,000</cell><cell rend="num">97·92</cell><cell rend="num">1,97,916</cell></row>
         <row role="data" rend="subtotal"><cell></cell><cell><ref xml:id="ref-sec-06-fn-001-5" type="noteref" target="#sec-06-fn-001">1</ref>130,818 953,521</cell><cell>Average 1,499·17 1,500·</cell><cell>196,118,760 1,430,281,500</cell><cell>Average 68·4 <ref xml:id="ref-sec-06-fn-002-4" type="noteref" target="#sec-06-fn-002">2</ref>add for 853,500 lbs.</cell><cell>2,37,64,323 12,478</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">1,084,339</cell><cell></cell><cell rend="num">1,626,400,260</cell><cell></cell><cell rend="num">2,37,76,801</cell></row>
       </table>
@@ -2276,38 +2274,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="smallcaps">Gram.</hi></head>
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1,</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>1 Delhi</cell><cell rend="num">57,500</cell><cell rend="num">645</cell><cell rend="num">37,087,500</cell><cell>72·</cell><cell rend="num">5,15,104</cell></row>
-        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">101,184</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004" type="noteref" target="#sec-06-fn-004">1</ref>620</cell><cell rend="num">62,734,080</cell><cell>71·65</cell><cell rend="num">8,75,562</cell></row>
-        <row role="data"><cell>3 Karnál</cell><cell rend="num">119,935</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-2" type="noteref" target="#sec-06-fn-004">1</ref>680</cell><cell rend="num">81,555,800</cell><cell>72·34</cell><cell rend="num">11,27,395</cell></row>
-        <row role="data"><cell>4 Hissar</cell><cell rend="num">76,534</cell><cell rend="num">645</cell><cell rend="num">49,364,430</cell><cell>80·22</cell><cell rend="num">6,15,363</cell></row>
-        <row role="data"><cell>5 Rohtak</cell><cell rend="num">119,240</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-3" type="noteref" target="#sec-06-fn-004">1</ref>790</cell><cell rend="num">94,199,600</cell><cell>78·16</cell><cell rend="num">12,05,214</cell></row>
-        <row role="data"><cell>6 Sirsa</cell><cell rend="num">37,762</cell><cell rend="num">645</cell><cell rend="num">24,356,490</cell><cell>102·85</cell><cell rend="num">2,36,815</cell></row>
-        <row role="data"><cell>7 Umballa</cell><cell rend="num">175,094</cell><cell>„</cell><cell rend="num">112,935,630</cell><cell>76·11</cell><cell rend="num">14,83,847</cell></row>
-        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">171,984</cell><cell>„</cell><cell rend="num">110,929,680</cell><cell>77·82</cell><cell rend="num">14,25,464</cell></row>
-        <row role="data"><cell>9 Simla</cell><cell rend="num">5</cell><cell>„</cell><cell rend="num">3,225</cell><cell>51·08</cell><cell rend="num">63</cell></row>
-        <row role="data"><cell>10 Jullundar</cell><cell rend="num">65,158</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-4" type="noteref" target="#sec-06-fn-004">1</ref>1,233</cell><cell rend="num">80,339,814</cell><cell>73·37</cell><cell rend="num">10,94,995</cell></row>
-        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">46,324</cell><cell rend="num">645</cell><cell rend="num">29,878,980</cell><cell>61·02</cell><cell rend="num">4,89,658</cell></row>
-        <row role="data"><cell>12 Kángra</cell><cell rend="num">370,802</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-5" type="noteref" target="#sec-06-fn-004">1</ref>290</cell><cell rend="num">107,532,580</cell><cell>51·08</cell><cell rend="num">21,05,179</cell></row>
-        <row role="data"><cell>13 Amritsar</cell><cell rend="num">103,350</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-6" type="noteref" target="#sec-06-fn-004">1</ref>1,394</cell><cell rend="num">144,069,900</cell><cell>84·</cell><cell rend="num">17,15,117</cell></row>
-        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">31,347</cell><cell rend="num">645</cell><cell rend="num">20,218,815</cell><cell>73·37</cell><cell rend="num">2,75,573</cell></row>
-        <row role="data"><cell>15 Siálkot</cell><cell rend="num">21,500</cell><cell>„</cell><cell rend="num">13,867,500</cell><cell>74·05</cell><cell rend="num">1,87,272</cell></row>
-        <row role="data"><cell>16 Lahore</cell><cell rend="num">171,216</cell><cell>„</cell><cell rend="num">110,434,320</cell><cell>89·82</cell><cell rend="num">12,29,507</cell></row>
-        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">31,682</cell><cell>„</cell><cell rend="num">20,434,890</cell><cell>83·65</cell><cell rend="num">2,44,290</cell></row>
-        <row role="data"><cell>18 Firozepore</cell><cell rend="num">255,898</cell><cell>„</cell><cell rend="num">165,054,210</cell><cell>96·68</cell><cell rend="num">17,07,221</cell></row>
-        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">38,263</cell><cell>„</cell><cell rend="num">24,679,635</cell><cell>76·79</cell><cell rend="num">3,21,391</cell></row>
-        <row role="data"><cell>20 Jhelum</cell><cell rend="num">34,115</cell><cell>„</cell><cell rend="num">22,004,175</cell><cell>65·14</cell><cell rend="num">3,37,798</cell></row>
-        <row role="data"><cell>21 Gujrát</cell><cell rend="num">34,728</cell><cell>„</cell><cell rend="num">22,399,560</cell><cell>68·</cell><cell rend="num">3,08,194</cell></row>
-        <row role="data"><cell>22 Shahpur</cell><cell rend="num">23,817</cell><cell>„</cell><cell rend="num">15,361,965</cell><cell>74·05</cell><cell rend="num">2,07,453</cell></row>
-        <row role="data"><cell>23 Mooltan</cell><cell rend="num">8,404</cell><cell>„</cell><cell rend="num">5,420,580</cell><cell>57·25</cell><cell rend="num">94,682</cell></row>
-        <row role="data"><cell>24 Jhang</cell><cell rend="num">12,026</cell><cell>„</cell><cell rend="num">7,756,770</cell><cell>73·37</cell><cell rend="num">1,05,721</cell></row>
-        <row role="data"><cell>25 Montgomery</cell><cell rend="num">81,616</cell><cell>„</cell><cell rend="num">52,642,320</cell><cell>77·48</cell><cell rend="num">6,79,431</cell></row>
-        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">12,679</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-7" type="noteref" target="#sec-06-fn-004">1</ref>1,942</cell><cell rend="num">24,622,618</cell><cell>55·54</cell><cell rend="num">4,43,331</cell></row>
-        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">11,922</cell><cell rend="num">645</cell><cell rend="num">7,689,690</cell><cell>95·13</cell><cell rend="num">80,833</cell></row>
-        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">1,961</cell><cell>„</cell><cell rend="num">1,264,845</cell><cell>47·74</cell><cell rend="num">26,494</cell></row>
-        <row role="data"><cell>29 Bannu</cell><cell rend="num">53,037</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-8" type="noteref" target="#sec-06-fn-004">1</ref>286</cell><cell rend="num">15,168,582</cell><cell>106·28</cell><cell rend="num">1,42,722</cell></row>
-        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">947</cell><cell rend="num">645</cell><cell rend="num">610,815</cell><cell>44·05</cell><cell rend="num">13,866</cell></row>
-        <row role="data"><cell>31 Hazára</cell><cell rend="num">222</cell><cell>„</cell><cell rend="num">143,190</cell><cell>61·71</cell><cell rend="num">2,320</cell></row>
-        <row role="data"><cell>32 Kohát</cell><cell rend="num">1,984</cell><cell>„</cell><cell rend="num">1,279,680</cell><cell>70·36</cell><cell rend="num">18,187</cell></row>
+        <row role="data"><cell>1 Delhi</cell><cell rend="num">57,500</cell><cell rend="num">645</cell><cell rend="num">37,087,500</cell><cell rend="num">72·</cell><cell rend="num">5,15,104</cell></row>
+        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">101,184</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004" type="noteref" target="#sec-06-fn-004">1</ref>620</cell><cell rend="num">62,734,080</cell><cell rend="num">71·65</cell><cell rend="num">8,75,562</cell></row>
+        <row role="data"><cell>3 Karnál</cell><cell rend="num">119,935</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-2" type="noteref" target="#sec-06-fn-004">1</ref>680</cell><cell rend="num">81,555,800</cell><cell rend="num">72·34</cell><cell rend="num">11,27,395</cell></row>
+        <row role="data"><cell>4 Hissar</cell><cell rend="num">76,534</cell><cell rend="num">645</cell><cell rend="num">49,364,430</cell><cell rend="num">80·22</cell><cell rend="num">6,15,363</cell></row>
+        <row role="data"><cell>5 Rohtak</cell><cell rend="num">119,240</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-3" type="noteref" target="#sec-06-fn-004">1</ref>790</cell><cell rend="num">94,199,600</cell><cell rend="num">78·16</cell><cell rend="num">12,05,214</cell></row>
+        <row role="data"><cell>6 Sirsa</cell><cell rend="num">37,762</cell><cell rend="num">645</cell><cell rend="num">24,356,490</cell><cell rend="num">102·85</cell><cell rend="num">2,36,815</cell></row>
+        <row role="data"><cell>7 Umballa</cell><cell rend="num">175,094</cell><cell>„</cell><cell rend="num">112,935,630</cell><cell rend="num">76·11</cell><cell rend="num">14,83,847</cell></row>
+        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">171,984</cell><cell>„</cell><cell rend="num">110,929,680</cell><cell rend="num">77·82</cell><cell rend="num">14,25,464</cell></row>
+        <row role="data"><cell>9 Simla</cell><cell rend="num">5</cell><cell>„</cell><cell rend="num">3,225</cell><cell rend="num">51·08</cell><cell rend="num">63</cell></row>
+        <row role="data"><cell>10 Jullundar</cell><cell rend="num">65,158</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-4" type="noteref" target="#sec-06-fn-004">1</ref>1,233</cell><cell rend="num">80,339,814</cell><cell rend="num">73·37</cell><cell rend="num">10,94,995</cell></row>
+        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">46,324</cell><cell rend="num">645</cell><cell rend="num">29,878,980</cell><cell rend="num">61·02</cell><cell rend="num">4,89,658</cell></row>
+        <row role="data"><cell>12 Kángra</cell><cell rend="num">370,802</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-5" type="noteref" target="#sec-06-fn-004">1</ref>290</cell><cell rend="num">107,532,580</cell><cell rend="num">51·08</cell><cell rend="num">21,05,179</cell></row>
+        <row role="data"><cell>13 Amritsar</cell><cell rend="num">103,350</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-6" type="noteref" target="#sec-06-fn-004">1</ref>1,394</cell><cell rend="num">144,069,900</cell><cell rend="num">84·</cell><cell rend="num">17,15,117</cell></row>
+        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">31,347</cell><cell rend="num">645</cell><cell rend="num">20,218,815</cell><cell rend="num">73·37</cell><cell rend="num">2,75,573</cell></row>
+        <row role="data"><cell>15 Siálkot</cell><cell rend="num">21,500</cell><cell>„</cell><cell rend="num">13,867,500</cell><cell rend="num">74·05</cell><cell rend="num">1,87,272</cell></row>
+        <row role="data"><cell>16 Lahore</cell><cell rend="num">171,216</cell><cell>„</cell><cell rend="num">110,434,320</cell><cell rend="num">89·82</cell><cell rend="num">12,29,507</cell></row>
+        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">31,682</cell><cell>„</cell><cell rend="num">20,434,890</cell><cell rend="num">83·65</cell><cell rend="num">2,44,290</cell></row>
+        <row role="data"><cell>18 Firozepore</cell><cell rend="num">255,898</cell><cell>„</cell><cell rend="num">165,054,210</cell><cell rend="num">96·68</cell><cell rend="num">17,07,221</cell></row>
+        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">38,263</cell><cell>„</cell><cell rend="num">24,679,635</cell><cell rend="num">76·79</cell><cell rend="num">3,21,391</cell></row>
+        <row role="data"><cell>20 Jhelum</cell><cell rend="num">34,115</cell><cell>„</cell><cell rend="num">22,004,175</cell><cell rend="num">65·14</cell><cell rend="num">3,37,798</cell></row>
+        <row role="data"><cell>21 Gujrát</cell><cell rend="num">34,728</cell><cell>„</cell><cell rend="num">22,399,560</cell><cell rend="num">68·</cell><cell rend="num">3,08,194</cell></row>
+        <row role="data"><cell>22 Shahpur</cell><cell rend="num">23,817</cell><cell>„</cell><cell rend="num">15,361,965</cell><cell rend="num">74·05</cell><cell rend="num">2,07,453</cell></row>
+        <row role="data"><cell>23 Mooltan</cell><cell rend="num">8,404</cell><cell>„</cell><cell rend="num">5,420,580</cell><cell rend="num">57·25</cell><cell rend="num">94,682</cell></row>
+        <row role="data"><cell>24 Jhang</cell><cell rend="num">12,026</cell><cell>„</cell><cell rend="num">7,756,770</cell><cell rend="num">73·37</cell><cell rend="num">1,05,721</cell></row>
+        <row role="data"><cell>25 Montgomery</cell><cell rend="num">81,616</cell><cell>„</cell><cell rend="num">52,642,320</cell><cell rend="num">77·48</cell><cell rend="num">6,79,431</cell></row>
+        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">12,679</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-7" type="noteref" target="#sec-06-fn-004">1</ref>1,942</cell><cell rend="num">24,622,618</cell><cell rend="num">55·54</cell><cell rend="num">4,43,331</cell></row>
+        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">11,922</cell><cell rend="num">645</cell><cell rend="num">7,689,690</cell><cell rend="num">95·13</cell><cell rend="num">80,833</cell></row>
+        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">1,961</cell><cell>„</cell><cell rend="num">1,264,845</cell><cell rend="num">47·74</cell><cell rend="num">26,494</cell></row>
+        <row role="data"><cell>29 Bannu</cell><cell rend="num">53,037</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-004-8" type="noteref" target="#sec-06-fn-004">1</ref>286</cell><cell rend="num">15,168,582</cell><cell rend="num">106·28</cell><cell rend="num">1,42,722</cell></row>
+        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">947</cell><cell rend="num">645</cell><cell rend="num">610,815</cell><cell rend="num">44·05</cell><cell rend="num">13,866</cell></row>
+        <row role="data"><cell>31 Hazára</cell><cell rend="num">222</cell><cell>„</cell><cell rend="num">143,190</cell><cell rend="num">61·71</cell><cell rend="num">2,320</cell></row>
+        <row role="data"><cell>32 Kohát</cell><cell rend="num">1,984</cell><cell>„</cell><cell rend="num">1,279,680</cell><cell rend="num">70·36</cell><cell rend="num">18,187</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">2,272,236</cell><cell>Average 645</cell><cell rend="num">1,466,041,869</cell><cell>Average 75·89</cell><cell rend="num">1,93,16,062</cell></row>
       </table>
             <p>I take gram 30-fold. Deducting for seed accordingly, the total quantity will be 1,417,173,807 lbs., and the value will be Rs. 1,86,72,194.</p>
@@ -2316,38 +2314,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="smallcaps">Inferior Grain</hi> (as noted below).<ref xml:id="ref-sec-06-fn-005" type="noteref" target="#sec-06-fn-005">1</ref></head>
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>1 Delhi</cell><cell rend="num">114,677</cell><cell rend="num">522</cell><cell rend="num">59,816,394</cell><cell>66·85</cell><cell rend="num">8,95,458</cell></row>
-        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">404,175</cell><cell rend="num">447</cell><cell rend="num">180,666,225</cell><cell>66·</cell><cell rend="num">27,37,367</cell></row>
-        <row role="data"><cell>3 Karnál</cell><cell rend="num">196,787</cell><cell rend="num">521</cell><cell rend="num">102,526,027</cell><cell>64·79</cell><cell rend="num">15,82,436</cell></row>
-        <row role="data"><cell>4 Hissar</cell><cell rend="num">1,256,158</cell><cell rend="num">393</cell><cell rend="num">493,670,094</cell><cell>76·79</cell><cell rend="num">64,28,833</cell></row>
-        <row role="data"><cell>5 Rohtak</cell><cell rend="num">441,437</cell><cell rend="num">412</cell><cell rend="num">181,872,044</cell><cell>64·79</cell><cell rend="num">28,07,100</cell></row>
-        <row role="data"><cell>6 Sirsa</cell><cell rend="num">680,225</cell><cell rend="num">118</cell><cell rend="num">80,266,550</cell><cell>104·39</cell><cell rend="num">7,68,910</cell></row>
-        <row role="data"><cell>7 Umballa</cell><cell rend="num">195,893</cell><cell rend="num">680</cell><cell rend="num">133,207,240</cell><cell>66·16</cell><cell rend="num">20,13,410</cell></row>
-        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">214,111</cell><cell rend="num">1,355</cell><cell rend="num">290,120,405</cell><cell>68·91</cell><cell rend="num">42,10,135</cell></row>
-        <row role="data"><cell>9 Simla</cell><cell rend="num">3,406</cell><cell rend="num">520</cell><cell rend="num">1,771,120</cell><cell>40·11</cell><cell rend="num">44,156</cell></row>
-        <row role="data"><cell>10 Jullundar</cell><cell rend="num">165,767</cell><cell rend="num">395</cell><cell rend="num">65,477,965</cell><cell>62·05</cell><cell rend="num">10,55,245</cell></row>
-        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">111,933</cell><cell rend="num">685</cell><cell rend="num">76,674,105</cell><cell>58·41</cell><cell rend="num">13,12,687</cell></row>
+        <row role="data"><cell>1 Delhi</cell><cell rend="num">114,677</cell><cell rend="num">522</cell><cell rend="num">59,816,394</cell><cell rend="num">66·85</cell><cell rend="num">8,95,458</cell></row>
+        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">404,175</cell><cell rend="num">447</cell><cell rend="num">180,666,225</cell><cell rend="num">66·</cell><cell rend="num">27,37,367</cell></row>
+        <row role="data"><cell>3 Karnál</cell><cell rend="num">196,787</cell><cell rend="num">521</cell><cell rend="num">102,526,027</cell><cell rend="num">64·79</cell><cell rend="num">15,82,436</cell></row>
+        <row role="data"><cell>4 Hissar</cell><cell rend="num">1,256,158</cell><cell rend="num">393</cell><cell rend="num">493,670,094</cell><cell rend="num">76·79</cell><cell rend="num">64,28,833</cell></row>
+        <row role="data"><cell>5 Rohtak</cell><cell rend="num">441,437</cell><cell rend="num">412</cell><cell rend="num">181,872,044</cell><cell rend="num">64·79</cell><cell rend="num">28,07,100</cell></row>
+        <row role="data"><cell>6 Sirsa</cell><cell rend="num">680,225</cell><cell rend="num">118</cell><cell rend="num">80,266,550</cell><cell rend="num">104·39</cell><cell rend="num">7,68,910</cell></row>
+        <row role="data"><cell>7 Umballa</cell><cell rend="num">195,893</cell><cell rend="num">680</cell><cell rend="num">133,207,240</cell><cell rend="num">66·16</cell><cell rend="num">20,13,410</cell></row>
+        <row role="data"><cell>8 Ludhiána</cell><cell rend="num">214,111</cell><cell rend="num">1,355</cell><cell rend="num">290,120,405</cell><cell rend="num">68·91</cell><cell rend="num">42,10,135</cell></row>
+        <row role="data"><cell>9 Simla</cell><cell rend="num">3,406</cell><cell rend="num">520</cell><cell rend="num">1,771,120</cell><cell rend="num">40·11</cell><cell rend="num">44,156</cell></row>
+        <row role="data"><cell>10 Jullundar</cell><cell rend="num">165,767</cell><cell rend="num">395</cell><cell rend="num">65,477,965</cell><cell rend="num">62·05</cell><cell rend="num">10,55,245</cell></row>
+        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">111,933</cell><cell rend="num">685</cell><cell rend="num">76,674,105</cell><cell rend="num">58·41</cell><cell rend="num">13,12,687</cell></row>
         <row role="data"><cell>12 Kángra</cell><cell rend="num">30,366</cell><cell rend="num">362</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-006" type="noteref" target="#sec-06-fn-006">2</ref>10,992,492</cell><cell>..</cell><cell>..</cell></row>
-        <row role="data"><cell>13 Amritsar</cell><cell rend="num">71,937</cell><cell rend="num">590</cell><cell rend="num">42,442,830</cell><cell>67·88</cell><cell rend="num">6,25,262</cell></row>
-        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">154,306</cell><cell rend="num">648</cell><cell rend="num">99,990,288</cell><cell>48·</cell><cell rend="num">20,83,131</cell></row>
-        <row role="data"><cell>15 Siálkot</cell><cell rend="num">94,070</cell><cell rend="num">745</cell><cell rend="num">70,082,150</cell><cell>65·14</cell><cell rend="num">10,75,869</cell></row>
-        <row role="data"><cell>16 Lahore</cell><cell rend="num">141,579</cell><cell rend="num">374</cell><cell rend="num">52,950,546</cell><cell>69·94</cell><cell rend="num">7,57,085</cell></row>
-        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">123,515</cell><cell rend="num">449</cell><cell rend="num">55,458,235</cell><cell>64·45</cell><cell rend="num">8,60,484</cell></row>
-        <row role="data"><cell>18 Firozepore</cell><cell rend="num">477,728</cell><cell rend="num">608</cell><cell rend="num">290,458,624</cell><cell>82·11</cell><cell rend="num">35,37,433</cell></row>
-        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">287,941</cell><cell rend="num">554</cell><cell rend="num">159,519,314</cell><cell>92·91</cell><cell rend="num">17,16,923</cell></row>
-        <row role="data"><cell>20 Jhelum</cell><cell rend="num">209,379</cell><cell rend="num">722</cell><cell rend="num">151,171,638</cell><cell>70·28</cell><cell rend="num">21,50,990</cell></row>
-        <row role="data"><cell>21 Gujrát</cell><cell rend="num">239,640</cell><cell rend="num">632</cell><cell rend="num">151,452,480</cell><cell>80·91</cell><cell rend="num">18,71,863</cell></row>
-        <row role="data"><cell>22 Shahpur</cell><cell rend="num">68,819</cell><cell rend="num">1,100</cell><cell rend="num">75,700,900</cell><cell>66·16</cell><cell rend="num">11,44,209</cell></row>
-        <row role="data"><cell>23 Moolton</cell><cell rend="num">98,847</cell><cell rend="num">468</cell><cell rend="num">46,260,396</cell><cell>51·08</cell><cell rend="num">9,05,646</cell></row>
-        <row role="data"><cell>24 Jhang</cell><cell rend="num">55,474</cell><cell rend="num">218</cell><cell rend="num">12,093,332</cell><cell>60·17</cell><cell rend="num">2,00,986</cell></row>
-        <row role="data"><cell>25 Montgomery</cell><cell rend="num">63,883</cell><cell rend="num">686</cell><cell rend="num">43,823,738</cell><cell>55·54</cell><cell rend="num">7,89,048</cell></row>
-        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">76,969</cell><cell rend="num">693</cell><cell rend="num">53,339,517</cell><cell>49·37</cell><cell rend="num">10,80,403</cell></row>
-        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">43,618</cell><cell rend="num">485</cell><cell rend="num">21,154,730</cell><cell>89·13</cell><cell rend="num">2,37,346</cell></row>
-        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">178,113</cell><cell rend="num">640</cell><cell rend="num">113,992,320</cell><cell>54·17</cell><cell rend="num">21,04,344</cell></row>
-        <row role="data"><cell>29 Bannu</cell><cell rend="num">105,488</cell><cell rend="num">536</cell><cell rend="num">56,541,568</cell><cell>111·42</cell><cell rend="num">5,07,463</cell></row>
-        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">107,183</cell><cell rend="num">550</cell><cell rend="num">58,950,650</cell><cell>59·48</cell><cell rend="num">9,91,100</cell></row>
-        <row role="data"><cell>31 Hazára</cell><cell rend="num">52,074</cell><cell rend="num">960</cell><cell rend="num">49,991,040</cell><cell>74·05</cell><cell rend="num">6,75,098</cell></row>
-        <row role="data"><cell>32 Kohát</cell><cell rend="num">69,465</cell><cell rend="num">770</cell><cell rend="num">53,488,050</cell><cell>112·28</cell><cell rend="num">4,76,380</cell></row>
+        <row role="data"><cell>13 Amritsar</cell><cell rend="num">71,937</cell><cell rend="num">590</cell><cell rend="num">42,442,830</cell><cell rend="num">67·88</cell><cell rend="num">6,25,262</cell></row>
+        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">154,306</cell><cell rend="num">648</cell><cell rend="num">99,990,288</cell><cell rend="num">48·</cell><cell rend="num">20,83,131</cell></row>
+        <row role="data"><cell>15 Siálkot</cell><cell rend="num">94,070</cell><cell rend="num">745</cell><cell rend="num">70,082,150</cell><cell rend="num">65·14</cell><cell rend="num">10,75,869</cell></row>
+        <row role="data"><cell>16 Lahore</cell><cell rend="num">141,579</cell><cell rend="num">374</cell><cell rend="num">52,950,546</cell><cell rend="num">69·94</cell><cell rend="num">7,57,085</cell></row>
+        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">123,515</cell><cell rend="num">449</cell><cell rend="num">55,458,235</cell><cell rend="num">64·45</cell><cell rend="num">8,60,484</cell></row>
+        <row role="data"><cell>18 Firozepore</cell><cell rend="num">477,728</cell><cell rend="num">608</cell><cell rend="num">290,458,624</cell><cell rend="num">82·11</cell><cell rend="num">35,37,433</cell></row>
+        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">287,941</cell><cell rend="num">554</cell><cell rend="num">159,519,314</cell><cell rend="num">92·91</cell><cell rend="num">17,16,923</cell></row>
+        <row role="data"><cell>20 Jhelum</cell><cell rend="num">209,379</cell><cell rend="num">722</cell><cell rend="num">151,171,638</cell><cell rend="num">70·28</cell><cell rend="num">21,50,990</cell></row>
+        <row role="data"><cell>21 Gujrát</cell><cell rend="num">239,640</cell><cell rend="num">632</cell><cell rend="num">151,452,480</cell><cell rend="num">80·91</cell><cell rend="num">18,71,863</cell></row>
+        <row role="data"><cell>22 Shahpur</cell><cell rend="num">68,819</cell><cell rend="num">1,100</cell><cell rend="num">75,700,900</cell><cell rend="num">66·16</cell><cell rend="num">11,44,209</cell></row>
+        <row role="data"><cell>23 Moolton</cell><cell rend="num">98,847</cell><cell rend="num">468</cell><cell rend="num">46,260,396</cell><cell rend="num">51·08</cell><cell rend="num">9,05,646</cell></row>
+        <row role="data"><cell>24 Jhang</cell><cell rend="num">55,474</cell><cell rend="num">218</cell><cell rend="num">12,093,332</cell><cell rend="num">60·17</cell><cell rend="num">2,00,986</cell></row>
+        <row role="data"><cell>25 Montgomery</cell><cell rend="num">63,883</cell><cell rend="num">686</cell><cell rend="num">43,823,738</cell><cell rend="num">55·54</cell><cell rend="num">7,89,048</cell></row>
+        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">76,969</cell><cell rend="num">693</cell><cell rend="num">53,339,517</cell><cell rend="num">49·37</cell><cell rend="num">10,80,403</cell></row>
+        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">43,618</cell><cell rend="num">485</cell><cell rend="num">21,154,730</cell><cell rend="num">89·13</cell><cell rend="num">2,37,346</cell></row>
+        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">178,113</cell><cell rend="num">640</cell><cell rend="num">113,992,320</cell><cell rend="num">54·17</cell><cell rend="num">21,04,344</cell></row>
+        <row role="data"><cell>29 Bannu</cell><cell rend="num">105,488</cell><cell rend="num">536</cell><cell rend="num">56,541,568</cell><cell rend="num">111·42</cell><cell rend="num">5,07,463</cell></row>
+        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">107,183</cell><cell rend="num">550</cell><cell rend="num">58,950,650</cell><cell rend="num">59·48</cell><cell rend="num">9,91,100</cell></row>
+        <row role="data"><cell>31 Hazára</cell><cell rend="num">52,074</cell><cell rend="num">960</cell><cell rend="num">49,991,040</cell><cell rend="num">74·05</cell><cell rend="num">6,75,098</cell></row>
+        <row role="data"><cell>32 Kohát</cell><cell rend="num">69,465</cell><cell rend="num">770</cell><cell rend="num">53,488,050</cell><cell rend="num">112·28</cell><cell rend="num">4,76,380</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">6,534,963</cell><cell>Average 510·5</cell><cell rend="num">3,335,968,007</cell><cell>Average 69·78</cell><cell rend="num">4,76,46,800</cell></row>
         <row role="data"><cell></cell><cell></cell><cell></cell><cell></cell><cell>Add</cell><cell rend="num">1,57,530</cell></row>
         <row role="data" rend="total"><cell></cell><cell></cell><cell></cell><cell></cell><cell></cell><cell rend="num">4,78,04,330</cell></row>
@@ -2413,38 +2411,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="smallcaps">Tobacco.</hi></head>
         <row role="label"><cell role="label" rows="2">Districts.</cell><cell role="label" rows="2">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>1 Delhi</cell><cell rend="num">7,472</cell><cell rend="num">888</cell><cell rend="num">6,635,136</cell><cell>5·14</cell><cell rend="num">12,90,882</cell></row>
-        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">2,424</cell><cell rend="num">600</cell><cell rend="num">1,454,400</cell><cell>14·4</cell><cell rend="num">1,01,000</cell></row>
-        <row role="data"><cell>3 Karnál.</cell><cell rend="num">917</cell><cell rend="num">525</cell><cell rend="num">481,425</cell><cell>16·45</cell><cell rend="num">29,266</cell></row>
-        <row role="data"><cell>4 Hissar</cell><cell rend="num">2,812</cell><cell rend="num">582</cell><cell rend="num">1,636,584</cell><cell>16·45</cell><cell rend="num">99,488</cell></row>
-        <row role="data"><cell>5 Rohtak</cell><cell rend="num">1,851</cell><cell rend="num">514</cell><cell rend="num">951,414</cell><cell>16·45</cell><cell rend="num">57,836</cell></row>
-        <row role="data"><cell>6 Sirsa</cell><cell rend="num">381</cell><cell rend="num">850</cell><cell rend="num">323,850</cell><cell>14·4</cell><cell rend="num">23,489</cell></row>
-        <row role="data"><cell>7 Umballa</cell><cell rend="num">4,661</cell><cell rend="num">560</cell><cell rend="num">2,610,160</cell><cell>12·34</cell><cell rend="num">2,11,520</cell></row>
-        <row role="data"><cell>8 Ludhiána.</cell><cell rend="num">1,550</cell><cell rend="num">925</cell><cell rend="num">1,433,750</cell><cell>27·25</cell><cell rend="num">52,614</cell></row>
-        <row role="data"><cell><ref xml:id="ref-sec-06-fn-007" type="noteref" target="#sec-06-fn-007">1</ref>9 Simla</cell><cell rend="num">5</cell><cell rend="num">846</cell><cell rend="num">4,230</cell><cell>9·6</cell><cell rend="num">440</cell></row>
-        <row role="data"><cell>10 Jullundar.</cell><cell rend="num">2,793</cell><cell rend="num">1,561</cell><cell rend="num">4,359,873</cell><cell>24·68</cell><cell rend="num">1,76,656</cell></row>
-        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">3,782</cell><cell rend="num">1,733</cell><cell rend="num">6,554,206</cell><cell>19·88</cell><cell rend="num">3,29,688</cell></row>
-        <row role="data"><cell>12 Kángra</cell><cell rend="num">776</cell><cell rend="num">532</cell><cell rend="num">412,832</cell><cell>12·34</cell><cell rend="num">33,454</cell></row>
-        <row role="data"><cell>13 Amritsar</cell><cell rend="num">2,169</cell><cell rend="num">984</cell><cell rend="num">2,134,296</cell><cell>18·51</cell><cell rend="num">1,15,305</cell></row>
-        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">3,973</cell><cell rend="num">1,040</cell><cell rend="num">4,131,920</cell><cell>16·45</cell><cell rend="num">2,51,180</cell></row>
-        <row role="data"><cell>15 Siálkot.</cell><cell rend="num">5,785</cell><cell rend="num">917</cell><cell rend="num">5,304,845</cell><cell>16·45</cell><cell rend="num">3,22,483</cell></row>
-        <row role="data"><cell>16 Lahore</cell><cell rend="num">3,460</cell><cell rend="num">461</cell><cell rend="num">1,595,060</cell><cell>16·45</cell><cell rend="num">96,964</cell></row>
-        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">3,259</cell><cell rend="num">669</cell><cell rend="num">2,180,271</cell><cell>17·14</cell><cell rend="num">1,27,203</cell></row>
-        <row role="data"><cell>18 Firozepore</cell><cell rend="num">5,879</cell><cell rend="num">651</cell><cell rend="num">3,827,229</cell><cell>13·03</cell><cell rend="num">2,93,724</cell></row>
-        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">1,380</cell><cell rend="num">1,080</cell><cell rend="num">1,490,400</cell><cell>16·45</cell><cell rend="num">90,601</cell></row>
-        <row role="data"><cell>20 Jhelum</cell><cell rend="num">622</cell><cell rend="num">792</cell><cell rend="num">492,624</cell><cell>17·83</cell><cell rend="num">27,628</cell></row>
-        <row role="data"><cell>21 Gujrát</cell><cell rend="num">2,389</cell><cell rend="num">593</cell><cell rend="num">1,416,677</cell><cell>12·34</cell><cell rend="num">1,14,803</cell></row>
-        <row role="data"><cell>22 Shahpur</cell><cell rend="num">838</cell><cell rend="num">1,700</cell><cell rend="num">1,424,600</cell><cell>12·34</cell><cell rend="num">1,15,445</cell></row>
-        <row role="data"><cell>23 Mooltan</cell><cell rend="num">1,839</cell><cell rend="num">656</cell><cell rend="num">1,206,384</cell><cell>6·51</cell><cell rend="num">1,85,312</cell></row>
-        <row role="data"><cell>24 Jhang</cell><cell rend="num">1,173</cell><cell rend="num">820</cell><cell rend="num">961,860</cell><cell>12·34</cell><cell rend="num">77,946</cell></row>
-        <row role="data"><cell>25 Montgomery.</cell><cell rend="num">851</cell><cell rend="num">1,042</cell><cell rend="num">886,742</cell><cell>16·46</cell><cell rend="num">53,872</cell></row>
-        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">978</cell><cell rend="num">780</cell><cell rend="num">762,840</cell><cell>15·09</cell><cell rend="num">50,552</cell></row>
-        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">2,029</cell><cell rend="num">615</cell><cell rend="num">1,247,835</cell><cell>12·68</cell><cell rend="num">98,409</cell></row>
-        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">783</cell><cell rend="num">740</cell><cell rend="num">579,420</cell><cell>7·28</cell><cell rend="num">79,590</cell></row>
-        <row role="data"><cell>29 Bannu</cell><cell rend="num">452</cell><cell rend="num">870</cell><cell rend="num">393,240</cell><cell>20·6</cell><cell rend="num">19,089</cell></row>
-        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">1,250</cell><cell rend="num">880</cell><cell rend="num">1,100,000</cell><cell>21·85</cell><cell rend="num">50,343</cell></row>
-        <row role="data"><cell>31 Hazára</cell><cell rend="num">27</cell><cell rend="num">480</cell><cell rend="num">12,960</cell><cell>17·83</cell><cell rend="num">726</cell></row>
-        <row role="data"><cell><ref xml:id="ref-sec-06-fn-007-2" type="noteref" target="#sec-06-fn-007">1</ref>32 Kohát</cell><cell rend="num">3,307</cell><cell rend="num">846</cell><cell rend="num">2,797,722</cell><cell>10·97</cell><cell rend="num">2,55,033</cell></row>
+        <row role="data"><cell>1 Delhi</cell><cell rend="num">7,472</cell><cell rend="num">888</cell><cell rend="num">6,635,136</cell><cell rend="num">5·14</cell><cell rend="num">12,90,882</cell></row>
+        <row role="data"><cell>2 Gurgaon</cell><cell rend="num">2,424</cell><cell rend="num">600</cell><cell rend="num">1,454,400</cell><cell rend="num">14·4</cell><cell rend="num">1,01,000</cell></row>
+        <row role="data"><cell>3 Karnál.</cell><cell rend="num">917</cell><cell rend="num">525</cell><cell rend="num">481,425</cell><cell rend="num">16·45</cell><cell rend="num">29,266</cell></row>
+        <row role="data"><cell>4 Hissar</cell><cell rend="num">2,812</cell><cell rend="num">582</cell><cell rend="num">1,636,584</cell><cell rend="num">16·45</cell><cell rend="num">99,488</cell></row>
+        <row role="data"><cell>5 Rohtak</cell><cell rend="num">1,851</cell><cell rend="num">514</cell><cell rend="num">951,414</cell><cell rend="num">16·45</cell><cell rend="num">57,836</cell></row>
+        <row role="data"><cell>6 Sirsa</cell><cell rend="num">381</cell><cell rend="num">850</cell><cell rend="num">323,850</cell><cell rend="num">14·4</cell><cell rend="num">23,489</cell></row>
+        <row role="data"><cell>7 Umballa</cell><cell rend="num">4,661</cell><cell rend="num">560</cell><cell rend="num">2,610,160</cell><cell rend="num">12·34</cell><cell rend="num">2,11,520</cell></row>
+        <row role="data"><cell>8 Ludhiána.</cell><cell rend="num">1,550</cell><cell rend="num">925</cell><cell rend="num">1,433,750</cell><cell rend="num">27·25</cell><cell rend="num">52,614</cell></row>
+        <row role="data"><cell><ref xml:id="ref-sec-06-fn-007" type="noteref" target="#sec-06-fn-007">1</ref>9 Simla</cell><cell rend="num">5</cell><cell rend="num">846</cell><cell rend="num">4,230</cell><cell rend="num">9·6</cell><cell rend="num">440</cell></row>
+        <row role="data"><cell>10 Jullundar.</cell><cell rend="num">2,793</cell><cell rend="num">1,561</cell><cell rend="num">4,359,873</cell><cell rend="num">24·68</cell><cell rend="num">1,76,656</cell></row>
+        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">3,782</cell><cell rend="num">1,733</cell><cell rend="num">6,554,206</cell><cell rend="num">19·88</cell><cell rend="num">3,29,688</cell></row>
+        <row role="data"><cell>12 Kángra</cell><cell rend="num">776</cell><cell rend="num">532</cell><cell rend="num">412,832</cell><cell rend="num">12·34</cell><cell rend="num">33,454</cell></row>
+        <row role="data"><cell>13 Amritsar</cell><cell rend="num">2,169</cell><cell rend="num">984</cell><cell rend="num">2,134,296</cell><cell rend="num">18·51</cell><cell rend="num">1,15,305</cell></row>
+        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">3,973</cell><cell rend="num">1,040</cell><cell rend="num">4,131,920</cell><cell rend="num">16·45</cell><cell rend="num">2,51,180</cell></row>
+        <row role="data"><cell>15 Siálkot.</cell><cell rend="num">5,785</cell><cell rend="num">917</cell><cell rend="num">5,304,845</cell><cell rend="num">16·45</cell><cell rend="num">3,22,483</cell></row>
+        <row role="data"><cell>16 Lahore</cell><cell rend="num">3,460</cell><cell rend="num">461</cell><cell rend="num">1,595,060</cell><cell rend="num">16·45</cell><cell rend="num">96,964</cell></row>
+        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">3,259</cell><cell rend="num">669</cell><cell rend="num">2,180,271</cell><cell rend="num">17·14</cell><cell rend="num">1,27,203</cell></row>
+        <row role="data"><cell>18 Firozepore</cell><cell rend="num">5,879</cell><cell rend="num">651</cell><cell rend="num">3,827,229</cell><cell rend="num">13·03</cell><cell rend="num">2,93,724</cell></row>
+        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">1,380</cell><cell rend="num">1,080</cell><cell rend="num">1,490,400</cell><cell rend="num">16·45</cell><cell rend="num">90,601</cell></row>
+        <row role="data"><cell>20 Jhelum</cell><cell rend="num">622</cell><cell rend="num">792</cell><cell rend="num">492,624</cell><cell rend="num">17·83</cell><cell rend="num">27,628</cell></row>
+        <row role="data"><cell>21 Gujrát</cell><cell rend="num">2,389</cell><cell rend="num">593</cell><cell rend="num">1,416,677</cell><cell rend="num">12·34</cell><cell rend="num">1,14,803</cell></row>
+        <row role="data"><cell>22 Shahpur</cell><cell rend="num">838</cell><cell rend="num">1,700</cell><cell rend="num">1,424,600</cell><cell rend="num">12·34</cell><cell rend="num">1,15,445</cell></row>
+        <row role="data"><cell>23 Mooltan</cell><cell rend="num">1,839</cell><cell rend="num">656</cell><cell rend="num">1,206,384</cell><cell rend="num">6·51</cell><cell rend="num">1,85,312</cell></row>
+        <row role="data"><cell>24 Jhang</cell><cell rend="num">1,173</cell><cell rend="num">820</cell><cell rend="num">961,860</cell><cell rend="num">12·34</cell><cell rend="num">77,946</cell></row>
+        <row role="data"><cell>25 Montgomery.</cell><cell rend="num">851</cell><cell rend="num">1,042</cell><cell rend="num">886,742</cell><cell rend="num">16·46</cell><cell rend="num">53,872</cell></row>
+        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">978</cell><cell rend="num">780</cell><cell rend="num">762,840</cell><cell rend="num">15·09</cell><cell rend="num">50,552</cell></row>
+        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">2,029</cell><cell rend="num">615</cell><cell rend="num">1,247,835</cell><cell rend="num">12·68</cell><cell rend="num">98,409</cell></row>
+        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">783</cell><cell rend="num">740</cell><cell rend="num">579,420</cell><cell rend="num">7·28</cell><cell rend="num">79,590</cell></row>
+        <row role="data"><cell>29 Bannu</cell><cell rend="num">452</cell><cell rend="num">870</cell><cell rend="num">393,240</cell><cell rend="num">20·6</cell><cell rend="num">19,089</cell></row>
+        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">1,250</cell><cell rend="num">880</cell><cell rend="num">1,100,000</cell><cell rend="num">21·85</cell><cell rend="num">50,343</cell></row>
+        <row role="data"><cell>31 Hazára</cell><cell rend="num">27</cell><cell rend="num">480</cell><cell rend="num">12,960</cell><cell rend="num">17·83</cell><cell rend="num">726</cell></row>
+        <row role="data"><cell><ref xml:id="ref-sec-06-fn-007-2" type="noteref" target="#sec-06-fn-007">1</ref>32 Kohát</cell><cell rend="num">3,307</cell><cell rend="num">846</cell><cell rend="num">2,797,722</cell><cell rend="num">10·97</cell><cell rend="num">2,55,033</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">71,867</cell><cell>Average 846</cell><cell rend="num">60,804,785</cell><cell>Average 12·58</cell><cell rend="num">48,32,541</cell></row>
       </table>
             <p>No deduction is made for nursery or seed. The average of 12·58 lbs. per rupee is rather a high price. It is considered 12 seers or 24 lbs. per rupee would be nearer the average. I have, as above, kept the Report's price though it is considered so high.</p>
@@ -2466,7 +2464,8 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             </div>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">Chillies.</hi></head>
-              <p><note place="margin" type="gloss">The average of 808 lbs. is applied to the rest. The total quantity then is 19,003,502 lbs. of green crop. Dry quantity will be one fifth, or 3,800,700 lbs., and at 8 lbs. per Re. the value will be Rs. 4,75,100.</note> Produce per acre given for four districts only, viz.:— No. 2 acres 774 × 600 lbs. = 464,400 lbs. 13 611 × 410 „ = 250,510 „ 18 3,604 × 924 „ = 3,330,096 „ 30 77 × 640 „ = 49,280 „ Average Total.. 5,066 808 „ 4,094,286 „ Add for 18,452 at „ „ 14,909,216 „ 23,518 19,003,502 „</p>
+              <p>Produce per acre given for four districts only, viz.:—</p>
+              <p><note place="margin" type="gloss">The average of 808 lbs. is applied to the rest. The total quantity then is 19,003,502 lbs. of green crop. Dry quantity will be one fifth, or 3,800,700 lbs., and at 8 lbs. per Re. the value will be Rs. 4,75,100.</note> No. 2 acres 774 × 600 lbs. = 464,400 lbs. 13 611 × 410 „ = 250,510 „ 18 3,604 × 924 „ = 3,330,096 „ 30 77 × 640 „ = 49,280 „ Average Total.. 5,066 808 „ 4,094,286 „ Add for 18,452 at „ „ 14,909,216 „ 23,518 19,003,502 „</p>
             </div>
             <div type="subsection" n="h3">
               <head><hi rend="smallcaps">Other Kinds of Drugs and Spices.</hi></head>
@@ -2521,38 +2520,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <head><hi rend="smallcaps">Cotton.</hi></head>
           <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
           <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-          <row role="data"><cell>1 Delhi</cell><cell rend="num">24,565</cell><cell rend="num">186</cell><cell rend="num">4,569,090</cell><cell>6·51</cell><cell rend="num">7,01,857</cell></row>
-          <row role="data"><cell>2 Gurgaon</cell><cell rend="num">47,855</cell><cell rend="num">164</cell><cell rend="num">7,848,220</cell><cell>6·51</cell><cell rend="num">12,05,563</cell></row>
-          <row role="data"><cell>3 Karnál</cell><cell rend="num">21,510</cell><cell rend="num">140</cell><cell rend="num">3,011,400</cell><cell>6·43</cell><cell rend="num">4,68,336</cell></row>
-          <row role="data"><cell>4 Hissar</cell><cell rend="num">20,323</cell><cell rend="num">87</cell><cell rend="num">1,768,101</cell><cell>6·17</cell><cell rend="num">2,86,564</cell></row>
-          <row role="data"><cell>5 Rohtak</cell><cell rend="num">49,073</cell><cell rend="num">70</cell><cell rend="num">3,435,110</cell><cell>7·2</cell><cell rend="num">4,77,098</cell></row>
-          <row role="data"><cell>6 Sirsa</cell><cell rend="num">77</cell><cell rend="num">64</cell><cell rend="num">4,928</cell><cell>6·17</cell><cell rend="num">798</cell></row>
-          <row role="data"><cell>7 Umballa</cell><cell rend="num">27,332</cell><cell rend="num">72</cell><cell rend="num">1,967,904</cell><cell>6·34</cell><cell rend="num">3,10,395</cell></row>
-          <row role="data"><cell>8 Ludhiána</cell><cell rend="num">11,488</cell><cell rend="num">85</cell><cell rend="num">976,480</cell><cell>6·34</cell><cell rend="num">1,54,019</cell></row>
+          <row role="data"><cell>1 Delhi</cell><cell rend="num">24,565</cell><cell rend="num">186</cell><cell rend="num">4,569,090</cell><cell rend="num">6·51</cell><cell rend="num">7,01,857</cell></row>
+          <row role="data"><cell>2 Gurgaon</cell><cell rend="num">47,855</cell><cell rend="num">164</cell><cell rend="num">7,848,220</cell><cell rend="num">6·51</cell><cell rend="num">12,05,563</cell></row>
+          <row role="data"><cell>3 Karnál</cell><cell rend="num">21,510</cell><cell rend="num">140</cell><cell rend="num">3,011,400</cell><cell rend="num">6·43</cell><cell rend="num">4,68,336</cell></row>
+          <row role="data"><cell>4 Hissar</cell><cell rend="num">20,323</cell><cell rend="num">87</cell><cell rend="num">1,768,101</cell><cell rend="num">6·17</cell><cell rend="num">2,86,564</cell></row>
+          <row role="data"><cell>5 Rohtak</cell><cell rend="num">49,073</cell><cell rend="num">70</cell><cell rend="num">3,435,110</cell><cell rend="num">7·2</cell><cell rend="num">4,77,098</cell></row>
+          <row role="data"><cell>6 Sirsa</cell><cell rend="num">77</cell><cell rend="num">64</cell><cell rend="num">4,928</cell><cell rend="num">6·17</cell><cell rend="num">798</cell></row>
+          <row role="data"><cell>7 Umballa</cell><cell rend="num">27,332</cell><cell rend="num">72</cell><cell rend="num">1,967,904</cell><cell rend="num">6·34</cell><cell rend="num">3,10,395</cell></row>
+          <row role="data"><cell>8 Ludhiána</cell><cell rend="num">11,488</cell><cell rend="num">85</cell><cell rend="num">976,480</cell><cell rend="num">6·34</cell><cell rend="num">1,54,019</cell></row>
           <row role="data"><cell>9 Simla</cell><cell>...</cell><cell>...</cell><cell>...</cell><cell>...</cell><cell>...</cell></row>
-          <row role="data"><cell>10 Jullundar</cell><cell rend="num">26,093</cell><cell rend="num">122</cell><cell rend="num">3,183,346</cell><cell>5·14</cell><cell rend="num">6,19,328</cell></row>
-          <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">24,420</cell><cell rend="num">136</cell><cell rend="num">3,321,120</cell><cell>5·49</cell><cell rend="num">6,04,940</cell></row>
-          <row role="data"><cell>12 Kángra</cell><cell rend="num">6,733</cell><cell rend="num">22</cell><cell rend="num">148,126</cell><cell>5·14</cell><cell rend="num">28,818</cell></row>
-          <row role="data"><cell>13 Amritsar</cell><cell rend="num">23,597</cell><cell rend="num">64</cell><cell rend="num">1,510,208</cell><cell>5·65</cell><cell rend="num">2,67,293</cell></row>
-          <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">37,474</cell><cell rend="num">50</cell><cell rend="num">1,873,700</cell><cell>5·14</cell><cell rend="num">3,64,533</cell></row>
-          <row role="data"><cell>15 Siálkot</cell><cell rend="num">11,425</cell><cell rend="num">65</cell><cell rend="num">742,625</cell><cell>5·65</cell><cell rend="num">1,31,438</cell></row>
-          <row role="data"><cell>16 Lahore</cell><cell rend="num">25,305</cell><cell rend="num">138</cell><cell rend="num">3,492,090</cell><cell>5·49</cell><cell rend="num">6,36,082</cell></row>
-          <row role="data"><cell>17 Gujránwála</cell><cell rend="num">33,376</cell><cell rend="num">129</cell><cell rend="num">4,305,504</cell><cell>5·49</cell><cell rend="num">7,84,244</cell></row>
-          <row role="data"><cell>18 Firozepore</cell><cell rend="num">9,680</cell><cell rend="num">158</cell><cell rend="num">1,529,440</cell><cell>6·17</cell><cell rend="num">2,47,883</cell></row>
-          <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">33,745</cell><cell rend="num">128</cell><cell rend="num">4,319,360</cell><cell>4·46</cell><cell rend="num">9,68,466</cell></row>
-          <row role="data"><cell>20 Jhelum</cell><cell rend="num">25,557</cell><cell rend="num">122</cell><cell rend="num">3,117,954</cell><cell>5·27</cell><cell rend="num">5,91,642</cell></row>
-          <row role="data"><cell>21 Gujrát</cell><cell rend="num">24,716</cell><cell rend="num">43</cell><cell rend="num">1,062,788</cell><cell>4·63</cell><cell rend="num">2,29,543</cell></row>
-          <row role="data"><cell>22 Shahpur</cell><cell rend="num">26,029</cell><cell rend="num">50</cell><cell rend="num">1,301,450</cell><cell>5·49</cell><cell rend="num">2,37,058</cell></row>
-          <row role="data"><cell>23 Mooltan</cell><cell rend="num">16,550</cell><cell rend="num">82</cell><cell rend="num">1,357,100</cell><cell>5·65</cell><cell rend="num">2,40,194</cell></row>
-          <row role="data"><cell>24 Jhang</cell><cell rend="num">16,881</cell><cell rend="num">87</cell><cell rend="num">1,468,647</cell><cell>5·27</cell><cell rend="num">2,78,680</cell></row>
-          <row role="data"><cell>25 Montgomery</cell><cell rend="num">15,838</cell><cell rend="num">149</cell><cell rend="num">2,359,862</cell><cell>5·31</cell><cell rend="num">4,44,418</cell></row>
-          <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">29,632</cell><cell rend="num">124</cell><cell rend="num">3,674,368</cell><cell>6·</cell><cell rend="num">6,12,394</cell></row>
-          <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">11,175</cell><cell rend="num">115</cell><cell rend="num">1,285,125</cell><cell>6·</cell><cell rend="num">2,14,187</cell></row>
-          <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">29,739</cell><cell rend="num">84</cell><cell rend="num">2,498,076</cell><cell>5·7</cell><cell rend="num">4,38,259</cell></row>
-          <row role="data"><cell>29 Bannu</cell><cell rend="num">7,544</cell><cell rend="num">73</cell><cell rend="num">550,712</cell><cell>5·36</cell><cell rend="num">1,02,744</cell></row>
-          <row role="data"><cell>30 Pesháwar</cell><cell rend="num">16,468</cell><cell rend="num">105</cell><cell rend="num">1,729,140</cell><cell>5·23</cell><cell rend="num">3,30,619</cell></row>
-          <row role="data"><cell>31 Hazára</cell><cell rend="num">8,280</cell><cell rend="num">100</cell><cell rend="num">828,000</cell><cell>4·11</cell><cell rend="num">2,01,460</cell></row>
-          <row role="data"><cell>32 Kohát</cell><cell rend="num">6,396</cell><cell rend="num">121</cell><cell rend="num">773,916</cell><cell>4·41</cell><cell rend="num">1,75,491</cell></row>
+          <row role="data"><cell>10 Jullundar</cell><cell rend="num">26,093</cell><cell rend="num">122</cell><cell rend="num">3,183,346</cell><cell rend="num">5·14</cell><cell rend="num">6,19,328</cell></row>
+          <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">24,420</cell><cell rend="num">136</cell><cell rend="num">3,321,120</cell><cell rend="num">5·49</cell><cell rend="num">6,04,940</cell></row>
+          <row role="data"><cell>12 Kángra</cell><cell rend="num">6,733</cell><cell rend="num">22</cell><cell rend="num">148,126</cell><cell rend="num">5·14</cell><cell rend="num">28,818</cell></row>
+          <row role="data"><cell>13 Amritsar</cell><cell rend="num">23,597</cell><cell rend="num">64</cell><cell rend="num">1,510,208</cell><cell rend="num">5·65</cell><cell rend="num">2,67,293</cell></row>
+          <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">37,474</cell><cell rend="num">50</cell><cell rend="num">1,873,700</cell><cell rend="num">5·14</cell><cell rend="num">3,64,533</cell></row>
+          <row role="data"><cell>15 Siálkot</cell><cell rend="num">11,425</cell><cell rend="num">65</cell><cell rend="num">742,625</cell><cell rend="num">5·65</cell><cell rend="num">1,31,438</cell></row>
+          <row role="data"><cell>16 Lahore</cell><cell rend="num">25,305</cell><cell rend="num">138</cell><cell rend="num">3,492,090</cell><cell rend="num">5·49</cell><cell rend="num">6,36,082</cell></row>
+          <row role="data"><cell>17 Gujránwála</cell><cell rend="num">33,376</cell><cell rend="num">129</cell><cell rend="num">4,305,504</cell><cell rend="num">5·49</cell><cell rend="num">7,84,244</cell></row>
+          <row role="data"><cell>18 Firozepore</cell><cell rend="num">9,680</cell><cell rend="num">158</cell><cell rend="num">1,529,440</cell><cell rend="num">6·17</cell><cell rend="num">2,47,883</cell></row>
+          <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">33,745</cell><cell rend="num">128</cell><cell rend="num">4,319,360</cell><cell rend="num">4·46</cell><cell rend="num">9,68,466</cell></row>
+          <row role="data"><cell>20 Jhelum</cell><cell rend="num">25,557</cell><cell rend="num">122</cell><cell rend="num">3,117,954</cell><cell rend="num">5·27</cell><cell rend="num">5,91,642</cell></row>
+          <row role="data"><cell>21 Gujrát</cell><cell rend="num">24,716</cell><cell rend="num">43</cell><cell rend="num">1,062,788</cell><cell rend="num">4·63</cell><cell rend="num">2,29,543</cell></row>
+          <row role="data"><cell>22 Shahpur</cell><cell rend="num">26,029</cell><cell rend="num">50</cell><cell rend="num">1,301,450</cell><cell rend="num">5·49</cell><cell rend="num">2,37,058</cell></row>
+          <row role="data"><cell>23 Mooltan</cell><cell rend="num">16,550</cell><cell rend="num">82</cell><cell rend="num">1,357,100</cell><cell rend="num">5·65</cell><cell rend="num">2,40,194</cell></row>
+          <row role="data"><cell>24 Jhang</cell><cell rend="num">16,881</cell><cell rend="num">87</cell><cell rend="num">1,468,647</cell><cell rend="num">5·27</cell><cell rend="num">2,78,680</cell></row>
+          <row role="data"><cell>25 Montgomery</cell><cell rend="num">15,838</cell><cell rend="num">149</cell><cell rend="num">2,359,862</cell><cell rend="num">5·31</cell><cell rend="num">4,44,418</cell></row>
+          <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">29,632</cell><cell rend="num">124</cell><cell rend="num">3,674,368</cell><cell rend="num">6·</cell><cell rend="num">6,12,394</cell></row>
+          <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">11,175</cell><cell rend="num">115</cell><cell rend="num">1,285,125</cell><cell rend="num">6·</cell><cell rend="num">2,14,187</cell></row>
+          <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">29,739</cell><cell rend="num">84</cell><cell rend="num">2,498,076</cell><cell rend="num">5·7</cell><cell rend="num">4,38,259</cell></row>
+          <row role="data"><cell>29 Bannu</cell><cell rend="num">7,544</cell><cell rend="num">73</cell><cell rend="num">550,712</cell><cell rend="num">5·36</cell><cell rend="num">1,02,744</cell></row>
+          <row role="data"><cell>30 Pesháwar</cell><cell rend="num">16,468</cell><cell rend="num">105</cell><cell rend="num">1,729,140</cell><cell rend="num">5·23</cell><cell rend="num">3,30,619</cell></row>
+          <row role="data"><cell>31 Hazára</cell><cell rend="num">8,280</cell><cell rend="num">100</cell><cell rend="num">828,000</cell><cell rend="num">4·11</cell><cell rend="num">2,01,460</cell></row>
+          <row role="data"><cell>32 Kohát</cell><cell rend="num">6,396</cell><cell rend="num">121</cell><cell rend="num">773,916</cell><cell rend="num">4·41</cell><cell rend="num">1,75,491</cell></row>
           <row role="data" rend="total"><cell>Total</cell><cell rend="num">668,876</cell><cell>Average 105</cell><cell rend="num">70,013,890</cell><cell>Average 5·66</cell><cell rend="num">1,23,54,344</cell></row>
         </table>
               <pb xml:id="page-181" n="161" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n180_w1400.jpg"/>
@@ -2623,38 +2622,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <head><hi rend="smallcaps">Vegetables.</hi></head>
         <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
         <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-        <row role="data"><cell>1 Delhi</cell><cell rend="num">11,700</cell><cell rend="num">4,753</cell><cell rend="num">55,610,100</cell><cell>43·88</cell><cell rend="num">12,67,322</cell></row>
-        <row role="data"><cell>2 Gurgaon</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013" type="noteref" target="#sec-06-fn-013">1</ref>9,387</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013-2" type="noteref" target="#sec-06-fn-013">1</ref>6,000</cell><cell rend="num">56,322,000</cell><cell>28·8</cell><cell rend="num">19,55,625</cell></row>
-        <row role="data"><cell>3 Kárnal</cell><cell rend="num">846</cell><cell rend="num">4,753</cell><cell rend="num">4,021,038</cell><cell>39·77</cell><cell rend="num">1,01,107</cell></row>
-        <row role="data"><cell>4 Hissar</cell><cell rend="num">3,485</cell><cell>„</cell><cell rend="num">16,564,205</cell><cell>28·8</cell><cell rend="num">5,75,146</cell></row>
-        <row role="data"><cell>5 Rohtak</cell><cell rend="num">920</cell><cell>„</cell><cell rend="num">4,372,760</cell><cell>35·65</cell><cell rend="num">1,22,658</cell></row>
-        <row role="data"><cell>6 Sirsa</cell><cell rend="num">677</cell><cell>„</cell><cell rend="num">3,217,781</cell><cell>27·43</cell><cell rend="num">1,17,308</cell></row>
-        <row role="data"><cell>7 Umballa</cell><cell rend="num">3,495</cell><cell>„</cell><cell rend="num">16,611,735</cell><cell>35·65</cell><cell rend="num">4,65,967</cell></row>
-        <row role="data"><cell>8 Ludhiána.</cell><cell rend="num">7,560</cell><cell>„</cell><cell rend="num">35,932,680</cell><cell>30·17</cell><cell rend="num">11,91,006</cell></row>
-        <row role="data"><cell>9 Simla</cell><cell rend="num">7</cell><cell>„</cell><cell rend="num">33,271</cell><cell>60·34</cell><cell rend="num">551</cell></row>
-        <row role="data"><cell>10 Jullundar</cell><cell rend="num">7,731</cell><cell>„</cell><cell rend="num">36,745,443</cell><cell>27·43</cell><cell rend="num">13,39,607</cell></row>
-        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">3,586</cell><cell>„</cell><cell rend="num">17,044,258</cell><cell>32·91</cell><cell rend="num">5,17,905</cell></row>
-        <row role="data"><cell>12 Kángra</cell><cell rend="num">6,551</cell><cell>„</cell><cell rend="num">31,136,903</cell><cell>49·37</cell><cell rend="num">6,30,684</cell></row>
-        <row role="data"><cell>13 Amritsar</cell><cell rend="num">15,175</cell><cell>„</cell><cell rend="num">72,126,775</cell><cell>36·34</cell><cell rend="num">19,84,776</cell></row>
-        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">6,790</cell><cell>„</cell><cell rend="num">32,272,870</cell><cell>27·43</cell><cell rend="num">11,76,553</cell></row>
-        <row role="data"><cell>15 Siálkot</cell><cell rend="num">3,000</cell><cell>„</cell><cell rend="num">14,259,000</cell><cell>32·91</cell><cell rend="num">4,33,272</cell></row>
-        <row role="data"><cell>16 Lahore</cell><cell rend="num">5,746</cell><cell>„</cell><cell rend="num">27,310,738</cell><cell>24·68</cell><cell rend="num">11,06,593</cell></row>
-        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">56,988</cell><cell>„</cell><cell rend="num">270,863,964</cell><cell>39·77</cell><cell rend="num">68,10,761</cell></row>
-        <row role="data"><cell>18 Firozepore</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013-3" type="noteref" target="#sec-06-fn-013">1</ref>4,274</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013-4" type="noteref" target="#sec-06-fn-013">1</ref>2,015</cell><cell rend="num">8,612,110</cell><cell>32·91</cell><cell rend="num">2,61,686</cell></row>
-        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">4,660</cell><cell rend="num">4,753</cell><cell rend="num">22,148,980</cell><cell>40·45</cell><cell rend="num">5,47,564</cell></row>
-        <row role="data"><cell>20 Jhelum</cell><cell rend="num">3,709</cell><cell>„</cell><cell rend="num">17,628,877</cell><cell>31·54</cell><cell rend="num">5,58,937</cell></row>
-        <row role="data"><cell>21 Gujrát</cell><cell rend="num">21,904</cell><cell>„</cell><cell rend="num">104,109,712</cell><cell>28·8</cell><cell rend="num">36,14,920</cell></row>
+        <row role="data"><cell>1 Delhi</cell><cell rend="num">11,700</cell><cell rend="num">4,753</cell><cell rend="num">55,610,100</cell><cell rend="num">43·88</cell><cell rend="num">12,67,322</cell></row>
+        <row role="data"><cell>2 Gurgaon</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013" type="noteref" target="#sec-06-fn-013">1</ref>9,387</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013-2" type="noteref" target="#sec-06-fn-013">1</ref>6,000</cell><cell rend="num">56,322,000</cell><cell rend="num">28·8</cell><cell rend="num">19,55,625</cell></row>
+        <row role="data"><cell>3 Kárnal</cell><cell rend="num">846</cell><cell rend="num">4,753</cell><cell rend="num">4,021,038</cell><cell rend="num">39·77</cell><cell rend="num">1,01,107</cell></row>
+        <row role="data"><cell>4 Hissar</cell><cell rend="num">3,485</cell><cell>„</cell><cell rend="num">16,564,205</cell><cell rend="num">28·8</cell><cell rend="num">5,75,146</cell></row>
+        <row role="data"><cell>5 Rohtak</cell><cell rend="num">920</cell><cell>„</cell><cell rend="num">4,372,760</cell><cell rend="num">35·65</cell><cell rend="num">1,22,658</cell></row>
+        <row role="data"><cell>6 Sirsa</cell><cell rend="num">677</cell><cell>„</cell><cell rend="num">3,217,781</cell><cell rend="num">27·43</cell><cell rend="num">1,17,308</cell></row>
+        <row role="data"><cell>7 Umballa</cell><cell rend="num">3,495</cell><cell>„</cell><cell rend="num">16,611,735</cell><cell rend="num">35·65</cell><cell rend="num">4,65,967</cell></row>
+        <row role="data"><cell>8 Ludhiána.</cell><cell rend="num">7,560</cell><cell>„</cell><cell rend="num">35,932,680</cell><cell rend="num">30·17</cell><cell rend="num">11,91,006</cell></row>
+        <row role="data"><cell>9 Simla</cell><cell rend="num">7</cell><cell>„</cell><cell rend="num">33,271</cell><cell rend="num">60·34</cell><cell rend="num">551</cell></row>
+        <row role="data"><cell>10 Jullundar</cell><cell rend="num">7,731</cell><cell>„</cell><cell rend="num">36,745,443</cell><cell rend="num">27·43</cell><cell rend="num">13,39,607</cell></row>
+        <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">3,586</cell><cell>„</cell><cell rend="num">17,044,258</cell><cell rend="num">32·91</cell><cell rend="num">5,17,905</cell></row>
+        <row role="data"><cell>12 Kángra</cell><cell rend="num">6,551</cell><cell>„</cell><cell rend="num">31,136,903</cell><cell rend="num">49·37</cell><cell rend="num">6,30,684</cell></row>
+        <row role="data"><cell>13 Amritsar</cell><cell rend="num">15,175</cell><cell>„</cell><cell rend="num">72,126,775</cell><cell rend="num">36·34</cell><cell rend="num">19,84,776</cell></row>
+        <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">6,790</cell><cell>„</cell><cell rend="num">32,272,870</cell><cell rend="num">27·43</cell><cell rend="num">11,76,553</cell></row>
+        <row role="data"><cell>15 Siálkot</cell><cell rend="num">3,000</cell><cell>„</cell><cell rend="num">14,259,000</cell><cell rend="num">32·91</cell><cell rend="num">4,33,272</cell></row>
+        <row role="data"><cell>16 Lahore</cell><cell rend="num">5,746</cell><cell>„</cell><cell rend="num">27,310,738</cell><cell rend="num">24·68</cell><cell rend="num">11,06,593</cell></row>
+        <row role="data"><cell>17 Gujránwála</cell><cell rend="num">56,988</cell><cell>„</cell><cell rend="num">270,863,964</cell><cell rend="num">39·77</cell><cell rend="num">68,10,761</cell></row>
+        <row role="data"><cell>18 Firozepore</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013-3" type="noteref" target="#sec-06-fn-013">1</ref>4,274</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-013-4" type="noteref" target="#sec-06-fn-013">1</ref>2,015</cell><cell rend="num">8,612,110</cell><cell rend="num">32·91</cell><cell rend="num">2,61,686</cell></row>
+        <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">4,660</cell><cell rend="num">4,753</cell><cell rend="num">22,148,980</cell><cell rend="num">40·45</cell><cell rend="num">5,47,564</cell></row>
+        <row role="data"><cell>20 Jhelum</cell><cell rend="num">3,709</cell><cell>„</cell><cell rend="num">17,628,877</cell><cell rend="num">31·54</cell><cell rend="num">5,58,937</cell></row>
+        <row role="data"><cell>21 Gujrát</cell><cell rend="num">21,904</cell><cell>„</cell><cell rend="num">104,109,712</cell><cell rend="num">28·8</cell><cell rend="num">36,14,920</cell></row>
         <row role="data"><cell>22 Shahpur</cell><cell rend="num">11,072</cell><cell>„</cell><cell rend="num">52,625,216</cell><cell>..</cell><cell>..</cell></row>
-        <row role="data"><cell>23 Mooltan</cell><cell rend="num">29,239</cell><cell>„</cell><cell rend="num">138,972,967</cell><cell>26·74</cell><cell rend="num">51,97,194</cell></row>
-        <row role="data"><cell>24 Jhang</cell><cell rend="num">23,203</cell><cell>„</cell><cell rend="num">110,283,859</cell><cell>20·57</cell><cell rend="num">53,61,393</cell></row>
-        <row role="data"><cell>25 Montgomery</cell><cell rend="num">1,423</cell><cell>„</cell><cell rend="num">6,763,519</cell><cell>27·43</cell><cell rend="num">2,46,574</cell></row>
-        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">3,095</cell><cell>„</cell><cell rend="num">14,710,535</cell><cell>21·25</cell><cell rend="num">6,92,260</cell></row>
-        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">803</cell><cell>„</cell><cell rend="num">3,816,659</cell><cell>33·42</cell><cell rend="num">1,14,202</cell></row>
-        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">794</cell><cell>„</cell><cell rend="num">3,773,882</cell><cell>20·57</cell><cell rend="num">1,83,465</cell></row>
-        <row role="data"><cell>29 Bannu</cell><cell rend="num">4,152</cell><cell>„</cell><cell rend="num">19,734,456</cell><cell>45·25</cell><cell rend="num">4,36,120</cell></row>
-        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">3,631</cell><cell>„</cell><cell rend="num">17,258,143</cell><cell>32·05</cell><cell rend="num">5,38,475</cell></row>
-        <row role="data"><cell>31 Hazára</cell><cell rend="num">598</cell><cell>„</cell><cell rend="num">2,842,294</cell><cell>45·25</cell><cell rend="num">62,813</cell></row>
-        <row role="data"><cell>32 Kohát</cell><cell rend="num">599</cell><cell>„</cell><cell rend="num">2,847,047</cell><cell>31·45</cell><cell rend="num">90,526</cell></row>
+        <row role="data"><cell>23 Mooltan</cell><cell rend="num">29,239</cell><cell>„</cell><cell rend="num">138,972,967</cell><cell rend="num">26·74</cell><cell rend="num">51,97,194</cell></row>
+        <row role="data"><cell>24 Jhang</cell><cell rend="num">23,203</cell><cell>„</cell><cell rend="num">110,283,859</cell><cell rend="num">20·57</cell><cell rend="num">53,61,393</cell></row>
+        <row role="data"><cell>25 Montgomery</cell><cell rend="num">1,423</cell><cell>„</cell><cell rend="num">6,763,519</cell><cell rend="num">27·43</cell><cell rend="num">2,46,574</cell></row>
+        <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">3,095</cell><cell>„</cell><cell rend="num">14,710,535</cell><cell rend="num">21·25</cell><cell rend="num">6,92,260</cell></row>
+        <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">803</cell><cell>„</cell><cell rend="num">3,816,659</cell><cell rend="num">33·42</cell><cell rend="num">1,14,202</cell></row>
+        <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">794</cell><cell>„</cell><cell rend="num">3,773,882</cell><cell rend="num">20·57</cell><cell rend="num">1,83,465</cell></row>
+        <row role="data"><cell>29 Bannu</cell><cell rend="num">4,152</cell><cell>„</cell><cell rend="num">19,734,456</cell><cell rend="num">45·25</cell><cell rend="num">4,36,120</cell></row>
+        <row role="data"><cell>30 Pesháwar</cell><cell rend="num">3,631</cell><cell>„</cell><cell rend="num">17,258,143</cell><cell rend="num">32·05</cell><cell rend="num">5,38,475</cell></row>
+        <row role="data"><cell>31 Hazára</cell><cell rend="num">598</cell><cell>„</cell><cell rend="num">2,842,294</cell><cell rend="num">45·25</cell><cell rend="num">62,813</cell></row>
+        <row role="data"><cell>32 Kohát</cell><cell rend="num">599</cell><cell>„</cell><cell rend="num">2,847,047</cell><cell rend="num">31·45</cell><cell rend="num">90,526</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">256,800</cell><cell>Average 4,753</cell><cell rend="num">1,220,573,777</cell><cell>Average 30·98</cell><cell>3,77,02,970 for 1,167,948,561 lbs.</cell></row>
       </table>
             <p>The prices I have taken above are given in the Report for potato only, and the average comes to, say, 31 lbs. per Re. 1. This is a high average price. The average price of potato will be nearer 60 than 31 lbs. I take, however, the average of 31 lbs.</p>
@@ -2669,38 +2668,38 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <head><hi rend="smallcaps">Sugar.</hi></head>
           <row role="label"><cell role="label">Districts.</cell><cell role="label">Acres.</cell><cell role="label">Per Acre.</cell><cell role="label">Total Quantity.</cell><cell role="label">1st sort. Price per Re. 1.</cell><cell role="label">Total Value.</cell></row>
           <row role="label"><cell role="label"></cell><cell role="label"></cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">lbs.</cell><cell role="label">Rs.</cell></row>
-          <row role="data"><cell>1 Delhi</cell><cell rend="num">34,881</cell><cell rend="num"><hi rend="sup">1,2</hi>1,500</cell><cell rend="num">52,321,500</cell><cell>5·49</cell><cell rend="num">95,30,328</cell></row>
-          <row role="data"><cell>2 Gurgaon</cell><cell rend="num">1,125</cell><cell rend="num">646</cell><cell rend="num">726,750</cell><cell>6·68</cell><cell rend="num">1,08,795</cell></row>
-          <row role="data"><cell>3 Kárnal</cell><cell rend="num">14,309</cell><cell>,,</cell><cell rend="num">9,243,614</cell><cell>7·03</cell><cell rend="num">13,14,881</cell></row>
+          <row role="data"><cell>1 Delhi</cell><cell rend="num">34,881</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014" type="noteref" target="#sec-06-fn-014">1</ref><hi rend="sup">, </hi><ref xml:id="ref-sec-06-fn-015" type="noteref" target="#sec-06-fn-015">2</ref>1,500</cell><cell rend="num">52,321,500</cell><cell rend="num">5·49</cell><cell rend="num">95,30,328</cell></row>
+          <row role="data"><cell>2 Gurgaon</cell><cell rend="num">1,125</cell><cell rend="num">646</cell><cell rend="num">726,750</cell><cell rend="num">6·68</cell><cell rend="num">1,08,795</cell></row>
+          <row role="data"><cell>3 Kárnal</cell><cell rend="num">14,309</cell><cell>,,</cell><cell rend="num">9,243,614</cell><cell rend="num">7·03</cell><cell rend="num">13,14,881</cell></row>
           <row role="data"><cell>4 Hissar</cell><cell rend="num">34</cell><cell>,,</cell><cell rend="num"><hi rend="sup">3</hi>21,964</cell><cell>..</cell><cell>..</cell></row>
-          <row role="data"><cell>5 Rohtak</cell><cell rend="num">33,324</cell><cell>,,</cell><cell rend="num">21,527,304</cell><cell>8·14</cell><cell rend="num">26,44,631</cell></row>
-          <row role="data"><cell>6 Sirsa</cell><cell rend="num">6</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014" type="noteref" target="#sec-06-fn-014">1</ref>389</cell><cell rend="num">2,334</cell><cell>6·34</cell><cell rend="num">368</cell></row>
-          <row role="data"><cell>7 Umballa</cell><cell rend="num">25,540</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-2" type="noteref" target="#sec-06-fn-014">1</ref>280</cell><cell rend="num">7,151,200</cell><cell>5·83</cell><cell rend="num">12,26,620</cell></row>
-          <row role="data"><cell>8 Ludhiána</cell><cell rend="num">14,400</cell><cell rend="num">661</cell><cell rend="num">9,518,400</cell><cell>6·86</cell><cell rend="num">13,87,521</cell></row>
+          <row role="data"><cell>5 Rohtak</cell><cell rend="num">33,324</cell><cell>,,</cell><cell rend="num">21,527,304</cell><cell rend="num">8·14</cell><cell rend="num">26,44,631</cell></row>
+          <row role="data"><cell>6 Sirsa</cell><cell rend="num">6</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-2" type="noteref" target="#sec-06-fn-014">1</ref>389</cell><cell rend="num">2,334</cell><cell rend="num">6·34</cell><cell rend="num">368</cell></row>
+          <row role="data"><cell>7 Umballa</cell><cell rend="num">25,540</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-3" type="noteref" target="#sec-06-fn-014">1</ref>280</cell><cell rend="num">7,151,200</cell><cell rend="num">5·83</cell><cell rend="num">12,26,620</cell></row>
+          <row role="data"><cell>8 Ludhiána</cell><cell rend="num">14,400</cell><cell rend="num">661</cell><cell rend="num">9,518,400</cell><cell rend="num">6·86</cell><cell rend="num">13,87,521</cell></row>
           <row role="data"><cell>9 Simla</cell><cell>..</cell><cell>..</cell><cell>..</cell><cell>..</cell><cell>..</cell></row>
-          <row role="data"><cell>10 Jullundar</cell><cell rend="num">43,963</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-3" type="noteref" target="#sec-06-fn-014">1</ref>531</cell><cell rend="num">23,344,353</cell><cell>6·51</cell><cell rend="num">35,85,922</cell></row>
-          <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">42,015</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-4" type="noteref" target="#sec-06-fn-014">1</ref>597</cell><cell rend="num">25,082,955</cell><cell>6·51</cell><cell rend="num">38,52,988</cell></row>
-          <row role="data"><cell>12 Kángra</cell><cell rend="num">8,139</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-5" type="noteref" target="#sec-06-fn-014">1</ref>494</cell><cell rend="num">4,020,666</cell><cell>6·43</cell><cell rend="num">6,25,297</cell></row>
-          <row role="data"><cell>13 Amritsar</cell><cell rend="num">36,579</cell><cell rend="num">646</cell><cell rend="num">23,630,034</cell><cell>7·11</cell><cell rend="num">33,23,492</cell></row>
-          <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">41,375</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-6" type="noteref" target="#sec-06-fn-014">1</ref>360</cell><cell rend="num">14,895,000</cell><cell>5·65</cell><cell rend="num">26,36,283</cell></row>
-          <row role="data"><cell>15 Siálkot</cell><cell rend="num">29,009</cell><cell rend="num">646</cell><cell rend="num">18,739,814</cell><cell>6·51</cell><cell rend="num">28,78,619</cell></row>
-          <row role="data"><cell>16 Lahore</cell><cell rend="num">2,527</cell><cell>,,</cell><cell rend="num">1,632,442</cell><cell>5·65</cell><cell rend="num">2,88,927</cell></row>
-          <row role="data"><cell>17 Gujránwála</cell><cell rend="num">26,625</cell><cell>,,</cell><cell rend="num">17,199,750</cell><cell>7·2</cell><cell rend="num">25,27,743</cell></row>
-          <row role="data"><cell>18 Firozepore</cell><cell rend="num">1,916</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-7" type="noteref" target="#sec-06-fn-014">1</ref>410</cell><cell rend="num">785,560</cell><cell>6·</cell><cell rend="num">1,30,926</cell></row>
-          <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">2,381</cell><cell rend="num">646</cell><cell rend="num">1,538,126</cell><cell>6·34</cell><cell rend="num">2,42,606</cell></row>
-          <row role="data"><cell>20 Jhelum</cell><cell rend="num">414</cell><cell>,,</cell><cell rend="num">267,444</cell><cell>5·83</cell><cell rend="num">45,873</cell></row>
-          <row role="data"><cell>21 Gujrát</cell><cell rend="num">7,221</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-8" type="noteref" target="#sec-06-fn-014">1</ref>660</cell><cell rend="num">4,765,860</cell><cell>6·51</cell><cell rend="num">7,32,082</cell></row>
+          <row role="data"><cell>10 Jullundar</cell><cell rend="num">43,963</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-4" type="noteref" target="#sec-06-fn-014">1</ref>531</cell><cell rend="num">23,344,353</cell><cell rend="num">6·51</cell><cell rend="num">35,85,922</cell></row>
+          <row role="data"><cell>11 Hoshiarpur</cell><cell rend="num">42,015</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-5" type="noteref" target="#sec-06-fn-014">1</ref>597</cell><cell rend="num">25,082,955</cell><cell rend="num">6·51</cell><cell rend="num">38,52,988</cell></row>
+          <row role="data"><cell>12 Kángra</cell><cell rend="num">8,139</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-6" type="noteref" target="#sec-06-fn-014">1</ref>494</cell><cell rend="num">4,020,666</cell><cell rend="num">6·43</cell><cell rend="num">6,25,297</cell></row>
+          <row role="data"><cell>13 Amritsar</cell><cell rend="num">36,579</cell><cell rend="num">646</cell><cell rend="num">23,630,034</cell><cell rend="num">7·11</cell><cell rend="num">33,23,492</cell></row>
+          <row role="data"><cell>14 Gurdáspur</cell><cell rend="num">41,375</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-7" type="noteref" target="#sec-06-fn-014">1</ref>360</cell><cell rend="num">14,895,000</cell><cell rend="num">5·65</cell><cell rend="num">26,36,283</cell></row>
+          <row role="data"><cell>15 Siálkot</cell><cell rend="num">29,009</cell><cell rend="num">646</cell><cell rend="num">18,739,814</cell><cell rend="num">6·51</cell><cell rend="num">28,78,619</cell></row>
+          <row role="data"><cell>16 Lahore</cell><cell rend="num">2,527</cell><cell>,,</cell><cell rend="num">1,632,442</cell><cell rend="num">5·65</cell><cell rend="num">2,88,927</cell></row>
+          <row role="data"><cell>17 Gujránwála</cell><cell rend="num">26,625</cell><cell>,,</cell><cell rend="num">17,199,750</cell><cell rend="num">7·2</cell><cell rend="num">25,27,743</cell></row>
+          <row role="data"><cell>18 Firozepore</cell><cell rend="num">1,916</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-8" type="noteref" target="#sec-06-fn-014">1</ref>410</cell><cell rend="num">785,560</cell><cell rend="num">6·</cell><cell rend="num">1,30,926</cell></row>
+          <row role="data"><cell>19 Ráwalpindi</cell><cell rend="num">2,381</cell><cell rend="num">646</cell><cell rend="num">1,538,126</cell><cell rend="num">6·34</cell><cell rend="num">2,42,606</cell></row>
+          <row role="data"><cell>20 Jhelum</cell><cell rend="num">414</cell><cell>,,</cell><cell rend="num">267,444</cell><cell rend="num">5·83</cell><cell rend="num">45,873</cell></row>
+          <row role="data"><cell>21 Gujrát</cell><cell rend="num">7,221</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-9" type="noteref" target="#sec-06-fn-014">1</ref>660</cell><cell rend="num">4,765,860</cell><cell rend="num">6·51</cell><cell rend="num">7,32,082</cell></row>
           <row role="data"><cell>22 Shahpur</cell><cell rend="num">1,312</cell><cell rend="num">646</cell><cell rend="num"><hi rend="sup">3</hi>847,552</cell><cell>..</cell><cell>..</cell></row>
-          <row role="data"><cell>23 Mooltan</cell><cell rend="num">3,726</cell><cell>,,</cell><cell rend="num">2,406,996</cell><cell>6·17</cell><cell rend="num">3,90,112</cell></row>
-          <row role="data"><cell>24 Jhang</cell><cell rend="num">260</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-9" type="noteref" target="#sec-06-fn-014">1</ref>261</cell><cell rend="num">67,860</cell><cell>5·91</cell><cell rend="num">11,482</cell></row>
-          <row role="data"><cell>25 Montgomery</cell><cell rend="num">113</cell><cell rend="num">646</cell><cell rend="num">72,998</cell><cell>6·17</cell><cell rend="num">11,831</cell></row>
-          <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">4,355</cell><cell>,,</cell><cell rend="num">2,813,330</cell><cell>5·83</cell><cell rend="num">4,82,560</cell></row>
-          <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">88</cell><cell>,,</cell><cell rend="num">56,848</cell><cell>5·65</cell><cell rend="num">10,061</cell></row>
-          <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">55</cell><cell>,,</cell><cell rend="num">35,530</cell><cell>5·23</cell><cell rend="num">6,793</cell></row>
-          <row role="data"><cell>29 Bannu</cell><cell rend="num">5,443</cell><cell>,,</cell><cell rend="num">3,516,178</cell><cell>5·36</cell><cell rend="num">6,56,003</cell></row>
-          <row role="data"><cell>30 Pesháwar</cell><cell rend="num">9,914</cell><cell>,,</cell><cell rend="num">6,404,444</cell><cell>6·08</cell><cell rend="num">10,53,362</cell></row>
-          <row role="data"><cell>31 Hazára</cell><cell rend="num">561</cell><cell>,,</cell><cell rend="num">362,406</cell><cell>5·49</cell><cell rend="num">66,022</cell></row>
-          <row role="data"><cell>32 Kohát</cell><cell rend="num">20</cell><cell>,,</cell><cell rend="num">12,920</cell><cell>5·74</cell><cell rend="num">2,250</cell></row>
+          <row role="data"><cell>23 Mooltan</cell><cell rend="num">3,726</cell><cell>,,</cell><cell rend="num">2,406,996</cell><cell rend="num">6·17</cell><cell rend="num">3,90,112</cell></row>
+          <row role="data"><cell>24 Jhang</cell><cell rend="num">260</cell><cell rend="num"><ref xml:id="ref-sec-06-fn-014-10" type="noteref" target="#sec-06-fn-014">1</ref>261</cell><cell rend="num">67,860</cell><cell rend="num">5·91</cell><cell rend="num">11,482</cell></row>
+          <row role="data"><cell>25 Montgomery</cell><cell rend="num">113</cell><cell rend="num">646</cell><cell rend="num">72,998</cell><cell rend="num">6·17</cell><cell rend="num">11,831</cell></row>
+          <row role="data"><cell>26 Mazaffargarh</cell><cell rend="num">4,355</cell><cell>,,</cell><cell rend="num">2,813,330</cell><cell rend="num">5·83</cell><cell rend="num">4,82,560</cell></row>
+          <row role="data"><cell>27 D. I. Khan</cell><cell rend="num">88</cell><cell>,,</cell><cell rend="num">56,848</cell><cell rend="num">5·65</cell><cell rend="num">10,061</cell></row>
+          <row role="data"><cell>28 D. G. Khan</cell><cell rend="num">55</cell><cell>,,</cell><cell rend="num">35,530</cell><cell rend="num">5·23</cell><cell rend="num">6,793</cell></row>
+          <row role="data"><cell>29 Bannu</cell><cell rend="num">5,443</cell><cell>,,</cell><cell rend="num">3,516,178</cell><cell rend="num">5·36</cell><cell rend="num">6,56,003</cell></row>
+          <row role="data"><cell>30 Pesháwar</cell><cell rend="num">9,914</cell><cell>,,</cell><cell rend="num">6,404,444</cell><cell rend="num">6·08</cell><cell rend="num">10,53,362</cell></row>
+          <row role="data"><cell>31 Hazára</cell><cell rend="num">561</cell><cell>,,</cell><cell rend="num">362,406</cell><cell rend="num">5·49</cell><cell rend="num">66,022</cell></row>
+          <row role="data"><cell>32 Kohát</cell><cell rend="num">20</cell><cell>,,</cell><cell rend="num">12,920</cell><cell rend="num">5·74</cell><cell rend="num">2,250</cell></row>
           <row role="data" rend="total"><cell>Total</cell><cell rend="num">391,630</cell><cell>Average 646</cell><cell rend="num">253,012,132</cell><cell>Average 6·34</cell><cell>3,97,74,378 for 252,142,616 lbs., excluding the two quantities marked <hi rend="sup">3</hi>.</cell></row>
         </table>
               <pb xml:id="page-185" n="165" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n184_w1400.jpg"/>
@@ -2715,24 +2714,24 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
               <table xml:id="tbl-106" rows="23" cols="6">
           <head>PUNJAB, 1876-7. <hi rend="smallcaps">Summary of Produce of All Districts.</hi></head>
           <row role="label"><cell role="label">Produce.</cell><cell role="label">Acres.</cell><cell role="label">Total Quantity lbs.</cell><cell role="label">Average per Acre. lbs.</cell><cell role="label">Total Value. Rs.</cell><cell role="label">Average Price per Re. 1. lbs.</cell></row>
-          <row role="data"><cell>Rice</cell><cell rend="num">708,699</cell><cell rend="num">541,492,369</cell><cell rend="num">796</cell><cell rend="num">2,25,35,693</cell><cell>20·42</cell></row>
-          <row role="data"><cell>Wheat</cell><cell rend="num">6,609,497</cell><cell rend="num">5,332,813,517</cell><cell>840·4</cell><cell rend="num">9,17,42,419</cell><cell>53·48</cell></row>
-          <row role="data"><cell>Makai (Indian Corn)</cell><cell rend="num">1,084,339</cell><cell rend="num">1,593,872,255</cell><cell rend="num">1,500</cell><cell rend="num">2,33,01,265</cell><cell>68·4</cell></row>
-          <row role="data"><cell>Jow (Barley)</cell><cell rend="num">1,874,217</cell><cell rend="num">883,781,444</cell><cell rend="num">503</cell><cell rend="num">1,06,78,175</cell><cell>82·76</cell></row>
-          <row role="data"><cell>Gram</cell><cell rend="num">2,272,236</cell><cell rend="num">1,417,173,807</cell><cell rend="num">645</cell><cell rend="num">1,86,72,194</cell><cell>75·89</cell></row>
-          <row role="data"><cell>Inferior Grains</cell><cell rend="num">6,534,963</cell><cell rend="num">3,169,169,607</cell><cell>510·5</cell><cell rend="num">4,54,14,114</cell><cell>69·78</cell></row>
-          <row role="data"><cell>Poppy (Opium)</cell><cell rend="num">12,348</cell><cell rend="num">154,550</cell><cell>12·51</cell><cell rend="num">3,86,375</cell><cell>·4 { Rs. 2½ per lb. paid by Govt.</cell></row>
-          <row role="data"><cell>Tobacco</cell><cell rend="num">71,867</cell><cell rend="num">60,804,785</cell><cell rend="num">846</cell><cell rend="num">48,32,541</cell><cell>12·58</cell></row>
+          <row role="data"><cell>Rice</cell><cell rend="num">708,699</cell><cell rend="num">541,492,369</cell><cell rend="num">796</cell><cell rend="num">2,25,35,693</cell><cell rend="num">20·42</cell></row>
+          <row role="data"><cell>Wheat</cell><cell rend="num">6,609,497</cell><cell rend="num">5,332,813,517</cell><cell rend="num">840·4</cell><cell rend="num">9,17,42,419</cell><cell rend="num">53·48</cell></row>
+          <row role="data"><cell>Makai (Indian Corn)</cell><cell rend="num">1,084,339</cell><cell rend="num">1,593,872,255</cell><cell rend="num">1,500</cell><cell rend="num">2,33,01,265</cell><cell rend="num">68·4</cell></row>
+          <row role="data"><cell>Jow (Barley)</cell><cell rend="num">1,874,217</cell><cell rend="num">883,781,444</cell><cell rend="num">503</cell><cell rend="num">1,06,78,175</cell><cell rend="num">82·76</cell></row>
+          <row role="data"><cell>Gram</cell><cell rend="num">2,272,236</cell><cell rend="num">1,417,173,807</cell><cell rend="num">645</cell><cell rend="num">1,86,72,194</cell><cell rend="num">75·89</cell></row>
+          <row role="data"><cell>Inferior Grains</cell><cell rend="num">6,534,963</cell><cell rend="num">3,169,169,607</cell><cell rend="num">510·5</cell><cell rend="num">4,54,14,114</cell><cell rend="num">69·78</cell></row>
+          <row role="data"><cell>Poppy (Opium)</cell><cell rend="num">12,348</cell><cell rend="num">154,550</cell><cell rend="num">12·51</cell><cell rend="num">3,86,375</cell><cell>·4 { Rs. 2½ per lb. paid by Govt.</cell></row>
+          <row role="data"><cell>Tobacco</cell><cell rend="num">71,867</cell><cell rend="num">60,804,785</cell><cell rend="num">846</cell><cell rend="num">48,32,541</cell><cell rend="num">12·58</cell></row>
           <row role="data"><cell>Turmeric</cell><cell rend="num">4,130</cell><cell rend="num">677,320</cell><cell>164 (dry)</cell><cell rend="num">67,732</cell><cell rend="num">10</cell></row>
           <row role="data"><cell>Coriander Seed</cell><cell rend="num">6,934</cell><cell rend="num">2,288,220</cell><cell rend="num">330 „</cell><cell rend="num">1,43,014</cell><cell rend="num">16</cell></row>
           <row role="data"><cell>Ginger</cell><cell rend="num">286</cell><cell rend="num">58,630</cell><cell rend="num">205 „</cell><cell rend="num">8,376</cell><cell rend="num">7</cell></row>
           <row role="data"><cell>Chillies</cell><cell rend="num">23,518</cell><cell>3,800,700 (dry)</cell><cell>{ 808 (green) } { 161·6 (dry) }</cell><cell rend="num">4,75,100</cell><cell rend="num">8</cell></row>
           <row role="data"><cell>Other kinds of drugs and spices</cell><cell rend="num">35,074</cell><cell rend="num">11,574,420</cell><cell rend="num">330</cell><cell rend="num">8,26,744</cell><cell rend="num">14</cell></row>
           <row role="data"><cell>Oil Seeds</cell><cell rend="num">846,689</cell><cell rend="num">325,730,071</cell><cell rend="num">392</cell><cell rend="num">1,20,64,076</cell><cell rend="num">27</cell></row>
-          <row role="data"><cell>Cotton</cell><cell rend="num">668,876</cell><cell rend="num">70,013,890</cell><cell rend="num">105</cell><cell rend="num">1,23,54,344</cell><cell>5·66</cell></row>
+          <row role="data"><cell>Cotton</cell><cell rend="num">668,876</cell><cell rend="num">70,013,890</cell><cell rend="num">105</cell><cell rend="num">1,23,54,344</cell><cell rend="num">5·66</cell></row>
           <row role="data"><cell>Hemp</cell><cell rend="num">51,260</cell><cell rend="num">18,770,866</cell><cell rend="num">366</cell><cell rend="num">9,38,543</cell><cell rend="num">20</cell></row>
-          <row role="data"><cell>Kassamba (Safflower)</cell><cell rend="num">24,708</cell><cell rend="num">988,320</cell><cell>40 (dry)</cell><cell rend="num">3,95,328</cell><cell>2·5</cell></row>
-          <row role="data"><cell>Indigo</cell><cell rend="num">129,465</cell><cell rend="num">4,070,941</cell><cell>31·44</cell><cell rend="num">30,53,205</cell><cell rend="num">1⅓</cell></row>
+          <row role="data"><cell>Kassamba (Safflower)</cell><cell rend="num">24,708</cell><cell rend="num">988,320</cell><cell>40 (dry)</cell><cell rend="num">3,95,328</cell><cell rend="num">2·5</cell></row>
+          <row role="data"><cell>Indigo</cell><cell rend="num">129,465</cell><cell rend="num">4,070,941</cell><cell rend="num">31·44</cell><cell rend="num">30,53,205</cell><cell rend="num">1⅓</cell></row>
           <row role="data"><cell>Vegetables</cell><cell rend="num">256,800</cell><cell>{ 1,068,002,055 78,966,000</cell><cell>4,753 2,460</cell><cell>1,06,80,020 25,47,290</cell><cell>100 Green Vegetables 31 Potato</cell></row>
           <row role="data"><cell>Tea</cell><cell rend="num">8,884</cell><cell rend="num">852,864</cell><cell rend="num">96</cell><cell rend="num">2,84,288</cell><cell rend="num">3</cell></row>
           <row role="data"><cell>Sugar</cell><cell rend="num">391,630</cell><cell rend="num">237,831,405</cell><cell rend="num">646</cell><cell rend="num">1,58,55,427</cell><cell>15 { Average of four qualities</cell></row>
@@ -2789,7 +2788,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <head>FOOD PRODUCE, 1876-7.</head>
             <table xml:id="tbl-109" rows="18" cols="4">
         <head>GRAIN.</head>
-        <row role="label"><cell role="label"></cell><cell role="label" cols="3">Total Quantity. lbs.</cell></row>
+        <row role="label"><cell role="label"></cell><cell role="label">Total Quantity. lbs.</cell></row>
         <row role="data"><cell>Rice</cell><cell rend="num">541,492,369</cell></row>
         <row role="data"><cell>Wheat</cell><cell rend="num">5,332,813,517</cell></row>
         <row role="data"><cell>Makai (Indian Corn)</cell><cell rend="num">1,593,872,255</cell></row>
@@ -2851,7 +2850,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item><note xml:id="sec-06-fn-012" place="foot" n="1" target="#ref-sec-06-fn-012">For these (2,311 acres) produce per acre is taken of the average for the others—viz., 31·44.</note></item>
       <item><note xml:id="sec-06-fn-013" place="foot" n="1" target="#ref-sec-06-fn-013">Produce per acre is given for vegetables for these two districts only, and the average of these—viz., 4,753—is applied to all others.</note></item>
       <item><note xml:id="sec-06-fn-014" place="foot" n="1" target="#ref-sec-06-fn-014">For these districts only is the produce per acre given in the Report. I have applied the average of these to others.</note></item>
-      <item><note xml:id="sec-06-fn-015" place="foot" n="2" type="unlinked">This is evidently a mistake. Though other districts, such as <pb n="165" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n184_w1400.jpg"/> Ludhiána, are better than Delhi, and while 661 lbs. is considered a fair average for Ludhiána, 1,500 for Delhi cannot be correct. It is more likely 500 than 1,500. If 500 be adopted, the average will become 487 instead of 646 lbs. And it is also considered that an average of about 489 lbs. will be near the mark. I have allowed the figure 1,500 to remain, though this increases the average above 487 lbs. nearly 32 per cent.</note></item>
+      <item><note xml:id="sec-06-fn-015" place="foot" n="2" target="#ref-sec-06-fn-015">This is evidently a mistake. Though other districts, such as <pb n="165" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n184_w1400.jpg"/> Ludhiána, are better than Delhi, and while 661 lbs. is considered a fair average for Ludhiána, 1,500 for Delhi cannot be correct. It is more likely 500 than 1,500. If 500 be adopted, the average will become 487 instead of 646 lbs. And it is also considered that an average of about 489 lbs. will be near the mark. I have allowed the figure 1,500 to remain, though this increases the average above 487 lbs. nearly 32 per cent.</note></item>
       <item><note xml:id="sec-06-fn-016" place="foot" n="1" target="#ref-sec-06-fn-016">I have taken 1875-6, for, on account of the famines in the Bombay and Madras Presidencies in the year 1876-7, a comparison for the year 1876-7 will be an unfair one.</note></item>
     </list>
   </div>
@@ -3025,7 +3024,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell>Tobacco</cell><cell rend="num">825</cell><cell rend="num">846</cell><cell rend="num">2½</cell><cell>..</cell></row>
         <row role="data"><cell>Fibres</cell><cell rend="num">322</cell><cell rend="num">366</cell><cell rend="num">13¾</cell><cell>..</cell></row>
         <row role="data"><cell>Indigo</cell><cell rend="num">47</cell><cell rend="num">31</cell><cell>..</cell><cell rend="num">33</cell></row>
-        <row role="data"><cell>Opium</cell><cell rend="num">10</cell><cell>12·5</cell><cell rend="num">25</cell><cell>..</cell></row>
+        <row role="data"><cell>Opium</cell><cell rend="num">10</cell><cell rend="num">12·5</cell><cell rend="num">25</cell><cell>..</cell></row>
       </table>
             <p>In the case of indigo, cotton, tobacco, and hemp, the error has not been large, as the incorrect average is adopted by Mr. Danvers for a few districts only. I notice such differences as 2½ and 3 per cent. also, because, in dealing with <pb xml:id="page-210" n="190" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n209_w1400.jpg"/> figures of hundreds and thousands of millions, these percentages, singly as well as collectively, seriously disturb the accuracy of results. It is very necessary to avoid, as much as possible, all <hi rend="italic">avoidable</hi> errors, large or small, so that then reliance can be placed upon the results.</p>
             <p>The Report gives the price of first sort sugar only, but which, applied to the whole quantity of all kinds, makes the value of nearly two-thirds of the whole quantity quite two and a half times greater than it actually is; the over-estimate comes to nearly £1,800,000.</p>
@@ -3039,8 +3038,8 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
         <row role="data"><cell>Cows, Bullocks, and Buffaloes<ref xml:id="ref-sec-07-fn-006" type="noteref" target="#sec-07-fn-006">1</ref></cell><cell rend="num">6,797,561</cell><cell rend="num">6,570,212</cell><cell>..</cell><cell rend="num">227,349</cell><cell rend="num">3⅓</cell></row>
         <row role="data"><cell>Horses</cell><cell rend="num">96,226</cell><cell rend="num">84,639</cell><cell>..</cell><cell rend="num">11,587</cell><cell rend="num">12</cell></row>
         <row role="data"><cell>Ponies.</cell><cell rend="num">51,302</cell><cell rend="num">51,395</cell><cell rend="num">93</cell><cell>..</cell><cell></cell></row>
-        <row role="data"><cell>Donkeys</cell><cell rend="num">257,615</cell><cell rend="num">288,118</cell><cell rend="num">30,503</cell><cell>..</cell><cell>11·8</cell></row>
-        <row role="data"><cell>Camels</cell><cell rend="num">148,582</cell><cell rend="num">165,567</cell><cell rend="num">16,985</cell><cell>..</cell><cell>11·4</cell></row>
+        <row role="data"><cell>Donkeys</cell><cell rend="num">257,615</cell><cell rend="num">288,118</cell><cell rend="num">30,503</cell><cell>..</cell><cell rend="num">11·8</cell></row>
+        <row role="data"><cell>Camels</cell><cell rend="num">148,582</cell><cell rend="num">165,567</cell><cell rend="num">16,985</cell><cell>..</cell><cell rend="num">11·4</cell></row>
         <row role="data" rend="total"><cell>Total</cell><cell rend="num">7,351,286</cell><cell rend="num">7,159,931</cell><cell>═</cell><cell rend="num">191,355</cell><cell></cell></row>
         <row role="data"><cell>Sheep and Goats</cell><cell rend="num">3,803,819</cell><cell rend="num">3,849,842</cell><cell rend="num">46,023</cell><cell>..</cell><cell rend="num">1¼</cell></row>
       </table>
@@ -3547,24 +3546,24 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Now let us see a few more facts. Because a country increases in population it does not necessarily follow that it must become poorer; nor because a country is densely populated that therefore it must be poor. Says Macaulay: “England is a hundredfold more wealthy while it is tenfold denser.” The following figures speak for themselves:—</p>
             <table xml:id="tbl-130" rows="20" cols="3">
         <row role="label"><cell role="label">Countries.</cell><cell role="label">Inhabitants per sq. mile about 1880.</cell><cell role="label">Income per inhabitant (Mulhall’s Dictionary of Statistics, 1886).</cell></row>
-        <row role="data"><cell>Belgium</cell><cell rend="num">487</cell><cell>£22·1</cell></row>
+        <row role="data"><cell>Belgium</cell><cell rend="num">487</cell><cell rend="num">£22·1</cell></row>
         <row role="data"><cell>England</cell><cell>478 (1886)</cell><cell>41 (1882)</cell></row>
         <row role="data"><cell>Holland</cell><cell rend="num">315</cell><cell rend="num">26</cell></row>
         <row role="data"><cell>Italy</cell><cell rend="num">257</cell><cell rend="num">12</cell></row>
         <row role="data"><cell><pb xml:id="page-290" n="270" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n289_w1400.jpg"/> <hi rend="italic">British India</hi></cell><cell rend="num">229</cell><cell rend="num">2</cell></row>
-        <row role="data"><cell>Germany</cell><cell rend="num">217</cell><cell>18·7</cell></row>
-        <row role="data"><cell>Austria</cell><cell rend="num">191</cell><cell>16·3</cell></row>
-        <row role="data"><cell>France</cell><cell rend="num">184</cell><cell>25·7</cell></row>
+        <row role="data"><cell>Germany</cell><cell rend="num">217</cell><cell rend="num">18·7</cell></row>
+        <row role="data"><cell>Austria</cell><cell rend="num">191</cell><cell rend="num">16·3</cell></row>
+        <row role="data"><cell>France</cell><cell rend="num">184</cell><cell rend="num">25·7</cell></row>
         <row role="data"><cell>Switzerland</cell><cell rend="num">184</cell><cell rend="num">16</cell></row>
         <row role="data"><cell>Ireland</cell><cell>153 (1886)</cell><cell>16 (1882)</cell></row>
-        <row role="data"><cell>Denmark</cell><cell rend="num">132</cell><cell>23·2</cell></row>
+        <row role="data"><cell>Denmark</cell><cell rend="num">132</cell><cell rend="num">23·2</cell></row>
         <row role="data"><cell>Scotland</cell><cell>128 (1886)</cell><cell>32 (1882)</cell></row>
-        <row role="data"><cell>Portugal</cell><cell rend="num">126</cell><cell>13·6</cell></row>
+        <row role="data"><cell>Portugal</cell><cell rend="num">126</cell><cell rend="num">13·6</cell></row>
         <row role="data"><cell>Turkey</cell><cell>120 (Mulhall)</cell><cell>4 (Sir E. Baring)</cell></row>
-        <row role="data"><cell>Spain</cell><cell rend="num">85</cell><cell>13·8</cell></row>
-        <row role="data"><cell>Greece</cell><cell rend="num">69</cell><cell>11·8</cell></row>
-        <row role="data"><cell>Russia in Europe</cell><cell rend="num">41</cell><cell>9·9</cell></row>
-        <row role="data"><cell>Sweden</cell><cell rend="num">27</cell><cell rows="2">16·2</cell></row>
+        <row role="data"><cell>Spain</cell><cell rend="num">85</cell><cell rend="num">13·8</cell></row>
+        <row role="data"><cell>Greece</cell><cell rend="num">69</cell><cell rend="num">11·8</cell></row>
+        <row role="data"><cell>Russia in Europe</cell><cell rend="num">41</cell><cell rend="num">9·9</cell></row>
+        <row role="data"><cell>Sweden</cell><cell rend="num">27</cell><cell rend="num" rows="2">16·2</cell></row>
         <row role="data"><cell>Norway</cell><cell rend="num">15</cell></row>
       </table>
             <p>The densest Province of British India is Bengal (443). Thus here are countries denser and thinner than British India, but <hi rend="italic">every one</hi> of them has a far better income than British India. Belgium, denser than the densest Presidency of British India, is eleven times more wealthy; England as dense, is twenty times more wealthy. Here are some very thinly populated countries: Mexico, 13 per square mile; Venezuela, 4·7; Chili, 8·8; Peru, 18·6; Argentine Republic, 2·6; Uruguay, 7·8; and several others. Are they therefore so much richer than England or Belgium? Here is Ireland, at your door. About its people the Duke of Argyll only a few weeks ago (22nd of April last), in the House of Lords, said: “Do not tell me that the Irish labourer is incapable of labour, or energy, or exertion. Place him in favourable circumstances, and there is no better workman than the Irishman. I have myself employed large gangs of Irishmen, and I never saw any navvies work better; and besides that, they were kind and courteous men.” The population of Ireland is less than one-third as dense as that of England; and yet how is it that the income of England is £41 and that of Ireland only £16 per inhabitant, and that the mass of the people do not enjoy the benefit of even that much income, and are admittedly wretchedly poor?</p>
@@ -3905,9 +3904,9 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
           <head><hi rend="smallcaps">Ten Years (1883-1892).</hi></head>
           <row role="label"><cell role="label">Countries,</cell><cell role="label">Imports (including Gold and Silver). £</cell><cell role="label">Exports (including Gold and Silver). £</cell><cell role="label">Excess of Imports over Exports. £</cell><cell role="label">Percentage of Trade Profits</cell></row>
           <row role="data"><cell>United Kingdom (Par. Ret. [C.7,143] 1893.)</cell><cell rend="num">4,247,954,247</cell><cell rend="num">3,203,603,246</cell><cell rend="num">1,044,351,001</cell><cell rend="num">32</cell></row>
-          <row role="data"><cell>Australasia</cell><cell rend="num">643,462,379</cell><cell rend="num">582,264,839</cell><cell rend="num">61,197,540</cell><cell>10·5<ref xml:id="ref-sec-12-fn-036" type="noteref" target="#sec-12-fn-036">1</ref></cell></row>
-          <row role="data"><cell>North American Colonies</cell><cell rend="num">254,963,473</cell><cell rend="num">205,063,294</cell><cell rend="num">49,900,179</cell><cell>24·4</cell></row>
-          <row role="data"><cell>Straits Settlements (Par. Ret. [C.7,144] 1893.)</cell><cell rend="num">204,613,643</cell><cell rend="num">181,781,667</cell><cell rend="num">22,831,976</cell><cell>12·5</cell></row>
+          <row role="data"><cell>Australasia</cell><cell rend="num">643,462,379</cell><cell rend="num">582,264,839</cell><cell rend="num">61,197,540</cell><cell rend="num">10·5<ref xml:id="ref-sec-12-fn-036" type="noteref" target="#sec-12-fn-036">1</ref></cell></row>
+          <row role="data"><cell>North American Colonies</cell><cell rend="num">254,963,473</cell><cell rend="num">205,063,294</cell><cell rend="num">49,900,179</cell><cell rend="num">24·4</cell></row>
+          <row role="data"><cell>Straits Settlements (Par. Ret. [C.7,144] 1893.)</cell><cell rend="num">204,613,643</cell><cell rend="num">181,781,667</cell><cell rend="num">22,831,976</cell><cell rend="num">12·5</cell></row>
         </table>
               <pb xml:id="page-354" n="334" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n353_w1400.jpg"/>
               <p><hi rend="smallcaps">Cape of Good Hope and Natal.</hi> I cannot give figures, as the gold brought into the Colonies from Transvaal is not included in the imports; while exports include gold and silver.</p>
@@ -3969,8 +3968,8 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
             <p>Increase from 1881 to 1891 :—</p>
             <table xml:id="tbl-145" rows="3" cols="3">
         <row role="label"><cell role="label"></cell><cell role="label">Increase.</cell><cell role="label">Population per Square Mile.</cell></row>
-        <row role="data"><cell>England and Wales</cell><cell>11·6 per cent.</cell><cell rend="num">500</cell></row>
-        <row role="data"><cell>British India</cell><cell>9·7   „</cell><cell rend="num">230</cell></row>
+        <row role="data"><cell>England and Wales</cell><cell rend="num">11·6 per cent.</cell><cell rend="num">500</cell></row>
+        <row role="data"><cell>British India</cell><cell rend="num">9·7   „</cell><cell rend="num">230</cell></row>
       </table>
             <p>In 1801 the population of England and Wales (Mulhall's Dictionary, p. 444) was 8,893,000, say 9,000,000.</p>
             <p>In 1884 the population was 27,000,000 (Parl. Ret. [c. 7,143], 1893), or three times as much as in 1801.</p>
@@ -5666,9 +5665,9 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
               <p>Exchange began to decline about the time when Germany demonetised its silver, about 1873. The Statistical Abstract of the United Kingdom, 33rd number, gives the “ average price ” of raw cotton as follows :—</p>
               <table xml:id="tbl-166" rows="4" cols="8">
           <row role="label"><cell role="label">—</cell><cell role="label">1873.</cell><cell role="label">1874.</cell><cell role="label">1875.</cell><cell role="label">1876.</cell><cell role="label">1877.</cell><cell role="label">1878.</cell><cell role="label">1879.</cell></row>
-          <row role="data"><cell>Per cwt. £</cell><cell>4·01</cell><cell>3·62</cell><cell>3·47</cell><cell>3·02</cell><cell>2·93</cell><cell>2·80</cell><cell>2·76</cell></row>
+          <row role="data"><cell>Per cwt. £</cell><cell rend="num">4·01</cell><cell rend="num">3·62</cell><cell rend="num">3·47</cell><cell rend="num">3·02</cell><cell rend="num">2·93</cell><cell rend="num">2·80</cell><cell rend="num">2·76</cell></row>
           <row role="data" rend="header"><cell>—</cell><cell rend="num">1880.</cell><cell rend="num">1881.</cell><cell rend="num">1882.</cell><cell rend="num">1883.</cell><cell rend="num">1884.</cell><cell rend="num">1885.</cell><cell>—</cell></row>
-          <row role="data"><cell>Per cwt. £</cell><cell>2·94</cell><cell>2·92</cell><cell>2·93</cell><cell>2·91</cell><cell>2·85</cell><cell>2·86</cell><cell>—</cell></row>
+          <row role="data"><cell>Per cwt. £</cell><cell rend="num">2·94</cell><cell rend="num">2·92</cell><cell rend="num">2·93</cell><cell rend="num">2·91</cell><cell rend="num">2·85</cell><cell rend="num">2·86</cell><cell>—</cell></row>
         </table>
               <p>This shows a fall of nearly 30 per cent.</p>
               <p>Now Mr. Furrell’s letter. He is right in supposing that the shipper’s instructions mean not to sell below the limit. I have been a merchant and an agent in the City for some 25 years, and, knowing full well what my shipper meant, I sold at the best price I could get. He is also right in saying that the price is determined by the whole of the conditions affecting the market at the moment, and that is just the reason why, as I have said above, I did not refer to actual prices. So far we agree, but Mr. Furrell’s fallacy begins in this sentence : “ Other things being equal, the instant effect of a sudden fall in exchange is to increase the exporter’s margin of profit.” Here he first forgets the “ whole of the conditions ” to which he referred in the previous paragraph, as determining the price at any moment, and next he forgets that the increase of the margin takes place in the case of those exporters only who have already entered into their transactions, and those transactions at the moment are uncompleted, so far as the remittances of the proceeds are concerned. But those exporters who have yet to begin their transactions have no such increase in their margin of profit, as they have not yet had any transaction or margin of profit, pending or existing. I took the simplest instance of an exporter entering into a transaction at a particular rate of exchange, and <pb xml:id="page-572" n="552" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n571_w1400.jpg"/> described the process of the operation of that transaction from its initiation, as far as exchange alone was concerned, independent of “the whole of the conditions.” And then I further explained that any fluctuation in exchange during the pendency of the transacton was the exporter’s further chance of profit or loss. But I may go further, and now explain that even in the case of transactions already entered into, the fluctuations in exchange do not affect the exporter in the bulk of the trade. The bulk of the shipments from India are drawn against, and as soon as this is done, the exporter has no further interest at all in any subsequent fluctuations in exchange, beyond his little margin above the amount of his bill, and thus it will be seen that in most cases there is no instant effect to increase the exporter’s margin of profit.</p>
@@ -6410,25 +6409,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Brass : Statistics 325, in Punjab 167</item>
       <item>Brazil : Exports of British produce per head 257 ; Revenue per head 258</item>
       <item>Bright, Mr. John : 267, 268, 302, 304, 578, 620 ; on admission of natives to covenanted C. S. 409-10, 413 ; on British policy in India 279, 308-9, 630 ; on the Poverty of India 315-6, 339 ; on Salaries, etc. 222</item>
-      <item>British Empire : Exports 254, 256</item>
-      <item>,, Guiana : Revenue per head 258</item>
-      <item>,, Honduras : Exports per head 256</item>
-      <item>,, India : Condition 280 <hi rend="italic">sqq.</hi>, 636-42</item>
-      <item>,, ,, Earning per head 246, 248</item>
-      <item>,, ,, Exports—<hi rend="italic">v.</hi> Exports</item>
-      <item>,, ,, Imports from United Kingdom 35, 36</item>
-      <item>,, ,, Income 24-5</item>
-      <item>,, ,, Indebtedness 565-8</item>
-      <item>,, ,, Land - revenue 298 ; Land-tax 2</item>
-      <item>,, ,, Population 339, per sq. mile 270</item>
-      <item>,, ,, Produce 2 <hi rend="italic">sqq.</hi>, 23, 24</item>
-      <item>,, ,, Production 126</item>
-      <item>,, ,, Public Debt 335-6</item>
-      <item>,, ,, Reform 577-624 ; Reform Society 577-8</item>
-      <item>,, ,, Revenue 221, 275-93, 298, per head 258 ; Sources of 288-9</item>
-      <item>,, ,, Wealth 24-5</item>
-      <item>,, Indian Association of Bengal 364</item>
-      <item>,, Policy and Duties towards India : 235 <hi rend="italic">sqq.</hi></item>
+      <item>British Empire : Exports 254, 256 ,, Guiana : Revenue per head 258 ,, Honduras : Exports per head 256 ,, India : Condition 280 <hi rend="italic">sqq.</hi>, 636-42 ,, ,, Earning per head 246, 248 ,, ,, Exports—<hi rend="italic">v.</hi> Exports ,, ,, Imports from United Kingdom 35, 36 ,, ,, Income 24-5 ,, ,, Indebtedness 565-8 ,, ,, Land - revenue 298 ; Land-tax 2 ,, ,, Population 339, per sq. mile 270 ,, ,, Produce 2 <hi rend="italic">sqq.</hi>, 23, 24 ,, ,, Production 126 ,, ,, Public Debt 335-6 ,, ,, Reform 577-624 ; Reform Society 577-8 ,, ,, Revenue 221, 275-93, 298, per head 258 ; Sources of 288-9 ,, ,, Wealth 24-5 ,, Indian Association of Bengal 364 ,, Policy and Duties towards India : 235 <hi rend="italic">sqq.</hi></item>
       <item>,, Rule in India : 1, 211, 212, 294, 614-24 ; its Effects 345-6, on prices 72-9, 82</item>
       <item>Broach : Prices 71</item>
       <item>Brown, Mr. F. C. : 578</item>
@@ -6447,8 +6428,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Camel-labour : 324</item>
       <item>Camels : Rearing, in Punjab 190-1 ; Value 193</item>
       <item>Cameron, Mr. : 410</item>
-      <item>Campbell, Mr. G. : 323</item>
-      <item>,, Sir George : 47-8, 243</item>
+      <item>Campbell, Mr. G. : 323 ,, Sir George : 47-8, 243</item>
       <item>Canada : Earning per head 246 ; Expenditure per head and income 249 ; Exports of British produce 628</item>
       <item>Canara, South : 16, 17 ; Price of rice 70</item>
       <item>Candahar : 590</item>
@@ -6463,9 +6443,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Chamberlain, Rt. Hon. J. : 362</item>
       <item>Chandabhoy, Mr. Naservanji : 110</item>
       <item>Chapman, Mr. Wallis : 636</item>
-      <item>Chatterji, Mr. : 395-7</item>
-      <item>,, Mr. Khetternath : 111</item>
-      <item>,, Mr. Madhosadan : 111, 112</item>
+      <item>Chatterji, Mr. : 395-7 ,, Mr. Khetternath : 111 ,, Mr. Madhosadan : 111, 112</item>
       <item>Charan, Mr. Huree : 111</item>
       <item>Chetham, Mr. J. : 578</item>
       <item>Children in Bengal : Proportion to adults 30</item>
@@ -6482,12 +6460,9 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Churchill, Lord Randolph : 309, 543, 558, 559 ; on Taxation of India 620-1</item>
       <item>Cinchona : in Bengal 328</item>
       <item>Civil Service, Indian : 95 <hi rend="italic">sqq.</hi></item>
-      <item>,, Covenanted : Admission of natives to 398-465</item>
-      <item>,, Uncovenanted : 103-5, 210</item>
+      <item>,, Covenanted : Admission of natives to 398-465 ,, Uncovenanted : 103-5, 210</item>
       <item>Clark, Dr. : 267</item>
-      <item>Clarke, Mr. J. : 483</item>
-      <item>,, Col. T. G. : 483</item>
-      <item>,, Mr. W. H. : 578</item>
+      <item>Clarke, Mr. J. : 483 ,, Col. T. G. : 483 ,, Mr. W. H. : 578</item>
       <item>Clerk, Sir George : 370, 619</item>
       <item>Clive, Lord : 276, 392, 596, 600 ; on British rule in India 614-5</item>
       <item>Cloth : 126</item>
@@ -6537,8 +6512,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>D. I. Khan : Barley 152 ; Cotton 160 ; Gram 153 : Inferior grains 154 ; Mahai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150</item>
       <item>Dacca : 597 ; Prices 71 ; Wages 82-5</item>
       <item>Dal : Daily requirement of a labourer, 171</item>
-      <item>Danvers, Mr. F. C. : 176 <hi rend="italic">sqq.</hi>, 199, 203, 223</item>
-      <item>,, Mr. J. : 195</item>
+      <item>Danvers, Mr. F. C. : 176 <hi rend="italic">sqq.</hi>, 199, 203, 223 ,, Mr. J. : 195</item>
       <item>Deb, Mr. Kumar Nil K. : 470</item>
       <item>Deccan Riots Commission : 268</item>
     </list>
@@ -6901,22 +6875,19 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Miall, Mr. E. : 578</item>
       <item>Military : Examinations 487-504; Expenditure 307 <hi rend="italic">sqq.</hi></item>
       <item>Milk : in Punjab 192</item>
-      <item>Mill, James : 601, 616</item>
-      <item>,, John Stuart : 55-6, 217</item>
+      <item>Mill, James : 601, 616 ,, John Stuart : 55-6, 217</item>
       <item>Mills : Statistics 325</item>
       <item>Milnes, Mr. Monckton : 411, 413-4</item>
       <item>Mines : Statistics 324; in Punjab 168</item>
       <item>Mints, Closing of the : 529, 531-4</item>
       <item>Mirzapore : Statistics 12; Wheat 9, 11, price of 70</item>
       <item>Misri — <hi rend="italic">v.</hi> Sugar</item>
-      <item>Mitra, Mr. Romesh Chandra : 449</item>
-      <item>,, Mr. Nilmoner : 111</item>
+      <item>Mitra, Mr. Romesh Chandra : 449 ,, Mr. Nilmoner : 111</item>
       <item>Mond, Mr. Alfred : 627, 635</item>
       <item>Monteagle, Lord : 96, 409</item>
       <item>Monteath, Mr. J. : 483</item>
       <item>Montgomery : Barley 152; Cotton 160; Gram 153; Hemp 161; Indigo 162; Inferior grains 154; Makai 151; Oil seeds 159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat 150</item>
-      <item>Mooltan : Produce 7-8; Barley 152; Cotton 160; Gram 153; Indigo 162; Inferior grains 154; Makai</item>
-      <item>151; Oil seeds 159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat 150</item>
+      <item>Mooltan : Produce 7-8; Barley 152; Cotton 160; Gram 153; Indigo 162; Inferior grains 154; Makai 151; Oil seeds 159; Rice 149; Sugar 164; Tobacco 157; Vegetables 163; Wheat 150</item>
       <item>Moong : 27 (<hi rend="italic">n.</hi>)</item>
       <item>Moore, Mr. G. H. : 578</item>
       <item>Moradabad : 11, 12; Wheat 9, 11, price of 70, 80</item>
@@ -6924,8 +6895,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Moro, Gulf of : Early trade 39</item>
       <item>Moth : Consumption of 155; Yield in Punjab 154, 169</item>
       <item>Mudliar, Mr. : 449</item>
-      <item>Mukerji, Babu Joykissen : 470</item>
-      <item>,, Mr. : 654, 658</item>
+      <item>Mukerji, Babu Joykissen : 470 ,, Mr. : 654, 658</item>
       <item>Mulik Amber : 590-1</item>
       <item>Multan : Price of wheat 70, 81; Wages 84</item>
       <item>Múng : Yield in Punjab 154</item>
@@ -6973,8 +6943,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Nursingpore : Price of rice 69;<lb/>Wages 85</item>
       <item>Nutt, Major : 259, 621</item>
       <item>O'Connor, Roderick : 452</item>
-      <item>Oil : in Punjab 167</item>
-      <item>,,   Seeds : 323-4; in Bengal 327;<lb/>in Central Provinces 5 (and<lb/><hi rend="italic">n.</hi>); in Punjab 159-66 <hi rend="italic">passim</hi></item>
+      <item>Oil : in Punjab 167 ,,   Seeds : 323-4; in Bengal 327;<lb/>in Central Provinces 5 (and<lb/><hi rend="italic">n.</hi>); in Punjab 159-66 <hi rend="italic">passim</hi></item>
       <item>Oldenburg : Revenue per head 258</item>
       <item>Oliveira, Mr. B. : 578</item>
       <item>Oonah—<hi rend="italic">v.</hi> Oudh</item>
@@ -7004,8 +6973,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Pellatt, Mr. Apsley : 578</item>
       <item>Pendjeh Incident, the : 357</item>
       <item>Pensions and Salaries : 183, 222</item>
-      <item>Perry, Mr. : 208</item>
-      <item>,,   Sir Erskine : 209-10, 317 (<hi rend="italic">n.</hi>),<lb/>418, 423, 432, 433, 442,<lb/>466 (<hi rend="italic">n.</hi>)</item>
+      <item>Perry, Mr. : 208 ,,   Sir Erskine : 209-10, 317 (<hi rend="italic">n.</hi>),<lb/>418, 423, 432, 433, 442,<lb/>466 (<hi rend="italic">n.</hi>)</item>
       <item>Persia : Revenue per head 258</item>
       <item>Persian Gulf : Early trade 39</item>
       <item>Peru : Population per sq. mile 270;<lb/>Revenue per head 258</item>
@@ -7021,8 +6989,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Plowden, Sir W. : 267</item>
       <item>Pole, Professor : 110</item>
       <item>Ponies : 323; Rearing, in Punjab<lb/>190-1; Value 193</item>
-      <item>Poonah : Cost of living 29; Population 214; Price of jowari<lb/>76; Produce 20-1</item>
-      <item>,,   College : 107</item>
+      <item>Poonah : Cost of living 29; Population 214; Price of jowari<lb/>76; Produce 20-1 ,,   College : 107</item>
     </list>
           <pb xml:id="page-692" n="672" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n691_w1400.jpg"/>
           <list type="index">
@@ -7085,8 +7052,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
     </list>
           <pb xml:id="page-693" n="673" facs="https://archive.org/download/povertyunbritish00naoruoft/page/n692_w1400.jpg"/>
           <list type="index">
-      <item>Roddy, Mr. Edwin : 452</item>
-      <item>,, Mr. Herbert : 452</item>
+      <item>Roddy, Mr. Edwin : 452 ,, Mr. Herbert : 452</item>
       <item>Roe, Sir Thomas : 590</item>
       <item>Rogers, Capt. : 110</item>
       <item>Rohilcund : 611 ; Revenue 609</item>
@@ -7107,8 +7073,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>St. George College, Massoori : 452</item>
       <item>Salaries and Pensions : 183, 222</item>
       <item>Salisbury, Lord (formerly Lord Cranborne) : 372 ; on Abolition of cotton-duties 61-2 ; on Admission of natives to covenanted C.S. 433, 443-4, 461 ; on the "Bleeding" of India 280, 283-4, 297, 304, 315, 330, 341, 346, 363, 543, 643 ; on British policy in India 619-20 ; on British supremacy of the sea 352 ; on the Employment of natives 367-8, 390-1, 617-8 ; on the Frontier question 356 ; on Misgovernment 341-2 ; on Political hypocrisy 318 ; on the Powers of Council of Sec. of State for India 364</item>
-      <item>Salt : Cost 27 ; Daily cost to a labourer 27, 29 ; as Diet for coolies 27 ; Daily requirement of a labourer 171 ; Mines of Punjab</item>
-      <item>168 ; Price 27 (<hi rend="italic">n.</hi>) ; Revenue 2, 24, 245 ; Statistics 324 ; Tax 215-6, 288</item>
+      <item>Salt : Cost 27 ; Daily cost to a labourer 27, 29 ; as Diet for coolies 27 ; Daily requirement of a labourer 171 ; Mines of Punjab 168 ; Price 27 (<hi rend="italic">n.</hi>) ; Revenue 2, 24, 245 ; Statistics 324 ; Tax 215-6, 288</item>
       <item>Salvador : Revenue per head 258</item>
       <item>Sandee : 610</item>
       <item>Sandracotus : 584</item>
@@ -7130,8 +7095,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Serohi : Revenue per head 262</item>
       <item>Servia : Revenue per head 258</item>
       <item>Sevajee : 591-2</item>
-      <item>Seymour, Mr. H. D. : 577, 578</item>
-      <item>,, Mr. W. D. : 578</item>
+      <item>Seymour, Mr. H. D. : 577, 578 ,, Mr. W. D. : 578</item>
       <item>Shahab-ûd-Deen : 585</item>
       <item>Shahabu-din, Mr. Kazee : 27, 29, 449</item>
       <item>Shahpur : Barley 152 ; Cotton 160 ; Gram 153 ; Hemp 161 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 163 ; Wheat 150</item>
@@ -7142,8 +7106,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Sheoprasad, Mr. : 111</item>
       <item>Shir Shah : 588</item>
       <item>Sholapore : Population 214</item>
-      <item>Shore, Sir John (Lord Teignmouth) : 38-9, 89, 280, 298, 309, 317, 544, 575, 578, 602</item>
-      <item>,, Mr. F. J. : 40-3, 278-9, 617</item>
+      <item>Shore, Sir John (Lord Teignmouth) : 38-9, 89, 280, 298, 309, 317, 544, 575, 578, 602 ,, Mr. F. J. : 40-3, 278-9, 617</item>
       <item>Siálkot : Barley 152 ; Cotton 160 ; Gram 153 ; Hemp 161 ; Inferior grains 154 ; Makai 151 ; Oil seeds 159 ; Rice 149 ; Sugar 164 ; Tobacco 157 ; Vegetables 63 ; Wheat 150</item>
       <item>Silk : Exports 253 ; Price 67 ; Statistics 325, in Punjab 167</item>
     </list>
@@ -7231,8 +7194,7 @@ Address at Plumstead, 648—No. 5, The Indian Famine (Kennington), 654.</p>
       <item>Turkey: Exports of British produce per head 257; Population<lb/>per sq. mile 270; Revenue per<lb/>head 258; Taxation 59</item>
       <item>Turmeric: in Punjab 158</item>
       <item>Turner, Sir Charles: 448, 485</item>
-      <item>„ Mr. C. S.: 483</item>
-      <item>24-Pergunnahs: Wages 82, 83</item>
+      <item>„ Mr. C. S.: 483 24-Pergunnahs: Wages 82, 83</item>
       <item>Umballa: Produce 7-8; Barley<lb/>152; Cotton 160; Gram 153;<lb/>Hemp 161; Indigo 162; Inferior<lb/>grains 154; Makai 151; Oil seeds<lb/>159; Poppy 156; Rice 149;<lb/>Sugar 164; Tobacco 157; Vegetables 163; Wheat 150, price of<lb/>70, 81</item>
       <item>Uncovenanted Service: 103-5, 210</item>
       <item>United Kingdom, the: Earning per<lb/>head 246, 248; Exports and<lb/>Imports 136, 254, 333; Foreign<lb/>Trade 197-8; Production per<lb/>head 135; Revenue per head 258</item>

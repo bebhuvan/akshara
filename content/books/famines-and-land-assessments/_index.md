@@ -1,6 +1,6 @@
 ---
 title: "Famines and Land Assessments in India"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Open Letters to Lord Curzon on Land Revenue & Agrarian Distress"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 89.4
+rubric_score: 85.4
 rubric_pillars:
   - name: "Structural Completeness"
     score: 23.0
@@ -33,19 +33,19 @@ rubric_pillars:
     max: 25.0
     notes: "-6.0: 2 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
-    score: 25.0
+    score: 21.0
     max: 25.0
-    notes: "Clean (0 deductions)"
+    notes: "-4.0: 1 collapsed/jammed table row warning(s)"
   - name: "Orthography & Diacritics"
     score: 22.4
     max: 25.0
     notes: "-2.6: 13 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (16 open review items); 8 of 347 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (17 open review items); 8 of 347 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 62 fixes · 8 pp. checked"
+  - "Scan-Triaged: 67 fixes · 8 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 15/15 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -259,7 +259,7 @@ tables_list:
   - table_id: "tbl-022"
     caption: "Annual Salaries of Officers on Active"
     printed_folio: "286"
-    rows: 10
+    rows: 12
     cols: 11
     diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-022_p0310.csv"
     tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-022_p0310.tidy.csv"
@@ -291,7 +291,7 @@ tables_list:
   - table_id: "tbl-026"
     caption: "II.—Amounts Paid in England."
     printed_folio: "292"
-    rows: 25
+    rows: 26
     cols: 15
     diplomatic_csv: "/downloads/famines-and-land-assessments/datasets/tables/tbl-026_p0316.csv"
     tidy_csv: "/downloads/famines-and-land-assessments/datasets/tidy/tbl-026_p0316.tidy.csv"
@@ -336,7 +336,7 @@ editorial_note_markdown: |-
   - **Source File**: `famines-and-land-assessments.originals.pdf`
   - **Source SHA-256**: `8c8ab173be136668d36ac634a5a95132c0b751c25a9f36e95d187c12e9c29371`
   - **Leaf Accounting**: 352 PDF leaves — **347** content leaves transcribed, **5** blank/tissue leaves (`6, 8, 349, 350, 351`), **0** failed leaves.
-  - **Edition Status**: `community` (**89.4 / 100** Rubric Score)
+  - **Edition Status**: `community` (**85.4 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -347,7 +347,7 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (347 pp.).
   - **Reader**: Read by gemini-3.8-flash on 347 of 347 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 62 replayed correction(s). Automated reading (16 open review items); 8 of 347 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 67 replayed correction(s). Automated reading (17 open review items); 8 of 347 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
@@ -357,10 +357,11 @@ editorial_note_markdown: |-
   - **2 finding(s) across 2 leaf(s)** (pp. 59, 316): pages where a footnote marker and note body could not be paired automatically.
   - **2 finding(s) across 2 leaf(s)** (pp. 314, 317): table blind total confirmed.
   - **1 finding(s) across 1 leaf(s)** (pp. 225): multi-column pages flagged for reading-order verification.
+  - **1 finding(s) across 1 leaf(s)** (pp. 310): table collapsed rows.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 Open Letters to Lord Curzon on Land Revenue & Agrarian Distress. Archival scope: spanning 1793-1900; covering Central Provinces, Madras, Bombay, Bengal, N.-W. Provinces; focusing on famine, land revenue, ryotwari, permanent settlement, civil service salaries. Original imprint: London: Kegan Paul, Trench, Trübner & Co. (1900).
 
-Digitized from Internet Archive copy [`cu31924022938264`](https://archive.org/details/cu31924022938264) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **89.4/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (61), and statistical tables (29) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`cu31924022938264`](https://archive.org/details/cu31924022938264) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **85.4/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (61), and statistical tables (29) are preserved faithfully from the source camera scans.

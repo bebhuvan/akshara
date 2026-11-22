@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Nov. 1867. Seers.",
     "raw_text": "14·40",
-    "value_numeric": null,
+    "value_numeric": 14.4,
     "unit": "seers",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -30,7 +30,7 @@
     "column_index": 3,
     "column_header": "Nov. 1868. Seers.",
     "raw_text": "13·9",
-    "value_numeric": null,
+    "value_numeric": 13.9,
     "unit": "seers",
     "is_null_or_leader": false,
     "arithmetic_verified": false

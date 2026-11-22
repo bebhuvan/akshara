@@ -1,0 +1,67 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,1,data,,Bahāwalpur,2,Area in square miles.,"15,000",15000.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,1,data,,Bahāwalpur,3,Population in 1901.,"720,877, chiefly Muhammadans.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,1,data,,Bahāwalpur,4,Approximate revenue (in lakhs of rupees).,24,24.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,1,data,,Bahāwalpur,5,"Title, race, and religion of Ruler.","Nawāb, Daudputra : Muhammadan.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,1,data,,Bahāwalpur,6,Salute of Ruler in guns.,17,17.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,1,data,,Bahāwalpur,7,Designation of local Political Officer.,Political Agent for the Phūlkiān States and Bahāwalpur.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,2,data,,The Phūlkiān States: Patiāla,2,Area in square miles.,"5,412",5412.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,2,data,,The Phūlkiān States: Patiāla,3,Population in 1901.,"1,596,692, chiefly Hindus and Sikhs.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,2,data,,The Phūlkiān States: Patiāla,4,Approximate revenue (in lakhs of rupees).,57,57.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,2,data,,The Phūlkiān States: Patiāla,5,"Title, race, and religion of Ruler.","Mahārājā, Sidhū Jāt : Sikh.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,2,data,,The Phūlkiān States: Patiāla,6,Salute of Ruler in guns.,17,17.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,2,data,,The Phūlkiān States: Patiāla,7,Designation of local Political Officer.,Political Agent for the Phūlkiān States and Bahāwalpur.,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,3,data,,Nābha,2,Area in square miles.,928,928.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,3,data,,Nābha,3,Population in 1901.,"297,949 „",297949.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,3,data,,Nābha,4,Approximate revenue (in lakhs of rupees).,12,12.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,3,data,,Nābha,5,"Title, race, and religion of Ruler.","Rājā, Sidhū Jāt : Sikh.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,3,data,,Nābha,6,Salute of Ruler in guns.,15 (including 4 guns personal to the present chief).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,3,data,,Nābha,7,Designation of local Political Officer.,„ „,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,4,data,,Jīnd,2,Area in square miles.,"1,259",1259.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,4,data,,Jīnd,3,Population in 1901.,"282,003 „",282003.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,4,data,,Jīnd,4,Approximate revenue (in lakhs of rupees).,15,15.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,4,data,,Jīnd,5,"Title, race, and religion of Ruler.",„ „,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,4,data,,Jīnd,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,4,data,,Jīnd,7,Designation of local Political Officer.,Commissioner of the Jullundur Division (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,5,data,,Kapūrthala,2,Area in square miles.,630,630.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,5,data,,Kapūrthala,3,Population in 1901.,"314,351, chiefly Muhammadans and Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,5,data,,Kapūrthala,4,Approximate revenue (in lakhs of rupees).,13,13.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,5,data,,Kapūrthala,5,"Title, race, and religion of Ruler.","Rājā, Ahlūwālia : Sikh.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,5,data,,Kapūrthala,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,5,data,,Kapūrthala,7,Designation of local Political Officer.,Commissioner of the Jullundur Division (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,6,data,,Mandi,2,Area in square miles.,"1,200",1200.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,6,data,,Mandi,3,Population in 1901.,"174,045, chiefly Hindus.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,6,data,,Mandi,4,Approximate revenue (in lakhs of rupees).,5,5.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,6,data,,Mandi,5,"Title, race, and religion of Ruler.","Rājā, Chandrabansi Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,6,data,,Mandi,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,6,data,,Mandi,7,Designation of local Political Officer.,„ „,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,7,data,,Sirmūr (Nāhan),2,Area in square miles.,"1,198",1198.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,7,data,,Sirmūr (Nāhan),3,Population in 1901.,"135,687 „",135687.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,7,data,,Sirmūr (Nāhan),4,Approximate revenue (in lakhs of rupees).,5,5.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,7,data,,Sirmūr (Nāhan),5,"Title, race, and religion of Ruler.","Rājā, Rājput : Hindu.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,7,data,,Sirmūr (Nāhan),6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,7,data,,Sirmūr (Nāhan),7,Designation of local Political Officer.,Commissioner of the Delhi Division (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,8,data,,Chamba,2,Area in square miles.,"3,216",3216.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,8,data,,Chamba,3,Population in 1901.,"127,834 „",127834.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,8,data,,Chamba,4,Approximate revenue (in lakhs of rupees).,3,3.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,8,data,,Chamba,5,"Title, race, and religion of Ruler.",„ „,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,8,data,,Chamba,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,8,data,,Chamba,7,Designation of local Political Officer.,Commissioner of the Lahore Division (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,9,data,,Farīdkot,2,Area in square miles.,642,642.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,9,data,,Farīdkot,3,Population in 1901.,"124,912, Sikhs, Hindus, Muhammadans.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,9,data,,Farīdkot,4,Approximate revenue (in lakhs of rupees).,4,4.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,9,data,,Farīdkot,5,"Title, race, and religion of Ruler.","Rājā, Barār Jāt : Sikh.",,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,9,data,,Farīdkot,6,Salute of Ruler in guns.,11,11.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,9,data,,Farīdkot,7,Designation of local Political Officer.,Commissioner of the Jullundur Division (ex-officio Political Agent).,,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,10,data,,25 Minor States,2,Area in square miles.,"7,047",7047.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,10,data,,25 Minor States,3,Population in 1901.,"650,048 „",650048.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,10,data,,25 Minor States,4,Approximate revenue (in lakhs of rupees).,17,17.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,10,data,,25 Minor States,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,10,data,,25 Minor States,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,10,data,,25 Minor States,7,Designation of local Political Officer.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,11,total,,Total,2,Area in square miles.,"36,532",36532.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,11,total,,Total,3,Population in 1901.,"4,424,398",4424398.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,11,total,,Total,4,Approximate revenue (in lakhs of rupees).,"1,55",155.0,Rs,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,11,total,,Total,5,"Title, race, and religion of Ruler.",,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,11,total,,Total,6,Salute of Ruler in guns.,,,,True,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-012,(e) Punjab (34 States),138,100,11,total,,Total,7,Designation of local Political Officer.,,,,True,True

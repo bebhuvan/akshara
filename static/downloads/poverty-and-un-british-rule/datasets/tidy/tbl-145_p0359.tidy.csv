@@ -1,5 +1,5 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-poverty-and-un-british-rule,tbl-145,Table 145,359,339,1,data,,England and Wales,2,Increase.,11·6 per cent.,,%,False,False
+poverty-and-un-british-rule,tbl-145,Table 145,359,339,1,data,,England and Wales,2,Increase.,11·6 per cent.,11.6,%,False,False
 poverty-and-un-british-rule,tbl-145,Table 145,359,339,1,data,,England and Wales,3,Population per Square Mile.,500,500.0,,False,False
-poverty-and-un-british-rule,tbl-145,Table 145,359,339,2,data,,British India,2,Increase.,9·7   „,,%,False,False
+poverty-and-un-british-rule,tbl-145,Table 145,359,339,2,data,,British India,2,Increase.,9·7   „,9.7,%,False,False
 poverty-and-un-british-rule,tbl-145,Table 145,359,339,2,data,,British India,3,Population per Square Mile.,230,230.0,,False,False

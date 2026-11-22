@@ -1,0 +1,27 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,1,data,,India (Total),2,Population.,"294,361,056",294361056.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,2,data,,Vernaculars of India,2,Population.,"292,966,163",292966163.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,4,data,Family ,A. Malayo-Polynesian,2,Population.,"7,831",7831.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,5,data,Family ,B. Indo-Chinese,2,Population.,"11,712,299",11712299.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,6,data,Family ,1. Mōn-Khmēr,2,Population.,"427,760",427760.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,7,data,Family ,2. Tibeto-Burman,2,Population.,"9,560,454",9560454.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,8,data,Family ,3. Siamese-Chinese,2,Population.,"1,724,085",1724085.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,9,data,Family ,C. Dravido-Muṇḍā,2,Population.,"59,693,799",59693799.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,10,data,Family ,1. Muṇḍā,2,Population.,"3,179,275",3179275.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,11,data,Family ,2. Dravidian,2,Population.,"56,514,524",56514524.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,12,data,Family ,D. Indo-European,2,Population.,"221,157,673",221157673.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,13,data,Family ,(Aryan Sub-Family),2,Population.,"221,157,673",221157673.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,14,data,Family ,E. Semitic,2,Population.,"42,881",42881.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,15,data,Family ,F. Hamitic,2,Population.,"5,530",5530.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,16,data,Family ,G. Unclassed,2,Population.,"346,150",346150.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,17,data,Family ,"Vernaculars of other Asiatic countries, Africa, and Australia",2,Population.,"76,673",76673.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,18,data,Family ,H. Indo-European,2,Population.,"20,968",20968.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,19,data,Family ,I. Semitic,2,Population.,"1,320",1320.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,20,data,Family ,J. Hamitic,2,Population.,314,314.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,21,data,Family ,K. Mongolian,2,Population.,"51,287",51287.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,22,data,Family ,L. Malayo-Polynesian,2,Population.,"2,461",2461.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,23,data,Family ,M. Bantu,2,Population.,323,323.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,24,data,Family ,Vernaculars of Europe,2,Population.,"269,997",269997.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,25,data,Family ,N. Indo-European,2,Population.,"269,975",269975.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,26,data,Family ,O. Mongolian,2,Population.,22,22.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-054,TABLE X. Language,534,496,27,data,Family ,"Language not returned or not identified, etc",2,Population.,"1,048,223",1048223.0,,False,False

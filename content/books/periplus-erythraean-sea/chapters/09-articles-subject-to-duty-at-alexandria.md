@@ -6,12 +6,13 @@ weight: 9
 start_page: 299
 end_page: 299
 printed_start_folio: "289"
+printed_end_folio: "289"
 reading_time: 1
 footnotes_count: 0
 tables_count: 0
 book_id: "periplus-erythraean-sea"
 archive_id: "b29353051"
-edition_tier: "community"
+edition_tier: "machine_checked"
 edition_generation: "v6"
 proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/periplus-erythraean-sea/299"

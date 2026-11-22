@@ -98,14 +98,14 @@ AND 11, PATERNOSTER BUILDINGS, LONDON, E.C.</p>
             <table xml:id="tbl-001" rows="9" cols="4">
         <head>RATIO OF CLASSES OF POPULATION.</head>
         <row role="label"><cell role="label">Classes.</cell><cell role="label">England &amp; Wales<ref xml:id="ref-sec-03-fn-001" type="noteref" target="#sec-03-fn-001">*</ref> (1861).</cell><cell role="label">Ireland (1861).</cell><cell role="label">India (1878).</cell></row>
-        <row role="data"><cell>Professional</cell><cell>2·4</cell><cell>1·8</cell><cell>3·6</cell></row>
-        <row role="data"><cell>Domestic</cell><cell>57·4</cell><cell>56·8</cell><cell>6·2</cell></row>
-        <row role="data"><cell>Commercial</cell><cell>3·1</cell><cell>2·2</cell><cell>5·2</cell></row>
-        <row role="data"><cell>Agricultural</cell><cell>10·1</cell><cell>18·3</cell><cell>56·2</cell></row>
-        <row role="data"><cell>Industrial</cell><cell>24·3</cell><cell>12·3</cell><cell>13·1</cell></row>
-        <row role="data"><cell>Indefinite, Independent, and Non-Productive</cell><cell>2·7</cell><cell>8·6</cell><cell>3·4</cell></row>
-        <row role="data"><cell>Labourers (mostly agricultural)</cell><cell>—</cell><cell>—</cell><cell>12·3</cell></row>
-        <row role="data" rend="total"><cell></cell><cell>100·</cell><cell>100·</cell><cell>100·</cell></row>
+        <row role="data"><cell>Professional</cell><cell rend="num">2·4</cell><cell rend="num">1·8</cell><cell rend="num">3·6</cell></row>
+        <row role="data"><cell>Domestic</cell><cell rend="num">57·4</cell><cell rend="num">56·8</cell><cell rend="num">6·2</cell></row>
+        <row role="data"><cell>Commercial</cell><cell rend="num">3·1</cell><cell rend="num">2·2</cell><cell rend="num">5·2</cell></row>
+        <row role="data"><cell>Agricultural</cell><cell rend="num">10·1</cell><cell rend="num">18·3</cell><cell rend="num">56·2</cell></row>
+        <row role="data"><cell>Industrial</cell><cell rend="num">24·3</cell><cell rend="num">12·3</cell><cell rend="num">13·1</cell></row>
+        <row role="data"><cell>Indefinite, Independent, and Non-Productive</cell><cell rend="num">2·7</cell><cell rend="num">8·6</cell><cell rend="num">3·4</cell></row>
+        <row role="data"><cell>Labourers (mostly agricultural)</cell><cell>—</cell><cell>—</cell><cell rend="num">12·3</cell></row>
+        <row role="data" rend="total"><cell></cell><cell rend="num">100·</cell><cell rend="num">100·</cell><cell rend="num">100·</cell></row>
       </table>
             <p>In India, the professional class includes Government Servants, and half those described as non-productive are actually professional beggars.</p>
             <pb xml:id="page-7" n="3" facs="https://archive.org/download/indianfinance00moxorich/page/n6_w1400.jpg"/>
@@ -248,7 +248,7 @@ AND 11, PATERNOSTER BUILDINGS, LONDON, E.C.</p>
         <row role="data"><cell>Famine Insurance</cell><cell rend="num">599,000</cell><cell></cell></row>
         <row role="data"><cell>„ Expenditure</cell><cell rend="num">313,420</cell><cell></cell></row>
         <row role="data"><cell></cell><cell></cell><cell rend="num">285,580</cell></row>
-        <row role="data"><cell>Miscellaneous Refunds</cell><cell></cell><cell>– 64,575</cell></row>
+        <row role="data"><cell>Miscellaneous Refunds</cell><cell></cell><cell rend="num">– 64,575</cell></row>
         <row role="data" rend="total"><cell>Net Revenue</cell><cell></cell><cell rend="num">£42,365,027</cell></row>
       </table>
             <pb xml:id="page-17" n="13" facs="https://archive.org/download/indianfinance00moxorich/page/n16_w1400.jpg"/>

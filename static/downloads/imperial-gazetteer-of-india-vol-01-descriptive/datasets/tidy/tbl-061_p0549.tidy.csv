@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,1,data,,Bengal,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",24·9,24.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,1,data,,Bengal,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",34·3,34.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,2,data,,Assam,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",24·4,24.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,2,data,,Assam,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",31·5,31.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,3,data,,United Provinces,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",40·2,40.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,3,data,,United Provinces,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",37·4,37.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,4,data,,Punjab,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",40·4,40.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,4,data,,Punjab,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",43·8,43.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,5,data,,Central Provinces,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",32·2,32.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,5,data,,Central Provinces,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",35·7,35.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,6,data,,Berār,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",38·2,38.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,6,data,,Berār,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",37·5,37.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,7,data,,Madras,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",32·1,32.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,7,data,,Madras,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",27·4,27.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,8,data,,Bombay,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",28·5,28.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,8,data,,Bombay,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",36·4,36.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,9,data,,Burma,2,"Ratio per 1,000 of population (Mean of 1892–6). :: Urban.",22·3,22.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-061,Table 61,549,511,9,data,,Burma,3,"Ratio per 1,000 of population (Mean of 1892–6). :: Rural.",28·6,28.6,,False,False

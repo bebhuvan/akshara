@@ -1,6 +1,6 @@
 # The Economic History of India Under Early British Rule
 *Romesh Chunder Dutt* (1906)
-> Akshara Machine Checked Edition · Collection: `indian-economic-history`
+> Akshara Community Edition · Collection: `indian-economic-history`
 
 
 ## Frontmatter
@@ -157,12 +157,6 @@ I. <span class="sc">Growth of the Empire</span> . . . . . 1
 - XVI. <span class="sc">External Trade, 1813–35</span> . . . . 291
 
 <!-- page: 28 | folio: xxiv -->
-
-##### CHAP.
-
-
-##### PAGE
-
 - XVII. INTERNAL TRADE, CANALS AND RAILROADS, 1813–35 . . . . . . . 303
 - XVIII. ADMINISTRATIVE FAILURES, 1793–1815 . . 313
 - XIX. ADMINISTRATIVE REFORMS AND LORD WILLIAM BENTINCK, 1815–35 . . . . . 326
@@ -3711,8 +3705,9 @@ It is not necessary in the present work to go through the history of the settlem
 
 <!-- page: 419 | folio: 391 -->
 
-| Name of Division and District. :: *Delhi Division*— | Total Area in Acres. | Cultivated Area in Acres. | Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees. | Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas | Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies. |
+| Name of Division and District. | Total Area in Acres. | Cultivated Area in Acres. | Rate of Government Revenue per Acre of the Land in Cultivation. :: Rupees. | Rate of Government Revenue per Acre of the Land in Cultivation. :: Annas | Rate of Government Revenue per Acre of the Land in Cultivation. :: Pies. |
 | --- | --- | --- | --- | --- | --- |
+| *Delhi Division*— |  |  |  |  |  |
 | District Hariana . . . | 1,657,975 | 696,147 | 0 | 14 | 4 |
 | „ Delhi . . . | 364,534 | 174,605 | 2 | 1 | 3 |
 | „ Rohtuck . . | 844,666 | 474,465 | 1 | 5 | 2 |

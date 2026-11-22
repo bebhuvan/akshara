@@ -6,12 +6,13 @@ weight: 6
 start_page: 74
 end_page: 85
 printed_start_folio: "60"
+printed_end_folio: "71"
 reading_time: 24
 footnotes_count: 14
 tables_count: 0
 book_id: "english-factories-india-1661-1664-vol-11"
 archive_id: "englishfactories11fost"
-edition_tier: "machine_checked"
+edition_tier: "community"
 edition_generation: "v6"
 proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/english-factories-india-1661-1664-vol-11/74"

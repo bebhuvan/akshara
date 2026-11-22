@@ -2,42 +2,42 @@ book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,1,data,,1 Delhi,2,Acres.,"24,565",24565.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,1,data,,1 Delhi,3,Per Acre. :: lbs.,186,186.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,1,data,,1 Delhi,4,Total Quantity. :: lbs.,"4,569,090",4569090.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,1,data,,1 Delhi,5,Price per Re. 1. :: lbs.,6·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,1,data,,1 Delhi,5,Price per Re. 1. :: lbs.,6·51,6.51,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,1,data,,1 Delhi,6,Total Value. :: Rs.,"7,01,857",701857.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,2,data,,2 Gurgaon,2,Acres.,"47,855",47855.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,2,data,,2 Gurgaon,3,Per Acre. :: lbs.,164,164.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,2,data,,2 Gurgaon,4,Total Quantity. :: lbs.,"7,848,220",7848220.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,2,data,,2 Gurgaon,5,Price per Re. 1. :: lbs.,6·51,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,2,data,,2 Gurgaon,5,Price per Re. 1. :: lbs.,6·51,6.51,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,2,data,,2 Gurgaon,6,Total Value. :: Rs.,"12,05,563",1205563.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,3,data,,3 Karnál,2,Acres.,"21,510",21510.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,3,data,,3 Karnál,3,Per Acre. :: lbs.,140,140.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,3,data,,3 Karnál,4,Total Quantity. :: lbs.,"3,011,400",3011400.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,3,data,,3 Karnál,5,Price per Re. 1. :: lbs.,6·43,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,3,data,,3 Karnál,5,Price per Re. 1. :: lbs.,6·43,6.43,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,3,data,,3 Karnál,6,Total Value. :: Rs.,"4,68,336",468336.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,4,data,,4 Hissar,2,Acres.,"20,323",20323.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,4,data,,4 Hissar,3,Per Acre. :: lbs.,87,87.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,4,data,,4 Hissar,4,Total Quantity. :: lbs.,"1,768,101",1768101.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,4,data,,4 Hissar,5,Price per Re. 1. :: lbs.,6·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,4,data,,4 Hissar,5,Price per Re. 1. :: lbs.,6·17,6.17,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,4,data,,4 Hissar,6,Total Value. :: Rs.,"2,86,564",286564.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,5,data,,5 Rohtak,2,Acres.,"49,073",49073.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,5,data,,5 Rohtak,3,Per Acre. :: lbs.,70,70.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,5,data,,5 Rohtak,4,Total Quantity. :: lbs.,"3,435,110",3435110.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,5,data,,5 Rohtak,5,Price per Re. 1. :: lbs.,7·2,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,5,data,,5 Rohtak,5,Price per Re. 1. :: lbs.,7·2,7.2,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,5,data,,5 Rohtak,6,Total Value. :: Rs.,"4,77,098",477098.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,6,data,,6 Sirsa,2,Acres.,77,77.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,6,data,,6 Sirsa,3,Per Acre. :: lbs.,64,64.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,6,data,,6 Sirsa,4,Total Quantity. :: lbs.,"4,928",4928.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,6,data,,6 Sirsa,5,Price per Re. 1. :: lbs.,6·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,6,data,,6 Sirsa,5,Price per Re. 1. :: lbs.,6·17,6.17,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,6,data,,6 Sirsa,6,Total Value. :: Rs.,798,798.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,7,data,,7 Umballa,2,Acres.,"27,332",27332.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,7,data,,7 Umballa,3,Per Acre. :: lbs.,72,72.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,7,data,,7 Umballa,4,Total Quantity. :: lbs.,"1,967,904",1967904.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,7,data,,7 Umballa,5,Price per Re. 1. :: lbs.,6·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,7,data,,7 Umballa,5,Price per Re. 1. :: lbs.,6·34,6.34,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,7,data,,7 Umballa,6,Total Value. :: Rs.,"3,10,395",310395.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,8,data,,8 Ludhiána,2,Acres.,"11,488",11488.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,8,data,,8 Ludhiána,3,Per Acre. :: lbs.,85,85.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,8,data,,8 Ludhiána,4,Total Quantity. :: lbs.,"976,480",976480.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,8,data,,8 Ludhiána,5,Price per Re. 1. :: lbs.,6·34,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,8,data,,8 Ludhiána,5,Price per Re. 1. :: lbs.,6·34,6.34,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,8,data,,8 Ludhiána,6,Total Value. :: Rs.,"1,54,019",154019.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,9,data,,9 Simla,2,Acres.,...,,acres,True,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,9,data,,9 Simla,3,Per Acre. :: lbs.,...,,acres,True,True
@@ -47,117 +47,117 @@ poverty-and-un-british-rule,tbl-101,Cotton.,180,160,9,data,,9 Simla,6,Total Valu
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,10,data,,10 Jullundar,2,Acres.,"26,093",26093.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,10,data,,10 Jullundar,3,Per Acre. :: lbs.,122,122.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,10,data,,10 Jullundar,4,Total Quantity. :: lbs.,"3,183,346",3183346.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,10,data,,10 Jullundar,5,Price per Re. 1. :: lbs.,5·14,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,10,data,,10 Jullundar,5,Price per Re. 1. :: lbs.,5·14,5.14,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,10,data,,10 Jullundar,6,Total Value. :: Rs.,"6,19,328",619328.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,11,data,,11 Hoshiarpur,2,Acres.,"24,420",24420.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,11,data,,11 Hoshiarpur,3,Per Acre. :: lbs.,136,136.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,11,data,,11 Hoshiarpur,4,Total Quantity. :: lbs.,"3,321,120",3321120.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,11,data,,11 Hoshiarpur,5,Price per Re. 1. :: lbs.,5·49,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,11,data,,11 Hoshiarpur,5,Price per Re. 1. :: lbs.,5·49,5.49,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,11,data,,11 Hoshiarpur,6,Total Value. :: Rs.,"6,04,940",604940.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,12,data,,12 Kángra,2,Acres.,"6,733",6733.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,12,data,,12 Kángra,3,Per Acre. :: lbs.,22,22.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,12,data,,12 Kángra,4,Total Quantity. :: lbs.,"148,126",148126.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,12,data,,12 Kángra,5,Price per Re. 1. :: lbs.,5·14,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,12,data,,12 Kángra,5,Price per Re. 1. :: lbs.,5·14,5.14,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,12,data,,12 Kángra,6,Total Value. :: Rs.,"28,818",28818.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,13,data,,13 Amritsar,2,Acres.,"23,597",23597.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,13,data,,13 Amritsar,3,Per Acre. :: lbs.,64,64.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,13,data,,13 Amritsar,4,Total Quantity. :: lbs.,"1,510,208",1510208.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,13,data,,13 Amritsar,5,Price per Re. 1. :: lbs.,5·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,13,data,,13 Amritsar,5,Price per Re. 1. :: lbs.,5·65,5.65,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,13,data,,13 Amritsar,6,Total Value. :: Rs.,"2,67,293",267293.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,14,data,,14 Gurdáspur,2,Acres.,"37,474",37474.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,14,data,,14 Gurdáspur,3,Per Acre. :: lbs.,50,50.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,14,data,,14 Gurdáspur,4,Total Quantity. :: lbs.,"1,873,700",1873700.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,14,data,,14 Gurdáspur,5,Price per Re. 1. :: lbs.,5·14,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,14,data,,14 Gurdáspur,5,Price per Re. 1. :: lbs.,5·14,5.14,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,14,data,,14 Gurdáspur,6,Total Value. :: Rs.,"3,64,533",364533.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,15,data,,15 Siálkot,2,Acres.,"11,425",11425.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,15,data,,15 Siálkot,3,Per Acre. :: lbs.,65,65.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,15,data,,15 Siálkot,4,Total Quantity. :: lbs.,"742,625",742625.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,15,data,,15 Siálkot,5,Price per Re. 1. :: lbs.,5·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,15,data,,15 Siálkot,5,Price per Re. 1. :: lbs.,5·65,5.65,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,15,data,,15 Siálkot,6,Total Value. :: Rs.,"1,31,438",131438.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,16,data,,16 Lahore,2,Acres.,"25,305",25305.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,16,data,,16 Lahore,3,Per Acre. :: lbs.,138,138.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,16,data,,16 Lahore,4,Total Quantity. :: lbs.,"3,492,090",3492090.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,16,data,,16 Lahore,5,Price per Re. 1. :: lbs.,5·49,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,16,data,,16 Lahore,5,Price per Re. 1. :: lbs.,5·49,5.49,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,16,data,,16 Lahore,6,Total Value. :: Rs.,"6,36,082",636082.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,17,data,,17 Gujránwála,2,Acres.,"33,376",33376.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,17,data,,17 Gujránwála,3,Per Acre. :: lbs.,129,129.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,17,data,,17 Gujránwála,4,Total Quantity. :: lbs.,"4,305,504",4305504.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,17,data,,17 Gujránwála,5,Price per Re. 1. :: lbs.,5·49,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,17,data,,17 Gujránwála,5,Price per Re. 1. :: lbs.,5·49,5.49,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,17,data,,17 Gujránwála,6,Total Value. :: Rs.,"7,84,244",784244.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,18,data,,18 Firozepore,2,Acres.,"9,680",9680.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,18,data,,18 Firozepore,3,Per Acre. :: lbs.,158,158.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,18,data,,18 Firozepore,4,Total Quantity. :: lbs.,"1,529,440",1529440.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,18,data,,18 Firozepore,5,Price per Re. 1. :: lbs.,6·17,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,18,data,,18 Firozepore,5,Price per Re. 1. :: lbs.,6·17,6.17,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,18,data,,18 Firozepore,6,Total Value. :: Rs.,"2,47,883",247883.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,19,data,,19 Ráwalpindi,2,Acres.,"33,745",33745.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,19,data,,19 Ráwalpindi,3,Per Acre. :: lbs.,128,128.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,19,data,,19 Ráwalpindi,4,Total Quantity. :: lbs.,"4,319,360",4319360.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,19,data,,19 Ráwalpindi,5,Price per Re. 1. :: lbs.,4·46,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,19,data,,19 Ráwalpindi,5,Price per Re. 1. :: lbs.,4·46,4.46,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,19,data,,19 Ráwalpindi,6,Total Value. :: Rs.,"9,68,466",968466.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,20,data,,20 Jhelum,2,Acres.,"25,557",25557.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,20,data,,20 Jhelum,3,Per Acre. :: lbs.,122,122.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,20,data,,20 Jhelum,4,Total Quantity. :: lbs.,"3,117,954",3117954.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,20,data,,20 Jhelum,5,Price per Re. 1. :: lbs.,5·27,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,20,data,,20 Jhelum,5,Price per Re. 1. :: lbs.,5·27,5.27,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,20,data,,20 Jhelum,6,Total Value. :: Rs.,"5,91,642",591642.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,21,data,,21 Gujrát,2,Acres.,"24,716",24716.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,21,data,,21 Gujrát,3,Per Acre. :: lbs.,43,43.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,21,data,,21 Gujrát,4,Total Quantity. :: lbs.,"1,062,788",1062788.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,21,data,,21 Gujrát,5,Price per Re. 1. :: lbs.,4·63,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,21,data,,21 Gujrát,5,Price per Re. 1. :: lbs.,4·63,4.63,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,21,data,,21 Gujrát,6,Total Value. :: Rs.,"2,29,543",229543.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,22,data,,22 Shahpur,2,Acres.,"26,029",26029.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,22,data,,22 Shahpur,3,Per Acre. :: lbs.,50,50.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,22,data,,22 Shahpur,4,Total Quantity. :: lbs.,"1,301,450",1301450.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,22,data,,22 Shahpur,5,Price per Re. 1. :: lbs.,5·49,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,22,data,,22 Shahpur,5,Price per Re. 1. :: lbs.,5·49,5.49,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,22,data,,22 Shahpur,6,Total Value. :: Rs.,"2,37,058",237058.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,23,data,,23 Mooltan,2,Acres.,"16,550",16550.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,23,data,,23 Mooltan,3,Per Acre. :: lbs.,82,82.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,23,data,,23 Mooltan,4,Total Quantity. :: lbs.,"1,357,100",1357100.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,23,data,,23 Mooltan,5,Price per Re. 1. :: lbs.,5·65,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,23,data,,23 Mooltan,5,Price per Re. 1. :: lbs.,5·65,5.65,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,23,data,,23 Mooltan,6,Total Value. :: Rs.,"2,40,194",240194.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,24,data,,24 Jhang,2,Acres.,"16,881",16881.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,24,data,,24 Jhang,3,Per Acre. :: lbs.,87,87.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,24,data,,24 Jhang,4,Total Quantity. :: lbs.,"1,468,647",1468647.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,24,data,,24 Jhang,5,Price per Re. 1. :: lbs.,5·27,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,24,data,,24 Jhang,5,Price per Re. 1. :: lbs.,5·27,5.27,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,24,data,,24 Jhang,6,Total Value. :: Rs.,"2,78,680",278680.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,25,data,,25 Montgomery,2,Acres.,"15,838",15838.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,25,data,,25 Montgomery,3,Per Acre. :: lbs.,149,149.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,25,data,,25 Montgomery,4,Total Quantity. :: lbs.,"2,359,862",2359862.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,25,data,,25 Montgomery,5,Price per Re. 1. :: lbs.,5·31,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,25,data,,25 Montgomery,5,Price per Re. 1. :: lbs.,5·31,5.31,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,25,data,,25 Montgomery,6,Total Value. :: Rs.,"4,44,418",444418.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,26,data,,26 Mazaffargarh,2,Acres.,"29,632",29632.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,26,data,,26 Mazaffargarh,3,Per Acre. :: lbs.,124,124.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,26,data,,26 Mazaffargarh,4,Total Quantity. :: lbs.,"3,674,368",3674368.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,26,data,,26 Mazaffargarh,5,Price per Re. 1. :: lbs.,6·,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,26,data,,26 Mazaffargarh,5,Price per Re. 1. :: lbs.,6·,6.0,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,26,data,,26 Mazaffargarh,6,Total Value. :: Rs.,"6,12,394",612394.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,27,data,,27 D. I. Khan,2,Acres.,"11,175",11175.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,27,data,,27 D. I. Khan,3,Per Acre. :: lbs.,115,115.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,27,data,,27 D. I. Khan,4,Total Quantity. :: lbs.,"1,285,125",1285125.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,27,data,,27 D. I. Khan,5,Price per Re. 1. :: lbs.,6·,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,27,data,,27 D. I. Khan,5,Price per Re. 1. :: lbs.,6·,6.0,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,27,data,,27 D. I. Khan,6,Total Value. :: Rs.,"2,14,187",214187.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,28,data,,28 D. G. Khan,2,Acres.,"29,739",29739.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,28,data,,28 D. G. Khan,3,Per Acre. :: lbs.,84,84.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,28,data,,28 D. G. Khan,4,Total Quantity. :: lbs.,"2,498,076",2498076.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,28,data,,28 D. G. Khan,5,Price per Re. 1. :: lbs.,5·7,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,28,data,,28 D. G. Khan,5,Price per Re. 1. :: lbs.,5·7,5.7,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,28,data,,28 D. G. Khan,6,Total Value. :: Rs.,"4,38,259",438259.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,29,data,,29 Bannu,2,Acres.,"7,544",7544.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,29,data,,29 Bannu,3,Per Acre. :: lbs.,73,73.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,29,data,,29 Bannu,4,Total Quantity. :: lbs.,"550,712",550712.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,29,data,,29 Bannu,5,Price per Re. 1. :: lbs.,5·36,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,29,data,,29 Bannu,5,Price per Re. 1. :: lbs.,5·36,5.36,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,29,data,,29 Bannu,6,Total Value. :: Rs.,"1,02,744",102744.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,30,data,,30 Pesháwar,2,Acres.,"16,468",16468.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,30,data,,30 Pesháwar,3,Per Acre. :: lbs.,105,105.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,30,data,,30 Pesháwar,4,Total Quantity. :: lbs.,"1,729,140",1729140.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,30,data,,30 Pesháwar,5,Price per Re. 1. :: lbs.,5·23,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,30,data,,30 Pesháwar,5,Price per Re. 1. :: lbs.,5·23,5.23,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,30,data,,30 Pesháwar,6,Total Value. :: Rs.,"3,30,619",330619.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,31,data,,31 Hazára,2,Acres.,"8,280",8280.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,31,data,,31 Hazára,3,Per Acre. :: lbs.,100,100.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,31,data,,31 Hazára,4,Total Quantity. :: lbs.,"828,000",828000.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,31,data,,31 Hazára,5,Price per Re. 1. :: lbs.,4·11,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,31,data,,31 Hazára,5,Price per Re. 1. :: lbs.,4·11,4.11,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,31,data,,31 Hazára,6,Total Value. :: Rs.,"2,01,460",201460.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,32,data,,32 Kohát,2,Acres.,"6,396",6396.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,32,data,,32 Kohát,3,Per Acre. :: lbs.,121,121.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,32,data,,32 Kohát,4,Total Quantity. :: lbs.,"773,916",773916.0,lbs,False,True
-poverty-and-un-british-rule,tbl-101,Cotton.,180,160,32,data,,32 Kohát,5,Price per Re. 1. :: lbs.,4·41,,lbs,False,True
+poverty-and-un-british-rule,tbl-101,Cotton.,180,160,32,data,,32 Kohát,5,Price per Re. 1. :: lbs.,4·41,4.41,lbs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,32,data,,32 Kohát,6,Total Value. :: Rs.,"1,75,491",175491.0,Rs,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,33,total,,Total,2,Acres.,"668,876",668876.0,acres,False,True
 poverty-and-un-british-rule,tbl-101,Cotton.,180,160,33,total,,Total,3,Per Acre. :: lbs.,Average 105,,acres,False,True

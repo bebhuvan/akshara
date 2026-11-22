@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,1,data,,Row 1,2,Station.,Peshāwar .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,1,data,,Row 1,3,Lowest minimum temperature. :: °,25·7,25.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,1,data,,Row 1,4,Date.,"December 19, 1878.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,2,data,,Row 2,2,Station.,Rāwalpindi .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,2,data,,Row 2,3,Lowest minimum temperature. :: °,23·9,23.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,2,data,,Row 2,4,Date.,"December 28, 1878.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,3,data,,Punjab and Frontier,2,Station.,Khushāb .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,3,data,,Punjab and Frontier,3,Lowest minimum temperature. :: °,25·0,25.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,3,data,,Punjab and Frontier,4,Date.,"January 15, 1899.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,4,data,,Province,2,Station.,Dera Ismail Khān .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,4,data,,Province,3,Lowest minimum temperature. :: °,26·0,26.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,4,data,,Province,4,Date.,"January 9, 1876.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,5,data,,Row 5,2,Station.,Ludhiāna .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,5,data,,Row 5,3,Lowest minimum temperature. :: °,24·0,24.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,5,data,,Row 5,4,Date.,"December 6, 1879.",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,6,data,,Rājputāna,2,Station.,Pachbhadrā .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,6,data,,Rājputāna,3,Lowest minimum temperature. :: °,25·4,25.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-018,Table 18,188,150,6,data,,Rājputāna,4,Date.,"February 18, 1882.",,,False,False

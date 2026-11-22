@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-027,Orders in excess in the West :—,224,186,1,data,,"Capparideae W. 30/E. 15,",2,Column 2,"Umbelliferae W. 33/E. 3,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-027,Orders in excess in the West :—,224,186,1,data,,"Capparideae W. 30/E. 15,",3,Column 3,"Commelinaceae W. 52/E. 11,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-027,Orders in excess in the West :—,224,186,2,data,,"Acanthaceae W. 207/E. 34,",2,Column 2,"Labiatae W. 127/E. 10,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-027,Orders in excess in the West :—,224,186,2,data,,"Acanthaceae W. 207/E. 34,",3,Column 3,"Boragineae W. 161/E. 8,",,,False,False

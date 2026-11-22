@@ -1,6 +1,6 @@
 ---
 title: "Report on Past Famines in the Bombay Presidency"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "A. T. Etheridge"
 author_slug: "a-t-etheridge"
@@ -22,16 +22,16 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 87.0
+rubric_score: 90.0
 rubric_pillars:
   - name: "Structural Completeness"
     score: 20.0
     max: 25.0
     notes: "-5.0: 6 multi-column zig-zag reading order warning(s)"
   - name: "Apparatus & Footnotes"
-    score: 22.0
+    score: 25.0
     max: 25.0
-    notes: "-3.0: 1 unresolved footnote callout/body mismatch(es)"
+    notes: "Clean (0 deductions)"
   - name: "Tabular & Numeric Accuracy"
     score: 25.0
     max: 25.0
@@ -41,11 +41,11 @@ rubric_pillars:
     max: 25.0
     notes: "-5.0: 44 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (51 open review items); 36 of 273 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (50 open review items); 36 of 273 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 87 fixes · 36 pp. checked"
+  - "Scan-Triaged: 88 fixes · 36 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 31/31 Arithmetic-Checked"
 taxonomy_diplomatic:
@@ -344,7 +344,7 @@ editorial_note_markdown: |-
   - **Source File**: `report-past-famines-bombay-etheridge-1868.originals.pdf`
   - **Source SHA-256**: `718a56ee1ce35795b9d12aaee4621ea2369ca73be56b1301be2d31e99d4ac83e`
   - **Leaf Accounting**: 282 PDF leaves — **273** content leaves transcribed, **9** blank/tissue leaves (`4, 6, 7, 10, 276, 278, 279, 280, 281`), **0** failed leaves.
-  - **Edition Status**: `community` (**87.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**90.0 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -355,7 +355,7 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (273 pp.).
   - **Reader**: Read by gemini-3.8-flash on 273 of 273 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 87 replayed correction(s). Automated reading (51 open review items); 36 of 273 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 88 replayed correction(s). Automated reading (50 open review items); 36 of 273 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
@@ -365,7 +365,6 @@ editorial_note_markdown: |-
   - **6 finding(s) across 6 leaf(s)** (pp. 80, 83, 84, 241, 255, 261): multi-column pages flagged for reading-order verification.
   - **6 finding(s) across 6 leaf(s)** (pp. 32, 40, 41, 42, 43, 111): attested compositor footnote callout/note variants preserved diplomatically from the scan.
   - **6 finding(s) across 6 leaf(s)** (pp. 176, 181, 182, 200, 201, 205): table blind total confirmed.
-  - **1 finding(s) across 1 leaf(s)** (pp. 69): footnote blocks without an explicit printed marker.
   - **1 finding(s) across 1 leaf(s)** (pp. 142): attested compositor spelling variants preserved diplomatically from the scan.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
@@ -373,4 +372,4 @@ editorial_note_markdown: |-
 
 A primary historical edition by A. T. Etheridge (1868). Archival scope: spanning 1396-1868; covering Bombay Presidency, Deccan, Gujarat, Konkan, Sind; focusing on famine history, doji bara 1791, grain prices, famine relief, district chronicles. Original imprint: Bombay: Education Society's Press (1868).
 
-Digitized from Internet Archive copy [`cu31924091209449`](https://archive.org/details/cu31924091209449) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **87.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (17), and statistical tables (63) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`cu31924091209449`](https://archive.org/details/cu31924091209449) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **90.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (17), and statistical tables (63) are preserved faithfully from the source camera scans.

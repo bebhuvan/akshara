@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,1,data,,1861,2,Gross earnings (in lakhs of rupees).,99,99.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,1,data,,1861,3,Working expenses (in lakhs of rupees).,58,58.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,1,data,,1861,4,Net earnings (in lakhs of rupees).,41,41.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,1,data,,1861,5,Percentage of expenses on gross earnings.,59,59.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,1,data,,1861,6,Gain or loss to the State (in lakhs of rupees).,Information not available.,,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,2,data,,1871,2,Gross earnings (in lakhs of rupees).,"6,59",659.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,2,data,,1871,3,Working expenses (in lakhs of rupees).,"3,68",368.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,2,data,,1871,4,Net earnings (in lakhs of rupees).,"2,91",291.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,2,data,,1871,5,Percentage of expenses on gross earnings.,56,56.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,2,data,,1871,6,Gain or loss to the State (in lakhs of rupees).,,,Rs,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,3,data,,1881,2,Gross earnings (in lakhs of rupees).,"14,32",1432.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,3,data,,1881,3,Working expenses (in lakhs of rupees).,"7,07",707.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,3,data,,1881,4,Net earnings (in lakhs of rupees).,"7,25",725.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,3,data,,1881,5,Percentage of expenses on gross earnings.,49,49.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,3,data,,1881,6,Gain or loss to the State (in lakhs of rupees).,— 39,-39.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,4,data,,1891,2,Gross earnings (in lakhs of rupees).,"24,04",2404.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,4,data,,1891,3,Working expenses (in lakhs of rupees).,"11,30",1130.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,4,data,,1891,4,Net earnings (in lakhs of rupees).,"12,74",1274.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,4,data,,1891,5,Percentage of expenses on gross earnings.,47,47.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,4,data,,1891,6,Gain or loss to the State (in lakhs of rupees).,— 2,-2.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,5,data,,1901,2,Gross earnings (in lakhs of rupees).,"33,60",3360.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,5,data,,1901,3,Working expenses (in lakhs of rupees).,"15,72",1572.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,5,data,,1901,4,Net earnings (in lakhs of rupees).,"17,88",1788.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,5,data,,1901,5,Percentage of expenses on gross earnings.,47,47.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,5,data,,1901,6,Gain or loss to the State (in lakhs of rupees).,"+ 1,15",115.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,6,data,,1904,2,Gross earnings (in lakhs of rupees).,"39,65",3965.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,6,data,,1904,3,Working expenses (in lakhs of rupees).,"18,78",1878.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,6,data,,1904,4,Net earnings (in lakhs of rupees).,"20,87",2087.0,Rs,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,6,data,,1904,5,Percentage of expenses on gross earnings.,47,47.0,%,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-061,TABLE I General Results of Working,453,411,6,data,,1904,6,Gain or loss to the State (in lakhs of rupees).,"+ 2,63",263.0,Rs,False,False

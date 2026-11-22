@@ -1,0 +1,5 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-045,Table 45,397,359,1,data,,Northern,2,Divisional command.,1st. (Peshāwar.) 2nd. (Rāwalpindi.) 3rd. (Lahore.),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-045,Table 45,397,359,2,data,,Western,2,Divisional command.,4th. (Quetta.) 5th. (Mhow.) 6th. (Poona.),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-045,Table 45,397,359,3,data,,Eastern,2,Divisional command.,7th. (Meerut.) 8th. (Lucknow.),,,False,False
+imperial-gazetteer-of-india-vol-04-administrative,tbl-045,Table 45,397,359,4,data,,Directly under the Commander-in-Chief,2,Divisional command.,9th. (Secunderābād.) Burma.,,,False,False

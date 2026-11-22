@@ -1,0 +1,37 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,1,data,,Lahore,2,Mean temperature. :: °,90·0,90.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,1,data,,Lahore,3,Mean (8 a.m.) humidity. :: Per cent.,70·5,70.5,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,1,data,,Lahore,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",4·3,4.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,2,data,,Karāchi,2,Mean temperature. :: °,85·6,85.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,2,data,,Karāchi,3,Mean (8 a.m.) humidity. :: Per cent.,81·5,81.5,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,2,data,,Karāchi,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",7·3,7.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,3,data,,Jaipur,2,Mean temperature. :: °,85·9,85.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,3,data,,Jaipur,3,Mean (8 a.m.) humidity. :: Per cent.,75·9,75.9,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,3,data,,Jaipur,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",6·8,6.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,4,data,,Allahābād,2,Mean temperature. :: °,85·5,85.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,4,data,,Allahābād,3,Mean (8 a.m.) humidity. :: Per cent.,83·7,83.7,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,4,data,,Allahābād,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",8·2,8.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,5,data,,Calcutta,2,Mean temperature. :: °,83·3,83.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,5,data,,Calcutta,3,Mean (8 a.m.) humidity. :: Per cent.,88·5,88.5,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,5,data,,Calcutta,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",8·4,8.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,6,data,,Sibsāgar,2,Mean temperature. :: °,84·0,84.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,6,data,,Sibsāgar,3,Mean (8 a.m.) humidity. :: Per cent.,92·8,92.8,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,6,data,,Sibsāgar,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",8·9,8.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,7,data,,Nāgpur,2,Mean temperature. :: °,81·5,81.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,7,data,,Nāgpur,3,Mean (8 a.m.) humidity. :: Per cent.,83·4,83.4,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,7,data,,Nāgpur,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",8·4,8.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,8,data,,Bombay,2,Mean temperature. :: °,81·0,81.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,8,data,,Bombay,3,Mean (8 a.m.) humidity. :: Per cent.,86·2,86.2,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,8,data,,Bombay,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",9·0,9.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,9,data,,Rangoon,2,Mean temperature. :: °,80·6,80.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,9,data,,Rangoon,3,Mean (8 a.m.) humidity. :: Per cent.,93·8,93.8,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,9,data,,Rangoon,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",9·0,9.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,10,data,,Sholāpur,2,Mean temperature. :: °,80·6,80.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,10,data,,Sholāpur,3,Mean (8 a.m.) humidity. :: Per cent.,72·4,72.4,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,10,data,,Sholāpur,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",8·1,8.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,11,data,,Trichinopoly,2,Mean temperature. :: °,87·7,87.7,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,11,data,,Trichinopoly,3,Mean (8 a.m.) humidity. :: Per cent.,62·3,62.3,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,11,data,,Trichinopoly,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",7·1,7.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,12,data,,Madras,2,Mean temperature. :: °,87·2,87.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,12,data,,Madras,3,Mean (8 a.m.) humidity. :: Per cent.,68·7,68.7,%,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-011,Table 11,164,126,12,data,,Madras,4,"Mean (8 a.m.) cloud amount. (0 = clear, and 10 = overcast, sky.)",7·4,7.4,,False,False

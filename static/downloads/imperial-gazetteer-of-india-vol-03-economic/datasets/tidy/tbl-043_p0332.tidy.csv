@@ -1,0 +1,3 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-043,Table 43,332,290,1,data,,1882–3—1891–2,2,Cwt.,"141,811",141811.0,cwt,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-043,Table 43,332,290,2,data,,1892–3—1901–2,2,Cwt.,"135,396",135396.0,cwt,False,False

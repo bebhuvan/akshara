@@ -1,0 +1,7 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-094,Table 94,540,498,1,data,,"1897 (Bengal, United and Central Provinces, Berār, Madras, Bombay)",2,Total Cropped Area in Millions of Acres. :: Year before famine.,180,180.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-094,Table 94,540,498,1,data,,"1897 (Bengal, United and Central Provinces, Berār, Madras, Bombay)",3,Total Cropped Area in Millions of Acres. :: Year of famine.,167,167.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-094,Table 94,540,498,1,data,,"1897 (Bengal, United and Central Provinces, Berār, Madras, Bombay)",4,Total Cropped Area in Millions of Acres. :: Year after famine.,183,183.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-094,Table 94,540,498,2,data,,"1900 (Central Provinces, Berār, Bombay, Ajmer)",2,Total Cropped Area in Millions of Acres. :: Year before famine.,49,49.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-094,Table 94,540,498,2,data,,"1900 (Central Provinces, Berār, Bombay, Ajmer)",3,Total Cropped Area in Millions of Acres. :: Year of famine.,40,40.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-094,Table 94,540,498,2,data,,"1900 (Central Provinces, Berār, Bombay, Ajmer)",4,Total Cropped Area in Millions of Acres. :: Year after famine.,45,45.0,,False,False

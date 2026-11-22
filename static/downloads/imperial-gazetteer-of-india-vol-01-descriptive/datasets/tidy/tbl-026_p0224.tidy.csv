@@ -1,0 +1,15 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,1,data,,"Dilleniaceae W. 5/E. 14,",2,Column 2,"Magnoliaceae W. 3/E. 8,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,1,data,,"Dilleniaceae W. 5/E. 14,",3,Column 3,"Anonaceae W. 34/E. 260,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,2,data,,"Guttiferae W. 13/E. 53,",2,Column 2,"Ternstroemiaceae W. 3/E. 24,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,2,data,,"Guttiferae W. 13/E. 53,",3,Column 3,"Dipterocarpeae W. 12/E. 74,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,3,data,,"Burseraceae W. 9/E. 33,",2,Column 2,"Olacineae W. 19/E. 42,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,3,data,,"Burseraceae W. 9/E. 33,",3,Column 3,"Sapindaceae W. 40/E. 46,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,4,data,,"Anacardiaceae W. 24/E. 66,",2,Column 2,"Connaraceae W. 4/E. 28,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,4,data,,"Anacardiaceae W. 24/E. 66,",3,Column 3,"Myrtaceae W. 35/E. 102,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,5,data,,"Melastomaceae W. 36/E. 123,",2,Column 2,"Gesneraceae W. 12/E. 70,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,5,data,,"Melastomaceae W. 36/E. 123,",3,Column 3,"Myristicaceae W. 5/E. 47,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,6,data,,"Urticaceae W. 74/E. 114,",2,Column 2,"Palmeae W. 23/E. 128,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,6,data,,"Urticaceae W. 74/E. 114,",3,Column 3,"Aroideae W. 40/E. 170,",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,7,data,,"Bambuseae W. 17/E. 30,",2,Column 2,Coniferae W. 1/E. 9,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-026,Orders in excess in the East :—,224,186,7,data,,"Bambuseae W. 17/E. 30,",3,Column 3,,,,True,False

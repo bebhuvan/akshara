@@ -1,0 +1,19 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,1,data,,Punjab,2,Number of British troops.,"20,051",20051.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,1,data,,Punjab,3,Number of native troops.,"53,496",53496.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,1,data,,Punjab,4,Total.,"73,547",73547.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,2,data,,Bengal,2,Number of British troops.,"24,048",24048.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,2,data,,Bengal,3,Number of native troops.,"33,191",33191.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,2,data,,Bengal,4,Total.,"57,239",57239.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,3,data,,Bombay,2,Number of British troops.,"16,209",16209.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,3,data,,Bombay,3,Number of native troops.,"34,843",34843.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,3,data,,Bombay,4,Total.,"51,052",51052.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,4,data,,Madras,2,Number of British troops.,"9,440",9440.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,4,data,,Madras,3,Number of native troops.,"29,630",29630.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,4,data,,Madras,4,Total.,"39,070",39070.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,5,data,,Burma,2,Number of British troops.,"4,422",4422.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,5,data,,Burma,3,Number of native troops.,"6,781",6781.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,5,data,,Burma,4,Total.,"11,203",11203.0,,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,6,total,,Total,2,Number of British troops.,"74,170",74170.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,6,total,,Total,3,Number of native troops.,"157,941",157941.0,count,False,True
+imperial-gazetteer-of-india-vol-04-administrative,tbl-044,Table 44,397,359,6,total,,Total,4,Total.,"232,111",232111.0,,False,True

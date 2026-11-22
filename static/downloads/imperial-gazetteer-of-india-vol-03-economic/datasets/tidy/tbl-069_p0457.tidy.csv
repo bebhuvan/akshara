@@ -1,0 +1,241 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,1,data,,1,2,Name of Railway by which each system is worked.,Assam-Bengal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,1,data,,1,3,Total mileage.,775,775.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,1,data,,1,4,Railways comprising system.,Assam-Bengal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,1,data,,1,5,Mileage.,740,740.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,1,data,,1,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,2,data,,Row 2,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,2,data,,Row 2,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,2,data,,Row 2,4,Railways comprising system.,Noakhali (Bengal) .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,2,data,,Row 2,5,Mileage.,35,35.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,2,data,,Row 2,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,3,data,,2,2,Name of Railway by which each system is worked.,Baraset-Basirhat .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,3,data,,2,3,Total mileage.,26,26.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,3,data,,2,4,Railways comprising system.,Baraset-Basirhat . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,3,data,,2,5,Mileage.,26,26.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,3,data,,2,6,Gauge.,2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,4,data,,3,2,Name of Railway by which each system is worked.,Barsi . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,4,data,,3,3,Total mileage.,22,22.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,4,data,,3,4,Railways comprising system.,Barsi . . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,4,data,,3,5,Mileage.,22,22.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,4,data,,3,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,5,data,,4,2,Name of Railway by which each system is worked.,Bengal and North-Western . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,5,data,,4,3,Total mileage.,"1,468",1468.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,5,data,,4,4,Railways comprising system.,Bengal and North-Western . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,5,data,,4,5,Mileage.,902,902.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,5,data,,4,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,6,data,,Row 6,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,6,data,,Row 6,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,6,data,,Row 6,4,Railways comprising system.,Tirhoot . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,6,data,,Row 6,5,Mileage.,566,566.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,6,data,,Row 6,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,7,data,,5,2,Name of Railway by which each system is worked.,Bengal-Dooars . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,7,data,,5,3,Total mileage.,153,153.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,7,data,,5,4,Railways comprising system.,Bengal-Dooars . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,7,data,,5,5,Mileage.,36,36.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,7,data,,5,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,8,data,,Row 8,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,8,data,,Row 8,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,8,data,,Row 8,4,Railways comprising system.,Bengal-Dooars Extensions. . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,8,data,,Row 8,5,Mileage.,117,117.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,8,data,,Row 8,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,9,data,,6,2,Name of Railway by which each system is worked.,Bengal-Nagpur . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,9,data,,6,3,Total mileage.,"2,039",2039.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,9,data,,6,4,Railways comprising system.,Bengal-Nagpur .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,9,data,,6,5,Mileage.,"1,696",1696.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,9,data,,6,6,Gauge.,Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,10,data,,Row 10,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,10,data,,Row 10,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,10,data,,Row 10,4,Railways comprising system.,Jubbulpore-Gondia,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,10,data,,Row 10,5,Mileage.,230,230.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,10,data,,Row 10,6,Gauge.,2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,11,data,,Row 11,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,11,data,,Row 11,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,11,data,,Row 11,4,Railways comprising system.,Mohurbhanj . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,11,data,,Row 11,5,Mileage.,32,32.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,11,data,,Row 11,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,12,data,,Row 12,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,12,data,,Row 12,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,12,data,,Row 12,4,Railways comprising system.,Parlakimedi . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,12,data,,Row 12,5,Mileage.,25,25.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,12,data,,Row 12,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,13,data,,Row 13,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,13,data,,Row 13,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,13,data,,Row 13,4,Railways comprising system.,Raipur-Dhamtari .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,13,data,,Row 13,5,Mileage.,56,56.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,13,data,,Row 13,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,14,data,,7,2,Name of Railway by which each system is worked.,Bhavnagar-Gondal-Junagad-Porbandar,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,14,data,,7,3,Total mileage.,485,485.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,14,data,,7,4,Railways comprising system.,Bhavnagar-Gondal-Junagad-Porbandar .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,14,data,,7,5,Mileage.,834,834.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,14,data,,7,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,15,data,,Row 15,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,15,data,,Row 15,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,15,data,,Row 15,4,Railways comprising system.,Dhrangadra . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,15,data,,Row 15,5,Mileage.,21,21.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,15,data,,Row 15,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,16,data,,Row 16,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,16,data,,Row 16,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,16,data,,Row 16,4,Railways comprising system.,Jamnagar . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,16,data,,Row 16,5,Mileage.,54,54.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,16,data,,Row 16,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,17,data,,Row 17,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,17,data,,Row 17,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,17,data,,Row 17,4,Railways comprising system.,Jetalsar-Rajkot .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,17,data,,Row 17,5,Mileage.,46,46.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,17,data,,Row 17,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,18,data,,8,2,Name of Railway by which each system is worked.,"Bombay, Baroda, and Central India . .",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,18,data,,8,3,Total mileage.,"3,022",3022.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,18,data,,8,4,Railways comprising system.,Ahmedabad-Dholka .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,18,data,,8,5,Mileage.,33,33.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,18,data,,8,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,19,data,,Row 19,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,19,data,,Row 19,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,19,data,,Row 19,4,Railways comprising system.,Ahmedabad-Parantij,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,19,data,,Row 19,5,Mileage.,55,55.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,19,data,,Row 19,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,20,data,,Row 20,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,20,data,,Row 20,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,20,data,,Row 20,4,Railways comprising system.,"Bombay, Baroda, and Central India . .",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,20,data,,Row 20,5,Mileage.,504,504.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,20,data,,Row 20,6,Gauge.,Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,21,data,,Row 21,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,21,data,,Row 21,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,21,data,,Row 21,4,Railways comprising system.,Gaekwar's Dabhoi,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,21,data,,Row 21,5,Mileage.,95,95.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,21,data,,Row 21,6,Gauge.,2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,22,data,,Row 22,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,22,data,,Row 22,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,22,data,,Row 22,4,Railways comprising system.,Gaekwar's Mehsana,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,22,data,,Row 22,5,Mileage.,93,93.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,22,data,,Row 22,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,23,data,,Row 23,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,23,data,,Row 23,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,23,data,,Row 23,4,Railways comprising system.,Godhra-Rutlam-Nagda,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,23,data,,Row 23,5,Mileage.,141,141.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,23,data,,Row 23,6,Gauge.,Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,24,data,,Row 24,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,24,data,,Row 24,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,24,data,,Row 24,4,Railways comprising system.,Nagda-Ujjain . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,24,data,,Row 24,5,Mileage.,34,34.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,24,data,,Row 24,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,25,data,,Row 25,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,25,data,,Row 25,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,25,data,,Row 25,4,Railways comprising system.,Palanpur-Deesa .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,25,data,,Row 25,5,Mileage.,17,17.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,25,data,,Row 25,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,26,data,,Row 26,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,26,data,,Row 26,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,26,data,,Row 26,4,Railways comprising system.,Petlad-Cambay .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,26,data,,Row 26,5,Mileage.,33,33.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,26,data,,Row 26,6,Gauge.,Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,27,data,,Row 27,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,27,data,,Row 27,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,27,data,,Row 27,4,Railways comprising system.,Rajpipla . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,27,data,,Row 27,5,Mileage.,37,37.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,27,data,,Row 27,6,Gauge.,2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,28,data,,Row 28,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,28,data,,Row 28,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,28,data,,Row 28,4,Railways comprising system.,Rajputana-Malwa .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,28,data,,Row 28,5,Mileage.,"1,783",1783.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,28,data,,Row 28,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,29,data,,Row 29,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,29,data,,Row 29,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,29,data,,Row 29,4,Railways comprising system.,Tapti Valley . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,29,data,,Row 29,5,Mileage.,156,156.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,29,data,,Row 29,6,Gauge.,Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,30,data,,Row 30,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,30,data,,Row 30,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,30,data,,Row 30,4,Railways comprising system.,Vijapur-Kalol-Kadi,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,30,data,,Row 30,5,Mileage.,41,41.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,30,data,,Row 30,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,31,data,,9,2,Name of Railway by which each system is worked.,Bukhtiarpur-Behar .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,31,data,,9,3,Total mileage.,18,18.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,31,data,,9,4,Railways comprising system.,Bukhtiarpur-Behar,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,31,data,,9,5,Mileage.,18,18.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,31,data,,9,6,Gauge.,2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,32,data,,10,2,Name of Railway by which each system is worked.,Burma . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,32,data,,10,3,Total mileage.,"1,340",1340.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,32,data,,10,4,Railways comprising system.,Burma . . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,32,data,,10,5,Mileage.,"1,340",1340.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,32,data,,10,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,33,data,,11,2,Name of Railway by which each system is worked.,Darjeeling-Himalayan,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,33,data,,11,3,Total mileage.,51,51.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,33,data,,11,4,Railways comprising system.,Darjeeling-Himalayan,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,33,data,,11,5,Mileage.,51,51.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,33,data,,11,6,Gauge.,2′ 0″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,34,data,,12,2,Name of Railway by which each system is worked.,Deoghur . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,34,data,,12,3,Total mileage.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,34,data,,12,4,Railways comprising system.,Deoghur . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,34,data,,12,5,Mileage.,5,5.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,34,data,,12,6,Gauge.,Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,35,data,,13,2,Name of Railway by which each system is worked.,Dibru-Sadiya . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,35,data,,13,3,Total mileage.,86,86.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,35,data,,13,4,Railways comprising system.,Dibru-Sadiya . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,35,data,,13,5,Mileage.,78,78.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,35,data,,13,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,36,data,,Row 36,2,Name of Railway by which each system is worked.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,36,data,,Row 36,3,Total mileage.,,,,True,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,36,data,,Row 36,4,Railways comprising system.,Ledo and Tikak-Marghe-rita . . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,36,data,,Row 36,5,Mileage.,8,8.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",457,415,36,data,,Row 36,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,37,data,,14,2,Name of Railway by which each system is worked.,Eastern Bengal . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,37,data,,14,3,Total mileage.,"1,272",1272.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,37,data,,14,4,Railways comprising system.,Cooch Behar . . . Eastern Bengal . . Eastern Bengal . . Eastern Bengal . . Mymensingh-Jamalpur-Jagannathganj . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,37,data,,14,5,Mileage.,34 495 637 55 51,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,37,data,,14,6,Gauge.,2′ 6″ Broad. Metre. 2′ 6″ Metre.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,38,data,,15,2,Name of Railway by which each system is worked.,East Indian . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,38,data,,15,3,Total mileage.,"2,225",2225.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,38,data,,15,4,Railways comprising system.,Delhi-Umballa-Kalka East Indian . . . South Behar . . . Tarkessur . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,38,data,,15,5,Mileage.,"162 1,962 79 22",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,38,data,,15,6,Gauge.,Broad. „ „ „,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,39,data,,16,2,Name of Railway by which each system is worked.,Great Indian Peninsula . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,39,data,,16,3,Total mileage.,"2,988",2988.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,39,data,,16,4,Railways comprising system.,Agra-Delhi Chord . . Bhopal-Itarsi (British section) . . . Bhopal-Itarsi (Native State section) . . Bhopal-Ujjain . . Bina-Goona-Baran . Great Indian Peninsula Gwalior . . . Indian Midland . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,39,data,,16,5,Mileage.,"120 13 44 113 146 1,562 183 807",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,39,data,,16,6,Gauge.,„ „ „ „ „ „ 2′ 0″ Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,40,data,,17,2,Name of Railway by which each system is worked.,Howrah-Amta .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,40,data,,17,3,Total mileage.,37,37.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,40,data,,17,4,Railways comprising system.,Howrah-Amta . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,40,data,,17,5,Mileage.,37,37.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,40,data,,17,6,Gauge.,2′ 0″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,41,data,,18,2,Name of Railway by which each system is worked.,Howrah-Sheakhala .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,41,data,,18,3,Total mileage.,20,20.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,41,data,,18,4,Railways comprising system.,Howrah-Sheakhala,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,41,data,,18,5,Mileage.,20,20.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,41,data,,18,6,Gauge.,„,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,42,data,,19,2,Name of Railway by which each system is worked.,Jodhpur-Bikaner .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,42,data,,19,3,Total mileage.,834,834.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,42,data,,19,4,Railways comprising system.,Jodhpur-Bikaner . Jodhpur-Hyderabad,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,42,data,,19,5,Mileage.,710 124,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,42,data,,19,6,Gauge.,Metre. „,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,43,data,,20,2,Name of Railway by which each system is worked.,Jorhat . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,43,data,,20,3,Total mileage.,30,30.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,43,data,,20,4,Railways comprising system.,Jorhat . . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,43,data,,20,5,Mileage.,30,30.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,43,data,,20,6,Gauge.,2′ 0″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,44,data,,21,2,Name of Railway by which each system is worked.,Kalka-Simla . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,44,data,,21,3,Total mileage.,59,59.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,44,data,,21,4,Railways comprising system.,Kalka-Simla . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,44,data,,21,5,Mileage.,59,59.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,44,data,,21,6,Gauge.,2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,45,data,,22,2,Name of Railway by which each system is worked.,Madras . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,45,data,,22,3,Total mileage.,"1,493",1493.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,45,data,,22,4,Railways comprising system.,Kolar Gold-fields . . Madras . . . . Madras (North-east line) Nilgiri . . . . Shoranur-Cochin . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,45,data,,22,5,Mileage.,10 904 497 17 65,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,45,data,,22,6,Gauge.,Broad. „ „ Metre. „,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,46,data,,23,2,Name of Railway by which each system is worked.,Morvi . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,46,data,,23,3,Total mileage.,90,90.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,46,data,,23,4,Railways comprising system.,Morvi . . . Morvi . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,46,data,,23,5,Mileage.,73 17,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,46,data,,23,6,Gauge.,Metre. 2′ 6″,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,47,data,,24,2,Name of Railway by which each system is worked.,Nizam's Guaranteed State . . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,47,data,,24,3,Total mileage.,742,742.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,47,data,,24,4,Railways comprising system.,Bezwada Extension . Hyderabad-Godavari Valley . . . Nizam's Guaranteed State,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,47,data,,24,5,Mileage.,21 391 330,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,47,data,,24,6,Gauge.,Broad. Metre. Broad.,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,48,data,,25,2,Name of Railway by which each system is worked.,North-Western . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,48,data,,25,3,Total mileage.,"4,028",4028.0,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,48,data,,25,4,Railways comprising system.,Dandot . . . . Jammu and Kashmir Khushalgarh-Kohat-Thal Ludhiana-Dhuri-Jakhal North-Western . . Nowshera-Durgai . . Rajpura-Bhatinda . . Southern Punjab . .,,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,48,data,,25,5,Mileage.,"6 16 92 79 3,186 40 107 502",,,False,False
+imperial-gazetteer-of-india-vol-03-economic,tbl-069,"Railways worked by each Railway Administration on June 30, 1905",458,415,48,data,,25,6,Gauge.,2′ 0″ Broad. 2′ 6″ Broad. „ 2′ 6″ Broad. „,,,False,False

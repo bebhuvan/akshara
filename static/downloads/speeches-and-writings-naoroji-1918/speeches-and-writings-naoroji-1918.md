@@ -43,9 +43,6 @@ This is the first attempt to bring under one cover an exhaustive and comprehensi
 ### CONTENTS
 
 
-##### <span class="sc">PAGE</span>
-
-
 #### PART I: SPEECHES.
 
 - Congress Speeches.

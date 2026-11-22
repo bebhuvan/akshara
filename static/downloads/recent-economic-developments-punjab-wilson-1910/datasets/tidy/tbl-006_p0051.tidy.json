@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "10·3",
-    "value_numeric": null,
+    "value_numeric": 10.3,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -66,7 +66,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "13·8",
-    "value_numeric": null,
+    "value_numeric": 13.8,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -120,7 +120,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "20·3",
-    "value_numeric": null,
+    "value_numeric": 20.3,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -174,7 +174,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "38·4",
-    "value_numeric": null,
+    "value_numeric": 38.4,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -228,7 +228,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "25·3",
-    "value_numeric": null,
+    "value_numeric": 25.3,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -282,7 +282,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "26·3",
-    "value_numeric": null,
+    "value_numeric": 26.3,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -336,7 +336,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "21·9",
-    "value_numeric": null,
+    "value_numeric": 21.9,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -390,7 +390,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "36·1",
-    "value_numeric": null,
+    "value_numeric": 36.1,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -444,7 +444,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "24·4",
-    "value_numeric": null,
+    "value_numeric": 24.4,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -498,7 +498,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "52·6",
-    "value_numeric": null,
+    "value_numeric": 52.6,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -552,7 +552,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "34·2",
-    "value_numeric": null,
+    "value_numeric": 34.2,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -606,7 +606,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "43·2",
-    "value_numeric": null,
+    "value_numeric": 43.2,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -660,7 +660,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "28·7",
-    "value_numeric": null,
+    "value_numeric": 28.7,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -714,7 +714,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "54·8",
-    "value_numeric": null,
+    "value_numeric": 54.8,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -768,7 +768,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "40·3",
-    "value_numeric": null,
+    "value_numeric": 40.3,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -822,7 +822,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "62·9",
-    "value_numeric": null,
+    "value_numeric": 62.9,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -876,7 +876,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "42·2",
-    "value_numeric": null,
+    "value_numeric": 42.2,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -930,7 +930,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "24·4",
-    "value_numeric": null,
+    "value_numeric": 24.4,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -984,7 +984,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "23·0",
-    "value_numeric": null,
+    "value_numeric": 23.0,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1092,7 +1092,7 @@
     "column_index": 2,
     "column_header": "Total Imports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "36·4",
-    "value_numeric": null,
+    "value_numeric": 36.4,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1146,7 +1146,7 @@
     "column_index": 5,
     "column_header": "Total Exports. :: Goods. :: Weight in millions of maunds.",
     "raw_text": "46·3",
-    "value_numeric": null,
+    "value_numeric": 46.3,
     "unit": "maunds",
     "is_null_or_leader": false,
     "arithmetic_verified": false

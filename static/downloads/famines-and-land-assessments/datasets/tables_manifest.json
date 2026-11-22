@@ -419,10 +419,10 @@
       "end_page": 310,
       "printed_folio": "286",
       "column_count": 11,
-      "row_count": 10,
+      "row_count": 12,
       "tidy_observation_count": 60,
-      "arithmetic_verified": true,
-      "arithmetic_status": "verified_total"
+      "arithmetic_verified": false,
+      "arithmetic_status": "flagged_for_review"
     },
     {
       "table_id": "tbl-023",
@@ -495,7 +495,7 @@
       "end_page": 316,
       "printed_folio": "292",
       "column_count": 15,
-      "row_count": 25,
+      "row_count": 26,
       "tidy_observation_count": 294,
       "arithmetic_verified": true,
       "arithmetic_status": "verified_total"

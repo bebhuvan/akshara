@@ -1,221 +1,221 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,4,1905–6 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,5,1905–6 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,6,1906–7 :: No.,2,2.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,7,1906–7 :: Tonnage,335,335.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,9,1907–8 :: Tonnage,73,73.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,10,1908–9 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,1,data,,Calcutta: Steam,11,1908–9 :: Tonnage,160,160.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,5,1905–6 :: Tonnage,26,26.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,6,1906–7 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,7,1906–7 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,9,1907–8 :: Tonnage,71,71.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,10,1908–9 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,,Chittagong: Sailing,11,1908–9 :: Tonnage,67,67.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,2,1904–5 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,3,1904–5 :: Tonnage,17,17.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,5,1905–6 :: Tonnage,15,15.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,6,1906–7 :: No.,3,3.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,7,1906–7 :: Tonnage,38,38.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,8,1907–8 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,9,1907–8 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,10,1908–9 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,4,data,Bombay and Sind,Bombay: Steam,11,1908–9 :: Tonnage,12,12.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,2,1904–5 :: No.,38,38.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,"3,532",3532.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,4,1905–6 :: No.,25,25.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,"1,662",1662.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,6,1906–7 :: No.,28,28.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,"1,731",1731.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,8,1907–8 :: No.,18,18.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,808,808.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,10,1908–9 :: No.,37,37.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,"2,243",2243.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,5,1905–6 :: Tonnage,152,152.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,6,1906–7 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,7,1906–7 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,9,1907–8 :: Tonnage,14,14.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,10,1908–9 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Karachi: Steam,11,1908–9 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,2,1904–5 :: No.,11,11.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,399,399.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,4,1905–6 :: No.,10,10.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,778,778.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,6,1906–7 :: No.,7,7.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,239,239.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,8,1907–8 :: No.,18,18.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,"1,004",1004.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,10,1908–9 :: No.,17,17.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,838,838.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,2,1904–5 :: No.,48,48.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,3,1904–5 :: Tonnage,"1,773",1773.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,4,1905–6 :: No.,70,70.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,5,1905–6 :: Tonnage,"2,277",2277.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,6,1906–7 :: No.,47,47.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,7,1906–7 :: Tonnage,"1,357",1357.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,8,1907–8 :: No.,44,44.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,9,1907–8 :: Tonnage,"1,496",1496.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,10,1908–9 :: No.,83,83.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,9,data,Other Ports,Sailing,11,1908–9 :: Tonnage,"2,984",2984.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,2,1904–5 :: No.,45,45.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,3,1904–5 :: Tonnage,"1,411",1411.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,4,1905–6 :: No.,44,44.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,5,1905–6 :: Tonnage,"1,915",1915.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,6,1906–7 :: No.,30,30.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,7,1906–7 :: Tonnage,"1,641",1641.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,8,1907–8 :: No.,28,28.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,9,1907–8 :: Tonnage,796,796.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,10,1908–9 :: No.,36,36.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,12,data,Various Ports,Sailing,11,1908–9 :: Tonnage,"1,510",1510.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,4,1905–6 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,5,1905–6 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,6,1906–7 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,7,1906–7 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,9,1907–8 :: Tonnage,301,301.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,10,1908–9 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,15,data,Various Ports,Steam,11,1908–9 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,2,1904–5 :: No.,6,6.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,3,1904–5 :: Tonnage,290,290.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,4,1905–6 :: No.,16,16.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,5,1905–6 :: Tonnage,787,787.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,6,1906–7 :: No.,7,7.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,7,1906–7 :: Tonnage,242,242.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,9,1907–8 :: Tonnage,198,198.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,10,1908–9 :: No.,3,3.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Sailing,11,1908–9 :: Tonnage,40,40.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,2,1904–5 :: No.,149,149.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,3,1904–5 :: Tonnage,"7,422",7422.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,4,1905–6 :: No.,168,168.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,5,1905–6 :: Tonnage,"7,612",7612.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,6,1906–7 :: No.,124,124.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,7,1906–7 :: Tonnage,"5,583",5583.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,8,1907–8 :: No.,113,113.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,9,1907–8 :: Tonnage,"4,761",4761.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,10,1908–9 :: No.,179,179.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,total,,Total,11,1908–9 :: Tonnage,"7,854",7854.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,5,1905–6 :: Tonnage,163,163.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,6,1906–7 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,7,1906–7 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,8,1907–8 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,9,1907–8 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,10,1908–9 :: No.,5,5.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,19,data,Bengal,Calcutta: Steam,11,1908–9 :: Tonnage,349,349.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,4,1905–6 :: No.,2,2.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,5,1905–6 :: Tonnage,96,96.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,6,1906–7 :: No.,2,2.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,7,1906–7 :: Tonnage,38,38.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,8,1907–8 :: No.,5,5.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,9,1907–8 :: Tonnage,88,88.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,10,1908–9 :: No.,2,2.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,21,data,Bombay and Sind,Bombay: Steam,11,1908–9 :: Tonnage,152,152.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,2,1904–5 :: No.,19,19.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,"1,412",1412.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,4,1905–6 :: No.,15,15.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,"1,162",1162.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,6,1906–7 :: No.,18,18.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,851,851.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,8,1907–8 :: No.,28,28.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,"2,256",2256.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,10,1908–9 :: No.,17,17.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,"1,199",1199.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,2,1904–5 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,3,1904–5 :: Tonnage,13,13.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,4,1905–6 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,5,1905–6 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,6,1906–7 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,7,1906–7 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,9,1907–8 :: Tonnage,12,12.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,10,1908–9 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Karachi: Steam,11,1908–9 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,2,1904–5 :: No.,6,6.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,574,574.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,4,1905–6 :: No.,7,7.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,440,440.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,6,1906–7 :: No.,5,5.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,210,210.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,8,1907–8 :: No.,3,3.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,37,37.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,10,1908–9 :: No.,6,6.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,277,277.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,2,1904–5 :: No.,56,56.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,3,1904–5 :: Tonnage,"2,110",2110.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,4,1905–6 :: No.,40,40.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,5,1905–6 :: Tonnage,"1,505",1505.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,6,1906–7 :: No.,50,50.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,7,1906–7 :: Tonnage,"1,015",1015.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,8,1907–8 :: No.,73,73.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,9,1907–8 :: Tonnage,"1,782",1782.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,10,1908–9 :: No.,81,81.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,26,data,Other Ports,Sailing,11,1908–9 :: Tonnage,"2,038",2038.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,5,1905–6 :: Tonnage,35,35.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,6,1906–7 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,7,1906–7 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,8,1907–8 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,9,1907–8 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,10,1908–9 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,29,data,Various Ports,Steam,11,1908–9 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,2,1904–5 :: No.,22,22.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,3,1904–5 :: Tonnage,987,987.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,4,1905–6 :: No.,30,30.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,5,1905–6 :: Tonnage,"1,026",1026.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,6,1906–7 :: No.,27,27.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,7,1906–7 :: Tonnage,"1,266",1266.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,8,1907–8 :: No.,25,25.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,9,1907–8 :: Tonnage,840,840.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,10,1908–9 :: No.,25,25.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Sailing,11,1908–9 :: Tonnage,"1,126",1126.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,2,1904–5 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,3,1904–5 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,5,1905–6 :: Tonnage,248,248.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,6,1906–7 :: No.,8,8.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,7,1906–7 :: Tonnage,"1,060",1060.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,8,1907–8 :: No.,..,,count,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,9,1907–8 :: Tonnage,.....,,,True,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,10,1908–9 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,33,data,Various Ports,Steam,11,1908–9 :: Tonnage,39,39.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,2,1904–5 :: No.,4,4.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,3,1904–5 :: Tonnage,145,145.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,4,1905–6 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,5,1905–6 :: Tonnage,16,16.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,6,1906–7 :: No.,2,2.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,7,1906–7 :: Tonnage,42,42.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,8,1907–8 :: No.,1,1.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,9,1907–8 :: Tonnage,17,17.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,10,1908–9 :: No.,4,4.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Sailing,11,1908–9 :: Tonnage,131,131.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,2,1904–5 :: No.,108,108.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,3,1904–5 :: Tonnage,"5,241",5241.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,4,1905–6 :: No.,98,98.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,5,1905–6 :: Tonnage,"4,691",4691.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,6,1906–7 :: No.,112,112.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,7,1906–7 :: Tonnage,"4,482",4482.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,8,1907–8 :: No.,136,136.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,9,1907–8 :: Tonnage,"5,032",5032.0,,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,10,1908–9 :: No.,141,141.0,count,False,True
-englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,total,,Total,11,1908–9 :: Tonnage,"5,311",5311.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,4,1905–6 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,5,1905–6 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,6,1906–7 :: No.,2,2.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,7,1906–7 :: Tonnage,335,335.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,9,1907–8 :: Tonnage,73,73.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,10,1908–9 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,2,data,Bengal,Calcutta: Steam,11,1908–9 :: Tonnage,160,160.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,5,1905–6 :: Tonnage,26,26.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,6,1906–7 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,7,1906–7 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,9,1907–8 :: Tonnage,71,71.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,10,1908–9 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,3,data,Bengal,Chittagong: Sailing,11,1908–9 :: Tonnage,67,67.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,2,1904–5 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,3,1904–5 :: Tonnage,17,17.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,5,1905–6 :: Tonnage,15,15.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,6,1906–7 :: No.,3,3.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,7,1906–7 :: Tonnage,38,38.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,8,1907–8 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,9,1907–8 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,10,1908–9 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,5,data,Bombay and Sind,Bombay: Steam,11,1908–9 :: Tonnage,12,12.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,2,1904–5 :: No.,38,38.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,"3,532",3532.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,4,1905–6 :: No.,25,25.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,"1,662",1662.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,6,1906–7 :: No.,28,28.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,"1,731",1731.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,8,1907–8 :: No.,18,18.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,808,808.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,10,1908–9 :: No.,37,37.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,6,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,"2,243",2243.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,5,1905–6 :: Tonnage,152,152.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,6,1906–7 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,7,1906–7 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,9,1907–8 :: Tonnage,14,14.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,10,1908–9 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,7,data,Bombay and Sind,Karachi: Steam,11,1908–9 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,2,1904–5 :: No.,11,11.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,399,399.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,4,1905–6 :: No.,10,10.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,778,778.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,6,1906–7 :: No.,7,7.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,239,239.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,8,1907–8 :: No.,18,18.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,"1,004",1004.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,10,1908–9 :: No.,17,17.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,8,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,838,838.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,2,1904–5 :: No.,48,48.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,3,1904–5 :: Tonnage,"1,773",1773.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,4,1905–6 :: No.,70,70.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,5,1905–6 :: Tonnage,"2,277",2277.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,6,1906–7 :: No.,47,47.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,7,1906–7 :: Tonnage,"1,357",1357.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,8,1907–8 :: No.,44,44.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,9,1907–8 :: Tonnage,"1,496",1496.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,10,1908–9 :: No.,83,83.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,10,data,Other Ports,Sailing,11,1908–9 :: Tonnage,"2,984",2984.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,2,1904–5 :: No.,45,45.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,3,1904–5 :: Tonnage,"1,411",1411.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,4,1905–6 :: No.,44,44.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,5,1905–6 :: Tonnage,"1,915",1915.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,6,1906–7 :: No.,30,30.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,7,1906–7 :: Tonnage,"1,641",1641.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,8,1907–8 :: No.,28,28.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,9,1907–8 :: Tonnage,796,796.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,10,1908–9 :: No.,36,36.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,13,data,Various Ports,Sailing,11,1908–9 :: Tonnage,"1,510",1510.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,4,1905–6 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,5,1905–6 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,6,1906–7 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,7,1906–7 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,9,1907–8 :: Tonnage,301,301.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,10,1908–9 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,16,data,Various Ports,Steam,11,1908–9 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,2,1904–5 :: No.,6,6.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,3,1904–5 :: Tonnage,290,290.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,4,1905–6 :: No.,16,16.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,5,1905–6 :: Tonnage,787,787.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,6,1906–7 :: No.,7,7.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,7,1906–7 :: Tonnage,242,242.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,9,1907–8 :: Tonnage,198,198.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,10,1908–9 :: No.,3,3.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,17,data,Various Ports,Sailing,11,1908–9 :: Tonnage,40,40.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,2,1904–5 :: No.,149,149.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,3,1904–5 :: Tonnage,"7,422",7422.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,4,1905–6 :: No.,168,168.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,5,1905–6 :: Tonnage,"7,612",7612.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,6,1906–7 :: No.,124,124.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,7,1906–7 :: Tonnage,"5,583",5583.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,8,1907–8 :: No.,113,113.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,9,1907–8 :: Tonnage,"4,761",4761.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,10,1908–9 :: No.,179,179.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,211,171,18,total,,Total,11,1908–9 :: Tonnage,"7,854",7854.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,5,1905–6 :: Tonnage,163,163.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,6,1906–7 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,7,1906–7 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,8,1907–8 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,9,1907–8 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,10,1908–9 :: No.,5,5.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,20,data,Bengal,Calcutta: Steam,11,1908–9 :: Tonnage,349,349.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,4,1905–6 :: No.,2,2.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,5,1905–6 :: Tonnage,96,96.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,6,1906–7 :: No.,2,2.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,7,1906–7 :: Tonnage,38,38.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,8,1907–8 :: No.,5,5.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,9,1907–8 :: Tonnage,88,88.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,10,1908–9 :: No.,2,2.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,22,data,Bombay and Sind,Bombay: Steam,11,1908–9 :: Tonnage,152,152.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,2,1904–5 :: No.,19,19.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,"1,412",1412.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,4,1905–6 :: No.,15,15.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,"1,162",1162.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,6,1906–7 :: No.,18,18.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,851,851.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,8,1907–8 :: No.,28,28.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,"2,256",2256.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,10,1908–9 :: No.,17,17.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,23,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,"1,199",1199.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,2,1904–5 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,3,1904–5 :: Tonnage,13,13.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,4,1905–6 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,5,1905–6 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,6,1906–7 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,7,1906–7 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,9,1907–8 :: Tonnage,12,12.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,10,1908–9 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,24,data,Bombay and Sind,Karachi: Steam,11,1908–9 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,2,1904–5 :: No.,6,6.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,3,1904–5 :: Tonnage,574,574.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,4,1905–6 :: No.,7,7.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,5,1905–6 :: Tonnage,440,440.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,6,1906–7 :: No.,5,5.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,7,1906–7 :: Tonnage,210,210.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,8,1907–8 :: No.,3,3.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,9,1907–8 :: Tonnage,37,37.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,10,1908–9 :: No.,6,6.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,25,data,Bombay and Sind,Sailing,11,1908–9 :: Tonnage,277,277.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,2,1904–5 :: No.,56,56.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,3,1904–5 :: Tonnage,"2,110",2110.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,4,1905–6 :: No.,40,40.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,5,1905–6 :: Tonnage,"1,505",1505.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,6,1906–7 :: No.,50,50.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,7,1906–7 :: Tonnage,"1,015",1015.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,8,1907–8 :: No.,73,73.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,9,1907–8 :: Tonnage,"1,782",1782.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,10,1908–9 :: No.,81,81.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,27,data,Other Ports,Sailing,11,1908–9 :: Tonnage,"2,038",2038.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,5,1905–6 :: Tonnage,35,35.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,6,1906–7 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,7,1906–7 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,8,1907–8 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,9,1907–8 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,10,1908–9 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,30,data,Various Ports,Steam,11,1908–9 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,2,1904–5 :: No.,22,22.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,3,1904–5 :: Tonnage,987,987.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,4,1905–6 :: No.,30,30.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,5,1905–6 :: Tonnage,"1,026",1026.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,6,1906–7 :: No.,27,27.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,7,1906–7 :: Tonnage,"1,266",1266.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,8,1907–8 :: No.,25,25.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,9,1907–8 :: Tonnage,840,840.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,10,1908–9 :: No.,25,25.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,31,data,Various Ports,Sailing,11,1908–9 :: Tonnage,"1,126",1126.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,2,1904–5 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,3,1904–5 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,5,1905–6 :: Tonnage,248,248.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,6,1906–7 :: No.,8,8.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,7,1906–7 :: Tonnage,"1,060",1060.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,8,1907–8 :: No.,..,,count,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,9,1907–8 :: Tonnage,.....,,,True,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,10,1908–9 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,34,data,Various Ports,Steam,11,1908–9 :: Tonnage,39,39.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,2,1904–5 :: No.,4,4.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,3,1904–5 :: Tonnage,145,145.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,4,1905–6 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,5,1905–6 :: Tonnage,16,16.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,6,1906–7 :: No.,2,2.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,7,1906–7 :: Tonnage,42,42.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,8,1907–8 :: No.,1,1.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,9,1907–8 :: Tonnage,17,17.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,10,1908–9 :: No.,4,4.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,35,data,Various Ports,Sailing,11,1908–9 :: Tonnage,131,131.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,2,1904–5 :: No.,108,108.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,3,1904–5 :: Tonnage,"5,241",5241.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,4,1905–6 :: No.,98,98.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,5,1905–6 :: Tonnage,"4,691",4691.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,6,1906–7 :: No.,112,112.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,7,1906–7 :: Tonnage,"4,482",4482.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,8,1907–8 :: No.,136,136.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,9,1907–8 :: Tonnage,"5,032",5032.0,,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,10,1908–9 :: No.,141,141.0,count,False,True
+englands-debt-to-india-lajpat-rai-1917,tbl-023,Ships Built at Indian Ports,212,171,36,total,,Total,11,1908–9 :: Tonnage,"5,311",5311.0,,False,True

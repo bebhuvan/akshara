@@ -152,9 +152,6 @@ The subject which I have treated is extensive, and has involved a certain amount
 
 #### APPENDICES
 
-
-##### <span class="sc">page</span>
-
 - A. <span class="sc">The Crops grown in India in the Sixteenth Century</span> 303
 - B. “<span class="sc">Indian Corn</span>” <span class="sc">in Vijayanagar</span> . . . 305
 - C. <span class="sc">The Seaports of Bengal</span> . . 307
@@ -1144,16 +1141,12 @@ As has been said in a previous chapter, Portugal did not aim at establishing an 
 
 The Moslem ship-owners were by no means disposed to submit to these regulations, but they were not able to fight the new-comers on equal terms, and they accommodated themselves to the position in various ways. For one thing, they altered their routes, and Barbosa tells us that ships from Malacca were occasionally diverted to the Coromandel coast because their owners dared not face the Portuguese on the other side of India, while those which went west avoided the coast and took the outer passage through the Maldiv Islands, in spite of the danger of shipwreck in those waters.[^sec-09-fn-002] In many cases, again, the Portuguese rules were accepted, and we find Indian ships sailing under licences granted by them to various [p. 202] places, in particular to the pilgrim ports on the Red Sea. Where, however, the conditions were favourable, the Moslems of the coast maintained a species of irregular warfare, and treated the Portuguese ships precisely as the Portuguese treated theirs. Contemporary writers describe this conduct as piracy, and they show that it constituted a very great danger to shipping, particularly on the Malabar coast, on parts of which the “pirates” were most firmly established; one of them, indeed, went so far as to imitate the system established by the Portuguese, and issued his own licences for trade, licences which are said to have been accepted even by Portuguese subjects. The Moslems therefore had by no means been driven off the seas, and they continued to conduct much of the maritime commerce, sometimes by licence, and sometimes in defiance of their competitors. By the end of the sixteenth century the power of the Portuguese had been very greatly weakened through a variety of causes into which it is unnecessary to enter; it was shortly to collapse before the Dutch and the English, who were now preparing to secure a share in the direct Oriental trade, but this event lies just outside my period, during which the commercial domination of the coasts was shared between the Moslems and the Portuguese.[^sec-09-fn-003]
 
-It will be noticed that none of the great Indian States played any part in this struggle for the seas. They were essentially continental powers, and while they appreciated the benefits of foreign commerce, and the revenue which it brought to their seaports, they did nothing to protect it on the way. Akbar sent ships from Gujarat to the Red Sea, but they sailed under licence from the Portuguese. The sea-borne trade of Vijayanagar was placed practically in Portuguese hands by the Treaty of 1547, while the Deccan kingdom of Bijapur appears to have been content to quarrel with the
+It will be noticed that none of the great Indian States played any part in this struggle for the seas. They were essentially continental powers, and while they appreciated the benefits of foreign commerce, and the revenue which it brought to their seaports, they did nothing to protect it on the way. Akbar sent ships from Gujarat to the Red Sea, but they sailed under licence from the Portuguese. The sea-borne trade of Vijayanagar was placed practically in Portuguese hands by the Treaty of 1547, while the Deccan kingdom of Bijapur appears to have been content to quarrel with the [p. 203] Portuguese on land, and in any case could scarcely have hoped to drive them from the ocean. The Zamorin of Calicut did what he could to protect the “pirates,” some of whom paid him tribute, but he too was unable to stand against the Portuguese in open warfare, and apart from his clandestine activities the merchants of the country could look to no protector, but were dependent on their own resources.
 
 
 <!-- page: 220 | folio: 202 -->
 
 ![The Chief Seaports in Indian Waters](../figures/fig-002_p0220.webp)
-
-
-<!-- page: 221 | folio: 203 -->
-Portuguese on land, and in any case could scarcely have hoped to drive them from the ocean. The Zamorin of Calicut did what he could to protect the “pirates,” some of whom paid him tribute, but he too was unable to stand against the Portuguese in open warfare, and apart from his clandestine activities the merchants of the country could look to no protector, but were dependent on their own resources.
 
 
 ##### II. <span class="sc">The Principal Indian Seaports</span>
@@ -1958,8 +1951,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - unfavourable to, 125-30; implements, 105, 106; income of
 - commodities from, 115-18, 286,
 - 287; land-tenure, 96-100, 129,
-- 130; manufactures dependent
-- on, 156-60, 178-84; methods
+- 130; manufactures dependent on, 156-60, 178-84; methods
 - of, 100-102; population and, 9,
 - 20, 22, 189, 190; yield, average,
 - 115-18, 124
@@ -2034,8 +2026,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - Bassein, 23, 171, 206-7
 - Behari Mal, Raja, 69
 - Benares, 182, 189, 275-6
-- Bengal: clothing in, 119, 276; crops, 104, 119-20, 144, 178-9, 243; jute, 119, 178-9; kidnapping in 92, 93 (*note*); popula-
-- tion, 10, 13, 22; rebellion in, 40; seaports, 211-12, Appendix C., 307-9; silk, 173, 175; slaves, 113; sugar, 105, 157; thieves in, 45; treasure-hoarding in, 284; waterways, 167
+- Bengal: clothing in, 119, 276; crops, 104, 119-20, 144, 178-9, 243; jute, 119, 178-9; kidnapping in 92, 93 (*note*); population, 10, 13, 22; rebellion in, 40; seaports, 211-12, Appendix C., 307-9; silk, 173, 175; slaves, 113; sugar, 105, 157; thieves in, 45; treasure-hoarding in, 284; waterways, 167
 - Berar, crops of, 123
 - Bernier, 13, 27, 69, 120, 130, 135, 138, 186, 187, 189, 190, 253 (*note*), 257 (*note*), 262, 264, 283
 - Bhagwan Das, Raja, 262
@@ -2118,15 +2109,12 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - 213, 215, 216, 218, 283, 291-2;
 - organisation, 245-50; textiles,
 - 179-84; transport, 166-71, 197,
-- 243-4
-- foreign: cash basis of, 57; European, 221-7; income from, 289;
+- 243-4 foreign: cash basis of, 57; European, 221-7; income from, 289;
 - regulated by seasons, 230-33;
 - sea-borne, 198-212; shipping
 - employed, 233-9; volume of,
 - 233-9, 288-9, Appendix D.,
-- 310-12
-- internal, 241-5; agriculture and,
-- 126-7; charges on, 46-52;
+- 310-12 internal, 241-5; agriculture and, 126-7; charges on, 46-52;
 - security of, 37-46
 - Commercial law and morality, 247,
 - 249-50
@@ -2328,8 +2316,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - Industry : organisation, 184-9 ;
 -     production, 141, 155-6, 287 ; agricultural manufactures, 156-60 ;
 -     handicrafts, 160-66, 185-9, 287,
--     290-93 ; mineral, 146-55 ; shipping and vehicles, 144, 166-71,
-- 186, 288-9 ; textiles, 171-84,
+-     290-93 ; mineral, 146-55 ; shipping and vehicles, 144, 166-71, 186, 288-9 ; textiles, 171-84,
 - 185
 - Intoxicants, manufacture of, 159,
 -     278
@@ -2486,10 +2473,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - 254
 - Moors, 25 (*note*)
 - Morison, Sir Theodore, 127
-- Moslem kingdoms of the Deccan:
-
-<!-- page: 343 | folio: 325 -->
-- administration, 32, 33; agriculture, 123, 125, 130, 136; armies, 18-19, 76-7; arts neglected in, 85; population, 11, 19; servants and slaves in, 89, 91
+- Moslem kingdoms of the Deccan: [p. 325] administration, 32, 33; agriculture, 123, 125, 130, 136; armies, 18-19, 76-7; arts neglected in, 85; population, 11, 19; servants and slaves in, 89, 91
 - Moslem merchants, 24, 162, 180, 198-202, 210, 214, 224, 245-6, 247, 265
 - Moslems: Akbar and, 70, 86; and slavery, 91-2
 - Mozambique, 26, 209, 234, 283
@@ -2545,10 +2529,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - Poppy, 102, 103, 104, 119, 132
 - Population of India: city, 9-15; country, 17, 20-22, 109-11; divisions of, 23-8, 63-94; income of commodities and, 286-294; strength of armies an index to, 16-20
 - Porcelain imported, 164
-- Portuguese: convoys, 240-41; cotton industry and, 179-81, 182; currency, 57-8; decay of commerce, 244-5; English competition, 47, 224; furniture, 161-162; horse trade, 76, 95; idea of India, 1-2, 12; licence system, 201-2, 205, 210, 215, 217, 224,
-
-<!-- page: 344 | folio: 326 -->
-- 239; missionary zeal, 112, 200,
+- Portuguese: convoys, 240-41; cotton industry and, 179-81, 182; currency, 57-8; decay of commerce, 244-5; English competition, 47, 224; furniture, 161-162; horse trade, 76, 95; idea of India, 1-2, 12; licence system, 201-2, 205, 210, 215, 217, 224, [p. 326] 239; missionary zeal, 112, 200,
 - 224; Moslem merchants and,
 - 24-5, 200-203, 210, 214, 224,
 - 245-6, 265; pride, 42 *(note)*;
@@ -2598,8 +2579,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - Rent-rates, 130-31, 133, 135
 - Revenue assessment and collection,
 - 3, 4, 32-4, 46-50, 79-81, 97-100,
-- 103, 111, 116 *(note)*, 117, 122,
-- 130-36, 188-9; distribution,
+- 103, 111, 116 *(note)*, 117, 122, 130-36, 188-9; distribution,
 - 295-8
 - Rhinoceros, 7
 - Rice, 104, 119, 121, 123
@@ -2650,10 +2630,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - Shoes, 162-3, 276-7
 - Sikhs, 23
 - Silk industry, 171-6, 207, 287
-- Silver, 146; coinage, 55, 58, 60, 148,
-
-<!-- page: 345 | folio: 327 -->
-- 218, 284; imported, 197, 209,
+- Silver, 146; coinage, 55, 58, 60, 148, [p. 327] 218, 284; imported, 197, 209,
 - 216, 218, 226-7, 283-6
 - Sind land revenue, 99, 135
 - Slave trade, 26, 92, 216-17
@@ -2755,10 +2732,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - 50
 - Vijayanagar, Empire : agriculture,
 - 123, 125, 130, 305-6 ; army, 16-
-- 19, 76-7 ; Court, 35, 63-5 ; de-
-
-<!-- page: 346 | folio: 328 -->
-- cline of, 207; judicial system,
+- 19, 76-7 ; Court, 35, 63-5 ; decline of, 207; judicial system,
 - 34, 35; lower classes, 267-8,
 - 274, 276; nobles, 32, 33, 63-5,
 - 76, 85, 86, 98, 173; Portuguese
@@ -2766,7 +2740,7 @@ The translation issued for the Hakluyt Society in 1865 is now being superseded, 
 - security in, 45; servants and
 - slaves in, 89, 91; transit and
 - city dues, 49, 50; treasury,
-- 284-5
+- 284-5 [p. 328]
 - Villages, 8; life in, 136-8
 - Wages, urban, 189-93
 - Water-lifts, 101, 102, 106

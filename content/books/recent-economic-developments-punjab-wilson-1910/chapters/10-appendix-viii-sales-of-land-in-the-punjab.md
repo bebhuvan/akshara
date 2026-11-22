@@ -6,12 +6,13 @@ weight: 10
 start_page: 57
 end_page: 57
 printed_start_folio: "55"
+printed_end_folio: "55"
 reading_time: 1
 footnotes_count: 1
 tables_count: 1
 book_id: "recent-economic-developments-punjab-wilson-1910"
 archive_id: "recenteconomicde00wilsrich"
-edition_tier: "machine_checked"
+edition_tier: "community"
 edition_generation: "v6"
 proofing_base_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev"
 proofing_url: "https://akshara-proofing.r-bhuvanesh2007.workers.dev/#desk/recent-economic-developments-punjab-wilson-1910/57"

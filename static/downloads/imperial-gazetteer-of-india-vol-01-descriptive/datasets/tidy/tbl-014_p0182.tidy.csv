@@ -1,0 +1,49 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,1,data,,1876,2,Date and month.,June 14 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,1,data,,1876,3,District.,Khāsi and Jaintiā Hills .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,1,data,,1876,4,Station.,Cherrapunji .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,1,data,,1876,5,Amount of rainfall in 24 hours.,40·80,40.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,2,data,,1880,2,Date and month.,Sept. 18 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,2,data,,1880,3,District.,Bijnor . . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,2,data,,1880,4,Station.,Nagīna .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,2,data,,1880,5,Amount of rainfall in 24 hours.,32·40,32.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,3,data,,1880,2,Date and month.,Sept. 18 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,3,data,,1880,3,District.,Bijnor . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,3,data,,1880,4,Station.,Dhāmpur,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,3,data,,1880,5,Amount of rainfall in 24 hours.,30·40,30.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,4,data,,1888,2,Date and month.,May 27 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,4,data,,1888,3,District.,Khāsi and Jaintiā Hills .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,4,data,,1888,4,Station.,Jowai .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,4,data,,1888,5,Amount of rainfall in 24 hours.,30·20,30.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,5,data,,1890,2,Date and month.,June 13 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,5,data,,1890,3,District.,Khāsi and Jaintiā Hills .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,5,data,,1890,4,Station.,Cherrapunji .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,5,data,,1890,5,Amount of rainfall in 24 hours.,30·04,30.04,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,6,data,,1885,2,Date and month.,June 15 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,6,data,,1885,3,District.,Khāsi and Jaintiā Hills .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,6,data,,1885,4,Station.,Jowai .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,6,data,,1885,5,Amount of rainfall in 24 hours.,29·20,29.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,7,data,,1880,2,Date and month.,Sept. 18 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,7,data,,1880,3,District.,Bijnor . . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,7,data,,1880,4,Station.,Najībābād .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,7,data,,1880,5,Amount of rainfall in 24 hours.,28·50,28.5,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,8,data,,1893,2,Date and month.,May 30 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,8,data,,1893,3,District.,Cāchār . . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,8,data,,1893,4,Station.,Nemotha,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,8,data,,1893,5,Amount of rainfall in 24 hours.,27·30,27.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,9,data,,1890,2,Date and month.,June 29 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,9,data,,1890,3,District.,Rangpur . . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,9,data,,1890,4,Station.,Bhawāniganj .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,9,data,,1890,5,Amount of rainfall in 24 hours.,27·00,27.0,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,10,data,,1891,2,Date and month.,July 28 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,10,data,,1891,3,District.,Surat . . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,10,data,,1891,4,Station.,Jalālpur .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,10,data,,1891,5,Amount of rainfall in 24 hours.,25·85,25.85,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,11,data,,1888,2,Date and month.,June 27 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,11,data,,1888,3,District.,Khāsi and Jaintiā Hills .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,11,data,,1888,4,Station.,Mahādeo .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,11,data,,1888,5,Amount of rainfall in 24 hours.,25·80,25.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,12,data,,1886,2,Date and month.,June 18 .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,12,data,,1886,3,District.,Colāba . . .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,12,data,,1886,4,Station.,Roha .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-014,Table 14,182,144,12,data,,1886,5,Amount of rainfall in 24 hours.,24·80,24.8,,False,False

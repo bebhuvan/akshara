@@ -1,0 +1,8 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,1,data,,1–10,2,Column 2,1819–35 (indexed).,,,False,False
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,2,data,,11–16,2,Column 2,Missing.,,,False,False
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,3,data,,17–27,2,Column 2,1850–59.,,,False,False
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,4,data,,28,2,Column 2,Index for 1847–52.,,,False,False
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,5,data,,29,2,Column 2,Index for 1853–57.,,,False,False
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,6,data,,30,2,Column 2,List for 1854–58.,,,False,False
+guide-to-india-office-records-1919,tbl-002,REPORTS.,27,7,7,data,,31,2,Column 2,List for 1858–59.,,,False,False

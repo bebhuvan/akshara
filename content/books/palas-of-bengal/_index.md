@@ -1,6 +1,6 @@
 ---
 title: "The Pālas of Bengal"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "Memoirs of the Asiatic Society of Bengal, Vol. V, No. 3"
 author: "R. D. Banerji"
 author_slug: "r-d-banerji"
@@ -9,7 +9,7 @@ imprint: "Calcutta: The Baptist Mission Press / Asiatic Society of Bengal"
 language: "English"
 pages: 126
 extracted_pages: 105
-reread_pages: 0
+reread_pages: 5
 human_verified_pages: 0
 chapters: 12
 footnotes_count: 277
@@ -22,30 +22,30 @@ collection_slug: "general-heritage"
 collection_title: "Akshara General Heritage Library"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 80.2
+rubric_score: 86.4
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Apparatus & Footnotes"
-    score: 19.0
+    score: 22.0
     max: 25.0
-    notes: "-6.0: 2 unresolved footnote callout/body mismatch(es)"
+    notes: "-3.0: 1 unresolved footnote callout/body mismatch(es)"
   - name: "Tabular & Numeric Accuracy"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Orthography & Diacritics"
-    score: 11.2
+    score: 14.4
     max: 25.0
-    notes: "-3.0: 1 script/codepoint anomaly(ies); -10.0: 31 intra-book diacritic drift cluster(s); -0.8: 4 `<unclear>` ink span(s) awaiting scan check"
+    notes: "-10.0: 20 intra-book diacritic drift cluster(s); -0.6: 3 `<unclear>` ink span(s) awaiting scan check"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (38 open review items); 0 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (24 open review items); 5 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 29 fixes"
+  - "Scan-Triaged: 40 fixes · 5 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
@@ -102,7 +102,7 @@ editorial_note_markdown: |-
   - **Source File**: `palas-of-bengal.originals.pdf`
   - **Source SHA-256**: `1f1fb550222e61521e2de3820b498d44dbf6d94bc234071682e0e2e36736f225`
   - **Leaf Accounting**: 126 PDF leaves — **105** content leaves transcribed, **21** blank/tissue leaves (`6, 7, 10, 12, 84, 88, 90, 92, 94, 96, 98, 100, 102, 104, 108, 110 (+5 more)`), **0** failed leaves.
-  - **Edition Status**: `community` (**80.2 / 100** Rubric Score)
+  - **Edition Status**: `community` (**86.4 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -113,19 +113,20 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (105 pp.).
   - **Reader**: Read by gemini-3.8-flash on 105 of 105 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen). This edition predates that choice and has not been re-read with gemini-4-hydrogen.
-  - **Human Proofing**: 29 replayed correction(s). Automated reading (38 open review items); 0 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 40 replayed correction(s). Automated reading (24 open review items); 5 of 105 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
-  - **31 finding(s) across 21 leaf(s)** (pp. 16, 26, 28, 31, 32, 36, 41, 43, 46, 62 (+11 more)): proper nouns or transliterated terms whose diacritics vary across pages.
-  - **20 finding(s) across 15 leaf(s)** (pp. 19, 28, 39, 40, 48, 49, 51, 52, 66, 68 (+5 more)): rare character.
-  - **4 finding(s) across 2 leaf(s)** (pp. 36, 105): faded or blotted `<unclear>` passages awaiting human scan inspection.
-  - **2 finding(s) across 2 leaf(s)** (pp. 34, 65): pages where a footnote marker and note body could not be paired automatically.
-  - **1 finding(s) across 1 leaf(s)** (pp. 51): script anomaly.
+  - **20 finding(s) across 15 leaf(s)** (pp. 16, 26, 28, 31, 32, 36, 43, 62, 69, 75 (+5 more)): proper nouns or transliterated terms whose diacritics vary across pages.
+  - **19 finding(s) across 14 leaf(s)** (pp. 19, 28, 39, 40, 48, 49, 52, 66, 68, 74 (+4 more)): rare character.
+  - **5 finding(s) across 4 leaf(s)** (pp. 28, 41, 82, 122): attested compositor spelling variants preserved diplomatically from the scan.
+  - **3 finding(s) across 1 leaf(s)** (pp. 105): faded or blotted `<unclear>` passages awaiting human scan inspection.
+  - **1 finding(s) across 1 leaf(s)** (pp. 65): pages where a footnote marker and note body could not be paired automatically.
+  - **1 finding(s) across 1 leaf(s)** (pp. 34): attested compositor footnote callout/note variants preserved diplomatically from the scan.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
 Memoirs of the Asiatic Society of Bengal, Vol. V, No. 3. Archival scope: spanning 750-1175; covering Bengal, Bihar, Magadha, Gauda; focusing on pala dynasty, sanskrit epigraphy, copper-plate grants, medieval indian history. Original imprint: Calcutta: The Baptist Mission Press / Asiatic Society of Bengal (1915).
 
-Digitized from Internet Archive copy [`cu31924096224476`](https://archive.org/details/cu31924096224476) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **80.2/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (277), and statistical tables (0) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`cu31924096224476`](https://archive.org/details/cu31924096224476) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **86.4/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (277), and statistical tables (0) are preserved faithfully from the source camera scans.

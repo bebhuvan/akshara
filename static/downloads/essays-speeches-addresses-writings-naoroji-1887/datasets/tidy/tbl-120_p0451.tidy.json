@@ -66,7 +66,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·49",
-    "value_numeric": null,
+    "value_numeric": 5.49,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -156,7 +156,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·68",
-    "value_numeric": null,
+    "value_numeric": 6.68,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -246,7 +246,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "7·03",
-    "value_numeric": null,
+    "value_numeric": 7.03,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -426,7 +426,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "8·14",
-    "value_numeric": null,
+    "value_numeric": 8.14,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -516,7 +516,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·34",
-    "value_numeric": null,
+    "value_numeric": 6.34,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -606,7 +606,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·83",
-    "value_numeric": null,
+    "value_numeric": 5.83,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -696,7 +696,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·86",
-    "value_numeric": null,
+    "value_numeric": 6.86,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -786,7 +786,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·51",
-    "value_numeric": null,
+    "value_numeric": 6.51,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -876,7 +876,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·51",
-    "value_numeric": null,
+    "value_numeric": 6.51,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -966,7 +966,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·43",
-    "value_numeric": null,
+    "value_numeric": 6.43,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1056,7 +1056,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "7·11",
-    "value_numeric": null,
+    "value_numeric": 7.11,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1146,7 +1146,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·65",
-    "value_numeric": null,
+    "value_numeric": 5.65,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1236,7 +1236,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·51",
-    "value_numeric": null,
+    "value_numeric": 6.51,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1326,7 +1326,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·65",
-    "value_numeric": null,
+    "value_numeric": 5.65,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1416,7 +1416,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "7·2",
-    "value_numeric": null,
+    "value_numeric": 7.2,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1596,7 +1596,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·34",
-    "value_numeric": null,
+    "value_numeric": 6.34,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1686,7 +1686,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·83",
-    "value_numeric": null,
+    "value_numeric": 5.83,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1776,7 +1776,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·51",
-    "value_numeric": null,
+    "value_numeric": 6.51,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1956,7 +1956,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·17",
-    "value_numeric": null,
+    "value_numeric": 6.17,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2046,7 +2046,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·91",
-    "value_numeric": null,
+    "value_numeric": 5.91,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2136,7 +2136,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·17",
-    "value_numeric": null,
+    "value_numeric": 6.17,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2226,7 +2226,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·83",
-    "value_numeric": null,
+    "value_numeric": 5.83,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2316,7 +2316,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·65",
-    "value_numeric": null,
+    "value_numeric": 5.65,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2406,7 +2406,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·23",
-    "value_numeric": null,
+    "value_numeric": 5.23,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2496,7 +2496,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·36",
-    "value_numeric": null,
+    "value_numeric": 5.36,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2586,7 +2586,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "6·08",
-    "value_numeric": null,
+    "value_numeric": 6.08,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2676,7 +2676,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·49",
-    "value_numeric": null,
+    "value_numeric": 5.49,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -2766,7 +2766,7 @@
     "column_index": 5,
     "column_header": "1st sort Price per Re. 1. :: Rs.",
     "raw_text": "5·74",
-    "value_numeric": null,
+    "value_numeric": 5.74,
     "unit": "Rs",
     "is_null_or_leader": false,
     "arithmetic_verified": false

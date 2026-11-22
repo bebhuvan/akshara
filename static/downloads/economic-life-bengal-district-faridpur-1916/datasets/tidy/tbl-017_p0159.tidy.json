@@ -246,7 +246,7 @@
     "column_index": 3,
     "column_header": "In the population as a whole.",
     "raw_text": "3·19",
-    "value_numeric": null,
+    "value_numeric": 3.19,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -264,7 +264,7 @@
     "column_index": 4,
     "column_header": "Amongst cultivators only.",
     "raw_text": "3·13",
-    "value_numeric": null,
+    "value_numeric": 3.13,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -282,7 +282,7 @@
     "column_index": 5,
     "column_header": "Amongst non-culti- vators only.",
     "raw_text": "4·13",
-    "value_numeric": null,
+    "value_numeric": 4.13,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1056,7 +1056,7 @@
     "column_index": 4,
     "column_header": "Amongst cultivators only.",
     "raw_text": "8·1",
-    "value_numeric": null,
+    "value_numeric": 8.1,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -1074,7 +1074,7 @@
     "column_index": 5,
     "column_header": "Amongst non-culti- vators only.",
     "raw_text": "17·4",
-    "value_numeric": null,
+    "value_numeric": 17.4,
     "unit": "",
     "is_null_or_leader": false,
     "arithmetic_verified": false

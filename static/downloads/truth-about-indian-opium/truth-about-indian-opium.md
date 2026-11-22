@@ -37,9 +37,6 @@ Printed by <span class="sc">His Majesty's Stationery Office</span>.
 
 #### CONTENTS.
 
-
-##### <span class="sc">Page</span>
-
 - <span class="sc">Chapter</span> I.—The Royal Commission on Opium in India . 1
 - <span class="sc">Chapter</span> II.—The Production of Opium in India - - - 4
 - <span class="sc">Chapter</span> III.—The Consumption of Opium in India - - 8

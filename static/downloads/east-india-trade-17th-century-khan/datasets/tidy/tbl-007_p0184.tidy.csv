@@ -1,3 +1,4 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
 east-india-trade-17th-century-khan,tbl-007,Table 7,184,172,1,data,,Dead stock was,2,Column 2,"£216,483",216483.0,GBP,False,True
 east-india-trade-17th-century-khan,tbl-007,Table 7,184,172,2,data,,Quick stock,2,Column 2,"£1,511,619",1511619.0,GBP,False,True
+east-india-trade-17th-century-khan,tbl-007,Table 7,184,172,3,total,,Row 3,2,Column 2,"£1,728,102",1728102.0,GBP,False,True

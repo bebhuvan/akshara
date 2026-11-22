@@ -151,9 +151,6 @@ Although it has been printed among the other minutes of evidence taken before th
 
 ### <span class="sc">CONTENTS</span>.
 
-
-##### Page
-
 - **I.** Preliminary Remarks — Brief Sketch of the Ancient and Modern Boundaries and History of
 India . . . . . . . . . . . . . . . . . . . . . . . . . . . . i—xvi
 - **II.** Questions and Answers on the Judicial System
@@ -1202,10 +1199,7 @@ In a letter of the Court of Directors to the Government of Bengal, dated the 20t
 - Natives of India, condition of, *r. p.* 4; formerly employed in the revenue
 - department, *r. p.* 19 ; advantages of so employing them, *r. p.* 21, 22 ;
 - suggestions respecting, *r. p.* 23, 24, 25, 26 ; physical condition of,
-- *a. q.* 1 ; moral and religious, do. *a. q.* 2 ; rate of wages, *a. q.* 3 ; food
-
-<!-- page: 153 | folio: 129 -->
-- of, *a. q.* 4; houses, *a. q.* 5; clothing, *a. q.* 6; increase, *a. q.* 7; industry,
+- *a. q.* 1 ; moral and religious, do. *a. q.* 2 ; rate of wages, *a. q.* 3 ; food [p. 129] of, *a. q.* 4; houses, *a. q.* 5; clothing, *a. q.* 6; increase, *a. q.* 7; industry,
 - *a.q.* 8; capability of improvement, *a. q.* 9; intelligence, *a. q.* 10;
 - education, *a. q.* 11; their opinion regarding the Government, *a. q.* 13.
 - Officers, Native Judicial, use of, *j. q.* 14, 15; irresponsibility of, *j. q.* 16;

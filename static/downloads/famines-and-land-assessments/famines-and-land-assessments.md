@@ -32,9 +32,6 @@ KEGAN PAUL, TRENCH, TRÜBNER & CO., LTD.
 
 ### <span class="sc">CONTENTS</span>
 
-
-##### <span class="sc">PAGE</span>
-
 - <span class="sc">Preface</span> . . . . . . . v
 - <span class="sc">Famines in India</span> . . . . . 1
 - <span class="sc">First Letter to Lord Curzon: The Central Provinces</span> . 21
@@ -61,9 +58,6 @@ Northern India</span> . . . 143
 - „ L. <span class="sc">Proposal of Do. in Bombay</span> . . . 172
 
 <!-- page: 10 | folio: vi -->
-
-##### <span class="sc">page</span>
-
 - <span class="sc">Appendix</span> M. <span class="sc">Sir Louis Mallet's Minute</span> . . . 177
 - „ N. <span class="sc">Sir Louis Mallet's Further Minute</span> . 187
 - „ O. <span class="sc">Lord Salisbury on Indian Land Revenue</span> . 194
@@ -200,8 +194,7 @@ There was a failure of rains in 1837 and a famine ensued. "I have never in my li
 
 <span class="sc">XIII.</span> *Famine in Northern India in* 1860.—The mistake of demanding two-thirds of the rental as the Government revenue, which was committed in the Settlement of 1833-49, was rectified by the “Saharanpur Rules” of 1855, and the Government revenue was fixed at one-half the rental, which is the recognised rule in Northern India to the present day. This gave great relief to the landlords and cultivators alike ; and when the East India Company was abolished in 1858, the administration of the Indian Empire came directly under the Crown. The wars of the Indian Mutiny, and the acts of retribution which followed, had, however, greatly interfered with cultivation, and when there was a failure of rains in 1860, it was followed by a famine. The principles of relief were the same as were adopted in 1837, viz., that the duty of the State was to provide employment for those who could work, and of the charitable public to support those who could not. Ten large relief works were opened, and minor works were opened to provide work for those who could not travel. Gratuitous relief at the expense of the charitable public [p. 8] was generally distributed in the shape of cooked food, and this excellent system was first introduced at Moradabad by Mr (now Sir John) Strachey, who was then collector of the district. 35,000 people were employed for ten months on relief works, and 80,000 people received gratuitous relief for nine months. The mortality was high, and Sir A. Cotton estimated it at 200,000 at least. After the famine was over, Colonel Baird Smith was deputed to examine into the causes of famines. He reported that the famine of 1860 was less severe than the famine of 1837 on account of the more lenient land assessments made by the Government, and he recommended a Permanent Settlement of the land revenues, such as had been made in 1793 in Bengal. Lord Canning, then Viceroy of India, strongly recommended such a Settlement; and the Secretary of State for India recorded a memorable resolution describing the proposal as "a measure dictated by sound policy and calculated to accelerate the development of the resources of India, and to insure in the highest degree the welfare and contentment of all classes of Her Majesty's subjects in the country." If this proposal had been then carried into effect, India would have been spared those more dreadful and desolating famines which we have witnessed in later years. But the interests of the land revenue received greater consideration than the well-being of the people; and after a fruitless discussion of twenty-one years, the proposal of Lord Canning was rejected by the Secretary of State for India in 1883.
 
-
-##### XIV. *Orissa Famine of* 1866.—
+XIV. *Orissa Famine of* 1866.—
 
 There was a famine [p. 9] in some parts of Madras, and in spite of relief given to 12,000 people in relief works for fifteen months, and to 31,000 people gratuitously for sixteen months, the number of deaths increased by about 450,000. But this famine was most severely felt in Orissa, a part of the Province of Bengal where, generally speaking, no Permanent Settlement of the revenues had been made. The means of communication to Orissa were imperfect ; the Government had with difficulty thrown in 10,000 tons of food grain by November 1866 ; but meanwhile the mortality among those whom this relief did not reach was severe ; and it was estimated that one-third of the population of Orissa, or nearly a million persons had died. The inundations of the year caused further damage to the crops, and relief operations had to be resumed in the succeeding year.
 
@@ -213,23 +206,17 @@ XVI. *Bengal Famine of* 1874.—There was a famine in Behar in 1874 ; it was the
 
 Lord Lytton was succeeded as Viceroy of India by the Marquis of Ripon, and he tried to settle the vexed land question of Madras on an equitable basis. In his Despatch of the 17th October 1882, Lord Ripon laid down the principle that in districts which had been surveyed and settled by the Settlement Department, assessments should undergo no further revision except on the sole ground of a rise in prices. This decision gave the [p. 12] Madras cultivator some fixity of rent after the old right of a *perpetual* assessment had been ignored; it did away with the harassing reclassification of soils and recalculation of grain returns at each recurring settlement; it left the door open to an increase of the Government revenues on the reasonable ground of an increase in prices; and it was a reasonable compromise which was accepted by the Madras Government itself. It is one of the saddest episodes in the history of Indian administration that this moderate measure, calculated to give some security of rent and tenure to the harassed and famine-stricken Indian cultivator, was rejected by the Secretary of State for India in his Despatch of the 8th January 1885. The Madras cultivator has been deprived of that *perpetual* assessment which he was declared to enjoy in the first half of the century; and he has not yet obtained that *security of rental* which Lord Ripon and the Madras Government agreed to bestow on him. The interests of the land revenue are placed higher than the well-being of the people.
 
-
-##### <span class="sc">XVIII.</span> *Famine in Northern India in 1878.*—
+<span class="sc">XVIII.</span> *Famine in Northern India in 1878.*—
 
 There was a famine in Northern India in 1878. The average daily number of relief works for twelve months was 557,000, and in poor houses, 13,750. The relief works were placed under the Public Works Department with little control from the local civil officers, and the result was disastrous. The excess mortality from this famine was 1,250,000.
 
+<span class="sc">XIX.</span> *Madras Famine of 1889.*—There was a famine in the Ganjam District of Madras and in parts of Orissa in 1889. Relief works were started in [p. 13] Ganjam, but gratuitous relief to the infirm and the weak was unfortunately delayed with fatal results. When Lord Connemara, the Governor of Madras, visited Ganjam in June 1889, 18,000 people were employed on relief works, and 2300 people had been admitted to gratuitous relief. Lord Connemara recorded that "a large amount of distress, amounting to starvation, existed, and that the most urgent orders and the most prompt action were required if many lives were not to be lost by the most lingering and dreadful of deaths." The numbers on village relief rose to 93,000 in the first week of August, and 11,000 persons were also daily fed in the kitchens in that month. The mortality in Ganjam during the famine year (Oct. 1888 to Sept. 1889) was high. In Orissa the distress was less, the numbers on relief did not exceed 3600 in September 1889, but the deaths from the combined effects of famine, cholera, and other diseases generally brought on by privation, were numerous.
 
-##### <span class="sc">XIX.</span> *Madras Famine of 1889.*—There
-
-was a famine in the Ganjam District of Madras and in parts of Orissa in 1889. Relief works were started in [p. 13] Ganjam, but gratuitous relief to the infirm and the weak was unfortunately delayed with fatal results. When Lord Connemara, the Governor of Madras, visited Ganjam in June 1889, 18,000 people were employed on relief works, and 2300 people had been admitted to gratuitous relief. Lord Connemara recorded that "a large amount of distress, amounting to starvation, existed, and that the most urgent orders and the most prompt action were required if many lives were not to be lost by the most lingering and dreadful of deaths." The numbers on village relief rose to 93,000 in the first week of August, and 11,000 persons were also daily fed in the kitchens in that month. The mortality in Ganjam during the famine year (Oct. 1888 to Sept. 1889) was high. In Orissa the distress was less, the numbers on relief did not exceed 3600 in September 1889, but the deaths from the combined effects of famine, cholera, and other diseases generally brought on by privation, were numerous.
-
-
-##### <span class="sc">XX.</span> *Famine in Madras, Bengal, Burma, and Ajmer in* 1892.
+<span class="sc">XX.</span> *Famine in Madras, Bengal, Burma, and Ajmer in* 1892.
 
 —There was a wide-spread famine in 1892, affecting portions of India as remote from each other as Madras, Burma, and Ajmer. The average numbers relieved in Madras in June 1892 rose to over 87,000 ; in Behar to 47,000, and in Ajmer-Merwara to 34,000. In Burma the numbers in February were 30,000. In Madras the death-rate was higher than usual ; in Bengal "there were no deaths from starvation."
 
-
-##### <span class="sc">XXI.</span> *Famine in Northern India, Bengal, Burma, Madras, and Bombay in* 1897.
+<span class="sc">XXI.</span> *Famine in Northern India, Bengal, Burma, Madras, and Bombay in* 1897.
 
 —A more wide-spread [p. 14] and intense famine than had ever before visited India appeared in 1896-97. The number of persons relieved in the different Provinces, when the famine was most acute, are shown in the following table.
 
@@ -737,7 +724,7 @@ So far as the poor agriculturists of India are concerned, the dispute is merely 
 A second fallacy, which is often committed in estimating the incidence of land revenue in India, is to estimate the supposed gross produce of an entire province. As an instance, we quote the following figures from the Report of the Famine Commission of 1878, vol. ii. p. 112 :—
 
 
-| Province. :: Food Crop. :: Acres. | Population. :: Non-food. :: Acres. | Cultivated Area. :: Acres. | Value of Gross Produce. :: £ | Land Revenue. :: £ | Percentage of Land Revenue upon Value of Produce. :: £ | £ |
+| Province. :: Food Crop. :: Acres. | Population. :: Non-food. :: Acres. | Cultivated Area. :: £ | Value of Gross Produce. :: £ | Land Revenue. | Percentage of Land Revenue upon Value of Produce. | Column 7 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Punjab | 17,600,000 | 18,500,000 | 2,500,000 | 34,150,000 | 1,910,000 | 5·6 |
 | N.W.P. and Oudh | 41,000,000 | 31,450,000 | 5,200,000 | 71,750,000 | 5,565,000 | 7·8 |
@@ -2299,7 +2286,7 @@ In addition to these the railway companies employ 105 officers, drawing Rs. 10,0
 
 <!-- page: 306 | folio: 282 -->
 
-#### *Mr G. Subramania Iyer on admitting Indians to some share in the control over Financial Ad- ministration*
+#### *Mr G. Subramania Iyer on admitting Indians to some share in the control over Financial Administration*
 
 18,767. Perhaps you would run through them, would you ?—Yes. Before proceeding to express my views on the subject of the system of provincial finance, which is an important wheel in our financial machinery, I shall point out my remedies thus far. 1. There can be no doubt that one way of strengthening the financial position of India would be as Sir Auckland Colvin says : “ In some way without undue interference with the authority of the Government of India, to establish a control emanating from what theoretically is at present the last Court of Appeal, Parliament. A committee of the Members of Parliament, such as Sir William Wedderburn has suggested, to scrutinise the financial statement every year and to submit a report to the House of Commons before the financial statement is brought up for discussion, would in some measure secure this end. The Committee would of course pay due attention to the opinions of the non-official Members expressed in the Legislative Council of the Viceroy.” It came out fully in the evidence before the Commission that the present system, by which disputes regarding the apportionment of certain charges between the two Governments are kept up for years and finally decided to the satisfaction of neither party, should be put an end to. It has been suggested that the principles which should be the general basis of apportionment should be laid down in a Treasury Minute, and that the application of these principles to instances where the two Governments might [p. 283] not agree, should be left to an arbitrator, or a body of arbitrators, chosen by both the Governments. This suggestion commended itself to the Marquess of Ripon and the Marquess of Lansdowne. It would be a better system, I think, to rest the power of final decision in the Judicial Committee of the Privy Council. The Privy Council is a tribunal well known in India and would command from the people greater confidence than any arbitrators chosen from time to time. I have already pointed out the importance of the Members of the Secretary of State's Council being men in touch with the actual financial conditions of the day in India. To secure this end, the present system of appointing them for ten years, and keeping them on for a further period if the Secretary of State chooses, should be abolished. Their term of office should extend only to five years like the Members of the Government of India and the Provincial Governors, and they should not be eligible for re-appointment. Among the Members of the Council there should always be several Indians possessing necessary qualifications and not necessarily official. They should be appointed on the recommendation of the elected Members of the Legislative Councils. They would take care to put before the Secretary of State the Indian view, which he has no means of knowing under the existing system. Coming to the constitution of the Government of India in India, I have already pointed out the desirability of the Governor-General being divested of control over any particular department, so that he may have more time than he has at present to attend to internal affairs of the country, which unfortunately do not receive the same [p. 284] attention that they used to receive in years previous to 1885. The Members of the Governor-General’s Legislative Council should be empowered to vote on the Budget, although any decision adverse to the Government of India may be overruled by the President. There should be given greater scope for interpellation, and, whenever any measure of legislation affecting finance is in contemplation, the views of public bodies should be obtained beforehand as far as possible.
 
@@ -2332,8 +2319,10 @@ RETURN of the Number of all Persons who received from the <span class="sc">Reven
 
 
 **Annual Salaries of Officers on Active**
-| CIVIL DEPARTMENT: :: [Including Military Officers in Civil employ other than those in the Public Works Department: | R. 1,000 to less than R. 2,500. :: No. | R. 1,000 to less than R. 2,500. :: Amount. :: R. | R. 2,500 to less than R. 5,000. :: No. | R. 2,500 to less than R. 5,000. :: Amount. :: R. | R. 5,000 to less than R. 10,000. :: No. | R. 5,000 to less than R. 10,000. :: Amount. :: R. | R. 10,000 to less than R. 20,000. :: No. | R. 10,000 to less than R. 20,000. :: Amount. :: R. | R. 20,000 to less than R. 30,000. :: No. | R. 20,000 to less than R. 30,000. :: Amount. :: R. |
+| Item | R. 1,000 to less than R. 2,500. :: No. | R. 1,000 to less than R. 2,500. :: Amount. :: R. | R. 2,500 to less than R. 5,000. :: No. | R. 2,500 to less than R. 5,000. :: Amount. :: R. | R. 5,000 to less than R. 10,000. :: No. | R. 5,000 to less than R. 10,000. :: Amount. :: R. | R. 10,000 to less than R. 20,000. :: No. | R. 10,000 to less than R. 20,000. :: Amount. :: R. | R. 20,000 to less than R. 30,000. :: No. | R. 20,000 to less than R. 30,000. :: Amount. :: R. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CIVIL DEPARTMENT: |  |  |  |  |  |  |  |  |  |  |
+| [Including Military Officers in Civil employ other than those in the Public Works Department: |  |  |  |  |  |  |  |  |  |  |
 | Europeans . . Eurasians . . Natives . . | 935 1,088 6,203 | 16,41,967 17,81,776 99,30,766 | 775 382 1,573 | 29,59,545 13,38,168 56,43,034 | 1,207 96 421 | 88,30,580 6,50,053 29,05,967 | 713 8 45 | 97,53,399 1,04,626 5,82,509 | 300 2 4 | 72,45,186 46,500 95,100 |
 | MILITARY DEPARTMENT (ARMY): |  |  |  |  |  |  |  |  |  |  |
 | Excluding Officers employed with the Civil or Public Works Department: |  |  |  |  |  |  |  |  |  |  |
@@ -2350,11 +2339,7 @@ RETURN of the Number of all Persons who received from the <span class="sc">Reven
 
 ### <span class="sc">East India Salaries</span>
 
-[?t?]he House of Commons, dated 24th April 1892
-
-be Printed, 17th May 1892
-
-*dia*, during the Year 1889-90, <span class="sc">Annual Allowances</span> (whether in the mount was not less than 1,000 Rupees for each Person; distinguishing owing whether they were <span class="sc">Europeans</span>, <span class="sc">Eurasians</span>, or <span class="sc">Natives of *India*</span>,
+[?t?]he House of Commons, dated 24th April 1892 be Printed, 17th May 1892 *dia*, during the Year 1889-90, <span class="sc">Annual Allowances</span> (whether in the mount was not less than 1,000 Rupees for each Person; distinguishing owing whether they were <span class="sc">Europeans</span>, <span class="sc">Eurasians</span>, or <span class="sc">Natives of *India*</span>,
 
 
 #### <span class="sc">aid in India</span>.
@@ -2440,8 +2425,9 @@ be Printed, 17th May 1892
 <!-- page: 316 | folio: 292 -->
 
 **II.—<span class="sc">Amounts Paid in England.</span>**
-| <span class="sc">Salaries</span>: | £100 and under £250. :: No. :: <span class="sc">Salaries</span>: | £100 and under £250. :: Amount. :: £ :: <span class="sc">Salaries</span>: | £250 and under £500. :: No. :: <span class="sc">Salaries</span>: | £250 and under £500. :: Amount. :: £ :: <span class="sc">Salaries</span>: | £500 and under £1000. :: No. :: <span class="sc">Salaries</span>: | £500 and under £1000. :: Amount. :: £ :: <span class="sc">Salaries</span>: | £1,000 and under £2,000. :: No. :: <span class="sc">Salaries</span>: | £1,000 and under £2,000. :: Amount. :: £ :: <span class="sc">Salaries</span>: | £2,000 and under £3,000. :: No. :: <span class="sc">Salaries</span>: | £2,000 and under £3,000. :: Amount. :: £ :: <span class="sc">Salaries</span>: | £5,000 and upwards. :: No. :: <span class="sc">Salaries</span>: | £5,000 and upwards. :: Amount. :: £ :: <span class="sc">Salaries</span>: | TOTAL. :: No. :: <span class="sc">Salaries</span>: | TOTAL. :: Amount. :: £ :: <span class="sc">Salaries</span>: |
+| Item | £100 and under £250. :: No. | £100 and under £250. :: Amount. :: £ | £250 and under £500. :: No. | £250 and under £500. :: Amount. :: £ | £500 and under £1000. :: No. | £500 and under £1000. :: Amount. :: £ | £1,000 and under £2,000. :: No. | £1,000 and under £2,000. :: Amount. :: £ | £2,000 and under £3,000. :: No. | £2,000 and under £3,000. :: Amount. :: £ | £5,000 and upwards. :: No. | £5,000 and upwards. :: Amount. :: £ | TOTAL. :: No. | TOTAL. :: Amount. :: £ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| <span class="sc">Salaries</span>: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | European . . . . | 181 | 27,316 | 84 | 27,919 | 60 | 40,825 | 19 | 22,300 | 1 | 2,000 | 1 | 5,000 | 346 | 125,360 |
 | Eurasian . . . . | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 | Native . . . . | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |

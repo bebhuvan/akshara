@@ -1,6 +1,6 @@
 ---
 title: "The East India Trade in the XVIIth Century, in Its Political and Economic Aspects"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Shafaat Ahmad Khan"
 author_slug: "shafaat-ahmad-khan"
@@ -22,7 +22,7 @@ collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
 edition_tier: "community"
-rubric_score: 100.0
+rubric_score: 92.0
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -33,15 +33,15 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Tabular & Numeric Accuracy"
-    score: 25.0
+    score: 17.0
     max: 25.0
-    notes: "Clean (0 deductions)"
+    notes: "-8.0: 2 collapsed/jammed table row warning(s)"
   - name: "Orthography & Diacritics"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Automated reading (1 open review item); 7 of 336 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (3 open review items); 7 of 336 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
@@ -208,7 +208,7 @@ editorial_note_markdown: |-
   - **Source File**: `east-india-trade-17th-century-khan.originals.pdf`
   - **Source SHA-256**: `0e5390e50c71bce369c8e640c37cf630f8dd7b5f64fb18ee9f786902532bcc0a`
   - **Leaf Accounting**: 342 PDF leaves — **336** content leaves transcribed, **6** blank/tissue leaves (`2, 3, 4, 6, 339, 340`), **0** failed leaves.
-  - **Edition Status**: `community` (**100.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**92.0 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -219,11 +219,12 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (336 pp.).
   - **Reader**: Read by gemini-3.8-flash on 336 of 336 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 8 replayed correction(s). Automated reading (1 open review item); 7 of 336 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 8 replayed correction(s). Automated reading (3 open review items); 7 of 336 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **3 finding(s) across 1 leaf(s)** (pp. 180): table compositor arithmetic variant.
+  - **2 finding(s) across 2 leaf(s)** (pp. 318, 319): table collapsed rows.
   - **2 finding(s) across 2 leaf(s)** (pp. 40, 190): rare character.
   - **1 finding(s) across 1 leaf(s)** (pp. 185): control characters removed.
   - **1 finding(s) across 1 leaf(s)** (pp. 141): attested compositor footnote callout/note variants preserved diplomatically from the scan.
@@ -234,4 +235,4 @@ editorial_note_markdown: |-
 
 A primary historical edition by Shafaat Ahmad Khan (1923). Archival scope: spanning 1600-1700; covering All-India, London, Surat, Madras, Bengal; focusing on mercantilism, bullion controversy, calico imports, pamphlet debates, east india company. Original imprint: London: Humphrey Milford, Oxford University Press (1923).
 
-Digitized from Internet Archive copy [`eastindiatradein00khanuoft`](https://archive.org/details/eastindiatradein00khanuoft) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (955), and statistical tables (13) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`eastindiatradein00khanuoft`](https://archive.org/details/eastindiatradein00khanuoft) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **92.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (955), and statistical tables (13) are preserved faithfully from the source camera scans.

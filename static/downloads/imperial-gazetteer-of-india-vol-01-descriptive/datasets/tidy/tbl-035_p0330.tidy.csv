@@ -1,0 +1,13 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,1,data,,Tall statures,2,Column 2,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,1,data,,Tall statures,3,Column 3,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,1,data,,Tall statures,4,Column 4,5′ 7″ and over.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,2,data,,Above average,2,Column 2,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,2,data,,Above average,3,Column 3,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,2,data,,Above average,4,Column 4,between 5′ 5″ and 5′ 7″.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,3,data,,Below average,2,Column 2,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,3,data,,Below average,3,Column 3,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,3,data,,Below average,4,Column 4,between 5′ 3″ and 5′ 5″.,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,4,data,,Short statures,2,Column 2,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,4,data,,Short statures,3,Column 3,.,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-035,Table 35,330,292,4,data,,Short statures,4,Column 4,less than 5′ 3″.,,,False,False

@@ -1,6 +1,6 @@
 ---
 title: "The Economic History of India Under Early British Rule"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: "From the Rise of the British Power in 1757 to the Accession of Queen Victoria in 1837"
 author: "Romesh Chunder Dutt"
 author_slug: "romesh-chunder-dutt"
@@ -21,8 +21,8 @@ layout: "book"
 collection_slug: "indian-economic-history"
 collection_title: "Indian Economic History"
 edition_generation: "v6"
-edition_tier: "machine_checked"
-rubric_score: 100.0
+edition_tier: "community"
+rubric_score: 92.0
 rubric_pillars:
   - name: "Structural Completeness"
     score: 25.0
@@ -33,15 +33,15 @@ rubric_pillars:
     max: 25.0
     notes: "Clean (0 deductions)"
   - name: "Tabular & Numeric Accuracy"
-    score: 25.0
+    score: 17.0
     max: 25.0
-    notes: "Clean (0 deductions)"
+    notes: "-8.0: 2 collapsed/jammed table row warning(s)"
   - name: "Orthography & Diacritics"
     score: 25.0
     max: 25.0
     notes: "Clean (0 deductions)"
 reader_model: "Gemini 3.8 Flash"
-provenance_statement: "Machine-checked; 8 of 466 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+provenance_statement: "Automated reading (2 open review items); 8 of 466 pages had flagged passages re-read against the scan; no pages yet checked by a person."
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
@@ -291,7 +291,7 @@ tables_list:
   - table_id: "tbl-026"
     caption: "Table 26"
     printed_folio: "391"
-    rows: 30
+    rows: 31
     cols: 6
     diplomatic_csv: "/downloads/economic-history-india-early-british-dutt/datasets/tables/tbl-026_p0419.csv"
     tidy_csv: "/downloads/economic-history-india-early-british-dutt/datasets/tidy/tbl-026_p0419.tidy.csv"
@@ -320,7 +320,7 @@ editorial_note_markdown: |-
   - **Source File**: `economic-history-india-early-british-dutt.originals.pdf`
   - **Source SHA-256**: `e3a005b2c1b1c34c0956eccf4c67320e79a25513207608cc14e8c4f0d71c6f80`
   - **Leaf Accounting**: 468 PDF leaves — **466** content leaves transcribed, **2** blank/tissue leaves (`4, 465`), **0** failed leaves.
-  - **Edition Status**: `machine_checked` (**100.0 / 100** Rubric Score)
+  - **Edition Status**: `community` (**92.0 / 100** Rubric Score)
 
   ## 2. Editorial Policy: Presentation vs. Historical Text
 
@@ -331,13 +331,14 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (466 pp.).
   - **Reader**: Read by gemini-3.8-flash on 466 of 466 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 15 replayed correction(s). Machine-checked; 8 of 466 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 15 replayed correction(s). Automated reading (2 open review items); 8 of 466 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
   - **14 finding(s) across 6 leaf(s)** (pp. 141, 164, 251, 291, 389, 433): table compositor arithmetic variant.
   - **10 finding(s) across 2 leaf(s)** (pp. 428, 429): table blind total confirmed.
   - **3 finding(s) across 3 leaf(s)** (pp. 7, 35, 416): rare character.
+  - **2 finding(s) across 2 leaf(s)** (pp. 259, 430): table collapsed rows.
 
   If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 aliases:
@@ -346,4 +347,4 @@ aliases:
 
 From the Rise of the British Power in 1757 to the Accession of Queen Victoria in 1837. Archival scope: spanning 1757-1837; covering All-India, Bengal, Madras, Bombay, North-Western Provinces; focusing on land revenue, deindustrialization, permanent settlement, ryotwari, economic drain. Original imprint: London: Kegan Paul, Trench, Trübner & Co. (1906).
 
-Digitized from Internet Archive copy [`ed2economichisto00dutt`](https://archive.org/details/ed2economichisto00dutt) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (345), and statistical tables (27) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`ed2economichisto00dutt`](https://archive.org/details/ed2economichisto00dutt) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **92.0/100**, `community`). Historical orthography, nineteenth-century diacritics, footnotes (345), and statistical tables (27) are preserved faithfully from the source camera scans.

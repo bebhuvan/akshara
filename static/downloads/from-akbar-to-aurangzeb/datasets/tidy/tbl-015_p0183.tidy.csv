@@ -1,14 +1,14 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,1,data,,Standard,2,"Price, Rs. and Decimals.",18·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,1,data,,Standard,2,"Price, Rs. and Decimals.",18·00,18.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,1,data,,Standard,3,Description.,Quoted,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,1,data,,Standard,4,Reference.,"L.R. i. 306, and passim.",,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,2,data,,1609,2,"Price, Rs. and Decimals.",10·00-12·00,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,2,data,,1609,3,Description.,”,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,2,data,,1609,4,Reference.,L.R. i. 28.,,Rs,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,3,data,,1612,2,"Price, Rs. and Decimals.",14·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,3,data,,1612,2,"Price, Rs. and Decimals.",14·00,14.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,3,data,,1612,3,Description.,”,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,3,data,,1612,4,Reference.,"Jourdain, 217.",,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,4,data,,1613,2,"Price, Rs. and Decimals.",14·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,4,data,,1613,2,"Price, Rs. and Decimals.",14·00,14.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,4,data,,1613,3,Description.,”,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,4,data,,1613,4,Reference.,L.R. i. 306.,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,5,data,,1614,2,"Price, Rs. and Decimals.",10·00-12·00,,Rs,False,False
@@ -23,19 +23,19 @@ from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,7,data,,1617,4,Reference.,"Terp
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,8,data,,1618,2,"Price, Rs. and Decimals.",15·00-18·00,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,8,data,,1618,3,Description.,,,,True,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,8,data,,1618,4,Reference.,” App. VII.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,9,data,,1619,2,"Price, Rs. and Decimals.",15·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,9,data,,1619,2,"Price, Rs. and Decimals.",15·00,15.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,9,data,,1619,3,Description.,Paid,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,9,data,,1619,4,Reference.,E.F. i. 62.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,10,data,,1621,2,"Price, Rs. and Decimals.",10·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,10,data,,1621,2,"Price, Rs. and Decimals.",10·00,10.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,10,data,,1621,3,Description.,Estimate,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,10,data,,1621,4,Reference.,"F.R. Surat, i. 16.",,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,11,data,,1621,2,"Price, Rs. and Decimals.",9·25-9·50,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,11,data,,1621,3,Description.,Paid by Dutch,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,11,data,,1621,4,Reference.,E.F. i. 348.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,12,data,,Row 12,2,"Price, Rs. and Decimals.",9·25,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,12,data,,Row 12,2,"Price, Rs. and Decimals.",9·25,9.25,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,12,data,,Row 12,3,Description.,Paid by English,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,12,data,,Row 12,4,Reference.,” 353.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,13,data,,1622 (Jan.),2,"Price, Rs. and Decimals.",7·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,13,data,,1622 (Jan.),2,"Price, Rs. and Decimals.",7·00,7.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,13,data,,1622 (Jan.),3,Description.,Estimate,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,13,data,,1622 (Jan.),4,Reference.,E.F. ii. 19.,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,14,data,,” (Aug.-Dec.),2,"Price, Rs. and Decimals.",8·00-9·00,,Rs,False,False
@@ -47,16 +47,16 @@ from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,15,data,,1623 (Apr.),4,Referenc
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,16,data,,” (Nov.),2,"Price, Rs. and Decimals.",8·50-8·75,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,16,data,,” (Nov.),3,Description.,,,,True,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,16,data,,” (Nov.),4,Reference.,” ” 328.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,17,data,,” ”,2,"Price, Rs. and Decimals.",12·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,17,data,,” ”,2,"Price, Rs. and Decimals.",12·00,12.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,17,data,,” ”,3,Description.,Asked,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,17,data,,” ”,4,Reference.,” ” 328.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,18,data,,” (Dec.),2,"Price, Rs. and Decimals.",10·25,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,18,data,,” (Dec.),2,"Price, Rs. and Decimals.",10·25,10.25,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,18,data,,” (Dec.),3,Description.,Paid,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,18,data,,” (Dec.),4,Reference.,” ” 331.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,19,data,,1625,2,"Price, Rs. and Decimals.",12·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,19,data,,1625,2,"Price, Rs. and Decimals.",12·00,12.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,19,data,,1625,3,Description.,Quoted,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,19,data,,1625,4,Reference.,E.F. iii. 63.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,20,data,,1625,2,"Price, Rs. and Decimals.",11·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,20,data,,1625,2,"Price, Rs. and Decimals.",11·00,11.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,20,data,,1625,3,Description.,Estimate,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,20,data,,1625,4,Reference.,"F.R. Surat, i. 100.",,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,21,data,,1628 (Jan.),2,"Price, Rs. and Decimals.",14·00-15·00,,Rs,False,False
@@ -65,7 +65,7 @@ from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,21,data,,1628 (Jan.),4,Referenc
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,22,data,,” (Mar.),2,"Price, Rs. and Decimals.",12·75-14·25,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,22,data,,” (Mar.),3,Description.,Asked,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,22,data,,” (Mar.),4,Reference.,” ” 275.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,23,data,,1630,2,"Price, Rs. and Decimals.",16·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,23,data,,1630,2,"Price, Rs. and Decimals.",16·00,16.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,23,data,,1630,3,Description.,Quoted,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,23,data,,1630,4,Reference.,"F.R. Surat, 84 (ii.), 52.",,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,24,data,,1632,2,"Price, Rs. and Decimals.",19·00-22·00,,Rs,False,False
@@ -77,28 +77,28 @@ from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,25,data,,1633 (Jan.),4,Referenc
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,26,data,,” (Nov.),2,"Price, Rs. and Decimals.",16·00-18·00,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,26,data,,” (Nov.),3,Description.,Agreed with Dutch,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,26,data,,” (Nov.),4,Reference.,” ” 328.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,27,data,,1634,2,"Price, Rs. and Decimals.",27·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,27,data,,1634,2,"Price, Rs. and Decimals.",27·00,27.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,27,data,,1634,3,Description.,Monopoly price,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,27,data,,1634,4,Reference.,E.F. v. 70.,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,28,data,,1635,2,"Price, Rs. and Decimals.",27·00 (?),,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,28,data,,1635,3,Description.,Paid,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,28,data,,1635,4,Reference.,” ” 142.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,29,data,,1636,2,"Price, Rs. and Decimals.",25·20,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,29,data,,1636,2,"Price, Rs. and Decimals.",25·20,25.2,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,29,data,,1636,3,Description.,Estimate,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,29,data,,1636,4,Reference.,” ” 292.,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,30,data,,1638,2,"Price, Rs. and Decimals.",Under 18·00 (?),,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,30,data,,1638,3,Description.,Quoted,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,30,data,,1638,4,Reference.,E.F. vi. 92.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,31,data,,1639 (Jan.),2,"Price, Rs. and Decimals.",26·90,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,31,data,,1639 (Jan.),2,"Price, Rs. and Decimals.",26·90,26.9,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,31,data,,1639 (Jan.),3,Description.,"Paid, average",,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,31,data,,1639 (Jan.),4,Reference.,O.C. 1656.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,32,data,,” (Dec.),2,"Price, Rs. and Decimals.",17·30,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,32,data,,” (Dec.),2,"Price, Rs. and Decimals.",17·30,17.3,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,32,data,,” (Dec.),3,Description.,” ”,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,32,data,,” (Dec.),4,Reference.,O.C. 1725.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,33,data,,1640 (Jan.),2,"Price, Rs. and Decimals.",20·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,33,data,,1640 (Jan.),2,"Price, Rs. and Decimals.",20·00,20.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,33,data,,1640 (Jan.),3,Description.,Quoted,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,33,data,,1640 (Jan.),4,Reference.,E.F. vi. 232.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,34,data,,” (Dec.),2,"Price, Rs. and Decimals.",16·70,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,34,data,,” (Dec.),2,"Price, Rs. and Decimals.",16·70,16.7,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,34,data,,” (Dec.),3,Description.,"Paid, average",,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,34,data,,” (Dec.),4,Reference.,O.C. 1764.,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,35,data,,” ”,2,"Price, Rs. and Decimals.",12·60-14·40,,Rs,False,False
@@ -110,7 +110,7 @@ from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,36,data,,1641,4,Reference.,D.R.
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,37,data,,1642 (late),2,"Price, Rs. and Decimals.",14·62-14·85,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,37,data,,1642 (late),3,Description.,Paid,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,37,data,,1642 (late),4,Reference.,D.R. 27. 4. 43.,,Rs,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,38,data,,1644,2,"Price, Rs. and Decimals.",17·00,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,38,data,,1644,2,"Price, Rs. and Decimals.",17·00,17.0,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,38,data,,1644,3,Description.,Paid,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,38,data,,1644,4,Reference.,E.F. vii. 164.,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,39,data,,1645,2,"Price, Rs. and Decimals.",20·70–22·50 (?),,Rs,False,False
@@ -131,7 +131,7 @@ from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,43,data,,” (Apr.),4,Reference
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,44,data,,1650,2,"Price, Rs. and Decimals.",12·60–13·50,,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,44,data,,1650,3,Description.,Quoted,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,44,data,,1650,4,Reference.,” ” 305.,,,False,False
-from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,45,data,,1653,2,"Price, Rs. and Decimals.",14·22,,Rs,False,False
+from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,45,data,,1653,2,"Price, Rs. and Decimals.",14·22,14.22,Rs,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,45,data,,1653,3,Description.,Paid,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,45,data,,1653,4,Reference.,O.C. 2309.,,,False,False
 from-akbar-to-aurangzeb,tbl-015,Table 15,183,161,46,data,,1655,2,"Price, Rs. and Decimals.",11·81 (?),,Rs,False,False

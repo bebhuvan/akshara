@@ -1,91 +1,91 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,12,12.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,3689",3689.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"4,7347",47347.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,5,Column 5,20,20.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,6,Manas.,240,240.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,7,Sul Pag. An,1 4,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,8,Bush. dec.,"7,378",7378.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,9,Pence dec.,"94,694",94694.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,10,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,4,4.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,12296",12296.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,not sold.,,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,5,Column 5,15,15.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,6,Manas.,60,60.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,7,Sul Pag. An,not sold.,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,8,Bush. dec.,"1,8445",18445.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,9,Pence dec.,not sold.,,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,10,Pence dec.,not sold.,,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,16,16.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,489186",489186.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,5,Column 5,,,,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,6,Manas.,300,300.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,7,Sul Pag. An,,,,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,8,Bush. dec.,"9,2225",92225.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,9,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,10,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,12,12.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,3689",3689.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"4,7347",47347.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,5,Column 5,20,20.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,6,Manas.,240,240.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,7,Sul Pag. An,1 4,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,8,Bush. dec.,"7,378",7378.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,9,Pence dec.,"94,694",94694.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,10,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,12,12.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,3689",3689.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"7,5755",75755.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,5,Column 5,5,5.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,6,Manas.,60,60.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,7,Sul Pag. An,0 8,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,8,Bush. dec.,"1,8445",18445.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,9,Pence dec.,"37,8775",378775.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,10,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,24,24.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,7378",7378.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"12,3292",123292.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,5,Column 5,,,,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,6,Manas.,300,300.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,7,Sul Pag. An,1 12,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,8,Bush. dec.,"9,2225",92225.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,9,Pence dec.,"132,5715",1325715.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,10,Pence dec.,"82,3673",823673.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,6,6.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,18445",18445.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"2,8408",28408.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,5,Column 5,20 1/3,20.333333,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,6,Manas.,122,122.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,7,Sul Pag. An,0 12 1/5,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,8,Bush. dec.,"3,7505",37505.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,9,Pence dec.,"75,763",75763.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,10,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,5,5.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,1537",1537.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"2,3671",23671.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,5,Column 5,12 4/5,12.8,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,6,Manas.,64,64.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,7,Sul Pag. An,0 8 8/15,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,8,Bush. dec.,"1,9675",19675.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,9,Pence dec.,"30,3",303.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,10,Pence dec.,,,GBP,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,11,11.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,33815",33815.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,"5,2079",52079.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,5,Column 5,,,,True,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,6,Manas.,186,186.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,7,Sul Pag. An,1 4 11/15,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,8,Bush. dec.,"5,718",5718.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,9,Pence dec.,"88,063",88063.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,10,Pence dec.,"44,9801",449801.0,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,2,Seed. :: Of one Acre. :: Value. :: Deducting seed and rent. :: Manas.,24,24.0,acres,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,3,Increase Folds. :: Of the Field. :: Quantity. :: Bush. dec.,"0,7378",7378.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,4,Produce. :: Of an Acre. :: Value. :: Pence dec.,not sold.,,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,5,Column 5,10,10.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,6,Manas.,240,240.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,7,Sul Pag. An,not sold.,,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,8,Bush. dec.,"7,378",7378.0,,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,9,Pence dec.,not sold.,,GBP,False,False
-journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,10,Pence dec.,not sold.,,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,12,12.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,3689",3689.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"4,7347",47347.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,240,240.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,1 4,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"7,378",7378.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"94,694",94694.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,1,data,,1st Ragy,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,4,4.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,12296",12296.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,not sold.,,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,15,15.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,60,60.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,not sold.,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"1,8445",18445.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,not sold.,,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,2,data,,Avaray,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,not sold.,,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,16,16.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,489186",489186.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,,,,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,300,300.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,,,,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"9,2225",92225.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,3,subtotal,,Total,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,12,12.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,3689",3689.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"4,7347",47347.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,20,20.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,240,240.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,1 4,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"7,378",7378.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"94,694",94694.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,4,data,,2d Ragy,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,12,12.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,3689",3689.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"7,5755",75755.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,5,5.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,60,60.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,0 8,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"1,8445",18445.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"37,8775",378775.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,5,data,,Harulu,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,24,24.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,7378",7378.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"12,3292",123292.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,,,,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,300,300.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,1 12,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"9,2225",92225.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"132,5715",1325715.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,6,subtotal,,Total,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"82,3673",823673.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,6,6.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,18445",18445.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"2,8408",28408.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,20 1/3,20.333333,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,122,122.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,0 12 1/5,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"3,7505",37505.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"75,763",75763.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,7,data,,3d Jola,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,5,5.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,1537",1537.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"2,3671",23671.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,12 4/5,12.8,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,64,64.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,0 8 8/15,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"1,9675",19675.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"30,3",303.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,8,data,,Tovary,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,,,GBP,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,11,11.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,33815",33815.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,"5,2079",52079.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,,,,True,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,186,186.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,1 4 11/15,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"5,718",5718.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"88,063",88063.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,9,subtotal,,Total,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,"44,9801",449801.0,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,2,Seed. :: Of one Acre. :: Value. :: Gross. :: Manas.,24,24.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,3,Seed. :: Of one Acre. :: Value. :: Gross. :: Bush. dec.,"0,7378",7378.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,4,Seed. :: Of one Acre. :: Value. :: Gross. :: Pence dec.,not sold.,,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,5,Increase Folds. :: Of the Field. :: Quantity. :: Gross.,10,10.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,6,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Manas.,240,240.0,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,7,Increase Folds. :: Of the Field. :: Quantity. :: Deducting seed and rent. :: Sul Pag. An,not sold.,,,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,8,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Bush. dec.,"7,378",7378.0,acres,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,9,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,not sold.,,GBP,False,False
+journey-from-madras-vol-iii,tbl-031,Table 31,333,307,10,data,,4th Shamay,10,Produce. :: Of an Acre. :: Value. :: Deducting seed and rent. :: Pence dec.,not sold.,,GBP,False,False

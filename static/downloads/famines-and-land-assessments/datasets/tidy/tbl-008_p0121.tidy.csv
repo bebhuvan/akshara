@@ -1,43 +1,43 @@
 book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
 famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,2,Population. :: Non-food. :: Acres.,"17,600,000",17600000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,3,Cultivated Area. :: Acres.,"18,500,000",18500000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,3,Cultivated Area. :: £,"18,500,000",18500000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,4,Value of Gross Produce. :: £,"2,500,000",2500000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,5,Land Revenue. :: £,"34,150,000",34150000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,6,Percentage of Land Revenue upon Value of Produce. :: £,"1,910,000",1910000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,7,£,5·6,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,5,Land Revenue.,"34,150,000",34150000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,6,Percentage of Land Revenue upon Value of Produce.,"1,910,000",1910000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,1,data,,Punjab,7,Column 7,5·6,5.6,,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,2,Population. :: Non-food. :: Acres.,"41,000,000",41000000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,3,Cultivated Area. :: Acres.,"31,450,000",31450000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,3,Cultivated Area. :: £,"31,450,000",31450000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,4,Value of Gross Produce. :: £,"5,200,000",5200000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,5,Land Revenue. :: £,"71,750,000",71750000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,6,Percentage of Land Revenue upon Value of Produce. :: £,"5,565,000",5565000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,7,£,7·8,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,5,Land Revenue.,"71,750,000",71750000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,6,Percentage of Land Revenue upon Value of Produce.,"5,565,000",5565000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,2,data,,N.W.P. and Oudh,7,Column 7,7·8,7.8,,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,2,Population. :: Non-food. :: Acres.,"60,000,000",60000000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,3,Cultivated Area. :: Acres.,"48,000,000",48000000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,3,Cultivated Area. :: £,"48,000,000",48000000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,4,Value of Gross Produce. :: £,"6,000,000",6000000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,5,Land Revenue. :: £,"103,500,000",103500000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,6,Percentage of Land Revenue upon Value of Produce. :: £,"4,050,000",4050000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,7,£,3·9,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,5,Land Revenue.,"103,500,000",103500000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,6,Percentage of Land Revenue upon Value of Produce.,"4,050,000",4050000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,3,data,,Bengal,7,Column 7,3·9,3.9,,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,2,Population. :: Non-food. :: Acres.,"8,200,000",8200000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,3,Cultivated Area. :: Acres.,"12,000,000",12000000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,3,Cultivated Area. :: £,"12,000,000",12000000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,4,Value of Gross Produce. :: £,"2,500,000",2500000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,5,Land Revenue. :: £,"21,250,000",21250000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,6,Percentage of Land Revenue upon Value of Produce. :: £,"600,000",600000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,7,£,3·8,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,5,Land Revenue.,"21,250,000",21250000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,6,Percentage of Land Revenue upon Value of Produce.,"600,000",600000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,4,data,,Central Provinces,7,Column 7,3·8,3.8,,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,2,Population. :: Non-food. :: Acres.,"2,250,000",2250000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,3,Cultivated Area. :: Acres.,"3,700,000",3700000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,3,Cultivated Area. :: £,"3,700,000",3700000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,4,Value of Gross Produce. :: £,"2,800,000",2800000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,5,Land Revenue. :: £,"11,500,000",11500000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,6,Percentage of Land Revenue upon Value of Produce. :: £,"525,000",525000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,7,£,4·6,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,5,Land Revenue.,"11,500,000",11500000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,6,Percentage of Land Revenue upon Value of Produce.,"525,000",525000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,5,data,,Berar,7,Column 7,4·6,4.6,,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,2,Population. :: Non-food. :: Acres.,"16,000,000",16000000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,3,Cultivated Area. :: Acres.,"21,500,000",21500000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,3,Cultivated Area. :: £,"21,500,000",21500000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,4,Value of Gross Produce. :: £,"5,500,000",5500000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,5,Land Revenue. :: £,"39,000,000",39000000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,6,Percentage of Land Revenue upon Value of Produce. :: £,"2,970,000",2970000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,7,£,7·6,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,5,Land Revenue.,"39,000,000",39000000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,6,Percentage of Land Revenue upon Value of Produce.,"2,970,000",2970000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,6,data,,Bombay,7,Column 7,7·6,7.6,,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,2,Population. :: Non-food. :: Acres.,"31,000,000",31000000.0,acres,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,3,Cultivated Area. :: Acres.,"26,000,000",26000000.0,acres,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,3,Cultivated Area. :: £,"26,000,000",26000000.0,GBP,False,False
 famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,4,Value of Gross Produce. :: £,"2,500,000",2500000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,5,Land Revenue. :: £,"50,000,000",50000000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,6,Percentage of Land Revenue upon Value of Produce. :: £,"3,160,000",3160000.0,GBP,False,False
-famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,7,£,6·3,,GBP,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,5,Land Revenue.,"50,000,000",50000000.0,,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,6,Percentage of Land Revenue upon Value of Produce.,"3,160,000",3160000.0,%,False,False
+famines-and-land-assessments,tbl-008,Table 8,121,97,7,data,,Madras,7,Column 7,6·3,6.3,,False,False

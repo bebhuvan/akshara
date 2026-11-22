@@ -1,0 +1,34 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,1,total,,INDIA (Total),2,India.,"294,361,056",294361056.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,1,total,,INDIA (Total),3,Provinces.,"231,899,507",231899507.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,1,total,,INDIA (Total),4,States.,"62,461,549",62461549.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,2,data,,Hindu,2,India.,"207,147,026",207147026.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,2,data,,Hindu,3,Provinces.,"158,601,288",158601288.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,2,data,,Hindu,4,States.,"48,545,738",48545738.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,3,data,,Muhammadan,2,India.,"62,458,077",62458077.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,3,data,,Muhammadan,3,Provinces.,"53,804,517",53804517.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,3,data,,Muhammadan,4,States.,"8,653,560",8653560.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,4,data,,Buddhist,2,India.,"9,476,759",9476759.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,4,data,,Buddhist,3,Provinces.,"9,411,449",9411449.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,4,data,,Buddhist,4,States.,"65,310",65310.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,5,data,,Animistic,2,India.,"8,584,148",8584148.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,5,data,,Animistic,3,Provinces.,"5,899,194",5899194.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,5,data,,Animistic,4,States.,"2,684,954",2684954.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,6,data,,Christian,2,India.,"2,923,241",2923241.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,6,data,,Christian,3,Provinces.,"1,904,264",1904264.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,6,data,,Christian,4,States.,"1,018,977",1018977.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,7,data,,Sikh,2,India.,"2,195,339",2195339.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,7,data,,Sikh,3,Provinces.,"1,574,579",1574579.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,7,data,,Sikh,4,States.,"620,760",620760.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,8,data,,Jain,2,India.,"1,334,148",1334148.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,8,data,,Jain,3,Provinces.,"478,700",478700.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,8,data,,Jain,4,States.,"855,448",855448.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,9,data,,Zoroastrian (Pārsī),2,India.,"94,190",94190.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,9,data,,Zoroastrian (Pārsī),3,Provinces.,"79,942",79942.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,9,data,,Zoroastrian (Pārsī),4,States.,"14,248",14248.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,10,data,,Jew,2,India.,"18,228",18228.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,10,data,,Jew,3,Provinces.,"15,848",15848.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,10,data,,Jew,4,States.,"2,380",2380.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,11,data,,Minor Religions and Religions not returned,2,India.,"129,900",129900.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,11,data,,Minor Religions and Religions not returned,3,Provinces.,"129,726",129726.0,,False,True
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-050,Table VI. Religion,531,493,11,data,,Minor Religions and Religions not returned,4,States.,174,174.0,,False,True

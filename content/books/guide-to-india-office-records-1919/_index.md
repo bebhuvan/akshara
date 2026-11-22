@@ -1,6 +1,6 @@
 ---
 title: "A Guide to the India Office Records, 1600–1858"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "William Foster"
 author_slug: "william-foster"
@@ -13,7 +13,7 @@ reread_pages: 0
 human_verified_pages: 0
 chapters: 13
 footnotes_count: 91
-tables_count: 13
+tables_count: 14
 figures_count: 2
 reading_time: "~4 hrs"
 type: "books"
@@ -47,7 +47,7 @@ taxonomy_provenance:
   - "Source: Camera JP2 Originals"
   - "Scan-Triaged: 1 fixes"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
-  - "Tables: 13 Structured (No Printed Totals)"
+  - "Tables: 14 Structured (No Printed Totals)"
 taxonomy_diplomatic:
   - "Diplomatic Orthography"
   - "Script: Latin"
@@ -89,109 +89,117 @@ has_datasets: true
 download_datasets: "/downloads/guide-to-india-office-records-1919/datasets/datapackage.json"
 tables_list:
   - table_id: "tbl-001"
+    caption: "Table 1"
+    printed_folio: "2"
+    rows: 20
+    cols: 2
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-001_p0022.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-001_p0022.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/04-the-east-india-company/#tbl-001"
+  - table_id: "tbl-002"
     caption: "REPORTS."
     printed_folio: "7"
     rows: 7
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-001_p0027.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-001_p0027.tidy.csv"
-    section_url: "/books/guide-to-india-office-records-1919/chapters/04-the-east-india-company/#tbl-001"
-  - table_id: "tbl-002"
-    caption: "Table 2"
-    printed_folio: "29"
-    rows: 44
-    cols: 3
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-002_p0049.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-002_p0049.tidy.csv"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-002_p0027.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-002_p0027.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/04-the-east-india-company/#tbl-002"
   - table_id: "tbl-003"
     caption: "Table 3"
-    printed_folio: "32"
-    rows: 12
+    printed_folio: "29"
+    rows: 44
     cols: 3
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-003_p0052.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-003_p0052.tidy.csv"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-003_p0049.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-003_p0049.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/04-the-east-india-company/#tbl-003"
   - table_id: "tbl-004"
     caption: "Table 4"
+    printed_folio: "32"
+    rows: 12
+    cols: 3
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-004_p0052.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-004_p0052.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/04-the-east-india-company/#tbl-004"
+  - table_id: "tbl-005"
+    caption: "Table 5"
     printed_folio: "62"
     rows: 22
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-004_p0082.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-004_p0082.tidy.csv"
-    section_url: "/books/guide-to-india-office-records-1919/chapters/07-bengal/#tbl-004"
-  - table_id: "tbl-005"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-005_p0082.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-005_p0082.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/07-bengal/#tbl-005"
+  - table_id: "tbl-006"
     caption: "CONSULTATIONS."
     printed_folio: "67"
     rows: 9
-    cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-005_p0087.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-005_p0087.tidy.csv"
-    section_url: "/books/guide-to-india-office-records-1919/chapters/10-consultations-67-accounts/#tbl-005"
-  - table_id: "tbl-006"
-    caption: "ACCOUNTS."
-    printed_folio: "67"
-    rows: 2
     cols: 2
     diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-006_p0087.csv"
     tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-006_p0087.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/10-consultations-67-accounts/#tbl-006"
   - table_id: "tbl-007"
+    caption: "ACCOUNTS."
+    printed_folio: "67"
+    rows: 2
+    cols: 2
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-007_p0087.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-007_p0087.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/10-consultations-67-accounts/#tbl-007"
+  - table_id: "tbl-008"
     caption: "Miscellaneous."
     printed_folio: "72"
     rows: 10
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-007_p0092.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-007_p0092.tidy.csv"
-    section_url: "/books/guide-to-india-office-records-1919/chapters/11-consultations-68-accounts/#tbl-007"
-  - table_id: "tbl-008"
-    caption: "Table 8"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-008_p0092.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-008_p0092.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/11-consultations-68-accounts/#tbl-008"
+  - table_id: "tbl-009"
+    caption: "Table 9"
     printed_folio: "94"
     rows: 21
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-008_p0114.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-008_p0114.tidy.csv"
-    section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-008"
-  - table_id: "tbl-009"
-    caption: "Table 9"
-    printed_folio: "100"
-    rows: 8
-    cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-009_p0120.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-009_p0120.tidy.csv"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-009_p0114.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-009_p0114.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-009"
   - table_id: "tbl-010"
     caption: "Table 10"
-    printed_folio: "102"
-    rows: 19
+    printed_folio: "100"
+    rows: 8
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-010_p0122.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-010_p0122.tidy.csv"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-010_p0120.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-010_p0120.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-010"
   - table_id: "tbl-011"
     caption: "Table 11"
-    printed_folio: "103"
+    printed_folio: "102"
     rows: 19
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-011_p0123.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-011_p0123.tidy.csv"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-011_p0122.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-011_p0122.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-011"
   - table_id: "tbl-012"
     caption: "Table 12"
-    printed_folio: "104"
-    rows: 34
+    printed_folio: "103"
+    rows: 19
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-012_p0124.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-012_p0124.tidy.csv"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-012_p0123.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-012_p0123.tidy.csv"
     section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-012"
   - table_id: "tbl-013"
     caption: "Table 13"
+    printed_folio: "104"
+    rows: 34
+    cols: 2
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-013_p0124.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-013_p0124.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-013"
+  - table_id: "tbl-014"
+    caption: "Table 14"
     printed_folio: "109"
     rows: 39
     cols: 2
-    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-013_p0129.csv"
-    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-013_p0129.tidy.csv"
-    section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-013"
+    diplomatic_csv: "/downloads/guide-to-india-office-records-1919/datasets/tables/tbl-014_p0129.csv"
+    tidy_csv: "/downloads/guide-to-india-office-records-1919/datasets/tidy/tbl-014_p0129.tidy.csv"
+    section_url: "/books/guide-to-india-office-records-1919/chapters/12-bombay/#tbl-014"
 cascade:
   type: "chapters"
 editorial_note_markdown: |-
@@ -230,4 +238,4 @@ editorial_note_markdown: |-
 
 A primary historical edition by William Foster (1919). Archival scope: spanning 1600-1858; covering All-India, London, Surat, Madras, Bombay, Bengal; focusing on archival guide, east india company, factory records, court minutes, despatches. Original imprint: London: Eyre and Spottiswoode for the India Office (1919).
 
-Digitized from Internet Archive copy [`guidetoindiaoffi00greauoft`](https://archive.org/details/guidetoindiaoffi00greauoft) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (91), and statistical tables (13) are preserved faithfully from the source camera scans.
+Digitized from Internet Archive copy [`guidetoindiaoffi00greauoft`](https://archive.org/details/guidetoindiaoffi00greauoft) using Akshara's v6 archival compiler (Gemini 3.8 Flash; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (91), and statistical tables (14) are preserved faithfully from the source camera scans.

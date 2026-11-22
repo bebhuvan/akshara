@@ -12,7 +12,7 @@
     "column_index": 2,
     "column_header": "Seers.",
     "raw_text": "7·4",
-    "value_numeric": null,
+    "value_numeric": 7.4,
     "unit": "seers",
     "is_null_or_leader": false,
     "arithmetic_verified": false
@@ -48,7 +48,7 @@
     "column_index": 2,
     "column_header": "Seers.",
     "raw_text": "6·8",
-    "value_numeric": null,
+    "value_numeric": 6.8,
     "unit": "seers",
     "is_null_or_leader": false,
     "arithmetic_verified": false

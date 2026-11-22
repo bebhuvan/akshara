@@ -318,6 +318,7 @@ When Lord Ellenborough was recalled from India in 1844, Sir Henry Hardinge was s
 After the conclusion of the Napoleonic Wars, Hardinge entered Parliament, and retained his seat for [p. 15] over twenty years. He married the sister of Lord Castlereagh in 1821, and entered the Cabinet as Secretary at War, in succession to Lord Palmerston, in 1828. He remained a consistent Tory, and became Secretary at War once more in 1841, when Sir Robert Peel came back to power. And he held that appointment till 1844, when he was selected to succeed Lord Ellenborough in India in his sixtieth year. The appointment was no distinction for a Minister of his position and eminence; and Sir Robert Peel spoke the simple truth when he said, two years after, that in accepting the post of Governor-General of India, Sir Henry Hardinge had "made a great sacrifice from a sense of public duty."
 
 > _[Locus: p. 89]_
+
 Scarcely eighteen months had elapsed from the date of his landing at Calcutta, when he was forced into a war which was not of his seeking. Ranjit Singh, the great ruler of the Punjab, died in 1839; and the magnificent Sikh army which he had created became uncontrollable when his restraining hand was withdrawn. Like the Pretorian Guards of ancient Rome they became masters of the situation; they formed Pancháyets in every regiment and obeyed no other power; and they set up and deposed men in authority. Anarchy followed with frequent revolutions; and the brother of Ranjit Singh's widow was tried and condemned by the military Pancháyets, and shot by a party of soldiers. And in November 1845 the magnificent but misguided Sikh army, consisting of 60,000 soldiers, 40,000 armed followers, and 150 guns, crossed the Sutlej and invaded British India.
 
 The commander of the Sikh army, Lal Singh, was a traitor, and probably wished the destruction of the army he led. In the first action with the British, at Moodkee, Lal Singh fled at the beginning of the battle, and so caused the defeat of his troops. The second battle, at Ferozshahar, was obstinately fought. British cannon, says an eye-witness, were dismounted, and the ammunition [p. 16] blown into the air; British squadrons were checked in mid career; battalion after battalion was hurled back with shattered ranks; and it was not till after sunset that portions of the Sikh position were finally carried.[^sec-05-fn-001] The battle was renewed in the morning, but through the treachery or cowardice of Lal Singh his army was soon in full retreat. The third battle was won by the British at Aliwal; but the decisive contest which concluded the war was the battle of Sobreon, fought on February 10, 1846. The Sikh soldiers fought with the valour of crusaders and the determination of heroes. But Tej Singh, the Sikh commander, fled at the first assault, and is supposed to have broken the bridge over the Sutlej to prevent the escape of his army. The British victory was complete, but was dearly purchased by the loss of over two thousand troops, killed and wounded. The river, says Lord Hardinge's son, who was present at the action, was alive with a struggling mass of men. The artillery, now brought down to the water's edge, completed the slaughter. Few escaped; none surrendered. The Sikhs met their fate with that resignation which distinguished their race.[^sec-05-fn-002]
@@ -1543,9 +1544,7 @@ A Select Committee of the House of Commons was appointed in 1848, with Lord Geor
 
 “ *First*: Three millions sterling and upward annually taken from the revenue of India towards the payment of the Home Charges of the East India Company, without any return whatever;
 
-“ *Second*: Fortunes accumulated in India by the Civil and Military Services, seldom if any remaining in that country annually increase the capital of Great Britain from the resources of India; “ *Third*: The well-known fact that of the revenue
-
-raised in British India, the largest portion of it is from the land, by which its produce is necessarily burdened; this amounts to nearly thirteen and a half millions sterling;
+“ *Second*: Fortunes accumulated in India by the Civil and Military Services, seldom if any remaining in that country annually increase the capital of Great Britain from the resources of India; “ *Third*: The well-known fact that of the revenue raised in British India, the largest portion of it is from the land, by which its produce is necessarily burdened; this amounts to nearly thirteen and a half millions sterling;
 
 “ *Fourth*: The difficulties which importers are subject [p. 126] to from the way in which duties are levied at the Custom Houses of England." [^sec-11-fn-001]
 
@@ -5290,7 +5289,7 @@ No task, more unsuitable for the State, can well be imagined than to intervene a
 | A | 50 × 32 = | 1600 |
 | B | 75 × 16 = | 1200 |
 | C | 25 ×   4 = | 100 |
-| 2900 |  |  |
+|  |  | 2900 |
 
 
 <!-- page: 514 | folio: 486 -->
@@ -7358,15 +7357,13 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - <span class="sc">Iddesleigh</span>, Earl of, *see Northcote*
 - Imports, 344–346. *See Duties, Tariffs*
 - *Improvements Administration, India,*
-- *Memorandum of*, 166, 168, 169,
-- 170, 172, 173
+- *Memorandum of*, 166, 168, 169, 170, 172, 173
 - India, *passim*
 - —— *Friend of*, 209
 - —— *Modern* (G. Campbell), 73
 - Indus, 83, 170, 367, 446
 - Innes, Gen. McLeod, 85, 88, 90
-- Irrigation, 166–178, 360–370, 374,
-- 499, 545, 546, 550–554
+- Irrigation, 166–178, 360–370, 374, 499, 545, 546, 550–554
 - —— Commission, 1901, 551–553
 - Iyengar, Raghava (*Progress, Madras*
 -     *Presidency*), 68
@@ -7387,8 +7384,7 @@ It is said of Louis XI., King of France, that on one occasion he had decided to 
 - Jumrud, 429
 - Jung, Nawab Jahawar, 201
 - <span class="sc">Kabul</span>, 6, 8, 9, 10, 11, 250, 253, 260,
--     421, 422, 428, 429, 430, 431, 432,
-- 433, 450
+-     421, 422, 428, 429, 430, 431, 432, 433, 450
 - Kafristan, 428, 454
 - Kalpi, 27
 - Kamran, Prince, 6

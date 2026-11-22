@@ -1,0 +1,31 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,1,data,,Venereal diseases,2,Cases.,31·2,31.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,1,data,,Venereal diseases,3,Native Troops.,Intermittent fever,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,1,data,,Venereal diseases,4,Cases.,38·3,38.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,1,data,,Venereal diseases,5,Prisoners.,Intermittent fever,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,1,data,,Venereal diseases,6,Cases.,34·2,34.2,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,2,data,,Intermittent fever,2,Cases.,22·6,22.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,2,data,,Intermittent fever,3,Native Troops.,Dysentery .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,2,data,,Intermittent fever,4,Cases.,5·9,5.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,2,data,,Intermittent fever,5,Prisoners.,Dysentery .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,2,data,,Intermittent fever,6,Cases.,9·9,9.9,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,3,data,,Simple continued fever,2,Cases.,2·4,2.4,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,3,data,,Simple continued fever,3,Native Troops.,Venereal diseases,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,3,data,,Simple continued fever,4,Cases.,4·6,4.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,3,data,,Simple continued fever,5,Prisoners.,"Abscess, ulcer, and boils",,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,3,data,,Simple continued fever,6,Cases.,9·1,9.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,4,data,,Dysentery,2,Cases.,2·3,2.3,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,4,data,,Dysentery,3,Native Troops.,Respiratory diseases,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,4,data,,Dysentery,4,Cases.,3·6,3.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,4,data,,Dysentery,5,Prisoners.,Diarrhoea .,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,4,data,,Dysentery,6,Cases.,6·1,6.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,5,data,,Respiratory diseases,2,Cases.,1·8,1.8,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,5,data,,Respiratory diseases,3,Native Troops.,Remittent fever,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,5,data,,Respiratory diseases,4,Cases.,2·1,2.1,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,5,data,,Respiratory diseases,5,Prisoners.,Respiratory diseases,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,5,data,,Respiratory diseases,6,Cases.,3·6,3.6,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,6,data,,Row 6,2,Cases.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,6,data,,Row 6,3,Native Troops.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,6,data,,Row 6,4,Cases.,,,,True,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,6,data,,Row 6,5,Prisoners.,Simple continued fever,,,False,False
+imperial-gazetteer-of-india-vol-01-descriptive,tbl-079,Table 79,570,532,6,data,,Row 6,6,Cases.,2·3,2.3,,False,False

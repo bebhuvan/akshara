@@ -1,6 +1,6 @@
 ---
 title: "The Early History of the Tea Industry in North-East India"
-date: "2026-11-20"
+date: "2026-11-22"
 subtitle: ""
 author: "Harold H. Mann"
 author_slug: "harold-h-mann"
@@ -45,7 +45,7 @@ provenance_statement: "Automated reading (1 open review item); 4 of 40 pages had
 taxonomy_provenance:
   - "Read: Gemini 3.8 Flash"
   - "Source: Camera JP2 Originals"
-  - "Scan-Triaged: 6 fixes · 4 pp. checked"
+  - "Scan-Triaged: 7 fixes · 4 pp. checked"
   - "Human Proofed: 0% (Machine + Scan-Crop Only)"
   - "Tables: 3 Structured (No Printed Totals)"
 taxonomy_diplomatic:
@@ -134,7 +134,7 @@ editorial_note_markdown: |-
 
   - **Models**: `gemini-3.8-flash` (40 pp.).
   - **Reader**: Read by gemini-3.8-flash on 40 of 40 pages. Declared reader profile: english_prose (new readings use gemini-3.8-flash, with the book spelling note on prose pages).
-  - **Human Proofing**: 6 replayed correction(s). Automated reading (1 open review item); 4 of 40 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+  - **Human Proofing**: 7 replayed correction(s). Automated reading (1 open review item); 4 of 40 pages had flagged passages re-read against the scan; no pages yet checked by a person.
 
   Rather than pretend machine transcription is infallible, here is what our validators still flag:
 
