@@ -22,6 +22,8 @@ We talk endlessly about our history—how old it is, how we gave the world this 
 
 It depressed me a little that nobody bothered to fix this, even though I knew of noble souls who spent their entire lives scanning and archiving these books—people like Omshivaprakash (behind [Sanchaya](https://sanchaya.org) and Servants of Knowledge) and [Shiju Alex](https://shijualex.in) (behind [Granthappura](https://gpura.org) and the [Indic Digital Archive Foundation](https://indicarchive.org/)). But scanning is only one part of it. If a book isn't easy to read and share, its reach shrinks. Even for me, there's only so much patience I have for squinting at shoddy scans.
 
+***
+
 This kept bothering me, but I couldn't do anything about it because I wasn't a coder—I don't know JavaScript from idli-vada. Just a reader and a bit of a writer. Then, after 2023, coding tools like Windsurf, Claude Code, and Codex showed up, and I saw a glimmer of hope. I still had no intuition for turning old scans into clean, readable books, so the first thing I built was a small directory called [Dhwani](https://dhwani.ink/). I haven't worked on it since Akshara started, but at the time I figured if these books were unreadable, they should at least be discoverable.
 
 Then I started messing around with OCR models and had an *oh shit* moment—I could actually do a little bit of this myself. I had no clue what I was doing. I was uploading entire 700-page PDFs straight into chat boxes and asking LLMs to transcribe them. I created five different accounts on Baidu's PaddleOCR to get around their 50,000-page monthly cap and ran books overnight. Even then, the output wasn't great.
@@ -31,6 +33,8 @@ In hindsight, what I was doing back then was very, very stupid. For the first co
 Everything changed when I happened to tell [Kailash](https://nadh.in) what I was doing. He gave me what can only be described as a quick workshop and told me to use Gemini models. I'd already been playing with vision models, I just didn't have a structure. Suddenly, extracting clean text and turning these books into downloadable EPUBs, PDFs, and Markdown files became doable. The vision models still had plenty of weird quirks, the coding tools weren't nearly as good as they are today, and I was doing it alone. Still, around November or December 2025, [Akshara](https://akshara.ink) went live with about 25 books.
 
 After that, the site mostly sat still for a year. I kept processing books, and I also wasted a whole lot of money testing every model with vision capabilities—Gemini, Anthropic, Kimi, Qwen, GLM, DeepSeek. Parallelly, I started a sister project called [Paper Lanterns](https://paperlanterns.ink). Thanks to Shaun Usher's [*Letters of Note*](https://lettersofnote.com/), I fell in love with historical correspondence, which is insanely good, and started curating letters and transcribing whole collections—Rabindranath Tagore, Jawaharlal Nehru, Dostoevsky, and Gandhi to start with, plus a bunch more I still haven't put up.
+
+***
 
 The real reason I stopped uploading to Akshara was proofreading. I was checking every book by hand, and reading word for word—Romesh Chunder Dutt's two volumes of *The Economic History of India* alone are 1,128 pages—is impossible with a full-time job and a family. So I did fuzzy checking: first and last word of each paragraph against the source PDF, making sure split paragraphs were joined, diacritics preserved, running headers stripped, tables intact. Even that took a full day per big book. Doing it weekend after weekend put so much stress on my eyes that I still have a slight pain in one eye from last year. It was untenable.
 
@@ -44,11 +48,15 @@ Still, these coding tools are so good that even a dummy like me can work on thin
 
 And if somebody from the Gemini team is reading this: for all the people who shit on you, I remain a fan. Even when your coding capabilities were bad, your vision capabilities were really, really good, and Gemini has always been my primary vision model. Thank you for these models, for the discounts, and for keeping them cheap.
 
+***
+
 Now I want to try a few crazier things under Akshara. I work at Zerodha and I'm deeply interested in economic and financial history. I know a whole lot of random things about US financial history, and almost nothing about India's—mostly because there are very few modern works I can just buy and read. Again, we've done a piss-poor job documenting this. So the experiment I'm working on (coming soon) is a "living book" of the economic and financial history of India: extracting text from old economic books, pamphlets, and letters to build a corpus, and then getting an LLM to act as an author and write an economic history grounded directly in that archive. If it works, I want to try it for other topics I care about, like Indian maritime trade. I have no idea if it'll pan out, but LLMs are now letting me "just do things."
 
 The other sub-project—in line with [Paper Lanterns](https://paperlanterns.ink)—is historical Indian correspondence. A lot of it is still in copyright, which is a challenge, but I want to find everything that's out of copyright and put it up, along with philosophy.
 
 And the one thing I really, really want to do is regional literature—Hindi, Kannada, Tamil, Telugu, and so on. The models still aren't great at Indian scripts, and I need help proofreading. If you want to volunteer on languages that are better represented in LLM training sets, like Hindi, Kannada, or Tamil, I'd love to work with you.
+
+***
 
 So that's what I've been up to. Go to the library—I keep adding books, and the count will keep steadily growing. I'd love to hear your feedback, thoughts, brickbats, and suggestions.
 
