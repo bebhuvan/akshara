@@ -1,0 +1,14 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+letters-from-malabar,tbl-003,Table 3,131,123,1,data,,Sakkiara,2,Column 2,Musicians in the Pagodas and at Court.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,2,data,,Poodewallen,2,Column 2,Who have the honour of handing betel to the Rajah.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,3,data,,Andoekellan,2,Column 2,Makers of pots and pans.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,4,data,,Tzomboe Kotty,2,Column 2,Bargain makers.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,5,data,,Toonen,2,Column 2,Tailors.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,6,data,,Noelchottin,2,Column 2,Cloth weavers.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,7,data,,Wilsiatte Nairs,2,Column 2,Oilmakers.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,8,data,,Jodacheri,2,Column 2,Ploughers.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,9,data,,Wallamneoers,2,Column 2,Fishermen.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,10,data,,Ajari,2,Column 2,Carpenters.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,11,data,,Moesjari,2,Column 2,Tinkers.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,12,data,,Tataan,2,Column 2,Silversmiths.,,,False,False
+letters-from-malabar,tbl-003,Table 3,131,123,13,data,,Kollen,2,Column 2,Blacksmiths.,,,False,False

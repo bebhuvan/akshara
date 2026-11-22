@@ -8,35 +8,35 @@
   <rect width="1200" height="1800" fill="#103282"/>
   <rect width="1200" height="1800" fill="url(#bgShade)"/>
 
-  <line x1="112" y1="110" x2="1088" y2="110" stroke="#4D72C8" stroke-width="1.5"/><line x1="112" y1="215" x2="1088" y2="215" stroke="#FFFFFF" stroke-width="3"/><text x="1088" y="1470" text-anchor="end" fill="#FFFFFF" fill-opacity="0.08" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-weight="700" font-size="340" letter-spacing="-10">1918</text><line x1="112" y1="1520" x2="1088" y2="1520" stroke="#4D72C8" stroke-width="1.5"/><line x1="112" y1="1685" x2="1088" y2="1685" stroke="#4D72C8" stroke-width="1.5"/>
+  <line x1="112" y1="110" x2="1088" y2="110" stroke="#4D72C8" stroke-width="1.5"/><line x1="112" y1="215" x2="1088" y2="215" stroke="#FFFFFF" stroke-width="3"/><text x="1088" y="1470" text-anchor="end" fill="#FFFFFF" fill-opacity="0.08" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-weight="700" font-size="340" letter-spacing="-10">1925</text><line x1="112" y1="1520" x2="1088" y2="1520" stroke="#4D72C8" stroke-width="1.5"/><line x1="112" y1="1685" x2="1088" y2="1685" stroke="#4D72C8" stroke-width="1.5"/>
 
   <text x="112" y="168" fill="#FFFFFF" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" font-weight="500" letter-spacing="4">
     LETTERS, SPEECHES &amp; DISCOURSE
   </text>
   <text x="1088" y="168" text-anchor="end" fill="#C8D8FA" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="20" letter-spacing="3">
-    1918
+    1925
   </text>
 
   <text x="112" y="355" fill="#FFFFFF" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="66" font-weight="600" letter-spacing="-1">
     <tspan x="112" dy="0">Speeches and Writings</tspan><tspan x="112" dy="76">of Sarojini Naidu</tspan>
   </text>
 
-  
+  <text x="112" y="493" fill="#C8D8FA" font-family="Noto Serif, Georgia, serif" font-style="italic" font-size="30"><tspan x="112" dy="0">Third Edition</tspan></text>
 
-  <line x1="112" y1="511" x2="290" y2="511" stroke="#FFFFFF" stroke-width="4"/>
+  <line x1="112" y1="577" x2="290" y2="577" stroke="#FFFFFF" stroke-width="4"/>
 
-  <text x="112" y="575" fill="#FFFFFF" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+  <text x="112" y="641" fill="#FFFFFF" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
     <tspan x="112" dy="0">Sarojini Naidu</tspan>
   </text>
-  <text x="112" y="629" fill="#C8D8FA" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
-    FIRST PUBLISHED 1918
+  <text x="112" y="695" fill="#C8D8FA" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+    FIRST PUBLISHED 1925
   </text>
 
   <text x="112" y="1605" fill="#FFFFFF" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="36" font-weight="600" letter-spacing="5">
     AKSHARA
   </text>
   <text x="112" y="1652" fill="#C8D8FA" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
-    ARCHIVAL EDITION  ·  AKSHARA.INK
+    MACHINE-CHECKED EDITION  ·  AKSHARA.INK
   </text>
   <text x="1088" y="1628" text-anchor="end" fill="#FFFFFF" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
     ಅಕ್ಷರ

@@ -1,0 +1,23 @@
+---
+title: "Preface"
+chapter_number: "FRONTMATTER"
+section_kind: "frontmatter"
+weight: 2
+start_page: 7
+end_page: 8
+printed_start_folio: "5"
+printed_end_folio: "6"
+reading_time: 3
+footnotes_count: 0
+tables_count: 0
+book_id: "brief-history-indian-peoples"
+archive_id: "briefhistoryofin00hunt"
+edition_tier: "machine_checked"
+edition_generation: "v6"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#desk/brief-history-indian-peoples/7"
+prev: "/books/brief-history-indian-peoples/chapters/01-frontispiece-map-title-page/"
+next: "/books/brief-history-indian-peoples/chapters/03-prefaces-to-revised-editions/"
+---
+
+<div class="page-rail-marker" id="page-7"><button type="button" class="folio-trigger" data-page="7" data-folio="5" data-scan="https://archive.org/download/briefhistoryofin00hunt/page/n6_w1400.jpg" aria-label="Inspect scan for page 5">[p. 5]</button></div><h2 class="sec-h1">PREFACE</h2><div class="prose-unit"><p class="prose-p"><span class="sc">In</span> this book I try to exhibit the growth of the Indian peoples, to show what part they have played in the world’s progress, and what sufferings they have endured from other nations. Short Indian histories, as written by Englishmen, usually dismiss the first two thousand years of their narrative in a few pages, and start by disclosing India as a conquered country. This plan is not good, either for Europeans in India or for the Indians themselves ; nor does it accord with the facts. As long as Indian history is presented to the Indian youth as nothing but a dreary record of disunion and subjection, our Anglo-Indian Schools can scarcely become the nurseries of a self-respecting nation. I have therefore tried to put together, from original sources, a brief narrative of what I believe to be the true history of the peoples of India. These sources have been carefully examined in my larger works. This little book merely states, without discussing, the results arrived at by the labour of thirty years.</p></div><div class="prose-unit"><p class="prose-p">I have tried to show how an early gifted race, ethnically akin to our own, welded the primitive forest tribes into settled communities. How the nobler stock, set free from the severer struggle for life by the bounty of the Indian soil, created a language, a literature and a religion, of rare stateliness and beauty. How the very absence of that strenuous striving with nature, which is so necessary a discipline for nations, unfitted them for the great conflicts which await all races. How, <button type="button" class="folio-trigger folio-turn" id="page-8" data-page="8" data-folio="6" data-scan="https://archive.org/download/briefhistoryofin00hunt/page/n7_w1400.jpg" aria-label="Inspect original scan for page 6">[p. 6]</button> among the most intellectual class, the spiritual and contemplative aspects of life overpowered the practical and the political. How Hinduism, while sufficing to organize the Indian communities into social and religious confederacies, failed to knit them together into a coherent nation.</p></div><div class="prose-unit"><p class="prose-p">India was destined, by her position, to receive the human overflow from the ancient breeding-grounds of Central Asia. Waves of conquest from the north were as inevitable in early times as are the tidal waves from the ocean at the present day. But such conquests, although rapid, were seldom enduring ; and although widespread, were never complete. The religious and social organization of Hinduism never succumbed. The greatest of India’s conquerors, the Mughals, were being hemmed in by Hindu confederacies before their supremacy had lasted 1¾ centuries. So far as can now be estimated, the advance of the British alone saved the Delhi Empire from dismemberment by three Hindu military powers, the Maráthás, Rájputs, and Sikhs. The British Rule has endured, because it is wielded in the joint interest of the Indian races.</p></div><div class="prose-unit"><p class="prose-p">But while these thoughts have long been present in my mind, I have not obtruded them on my pages. For I hope that this little book will reach the hands of many who look on history as a record of events, rather than as a compendium of philosophy. The greatest service which an Indian historian can at present render to India, is to state the facts accurately and in such a way that they will be read. If my story is found to combine truth with simplicity, it will have attained all that I aimed at. If it teaches young Englishmen and young Natives of India to think more kindly of each other, I shall esteem myself richly rewarded.</p></div>

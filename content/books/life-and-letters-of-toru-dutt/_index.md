@@ -1,38 +1,127 @@
 ---
 title: "Life and Letters of Toru Dutt"
-subtitle: ""
+date: "2026-11-22"
+subtitle: "With a Foreword by the Right Hon. H. A. L. Fisher, M.P."
 author: "Harihar Das"
 author_slug: "harihar-das"
 year: 1921
+imprint: "London: Humphrey Milford, Oxford University Press"
 language: "English"
-pages: 350
+pages: 408
+extracted_pages: 398
+reread_pages: 3
+human_verified_pages: 0
+chapters: 19
+footnotes_count: 72
+tables_count: 0
+figures_count: 16
+reading_time: "~11 hrs"
 type: "books"
 layout: "book"
+collection_slug: "general-heritage"
+collection_title: "Akshara General Heritage Library"
+edition_generation: "v6"
+edition_tier: "machine_checked"
+rubric_score: 100.0
+rubric_pillars:
+  - name: "Structural Completeness"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+  - name: "Apparatus & Footnotes"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+  - name: "Tabular & Numeric Accuracy"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+  - name: "Orthography & Diacritics"
+    score: 25.0
+    max: 25.0
+    notes: "Clean (0 deductions)"
+reader_model: "Gemini 4 Hydrogen"
+provenance_statement: "Machine-checked; 3 of 398 pages had flagged passages re-read against the scan; no pages yet checked by a person."
+taxonomy_provenance:
+  - "Read: Gemini 4 Hydrogen"
+  - "Source: Camera JP2 Originals"
+  - "Scan-Triaged: 11 fixes · 3 pp. checked"
+  - "Human Proofed: 0% (Machine + Scan-Crop Only)"
+taxonomy_diplomatic:
+  - "Diplomatic Orthography"
+  - "Script: Latin"
+  - "IAST / Diacritics"
+  - "Critical Apparatus"
+period: "Late 19th Century Bengal & Europe"
+regions:
+  - "Bengal"
+  - "Calcutta"
+  - "Cambridge"
+  - "Paris"
+subjects:
+  - "Toru Dutt"
+  - "Biography"
+  - "Letters"
+  - "Indo Anglian Literature"
+  - "Womens Writing"
+archive_id: "lifelettersoftor00duttuoft"
+archive_url: "https://archive.org/details/lifelettersoftor00duttuoft"
+source_sha256: "507c69626ace57979559da1e2bdbe013c99e5ca4064742e1f9e1dc1ecc1ce6b5"
 cover: "/covers/life-and-letters-of-toru-dutt.webp"
-description: "A biography of Toru Dutt, the remarkable Indian poet who mastered Sanskrit, French, and English, and died at age 21 leaving behind a legacy of poetry and prose that earned her a place among authentic voices of Western literature."
-reading_time: "6-8 hours"
-chapters: 13
-period: "Modern India"
-featured_quote: "In her all too brief life she mastered Sanskrit and wrote in French and English with a grace, a facility, and an individual distinction which have given her rank among the authentic voices of Western literature."
-publisher: "Oxford University Press"
-publication_location: "London"
-foreword_by: "H. A. L. Fisher"
-archive_url: "https://archive.org/details/dli.ernet.237324"
-author_wikipedia_url: "https://en.wikipedia.org/wiki/Toru_Dutt"
-downloads:
-  epub: "https://drive.google.com/file/d/1cy_PoDZmVHudqvKTGbjGVy4wy_r1vL4X/view?usp=sharing"
-  markdown: "https://drive.google.com/file/d/1fwYL_vgAWd0AdvueM30h8ge3avqc5vA3/view?usp=sharing"
-  pdf: "https://drive.google.com/file/d/1Ia_eMNhrIzjWyIbSTl-r6vaM_ZZjAYkF/view?usp=sharing"
-digitized_from: "Archive.org"
-digitization_method: "OCR with manual correction"
-digitization_notes: "I'm doing this completely alone—no team, no resources, just me. I extracted the text from the source PDF using PaddleOCR, then used Google AI Studio to clean it up and add footnotes. I've done fuzzy sentence matching by scrolling through the pages, but reading every single word when you're working solo is impossible. The text is pretty clear—accuracy is well north of 95%. **Known issue:** The footnotes are right, but their placement is sometimes off. Sadly, when you're doing this alone, you don't have the time to manually edit everything. I'm relying on AI tools for cleanup and verification because I don't have any other help. Next goal is to figure out crowdsourced corrections like Project Gutenberg. For now though, if you like the book, all credit goes to me. If there are mistakes, blame the AI!"
-cascade:
-  type: "chapters"
-edition_generation: "v1"
-edition_tier: "v1_archive"
 cover_svg: "/covers/life-and-letters-of-toru-dutt.svg"
 archetype: "epistolary_and_speeches"
 palette: "Carbon & Vermilion"
+description: "With a Foreword by the Right Hon. H. A. L. Fisher, M.P. Archival scope: spanning Late 19th Century Bengal & Europe; covering Bengal, Calcutta, Cambridge, Paris; focusing on toru dutt, biography, letters, indo anglian literature, womens writing. Original imprint: London: Humphrey Milford, Oxford University Press (1921)."
+featured_quote: ""
+download_epub: "/downloads/life-and-letters-of-toru-dutt/life-and-letters-of-toru-dutt.epub"
+download_html: "/downloads/life-and-letters-of-toru-dutt/life-and-letters-of-toru-dutt.html"
+download_md: "/downloads/life-and-letters-of-toru-dutt/life-and-letters-of-toru-dutt.md"
+download_tei: "/downloads/life-and-letters-of-toru-dutt/life-and-letters-of-toru-dutt.tei.xml"
+download_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-life-and-letters-of-toru-dutt/life-and-letters-of-toru-dutt.pdf"
+download_source_pdf: "https://github.com/bebhuvan/akshara-library/releases/download/edition-life-and-letters-of-toru-dutt/life-and-letters-of-toru-dutt.originals.pdf"
+github_folder_url: "https://github.com/bebhuvan/akshara-library/tree/main/collections/general-heritage/life-and-letters-of-toru-dutt"
+proofing_base_url: "https://proof.akshara.ink"
+proofing_url: "https://proof.akshara.ink/#book/life-and-letters-of-toru-dutt"
+has_datasets: false
+download_datasets: ""
+tables_list: []
+cascade:
+  type: "chapters"
+editorial_note_markdown: |-
+  # A Note On This Edition — *Life and Letters of Toru Dutt*
+
+  This digital edition was produced by transcribing a scanned copy of the original printed book. This note records where the scan came from, what we normalized from the printed page, and what we know still awaits human eyes, so that you can judge the text for yourself and consult the original scan where it matters.
+
+  ## 1. The Copy We Worked From
+
+  - **Title**: *Life and Letters of Toru Dutt* (1921)
+  - **Author(s)**: Harihar Das
+  - **Imprint**: London: Humphrey Milford, Oxford University Press
+  - **Internet Archive Scan**: [`lifelettersoftor00duttuoft`](https://archive.org/details/lifelettersoftor00duttuoft)
+  - **Source File**: `life-and-letters-of-toru-dutt.originals.pdf`
+  - **Source SHA-256**: `507c69626ace57979559da1e2bdbe013c99e5ca4064742e1f9e1dc1ecc1ce6b5`
+  - **Leaf Accounting**: 408 PDF leaves — **398** content leaves transcribed, **10** blank/tissue leaves (`2, 30, 38, 46, 68, 82, 96, 186, 302, 350`), **0** failed leaves.
+  - **Edition Status**: `machine_checked` (**100.0 / 100** Rubric Score)
+
+  ## 2. Editorial Policy: Presentation vs. Historical Text
+
+  - **Modernized (Presentation Only)**: Running heads and institutional library stamps (58 flyleaf/stamp block(s)) are excluded from reading prose; **239** paragraphs running across page breaks were rejoined (preserving `[p. N]` folio markers); **1** cross-page split footnotes and **0** multi-page tables were stitched; and **390** end-of-line hyphens were resolved against intra-book attestation.
+  - **Preserved Verbatim**: Period spellings, nineteenth-century romanization and diacritics (17 distinct non-ASCII characters across 164 leaves), and printed statistical figures (`Rs. a. p.`, `£ s. d.`, lakhs/crores). We never alter printed totals to force column arithmetic.
+
+  ## 3. Transcription Provenance & Remaining Open Checks
+
+  - **Models**: `gemini-4-hydrogen` (398 pp.).
+  - **Reader**: Read by gemini-4-hydrogen on 398 of 398 pages. Declared reader profile: transliteration (new readings use gemini-4-hydrogen).
+  - **Human Proofing**: 11 replayed correction(s). Machine-checked; 3 of 398 pages had flagged passages re-read against the scan; no pages yet checked by a person.
+
+  Rather than pretend machine transcription is infallible, here is what our validators still flag:
+
+  - **2 finding(s) across 2 leaf(s)** (pp. 217, 253): rare character.
+  - **1 finding(s) across 1 leaf(s)** (pp. 391): attested compositor spelling variants preserved diplomatically from the scan.
+
+  If you spot an error, the scan identified above is the final authority. We would rather be corrected than merely trusted.
 ---
 
-A beautifully written biography that brings to life the extraordinary story of Toru Dutt, who achieved literary greatness in multiple languages before her untimely death at twenty-one. This work includes her personal letters, scholarly analysis, and a touching foreword by H.A.L. Fisher that celebrates her remarkable contributions to English and French literature.
+With a Foreword by the Right Hon. H. A. L. Fisher, M.P. Archival scope: spanning Late 19th Century Bengal & Europe; covering Bengal, Calcutta, Cambridge, Paris; focusing on toru dutt, biography, letters, indo anglian literature, womens writing. Original imprint: London: Humphrey Milford, Oxford University Press (1921).
+
+Digitized from Internet Archive copy [`lifelettersoftor00duttuoft`](https://archive.org/details/lifelettersoftor00duttuoft) using Akshara's v6 archival compiler (Gemini 4 Hydrogen; Rubric score **100.0/100**, `machine_checked`). Historical orthography, nineteenth-century diacritics, footnotes (72), and statistical tables (0) are preserved faithfully from the source camera scans.

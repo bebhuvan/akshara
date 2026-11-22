@@ -1,0 +1,10 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+letters-from-malabar,tbl-004,Table 4,139,131,1,data,,Pandy,2,Column 2,,,,True,False
+letters-from-malabar,tbl-004,Table 4,139,131,1,data,,Pandy,3,Column 3,Tanlour,,,False,False
+letters-from-malabar,tbl-004,Table 4,139,131,1,data,,Pandy,4,Column 4,,,,True,False
+letters-from-malabar,tbl-004,Table 4,139,131,2,data,,Toele,2,Column 2,Pattares ; or,,,False,False
+letters-from-malabar,tbl-004,Table 4,139,131,2,data,,Toele,3,Column 3,Choolia,,,False,False
+letters-from-malabar,tbl-004,Table 4,139,131,2,data,,Toele,4,Column 4,Pattares.,,,False,False
+letters-from-malabar,tbl-004,Table 4,139,131,3,data,,Toelegen,2,Column 2,,,,True,False
+letters-from-malabar,tbl-004,Table 4,139,131,3,data,,Toelegen,3,Column 3,Mockeramby,,,False,False
+letters-from-malabar,tbl-004,Table 4,139,131,3,data,,Toelegen,4,Column 4,,,,True,False

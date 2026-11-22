@@ -15,8 +15,8 @@
 
 
 ["brief-history-indian-peoples"]
-kind = "type"
-why = "nothing pictorial in the book"
+kind = "map"
+plate = "x-hunter-map"
 
 ["comprehensive-history-india-v1"]
 kind = "type"
@@ -215,15 +215,15 @@ plate = "x-rammohun-map"
 
 ["lays-of-ancient-india"]
 kind = "type"
-why = "nothing pictorial in the book"
+why = "only a gold-on-cloth binding seal, unsuitable for a one-ink mask"
 
 ["letters-from-malabar"]
 kind = "type"
 why = "nothing pictorial in the book"
 
 ["life-and-letters-of-toru-dutt"]
-kind = "type"
-why = "a portrait exists, but this scan is unusable; a better copy is needed"
+kind = "portrait"
+plate = "x-toru-portrait"
 
 ["life-in-an-indian-village"]
 kind = "type"
@@ -276,8 +276,8 @@ kind = "type"
 why = "nothing pictorial in the book"
 
 ["rig-veda-vedic-religion"]
-kind = "type"
-why = "nothing pictorial in the book"
+kind = "map"
+plate = "x-rigveda-map"
 
 ["some-aspects-indian-commerce-industry-shirras-1911"]
 kind = "type"
@@ -288,8 +288,8 @@ kind = "portrait"
 plate = "x-naoroji-1918"
 
 ["speeches-writings-sarojini-naidu"]
-kind = "type"
-why = "a frontispiece portrait exists, but this scan is too poor; a better copy is needed"
+kind = "portrait"
+plate = "x-naidu-portrait"
 
 ["truth-about-indian-opium"]
 kind = "device"

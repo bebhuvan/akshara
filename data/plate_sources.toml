@@ -200,6 +200,39 @@ mode = "line"
 levels = [45, 175]
 what = "Folding map of The Indian Empire by J. G. Bartholomew (frontispiece)"
 
+[[plate]]
+key = "x-hunter-map"
+book = "brief-history-indian-peoples"
+source = "static/figures/brief-history-indian-peoples/fig-001_p0004.webp"
+crop = [0.025, 0.032, 0.985, 0.976]
+mode = "line"
+levels = [45, 185]
+what = "Frontispiece map of The Indian Empire prepared for Sir William Wilson Hunter (Clarendon Press, 1907)"
+
+[[plate]]
+key = "x-rigveda-map"
+book = "rig-veda-vedic-religion"
+source = "static/figures/rig-veda-vedic-religion/fig-001_p0017.webp"
+crop = [0.015, 0.015, 0.985, 0.975]
+mode = "line"
+what = "Map of India in the Vedic and Epic Age (scan p. 17)"
+
+[[plate]]
+key = "x-naidu-portrait"
+book = "speeches-writings-sarojini-naidu"
+source = "static/figures/speeches-writings-sarojini-naidu/fig-001_p0005.webp"
+crop = [0.24, 0.13, 0.86, 0.67]
+mode = "halftone"
+what = "Frontispiece portrait of Mrs. Sarojini Naidu (G. A. Natesan, Third Edition, 1925)"
+
+[[plate]]
+key = "x-toru-portrait"
+book = "life-and-letters-of-toru-dutt"
+source = "static/figures/life-and-letters-of-toru-dutt/fig-001_p0008.webp"
+crop = [0.16, 0.08, 0.84, 0.68]
+mode = "halftone"
+what = "Frontispiece portrait of Toru Dutt (Oxford University Press, 1921)"
+
 # Made by hand in the 2026-11 design mock (recipe not recorded). Each was matched back to its
 # source by comparing the plate with the book's figures or scan; the script leaves these files alone.
 

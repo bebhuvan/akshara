@@ -1,0 +1,16 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,1,data,,British India (1901),2,Area in square miles.,"1,087,404",1087404.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,1,data,,British India (1901),3,Population.,"231,898,807",231898807.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,1,data,,British India (1901),4,Number of Persons per square mile.,213,213.0,count,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,2,data,,Feudatory India (1901),2,Area in square miles.,"679,393",679393.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,2,data,,Feudatory India (1901),3,Population.,"62,461,549",62461549.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,2,data,,Feudatory India (1901),4,Number of Persons per square mile.,91,91.0,count,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,3,data,,"French Possessions (March 1, 1901)",2,Area in square miles.,178,178.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,3,data,,"French Possessions (March 1, 1901)",3,Population.,"273,185",273185.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,3,data,,"French Possessions (March 1, 1901)",4,Number of Persons per square mile.,Chiefly in towns or suburbs.,,count,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,4,data,,"Portuguese Possessions (Dec. 1, 1900)",2,Area in square miles.,"1,086",1086.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,4,data,,"Portuguese Possessions (Dec. 1, 1900)",3,Population.,"329,223",329223.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,4,data,,"Portuguese Possessions (Dec. 1, 1900)",4,Number of Persons per square mile.,,,count,True,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,5,total,,"Total for all India, including Burma",2,Area in square miles.,"1,768,061",1768061.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,5,total,,"Total for all India, including Burma",3,Population.,"294,962,764",294962764.0,,False,True
+brief-history-indian-peoples,tbl-003,"All India, including Burma.",37,35,5,total,,"Total for all India, including Burma",4,Number of Persons per square mile.,166,166.0,count,False,True

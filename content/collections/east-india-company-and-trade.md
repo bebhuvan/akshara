@@ -1,9 +1,9 @@
 ---
 title: "East India Company & Maritime Trade"
 type: "collections"
-book_count: 18
-author_count: 5
-earliest_year: 1893
+book_count: 19
+author_count: 6
+earliest_year: 1862
 latest_year: 1925
 description: "Calendars of 17th-century factory correspondence, early European travelogues, Indian Ocean commerce, and maritime shipping."
 period: "1st Century CE – 1667"
@@ -25,9 +25,10 @@ books:
   - "english-factories-india-1665-1667-vol-12"
   - "guide-to-india-office-records-1919"
   - "indian-shipping"
+  - "letters-from-malabar"
   - "periplus-erythraean-sea"
 ---
 
 Calendars of 17th-century factory correspondence, early European travelogues, Indian Ocean commerce, and maritime shipping.
 
-This curated shelf brings together 18 public-domain editions across Akshara.
+This curated shelf brings together 19 public-domain editions across Akshara.

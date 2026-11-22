@@ -1,0 +1,61 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+brief-history-indian-peoples,tbl-001,Table 1,36,34,1,data,,1. Ajmere,2,Area in square miles.,"2,711",2711.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,1,data,,1. Ajmere,3,"Total population, 1901.","476,912",476912.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,1,data,,1. Ajmere,4,Number of Persons per square mile.,176,176.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,2,data,,2. Andaman and Nicobars,2,Area in square miles.,"3,188",3188.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,2,data,,2. Andaman and Nicobars,3,"Total population, 1901.","24,649",24649.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,2,data,,2. Andaman and Nicobars,4,Number of Persons per square mile.,7,7.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,3,data,,3. Assam,2,Area in square miles.,"56,243",56243.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,3,data,,3. Assam,3,"Total population, 1901.","6,126,343",6126343.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,3,data,,3. Assam,4,Number of Persons per square mile.,108,108.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,4,data,,4. Balúchistán (district and administered territory),2,Area in square miles.,"45,804",45804.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,4,data,,4. Balúchistán (district and administered territory),3,"Total population, 1901.","308,246",308246.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,4,data,,4. Balúchistán (district and administered territory),4,Number of Persons per square mile.,6,6.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,5,data,,5. Bengal,2,Area in square miles.,"151,185",151185.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,5,data,,5. Bengal,3,"Total population, 1901.","74,744,866",74744866.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,5,data,,5. Bengal,4,Number of Persons per square mile.,494,494.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,6,data,,6. Berar,2,Area in square miles.,"17,710",17710.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,6,data,,6. Berar,3,"Total population, 1901.","2,754,016",2754016.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,6,data,,6. Berar,4,Number of Persons per square mile.,154,154.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,7,data,,7. Bombay (Presidency),2,Area in square miles.,"123,064",123064.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,7,data,,7. Bombay (Presidency),3,"Total population, 1901.","18,559,561",18559561.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,7,data,,7. Bombay (Presidency),4,Number of Persons per square mile.,158,158.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,8,data,,Bombay,2,Area in square miles.,"75,918",75918.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,8,data,,Bombay,3,"Total population, 1901.","15,301,677",15301677.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,8,data,,Bombay,4,Number of Persons per square mile.,201,201.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,9,data,,Sind,2,Area in square miles.,"47,066",47066.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,9,data,,Sind,3,"Total population, 1901.","3,210,910",3210910.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,9,data,,Sind,4,Number of Persons per square mile.,68,68.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,10,data,,Aden,2,Area in square miles.,80,80.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,10,data,,Aden,3,"Total population, 1901.","43,974",43974.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,10,data,,Aden,4,Number of Persons per square mile.,549,549.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,11,data,,8. Burma,2,Area in square miles.,"236,738",236738.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,11,data,,8. Burma,3,"Total population, 1901.","10,489,924",10489924.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,11,data,,8. Burma,4,Number of Persons per square mile.,44,44.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,12,data,,9. Central Provinces,2,Area in square miles.,"86,614",86614.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,12,data,,9. Central Provinces,3,"Total population, 1901.","9,876,646",9876646.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,12,data,,9. Central Provinces,4,Number of Persons per square mile.,114,114.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,13,data,,10. Coorg,2,Area in square miles.,"1,582",1582.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,13,data,,10. Coorg,3,"Total population, 1901.","180,607",180607.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,13,data,,10. Coorg,4,Number of Persons per square mile.,114,114.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,14,data,,11. Madras,2,Area in square miles.,"141,726",141726.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,14,data,,11. Madras,3,"Total population, 1901.","38,209,436",38209436.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,14,data,,11. Madras,4,Number of Persons per square mile.,269,269.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,15,data,,12. North-West Frontier Province,2,Area in square miles.,"16,466",16466.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,15,data,,12. North-West Frontier Province,3,"Total population, 1901.","2,125,480",2125480.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,15,data,,12. North-West Frontier Province,4,Number of Persons per square mile.,129,129.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,16,data,,13. Punjab,2,Area in square miles.,"97,209",97209.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,16,data,,13. Punjab,3,"Total population, 1901.","20,330,339",20330339.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,16,data,,13. Punjab,4,Number of Persons per square mile.,209,209.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,17,data,,14. United Provinces of Agra and Oudh,2,Area in square miles.,"107,164",107164.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,17,data,,14. United Provinces of Agra and Oudh,3,"Total population, 1901.","47,691,782",47691782.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,17,data,,14. United Provinces of Agra and Oudh,4,Number of Persons per square mile.,445,445.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,18,data,,Agra,2,Area in square miles.,"83,198",83198.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,18,data,,Agra,3,"Total population, 1901.","34,858,705",34858705.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,18,data,,Agra,4,Number of Persons per square mile.,418,418.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,19,data,,Oudh,2,Area in square miles.,"23,966",23966.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,19,data,,Oudh,3,"Total population, 1901.","12,833,077",12833077.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,19,data,,Oudh,4,Number of Persons per square mile.,538,538.0,count,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,20,total,,Total for British India,2,Area in square miles.,"1,087,404",1087404.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,20,total,,Total for British India,3,"Total population, 1901.","231,898,807",231898807.0,,False,False
+brief-history-indian-peoples,tbl-001,Table 1,36,34,20,total,,Total for British India,4,Number of Persons per square mile.,213,213.0,count,False,False

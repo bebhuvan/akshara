@@ -1,0 +1,484 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+lays-of-ancient-india,tbl-001,Table 1,261,223,1,data,,Books I. to VI,2,In the Translation.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,1,data,,Books I. to VI,3,In the Original Poem.,Books I. to VI.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,1,data,,Books I. to VI,4,In the Original Poem.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,2,header,,Row 2,2,In the Translation.,ver.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,2,header,,Row 2,3,In the Original Poem.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,2,header,,Row 2,4,In the Original Poem.,ver.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,3,data,,Book VII,2,In the Translation.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,3,data,,Book VII,3,In the Original Poem.,Book VII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,3,data,,Book VII,4,In the Original Poem.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,4,data,,",,",2,In the Translation.,2,2.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,4,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,4,data,,",,",4,In the Original Poem.,2,2.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,5,data,,",,",2,In the Translation.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,5,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,5,data,,",,",4,In the Original Poem.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,6,data,,",,",2,In the Translation.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,6,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,6,data,,",,",4,In the Original Poem.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,7,data,,",,",2,In the Translation.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,7,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,7,data,,",,",4,In the Original Poem.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,8,data,,",,",2,In the Translation.,6,6.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,8,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,8,data,,",,",4,In the Original Poem.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,9,data,,",,",2,In the Translation.,7,7.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,9,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,9,data,,",,",4,In the Original Poem.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,10,data,,",,",2,In the Translation.,8,8.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,10,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,10,data,,",,",4,In the Original Poem.,28,28.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,11,data,,",,",2,In the Translation.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,11,data,,",,",3,In the Original Poem.,Book VIII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,11,data,,",,",4,In the Original Poem.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,12,data,,",,",2,In the Translation.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,12,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,12,data,,",,",4,In the Original Poem.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,13,data,,",,",2,In the Translation.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,13,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,13,data,,",,",4,In the Original Poem.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,14,data,,",,",2,In the Translation.,12,12.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,14,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,14,data,,",,",4,In the Original Poem.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,15,data,,",,",2,In the Translation.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,15,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,15,data,,",,",4,In the Original Poem.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,16,data,,",,",2,In the Translation.,14,14.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,16,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,16,data,,",,",4,In the Original Poem.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,17,data,,",,",2,In the Translation.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,17,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,17,data,,",,",4,In the Original Poem.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,18,data,,",,",2,In the Translation.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,18,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,18,data,,",,",4,In the Original Poem.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,19,data,,",,",2,In the Translation.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,19,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,19,data,,",,",4,In the Original Poem.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,20,data,,",,",2,In the Translation.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,20,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,20,data,,",,",4,In the Original Poem.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,21,data,,",,",2,In the Translation.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,21,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,21,data,,",,",4,In the Original Poem.,"23, 24",2324.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,22,data,,",,",2,In the Translation.,20,20.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,22,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,22,data,,",,",4,In the Original Poem.,"25, 26",2526.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,23,data,,",,",2,In the Translation.,21,21.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,23,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,23,data,,",,",4,In the Original Poem.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,24,data,,",,",2,In the Translation.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,24,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,24,data,,",,",4,In the Original Poem.,33,33.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,25,data,,",,",2,In the Translation.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,25,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,25,data,,",,",4,In the Original Poem.,"35, 36",3536.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,26,data,,",,",2,In the Translation.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,26,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,26,data,,",,",4,In the Original Poem.,"49, 51",4951.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,27,data,,",,",2,In the Translation.,25,25.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,27,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,27,data,,",,",4,In the Original Poem.,56,56.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,28,data,,",,",2,In the Translation.,26,26.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,28,data,,",,",3,In the Original Poem.,Book IX.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,28,data,,",,",4,In the Original Poem.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,29,data,,",,",2,In the Translation.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,29,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,29,data,,",,",4,In the Original Poem.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,30,data,,",,",2,In the Translation.,28,28.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,30,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,30,data,,",,",4,In the Original Poem.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,31,data,,",,",2,In the Translation.,29,29.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,31,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,31,data,,",,",4,In the Original Poem.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,32,data,,",,",2,In the Translation.,30,30.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,32,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,32,data,,",,",4,In the Original Poem.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,33,data,,",,",2,In the Translation.,31,31.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,33,data,,",,",3,In the Original Poem.,Book X.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,33,data,,",,",4,In the Original Poem.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,34,data,,",,",2,In the Translation.,32,32.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,34,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,34,data,,",,",4,In the Original Poem.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,35,data,,",,",2,In the Translation.,33,33.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,35,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,35,data,,",,",4,In the Original Poem.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,36,data,,",,",2,In the Translation.,34,34.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,36,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,36,data,,",,",4,In the Original Poem.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,37,data,,",,",2,In the Translation.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,37,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,37,data,,",,",4,In the Original Poem.,14,14.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,38,data,,",,",2,In the Translation.,36,36.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,38,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,38,data,,",,",4,In the Original Poem.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,39,data,,",,",2,In the Translation.,37,37.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,39,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,39,data,,",,",4,In the Original Poem.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,40,data,,",,",2,In the Translation.,38,38.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,40,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,40,data,,",,",4,In the Original Poem.,20,20.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,41,data,,",,",2,In the Translation.,39,39.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,41,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,41,data,,",,",4,In the Original Poem.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,42,data,,",,",2,In the Translation.,40,40.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,42,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,42,data,,",,",4,In the Original Poem.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,43,data,,",,",2,In the Translation.,41,41.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,43,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,43,data,,",,",4,In the Original Poem.,30,30.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,44,data,,",,",2,In the Translation.,42,42.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,44,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,44,data,,",,",4,In the Original Poem.,34,34.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,45,header,,In the Translation,2,In the Translation.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,45,header,,In the Translation,3,In the Original Poem.,In the Original Poem.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,45,header,,In the Translation,4,In the Original Poem.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,46,header,,Row 46,2,In the Translation.,ver.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,46,header,,Row 46,3,In the Original Poem.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,46,header,,Row 46,4,In the Original Poem.,ver.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,47,data,,Book VII,2,In the Translation.,43,43.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,47,data,,Book VII,3,In the Original Poem.,Book X.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,47,data,,Book VII,4,In the Original Poem.,39,39.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,48,data,,",,",2,In the Translation.,44,44.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,48,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,48,data,,",,",4,In the Original Poem.,43,43.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,49,data,,",,",2,In the Translation.,45,45.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,49,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,49,data,,",,",4,In the Original Poem.,44,44.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,50,data,,",,",2,In the Translation.,46,46.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,50,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,50,data,,",,",4,In the Original Poem.,45,45.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,51,data,,",,",2,In the Translation.,47,47.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,51,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,51,data,,",,",4,In the Original Poem.,46,46.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,52,data,,",,",2,In the Translation.,48,48.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,52,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,52,data,,",,",4,In the Original Poem.,48,48.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,53,data,,",,",2,In the Translation.,49,49.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,53,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,53,data,,",,",4,In the Original Poem.,53,53.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,54,data,,",,",2,In the Translation.,50,50.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,54,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,54,data,,",,",4,In the Original Poem.,54,54.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,55,data,,",,",2,In the Translation.,51,51.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,55,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,55,data,,",,",4,In the Original Poem.,62,62.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,56,data,,",,",2,In the Translation.,52,52.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,56,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,56,data,,",,",4,In the Original Poem.,63,63.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,57,data,,Book VIII,2,In the Translation.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,57,data,,Book VIII,3,In the Original Poem.,Book XI.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,57,data,,Book VIII,4,In the Original Poem.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,58,data,,Book IX,2,In the Translation.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,58,data,,Book IX,3,In the Original Poem.,Book XII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,58,data,,Book IX,4,In the Original Poem.,,,,True,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,59,data,,Book X,2,In the Translation.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,59,data,,Book X,3,In the Original Poem.,Book XIII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,59,data,,Book X,4,In the Original Poem.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,60,data,,",,",2,In the Translation.,2,2.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,60,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,60,data,,",,",4,In the Original Poem.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,61,data,,",,",2,In the Translation.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,61,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,61,data,,",,",4,In the Original Poem.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,62,data,,",,",2,In the Translation.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,62,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,62,data,,",,",4,In the Original Poem.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,63,data,,",,",2,In the Translation.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,63,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,63,data,,",,",4,In the Original Poem.,6,6.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,64,data,,",,",2,In the Translation.,6,6.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,64,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,64,data,,",,",4,In the Original Poem.,14,14.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,65,data,,",,",2,In the Translation.,7,7.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,65,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,65,data,,",,",4,In the Original Poem.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,66,data,,",,",2,In the Translation.,8,8.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,66,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,66,data,,",,",4,In the Original Poem.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,67,data,,",,",2,In the Translation.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,67,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,67,data,,",,",4,In the Original Poem.,20,20.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,68,data,,",,",2,In the Translation.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,68,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,68,data,,",,",4,In the Original Poem.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,69,data,,",,",2,In the Translation.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,69,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,69,data,,",,",4,In the Original Poem.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,70,data,,",,",2,In the Translation.,12,12.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,70,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,70,data,,",,",4,In the Original Poem.,31,31.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,71,data,,",,",2,In the Translation.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,71,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,71,data,,",,",4,In the Original Poem.,32,32.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,72,data,,",,",2,In the Translation.,14,14.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,72,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,72,data,,",,",4,In the Original Poem.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,73,data,,",,",2,In the Translation.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,73,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,73,data,,",,",4,In the Original Poem.,37,37.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,74,data,,",,",2,In the Translation.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,74,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,74,data,,",,",4,In the Original Poem.,41,41.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,75,data,,",,",2,In the Translation.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,75,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,75,data,,",,",4,In the Original Poem.,45,45.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,76,data,,",,",2,In the Translation.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,76,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,76,data,,",,",4,In the Original Poem.,46,46.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,77,data,,",,",2,In the Translation.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,77,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,77,data,,",,",4,In the Original Poem.,59,59.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,78,data,,",,",2,In the Translation.,20,20.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,78,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,78,data,,",,",4,In the Original Poem.,60,60.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,79,data,,",,",2,In the Translation.,21,21.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,79,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,79,data,,",,",4,In the Original Poem.,63,63.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,80,data,,",,",2,In the Translation.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,80,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,80,data,,",,",4,In the Original Poem.,66,66.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,81,data,,",,",2,In the Translation.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,81,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,81,data,,",,",4,In the Original Poem.,68,68.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,82,data,,",,",2,In the Translation.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,82,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,82,data,,",,",4,In the Original Poem.,"70, 71",7071.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,83,data,,",,",2,In the Translation.,25,25.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,83,data,,",,",3,In the Original Poem.,Book XIV.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,83,data,,",,",4,In the Original Poem.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,84,data,,",,",2,In the Translation.,26,26.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,84,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,84,data,,",,",4,In the Original Poem.,8,8.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,85,data,,",,",2,In the Translation.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,85,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,85,data,,",,",4,In the Original Poem.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,86,data,,",,",2,In the Translation.,28,28.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,86,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,86,data,,",,",4,In the Original Poem.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,87,data,,",,",2,In the Translation.,29,29.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,87,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,87,data,,",,",4,In the Original Poem.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,88,data,,",,",2,In the Translation.,30,30.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,88,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,88,data,,",,",4,In the Original Poem.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,89,data,,",,",2,In the Translation.,31,31.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,89,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,261,223,89,data,,",,",4,In the Original Poem.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,90,data,,Book X,2,In the Translation.,32,32.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,90,data,,Book X,3,In the Original Poem.,Book XIV.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,90,data,,Book X,4,In the Original Poem.,25,25.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,91,data,,",,",2,In the Translation.,33,33.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,91,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,91,data,,",,",4,In the Original Poem.,26,26.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,92,data,,",,",2,In the Translation.,34,34.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,92,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,92,data,,",,",4,In the Original Poem.,31,31.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,93,data,,",,",2,In the Translation.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,93,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,93,data,,",,",4,In the Original Poem.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,94,data,,",,",2,In the Translation.,36,36.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,94,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,94,data,,",,",4,In the Original Poem.,37,37.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,95,data,,",,",2,In the Translation.,37,37.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,95,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,95,data,,",,",4,In the Original Poem.,41,41.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,96,data,,",,",2,In the Translation.,38,38.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,96,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,96,data,,",,",4,In the Original Poem.,42,42.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,97,data,,Book XI,2,In the Translation.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,97,data,,Book XI,3,In the Original Poem.,Book XV.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,97,data,,Book XI,4,In the Original Poem.,33,33.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,98,data,,",,",2,In the Translation.,2,2.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,98,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,98,data,,",,",4,In the Original Poem.,34,34.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,99,data,,",,",2,In the Translation.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,99,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,99,data,,",,",4,In the Original Poem.,36,36.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,100,data,,",,",2,In the Translation.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,100,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,100,data,,",,",4,In the Original Poem.,43,43.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,101,data,,",,",2,In the Translation.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,101,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,101,data,,",,",4,In the Original Poem.,44,44.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,102,data,,",,",2,In the Translation.,6,6.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,102,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,102,data,,",,",4,In the Original Poem.,46,46.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,103,data,,",,",2,In the Translation.,7,7.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,103,data,,",,",3,In the Original Poem.,Book XVI.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,103,data,,",,",4,In the Original Poem.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,104,data,,",,",2,In the Translation.,8,8.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,104,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,104,data,,",,",4,In the Original Poem.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,105,data,,",,",2,In the Translation.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,105,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,105,data,,",,",4,In the Original Poem.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,106,data,,",,",2,In the Translation.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,106,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,106,data,,",,",4,In the Original Poem.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,107,data,,",,",2,In the Translation.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,107,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,107,data,,",,",4,In the Original Poem.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,108,data,,",,",2,In the Translation.,12,12.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,108,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,108,data,,",,",4,In the Original Poem.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,109,data,,",,",2,In the Translation.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,109,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,109,data,,",,",4,In the Original Poem.,25,25.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,110,data,,",,",2,In the Translation.,14,14.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,110,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,110,data,,",,",4,In the Original Poem.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,111,data,,",,",2,In the Translation.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,111,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,111,data,,",,",4,In the Original Poem.,32,32.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,112,data,,",,",2,In the Translation.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,112,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,112,data,,",,",4,In the Original Poem.,36,36.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,113,data,,",,",2,In the Translation.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,113,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,113,data,,",,",4,In the Original Poem.,37,37.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,114,data,,",,",2,In the Translation.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,114,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,114,data,,",,",4,In the Original Poem.,40,40.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,115,data,,",,",2,In the Translation.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,115,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,115,data,,",,",4,In the Original Poem.,42,42.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,116,data,,",,",2,In the Translation.,20,20.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,116,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,116,data,,",,",4,In the Original Poem.,49,49.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,117,data,,",,",2,In the Translation.,21,21.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,117,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,117,data,,",,",4,In the Original Poem.,51,51.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,118,data,,",,",2,In the Translation.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,118,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,118,data,,",,",4,In the Original Poem.,52,52.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,119,data,,",,",2,In the Translation.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,119,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,119,data,,",,",4,In the Original Poem.,54,54.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,120,data,,",,",2,In the Translation.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,120,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,120,data,,",,",4,In the Original Poem.,55,55.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,121,data,,",,",2,In the Translation.,25,25.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,121,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,121,data,,",,",4,In the Original Poem.,63,63.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,122,data,,",,",2,In the Translation.,26,26.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,122,data,,",,",3,In the Original Poem.,Book XVII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,122,data,,",,",4,In the Original Poem.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,123,data,,",,",2,In the Translation.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,123,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,123,data,,",,",4,In the Original Poem.,44,44.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,124,data,,",,",2,In the Translation.,28,28.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,124,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,124,data,,",,",4,In the Original Poem.,45,45.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,125,data,,",,",2,In the Translation.,29,29.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,125,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,125,data,,",,",4,In the Original Poem.,46,46.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,126,data,,Book XI,2,In the Translation.,30,30.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,126,data,,Book XI,3,In the Original Poem.,Book XVII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,126,data,,Book XI,4,In the Original Poem.,50,50.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,127,data,,",,",2,In the Translation.,31,31.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,127,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,127,data,,",,",4,In the Original Poem.,51,51.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,128,data,,",,",2,In the Translation.,32,32.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,128,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,128,data,,",,",4,In the Original Poem.,"52, 55",5255.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,129,data,,",,",2,In the Translation.,33,33.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,129,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,129,data,,",,",4,In the Original Poem.,56,56.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,130,data,,",,",2,In the Translation.,34,34.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,130,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,130,data,,",,",4,In the Original Poem.,58,58.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,131,data,,",,",2,In the Translation.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,131,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,131,data,,",,",4,In the Original Poem.,63,63.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,132,data,,",,",2,In the Translation.,36,36.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,132,data,,",,",3,In the Original Poem.,Book XVIII.,,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,132,data,,",,",4,In the Original Poem.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,133,data,,",,",2,In the Translation.,37,37.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,133,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,133,data,,",,",4,In the Original Poem.,2,2.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,134,data,,",,",2,In the Translation.,38,38.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,134,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,134,data,,",,",4,In the Original Poem.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,135,data,,",,",2,In the Translation.,39,39.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,135,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,135,data,,",,",4,In the Original Poem.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,136,data,,",,",2,In the Translation.,40,40.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,136,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,136,data,,",,",4,In the Original Poem.,"6, 7",67.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,137,data,,",,",2,In the Translation.,41,41.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,137,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,137,data,,",,",4,In the Original Poem.,8,8.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,138,data,,",,",2,In the Translation.,42,42.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,138,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,138,data,,",,",4,In the Original Poem.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,139,data,,",,",2,In the Translation.,43,43.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,139,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,139,data,,",,",4,In the Original Poem.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,140,data,,",,",2,In the Translation.,44,44.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,140,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,140,data,,",,",4,In the Original Poem.,12,12.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,141,data,,",,",2,In the Translation.,45,45.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,141,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,141,data,,",,",4,In the Original Poem.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,142,data,,Book XII,2,In the Translation.,1,1.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,142,data,,Book XII,3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,142,data,,Book XII,4,In the Original Poem.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,143,data,,",,",2,In the Translation.,2,2.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,143,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,143,data,,",,",4,In the Original Poem.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,144,data,,",,",2,In the Translation.,3,3.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,144,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,144,data,,",,",4,In the Original Poem.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,145,data,,",,",2,In the Translation.,4,4.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,145,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,145,data,,",,",4,In the Original Poem.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,146,data,,",,",2,In the Translation.,5,5.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,146,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,146,data,,",,",4,In the Original Poem.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,147,data,,",,",2,In the Translation.,6,6.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,147,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,147,data,,",,",4,In the Original Poem.,21,21.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,148,data,,",,",2,In the Translation.,7,7.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,148,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,148,data,,",,",4,In the Original Poem.,22,22.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,149,data,,",,",2,In the Translation.,8,8.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,149,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,149,data,,",,",4,In the Original Poem.,23,23.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,150,data,,",,",2,In the Translation.,9,9.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,150,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,150,data,,",,",4,In the Original Poem.,24,24.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,151,data,,",,",2,In the Translation.,10,10.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,151,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,151,data,,",,",4,In the Original Poem.,25,25.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,152,data,,",,",2,In the Translation.,11,11.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,152,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,152,data,,",,",4,In the Original Poem.,26,26.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,153,data,,",,",2,In the Translation.,12,12.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,153,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,153,data,,",,",4,In the Original Poem.,27,27.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,154,data,,",,",2,In the Translation.,13,13.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,154,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,154,data,,",,",4,In the Original Poem.,28,28.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,155,data,,",,",2,In the Translation.,14,14.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,155,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,155,data,,",,",4,In the Original Poem.,29,29.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,156,data,,",,",2,In the Translation.,15,15.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,156,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,156,data,,",,",4,In the Original Poem.,30,30.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,157,data,,",,",2,In the Translation.,16,16.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,157,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,157,data,,",,",4,In the Original Poem.,35,35.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,158,data,,",,",2,In the Translation.,17,17.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,158,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,158,data,,",,",4,In the Original Poem.,44,44.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,159,data,,",,",2,In the Translation.,18,18.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,159,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,159,data,,",,",4,In the Original Poem.,45,45.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,160,data,,",,",2,In the Translation.,19,19.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,160,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,160,data,,",,",4,In the Original Poem.,46,46.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,161,data,,",,",2,In the Translation.,20,20.0,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,161,data,,",,",3,In the Original Poem.,",,",,,False,False
+lays-of-ancient-india,tbl-001,Table 1,262,223,161,data,,",,",4,In the Original Poem.,48,48.0,,False,False

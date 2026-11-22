@@ -1,0 +1,43 @@
+book_id,table_id,caption,page_number,printed_folio,row_index,row_role,row_group,row_label,column_index,column_header,raw_text,value_numeric,unit,is_null_or_leader,arithmetic_verified
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,2,Column 2,or,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,3,Column 3,Jany.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,4,Column 4,has 30 days.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,5,Column 5,Caretadagam,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,6,Column 6,or,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,7,Column 7,July,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,1,data,,Magaram,8,Column 8,has 31 days.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,2,Column 2,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,3,Column 3,Feby.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,4,Column 4,— 30,-30.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,5,Column 5,Chingam,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,6,Column 6,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,7,Column 7,Aug.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,2,data,,Cumbam,8,Column 8,— 31,-31.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,2,Column 2,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,3,Column 3,March,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,4,Column 4,— 30,-30.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,5,Column 5,Cunnee,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,6,Column 6,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,7,Column 7,Sept.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,3,data,,Menum,8,Column 8,— 31,-31.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,2,Column 2,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,3,Column 3,April,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,4,Column 4,— 31,-31.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,5,Column 5,Toolam,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,6,Column 6,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,7,Column 7,Oct.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,4,data,,Madum,8,Column 8,— 29,-29.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,2,Column 2,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,3,Column 3,May,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,4,Column 4,— 31,-31.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,5,Column 5,Vrechecum,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,6,Column 6,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,7,Column 7,"Nov,",,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,5,data,,Eddavum,8,Column 8,— 30,-30.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,2,Column 2,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,3,Column 3,June,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,4,Column 4,— 32,-32.0,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,5,Column 5,Dhanoo,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,6,Column 6,,,,True,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,7,Column 7,Dec.,,,False,False
+letters-from-malabar,tbl-005,Table 5,158,150,6,data,,Methunum,8,Column 8,— 29,-29.0,,False,False

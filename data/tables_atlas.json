@@ -1,7 +1,151 @@
 {
   "version": "tables-atlas-site-v1",
-  "total_tables": 1308,
+  "total_tables": 1320,
   "tables": [
+    {
+      "book_id": "letters-from-malabar",
+      "book_title": "Letters from Malabar",
+      "authors": [
+        "Jacob Canter Visscher"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-001",
+      "caption": "Table 1",
+      "section_title": "Letter VI. The Dutch East India Company Settlement & Estates",
+      "start_page": 50,
+      "end_page": 51,
+      "printed_folio": "42",
+      "column_count": 2,
+      "row_count": 26,
+      "tidy_observation_count": 26,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "Acquired."
+      ],
+      "reader_url": "/books/letters-from-malabar/chapters/11-letter-vi-the-dutch-east-india-company-settlement-estates/#page-50",
+      "diplomatic_csv_url": "/downloads/letters-from-malabar/datasets/tables/tbl-001_p0050.csv",
+      "tidy_csv_url": "/downloads/letters-from-malabar/datasets/tidy/tbl-001_p0050.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/bub_gb_HMFw5dFAEK8C/page/n49/mode/1up"
+    },
+    {
+      "book_id": "letters-from-malabar",
+      "book_title": "Letters from Malabar",
+      "authors": [
+        "Jacob Canter Visscher"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-002",
+      "caption": "Table 2",
+      "section_title": "Letter XI. Revenues, Government & National Assemblies of Cochin",
+      "start_page": 81,
+      "end_page": 81,
+      "printed_folio": "73",
+      "column_count": 2,
+      "row_count": 6,
+      "tidy_observation_count": 6,
+      "arithmetic_verified": false,
+      "units": [
+        "%"
+      ],
+      "column_headers_preview": [
+        "Column 2"
+      ],
+      "reader_url": "/books/letters-from-malabar/chapters/16-letter-xi-revenues-government-national-assemblies-of-cochin/#page-81",
+      "diplomatic_csv_url": "/downloads/letters-from-malabar/datasets/tables/tbl-002_p0081.csv",
+      "tidy_csv_url": "/downloads/letters-from-malabar/datasets/tidy/tbl-002_p0081.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/bub_gb_HMFw5dFAEK8C/page/n80/mode/1up"
+    },
+    {
+      "book_id": "letters-from-malabar",
+      "book_title": "Letters from Malabar",
+      "authors": [
+        "Jacob Canter Visscher"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-003",
+      "caption": "Table 3",
+      "section_title": "Letter XX. The Nairs (Sudras), or Warrior Caste",
+      "start_page": 131,
+      "end_page": 131,
+      "printed_folio": "123",
+      "column_count": 2,
+      "row_count": 13,
+      "tidy_observation_count": 13,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "Column 2"
+      ],
+      "reader_url": "/books/letters-from-malabar/chapters/25-letter-xx-the-nairs-sudras-or-warrior-caste/#page-131",
+      "diplomatic_csv_url": "/downloads/letters-from-malabar/datasets/tables/tbl-003_p0131.csv",
+      "tidy_csv_url": "/downloads/letters-from-malabar/datasets/tidy/tbl-003_p0131.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/bub_gb_HMFw5dFAEK8C/page/n130/mode/1up"
+    },
+    {
+      "book_id": "letters-from-malabar",
+      "book_title": "Letters from Malabar",
+      "authors": [
+        "Jacob Canter Visscher"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-004",
+      "caption": "Table 4",
+      "section_title": "Letter XXII. The Tattares, Canarese & Jogis",
+      "start_page": 139,
+      "end_page": 139,
+      "printed_folio": "131",
+      "column_count": 4,
+      "row_count": 3,
+      "tidy_observation_count": 9,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "Column 2",
+        "Column 3",
+        "Column 4"
+      ],
+      "reader_url": "/books/letters-from-malabar/chapters/27-letter-xxii-the-tattares-canarese-jogis/#page-139",
+      "diplomatic_csv_url": "/downloads/letters-from-malabar/datasets/tables/tbl-004_p0139.csv",
+      "tidy_csv_url": "/downloads/letters-from-malabar/datasets/tidy/tbl-004_p0139.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/bub_gb_HMFw5dFAEK8C/page/n138/mode/1up"
+    },
+    {
+      "book_id": "letters-from-malabar",
+      "book_title": "Letters from Malabar",
+      "authors": [
+        "Jacob Canter Visscher"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-005",
+      "caption": "Table 5",
+      "section_title": "Letter XXV. Chronologies & Feast Days of the Malabars",
+      "start_page": 158,
+      "end_page": 158,
+      "printed_folio": "150",
+      "column_count": 8,
+      "row_count": 6,
+      "tidy_observation_count": 42,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "Column 2",
+        "Column 3",
+        "Column 4",
+        "Column 5",
+        "Column 6",
+        "Column 7"
+      ],
+      "reader_url": "/books/letters-from-malabar/chapters/30-letter-xxv-chronologies-feast-days-of-the-malabars/#page-158",
+      "diplomatic_csv_url": "/downloads/letters-from-malabar/datasets/tables/tbl-005_p0158.csv",
+      "tidy_csv_url": "/downloads/letters-from-malabar/datasets/tidy/tbl-005_p0158.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/bub_gb_HMFw5dFAEK8C/page/n157/mode/1up"
+    },
     {
       "book_id": "india-what-can-it-teach-us",
       "book_title": "India: What Can It Teach Us?",
@@ -59,6 +203,34 @@
       "ia_scan_url": "https://archive.org/details/indiawhatcanitte00mluoft/page/n314/mode/1up"
     },
     {
+      "book_id": "lays-of-ancient-india",
+      "book_title": "Lays of Ancient India",
+      "authors": [
+        "Romesh Chunder Dutt"
+      ],
+      "publication_year": 1894,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-001",
+      "caption": "Table 1",
+      "section_title": "Appendix to The Hunter and the Hero",
+      "start_page": 261,
+      "end_page": 262,
+      "printed_folio": "223",
+      "column_count": 4,
+      "row_count": 161,
+      "tidy_observation_count": 483,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "In the Translation.",
+        "In the Original Poem."
+      ],
+      "reader_url": "/books/lays-of-ancient-india/chapters/53-appendix-to-the-hunter-and-the-hero/#page-261",
+      "diplomatic_csv_url": "/downloads/lays-of-ancient-india/datasets/tables/tbl-001_p0261.csv",
+      "tidy_csv_url": "/downloads/lays-of-ancient-india/datasets/tidy/tbl-001_p0261.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/laysofancientind00dutt/page/n260/mode/1up"
+    },
+    {
       "book_id": "while-sewing-sandals",
       "book_title": "While Sewing Sandals",
       "authors": [
@@ -85,6 +257,187 @@
       "diplomatic_csv_url": "/downloads/while-sewing-sandals/datasets/tables/tbl-001_p0348.csv",
       "tidy_csv_url": "/downloads/while-sewing-sandals/datasets/tidy/tbl-001_p0348.tidy.csv",
       "ia_scan_url": "https://archive.org/details/whilesewingsanda00rausrich/page/n347/mode/1up"
+    },
+    {
+      "book_id": "brief-history-indian-peoples",
+      "book_title": "A Brief History of the Indian Peoples",
+      "authors": [
+        "Sir William Wilson Hunter"
+      ],
+      "publication_year": 1907,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-001",
+      "caption": "Table 1",
+      "section_title": "Chapter II. The People",
+      "start_page": 36,
+      "end_page": 36,
+      "printed_folio": "34",
+      "column_count": 4,
+      "row_count": 20,
+      "tidy_observation_count": 60,
+      "arithmetic_verified": false,
+      "units": [
+        "count"
+      ],
+      "column_headers_preview": [
+        "Area in square miles.",
+        "Total population, 1901.",
+        "Number of Persons per square mile."
+      ],
+      "reader_url": "/books/brief-history-indian-peoples/chapters/06-chapter-ii-the-people/#page-36",
+      "diplomatic_csv_url": "/downloads/brief-history-indian-peoples/datasets/tables/tbl-001_p0036.csv",
+      "tidy_csv_url": "/downloads/brief-history-indian-peoples/datasets/tidy/tbl-001_p0036.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/briefhistoryofin00hunt/page/n35/mode/1up"
+    },
+    {
+      "book_id": "brief-history-indian-peoples",
+      "book_title": "A Brief History of the Indian Peoples",
+      "authors": [
+        "Sir William Wilson Hunter"
+      ],
+      "publication_year": 1907,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-002",
+      "caption": "Feudatory India.",
+      "section_title": "Chapter II. The People",
+      "start_page": 37,
+      "end_page": 37,
+      "printed_folio": "35",
+      "column_count": 4,
+      "row_count": 14,
+      "tidy_observation_count": 42,
+      "arithmetic_verified": true,
+      "units": [
+        "count"
+      ],
+      "column_headers_preview": [
+        "Area in square miles.",
+        "Total population, 1901.",
+        "Number of Persons per square mile."
+      ],
+      "reader_url": "/books/brief-history-indian-peoples/chapters/06-chapter-ii-the-people/#page-37",
+      "diplomatic_csv_url": "/downloads/brief-history-indian-peoples/datasets/tables/tbl-002_p0037.csv",
+      "tidy_csv_url": "/downloads/brief-history-indian-peoples/datasets/tidy/tbl-002_p0037.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/briefhistoryofin00hunt/page/n36/mode/1up"
+    },
+    {
+      "book_id": "brief-history-indian-peoples",
+      "book_title": "A Brief History of the Indian Peoples",
+      "authors": [
+        "Sir William Wilson Hunter"
+      ],
+      "publication_year": 1907,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-003",
+      "caption": "All India, including Burma.",
+      "section_title": "Chapter II. The People",
+      "start_page": 37,
+      "end_page": 37,
+      "printed_folio": "35",
+      "column_count": 4,
+      "row_count": 5,
+      "tidy_observation_count": 15,
+      "arithmetic_verified": true,
+      "units": [
+        "count"
+      ],
+      "column_headers_preview": [
+        "Area in square miles.",
+        "Population.",
+        "Number of Persons per square mile."
+      ],
+      "reader_url": "/books/brief-history-indian-peoples/chapters/06-chapter-ii-the-people/#page-37",
+      "diplomatic_csv_url": "/downloads/brief-history-indian-peoples/datasets/tables/tbl-003_p0037.csv",
+      "tidy_csv_url": "/downloads/brief-history-indian-peoples/datasets/tidy/tbl-003_p0037.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/briefhistoryofin00hunt/page/n36/mode/1up"
+    },
+    {
+      "book_id": "rig-veda-vedic-religion",
+      "book_title": "The Rig-Veda and Vedic Religion",
+      "authors": [
+        "A. C. Clayton"
+      ],
+      "publication_year": 1913,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-001",
+      "caption": "Growth of the Vedic Literature up to 600 B.C.",
+      "section_title": "II. The Vedas of the Aryans",
+      "start_page": 60,
+      "end_page": 61,
+      "printed_folio": "48",
+      "column_count": 4,
+      "row_count": 8,
+      "tidy_observation_count": 24,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "Indian History",
+        "Religion",
+        "Literature"
+      ],
+      "reader_url": "/books/rig-veda-vedic-religion/chapters/05-ii-the-vedas-of-the-aryans/#page-60",
+      "diplomatic_csv_url": "/downloads/rig-veda-vedic-religion/datasets/tables/tbl-001_p0060.csv",
+      "tidy_csv_url": "/downloads/rig-veda-vedic-religion/datasets/tidy/tbl-001_p0060.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/rigvedavedicreli00clayiala/page/n59/mode/1up"
+    },
+    {
+      "book_id": "rig-veda-vedic-religion",
+      "book_title": "The Rig-Veda and Vedic Religion",
+      "authors": [
+        "A. C. Clayton"
+      ],
+      "publication_year": 1913,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-002",
+      "caption": "Table 2",
+      "section_title": "Appendix IV. The Contents of the Rig-Veda",
+      "start_page": 278,
+      "end_page": 279,
+      "printed_folio": "266",
+      "column_count": 6,
+      "row_count": 11,
+      "tidy_observation_count": 55,
+      "arithmetic_verified": true,
+      "units": [],
+      "column_headers_preview": [
+        "Sub-sections (Anuv\u0101kas)",
+        "Hymns (S\u016bktas)",
+        "Column 4",
+        "Column 5",
+        "Column 6"
+      ],
+      "reader_url": "/books/rig-veda-vedic-religion/chapters/15-appendix-iv-the-contents-of-the-rig-veda/#page-278",
+      "diplomatic_csv_url": "/downloads/rig-veda-vedic-religion/datasets/tables/tbl-002_p0278.csv",
+      "tidy_csv_url": "/downloads/rig-veda-vedic-religion/datasets/tidy/tbl-002_p0278.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/rigvedavedicreli00clayiala/page/n277/mode/1up"
+    },
+    {
+      "book_id": "rig-veda-vedic-religion",
+      "book_title": "The Rig-Veda and Vedic Religion",
+      "authors": [
+        "A. C. Clayton"
+      ],
+      "publication_year": 1913,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-003",
+      "caption": "Rig-veda, Quotations from Book i",
+      "section_title": "Index",
+      "start_page": 298,
+      "end_page": 301,
+      "printed_folio": "286",
+      "column_count": 3,
+      "row_count": 198,
+      "tidy_observation_count": 378,
+      "arithmetic_verified": false,
+      "units": [],
+      "column_headers_preview": [
+        "Verses",
+        "Pages"
+      ],
+      "reader_url": "/books/rig-veda-vedic-religion/chapters/20-index/#page-298",
+      "diplomatic_csv_url": "/downloads/rig-veda-vedic-religion/datasets/tables/tbl-003_p0298.csv",
+      "tidy_csv_url": "/downloads/rig-veda-vedic-religion/datasets/tidy/tbl-003_p0298.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/rigvedavedicreli00clayiala/page/n297/mode/1up"
     },
     {
       "book_id": "modern-religious-movements-india",
