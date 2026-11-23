@@ -3,7 +3,11 @@ Used by the chapter page and by the whole book on one page, so the two always re
 {{- /* The printed heading at the top of the chapter repeats the title we set above it, so it is taken out;
 the page marker before it stays. The apparatus is headed plainly "Notes". */ -}}
 {{- $text := .Content -}}
-{{- $text = replaceRE `^(\s*(?:<p>)?\s*(?:<div class="page-rail-marker"[^>]*>[\s\S]*?</div>|<span[^>]*sec-page-anchor[^>]*></span>)?)\s*(?:<h2 class="sec-h1">[\s\S]*?</h2>\s*){1,3}(?:<h3 class="sec-h2">[\s\S]*?</h3>)?` "$1" $text 1 -}}
+{{- $leadHeadRe := `^(\s*(?:<p>)?\s*(?:<div class="page-rail-marker"[^>]*>[\s\S]*?</div>|<span[^>]*sec-page-anchor[^>]*></span>)?)\s*((?:<h2 class="sec-h1">[\s\S]*?</h2>\s*){1,3}(?:<h3 class="sec-h2">[\s\S]*?</h3>)?)` -}}
+{{- $leadMatch := findRESubmatch $leadHeadRe $text 1 -}}
+{{- if and $leadMatch (not (strings.Contains (index (index $leadMatch 0) 2) `class="fn-ref"`)) -}}
+  {{- $text = replaceRE $leadHeadRe "$1" $text 1 -}}
+{{- end -}}
 {{- $text = replace $text "Critical Apparatus &amp; Notes" "Notes" -}}
 {{- /* a shoulder note that begins by repeating the chapter's number ("CHAPTER I. Vicinity of Madras.") keeps only
 its own words; the book's headings printed in capitals are marked to be set in small capitals */ -}}

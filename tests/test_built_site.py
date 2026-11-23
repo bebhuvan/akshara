@@ -221,3 +221,22 @@ class ReadingType(unittest.TestCase):
     def test_small_capitals_given_in_capitals_are_set_wholly_small(self):
         chapter = next((PUBLIC / "books/palas-of-bengal/chapters").glob("03-*/index.html")).read_text(encoding="utf-8")
         self.assertRegex(chapter, r'class="?sc sc-caps"?>A\. ?D\.')
+
+    @unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+    def test_heading_footnote_backlinks_resolve_everywhere(self):
+        for page in list((PUBLIC / "books").glob("*/chapters/*/index.html")) + list((PUBLIC / "books").glob("*/whole/index.html")):
+            html_txt = page.read_text(encoding="utf-8")
+            refs = re.findall(r'href="?#((?:c\d+-)?ref-sec-[^"\s>]+)', html_txt)
+            if refs:
+                ids = set(re.findall(r"\sid" + ATTR, html_txt))
+                missing = [r for r in refs if r not in ids]
+                self.assertEqual(missing, [], page)
+
+    @unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+    def test_chapter_titles_never_start_with_stray_comma(self):
+        for bid in ("comprehensive-history-india-v1", "comprehensive-history-india-v2"):
+            for page in (PUBLIC / "books" / bid / "chapters").glob("*/index.html"):
+                html_txt = page.read_text(encoding="utf-8")
+                self.assertNotRegex(html_txt, r"<h1\b[^>]*>\s*,")
+                self.assertNotRegex(html_txt, r"<title>[^<]*:\s*,")
+
