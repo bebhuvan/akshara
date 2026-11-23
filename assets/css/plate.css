@@ -631,6 +631,11 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .bk-text .scope i { color: var(--ink-2); }
 .bk-actions { display: grid; gap: 12px; margin-top: 20px; }
 .bk-actions .cta { max-width: 420px; }
+/* Read it whole: the second way in, drawn in the book's ink on the paper rather than as a block of it */
+.bk-actions .whole-in { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; max-width: 420px; min-height: 50px; padding: 13px 20px;
+  border: 1px solid color-mix(in srgb, var(--k) 55%, transparent); color: var(--k); font-size: var(--fs-body); line-height: 1.2; transition: background-color .2s; }
+.bk-actions .whole-in span:last-child { font-size: var(--fs-aside); color: var(--ink-2); text-align: right; }
+.bk-actions .whole-in:hover { background: color-mix(in srgb, var(--k) 8%, transparent); }
 .bk-actions .dl { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
 .bk-actions .dl a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .bk-actions .dl a:last-child { color: var(--ink-2); white-space: nowrap; }
@@ -873,6 +878,23 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .chap-ways a { display: inline-flex; align-items: center; gap: 6px; min-height: 44px; }
 .chap-ways a:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
 
+/* The whole book on one page (D37): the book's opener, its contents as on the book's page, then every chapter in
+the text column, each under a smaller opener of its own. A chapter off screen is not laid out until it is near. */
+.wh-toc { box-sizing: content-box; max-width: 30em; margin: 34px auto 0; padding: 0 var(--gut-r) 0 var(--gut); }
+.wh-toc h2 { font-size: var(--fs-h3); padding-bottom: 10px; margin-bottom: 8px; border-bottom: 1px solid var(--hair); }
+.wh-ch { content-visibility: auto; }
+.wh-ch + .wh-ch { margin-top: 3.4em; }
+.wh-op { margin: 0 0 1.6em; padding-top: 2.4em; text-align: center; text-indent: 0; }
+.wh-op::before { content: ""; display: block; width: 40px; height: 1px; margin: 0 auto 2.2em; background: color-mix(in srgb, var(--k) 50%, transparent); }
+.wh-ch:first-child .wh-op::before { display: none; }
+.wh-op .ch { font-family: var(--serif); font-size: var(--fs-lede); color: var(--k); }
+.wh-op h2 { margin-top: 4px; font-size: 1.45em; line-height: 1.15; letter-spacing: -0.01em; text-wrap: balance; }
+.wh-op .meta { margin-top: 10px; font-family: var(--serif); font-size: var(--fs-note); color: var(--ink-3); }
+.wh-op .meta a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.wh-op .meta a:hover { color: var(--k); }
+/* a link into a chapter, or to one of its pages, stands clear of the reading bar */
+.wh-ch, .wh-ch [id] { scroll-margin-top: 72px; }
+
 /* The panel: settings and contents, sliding in from the right. Choices are words, A's and small sheets of
    paper; the chosen one in full ink with a short rule beneath in the book's ink. */
 .rpanel { position: fixed; top: 0; right: 0; bottom: 0; z-index: 40; width: min(23rem, 92vw); display: flex; flex-direction: column;
@@ -936,6 +958,8 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .rpanel #rtoc a:hover, .rpanel #rtoc a[aria-current] { color: var(--k); }
 .rpanel #rtoc .rn { color: var(--k); }
 .rpanel #rtoc .pg { color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.rp-whole { margin-top: 18px; font-size: var(--fs-aside); }
+.rp-whole a { color: var(--k); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .rp-scrim { position: fixed; inset: 0; z-index: 39; background: rgba(var(--shadow), .1); }
 /* The scan leaf: the camera's photograph of the page, beside the text. */
 .leaf { position: fixed; top: 0; right: 0; bottom: 0; z-index: 30; width: min(28rem, 100vw); background: var(--paper); border-left: 1px solid var(--hair);
@@ -1020,7 +1044,7 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
   a { text-decoration: none; }
   .opener { padding-top: 0; }
   .op-plate { max-width: 60mm; }
-  .row .shelf, .sh, .pl-group, .feature, .made, .strip, .smalls, #chapter-text .archival-plate { content-visibility: visible; }
+  .row .shelf, .sh, .pl-group, .feature, .made, .strip, .smalls, #chapter-text .archival-plate, .wh-ch { content-visibility: visible; }
 }
 /* headings that are links get room to tap without changing how they sit */
 .row-h h2 a, .jl h2 a, .auth h2 a { display: inline-block; padding: 11px 0; margin: -11px 0; }

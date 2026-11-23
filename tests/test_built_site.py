@@ -147,6 +147,45 @@ class JournalEssay(unittest.TestCase):
         self.assertNotRegex(self.html, r"</figure>\s*<hr")
 
 
+ATTR = r'="?([^"\s>]+)'
+
+
+@unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+class WholeBook(unittest.TestCase):
+    """The whole book on one page (D37), made from the chapter pages."""
+
+    def pages(self):
+        return sorted((PUBLIC / "books").glob("*/whole/index.html"))
+
+    def test_every_book_with_chapters_has_one(self):
+        books = {d.name for d in (ROOT / "content/books").iterdir()
+                 if d.is_dir() and any(f.name != "_index.md" for f in d.rglob("*.md"))}
+        self.assertEqual({p.parent.parent.name for p in self.pages()}, books)
+
+    def test_ids_from_different_chapters_never_collide(self):
+        for page in self.pages():
+            ids = re.findall(r"\sid" + ATTR, page.read_text(encoding="utf-8"))
+            dup = sorted(k for k, v in Counter(ids).items() if v > 1)
+            self.assertEqual(dup, [], page)
+
+    def test_contents_and_links_between_chapters_stay_on_the_page(self):
+        page = (PUBLIC / "books/palas-of-bengal/whole/index.html").read_text(encoding="utf-8")
+        ids = set(re.findall(r"\sid" + ATTR, page))
+        for n in range(1, 13):
+            self.assertIn(f"c{n}", ids)
+        self.assertNotRegex(page, r'href="?/books/palas-of-bengal/chapters/[^"\s>]*#')
+        notes = re.findall(r'href="?#(c\d+-sec-[^"\s>]+)', page)
+        self.assertTrue(notes)
+        self.assertEqual([n for n in notes if n not in ids], [])
+
+    def test_it_is_not_indexed_for_search_twice(self):
+        for page in self.pages():
+            self.assertNotIn("data-pagefind-body", page.read_text(encoding="utf-8"), page)
+
+    def test_the_book_page_offers_it(self):
+        book = (PUBLIC / "books/palas-of-bengal/index.html").read_text(encoding="utf-8")
+        self.assertRegex(book, r'href="?/books/palas-of-bengal/whole/"?[^>]*><span>Read it whole')
+
 
 class ReadingType(unittest.TestCase):
     """A face a reader has not chosen is never fetched: Clear and Plain are named only under [data-type] (D36)."""

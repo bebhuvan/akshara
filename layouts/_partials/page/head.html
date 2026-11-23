@@ -3,8 +3,10 @@
 {{- $title := cond .IsHome site.Title (printf "%s · %s" (.Title | plainify) site.Title) }}
 {{- if and .IsPage (eq .Type "chapters") }}{{ $cn := partial "chapter/name.html" . }}{{ $bk := .Parent }}{{ if eq $bk.Title "Chapters" }}{{ $bk = $bk.Parent }}{{ end }}{{ $br := partialCached "book/record.html" $bk $bk.RelPermalink }}
 {{- $title = printf "%s%s · %s · %s" (cond (ne $cn.num "") (printf "%s %s: " $cn.label $cn.num) "") ($cn.title | plainify) $br.cover_title site.Title }}{{ end }}
+{{- if and .IsPage (eq .Type "whole") }}{{ $br := partialCached "book/record.html" .Parent .Parent.RelPermalink }}{{ $title = printf "%s, the whole book on one page · %s" $br.cover_title site.Title }}{{ end }}
 <title>{{ $title }}</title>
 {{- $desc := .Params.description | default .Summary | default site.Params.description | plainify | truncate 200 }}
+{{- if and .IsPage (eq .Type "whole") }}{{ $br := partialCached "book/record.html" .Parent .Parent.RelPermalink }}{{ $desc = printf "Every chapter of %s, by %s (%v), on one page, free to read." $br.cover_title $br.author $br.year }}{{ end }}
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
 <link rel="license" href="{{ site.Params.license_url }}">
@@ -15,7 +17,7 @@
 <meta property="og:type" content="{{ cond .IsPage "article" "website" }}">
 {{- /* the social preview: a book's own card on its page and its chapters, the site's card elsewhere */}}
 {{- $card := "" }}{{ $cardAlt := "Akshara: making India’s forgotten books readable again." }}
-{{- $bk := cond (and .IsPage (eq .Type "chapters")) .Parent . }}{{ if and $bk (eq $bk.Title "Chapters") }}{{ $bk = $bk.Parent }}{{ end }}
+{{- $bk := cond (and .IsPage (in (slice "chapters" "whole") .Type)) .Parent . }}{{ if and $bk (eq $bk.Title "Chapters") }}{{ $bk = $bk.Parent }}{{ end }}
 {{- if and $bk (eq $bk.Type "books") (eq $bk.Kind "section") (ne $bk.RelPermalink "/books/") }}
   {{- $br := partialCached "book/record.html" $bk $bk.RelPermalink }}
   {{- $card = partialCached "book/social.html" $br $br.id }}{{ $cardAlt = printf "The cover of %s, %s, %s, Akshara No. %d" $br.cover_title $br.author $br.year $br.no }}

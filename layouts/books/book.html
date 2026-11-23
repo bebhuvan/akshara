@@ -57,13 +57,17 @@ shown as two plain lines, in the record's own capitals. */ -}}
     {{- if or $scope $subjects }}<p class="about scope">{{ with $scope }}<span>{{ . }}</span>{{ end }}{{ with $subjects }}<i>{{ . }}</i>{{ end }}</p>{{ end }}
     <div class="bk-actions">
       <a class="cta" href="{{ $first.RelPermalink }}"><span>Begin reading</span><span>{{ with $firstName.num }}{{ $firstName.label }} {{ . }}{{ else }}{{ $firstName.title | truncate 34 }}{{ end }}</span></a>
+      {{- /* the whole book on this site, on one page (D37); the one-page file below is the copy to keep */}}
+      {{- with site.GetPage (printf "%swhole" .RelPermalink) }}
+      <a class="whole-in" href="{{ .RelPermalink }}"><span>Read it whole</span><span>every chapter on one page</span></a>
+      {{- end }}
       {{- /* the downloads as one sentence; each address is escaped by the template, never marked safe */}}
       {{- $forms := slice }}
       {{- with $p.download_epub }}{{ $forms = $forms | append (dict "url" . "name" "EPUB" "dl" true) }}{{ end }}
       {{- with $p.download_pdf }}{{ $forms = $forms | append (dict "url" . "name" "PDF") }}{{ end }}
-      {{- with $p.download_html }}{{ $forms = $forms | append (dict "url" . "name" "one page") }}{{ end }}
+      {{- with $p.download_html }}{{ $forms = $forms | append (dict "url" . "name" "a single web page" "dl" true) }}{{ end }}
       {{- if $forms }}{{ $last := sub (len $forms) 1 }}
-      <p class="dl">Or take it away as {{ range $i, $f := $forms }}{{ if and $i (lt $i $last) }}, {{ else if and $i (eq $i $last) }} or {{ end }}<a href="{{ $f.url }}"{{ if $f.dl }} download{{ end }}>{{ $f.name }}</a>{{ end }}. <a href="#h-edition">All the forms</a></p>
+      <p class="dl">Or take it away as {{ range $i, $f := $forms }}{{ if and $i (lt $i $last) }}, {{ else if and $i (eq $i $last) }} or {{ end }}<a href="{{ $f.url }}"{{ if $f.dl }} download{{ end }}>{{ $f.name }}</a>{{ end }}{{ if $p.download_html }} to save and read offline{{ end }}. <a href="#h-edition">All the forms</a></p>
       {{- else }}{{ with $p.download_url }}
       <p class="dl">Or take away <a href="{{ . }}">the files of this edition</a>.</p>
       {{- end }}{{ end }}
@@ -164,7 +168,7 @@ shown as two plain lines, in the record's own capitals. */ -}}
           {{- $read := slice }}{{ $study := slice }}
           {{- with $p.download_epub }}{{ $read = $read | append (dict "url" . "name" "EPUB" "what" "for e-readers and phones" "dl" true) }}{{ end }}
           {{- with $p.download_pdf }}{{ $read = $read | append (dict "url" . "name" "Print PDF" "what" "set for paper") }}{{ end }}
-          {{- with $p.download_html }}{{ $read = $read | append (dict "url" . "name" "One page" "what" "the whole book as one web page") }}{{ end }}
+          {{- with $p.download_html }}{{ $read = $read | append (dict "url" . "name" "One page" "what" "the whole book as a single web page you can save and read offline" "dl" true) }}{{ end }}
           {{- with $p.download_source_pdf }}{{ $study = $study | append (dict "url" . "name" "The scan" "what" "the photographs of the copy, as a PDF") }}{{ end }}
           {{- with $p.download_datasets }}{{ $study = $study | append (dict "url" . "name" "Tables" "what" (printf "all %v, as CSV, with a data package" ($p.tables_count | default (len $p.tables_list)))) }}{{ end }}
           {{- with $p.download_md }}{{ $study = $study | append (dict "url" . "name" "Markdown" "what" "plain text" "dl" true) }}{{ end }}
