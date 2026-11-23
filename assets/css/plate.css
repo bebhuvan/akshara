@@ -692,6 +692,26 @@ table.ledger .n { text-align: right; }
 .tbl-dl a::after { content: "\00A0\2193"; }
 /* This edition: how far it has been checked; then two matching columns, the forms it comes in and its record;
    then the editor's note. Each part is named by a small italic head over the same hairline. */
+/* The original (D38): the copy in the Internet Archive's reader, loaded only on request, beside its identifiers. */
+.orig { display: grid; gap: 28px; }
+.orig-view { display: grid; align-content: start; gap: 10px; }
+.orig-open { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 120px; padding: 22px 24px;
+  background: color-mix(in srgb, var(--g) 70%, var(--paper)); font-size: clamp(20px, 5vw, 26px); font-weight: 300; line-height: 1.2; letter-spacing: -0.01em; }
+.orig-open .arrow { color: var(--k); font-size: 24px; transition: transform .2s; }
+.orig-open:hover { color: var(--k); }
+.orig-open:hover .arrow { transform: translateX(4px); }
+.orig-note { font-size: var(--fs-note); line-height: 1.5; color: var(--ink-3); max-width: 36em; }
+/* the reader itself: tall on a phone, where a page is read one at a time; a two-page spread on a wide screen */
+.orig-frame { display: block; width: 100%; aspect-ratio: 3 / 4; max-height: 82vh; border: 0; background: var(--well); box-shadow: 0 0 0 1px var(--hair); }
+.orig-facts { display: grid; gap: 14px; align-content: start; margin: 0; font-size: var(--fs-ui); line-height: 1.45; }
+.orig-facts dt { font-size: var(--fs-note); color: var(--ink-2); }
+.orig-facts dd { margin: 2px 0 0; color: var(--ink); }
+.orig-facts code { font: inherit; font-size: var(--fs-note); font-variant-numeric: tabular-nums; letter-spacing: .02em; word-break: break-all; color: var(--ink-2); }
+.orig-thanks { margin-top: 22px; max-width: 40em; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); text-wrap: pretty; }
+@media (min-width: 760px) {
+  .orig { grid-template-columns: minmax(0, 2.2fr) minmax(0, 1fr); gap: 48px; }
+  .orig-frame { aspect-ratio: 16 / 10; }
+}
 .edition { display: grid; grid-template-columns: minmax(0, 1fr); gap: 36px; }
 .ed-cols { display: grid; gap: 36px; }
 /* To read elsewhere, for study: typeset lists, each form's name led by dots to what it is for, like the contents. */

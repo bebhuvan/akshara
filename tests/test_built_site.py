@@ -187,6 +187,25 @@ class WholeBook(unittest.TestCase):
         self.assertRegex(book, r'href="?/books/palas-of-bengal/whole/"?[^>]*><span>Read it whole')
 
 
+@unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+class TheOriginal(unittest.TestCase):
+    """The Internet Archive's reader on a book's page, loaded only when asked (D38)."""
+
+    def setUp(self):
+        self.html = (PUBLIC / "books/palas-of-bengal/index.html").read_text(encoding="utf-8")
+
+    def test_nothing_is_fetched_from_archive_org_until_asked(self):
+        self.assertNotIn("<iframe", self.html)
+        self.assertRegex(self.html, r'href="?https://archive.org/details/cu31924096224476"?[^>]*data-ia=')
+
+    def test_the_identifiers_are_the_records_own(self):
+        self.assertIn("1f1fb550222e61521e2de3820b498d44dbf6d94bc234071682e0e2e36736f225", self.html)
+        self.assertIn("126, 105 of them with text", self.html)
+
+    def test_the_one_page_file_says_what_it_is(self):
+        self.assertIn("a single web page you can save and read offline", self.html)
+
+
 class ReadingType(unittest.TestCase):
     """A face a reader has not chosen is never fetched: Clear and Plain are named only under [data-type] (D36)."""
 

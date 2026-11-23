@@ -465,7 +465,32 @@
     }, 6500);
   }
 
+  /* the original: the Internet Archive's book reader, put in only when the reader asks, so archive.org is not
+     contacted by a visit to the page; without the script the link opens the copy at archive.org */
+  function original() {
+    var open = $("[data-ia]");
+    if (!open) return;
+    open.addEventListener("click", function (e) {
+      var id = open.dataset.ia;
+      if (!/^[A-Za-z0-9._-]+$/.test(id)) return;
+      e.preventDefault();
+      var frame = document.createElement("iframe");
+      frame.className = "orig-frame";
+      frame.src = "https://archive.org/embed/" + encodeURIComponent(id);
+      frame.title = open.dataset.iaTitle || "The original, in the Internet Archive’s book reader";
+      frame.loading = "lazy";
+      frame.allowFullscreen = true;
+      frame.setAttribute("allow", "fullscreen");
+      var note = $(".orig-note"), away = document.createElement("a");
+      away.className = "ln"; away.href = open.href; away.textContent = "Open it at the Internet Archive";
+      note.replaceChildren("Drag or use the arrows to turn the pages; the reader is the Internet Archive’s own. ", away, ".");
+      open.replaceWith(frame);
+      frame.focus();
+    });
+  }
+
   turning();
+  original();
   library();
   reading();
   search();
