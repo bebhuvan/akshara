@@ -771,7 +771,13 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text .archival-plate { margin: 2em 0 2.2em; clear: both; text-indent: 0; }
 #chapter-text .archival-plate img { display: block; width: 100%; mix-blend-mode: multiply; filter: brightness(1.06) contrast(1.1); }
 #chapter-text .archival-plate figcaption { margin-top: .8em; font-size: var(--fs-note); line-height: 1.4; color: var(--ink-2); text-align: center; }
-#chapter-text .verse-stanza { margin: 1.2em 0 1.4em 2em; line-height: 1.55; text-indent: 0; }
+#chapter-text .verse-stanza { margin: 1.2em 0 1.4em 2em; line-height: 1.55; text-indent: 0; hyphens: none; }
+/* Each printed line is its own line; one that wraps hangs, so a reader can tell it from the next.
+   The <br> between lines is for readers with no stylesheet, so it is hidden here (D34). */
+#chapter-text .verse-stanza br { display: none; }
+#chapter-text .verse-stanza .line { display: block; padding-left: 1.5em; text-indent: -1.5em; }
+#chapter-text .verse-stanza .stanza-no { display: block; margin-bottom: .35em; font-size: var(--fs-note); font-variant-numeric: oldstyle-nums; letter-spacing: .04em; color: var(--ink-3); }
+#chapter-text .verse-stanza .folio-trigger, #chapter-text .verse-stanza .folio-turn { text-indent: 0; }
 #chapter-text .epigraph-block { margin: 1.4em 0 1.6em 2em; font-size: .92em; font-style: italic; color: var(--ink-2); text-indent: 0; }
 #chapter-text .unclear { text-decoration: underline dotted color-mix(in srgb, var(--k) 50%, transparent); text-underline-offset: .22em; cursor: help; }
 #chapter-text .index-entry { padding-left: 1.6em; text-indent: -1.6em !important; margin: 0 !important; font-size: .9em; line-height: 1.45; }

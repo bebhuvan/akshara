@@ -448,3 +448,17 @@ somewhere to land, using only the site's own means (its ink, its type, its cover
 pick the wrong book or none, silently. Pull quotes written into the essay's text: they would be read twice by a
 screen reader and the essay's words would live in two places.
 
+
+## D34: Verse is set line by line, with stanza numbers as labels (2026-11-23)
+
+**Decision.** The pipeline's reading layer (`akshara_new` D50) now sends verse as one `<span class="line">` per
+printed line and the printed stanza number as `<span class="stanza-no">` inside the stanza, no longer as a heading;
+a stanza the printed page cut in two arrives whole, with its page mark inside it. The chapter stylesheet sets each
+line on its own, hangs a wrapped line by 1.5em so it reads as the same line, shows the stanza number small in the
+third ink, and hides the `<br>` that keeps lines apart for readers without a stylesheet.
+
+**Why.** On a phone, long lines of verse wrapped back to the margin and looked like new lines; stanza numbers were
+headings, so a screen reader's outline of a poem was forty headings called "1.", "2.", "3.".
+
+**Rejected.** Keeping `<br>` alone (no way to hang a wrapped line); drawing stanza numbers in the margin (they
+collide with the page numbers that already live there on narrow screens).
