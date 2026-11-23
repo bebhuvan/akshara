@@ -555,3 +555,22 @@ edition was read from that exact file.
 
 **Rejected.** The frame on page load (privacy, and a heavy reader on every book page). `frame-src https://*.archive.org`
 or `https:` (broader than needed). Contributing library, scan date or resolution: not in the records, so not shown.
+
+## D39: The EPUB and PDF covers are the site's own covers, exported (2026-11-23)
+
+**Decision.** `scripts/export_covers.py` builds the site in Hugo's `covers` environment, where
+`content/books/_content.gotmpl` adds a cover sheet for each book (`/books/<id>/cover-sheet/`, drawn by
+`layouts/cover-sheet/page.html` from the same `book/cover.html` partial every shelf uses), photographs each at
+1600 × 2400 with headless Chromium from a private local server, reduces it to a 96-colour palette, writes
+`covers-export/<id>.png` (not committed) and, with `--pipeline`, copies it to `akshara_new/books/<id>/cover.png`,
+which the pipeline uses as the EPUB cover and the PDF's first page (pipeline D51). The cover sheets never exist in
+the site's normal build.
+
+**Why.** The files carried a second, older cover design (dark slabs with invented bar charts); Bhuvanesh wanted
+"absolutely beautiful covers in line with the site design". One design, drawn once, cannot drift.
+
+**Rejected.** Redrawing the cover in the pipeline (a second copy of the design); shipping the cover sheets on the
+site (no reader needs them).
+
+**Open.** Picture covers show no author's name, as on the site; e-book covers usually do. The italic year line
+touches the picture on two *English Factories* volumes (1637–1641, 1651–1654), on the site as well.

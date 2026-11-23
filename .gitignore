@@ -35,3 +35,4 @@ npm-debug.log*
 
 # Python
 __pycache__/
+covers-export/

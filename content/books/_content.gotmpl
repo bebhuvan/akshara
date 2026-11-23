@@ -10,3 +10,8 @@ of pages (build.list "never"), so the book's contents, its first chapter and the
 {{- $.AddPage (dict "path" (printf "%s/whole" $id) "title" "Read it whole" "kind" "page" "type" "whole" "params" (dict "book_id" $id) "build" (dict "list" "never" "render" "always" "publishResources" true)) }}
 {{- end }}
 {{- end }}{{ end }}
+{{- /* Cover sheets (D39): only in the "covers" build that scripts/export_covers.py runs, never on the site. Each is
+the book's own cover, alone, filling the page, so the EPUB and PDF covers are drawn by the one cover design. */ -}}
+{{- if eq hugo.Environment "covers" }}{{ range os.ReadDir "content/books" }}{{ if and .IsDir (fileExists (printf "content/books/%s/_index.md" .Name)) }}
+{{- $.AddPage (dict "path" (printf "%s/cover-sheet" .Name) "title" "Cover" "kind" "page" "type" "cover-sheet" "params" (dict "book_id" .Name) "build" (dict "list" "never" "render" "always")) }}
+{{- end }}{{ end }}{{ end }}
