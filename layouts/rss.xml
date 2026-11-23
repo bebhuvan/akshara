@@ -1,0 +1,62 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- /* Clean RSS 2.0 feed: home (/index.xml) publishes recent Journal essays and Book editions
+  with real publication dates; section feeds (/blog/index.xml, /books/index.xml) scope to their section. */ -}}
+{{- $items := slice -}}
+{{- if .IsHome -}}
+  {{- range where site.RegularPages "Section" "blog" -}}
+    {{- $items = $items | append (dict "page" . "date" .Date "kind" "Journal" "author" (.Params.author | default "Bhuvan") "title" .Title "desc" (.Description | default (.Summary | plainify | truncate 280))) -}}
+  {{- end -}}
+  {{- range partial "book/all.html" . -}}
+    {{- $d := .page.Date -}}
+    {{- if not $d.IsZero -}}
+      {{- $desc := printf "%s (%s) by %s — Akshara No. %d, on the shelf of %s. Free to read online and download under CC BY 4.0." .title .year .author .no .shelf.name -}}
+      {{- $items = $items | append (dict "page" .page "date" $d "kind" .shelf.name "author" .author "title" (printf "%s (%s) — %s" .title .year .author) "desc" $desc) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $items = first 25 (sort $items "date" "desc") -}}
+{{- else if eq .Section "blog" -}}
+  {{- range .Pages.ByDate.Reverse -}}
+    {{- $items = $items | append (dict "page" . "date" .Date "kind" (.Params.category | default "Journal") "author" (.Params.author | default "Bhuvan") "title" .Title "desc" (.Description | default (.Summary | plainify | truncate 280))) -}}
+  {{- end -}}
+{{- else if eq .Section "books" -}}
+  {{- range partial "book/all.html" . -}}
+    {{- $d := .page.Date -}}
+    {{- if not $d.IsZero -}}
+      {{- $desc := printf "%s (%s) by %s — Akshara No. %d, %s." .title .year .author .no .shelf.name -}}
+      {{- $items = $items | append (dict "page" .page "date" $d "kind" .shelf.name "author" .author "title" (printf "%s (%s) — %s" .title .year .author) "desc" $desc) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $items = first 25 (sort $items "date" "desc") -}}
+{{- else -}}
+  {{- range first 20 .Pages.ByDate.Reverse -}}
+    {{- if not .Date.IsZero -}}
+      {{- $items = $items | append (dict "page" . "date" .Date "kind" $.Title "author" site.Params.author "title" .Title "desc" (.Params.description | default (.Summary | plainify | truncate 280))) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- $lastBuild := now -}}
+{{- with $items -}}{{- $lastBuild = (index . 0).date -}}{{- end -}}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>{{ if .IsHome }}{{ site.Title }} — New Editions &amp; Journal{{ else }}{{ .Title }} · {{ site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ .Params.description | default site.Params.description }}</description>
+    <language>{{ site.Language.Locale | default "en-IN" }}</language>
+    <copyright>Editions released under {{ site.Params.license_name }} ({{ site.Params.license_url }}). Source texts are in the public domain.</copyright>
+    <lastBuildDate>{{ $lastBuild.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
+    {{- with .OutputFormats.Get "RSS" }}
+    <atom:link href="{{ .Permalink }}" rel="self" type="application/rss+xml"/>
+    {{- end }}
+    {{- range $items }}
+    <item>
+      <title>{{ .title }}</title>
+      <link>{{ .page.Permalink }}</link>
+      <guid isPermaLink="true">{{ .page.Permalink }}</guid>
+      <pubDate>{{ .date.Format "Mon, 02 Jan 2006 15:04:05 -0700" }}</pubDate>
+      <dc:creator>{{ .author }}</dc:creator>
+      <category>{{ .kind }}</category>
+      <description>{{ .desc }}</description>
+    </item>
+    {{- end }}
+  </channel>
+</rss>

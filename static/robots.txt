@@ -1,5 +1,76 @@
-User-agent: *
-Allow: /
+# Akshara — Public-domain library of rare books about India (CC BY 4.0)
+# Traditional search engines and AI search/citation crawlers are welcome.
+# Machine-readable guides for LLMs and agents:
+#   https://akshara.ink/llms.txt
+#   https://akshara.ink/llms-full.txt
+#   https://akshara.ink/catalog.json
 
-# Sitemaps
+User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+# Explicit welcome for AI search, citation, and foundation-model crawlers
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: GPTBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Claude-User
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: DuckAssistBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+User-agent: CCBot
+Allow: /
+Disallow: /pagefind/
+Disallow: /search/
+
+# Sitemap
 Sitemap: https://akshara.ink/sitemap.xml

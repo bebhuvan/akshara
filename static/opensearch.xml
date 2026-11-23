@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Akshara</ShortName>
+  <Description>Search the full text of rare public-domain books about India on Akshara.</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="32" height="32" type="image/x-icon">https://akshara.ink/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://akshara.ink/search/?q={searchTerms}"/>
+</OpenSearchDescription>

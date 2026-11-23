@@ -1,5 +1,6 @@
 ---
 title: "Get in Touch"
+description: "Contact Bhuvan about Project Akshara: share rare Indian public-domain books, help proofread editions beside their scans, or suggest titles to digitize."
 type: "page"
 layout: "single"
 ---

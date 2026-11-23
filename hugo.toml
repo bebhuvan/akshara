@@ -26,8 +26,25 @@ disableKinds = ["taxonomy", "term"]
     [markup.goldmark.parser.attribute]
       block = true
 
+[outputFormats]
+  [outputFormats.llmstxt]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    notAlternative = true
+  [outputFormats.llmsfull]
+    mediaType = "text/plain"
+    baseName = "llms-full"
+    isPlainText = true
+    notAlternative = true
+  [outputFormats.catalogjson]
+    mediaType = "application/json"
+    baseName = "catalog"
+    isPlainText = true
+    notAlternative = true
+
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "llmstxt", "llmsfull", "catalogjson"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML"]

@@ -1,0 +1,82 @@
+{{- /* Scholarly citation metadata: Highwire Press (citation_*) and Dublin Core (DC.*).
+  Parsed automatically by Google Scholar, Semantic Scholar, Zotero, Mendeley, Wikipedia Citoid,
+  and academic LLM retrieval pipelines. */ -}}
+{{- $isBook := and (eq .Type "books") (eq .Kind "section") (ne .RelPermalink "/books/") -}}
+{{- $isChapter := and .IsPage (eq .Type "chapters") -}}
+{{- $isBlog := and .IsPage (eq .Section "blog") -}}
+
+{{- if $isBook -}}
+  {{- $b := partialCached "book/record.html" . .RelPermalink -}}
+  {{- $p := .Params -}}
+  {{- $imprint := strings.Trim ($p.imprint | default (delimit (slice ($p.publication_location | default "") ($p.publisher | default "")) ": ")) ": " -}}
+<meta name="citation_title" content="{{ $b.title }}">
+<meta name="citation_author" content="{{ $b.author }}">
+<meta name="citation_publication_date" content="{{ $b.year }}">
+  {{- if not .Date.IsZero }}
+<meta name="citation_online_date" content="{{ .Date.Format "2006/01/02" }}">
+  {{- end }}
+<meta name="citation_publisher" content="{{ cond (ne $imprint "") (printf "%s (Akshara digital edition)" $imprint) "Akshara" }}">
+<meta name="citation_language" content="en">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+  {{- with $p.download_pdf }}
+<meta name="citation_pdf_url" content="{{ . }}">
+  {{- end }}
+  {{- with $p.subjects }}
+<meta name="citation_keywords" content="{{ delimit . "; " }}">
+  {{- end }}
+<meta name="DC.title" content="{{ $b.title }}">
+<meta name="DC.creator" content="{{ $b.author }}">
+<meta name="DC.date" content="{{ $b.year }}">
+<meta name="DC.publisher" content="Akshara">
+<meta name="DC.type" content="Text">
+<meta name="DC.language" content="en">
+<meta name="DC.identifier" content="{{ .Permalink }}">
+<meta name="DC.rights" content="{{ site.Params.license_title }} ({{ site.Params.license_url }})">
+  {{- with $p.archive_url }}
+<meta name="DC.source" content="{{ . }}">
+  {{- end }}
+
+{{- else if $isChapter -}}
+  {{- $bk := .Parent -}}{{- if eq $bk.Title "Chapters" -}}{{- $bk = $bk.Parent -}}{{- end -}}
+  {{- $b := partialCached "book/record.html" $bk $bk.RelPermalink -}}
+  {{- $cn := partial "chapter/name.html" . -}}
+  {{- $chTitle := cond (ne $cn.num "") (printf "%s %s: %s" $cn.label $cn.num $cn.title) $cn.title -}}
+<meta name="citation_title" content="{{ $chTitle }}">
+<meta name="citation_inbook_title" content="{{ $b.title }}">
+<meta name="citation_author" content="{{ $b.author }}">
+<meta name="citation_publication_date" content="{{ $b.year }}">
+  {{- if not $bk.Date.IsZero }}
+<meta name="citation_online_date" content="{{ $bk.Date.Format "2006/01/02" }}">
+  {{- end }}
+  {{- with .Params.printed_start_folio }}
+<meta name="citation_firstpage" content="{{ . }}">
+  {{- end }}
+<meta name="citation_publisher" content="Akshara">
+<meta name="citation_language" content="en">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+<meta name="DC.title" content="{{ $chTitle }} — {{ $b.title }}">
+<meta name="DC.creator" content="{{ $b.author }}">
+<meta name="DC.date" content="{{ $b.year }}">
+<meta name="DC.publisher" content="Akshara">
+<meta name="DC.type" content="Text">
+<meta name="DC.language" content="en">
+<meta name="DC.identifier" content="{{ .Permalink }}">
+<meta name="DC.isPartOf" content="{{ $bk.Permalink }}">
+<meta name="DC.rights" content="{{ site.Params.license_title }} ({{ site.Params.license_url }})">
+
+{{- else if $isBlog -}}
+<meta name="citation_title" content="{{ .Title | plainify }}">
+<meta name="citation_author" content="{{ .Params.author | default "Bhuvan" }}">
+<meta name="citation_publication_date" content="{{ .Date.Format "2006/01/02" }}">
+<meta name="citation_publisher" content="Akshara">
+<meta name="citation_language" content="en">
+<meta name="citation_public_url" content="{{ .Permalink }}">
+<meta name="DC.title" content="{{ .Title | plainify }}">
+<meta name="DC.creator" content="{{ .Params.author | default "Bhuvan" }}">
+<meta name="DC.date" content="{{ .Date.Format "2006-01-02" }}">
+<meta name="DC.publisher" content="Akshara">
+<meta name="DC.type" content="Text">
+<meta name="DC.language" content="en">
+<meta name="DC.identifier" content="{{ .Permalink }}">
+<meta name="DC.rights" content="{{ site.Params.license_title }} ({{ site.Params.license_url }})">
+{{- end -}}

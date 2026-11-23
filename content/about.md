@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Why Project Akshara exists: a one-person public-domain library digitizing rare books about India from original page photographs, free under CC BY 4.0."
 type: "page"
 layout: "about"
 ---

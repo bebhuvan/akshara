@@ -1,0 +1,52 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- /* High-signal XML + Image Sitemap: clean <loc>, accurate RFC3339 <lastmod> on every URL,
+  and <image:image> entries on /plates/ and book pages so Google Images and multimodal AI search
+  index Akshara's unique cleaned engravings and covers despite CSS mask rendering. */ -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $latest := time "2025-12-21" -}}
+{{- range site.Pages -}}
+  {{- if and (not .Date.IsZero) (gt .Date $latest) -}}{{- $latest = .Date -}}{{- end -}}
+  {{- if and (not .Lastmod.IsZero) (gt .Lastmod $latest) -}}{{- $latest = .Lastmod -}}{{- end -}}
+{{- end -}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+{{- range .Pages -}}
+  {{- if and .Permalink (not .Params.noindex) (not .Sitemap.Disable) (ne .RelPermalink "/search/") (ne .RelPermalink "/withdrawn/") (ne .Kind "404") -}}
+    {{- $mod := .Lastmod -}}
+    {{- if $mod.IsZero -}}{{- $mod = .Date -}}{{- end -}}
+    {{- if and $mod.IsZero .IsPage (eq .Type "chapters") -}}
+      {{- $bk := .Parent -}}{{- if and $bk (eq $bk.Title "Chapters") -}}{{- $bk = $bk.Parent -}}{{- end -}}
+      {{- if $bk -}}
+        {{- $mod = cond (not $bk.Lastmod.IsZero) $bk.Lastmod $bk.Date -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if $mod.IsZero -}}{{- $mod = $latest -}}{{- end }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <lastmod>{{ $mod.Format "2006-01-02T15:04:05Z07:00" }}</lastmod>
+    {{- if and (eq .Type "books") (eq .Kind "section") (ne .RelPermalink "/books/") -}}
+      {{- $b := partialCached "book/record.html" . .RelPermalink -}}
+      {{- $card := partialCached "book/social.html" $b $b.id }}
+    <image:image>
+      <image:loc>{{ $card.Permalink }}</image:loc>
+      <image:title>{{ $b.title }} ({{ $b.year }}) by {{ $b.author }} — Akshara No. {{ $b.no }}</image:title>
+    </image:image>
+      {{- range hugo.Data.plates.group }}{{ range .plate }}{{ if eq .book $b.id }}
+    <image:image>
+      <image:loc>{{ $base }}/plates/{{ .key }}.webp</image:loc>
+      <image:title>{{ .title }} ({{ $b.cover_title }}, {{ $b.year }}, p. {{ .page }})</image:title>
+      {{- with .alt }}<image:caption>{{ . }}</image:caption>{{ end }}
+    </image:image>
+      {{- end }}{{ end }}{{ end -}}
+    {{- else if eq .RelPermalink "/plates/" -}}
+      {{- range hugo.Data.plates.group }}{{ range .plate }}
+    <image:image>
+      <image:loc>{{ $base }}/plates/{{ .key }}.webp</image:loc>
+      <image:title>{{ .title }} (p. {{ .page }})</image:title>
+      {{- with .alt }}<image:caption>{{ . }}</image:caption>{{ end }}
+    </image:image>
+      {{- end }}{{ end -}}
+    {{- end }}
+  </url>
+  {{- end -}}
+{{- end }}
+</urlset>

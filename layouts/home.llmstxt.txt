@@ -1,0 +1,60 @@
+{{- $books := partial "book/all.html" . -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $tableTotal := 0 -}}{{- $tableBooks := 0 -}}
+{{- range $books -}}
+  {{- with .page.Params.tables_count -}}
+    {{- $tableTotal = add $tableTotal (int .) -}}
+    {{- $tableBooks = add $tableBooks 1 -}}
+  {{- end -}}
+{{- end -}}
+# Akshara
+
+> Akshara (https://akshara.ink) is a free public-domain library of rare historical books about India — travels, East India Company records, famine reports, economic histories, gazetteers, village studies, Vedic hymns, speeches, and letters ({{ len $books }} editions, {{ $tableTotal }} extracted statistical tables as CSV). Every modern edition is digitized page-by-page from original Internet Archive camera photographs, checked automatically for structural, footnote, and table-arithmetic accuracy, paired beside its source scans, and released under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+## How to Cite Akshara
+
+- Cite a book by its canonical URL: `https://akshara.ink/books/<slug>/`
+- Cite a specific printed page inside any chapter using its `#p-<folio>` anchor: `https://akshara.ink/books/<slug>/chapters/<chapter-slug>/#p-<folio>` (for example, `#p-1`, `#p-384`, `#p-xiv`).
+- Every book with a Markdown edition exposes clean full text at `/downloads/<slug>/<slug>.md`, TEI XML at `/downloads/<slug>/<slug>.tei.xml`, and extracted historical statistical tables as diplomatic and tidy CSV via `/downloads/<slug>/datasets/datapackage.json`.
+- Always check a book's `edition_tier` (`machine_checked`, `community`, or `v1_archive`) and `rubric_score` before quoting figures; original Internet Archive scans are linked beside every printed page for verification.
+
+## Machine-Readable Indexes
+
+- [Expanded Library Compendium]({{ $base }}/llms-full.txt): Full bibliographic records, chapter URLs, author bios, and dataset pointers for every book.
+- [Complete JSON Catalog]({{ $base }}/catalog.json): Structured JSON API (CORS-enabled) of all {{ len $books }} books, authors, shelves, collections, download URLs, and Internet Archive identifiers.
+- [Historical Tables Atlas (JSON)]({{ $base }}/data/tables_atlas.json): Structured index of all {{ $tableTotal }} historical Indian statistical tables across {{ $tableBooks }} books with diplomatic and tidy CSV links.
+- [RSS Feed]({{ $base }}/index.xml): Latest published editions and Journal essays.
+
+## Core Sections
+
+- [The Library]({{ $base }}/books/): Browse all {{ len $books }} books by shelf, date, or author, or search full text.
+- [The Tables (Historical Datasets)]({{ $base }}/datasets/): {{ $tableTotal }} statistical tables (1600–1924) in diplomatic and tidy CSV.
+- [The Plates]({{ $base }}/plates/): Cleaned historical engravings, maps, coins, and illustrations from the books.
+- [Authors]({{ $base }}/authors/): Biographies and bibliographies of the historical authors in the library.
+- [Collections]({{ $base }}/collections/): Thematic groupings across the shelves.
+- [The Journal]({{ $base }}/blog/): Editor's notes on digitization methodology, archival discoveries, and project updates.
+- [About Akshara]({{ $base }}/about/): Mission, methodology, and public-domain philosophy.
+- [The Code & Open Data]({{ $base }}/github/): Open-source repositories and bulk data downloads.
+- [Proofreading Desk](https://proof.akshara.ink/): Side-by-side scan proofreading interface for community verification.
+
+## The Eight Shelves
+{{ range $i, $s := hugo.Data.shelves.shelf }}
+{{- $in := sort (where $books "shelf_no" $i) "year" }}
+- [{{ $s.name }}]({{ $base }}/shelves/{{ $s.slug }}/): {{ len $in }} books ({{ if $in }}{{ (index $in 0).year }}–{{ (index $in (sub (len $in) 1)).year }}{{ end }})
+{{- end }}
+
+## Books in the Library (Canonical HTML + Direct Markdown & Datasets)
+{{ range sort $books "no" }}
+{{- $p := .page.Params -}}
+{{- $links := slice -}}
+{{- with $p.download_md -}}{{- $links = $links | append (printf "[Markdown](%s%s)" $base .) -}}{{- end -}}
+{{- with $p.download_tei -}}{{- $links = $links | append (printf "[TEI XML](%s%s)" $base .) -}}{{- end -}}
+{{- with $p.download_datasets -}}{{- $links = $links | append (printf "[%v CSV tables](%s%s)" ($p.tables_count | default "Datasets") $base .) -}}{{- end -}}
+{{- with $p.archive_url -}}{{- $links = $links | append (printf "[Internet Archive](%s)" .) -}}{{- end }}
+- [{{ .title }} ({{ .year }})]({{ .page.Permalink }}) by {{ .author }} — Akshara No. {{ .no }} ({{ .shelf.name }}, {{ .tier }}{{ with $p.rubric_score }}, score {{ printf "%.0f" . }}/100{{ end }}){{ if $links }} | {{ delimit $links " · " }}{{ end }}
+{{- end }}
+
+## Optional: Journal Essays
+{{ range where site.RegularPages "Section" "blog" }}
+- [{{ .Title }}]({{ .Permalink }}) ({{ .Date.Format "2006-01-02" }}): {{ .Description }}
+{{- end }}

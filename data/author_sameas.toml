@@ -1,0 +1,127 @@
+# Verified external authority identifiers (Wikidata, Wikipedia, VIAF) for historical authors.
+# Used in Schema.org Person.sameAs (layouts/_partials/page/jsonld.html) to link Akshara into
+# Google's Knowledge Graph and Wikidata. Kept in data/ so pipeline syncs never overwrite it.
+
+# Alexander Loveday (1888–1962)
+[alexander-loveday]
+same_as = ["https://www.wikidata.org/entity/Q4719440", "https://en.wikipedia.org/wiki/Alexander_Loveday", "https://viaf.org/viaf/41942578"]
+
+# Dadabhai Naoroji (1825–1917)
+[dadabhai-naoroji]
+same_as = ["https://www.wikidata.org/entity/Q10240", "https://en.wikipedia.org/wiki/Dadabhai_Naoroji", "https://viaf.org/viaf/4964176"]
+
+# Emma Rauschenbusch Clough (1859–1940)
+[emma-rauschenbusch-clough]
+same_as = ["https://www.wikidata.org/entity/Q133280696", "https://viaf.org/viaf/118160756"]
+
+# Friedrich Max Müller (1823–1900)
+[f-max-muller]
+same_as = ["https://www.wikidata.org/entity/Q60074", "https://en.wikipedia.org/wiki/Max_M%C3%BCller", "https://viaf.org/viaf/9893606"]
+
+# Francis Buchanan-Hamilton (1762–1829)
+[francis-buchanan]
+same_as = ["https://www.wikidata.org/entity/Q536945", "https://en.wikipedia.org/wiki/Francis_Buchanan-Hamilton", "https://viaf.org/viaf/9966168"]
+
+# George Findlay Shirras (1885–1955)
+[g-findlay-shirras]
+same_as = ["https://www.wikidata.org/entity/Q107197606", "https://viaf.org/viaf/934523"]
+
+# George Christopher Molesworth Birdwood (1832–1917)
+[george-birdwood]
+same_as = ["https://www.wikidata.org/entity/Q5537907", "https://en.wikipedia.org/wiki/George_Birdwood", "https://viaf.org/viaf/5292866"]
+
+# India Office (?–?)
+[great-britain-india-office]
+same_as = ["https://www.wikidata.org/entity/Q769779", "https://en.wikipedia.org/wiki/India_Office"]
+
+# Herbert Stanley Jevons (1875–1955)
+[h-stanley-jevons]
+same_as = ["https://www.wikidata.org/entity/Q41629701", "https://en.wikipedia.org/wiki/Herbert_Stanley_Jevons", "https://viaf.org/viaf/74621311"]
+
+# Harold Hart Mann (1872–1961)
+[harold-h-mann]
+same_as = ["https://www.wikidata.org/entity/Q47471979", "https://en.wikipedia.org/wiki/Harold_Hart_Mann", "https://viaf.org/viaf/55579711"]
+
+# Henry Beveridge (1799–1863)
+[henry-beveridge]
+same_as = ["https://www.wikidata.org/entity/Q16743446", "https://en.wikipedia.org/wiki/Henry_Beveridge_%28historian%29", "https://viaf.org/viaf/405303"]
+
+# Herbert Hope Risley (1851–1911)
+[herbert-hope-risley]
+same_as = ["https://www.wikidata.org/entity/Q15130813", "https://en.wikipedia.org/wiki/Herbert_Hope_Risley", "https://viaf.org/viaf/17267311"]
+
+#  (1876–1918)
+[j-c-jack]
+same_as = ["https://www.wikidata.org/entity/Q133581838", "https://viaf.org/viaf/118859808"]
+
+# John Nicol Farquhar (1861–1929)
+[j-n-farquhar]
+same_as = ["https://www.wikidata.org/entity/Q6104244", "https://en.wikipedia.org/wiki/J._N._Farquhar", "https://viaf.org/viaf/13605306"]
+
+# Jacobus Canter Visscher (1692–1735)
+[jacob-canter-visscher]
+same_as = ["https://www.wikidata.org/entity/Q3237654", "https://viaf.org/viaf/69047839"]
+
+# Jadunath Sarkar (1870–1958)
+[jadunath-sarkar]
+same_as = ["https://www.wikidata.org/entity/Q2035098", "https://en.wikipedia.org/wiki/Jadunath_Sarkar", "https://viaf.org/viaf/22251438"]
+
+# James Wilson (1805–1860)
+[james-wilson]
+same_as = ["https://www.wikidata.org/entity/Q94765", "https://en.wikipedia.org/wiki/James_Wilson_%28businessman%29", "https://viaf.org/viaf/74784035"]
+
+# Lala Lajpat Rai (1865–1928)
+[lala-lajpat-rai]
+same_as = ["https://www.wikidata.org/entity/Q1395763", "https://en.wikipedia.org/wiki/Lala_Lajpat_Rai", "https://viaf.org/viaf/41910129"]
+
+# Mahadev Govind Ranade (1842–1901)
+[mahadev-govind-ranade]
+same_as = ["https://www.wikidata.org/entity/Q982481", "https://en.wikipedia.org/wiki/Mahadev_Govind_Ranade", "https://viaf.org/viaf/72200215"]
+
+# Maurice Bloomfield (1855–1928)
+[maurice-bloomfield]
+same_as = ["https://www.wikidata.org/entity/Q114496", "https://en.wikipedia.org/wiki/Maurice_Bloomfield", "https://viaf.org/viaf/51762589"]
+
+# Rakhaldas Bandyopadhyay (1885–1930)
+[r-d-banerji]
+same_as = ["https://www.wikidata.org/entity/Q7286651", "https://en.wikipedia.org/wiki/R._D._Banerji", "https://viaf.org/viaf/23082489"]
+
+# Radha Kumud Mukherjee (1884–1963)
+[radhakumud-mookerji]
+same_as = ["https://www.wikidata.org/entity/Q7280182", "https://en.wikipedia.org/wiki/Radha_Kumud_Mukherjee", "https://viaf.org/viaf/100204472"]
+
+# Ram Mohan Roy (1772–1833)
+[raja-rammohun-roy]
+same_as = ["https://www.wikidata.org/entity/Q335269", "https://en.wikipedia.org/wiki/Raja_Ram_Mohan_Roy", "https://viaf.org/viaf/14841412"]
+
+# Romesh Chunder Dutt (1848–1909)
+[romesh-chunder-dutt]
+same_as = ["https://www.wikidata.org/entity/Q3348870", "https://en.wikipedia.org/wiki/Romesh_Chunder_Dutt", "https://viaf.org/viaf/2518935"]
+
+# Sarojini Naidu (1879–1949)
+[sarojini-naidu]
+same_as = ["https://www.wikidata.org/entity/Q250165", "https://en.wikipedia.org/wiki/Sarojini_Naidu", "https://viaf.org/viaf/20485679"]
+
+# Septimus Smet Thorburn (1844–1924)
+[septimus-smet-thorburn]
+same_as = ["https://www.wikidata.org/entity/Q21405634", "https://viaf.org/viaf/53089217"]
+
+# Vincent Arthur Smith (1848–1920)
+[vincent-a-smith]
+same_as = ["https://www.wikidata.org/entity/Q2526510", "https://en.wikipedia.org/wiki/Vincent_Arthur_Smith", "https://viaf.org/viaf/12398758"]
+
+# Wilfred Harvey Schoff (1874–1932)
+[wilfred-h-schoff]
+same_as = ["https://www.wikidata.org/entity/Q17058803", "https://en.wikipedia.org/wiki/Wilfred_Harvey_Schoff", "https://viaf.org/viaf/24714105"]
+
+# William Foster (1863–1951)
+[william-foster]
+same_as = ["https://www.wikidata.org/entity/Q8009251", "https://en.wikipedia.org/wiki/William_Foster_%28historiographer%29", "https://viaf.org/viaf/17329192"]
+
+# William Harrison Moreland (1868–1938)
+[william-harrison-moreland]
+same_as = ["https://www.wikidata.org/entity/Q92950161", "https://en.wikipedia.org/wiki/William_Harrison_Moreland", "https://viaf.org/viaf/59454342"]
+
+# William Wilson Hunter (1840–1900)
+[william-wilson-hunter]
+same_as = ["https://www.wikidata.org/entity/Q724677", "https://en.wikipedia.org/wiki/William_Wilson_Hunter", "https://viaf.org/viaf/95217118"]

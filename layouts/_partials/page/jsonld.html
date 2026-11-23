@@ -1,0 +1,412 @@
+{{- /* Linked-entity Schema.org JSON-LD (@graph) for every page type.
+  Uses stable @id URIs so Google Knowledge Graph, Google Dataset Search, Bing, and LLM entity
+  resolvers connect Organization <-> WebSite <-> Books <-> Chapters <-> Authors <-> Datasets <-> Essays.
+  Rendered strictly inside <head> (outside data-pagefind-body) via jsonify so every output is valid JSON. */ -}}
+{{- if and (ne .Kind "404") (not .Params.noindex) -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $orgID := printf "%s/#organization" $base -}}
+{{- $siteID := printf "%s/#website" $base -}}
+{{- $founderID := printf "%s/#founder" $base -}}
+{{- $graph := slice -}}
+
+{{- /* Core Organization & WebSite nodes: emitted in full on Home, referenced by @id elsewhere */ -}}
+{{- $sameAs := slice
+  "https://github.com/bebhuvan/akshara"
+  "https://github.com/bebhuvan/akshara-library"
+  "https://twitter.com/bebhuvan"
+  "https://www.linkedin.com/in/bebhuvan/"
+  "https://dhwani.ink"
+  "https://proof.akshara.ink"
+-}}
+{{- $orgNode := dict
+  "@type" (slice "Library" "Organization")
+  "@id" $orgID
+  "name" "Akshara"
+  "alternateName" (slice "Project Akshara" "ಅಕ್ಷರ")
+  "url" site.BaseURL
+  "description" site.Params.description
+  "logo" (dict "@type" "ImageObject" "url" (printf "%s/apple-touch-icon.png" $base) "width" 180 "height" 180)
+  "founder" (dict "@type" "Person" "@id" $founderID "name" "Bhuvan" "url" "https://bebhuvan.com" "sameAs" (slice "https://twitter.com/bebhuvan" "https://www.linkedin.com/in/bebhuvan/" "https://github.com/bebhuvan"))
+  "sameAs" $sameAs
+  "publishingPrinciples" (printf "%s/about/" $base)
+  "correctionsPolicy" (printf "%s/" site.Params.proofing_url)
+  "knowsAbout" (slice "Indian history" "Public domain digitization" "Economic history of India" "Colonial Indian statistics" "East India Company records" "Sanskrit and Indology")
+-}}
+{{- $siteNode := dict
+  "@type" "WebSite"
+  "@id" $siteID
+  "name" "Akshara"
+  "alternateName" "Project Akshara"
+  "url" site.BaseURL
+  "description" site.Params.description
+  "inLanguage" "en-IN"
+  "publisher" (dict "@id" $orgID)
+  "potentialAction" (dict
+    "@type" "SearchAction"
+    "target" (dict "@type" "EntryPoint" "urlTemplate" (printf "%s/search/?q={search_term_string}" $base))
+    "query-input" "required name=search_term_string"
+  )
+-}}
+
+{{- if .IsHome -}}
+  {{- $graph = $graph | append $orgNode $siteNode -}}
+{{- else -}}
+  {{- $graph = $graph | append (dict "@type" "Organization" "@id" $orgID "name" "Akshara" "url" site.BaseURL) -}}
+{{- end -}}
+
+{{- $isBook := and (eq .Type "books") (eq .Kind "section") (ne .RelPermalink "/books/") -}}
+{{- $isChapter := and .IsPage (eq .Type "chapters") -}}
+{{- $isAuthor := and .IsPage (eq .Section "authors") -}}
+{{- $isBlog := and .IsPage (eq .Section "blog") -}}
+{{- $isShelf := and .IsPage (eq .Section "shelves") -}}
+{{- $isCollection := and .IsPage (eq .Section "collections") -}}
+{{- $isDatasets := eq .RelPermalink "/datasets/" -}}
+{{- $isPlates := eq .RelPermalink "/plates/" -}}
+{{- $isAbout := eq .RelPermalink "/about/" -}}
+
+{{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" site.BaseURL) -}}
+
+{{- /* === 1. BOOK LANDING PAGE (+ Dataset node for Google Dataset Search when has_datasets) === */ -}}
+{{- if $isBook -}}
+  {{- $b := partialCached "book/record.html" . .RelPermalink -}}
+  {{- $p := .Params -}}
+  {{- $bookID := printf "%s#book" .Permalink -}}
+  {{- $card := partialCached "book/social.html" $b $b.id -}}
+
+  {{- $authorObj := dict "@type" "Person" "name" $b.author -}}
+  {{- with $p.author_slug -}}
+    {{- $as := . -}}
+    {{- with site.GetPage (printf "/authors/%s" $as) -}}
+      {{- $authorObj = dict "@type" "Person" "@id" (printf "%s#person" .Permalink) "name" $b.author "url" .Permalink -}}
+      {{- with (index hugo.Data.author_sameas $as) -}}{{- with .same_as -}}{{- $authorObj = merge $authorObj (dict "sameAs" .) -}}{{- end -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $examples := slice -}}
+  {{- with $p.download_epub -}}{{- $u := cond (hasPrefix . "http") . (printf "%s%s" $base .) -}}{{- $examples = $examples | append (dict "@type" "Book" "bookFormat" "https://schema.org/EBook" "encodingFormat" "application/epub+zip" "url" $u "isAccessibleForFree" true) -}}{{- end -}}
+  {{- with $p.download_pdf -}}{{- $u := cond (hasPrefix . "http") . (printf "%s%s" $base .) -}}{{- $examples = $examples | append (dict "@type" "Book" "bookFormat" "https://schema.org/EBook" "encodingFormat" "application/pdf" "url" $u "isAccessibleForFree" true) -}}{{- end -}}
+  {{- with $p.download_md -}}{{- $u := cond (hasPrefix . "http") . (printf "%s%s" $base .) -}}{{- $examples = $examples | append (dict "@type" "Book" "bookFormat" "https://schema.org/EBook" "encodingFormat" "text/markdown" "url" $u "isAccessibleForFree" true) -}}{{- end -}}
+  {{- with $p.download_tei -}}{{- $u := cond (hasPrefix . "http") . (printf "%s%s" $base .) -}}{{- $examples = $examples | append (dict "@type" "Book" "bookFormat" "https://schema.org/EBook" "encodingFormat" "application/tei+xml" "url" $u "isAccessibleForFree" true) -}}{{- end -}}
+
+  {{- $note := index hugo.Data.booknotes $b.id | default dict -}}
+  {{- $authorSameAs := slice -}}
+  {{- with $note.author_wikipedia }}{{ $authorSameAs = $authorSameAs | append . }}{{ end -}}
+  {{- with $note.author_wikisource }}{{ $authorSameAs = $authorSameAs | append . }}{{ end -}}
+  {{- if $authorSameAs }}{{ $authorObj = merge $authorObj (dict "sameAs" $authorSameAs) }}{{ end -}}
+
+  {{- $desc := $note.summary | default ($p.description | default "") -}}
+  {{- if or (eq $desc "") (strings.Contains $desc "Archival scope:") -}}
+    {{- $desc = printf "%s (%s) by %s. Free public-domain edition on Akshara with page scans, full text, EPUB, Markdown, and TEI XML." $b.title $b.year $b.author -}}
+  {{- end -}}
+
+  {{- $bookNode := dict
+    "@type" "Book"
+    "@id" $bookID
+    "name" $b.title
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "author" $authorObj
+    "datePublished" (printf "%s" $b.year)
+    "inLanguage" "en"
+    "bookEdition" (printf "Akshara No. %d" $b.no)
+    "bookFormat" "https://schema.org/EBook"
+    "isAccessibleForFree" true
+    "license" site.Params.license_url
+    "publisher" (dict "@id" $orgID)
+    "image" $card.Permalink
+    "description" $desc
+    "isPartOf" (dict "@type" "Collection" "name" $b.shelf.name "url" (printf "%s/shelves/%s/" $base $b.shelf.slug))
+  -}}
+  {{- with $b.subtitle -}}{{- $bookNode = merge $bookNode (dict "alternateName" .) -}}{{- end -}}
+  {{- if and (ne $b.tier "v1_archive") $p.pages -}}{{- $bookNode = merge $bookNode (dict "numberOfPages" (int $p.pages)) -}}{{- end -}}
+  {{- if not .Date.IsZero -}}{{- $bookNode = merge $bookNode (dict "dateModified" (.Date.Format "2006-01-02")) -}}{{- end -}}
+  {{- $bookSameAs := slice -}}
+  {{- with $p.archive_url -}}{{- $bookSameAs = $bookSameAs | append . -}}{{- $bookNode = merge $bookNode (dict "isBasedOn" .) -}}{{- end -}}
+  {{- with $note.wikipedia -}}{{- $bookSameAs = $bookSameAs | append . -}}{{- end -}}
+  {{- with $note.wikisource -}}{{- $bookSameAs = $bookSameAs | append . -}}{{- end -}}
+  {{- if eq (len $bookSameAs) 1 -}}{{- $bookNode = merge $bookNode (dict "sameAs" (index $bookSameAs 0)) -}}{{- else if gt (len $bookSameAs) 1 -}}{{- $bookNode = merge $bookNode (dict "sameAs" $bookSameAs) -}}{{- end -}}
+  {{- with $p.period -}}{{- $bookNode = merge $bookNode (dict "temporalCoverage" .) -}}{{- end -}}
+  {{- with $p.regions -}}{{- $bookNode = merge $bookNode (dict "spatialCoverage" .) -}}{{- end -}}
+  {{- with $p.subjects -}}{{- $bookNode = merge $bookNode (dict "about" . "keywords" (delimit . ", ")) -}}{{- end -}}
+  {{- if $examples -}}{{- $bookNode = merge $bookNode (dict "workExample" $examples) -}}{{- end -}}
+
+  {{- $graph = $graph | append $bookNode -}}
+
+  {{- /* Google Dataset Search: emit Dataset node for every book with extracted historical tables */ -}}
+  {{- if and $p.has_datasets $p.download_datasets -}}
+    {{- $tn := int ($p.tables_count | default (len ($p.tables_list | default slice))) -}}
+    {{- $dists := slice (dict
+      "@type" "DataDownload"
+      "name" (printf "%s — Frictionless Data Package (JSON)" $b.cover_title)
+      "encodingFormat" "application/json"
+      "contentUrl" (printf "%s%s" $base $p.download_datasets)
+    ) -}}
+    {{- range first 10 ($p.tables_list | default slice) -}}
+      {{- $cap := .caption | default $b.cover_title -}}
+      {{- with .tidy_csv -}}
+        {{- $dists = $dists | append (dict
+          "@type" "DataDownload"
+          "name" (printf "%s — %s (Tidy CSV)" $b.cover_title $cap)
+          "encodingFormat" "text/csv"
+          "contentUrl" (printf "%s%s" $base .)
+        ) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $dsNode := dict
+      "@type" "Dataset"
+      "@id" (printf "%s#dataset" .Permalink)
+      "name" (printf "Historical Statistical Tables from %s (%s)" $b.title $b.year)
+      "description" (printf "%d historical statistical tables extracted from %s (%s) by %s, available as diplomatic and tidy CSV files with a Frictionless Data Package under CC BY 4.0." $tn $b.title $b.year $b.author)
+      "url" .Permalink
+      "license" site.Params.license_url
+      "isAccessibleForFree" true
+      "creator" $authorObj
+      "publisher" (dict "@id" $orgID)
+      "isBasedOn" (dict "@id" $bookID)
+      "measurementTechnique" "Page-by-page vision-language transcription from original Internet Archive camera photographs with programmatic arithmetic verification"
+      "distribution" $dists
+    -}}
+    {{- with $p.period -}}{{- $dsNode = merge $dsNode (dict "temporalCoverage" .) -}}{{- end -}}
+    {{- with $p.regions -}}{{- $dsNode = merge $dsNode (dict "spatialCoverage" (delimit . ", ")) -}}{{- end -}}
+    {{- with $p.subjects -}}{{- $dsNode = merge $dsNode (dict "keywords" .) -}}{{- end -}}
+    {{- $graph = $graph | append $dsNode -}}
+  {{- end -}}
+
+  {{- $crumbs = $crumbs
+    | append (dict "@type" "ListItem" "position" 2 "name" "The Library" "item" (printf "%s/books/" $base))
+    | append (dict "@type" "ListItem" "position" 3 "name" $b.shelf.name "item" (printf "%s/shelves/%s/" $base $b.shelf.slug))
+    | append (dict "@type" "ListItem" "position" 4 "name" $b.cover_title "item" .Permalink)
+  -}}
+
+{{- /* === 2. CHAPTER PAGE === */ -}}
+{{- else if $isChapter -}}
+  {{- $bk := .Parent -}}{{- if eq $bk.Title "Chapters" -}}{{- $bk = $bk.Parent -}}{{- end -}}
+  {{- $b := partialCached "book/record.html" $bk $bk.RelPermalink -}}
+  {{- $cn := partial "chapter/name.html" . -}}
+  {{- $chTitle := cond (ne $cn.num "") (printf "%s %s: %s" $cn.label $cn.num $cn.title) $cn.title -}}
+
+  {{- $authorObj := dict "@type" "Person" "name" $b.author -}}
+  {{- with $bk.Params.author_slug -}}
+    {{- with site.GetPage (printf "/authors/%s" .) -}}
+      {{- $authorObj = dict "@type" "Person" "@id" (printf "%s#person" .Permalink) "name" $b.author "url" .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $chNode := dict
+    "@type" "Chapter"
+    "@id" (printf "%s#chapter" .Permalink)
+    "name" $chTitle
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "isPartOf" (dict "@type" "Book" "@id" (printf "%s#book" $bk.Permalink) "name" $b.title "url" $bk.Permalink)
+    "author" $authorObj
+    "publisher" (dict "@id" $orgID)
+    "inLanguage" "en"
+    "isAccessibleForFree" true
+    "license" site.Params.license_url
+    "wordCount" .WordCount
+  -}}
+  {{- with .Params.printed_start_folio -}}{{- $chNode = merge $chNode (dict "pageStart" (printf "%v" .)) -}}{{- end -}}
+  {{- with .Params.printed_end_folio -}}{{- $chNode = merge $chNode (dict "pageEnd" (printf "%v" .)) -}}{{- end -}}
+  {{- with .Weight -}}{{- if gt . 0 -}}{{- $chNode = merge $chNode (dict "position" .) -}}{{- end -}}{{- end -}}
+  {{- $graph = $graph | append $chNode -}}
+
+  {{- $crumbs = $crumbs
+    | append (dict "@type" "ListItem" "position" 2 "name" "The Library" "item" (printf "%s/books/" $base))
+    | append (dict "@type" "ListItem" "position" 3 "name" $b.cover_title "item" $bk.Permalink)
+    | append (dict "@type" "ListItem" "position" 4 "name" $chTitle "item" .Permalink)
+  -}}
+
+{{- /* === 3. AUTHOR PROFILE PAGE === */ -}}
+{{- else if $isAuthor -}}
+  {{- $personID := printf "%s#person" .Permalink -}}
+  {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+  {{- $bio := "" -}}
+  {{- with .Params.short_bio -}}{{- if not (findRE `work\(s\) preserved` .) -}}{{- $bio = . -}}{{- end -}}{{- end -}}
+  {{- $personNode := dict
+    "@type" "Person"
+    "@id" $personID
+    "name" .Title
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+  -}}
+  {{- with (index hugo.Data.author_sameas $slug) -}}{{- with .same_as -}}{{- $personNode = merge $personNode (dict "sameAs" .) -}}{{- end -}}{{- end -}}
+  {{- with .Params.full_name -}}{{- if ne . $.Title -}}{{- $personNode = merge $personNode (dict "alternateName" .) -}}{{- end -}}{{- end -}}
+  {{- with .Params.birth_year -}}{{- $personNode = merge $personNode (dict "birthDate" (printf "%v" .)) -}}{{- end -}}
+  {{- with .Params.death_year -}}{{- $personNode = merge $personNode (dict "deathDate" (printf "%v" .)) -}}{{- end -}}
+  {{- with .Params.birth_place -}}{{- $personNode = merge $personNode (dict "birthPlace" (dict "@type" "Place" "name" .)) -}}{{- end -}}
+  {{- with .Params.languages -}}{{- $personNode = merge $personNode (dict "knowsLanguage" .) -}}{{- end -}}
+  {{- with $bio -}}{{- $personNode = merge $personNode (dict "description" .) -}}{{- end -}}
+  {{- $profileNode := dict
+    "@type" "ProfilePage"
+    "@id" (printf "%s#profile" .Permalink)
+    "url" .Permalink
+    "name" .Title
+    "mainEntity" (dict "@id" $personID)
+    "isPartOf" (dict "@id" $siteID)
+  -}}
+  {{- $graph = $graph | append $profileNode $personNode -}}
+  {{- $crumbs = $crumbs
+    | append (dict "@type" "ListItem" "position" 2 "name" "Authors" "item" (printf "%s/authors/" $base))
+    | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+  -}}
+
+{{- /* === 4. DATASETS / TABLES ATLAS PAGE (Google Dataset Search Flagship Hub) === */ -}}
+{{- else if $isDatasets -}}
+  {{- $books := partial "book/all.html" . -}}
+  {{- $parts := slice -}}{{- $total := 0 -}}
+  {{- range $b := $books -}}
+    {{- if and $b.page.Params.has_datasets $b.page.Params.download_datasets -}}
+      {{- $tn := int ($b.page.Params.tables_count | default (len ($b.page.Params.tables_list | default slice))) -}}
+      {{- $total = add $total $tn -}}
+      {{- $parts = $parts | append (dict
+        "@type" "Dataset"
+        "@id" (printf "%s#dataset" $b.page.Permalink)
+        "name" (printf "%s (%s) — %d historical tables" $b.cover_title $b.year $tn)
+        "description" (printf "%d historical Indian statistical tables from %s (%s) by %s, in diplomatic and tidy CSV." $tn $b.title $b.year $b.author)
+        "url" $b.page.Permalink
+        "license" site.Params.license_url
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $dsMaster := dict
+    "@type" "Dataset"
+    "@id" (printf "%s#dataset" .Permalink)
+    "name" "Akshara Historical Indian Statistical Tables Atlas (1600–1924)"
+    "description" (printf "%d historical statistical tables extracted from %d public-domain books on India (1600–1924), published in diplomatic 2D CSV and tidy CSV formats with Frictionless Data Packages under CC BY 4.0." $total (len $parts))
+    "url" .Permalink
+    "license" site.Params.license_url
+    "isAccessibleForFree" true
+    "temporalCoverage" "1600/1924"
+    "spatialCoverage" "India"
+    "keywords" (slice "Indian economic history" "colonial India statistics" "famine reports" "land revenue" "East India Company trade" "historical datasets" "CSV")
+    "creator" (dict "@id" $orgID)
+    "publisher" (dict "@id" $orgID)
+    "distribution" (slice (dict
+      "@type" "DataDownload"
+      "name" "Complete Tables Atlas Index (JSON)"
+      "encodingFormat" "application/json"
+      "contentUrl" (printf "%s/data/tables_atlas.json" $base)
+    ))
+    "hasPart" $parts
+  -}}
+  {{- $graph = $graph | append $dsMaster -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" "The Tables" "item" .Permalink) -}}
+
+{{- /* === 5. JOURNAL ESSAY === */ -}}
+{{- else if $isBlog -}}
+  {{- $id := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+  {{- $j := index hugo.Data.journal $id | default dict -}}
+  {{- $card := partialCached "page/social-home.html" . "home" -}}
+  {{- $mentions := slice -}}
+  {{- range ($j.books | default slice) -}}
+    {{- with site.GetPage (printf "/books/%s" .) -}}
+      {{- $br := partialCached "book/record.html" . .RelPermalink -}}
+      {{- $mentions = $mentions | append (dict "@type" "Book" "@id" (printf "%s#book" .Permalink) "name" $br.title "url" .Permalink) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $postNode := dict
+    "@type" "BlogPosting"
+    "@id" (printf "%s#article" .Permalink)
+    "headline" .Title
+    "description" (.Description | default (.Summary | plainify | truncate 200))
+    "url" .Permalink
+    "mainEntityOfPage" .Permalink
+    "author" (dict "@type" "Person" "@id" $founderID "name" (.Params.author | default "Bhuvan") "url" "https://bebhuvan.com")
+    "publisher" (dict "@id" $orgID)
+    "datePublished" (.Date.Format "2006-01-02")
+    "dateModified" ((cond (not .Lastmod.IsZero) .Lastmod .Date).Format "2006-01-02")
+    "image" $card.Permalink
+    "wordCount" .WordCount
+    "inLanguage" "en-IN"
+    "isAccessibleForFree" true
+    "license" site.Params.license_url
+  -}}
+  {{- with .Params.category -}}{{- $postNode = merge $postNode (dict "articleSection" .) -}}{{- end -}}
+  {{- with .Params.tags -}}{{- $postNode = merge $postNode (dict "keywords" .) -}}{{- end -}}
+  {{- if $mentions -}}{{- $postNode = merge $postNode (dict "mentions" $mentions) -}}{{- end -}}
+  {{- $graph = $graph | append $postNode -}}
+  {{- $crumbs = $crumbs
+    | append (dict "@type" "ListItem" "position" 2 "name" "The Journal" "item" (printf "%s/blog/" $base))
+    | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+  -}}
+
+{{- /* === 6. SHELF PAGE === */ -}}
+{{- else if $isShelf -}}
+  {{- $books := partial "book/all.html" . -}}
+  {{- $all := sort (where $books "shelf_no" .Params.shelf_no) "year" -}}
+  {{- $items := slice -}}
+  {{- range $idx, $bk := $all -}}
+    {{- $items = $items | append (dict "@type" "ListItem" "position" (add $idx 1) "url" $bk.page.Permalink "name" (printf "%s (%s) by %s" $bk.title $bk.year $bk.author)) -}}
+  {{- end -}}
+  {{- $graph = $graph | append (dict
+    "@type" "CollectionPage"
+    "@id" (printf "%s#collection" .Permalink)
+    "name" .Title
+    "url" .Permalink
+    "isPartOf" (dict "@id" $siteID)
+    "mainEntity" (dict "@type" "ItemList" "numberOfItems" (len $items) "itemListElement" $items)
+  ) -}}
+  {{- $crumbs = $crumbs
+    | append (dict "@type" "ListItem" "position" 2 "name" "The Library" "item" (printf "%s/books/" $base))
+    | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+  -}}
+
+{{- /* === 7. COLLECTION PAGE === */ -}}
+{{- else if $isCollection -}}
+  {{- $items := slice -}}{{- $pos := 0 -}}
+  {{- range .Params.books | default slice -}}
+    {{- with site.GetPage (printf "/books/%s" .) -}}
+      {{- $pos = add $pos 1 -}}
+      {{- $br := partialCached "book/record.html" . .RelPermalink -}}
+      {{- $items = $items | append (dict "@type" "ListItem" "position" $pos "url" .Permalink "name" (printf "%s (%s) by %s" $br.title $br.year $br.author)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $graph = $graph | append (dict
+    "@type" "CollectionPage"
+    "@id" (printf "%s#collection" .Permalink)
+    "name" .Title
+    "description" (.Params.description | default "")
+    "url" .Permalink
+    "isPartOf" (dict "@id" $siteID)
+    "mainEntity" (dict "@type" "ItemList" "numberOfItems" (len $items) "itemListElement" $items)
+  ) -}}
+  {{- $crumbs = $crumbs
+    | append (dict "@type" "ListItem" "position" 2 "name" "Collections" "item" (printf "%s/collections/" $base))
+    | append (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+  -}}
+
+{{- /* === 8. PLATES, ABOUT, AND SECTION HUBS === */ -}}
+{{- else if $isPlates -}}
+  {{- $imgs := slice -}}
+  {{- range hugo.Data.plates.group -}}
+    {{- range .plate -}}
+      {{- $imgs = $imgs | append (dict
+        "@type" "ImageObject"
+        "name" .title
+        "description" (.alt | default .title)
+        "contentUrl" (printf "%s/plates/%s.webp" $base .key)
+        "encodingFormat" "image/webp"
+        "license" site.Params.license_url
+        "acquireLicensePage" (printf "%s/about/" $base)
+        "creditText" (printf "Cleaned historical plate from %s (p. %v), Akshara" .book .page)
+      ) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $graph = $graph | append (dict "@type" "ImageGallery" "@id" (printf "%s#gallery" .Permalink) "name" "The Plates" "description" .Params.description "url" .Permalink "isPartOf" (dict "@id" $siteID) "license" site.Params.license_url "associatedMedia" $imgs) -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" "The Plates" "item" .Permalink) -}}
+{{- else if $isAbout -}}
+  {{- $graph = $graph | append (dict "@type" "AboutPage" "@id" (printf "%s#about" .Permalink) "name" "About Akshara" "url" .Permalink "mainEntity" (dict "@id" $orgID) "isPartOf" (dict "@id" $siteID)) -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" "About" "item" .Permalink) -}}
+{{- else if not .IsHome -}}
+  {{- $graph = $graph | append (dict "@type" (cond .IsSection "CollectionPage" "WebPage") "@id" (printf "%s#page" .Permalink) "name" .Title "url" .Permalink "isPartOf" (dict "@id" $siteID)) -}}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" 2 "name" .Title "item" .Permalink) -}}
+{{- end -}}
+
+{{- if gt (len $crumbs) 1 -}}
+  {{- $graph = $graph | append (dict "@type" "BreadcrumbList" "@id" (printf "%s#breadcrumb" .Permalink) "itemListElement" $crumbs) -}}
+{{- end -}}
+
+{{- $doc := dict "@context" "https://schema.org" "@graph" $graph -}}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($doc | jsonify) | safeHTML }}
+{{- end -}}

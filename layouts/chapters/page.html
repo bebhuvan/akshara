@@ -34,6 +34,9 @@ its own words; the book's headings printed in capitals are marked to be set in s
 {{- $folios := slice }}{{ range findRESubmatch `class="folio-trigger[^"]*"[^>]*?data-folio="([0-9ivxlcdm]+)"` $text }}{{ $folios = $folios | append (index . 1) }}{{ end }}
 {{- range uniq $folios }}{{ $text = replaceRE (printf `(<(?:button|span|a)\b[^>]*? class="folio-trigger[^"]*"[^>]*?data-folio="%s")` .) (printf `<span class="pg-at" id="p-%s"></span>$1` .) $text 1 }}{{ end -}}
 {{- $text = replaceRE `<h3 class="sec-h3">([^a-z<]{3,})</h3>` `<h3 class="sec-h3 caps">$1</h3>` $text -}}
+{{- /* Stage One markdown chapters sometimes begin with a raw # heading; demote inline h1 so every page has one h1 */ -}}
+{{- $text = replaceRE `<h1(\b[^>]*)>` `<h2 class="sec-h1"$1>` $text -}}
+{{- $text = replace $text "</h1>" "</h2>" -}}
 
 <div class="read {{ $b.code }}" id="read" data-lh="normal" data-width="medium" data-notes="margin" data-para="indented" data-align="ragged" data-folios="shown" data-book="{{ $b.id }}">
   <div class="rd-bar" id="rbar">

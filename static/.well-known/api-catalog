@@ -1,0 +1,73 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://akshara.ink/catalog.json",
+      "service-desc": [
+        {
+          "href": "https://akshara.ink/catalog.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://akshara.ink/llms.txt",
+          "type": "text/plain"
+        },
+        {
+          "href": "https://akshara.ink/llms-full.txt",
+          "type": "text/plain"
+        },
+        {
+          "href": "https://akshara.ink/github/",
+          "type": "text/html"
+        }
+      ],
+      "license": [
+        {
+          "href": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "anchor": "https://akshara.ink/data/tables_atlas.json",
+      "service-desc": [
+        {
+          "href": "https://akshara.ink/data/tables_atlas.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://akshara.ink/datasets/",
+          "type": "text/html"
+        }
+      ],
+      "license": [
+        {
+          "href": "https://creativecommons.org/licenses/by/4.0/"
+        }
+      ]
+    },
+    {
+      "anchor": "https://akshara.ink/",
+      "describedby": [
+        {
+          "href": "https://akshara.ink/llms.txt",
+          "type": "text/plain"
+        }
+      ],
+      "search": [
+        {
+          "href": "https://akshara.ink/opensearch.xml",
+          "type": "application/opensearchdescription+xml"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://akshara.ink/index.xml",
+          "type": "application/rss+xml"
+        }
+      ]
+    }
+  ]
+}

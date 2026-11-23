@@ -1,0 +1,73 @@
+{{- $books := partial "book/all.html" . -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $bookList := slice -}}
+{{- $totalTables := 0 -}}
+{{- range sort $books "no" -}}
+  {{- $p := .page.Params -}}
+  {{- with $p.tables_count -}}{{- $totalTables = add $totalTables (int .) -}}{{- end -}}
+  {{- $dl := dict -}}
+  {{- with $p.download_epub -}}{{- $dl = merge $dl (dict "epub" (cond (hasPrefix . "http") . (printf "%s%s" $base .))) -}}{{- end -}}
+  {{- with $p.download_pdf -}}{{- $dl = merge $dl (dict "pdf" (cond (hasPrefix . "http") . (printf "%s%s" $base .))) -}}{{- end -}}
+  {{- with $p.download_md -}}{{- $dl = merge $dl (dict "markdown" (cond (hasPrefix . "http") . (printf "%s%s" $base .))) -}}{{- end -}}
+  {{- with $p.download_tei -}}{{- $dl = merge $dl (dict "tei_xml" (cond (hasPrefix . "http") . (printf "%s%s" $base .))) -}}{{- end -}}
+  {{- with $p.download_datasets -}}{{- $dl = merge $dl (dict "datapackage_json" (cond (hasPrefix . "http") . (printf "%s%s" $base .))) -}}{{- end -}}
+  {{- $item := dict
+    "id" .id
+    "akshara_no" .no
+    "title" .title
+    "cover_title" .cover_title
+    "subtitle" .subtitle
+    "author" .author
+    "author_url" (cond (ne ($p.author_slug | default "") "") (printf "%s/authors/%s/" $base $p.author_slug) "")
+    "year" (int .year)
+    "imprint" ($p.imprint | default "")
+    "url" .page.Permalink
+    "shelf" .shelf.name
+    "shelf_url" (printf "%s/shelves/%s/" $base .shelf.slug)
+    "edition_tier" .tier
+    "rubric_score" ($p.rubric_score | default nil)
+    "pages" ($p.pages | default nil)
+    "chapters_count" (len .page.Pages)
+    "tables_count" ($p.tables_count | default 0)
+    "period" ($p.period | default "")
+    "regions" ($p.regions | default slice)
+    "subjects" ($p.subjects | default slice)
+    "archive_id" ($p.archive_id | default "")
+    "archive_url" ($p.archive_url | default "")
+    "date_published_online" (cond (not .page.Date.IsZero) (.page.Date.Format "2006-01-02") "")
+    "downloads" $dl
+  -}}
+  {{- $bookList = $bookList | append $item -}}
+{{- end -}}
+{{- $shelves := slice -}}
+{{- range $i, $s := hugo.Data.shelves.shelf -}}
+  {{- $in := where $books "shelf_no" $i -}}
+  {{- $shelves = $shelves | append (dict "name" $s.name "slug" $s.slug "url" (printf "%s/shelves/%s/" $base $s.slug) "books_count" (len $in)) -}}
+{{- end -}}
+{{- $authors := slice -}}
+{{- range (site.GetPage "/authors").Pages.ByTitle -}}
+  {{- $bio := "" -}}
+  {{- with .Params.short_bio -}}{{- if not (findRE `work\(s\) preserved` .) -}}{{- $bio = . -}}{{- end -}}{{- end -}}
+  {{- $authors = $authors | append (dict "name" .Title "full_name" (.Params.full_name | default .Title) "url" .Permalink "birth_year" (.Params.birth_year | default nil) "death_year" (.Params.death_year | default nil) "short_bio" $bio) -}}
+{{- end -}}
+{{- $catalog := dict
+  "schema_version" "1.0"
+  "name" "Akshara"
+  "url" site.BaseURL
+  "description" site.Params.description
+  "license" (dict "name" site.Params.license_name "title" site.Params.license_title "url" site.Params.license_url)
+  "endpoints" (dict
+    "llms_txt" (printf "%s/llms.txt" $base)
+    "llms_full_txt" (printf "%s/llms-full.txt" $base)
+    "sitemap" (printf "%s/sitemap.xml" $base)
+    "rss" (printf "%s/index.xml" $base)
+    "tables_atlas" (printf "%s/data/tables_atlas.json" $base)
+    "search" (printf "%s/search/?q={query}" $base)
+  )
+  "citation_convention" "Append #p-<printed_folio> to any chapter URL to cite an exact printed page."
+  "stats" (dict "books" (len $bookList) "authors" (len $authors) "shelves" (len $shelves) "tables" $totalTables)
+  "shelves" $shelves
+  "books" $bookList
+  "authors" $authors
+-}}
+{{ $catalog | jsonify (dict "indent" "  ") }}

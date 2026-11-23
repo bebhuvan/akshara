@@ -1,30 +1,183 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{{- $title := cond .IsHome site.Title (printf "%s · %s" (.Title | plainify) site.Title) }}
-{{- if and .IsPage (eq .Type "chapters") }}{{ $cn := partial "chapter/name.html" . }}{{ $bk := .Parent }}{{ if eq $bk.Title "Chapters" }}{{ $bk = $bk.Parent }}{{ end }}{{ $br := partialCached "book/record.html" $bk $bk.RelPermalink }}
-{{- $title = printf "%s%s · %s · %s" (cond (ne $cn.num "") (printf "%s %s: " $cn.label $cn.num) "") ($cn.title | plainify) $br.cover_title site.Title }}{{ end }}
+{{- $isBook := and (eq .Type "books") (eq .Kind "section") (ne .RelPermalink "/books/") -}}
+{{- $isChapter := and .IsPage (eq .Type "chapters") -}}
+{{- $isAuthor := and .IsPage (eq .Section "authors") -}}
+{{- $isShelf := and .IsPage (eq .Section "shelves") -}}
+{{- $isBlog := and .IsPage (eq .Section "blog") -}}
+
+{{- /* === 1. Disambiguated <title> and og:title === */ -}}
+{{- $title := "" -}}
+{{- $ogTitle := .Title | plainify -}}
+{{- $bookPage := "" -}}{{- $bookRec := dict -}}
+{{- $prevChap := "" -}}{{- $nextChap := "" -}}
+
+{{- if .IsHome -}}
+  {{- $title = "Akshara — Free Public-Domain Library of Rare Books About India" -}}
+  {{- $ogTitle = $title -}}
+{{- else if $isBook -}}
+  {{- $bookPage = . -}}
+  {{- $bookRec = partialCached "book/record.html" . .RelPermalink -}}
+  {{- $ogTitle = printf "%s (%s) by %s" $bookRec.title $bookRec.year $bookRec.author -}}
+  {{- $title = printf "%s · %s" $ogTitle site.Title -}}
+{{- else if $isChapter -}}
+  {{- $bk := .Parent -}}{{- if eq $bk.Title "Chapters" -}}{{- $bk = $bk.Parent -}}{{- end -}}
+  {{- $bookPage = $bk -}}
+  {{- $bookRec = partialCached "book/record.html" $bk $bk.RelPermalink -}}
+  {{- $cn := partial "chapter/name.html" . -}}
+  {{- $chFull := cond (ne $cn.num "") (printf "%s %s: %s" $cn.label $cn.num ($cn.title | plainify)) ($cn.title | plainify) -}}
+  {{- /* Detect repeated chapter titles within the same book and compute prev/next links */ -}}
+  {{- $allCh := $bk.Pages.ByWeight -}}
+  {{- $dupes := 0 -}}{{- $pos := 0 -}}
+  {{- range $i, $c := $allCh -}}
+    {{- $other := partial "chapter/name.html" $c -}}
+    {{- $otherFull := cond (ne $other.num "") (printf "%s %s: %s" $other.label $other.num ($other.title | plainify)) ($other.title | plainify) -}}
+    {{- if eq (lower $otherFull) (lower $chFull) -}}{{- $dupes = add $dupes 1 -}}{{- end -}}
+    {{- if eq $c.RelPermalink $.RelPermalink -}}
+      {{- $pos = add $i 1 -}}
+      {{- if gt $i 0 -}}{{- $prevChap = index $allCh (sub $i 1) -}}{{- end -}}
+      {{- if lt (add $i 1) (len $allCh) -}}{{- $nextChap = index $allCh (add $i 1) -}}{{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if gt $dupes 1 -}}
+    {{- with .Params.printed_start_folio -}}
+      {{- $chFull = printf "%s (p. %v)" $chFull . -}}
+    {{- else -}}
+      {{- $chFull = printf "%s (Part %d)" $chFull $pos -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if or (eq (lower $chFull) (lower $bookRec.cover_title)) (eq (lower $chFull) (lower $bookRec.title)) -}}
+    {{- $ogTitle = printf "%s (%s) — Part %d" $bookRec.cover_title $bookRec.year $pos -}}
+  {{- else -}}
+    {{- $ogTitle = printf "%s · %s (%s)" $chFull $bookRec.cover_title $bookRec.year -}}
+  {{- end -}}
+  {{- $title = printf "%s · %s" $ogTitle site.Title -}}
+{{- else if $isAuthor -}}
+  {{- $yrs := "" -}}
+  {{- if or .Params.birth_year .Params.death_year -}}{{- $yrs = printf " (%v–%v)" (.Params.birth_year | default "?") (.Params.death_year | default "?") -}}{{- end -}}
+  {{- $ogTitle = printf "%s%s" (.Title | plainify) $yrs -}}
+  {{- $title = printf "%s · %s" $ogTitle site.Title -}}
+{{- else if $isShelf -}}
+  {{- $ogTitle = printf "%s — Rare Books About India" (.Title | plainify) -}}
+  {{- $title = printf "%s · %s" $ogTitle site.Title -}}
+{{- else -}}
+  {{- $ogTitle = .Title | plainify -}}
+  {{- $title = printf "%s · %s" $ogTitle site.Title -}}
+{{- end -}}
 <title>{{ $title }}</title>
-{{- $desc := .Params.description | default .Summary | default site.Params.description | plainify | truncate 200 }}
+
+{{- /* === 2. Clean, entity-rich <meta name="description"> === */ -}}
+{{- $desc := "" -}}
+{{- if $isBook -}}
+  {{- $note := index hugo.Data.booknotes $bookRec.id | default dict -}}
+  {{- $raw := $note.summary | default (.Params.description | default "") -}}
+  {{- if and (ne $raw "") (not (strings.Contains $raw "Archival scope:")) -}}
+    {{- $desc = $raw -}}
+  {{- else -}}
+    {{- $parts := slice (printf "Read %s (%s) by %s free on Akshara." $bookRec.title $bookRec.year $bookRec.author) -}}
+    {{- with $bookRec.subtitle -}}{{- $parts = $parts | append (printf "%s." (strings.TrimRight "." .)) -}}{{- end -}}
+    {{- with .Params.period -}}
+      {{- $reg := "" -}}{{- with $.Params.regions -}}{{- $reg = printf " (%s)" (delimit (first 3 .) ", ") -}}{{- end -}}
+      {{- $parts = $parts | append (printf "Covers %s%s." . $reg) -}}
+    {{- end -}}
+    {{- if .Params.tables_count -}}
+      {{- $parts = $parts | append (printf "Full text beside page scans, EPUB, Markdown, TEI XML, and %v CSV tables." .Params.tables_count) -}}
+    {{- else -}}
+      {{- $parts = $parts | append "Full text beside page scans, EPUB, Markdown, and TEI XML." -}}
+    {{- end -}}
+    {{- $desc = delimit $parts " " -}}
+  {{- end -}}
+{{- else if $isChapter -}}
+  {{- $cn := partial "chapter/name.html" . -}}
+  {{- $chLabel := cond (ne $cn.num "") (printf "%s %s: %s" $cn.label $cn.num ($cn.title | plainify)) ($cn.title | plainify) -}}
+  {{- $clean := .Plain | replaceRE `\[p\.\s*[0-9ivxlcdmIVXLCDM]+\]` " " | replaceRE `\s+` " " | strings.TrimSpace -}}
+  {{- $lead := printf "%s from %s (%s) by %s" $chLabel $bookRec.cover_title $bookRec.year $bookRec.author -}}
+  {{- with .Params.printed_start_folio -}}{{- $lead = printf "%s (p. %v)" $lead . -}}{{- end -}}
+  {{- $desc = cond (gt (len $clean) 25) (printf "%s: %s" $lead $clean) (printf "%s, free to read beside its original scan on Akshara." $lead) -}}
+{{- else if $isAuthor -}}
+  {{- $bio := "" -}}
+  {{- with .Params.short_bio -}}{{- if not (findRE `work\(s\) preserved` .) -}}{{- $bio = . -}}{{- end -}}{{- end -}}
+  {{- if $bio -}}
+    {{- $desc = printf "%s Read %s’s public-domain books on India free on Akshara." (strings.TrimRight "." $bio | printf "%s.") .Title -}}
+  {{- else -}}
+    {{- $books := partial "book/all.html" . -}}
+    {{- $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) -}}
+    {{- $theirs := where $books "page.Params.author_slug" $slug -}}
+    {{- $names := slice -}}{{- range first 3 $theirs -}}{{- $names = $names | append (printf "%s (%s)" .cover_title .year) -}}{{- end -}}
+    {{- $desc = printf "Public-domain books by %s on Akshara%s. Free full text beside original scans under CC BY 4.0." .Title (cond (gt (len $names) 0) (printf ": %s" (delimit $names ", ")) "") -}}
+  {{- end -}}
+{{- else if $isShelf -}}
+  {{- $books := partial "book/all.html" . -}}
+  {{- $all := sort (where $books "shelf_no" .Params.shelf_no) "year" -}}
+  {{- $n := len $all -}}
+  {{- $span := "" -}}
+  {{- if gt $n 0 -}}{{- $span = printf ", printed between %s and %s" (index $all 0).year (index $all (sub $n 1)).year -}}{{- end -}}
+  {{- $desc = printf "%s shelf on Akshara: %d public-domain books about India%s, read from original photographs and free to read and download under CC BY 4.0." .Title $n $span -}}
+{{- else -}}
+  {{- $desc = .Params.description | default .Summary | default site.Params.description -}}
+{{- end -}}
+{{- $desc = $desc | plainify | replaceRE `\s+` " " | strings.TrimSpace | truncate 165 -}}
 <meta name="description" content="{{ $desc }}">
+
+{{- /* === 3. Indexing & Discovery Directives === */ -}}
+{{- if or (eq .Kind "404") .Params.noindex }}
+<meta name="robots" content="noindex, follow">
+{{- else }}
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+{{- end }}
+{{- if ne .Kind "404" }}
 <link rel="canonical" href="{{ .Permalink }}">
+{{- end }}
 <link rel="license" href="{{ site.Params.license_url }}">
-<meta property="og:title" content="{{ .Title | plainify }}">
+{{- with $prevChap }}<link rel="prev" href="{{ .Permalink }}">{{ end }}
+{{- with $nextChap }}<link rel="next" href="{{ .Permalink }}">{{ end }}
+<link rel="alternate" type="text/plain" title="Akshara LLM Index" href="/llms.txt">
+<link rel="search" type="application/opensearchdescription+xml" title="Akshara" href="/opensearch.xml">
+{{- if .IsHome }}
+<link rel="api-catalog" type="application/linkset+json" href="/.well-known/api-catalog">
+{{- end }}
+{{- if $isBook }}
+  {{- with .Params.download_md }}<link rel="alternate" type="text/markdown" title="{{ $bookRec.cover_title }} (Markdown)" href="{{ . }}">{{ end }}
+  {{- with .Params.download_tei }}<link rel="alternate" type="application/tei+xml" title="{{ $bookRec.cover_title }} (TEI XML)" href="{{ . }}">{{ end }}
+  {{- with .Params.download_datasets }}<link rel="alternate" type="application/json" title="{{ $bookRec.cover_title }} (Data Package)" href="{{ . }}">{{ end }}
+{{- end }}
+
+{{- /* === 4. Open Graph & Twitter Cards === */ -}}
+{{- $ogType := "website" -}}
+{{- if $isBook -}}{{- $ogType = "book" -}}
+{{- else if or $isChapter $isBlog -}}{{- $ogType = "article" -}}
+{{- else if $isAuthor -}}{{- $ogType = "profile" -}}{{- end }}
+<meta property="og:title" content="{{ $ogTitle }}">
 <meta property="og:description" content="{{ $desc }}">
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:site_name" content="Akshara">
-<meta property="og:type" content="{{ cond .IsPage "article" "website" }}">
+<meta property="og:locale" content="en_IN">
+<meta property="og:type" content="{{ $ogType }}">
+{{- if $isBook }}
+<meta property="book:release_date" content="{{ $bookRec.year }}">
+{{- else if $isBlog }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{- if not .Lastmod.IsZero }}<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">{{ end }}
+{{- end }}
 {{- /* the social preview: a book's own card on its page and its chapters, the site's card elsewhere */}}
 {{- $card := "" }}{{ $cardAlt := "Akshara: making India’s forgotten books readable again." }}
-{{- $bk := cond (and .IsPage (eq .Type "chapters")) .Parent . }}{{ if and $bk (eq $bk.Title "Chapters") }}{{ $bk = $bk.Parent }}{{ end }}
-{{- if and $bk (eq $bk.Type "books") (eq $bk.Kind "section") (ne $bk.RelPermalink "/books/") }}
-  {{- $br := partialCached "book/record.html" $bk $bk.RelPermalink }}
-  {{- $card = partialCached "book/social.html" $br $br.id }}{{ $cardAlt = printf "The cover of %s, %s, %s, Akshara No. %d" $br.cover_title $br.author $br.year $br.no }}
+{{- if $bookPage }}
+  {{- $card = partialCached "book/social.html" $bookRec $bookRec.id }}{{ $cardAlt = printf "The cover of %s, %s, %s, Akshara No. %d" $bookRec.cover_title $bookRec.author $bookRec.year $bookRec.no }}
 {{- else }}{{ $card = partialCached "page/social-home.html" . "home" }}{{ end }}
 <meta property="og:image" content="{{ $card.Permalink }}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="{{ $cardAlt }}">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $ogTitle }}">
+<meta name="twitter:description" content="{{ $desc }}">
+<meta name="twitter:image" content="{{ $card.Permalink }}">
+<meta name="twitter:creator" content="@bebhuvan">
+
+{{- /* === 5. Scholarly Citations (Google Scholar / Zotero / Wikipedia Citoid) & JSON-LD === */ -}}
+{{ partial "page/citations.html" . }}
+{{ partial "page/jsonld.html" . }}
+
 <meta name="theme-color" content="#FFFFFF" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#17181A" media="(prefers-color-scheme: dark)">
 <meta name="color-scheme" content="light dark">
@@ -35,6 +188,14 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="preload" href="/fonts/newsreader-normal-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/fonts/newsreader-italic-400-700-latin.woff2" as="font" type="font/woff2" crossorigin>
+{{- /* Preload the single above-the-fold plate (CSS mask --src:url isn't discovered by HTML preload scanner) */ -}}
+{{- if .IsHome -}}
+  {{- with index hugo.Data.home.turning 0 }}
+<link rel="preload" as="image" href="{{ partial "plate/url.html" (dict "key" .plate "w" 960) }}" fetchpriority="high">
+  {{- end -}}
+{{- else if and $isBook $bookRec.cover.plate }}
+<link rel="preload" as="image" href="{{ partial "plate/url.html" (dict "key" $bookRec.cover.plate "w" 800) }}" fetchpriority="high">
+{{- end }}
 {{- $shelves := resources.Get "css/shelves.css" | resources.ExecuteAsTemplate "css/shelves.css" . }}
 {{- $css := slice (resources.Get "css/plate.css") $shelves | resources.Concat "css/plate.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">

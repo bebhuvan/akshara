@@ -35,3 +35,6 @@ npm-debug.log*
 
 # Python
 __pycache__/
+
+# Local SEO & GEO optimization playbook (private working notes)
+SEO_GEO_PLAYBOOK.md

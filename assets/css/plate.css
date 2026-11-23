@@ -584,6 +584,9 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .opening blockquote p::after { content: "”"; }
 .opening .src { margin-top: 14px; font-size: var(--fs-note); color: var(--ink-2); }
 .opening .src::before { content: "— "; color: var(--ink-3); }
+.about-refs { margin-top: 20px; font-size: var(--fs-note); color: var(--ink-2); max-width: var(--measure); }
+.about-refs span { color: var(--ink-3); margin-right: 10px; }
+.about-refs a { white-space: nowrap; }
 @media (max-width: 759px) { .opening blockquote { padding-left: .7em; } .opening blockquote p::before { left: -.15em; font-size: 2em; top: -.1em; } }
 /* Contents: as a printed contents page. Each title is led by dots to the page it was printed on; the numeral
    in the shelf's ink; the preliminaries and the back matter quieter, before and after. */

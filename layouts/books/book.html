@@ -23,10 +23,11 @@ or else the subtitle. A subtitle that only names the volume is said in the serie
 {{- else -}}{{- if not $rest -}}{{- $rest = $b.subtitle -}}{{- end -}}{{- end -}}
 {{- if eq $rest $b.cover.line -}}{{- $rest = "" -}}{{- end -}}
 
-{{- /* What the book is about. A prose description is used as written. The pipeline's records carry a
-catalogue line instead ("Archival scope: …"); for those, the record's own period, places and subjects are
-shown as two plain lines, in the record's own capitals. */ -}}
-{{- $about := $p.description | default "" -}}
+{{- /* What the book is about. A curated summary from data/booknotes.toml takes precedence; otherwise a prose
+description is used as written. The pipeline's records carry a catalogue line instead ("Archival scope: …");
+for those, the record's own period, places and subjects are shown as two plain lines, in the record's own capitals. */ -}}
+{{- $note := index hugo.Data.booknotes $b.id | default dict -}}
+{{- $about := $note.summary | default ($p.description | default "") -}}
 {{- $scope := "" -}}{{- $subjects := "" -}}
 {{- if strings.Contains $about "Archival scope:" -}}
   {{- $about = "" -}}
@@ -93,12 +94,26 @@ shown as two plain lines, in the record's own capitals. */ -}}
   </figure>
   {{- end }}
 
-  {{- if $isV1 }}{{ with $.Content }}
+  {{- $aboutBody := "" -}}
+  {{- if $note.about -}}
+    {{- $aboutBody = $note.about | markdownify -}}
+  {{- else if $isV1 -}}
+    {{- with $.Content -}}{{- $aboutBody = . -}}{{- end -}}
+  {{- end -}}
+  {{- with $aboutBody }}
   <section class="sec" aria-labelledby="h-about">
-    <div class="sec-h"><h2 id="h-about">About the book</h2></div>
+    <div class="sec-h"><h2 id="h-about">About the book</h2>{{- with $p.period }}<span>{{ replace . "-" "–" }}</span>{{ end }}</div>
     <div class="prose">{{ . }}</div>
+    {{- $refs := slice -}}
+    {{- with $note.wikipedia }}{{ $refs = $refs | append (dict "url" . "label" "This book on Wikipedia") }}{{ end -}}
+    {{- with $note.wikisource }}{{ $refs = $refs | append (dict "url" . "label" "This book on Wikisource") }}{{ end -}}
+    {{- with $note.author_wikipedia }}{{ $refs = $refs | append (dict "url" . "label" (printf "%s on Wikipedia" $b.author)) }}{{ end -}}
+    {{- with $note.author_wikisource }}{{ $refs = $refs | append (dict "url" . "label" (printf "%s on Wikisource" $b.author)) }}{{ end -}}
+    {{- with $refs }}
+    <p class="about-refs"><span>Further reading</span>{{ range $i, $r := . }}{{ if $i }} · {{ end }}<a class="ln" href="{{ $r.url }}" rel="noopener">{{ $r.label }}</a>{{ end }}</p>
+    {{- end }}
   </section>
-  {{- end }}{{ end }}
+  {{- end }}
 
   <section class="sec" aria-labelledby="h-toc">
     {{- $pre := where $chapters "Params.section_kind" "in" (slice "frontmatter" "preface" "introduction") }}
@@ -194,7 +209,19 @@ shown as two plain lines, in the record's own capitals. */ -}}
             {{- if and (not $isV1) $p.pages }} This edition gives all {{ $p.pages }} printed pages{{ with $p.reread_pages }}, {{ . }} of them read a second time against the scan{{ end }}{{ with $p.footnotes_count }}, with {{ cond (eq (int .) 1) "its one footnote" (printf "its %v footnotes" .) }} kept where {{ cond (eq (int .) 1) "it was" "they were" }} printed{{ end }}.{{ end }}
             {{- with $archiveID }} It was read from the copy in the Internet Archive, <a class="ln" href="https://archive.org/details/{{ . }}">{{ . }}</a>.{{ end }}</p>
             <p>Akshara No. {{ $b.no }}, on the shelf of <a class="ln" href="/shelves/{{ $b.shelf.slug }}/">{{ $b.shelf.name }}</a>{{ with $p.collection_slug }}{{ with site.GetPage (printf "/collections/%s" .) }}, and in the collection <a class="ln" href="{{ .RelPermalink }}">{{ .Title }}</a>{{ end }}{{ end }}.</p>
+            {{- with $p.author_slug -}}
+              {{- $allBooks := partial "book/all.html" $ -}}
+              {{- $siblings := slice -}}
+              {{- range sort (where $allBooks "page.Params.author_slug" .) "year" -}}
+                {{- if ne .id $b.id -}}{{- $siblings = $siblings | append . -}}{{- end -}}
+              {{- end -}}
+              {{- with $siblings }}
+            <p>Also by {{ $b.author }} on Akshara: {{ range $i, $s := . }}{{ if $i }}, {{ end }}<a class="ln" href="{{ $s.url }}"><i>{{ $s.cover_title }}</i></a> ({{ $s.year }}){{ end }}.</p>
+              {{- end -}}
+            {{- end }}
             <p>Released under <a class="ln" href="{{ site.Params.license_url }}" rel="license" title="{{ site.Params.license_title }}">{{ site.Params.license_name }}</a>: share and adapt it freely, crediting Akshara. The book itself is in the public domain.</p>
+            {{- /* OpenURL COinS for Zotero, EndNote, Citavi, and academic citation managers */ -}}
+            <span class="Z3988" aria-hidden="true" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle={{ $b.title | urlquery }}&amp;rft.au={{ $b.author | urlquery }}&amp;rft.date={{ $b.year | urlquery }}&amp;rft.pub=Akshara&amp;rft_id={{ $.Permalink | urlquery }}"></span>
           </div>
         </div>
       </div>

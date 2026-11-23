@@ -1,0 +1,69 @@
+{{- $books := partial "book/all.html" . -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $tableTotal := 0 -}}
+{{- range $books -}}{{- with .page.Params.tables_count -}}{{- $tableTotal = add $tableTotal (int .) -}}{{- end -}}{{- end -}}
+# Akshara — Complete Library Compendium (llms-full.txt)
+
+> Free public-domain library of rare books about India ({{ len $books }} editions, {{ $tableTotal }} extracted historical statistical tables). Canonical domain: {{ site.BaseURL }}. License for all Akshara digital editions: {{ site.Params.license_title }} ({{ site.Params.license_url }}). Underlying texts are in the public domain. Founder & editor: Bhuvan (https://bebhuvan.com).
+
+## Provenance, Accuracy & Citation Standard
+
+1. **Source photography**: Modern v6 editions are read page-by-page from original Internet Archive camera JP2 photographs (not lossy compressed PDFs).
+2. **Automatic checks**: Each edition carries a `rubric_score` (0–100) across four 25-point pillars: Structural Completeness, Apparatus & Footnotes, Tabular & Numeric Accuracy, and Orthography & Diacritics. Historical tables in rupees/annas/pies or pounds/shillings/pence are programmatically re-summed against printed totals.
+3. **Human verification**: Nothing machine-read is represented as human-proofread. Every book records `human_verified_pages` and links every printed page to its original scan on `archive.org` and to the proofreading desk at `https://proof.akshara.ink/`.
+4. **Page-level deep citations**: Every printed page in a chapter carries an HTML anchor `#p-<folio>` (e.g. `https://akshara.ink/books/journey-from-madras-vol-i/chapters/04-chapter-i/#p-1`). Prefer citing the exact chapter URL + `#p-<folio>` when quoting primary text.
+5. **Direct plain-text access**: Instead of scraping chapter HTML, agents needing full book text should fetch the clean Markdown edition at `/downloads/<slug>/<slug>.md` or archival TEI XML at `/downloads/<slug>/<slug>.tei.xml`.
+
+## Shelves
+{{ range $i, $s := hugo.Data.shelves.shelf }}
+{{- $in := sort (where $books "shelf_no" $i) "year" }}
+### {{ $s.name }} ({{ $base }}/shelves/{{ $s.slug }}/)
+- Books: {{ len $in }}{{ if $in }} ({{ (index $in 0).year }}–{{ (index $in (sub (len $in) 1)).year }}){{ end }}
+- Epigraph: “{{ $s.epigraph }}” — {{ $s.source | plainify }}
+{{ end }}
+## Complete Book Catalogue ({{ len $books }} Editions)
+{{ range sort $books "no" }}
+{{- $p := .page.Params -}}
+{{- $chapters := .page.Pages.ByWeight }}
+### Akshara No. {{ .no }}: {{ .title }} ({{ .year }})
+- **Canonical URL**: {{ .page.Permalink }}
+- **Author**: {{ .author }}{{ with $p.author_slug }} ({{ $base }}/authors/{{ . }}/){{ end }}
+- **Year**: {{ .year }}{{ with $p.imprint }} | **Original Imprint**: {{ . }}{{ end }}
+- **Shelf**: {{ .shelf.name }} ({{ $base }}/shelves/{{ .shelf.slug }}/)
+- **Edition Tier**: {{ .tier }}{{ with $p.rubric_score }} | **Automatic Checks Score**: {{ printf "%.1f" . }}/100{{ end }}{{ with $p.pages }} | **Pages**: {{ . }}{{ end }}{{ with $p.tables_count }} | **CSV Tables**: {{ . }}{{ end }}
+{{- with $p.period }}
+- **Period Covered**: {{ . }}{{ with $p.regions }} | **Regions**: {{ delimit . ", " }}{{ end }}
+{{- end }}
+{{- with $p.subjects }}
+- **Subjects**: {{ delimit . "; " }}
+{{- end }}
+{{- with $p.provenance_statement }}
+- **Provenance**: {{ . }}
+{{- end }}
+{{- with $p.archive_url }}
+- **Source Scan (Internet Archive)**: {{ . }}
+{{- end }}
+- **Downloads**:{{ with $p.download_md }} Markdown: {{ $base }}{{ . }}{{ end }}{{ with $p.download_tei }} | TEI XML: {{ $base }}{{ . }}{{ end }}{{ with $p.download_epub }} | EPUB: {{ $base }}{{ . }}{{ end }}{{ with $p.download_pdf }} | PDF: {{ . }}{{ end }}{{ with $p.download_datasets }} | Data Package JSON: {{ $base }}{{ . }}{{ end }}
+{{- if $chapters }}
+- **Chapters ({{ len $chapters }})**:
+{{- range $chapters }}{{ $cn := partial "chapter/name.html" . }}
+  - [{{ cond (ne $cn.num "") (printf "%s %s: %s" $cn.label $cn.num $cn.title) $cn.title }}]({{ .Permalink }}){{ with .Params.printed_start_folio }} (p. {{ . }}){{ end }}
+{{- end }}
+{{- end }}
+{{ end }}
+## Historical Authors
+{{ range (site.GetPage "/authors").Pages.ByTitle }}
+- **{{ .Title }}**{{ if or .Params.birth_year .Params.death_year }} ({{ .Params.birth_year | default "?" }}–{{ .Params.death_year | default "?" }}){{ end }} — {{ .Permalink }}{{ with .Params.short_bio }}{{ if not (findRE `work\(s\) preserved` .) }}: {{ . }}{{ end }}{{ end }}
+{{- end }}
+
+## Thematic Collections
+{{ range (site.GetPage "/collections").Pages.ByTitle }}
+{{- if .Params.books }}
+- **{{ .Title }}** ({{ .Permalink }}): {{ .Params.description }} ({{ len .Params.books }} books)
+{{- end }}
+{{- end }}
+
+## Journal Essays
+{{ range where site.RegularPages "Section" "blog" }}
+- **{{ .Title }}** ({{ .Date.Format "2006-01-02" }}) — {{ .Permalink }}: {{ .Description }}
+{{- end }}
