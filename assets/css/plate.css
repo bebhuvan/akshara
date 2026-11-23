@@ -25,6 +25,65 @@
 @font-face { font-family: "Newsreader"; font-style: italic; font-weight: 200 800; font-display: swap;
   src: url("/fonts/newsreader-italic-400-700-latin-ext.woff2") format("woff2");
   unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02AF, U+0329, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1E9F, U+1EF2-1EF4, U+1EF6-1EFF, U+20A0-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
+/* The three faces a reader may choose for a book's text (D35, D36): Book (EB Garamond), Clear (Noto Serif) and Plain
+   (Source Sans 3, renamed in its files as its licence asks). Each is cut by scripts/cut_reading_fonts.py into the same three
+   ranges as Newsreader, with the combining accents and the fractions, super- and subscripts the books use. A file is
+   fetched only when a page draws a letter in it with that face, and the faces are named only under the reading page's
+   [data-type] rules, so a reader downloads only the face they read in. */
+@font-face { font-family: "Akshara Book"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/ebgaramond-normal-400-700-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Akshara Book"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/ebgaramond-normal-ext-common.woff2") format("woff2");
+  unicode-range: U+0100-0101, U+0103-0104, U+010D, U+0111-0113, U+0115, U+0119, U+0120-0121, U+0127, U+0129-012B, U+0131, U+0142, U+0144, U+0146, U+014C-014D, U+014F-0151, U+0153, U+0155, U+0158-015B, U+0169-016B, U+016D, U+017F-0180, U+021B, U+0300-0328, U+032A-036F, U+1E0C-1E0D, U+1E24-1E25, U+1E33, U+1E37, U+1E3B, U+1E41, U+1E43, U+1E45-1E47, U+1E5A-1E5B, U+1E5D, U+1E5F, U+1E62-1E63, U+1E6C-1E6D, U+1E6F, U+1E93, U+1E95, U+1EF5, U+2020, U+20A8, U+20B9, U+2113, U+A751, U+A753, U+A75B, U+A76B, U+A76D; }
+@font-face { font-family: "Akshara Book"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/ebgaramond-normal-400-700-latin-ext.woff2") format("woff2");
+  unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02BA, U+02BD-02C5, U+02C7-02D9, U+02DB, U+02DD-02FF, U+0329, U+1D00-1DBF, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1EF4, U+1EF6-1EFF, U+2070-2073, U+2075-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2100-2112, U+2114-2121, U+2123-218F, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
+@font-face { font-family: "Akshara Book"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/ebgaramond-italic-400-700-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Akshara Book"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/ebgaramond-italic-ext-common.woff2") format("woff2");
+  unicode-range: U+0100-0101, U+0103-0104, U+010D, U+0111-0113, U+0115, U+0119, U+0120-0121, U+0127, U+0129-012B, U+0131, U+0142, U+0144, U+0146, U+014C-014D, U+014F-0151, U+0153, U+0155, U+0158-015B, U+0169-016B, U+016D, U+017F-0180, U+021B, U+0300-0328, U+032A-036F, U+1E0C-1E0D, U+1E24-1E25, U+1E33, U+1E37, U+1E3B, U+1E41, U+1E43, U+1E45-1E47, U+1E5A-1E5B, U+1E5D, U+1E5F, U+1E62-1E63, U+1E6C-1E6D, U+1E6F, U+1E93, U+1E95, U+1EF5, U+2020, U+20A8, U+20B9, U+2113, U+A751, U+A753, U+A75B, U+A76B, U+A76D; }
+@font-face { font-family: "Akshara Book"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/ebgaramond-italic-400-700-latin-ext.woff2") format("woff2");
+  unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02BA, U+02BD-02C5, U+02C7-02D9, U+02DB, U+02DD-02FF, U+0329, U+1D00-1DBF, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1EF4, U+1EF6-1EFF, U+2070-2073, U+2075-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2100-2112, U+2114-2121, U+2123-218F, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
+@font-face { font-family: "Akshara Clear"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/notoserif-normal-400-700-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Akshara Clear"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/notoserif-normal-ext-common.woff2") format("woff2");
+  unicode-range: U+0100-0101, U+0103-0104, U+010D, U+0111-0113, U+0115, U+0119, U+0120-0121, U+0127, U+0129-012B, U+0131, U+0142, U+0144, U+0146, U+014C-014D, U+014F-0151, U+0153, U+0155, U+0158-015B, U+0169-016B, U+016D, U+017F-0180, U+021B, U+0300-0328, U+032A-036F, U+1E0C-1E0D, U+1E24-1E25, U+1E33, U+1E37, U+1E3B, U+1E41, U+1E43, U+1E45-1E47, U+1E5A-1E5B, U+1E5D, U+1E5F, U+1E62-1E63, U+1E6C-1E6D, U+1E6F, U+1E93, U+1E95, U+1EF5, U+2020, U+20A8, U+20B9, U+2113, U+A751, U+A753, U+A75B, U+A76B, U+A76D; }
+@font-face { font-family: "Akshara Clear"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/notoserif-normal-400-700-latin-ext.woff2") format("woff2");
+  unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02BA, U+02BD-02C5, U+02C7-02D9, U+02DB, U+02DD-02FF, U+0329, U+1D00-1DBF, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1EF4, U+1EF6-1EFF, U+2070-2073, U+2075-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2100-2112, U+2114-2121, U+2123-218F, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
+@font-face { font-family: "Akshara Clear"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/notoserif-italic-400-700-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Akshara Clear"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/notoserif-italic-ext-common.woff2") format("woff2");
+  unicode-range: U+0100-0101, U+0103-0104, U+010D, U+0111-0113, U+0115, U+0119, U+0120-0121, U+0127, U+0129-012B, U+0131, U+0142, U+0144, U+0146, U+014C-014D, U+014F-0151, U+0153, U+0155, U+0158-015B, U+0169-016B, U+016D, U+017F-0180, U+021B, U+0300-0328, U+032A-036F, U+1E0C-1E0D, U+1E24-1E25, U+1E33, U+1E37, U+1E3B, U+1E41, U+1E43, U+1E45-1E47, U+1E5A-1E5B, U+1E5D, U+1E5F, U+1E62-1E63, U+1E6C-1E6D, U+1E6F, U+1E93, U+1E95, U+1EF5, U+2020, U+20A8, U+20B9, U+2113, U+A751, U+A753, U+A75B, U+A76B, U+A76D; }
+@font-face { font-family: "Akshara Clear"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/notoserif-italic-400-700-latin-ext.woff2") format("woff2");
+  unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02BA, U+02BD-02C5, U+02C7-02D9, U+02DB, U+02DD-02FF, U+0329, U+1D00-1DBF, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1EF4, U+1EF6-1EFF, U+2070-2073, U+2075-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2100-2112, U+2114-2121, U+2123-218F, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
+@font-face { font-family: "Akshara Plain"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/sourcesans3-normal-400-700-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Akshara Plain"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/sourcesans3-normal-ext-common.woff2") format("woff2");
+  unicode-range: U+0100-0101, U+0103-0104, U+010D, U+0111-0113, U+0115, U+0119, U+0120-0121, U+0127, U+0129-012B, U+0131, U+0142, U+0144, U+0146, U+014C-014D, U+014F-0151, U+0153, U+0155, U+0158-015B, U+0169-016B, U+016D, U+017F-0180, U+021B, U+0300-0328, U+032A-036F, U+1E0C-1E0D, U+1E24-1E25, U+1E33, U+1E37, U+1E3B, U+1E41, U+1E43, U+1E45-1E47, U+1E5A-1E5B, U+1E5D, U+1E5F, U+1E62-1E63, U+1E6C-1E6D, U+1E6F, U+1E93, U+1E95, U+1EF5, U+2020, U+20A8, U+20B9, U+2113, U+A751, U+A753, U+A75B, U+A76B, U+A76D; }
+@font-face { font-family: "Akshara Plain"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/sourcesans3-normal-400-700-latin-ext.woff2") format("woff2");
+  unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02BA, U+02BD-02C5, U+02C7-02D9, U+02DB, U+02DD-02FF, U+0329, U+1D00-1DBF, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1EF4, U+1EF6-1EFF, U+2070-2073, U+2075-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2100-2112, U+2114-2121, U+2123-218F, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
+@font-face { font-family: "Akshara Plain"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/sourcesans3-italic-400-700-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Akshara Plain"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/sourcesans3-italic-ext-common.woff2") format("woff2");
+  unicode-range: U+0100-0101, U+0103-0104, U+010D, U+0111-0113, U+0115, U+0119, U+0120-0121, U+0127, U+0129-012B, U+0131, U+0142, U+0144, U+0146, U+014C-014D, U+014F-0151, U+0153, U+0155, U+0158-015B, U+0169-016B, U+016D, U+017F-0180, U+021B, U+0300-0328, U+032A-036F, U+1E0C-1E0D, U+1E24-1E25, U+1E33, U+1E37, U+1E3B, U+1E41, U+1E43, U+1E45-1E47, U+1E5A-1E5B, U+1E5D, U+1E5F, U+1E62-1E63, U+1E6C-1E6D, U+1E6F, U+1E93, U+1E95, U+1EF5, U+2020, U+20A8, U+20B9, U+2113, U+A751, U+A753, U+A75B, U+A76B, U+A76D; }
+@font-face { font-family: "Akshara Plain"; font-style: italic; font-weight: 400 700; font-display: swap;
+  src: url("/fonts/sourcesans3-italic-400-700-latin-ext.woff2") format("woff2");
+  unicode-range: U+0102, U+0105-010C, U+010E-0110, U+0114, U+0116-0118, U+011A-011F, U+0122-0126, U+0128, U+012C-0130, U+0132-0141, U+0143, U+0145, U+0147-014B, U+014E, U+0152, U+0154, U+0156-0157, U+015C-0168, U+016C, U+016E-017E, U+0181-021A, U+021C-02BA, U+02BD-02C5, U+02C7-02D9, U+02DB, U+02DD-02FF, U+0329, U+1D00-1DBF, U+1E00-1E0B, U+1E0E-1E23, U+1E26-1E32, U+1E34-1E36, U+1E38-1E3A, U+1E3C-1E40, U+1E42, U+1E44, U+1E48-1E59, U+1E5C, U+1E5E, U+1E60-1E61, U+1E64-1E6B, U+1E6E, U+1E70-1E92, U+1E94, U+1E96-1EF4, U+1EF6-1EFF, U+2070-2073, U+2075-20A7, U+20A9-20AB, U+20AD-20B8, U+20BA-20C0, U+2100-2112, U+2114-2121, U+2123-218F, U+2C60-2C7F, U+A720-A750, U+A752, U+A754-A75A, U+A75C-A76A, U+A76C, U+A76E-A7FF; }
 /* Noto Serif Kannada, fixed at weight 500 and cut to the five letters of ಅಕ್ಷರ (3 KB): it only ever sets the mark. */
 @font-face { font-family: "Akshara Kannada"; font-style: normal; font-weight: 300 700; font-display: swap;
   src: url("/fonts/noto-serif-kannada-500-mark.woff2") format("woff2"); unicode-range: U+0C85, U+0C95, U+0CB0, U+0CB7, U+0CCD, U+200C-200D; }
@@ -45,6 +104,10 @@
   --k: #4A4740;
   --serif: "Newsreader", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   --kn: "Akshara Kannada", "Noto Serif Kannada", "Tunga", serif;
+  /* the book's own text, in the face the reader chose in the panel (D35, D36); everything around it is Newsreader */
+  --book: "Akshara Book", "EB Garamond", Garamond, "Iowan Old Style", Georgia, serif;
+  --clear: "Akshara Clear", "Noto Serif", Georgia, serif;
+  --plain: "Akshara Plain", "Source Sans 3", "Segoe UI", system-ui, sans-serif;
   --gut: max(20px, env(safe-area-inset-left, 0px));
   --gut-r: max(20px, env(safe-area-inset-right, 0px));
   /* Type: one scale, named by role. Display sizes grow with the screen. */
@@ -568,6 +631,11 @@ mark { background: color-mix(in srgb, var(--g) 85%, var(--k) 15%); color: var(--
 .bk-text .scope i { color: var(--ink-2); }
 .bk-actions { display: grid; gap: 12px; margin-top: 20px; }
 .bk-actions .cta { max-width: 420px; }
+/* Read it whole: the second way in, drawn in the book's ink on the paper rather than as a block of it */
+.bk-actions .whole-in { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; max-width: 420px; min-height: 50px; padding: 13px 20px;
+  border: 1px solid color-mix(in srgb, var(--k) 55%, transparent); color: var(--k); font-size: var(--fs-body); line-height: 1.2; transition: background-color .2s; }
+.bk-actions .whole-in span:last-child { font-size: var(--fs-aside); color: var(--ink-2); text-align: right; }
+.bk-actions .whole-in:hover { background: color-mix(in srgb, var(--k) 8%, transparent); }
 .bk-actions .dl { font-size: var(--fs-aside); line-height: 1.5; color: var(--ink-2); }
 .bk-actions .dl a { color: var(--ink); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .bk-actions .dl a:last-child { color: var(--ink-2); white-space: nowrap; }
@@ -627,6 +695,26 @@ table.ledger .n { text-align: right; }
 .tbl-dl a::after { content: "\00A0\2193"; }
 /* This edition: how far it has been checked; then two matching columns, the forms it comes in and its record;
    then the editor's note. Each part is named by a small italic head over the same hairline. */
+/* The original (D38): the copy in the Internet Archive's reader, loaded only on request, beside its identifiers. */
+.orig { display: grid; gap: 28px; }
+.orig-view { display: grid; align-content: start; gap: 10px; }
+.orig-open { display: flex; justify-content: space-between; align-items: center; gap: 16px; min-height: 120px; padding: 22px 24px;
+  background: color-mix(in srgb, var(--g) 70%, var(--paper)); font-size: clamp(20px, 5vw, 26px); font-weight: 300; line-height: 1.2; letter-spacing: -0.01em; }
+.orig-open .arrow { color: var(--k); font-size: 24px; transition: transform .2s; }
+.orig-open:hover { color: var(--k); }
+.orig-open:hover .arrow { transform: translateX(4px); }
+.orig-note { font-size: var(--fs-note); line-height: 1.5; color: var(--ink-3); max-width: 36em; }
+/* the reader itself: tall on a phone, where a page is read one at a time; a two-page spread on a wide screen */
+.orig-frame { display: block; width: 100%; aspect-ratio: 3 / 4; max-height: 82vh; border: 0; background: var(--well); box-shadow: 0 0 0 1px var(--hair); }
+.orig-facts { display: grid; gap: 14px; align-content: start; margin: 0; font-size: var(--fs-ui); line-height: 1.45; }
+.orig-facts dt { font-size: var(--fs-note); color: var(--ink-2); }
+.orig-facts dd { margin: 2px 0 0; color: var(--ink); }
+.orig-facts code { font: inherit; font-size: var(--fs-note); font-variant-numeric: tabular-nums; letter-spacing: .02em; word-break: break-all; color: var(--ink-2); }
+.orig-thanks { margin-top: 22px; max-width: 40em; font-size: var(--fs-ui); line-height: 1.6; color: var(--ink-2); text-wrap: pretty; }
+@media (min-width: 760px) {
+  .orig { grid-template-columns: minmax(0, 2.2fr) minmax(0, 1fr); gap: 48px; }
+  .orig-frame { aspect-ratio: 16 / 10; }
+}
 .edition { display: grid; grid-template-columns: minmax(0, 1fr); gap: 36px; }
 .ed-cols { display: grid; gap: 36px; }
 /* To read elsewhere, for study: typeset lists, each form's name led by dots to what it is for, like the contents. */
@@ -671,7 +759,11 @@ table.ledger .n { text-align: right; }
 /* One calm column. By default: 19px type on a phone and 20px on a wider screen, about 65 characters to the
    line, indented paragraphs, the author's marginal notes in the left margin and the printed page numbers in
    the right one. Every one of these is the reader's to change in the panel (Aa). */
-.read { --rs: 1; --lh: 1.62; --measure: 33em; --note-w: 168px; --note-gap: 30px; --folio-w: 3.4em; }
+.read { --rs: 1; --lh: 1.62; --measure: 33em; --note-w: 168px; --note-gap: 30px; --folio-w: 3.4em; --face: var(--book); --fsz: 1.075; }
+/* Type: each face is sized to read alike. EB Garamond's small letters are short, so it is set a step larger than
+   Newsreader was; Noto Serif's are tall and wide, so it is set smaller; Source Sans 3 sits between. */
+html[data-type="clear"] .read { --face: var(--clear); --fsz: .92; }
+html[data-type="plain"] .read { --face: var(--plain); --fsz: 1; }
 .read[data-lh="close"] { --lh: 1.48; }
 .read[data-lh="open"] { --lh: 1.82; }
 .read[data-width="narrow"] { --measure: 28em; }
@@ -702,7 +794,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .op-plate { width: 72%; max-width: 320px; aspect-ratio: 16 / 10; }
 .op-mark { font-size: 22px; color: var(--k); }
 .op-in .ch { margin-top: 24px; font-size: var(--fs-lede); color: var(--k); }
-.op-in h1 { margin-top: 6px; font-weight: 300; font-size: clamp(28px, 8vw, 42px); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 15em; }
+.op-in h1 { margin-top: 6px; font-family: var(--face); font-weight: 400; font-size: clamp(28px, 8vw, 42px); line-height: 1.1; letter-spacing: -0.022em; text-wrap: balance; max-width: 15em; }
 .op-in .meta { margin-top: 16px; font-size: var(--fs-note); line-height: 1.5; color: var(--ink-3); max-width: 26em; text-wrap: balance; }
 /* Under the opener, how the text was read, quietly, leading to the book's account of it. */
 .op-in .op-read { margin-top: 8px; font-size: var(--fs-note); line-height: 1.5; color: var(--ink-3); max-width: 26em; text-wrap: balance; }
@@ -711,8 +803,8 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 /* The text: old-style figures where the face has them, small capitals only on the chapter's first line,
    indented paragraphs, and the book's own marks (notes, folios, tables, plates) kept as a book keeps them. */
 .text { position: relative; box-sizing: content-box; max-width: var(--measure); margin: 0 auto; padding: 34px var(--gut-r) 0 var(--gut);
-  font-size: calc(var(--fs-read) * var(--rs)); line-height: var(--lh); font-variant-numeric: oldstyle-nums proportional-nums;
-  font-variation-settings: "opsz" 16; hanging-punctuation: first; }
+  font-family: var(--face); font-size: calc(var(--fs-read) * var(--rs) * var(--fsz)); line-height: var(--lh);
+  font-variant-numeric: oldstyle-nums proportional-nums; font-kerning: normal; hanging-punctuation: first; }
 .text p { text-wrap: pretty; hyphens: auto; -webkit-hyphens: auto; hyphenate-limit-chars: 6 3 3; }
 .read[data-align="justified"] .text p { text-align: justify; hyphens: auto; -webkit-hyphens: auto; }
 #chapter-text .prose-unit { position: relative; }
@@ -721,8 +813,10 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .read[data-para="spaced"] #chapter-text .prose-unit + .prose-unit,
 .read[data-para="spaced"] .text-v1 p + p { margin-top: .9em; }
 #chapter-text .prose-unit + .verse-stanza, #chapter-text .verse-stanza + .prose-unit { margin-top: .9em; }
-#chapter-text .prose-unit:not(.prose-unit ~ .prose-unit) .prose-p::first-line { font-variant: small-caps; letter-spacing: .04em; }
-#chapter-text .sc { font-variant: small-caps; letter-spacing: .03em; }
+#chapter-text .prose-unit:not(.prose-unit ~ .prose-unit) .prose-p::first-line { font-variant-caps: small-caps; letter-spacing: .04em; }
+/* the book's own small capitals; a run the source gives in capitals ("A.D.") is set wholly in small capitals */
+#chapter-text .sc { font-variant-caps: small-caps; letter-spacing: .03em; }
+#chapter-text .sc-caps { font-variant-caps: all-small-caps; letter-spacing: .05em; }
 #chapter-text .sec-h1 { margin: 2.6em 0 .3em; text-align: center; font-size: 1em; color: var(--k); clear: both; }
 #chapter-text .sec-h2 { margin: 0 0 1.4em; text-align: center; font-weight: 300; font-size: 1.3em; line-height: 1.25; text-wrap: balance; }
 #chapter-text .sec-h3 { margin: 2em 0 .35em; font-size: 1em; color: var(--k); text-indent: 0; }
@@ -774,7 +868,13 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text .archival-plate { margin: 2em 0 2.2em; clear: both; text-indent: 0; }
 #chapter-text .archival-plate img { display: block; width: 100%; mix-blend-mode: multiply; filter: brightness(1.06) contrast(1.1); }
 #chapter-text .archival-plate figcaption { margin-top: .8em; font-size: var(--fs-note); line-height: 1.4; color: var(--ink-2); text-align: center; }
-#chapter-text .verse-stanza { margin: 1.2em 0 1.4em 2em; line-height: 1.55; text-indent: 0; }
+#chapter-text .verse-stanza { margin: 1.2em 0 1.4em 2em; line-height: 1.55; text-indent: 0; hyphens: none; }
+/* Each printed line is its own line; one that wraps hangs, so a reader can tell it from the next.
+   The <br> between lines is for readers with no stylesheet, so it is hidden here (D34). */
+#chapter-text .verse-stanza br { display: none; }
+#chapter-text .verse-stanza .line { display: block; padding-left: 1.5em; text-indent: -1.5em; }
+#chapter-text .verse-stanza .stanza-no { display: block; margin-bottom: .35em; font-size: var(--fs-note); font-variant-numeric: oldstyle-nums; letter-spacing: .04em; color: var(--ink-3); }
+#chapter-text .verse-stanza .folio-trigger, #chapter-text .verse-stanza .folio-turn { text-indent: 0; }
 #chapter-text .epigraph-block { margin: 1.4em 0 1.6em 2em; font-size: .92em; font-style: italic; color: var(--ink-2); text-indent: 0; }
 #chapter-text .unclear { text-decoration: underline dotted color-mix(in srgb, var(--k) 50%, transparent); text-underline-offset: .22em; cursor: help; }
 #chapter-text .index-entry { padding-left: 1.6em; text-indent: -1.6em !important; margin: 0 !important; font-size: .9em; line-height: 1.45; }
@@ -786,7 +886,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 #chapter-text img { max-width: 100%; height: auto; }
 ::highlight(find) { background-color: color-mix(in srgb, var(--k) 25%, transparent); }
 /* The end of a chapter: a short rule, then the way on and the way back, as quiet as a running foot. */
-.chap-end { box-sizing: content-box; max-width: var(--measure); margin: 0 auto; padding: 0 var(--gut-r) 0 var(--gut); font-size: calc(var(--fs-read) * var(--rs)); }
+.chap-end { box-sizing: content-box; max-width: var(--measure); margin: 0 auto; padding: 0 var(--gut-r) 0 var(--gut); font-size: calc(var(--fs-read) * var(--rs) * var(--fsz)); }
 .chap-end .end { margin-top: 2.6em; display: grid; justify-items: center; gap: 10px; font-size: var(--fs-note); color: var(--ink-3); }
 .chap-end .end::before { content: ""; width: 40px; height: 1px; background: color-mix(in srgb, var(--k) 50%, transparent); }
 /* The page to turn to: one block on the book's paper, the next chapter's name large, an arrow that moves. */
@@ -800,6 +900,23 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .chap-ways { display: flex; flex-wrap: wrap; justify-content: center; gap: 0 22px; margin-top: 18px; font-size: var(--fs-aside); color: var(--ink-2); }
 .chap-ways a { display: inline-flex; align-items: center; gap: 6px; min-height: 44px; }
 .chap-ways a:hover { color: var(--ink); text-decoration: underline; text-underline-offset: 4px; text-decoration-thickness: 1px; }
+
+/* The whole book on one page (D37): the book's opener, its contents as on the book's page, then every chapter in
+the text column, each under a smaller opener of its own. A chapter off screen is not laid out until it is near. */
+.wh-toc { box-sizing: content-box; max-width: 30em; margin: 34px auto 0; padding: 0 var(--gut-r) 0 var(--gut); }
+.wh-toc h2 { font-size: var(--fs-h3); padding-bottom: 10px; margin-bottom: 8px; border-bottom: 1px solid var(--hair); }
+.wh-ch { content-visibility: auto; }
+.wh-ch + .wh-ch { margin-top: 3.4em; }
+.wh-op { margin: 0 0 1.6em; padding-top: 2.4em; text-align: center; text-indent: 0; }
+.wh-op::before { content: ""; display: block; width: 40px; height: 1px; margin: 0 auto 2.2em; background: color-mix(in srgb, var(--k) 50%, transparent); }
+.wh-ch:first-child .wh-op::before { display: none; }
+.wh-op .ch { font-family: var(--serif); font-size: var(--fs-lede); color: var(--k); }
+.wh-op h2 { margin-top: 4px; font-size: 1.45em; line-height: 1.15; letter-spacing: -0.01em; text-wrap: balance; }
+.wh-op .meta { margin-top: 10px; font-family: var(--serif); font-size: var(--fs-note); color: var(--ink-3); }
+.wh-op .meta a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.wh-op .meta a:hover { color: var(--k); }
+/* a link into a chapter, or to one of its pages, stands clear of the reading bar */
+.wh-ch, .wh-ch [id] { scroll-margin-top: 72px; }
 
 /* The panel: settings and contents, sliding in from the right. Choices are words, A's and small sheets of
    paper; the chosen one in full ink with a short rule beneath in the book's ink. */
@@ -823,6 +940,8 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .rs-opts button { position: relative; min-height: 40px; padding: 8px 0; font-size: var(--fs-ui); line-height: 1.2; color: var(--ink-3); }
 .rs-opts button:hover, .rs-opts button[aria-pressed="true"] { color: var(--ink); }
 .rs-opts button[aria-pressed="true"]::after { content: ""; position: absolute; left: 0; right: 0; bottom: 4px; border-top: 2px solid var(--k); }
+/* the faces are named in words; a quiet line beneath says what each one is */
+.rs-type .rs-what { grid-column: 1 / -1; margin-top: -4px; font-size: var(--fs-note); line-height: 1.45; color: var(--ink-2); text-wrap: pretty; }
 .rs-size .rs-opts { flex-wrap: nowrap; gap: 0; justify-content: space-between; }
 .rs-size button { flex: 1 1 0; text-align: center; }
 .rs-size button:nth-child(1) { font-size: 13px; } .rs-size button:nth-child(2) { font-size: 15px; } .rs-size button:nth-child(3) { font-size: 17.5px; }
@@ -862,6 +981,8 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .rpanel #rtoc a:hover, .rpanel #rtoc a[aria-current] { color: var(--k); }
 .rpanel #rtoc .rn { color: var(--k); }
 .rpanel #rtoc .pg { color: var(--ink-3); font-variant-numeric: tabular-nums; }
+.rp-whole { margin-top: 18px; font-size: var(--fs-aside); }
+.rp-whole a { color: var(--k); border-bottom: 1px solid color-mix(in srgb, var(--k) 40%, transparent); }
 .rp-scrim { position: fixed; inset: 0; z-index: 39; background: rgba(var(--shadow), .1); }
 /* The scan leaf: the camera's photograph of the page, beside the text. */
 .leaf { position: fixed; top: 0; right: 0; bottom: 0; z-index: 30; width: min(28rem, 100vw); background: var(--paper); border-left: 1px solid var(--hair);
@@ -873,7 +994,7 @@ body.focus .rd-bar:hover, body.focus .rd-bar:focus-within { opacity: 1; }
 .leaf .leaf-img img { width: 100%; height: auto; display: block; }
 .leaf .stand { font-size: var(--fs-caption); color: var(--ink-2); margin-top: 10px; line-height: 1.45; }
 @media (min-width: 760px) {
-  .text, .chap-end { font-size: calc(var(--fs-read-wide) * var(--rs)); }
+  .text, .chap-end { font-size: calc(var(--fs-read-wide) * var(--rs) * var(--fsz)); }
   .op-in { font-size: var(--fs-read-wide); }
   /* The column keeps room on its left for the marginal notes and on its right for the page numbers. */
   .text, .chap-end { max-width: min(var(--measure), calc(100vw - var(--gut) - var(--gut-r) - var(--note-w) - var(--note-gap) - 4.5em));
@@ -946,7 +1067,7 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
   a { text-decoration: none; }
   .opener { padding-top: 0; }
   .op-plate { max-width: 60mm; }
-  .row .shelf, .sh, .pl-group, .feature, .made, .strip, .smalls, #chapter-text .archival-plate { content-visibility: visible; }
+  .row .shelf, .sh, .pl-group, .feature, .made, .strip, .smalls, #chapter-text .archival-plate, .wh-ch { content-visibility: visible; }
 }
 /* headings that are links get room to tap without changing how they sit */
 .row-h h2 a, .jl h2 a, .auth h2 a { display: inline-block; padding: 11px 0; margin: -11px 0; }
@@ -998,7 +1119,7 @@ html[data-theme="dark"] .readon:hover { color: var(--paper); }
 html[data-theme="dark"] .k-portrait .pic, html[data-theme="dark"] .k-photo .pic, html[data-theme="dark"] .face { background: #DCD7CD; }
 html[data-theme="dark"] .k-portrait .pic .plate, html[data-theme="dark"] .k-photo .pic .plate, html[data-theme="dark"] .face .plate { background: #2A2926; opacity: 1; }
 /* the book's own headings printed in capitals are set in small capitals, quieter, as a printer would */
-#chapter-text .caps { text-transform: lowercase; font-variant: small-caps; letter-spacing: .05em; font-style: normal; }
+#chapter-text .caps { font-variant-caps: all-small-caps; letter-spacing: .05em; font-style: normal; }
 /* essays: the house's emphasis is italic, and a quotation is indented in italic without a bar */
 .prose strong, .prose b { font-weight: 600; }
 .prose blockquote { border-left: 0; padding-left: 1.6em; }

@@ -147,3 +147,7 @@ class SecurityPolicy(unittest.TestCase):
     def test_no_other_script_source_is_allowed(self):
         self.assertEqual(self.directive("script-src"),
                          ["'self'", "'wasm-unsafe-eval'", "https://static.cloudflareinsights.com"])
+
+    def test_only_the_internet_archive_reader_may_be_framed(self):
+        # A book's page frames the Internet Archive's reader once asked (D38); nothing else, not even this site.
+        self.assertEqual(self.directive("frame-src"), ["https://archive.org"])

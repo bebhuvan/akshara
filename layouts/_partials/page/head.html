@@ -2,6 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {{- $isBook := and (eq .Type "books") (eq .Kind "section") (ne .RelPermalink "/books/") -}}
 {{- $isChapter := and .IsPage (eq .Type "chapters") -}}
+{{- $isWhole := and .IsPage (eq .Type "whole") -}}
 {{- $isAuthor := and .IsPage (eq .Section "authors") -}}
 {{- $isShelf := and .IsPage (eq .Section "shelves") -}}
 {{- $isBlog := and .IsPage (eq .Section "blog") -}}
@@ -52,6 +53,11 @@
     {{- $ogTitle = printf "%s · %s (%s)" $chFull $bookRec.cover_title $bookRec.year -}}
   {{- end -}}
   {{- $title = printf "%s · %s" $ogTitle site.Title -}}
+{{- else if $isWhole -}}
+  {{- $bookPage = .Parent -}}
+  {{- $bookRec = partialCached "book/record.html" .Parent .Parent.RelPermalink -}}
+  {{- $ogTitle = printf "%s, the whole book on one page" $bookRec.cover_title -}}
+  {{- $title = printf "%s · %s" $ogTitle site.Title -}}
 {{- else if $isAuthor -}}
   {{- $yrs := "" -}}
   {{- if or .Params.birth_year .Params.death_year -}}{{- $yrs = printf " (%v–%v)" (.Params.birth_year | default "?") (.Params.death_year | default "?") -}}{{- end -}}
@@ -94,6 +100,8 @@
   {{- $lead := printf "%s from %s (%s) by %s" $chLabel $bookRec.cover_title $bookRec.year $bookRec.author -}}
   {{- with .Params.printed_start_folio -}}{{- $lead = printf "%s (p. %v)" $lead . -}}{{- end -}}
   {{- $desc = cond (gt (len $clean) 25) (printf "%s: %s" $lead $clean) (printf "%s, free to read beside its original scan on Akshara." $lead) -}}
+{{- else if $isWhole -}}
+  {{- $desc = printf "Every chapter of %s, by %s (%v), on one page, free to read." $bookRec.cover_title $bookRec.author $bookRec.year -}}
 {{- else if $isAuthor -}}
   {{- $bio := "" -}}
   {{- with .Params.short_bio -}}{{- if not (findRE `work\(s\) preserved` .) -}}{{- $bio = . -}}{{- end -}}{{- end -}}
@@ -120,7 +128,7 @@
 <meta name="description" content="{{ $desc }}">
 
 {{- /* === 3. Indexing & Discovery Directives === */ -}}
-{{- if or (eq .Kind "404") .Params.noindex }}
+{{- if or (eq .Kind "404") .Params.noindex $isWhole }}
 <meta name="robots" content="noindex, follow">
 {{- else }}
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
@@ -145,7 +153,7 @@
 {{- /* === 4. Open Graph & Twitter Cards === */ -}}
 {{- $ogType := "website" -}}
 {{- if $isBook -}}{{- $ogType = "book" -}}
-{{- else if or $isChapter $isBlog -}}{{- $ogType = "article" -}}
+{{- else if or $isChapter $isWhole $isBlog -}}{{- $ogType = "article" -}}
 {{- else if $isAuthor -}}{{- $ogType = "profile" -}}{{- end }}
 <meta property="og:title" content="{{ $ogTitle }}">
 <meta property="og:description" content="{{ $desc }}">

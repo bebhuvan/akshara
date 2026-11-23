@@ -362,7 +362,9 @@ def main() -> None:
                 _copy_clean_text(src_p, lib_book_dir / lib_rel, scrub_local_paths)
                 _copy_clean_text(src_p, site_dl_dir / dl_name, scrub_local_paths)
 
-        src_html = ed_dir / "print" / f"{bid}.print.html"
+        src_html = ed_dir / "html" / f"{bid}.html"
+        if not src_html.is_file():
+            src_html = ed_dir / "print" / f"{bid}.print.html"
         if src_html.is_file():
             raw_html = scrub_local_paths(src_html.read_text(encoding="utf-8", errors="replace"))
             (lib_book_dir / "html").mkdir(parents=True, exist_ok=True)
@@ -614,9 +616,11 @@ def main() -> None:
 
     # 9. Write akshara_library root files & dynamic GitHub release helper
     (library_root / "LICENSE").write_text(
-        "CC0 1.0 Universal (Public Domain Dedication)\n\n"
-        "All source historical editions digitized in Akshara are in the public domain, and Akshara's transcriptions, "
-        "XML/Markdown/HTML formatting, and extracted statistical CSV datasets are dedicated to the public commons under CC0 1.0.\n",
+        "Creative Commons Attribution 4.0 International (CC BY 4.0)\n\n"
+        "The original source books digitized in Akshara are in the public domain. What Akshara adds — "
+        "transcriptions, corrections, structure, XML/Markdown/HTML/EPUB formatting, and extracted statistical "
+        "CSV datasets — is licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), "
+        "crediting Akshara (akshara.ink).\n",
         encoding="utf-8",
     )
     (library_root / "catalog.json").write_text(
@@ -626,7 +630,7 @@ def main() -> None:
     readme_lines = [
         "# Akshara Public-Domain Digital Library (`akshara-library`)",
         "",
-        f"**{len(catalog_books)} full scholarly editions · {total_tables} structured CSV/JSON statistical tables · CC0 Public Domain**",
+        f"**{len(catalog_books)} full scholarly editions · {total_tables} structured CSV/JSON statistical tables · CC BY 4.0**",
         "",
         "Every edition in this repository is compiled from camera-original Archive.org JP2 scans with 100% diplomatic orthographic fidelity.",
         "",

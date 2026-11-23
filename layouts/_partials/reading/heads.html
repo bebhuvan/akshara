@@ -1,0 +1,8 @@
+{{- /* The headpieces a book's chapters may open on: its own engravings, or its cover's picture when that is a plate,
+map or device; none when the book has no such picture (it opens on the house mark). Never a picture from another
+book (D17). Takes a book record; returns a list of dicts with key and alt. */ -}}
+{{- $b := . -}}
+{{- $heads := slice -}}
+{{- range hugo.Data.plates.group }}{{ range .plate }}{{ if and (eq .book $b.id) (not .face) }}{{ $heads = $heads | append (dict "key" .key "alt" .alt) }}{{ end }}{{ end }}{{ end -}}
+{{- if and (not $heads) (in (slice "plate" "map" "device") $b.cover.kind) -}}{{- $heads = slice (dict "key" $b.cover.plate "alt" "") -}}{{- end -}}
+{{- return $heads -}}

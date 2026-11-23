@@ -1,0 +1,79 @@
+{{ define "view" }}read{{ end }}
+{{ define "main" }}
+{{- /* The whole book on one page (D37): every chapter, in order, set exactly as its own chapter page sets it, under
+one opener and one contents list, in the same reading room. It is made from the chapter pages at build time, so it
+can never disagree with them. Chapter n is the section #cn; every id inside it is prefixed "cn-" so that notes and
+page marks from different chapters cannot collide, and links between chapters of this book stay on this page.
+Not indexed for search: the chapters already are, and a reader should find a passage in its chapter. */ -}}
+{{- $book := .Parent -}}
+{{- $b := partialCached "book/record.html" $book $book.RelPermalink -}}
+{{- $all := $book.Pages.ByWeight -}}
+{{- $isV1 := eq $b.tier "v1_archive" -}}
+{{- $head := index (partial "reading/heads.html" $b | default (slice dict)) 0 -}}
+{{- $hours := "" -}}
+{{- with findRESubmatch `(\d+(?:\s*[-–]\s*\d+)?)\s*(?:hrs|hours)` ($book.Params.reading_time | default "") 1 -}}{{- $hours = replaceRE `\s*[-–]\s*` "–" (index (index . 0) 1) -}}{{- end -}}
+
+<div class="read whole {{ $b.code }}" id="read" data-lh="normal" data-width="medium" data-notes="margin" data-para="indented" data-align="ragged" data-folios="shown" data-book="{{ $b.id }}">
+{{ partial "reading/room.html" (dict "b" $b "book" $book "all" $all "here" false "whole" true) }}
+
+  <header class="opener">
+    <div class="op-in">
+      {{- with $head.key }}
+      <i class="plate op-plate" style="--src:url({{ partial "plate/url.html" (dict "key" . "w" 700) }})"{{ with $head.alt }} role="img" aria-label="{{ . }}"{{ else }} aria-hidden="true"{{ end }}></i>
+      {{- else }}
+      <span class="op-mark kn" lang="kn" aria-hidden="true">ಅಕ್ಷರ</span>
+      {{- end }}
+      <p class="ch">The whole book</p>
+      <h1>{{ $b.cover.title }}{{ with $b.cover.line }}, {{ . }}{{ end }}</h1>
+      <p class="meta">{{ $b.author }}, {{ $b.year }} · {{ partial "words.html" (len $all) | strings.FirstUpper }} {{ cond (eq (len $all) 1) "part" "parts" }} on one page{{ with $hours }} · about {{ . }} {{ cond (eq . "1") "hour" "hours" }}{{ end }}</p>
+      {{- $checked := int ($book.Params.human_verified_pages | default 0) }}
+      <p class="op-read"><a href="{{ $book.RelPermalink }}#h-reading">{{ if $isV1 }}An earlier edition, not yet checked against its scans. It may hold errors.{{ else if $checked }}Read by machine; {{ $checked }} pages since checked by a person. It may hold small errors.{{ else }}Read by machine, not yet checked by a person. It may hold small errors.{{ end }}</a></p>
+    </div>
+  </header>
+
+  <nav class="wh-toc" id="contents" aria-labelledby="h-contents">
+    <h2 id="h-contents">Contents</h2>
+    <ol class="toc">
+      {{- range $i, $c := $all }}{{ $n := partial "chapter/name.html" $c }}
+      <li{{ if not $n.num }} class="pre"{{ end }}><a href="#c{{ add $i 1 }}"><span class="n">{{ $n.num | lower }}</span><span class="t">{{ $n.title }}</span><span class="dots" aria-hidden="true"></span><span class="p">{{ $c.Params.printed_start_folio }}</span></a></li>
+      {{- end }}
+    </ol>
+  </nav>
+
+  <article class="text{{ if $isV1 }} text-v1{{ end }}" id="chapter-text">
+    {{- range $i, $c := $all }}
+    {{- $at := printf "c%d" (add $i 1) }}
+    {{- $n := partial "chapter/name.html" $c }}
+    {{- $text := partial "reading/text.html" $c }}
+    {{- /* this chapter's own ids and the links to them; then links to the book's other chapters, which are on this page too */}}
+    {{- $text = replace $text ` id="` (printf ` id="%s-` $at) }}
+    {{- $text = replace $text `href="#` (printf `href="#%s-` $at) }}
+    {{- $text = replace $text `data-fn-target="` (printf `data-fn-target="%s-` $at) }}
+    {{- range $j, $o := $all }}
+      {{- $text = replace $text (printf `href="%s#` $o.RelPermalink) (printf `href="#c%d-` (add $j 1)) }}
+      {{- $text = replace $text (printf `href="%s"` $o.RelPermalink) (printf `href="#c%d"` (add $j 1)) }}
+    {{- end }}
+    {{- /* a section that is off screen is not laid out until the reader comes near it; its height is guessed from its length */}}
+    <section class="wh-ch" id="{{ $at }}" aria-labelledby="{{ $at }}-h" style="contain-intrinsic-size: auto {{ add 400 (mul $c.WordCount 4) }}px">
+      <header class="wh-op">
+        {{- with $n.num }}<p class="ch">{{ $n.label }} {{ . }}</p>{{ end }}
+        <h2 id="{{ $at }}-h">{{ $n.title }}</h2>
+        {{- with $c.Params.printed_start_folio }}<p class="meta">From page {{ . }} · <a href="{{ $c.RelPermalink }}">on its own page</a></p>{{ else }}<p class="meta"><a href="{{ $c.RelPermalink }}">On its own page</a></p>{{ end }}
+      </header>
+      {{ $text | safeHTML }}
+    </section>
+    {{- end }}
+  </article>
+
+  <footer class="chap-end">
+    <p class="end">The end of the book</p>
+    <a class="turn" href="{{ $book.RelPermalink }}"><small>The end of the book</small><b>Back to {{ $b.cover.title }}</b><span class="arrow" aria-hidden="true">→</span></a>
+    <nav class="chap-ways" aria-label="Other ways from here">
+      <a href="#contents"><span aria-hidden="true">↑</span> The contents</a>
+      {{- if not $isV1 }}<a href="{{ $book.Params.proofing_url | default (printf "%s/" site.Params.proofing_url) }}">Correct a misreading, beside the scan</a>{{ end }}
+    </nav>
+  </footer>
+
+{{ partial "reading/leaf.html" . }}
+</div>
+{{ end }}

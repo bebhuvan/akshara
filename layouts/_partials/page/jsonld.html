@@ -2,7 +2,7 @@
   Uses stable @id URIs so Google Knowledge Graph, Google Dataset Search, Bing, and LLM entity
   resolvers connect Organization <-> WebSite <-> Books <-> Chapters <-> Authors <-> Datasets <-> Essays.
   Rendered strictly inside <head> (outside data-pagefind-body) via jsonify so every output is valid JSON. */ -}}
-{{- if and (ne .Kind "404") (not .Params.noindex) -}}
+{{- if and (ne .Kind "404") (not .Params.noindex) (not (and .IsPage (eq .Type "whole"))) -}}
 {{- $base := strings.TrimSuffix "/" site.BaseURL -}}
 {{- $orgID := printf "%s/#organization" $base -}}
 {{- $siteID := printf "%s/#website" $base -}}

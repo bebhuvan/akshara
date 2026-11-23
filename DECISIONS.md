@@ -448,3 +448,129 @@ somewhere to land, using only the site's own means (its ink, its type, its cover
 pick the wrong book or none, silently. Pull quotes written into the essay's text: they would be read twice by a
 screen reader and the essay's words would live in two places.
 
+
+## D34: Verse is set line by line, with stanza numbers as labels (2026-11-23)
+
+**Decision.** The pipeline's reading layer (`akshara_new` D50) now sends verse as one `<span class="line">` per
+printed line and the printed stanza number as `<span class="stanza-no">` inside the stanza, no longer as a heading;
+a stanza the printed page cut in two arrives whole, with its page mark inside it. The chapter stylesheet sets each
+line on its own, hangs a wrapped line by 1.5em so it reads as the same line, shows the stanza number small in the
+third ink, and hides the `<br>` that keeps lines apart for readers without a stylesheet.
+
+**Why.** On a phone, long lines of verse wrapped back to the margin and looked like new lines; stanza numbers were
+headings, so a screen reader's outline of a poem was forty headings called "1.", "2.", "3.".
+
+**Rejected.** Keeping `<br>` alone (no way to hang a wrapped line); drawing stanza numbers in the margin (they
+collide with the page numbers that already live there on narrow screens).
+
+## D35: A book's text is set in EB Garamond; Newsreader keeps the site's own voice (2026-11-23)
+
+**Decision.** On a chapter page and the whole-book page (D37), the reading column, the chapter's title and its notes
+(marginal notes and footnotes) are set in EB Garamond at weight 400, a step larger than Newsreader was (`--fsz` 1.075
+on `--fs-read` and `--fs-read-wide`). Everything else (home, library, menus, the reading bar and panel, a book page's
+chrome, the chapter's end) stays in Newsreader. The text asks for old-style figures (`oldstyle-nums`) and real small
+capitals: the book's own `.sc` in `small-caps`, and a `.sc` run given in capitals ("A.D.", "INDEX") marked `sc-caps` by
+`layouts/_partials/reading/text.html` and set in `all-small-caps`; headings printed in capitals use `all-small-caps`
+too, no longer lower-casing the text. The faces are cut by `scripts/cut_reading_fonts.py` (fonttools 4.60.1 and brotli
+1.1.0, run once with `uv run`; not a site dependency) from EB Garamond's variable files (OFL, no reserved name),
+instanced to weights 400–700, into three WOFF2 files per style by Newsreader's three ranges, each widened: the
+combining accents U+0300–036F join the small file of accented letters, and the larger file gains the modifier letters,
+U+1EA0–1EF1, super- and subscripts, letterlike symbols and fractions. Every OpenType feature is kept. Upright Latin is
+108 KB, the accented letters 24 KB; the licence is `static/fonts/OFL-EBGaramond.txt`.
+
+**Why.** Bhuvanesh chose it. Newsreader lacks the dotted transliteration letters' proper forms, small capitals and
+old-style figures (D12's known limit); EB Garamond has all three, and every transliteration letter the books use
+(ṛ ṣ ṭ ḍ ṇ ḥ ṃ ṁ and the rest, checked against every chapter). Its short lower case reads small, hence the larger size.
+The combining accents must come from the same face as their letter or a dot below lands in the wrong place. A few rare
+signs the books use are missing from it (℔, ℯ, the fifths and sixths fractions, three combining marks, ꝛ ꝭ, and in
+italic the superscript figures); those fall back to the device's font, as they did with Newsreader.
+
+**Rejected.** Keeping Newsreader for the text (no small capitals or old-style figures). A static weight-400 instance:
+the books' 2,800 bold passages would be drawn as fake bold. Google Fonts' hosted files: no third-party font host (D4).
+
+## D36: The reader may choose the type: Book, Clear or Plain (2026-11-23)
+
+**Decision.** The reading panel (Aa) has a Type row with three words: Book (EB Garamond, the default), Clear (Noto
+Serif) and Plain (Source Sans 3), with one quiet line saying what each is. Each face is sized to read alike (`--fsz`:
+Book 1.075, Clear .92, Plain 1). The choice is kept like the other settings (`ak-type` in this device's storage) and
+put on `<html data-type>` by `assets/js/paper.js` before the page is drawn; the faces are named in CSS only under
+`html[data-type=…]`, so a browser fetches only the face the reader reads in (checked: a Clear reader fetches no EB
+Garamond, a Book reader no Noto Serif or Source Sans). The buttons are named in words, never shown in their own type,
+so the panel itself downloads nothing. Noto Serif and Source Sans 3 come from github.com/google/fonts (`ofl/`), cut by
+the same script (Noto Serif fixed at normal width). Source Sans 3's licence reserves the name "Source", and a cut is a
+modified font, so its cuts are named "Akshara Plain" inside the files. Licences: `static/fonts/OFL-NotoSerif.txt`,
+`static/fonts/OFL-SourceSans3.txt`.
+
+**Why.** EB Garamond is a book face; on a small or dim screen some readers need a sturdier serif, and some read
+sans-serif more easily (VISUAL_GRAMMAR's "no sans-serif" now has this one exception, chosen by the reader). Setting the
+choice before the first paint means a Clear reader never downloads Garamond first. All three have every letter the
+books use; Noto Serif lacks only ↑, Source Sans 3 a handful of rare signs (‥ ₨ ℔ ℯ ꝑ ꝓ ꝫ ꝭ), which fall back.
+
+**Rejected.** Atkinson Hyperlegible and Public Sans (tested; both lack transliteration letters). Showing each choice
+in its own face (every visitor who opens the panel would download all three).
+
+## D37: Every book can be read whole, on one page (2026-11-23)
+
+**Decision.** Every book with chapters has `/books/<id>/whole/`, offered on its page as "Read it whole" under Begin
+reading and in the reading panel's contents. `content/books/_content.gotmpl` (a Hugo content adapter) adds the page for
+each book folder with chapters; `layouts/whole/page.html` draws it from the book's chapter pages, in weight order, each
+set by the same partial as its own chapter page (`reading/text.html`), in the same reading room (`reading/room.html`:
+bar, panel with type, size, spacing, width, paper; `reading/leaf.html`: the scan). Chapter n is the section `#cn`,
+under a small opener of its own with a link to its own page; every id inside it is prefixed `cn-` (and the `href="#…"`
+and `data-fn-target` that point at them), so notes and page marks from different chapters cannot collide, and links
+to the book's other chapters become links within the page. A contents list at the top links to each section. Sections
+use `content-visibility: auto`, with a height guessed from their length. The page reads fully without the script. It
+has no `data-pagefind-body`, so Pagefind (which then skips it) does not index the book a second time; it is kept out of
+every page list (`build.list = "never"`), so it is not a chapter anywhere and is not in the sitemap. It is not added to
+`tests/known-urls.txt`: that file grows only from the live sitemap (D2), and `check_urls.py` checks only listed addresses.
+
+The downloadable one-page file is now described as such: "a single web page to save and read offline" in the book's
+first sentence of forms, and "the whole book as a single web page you can save and read offline" under To read
+elsewhere, with the `download` attribute so it is saved rather than opened. It is still `download_html` from the record.
+
+**Why.** Bhuvanesh asked for it and named it. Some readers want the whole book to scroll, search with the browser's own
+find, or print; built from the chapter pages, it can never disagree with them. Prefixing by reading order rather than
+by weight keeps ids short and needs nothing of the pipeline.
+
+**Rejected.** Pointing "Read it whole" at the pipeline's one-page file (a different design, without the reading room or
+the scans). Assembling the chapters in the browser (nothing without the script; slower). Indexing it for search (every
+passage would be found twice).
+
+## D38: The original copy, in the Internet Archive's reader, loaded only when asked (2026-11-23)
+
+**Decision.** A book page whose record has an Internet Archive identifier (`archive_id`, or the identifier in
+`archive_url` for the two Stage One books) gains "The original", before This edition: a panel "Turn the pages of the
+{year} copy" that, when clicked, puts in `<iframe src="https://archive.org/embed/<id>">` (with a title, `loading="lazy"`,
+fullscreen allowed; 3:4 on a phone, 16:10 from 760px). Without the script it is a plain link to
+`https://archive.org/details/<id>`. Beside it, only what the record holds: the identifier (linked), the SHA-256 of the
+scan file (linked to the scan PDF when there is one), the leaves photographed and how many carry text (`pages`,
+`extracted_pages`), what it was read from (the record's `Source:` line) and, for Stage One, `digitized_from`. One line
+thanks the Internet Archive, linked. The security policy gains exactly `frame-src https://archive.org` (archive.org's
+embed address redirects within archive.org); a test holds it to that.
+
+**Why.** Version 1 of the site embedded the reader and readers liked turning the real pages. Loading it only on a click
+keeps a visit private: the frame would otherwise send every visitor's address to archive.org and let it set its own
+cookies before the reader has chosen to look (DPDP Act; D4's "no third parties"). The facts let anyone check that this
+edition was read from that exact file.
+
+**Rejected.** The frame on page load (privacy, and a heavy reader on every book page). `frame-src https://*.archive.org`
+or `https:` (broader than needed). Contributing library, scan date or resolution: not in the records, so not shown.
+
+## D39: The EPUB and PDF covers are the site's own covers, exported (2026-11-23)
+
+**Decision.** `scripts/export_covers.py` builds the site in Hugo's `covers` environment, where
+`content/books/_content.gotmpl` adds a cover sheet for each book (`/books/<id>/cover-sheet/`, drawn by
+`layouts/cover-sheet/page.html` from the same `book/cover.html` partial every shelf uses), photographs each at
+1600 × 2400 with headless Chromium from a private local server, reduces it to a 96-colour palette, writes
+`covers-export/<id>.png` (not committed) and, with `--pipeline`, copies it to `akshara_new/books/<id>/cover.png`,
+which the pipeline uses as the EPUB cover and the PDF's first page (pipeline D51). The cover sheets never exist in
+the site's normal build.
+
+**Why.** The files carried a second, older cover design (dark slabs with invented bar charts); Bhuvanesh wanted
+"absolutely beautiful covers in line with the site design". One design, drawn once, cannot drift.
+
+**Rejected.** Redrawing the cover in the pipeline (a second copy of the design); shipping the cover sheets on the
+site (no reader needs them).
+
+**Open.** Picture covers show no author's name, as on the site; e-book covers usually do. The italic year line
+touches the picture on two *English Factories* volumes (1637–1641, 1651–1654), on the site as well.

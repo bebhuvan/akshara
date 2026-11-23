@@ -1,0 +1,17 @@
+{{- /* The whole book on one page (DECISIONS.md, D37): for every book folder with chapters in it, a page at
+/books/<id>/whole/, drawn by layouts/whole/page.html from the book's own chapter pages. It is kept out of every list
+of pages (build.list "never"), so the book's contents, its first chapter and the library never count it as a chapter. */ -}}
+{{- range os.ReadDir "content/books" }}{{ if .IsDir }}
+{{- $id := .Name }}
+{{- $n := 0 }}
+{{- range os.ReadDir (printf "content/books/%s" $id) }}{{ if and (not .IsDir) (strings.HasSuffix .Name ".md") (ne .Name "_index.md") }}{{ $n = add $n 1 }}{{ end }}{{ end }}
+{{- with (fileExists (printf "content/books/%s/chapters" $id)) }}{{ range os.ReadDir (printf "content/books/%s/chapters" $id) }}{{ if strings.HasSuffix .Name ".md" }}{{ $n = add $n 1 }}{{ end }}{{ end }}{{ end }}
+{{- if $n }}
+{{- $.AddPage (dict "path" (printf "%s/whole" $id) "title" "Read it whole" "kind" "page" "type" "whole" "params" (dict "book_id" $id) "build" (dict "list" "never" "render" "always" "publishResources" true)) }}
+{{- end }}
+{{- end }}{{ end }}
+{{- /* Cover sheets (D39): only in the "covers" build that scripts/export_covers.py runs, never on the site. Each is
+the book's own cover, alone, filling the page, so the EPUB and PDF covers are drawn by the one cover design. */ -}}
+{{- if eq hugo.Environment "covers" }}{{ range os.ReadDir "content/books" }}{{ if and .IsDir (fileExists (printf "content/books/%s/_index.md" .Name)) }}
+{{- $.AddPage (dict "path" (printf "%s/cover-sheet" .Name) "title" "Cover" "kind" "page" "type" "cover-sheet" "params" (dict "book_id" .Name) "build" (dict "list" "never" "render" "always")) }}
+{{- end }}{{ end }}{{ end }}

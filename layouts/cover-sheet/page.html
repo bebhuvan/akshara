@@ -1,0 +1,22 @@
+{{- /* A book's cover alone, filling a 1600 × 2400 page, for scripts/export_covers.py (D39). Built only in the
+"covers" environment. The cover partial is the same one every shelf and book page draws. */ -}}
+{{- $book := .Parent -}}
+{{- $b := partialCached "book/record.html" $book $book.RelPermalink -}}
+{{- $shelves := resources.Get "css/shelves.css" | resources.ExecuteAsTemplate "css/shelves.css" . -}}
+{{- $css := slice (resources.Get "css/plate.css") $shelves | resources.Concat "css/plate.css" -}}
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<title>Cover · {{ $b.title }}</title>
+<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+<style>
+  html, body { margin: 0; padding: 0; background: #fff; }
+  .sheet { width: 100vw; height: 100vh; }
+  .sheet .cover { width: 100%; height: 100%; aspect-ratio: auto; box-shadow: none; transform: none; border-radius: 0; }
+  .sheet .cover::after { display: none; }
+</style>
+</head>
+<body><div class="sheet">{{ partial "book/cover.html" (merge $b (dict "big" true)) }}</div></body>
+</html>

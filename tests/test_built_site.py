@@ -1,5 +1,6 @@
 """Tests of the built site in public/ (./verify builds it before running the tests). Skipped if it is not built.
 Run: python3 -m unittest discover -s tests"""
+from collections import Counter
 from decimal import Decimal, ROUND_HALF_UP
 import html
 import re
@@ -144,3 +145,79 @@ class JournalEssay(unittest.TestCase):
 
     def test_a_pull_quote_never_sits_against_a_section_break(self):
         self.assertNotRegex(self.html, r"</figure>\s*<hr")
+
+
+ATTR = r'="?([^"\s>]+)'
+
+
+@unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+class WholeBook(unittest.TestCase):
+    """The whole book on one page (D37), made from the chapter pages."""
+
+    def pages(self):
+        return sorted((PUBLIC / "books").glob("*/whole/index.html"))
+
+    def test_every_book_with_chapters_has_one(self):
+        books = {d.name for d in (ROOT / "content/books").iterdir()
+                 if d.is_dir() and any(f.name != "_index.md" for f in d.rglob("*.md"))}
+        self.assertEqual({p.parent.parent.name for p in self.pages()}, books)
+
+    def test_ids_from_different_chapters_never_collide(self):
+        for page in self.pages():
+            ids = re.findall(r"\sid" + ATTR, page.read_text(encoding="utf-8"))
+            dup = sorted(k for k, v in Counter(ids).items() if v > 1)
+            self.assertEqual(dup, [], page)
+
+    def test_contents_and_links_between_chapters_stay_on_the_page(self):
+        page = (PUBLIC / "books/palas-of-bengal/whole/index.html").read_text(encoding="utf-8")
+        ids = set(re.findall(r"\sid" + ATTR, page))
+        for n in range(1, 13):
+            self.assertIn(f"c{n}", ids)
+        self.assertNotRegex(page, r'href="?/books/palas-of-bengal/chapters/[^"\s>]*#')
+        notes = re.findall(r'href="?#(c\d+-sec-[^"\s>]+)', page)
+        self.assertTrue(notes)
+        self.assertEqual([n for n in notes if n not in ids], [])
+
+    def test_it_is_not_indexed_for_search_twice(self):
+        for page in self.pages():
+            self.assertNotIn("data-pagefind-body", page.read_text(encoding="utf-8"), page)
+
+    def test_the_book_page_offers_it(self):
+        book = (PUBLIC / "books/palas-of-bengal/index.html").read_text(encoding="utf-8")
+        self.assertRegex(book, r'href="?/books/palas-of-bengal/whole/"?[^>]*><span>Read it whole')
+
+
+@unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+class TheOriginal(unittest.TestCase):
+    """The Internet Archive's reader on a book's page, loaded only when asked (D38)."""
+
+    def setUp(self):
+        self.html = (PUBLIC / "books/palas-of-bengal/index.html").read_text(encoding="utf-8")
+
+    def test_nothing_is_fetched_from_archive_org_until_asked(self):
+        self.assertNotIn("<iframe", self.html)
+        self.assertRegex(self.html, r'href="?https://archive.org/details/cu31924096224476"?[^>]*data-ia=')
+
+    def test_the_identifiers_are_the_records_own(self):
+        self.assertIn("1f1fb550222e61521e2de3820b498d44dbf6d94bc234071682e0e2e36736f225", self.html)
+        self.assertIn("126, 105 of them with text", self.html)
+
+    def test_the_one_page_file_says_what_it_is(self):
+        self.assertIn("a single web page you can save and read offline", self.html)
+
+
+class ReadingType(unittest.TestCase):
+    """A face a reader has not chosen is never fetched: Clear and Plain are named only under [data-type] (D36)."""
+
+    def test_clear_and_plain_are_used_only_when_chosen(self):
+        css = (ROOT / "assets/css/plate.css").read_text(encoding="utf-8")
+        for face in ("--clear", "--plain"):
+            uses = [ln for ln in css.splitlines() if f"var({face})" in ln]
+            self.assertTrue(uses)
+            for ln in uses:
+                self.assertIn("[data-type=", ln)
+
+    @unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+    def test_small_capitals_given_in_capitals_are_set_wholly_small(self):
+        chapter = next((PUBLIC / "books/palas-of-bengal/chapters").glob("03-*/index.html")).read_text(encoding="utf-8")
+        self.assertRegex(chapter, r'class="?sc sc-caps"?>A\. ?D\.')
