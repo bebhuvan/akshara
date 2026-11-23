@@ -1,5 +1,6 @@
 """Tests of the built site in public/ (./verify builds it before running the tests). Skipped if it is not built.
 Run: python3 -m unittest discover -s tests"""
+from collections import Counter
 from decimal import Decimal, ROUND_HALF_UP
 import html
 import re
@@ -144,3 +145,21 @@ class JournalEssay(unittest.TestCase):
 
     def test_a_pull_quote_never_sits_against_a_section_break(self):
         self.assertNotRegex(self.html, r"</figure>\s*<hr")
+
+
+
+class ReadingType(unittest.TestCase):
+    """A face a reader has not chosen is never fetched: Clear and Plain are named only under [data-type] (D36)."""
+
+    def test_clear_and_plain_are_used_only_when_chosen(self):
+        css = (ROOT / "assets/css/plate.css").read_text(encoding="utf-8")
+        for face in ("--clear", "--plain"):
+            uses = [ln for ln in css.splitlines() if f"var({face})" in ln]
+            self.assertTrue(uses)
+            for ln in uses:
+                self.assertIn("[data-type=", ln)
+
+    @unittest.skipUnless((PUBLIC / "index.html").exists(), "the site is not built")
+    def test_small_capitals_given_in_capitals_are_set_wholly_small(self):
+        chapter = next((PUBLIC / "books/palas-of-bengal/chapters").glob("03-*/index.html")).read_text(encoding="utf-8")
+        self.assertRegex(chapter, r'class="?sc sc-caps"?>A\. ?D\.')

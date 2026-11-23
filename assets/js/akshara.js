@@ -198,7 +198,8 @@
       read.style.setProperty("--rs", String(1 + (sz - 2) * 0.075));
       $$("[data-sz]", panel).forEach(function (b) { b.setAttribute("aria-pressed", String(+b.dataset.sz === sz)); });
       $$("[data-set]", panel).forEach(function (b) {
-        var now = b.dataset.set === "paper" ? document.documentElement.dataset.paper : read.dataset[b.dataset.set];
+        /* paper and type live on <html>, set by paper.js before the page is drawn */
+        var now = b.dataset.set === "paper" || b.dataset.set === "type" ? document.documentElement.dataset[b.dataset.set] : read.dataset[b.dataset.set];
         b.setAttribute("aria-pressed", String(now === b.dataset.val));
       });
     }

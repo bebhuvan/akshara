@@ -1,0 +1,81 @@
+{{- /* The reading room around a book's text: the bar (back to the book, Contents, Aa, Focus), the panel of reading
+settings and contents, and the scan leaf. Used by a chapter and by the whole book on one page.
+Takes a dict: b (the book record), book (its page), all (its chapters by weight), here (this chapter, or nothing),
+whole (true on the whole-book page, whose contents link to its own sections, #c1, #c2 … in reading order). */ -}}
+{{- $b := .b }}{{ $book := .book }}{{ $whole := .whole }}{{ $here := .here }}
+  <div class="rd-bar" id="rbar">
+    <div class="wrap">
+      <a class="back" href="{{ $book.RelPermalink }}" aria-label="{{ $b.cover_title }}: the book’s page"><span class="kn" lang="kn" aria-hidden="true">ಅ</span><span>{{ $b.cover.title }}{{ with $b.cover.line }}, {{ . }}{{ end }}</span></a>
+      <div class="tools">
+        <a href="{{ if $whole }}#contents{{ else }}{{ $book.RelPermalink }}#h-toc{{ end }}" data-open="rp-contents" aria-controls="rpanel" aria-expanded="false">Contents</a>
+        <button type="button" data-open="rp-settings" aria-controls="rpanel" aria-expanded="false" title="Type, size, paper, spacing, width and notes (M)" data-needs-js hidden><span aria-hidden="true">Aa</span><span class="vh">Reading settings</span></button>
+        <button type="button" class="focus-btn" id="rb-focus" aria-pressed="false" title="Hide everything but the text (F)" data-needs-js hidden>Focus</button>
+      </div>
+    </div>
+    <div class="progress" aria-hidden="true"><i id="rb-prog"></i></div>
+  </div>
+
+  <aside class="rpanel" id="rpanel" aria-label="Contents and reading settings" aria-hidden="true" tabindex="-1">
+    <header class="rp-head">
+      <p><i>{{ $b.cover_title }}</i><span>{{ $b.author }}, {{ $b.year }}</span></p>
+      <button type="button" class="rp-close" id="rp-close">Close</button>
+    </header>
+    <div class="rp-tabs" role="tablist" aria-label="Panel">
+      <button type="button" role="tab" id="tab-set" aria-controls="rp-settings" aria-selected="true" data-tab="rp-settings">Reading</button>
+      <button type="button" role="tab" id="tab-toc" aria-controls="rp-contents" aria-selected="false" data-tab="rp-contents">Contents</button>
+    </div>
+    <div class="rp-body">
+      <section class="rp-sec" id="rp-settings" role="tabpanel" aria-labelledby="tab-set">
+        {{- /* the faces are named in words, never shown in their own type, so the panel downloads none of them */}}
+        <div class="rs-row rs-type" role="group" aria-labelledby="lb-type" aria-describedby="type-what"><span class="rs-k" id="lb-type">Type</span>
+          <div class="rs-opts"><button type="button" data-set="type" data-val="book">Book</button><button type="button" data-set="type" data-val="clear">Clear</button><button type="button" data-set="type" data-val="plain">Plain</button></div>
+          <p class="rs-what" id="type-what">Book is EB Garamond, a face cut for printed books. Clear is Noto Serif, sturdier on a small screen. Plain is Source Sans 3, without serifs.</p>
+        </div>
+        <div class="rs-row rs-size" role="group" aria-labelledby="lb-size"><span class="rs-k" id="lb-size">Size</span>
+          <div class="rs-opts"><button type="button" data-sz="0" aria-label="Smallest">A</button><button type="button" data-sz="1" aria-label="Small">A</button><button type="button" data-sz="2" aria-label="Medium">A</button><button type="button" data-sz="3" aria-label="Large">A</button><button type="button" data-sz="4" aria-label="Larger">A</button><button type="button" data-sz="5" aria-label="Largest">A</button></div>
+        </div>
+        <div class="rs-row rs-paper" role="group" aria-labelledby="lb-paper"><span class="rs-k" id="lb-paper">Paper</span>
+          <div class="rs-sheets">
+            <button type="button" data-set="paper" data-val="day" class="pp-day"><span class="pp-sheet" aria-hidden="true">Aa</span>Day</button>
+            <button type="button" data-set="paper" data-val="cotton" class="pp-cotton"><span class="pp-sheet" aria-hidden="true">Aa</span>Cotton</button>
+            <button type="button" data-set="paper" data-val="night" class="pp-night"><span class="pp-sheet" aria-hidden="true">Aa</span>Night</button>
+            <button type="button" data-set="paper" data-val="auto" class="pp-auto"><span class="pp-sheet" aria-hidden="true">Aa</span>Auto</button>
+          </div>
+        </div>
+        <div class="rs-row" role="group" aria-labelledby="lb-lh"><span class="rs-k" id="lb-lh">Spacing</span>
+          <div class="rs-opts"><button type="button" data-set="lh" data-val="close">Close</button><button type="button" data-set="lh" data-val="normal">Easy</button><button type="button" data-set="lh" data-val="open">Open</button></div></div>
+        <div class="rs-row" role="group" aria-labelledby="lb-w"><span class="rs-k" id="lb-w">Width</span>
+          <div class="rs-opts"><button type="button" data-set="width" data-val="narrow">Narrow</button><button type="button" data-set="width" data-val="medium">Book</button><button type="button" data-set="width" data-val="wide">Wide</button></div></div>
+        <details class="rs-more">
+          <summary>More about the page</summary>
+          <div class="rs-row" role="group" aria-labelledby="lb-p"><span class="rs-k" id="lb-p">Paragraphs</span>
+            <div class="rs-opts"><button type="button" data-set="para" data-val="indented">Indented</button><button type="button" data-set="para" data-val="spaced">Spaced</button></div></div>
+          <div class="rs-row" role="group" aria-labelledby="lb-a"><span class="rs-k" id="lb-a">Edges</span>
+            <div class="rs-opts"><button type="button" data-set="align" data-val="ragged">Ragged</button><button type="button" data-set="align" data-val="justified">Justified</button></div></div>
+          <div class="rs-row" role="group" aria-labelledby="lb-n"><span class="rs-k" id="lb-n">Marginal notes</span>
+            <div class="rs-opts"><button type="button" data-set="notes" data-val="margin">Shown</button><button type="button" data-set="notes" data-val="off">Hidden</button></div></div>
+          <div class="rs-row" role="group" aria-labelledby="lb-f"><span class="rs-k" id="lb-f">Page numbers</span>
+            <div class="rs-opts"><button type="button" data-set="folios" data-val="shown">Shown</button><button type="button" data-set="folios" data-val="hidden">Hidden</button></div></div>
+        </details>
+        <p class="rp-note">Kept on this device, for every book. Auto follows the device’s light and dark.<span class="rp-keys"> Keys: <b>M</b> this panel, <b>/</b> find in this book, <b>F</b> focus, <b>+</b> and <b>−</b> size.</span></p>
+      </section>
+      <section class="rp-sec" id="rp-contents" role="tabpanel" aria-labelledby="tab-toc" hidden>
+        <div class="rp-find" role="search" data-needs-js hidden>
+          <label for="rfind" class="vh">Find in this book</label>
+          <input id="rfind" type="search" autocomplete="off" spellcheck="false" placeholder="Find in this book" aria-describedby="rfind-key">
+          <span class="rp-find-key" id="rfind-key" aria-hidden="true">/</span>
+        </div>
+        <p class="rp-find-tally" id="rfind-tally" aria-live="polite"></p>
+        <ol class="rp-find-out" id="rfind-out" hidden></ol>
+        <nav id="rtoc" aria-label="Contents of the book"><ol>
+          {{- range $i, $c := .all }}{{ $cn := partial "chapter/name.html" . }}
+          <li><a href="{{ if $whole }}#c{{ add $i 1 }}{{ else }}{{ .RelPermalink }}{{ end }}"{{ if and $here (eq .RelPermalink $here.RelPermalink) }} aria-current="page"{{ end }}><span class="rn">{{ $cn.num | lower }}</span><span>{{ $cn.title }}</span><span class="pg">{{ .Params.printed_start_folio }}</span></a></li>
+          {{- end }}
+        </ol></nav>
+        {{- if not $whole }}{{ with site.GetPage (printf "%swhole" $book.RelPermalink) }}
+        <p class="rp-whole"><a href="{{ .RelPermalink }}">Read it whole: every chapter on one page</a></p>
+        {{- end }}{{ end }}
+      </section>
+    </div>
+  </aside>
+  <div class="rp-scrim" id="rp-scrim" hidden></div>
