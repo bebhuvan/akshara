@@ -17,18 +17,18 @@
     1862
   </text>
 
-  <text x="112" y="355" fill="#FAF6EE" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="80" font-weight="600" letter-spacing="-1">
-    <tspan x="112" dy="0">A Comprehensive</tspan><tspan x="112" dy="92">History of India</tspan>
+  <text x="112" y="355" fill="#FAF6EE" font-family="Noto Serif Display, Noto Serif, Georgia, serif" font-size="66" font-weight="600" letter-spacing="-1">
+    <tspan x="112" dy="0">A Comprehensive History</tspan><tspan x="112" dy="76">of India, Vol. I</tspan>
   </text>
 
-  <text x="112" y="509" fill="#E5C7BF" font-family="Noto Serif, Georgia, serif" font-style="italic" font-size="30"><tspan x="112" dy="0">Civil, Military and Social, from the First</tspan><tspan x="112" dy="40">Landing of the English to the Suppression o…</tspan></text>
+  <text x="112" y="493" fill="#E5C7BF" font-family="Noto Serif, Georgia, serif" font-style="italic" font-size="30"><tspan x="112" dy="0">Civil, Military, and Social, from the First</tspan><tspan x="112" dy="40">Landing of the English, to the Suppression…</tspan></text>
 
-  <line x1="112" y1="633" x2="290" y2="633" stroke="#E3AD5A" stroke-width="4"/>
+  <line x1="112" y1="617" x2="290" y2="617" stroke="#E3AD5A" stroke-width="4"/>
 
-  <text x="112" y="697" fill="#FAF6EE" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
+  <text x="112" y="681" fill="#FAF6EE" font-family="Noto Serif, Georgia, serif" font-size="38" font-weight="400">
     <tspan x="112" dy="0">Henry Beveridge</tspan>
   </text>
-  <text x="112" y="751" fill="#E5C7BF" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
+  <text x="112" y="735" fill="#E5C7BF" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="3">
     FIRST PUBLISHED 1862
   </text>
 
@@ -36,7 +36,7 @@
     AKSHARA
   </text>
   <text x="112" y="1652" fill="#E5C7BF" font-family="JetBrainsMono Nerd Font, Liberation Mono, monospace" font-size="18" letter-spacing="2.5">
-    ARCHIVAL EDITION  ·  AKSHARA.INK
+    MACHINE-CHECKED EDITION  ·  AKSHARA.INK
   </text>
   <text x="1088" y="1628" text-anchor="end" fill="#E3AD5A" font-family="Noto Serif, Georgia, serif" font-size="28" fill-opacity="0.72">
     ಅಕ್ಷರ

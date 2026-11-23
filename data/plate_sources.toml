@@ -233,6 +233,24 @@ crop = [0.16, 0.08, 0.84, 0.68]
 mode = "halftone"
 what = "Frontispiece portrait of Toru Dutt (Oxford University Press, 1921)"
 
+[[plate]]
+key = "x-beveridge-v1"
+book = "comprehensive-history-india-v1"
+source = "static/figures/comprehensive-history-india-v1/fig-003_p0009.webp"
+crop = [0.015, 0.005, 0.985, 0.985]
+mode = "line"
+levels = [32, 198]
+what = "Engraved title-page vignette: The Rock-Cut Temple of Kylas, at Ellora (Blackie and Son, 1862, scan p. 9)"
+
+[[plate]]
+key = "x-beveridge-v2"
+book = "comprehensive-history-india-v2"
+source = "static/figures/comprehensive-history-india-v2/fig-003_p0009.webp"
+crop = [0.015, 0.005, 0.985, 0.985]
+mode = "line"
+levels = [28, 215]
+what = "Engraved title-page vignette: The Last of the Kings of Delhi surrounded by his Court (Blackie and Son, 1862, scan p. 9)"
+
 # Made by hand in the 2026-11 design mock (recipe not recorded). Each was matched back to its
 # source by comparing the plate with the book's figures or scan; the script leaves these files alone.
 

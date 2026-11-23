@@ -19,12 +19,12 @@ kind = "map"
 plate = "x-hunter-map"
 
 ["comprehensive-history-india-v1"]
-kind = "type"
-why = "the scan is of a modern reprint"
+kind = "plate"
+plate = "x-beveridge-v1"
 
 ["comprehensive-history-india-v2"]
-kind = "type"
-why = "an engraved title page exists, but this scan is too dark"
+kind = "plate"
+plate = "x-beveridge-v2"
 
 ["early-history-of-india-1924"]
 kind = "photo"

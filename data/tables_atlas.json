@@ -1,7 +1,67 @@
 {
   "version": "tables-atlas-site-v1",
-  "total_tables": 1320,
+  "total_tables": 1322,
   "tables": [
+    {
+      "book_id": "comprehensive-history-india-v1",
+      "book_title": "A Comprehensive History of India, Vol. I",
+      "authors": [
+        "Henry Beveridge"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-001",
+      "caption": "ACCOUNT-GENERAL OF THE UNITED JOINT STOCK, ON THE 1st September, 1655.",
+      "section_title": "Book II, Chapter III \u2014 Rival Companies and Settlement under Cromwell",
+      "start_page": 313,
+      "end_page": 313,
+      "printed_folio": "279",
+      "column_count": 4,
+      "row_count": 24,
+      "tidy_observation_count": 72,
+      "arithmetic_verified": false,
+      "units": [
+        "GBP"
+      ],
+      "column_headers_preview": [
+        "Debit.",
+        "Column 3",
+        "Column 4"
+      ],
+      "reader_url": "/books/comprehensive-history-india-v1/chapters/18-book-ii-chapter-iii-rival-companies-and-settlement-under-crom/#page-313",
+      "diplomatic_csv_url": "/downloads/comprehensive-history-india-v1/datasets/tables/tbl-001_p0313.csv",
+      "tidy_csv_url": "/downloads/comprehensive-history-india-v1/datasets/tidy/tbl-001_p0313.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/comprehensivehis01beve/page/n312/mode/1up"
+    },
+    {
+      "book_id": "comprehensive-history-india-v1",
+      "book_title": "A Comprehensive History of India, Vol. I",
+      "authors": [
+        "Henry Beveridge"
+      ],
+      "publication_year": 1862,
+      "edition_tier": "machine_checked",
+      "table_id": "tbl-002",
+      "caption": "Table 2",
+      "section_title": "Book II, Chapter VIII \u2014 New Charters, Bribery Disclosures, and Rival Company",
+      "start_page": 412,
+      "end_page": 412,
+      "printed_folio": "378",
+      "column_count": 2,
+      "row_count": 4,
+      "tidy_observation_count": 4,
+      "arithmetic_verified": true,
+      "units": [
+        "GBP"
+      ],
+      "column_headers_preview": [
+        "Column 2"
+      ],
+      "reader_url": "/books/comprehensive-history-india-v1/chapters/23-book-ii-chapter-viii-new-charters-bribery-disclosures-and-riv/#page-412",
+      "diplomatic_csv_url": "/downloads/comprehensive-history-india-v1/datasets/tables/tbl-002_p0412.csv",
+      "tidy_csv_url": "/downloads/comprehensive-history-india-v1/datasets/tidy/tbl-002_p0412.tidy.csv",
+      "ia_scan_url": "https://archive.org/details/comprehensivehis01beve/page/n411/mode/1up"
+    },
     {
       "book_id": "letters-from-malabar",
       "book_title": "Letters from Malabar",
