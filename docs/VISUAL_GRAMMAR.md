@@ -113,10 +113,15 @@ light on dark becomes a negative. Cotton (`html[data-paper="cotton"]`) is a warm
 ## 3. Type
 
 ### Faces
-- **Newsreader** for every word (D12), self-hosted, variable weight 200–800 and optical size 6–72.
-  `font-optical-sizing: auto` lets one family serve 84px headlines and 19px reading text.
+- **Newsreader** for the site's own voice (D12), self-hosted, variable weight 200–800 and optical size 6–72:
+  every word that is not a book's text. `font-optical-sizing: auto` lets one family serve 84px headlines and small labels.
+- **A book's text** (the reading column, a chapter's title, its marginal notes and footnotes, on a chapter page and
+  the whole-book page) is set in the face the reader chose in the panel (D35, D36), through `--face`: **Book**, EB
+  Garamond 400 (`--book`, the default), **Clear**, Noto Serif (`--clear`), or **Plain**, Source Sans 3 (`--plain`).
+  `--fsz` sizes each to read alike. Name `--clear` and `--plain` only under `html[data-type=…]`, so no reader
+  downloads a face they did not choose.
 - **Noto Serif Kannada**, weight 500, only for the mark ಅಕ್ಷರ (`--kn`, class `.kn`).
-- No sans-serif anywhere. No third-party font hosts.
+- No sans-serif anywhere except Plain, which only a reader can choose. No third-party font hosts.
 
 ### The scale
 Use the role tokens; do not invent sizes.
@@ -131,7 +136,7 @@ Use the role tokens; do not invent sizes.
 | `--fs-h2` | Section headings (`.sec-h`). Weight 400. |
 | `--fs-h3` | Shelf names, sub-headings. |
 | `--fs-h4` | Small headings: steps, the way on at a chapter's end. |
-| `--fs-read`, `--fs-read-wide` | Reading text: phone, then wider screens. |
+| `--fs-read`, `--fs-read-wide` | Reading text: phone, then wider screens, times the face's `--fsz` and the reader's size. |
 | `--fs-body` | The site's body text. |
 | `--fs-lede` | The sentence under a page or section title, in `--ink-2`. |
 | `--fs-ui` | Navigation, captions under covers. |
@@ -150,14 +155,15 @@ any size.
   a book's opening sentence, the second line of a title, a title in running text, a scientific name as
   printed, and a word cited as a word (the footer's *akṣara*). Labels, captions, dates, counts, section asides, headings, buttons and the editor's own words are
   upright, made quiet by size and `--ink-2`/`--ink-3`. Inside a chapter the book's own italics stay as printed.
-- **Small capitals** only at a chapter's opening line, and for the book's own headings that it printed in
-  capitals (set in small capitals so they do not shout). Newsreader has none, so the browser draws them from
-  capitals (D12). Never small or spaced capitals as labels or eyebrows.
+- **Small capitals** only at a chapter's opening line, the book's own small capitals (`.sc`; a run given in capitals,
+  `.sc-caps`, in `all-small-caps`), and the book's own headings that it printed in capitals (`all-small-caps`, so
+  they do not shout). EB Garamond has real ones; for the other faces the browser draws them. Never small or spaced
+  capitals as labels or eyebrows.
 - **Capitals in titles.** A chapter or book title printed in capitals is set in title case; so is a run of
   capitalised words inside a mixed title. The printer's capitals on a chapter's first words are set in lower
   case where they are quoted.
-- **Figures:** the reading text asks for old-style figures (`oldstyle-nums`); Newsreader draws lining ones,
-  and that is accepted (D12). Tables and page numbers use tabular figures.
+- **Figures:** the reading text uses old-style figures (`oldstyle-nums`; EB Garamond has them, D35); the site's
+  Newsreader draws lining ones (D12). Tables and page numbers use tabular figures.
 - **Punctuation:** real quotation marks and apostrophes (’ “ ”), en dashes for ranges (1642–1645), a
   middle dot with spaces to join facts (Francis Buchanan · London, 1807).
 - **Headlines** use `text-wrap: balance`; paragraphs `text-wrap: pretty`.
@@ -366,6 +372,12 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   a 2px bar with what it found in plain words, and the caveat that a score of 100 is not a proofread text. Then
   the invitation to proofread. The score also stands among the book's facts (linking here), with a one-line
   quiet note under them; each chapter's opener carries the same note in `--ink-3`.
+- **The original (`.orig`, D38).** Before This edition, when the record has an Internet Archive identifier: a block on
+  the shelf's paper, "Turn the pages of the {year} copy" in light display type with an arrow, which becomes the
+  Internet Archive's reader only when clicked (3:4 on a phone, 16:10 wide); beside it the copy's identifiers as a quiet
+  list, label in `--ink-2` above each value; one line of thanks beneath.
+- **Read it whole (`.whole-in`).** Under Begin reading on a book's page: the same width, drawn as a 1px rule of the
+  shelf's ink around its words rather than a block of it, so Begin reading stays the first way in.
 - **This edition (`.edition`).** Two columns with
   no boxes or rules: plain typeset lists, "To read elsewhere" and "For study", each line the form's name (a
   link) led by dots to what it is for in `--ink-2`, as in the contents; and a colophon centred under the ಅಕ್ಷರ
@@ -393,7 +405,13 @@ Each is a class in `plate.css`; the comment above it says what it is for.
   on the shelf's paper ("Turn to chapter II", its name large, an arrow that moves), then the other ways out on
   one quiet centred line: the previous chapter, the book's contents, correcting a misreading.
 - **The panel (`.rpanel`) and the scan leaf (`.leaf`).** Slide in from the right. Settings are words, A's
-  and small sheets of paper, never boxes; the chosen one is in full ink with a 2px rule in the shelf's ink.
+  and small sheets of paper, never boxes; the chosen one is in full ink with a 2px rule in the shelf's ink. Type comes
+  first (Book, Clear, Plain, named in words with one quiet line on what each is; never shown in its own face).
+- **The whole book (`.whole`, D37).** A chapter page's reading room around the whole book: the opener names the book
+  ("The whole book" in the shelf's ink, its title, its measure), then its contents as on a book's page (`.wh-toc`),
+  then each chapter as a section (`.wh-ch`) under a small centred opener (`.wh-op`: a 40px rule, the number in the
+  shelf's ink, the title, where it begins and a link to its own page). At the end, "The end of the book" and the way
+  back.
 
 - **No page here (`.lost`).** The Periplus ship on its shelf's paper, the title, a line to search on, two
   ways back. On a phone the words come first.
@@ -464,7 +482,7 @@ Approved by the owner on 21 November 2026, from the living-book mock (design_moc
 A sister imprint is a publication of the house that is not a library book: the living books now, a review later. It belongs to the house by everything below the ink, is recognised as a living book by its shape, and each book is told from the others by its own ink.
 
 **Shared with the library, without change**
-- White paper; the three text inks and the hairline; Newsreader for every word, Noto Serif Kannada for the mark.
+- White paper; the three text inks and the hairline; Newsreader for every word, Noto Serif Kannada for the mark. (Since D35 the library sets a book's own text in EB Garamond; the imprint has not yet been asked to follow.)
 - The house masthead (mark centred, the library's ways in either side, one hairline) and the colophon (device, name, gloss, the one sentence, the ways back in, the last line).
 - One heading for every section: the name, a quiet aside, one hairline. (The aside is upright, as in the library; see italic, below.)
 - Engravings and devices printed through a mask in one ink on one pale paper.

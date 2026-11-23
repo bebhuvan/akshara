@@ -24,6 +24,7 @@ everything looks, and for extending it, are in `docs/VISUAL_GRAMMAR.md`: read it
 | Path | What it holds |
 |---|---|
 | `content/books/<id>/` | One folder per book: `_index.md` (its record) and its chapters, from the pipeline |
+| `content/books/_content.gotmpl` | Adds each book's whole-book page, `/books/<id>/whole/` (drawn by `layouts/whole/page.html`) |
 | `content/shelves/_content.gotmpl` | Makes the eight shelf pages from `data/shelves.toml` |
 | `data/shelves.toml` | The eight shelves, their colours and epigraphs |
 | `data/series.toml` | Each book's permanent series number (Akshara No.). Never renumber |
@@ -32,11 +33,12 @@ everything looks, and for extending it, are in `docs/VISUAL_GRAMMAR.md`: read it
 | `data/plates.toml` | The cleaned engravings in `static/plates/`, each tied to its book and page |
 | `data/plate_sources.toml` | Where each newer plate came from (its book, page and crop), for `scripts/make_plates.py` |
 | `data/home.toml` | What is hand-chosen on the opening page: the turning plates, the featured edition, the small things |
-| `layouts/` | The templates. `_partials/book/record.html` is the one place a book's details are worked out |
+| `layouts/` | The templates. `_partials/book/record.html` is the one place a book's details are worked out; `_partials/reading/` sets a book's text and the reading room for a chapter and for the whole book |
 | `assets/css/plate.css` | All the styles; every colour and size is a custom property named in `docs/VISUAL_GRAMMAR.md` |
 | `assets/js/akshara.js`, `assets/js/paper.js` | The one small script, and the few lines that choose light or dark paper before a page is drawn |
 | `layouts/_partials/book/social.html` | Each book's 1200×630 social preview, drawn by Hugo at build time |
 | `assets/fonts/og-*.ttf` | Newsreader cut for drawing those previews; never sent to readers |
+| `static/fonts/` | The faces sent to readers, cut small, with their licences. The three reading faces are cut by `scripts/cut_reading_fonts.py` (DECISIONS.md, D35, D36) |
 | `tests/known-urls.txt` | Every address the site has ever served. Never delete a line |
 
 ## Run it
